@@ -1,0 +1,451 @@
+{
+  "id": "no-arrangementslokaler",
+  "name": "Events venues in Norway",
+  "title": "Events venues in Norway",
+  "description": "Events venues in Norway (Arrangementslokaler i Norge), derived from OpenStreetMap POIs tagged amenity=events_venue. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1847 Brenneriet",
+      "latitude": 61.116911,
+      "longitude": 10.466608
+    },
+    {
+      "name": "1880 Ungdomshuset",
+      "latitude": 60.393298,
+      "longitude": 5.328959
+    },
+    {
+      "name": "Arena Knapstad",
+      "latitude": 59.620575,
+      "longitude": 11.02318
+    },
+    {
+      "name": "Augustas",
+      "latitude": 59.925436,
+      "longitude": 10.758386
+    },
+    {
+      "name": "Bergen Skipperforenings selskapslokale",
+      "latitude": 60.393435,
+      "longitude": 5.326759
+    },
+    {
+      "name": "Byparken",
+      "latitude": 59.119884,
+      "longitude": 11.384685
+    },
+    {
+      "name": "Christinegaard hovedgaard",
+      "latitude": 60.406716,
+      "longitude": 5.328563
+    },
+    {
+      "name": "Chrystiegaarden",
+      "latitude": 59.435544,
+      "longitude": 10.658516
+    },
+    {
+      "name": "Dalen hotel",
+      "latitude": 59.444033,
+      "longitude": 8.011204
+    },
+    {
+      "name": "Det Gamle Biblioteket",
+      "latitude": 59.91668,
+      "longitude": 10.746337
+    },
+    {
+      "name": "Det Glade Bergen",
+      "latitude": 60.395193,
+      "longitude": 5.318179
+    },
+    {
+      "name": "Disen gård",
+      "latitude": 59.942659,
+      "longitude": 10.794164
+    },
+    {
+      "name": "Eiksund Grendahus",
+      "latitude": 62.252416,
+      "longitude": 5.889037
+    },
+    {
+      "name": "Fanehallen",
+      "latitude": 59.905388,
+      "longitude": 10.741421
+    },
+    {
+      "name": "Festsalen i Tårnplass 3",
+      "latitude": 60.393814,
+      "longitude": 5.3221
+    },
+    {
+      "name": "Fjøset",
+      "latitude": 59.94635,
+      "longitude": 10.81564
+    },
+    {
+      "name": "Friland",
+      "latitude": 60.217938,
+      "longitude": 10.674007
+    },
+    {
+      "name": "Galleri Nygaten",
+      "latitude": 60.392649,
+      "longitude": 5.330808
+    },
+    {
+      "name": "Galtebo",
+      "latitude": 59.644762,
+      "longitude": 11.101368
+    },
+    {
+      "name": "Gamle Logen",
+      "latitude": 59.906989,
+      "longitude": 10.741721
+    },
+    {
+      "name": "Gamlebyen Mat og Drikke",
+      "latitude": 59.906018,
+      "longitude": 10.774771
+    },
+    {
+      "name": "Gaustad Gjerdet Gård Gildehallen",
+      "latitude": 63.364845,
+      "longitude": 10.18572
+    },
+    {
+      "name": "Gimle",
+      "latitude": 60.395155,
+      "longitude": 5.328425
+    },
+    {
+      "name": "Grendehuset",
+      "latitude": 59.920217,
+      "longitude": 10.756455
+    },
+    {
+      "name": "Hell Amfi",
+      "latitude": 63.449029,
+      "longitude": 10.913695
+    },
+    {
+      "name": "Indigo",
+      "latitude": 70.073663,
+      "longitude": 29.748615
+    },
+    {
+      "name": "Ivan Lorentzen Fiskeforretning",
+      "latitude": 69.606317,
+      "longitude": 18.040948
+    },
+    {
+      "name": "Josefine Vertshus",
+      "latitude": 59.923518,
+      "longitude": 10.727609
+    },
+    {
+      "name": "Kafé Bodega (2.171)",
+      "latitude": 69.681067,
+      "longitude": 18.971202
+    },
+    {
+      "name": "Kampen bydelshus",
+      "latitude": 59.913764,
+      "longitude": 10.781057
+    },
+    {
+      "name": "Kilde Gjestgiveri",
+      "latitude": 60.818957,
+      "longitude": 11.344826
+    },
+    {
+      "name": "Kjærnsmo Gaard",
+      "latitude": 60.021106,
+      "longitude": 11.415253
+    },
+    {
+      "name": "Klostergrotten",
+      "latitude": 59.428775,
+      "longitude": 10.671168
+    },
+    {
+      "name": "Klubben Selskapslokaler",
+      "latitude": 60.391948,
+      "longitude": 5.324356
+    },
+    {
+      "name": "Koengen",
+      "latitude": 60.400376,
+      "longitude": 5.319623
+    },
+    {
+      "name": "Komandantboligen",
+      "latitude": 60.387948,
+      "longitude": 5.261271
+    },
+    {
+      "name": "Kronstad Hovedgård",
+      "latitude": 60.376966,
+      "longitude": 5.346262
+    },
+    {
+      "name": "Kulturhuset",
+      "latitude": 59.743546,
+      "longitude": 10.191861
+    },
+    {
+      "name": "Kulturloftet",
+      "latitude": 59.946593,
+      "longitude": 10.815614
+    },
+    {
+      "name": "Legenes Hus",
+      "latitude": 59.910527,
+      "longitude": 10.739189
+    },
+    {
+      "name": "Livland Gård",
+      "latitude": 68.331204,
+      "longitude": 14.511899
+    },
+    {
+      "name": "Louiselyst Gård",
+      "latitude": 63.435434,
+      "longitude": 10.463351
+    },
+    {
+      "name": "Lyststedet Bellevue",
+      "latitude": 60.384783,
+      "longitude": 5.35543
+    },
+    {
+      "name": "NordEvent",
+      "latitude": 67.283934,
+      "longitude": 14.380826
+    },
+    {
+      "name": "Nøsteboden",
+      "latitude": 60.391903,
+      "longitude": 5.314353
+    },
+    {
+      "name": "Ole Bull Scene",
+      "latitude": 60.392339,
+      "longitude": 5.322072
+    },
+    {
+      "name": "Oslo Event Hub",
+      "latitude": 59.90803,
+      "longitude": 10.744209
+    },
+    {
+      "name": "Parklokalet",
+      "latitude": 59.585658,
+      "longitude": 11.158994
+    },
+    {
+      "name": "Rajehytta",
+      "latitude": 59.536886,
+      "longitude": 9.567968
+    },
+    {
+      "name": "Reknes Ungdomshus",
+      "latitude": 62.734969,
+      "longitude": 7.14817
+    },
+    {
+      "name": "Ricks Selskapslokaler",
+      "latitude": 60.392711,
+      "longitude": 5.321351
+    },
+    {
+      "name": "Ridehuset Scene",
+      "latitude": 59.907191,
+      "longitude": 10.740539
+    },
+    {
+      "name": "Rudi gård",
+      "latitude": 61.57519,
+      "longitude": 9.908271
+    },
+    {
+      "name": "Rykkinn grendehus",
+      "latitude": 59.923811,
+      "longitude": 10.484326
+    },
+    {
+      "name": "Røkenes gård",
+      "latitude": 68.833693,
+      "longitude": 16.485526
+    },
+    {
+      "name": "Selskapet \"Den Gode Hensikt\"",
+      "latitude": 60.3921,
+      "longitude": 5.321357
+    },
+    {
+      "name": "Seremonirom i Arktisk kultursenter",
+      "latitude": 70.663878,
+      "longitude": 23.689143
+    },
+    {
+      "name": "Seremonirommet i Sola kulturhus",
+      "latitude": 58.889014,
+      "longitude": 5.649941
+    },
+    {
+      "name": "Skur 1",
+      "latitude": 59.732617,
+      "longitude": 10.222429
+    },
+    {
+      "name": "Slåttnes grendelag",
+      "latitude": 69.604695,
+      "longitude": 18.809889
+    },
+    {
+      "name": "Smien",
+      "latitude": 60.387854,
+      "longitude": 5.297607
+    },
+    {
+      "name": "Snåsa kulturscene",
+      "latitude": 64.247249,
+      "longitude": 12.363898
+    },
+    {
+      "name": "Stadsmegler Proms hus",
+      "latitude": 60.395068,
+      "longitude": 5.326838
+    },
+    {
+      "name": "Stangneshallen",
+      "latitude": 68.781674,
+      "longitude": 16.578198
+    },
+    {
+      "name": "Straume Forum",
+      "latitude": 60.354585,
+      "longitude": 5.135865
+    },
+    {
+      "name": "Svensefjøset",
+      "latitude": 59.783142,
+      "longitude": 10.250477
+    },
+    {
+      "name": "Sállir seremonihus",
+      "latitude": 69.71025,
+      "longitude": 18.925062
+    },
+    {
+      "name": "Sølvane Gard",
+      "latitude": 61.672326,
+      "longitude": 6.378972
+    },
+    {
+      "name": "Teamkraft Sør Slettevoll Gård",
+      "latitude": 59.553715,
+      "longitude": 11.341571
+    },
+    {
+      "name": "Telegrafen",
+      "latitude": 59.911488,
+      "longitude": 10.742571
+    },
+    {
+      "name": "Trønderkjelleren",
+      "latitude": 63.434432,
+      "longitude": 10.401956
+    },
+    {
+      "name": "Tvibit",
+      "latitude": 69.651403,
+      "longitude": 18.953194
+    },
+    {
+      "name": "Tårnsalen",
+      "latitude": 60.389348,
+      "longitude": 5.329216
+    },
+    {
+      "name": "Uranienborg krypt",
+      "latitude": 59.920978,
+      "longitude": 10.720279
+    },
+    {
+      "name": "Ut i solen-stua",
+      "latitude": 59.852169,
+      "longitude": 10.45245
+    },
+    {
+      "name": "Vigeland Hovedgård",
+      "latitude": 58.249515,
+      "longitude": 7.954607
+    },
+    {
+      "name": "Villmarka",
+      "latitude": 61.18659,
+      "longitude": 6.864202
+    },
+    {
+      "name": "Værste Hangarn",
+      "latitude": 59.212751,
+      "longitude": 10.919423
+    },
+    {
+      "name": "X Meeting Point",
+      "latitude": 59.984038,
+      "longitude": 10.973849
+    },
+    {
+      "name": "Øksneshallen",
+      "latitude": 68.918239,
+      "longitude": 15.085614
+    },
+    {
+      "name": "Øl",
+      "latitude": 59.916772,
+      "longitude": 10.756258
+    },
+    {
+      "name": "Østmarksetra",
+      "latitude": 59.890038,
+      "longitude": 10.864801
+    }
+  ],
+  "meta": {
+    "title": "Events venues in Norway - Gratis nedlasting",
+    "description": "Events venues in Norway (Arrangementslokaler i Norge), derived from OpenStreetMap POIs tagged amenity=events_venue. Named features only, clipped to mainland Norway. Inneholder 82 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Events venues in Norway | ListBase",
+    "seo_description": "Last ned Events venues in Norway — 82 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 82 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

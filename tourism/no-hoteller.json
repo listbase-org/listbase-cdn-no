@@ -1,0 +1,5336 @@
+{
+  "id": "no-hoteller",
+  "name": "Hoteller i Norge",
+  "title": "Hoteller i Norge",
+  "description": "Named hotels in Norway from OpenStreetMap (tourism=hotel), bbox-filtered to Norwegian territory.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1059,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abra Havn",
+      "latitude": 58.188349,
+      "longitude": 8.151302
+    },
+    {
+      "name": "Active Hotel",
+      "latitude": 59.265008,
+      "longitude": 10.39102
+    },
+    {
+      "name": "Aiden by Best Western Harstad Narvik Airport",
+      "latitude": 68.497764,
+      "longitude": 16.70328
+    },
+    {
+      "name": "Aksjemøllen - by Classic Norway Hotels",
+      "latitude": 61.117144,
+      "longitude": 10.462278
+    },
+    {
+      "name": "Akura Hotel",
+      "latitude": 62.804656,
+      "longitude": 6.886558
+    },
+    {
+      "name": "Alfarheim",
+      "latitude": 58.506632,
+      "longitude": 6.862908
+    },
+    {
+      "name": "Almaas Hotell Stord",
+      "latitude": 59.774579,
+      "longitude": 5.496626
+    },
+    {
+      "name": "Alver Hotel",
+      "latitude": 60.568736,
+      "longitude": 5.240841
+    },
+    {
+      "name": "Amalie hotel",
+      "latitude": 69.648628,
+      "longitude": 18.959766
+    },
+    {
+      "name": "Amerikalinjen",
+      "latitude": 59.910733,
+      "longitude": 10.749602
+    },
+    {
+      "name": "AMI Bed & Breakfast",
+      "latitude": 69.650618,
+      "longitude": 18.950045
+    },
+    {
+      "name": "AMI hotel",
+      "latitude": 69.65061,
+      "longitude": 18.950152
+    },
+    {
+      "name": "Andrikken hotell",
+      "latitude": 69.316348,
+      "longitude": 16.120599
+    },
+    {
+      "name": "Andvord Gard",
+      "latitude": 61.835171,
+      "longitude": 8.551908
+    },
+    {
+      "name": "Angvik Gamle Handelssted",
+      "latitude": 62.8931,
+      "longitude": 8.091447
+    },
+    {
+      "name": "Anker Brygge",
+      "latitude": 68.233823,
+      "longitude": 14.572229
+    },
+    {
+      "name": "Anker Hotel",
+      "latitude": 59.917593,
+      "longitude": 10.758035
+    },
+    {
+      "name": "Arctic Hotel Nordkapp",
+      "latitude": 70.981349,
+      "longitude": 25.975845
+    },
+    {
+      "name": "Arctic Panorama Lodge",
+      "latitude": 69.881604,
+      "longitude": 20.694924
+    },
+    {
+      "name": "Arctic Sea Hotel",
+      "latitude": 70.672687,
+      "longitude": 23.656987
+    },
+    {
+      "name": "Arendal Herregaard Spa & Resort",
+      "latitude": 58.446271,
+      "longitude": 8.8495
+    },
+    {
+      "name": "Askeladdens Hus",
+      "latitude": 59.976473,
+      "longitude": 10.656013
+    },
+    {
+      "name": "Askvoll Fjordhotell",
+      "latitude": 61.346473,
+      "longitude": 5.061861
+    },
+    {
+      "name": "Astoria",
+      "latitude": 63.434199,
+      "longitude": 10.396904
+    },
+    {
+      "name": "Att Kvadraturen",
+      "latitude": 59.909467,
+      "longitude": 10.740858
+    },
+    {
+      "name": "Augustin Hotel",
+      "latitude": 60.395989,
+      "longitude": 5.31781
+    },
+    {
+      "name": "Aunemo Gård Overnatting",
+      "latitude": 63.271934,
+      "longitude": 9.826585
+    },
+    {
+      "name": "Aure Gjestegård",
+      "latitude": 63.264265,
+      "longitude": 8.530026
+    },
+    {
+      "name": "Aurora Holidays",
+      "latitude": 69.941759,
+      "longitude": 27.209436
+    },
+    {
+      "name": "Aursnes hotell AS",
+      "latitude": 62.409191,
+      "longitude": 6.553126
+    },
+    {
+      "name": "Austbø hotell",
+      "latitude": 59.690224,
+      "longitude": 8.094831
+    },
+    {
+      "name": "Badehotellet",
+      "latitude": 59.559396,
+      "longitude": 10.424766
+    },
+    {
+      "name": "Badeland gjestegård",
+      "latitude": 60.721797,
+      "longitude": 10.591699
+    },
+    {
+      "name": "Bakeriet",
+      "latitude": 63.434062,
+      "longitude": 10.402732
+    },
+    {
+      "name": "Bakkalandet hotell",
+      "latitude": 64.865088,
+      "longitude": 11.605863
+    },
+    {
+      "name": "Balestrand Hotel",
+      "latitude": 61.206957,
+      "longitude": 6.533141
+    },
+    {
+      "name": "Banken Hotel",
+      "latitude": 59.413776,
+      "longitude": 5.267275
+    },
+    {
+      "name": "Bardu Hotel",
+      "latitude": 68.859481,
+      "longitude": 18.348765
+    },
+    {
+      "name": "Bardufoss hotell",
+      "latitude": 69.065299,
+      "longitude": 18.513164
+    },
+    {
+      "name": "Bardøla Høyfjellshotell",
+      "latitude": 60.541443,
+      "longitude": 8.223731
+    },
+    {
+      "name": "Barents Frokosthotell",
+      "latitude": 69.727912,
+      "longitude": 30.046361
+    },
+    {
+      "name": "Barentsburg Hotel",
+      "latitude": 78.061748,
+      "longitude": 14.219067
+    },
+    {
+      "name": "Basecamp",
+      "latitude": 78.217146,
+      "longitude": 15.636117
+    },
+    {
+      "name": "Basic Hotel",
+      "latitude": 60.390284,
+      "longitude": 5.320095
+    },
+    {
+      "name": "Beiarn gjestegård",
+      "latitude": 67.006436,
+      "longitude": 14.576234
+    },
+    {
+      "name": "Bekkjerviken Lodgement",
+      "latitude": 60.007559,
+      "longitude": 5.205161
+    },
+    {
+      "name": "Bergen Børs Hotel",
+      "latitude": 60.393867,
+      "longitude": 5.32618
+    },
+    {
+      "name": "Bergen Harbour Hotel",
+      "latitude": 60.396398,
+      "longitude": 5.327023
+    },
+    {
+      "name": "Bergo Hotel",
+      "latitude": 61.248143,
+      "longitude": 8.906762
+    },
+    {
+      "name": "Bergstadens Hotel",
+      "latitude": 62.574302,
+      "longitude": 11.384054
+    },
+    {
+      "name": "Bergtun Hotell",
+      "latitude": 59.211555,
+      "longitude": 7.535021
+    },
+    {
+      "name": "Berlevåg Motell & Camping",
+      "latitude": 70.856453,
+      "longitude": 29.100162
+    },
+    {
+      "name": "Best Western Gyldenløve",
+      "latitude": 59.671202,
+      "longitude": 9.650344
+    },
+    {
+      "name": "Best Western Havly hotell",
+      "latitude": 58.972592,
+      "longitude": 5.730954
+    },
+    {
+      "name": "Best Western Leto Arena",
+      "latitude": 60.250072,
+      "longitude": 11.180722
+    },
+    {
+      "name": "Best Western Lægreid Hotell",
+      "latitude": 61.230213,
+      "longitude": 7.10073
+    },
+    {
+      "name": "Best Western Plus Oslo Airport",
+      "latitude": 60.187407,
+      "longitude": 11.065929
+    },
+    {
+      "name": "Best Western Tingvold Park Hotel",
+      "latitude": 64.023827,
+      "longitude": 11.491197
+    },
+    {
+      "name": "Big Fish Adventure – Hasvik Hotel & Housing",
+      "latitude": 70.486885,
+      "longitude": 22.157476
+    },
+    {
+      "name": "Birkebeineren Hotel & Apartments",
+      "latitude": 61.120461,
+      "longitude": 10.478323
+    },
+    {
+      "name": "Bjerkvik hotell",
+      "latitude": 68.550497,
+      "longitude": 17.552494
+    },
+    {
+      "name": "Bjorliheimen hotel",
+      "latitude": 62.251984,
+      "longitude": 8.21617
+    },
+    {
+      "name": "Ble fjellstue",
+      "latitude": 59.752249,
+      "longitude": 9.368687
+    },
+    {
+      "name": "Blix hotell",
+      "latitude": 61.087282,
+      "longitude": 6.580934
+    },
+    {
+      "name": "Blomvåg Fjordhotell",
+      "latitude": 60.529494,
+      "longitude": 4.876086
+    },
+    {
+      "name": "Blåberg",
+      "latitude": 59.859743,
+      "longitude": 9.321301
+    },
+    {
+      "name": "Blåtind",
+      "latitude": 62.335829,
+      "longitude": 7.095655
+    },
+    {
+      "name": "Bob W. ZSentralen",
+      "latitude": 59.911471,
+      "longitude": 10.745184
+    },
+    {
+      "name": "Bodø Hotell",
+      "latitude": 67.282972,
+      "longitude": 14.379786
+    },
+    {
+      "name": "Boen Gård",
+      "latitude": 58.240216,
+      "longitude": 8.135676
+    },
+    {
+      "name": "Bokhotellet Lyngørporten",
+      "latitude": 58.644867,
+      "longitude": 9.125871
+    },
+    {
+      "name": "Brakanes Hotel",
+      "latitude": 60.566487,
+      "longitude": 6.914384
+    },
+    {
+      "name": "Brandseth Fjellstove",
+      "latitude": 60.795265,
+      "longitude": 6.688613
+    },
+    {
+      "name": "Brattrein hotell",
+      "latitude": 59.553457,
+      "longitude": 9.279105
+    },
+    {
+      "name": "Brattvåg Fjordhotell",
+      "latitude": 62.596444,
+      "longitude": 6.446349
+    },
+    {
+      "name": "Breeze Hotel Victoria",
+      "latitude": 60.39335,
+      "longitude": 5.330316
+    },
+    {
+      "name": "Brekke Gard Hostel",
+      "latitude": 60.857093,
+      "longitude": 7.105226
+    },
+    {
+      "name": "Brekkestranda",
+      "latitude": 61.025577,
+      "longitude": 5.445838
+    },
+    {
+      "name": "Bremanger Fjordhotell",
+      "latitude": 61.768977,
+      "longitude": 5.29011
+    },
+    {
+      "name": "Brimibue",
+      "latitude": 61.837243,
+      "longitude": 8.567416
+    },
+    {
+      "name": "Britannia Hotel",
+      "latitude": 63.431714,
+      "longitude": 10.39873
+    },
+    {
+      "name": "Brosundet",
+      "latitude": 62.472526,
+      "longitude": 6.152187
+    },
+    {
+      "name": "Bryne Kro & Hotell",
+      "latitude": 58.740058,
+      "longitude": 5.640948
+    },
+    {
+      "name": "Bykle Hotel",
+      "latitude": 59.354839,
+      "longitude": 7.356468
+    },
+    {
+      "name": "Byrkjedalstunet hotell",
+      "latitude": 58.779655,
+      "longitude": 6.316348
+    },
+    {
+      "name": "Bårdshaug herregård",
+      "latitude": 63.298955,
+      "longitude": 9.845999
+    },
+    {
+      "name": "Båtsfjord brygge Arctic Resort",
+      "latitude": 70.635541,
+      "longitude": 29.72426
+    },
+    {
+      "name": "Båtsfjord hotell AS",
+      "latitude": 70.630311,
+      "longitude": 29.716907
+    },
+    {
+      "name": "Båtsfjord Royall Hotel",
+      "latitude": 70.630066,
+      "longitude": 29.707057
+    },
+    {
+      "name": "Bø hotell",
+      "latitude": 59.411631,
+      "longitude": 9.062334
+    },
+    {
+      "name": "Bø Hotell",
+      "latitude": 68.688079,
+      "longitude": 14.477711
+    },
+    {
+      "name": "Bø Vertshus",
+      "latitude": 59.413527,
+      "longitude": 9.06491
+    },
+    {
+      "name": "Bømlo hotell",
+      "latitude": 59.815445,
+      "longitude": 5.269634
+    },
+    {
+      "name": "Camp Steinfjord",
+      "latitude": 69.463323,
+      "longitude": 17.344561
+    },
+    {
+      "name": "Canvas Telemark",
+      "latitude": 58.984783,
+      "longitude": 8.678941
+    },
+    {
+      "name": "Canyon Hotell Alta",
+      "latitude": 69.966833,
+      "longitude": 23.274373
+    },
+    {
+      "name": "Chesterfield Hotel",
+      "latitude": 63.434361,
+      "longitude": 10.399915
+    },
+    {
+      "name": "City Apartment hotel",
+      "latitude": 60.389571,
+      "longitude": 5.323903
+    },
+    {
+      "name": "City Living Schøller hotel",
+      "latitude": 63.432076,
+      "longitude": 10.395648
+    },
+    {
+      "name": "City Living Sentrum Hotel & Apartments",
+      "latitude": 63.433771,
+      "longitude": 10.396893
+    },
+    {
+      "name": "Citybox",
+      "latitude": 58.146938,
+      "longitude": 7.988033
+    },
+    {
+      "name": "Citybox",
+      "latitude": 60.387767,
+      "longitude": 5.327814
+    },
+    {
+      "name": "Citybox Danmarksplass",
+      "latitude": 60.375841,
+      "longitude": 5.337759
+    },
+    {
+      "name": "Citybox Oslo",
+      "latitude": 59.910347,
+      "longitude": 10.747243
+    },
+    {
+      "name": "Clarion Collection Grimstad",
+      "latitude": 58.342585,
+      "longitude": 8.593226
+    },
+    {
+      "name": "Clarion Collection Hotel Amanda",
+      "latitude": 59.413191,
+      "longitude": 5.266841
+    },
+    {
+      "name": "Clarion Collection Hotel Arcticus",
+      "latitude": 68.804262,
+      "longitude": 16.549353
+    },
+    {
+      "name": "Clarion Collection Hotel Atlantic",
+      "latitude": 59.133167,
+      "longitude": 10.224169
+    },
+    {
+      "name": "Clarion Collection Hotel Aurora",
+      "latitude": 69.650133,
+      "longitude": 18.959398
+    },
+    {
+      "name": "Clarion Collection Hotel Bryggeparken",
+      "latitude": 59.205227,
+      "longitude": 9.612495
+    },
+    {
+      "name": "Clarion Collection Hotel Grand",
+      "latitude": 60.796711,
+      "longitude": 10.691115
+    },
+    {
+      "name": "Clarion Collection Hotel Grand Bodø",
+      "latitude": 67.28399,
+      "longitude": 14.378217
+    },
+    {
+      "name": "Clarion Collection Hotel Havnekontoret",
+      "latitude": 60.398033,
+      "longitude": 5.321396
+    },
+    {
+      "name": "Clarion Collection Hotel Lillehammer",
+      "latitude": 61.1194,
+      "longitude": 10.462783
+    },
+    {
+      "name": "Clarion Collection Hotel Park Halden",
+      "latitude": 59.124921,
+      "longitude": 11.374909
+    },
+    {
+      "name": "Clarion Collection Hotel Savoy",
+      "latitude": 59.916619,
+      "longitude": 10.738346
+    },
+    {
+      "name": "Clarion Collection Hotel Tollboden",
+      "latitude": 59.736947,
+      "longitude": 10.21024
+    },
+    {
+      "name": "Clarion Collection Hotel With",
+      "latitude": 69.650464,
+      "longitude": 18.959748
+    },
+    {
+      "name": "Clarion Hotel & Congress Oslo Airport",
+      "latitude": 60.192515,
+      "longitude": 11.069362
+    },
+    {
+      "name": "Clarion Hotel Admiral",
+      "latitude": 60.395889,
+      "longitude": 5.319725
+    },
+    {
+      "name": "Clarion Hotel Air",
+      "latitude": 58.888166,
+      "longitude": 5.621081
+    },
+    {
+      "name": "Clarion Hotel Bergen",
+      "latitude": 60.396456,
+      "longitude": 5.326059
+    },
+    {
+      "name": "Clarion Hotel Bergen Airport",
+      "latitude": 60.290539,
+      "longitude": 5.230722
+    },
+    {
+      "name": "Clarion Hotel Energy",
+      "latitude": 58.953372,
+      "longitude": 5.688386
+    },
+    {
+      "name": "Clarion Hotel Ernst",
+      "latitude": 58.144214,
+      "longitude": 7.992913
+    },
+    {
+      "name": "Clarion Hotel Oslo",
+      "latitude": 59.907703,
+      "longitude": 10.757005
+    },
+    {
+      "name": "Clarion Hotel Stavanger",
+      "latitude": 58.967519,
+      "longitude": 5.728682
+    },
+    {
+      "name": "Clarion Hotel The Edge",
+      "latitude": 69.647357,
+      "longitude": 18.956874
+    },
+    {
+      "name": "Clarion Hotel The Hub",
+      "latitude": 59.912469,
+      "longitude": 10.750042
+    },
+    {
+      "name": "Clarion Hotel Trondheim",
+      "latitude": 63.439838,
+      "longitude": 10.401768
+    },
+    {
+      "name": "Clarion Hotel Tyholmen",
+      "latitude": 58.457985,
+      "longitude": 8.767714
+    },
+    {
+      "name": "Coal Miners' Cabin Bar & Grill",
+      "latitude": 78.20228,
+      "longitude": 15.589406
+    },
+    {
+      "name": "Coal Miners' Cabins",
+      "latitude": 78.202185,
+      "longitude": 15.589001
+    },
+    {
+      "name": "Comfort Hotel Bergen Airport",
+      "latitude": 60.286307,
+      "longitude": 5.235404
+    },
+    {
+      "name": "Comfort Hotel Bodø",
+      "latitude": 67.282584,
+      "longitude": 14.376943
+    },
+    {
+      "name": "Comfort Hotel Boersparken",
+      "latitude": 59.909369,
+      "longitude": 10.747428
+    },
+    {
+      "name": "Comfort Hotel Fosna",
+      "latitude": 63.112222,
+      "longitude": 7.731101
+    },
+    {
+      "name": "Comfort Hotel Grand Central",
+      "latitude": 59.910641,
+      "longitude": 10.7507
+    },
+    {
+      "name": "Comfort Hotel Holberg",
+      "latitude": 60.396094,
+      "longitude": 5.315552
+    },
+    {
+      "name": "Comfort Hotel Karl Johan",
+      "latitude": 59.911704,
+      "longitude": 10.74549
+    },
+    {
+      "name": "Comfort Hotel Kristiansand",
+      "latitude": 58.145779,
+      "longitude": 7.990745
+    },
+    {
+      "name": "Comfort Hotel Ole Tobias",
+      "latitude": 66.312863,
+      "longitude": 14.134014
+    },
+    {
+      "name": "Comfort Hotel Park",
+      "latitude": 63.427661,
+      "longitude": 10.392443
+    },
+    {
+      "name": "Comfort Hotel Porsgrunn",
+      "latitude": 59.14043,
+      "longitude": 9.657261
+    },
+    {
+      "name": "Comfort Hotel RunWay",
+      "latitude": 60.193151,
+      "longitude": 11.071879
+    },
+    {
+      "name": "Comfort Hotel Square",
+      "latitude": 58.969277,
+      "longitude": 5.726956
+    },
+    {
+      "name": "Comfort Hotel Stavanger",
+      "latitude": 58.970211,
+      "longitude": 5.735381
+    },
+    {
+      "name": "Comfort Hotel Trondheim",
+      "latitude": 63.433028,
+      "longitude": 10.402349
+    },
+    {
+      "name": "Comfort Hotel Union Brygge",
+      "latitude": 59.74387,
+      "longitude": 10.192103
+    },
+    {
+      "name": "Comfort Hotel Victoria Florø",
+      "latitude": 61.599766,
+      "longitude": 5.035565
+    },
+    {
+      "name": "Comfort Hotel Xpress",
+      "latitude": 59.916431,
+      "longitude": 10.749568
+    },
+    {
+      "name": "Comfort Hotel Xpress Central Station",
+      "latitude": 59.910686,
+      "longitude": 10.748769
+    },
+    {
+      "name": "Comfort Hotel Xpress Tromsø",
+      "latitude": 69.647438,
+      "longitude": 18.952359
+    },
+    {
+      "name": "Dagali Hotel",
+      "latitude": 60.417257,
+      "longitude": 8.455572
+    },
+    {
+      "name": "Dale-Gudbrands gard",
+      "latitude": 61.548461,
+      "longitude": 9.96668
+    },
+    {
+      "name": "Dalen Bed & Breakfast",
+      "latitude": 59.445079,
+      "longitude": 8.009205
+    },
+    {
+      "name": "Dalen Hotel",
+      "latitude": 59.443781,
+      "longitude": 8.011388
+    },
+    {
+      "name": "Dalseter Høyfjellshotell",
+      "latitude": 61.468262,
+      "longitude": 9.459749
+    },
+    {
+      "name": "Danebu Kongsgaard",
+      "latitude": 60.94321,
+      "longitude": 9.437527
+    },
+    {
+      "name": "Det Hanseatiske Hotel",
+      "latitude": 60.39603,
+      "longitude": 5.326217
+    },
+    {
+      "name": "Djupvasshytta",
+      "latitude": 62.030448,
+      "longitude": 7.276818
+    },
+    {
+      "name": "Dolmsundet hotell",
+      "latitude": 63.637053,
+      "longitude": 8.819629
+    },
+    {
+      "name": "Dombås Hotel",
+      "latitude": 62.073173,
+      "longitude": 9.121132
+    },
+    {
+      "name": "Dovrefjell hotell",
+      "latitude": 62.085639,
+      "longitude": 9.123793
+    },
+    {
+      "name": "Dovregubbens Hall",
+      "latitude": 62.174624,
+      "longitude": 9.429401
+    },
+    {
+      "name": "Dr. Holms Hotel",
+      "latitude": 60.536009,
+      "longitude": 8.207583
+    },
+    {
+      "name": "Dragsvik Fjordhotell",
+      "latitude": 61.216848,
+      "longitude": 6.560376
+    },
+    {
+      "name": "Dronningen Hotel",
+      "latitude": 58.142892,
+      "longitude": 7.994033
+    },
+    {
+      "name": "Dyranut Fjellstova",
+      "latitude": 60.368039,
+      "longitude": 7.502965
+    },
+    {
+      "name": "Dyreparken Hotel",
+      "latitude": 58.184944,
+      "longitude": 8.148271
+    },
+    {
+      "name": "Dølen Hotel",
+      "latitude": 58.587392,
+      "longitude": 7.805368
+    },
+    {
+      "name": "Eidfjord Hotel",
+      "latitude": 60.465209,
+      "longitude": 7.070213
+    },
+    {
+      "name": "Eidsbugarden hotell",
+      "latitude": 61.375608,
+      "longitude": 8.299777
+    },
+    {
+      "name": "Eidsverket gods",
+      "latitude": 59.885169,
+      "longitude": 11.585083
+    },
+    {
+      "name": "Eiken hotell & feriesenter",
+      "latitude": 58.471653,
+      "longitude": 7.22639
+    },
+    {
+      "name": "Eikre Fjellgård",
+      "latitude": 60.806176,
+      "longitude": 8.737722
+    },
+    {
+      "name": "Eikum Hotel",
+      "latitude": 61.315418,
+      "longitude": 7.203358
+    },
+    {
+      "name": "Eilert Smith Hotel",
+      "latitude": 58.974066,
+      "longitude": 5.730835
+    },
+    {
+      "name": "Ellingsens Pensjonat",
+      "latitude": 59.922951,
+      "longitude": 10.722384
+    },
+    {
+      "name": "Elveseter Hotell",
+      "latitude": 61.704299,
+      "longitude": 8.28726
+    },
+    {
+      "name": "Energihotellet",
+      "latitude": 59.650221,
+      "longitude": 6.81819
+    },
+    {
+      "name": "Engø Gård",
+      "latitude": 59.12674,
+      "longitude": 10.420777
+    },
+    {
+      "name": "Enter Backpack Hotel",
+      "latitude": 69.648785,
+      "longitude": 18.949689
+    },
+    {
+      "name": "Enter City Hotel",
+      "latitude": 69.648307,
+      "longitude": 18.952514
+    },
+    {
+      "name": "Enter Hotell",
+      "latitude": 68.435851,
+      "longitude": 17.426216
+    },
+    {
+      "name": "Erzscheidergården hotell",
+      "latitude": 62.578035,
+      "longitude": 11.388437
+    },
+    {
+      "name": "Espedalen Sportell",
+      "latitude": 61.439426,
+      "longitude": 9.492138
+    },
+    {
+      "name": "Evenes Fjord Hotel",
+      "latitude": 68.524851,
+      "longitude": 16.986983
+    },
+    {
+      "name": "F2 Hotel",
+      "latitude": 68.798921,
+      "longitude": 16.544655
+    },
+    {
+      "name": "Fagerlund Hotell",
+      "latitude": 60.986078,
+      "longitude": 9.233572
+    },
+    {
+      "name": "Fagmek Resorts",
+      "latitude": 67.662367,
+      "longitude": 12.690323
+    },
+    {
+      "name": "Fanitullen",
+      "latitude": 60.862758,
+      "longitude": 8.552596
+    },
+    {
+      "name": "Fannarheimr",
+      "latitude": 63.265711,
+      "longitude": 9.814762
+    },
+    {
+      "name": "Farris Bad",
+      "latitude": 59.049606,
+      "longitude": 10.020259
+    },
+    {
+      "name": "Farsund Fjordhotell",
+      "latitude": 58.087662,
+      "longitude": 6.796559
+    },
+    {
+      "name": "Fast Hotel Svolvær",
+      "latitude": 68.231071,
+      "longitude": 14.562948
+    },
+    {
+      "name": "Fefor Høifjellshotell",
+      "latitude": 61.535246,
+      "longitude": 9.654288
+    },
+    {
+      "name": "Femund Nasjonalparkhotell",
+      "latitude": 62.166635,
+      "longitude": 11.940199
+    },
+    {
+      "name": "Fengselshotellet",
+      "latitude": 58.46678,
+      "longitude": 8.760581
+    },
+    {
+      "name": "Festningen Hotel & Resort",
+      "latitude": 60.199655,
+      "longitude": 12.011527
+    },
+    {
+      "name": "Finnholmen brygge hotel",
+      "latitude": 68.155437,
+      "longitude": 14.211073
+    },
+    {
+      "name": "Finnsnes Hotel",
+      "latitude": 69.229647,
+      "longitude": 17.979394
+    },
+    {
+      "name": "Finnøy Havstuer",
+      "latitude": 62.803537,
+      "longitude": 6.509812
+    },
+    {
+      "name": "Finse 1222 Apartment",
+      "latitude": 60.602077,
+      "longitude": 7.502325
+    },
+    {
+      "name": "Finse 1222 Hotel",
+      "latitude": 60.60186,
+      "longitude": 7.503172
+    },
+    {
+      "name": "First Hotel Breiseth",
+      "latitude": 61.114495,
+      "longitude": 10.463534
+    },
+    {
+      "name": "First Hotel Millennium",
+      "latitude": 59.911285,
+      "longitude": 10.741174
+    },
+    {
+      "name": "Fiskarheimen",
+      "latitude": 67.657599,
+      "longitude": 12.717653
+    },
+    {
+      "name": "Fitjar Fjordhotell",
+      "latitude": 59.919547,
+      "longitude": 5.319886
+    },
+    {
+      "name": "Fjellkysten gjestehus",
+      "latitude": 68.781801,
+      "longitude": 17.794845
+    },
+    {
+      "name": "Fjordbris hotell",
+      "latitude": 59.091447,
+      "longitude": 5.777659
+    },
+    {
+      "name": "Fjordslottet hotell",
+      "latitude": 60.589137,
+      "longitude": 5.525442
+    },
+    {
+      "name": "Fjærland Fjordstove Hotel",
+      "latitude": 61.406385,
+      "longitude": 6.74229
+    },
+    {
+      "name": "Flatflesa Fyr",
+      "latitude": 62.838453,
+      "longitude": 6.688946
+    },
+    {
+      "name": "Fleischer's Hotel",
+      "latitude": 60.628758,
+      "longitude": 6.40869
+    },
+    {
+      "name": "Florbu fureholmen 1",
+      "latitude": 61.592765,
+      "longitude": 5.066239
+    },
+    {
+      "name": "Flåmsbrygga Hotell",
+      "latitude": 60.863807,
+      "longitude": 7.117754
+    },
+    {
+      "name": "Folldal Fjellhotell/Storhøseter",
+      "latitude": 62.146314,
+      "longitude": 10.022178
+    },
+    {
+      "name": "Fonnfjell hotell",
+      "latitude": 63.418573,
+      "longitude": 11.736837
+    },
+    {
+      "name": "Fordypningsrommet - The Arctic Hideaway",
+      "latitude": 67.161378,
+      "longitude": 13.76732
+    },
+    {
+      "name": "Fosen Fjordhotel",
+      "latitude": 63.959261,
+      "longitude": 10.224275
+    },
+    {
+      "name": "Fossberg hotel",
+      "latitude": 61.837616,
+      "longitude": 8.569501
+    },
+    {
+      "name": "Fossheim Hotell",
+      "latitude": 60.850449,
+      "longitude": 8.615998
+    },
+    {
+      "name": "Fossheim hotell",
+      "latitude": 61.838417,
+      "longitude": 8.572358
+    },
+    {
+      "name": "Fossli Hotel",
+      "latitude": 60.427447,
+      "longitude": 7.254927
+    },
+    {
+      "name": "Fredheim Helsesenter",
+      "latitude": 59.63982,
+      "longitude": 9.595714
+    },
+    {
+      "name": "Fredriksten hotell",
+      "latitude": 59.116023,
+      "longitude": 11.394451
+    },
+    {
+      "name": "Fretheim Hotel",
+      "latitude": 60.862065,
+      "longitude": 7.111898
+    },
+    {
+      "name": "Frogner House Apartments",
+      "latitude": 59.918274,
+      "longitude": 10.706171
+    },
+    {
+      "name": "Frosta Brygge",
+      "latitude": 63.625109,
+      "longitude": 10.749958
+    },
+    {
+      "name": "Fru Haugans Hotel",
+      "latitude": 65.83559,
+      "longitude": 13.190551
+    },
+    {
+      "name": "Fugl Fønix Hotel",
+      "latitude": 59.664384,
+      "longitude": 5.933898
+    },
+    {
+      "name": "Fulsebakke",
+      "latitude": 59.7004,
+      "longitude": 9.547211
+    },
+    {
+      "name": "Funken Lodge (formerly Spitsbergen Hotel)",
+      "latitude": 78.211476,
+      "longitude": 15.623888
+    },
+    {
+      "name": "Furuholmen",
+      "latitude": 59.881875,
+      "longitude": 10.408514
+    },
+    {
+      "name": "Fyresdal kurs- og leirsted",
+      "latitude": 59.18026,
+      "longitude": 8.087883
+    },
+    {
+      "name": "Fyri Resort Hemsedal",
+      "latitude": 60.861013,
+      "longitude": 8.534837
+    },
+    {
+      "name": "GamlaVærket",
+      "latitude": 58.851904,
+      "longitude": 5.735328
+    },
+    {
+      "name": "Gamle Fengselet Kulturhotell",
+      "latitude": 59.782014,
+      "longitude": 5.500482
+    },
+    {
+      "name": "Gamlebyen hotell",
+      "latitude": 59.203624,
+      "longitude": 10.954853
+    },
+    {
+      "name": "Gamlehorten Gjestegård",
+      "latitude": 59.42575,
+      "longitude": 10.490981
+    },
+    {
+      "name": "Garder kurs- og konferansesenter",
+      "latitude": 60.191716,
+      "longitude": 11.062889
+    },
+    {
+      "name": "Gardermoen Hotel Bed & Breakfast",
+      "latitude": 60.211173,
+      "longitude": 11.076415
+    },
+    {
+      "name": "Garsnes Brygge",
+      "latitude": 68.869373,
+      "longitude": 17.767974
+    },
+    {
+      "name": "Gaupnetunet",
+      "latitude": 61.40257,
+      "longitude": 7.299109
+    },
+    {
+      "name": "Gaustad Hotel",
+      "latitude": 59.947549,
+      "longitude": 10.714561
+    },
+    {
+      "name": "Gavelstad Gjestegård",
+      "latitude": 59.385389,
+      "longitude": 9.973529
+    },
+    {
+      "name": "Geilo Apartment",
+      "latitude": 60.532524,
+      "longitude": 8.21032
+    },
+    {
+      "name": "Geilo Hotel",
+      "latitude": 60.532798,
+      "longitude": 8.19888
+    },
+    {
+      "name": "Gildetun",
+      "latitude": 69.898008,
+      "longitude": 21.605516
+    },
+    {
+      "name": "Gjesdal Gjestgiveri",
+      "latitude": 58.778498,
+      "longitude": 5.835342
+    },
+    {
+      "name": "Gjestegården",
+      "latitude": 70.376992,
+      "longitude": 31.115512
+    },
+    {
+      "name": "Gjestehus",
+      "latitude": 59.907242,
+      "longitude": 10.540077
+    },
+    {
+      "name": "Globus Hotel",
+      "latitude": 59.739595,
+      "longitude": 10.200292
+    },
+    {
+      "name": "Glomfjord hotell",
+      "latitude": 66.816719,
+      "longitude": 13.94483
+    },
+    {
+      "name": "Gloppen Hotell",
+      "latitude": 61.775177,
+      "longitude": 6.216541
+    },
+    {
+      "name": "Golsfjell fjellstue",
+      "latitude": 60.850186,
+      "longitude": 8.889596
+    },
+    {
+      "name": "Granavolden Gjæstgiveri",
+      "latitude": 60.366479,
+      "longitude": 10.528132
+    },
+    {
+      "name": "Grand Hotel",
+      "latitude": 59.913733,
+      "longitude": 10.739478
+    },
+    {
+      "name": "Grand Hotel Arendal",
+      "latitude": 58.461481,
+      "longitude": 8.763139
+    },
+    {
+      "name": "Grand Hotel Bellevue",
+      "latitude": 62.565593,
+      "longitude": 7.688759
+    },
+    {
+      "name": "Grand Hotel Hellesylt",
+      "latitude": 62.086959,
+      "longitude": 6.869653
+    },
+    {
+      "name": "Grand Hotel Honefoss",
+      "latitude": 60.16686,
+      "longitude": 10.253902
+    },
+    {
+      "name": "Grand Hotel Terminus",
+      "latitude": 60.390812,
+      "longitude": 5.334555
+    },
+    {
+      "name": "Grand Hotel Åsgårdstrand",
+      "latitude": 59.349919,
+      "longitude": 10.469918
+    },
+    {
+      "name": "Grand Hotell",
+      "latitude": 59.120314,
+      "longitude": 11.385402
+    },
+    {
+      "name": "Grand hotell Egersund",
+      "latitude": 58.451047,
+      "longitude": 5.99989
+    },
+    {
+      "name": "Grand hotell Flekkefjord",
+      "latitude": 58.297309,
+      "longitude": 6.661803
+    },
+    {
+      "name": "Grande Fjord Hotel",
+      "latitude": 62.116164,
+      "longitude": 7.184313
+    },
+    {
+      "name": "Gratangen Fjellhotell",
+      "latitude": 68.66247,
+      "longitude": 17.76462
+    },
+    {
+      "name": "Grong Gård",
+      "latitude": 64.466623,
+      "longitude": 12.292714
+    },
+    {
+      "name": "Grong Vertshus",
+      "latitude": 64.465181,
+      "longitude": 12.314443
+    },
+    {
+      "name": "Grotli Høyfjellshotel",
+      "latitude": 62.013905,
+      "longitude": 7.631958
+    },
+    {
+      "name": "Gudbrandsgard Hotell",
+      "latitude": 61.470904,
+      "longitude": 10.136663
+    },
+    {
+      "name": "Guldsmeden Hotel",
+      "latitude": 59.912294,
+      "longitude": 10.719131
+    },
+    {
+      "name": "Gullbotten leirsted",
+      "latitude": 60.407078,
+      "longitude": 5.640585
+    },
+    {
+      "name": "Gunnarbuda",
+      "latitude": 62.663448,
+      "longitude": 6.273957
+    },
+    {
+      "name": "Gålå Høgfjellshotell",
+      "latitude": 61.508479,
+      "longitude": 9.784134
+    },
+    {
+      "name": "Hafjell hotell",
+      "latitude": 61.23971,
+      "longitude": 10.438259
+    },
+    {
+      "name": "Hafjell Ski Resort",
+      "latitude": 61.253214,
+      "longitude": 10.510738
+    },
+    {
+      "name": "Hafslund Hovedgård & Konferansesenter",
+      "latitude": 59.27321,
+      "longitude": 11.136657
+    },
+    {
+      "name": "Hagabrekka Wanderland",
+      "latitude": 59.565982,
+      "longitude": 8.548798
+    },
+    {
+      "name": "Hagstua",
+      "latitude": 68.157009,
+      "longitude": 13.703537
+    },
+    {
+      "name": "Hallingskarvet fjellstue",
+      "latitude": 60.655586,
+      "longitude": 8.03132
+    },
+    {
+      "name": "Hamarøy Hotel",
+      "latitude": 67.962744,
+      "longitude": 15.930202
+    },
+    {
+      "name": "Hankø Hotell & Spa",
+      "latitude": 59.207864,
+      "longitude": 10.77666
+    },
+    {
+      "name": "Harahorn",
+      "latitude": 60.933982,
+      "longitude": 8.452523
+    },
+    {
+      "name": "Hardanger Hotel",
+      "latitude": 60.069005,
+      "longitude": 6.544729
+    },
+    {
+      "name": "Hardangerfjord Hotel",
+      "latitude": 60.386083,
+      "longitude": 6.201083
+    },
+    {
+      "name": "Harpefoss hotell",
+      "latitude": 61.574337,
+      "longitude": 9.859156
+    },
+    {
+      "name": "Haugastøl Turistsenter",
+      "latitude": 60.5123,
+      "longitude": 7.852908
+    },
+    {
+      "name": "Haugland Kafe",
+      "latitude": 61.83098,
+      "longitude": 11.72307
+    },
+    {
+      "name": "Haukeland hotell",
+      "latitude": 60.374507,
+      "longitude": 5.35295
+    },
+    {
+      "name": "Hausvik Maritime",
+      "latitude": 58.042421,
+      "longitude": 6.986367
+    },
+    {
+      "name": "Havhusene Bleik",
+      "latitude": 69.273455,
+      "longitude": 15.956516
+    },
+    {
+      "name": "Havkroa Hotell",
+      "latitude": 63.518798,
+      "longitude": 7.954016
+    },
+    {
+      "name": "Havly",
+      "latitude": 70.638431,
+      "longitude": 29.731715
+    },
+    {
+      "name": "Havna Tjøme hotel",
+      "latitude": 59.085289,
+      "longitude": 10.417216
+    },
+    {
+      "name": "Havøysund Hotell",
+      "latitude": 70.995136,
+      "longitude": 24.670727
+    },
+    {
+      "name": "Heartbreak Hotel",
+      "latitude": 61.715006,
+      "longitude": 9.407038
+    },
+    {
+      "name": "Heia Gjestegård",
+      "latitude": 64.358522,
+      "longitude": 12.329668
+    },
+    {
+      "name": "Heilhornet Seaside Lodge",
+      "latitude": 65.077584,
+      "longitude": 12.066619
+    },
+    {
+      "name": "Heimat Brokelandsheia",
+      "latitude": 58.820219,
+      "longitude": 9.072885
+    },
+    {
+      "name": "Henningsvær Bryggehotell",
+      "latitude": 68.155895,
+      "longitude": 14.208508
+    },
+    {
+      "name": "Henningsvær Rorbuer AS",
+      "latitude": 68.152079,
+      "longitude": 14.209659
+    },
+    {
+      "name": "Henningsvær Villa Bryggekanten",
+      "latitude": 68.15529,
+      "longitude": 14.206554
+    },
+    {
+      "name": "Henriks Hotell",
+      "latitude": 59.208284,
+      "longitude": 9.606355
+    },
+    {
+      "name": "Herangtunet Boutique Hotel Norway",
+      "latitude": 61.130159,
+      "longitude": 9.081763
+    },
+    {
+      "name": "Hermon Høyfjellssenter",
+      "latitude": 60.654146,
+      "longitude": 8.020551
+    },
+    {
+      "name": "Hesteskoen",
+      "latitude": 58.042514,
+      "longitude": 6.98742
+    },
+    {
+      "name": "Highland Lodge",
+      "latitude": 60.534337,
+      "longitude": 8.212536
+    },
+    {
+      "name": "Hindsæter Fjellhotell",
+      "latitude": 61.617752,
+      "longitude": 8.968047
+    },
+    {
+      "name": "Hjelle hotel",
+      "latitude": 61.91472,
+      "longitude": 7.113154
+    },
+    {
+      "name": "Hjorten hotell Hitra",
+      "latitude": 63.601412,
+      "longitude": 8.977316
+    },
+    {
+      "name": "Hobo Hotel",
+      "latitude": 59.911281,
+      "longitude": 10.746956
+    },
+    {
+      "name": "Hofslund Fjordhotell",
+      "latitude": 61.232035,
+      "longitude": 7.107595
+    },
+    {
+      "name": "Holmen Fjordhotell",
+      "latitude": 59.851302,
+      "longitude": 10.494806
+    },
+    {
+      "name": "Holmestrand Fjordhotell",
+      "latitude": 59.493416,
+      "longitude": 10.312396
+    },
+    {
+      "name": "Holmsbu Resort",
+      "latitude": 59.541194,
+      "longitude": 10.413911
+    },
+    {
+      "name": "Home Hotel 1624",
+      "latitude": 59.669555,
+      "longitude": 9.653767
+    },
+    {
+      "name": "Home Hotel Astoria",
+      "latitude": 60.793283,
+      "longitude": 11.074895
+    },
+    {
+      "name": "Home Hotel Bastion",
+      "latitude": 59.908182,
+      "longitude": 10.745136
+    },
+    {
+      "name": "Home Hotel Folketeateret",
+      "latitude": 59.913981,
+      "longitude": 10.750594
+    },
+    {
+      "name": "Home Hotel Gabelshus",
+      "latitude": 59.913659,
+      "longitude": 10.709048
+    },
+    {
+      "name": "Home Hotel Grand Olav",
+      "latitude": 63.43417,
+      "longitude": 10.403621
+    },
+    {
+      "name": "Home Hotel Skagen Brygge",
+      "latitude": 58.972096,
+      "longitude": 5.730209
+    },
+    {
+      "name": "Honne hotell og konferansesenter",
+      "latitude": 60.946017,
+      "longitude": 10.636173
+    },
+    {
+      "name": "Hopen Sjøhotell",
+      "latitude": 63.466022,
+      "longitude": 8.008304
+    },
+    {
+      "name": "Hordatun Hotel",
+      "latitude": 59.812416,
+      "longitude": 6.771192
+    },
+    {
+      "name": "Hotel 1904",
+      "latitude": 62.472785,
+      "longitude": 6.158463
+    },
+    {
+      "name": "Hotel Aak",
+      "latitude": 62.536708,
+      "longitude": 7.730429
+    },
+    {
+      "name": "Hotel Alexandra",
+      "latitude": 61.873181,
+      "longitude": 6.845388
+    },
+    {
+      "name": "Hotel Aurlandsfjord",
+      "latitude": 60.907137,
+      "longitude": 7.189285
+    },
+    {
+      "name": "Hotel Borge",
+      "latitude": 59.238992,
+      "longitude": 10.468361
+    },
+    {
+      "name": "Hotel Bristol",
+      "latitude": 59.915162,
+      "longitude": 10.739712
+    },
+    {
+      "name": "Hotel Brosundet",
+      "latitude": 62.47208,
+      "longitude": 6.15209
+    },
+    {
+      "name": "Hotel Christiania Teater",
+      "latitude": 59.913542,
+      "longitude": 10.735917
+    },
+    {
+      "name": "Hotel Continental",
+      "latitude": 59.91409,
+      "longitude": 10.733521
+    },
+    {
+      "name": "Hotel Fredrikstad",
+      "latitude": 59.208974,
+      "longitude": 10.940713
+    },
+    {
+      "name": "Hotel Grandane",
+      "latitude": 61.098983,
+      "longitude": 7.480116
+    },
+    {
+      "name": "Hotel Heimen",
+      "latitude": 60.395821,
+      "longitude": 5.318303
+    },
+    {
+      "name": "Hotel Horten",
+      "latitude": 59.399691,
+      "longitude": 10.464118
+    },
+    {
+      "name": "Hotel Ivar Aasen",
+      "latitude": 62.198429,
+      "longitude": 6.128963
+    },
+    {
+      "name": "Hotel Karistova",
+      "latitude": 61.788826,
+      "longitude": 6.500534
+    },
+    {
+      "name": "Hotel Kong Carl",
+      "latitude": 59.130635,
+      "longitude": 10.222039
+    },
+    {
+      "name": "Hotel Kvenvikmoen og Alta Vandrerhjem",
+      "latitude": 69.922445,
+      "longitude": 23.091348
+    },
+    {
+      "name": "Hotel Loenfjord",
+      "latitude": 61.870942,
+      "longitude": 6.846767
+    },
+    {
+      "name": "Hotel Lyngskroa",
+      "latitude": 69.257422,
+      "longitude": 19.884762
+    },
+    {
+      "name": "Hotel Maritim Skjervøy",
+      "latitude": 70.036461,
+      "longitude": 20.981223
+    },
+    {
+      "name": "Hotel Mundal",
+      "latitude": 61.40443,
+      "longitude": 6.739792
+    },
+    {
+      "name": "Hotel Neptun",
+      "latitude": 59.416025,
+      "longitude": 5.265408
+    },
+    {
+      "name": "Hotel Nordkyn",
+      "latitude": 70.945833,
+      "longitude": 27.355873
+    },
+    {
+      "name": "Hotel Noreg",
+      "latitude": 62.47544,
+      "longitude": 6.155995
+    },
+    {
+      "name": "Hotel Norge",
+      "latitude": 58.248073,
+      "longitude": 8.376739
+    },
+    {
+      "name": "Hotel Norge by Scandic",
+      "latitude": 60.391134,
+      "longitude": 5.323566
+    },
+    {
+      "name": "Hotel Norge Høsbjør",
+      "latitude": 60.886805,
+      "longitude": 10.998918
+    },
+    {
+      "name": "Hotel Oleana",
+      "latitude": 60.39242,
+      "longitude": 5.321894
+    },
+    {
+      "name": "Hotel Overhalla",
+      "latitude": 64.496217,
+      "longitude": 11.951842
+    },
+    {
+      "name": "Hotel Park",
+      "latitude": 60.386636,
+      "longitude": 5.326065
+    },
+    {
+      "name": "Hotel Pyramiden",
+      "latitude": 78.655175,
+      "longitude": 16.32841
+    },
+    {
+      "name": "Hotel Q42",
+      "latitude": 58.148744,
+      "longitude": 8.003097
+    },
+    {
+      "name": "Hotel Repvåg",
+      "latitude": 70.746244,
+      "longitude": 25.67173
+    },
+    {
+      "name": "Hotel Riviera",
+      "latitude": 59.439317,
+      "longitude": 10.66268
+    },
+    {
+      "name": "Hotel Rondablikk",
+      "latitude": 61.752111,
+      "longitude": 9.722596
+    },
+    {
+      "name": "Hotel Sundal",
+      "latitude": 60.118175,
+      "longitude": 6.266373
+    },
+    {
+      "name": "Hotel Svartisen",
+      "latitude": 66.307926,
+      "longitude": 14.135765
+    },
+    {
+      "name": "Hotel Sverre",
+      "latitude": 58.852461,
+      "longitude": 5.734026
+    },
+    {
+      "name": "Hotel Ullensvang",
+      "latitude": 60.328489,
+      "longitude": 6.656895
+    },
+    {
+      "name": "Hotel Union Geiranger",
+      "latitude": 62.096957,
+      "longitude": 7.210514
+    },
+    {
+      "name": "Hotel Union Øye",
+      "latitude": 62.193112,
+      "longitude": 6.659664
+    },
+    {
+      "name": "Hotel Utsjoki",
+      "latitude": 69.905938,
+      "longitude": 27.035115
+    },
+    {
+      "name": "Hotel Verdandi",
+      "latitude": 59.912416,
+      "longitude": 10.736203
+    },
+    {
+      "name": "Hotel Vic",
+      "latitude": 59.138986,
+      "longitude": 9.653084
+    },
+    {
+      "name": "Hotel Victoria Bergen",
+      "latitude": 60.393331,
+      "longitude": 5.330319
+    },
+    {
+      "name": "Hotel Videseter",
+      "latitude": 61.939659,
+      "longitude": 7.27005
+    },
+    {
+      "name": "Hotel Wassilioff",
+      "latitude": 58.997496,
+      "longitude": 10.0392
+    },
+    {
+      "name": "Hotel Árran Nordkapp",
+      "latitude": 71.04791,
+      "longitude": 25.907643
+    },
+    {
+      "name": "Hotell Arendal",
+      "latitude": 58.46118,
+      "longitude": 8.765213
+    },
+    {
+      "name": "Hotell Bondeheimen",
+      "latitude": 59.914711,
+      "longitude": 10.740355
+    },
+    {
+      "name": "Hotell Fritidsparken",
+      "latitude": 59.186015,
+      "longitude": 9.598818
+    },
+    {
+      "name": "Hotell Frøya",
+      "latitude": 63.729354,
+      "longitude": 8.829145
+    },
+    {
+      "name": "Hotell Geiranger",
+      "latitude": 62.10132,
+      "longitude": 7.207153
+    },
+    {
+      "name": "Hotell Hadeland",
+      "latitude": 60.371332,
+      "longitude": 10.532838
+    },
+    {
+      "name": "Hotell Hemne",
+      "latitude": 63.288166,
+      "longitude": 9.086624
+    },
+    {
+      "name": "Hotell Jeløy Radio",
+      "latitude": 59.436721,
+      "longitude": 10.594582
+    },
+    {
+      "name": "Hotell Klubben",
+      "latitude": 59.268065,
+      "longitude": 10.404479
+    },
+    {
+      "name": "Hotell Marena",
+      "latitude": 69.320382,
+      "longitude": 16.123871
+    },
+    {
+      "name": "Hotell Molde",
+      "latitude": 62.73664,
+      "longitude": 7.15677
+    },
+    {
+      "name": "Hotell Nesbyen",
+      "latitude": 60.57014,
+      "longitude": 9.096668
+    },
+    {
+      "name": "Hotell No.13",
+      "latitude": 60.392331,
+      "longitude": 5.322805
+    },
+    {
+      "name": "Hotell Refsnes Gods",
+      "latitude": 59.443602,
+      "longitude": 10.616876
+    },
+    {
+      "name": "Hotell Skytterhuset",
+      "latitude": 70.657091,
+      "longitude": 23.697404
+    },
+    {
+      "name": "Hotell St. Olav",
+      "latitude": 63.421649,
+      "longitude": 10.391146
+    },
+    {
+      "name": "Hotell Utsikten",
+      "latitude": 62.092462,
+      "longitude": 7.223962
+    },
+    {
+      "name": "Hotell Valhalla",
+      "latitude": 59.215274,
+      "longitude": 10.93438
+    },
+    {
+      "name": "Hotell Viktoria",
+      "latitude": 59.207604,
+      "longitude": 10.942216
+    },
+    {
+      "name": "Hovda Fjellhotell",
+      "latitude": 60.868656,
+      "longitude": 9.213546
+    },
+    {
+      "name": "Hovden Apartments",
+      "latitude": 59.574401,
+      "longitude": 7.391716
+    },
+    {
+      "name": "Hovdestøylen",
+      "latitude": 59.555208,
+      "longitude": 7.35916
+    },
+    {
+      "name": "Hovstø Hytter & Rom",
+      "latitude": 59.476657,
+      "longitude": 8.607126
+    },
+    {
+      "name": "Hummeren hotell",
+      "latitude": 58.93371,
+      "longitude": 5.575125
+    },
+    {
+      "name": "Hunderfossen Hotell & Resort",
+      "latitude": 61.220272,
+      "longitude": 10.437032
+    },
+    {
+      "name": "Hurdalsjøen Hotell & Spa",
+      "latitude": 60.402404,
+      "longitude": 11.052385
+    },
+    {
+      "name": "Hurtigrutens Hus",
+      "latitude": 68.568948,
+      "longitude": 14.910792
+    },
+    {
+      "name": "Husnes Sentrum Hotell",
+      "latitude": 59.8592,
+      "longitude": 5.754155
+    },
+    {
+      "name": "Hustadvika Havhotell",
+      "latitude": 62.985939,
+      "longitude": 7.116822
+    },
+    {
+      "name": "Håholmen Havstuer",
+      "latitude": 63.029015,
+      "longitude": 7.396493
+    },
+    {
+      "name": "Hæhre Entreprenør Construction hotel no 1",
+      "latitude": 63.490428,
+      "longitude": 10.871818
+    },
+    {
+      "name": "Hæhre Entreprenør Construction hotel no 2",
+      "latitude": 63.490468,
+      "longitude": 10.872143
+    },
+    {
+      "name": "Hæhre Entreprenør Construction hotel no 3",
+      "latitude": 63.4905,
+      "longitude": 10.872479
+    },
+    {
+      "name": "Hæhre Entreprenør Construction hotel no 4",
+      "latitude": 63.490536,
+      "longitude": 10.872801
+    },
+    {
+      "name": "Hæhre Entreprenør Construction hotel no 5",
+      "latitude": 63.490569,
+      "longitude": 10.873128
+    },
+    {
+      "name": "Hæhre Entreprenør Construction hotel no 6",
+      "latitude": 63.490609,
+      "longitude": 10.873442
+    },
+    {
+      "name": "Hæhre Entreprenør Construction hotel no 7",
+      "latitude": 63.490192,
+      "longitude": 10.874322
+    },
+    {
+      "name": "Høvringen Høgfjellshotell",
+      "latitude": 61.891108,
+      "longitude": 9.476873
+    },
+    {
+      "name": "Ildtoppen",
+      "latitude": 70.442459,
+      "longitude": 28.486368
+    },
+    {
+      "name": "Ilsetra",
+      "latitude": 61.222032,
+      "longitude": 10.525111
+    },
+    {
+      "name": "Innvik Fjordhotell",
+      "latitude": 61.850051,
+      "longitude": 6.611197
+    },
+    {
+      "name": "Isfjord Radio Adventure Hotel",
+      "latitude": 78.061931,
+      "longitude": 13.615907
+    },
+    {
+      "name": "Iveland Tree Top Panorama",
+      "latitude": 58.430104,
+      "longitude": 7.865958
+    },
+    {
+      "name": "Jegtvolden Fjordhotell",
+      "latitude": 63.864836,
+      "longitude": 11.257274
+    },
+    {
+      "name": "Jektvolden Fjordhotell",
+      "latitude": 63.865066,
+      "longitude": 11.257235
+    },
+    {
+      "name": "Jetmund Gjesteheim",
+      "latitude": 62.038846,
+      "longitude": 5.522215
+    },
+    {
+      "name": "Jibben Hotell Måløy",
+      "latitude": 61.933785,
+      "longitude": 5.111566
+    },
+    {
+      "name": "Jondal Gjestgjevarstad",
+      "latitude": 60.275734,
+      "longitude": 6.252772
+    },
+    {
+      "name": "Jostedal hotell",
+      "latitude": 61.631497,
+      "longitude": 7.26432
+    },
+    {
+      "name": "Juvet Landskapshotell",
+      "latitude": 62.333014,
+      "longitude": 7.470455
+    },
+    {
+      "name": "Jæren hotell",
+      "latitude": 58.736582,
+      "longitude": 5.645869
+    },
+    {
+      "name": "K7 Hotel Oslo",
+      "latitude": 59.909947,
+      "longitude": 10.741406
+    },
+    {
+      "name": "Kabelvåg Camping og Feriehus",
+      "latitude": 68.21706,
+      "longitude": 14.44499
+    },
+    {
+      "name": "Kabelvåg Hotell",
+      "latitude": 68.211197,
+      "longitude": 14.480778
+    },
+    {
+      "name": "Kamben Høyfjellshotell",
+      "latitude": 60.802245,
+      "longitude": 8.979314
+    },
+    {
+      "name": "Karivollen",
+      "latitude": 63.295797,
+      "longitude": 10.295939
+    },
+    {
+      "name": "Karl Johan hotell",
+      "latitude": 59.914045,
+      "longitude": 10.738626
+    },
+    {
+      "name": "Kile Bed and Breakfast",
+      "latitude": 58.411329,
+      "longitude": 7.768768
+    },
+    {
+      "name": "Kinn Hotell",
+      "latitude": 61.595026,
+      "longitude": 5.014182
+    },
+    {
+      "name": "Kinsarvik Fjordhotel",
+      "latitude": 60.375539,
+      "longitude": 6.721458
+    },
+    {
+      "name": "Kirkenes Hotell",
+      "latitude": 69.727881,
+      "longitude": 30.03922
+    },
+    {
+      "name": "Kirkenes Overnatting",
+      "latitude": 69.719554,
+      "longitude": 30.066429
+    },
+    {
+      "name": "Kirkenes Snowhotel",
+      "latitude": 69.676827,
+      "longitude": 29.904617
+    },
+    {
+      "name": "Kjerringøy Bryggehotell",
+      "latitude": 67.521362,
+      "longitude": 14.762274
+    },
+    {
+      "name": "Kjøbmandsgården",
+      "latitude": 58.029089,
+      "longitude": 7.459264
+    },
+    {
+      "name": "Kjølen Hotell",
+      "latitude": 61.254111,
+      "longitude": 12.534186
+    },
+    {
+      "name": "Kleivstua",
+      "latitude": 60.046824,
+      "longitude": 10.321406
+    },
+    {
+      "name": "Klingenberg Hotell",
+      "latitude": 61.23545,
+      "longitude": 7.700679
+    },
+    {
+      "name": "Klostergården",
+      "latitude": 63.583909,
+      "longitude": 10.624161
+    },
+    {
+      "name": "Klosterhagen hotell",
+      "latitude": 60.395026,
+      "longitude": 5.314052
+    },
+    {
+      "name": "Klækken Hotell",
+      "latitude": 60.167737,
+      "longitude": 10.325208
+    },
+    {
+      "name": "Kløver Hotel",
+      "latitude": 59.648961,
+      "longitude": 6.354141
+    },
+    {
+      "name": "Kløverhotellet",
+      "latitude": 60.80507,
+      "longitude": 10.678342
+    },
+    {
+      "name": "Knirkenheimen",
+      "latitude": 63.434322,
+      "longitude": 10.402007
+    },
+    {
+      "name": "Knutholmen",
+      "latitude": 61.765563,
+      "longitude": 4.876881
+    },
+    {
+      "name": "Kobbelv Vertshus",
+      "latitude": 67.579705,
+      "longitude": 15.890414
+    },
+    {
+      "name": "Kongsvinger Budget Hotel",
+      "latitude": 60.208615,
+      "longitude": 11.964638
+    },
+    {
+      "name": "Korgenfjellet Fjellstue",
+      "latitude": 66.0542,
+      "longitude": 13.70074
+    },
+    {
+      "name": "Korsholmen",
+      "latitude": 63.030046,
+      "longitude": 7.40268
+    },
+    {
+      "name": "Kragerø Resort",
+      "latitude": 58.848192,
+      "longitude": 9.399882
+    },
+    {
+      "name": "Kragerø Sportell & Appartements",
+      "latitude": 58.879437,
+      "longitude": 9.395891
+    },
+    {
+      "name": "Kringsjå hotel",
+      "latitude": 61.209466,
+      "longitude": 6.53344
+    },
+    {
+      "name": "Kronborg Marina",
+      "latitude": 63.101302,
+      "longitude": 7.595421
+    },
+    {
+      "name": "Kronen Gaard Hotel",
+      "latitude": 58.855541,
+      "longitude": 5.783784
+    },
+    {
+      "name": "Kuringen Bryggehotell",
+      "latitude": 64.039052,
+      "longitude": 10.062175
+    },
+    {
+      "name": "Kvam Stegastein",
+      "latitude": 60.921836,
+      "longitude": 7.203478
+    },
+    {
+      "name": "Kviknes Hotel",
+      "latitude": 61.209093,
+      "longitude": 6.538268
+    },
+    {
+      "name": "Kvitfjell Hotel",
+      "latitude": 61.470462,
+      "longitude": 10.138552
+    },
+    {
+      "name": "Kvithøvd turisthotell",
+      "latitude": 61.119058,
+      "longitude": 9.008531
+    },
+    {
+      "name": "Kysthotellet Rørvik",
+      "latitude": 64.862546,
+      "longitude": 11.236631
+    },
+    {
+      "name": "Lakselv Hotell",
+      "latitude": 70.037197,
+      "longitude": 24.971524
+    },
+    {
+      "name": "Lampeland Hotell",
+      "latitude": 59.834518,
+      "longitude": 9.578239
+    },
+    {
+      "name": "Langedrag Naturpark",
+      "latitude": 60.445924,
+      "longitude": 8.881139
+    },
+    {
+      "name": "Langesund Bad",
+      "latitude": 58.99865,
+      "longitude": 9.742858
+    },
+    {
+      "name": "Lauklines Kystferie",
+      "latitude": 69.620735,
+      "longitude": 18.285863
+    },
+    {
+      "name": "Lavik Fjord Hotell",
+      "latitude": 61.104206,
+      "longitude": 5.509546
+    },
+    {
+      "name": "Leikanger Fjord Hotel",
+      "latitude": 61.183623,
+      "longitude": 6.798387
+    },
+    {
+      "name": "Leka Motel & Camping",
+      "latitude": 65.080974,
+      "longitude": 11.697588
+    },
+    {
+      "name": "Lia Fjellhotell",
+      "latitude": 60.463109,
+      "longitude": 8.364227
+    },
+    {
+      "name": "Lilland Bryggerihotell",
+      "latitude": 59.066126,
+      "longitude": 5.914293
+    },
+    {
+      "name": "Lille Hotell",
+      "latitude": 58.4617,
+      "longitude": 8.764906
+    },
+    {
+      "name": "Lily country club",
+      "latitude": 60.076809,
+      "longitude": 11.158626
+    },
+    {
+      "name": "Lindesnes Havhotell",
+      "latitude": 58.03981,
+      "longitude": 7.151504
+    },
+    {
+      "name": "Lindstrøm Hotell",
+      "latitude": 61.097453,
+      "longitude": 7.481195
+    },
+    {
+      "name": "Lista Flypark Hotell & Appartements",
+      "latitude": 58.115285,
+      "longitude": 6.617516
+    },
+    {
+      "name": "Live Lofoten Hotel",
+      "latitude": 68.123769,
+      "longitude": 13.84411
+    },
+    {
+      "name": "Ljosland Fjellstove",
+      "latitude": 58.789208,
+      "longitude": 7.355789
+    },
+    {
+      "name": "Lofoten Bed & Breakfast",
+      "latitude": 67.932245,
+      "longitude": 13.088993
+    },
+    {
+      "name": "Lofoten Bed and Boat",
+      "latitude": 67.883255,
+      "longitude": 12.98281
+    },
+    {
+      "name": "Lofoten Sommerhotell",
+      "latitude": 68.21208,
+      "longitude": 14.485305
+    },
+    {
+      "name": "Lofoten Væroy Brygge Hotell",
+      "latitude": 67.654679,
+      "longitude": 12.708684
+    },
+    {
+      "name": "Lofotferie",
+      "latitude": 68.210468,
+      "longitude": 14.476789
+    },
+    {
+      "name": "Losby Gods",
+      "latitude": 59.886827,
+      "longitude": 10.982974
+    },
+    {
+      "name": "Losby gods",
+      "latitude": 59.890601,
+      "longitude": 10.983496
+    },
+    {
+      "name": "Lovund hotell",
+      "latitude": 66.369806,
+      "longitude": 12.355257
+    },
+    {
+      "name": "Lunden Ferie",
+      "latitude": 61.159556,
+      "longitude": 6.936228
+    },
+    {
+      "name": "Lux",
+      "latitude": 59.956259,
+      "longitude": 11.055216
+    },
+    {
+      "name": "Lygnasæter hotell",
+      "latitude": 60.455103,
+      "longitude": 10.644536
+    },
+    {
+      "name": "Lyngen Lodge",
+      "latitude": 69.73994,
+      "longitude": 20.515007
+    },
+    {
+      "name": "Lyngseidet gjestegård",
+      "latitude": 69.576387,
+      "longitude": 20.214803
+    },
+    {
+      "name": "Lysebu",
+      "latitude": 59.977601,
+      "longitude": 10.655873
+    },
+    {
+      "name": "Lysebu",
+      "latitude": 59.979454,
+      "longitude": 10.659085
+    },
+    {
+      "name": "Låven",
+      "latitude": 61.244019,
+      "longitude": 10.456764
+    },
+    {
+      "name": "Lægreid Høyfjellsseter",
+      "latitude": 60.421684,
+      "longitude": 7.717042
+    },
+    {
+      "name": "Lærdal hotell",
+      "latitude": 61.100793,
+      "longitude": 7.465441
+    },
+    {
+      "name": "Lærdalsøren Hotell",
+      "latitude": 61.097774,
+      "longitude": 7.479472
+    },
+    {
+      "name": "Magic Hotel Kløverhuset",
+      "latitude": 60.394445,
+      "longitude": 5.323085
+    },
+    {
+      "name": "Magic Hotel Korskirken",
+      "latitude": 60.394377,
+      "longitude": 5.327364
+    },
+    {
+      "name": "Magic Hotel Xhibition",
+      "latitude": 60.392815,
+      "longitude": 5.326668
+    },
+    {
+      "name": "Magic Mountain Lodge",
+      "latitude": 69.579089,
+      "longitude": 20.232646
+    },
+    {
+      "name": "Malangen Resort",
+      "latitude": 69.351081,
+      "longitude": 18.710886
+    },
+    {
+      "name": "Malungen Gjestegård",
+      "latitude": 60.577756,
+      "longitude": 11.500432
+    },
+    {
+      "name": "Mandal Hotel",
+      "latitude": 58.024933,
+      "longitude": 7.455484
+    },
+    {
+      "name": "Marina Hotel",
+      "latitude": 68.239078,
+      "longitude": 14.564749
+    },
+    {
+      "name": "Maristova",
+      "latitude": 61.110364,
+      "longitude": 8.034338
+    },
+    {
+      "name": "Maritim Fjordhotell",
+      "latitude": 58.295738,
+      "longitude": 6.663565
+    },
+    {
+      "name": "Mary-Ann's Polarrigg",
+      "latitude": 78.222115,
+      "longitude": 15.633197
+    },
+    {
+      "name": "MediInn Hotel Oslo",
+      "latitude": 59.917,
+      "longitude": 10.742075
+    },
+    {
+      "name": "Mehamn Arctic hotell",
+      "latitude": 71.037579,
+      "longitude": 27.851709
+    },
+    {
+      "name": "Mehamn Artic Hotell",
+      "latitude": 71.039105,
+      "longitude": 27.852705
+    },
+    {
+      "name": "Meieriet",
+      "latitude": 70.371057,
+      "longitude": 31.110224
+    },
+    {
+      "name": "Melbu Hotell",
+      "latitude": 68.498448,
+      "longitude": 14.797774
+    },
+    {
+      "name": "Mettes Lille Hotell",
+      "latitude": 59.649182,
+      "longitude": 6.353344
+    },
+    {
+      "name": "Midtnes Hotel",
+      "latitude": 61.207446,
+      "longitude": 6.533705
+    },
+    {
+      "name": "Midttun Motel",
+      "latitude": 60.320176,
+      "longitude": 5.365417
+    },
+    {
+      "name": "Milano",
+      "latitude": 65.845295,
+      "longitude": 13.200476
+    },
+    {
+      "name": "MIstra hotell og kafé",
+      "latitude": 61.695208,
+      "longitude": 11.209063
+    },
+    {
+      "name": "Mo Hotell og Gjestegaard",
+      "latitude": 66.308554,
+      "longitude": 14.142441
+    },
+    {
+      "name": "Moi hotell",
+      "latitude": 58.449679,
+      "longitude": 6.56386
+    },
+    {
+      "name": "Molde Fjordhotell",
+      "latitude": 62.733882,
+      "longitude": 7.151507
+    },
+    {
+      "name": "Morgedal Gjestehus",
+      "latitude": 59.476794,
+      "longitude": 8.419484
+    },
+    {
+      "name": "Morgedal hotell",
+      "latitude": 59.476131,
+      "longitude": 8.421484
+    },
+    {
+      "name": "Mosjøen Hotell",
+      "latitude": 65.846356,
+      "longitude": 13.19945
+    },
+    {
+      "name": "Moss hotell",
+      "latitude": 59.435557,
+      "longitude": 10.66157
+    },
+    {
+      "name": "Moxy Bergen",
+      "latitude": 60.379014,
+      "longitude": 5.333215
+    },
+    {
+      "name": "MOXY Oslo X",
+      "latitude": 59.983957,
+      "longitude": 10.9754
+    },
+    {
+      "name": "Moxy Tromsø",
+      "latitude": 69.67034,
+      "longitude": 18.9213
+    },
+    {
+      "name": "Myhregaarden Hotel",
+      "latitude": 58.97113,
+      "longitude": 5.735584
+    },
+    {
+      "name": "Myre Kysthotell",
+      "latitude": 68.915213,
+      "longitude": 15.094153
+    },
+    {
+      "name": "Myre Overnatting",
+      "latitude": 68.915333,
+      "longitude": 15.089953
+    },
+    {
+      "name": "Myrkdalen Hotel",
+      "latitude": 60.856687,
+      "longitude": 6.490848
+    },
+    {
+      "name": "Mysusæter fjell-losji",
+      "latitude": 61.808097,
+      "longitude": 9.683676
+    },
+    {
+      "name": "Namsen Salmon & Train Experience",
+      "latitude": 64.4672,
+      "longitude": 12.049577
+    },
+    {
+      "name": "Napoli Hotell",
+      "latitude": 66.017228,
+      "longitude": 12.640147
+    },
+    {
+      "name": "Narvik hotel Wivel",
+      "latitude": 68.437012,
+      "longitude": 17.426911
+    },
+    {
+      "name": "Neiden",
+      "latitude": 69.687462,
+      "longitude": 29.381726
+    },
+    {
+      "name": "Nermo hotell",
+      "latitude": 61.244555,
+      "longitude": 10.456669
+    },
+    {
+      "name": "Nermo hotell",
+      "latitude": 61.263933,
+      "longitude": 10.498705
+    },
+    {
+      "name": "Nevlunghavn Gjestgiveri",
+      "latitude": 58.967335,
+      "longitude": 9.867784
+    },
+    {
+      "name": "Niehku Mountain Villa",
+      "latitude": 68.430738,
+      "longitude": 18.108618
+    },
+    {
+      "name": "Nissetorget",
+      "latitude": 62.310807,
+      "longitude": 10.528304
+    },
+    {
+      "name": "NKS Sykehotell",
+      "latitude": 59.935158,
+      "longitude": 10.993816
+    },
+    {
+      "name": "Nordfjord hotell",
+      "latitude": 61.904207,
+      "longitude": 5.995779
+    },
+    {
+      "name": "Nordis Apartments",
+      "latitude": 68.23245,
+      "longitude": 14.566205
+    },
+    {
+      "name": "Nordis Hotel Lofoten",
+      "latitude": 68.236724,
+      "longitude": 14.569446
+    },
+    {
+      "name": "Nordpolhotellet",
+      "latitude": 78.924528,
+      "longitude": 11.927889
+    },
+    {
+      "name": "Nordre Brostrud",
+      "latitude": 60.308364,
+      "longitude": 8.541283
+    },
+    {
+      "name": "Nordre Ekre Gård",
+      "latitude": 61.731862,
+      "longitude": 9.369683
+    },
+    {
+      "name": "Nordseter Flellstue",
+      "latitude": 61.18133,
+      "longitude": 10.616081
+    },
+    {
+      "name": "Norefjell Ski & Spa",
+      "latitude": 60.226912,
+      "longitude": 9.518896
+    },
+    {
+      "name": "NorefjellHytta",
+      "latitude": 60.218143,
+      "longitude": 9.573659
+    },
+    {
+      "name": "Norsjø hotell",
+      "latitude": 59.394365,
+      "longitude": 9.253353
+    },
+    {
+      "name": "Notodden Hotel",
+      "latitude": 59.559595,
+      "longitude": 9.260483
+    },
+    {
+      "name": "Numa Oslo Hotel",
+      "latitude": 59.917828,
+      "longitude": 10.718404
+    },
+    {
+      "name": "Nusfjord Arctic Resort Resepsjon",
+      "latitude": 68.03528,
+      "longitude": 13.348435
+    },
+    {
+      "name": "Nutheim gjestgiveri",
+      "latitude": 59.570586,
+      "longitude": 8.548452
+    },
+    {
+      "name": "Nythun",
+      "latitude": 61.035036,
+      "longitude": 9.357382
+    },
+    {
+      "name": "Nyvågar Rorbuhotell",
+      "latitude": 68.208383,
+      "longitude": 14.449281
+    },
+    {
+      "name": "Nøsen Yoga og Fjellhotell",
+      "latitude": 60.938753,
+      "longitude": 8.849502
+    },
+    {
+      "name": "Olden Fjordhotell",
+      "latitude": 61.848265,
+      "longitude": 6.81456
+    },
+    {
+      "name": "Ole Bull Hotel & Apartments",
+      "latitude": 60.392355,
+      "longitude": 5.322331
+    },
+    {
+      "name": "Oppdal Gjestetun",
+      "latitude": 62.592494,
+      "longitude": 9.68764
+    },
+    {
+      "name": "Oppdal Turisthotell",
+      "latitude": 62.593054,
+      "longitude": 9.692822
+    },
+    {
+      "name": "Oppheim Resort",
+      "latitude": 60.793554,
+      "longitude": 6.576968
+    },
+    {
+      "name": "Opus XVI",
+      "latitude": 60.393867,
+      "longitude": 5.327218
+    },
+    {
+      "name": "Origo Leilighetshotell",
+      "latitude": 59.747117,
+      "longitude": 10.192156
+    },
+    {
+      "name": "Oscarsborg Hotel & Resort",
+      "latitude": 59.675515,
+      "longitude": 10.605781
+    },
+    {
+      "name": "Osensjøens Adventure",
+      "latitude": 61.300975,
+      "longitude": 11.761192
+    },
+    {
+      "name": "Oset Høyfjellshotell",
+      "latitude": 60.83403,
+      "longitude": 8.996046
+    },
+    {
+      "name": "P-Hotels Bergen",
+      "latitude": 60.390298,
+      "longitude": 5.320929
+    },
+    {
+      "name": "P-Hotels Brattøra",
+      "latitude": 63.435896,
+      "longitude": 10.395584
+    },
+    {
+      "name": "P-Hotels Oslo",
+      "latitude": 59.914395,
+      "longitude": 10.741896
+    },
+    {
+      "name": "Pan Garden",
+      "latitude": 58.747162,
+      "longitude": 8.509034
+    },
+    {
+      "name": "Panorama Hotell & Resort",
+      "latitude": 60.182345,
+      "longitude": 5.091459
+    },
+    {
+      "name": "Park Hotel",
+      "latitude": 60.628533,
+      "longitude": 6.414288
+    },
+    {
+      "name": "Park Inn",
+      "latitude": 59.911148,
+      "longitude": 10.740709
+    },
+    {
+      "name": "Park Inn Haugesund Airport",
+      "latitude": 59.341453,
+      "longitude": 5.274789
+    },
+    {
+      "name": "Park Inn Oslo Airport West",
+      "latitude": 60.188162,
+      "longitude": 11.06783
+    },
+    {
+      "name": "Paulsens Hotell & Cafe",
+      "latitude": 58.13908,
+      "longitude": 7.066304
+    },
+    {
+      "name": "Pellestova",
+      "latitude": 61.226182,
+      "longitude": 10.544719
+    },
+    {
+      "name": "Pers Hotel",
+      "latitude": 60.700493,
+      "longitude": 8.947694
+    },
+    {
+      "name": "Pingvin Hotel",
+      "latitude": 69.683067,
+      "longitude": 18.980711
+    },
+    {
+      "name": "Pingvinhotellet",
+      "latitude": 69.682656,
+      "longitude": 18.979918
+    },
+    {
+      "name": "Polar Hotel",
+      "latitude": 70.630374,
+      "longitude": 29.706798
+    },
+    {
+      "name": "Preikestolen Fjellstue",
+      "latitude": 58.990983,
+      "longitude": 6.137437
+    },
+    {
+      "name": "Prize by Radisson",
+      "latitude": 60.37616,
+      "longitude": 5.334612
+    },
+    {
+      "name": "Quaity Hotel Leangkollen",
+      "latitude": 59.831632,
+      "longitude": 10.465451
+    },
+    {
+      "name": "Quality Airport Hotel Gardermoen",
+      "latitude": 60.163734,
+      "longitude": 11.161601
+    },
+    {
+      "name": "Quality Airport Hotel Stavanger",
+      "latitude": 58.893087,
+      "longitude": 5.628789
+    },
+    {
+      "name": "Quality Hotel",
+      "latitude": 68.797242,
+      "longitude": 16.545178
+    },
+    {
+      "name": "Quality Hotel 33",
+      "latitude": 59.928902,
+      "longitude": 10.81867
+    },
+    {
+      "name": "Quality Hotel Airport Vaernes",
+      "latitude": 63.467914,
+      "longitude": 10.92003
+    },
+    {
+      "name": "Quality Hotel Augustin",
+      "latitude": 63.430803,
+      "longitude": 10.392571
+    },
+    {
+      "name": "Quality Hotel Edvard Grieg",
+      "latitude": 60.292491,
+      "longitude": 5.293109
+    },
+    {
+      "name": "Quality Hotel Entry",
+      "latitude": 59.825123,
+      "longitude": 10.779526
+    },
+    {
+      "name": "Quality Hotel Expo",
+      "latitude": 59.902529,
+      "longitude": 10.629009
+    },
+    {
+      "name": "Quality Hotel Florø",
+      "latitude": 61.600757,
+      "longitude": 5.029089
+    },
+    {
+      "name": "Quality Hotel Fredrikstad",
+      "latitude": 59.21127,
+      "longitude": 10.939848
+    },
+    {
+      "name": "Quality Hotel Grand",
+      "latitude": 63.109901,
+      "longitude": 7.730954
+    },
+    {
+      "name": "Quality Hotel Grand Farris",
+      "latitude": 59.051015,
+      "longitude": 10.029501
+    },
+    {
+      "name": "Quality Hotel Grand Kongsberg",
+      "latitude": 59.669142,
+      "longitude": 9.64949
+    },
+    {
+      "name": "Quality Hotel Grand Royal",
+      "latitude": 68.440374,
+      "longitude": 17.433347
+    },
+    {
+      "name": "Quality Hotel Grand Steinkjer",
+      "latitude": 64.013523,
+      "longitude": 11.496464
+    },
+    {
+      "name": "Quality Hotel Olavsgaard",
+      "latitude": 59.979383,
+      "longitude": 10.998347
+    },
+    {
+      "name": "Quality Hotel Panorama",
+      "latitude": 63.359187,
+      "longitude": 10.374865
+    },
+    {
+      "name": "Quality Hotel Pond",
+      "latitude": 58.889254,
+      "longitude": 5.702427
+    },
+    {
+      "name": "Quality Hotel Prinsen",
+      "latitude": 63.430866,
+      "longitude": 10.391195
+    },
+    {
+      "name": "Quality Hotel Ramsalt",
+      "latitude": 67.285877,
+      "longitude": 14.386014
+    },
+    {
+      "name": "Quality Hotel Residence",
+      "latitude": 58.850924,
+      "longitude": 5.737731
+    },
+    {
+      "name": "Quality Hotel River Station",
+      "latitude": 59.739049,
+      "longitude": 10.206786
+    },
+    {
+      "name": "Quality Hotel Saga",
+      "latitude": 69.648128,
+      "longitude": 18.957709
+    },
+    {
+      "name": "Quality Hotel Sarpsborg",
+      "latitude": 59.296215,
+      "longitude": 11.064642
+    },
+    {
+      "name": "Quality Hotel Skifer",
+      "latitude": 62.593193,
+      "longitude": 9.688805
+    },
+    {
+      "name": "Quality Hotel Skjærgården",
+      "latitude": 59.01415,
+      "longitude": 9.744967
+    },
+    {
+      "name": "Quality Hotel Sogndal",
+      "latitude": 61.229832,
+      "longitude": 7.098878
+    },
+    {
+      "name": "Quality Hotel Strand",
+      "latitude": 60.794455,
+      "longitude": 10.69415
+    },
+    {
+      "name": "Quality Hotel Tønsberg",
+      "latitude": 59.264689,
+      "longitude": 10.407803
+    },
+    {
+      "name": "Quality Hotel Ulstein",
+      "latitude": 62.340699,
+      "longitude": 5.848999
+    },
+    {
+      "name": "Quality Hotel Vøringfoss",
+      "latitude": 60.467905,
+      "longitude": 7.067943
+    },
+    {
+      "name": "Quality Hotel Waterfront",
+      "latitude": 62.46993,
+      "longitude": 6.146098
+    },
+    {
+      "name": "Quality Hotel Ålesund",
+      "latitude": 62.475734,
+      "longitude": 6.155152
+    },
+    {
+      "name": "Quality Hotel™ Hasle Linie",
+      "latitude": 59.927664,
+      "longitude": 10.796943
+    },
+    {
+      "name": "Radisson Blu Airport Hotel, Oslo Gardermoen",
+      "latitude": 60.1925,
+      "longitude": 11.095029
+    },
+    {
+      "name": "Radisson Blu Atlantic Hotel",
+      "latitude": 58.967981,
+      "longitude": 5.730309
+    },
+    {
+      "name": "Radisson Blu Caledonien",
+      "latitude": 58.14249,
+      "longitude": 7.99473
+    },
+    {
+      "name": "Radisson Blu Hotel Bodø",
+      "latitude": 67.282147,
+      "longitude": 14.374976
+    },
+    {
+      "name": "Radisson Blu Hotel Haugesund",
+      "latitude": 59.38505,
+      "longitude": 5.302552
+    },
+    {
+      "name": "Radisson Blu Hotel Nydalen",
+      "latitude": 59.948991,
+      "longitude": 10.766054
+    },
+    {
+      "name": "Radisson Blu Hotel Tromsø",
+      "latitude": 69.649031,
+      "longitude": 18.96057
+    },
+    {
+      "name": "Radisson Blu Hotel Trondheim Airport",
+      "latitude": 63.454081,
+      "longitude": 10.914765
+    },
+    {
+      "name": "Radisson Blu Park Hotel",
+      "latitude": 59.903722,
+      "longitude": 10.631792
+    },
+    {
+      "name": "Radisson Blu Plaza Hotel, Oslo",
+      "latitude": 59.912409,
+      "longitude": 10.75598
+    },
+    {
+      "name": "Radisson Blu Polar",
+      "latitude": 78.220907,
+      "longitude": 15.647396
+    },
+    {
+      "name": "Radisson Blu Resort Beitostølen",
+      "latitude": 61.249038,
+      "longitude": 8.902224
+    },
+    {
+      "name": "Radisson Blu Resort Trysil",
+      "latitude": 61.30784,
+      "longitude": 12.24455
+    },
+    {
+      "name": "Radisson Blu Royal Garden Hotel",
+      "latitude": 63.433599,
+      "longitude": 10.405281
+    },
+    {
+      "name": "Radisson Blu Royal Hotel Bergen",
+      "latitude": 60.397852,
+      "longitude": 5.322499
+    },
+    {
+      "name": "Radisson Blu Scandinavia Hotel, Oslo",
+      "latitude": 59.918446,
+      "longitude": 10.734108
+    },
+    {
+      "name": "Radisson Blue Hotel & Conference Center, Oslo Alna",
+      "latitude": 59.930062,
+      "longitude": 10.868445
+    },
+    {
+      "name": "Radisson Park Inn",
+      "latitude": 58.960303,
+      "longitude": 5.737687
+    },
+    {
+      "name": "Radisson RED Oslo Airport",
+      "latitude": 60.189808,
+      "longitude": 11.10242
+    },
+    {
+      "name": "Radisson RED Oslo Økern",
+      "latitude": 59.930405,
+      "longitude": 10.799338
+    },
+    {
+      "name": "Rajesetra",
+      "latitude": 59.537869,
+      "longitude": 9.569305
+    },
+    {
+      "name": "Ranten Hotell",
+      "latitude": 60.534821,
+      "longitude": 8.783983
+    },
+    {
+      "name": "Rauland Høgfjellshotell",
+      "latitude": 59.738817,
+      "longitude": 8.134708
+    },
+    {
+      "name": "Raumergården Hotel",
+      "latitude": 60.072734,
+      "longitude": 11.036251
+    },
+    {
+      "name": "Rederiet Hotell",
+      "latitude": 58.095562,
+      "longitude": 6.8048
+    },
+    {
+      "name": "Reenskaug Hotel",
+      "latitude": 59.659838,
+      "longitude": 10.630528
+    },
+    {
+      "name": "Reine Rorbuer",
+      "latitude": 67.935359,
+      "longitude": 13.088599
+    },
+    {
+      "name": "Reinebua",
+      "latitude": 67.931327,
+      "longitude": 13.088373
+    },
+    {
+      "name": "Reisafjord hotel",
+      "latitude": 69.792671,
+      "longitude": 20.941221
+    },
+    {
+      "name": "Revsnes hotel",
+      "latitude": 58.673743,
+      "longitude": 7.807569
+    },
+    {
+      "name": "Ringerike gjestegård",
+      "latitude": 60.147443,
+      "longitude": 10.252185
+    },
+    {
+      "name": "Ringholmen Sjøhus",
+      "latitude": 63.203688,
+      "longitude": 7.959007
+    },
+    {
+      "name": "Ringnes Gard",
+      "latitude": 60.260341,
+      "longitude": 9.625495
+    },
+    {
+      "name": "Risør Hotel",
+      "latitude": 58.718284,
+      "longitude": 9.239668
+    },
+    {
+      "name": "Rjukan Admini Hotel",
+      "latitude": 59.879419,
+      "longitude": 8.583656
+    },
+    {
+      "name": "Rjukan Gjestehus",
+      "latitude": 59.877237,
+      "longitude": 8.594581
+    },
+    {
+      "name": "Rognan hotell",
+      "latitude": 67.103509,
+      "longitude": 15.391556
+    },
+    {
+      "name": "Rondane Haukliseter Fjellhotell",
+      "latitude": 61.888507,
+      "longitude": 9.487486
+    },
+    {
+      "name": "Rondane Høyfjellshotell",
+      "latitude": 61.808435,
+      "longitude": 9.673196
+    },
+    {
+      "name": "Rondane River Lodge",
+      "latitude": 61.78842,
+      "longitude": 10.22462
+    },
+    {
+      "name": "Rorbuer Olenilsøy",
+      "latitude": 67.941203,
+      "longitude": 13.11625
+    },
+    {
+      "name": "Rosendal Fjordhotel",
+      "latitude": 59.981495,
+      "longitude": 6.00994
+    },
+    {
+      "name": "Rosendal turisthotell",
+      "latitude": 59.987225,
+      "longitude": 6.007179
+    },
+    {
+      "name": "Rosfjord Strandhotell",
+      "latitude": 58.12161,
+      "longitude": 7.058184
+    },
+    {
+      "name": "Rudi gard",
+      "latitude": 61.575454,
+      "longitude": 9.908105
+    },
+    {
+      "name": "Rundhaug gjestegård",
+      "latitude": 69.020193,
+      "longitude": 18.900627
+    },
+    {
+      "name": "Russenes Hotell",
+      "latitude": 70.477997,
+      "longitude": 25.065702
+    },
+    {
+      "name": "Rustad Hotell og Fjellstue",
+      "latitude": 61.150802,
+      "longitude": 10.700234
+    },
+    {
+      "name": "Ryfylke Fjordhotel",
+      "latitude": 59.482317,
+      "longitude": 6.249661
+    },
+    {
+      "name": "Rygge arbeidshotell",
+      "latitude": 59.377819,
+      "longitude": 10.758188
+    },
+    {
+      "name": "Rødberg Hotell",
+      "latitude": 60.267788,
+      "longitude": 8.942645
+    },
+    {
+      "name": "Rødungstøl Høyfjellshotell",
+      "latitude": 60.709038,
+      "longitude": 8.257473
+    },
+    {
+      "name": "Røisheim hotell",
+      "latitude": 61.749526,
+      "longitude": 8.384529
+    },
+    {
+      "name": "Røldal Overnatting",
+      "latitude": 59.835484,
+      "longitude": 6.821998
+    },
+    {
+      "name": "Rømskog Hotell Spa & Resort",
+      "latitude": 59.732613,
+      "longitude": 11.743059
+    },
+    {
+      "name": "Røros hotell",
+      "latitude": 62.579319,
+      "longitude": 11.379063
+    },
+    {
+      "name": "Rørosvidda hotell",
+      "latitude": 62.570826,
+      "longitude": 11.381085
+    },
+    {
+      "name": "Røst Bryggehotell",
+      "latitude": 67.505794,
+      "longitude": 12.077255
+    },
+    {
+      "name": "Saga Apartments Oslo",
+      "latitude": 59.924661,
+      "longitude": 10.720384
+    },
+    {
+      "name": "Saga Hotel Oslo",
+      "latitude": 59.922826,
+      "longitude": 10.720323
+    },
+    {
+      "name": "Saga Trollheimen Hotel",
+      "latitude": 63.049229,
+      "longitude": 9.196463
+    },
+    {
+      "name": "Sagafjord Hotel",
+      "latitude": 62.207116,
+      "longitude": 6.478191
+    },
+    {
+      "name": "Sakrisøy Rorbuer",
+      "latitude": 67.941521,
+      "longitude": 13.111744
+    },
+    {
+      "name": "Saltfjellet Hotell Polarsirkelen",
+      "latitude": 66.737177,
+      "longitude": 15.46373
+    },
+    {
+      "name": "Saltstraume Brygge",
+      "latitude": 67.220967,
+      "longitude": 14.617167
+    },
+    {
+      "name": "Saltstraumen Hotel",
+      "latitude": 67.235911,
+      "longitude": 14.616557
+    },
+    {
+      "name": "Sande Kro & Hotell",
+      "latitude": 61.325234,
+      "longitude": 5.79507
+    },
+    {
+      "name": "Sanden Hotell",
+      "latitude": 59.774681,
+      "longitude": 9.911669
+    },
+    {
+      "name": "Sanden pensjonat",
+      "latitude": 61.098177,
+      "longitude": 7.479095
+    },
+    {
+      "name": "Sanderstølen",
+      "latitude": 60.827395,
+      "longitude": 9.138875
+    },
+    {
+      "name": "Sandtorgholmen Hotel",
+      "latitude": 68.569115,
+      "longitude": 16.518686
+    },
+    {
+      "name": "Sandtorgholmen Hotel (Guest House)",
+      "latitude": 68.568665,
+      "longitude": 16.518085
+    },
+    {
+      "name": "Sanner Hotell",
+      "latitude": 60.3657,
+      "longitude": 10.5384
+    },
+    {
+      "name": "Sauda Fjordhotell",
+      "latitude": 59.643842,
+      "longitude": 6.311853
+    },
+    {
+      "name": "Savalen Fjellhotell & Spa",
+      "latitude": 62.310789,
+      "longitude": 10.521948
+    },
+    {
+      "name": "Scandic Alexandra Molde",
+      "latitude": 62.735012,
+      "longitude": 7.154557
+    },
+    {
+      "name": "Scandic Alta",
+      "latitude": 69.965978,
+      "longitude": 23.269325
+    },
+    {
+      "name": "Scandic Ambassadeur Drammen",
+      "latitude": 59.740089,
+      "longitude": 10.200563
+    },
+    {
+      "name": "Scandic Asker",
+      "latitude": 59.8346,
+      "longitude": 10.441272
+    },
+    {
+      "name": "Scandic Bakklandet",
+      "latitude": 63.432151,
+      "longitude": 10.406528
+    },
+    {
+      "name": "Scandic Bergen City",
+      "latitude": 60.390965,
+      "longitude": 5.317418
+    },
+    {
+      "name": "Scandic Bodø",
+      "latitude": 67.285012,
+      "longitude": 14.381789
+    },
+    {
+      "name": "Scandic Brennemoen",
+      "latitude": 59.574518,
+      "longitude": 11.279799
+    },
+    {
+      "name": "Scandic Bryggen",
+      "latitude": 70.979429,
+      "longitude": 25.972629
+    },
+    {
+      "name": "Scandic Byparken",
+      "latitude": 60.389994,
+      "longitude": 5.323932
+    },
+    {
+      "name": "Scandic Byporten",
+      "latitude": 59.911882,
+      "longitude": 10.751514
+    },
+    {
+      "name": "Scandic City",
+      "latitude": 59.21309,
+      "longitude": 10.938935
+    },
+    {
+      "name": "Scandic Fauske",
+      "latitude": 67.258987,
+      "longitude": 15.397482
+    },
+    {
+      "name": "Scandic Flesland Airport",
+      "latitude": 60.282972,
+      "longitude": 5.236359
+    },
+    {
+      "name": "Scandic Fornebu",
+      "latitude": 59.893679,
+      "longitude": 10.62983
+    },
+    {
+      "name": "Scandic Gardermoen",
+      "latitude": 60.166825,
+      "longitude": 11.157522
+    },
+    {
+      "name": "Scandic Grand Tromsø",
+      "latitude": 69.648051,
+      "longitude": 18.953692
+    },
+    {
+      "name": "Scandic Grensen",
+      "latitude": 59.914377,
+      "longitude": 10.741273
+    },
+    {
+      "name": "Scandic Hafjell",
+      "latitude": 61.241904,
+      "longitude": 10.43788
+    },
+    {
+      "name": "Scandic Hamar",
+      "latitude": 60.796187,
+      "longitude": 11.085951
+    },
+    {
+      "name": "Scandic Hammerfest",
+      "latitude": 70.663028,
+      "longitude": 23.676693
+    },
+    {
+      "name": "Scandic Harstad",
+      "latitude": 68.8009,
+      "longitude": 16.542159
+    },
+    {
+      "name": "Scandic Havet",
+      "latitude": 67.284079,
+      "longitude": 14.375231
+    },
+    {
+      "name": "Scandic Hell",
+      "latitude": 63.449092,
+      "longitude": 10.912557
+    },
+    {
+      "name": "Scandic Helsfyr",
+      "latitude": 59.915606,
+      "longitude": 10.804986
+    },
+    {
+      "name": "Scandic Holberg",
+      "latitude": 59.919641,
+      "longitude": 10.734408
+    },
+    {
+      "name": "Scandic Holmenkollen Park",
+      "latitude": 59.96288,
+      "longitude": 10.663066
+    },
+    {
+      "name": "Scandic Honningsvåg",
+      "latitude": 70.982662,
+      "longitude": 25.969094
+    },
+    {
+      "name": "Scandic Hotel",
+      "latitude": 59.922249,
+      "longitude": 10.751038
+    },
+    {
+      "name": "Scandic Hotel Haugesund",
+      "latitude": 59.415188,
+      "longitude": 5.269387
+    },
+    {
+      "name": "Scandic Hønefoss",
+      "latitude": 60.166346,
+      "longitude": 10.257454
+    },
+    {
+      "name": "Scandic Ishavshotel Tromsø",
+      "latitude": 69.649577,
+      "longitude": 18.962546
+    },
+    {
+      "name": "Scandic Karasjok",
+      "latitude": 69.47356,
+      "longitude": 25.509766
+    },
+    {
+      "name": "Scandic Karl Johan",
+      "latitude": 59.914167,
+      "longitude": 10.740803
+    },
+    {
+      "name": "Scandic Kirkenes",
+      "latitude": 69.726484,
+      "longitude": 30.044597
+    },
+    {
+      "name": "Scandic Kokstad",
+      "latitude": 60.289915,
+      "longitude": 5.258248
+    },
+    {
+      "name": "Scandic Kristiansand Bystranda",
+      "latitude": 58.147131,
+      "longitude": 8.005495
+    },
+    {
+      "name": "Scandic Kristiansund",
+      "latitude": 63.108508,
+      "longitude": 7.728364
+    },
+    {
+      "name": "Scandic Leknes Lofoten",
+      "latitude": 68.145873,
+      "longitude": 13.612622
+    },
+    {
+      "name": "Scandic Lerkendal",
+      "latitude": 63.411567,
+      "longitude": 10.402544
+    },
+    {
+      "name": "Scandic Lillehammer Hotel",
+      "latitude": 61.117292,
+      "longitude": 10.476979
+    },
+    {
+      "name": "Scandic Lillestrøm",
+      "latitude": 59.952453,
+      "longitude": 11.046348
+    },
+    {
+      "name": "Scandic Maritim",
+      "latitude": 59.409659,
+      "longitude": 5.272296
+    },
+    {
+      "name": "Scandic Meyergården",
+      "latitude": 66.312309,
+      "longitude": 14.1354
+    },
+    {
+      "name": "Scandic Narvik",
+      "latitude": 68.436387,
+      "longitude": 17.425268
+    },
+    {
+      "name": "Scandic Neptun",
+      "latitude": 60.394322,
+      "longitude": 5.31998
+    },
+    {
+      "name": "Scandic Nidelven",
+      "latitude": 63.435809,
+      "longitude": 10.406804
+    },
+    {
+      "name": "Scandic Nordfjord",
+      "latitude": 61.904401,
+      "longitude": 5.98919
+    },
+    {
+      "name": "Scandic Nordkapp",
+      "latitude": 71.02878,
+      "longitude": 25.891385
+    },
+    {
+      "name": "Scandic Oslo Airport",
+      "latitude": 60.185472,
+      "longitude": 11.064444
+    },
+    {
+      "name": "Scandic Oslo City",
+      "latitude": 59.911937,
+      "longitude": 10.749214
+    },
+    {
+      "name": "Scandic Park Sandefjord",
+      "latitude": 59.127693,
+      "longitude": 10.220708
+    },
+    {
+      "name": "Scandic parken",
+      "latitude": 62.473696,
+      "longitude": 6.158695
+    },
+    {
+      "name": "Scandic Ringsaker",
+      "latitude": 60.829625,
+      "longitude": 11.067876
+    },
+    {
+      "name": "Scandic Rock City",
+      "latitude": 64.468394,
+      "longitude": 11.487729
+    },
+    {
+      "name": "Scandic Royal Stavanger",
+      "latitude": 58.967729,
+      "longitude": 5.727348
+    },
+    {
+      "name": "Scandic Sarpsborg",
+      "latitude": 59.283305,
+      "longitude": 11.108906
+    },
+    {
+      "name": "Scandic Seilet Hotel",
+      "latitude": 62.73323,
+      "longitude": 7.14398
+    },
+    {
+      "name": "Scandic Sjølyst",
+      "latitude": 59.920194,
+      "longitude": 10.682835
+    },
+    {
+      "name": "Scandic Solli",
+      "latitude": 59.913686,
+      "longitude": 10.72145
+    },
+    {
+      "name": "Scandic Solsiden",
+      "latitude": 63.434743,
+      "longitude": 10.414372
+    },
+    {
+      "name": "Scandic Sortland",
+      "latitude": 68.697424,
+      "longitude": 15.419068
+    },
+    {
+      "name": "Scandic St. Olavs plass",
+      "latitude": 59.918222,
+      "longitude": 10.739712
+    },
+    {
+      "name": "Scandic Stavanger Airport",
+      "latitude": 58.883778,
+      "longitude": 5.627371
+    },
+    {
+      "name": "Scandic Stavanger City",
+      "latitude": 58.970722,
+      "longitude": 5.744929
+    },
+    {
+      "name": "Scandic Stavanger Forus",
+      "latitude": 58.891673,
+      "longitude": 5.730447
+    },
+    {
+      "name": "Scandic Stavanger Park",
+      "latitude": 58.965679,
+      "longitude": 5.73092
+    },
+    {
+      "name": "Scandic Stiklestad",
+      "latitude": 63.795807,
+      "longitude": 11.562767
+    },
+    {
+      "name": "Scandic Sunnfjord Hotel & Spa",
+      "latitude": 61.453038,
+      "longitude": 5.855835
+    },
+    {
+      "name": "Scandic Svolvær",
+      "latitude": 68.232784,
+      "longitude": 14.57094
+    },
+    {
+      "name": "Scandic Syv Søstre",
+      "latitude": 66.022923,
+      "longitude": 12.637383
+    },
+    {
+      "name": "Scandic Sørlandet",
+      "latitude": 58.179876,
+      "longitude": 8.144697
+    },
+    {
+      "name": "Scandic Torget Bergen",
+      "latitude": 60.39416,
+      "longitude": 5.323983
+    },
+    {
+      "name": "Scandic Vadsø",
+      "latitude": 70.074625,
+      "longitude": 29.749777
+    },
+    {
+      "name": "Scandic Valdres",
+      "latitude": 60.985023,
+      "longitude": 9.238337
+    },
+    {
+      "name": "Scandic Vestfjord Lofoten",
+      "latitude": 68.229445,
+      "longitude": 14.565499
+    },
+    {
+      "name": "Scandic Victoria",
+      "latitude": 59.912596,
+      "longitude": 10.736948
+    },
+    {
+      "name": "Scandic Victoria Lillehammer",
+      "latitude": 61.117098,
+      "longitude": 10.46428
+    },
+    {
+      "name": "Scandic Voss",
+      "latitude": 60.629178,
+      "longitude": 6.412517
+    },
+    {
+      "name": "Scandic Ørnen",
+      "latitude": 60.38831,
+      "longitude": 5.331712
+    },
+    {
+      "name": "Selbusjøen Hotel & Gjestegård",
+      "latitude": 63.232607,
+      "longitude": 11.029336
+    },
+    {
+      "name": "Seljord Hotel",
+      "latitude": 59.48368,
+      "longitude": 8.625387
+    },
+    {
+      "name": "Senja hotell",
+      "latitude": 69.229391,
+      "longitude": 17.979808
+    },
+    {
+      "name": "Senjagården",
+      "latitude": 69.353383,
+      "longitude": 18.04296
+    },
+    {
+      "name": "Sentrum Hotell",
+      "latitude": 61.906681,
+      "longitude": 5.994884
+    },
+    {
+      "name": "Sillongen Toten Hotel",
+      "latitude": 60.699585,
+      "longitude": 10.735065
+    },
+    {
+      "name": "Singsaker Sommerhotell",
+      "latitude": 63.42412,
+      "longitude": 10.412854
+    },
+    {
+      "name": "Sirdal Høyfjellshotell",
+      "latitude": 58.957912,
+      "longitude": 6.94726
+    },
+    {
+      "name": "Sirdal Resort",
+      "latitude": 58.909303,
+      "longitude": 6.836524
+    },
+    {
+      "name": "Sirevåg Konferansesenter",
+      "latitude": 58.503273,
+      "longitude": 5.791892
+    },
+    {
+      "name": "Sitla Hotel & Apartments",
+      "latitude": 61.308872,
+      "longitude": 7.816842
+    },
+    {
+      "name": "Sjøgløtt Hotell",
+      "latitude": 58.14474,
+      "longitude": 7.99983
+    },
+    {
+      "name": "Sjømilitære samfund",
+      "latitude": 59.422457,
+      "longitude": 10.491734
+    },
+    {
+      "name": "Sjøsenteret",
+      "latitude": 64.054395,
+      "longitude": 9.953554
+    },
+    {
+      "name": "Skagen Hotel",
+      "latitude": 67.280897,
+      "longitude": 14.3777
+    },
+    {
+      "name": "Skaidi Hotel",
+      "latitude": 70.433933,
+      "longitude": 24.501202
+    },
+    {
+      "name": "Skansen Hotell",
+      "latitude": 69.653397,
+      "longitude": 18.960481
+    },
+    {
+      "name": "Skaret by Vander",
+      "latitude": 69.646085,
+      "longitude": 18.95219
+    },
+    {
+      "name": "Skarslia Hotellet",
+      "latitude": 60.682076,
+      "longitude": 8.288129
+    },
+    {
+      "name": "Skarsnuten Mountain Resort & Spa",
+      "latitude": 60.861395,
+      "longitude": 8.490451
+    },
+    {
+      "name": "Skaslien Gjestgiveri",
+      "latitude": 60.462827,
+      "longitude": 12.061134
+    },
+    {
+      "name": "Skata Boutique Hotel",
+      "latitude": 68.160251,
+      "longitude": 14.216534
+    },
+    {
+      "name": "Ski Lodge Gautefall",
+      "latitude": 59.059968,
+      "longitude": 8.72009
+    },
+    {
+      "name": "Skinnarbu Nasjonalparkhotell",
+      "latitude": 59.814798,
+      "longitude": 8.311004
+    },
+    {
+      "name": "Skiphelle",
+      "latitude": 59.638517,
+      "longitude": 10.643825
+    },
+    {
+      "name": "SkiStar Lodge Trysil",
+      "latitude": 61.328448,
+      "longitude": 12.164553
+    },
+    {
+      "name": "Skjerdingen Høyfjellshotell",
+      "latitude": 61.708461,
+      "longitude": 10.56897
+    },
+    {
+      "name": "Skjolden hotel",
+      "latitude": 61.490689,
+      "longitude": 7.599562
+    },
+    {
+      "name": "Skjolden Hotel",
+      "latitude": 61.490866,
+      "longitude": 7.598792
+    },
+    {
+      "name": "Skogstad Hotell",
+      "latitude": 60.863448,
+      "longitude": 8.551956
+    },
+    {
+      "name": "Skostredet Hotel",
+      "latitude": 60.393801,
+      "longitude": 5.329346
+    },
+    {
+      "name": "Skåbu Fjellhotell",
+      "latitude": 61.52457,
+      "longitude": 9.406722
+    },
+    {
+      "name": "Skånevik Fjordhotel",
+      "latitude": 59.732554,
+      "longitude": 5.931426
+    },
+    {
+      "name": "Slangen Seter",
+      "latitude": 61.478492,
+      "longitude": 9.350013
+    },
+    {
+      "name": "Slobrua gjestehus",
+      "latitude": 60.24822,
+      "longitude": 11.743006
+    },
+    {
+      "name": "Smaken av Ryfylke",
+      "latitude": 59.233646,
+      "longitude": 6.173902
+    },
+    {
+      "name": "Smart Hotel Hammerfest",
+      "latitude": 70.664467,
+      "longitude": 23.690487
+    },
+    {
+      "name": "Smarthotel Bodø",
+      "latitude": 67.28571,
+      "longitude": 14.389669
+    },
+    {
+      "name": "Smarthotel Forus",
+      "latitude": 58.878753,
+      "longitude": 5.722382
+    },
+    {
+      "name": "Smarthotel Oslo",
+      "latitude": 59.917757,
+      "longitude": 10.736547
+    },
+    {
+      "name": "Smarthotel Tromsø",
+      "latitude": 69.648924,
+      "longitude": 18.951404
+    },
+    {
+      "name": "Smedsgården Hotel",
+      "latitude": 60.613372,
+      "longitude": 9.063417
+    },
+    {
+      "name": "Sognefjord Hotel",
+      "latitude": 61.179104,
+      "longitude": 6.854701
+    },
+    {
+      "name": "Sognhostel",
+      "latitude": 61.137174,
+      "longitude": 5.347326
+    },
+    {
+      "name": "Soknatun",
+      "latitude": 62.948963,
+      "longitude": 10.189905
+    },
+    {
+      "name": "Sola Strand Hotel",
+      "latitude": 58.885405,
+      "longitude": 5.604854
+    },
+    {
+      "name": "Sole Hotell",
+      "latitude": 60.174986,
+      "longitude": 9.630598
+    },
+    {
+      "name": "Sollia Gjestegaard",
+      "latitude": 69.664659,
+      "longitude": 30.196637
+    },
+    {
+      "name": "Solstad hotell",
+      "latitude": 60.702606,
+      "longitude": 8.937451
+    },
+    {
+      "name": "Solstrand Hotel & Bad",
+      "latitude": 60.189034,
+      "longitude": 5.487717
+    },
+    {
+      "name": "Solund Leileghetshotell",
+      "latitude": 61.073252,
+      "longitude": 4.841423
+    },
+    {
+      "name": "Sommarøy Arctic Hotel",
+      "latitude": 69.635591,
+      "longitude": 17.991445
+    },
+    {
+      "name": "Sommerhotellet Grindaheim",
+      "latitude": 61.125389,
+      "longitude": 8.566769
+    },
+    {
+      "name": "Sommerro",
+      "latitude": 59.915357,
+      "longitude": 10.719704
+    },
+    {
+      "name": "Son Spa",
+      "latitude": 59.516428,
+      "longitude": 10.681398
+    },
+    {
+      "name": "Songdalstrand Kulturhotell",
+      "latitude": 58.322716,
+      "longitude": 6.284248
+    },
+    {
+      "name": "Soria Moria",
+      "latitude": 59.974993,
+      "longitude": 10.655315
+    },
+    {
+      "name": "Sorrisniva Igloo Hotel",
+      "latitude": 69.865153,
+      "longitude": 23.318202
+    },
+    {
+      "name": "Sortland hotell",
+      "latitude": 68.695172,
+      "longitude": 15.412295
+    },
+    {
+      "name": "SOV Lodge, Vågå",
+      "latitude": 61.875313,
+      "longitude": 9.095555
+    },
+    {
+      "name": "Spidsbergseter Resort Rondane",
+      "latitude": 61.671716,
+      "longitude": 10.102328
+    },
+    {
+      "name": "Spåtind Sport Hotel",
+      "latitude": 61.129228,
+      "longitude": 9.87168
+    },
+    {
+      "name": "St. Elisabeth hotel",
+      "latitude": 69.643715,
+      "longitude": 18.939144
+    },
+    {
+      "name": "St. Svithun hotell",
+      "latitude": 58.952098,
+      "longitude": 5.732385
+    },
+    {
+      "name": "Stalheim Hotel",
+      "latitude": 60.83524,
+      "longitude": 6.681361
+    },
+    {
+      "name": "Stasjonen hotell Lillehammer",
+      "latitude": 61.114622,
+      "longitude": 10.46152
+    },
+    {
+      "name": "Statles Rorbusenter AS",
+      "latitude": 68.083666,
+      "longitude": 13.63613
+    },
+    {
+      "name": "Stav Hotel",
+      "latitude": 63.424573,
+      "longitude": 10.728712
+    },
+    {
+      "name": "Stavanger Lille Hotel",
+      "latitude": 58.963885,
+      "longitude": 5.727015
+    },
+    {
+      "name": "Steens Hotel",
+      "latitude": 60.386354,
+      "longitude": 5.32509
+    },
+    {
+      "name": "Stetind Hotel",
+      "latitude": 68.094654,
+      "longitude": 16.366252
+    },
+    {
+      "name": "Stord hotell",
+      "latitude": 59.774175,
+      "longitude": 5.494999
+    },
+    {
+      "name": "Storefjell Resort Hotel",
+      "latitude": 60.804593,
+      "longitude": 8.956209
+    },
+    {
+      "name": "Storfjord Hotel",
+      "latitude": 62.469549,
+      "longitude": 6.624852
+    },
+    {
+      "name": "Straand Hotel",
+      "latitude": 59.324372,
+      "longitude": 8.496626
+    },
+    {
+      "name": "Strand Fjordhotel",
+      "latitude": 60.570877,
+      "longitude": 6.924315
+    },
+    {
+      "name": "Strand Hotel Fevik",
+      "latitude": 58.372072,
+      "longitude": 8.667879
+    },
+    {
+      "name": "Stranda Hotel",
+      "latitude": 62.307421,
+      "longitude": 6.946782
+    },
+    {
+      "name": "Stryn Hotel",
+      "latitude": 61.901309,
+      "longitude": 6.715908
+    },
+    {
+      "name": "Støtvig Hotel",
+      "latitude": 59.328926,
+      "longitude": 10.668191
+    },
+    {
+      "name": "Suldal Hotell",
+      "latitude": 59.484624,
+      "longitude": 6.251731
+    },
+    {
+      "name": "Sulitjelma hotell",
+      "latitude": 67.143036,
+      "longitude": 16.019461
+    },
+    {
+      "name": "Sunde Fjord Hotel",
+      "latitude": 62.414612,
+      "longitude": 6.327465
+    },
+    {
+      "name": "Sundet gård",
+      "latitude": 63.343693,
+      "longitude": 10.238365
+    },
+    {
+      "name": "Sundvolden hotell",
+      "latitude": 60.062284,
+      "longitude": 10.311481
+    },
+    {
+      "name": "Sunndalsøra Hotell",
+      "latitude": 62.674511,
+      "longitude": 8.564404
+    },
+    {
+      "name": "Super Stay Hotel",
+      "latitude": 59.913854,
+      "longitude": 10.777396
+    },
+    {
+      "name": "Sure Hotel Trondheim Airport",
+      "latitude": 63.471107,
+      "longitude": 10.903084
+    },
+    {
+      "name": "Svabard Hotell The Vault",
+      "latitude": 78.218645,
+      "longitude": 15.633449
+    },
+    {
+      "name": "Svalbard Hotell Polfareren",
+      "latitude": 78.217033,
+      "longitude": 15.633715
+    },
+    {
+      "name": "Svinøya Rorbuer",
+      "latitude": 68.234374,
+      "longitude": 14.579693
+    },
+    {
+      "name": "Sygard Grytting",
+      "latitude": 61.575692,
+      "longitude": 9.892221
+    },
+    {
+      "name": "Sylli",
+      "latitude": 61.48371,
+      "longitude": 11.301691
+    },
+    {
+      "name": "Sølvgarden Hotell & Feriesenter",
+      "latitude": 59.091099,
+      "longitude": 7.540958
+    },
+    {
+      "name": "Sørmarka kurs- og konferansesenter",
+      "latitude": 59.806591,
+      "longitude": 10.908578
+    },
+    {
+      "name": "Sørreisa hotell",
+      "latitude": 69.145164,
+      "longitude": 18.151723
+    },
+    {
+      "name": "Søstrene Storaas",
+      "latitude": 59.729294,
+      "longitude": 9.351846
+    },
+    {
+      "name": "Tana Hotel og Camping",
+      "latitude": 70.199495,
+      "longitude": 28.192524
+    },
+    {
+      "name": "Tana Vertshus",
+      "latitude": 70.398889,
+      "longitude": 28.194314
+    },
+    {
+      "name": "Tempelseter høyfjellshotell",
+      "latitude": 60.270441,
+      "longitude": 9.408449
+    },
+    {
+      "name": "The Dock 69°39",
+      "latitude": 69.653455,
+      "longitude": 18.966642
+    },
+    {
+      "name": "The Sweet",
+      "latitude": 59.922197,
+      "longitude": 10.724569
+    },
+    {
+      "name": "THE THIEF",
+      "latitude": 59.907613,
+      "longitude": 10.72098
+    },
+    {
+      "name": "The Tide",
+      "latitude": 67.88929,
+      "longitude": 13.020708
+    },
+    {
+      "name": "The View Hotel North Cape",
+      "latitude": 70.996559,
+      "longitude": 25.977255
+    },
+    {
+      "name": "Thon Hotel Alta",
+      "latitude": 69.965077,
+      "longitude": 23.270937
+    },
+    {
+      "name": "Thon Hotel Arena",
+      "latitude": 59.950897,
+      "longitude": 11.04881
+    },
+    {
+      "name": "Thon Hotel Arendal",
+      "latitude": 58.45878,
+      "longitude": 8.766663
+    },
+    {
+      "name": "Thon Hotel Astoria",
+      "latitude": 59.911152,
+      "longitude": 10.746797
+    },
+    {
+      "name": "Thon Hotel Backlund",
+      "latitude": 63.746508,
+      "longitude": 11.298227
+    },
+    {
+      "name": "Thon Hotel Baronen",
+      "latitude": 62.462161,
+      "longitude": 6.363256
+    },
+    {
+      "name": "Thon Hotel Bergen Airport",
+      "latitude": 60.289905,
+      "longitude": 5.260726
+    },
+    {
+      "name": "Thon Hotel Bristol",
+      "latitude": 60.392516,
+      "longitude": 5.322663
+    },
+    {
+      "name": "Thon Hotel Brønnøysund",
+      "latitude": 65.476033,
+      "longitude": 12.21421
+    },
+    {
+      "name": "Thon Hotel Cecil",
+      "latitude": 59.912837,
+      "longitude": 10.737375
+    },
+    {
+      "name": "Thon Hotel Europa",
+      "latitude": 59.917907,
+      "longitude": 10.734939
+    },
+    {
+      "name": "Thon Hotel Fosnavåg",
+      "latitude": 62.341181,
+      "longitude": 5.636732
+    },
+    {
+      "name": "Thon Hotel Førde",
+      "latitude": 61.449874,
+      "longitude": 5.850741
+    },
+    {
+      "name": "Thon Hotel Gardermoen",
+      "latitude": 60.167595,
+      "longitude": 11.146113
+    },
+    {
+      "name": "Thon Hotel Gyldenløve",
+      "latitude": 59.925318,
+      "longitude": 10.722557
+    },
+    {
+      "name": "Thon Hotel Halden",
+      "latitude": 59.118903,
+      "longitude": 11.386274
+    },
+    {
+      "name": "Thon Hotel Hallingdal",
+      "latitude": 60.629708,
+      "longitude": 8.55965
+    },
+    {
+      "name": "Thon Hotel Hammerfest",
+      "latitude": 70.662847,
+      "longitude": 23.684885
+    },
+    {
+      "name": "Thon Hotel Harstad",
+      "latitude": 68.80146,
+      "longitude": 16.543523
+    },
+    {
+      "name": "Thon Hotel Horten",
+      "latitude": 59.412837,
+      "longitude": 10.485412
+    },
+    {
+      "name": "Thon Hotel Høyers",
+      "latitude": 59.206904,
+      "longitude": 9.612106
+    },
+    {
+      "name": "Thon Hotel Høyers",
+      "latitude": 59.207234,
+      "longitude": 9.611477
+    },
+    {
+      "name": "Thon Hotel Jølster",
+      "latitude": 61.571899,
+      "longitude": 6.481114
+    },
+    {
+      "name": "Thon Hotel Kautokeino",
+      "latitude": 69.016789,
+      "longitude": 23.042476
+    },
+    {
+      "name": "Thon Hotel Kirkenes",
+      "latitude": 69.729408,
+      "longitude": 30.045538
+    },
+    {
+      "name": "Thon Hotel Kristiansand",
+      "latitude": 58.146786,
+      "longitude": 7.98994
+    },
+    {
+      "name": "Thon Hotel Kristiansund",
+      "latitude": 63.107107,
+      "longitude": 7.73489
+    },
+    {
+      "name": "Thon Hotel Lillestrøm",
+      "latitude": 59.957293,
+      "longitude": 11.04872
+    },
+    {
+      "name": "Thon Hotel Lofoten",
+      "latitude": 68.231644,
+      "longitude": 14.565426
+    },
+    {
+      "name": "Thon Hotel Maritim",
+      "latitude": 58.968944,
+      "longitude": 5.735752
+    },
+    {
+      "name": "Thon Hotel Moldefjord",
+      "latitude": 62.735265,
+      "longitude": 7.156476
+    },
+    {
+      "name": "Thon Hotel Narvik",
+      "latitude": 68.437639,
+      "longitude": 17.445927
+    },
+    {
+      "name": "Thon Hotel Nidaros",
+      "latitude": 63.433968,
+      "longitude": 10.399777
+    },
+    {
+      "name": "Thon Hotel Nordlys",
+      "latitude": 67.28081,
+      "longitude": 14.372963
+    },
+    {
+      "name": "Thon Hotel Opera",
+      "latitude": 59.909405,
+      "longitude": 10.753184
+    },
+    {
+      "name": "Thon Hotel Orion",
+      "latitude": 60.399335,
+      "longitude": 5.3202
+    },
+    {
+      "name": "Thon Hotel Oslo Airport",
+      "latitude": 60.164726,
+      "longitude": 11.154091
+    },
+    {
+      "name": "Thon Hotel Oslofjord",
+      "latitude": 59.885847,
+      "longitude": 10.519137
+    },
+    {
+      "name": "Thon Hotel Otta",
+      "latitude": 61.771624,
+      "longitude": 9.533231
+    },
+    {
+      "name": "Thon Hotel Parken",
+      "latitude": 58.145723,
+      "longitude": 7.99585
+    },
+    {
+      "name": "Thon Hotel Polar",
+      "latitude": 69.648412,
+      "longitude": 18.953372
+    },
+    {
+      "name": "Thon Hotel Rosenkrantz",
+      "latitude": 59.915673,
+      "longitude": 10.7405
+    },
+    {
+      "name": "Thon Hotel Rosenkrantz",
+      "latitude": 60.39706,
+      "longitude": 5.325564
+    },
+    {
+      "name": "Thon Hotel Saga",
+      "latitude": 59.412396,
+      "longitude": 5.271864
+    },
+    {
+      "name": "Thon Hotel Sandnes",
+      "latitude": 58.870311,
+      "longitude": 5.741595
+    },
+    {
+      "name": "Thon Hotel Sandven",
+      "latitude": 60.370701,
+      "longitude": 6.146671
+    },
+    {
+      "name": "Thon Hotel Skeikampen",
+      "latitude": 61.33743,
+      "longitude": 10.094093
+    },
+    {
+      "name": "Thon Hotel Skeikampen",
+      "latitude": 61.337767,
+      "longitude": 10.085318
+    },
+    {
+      "name": "Thon Hotel Ski",
+      "latitude": 59.718357,
+      "longitude": 10.836546
+    },
+    {
+      "name": "Thon Hotel Slottsparken",
+      "latitude": 59.918536,
+      "longitude": 10.732128
+    },
+    {
+      "name": "Thon Hotel Snø",
+      "latitude": 59.947639,
+      "longitude": 10.953635
+    },
+    {
+      "name": "Thon Hotel Spectrum",
+      "latitude": 59.914017,
+      "longitude": 10.755758
+    },
+    {
+      "name": "Thon Hotel Stavanger",
+      "latitude": 58.970631,
+      "longitude": 5.735115
+    },
+    {
+      "name": "Thon Hotel Storgata",
+      "latitude": 63.10926,
+      "longitude": 7.731237
+    },
+    {
+      "name": "Thon Hotel Storo",
+      "latitude": 59.947141,
+      "longitude": 10.772478
+    },
+    {
+      "name": "Thon Hotel Surnadal",
+      "latitude": 62.972897,
+      "longitude": 8.72563
+    },
+    {
+      "name": "Thon Hotel Svolvær",
+      "latitude": 68.230029,
+      "longitude": 14.564219
+    },
+    {
+      "name": "Thon Hotel Terminus",
+      "latitude": 59.913363,
+      "longitude": 10.752801
+    },
+    {
+      "name": "Thon Hotel Triaden",
+      "latitude": 59.918602,
+      "longitude": 10.953676
+    },
+    {
+      "name": "Thon Hotel Tromsø",
+      "latitude": 69.648455,
+      "longitude": 18.952715
+    },
+    {
+      "name": "Thon Hotel Trondheim",
+      "latitude": 63.430346,
+      "longitude": 10.392929
+    },
+    {
+      "name": "Thon Hotel Tønsberg Brygge",
+      "latitude": 59.267414,
+      "longitude": 10.40429
+    },
+    {
+      "name": "Thon Hotel Ullevaal Stadion",
+      "latitude": 59.949612,
+      "longitude": 10.736193
+    },
+    {
+      "name": "Thon Hotel Vettre",
+      "latitude": 59.829681,
+      "longitude": 10.470942
+    },
+    {
+      "name": "Thon Hotel Vika Atrium",
+      "latitude": 59.91116,
+      "longitude": 10.724113
+    },
+    {
+      "name": "Thon Hotell Bjørneparken",
+      "latitude": 60.43106,
+      "longitude": 9.457537
+    },
+    {
+      "name": "Thon Hotell Linne",
+      "latitude": 59.939477,
+      "longitude": 10.829155
+    },
+    {
+      "name": "Thon Partner Elgstua Hotel",
+      "latitude": 60.883583,
+      "longitude": 11.540695
+    },
+    {
+      "name": "Thon Partner Hotel Central",
+      "latitude": 60.880596,
+      "longitude": 11.563771
+    },
+    {
+      "name": "Thon Partner hotel Mo I Rana",
+      "latitude": 66.308416,
+      "longitude": 14.131545
+    },
+    {
+      "name": "Thon Partner Hotel Victoria Hamar",
+      "latitude": 60.792629,
+      "longitude": 11.074369
+    },
+    {
+      "name": "Thon partner Stavanger Forum Hotel",
+      "latitude": 58.954886,
+      "longitude": 5.699827
+    },
+    {
+      "name": "THON Ålesund (former: Scandic Ålesund)",
+      "latitude": 62.473261,
+      "longitude": 6.151392
+    },
+    {
+      "name": "Thorbjørnrud Hotel",
+      "latitude": 60.241644,
+      "longitude": 10.401405
+    },
+    {
+      "name": "Tingvoll Næringsbygg AS",
+      "latitude": 62.91003,
+      "longitude": 8.204493
+    },
+    {
+      "name": "Tinos hotell",
+      "latitude": 64.467757,
+      "longitude": 11.492654
+    },
+    {
+      "name": "Titran fiskerheim",
+      "latitude": 63.667969,
+      "longitude": 8.305611
+    },
+    {
+      "name": "Tjeldsundbrua Hotel",
+      "latitude": 68.625188,
+      "longitude": 16.589842
+    },
+    {
+      "name": "Tjeldsundbrua Hotell",
+      "latitude": 68.62539,
+      "longitude": 16.590037
+    },
+    {
+      "name": "Tjongsfjord Gjestegård",
+      "latitude": 66.698295,
+      "longitude": 13.422588
+    },
+    {
+      "name": "Tollboden - Det Lille Hotel",
+      "latitude": 58.720408,
+      "longitude": 9.23771
+    },
+    {
+      "name": "Tollboden hotell",
+      "latitude": 58.869105,
+      "longitude": 9.413833
+    },
+    {
+      "name": "Tollgaarden Gjestegaard",
+      "latitude": 59.048081,
+      "longitude": 10.034813
+    },
+    {
+      "name": "Torgkroa",
+      "latitude": 66.989298,
+      "longitude": 14.759535
+    },
+    {
+      "name": "TotalApartments",
+      "latitude": 69.684082,
+      "longitude": 19.000761
+    },
+    {
+      "name": "Trollkafe",
+      "latitude": 69.39698,
+      "longitude": 20.268629
+    },
+    {
+      "name": "Trolltunga Guesthouse",
+      "latitude": 60.117296,
+      "longitude": 6.564285
+    },
+    {
+      "name": "Trolltunga Hotel",
+      "latitude": 60.053834,
+      "longitude": 6.556091
+    },
+    {
+      "name": "Tronsvangen (tidligere hotell)",
+      "latitude": 62.140767,
+      "longitude": 10.663287
+    },
+    {
+      "name": "Tronsvangen (tidligere seterhotell)",
+      "latitude": 62.140942,
+      "longitude": 10.662893
+    },
+    {
+      "name": "Trudvang Gjestegaard",
+      "latitude": 59.054715,
+      "longitude": 10.014446
+    },
+    {
+      "name": "Trysil Hotel",
+      "latitude": 61.31272,
+      "longitude": 12.266802
+    },
+    {
+      "name": "Trysil Hotell",
+      "latitude": 61.313314,
+      "longitude": 12.265111
+    },
+    {
+      "name": "Trædal hotell & Turistsenter",
+      "latitude": 62.659789,
+      "longitude": 8.534366
+    },
+    {
+      "name": "Tuddal Høyfjellshotell",
+      "latitude": 59.793934,
+      "longitude": 8.747657
+    },
+    {
+      "name": "Turtagrø Hotel",
+      "latitude": 61.504377,
+      "longitude": 7.801611
+    },
+    {
+      "name": "Tvedestrand fjordhotell",
+      "latitude": 58.622123,
+      "longitude": 8.931013
+    },
+    {
+      "name": "Tyinholmen Høyfjellsstuer",
+      "latitude": 61.354603,
+      "longitude": 8.258356
+    },
+    {
+      "name": "Tyrifjord hotell",
+      "latitude": 59.967809,
+      "longitude": 10.008961
+    },
+    {
+      "name": "Tysfjord Turisthotell",
+      "latitude": 68.193323,
+      "longitude": 16.025955
+    },
+    {
+      "name": "Tyskhella - Rorbuferie",
+      "latitude": 68.210841,
+      "longitude": 14.480643
+    },
+    {
+      "name": "Tyssedal Hotel",
+      "latitude": 60.116114,
+      "longitude": 6.556601
+    },
+    {
+      "name": "Tysvær motell",
+      "latitude": 59.419277,
+      "longitude": 5.446749
+    },
+    {
+      "name": "Tørvis Hotel",
+      "latitude": 61.380859,
+      "longitude": 7.307248
+    },
+    {
+      "name": "Ulvik Hotel",
+      "latitude": 60.568834,
+      "longitude": 6.919842
+    },
+    {
+      "name": "Unstad Arctic Surf",
+      "latitude": 68.265212,
+      "longitude": 13.591262
+    },
+    {
+      "name": "Ustaoset hotel",
+      "latitude": 60.499424,
+      "longitude": 8.038873
+    },
+    {
+      "name": "Ustedalen Hotell Geilo",
+      "latitude": 60.531838,
+      "longitude": 8.190151
+    },
+    {
+      "name": "Utne Hotel",
+      "latitude": 60.423633,
+      "longitude": 6.621626
+    },
+    {
+      "name": "Utsikten Hotell",
+      "latitude": 58.306334,
+      "longitude": 6.970218
+    },
+    {
+      "name": "Utsjoki Arctic Resort",
+      "latitude": 69.910147,
+      "longitude": 27.052831
+    },
+    {
+      "name": "Utstein Kloster Hotell",
+      "latitude": 59.098026,
+      "longitude": 5.608687
+    },
+    {
+      "name": "Vadheim Hotell",
+      "latitude": 61.208591,
+      "longitude": 5.822513
+    },
+    {
+      "name": "Vadsø fjordhotell",
+      "latitude": 70.067603,
+      "longitude": 29.747978
+    },
+    {
+      "name": "Valldal Fjord Lodge",
+      "latitude": 62.300022,
+      "longitude": 7.264029
+    },
+    {
+      "name": "Valldal fjordhotell",
+      "latitude": 62.296994,
+      "longitude": 7.257966
+    },
+    {
+      "name": "Valseter hotell",
+      "latitude": 61.491585,
+      "longitude": 9.75596
+    },
+    {
+      "name": "Vander Altona",
+      "latitude": 60.395931,
+      "longitude": 5.31795
+    },
+    {
+      "name": "Vangsgaarden Gjestgiveri",
+      "latitude": 60.90687,
+      "longitude": 7.187365
+    },
+    {
+      "name": "Vardø Hotell",
+      "latitude": 70.372583,
+      "longitude": 31.102866
+    },
+    {
+      "name": "Vatnahalsen Høyfjellshotell",
+      "latitude": 60.74353,
+      "longitude": 7.131605
+    },
+    {
+      "name": "Vauldalen fjellhotell",
+      "latitude": 62.64059,
+      "longitude": 12.031979
+    },
+    {
+      "name": "Vega Havhotell",
+      "latitude": 65.701579,
+      "longitude": 11.873764
+    },
+    {
+      "name": "Veggli vertshus",
+      "latitude": 60.04207,
+      "longitude": 9.155556
+    },
+    {
+      "name": "Veisten Landhotel",
+      "latitude": 61.205,
+      "longitude": 10.139743
+    },
+    {
+      "name": "Venabu Fjellhotell",
+      "latitude": 61.650042,
+      "longitude": 10.108226
+    },
+    {
+      "name": "Verdal Hotell",
+      "latitude": 63.792634,
+      "longitude": 11.484721
+    },
+    {
+      "name": "Verkshotellet",
+      "latitude": 59.019514,
+      "longitude": 6.040146
+    },
+    {
+      "name": "Vertshuset Røros",
+      "latitude": 62.576265,
+      "longitude": 11.386657
+    },
+    {
+      "name": "Vesterålen Kysthotell",
+      "latitude": 68.570805,
+      "longitude": 14.924685
+    },
+    {
+      "name": "Vesterålen Rorbuer",
+      "latitude": 68.698285,
+      "longitude": 14.467399
+    },
+    {
+      "name": "Vestlia Hotel",
+      "latitude": 60.522374,
+      "longitude": 8.196858
+    },
+    {
+      "name": "Vestnes Fjordhotell",
+      "latitude": 62.623604,
+      "longitude": 7.092667
+    },
+    {
+      "name": "Victoria Hotel",
+      "latitude": 58.867738,
+      "longitude": 9.411659
+    },
+    {
+      "name": "Victoria Hotel",
+      "latitude": 58.973145,
+      "longitude": 5.730319
+    },
+    {
+      "name": "Victoria Hotell Flisa",
+      "latitude": 60.610756,
+      "longitude": 12.011886
+    },
+    {
+      "name": "Vigra fjordhotell",
+      "latitude": 62.536689,
+      "longitude": 6.026625
+    },
+    {
+      "name": "Viken Hotell",
+      "latitude": 59.439934,
+      "longitude": 10.781066
+    },
+    {
+      "name": "Viking Hotel",
+      "latitude": 69.646813,
+      "longitude": 18.950556
+    },
+    {
+      "name": "Villa Eckhoff",
+      "latitude": 58.964911,
+      "longitude": 5.726563
+    },
+    {
+      "name": "Villa Terminus",
+      "latitude": 60.391038,
+      "longitude": 5.33381
+    },
+    {
+      "name": "Villa Vågå",
+      "latitude": 61.87771,
+      "longitude": 9.098284
+    },
+    {
+      "name": "Vilma Sjøbad",
+      "latitude": 59.571128,
+      "longitude": 10.617289
+    },
+    {
+      "name": "Vindfjelltunet gjestegård",
+      "latitude": 59.299662,
+      "longitude": 9.825442
+    },
+    {
+      "name": "Vinger hotell",
+      "latitude": 60.186551,
+      "longitude": 12.014189
+    },
+    {
+      "name": "Vinje Turisthotel",
+      "latitude": 60.79274,
+      "longitude": 6.518287
+    },
+    {
+      "name": "Visnes Hotel",
+      "latitude": 61.897725,
+      "longitude": 6.70772
+    },
+    {
+      "name": "Viste Strandhotell",
+      "latitude": 58.986168,
+      "longitude": 5.607736
+    },
+    {
+      "name": "Voksenåsen hotell",
+      "latitude": 59.974938,
+      "longitude": 10.664751
+    },
+    {
+      "name": "Vollan Gjestestue",
+      "latitude": 69.21832,
+      "longitude": 19.559608
+    },
+    {
+      "name": "Vormsund Golf Hotell",
+      "latitude": 60.15132,
+      "longitude": 11.410926
+    },
+    {
+      "name": "Vågslidtun Hotell",
+      "latitude": 59.76937,
+      "longitude": 7.388176
+    },
+    {
+      "name": "Væktarstua hotell",
+      "latitude": 62.908726,
+      "longitude": 11.893165
+    },
+    {
+      "name": "Wadahl Høyfjellshotell",
+      "latitude": 61.499753,
+      "longitude": 9.788877
+    },
+    {
+      "name": "Walaker Hotell",
+      "latitude": 61.30197,
+      "longitude": 7.247912
+    },
+    {
+      "name": "Westland Hotel",
+      "latitude": 60.737715,
+      "longitude": 5.155903
+    },
+    {
+      "name": "Wood hotel",
+      "latitude": 60.877384,
+      "longitude": 10.929967
+    },
+    {
+      "name": "Wood Hotel Bodø",
+      "latitude": 67.300203,
+      "longitude": 14.439916
+    },
+    {
+      "name": "Ydalir Hotel",
+      "latitude": 58.935579,
+      "longitude": 5.700752
+    },
+    {
+      "name": "Zander K Hotel",
+      "latitude": 60.390345,
+      "longitude": 5.334996
+    },
+    {
+      "name": "Zefyr hotell",
+      "latitude": 67.282497,
+      "longitude": 14.394522
+    },
+    {
+      "name": "Ågotnes hotell",
+      "latitude": 60.405178,
+      "longitude": 5.001499
+    },
+    {
+      "name": "Åmot",
+      "latitude": 61.363805,
+      "longitude": 5.729649
+    },
+    {
+      "name": "Åse Hotell",
+      "latitude": 62.463111,
+      "longitude": 6.313863
+    },
+    {
+      "name": "Øksfjord Hotell",
+      "latitude": 70.23792,
+      "longitude": 22.350953
+    },
+    {
+      "name": "Øren Hotel",
+      "latitude": 61.217162,
+      "longitude": 6.074434
+    },
+    {
+      "name": "Ørland Kysthotell",
+      "latitude": 63.685806,
+      "longitude": 9.666869
+    },
+    {
+      "name": "Ørnes Hotell",
+      "latitude": 66.868197,
+      "longitude": 13.705679
+    },
+    {
+      "name": "Østerdalen hotell",
+      "latitude": 61.167387,
+      "longitude": 11.343822
+    },
+    {
+      "name": "Гостиница",
+      "latitude": 69.022538,
+      "longitude": 28.992695
+    }
+  ],
+  "meta": {
+    "title": "Hoteller i Norge - Gratis nedlasting",
+    "description": "Named hotels in Norway from OpenStreetMap (tourism=hotel), bbox-filtered to Norwegian territory. Inneholder 1059 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Hoteller i Norge | ListBase",
+    "seo_description": "Last ned Hoteller i Norge — 1059 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 1059 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

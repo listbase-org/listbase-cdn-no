@@ -1,0 +1,445 @@
+{
+  "id": "no-innlandet-osm-museer",
+  "name": "Museer i Innlandet – OpenStreetMap (34 museums in Innlandet, OSM)",
+  "title": "Museer i Innlandet – OpenStreetMap (34 museums in Innlandet, OSM)",
+  "description": "Museer i fylket Innlandet fra OpenStreetMap — delmengde av no-osm-museer, 34 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aamodtgården",
+      "name_en": "",
+      "city": "Kongsvinger",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Kongsvinger",
+      "avstand_km": 1.084,
+      "latitude": 60.197952,
+      "longitude": 12.010343,
+      "website": ""
+    },
+    {
+      "name": "Aulestad",
+      "name_en": "",
+      "city": "Segalstad bru",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Follebu",
+      "avstand_km": 0.84,
+      "latitude": 61.219668,
+      "longitude": 10.271521,
+      "website": ""
+    },
+    {
+      "name": "Bagnsbergatn gård",
+      "name_en": "",
+      "city": "Bagn",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Bagn",
+      "avstand_km": 0.954,
+      "latitude": 60.831013,
+      "longitude": 9.554315,
+      "website": ""
+    },
+    {
+      "name": "Bjerkebæk",
+      "name_en": "",
+      "city": "Lillehammer",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Lillehammer",
+      "avstand_km": 0.888,
+      "latitude": 61.122931,
+      "longitude": 10.469508,
+      "website": ""
+    },
+    {
+      "name": "Eiktunet",
+      "name_en": "",
+      "city": "Gjøvik",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Gjøvik",
+      "avstand_km": 2.644,
+      "latitude": 60.804619,
+      "longitude": 10.646321,
+      "website": "http://www.mjosmuseet.no/museene/eiktunet"
+    },
+    {
+      "name": "Folldal bygdetun",
+      "name_en": "",
+      "city": "Folldal",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Folldal",
+      "avstand_km": 4.016,
+      "latitude": 62.100254,
+      "longitude": 9.96201,
+      "website": ""
+    },
+    {
+      "name": "Folldal gruver",
+      "name_en": "",
+      "city": "Folldal",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Folldal",
+      "avstand_km": 0.937,
+      "latitude": 62.140825,
+      "longitude": 9.99405,
+      "website": ""
+    },
+    {
+      "name": "Fossheim Stone Center",
+      "name_en": "",
+      "city": "Fossbergom",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Fossbergom",
+      "avstand_km": 0.34,
+      "latitude": 61.838921,
+      "longitude": 8.574339,
+      "website": ""
+    },
+    {
+      "name": "Hadeland Folkemuseum",
+      "name_en": "",
+      "city": "Jaren",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Jaren",
+      "avstand_km": 2.772,
+      "latitude": 60.3957,
+      "longitude": 10.5115,
+      "website": ""
+    },
+    {
+      "name": "Jomsborg",
+      "name_en": "",
+      "city": "Ringebu",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Folldal",
+      "avstand_km": 33.743,
+      "latitude": 61.849766,
+      "longitude": 10.231484,
+      "website": ""
+    },
+    {
+      "name": "Kirsten Flagstadmuseet",
+      "name_en": "",
+      "city": "Hamar",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Hamar",
+      "avstand_km": 0.176,
+      "latitude": 60.796034,
+      "longitude": 11.068805,
+      "website": ""
+    },
+    {
+      "name": "Kittilbu Utmarksmuseum",
+      "name_en": "",
+      "city": "Segalstad bru",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Forset",
+      "avstand_km": 10.221,
+      "latitude": 61.173643,
+      "longitude": 9.962447,
+      "website": "http://www.randsfjordmuseene.no/museene/kittilbu-utmarksmuseum/"
+    },
+    {
+      "name": "Klevfoss Industrimuseum",
+      "name_en": "",
+      "city": "Løten",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Ådalsbruk",
+      "avstand_km": 1.114,
+      "latitude": 60.786647,
+      "longitude": 11.31256,
+      "website": "http://www.skogmus.no/innhold/klevfos/forside.html"
+    },
+    {
+      "name": "Kunstbanken",
+      "name_en": "",
+      "city": "Hamar",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Hamar",
+      "avstand_km": 0.568,
+      "latitude": 60.792586,
+      "longitude": 11.077704,
+      "website": ""
+    },
+    {
+      "name": "Kvinnemuseet",
+      "name_en": "",
+      "city": "Kongsvinger",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Kongsvinger",
+      "avstand_km": 0.947,
+      "latitude": 60.19855,
+      "longitude": 12.003305,
+      "website": ""
+    },
+    {
+      "name": "Lalumsvangen setermuseum",
+      "name_en": "",
+      "city": "Sand",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Sand",
+      "avstand_km": 17.554,
+      "latitude": 60.533397,
+      "longitude": 11.397087,
+      "website": ""
+    },
+    {
+      "name": "Løiten Brænderi",
+      "name_en": "",
+      "city": "Løten",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Løten",
+      "avstand_km": 2.137,
+      "latitude": 60.826431,
+      "longitude": 11.305411,
+      "website": ""
+    },
+    {
+      "name": "Maihaugen",
+      "name_en": "",
+      "city": "Lillehammer",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Lillehammer",
+      "avstand_km": 0.831,
+      "latitude": 61.109287,
+      "longitude": 10.476011,
+      "website": ""
+    },
+    {
+      "name": "Marit Annys Vevstogo",
+      "name_en": "",
+      "city": "Slidre",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Slidre",
+      "avstand_km": 4.53,
+      "latitude": 61.125692,
+      "longitude": 8.949388,
+      "website": "http://www.maritannysvevstogo.no"
+    },
+    {
+      "name": "Norsk Fjellmuseum",
+      "name_en": "",
+      "city": "Fossbergom",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Fossbergom",
+      "avstand_km": 0.15,
+      "latitude": 61.83807,
+      "longitude": 8.565643,
+      "website": "norskfjellsenter.no"
+    },
+    {
+      "name": "Norsk Kjøretøyhistorisk Museum",
+      "name_en": "",
+      "city": "Lillehammer",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Lillehammer",
+      "avstand_km": 0.301,
+      "latitude": 61.117751,
+      "longitude": 10.467425,
+      "website": ""
+    },
+    {
+      "name": "Norsk Skogmuseum",
+      "name_en": "",
+      "city": "Elverum",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Elverum",
+      "avstand_km": 1.343,
+      "latitude": 60.869858,
+      "longitude": 11.560296,
+      "website": ""
+    },
+    {
+      "name": "Norsk motorhistorisk museum",
+      "name_en": "",
+      "city": "Stange",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Stange",
+      "avstand_km": 0.722,
+      "latitude": 60.717989,
+      "longitude": 11.207469,
+      "website": ""
+    },
+    {
+      "name": "Norsk vegmuseum",
+      "name_en": "",
+      "city": "Lillehammer",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Follebu",
+      "avstand_km": 7.922,
+      "latitude": 61.22654,
+      "longitude": 10.431302,
+      "website": "http://www.vegvesen.no/Om+Statens+vegvesen/Om+Statens+vegvesen/Norsk+vegmuseum"
+    },
+    {
+      "name": "Rendalen Bygdemuseum",
+      "name_en": "",
+      "city": "Bergset",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Bergset",
+      "avstand_km": 0.75,
+      "latitude": 61.884721,
+      "longitude": 11.080833,
+      "website": ""
+    },
+    {
+      "name": "Rørosmuseet",
+      "name_en": "",
+      "city": "Røros",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Os",
+      "avstand_km": 12.437,
+      "latitude": 62.577185,
+      "longitude": 11.39125,
+      "website": ""
+    },
+    {
+      "name": "Solbraa setermuseum",
+      "name_en": "",
+      "city": "Vinstra",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Vinstra",
+      "avstand_km": 11.599,
+      "latitude": 61.4907,
+      "longitude": 9.754855,
+      "website": ""
+    },
+    {
+      "name": "Sørlistua Fløtermuseum",
+      "name_en": "",
+      "city": "Elverum",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Innbygda",
+      "avstand_km": 25.249,
+      "latitude": 61.240747,
+      "longitude": 11.817027,
+      "website": "http://www.trysil.no/no/A/Sorlistoa-Flotermuseum/"
+    },
+    {
+      "name": "Valdres Folkemuseum",
+      "name_en": "",
+      "city": "Fagernes",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Fagernes",
+      "avstand_km": 0.552,
+      "latitude": 60.980908,
+      "longitude": 9.230611,
+      "website": "http://www.valdresmusea.no/"
+    },
+    {
+      "name": "Valdres folkemuseum",
+      "name_en": "",
+      "city": "Fagernes",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Fagernes",
+      "avstand_km": 0.744,
+      "latitude": 60.979126,
+      "longitude": 9.231524,
+      "website": ""
+    },
+    {
+      "name": "Vannbruksmuseum",
+      "name_en": "",
+      "city": "Ringebu",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Folldal",
+      "avstand_km": 33.742,
+      "latitude": 61.850362,
+      "longitude": 10.234679,
+      "website": ""
+    },
+    {
+      "name": "Villarksmuseum",
+      "name_en": "",
+      "city": "Engerdal",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Engerdal",
+      "avstand_km": 14.233,
+      "latitude": 61.88344,
+      "longitude": 12.02285,
+      "website": ""
+    },
+    {
+      "name": "Vitensenteret",
+      "name_en": "",
+      "city": "Gjøvik",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Gjøvik",
+      "avstand_km": 0.355,
+      "latitude": 60.792737,
+      "longitude": 10.689075,
+      "website": ""
+    },
+    {
+      "name": "Ådalsbruk motormuseum",
+      "name_en": "",
+      "city": "Løten",
+      "fylke": "Innlandet",
+      "naermeste_sted": "Ådalsbruk",
+      "avstand_km": 0.332,
+      "latitude": 60.793525,
+      "longitude": 11.30839,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Innlandet – OpenStreetMap (34 museums in Innlandet, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Innlandet fra OpenStreetMap — delmengde av no-osm-museer, 34 poster. Inneholder 34 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Innlandet – OpenStreetMap (34 museums in Innlandet, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Innlandet – OpenStreetMap (34 museums in Innlandet, OSM) — 34 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 34 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,756 @@
+{
+  "id": "no-busstasjoner",
+  "name": "Bus stations in Norway",
+  "title": "Bus stations in Norway",
+  "description": "Bus stations in Norway (Busstasjoner i Norge), derived from OpenStreetMap POIs tagged amenity=bus_station. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aksdal bussterminal",
+      "latitude": 59.420276,
+      "longitude": 5.449476
+    },
+    {
+      "name": "Alta sentrum",
+      "latitude": 69.964493,
+      "longitude": 23.273203
+    },
+    {
+      "name": "Amanda terminal",
+      "latitude": 59.394633,
+      "longitude": 5.329809
+    },
+    {
+      "name": "Arendal bussterminal",
+      "latitude": 58.460001,
+      "longitude": 8.764855
+    },
+    {
+      "name": "Arna terminal",
+      "latitude": 60.420066,
+      "longitude": 5.464154
+    },
+    {
+      "name": "Ask terminal",
+      "latitude": 60.072038,
+      "longitude": 11.034383
+    },
+    {
+      "name": "Asker stasjon",
+      "latitude": 59.83331,
+      "longitude": 10.433721
+    },
+    {
+      "name": "Askim stasjon",
+      "latitude": 59.581312,
+      "longitude": 11.16403
+    },
+    {
+      "name": "Bekkestua bussterminal",
+      "latitude": 59.917505,
+      "longitude": 10.588905
+    },
+    {
+      "name": "Bergen busstasjon",
+      "latitude": 60.388114,
+      "longitude": 5.333857
+    },
+    {
+      "name": "Blakstad bussterminal",
+      "latitude": 59.819264,
+      "longitude": 10.465262
+    },
+    {
+      "name": "Boreal Buss AS avd. Alta",
+      "latitude": 69.96421,
+      "longitude": 23.273829
+    },
+    {
+      "name": "Bragernes torg",
+      "latitude": 59.743605,
+      "longitude": 10.20324
+    },
+    {
+      "name": "Brandbu skysstasjon",
+      "latitude": 60.420054,
+      "longitude": 10.506174
+    },
+    {
+      "name": "Bryne stasjon",
+      "latitude": 58.734901,
+      "longitude": 5.648968
+    },
+    {
+      "name": "Bø stasjon",
+      "latitude": 59.409554,
+      "longitude": 9.069495
+    },
+    {
+      "name": "Dokka skysstasjon",
+      "latitude": 60.833913,
+      "longitude": 10.073157
+    },
+    {
+      "name": "Dolvik terminal",
+      "latitude": 60.308605,
+      "longitude": 5.269027
+    },
+    {
+      "name": "Dombås skyssterminal",
+      "latitude": 62.073237,
+      "longitude": 9.125216
+    },
+    {
+      "name": "Drammen busstasjon",
+      "latitude": 59.740605,
+      "longitude": 10.20017
+    },
+    {
+      "name": "Egersund bussterminal",
+      "latitude": 58.453382,
+      "longitude": 6.002438
+    },
+    {
+      "name": "Eidsvoll stasjon",
+      "latitude": 60.330174,
+      "longitude": 11.247125
+    },
+    {
+      "name": "Elverum skysstasjon",
+      "latitude": 60.882234,
+      "longitude": 11.547127
+    },
+    {
+      "name": "Fagernes skysstasjon",
+      "latitude": 60.98583,
+      "longitude": 9.239043
+    },
+    {
+      "name": "Flatøy terminal",
+      "latitude": 60.531887,
+      "longitude": 5.256477
+    },
+    {
+      "name": "Fredrikstad bussterminal",
+      "latitude": 59.213885,
+      "longitude": 10.940347
+    },
+    {
+      "name": "Fyllingsdalen terminal",
+      "latitude": 60.349277,
+      "longitude": 5.287835
+    },
+    {
+      "name": "Førde rutebilstasjon",
+      "latitude": 61.452431,
+      "longitude": 5.854045
+    },
+    {
+      "name": "Gatestopp Moa",
+      "latitude": 62.466054,
+      "longitude": 6.352144
+    },
+    {
+      "name": "Gaupemyr bussterminal",
+      "latitude": 58.268655,
+      "longitude": 8.395234
+    },
+    {
+      "name": "Giæverbukta bussterminal",
+      "latitude": 69.67295,
+      "longitude": 18.918493
+    },
+    {
+      "name": "Gjøvik skysstasjon",
+      "latitude": 60.796449,
+      "longitude": 10.694383
+    },
+    {
+      "name": "Gol skysstasjon",
+      "latitude": 60.702113,
+      "longitude": 8.941687
+    },
+    {
+      "name": "Grenstøl bussterminal",
+      "latitude": 58.614471,
+      "longitude": 8.901307
+    },
+    {
+      "name": "Grorud T",
+      "latitude": 59.960897,
+      "longitude": 10.883202
+    },
+    {
+      "name": "Hamar skysstasjon",
+      "latitude": 60.791363,
+      "longitude": 11.080375
+    },
+    {
+      "name": "Hammerfest bussterminal",
+      "latitude": 70.664454,
+      "longitude": 23.680502
+    },
+    {
+      "name": "Harebakken bussterminal",
+      "latitude": 58.473289,
+      "longitude": 8.745104
+    },
+    {
+      "name": "Hareid bussterminal",
+      "latitude": 62.370582,
+      "longitude": 6.029702
+    },
+    {
+      "name": "Harstad Byterminal",
+      "latitude": 68.799902,
+      "longitude": 16.546255
+    },
+    {
+      "name": "Haugesund bussterminal",
+      "latitude": 59.417055,
+      "longitude": 5.272928
+    },
+    {
+      "name": "Hauketo stasjon",
+      "latitude": 59.84612,
+      "longitude": 10.803321
+    },
+    {
+      "name": "Helsfyr T",
+      "latitude": 59.912759,
+      "longitude": 10.80114
+    },
+    {
+      "name": "Holmestrand stasjon",
+      "latitude": 59.492576,
+      "longitude": 10.312171
+    },
+    {
+      "name": "Håvik bussterminal",
+      "latitude": 59.320007,
+      "longitude": 5.290011
+    },
+    {
+      "name": "Hønefoss sentrum",
+      "latitude": 60.165219,
+      "longitude": 10.257483
+    },
+    {
+      "name": "Jessheim stasjon",
+      "latitude": 60.141896,
+      "longitude": 11.176129
+    },
+    {
+      "name": "Jevnaker rutebilstasjon",
+      "latitude": 60.239865,
+      "longitude": 10.385707
+    },
+    {
+      "name": "Karasjok bussterminal",
+      "latitude": 69.472713,
+      "longitude": 25.51697
+    },
+    {
+      "name": "Kirkenes kai",
+      "latitude": 69.727819,
+      "longitude": 30.071893
+    },
+    {
+      "name": "Kleppestø terminal",
+      "latitude": 60.407406,
+      "longitude": 5.226697
+    },
+    {
+      "name": "Kløfta stasjon",
+      "latitude": 60.07493,
+      "longitude": 11.138586
+    },
+    {
+      "name": "Kongsberg knutepunkt",
+      "latitude": 59.671744,
+      "longitude": 9.650339
+    },
+    {
+      "name": "Kongsvinger stasjon",
+      "latitude": 60.187459,
+      "longitude": 12.005095
+    },
+    {
+      "name": "Kragerø rutebilstasjon",
+      "latitude": 58.869851,
+      "longitude": 9.414922
+    },
+    {
+      "name": "Kristiansand rutebilstasjon",
+      "latitude": 58.145091,
+      "longitude": 7.98983
+    },
+    {
+      "name": "Kristiansund trafikkterminal",
+      "latitude": 63.115012,
+      "longitude": 7.733716
+    },
+    {
+      "name": "Kvaløysletta terminal",
+      "latitude": 69.695865,
+      "longitude": 18.882757
+    },
+    {
+      "name": "Lagunen terminal",
+      "latitude": 60.297619,
+      "longitude": 5.327921
+    },
+    {
+      "name": "Lakselv bussterminal",
+      "latitude": 70.050757,
+      "longitude": 24.948688
+    },
+    {
+      "name": "Leirvik terminal",
+      "latitude": 59.779243,
+      "longitude": 5.501149
+    },
+    {
+      "name": "Lena skysstasjon",
+      "latitude": 60.677205,
+      "longitude": 10.822217
+    },
+    {
+      "name": "Lensmannslia [Buss for tog]",
+      "latitude": 59.831053,
+      "longitude": 10.433254
+    },
+    {
+      "name": "Lierbyen bussterminal",
+      "latitude": 59.787076,
+      "longitude": 10.24221
+    },
+    {
+      "name": "Lillehammer skysstasjon",
+      "latitude": 61.114744,
+      "longitude": 10.461624
+    },
+    {
+      "name": "Lillestrøm bussterminal",
+      "latitude": 59.954005,
+      "longitude": 11.042721
+    },
+    {
+      "name": "Loddefjord terminal",
+      "latitude": 60.361893,
+      "longitude": 5.235079
+    },
+    {
+      "name": "Lyngdal rutebilstasjon",
+      "latitude": 58.138374,
+      "longitude": 7.072781
+    },
+    {
+      "name": "Løken",
+      "latitude": 59.795823,
+      "longitude": 11.465595
+    },
+    {
+      "name": "Lørenskog sentrum",
+      "latitude": 59.927947,
+      "longitude": 10.954844
+    },
+    {
+      "name": "Missingfjellet snuplass",
+      "latitude": 59.35137,
+      "longitude": 10.941964
+    },
+    {
+      "name": "Mjåsund bussterminal",
+      "latitude": 59.31546,
+      "longitude": 5.448253
+    },
+    {
+      "name": "Moa trafikkterminal",
+      "latitude": 62.467137,
+      "longitude": 6.351479
+    },
+    {
+      "name": "Molde trafikkterminal",
+      "latitude": 62.737213,
+      "longitude": 7.16145
+    },
+    {
+      "name": "Mortensrud T",
+      "latitude": 59.849605,
+      "longitude": 10.829163
+    },
+    {
+      "name": "Moss bussterminal",
+      "latitude": 59.436439,
+      "longitude": 10.662746
+    },
+    {
+      "name": "Nannestad torg",
+      "latitude": 60.219756,
+      "longitude": 11.013437
+    },
+    {
+      "name": "Narvik bussterminal",
+      "latitude": 68.437492,
+      "longitude": 17.421419
+    },
+    {
+      "name": "Nesoddtangen",
+      "latitude": 59.870676,
+      "longitude": 10.656821
+    },
+    {
+      "name": "Nordfjordeid rutebilstasjon",
+      "latitude": 61.906336,
+      "longitude": 5.991119
+    },
+    {
+      "name": "Norheim bussterminal",
+      "latitude": 59.379752,
+      "longitude": 5.30651
+    },
+    {
+      "name": "Notodden skysstasjon",
+      "latitude": 59.556853,
+      "longitude": 9.256718
+    },
+    {
+      "name": "Odda busstasjon",
+      "latitude": 60.070537,
+      "longitude": 6.54691
+    },
+    {
+      "name": "Olavsgaard",
+      "latitude": 59.979161,
+      "longitude": 11.001507
+    },
+    {
+      "name": "Olderfjord bussterminal",
+      "latitude": 70.478019,
+      "longitude": 25.066459
+    },
+    {
+      "name": "Oppdal skysstasjon",
+      "latitude": 62.593534,
+      "longitude": 9.695334
+    },
+    {
+      "name": "Orkanger skysstasjon",
+      "latitude": 63.29835,
+      "longitude": 9.847545
+    },
+    {
+      "name": "Oslo bussterminal",
+      "latitude": 59.911944,
+      "longitude": 10.757628
+    },
+    {
+      "name": "Oslo lufthavn",
+      "latitude": 60.193473,
+      "longitude": 11.097244
+    },
+    {
+      "name": "Osøyro Terminal",
+      "latitude": 60.185293,
+      "longitude": 5.469037
+    },
+    {
+      "name": "Otta skysstasjon",
+      "latitude": 61.772614,
+      "longitude": 9.536117
+    },
+    {
+      "name": "Porsgrunn Kammerherreløkka",
+      "latitude": 59.140391,
+      "longitude": 9.658174
+    },
+    {
+      "name": "Raufoss stasjon",
+      "latitude": 60.722593,
+      "longitude": 10.613329
+    },
+    {
+      "name": "Ringebu skysstasjon",
+      "latitude": 61.529511,
+      "longitude": 10.138547
+    },
+    {
+      "name": "Rjukan rutebilstasjon",
+      "latitude": 59.877484,
+      "longitude": 8.585899
+    },
+    {
+      "name": "Sandane rutebilstasjon",
+      "latitude": 61.776581,
+      "longitude": 6.21389
+    },
+    {
+      "name": "Sandeide terminal",
+      "latitude": 60.333832,
+      "longitude": 5.266144
+    },
+    {
+      "name": "Sandnes bussterminal Ruten",
+      "latitude": 58.851394,
+      "longitude": 5.736569
+    },
+    {
+      "name": "Sandvika bussterminal",
+      "latitude": 59.892905,
+      "longitude": 10.524556
+    },
+    {
+      "name": "Sarpsborg bussterminal",
+      "latitude": 59.283021,
+      "longitude": 11.107142
+    },
+    {
+      "name": "Sauda bussterminal",
+      "latitude": 59.647377,
+      "longitude": 6.352378
+    },
+    {
+      "name": "Seljord skysstasjon",
+      "latitude": 59.4801,
+      "longitude": 8.633897
+    },
+    {
+      "name": "Sjøholt",
+      "latitude": 62.481713,
+      "longitude": 6.816668
+    },
+    {
+      "name": "Skarnes Korsmo",
+      "latitude": 60.255762,
+      "longitude": 11.674527
+    },
+    {
+      "name": "Skien Landmannstorget",
+      "latitude": 59.209529,
+      "longitude": 9.609729
+    },
+    {
+      "name": "Skjelsvik knutepunkt",
+      "latitude": 59.09474,
+      "longitude": 9.687781
+    },
+    {
+      "name": "Skullerud",
+      "latitude": 59.866866,
+      "longitude": 10.839944
+    },
+    {
+      "name": "Sogndal skysstasjon",
+      "latitude": 61.230737,
+      "longitude": 7.09703
+    },
+    {
+      "name": "Sokn bussterminal",
+      "latitude": 59.056067,
+      "longitude": 5.67308
+    },
+    {
+      "name": "Solbakk bussterminal",
+      "latitude": 59.036567,
+      "longitude": 5.935514
+    },
+    {
+      "name": "Stavanger bussterminal",
+      "latitude": 58.966444,
+      "longitude": 5.73349
+    },
+    {
+      "name": "Storavatnet terminal",
+      "latitude": 60.37153,
+      "longitude": 5.214684
+    },
+    {
+      "name": "Storslett terminal",
+      "latitude": 69.766924,
+      "longitude": 21.025025
+    },
+    {
+      "name": "Straume terminal",
+      "latitude": 60.359763,
+      "longitude": 5.123537
+    },
+    {
+      "name": "Stryn rutebilstasjon",
+      "latitude": 61.902892,
+      "longitude": 6.713698
+    },
+    {
+      "name": "Strømmen stasjon",
+      "latitude": 59.948742,
+      "longitude": 11.00183
+    },
+    {
+      "name": "Sunndalsøra",
+      "latitude": 62.67501,
+      "longitude": 8.564596
+    },
+    {
+      "name": "Sætre bussterminal",
+      "latitude": 59.680602,
+      "longitude": 10.530243
+    },
+    {
+      "name": "Tangen",
+      "latitude": 58.895669,
+      "longitude": 9.284528
+    },
+    {
+      "name": "Tangvall",
+      "latitude": 58.097998,
+      "longitude": 7.813633
+    },
+    {
+      "name": "Tromsø Prostneset",
+      "latitude": 69.646987,
+      "longitude": 18.959555
+    },
+    {
+      "name": "Trondheim lufthavn",
+      "latitude": 63.454052,
+      "longitude": 10.917269
+    },
+    {
+      "name": "Trondheim S",
+      "latitude": 63.436107,
+      "longitude": 10.40108
+    },
+    {
+      "name": "Tynset bussterminal",
+      "latitude": 62.273712,
+      "longitude": 10.774101
+    },
+    {
+      "name": "Tønsberg rutebilstasjon",
+      "latitude": 59.269764,
+      "longitude": 10.412207
+    },
+    {
+      "name": "Tøsdalskiftet",
+      "latitude": 60.20528,
+      "longitude": 5.450615
+    },
+    {
+      "name": "Universitetet",
+      "latitude": 58.1626,
+      "longitude": 8.009154
+    },
+    {
+      "name": "Vadsø bussterminal",
+      "latitude": 70.071941,
+      "longitude": 29.751887
+    },
+    {
+      "name": "Varangerbotn bussterminal",
+      "latitude": 70.173207,
+      "longitude": 28.552658
+    },
+    {
+      "name": "Vestby stasjon",
+      "latitude": 59.604209,
+      "longitude": 10.749717
+    },
+    {
+      "name": "Vinstra skysstasjon",
+      "latitude": 61.595439,
+      "longitude": 9.747473
+    },
+    {
+      "name": "Volda rutebilstasjon",
+      "latitude": 62.145111,
+      "longitude": 6.071533
+    },
+    {
+      "name": "Voss stasjon",
+      "latitude": 60.628988,
+      "longitude": 6.412247
+    },
+    {
+      "name": "Vågåmo rutebilstasjon",
+      "latitude": 61.877685,
+      "longitude": 9.0999
+    },
+    {
+      "name": "Ågotnes terminal",
+      "latitude": 60.405297,
+      "longitude": 4.996752
+    },
+    {
+      "name": "Åmot skysstasjon",
+      "latitude": 59.893516,
+      "longitude": 9.928187
+    },
+    {
+      "name": "Åndalsnes stasjon",
+      "latitude": 62.567555,
+      "longitude": 7.689338
+    },
+    {
+      "name": "Årnes stasjon",
+      "latitude": 60.123333,
+      "longitude": 11.465094
+    },
+    {
+      "name": "Ås stasjon",
+      "latitude": 59.663815,
+      "longitude": 10.793933
+    },
+    {
+      "name": "Åsane terminal",
+      "latitude": 60.463225,
+      "longitude": 5.321366
+    },
+    {
+      "name": "Ølen bussterminal",
+      "latitude": 59.606025,
+      "longitude": 5.805915
+    },
+    {
+      "name": "Ørsta rutebilstasjon",
+      "latitude": 62.197508,
+      "longitude": 6.12657
+    },
+    {
+      "name": "Øvrabø bussterminal",
+      "latitude": 59.427027,
+      "longitude": 6.122316
+    }
+  ],
+  "meta": {
+    "title": "Bus stations in Norway - Gratis nedlasting",
+    "description": "Bus stations in Norway (Busstasjoner i Norge), derived from OpenStreetMap POIs tagged amenity=bus_station. Named features only, clipped to mainland Norway. Inneholder 143 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Bus stations in Norway | ListBase",
+    "seo_description": "Last ned Bus stations in Norway — 143 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 143 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

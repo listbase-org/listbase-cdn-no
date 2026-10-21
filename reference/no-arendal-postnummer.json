@@ -1,0 +1,368 @@
+{
+  "id": "no-arendal-postnummer",
+  "name": "Postnummer i Arendal",
+  "title": "Postnummer i Arendal",
+  "description": "Alle 39 postnummer i Arendal kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "4801",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4802",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4803",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4804",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4808",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4809",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4810",
+      "poststed": "Eydehavn",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4812",
+      "poststed": "Kongshavn",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4815",
+      "poststed": "Saltrød",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4816",
+      "poststed": "Kolbjørnsvik",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4817",
+      "poststed": "His",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4818",
+      "poststed": "Færvik",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4821",
+      "poststed": "Rykene",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4822",
+      "poststed": "Rykene",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4823",
+      "poststed": "Nedenes",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4824",
+      "poststed": "Bjorbekk",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4825",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4836",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4838",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4839",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4841",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4842",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4843",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4844",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4846",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4847",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4848",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4849",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4851",
+      "poststed": "Saltrød",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4852",
+      "poststed": "Færvik",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4853",
+      "poststed": "His",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4854",
+      "poststed": "Nedenes",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4856",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4857",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4858",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4859",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4862",
+      "poststed": "Eydehavn",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4920",
+      "poststed": "Staubø",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4921",
+      "poststed": "Staubø",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Arendal - Gratis nedlasting",
+    "description": "Alle 39 postnummer i Arendal kommune med poststed. Inneholder 39 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Arendal | ListBase",
+    "seo_description": "Last ned Postnummer i Arendal — 39 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 39 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

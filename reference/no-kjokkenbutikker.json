@@ -1,0 +1,471 @@
+{
+  "id": "no-kjokkenbutikker",
+  "name": "Kitchen shops in Norway",
+  "title": "Kitchen shops in Norway",
+  "description": "Kitchen shops in Norway (Kjokkenbutikker i Norge), derived from OpenStreetMap POIs tagged shop=kitchen. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aran Bergen",
+      "latitude": 60.398113,
+      "longitude": 5.310027
+    },
+    {
+      "name": "Askøy Kjøkkensenter AS",
+      "latitude": 60.427574,
+      "longitude": 5.192249
+    },
+    {
+      "name": "bulthaup",
+      "latitude": 59.918421,
+      "longitude": 10.703947
+    },
+    {
+      "name": "Christiania Glasmagasin",
+      "latitude": 62.340468,
+      "longitude": 5.854952
+    },
+    {
+      "name": "Christiania Glassmagasin",
+      "latitude": 60.35837,
+      "longitude": 5.124611
+    },
+    {
+      "name": "Drømmekjøkkenet",
+      "latitude": 59.412186,
+      "longitude": 9.080343
+    },
+    {
+      "name": "Drømmekjøkkenet",
+      "latitude": 59.95351,
+      "longitude": 11.049995
+    },
+    {
+      "name": "Drømmekjøkkenet",
+      "latitude": 63.441623,
+      "longitude": 10.455293
+    },
+    {
+      "name": "Drømmekjøkkenet",
+      "latitude": 69.675927,
+      "longitude": 18.927039
+    },
+    {
+      "name": "Drømmekjøkkenet Larvik",
+      "latitude": 59.054974,
+      "longitude": 10.030762
+    },
+    {
+      "name": "Drømmekjøkkenet Moss",
+      "latitude": 59.414963,
+      "longitude": 10.685081
+    },
+    {
+      "name": "EasyStone",
+      "latitude": 59.761034,
+      "longitude": 10.23181
+    },
+    {
+      "name": "Elon",
+      "latitude": 63.112876,
+      "longitude": 7.732354
+    },
+    {
+      "name": "Expo Nova kjøkken",
+      "latitude": 59.921904,
+      "longitude": 10.686012
+    },
+    {
+      "name": "Farsund Kjøkkensenter",
+      "latitude": 58.079106,
+      "longitude": 6.767875
+    },
+    {
+      "name": "Fossline",
+      "latitude": 63.406505,
+      "longitude": 10.396875
+    },
+    {
+      "name": "Fresh Interiør",
+      "latitude": 59.921805,
+      "longitude": 10.688461
+    },
+    {
+      "name": "Giving & Dining",
+      "latitude": 59.835437,
+      "longitude": 10.642932
+    },
+    {
+      "name": "Herjedalskjøkken",
+      "latitude": 60.462641,
+      "longitude": 5.316666
+    },
+    {
+      "name": "HTH",
+      "latitude": 59.911831,
+      "longitude": 10.7261
+    },
+    {
+      "name": "HTH",
+      "latitude": 59.917591,
+      "longitude": 10.792666
+    },
+    {
+      "name": "HTH",
+      "latitude": 59.921257,
+      "longitude": 10.688515
+    },
+    {
+      "name": "HTH",
+      "latitude": 62.736917,
+      "longitude": 7.165598
+    },
+    {
+      "name": "HTH Kjøkkenforum",
+      "latitude": 59.732219,
+      "longitude": 10.212908
+    },
+    {
+      "name": "HTH Kjøkkenforum",
+      "latitude": 60.374305,
+      "longitude": 5.339675
+    },
+    {
+      "name": "HTH kjøkkenforum Sotra",
+      "latitude": 60.35829,
+      "longitude": 5.127933
+    },
+    {
+      "name": "HTH Kjøkkenforum Trondheim",
+      "latitude": 63.442583,
+      "longitude": 10.452116
+    },
+    {
+      "name": "HTH Kjøkkenforum Østfold",
+      "latitude": 59.250965,
+      "longitude": 10.995692
+    },
+    {
+      "name": "Huseby",
+      "latitude": 61.089329,
+      "longitude": 6.586603
+    },
+    {
+      "name": "Huseby kjøkken",
+      "latitude": 59.921852,
+      "longitude": 10.685249
+    },
+    {
+      "name": "Huseby Kjøkkenstudio Nøtterøy",
+      "latitude": 59.243597,
+      "longitude": 10.424737
+    },
+    {
+      "name": "Index Interiør",
+      "latitude": 60.394296,
+      "longitude": 5.320799
+    },
+    {
+      "name": "Inmente",
+      "latitude": 59.758285,
+      "longitude": 10.269584
+    },
+    {
+      "name": "JKE Design",
+      "latitude": 59.963297,
+      "longitude": 11.064959
+    },
+    {
+      "name": "JKE Design Larvik",
+      "latitude": 59.065479,
+      "longitude": 10.040608
+    },
+    {
+      "name": "Keo",
+      "latitude": 59.954736,
+      "longitude": 11.047048
+    },
+    {
+      "name": "Kitch'n",
+      "latitude": 59.743211,
+      "longitude": 10.206521
+    },
+    {
+      "name": "Kitch'n",
+      "latitude": 59.856353,
+      "longitude": 10.66072
+    },
+    {
+      "name": "Kitch'n",
+      "latitude": 59.910098,
+      "longitude": 10.726353
+    },
+    {
+      "name": "Kitch'n",
+      "latitude": 59.92134,
+      "longitude": 10.680445
+    },
+    {
+      "name": "Kitch'n",
+      "latitude": 63.435864,
+      "longitude": 10.455854
+    },
+    {
+      "name": "Kitch'n",
+      "latitude": 69.674484,
+      "longitude": 18.924239
+    },
+    {
+      "name": "Kitch'n vågen 33",
+      "latitude": 58.851411,
+      "longitude": 5.738747
+    },
+    {
+      "name": "Kitchen",
+      "latitude": 63.110193,
+      "longitude": 7.732702
+    },
+    {
+      "name": "Kitch´n",
+      "latitude": 59.210709,
+      "longitude": 10.930566
+    },
+    {
+      "name": "Kjøkkenforum",
+      "latitude": 59.927091,
+      "longitude": 10.847356
+    },
+    {
+      "name": "Kjøkkenhuset",
+      "latitude": 60.795488,
+      "longitude": 10.687817
+    },
+    {
+      "name": "Kjøkkensenteret",
+      "latitude": 59.747672,
+      "longitude": 10.192091
+    },
+    {
+      "name": "Kvik",
+      "latitude": 59.251167,
+      "longitude": 10.996007
+    },
+    {
+      "name": "Kvik",
+      "latitude": 59.922495,
+      "longitude": 10.686884
+    },
+    {
+      "name": "Kvik",
+      "latitude": 62.739548,
+      "longitude": 7.182052
+    },
+    {
+      "name": "Kvik Kjøkken",
+      "latitude": 60.362601,
+      "longitude": 5.346735
+    },
+    {
+      "name": "Kvik kjøkken",
+      "latitude": 60.471249,
+      "longitude": 5.321399
+    },
+    {
+      "name": "Mesterkjøkken",
+      "latitude": 59.451351,
+      "longitude": 10.686859
+    },
+    {
+      "name": "Mesterkjøkken Halden",
+      "latitude": 59.12444,
+      "longitude": 11.452654
+    },
+    {
+      "name": "Michelsens",
+      "latitude": 59.934802,
+      "longitude": 10.759238
+    },
+    {
+      "name": "Multiform Studio",
+      "latitude": 59.918889,
+      "longitude": 10.70128
+    },
+    {
+      "name": "Norema",
+      "latitude": 59.91297,
+      "longitude": 10.72711
+    },
+    {
+      "name": "O. Johansen & sønner",
+      "latitude": 59.955846,
+      "longitude": 11.069196
+    },
+    {
+      "name": "Rafens",
+      "latitude": 60.358887,
+      "longitude": 5.125766
+    },
+    {
+      "name": "Rotpunkt",
+      "latitude": 59.742893,
+      "longitude": 10.20883
+    },
+    {
+      "name": "Røskaft Kjøkkenstudio - Husebykjøkken",
+      "latitude": 63.443936,
+      "longitude": 10.443055
+    },
+    {
+      "name": "Røskaft Kjøkkenstudio - KEO kjøkken",
+      "latitude": 63.443732,
+      "longitude": 10.443997
+    },
+    {
+      "name": "Scandinavia kjøkken",
+      "latitude": 58.960691,
+      "longitude": 5.737062
+    },
+    {
+      "name": "Schmidt",
+      "latitude": 59.73065,
+      "longitude": 10.218656
+    },
+    {
+      "name": "Schmidt kjøkken",
+      "latitude": 59.920957,
+      "longitude": 10.679178
+    },
+    {
+      "name": "Schmidt kjøkken Moss",
+      "latitude": 59.41256,
+      "longitude": 10.68866
+    },
+    {
+      "name": "Sigdal",
+      "latitude": 58.466436,
+      "longitude": 8.721842
+    },
+    {
+      "name": "Sigdal",
+      "latitude": 59.921423,
+      "longitude": 10.677461
+    },
+    {
+      "name": "Sigdal",
+      "latitude": 62.7376,
+      "longitude": 7.160782
+    },
+    {
+      "name": "Sigdal",
+      "latitude": 63.363073,
+      "longitude": 10.377547
+    },
+    {
+      "name": "Strai Kjøkken og Bad",
+      "latitude": 58.175929,
+      "longitude": 8.136214
+    },
+    {
+      "name": "Studio Sigdal",
+      "latitude": 60.362262,
+      "longitude": 5.34696
+    },
+    {
+      "name": "Studio Sigdal Bodø",
+      "latitude": 67.285923,
+      "longitude": 14.391037
+    },
+    {
+      "name": "Studio Sigdal Moss",
+      "latitude": 59.418002,
+      "longitude": 10.664939
+    },
+    {
+      "name": "Svane",
+      "latitude": 60.398469,
+      "longitude": 5.320961
+    },
+    {
+      "name": "Svane Kjøkkenet",
+      "latitude": 59.921173,
+      "longitude": 10.679387
+    },
+    {
+      "name": "Svane Kjøkkenet Alnabru",
+      "latitude": 59.923882,
+      "longitude": 10.847345
+    },
+    {
+      "name": "Tilbords",
+      "latitude": 60.349195,
+      "longitude": 5.29029
+    },
+    {
+      "name": "Tilbords",
+      "latitude": 60.358869,
+      "longitude": 5.125441
+    },
+    {
+      "name": "Tilbords",
+      "latitude": 63.435914,
+      "longitude": 10.457173
+    },
+    {
+      "name": "Tilbords",
+      "latitude": 63.443858,
+      "longitude": 10.447717
+    },
+    {
+      "name": "Tilbords",
+      "latitude": 69.646547,
+      "longitude": 18.955317
+    },
+    {
+      "name": "Traktøren",
+      "latitude": 63.433828,
+      "longitude": 10.396352
+    },
+    {
+      "name": "Uno Form",
+      "latitude": 59.921348,
+      "longitude": 10.72302
+    },
+    {
+      "name": "Unoform",
+      "latitude": 60.374508,
+      "longitude": 5.339722
+    }
+  ],
+  "meta": {
+    "title": "Kitchen shops in Norway - Gratis nedlasting",
+    "description": "Kitchen shops in Norway (Kjokkenbutikker i Norge), derived from OpenStreetMap POIs tagged shop=kitchen. Named features only, clipped to mainland Norway. Inneholder 86 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Kitchen shops in Norway | ListBase",
+    "seo_description": "Last ned Kitchen shops in Norway — 86 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 86 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

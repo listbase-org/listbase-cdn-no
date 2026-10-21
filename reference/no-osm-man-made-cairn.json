@@ -1,0 +1,796 @@
+{
+  "id": "no-osm-man-made-cairn",
+  "name": "Named cairns in Norway",
+  "title": "Named cairns in Norway",
+  "description": "Named cairns in Norway, derived from OpenStreetMap POI nodes tagged man_made=cairn in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 151,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "11",
+      "latitude": 60.397398,
+      "longitude": 5.607919
+    },
+    {
+      "name": "12",
+      "latitude": 60.396516,
+      "longitude": 5.607099
+    },
+    {
+      "name": "14",
+      "latitude": 60.394515,
+      "longitude": 5.604866
+    },
+    {
+      "name": "16",
+      "latitude": 60.384766,
+      "longitude": 5.549441
+    },
+    {
+      "name": "16",
+      "latitude": 60.392647,
+      "longitude": 5.601705
+    },
+    {
+      "name": "17",
+      "latitude": 60.386807,
+      "longitude": 5.545757
+    },
+    {
+      "name": "17",
+      "latitude": 60.392488,
+      "longitude": 5.599217
+    },
+    {
+      "name": "18",
+      "latitude": 60.385665,
+      "longitude": 5.542195
+    },
+    {
+      "name": "18",
+      "latitude": 60.392071,
+      "longitude": 5.598024
+    },
+    {
+      "name": "19",
+      "latitude": 60.383959,
+      "longitude": 5.538066
+    },
+    {
+      "name": "19",
+      "latitude": 60.391222,
+      "longitude": 5.596785
+    },
+    {
+      "name": "21",
+      "latitude": 60.390053,
+      "longitude": 5.595147
+    },
+    {
+      "name": "22",
+      "latitude": 60.389182,
+      "longitude": 5.594319
+    },
+    {
+      "name": "23",
+      "latitude": 60.388851,
+      "longitude": 5.593776
+    },
+    {
+      "name": "24",
+      "latitude": 60.388124,
+      "longitude": 5.592298
+    },
+    {
+      "name": "26",
+      "latitude": 60.387298,
+      "longitude": 5.591078
+    },
+    {
+      "name": "28",
+      "latitude": 60.386667,
+      "longitude": 5.590063
+    },
+    {
+      "name": "3",
+      "latitude": 60.370712,
+      "longitude": 5.556148
+    },
+    {
+      "name": "36",
+      "latitude": 60.381639,
+      "longitude": 5.584766
+    },
+    {
+      "name": "37",
+      "latitude": 60.380677,
+      "longitude": 5.585202
+    },
+    {
+      "name": "38",
+      "latitude": 60.379716,
+      "longitude": 5.585807
+    },
+    {
+      "name": "4",
+      "latitude": 60.371369,
+      "longitude": 5.555484
+    },
+    {
+      "name": "6",
+      "latitude": 60.373597,
+      "longitude": 5.552956
+    },
+    {
+      "name": "7",
+      "latitude": 60.374784,
+      "longitude": 5.552391
+    },
+    {
+      "name": "7",
+      "latitude": 60.4009,
+      "longitude": 5.611932
+    },
+    {
+      "name": "72",
+      "latitude": 60.368106,
+      "longitude": 5.556322
+    },
+    {
+      "name": "73",
+      "latitude": 60.367598,
+      "longitude": 5.55445
+    },
+    {
+      "name": "74",
+      "latitude": 60.367021,
+      "longitude": 5.551049
+    },
+    {
+      "name": "76",
+      "latitude": 60.365108,
+      "longitude": 5.547475
+    },
+    {
+      "name": "77",
+      "latitude": 60.364125,
+      "longitude": 5.545951
+    },
+    {
+      "name": "78",
+      "latitude": 60.363684,
+      "longitude": 5.543909
+    },
+    {
+      "name": "79",
+      "latitude": 60.363052,
+      "longitude": 5.541133
+    },
+    {
+      "name": "8",
+      "latitude": 60.4,
+      "longitude": 5.611085
+    },
+    {
+      "name": "81",
+      "latitude": 60.363702,
+      "longitude": 5.539368
+    },
+    {
+      "name": "82",
+      "latitude": 60.364773,
+      "longitude": 5.538548
+    },
+    {
+      "name": "83",
+      "latitude": 60.365687,
+      "longitude": 5.536573
+    },
+    {
+      "name": "84",
+      "latitude": 60.366897,
+      "longitude": 5.533761
+    },
+    {
+      "name": "86",
+      "latitude": 60.369233,
+      "longitude": 5.529736
+    },
+    {
+      "name": "9",
+      "latitude": 60.377205,
+      "longitude": 5.551994
+    },
+    {
+      "name": "9",
+      "latitude": 60.398433,
+      "longitude": 5.610352
+    },
+    {
+      "name": "A",
+      "latitude": 60.373849,
+      "longitude": 5.585879
+    },
+    {
+      "name": "Aukevarden",
+      "latitude": 59.746889,
+      "longitude": 10.47778
+    },
+    {
+      "name": "B",
+      "latitude": 60.373397,
+      "longitude": 5.584291
+    },
+    {
+      "name": "Blekvarden",
+      "latitude": 59.045763,
+      "longitude": 8.741547
+    },
+    {
+      "name": "Blesti",
+      "latitude": 60.724739,
+      "longitude": 8.540959
+    },
+    {
+      "name": "Brotthatten",
+      "latitude": 61.002733,
+      "longitude": 6.677352
+    },
+    {
+      "name": "Børaunen",
+      "latitude": 59.016386,
+      "longitude": 5.565169
+    },
+    {
+      "name": "C",
+      "latitude": 60.372864,
+      "longitude": 5.582148
+    },
+    {
+      "name": "CO",
+      "latitude": 60.369024,
+      "longitude": 5.52577
+    },
+    {
+      "name": "CP",
+      "latitude": 60.368341,
+      "longitude": 5.524058
+    },
+    {
+      "name": "CU",
+      "latitude": 60.361645,
+      "longitude": 5.509671
+    },
+    {
+      "name": "D",
+      "latitude": 60.372558,
+      "longitude": 5.58073
+    },
+    {
+      "name": "Deiknen",
+      "latitude": 58.339287,
+      "longitude": 7.145343
+    },
+    {
+      "name": "E",
+      "latitude": 60.372431,
+      "longitude": 5.579778
+    },
+    {
+      "name": "Erdalsvarden",
+      "latitude": 60.360932,
+      "longitude": 5.420957
+    },
+    {
+      "name": "F",
+      "latitude": 60.372465,
+      "longitude": 5.579116
+    },
+    {
+      "name": "Finn-kjærringa",
+      "latitude": 70.104339,
+      "longitude": 29.711587
+    },
+    {
+      "name": "Fjerdingen",
+      "latitude": 59.135524,
+      "longitude": 9.768398
+    },
+    {
+      "name": "Fløtravarden",
+      "latitude": 61.778009,
+      "longitude": 6.453896
+    },
+    {
+      "name": "Fløya",
+      "latitude": 69.62403,
+      "longitude": 18.996735
+    },
+    {
+      "name": "Fresvikvarden",
+      "latitude": 60.996719,
+      "longitude": 6.760091
+    },
+    {
+      "name": "G",
+      "latitude": 60.373633,
+      "longitude": 5.578189
+    },
+    {
+      "name": "H",
+      "latitude": 60.372957,
+      "longitude": 5.577256
+    },
+    {
+      "name": "Hamrevarden",
+      "latitude": 58.343437,
+      "longitude": 6.987484
+    },
+    {
+      "name": "Havrefjell",
+      "latitude": 58.923445,
+      "longitude": 8.712807
+    },
+    {
+      "name": "Hunden",
+      "latitude": 58.33932,
+      "longitude": 7.14541
+    },
+    {
+      "name": "Høgevarde",
+      "latitude": 60.774372,
+      "longitude": 6.279829
+    },
+    {
+      "name": "I",
+      "latitude": 60.371913,
+      "longitude": 5.576784
+    },
+    {
+      "name": "Ivar i Urn",
+      "latitude": 61.203181,
+      "longitude": 8.729792
+    },
+    {
+      "name": "J",
+      "latitude": 60.370278,
+      "longitude": 5.576311
+    },
+    {
+      "name": "Jensvarden",
+      "latitude": 61.550544,
+      "longitude": 12.191408
+    },
+    {
+      "name": "K",
+      "latitude": 60.368495,
+      "longitude": 5.576374
+    },
+    {
+      "name": "Kjeholmen",
+      "latitude": 58.638381,
+      "longitude": 9.147528
+    },
+    {
+      "name": "Kjeringe i Ura",
+      "latitude": 61.147769,
+      "longitude": 8.596111
+    },
+    {
+      "name": "Kjetilvarden",
+      "latitude": 69.662007,
+      "longitude": 29.782983
+    },
+    {
+      "name": "Klovsteinan",
+      "latitude": 58.211903,
+      "longitude": 6.851752
+    },
+    {
+      "name": "Knabenrøysa",
+      "latitude": 58.670736,
+      "longitude": 7.159352
+    },
+    {
+      "name": "Knutshøe",
+      "latitude": 61.479967,
+      "longitude": 8.755231
+    },
+    {
+      "name": "Kongen",
+      "latitude": 61.204125,
+      "longitude": 8.734231
+    },
+    {
+      "name": "Korset",
+      "latitude": 60.051654,
+      "longitude": 10.757886
+    },
+    {
+      "name": "Kråkeslottet",
+      "latitude": 63.478942,
+      "longitude": 8.287852
+    },
+    {
+      "name": "Kulturhuset, Ryfylkemuseet, Lille Ryfylke",
+      "latitude": 59.482664,
+      "longitude": 6.249801
+    },
+    {
+      "name": "L",
+      "latitude": 60.367174,
+      "longitude": 5.576172
+    },
+    {
+      "name": "Langebrurøysa",
+      "latitude": 60.367011,
+      "longitude": 10.207886
+    },
+    {
+      "name": "Lauritz Larssens varde",
+      "latitude": 69.585877,
+      "longitude": 18.993194
+    },
+    {
+      "name": "Lykkerøysa",
+      "latitude": 59.984764,
+      "longitude": 10.527781
+    },
+    {
+      "name": "Løytnant Vibes varde",
+      "latitude": 61.216972,
+      "longitude": 12.137942
+    },
+    {
+      "name": "M",
+      "latitude": 60.36589,
+      "longitude": 5.575782
+    },
+    {
+      "name": "Middagsvarden",
+      "latitude": 67.521508,
+      "longitude": 12.126364
+    },
+    {
+      "name": "Middagsvarin",
+      "latitude": 61.147203,
+      "longitude": 8.414497
+    },
+    {
+      "name": "Moisvarden",
+      "latitude": 58.328727,
+      "longitude": 7.099291
+    },
+    {
+      "name": "N",
+      "latitude": 60.363864,
+      "longitude": 5.572246
+    },
+    {
+      "name": "Nonsvardin",
+      "latitude": 61.18788,
+      "longitude": 8.347211
+    },
+    {
+      "name": "Nordre Smørmyråsrøstet",
+      "latitude": 61.357933,
+      "longitude": 12.281383
+    },
+    {
+      "name": "Nunsvavarden",
+      "latitude": 58.168769,
+      "longitude": 7.102964
+    },
+    {
+      "name": "Nylandsvarden",
+      "latitude": 58.077093,
+      "longitude": 7.053713
+    },
+    {
+      "name": "O",
+      "latitude": 60.363056,
+      "longitude": 5.570739
+    },
+    {
+      "name": "Ovnen",
+      "latitude": 58.864499,
+      "longitude": 8.792534
+    },
+    {
+      "name": "P",
+      "latitude": 60.363795,
+      "longitude": 5.568716
+    },
+    {
+      "name": "Presten",
+      "latitude": 58.336985,
+      "longitude": 7.159935
+    },
+    {
+      "name": "Q",
+      "latitude": 60.364945,
+      "longitude": 5.566737
+    },
+    {
+      "name": "R",
+      "latitude": 60.365559,
+      "longitude": 5.565665
+    },
+    {
+      "name": "Rauskrevaren",
+      "latitude": 60.521782,
+      "longitude": 5.686348
+    },
+    {
+      "name": "Risevarden",
+      "latitude": 58.420319,
+      "longitude": 6.876167
+    },
+    {
+      "name": "Røysa",
+      "latitude": 59.485856,
+      "longitude": 9.724645
+    },
+    {
+      "name": "S",
+      "latitude": 60.367005,
+      "longitude": 5.564272
+    },
+    {
+      "name": "Sibbuvarden",
+      "latitude": 58.304726,
+      "longitude": 6.87003
+    },
+    {
+      "name": "Skauvarden",
+      "latitude": 67.524586,
+      "longitude": 12.135947
+    },
+    {
+      "name": "Skinnesvarden",
+      "latitude": 59.470431,
+      "longitude": 9.968386
+    },
+    {
+      "name": "Skyrvarden",
+      "latitude": 58.778393,
+      "longitude": 5.605534
+    },
+    {
+      "name": "Sleavarden",
+      "latitude": 60.68776,
+      "longitude": 6.303321
+    },
+    {
+      "name": "Solandsvarden",
+      "latitude": 58.333807,
+      "longitude": 6.612106
+    },
+    {
+      "name": "Solåsen",
+      "latitude": 59.857238,
+      "longitude": 10.858707
+    },
+    {
+      "name": "Sonjavarden",
+      "latitude": 61.075112,
+      "longitude": 8.831639
+    },
+    {
+      "name": "Statens Varde",
+      "latitude": 58.295825,
+      "longitude": 6.421989
+    },
+    {
+      "name": "Stein",
+      "latitude": 59.944473,
+      "longitude": 10.540001
+    },
+    {
+      "name": "Store Borras",
+      "latitude": 69.941343,
+      "longitude": 23.590702
+    },
+    {
+      "name": "Stølskniben varde",
+      "latitude": 58.132064,
+      "longitude": 7.158788
+    },
+    {
+      "name": "T",
+      "latitude": 60.368215,
+      "longitude": 5.563529
+    },
+    {
+      "name": "Tangfallrøset",
+      "latitude": 61.229553,
+      "longitude": 12.484117
+    },
+    {
+      "name": "Tjuvhellerknuten",
+      "latitude": 58.799279,
+      "longitude": 9.33059
+    },
+    {
+      "name": "Trefylkesrøysa",
+      "latitude": 60.017266,
+      "longitude": 10.489308
+    },
+    {
+      "name": "Tunnasetvarden",
+      "latitude": 60.663893,
+      "longitude": 6.304083
+    },
+    {
+      "name": "Tvivardadn",
+      "latitude": 61.205428,
+      "longitude": 8.7348
+    },
+    {
+      "name": "Tyrigravåsen",
+      "latitude": 59.68767,
+      "longitude": 10.945601
+    },
+    {
+      "name": "U",
+      "latitude": 60.368582,
+      "longitude": 5.562035
+    },
+    {
+      "name": "Varde",
+      "latitude": 59.639892,
+      "longitude": 11.189202
+    },
+    {
+      "name": "Varde 1",
+      "latitude": 60.369208,
+      "longitude": 5.558791
+    },
+    {
+      "name": "Varde 10",
+      "latitude": 60.378172,
+      "longitude": 5.551532
+    },
+    {
+      "name": "Varde 10",
+      "latitude": 60.397684,
+      "longitude": 5.609597
+    },
+    {
+      "name": "Varde 15",
+      "latitude": 60.384056,
+      "longitude": 5.550803
+    },
+    {
+      "name": "Varde 15",
+      "latitude": 60.393497,
+      "longitude": 5.603261
+    },
+    {
+      "name": "Varde 2",
+      "latitude": 60.369698,
+      "longitude": 5.557663
+    },
+    {
+      "name": "Varde 20",
+      "latitude": 60.39053,
+      "longitude": 5.595645
+    },
+    {
+      "name": "Varde 25",
+      "latitude": 60.387611,
+      "longitude": 5.591594
+    },
+    {
+      "name": "Varde 27",
+      "latitude": 60.386993,
+      "longitude": 5.590399
+    },
+    {
+      "name": "Varde 35",
+      "latitude": 60.382491,
+      "longitude": 5.584794
+    },
+    {
+      "name": "Varde 5",
+      "latitude": 60.372014,
+      "longitude": 5.554432
+    },
+    {
+      "name": "Varde 75",
+      "latitude": 60.366155,
+      "longitude": 5.547903
+    },
+    {
+      "name": "Varde 80",
+      "latitude": 60.362765,
+      "longitude": 5.53992
+    },
+    {
+      "name": "Varde 85",
+      "latitude": 60.36801,
+      "longitude": 5.53274
+    },
+    {
+      "name": "Varde 85 (2)",
+      "latitude": 60.368343,
+      "longitude": 5.533003
+    },
+    {
+      "name": "Varde X",
+      "latitude": 60.403713,
+      "longitude": 5.614969
+    },
+    {
+      "name": "Varden",
+      "latitude": 62.502071,
+      "longitude": 6.295574
+    },
+    {
+      "name": "Varden",
+      "latitude": 66.586781,
+      "longitude": 12.632256
+    },
+    {
+      "name": "Varden",
+      "latitude": 66.827011,
+      "longitude": 13.793992
+    },
+    {
+      "name": "Veslekollen",
+      "latitude": 60.092223,
+      "longitude": 10.841038
+    },
+    {
+      "name": "Ystevarden",
+      "latitude": 61.04975,
+      "longitude": 6.688622
+    },
+    {
+      "name": "Øst for Ringsrudåsen",
+      "latitude": 60.979089,
+      "longitude": 10.200305
+    },
+    {
+      "name": "Østentorøysa",
+      "latitude": 59.222419,
+      "longitude": 10.807921
+    },
+    {
+      "name": "Øyangsrøysa",
+      "latitude": 60.146644,
+      "longitude": 10.481117
+    }
+  ],
+  "meta": {
+    "title": "Named cairns in Norway - Gratis nedlasting",
+    "description": "Named cairns in Norway, derived from OpenStreetMap POI nodes tagged man_made=cairn in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 151 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named cairns in Norway | ListBase",
+    "seo_description": "Last ned Named cairns in Norway — 151 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 151 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

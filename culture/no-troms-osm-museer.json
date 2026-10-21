@@ -1,0 +1,192 @@
+{
+  "id": "no-troms-osm-museer",
+  "name": "Museer i Troms – OpenStreetMap (11 museums in Troms, OSM)",
+  "title": "Museer i Troms – OpenStreetMap (11 museums in Troms, OSM)",
+  "description": "Museer i fylket Troms fra OpenStreetMap — delmengde av no-osm-museer, 11 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Hella friluftsmuseum",
+      "name_en": "",
+      "city": "Tromsø",
+      "fylke": "Troms",
+      "naermeste_sted": "Tromsø",
+      "avstand_km": 13.458,
+      "latitude": 69.558797,
+      "longitude": 18.723244,
+      "website": ""
+    },
+    {
+      "name": "Hofsøy Bygdemuseum",
+      "name_en": "",
+      "city": "Hamnvik",
+      "fylke": "Troms",
+      "naermeste_sted": "Brøstadbotn",
+      "avstand_km": 26.189,
+      "latitude": 69.039066,
+      "longitude": 17.050562,
+      "website": ""
+    },
+    {
+      "name": "Krambuvika",
+      "name_en": "",
+      "city": "Tennevoll",
+      "fylke": "Troms",
+      "naermeste_sted": "Sjøvegan",
+      "avstand_km": 10.863,
+      "latitude": 68.778047,
+      "longitude": 17.790741,
+      "website": ""
+    },
+    {
+      "name": "Lenvik Bygdemuseum",
+      "name_en": "",
+      "city": "Finnsnes",
+      "fylke": "Troms",
+      "naermeste_sted": "Finnsnes",
+      "avstand_km": 14.012,
+      "latitude": 69.347032,
+      "longitude": 18.110305,
+      "website": ""
+    },
+    {
+      "name": "Mineralmuseum",
+      "name_en": "",
+      "city": "Setermoen",
+      "fylke": "Troms",
+      "naermeste_sted": "Setermoen",
+      "avstand_km": 8.781,
+      "latitude": 68.809219,
+      "longitude": 18.183458,
+      "website": ""
+    },
+    {
+      "name": "Nord-Norsk kunstmuseum",
+      "name_en": "",
+      "city": "Tromsø",
+      "fylke": "Troms",
+      "naermeste_sted": "Tromsø",
+      "avstand_km": 0.184,
+      "latitude": 69.648326,
+      "longitude": 18.959557,
+      "website": ""
+    },
+    {
+      "name": "Nordnorsk vitensenter",
+      "name_en": "",
+      "city": "Tromsø",
+      "fylke": "Troms",
+      "naermeste_sted": "Tromsø",
+      "avstand_km": 3.431,
+      "latitude": 69.67918,
+      "longitude": 18.972237,
+      "website": "http://nordnorsk.vitensenter.no/"
+    },
+    {
+      "name": "Perspektivet museum",
+      "name_en": "",
+      "city": "Tromsø",
+      "fylke": "Troms",
+      "naermeste_sted": "Tromsø",
+      "avstand_km": 2.347,
+      "latitude": 69.636602,
+      "longitude": 18.905797,
+      "website": ""
+    },
+    {
+      "name": "Perspektivet museum",
+      "name_en": "",
+      "city": "Tromsø",
+      "fylke": "Troms",
+      "naermeste_sted": "Tromsø",
+      "avstand_km": 0.414,
+      "latitude": 69.65234,
+      "longitude": 18.959224,
+      "website": ""
+    },
+    {
+      "name": "Polarmuseet",
+      "name_en": "",
+      "city": "Tromsø",
+      "fylke": "Troms",
+      "naermeste_sted": "Tromsø",
+      "avstand_km": 0.486,
+      "latitude": 69.652207,
+      "longitude": 18.963317,
+      "website": ""
+    },
+    {
+      "name": "Telemuseet",
+      "name_en": "",
+      "city": "Tromsø",
+      "fylke": "Troms",
+      "naermeste_sted": "Tromsø",
+      "avstand_km": 4.43,
+      "latitude": 69.684886,
+      "longitude": 18.905929,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Troms – OpenStreetMap (11 museums in Troms, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Troms fra OpenStreetMap — delmengde av no-osm-museer, 11 poster. Inneholder 11 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Troms – OpenStreetMap (11 museums in Troms, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Troms – OpenStreetMap (11 museums in Troms, OSM) — 11 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 11 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

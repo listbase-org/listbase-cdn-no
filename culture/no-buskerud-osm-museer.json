@@ -1,0 +1,291 @@
+{
+  "id": "no-buskerud-osm-museer",
+  "name": "Museer i Buskerud – OpenStreetMap (20 museums in Buskerud, OSM)",
+  "title": "Museer i Buskerud – OpenStreetMap (20 museums in Buskerud, OSM)",
+  "description": "Museer i fylket Buskerud fra OpenStreetMap — delmengde av no-osm-museer, 20 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Drammens Museum",
+      "name_en": "",
+      "city": "Drammen",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Drammen",
+      "avstand_km": 0.771,
+      "latitude": 59.737978,
+      "longitude": 10.19735,
+      "website": ""
+    },
+    {
+      "name": "Eventyrmuseet Villa Fridheim",
+      "name_en": "",
+      "city": "Noresund",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Noresund",
+      "avstand_km": 1.42,
+      "latitude": 60.167635,
+      "longitude": 9.631233,
+      "website": ""
+    },
+    {
+      "name": "Friluftsmuseet",
+      "name_en": "",
+      "city": "Drammen",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Drammen",
+      "avstand_km": 1.358,
+      "latitude": 59.756002,
+      "longitude": 10.201296,
+      "website": ""
+    },
+    {
+      "name": "Gol stave church",
+      "name_en": "",
+      "city": "Gol",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Gol",
+      "avstand_km": 0.373,
+      "latitude": 60.698361,
+      "longitude": 8.948599,
+      "website": ""
+    },
+    {
+      "name": "Gulden kunstverk",
+      "name_en": "",
+      "city": "Mjøndalen",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Mjøndalen",
+      "avstand_km": 3.207,
+      "latitude": 59.759633,
+      "longitude": 9.970363,
+      "website": ""
+    },
+    {
+      "name": "Hallingdal Folkemuseum",
+      "name_en": "",
+      "city": "Nesbyen",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Nesbyen",
+      "avstand_km": 0.64,
+      "latitude": 60.566393,
+      "longitude": 9.091518,
+      "website": ""
+    },
+    {
+      "name": "Holmsbu billedgalleri",
+      "name_en": "",
+      "city": "Berger",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Berger",
+      "avstand_km": 2.104,
+      "latitude": 59.552074,
+      "longitude": 10.423483,
+      "website": ""
+    },
+    {
+      "name": "Kjerratmuseet",
+      "name_en": "",
+      "city": "Vik",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Vik",
+      "avstand_km": 6.96,
+      "latitude": 60.124591,
+      "longitude": 10.360899,
+      "website": ""
+    },
+    {
+      "name": "Krøderbanen",
+      "name_en": "",
+      "city": "Noresund",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Noresund",
+      "avstand_km": 10.396,
+      "latitude": 60.12779,
+      "longitude": 9.78008,
+      "website": ""
+    },
+    {
+      "name": "Kystsamlingen",
+      "name_en": "",
+      "city": "Svelvik",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Svelvik",
+      "avstand_km": 3.708,
+      "latitude": 59.58362,
+      "longitude": 10.437127,
+      "website": ""
+    },
+    {
+      "name": "Labru",
+      "name_en": "",
+      "city": "Kongsberg",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Kongsberg",
+      "avstand_km": 5.532,
+      "latitude": 59.619725,
+      "longitude": 9.668553,
+      "website": ""
+    },
+    {
+      "name": "Lauvlia",
+      "name_en": "",
+      "city": "Prestfoss",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Prestfoss",
+      "avstand_km": 7.563,
+      "latitude": 60.062024,
+      "longitude": 9.50416,
+      "website": ""
+    },
+    {
+      "name": "Lier Bygdetun",
+      "name_en": "",
+      "city": "Tranby",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Tranby",
+      "avstand_km": 1.067,
+      "latitude": 59.799042,
+      "longitude": 10.257846,
+      "website": "http://lier-bygdetun.no/"
+    },
+    {
+      "name": "Lågdalsmuseet",
+      "name_en": "",
+      "city": "Kongsberg",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Kongsberg",
+      "avstand_km": 0.413,
+      "latitude": 59.667245,
+      "longitude": 9.657048,
+      "website": ""
+    },
+    {
+      "name": "Norsk Bergverksmuseum - Sakkerhusene",
+      "name_en": "",
+      "city": "Kongsberg",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Kongsberg",
+      "avstand_km": 5.256,
+      "latitude": 59.629337,
+      "longitude": 9.598105,
+      "website": ""
+    },
+    {
+      "name": "Riddergården",
+      "name_en": "",
+      "city": "Hønefoss",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Hønefoss",
+      "avstand_km": 0.321,
+      "latitude": 60.170101,
+      "longitude": 10.260475,
+      "website": ""
+    },
+    {
+      "name": "Støa",
+      "name_en": "",
+      "city": "Berger",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Berger",
+      "avstand_km": 1.915,
+      "latitude": 59.552744,
+      "longitude": 10.419926,
+      "website": ""
+    },
+    {
+      "name": "Svelvik museum",
+      "name_en": "",
+      "city": "Svelvik",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Svelvik",
+      "avstand_km": 0.071,
+      "latitude": 59.613998,
+      "longitude": 10.407577,
+      "website": ""
+    },
+    {
+      "name": "Vein Kulturminnepark",
+      "name_en": "",
+      "city": "Hønefoss",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Hønefoss",
+      "avstand_km": 1.643,
+      "latitude": 60.170139,
+      "longitude": 10.227102,
+      "website": ""
+    },
+    {
+      "name": "Ål bygdemuseum",
+      "name_en": "",
+      "city": "Ål",
+      "fylke": "Buskerud",
+      "naermeste_sted": "Ål",
+      "avstand_km": 1.146,
+      "latitude": 60.629759,
+      "longitude": 8.539697,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Buskerud – OpenStreetMap (20 museums in Buskerud, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Buskerud fra OpenStreetMap — delmengde av no-osm-museer, 20 poster. Inneholder 20 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Buskerud – OpenStreetMap (20 museums in Buskerud, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Buskerud – OpenStreetMap (20 museums in Buskerud, OSM) — 20 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 20 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

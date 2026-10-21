@@ -1,0 +1,322 @@
+{
+  "id": "no-skianlegg",
+  "name": "Skianlegg i Norge",
+  "title": "Skianlegg i Norge",
+  "description": "Liste over 46 alpinanlegg/skianlegg i Norge med navn, geografiske koordinater (lat/lng) og lenke til anleggets offisielle nettside. Dataene er hentet fra det åpne repositoriet rokija/ski-resorts (samling av europeiske skianlegg).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lng",
+      "label": "Lng",
+      "type": "number"
+    },
+    {
+      "key": "homepage",
+      "label": "Homepage",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Beitostølen",
+      "lat": 61.25,
+      "lng": 8.91,
+      "homepage": "http://www.beitostolen.com"
+    },
+    {
+      "name": "Bjorli",
+      "lat": 62.27,
+      "lng": 8.22,
+      "homepage": "http://www.bjorli.no/"
+    },
+    {
+      "name": "Brokke",
+      "lat": 59.12,
+      "lng": 7.5,
+      "homepage": "http://www.brokke.com/"
+    },
+    {
+      "name": "Filefjell Skiheiser",
+      "lat": 61.15,
+      "lng": 8.25,
+      "homepage": "http://www.filefjellresort.no/uk/index.htm"
+    },
+    {
+      "name": "Finse",
+      "lat": 60.6,
+      "lng": 7.5,
+      "homepage": "http://www.finse.com/"
+    },
+    {
+      "name": "Fonna Glacier",
+      "lat": 60.23,
+      "lng": 6.43,
+      "homepage": "http://www.folgefonn.no/en/"
+    },
+    {
+      "name": "Galdhøpiggen Sommerskisenter",
+      "lat": 61.67,
+      "lng": 8.36,
+      "homepage": "https://gpss.no"
+    },
+    {
+      "name": "Gausdal",
+      "lat": 61.2,
+      "lng": 10.14,
+      "homepage": "http://www.gausdal.com"
+    },
+    {
+      "name": "Gaustablikk",
+      "lat": 59.83,
+      "lng": 8.65,
+      "homepage": "http://www.gaustablikk.no/"
+    },
+    {
+      "name": "Gautefall",
+      "lat": 59.07,
+      "lng": 8.75,
+      "homepage": "http://www.gautefall.no/home/default.asp?sec=1&app=3&page=7"
+    },
+    {
+      "name": "Geilo",
+      "lat": 60.57,
+      "lng": 8.23,
+      "homepage": "http://www.geilo.no"
+    },
+    {
+      "name": "Grong",
+      "lat": 64.38,
+      "lng": 12.32,
+      "homepage": "http://www.grongfri.no/"
+    },
+    {
+      "name": "Gålå",
+      "lat": 61.5,
+      "lng": 9.79,
+      "homepage": "http://www.gala.no/"
+    },
+    {
+      "name": "Hafjell",
+      "lat": 61.27,
+      "lng": 10.37,
+      "homepage": "http://www.hafjell.no"
+    },
+    {
+      "name": "Hallingskarvet",
+      "lat": 60.62,
+      "lng": 7.75,
+      "homepage": "http://www.hallingskarvet-skisenter.no/"
+    },
+    {
+      "name": "Hemsedal",
+      "lat": 60.87,
+      "lng": 8.71,
+      "homepage": "http://www.hemsedal.com"
+    },
+    {
+      "name": "Hodlekve Skisenter",
+      "lat": 61.3,
+      "lng": 6.98,
+      "homepage": "http://www.sogndalskisenter.no/"
+    },
+    {
+      "name": "Holmenkollen",
+      "lat": 59.97,
+      "lng": 10.67,
+      "homepage": "http://holmenkollen.wp.karbon.no/"
+    },
+    {
+      "name": "Hovden",
+      "lat": 59.56,
+      "lng": 7.35,
+      "homepage": "http://hovden.etp.no/"
+    },
+    {
+      "name": "Hurdal",
+      "lat": 60.45,
+      "lng": 11.05,
+      "homepage": "http://www.hurdalskisenter.no/"
+    },
+    {
+      "name": "Kvitfjell Alpine Centre",
+      "lat": 61.45,
+      "lng": 10.12,
+      "homepage": "http://www.kvitfjell.no/"
+    },
+    {
+      "name": "Lillehammer",
+      "lat": 61.11,
+      "lng": 10.48,
+      "homepage": "http://www.lillehammerturist.no"
+    },
+    {
+      "name": "Lommedalen",
+      "lat": 59.97,
+      "lng": 10.48,
+      "homepage": "http://idrett.speaker.no/organisation.asp?OrgElementId=20107"
+    },
+    {
+      "name": "Meraker Alpine Senter",
+      "lat": 63.45,
+      "lng": 11.69,
+      "homepage": "http://www.merakeralpinsenter.com/"
+    },
+    {
+      "name": "Myrkdalen",
+      "lat": 60.86,
+      "lng": 6.49,
+      "homepage": "http://www.Myrkdalen.no"
+    },
+    {
+      "name": "Målselv-Bardufoss",
+      "lat": 68.97,
+      "lng": 19.05,
+      "homepage": "http://www.bardufosstun.no/"
+    },
+    {
+      "name": "Narvik",
+      "lat": 68.44,
+      "lng": 17.46,
+      "homepage": "http://narvikfjellet.no/"
+    },
+    {
+      "name": "Nesbyen",
+      "lat": 60.57,
+      "lng": 9.1,
+      "homepage": "http://www.nesbyen.no/"
+    },
+    {
+      "name": "Norefjell",
+      "lat": 60.27,
+      "lng": 9.48,
+      "homepage": "http://www.norefjell.com/"
+    },
+    {
+      "name": "Oppdal",
+      "lat": 62.6,
+      "lng": 9.67,
+      "homepage": "http://www.oppdal.com"
+    },
+    {
+      "name": "Rauland",
+      "lat": 59.77,
+      "lng": 7.93,
+      "homepage": "http://www.raulandsfjell.no/"
+    },
+    {
+      "name": "Røldal",
+      "lat": 59.81,
+      "lng": 6.77,
+      "homepage": "http://www.roldal.com/nb/"
+    },
+    {
+      "name": "Sauda Ski Senter",
+      "lat": 59.65,
+      "lng": 6.36,
+      "homepage": "http://www.saudaskisenter.no/"
+    },
+    {
+      "name": "Sirdal",
+      "lat": 58.92,
+      "lng": 6.87,
+      "homepage": "https://sirdal-skisenter.no"
+    },
+    {
+      "name": "Sjusjoen",
+      "lat": 61.15,
+      "lng": 10.7,
+      "homepage": "http://www.sjusjoen-info.no/"
+    },
+    {
+      "name": "Strandafjellet",
+      "lat": 62.29,
+      "lng": 6.84,
+      "homepage": "http://www.strandafjellet.no/?lang=2"
+    },
+    {
+      "name": "Strynefjellet",
+      "lat": 61.97,
+      "lng": 7.32,
+      "homepage": ""
+    },
+    {
+      "name": "Svarstad",
+      "lat": 59.39,
+      "lng": 9.92,
+      "homepage": "http://www.svarstad-skisenter.no/"
+    },
+    {
+      "name": "Trysil",
+      "lat": 61.3,
+      "lng": 12.33,
+      "homepage": "http://www.trysil.com"
+    },
+    {
+      "name": "Tryvann",
+      "lat": 60,
+      "lng": 10.67,
+      "homepage": "http://www.tryvann.no/oslo-skiresort-winter-park-holmenkollen/oslo-skiresort-tryvann/oslo-skiresort-winter-park"
+    },
+    {
+      "name": "Uvdal",
+      "lat": 60.27,
+      "lng": 8.73,
+      "homepage": ""
+    },
+    {
+      "name": "Valdres",
+      "lat": 60.93,
+      "lng": 9.4,
+      "homepage": "http://skinorway.no/index.php?id=6"
+    },
+    {
+      "name": "Varingskollen",
+      "lat": 60.1,
+      "lng": 10.83,
+      "homepage": "http://www.varingskollen.no/"
+    },
+    {
+      "name": "Vassfjellet",
+      "lat": 63.27,
+      "lng": 10.37,
+      "homepage": "http://www.skinorway.no/index.php?id=5"
+    },
+    {
+      "name": "Voss",
+      "lat": 60.64,
+      "lng": 6.4,
+      "homepage": "http://www.voss-fjellheisar.no"
+    },
+    {
+      "name": "Vrådal",
+      "lat": 59.33,
+      "lng": 8.48,
+      "homepage": "http://www.vraadal.com/"
+    }
+  ],
+  "meta": {
+    "title": "Skianlegg i Norge - Gratis nedlasting",
+    "description": "Liste over 46 alpinanlegg/skianlegg i Norge med navn, geografiske koordinater (lat/lng) og lenke til anleggets offisielle nettside. Dataene er hentet fra det åpne repositoriet rokija/ski-resorts (samling av europeiske skianlegg). Inneholder 46 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Skianlegg i Norge | ListBase",
+    "seo_description": "Last ned Skianlegg i Norge — 46 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 46 poster / 4 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

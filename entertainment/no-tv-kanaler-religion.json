@@ -1,0 +1,196 @@
+{
+  "id": "no-tv-kanaler-religion",
+  "name": "Norske TV-kanaler — religiøse kanaler",
+  "title": "Norske TV-kanaler — religiøse kanaler",
+  "description": "Norske TV-kanaler i kategorien 'religious' (religiøse sendinger) fra det åpne registeret iptv-org/database. Inneholder kanalnavn, alternative navn, nettverk, eiere, kategorier, lanseringsdato og nettsted.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Bedehuskanalen.no",
+      "name": "Bedehuskanalen",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "2022-01-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.bedehuskanalen.no/"
+    },
+    {
+      "id": 2,
+      "channel_id": "EWTNNorway.no",
+      "name": "EWTN Norway",
+      "alt_names": "EWTN Norge",
+      "network": "EWTN",
+      "owners": "Eternal Word Television Network",
+      "country": "NO",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.ewtn.no/"
+    },
+    {
+      "id": 3,
+      "channel_id": "HopeChannelNorway.no",
+      "name": "Hope Channel Norway",
+      "alt_names": "Hope Channel Norge",
+      "network": "",
+      "owners": "Seventh-day Adventist Church",
+      "country": "NO",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.hopechannel.no/"
+    },
+    {
+      "id": 4,
+      "channel_id": "Kanal10Norway.no",
+      "name": "Kanal 10 Norway",
+      "alt_names": "Kanal 10 Norge",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.kanal10.no/"
+    },
+    {
+      "id": 5,
+      "channel_id": "ProfetiskTV.no",
+      "name": "Profetisk TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.profetisktv.no/"
+    },
+    {
+      "id": 6,
+      "channel_id": "TVL.no",
+      "name": "TVL",
+      "alt_names": "",
+      "network": "",
+      "owners": "Knif AS",
+      "country": "NO",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "2022-04-22",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tvl.no/"
+    },
+    {
+      "id": 7,
+      "channel_id": "TVVisionHeaven.no",
+      "name": "TV Vision Heaven",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "religious",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://visionheaven.com/"
+    }
+  ],
+  "meta": {
+    "title": "Norske TV-kanaler — religiøse kanaler - Gratis nedlasting",
+    "description": "Norske TV-kanaler i kategorien 'religious' (religiøse sendinger) fra det åpne registeret iptv-org/database. Inneholder kanalnavn, alternative navn, nettverk, eiere, kategorier, lanseringsdato og nettsted. Inneholder 7 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Norske TV-kanaler — religiøse kanaler | ListBase",
+    "seo_description": "Last ned Norske TV-kanaler — religiøse kanaler — 7 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 7 poster / 13 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

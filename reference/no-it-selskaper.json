@@ -1,0 +1,446 @@
+{
+  "id": "no-it-selskaper",
+  "name": "IT companies in Norway",
+  "title": "IT companies in Norway",
+  "description": "IT companies in Norway (IT-selskaper i Norge), derived from OpenStreetMap POIs tagged office=it. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "99x",
+      "latitude": 59.911282,
+      "longitude": 10.760494
+    },
+    {
+      "name": "Adstate AS",
+      "latitude": 59.13061,
+      "longitude": 10.225138
+    },
+    {
+      "name": "Aksjeservice AS",
+      "latitude": 59.876618,
+      "longitude": 10.497793
+    },
+    {
+      "name": "Aktiv IT AS",
+      "latitude": 68.913954,
+      "longitude": 17.734238
+    },
+    {
+      "name": "Alpha Design",
+      "latitude": 60.190909,
+      "longitude": 11.070059
+    },
+    {
+      "name": "Apparat",
+      "latitude": 60.381024,
+      "longitude": 5.320366
+    },
+    {
+      "name": "Apriil Digital",
+      "latitude": 61.118436,
+      "longitude": 10.456127
+    },
+    {
+      "name": "Aspector ThinCom AS",
+      "latitude": 66.87168,
+      "longitude": 13.709934
+    },
+    {
+      "name": "Atea AS avd. Kristiansund",
+      "latitude": 63.116878,
+      "longitude": 7.824266
+    },
+    {
+      "name": "Atea Stavanger",
+      "latitude": 58.894973,
+      "longitude": 5.641678
+    },
+    {
+      "name": "Axiell",
+      "latitude": 59.9341,
+      "longitude": 10.831128
+    },
+    {
+      "name": "Bekk Consulting AS",
+      "latitude": 59.903765,
+      "longitude": 10.739213
+    },
+    {
+      "name": "BitPeople",
+      "latitude": 59.915641,
+      "longitude": 10.638011
+    },
+    {
+      "name": "Booktech",
+      "latitude": 60.568565,
+      "longitude": 9.102261
+    },
+    {
+      "name": "Bouvet",
+      "latitude": 60.377035,
+      "longitude": 5.336229
+    },
+    {
+      "name": "Braathe Gruppen",
+      "latitude": 59.666668,
+      "longitude": 9.647589
+    },
+    {
+      "name": "Cisco",
+      "latitude": 59.909928,
+      "longitude": 10.625618
+    },
+    {
+      "name": "Cleveroad",
+      "latitude": 59.913141,
+      "longitude": 10.736201
+    },
+    {
+      "name": "Compute",
+      "latitude": 60.378126,
+      "longitude": 5.354551
+    },
+    {
+      "name": "Copyleft Solutions AS",
+      "latitude": 59.912786,
+      "longitude": 10.749406
+    },
+    {
+      "name": "Data Respons AS (Bergen office)",
+      "latitude": 60.372987,
+      "longitude": 5.341105
+    },
+    {
+      "name": "Datametrix AS",
+      "latitude": 63.411695,
+      "longitude": 10.445134
+    },
+    {
+      "name": "Datek",
+      "latitude": 59.954722,
+      "longitude": 11.046475
+    },
+    {
+      "name": "Delta Electronics (Norway) AS",
+      "latitude": 59.750766,
+      "longitude": 10.257855
+    },
+    {
+      "name": "Destino AS",
+      "latitude": 58.865336,
+      "longitude": 5.745572
+    },
+    {
+      "name": "DIPS",
+      "latitude": 69.681519,
+      "longitude": 18.9872
+    },
+    {
+      "name": "Dustin",
+      "latitude": 59.443335,
+      "longitude": 10.682752
+    },
+    {
+      "name": "eZ",
+      "latitude": 59.914351,
+      "longitude": 10.720718
+    },
+    {
+      "name": "Funka",
+      "latitude": 59.918237,
+      "longitude": 10.740453
+    },
+    {
+      "name": "Fusit Data & Teknologi AS",
+      "latitude": 60.370085,
+      "longitude": 6.145068
+    },
+    {
+      "name": "Get AS",
+      "latitude": 59.954692,
+      "longitude": 10.761805
+    },
+    {
+      "name": "Get AS - Servicesenter",
+      "latitude": 59.954304,
+      "longitude": 10.761265
+    },
+    {
+      "name": "Giant Leap",
+      "latitude": 59.91152,
+      "longitude": 10.754584
+    },
+    {
+      "name": "Hatteland Technology",
+      "latitude": 59.40959,
+      "longitude": 5.451688
+    },
+    {
+      "name": "Helse Nord IKT",
+      "latitude": 69.681786,
+      "longitude": 18.988175
+    },
+    {
+      "name": "Highsoft",
+      "latitude": 61.087141,
+      "longitude": 6.581148
+    },
+    {
+      "name": "Ibexa AS",
+      "latitude": 59.199431,
+      "longitude": 9.613694
+    },
+    {
+      "name": "Idium 1881 AS",
+      "latitude": 63.116787,
+      "longitude": 7.824313
+    },
+    {
+      "name": "Infinigate AS",
+      "latitude": 59.894655,
+      "longitude": 10.629287
+    },
+    {
+      "name": "Intility",
+      "latitude": 59.909228,
+      "longitude": 10.765712
+    },
+    {
+      "name": "iO Data AS",
+      "latitude": 58.815412,
+      "longitude": 5.71028
+    },
+    {
+      "name": "Iterate Norway",
+      "latitude": 59.914048,
+      "longitude": 10.743711
+    },
+    {
+      "name": "Kantega",
+      "latitude": 60.359734,
+      "longitude": 5.342577
+    },
+    {
+      "name": "Kantega",
+      "latitude": 63.435768,
+      "longitude": 10.416232
+    },
+    {
+      "name": "Karantz AS",
+      "latitude": 59.137857,
+      "longitude": 10.276153
+    },
+    {
+      "name": "Kodeworks",
+      "latitude": 63.434911,
+      "longitude": 10.400896
+    },
+    {
+      "name": "Mainly",
+      "latitude": 58.272182,
+      "longitude": 8.47013
+    },
+    {
+      "name": "Microsoft Norway",
+      "latitude": 59.906793,
+      "longitude": 10.761016
+    },
+    {
+      "name": "Miles Oslo AS",
+      "latitude": 59.924469,
+      "longitude": 10.731986
+    },
+    {
+      "name": "Nivero",
+      "latitude": 62.736381,
+      "longitude": 7.157125
+    },
+    {
+      "name": "Nordpå AS",
+      "latitude": 69.066306,
+      "longitude": 18.517732
+    },
+    {
+      "name": "Oase Media",
+      "latitude": 59.917175,
+      "longitude": 10.709784
+    },
+    {
+      "name": "Onito Solutions Norge avd Moss",
+      "latitude": 59.404326,
+      "longitude": 10.69476
+    },
+    {
+      "name": "Orakelet",
+      "latitude": 69.681143,
+      "longitude": 18.971528
+    },
+    {
+      "name": "ProsessPilotene",
+      "latitude": 59.833394,
+      "longitude": 10.432499
+    },
+    {
+      "name": "RAV Norge AS",
+      "latitude": 59.920647,
+      "longitude": 10.683309
+    },
+    {
+      "name": "RAYVN - Crisis Management Software",
+      "latitude": 60.397025,
+      "longitude": 5.314871
+    },
+    {
+      "name": "River Security",
+      "latitude": 59.913373,
+      "longitude": 10.734044
+    },
+    {
+      "name": "Sagen.App",
+      "latitude": 59.946152,
+      "longitude": 10.735096
+    },
+    {
+      "name": "Sentrum Data AS",
+      "latitude": 59.426852,
+      "longitude": 11.338438
+    },
+    {
+      "name": "Siemens AS",
+      "latitude": 63.403166,
+      "longitude": 10.398191
+    },
+    {
+      "name": "Sikt - Kunnskapssektorens tjenesteleverandør",
+      "latitude": 60.38697,
+      "longitude": 5.332421
+    },
+    {
+      "name": "Skooler",
+      "latitude": 59.418283,
+      "longitude": 10.675657
+    },
+    {
+      "name": "Smart IT",
+      "latitude": 60.882834,
+      "longitude": 11.55379
+    },
+    {
+      "name": "Sopra Steria",
+      "latitude": 59.911652,
+      "longitude": 10.754047
+    },
+    {
+      "name": "Technoport",
+      "latitude": 63.116847,
+      "longitude": 7.824455
+    },
+    {
+      "name": "Teknologihuset",
+      "latitude": 59.923866,
+      "longitude": 10.731792
+    },
+    {
+      "name": "Telenor Research and Innovation",
+      "latitude": 69.681605,
+      "longitude": 18.98744
+    },
+    {
+      "name": "Tietoevry",
+      "latitude": 59.90004,
+      "longitude": 10.627127
+    },
+    {
+      "name": "Time and Date",
+      "latitude": 58.894974,
+      "longitude": 5.689537
+    },
+    {
+      "name": "Umoe Consulting AS",
+      "latitude": 59.950388,
+      "longitude": 10.766338
+    },
+    {
+      "name": "Unloc AS",
+      "latitude": 59.909887,
+      "longitude": 10.741919
+    },
+    {
+      "name": "Vangen & Plotz",
+      "latitude": 60.795569,
+      "longitude": 11.080756
+    },
+    {
+      "name": "Verified AS avd Narvik",
+      "latitude": 68.439614,
+      "longitude": 17.429791
+    },
+    {
+      "name": "Visitech",
+      "latitude": 59.695573,
+      "longitude": 10.250321
+    },
+    {
+      "name": "WAYS AS",
+      "latitude": 59.912296,
+      "longitude": 10.741328
+    },
+    {
+      "name": "Winpos Norway AS",
+      "latitude": 60.614424,
+      "longitude": 12.010566
+    },
+    {
+      "name": "WinterNet Studio",
+      "latitude": 59.769275,
+      "longitude": 9.99876
+    },
+    {
+      "name": "Xait",
+      "latitude": 58.895014,
+      "longitude": 5.689536
+    },
+    {
+      "name": "Yne",
+      "latitude": 59.911716,
+      "longitude": 10.746985
+    },
+    {
+      "name": "Ørn Software",
+      "latitude": 59.416378,
+      "longitude": 10.677535
+    }
+  ],
+  "meta": {
+    "title": "IT companies in Norway - Gratis nedlasting",
+    "description": "IT companies in Norway (IT-selskaper i Norge), derived from OpenStreetMap POIs tagged office=it. Named features only, clipped to mainland Norway. Inneholder 81 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "IT companies in Norway | ListBase",
+    "seo_description": "Last ned IT companies in Norway — 81 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 81 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

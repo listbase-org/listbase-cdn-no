@@ -1,0 +1,118 @@
+{
+  "id": "no-oslo-kommuner",
+  "name": "Kommuner i Oslo",
+  "title": "Kommuner i Oslo",
+  "description": "Alle 1 kommuner i Oslo fylke (2025) med befolkning, areal, målform og adresse til kommunens nettside.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_no",
+      "label": "Name No",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "fylke_slug",
+      "label": "Fylke Slug",
+      "type": "string"
+    },
+    {
+      "key": "adm_center",
+      "label": "Adm Center",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "alternative_navn",
+      "label": "Alternative Navn",
+      "type": "string"
+    },
+    {
+      "key": "tidligere_fylker",
+      "label": "Tidligere Fylker",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "0301",
+      "name": "Oslo",
+      "name_no": "Oslo",
+      "slug": "oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo",
+      "fylke_slug": "oslo",
+      "adm_center": "Oslo",
+      "population": 717710,
+      "area_km2": 454.12,
+      "language": "Nøytral",
+      "url": "www.oslo.kommune.no",
+      "num_postnummer": 633,
+      "alternative_navn": "",
+      "tidligere_fylker": ""
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Oslo - Gratis nedlasting",
+    "description": "Alle 1 kommuner i Oslo fylke (2025) med befolkning, areal, målform og adresse til kommunens nettside. Inneholder 1 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Oslo | ListBase",
+    "seo_description": "Last ned Kommuner i Oslo — 1 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 1 poster / 15 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

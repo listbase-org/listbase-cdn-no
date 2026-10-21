@@ -1,0 +1,776 @@
+{
+  "id": "no-tromso-postnummer",
+  "name": "Postnummer i Tromsø",
+  "title": "Postnummer i Tromsø",
+  "description": "Alle 90 postnummer i Tromsø kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "9006",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9007",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9008",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9009",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9010",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9011",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9012",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9013",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9014",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9015",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9016",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9017",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9018",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9019",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9020",
+      "poststed": "Tromsdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9021",
+      "poststed": "Tromsdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9022",
+      "poststed": "Krokelvdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9023",
+      "poststed": "Krokelvdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9024",
+      "poststed": "Tomasjord",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9027",
+      "poststed": "Ramfjordbotn",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9029",
+      "poststed": "Tromsdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9030",
+      "poststed": "Sjursnes",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9034",
+      "poststed": "Oldervik",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9037",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9038",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9043",
+      "poststed": "Jøvika",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9045",
+      "poststed": "Lakselvbukt",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9057",
+      "poststed": "Vikran",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9100",
+      "poststed": "Kvaløysletta",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9101",
+      "poststed": "Kvaløysletta",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9102",
+      "poststed": "Kvaløysletta",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9103",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9104",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9105",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9106",
+      "poststed": "Straumsbukta",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9107",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9108",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9109",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9110",
+      "poststed": "Sommarøya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9118",
+      "poststed": "Brensholmen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9119",
+      "poststed": "Sommarøya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9120",
+      "poststed": "Vengsøy",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9128",
+      "poststed": "Tussøy",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9131",
+      "poststed": "Kårvik",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9141",
+      "poststed": "Melvika",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9240",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9251",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9252",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9253",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9254",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9255",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9256",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9257",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9258",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9259",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9260",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9261",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9262",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9263",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9265",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9266",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9267",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9268",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9269",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9270",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9271",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9272",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9273",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9274",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9275",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9276",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9277",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9278",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9279",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9280",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9281",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9282",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9283",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9284",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9285",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9286",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9287",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9288",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9291",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9292",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9293",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9294",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9296",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9298",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9299",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Tromsø - Gratis nedlasting",
+    "description": "Alle 90 postnummer i Tromsø kommune med poststed. Inneholder 90 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Tromsø | ListBase",
+    "seo_description": "Last ned Postnummer i Tromsø — 90 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 90 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

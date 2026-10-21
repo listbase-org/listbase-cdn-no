@@ -1,0 +1,1560 @@
+{
+  "id": "no-telemark-postnummer",
+  "name": "Postnummer i Telemark",
+  "title": "Postnummer i Telemark",
+  "description": "Alle 188 postnummer i Telemark fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 188,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "3650",
+      "poststed": "Tinn Austbygd",
+      "kommune_id": "4026",
+      "kommune": "Tinn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3652",
+      "poststed": "Hovin i Telemark",
+      "kommune_id": "4026",
+      "kommune": "Tinn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3656",
+      "poststed": "Atrå",
+      "kommune_id": "4026",
+      "kommune": "Tinn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3658",
+      "poststed": "Miland",
+      "kommune_id": "4026",
+      "kommune": "Tinn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3660",
+      "poststed": "Rjukan",
+      "kommune_id": "4026",
+      "kommune": "Tinn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3661",
+      "poststed": "Rjukan",
+      "kommune_id": "4026",
+      "kommune": "Tinn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3665",
+      "poststed": "Sauland",
+      "kommune_id": "4024",
+      "kommune": "Hjartdal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3666",
+      "poststed": "Atrå",
+      "kommune_id": "4026",
+      "kommune": "Tinn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3671",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3672",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3673",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3674",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3675",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3676",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3677",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3678",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3679",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3680",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3681",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3683",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3684",
+      "poststed": "Notodden",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3690",
+      "poststed": "Hjartdal",
+      "kommune_id": "4024",
+      "kommune": "Hjartdal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3691",
+      "poststed": "Gransherad",
+      "kommune_id": "4005",
+      "kommune": "Notodden",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3692",
+      "poststed": "Sauland",
+      "kommune_id": "4024",
+      "kommune": "Hjartdal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3697",
+      "poststed": "Tuddal",
+      "kommune_id": "4024",
+      "kommune": "Hjartdal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3701",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3702",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3703",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3704",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3705",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3707",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3710",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3711",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3712",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3713",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3714",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3715",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3716",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3717",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3718",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3719",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3720",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3721",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3722",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3723",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3724",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3725",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3726",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3727",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3728",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3729",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3730",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3731",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3732",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3733",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3734",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3735",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3736",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3737",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3738",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3739",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3740",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3741",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3742",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3743",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3744",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3746",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3747",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3748",
+      "poststed": "Siljan",
+      "kommune_id": "4010",
+      "kommune": "Siljan",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3749",
+      "poststed": "Siljan",
+      "kommune_id": "4010",
+      "kommune": "Siljan",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3750",
+      "poststed": "Drangedal",
+      "kommune_id": "4016",
+      "kommune": "Drangedal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3753",
+      "poststed": "Tørdal",
+      "kommune_id": "4016",
+      "kommune": "Drangedal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3760",
+      "poststed": "Neslandsvatn",
+      "kommune_id": "4016",
+      "kommune": "Drangedal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3766",
+      "poststed": "Sannidal",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3770",
+      "poststed": "Kragerø",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3772",
+      "poststed": "Kragerø",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3780",
+      "poststed": "Skåtøy",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3781",
+      "poststed": "Jomfruland",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3783",
+      "poststed": "Kragerø Skjærgård",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3785",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3786",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3788",
+      "poststed": "Stabbestad",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3789",
+      "poststed": "Kragerø",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3790",
+      "poststed": "Helle",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3791",
+      "poststed": "Kragerø",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3792",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3793",
+      "poststed": "Sannidal",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3794",
+      "poststed": "Helle",
+      "kommune_id": "4014",
+      "kommune": "Kragerø",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3795",
+      "poststed": "Drangedal",
+      "kommune_id": "4016",
+      "kommune": "Drangedal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3796",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3798",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3799",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3800",
+      "poststed": "Bø i Telemark",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3801",
+      "poststed": "Bø i Telemark",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3802",
+      "poststed": "Bø i Telemark",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3803",
+      "poststed": "Bø i Telemark",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3804",
+      "poststed": "Bø i Telemark",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3805",
+      "poststed": "Bø i Telemark",
+      "kommune_id": "4022",
+      "kommune": "Seljord",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3810",
+      "poststed": "Gvarv",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3811",
+      "poststed": "Hørte",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3812",
+      "poststed": "Akkerhaugen",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3820",
+      "poststed": "Nordagutu",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3825",
+      "poststed": "Lunde",
+      "kommune_id": "4018",
+      "kommune": "Nome",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3830",
+      "poststed": "Ulefoss",
+      "kommune_id": "4018",
+      "kommune": "Nome",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3831",
+      "poststed": "Ulefoss",
+      "kommune_id": "4018",
+      "kommune": "Nome",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3832",
+      "poststed": "Lunde",
+      "kommune_id": "4018",
+      "kommune": "Nome",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3833",
+      "poststed": "Bø i Telemark",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3834",
+      "poststed": "Gvarv",
+      "kommune_id": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3835",
+      "poststed": "Seljord",
+      "kommune_id": "4022",
+      "kommune": "Seljord",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3836",
+      "poststed": "Kviteseid",
+      "kommune_id": "4028",
+      "kommune": "Kviteseid",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3840",
+      "poststed": "Seljord",
+      "kommune_id": "4022",
+      "kommune": "Seljord",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3841",
+      "poststed": "Flatdal",
+      "kommune_id": "4022",
+      "kommune": "Seljord",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3844",
+      "poststed": "Åmotsdal",
+      "kommune_id": "4022",
+      "kommune": "Seljord",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3848",
+      "poststed": "Morgedal",
+      "kommune_id": "4028",
+      "kommune": "Kviteseid",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3849",
+      "poststed": "Vråliosen",
+      "kommune_id": "4028",
+      "kommune": "Kviteseid",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3850",
+      "poststed": "Kviteseid",
+      "kommune_id": "4028",
+      "kommune": "Kviteseid",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3852",
+      "poststed": "Vrådal",
+      "kommune_id": "4028",
+      "kommune": "Kviteseid",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3853",
+      "poststed": "Vrådal",
+      "kommune_id": "4028",
+      "kommune": "Kviteseid",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3854",
+      "poststed": "Nissedal",
+      "kommune_id": "4030",
+      "kommune": "Nissedal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3855",
+      "poststed": "Treungen",
+      "kommune_id": "4030",
+      "kommune": "Nissedal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3864",
+      "poststed": "Rauland",
+      "kommune_id": "4036",
+      "kommune": "Vinje",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3870",
+      "poststed": "Fyresdal",
+      "kommune_id": "4032",
+      "kommune": "Fyresdal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3880",
+      "poststed": "Dalen",
+      "kommune_id": "4034",
+      "kommune": "Tokke",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3882",
+      "poststed": "Åmdals Verk",
+      "kommune_id": "4034",
+      "kommune": "Tokke",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3883",
+      "poststed": "Treungen",
+      "kommune_id": "4030",
+      "kommune": "Nissedal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3884",
+      "poststed": "Rauland",
+      "kommune_id": "4036",
+      "kommune": "Vinje",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3885",
+      "poststed": "Fyresdal",
+      "kommune_id": "4032",
+      "kommune": "Fyresdal",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3886",
+      "poststed": "Dalen",
+      "kommune_id": "4034",
+      "kommune": "Tokke",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3887",
+      "poststed": "Vinje",
+      "kommune_id": "4036",
+      "kommune": "Vinje",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3888",
+      "poststed": "Edland",
+      "kommune_id": "4036",
+      "kommune": "Vinje",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3890",
+      "poststed": "Vinje",
+      "kommune_id": "4036",
+      "kommune": "Vinje",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3891",
+      "poststed": "Høydalsmo",
+      "kommune_id": "4034",
+      "kommune": "Tokke",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3893",
+      "poststed": "Vinjesvingen",
+      "kommune_id": "4036",
+      "kommune": "Vinje",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3895",
+      "poststed": "Edland",
+      "kommune_id": "4036",
+      "kommune": "Vinje",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3901",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3902",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3903",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3904",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3905",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3906",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3910",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3911",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3912",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3913",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3914",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3915",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3916",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3917",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3918",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3919",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3920",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3921",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3922",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3924",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3925",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3928",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3929",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3930",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3931",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3933",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3936",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3937",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3939",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3940",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3941",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3942",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3943",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3944",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3946",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3947",
+      "poststed": "Langangen",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3948",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3949",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3950",
+      "poststed": "Brevik",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3960",
+      "poststed": "Stathelle",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3961",
+      "poststed": "Stathelle",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3962",
+      "poststed": "Stathelle",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3965",
+      "poststed": "Herre",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3966",
+      "poststed": "Stathelle",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3967",
+      "poststed": "Stathelle",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3970",
+      "poststed": "Langesund",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3991",
+      "poststed": "Brevik",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3993",
+      "poststed": "Langesund",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3994",
+      "poststed": "Langesund",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3995",
+      "poststed": "Stathelle",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3996",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3997",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3998",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3999",
+      "poststed": "Herre",
+      "kommune_id": "4012",
+      "kommune": "Bamble",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Telemark - Gratis nedlasting",
+    "description": "Alle 188 postnummer i Telemark fylke med poststed og kommune. Inneholder 188 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Telemark | ListBase",
+    "seo_description": "Last ned Postnummer i Telemark — 188 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 188 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

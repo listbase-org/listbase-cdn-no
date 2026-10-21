@@ -1,0 +1,876 @@
+{
+  "id": "no-golfbaner",
+  "name": "Golf courses in Norway",
+  "title": "Golf courses in Norway",
+  "description": "Golf courses in Norway (Golfbaner i Norge), derived from OpenStreetMap POIs tagged leisure=golf_course. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2nd",
+      "latitude": 59.671889,
+      "longitude": 10.218934
+    },
+    {
+      "name": "Arendal & Omegn Golfklubb",
+      "latitude": 58.621028,
+      "longitude": 8.837875
+    },
+    {
+      "name": "Asker Golfklubb",
+      "latitude": 59.831601,
+      "longitude": 10.384885
+    },
+    {
+      "name": "Askim golfklubb",
+      "latitude": 59.597378,
+      "longitude": 11.17132
+    },
+    {
+      "name": "Atlungstad golf",
+      "latitude": 60.754979,
+      "longitude": 11.08752
+    },
+    {
+      "name": "Aurskog Golfpark",
+      "latitude": 59.941687,
+      "longitude": 11.423994
+    },
+    {
+      "name": "Austrått Golfklubb",
+      "latitude": 63.70298,
+      "longitude": 9.736301
+    },
+    {
+      "name": "Ballerud golfbane",
+      "latitude": 59.907339,
+      "longitude": 10.581556
+    },
+    {
+      "name": "Bamble Golfpark",
+      "latitude": 58.955586,
+      "longitude": 9.596652
+    },
+    {
+      "name": "Banak Links Golfpark",
+      "latitude": 70.071521,
+      "longitude": 24.987286
+    },
+    {
+      "name": "Bentsrød",
+      "latitude": 59.028956,
+      "longitude": 10.008151
+    },
+    {
+      "name": "Bergen golfklubb",
+      "latitude": 60.449865,
+      "longitude": 5.306629
+    },
+    {
+      "name": "Bjåvann",
+      "latitude": 58.246905,
+      "longitude": 8.050919
+    },
+    {
+      "name": "Bjørnefjorden Golfklubb",
+      "latitude": 60.191778,
+      "longitude": 5.478287
+    },
+    {
+      "name": "Bleik Golfstrømbane",
+      "latitude": 69.281949,
+      "longitude": 15.979037
+    },
+    {
+      "name": "Bodø golfpark",
+      "latitude": 67.340027,
+      "longitude": 14.529706
+    },
+    {
+      "name": "Borre Golfbane",
+      "latitude": 59.400065,
+      "longitude": 10.44944
+    },
+    {
+      "name": "Borre Golfbane",
+      "latitude": 59.402765,
+      "longitude": 10.456355
+    },
+    {
+      "name": "Borregaard Golfbane",
+      "latitude": 59.296837,
+      "longitude": 11.134456
+    },
+    {
+      "name": "Bryne Kro & Hotell Chip & Putt",
+      "latitude": 58.73978,
+      "longitude": 5.64127
+    },
+    {
+      "name": "Byneset Golfklubb",
+      "latitude": 63.356247,
+      "longitude": 10.149819
+    },
+    {
+      "name": "Bærum Golfklubb",
+      "latitude": 59.963177,
+      "longitude": 10.48808
+    },
+    {
+      "name": "Dalane golfklubb",
+      "latitude": 58.326994,
+      "longitude": 6.291312
+    },
+    {
+      "name": "Dalane golfklubb",
+      "latitude": 58.328568,
+      "longitude": 6.288782
+    },
+    {
+      "name": "Drammen Golfklubb",
+      "latitude": 59.672887,
+      "longitude": 10.219128
+    },
+    {
+      "name": "Driving Range",
+      "latitude": 70.110783,
+      "longitude": 29.374556
+    },
+    {
+      "name": "Drivingrange",
+      "latitude": 59.669928,
+      "longitude": 10.219381
+    },
+    {
+      "name": "Drøbak Golfklubb",
+      "latitude": 59.675511,
+      "longitude": 10.650363
+    },
+    {
+      "name": "Egersund golfklubb",
+      "latitude": 58.485796,
+      "longitude": 5.919477
+    },
+    {
+      "name": "Eiker Golfklubb",
+      "latitude": 59.737479,
+      "longitude": 9.99943
+    },
+    {
+      "name": "Ekholt Golfpark",
+      "latitude": 59.407502,
+      "longitude": 10.682935
+    },
+    {
+      "name": "Elverum Golf",
+      "latitude": 60.872557,
+      "longitude": 11.671054
+    },
+    {
+      "name": "Evje Golfpark",
+      "latitude": 59.367213,
+      "longitude": 10.677818
+    },
+    {
+      "name": "Fana Golfklubb",
+      "latitude": 60.297961,
+      "longitude": 5.297107
+    },
+    {
+      "name": "Farsund golfklubb",
+      "latitude": 58.073673,
+      "longitude": 6.772059
+    },
+    {
+      "name": "Fet Golfklubb",
+      "latitude": 59.916894,
+      "longitude": 11.174399
+    },
+    {
+      "name": "Fredriksten golfpark",
+      "latitude": 59.118876,
+      "longitude": 11.404906
+    },
+    {
+      "name": "Gamle Fredrikstad Golfklubb",
+      "latitude": 59.201783,
+      "longitude": 10.969892
+    },
+    {
+      "name": "Gjerdrum golfklubb",
+      "latitude": 60.064295,
+      "longitude": 11.029761
+    },
+    {
+      "name": "Gjersjøen golfbane",
+      "latitude": 59.772107,
+      "longitude": 10.777557
+    },
+    {
+      "name": "Grimstad golfbane",
+      "latitude": 58.358455,
+      "longitude": 8.636311
+    },
+    {
+      "name": "Grini Golfklubb",
+      "latitude": 59.952601,
+      "longitude": 10.622175
+    },
+    {
+      "name": "Groruddalen Golfklubb",
+      "latitude": 59.970055,
+      "longitude": 10.916874
+    },
+    {
+      "name": "Grønmo Golfklubb",
+      "latitude": 59.845754,
+      "longitude": 10.852551
+    },
+    {
+      "name": "H10",
+      "latitude": 59.670257,
+      "longitude": 10.223027
+    },
+    {
+      "name": "H11",
+      "latitude": 59.673047,
+      "longitude": 10.223005
+    },
+    {
+      "name": "H12",
+      "latitude": 59.676335,
+      "longitude": 10.223306
+    },
+    {
+      "name": "H13",
+      "latitude": 59.675171,
+      "longitude": 10.222018
+    },
+    {
+      "name": "H14",
+      "latitude": 59.674109,
+      "longitude": 10.217405
+    },
+    {
+      "name": "H15",
+      "latitude": 59.675761,
+      "longitude": 10.214755
+    },
+    {
+      "name": "H16",
+      "latitude": 59.67334,
+      "longitude": 10.214712
+    },
+    {
+      "name": "H16",
+      "latitude": 59.674602,
+      "longitude": 10.214454
+    },
+    {
+      "name": "H17",
+      "latitude": 59.673579,
+      "longitude": 10.218592
+    },
+    {
+      "name": "H18",
+      "latitude": 59.671764,
+      "longitude": 10.222218
+    },
+    {
+      "name": "H3",
+      "latitude": 59.672171,
+      "longitude": 10.213301
+    },
+    {
+      "name": "H4",
+      "latitude": 59.675188,
+      "longitude": 10.210908
+    },
+    {
+      "name": "H5",
+      "latitude": 59.673785,
+      "longitude": 10.209986
+    },
+    {
+      "name": "H6",
+      "latitude": 59.673335,
+      "longitude": 10.208409
+    },
+    {
+      "name": "H7",
+      "latitude": 59.673015,
+      "longitude": 10.206086
+    },
+    {
+      "name": "H8",
+      "latitude": 59.671162,
+      "longitude": 10.208242
+    },
+    {
+      "name": "H9",
+      "latitude": 59.670994,
+      "longitude": 10.215366
+    },
+    {
+      "name": "Hafjell Golf",
+      "latitude": 61.246356,
+      "longitude": 10.456177
+    },
+    {
+      "name": "Haga golfklubb",
+      "latitude": 59.940989,
+      "longitude": 10.57377
+    },
+    {
+      "name": "Hakadal golfklubb",
+      "latitude": 60.133622,
+      "longitude": 10.82919
+    },
+    {
+      "name": "Hardanger Golfklubb",
+      "latitude": 60.37576,
+      "longitude": 6.179214
+    },
+    {
+      "name": "Hardangervidda Golfpark",
+      "latitude": 60.408016,
+      "longitude": 7.284961
+    },
+    {
+      "name": "Hareid Golfbane",
+      "latitude": 62.3529,
+      "longitude": 5.959669
+    },
+    {
+      "name": "Harstad Golfklubb",
+      "latitude": 68.835612,
+      "longitude": 16.487113
+    },
+    {
+      "name": "Hasvik Golfklubb",
+      "latitude": 70.48765,
+      "longitude": 22.141409
+    },
+    {
+      "name": "Haugaland Golfbane Sveio",
+      "latitude": 59.552087,
+      "longitude": 5.36225
+    },
+    {
+      "name": "Hauger Golfklubb",
+      "latitude": 60.000996,
+      "longitude": 10.980995
+    },
+    {
+      "name": "Herdla golfklubb",
+      "latitude": 60.567474,
+      "longitude": 4.951392
+    },
+    {
+      "name": "Hevingen golfbane",
+      "latitude": 59.27323,
+      "longitude": 11.200891
+    },
+    {
+      "name": "Hitra Golfklubb",
+      "latitude": 63.510267,
+      "longitude": 9.016991
+    },
+    {
+      "name": "Hof Golfbane",
+      "latitude": 59.538498,
+      "longitude": 10.08516
+    },
+    {
+      "name": "Holtsmark Golf",
+      "latitude": 59.866726,
+      "longitude": 10.267132
+    },
+    {
+      "name": "Hurum golfklubb",
+      "latitude": 59.545671,
+      "longitude": 10.455339
+    },
+    {
+      "name": "Huseby & Hankø Golfklubb",
+      "latitude": 59.268984,
+      "longitude": 10.802664
+    },
+    {
+      "name": "Imjelt Golfsenter",
+      "latitude": 59.693728,
+      "longitude": 10.147284
+    },
+    {
+      "name": "Jæren Golfklubb",
+      "latitude": 58.70234,
+      "longitude": 5.685802
+    },
+    {
+      "name": "Karmøy Golfklubb",
+      "latitude": 59.158353,
+      "longitude": 5.243082
+    },
+    {
+      "name": "Kjekstad Golfklubb",
+      "latitude": 59.753927,
+      "longitude": 10.376547
+    },
+    {
+      "name": "Klæbu Golfklubb",
+      "latitude": 63.325005,
+      "longitude": 10.476019
+    },
+    {
+      "name": "Kongsberg Golfbane",
+      "latitude": 59.610823,
+      "longitude": 9.712257
+    },
+    {
+      "name": "Kongsvinger golfklubb",
+      "latitude": 60.132187,
+      "longitude": 12.051782
+    },
+    {
+      "name": "Kragerø Golfklubb",
+      "latitude": 58.843457,
+      "longitude": 9.396702
+    },
+    {
+      "name": "Kristiansand Golfklubb",
+      "latitude": 58.143981,
+      "longitude": 8.081905
+    },
+    {
+      "name": "Kristiansund og Omegn golfklubb",
+      "latitude": 63.111855,
+      "longitude": 7.861721
+    },
+    {
+      "name": "Kristtornskogen Golfpark",
+      "latitude": 59.766093,
+      "longitude": 5.488094
+    },
+    {
+      "name": "Krokhol Golfklubb",
+      "latitude": 59.808323,
+      "longitude": 10.921484
+    },
+    {
+      "name": "Kvenvikmoen Golf",
+      "latitude": 69.918068,
+      "longitude": 23.075525
+    },
+    {
+      "name": "Kvinnherad Golfklubb (Underheim Golfbane)",
+      "latitude": 59.86611,
+      "longitude": 5.764261
+    },
+    {
+      "name": "Langåker",
+      "latitude": 58.892573,
+      "longitude": 9.519635
+    },
+    {
+      "name": "Lindesnes Golfklubb",
+      "latitude": 58.043686,
+      "longitude": 7.134039
+    },
+    {
+      "name": "Lofoten Golf Links",
+      "latitude": 68.340782,
+      "longitude": 14.134843
+    },
+    {
+      "name": "Lommedalen Golfklubb",
+      "latitude": 59.96902,
+      "longitude": 10.461706
+    },
+    {
+      "name": "Losby Golfklubb",
+      "latitude": 59.888757,
+      "longitude": 10.977527
+    },
+    {
+      "name": "Meland golf",
+      "latitude": 60.541357,
+      "longitude": 5.07624
+    },
+    {
+      "name": "Midjo golfbane",
+      "latitude": 64.022871,
+      "longitude": 11.525568
+    },
+    {
+      "name": "Miklagard Golf",
+      "latitude": 60.076799,
+      "longitude": 11.166052
+    },
+    {
+      "name": "Moa Golfsenter",
+      "latitude": 62.462696,
+      "longitude": 6.352189
+    },
+    {
+      "name": "Mørk golfbane",
+      "latitude": 59.532549,
+      "longitude": 10.998075
+    },
+    {
+      "name": "Namsos Golfbane",
+      "latitude": 64.427492,
+      "longitude": 11.495782
+    },
+    {
+      "name": "Nes Golfklubb",
+      "latitude": 60.162673,
+      "longitude": 11.429838
+    },
+    {
+      "name": "Nesfjellet Golf",
+      "latitude": 60.534202,
+      "longitude": 9.022679
+    },
+    {
+      "name": "Nordvegen Golfklubb",
+      "latitude": 59.397225,
+      "longitude": 5.247648
+    },
+    {
+      "name": "Norefjell Golf",
+      "latitude": 60.191342,
+      "longitude": 9.603649
+    },
+    {
+      "name": "Norsjø Golfpark",
+      "latitude": 59.306213,
+      "longitude": 9.270512
+    },
+    {
+      "name": "Nøtterøy golfklubb",
+      "latitude": 59.222951,
+      "longitude": 10.39215
+    },
+    {
+      "name": "Nøtterøy golfklubb",
+      "latitude": 59.225714,
+      "longitude": 10.397265
+    },
+    {
+      "name": "Ogna golfklubb",
+      "latitude": 58.524916,
+      "longitude": 5.797767
+    },
+    {
+      "name": "Onsøy Golfbane",
+      "latitude": 59.274829,
+      "longitude": 10.789513
+    },
+    {
+      "name": "Oppdal Golfbane",
+      "latitude": 62.593313,
+      "longitude": 9.706335
+    },
+    {
+      "name": "Oppegård Golfklubb",
+      "latitude": 59.778864,
+      "longitude": 10.81549
+    },
+    {
+      "name": "Oslo Golfklubb Bogstad",
+      "latitude": 59.964998,
+      "longitude": 10.62928
+    },
+    {
+      "name": "Oustøen Country Club",
+      "latitude": 59.864361,
+      "longitude": 10.569539
+    },
+    {
+      "name": "Play&pay, 9 holes, par 27",
+      "latitude": 58.625536,
+      "longitude": 8.852139
+    },
+    {
+      "name": "Polarsirkelen Golf",
+      "latitude": 66.312909,
+      "longitude": 13.977069
+    },
+    {
+      "name": "Preikestolen Golfklubb",
+      "latitude": 58.990382,
+      "longitude": 6.109916
+    },
+    {
+      "name": "Randaberg Golfklubb",
+      "latitude": 59.027175,
+      "longitude": 5.58902
+    },
+    {
+      "name": "Ringerike Golfklubb",
+      "latitude": 60.351977,
+      "longitude": 10.0981
+    },
+    {
+      "name": "Røros golfpark",
+      "latitude": 62.591286,
+      "longitude": 11.357142
+    },
+    {
+      "name": "Røyslimoen diskgolfbane",
+      "latitude": 61.098119,
+      "longitude": 10.509118
+    },
+    {
+      "name": "Sande Golfbane",
+      "latitude": 59.611799,
+      "longitude": 10.21687
+    },
+    {
+      "name": "Sandefjord Golfklubb",
+      "latitude": 59.106158,
+      "longitude": 10.184721
+    },
+    {
+      "name": "Sandnes Golfklubb (Bærheim Golfpark)",
+      "latitude": 58.873319,
+      "longitude": 5.691477
+    },
+    {
+      "name": "Sauda Golfklubb",
+      "latitude": 59.646172,
+      "longitude": 6.322117
+    },
+    {
+      "name": "Selbu Golfklubb",
+      "latitude": 63.193626,
+      "longitude": 11.09331
+    },
+    {
+      "name": "Skaglemo",
+      "latitude": 59.292561,
+      "longitude": 9.922374
+    },
+    {
+      "name": "Smøla Golfklubb",
+      "latitude": 63.421586,
+      "longitude": 7.861957
+    },
+    {
+      "name": "Sola golfklubb",
+      "latitude": 58.889526,
+      "longitude": 5.684169
+    },
+    {
+      "name": "Solastranden Golfklubb",
+      "latitude": 58.875805,
+      "longitude": 5.610316
+    },
+    {
+      "name": "Solnør golfbane",
+      "latitude": 62.484858,
+      "longitude": 6.726398
+    },
+    {
+      "name": "Solum Golfbane",
+      "latitude": 59.464239,
+      "longitude": 10.311179
+    },
+    {
+      "name": "Soon Golfbane",
+      "latitude": 59.533357,
+      "longitude": 10.679152
+    },
+    {
+      "name": "Sorknes Golf",
+      "latitude": 61.162893,
+      "longitude": 11.345955
+    },
+    {
+      "name": "Sorknes Golf",
+      "latitude": 61.17749,
+      "longitude": 11.332205
+    },
+    {
+      "name": "Sorknes golf, back 9",
+      "latitude": 61.166113,
+      "longitude": 11.338097
+    },
+    {
+      "name": "Sorknes Golf, front 9",
+      "latitude": 61.174285,
+      "longitude": 11.335105
+    },
+    {
+      "name": "Sotra Golfklubb",
+      "latitude": 60.349046,
+      "longitude": 5.082301
+    },
+    {
+      "name": "Stavanger golfklubb",
+      "latitude": 58.958924,
+      "longitude": 5.660267
+    },
+    {
+      "name": "Stiklestad Golfklubb",
+      "latitude": 63.81891,
+      "longitude": 11.40726
+    },
+    {
+      "name": "Stjørdal Golfklubb",
+      "latitude": 63.487314,
+      "longitude": 10.932061
+    },
+    {
+      "name": "Stord Golfbane",
+      "latitude": 59.807578,
+      "longitude": 5.515219
+    },
+    {
+      "name": "Stord Golfpark",
+      "latitude": 59.805461,
+      "longitude": 5.510176
+    },
+    {
+      "name": "Sunndal Golfklubb",
+      "latitude": 62.662659,
+      "longitude": 8.535811
+    },
+    {
+      "name": "Surnadal Golfklubb",
+      "latitude": 62.897484,
+      "longitude": 8.562489
+    },
+    {
+      "name": "T1",
+      "latitude": 59.670302,
+      "longitude": 10.220968
+    },
+    {
+      "name": "T14",
+      "latitude": 59.674225,
+      "longitude": 10.218993
+    },
+    {
+      "name": "Tjøme golfklubb",
+      "latitude": 59.109421,
+      "longitude": 10.390661
+    },
+    {
+      "name": "Tromsø Golfpark",
+      "latitude": 69.654998,
+      "longitude": 19.598264
+    },
+    {
+      "name": "Trondheim Golfklubb",
+      "latitude": 63.421017,
+      "longitude": 10.338093
+    },
+    {
+      "name": "Trondheim Par3 Golf (Havstein Golf)",
+      "latitude": 63.405868,
+      "longitude": 10.364805
+    },
+    {
+      "name": "Trysilfjellet Golf",
+      "latitude": 61.297043,
+      "longitude": 12.24407
+    },
+    {
+      "name": "Tyrifjord golfklubb",
+      "latitude": 60.050671,
+      "longitude": 10.253635
+    },
+    {
+      "name": "Tysnes Golfklubb",
+      "latitude": 60.015024,
+      "longitude": 5.5487
+    },
+    {
+      "name": "Ullensaker Golfklubb",
+      "latitude": 60.154397,
+      "longitude": 11.096141
+    },
+    {
+      "name": "Utsikten golfpark",
+      "latitude": 58.315672,
+      "longitude": 7.001148
+    },
+    {
+      "name": "Valdres golfklubb",
+      "latitude": 60.925942,
+      "longitude": 9.356337
+    },
+    {
+      "name": "Varanger golfpark",
+      "latitude": 70.110074,
+      "longitude": 29.370743
+    },
+    {
+      "name": "Varanger golfpark",
+      "latitude": 70.111044,
+      "longitude": 29.365581
+    },
+    {
+      "name": "Vesterålen Golfklubb Kjerringnes",
+      "latitude": 68.662177,
+      "longitude": 15.480515
+    },
+    {
+      "name": "Vestfold Golfklubb",
+      "latitude": 59.241303,
+      "longitude": 10.35212
+    },
+    {
+      "name": "Vigra Golfklubb",
+      "latitude": 62.532027,
+      "longitude": 6.132347
+    },
+    {
+      "name": "Voss Golf og Aktivitetspark",
+      "latitude": 60.683325,
+      "longitude": 6.486933
+    },
+    {
+      "name": "Ørnefjell golfbane",
+      "latitude": 59.487468,
+      "longitude": 7.398729
+    },
+    {
+      "name": "Øya Golfpark",
+      "latitude": 59.305356,
+      "longitude": 11.147894
+    }
+  ],
+  "meta": {
+    "title": "Golf courses in Norway - Gratis nedlasting",
+    "description": "Golf courses in Norway (Golfbaner i Norge), derived from OpenStreetMap POIs tagged leisure=golf_course. Named features only, clipped to mainland Norway. Inneholder 167 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Golf courses in Norway | ListBase",
+    "seo_description": "Last ned Golf courses in Norway — 167 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 167 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

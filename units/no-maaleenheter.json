@@ -1,0 +1,2376 @@
+{
+  "id": "no-maaleenheter",
+  "name": "Maaleenheter (CLDR, 231)",
+  "title": "Maaleenheter (CLDR, 231)",
+  "description": "Maaleenheter og deres norske navn og moenstre fra CLDR no-lokalets units.json (long/short/narrow).",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 231,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategori": "acceleration",
+      "navn": "g-kraft",
+      "moenster_en": "{0} g-kraft",
+      "moenster_flere": "{0} g-kraft",
+      "kort_moenster": "{0} G",
+      "smal_moenster": "{0}G"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategori": "acceleration",
+      "navn": "meter per sekund²",
+      "moenster_en": "{0} meter per sekund²",
+      "moenster_flere": "{0} meter per sekund²",
+      "kort_moenster": "{0} m/s²",
+      "smal_moenster": "{0}m/s²"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-arc-minute",
+      "kategori": "angle",
+      "navn": "bueminutter",
+      "moenster_en": "{0} bueminutt",
+      "moenster_flere": "{0} bueminutter",
+      "kort_moenster": "{0}′",
+      "smal_moenster": "{0}′"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-arc-second",
+      "kategori": "angle",
+      "navn": "buesekunder",
+      "moenster_en": "{0} buesekund",
+      "moenster_flere": "{0} buesekunder",
+      "kort_moenster": "{0}″",
+      "smal_moenster": "{0}″"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-degree",
+      "kategori": "angle",
+      "navn": "grader",
+      "moenster_en": "{0} grad",
+      "moenster_flere": "{0} grader",
+      "kort_moenster": "{0}°",
+      "smal_moenster": "{0}°"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-radian",
+      "kategori": "angle",
+      "navn": "radianer",
+      "moenster_en": "{0} radian",
+      "moenster_flere": "{0} radianer",
+      "kort_moenster": "{0} rad",
+      "smal_moenster": "{0}rad"
+    },
+    {
+      "id": 7,
+      "unit_code": "angle-revolution",
+      "kategori": "angle",
+      "navn": "omdreininger",
+      "moenster_en": "{0} omdreining",
+      "moenster_flere": "{0} omdreininger",
+      "kort_moenster": "{0} omdr.",
+      "smal_moenster": "{0} o"
+    },
+    {
+      "id": 8,
+      "unit_code": "angle-steradian",
+      "kategori": "angle",
+      "navn": "steradianer",
+      "moenster_en": "{0} steradian",
+      "moenster_flere": "{0} steradianer",
+      "kort_moenster": "{0} sr",
+      "smal_moenster": "{0} sr"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-acre",
+      "kategori": "area",
+      "navn": "acre",
+      "moenster_en": "{0} acre",
+      "moenster_flere": "{0} acre",
+      "kort_moenster": "{0} ac",
+      "smal_moenster": "{0} ac"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-bu-jp",
+      "kategori": "area",
+      "navn": "bu [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} bu [JP]",
+      "kort_moenster": "{0} bu [JP]",
+      "smal_moenster": "{0} bu [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-cho",
+      "kategori": "area",
+      "navn": "cho [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} cho [JP]",
+      "kort_moenster": "{0} cho [JP]",
+      "smal_moenster": "{0} cho [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-dunam",
+      "kategori": "area",
+      "navn": "dunam",
+      "moenster_en": "",
+      "moenster_flere": "{0} dunam",
+      "kort_moenster": "{0} dunam",
+      "smal_moenster": "{0} dunam"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-hectare",
+      "kategori": "area",
+      "navn": "hektar",
+      "moenster_en": "{0} hektar",
+      "moenster_flere": "{0} hektar",
+      "kort_moenster": "{0} ha",
+      "smal_moenster": "{0}ha"
+    },
+    {
+      "id": 14,
+      "unit_code": "area-se-jp",
+      "kategori": "area",
+      "navn": "se [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} se [JP]",
+      "kort_moenster": "{0} se [JP]",
+      "smal_moenster": "{0} se [JP]"
+    },
+    {
+      "id": 15,
+      "unit_code": "area-square-centimeter",
+      "kategori": "area",
+      "navn": "kvadratcentimeter",
+      "moenster_en": "{0} kvadratcentimeter",
+      "moenster_flere": "{0} kvadratcentimeter",
+      "kort_moenster": "{0} cm²",
+      "smal_moenster": "{0}cm²"
+    },
+    {
+      "id": 16,
+      "unit_code": "area-square-foot",
+      "kategori": "area",
+      "navn": "kvadratfot",
+      "moenster_en": "{0} kvadratfot",
+      "moenster_flere": "{0} kvadratfot",
+      "kort_moenster": "{0} fot²",
+      "smal_moenster": "{0}fot²"
+    },
+    {
+      "id": 17,
+      "unit_code": "area-square-inch",
+      "kategori": "area",
+      "navn": "kvadrattommer",
+      "moenster_en": "{0} kvadrattomme",
+      "moenster_flere": "{0} kvadrattommer",
+      "kort_moenster": "{0} tommer²",
+      "smal_moenster": "{0} in²"
+    },
+    {
+      "id": 18,
+      "unit_code": "area-square-kilometer",
+      "kategori": "area",
+      "navn": "kvadratkilometer",
+      "moenster_en": "{0} kvadratkilometer",
+      "moenster_flere": "{0} kvadratkilometer",
+      "kort_moenster": "{0} km²",
+      "smal_moenster": "{0}km²"
+    },
+    {
+      "id": 19,
+      "unit_code": "area-square-meter",
+      "kategori": "area",
+      "navn": "kvadratmeter",
+      "moenster_en": "{0} kvadratmeter",
+      "moenster_flere": "{0} kvadratmeter",
+      "kort_moenster": "{0} m²",
+      "smal_moenster": "{0}m²"
+    },
+    {
+      "id": 20,
+      "unit_code": "area-square-mile",
+      "kategori": "area",
+      "navn": "kvadratmile",
+      "moenster_en": "{0} kvadratmile",
+      "moenster_flere": "{0} kvadratmile",
+      "kort_moenster": "{0} miles²",
+      "smal_moenster": "{0}mi²"
+    },
+    {
+      "id": 21,
+      "unit_code": "area-square-yard",
+      "kategori": "area",
+      "navn": "kvadratyard",
+      "moenster_en": "{0} kvadratyard",
+      "moenster_flere": "{0} kvadratyard",
+      "kort_moenster": "{0} yd²",
+      "smal_moenster": "{0} yd²"
+    },
+    {
+      "id": 22,
+      "unit_code": "concentr-item",
+      "kategori": "concentr",
+      "navn": "item",
+      "moenster_en": "{0} item",
+      "moenster_flere": "{0} item",
+      "kort_moenster": "{0} item",
+      "smal_moenster": "{0} item"
+    },
+    {
+      "id": 23,
+      "unit_code": "concentr-karat",
+      "kategori": "concentr",
+      "navn": "karat",
+      "moenster_en": "{0} karat",
+      "moenster_flere": "{0} karat",
+      "kort_moenster": "{0} kt",
+      "smal_moenster": "{0} kt"
+    },
+    {
+      "id": 24,
+      "unit_code": "concentr-katal",
+      "kategori": "concentr",
+      "navn": "katal",
+      "moenster_en": "{0} katal",
+      "moenster_flere": "{0} katal",
+      "kort_moenster": "{0} kat",
+      "smal_moenster": "{0} kat"
+    },
+    {
+      "id": 25,
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "kategori": "concentr",
+      "navn": "milligram per desiliter",
+      "moenster_en": "{0} milligram per desiliter",
+      "moenster_flere": "{0} milligram per desiliter",
+      "kort_moenster": "{0} mg/dl",
+      "smal_moenster": "{0}mg/dl"
+    },
+    {
+      "id": 26,
+      "unit_code": "concentr-millimole-per-liter",
+      "kategori": "concentr",
+      "navn": "millimol per liter",
+      "moenster_en": "{0} millimol per liter",
+      "moenster_flere": "{0} millimol per liter",
+      "kort_moenster": "{0} mmol/l",
+      "smal_moenster": "{0}mmol/l"
+    },
+    {
+      "id": 27,
+      "unit_code": "concentr-mole",
+      "kategori": "concentr",
+      "navn": "mol",
+      "moenster_en": "{0} mol",
+      "moenster_flere": "{0} mol",
+      "kort_moenster": "{0} mol",
+      "smal_moenster": "{0}mol"
+    },
+    {
+      "id": 28,
+      "unit_code": "concentr-ofglucose",
+      "kategori": "concentr",
+      "navn": "glukose",
+      "moenster_en": "{0} glukose",
+      "moenster_flere": "{0} glukose",
+      "kort_moenster": "{0} Glk",
+      "smal_moenster": "{0} Glk"
+    },
+    {
+      "id": 29,
+      "unit_code": "concentr-part",
+      "kategori": "concentr",
+      "navn": "deler",
+      "moenster_en": "{0} del",
+      "moenster_flere": "{0} deler",
+      "kort_moenster": "{0} del",
+      "smal_moenster": "{0} del"
+    },
+    {
+      "id": 30,
+      "unit_code": "concentr-part-per-1e6",
+      "kategori": "concentr",
+      "navn": "deler per million",
+      "moenster_en": "{0} del per million",
+      "moenster_flere": "{0} deler per million",
+      "kort_moenster": "{0} ppm",
+      "smal_moenster": "{0}ppm"
+    },
+    {
+      "id": 31,
+      "unit_code": "concentr-part-per-1e9",
+      "kategori": "concentr",
+      "navn": "deler per milliard",
+      "moenster_en": "{0} del per milliard",
+      "moenster_flere": "{0} deler per milliard",
+      "kort_moenster": "{0} ppb",
+      "smal_moenster": "{0}ppb"
+    },
+    {
+      "id": 32,
+      "unit_code": "concentr-percent",
+      "kategori": "concentr",
+      "navn": "prosent",
+      "moenster_en": "{0} prosent",
+      "moenster_flere": "{0} prosent",
+      "kort_moenster": "{0} %",
+      "smal_moenster": "{0}%"
+    },
+    {
+      "id": 33,
+      "unit_code": "concentr-permille",
+      "kategori": "concentr",
+      "navn": "promille",
+      "moenster_en": "{0} promille",
+      "moenster_flere": "{0} promille",
+      "kort_moenster": "{0} ‰",
+      "smal_moenster": "{0}‰"
+    },
+    {
+      "id": 34,
+      "unit_code": "concentr-permyriad",
+      "kategori": "concentr",
+      "navn": "promyriade",
+      "moenster_en": "{0} promyriade",
+      "moenster_flere": "{0} promyriade",
+      "kort_moenster": "{0} ‱",
+      "smal_moenster": "{0}‱"
+    },
+    {
+      "id": 35,
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "kategori": "consumption",
+      "navn": "liter per 100 kilometer",
+      "moenster_en": "{0} liter per 100 kilometer",
+      "moenster_flere": "{0} liter per 100 kilometer",
+      "kort_moenster": "{0} l/100 km",
+      "smal_moenster": "{0}l/100km"
+    },
+    {
+      "id": 36,
+      "unit_code": "consumption-liter-per-kilometer",
+      "kategori": "consumption",
+      "navn": "liter per kilometer",
+      "moenster_en": "{0} liter per kilometer",
+      "moenster_flere": "{0} liter per kilometer",
+      "kort_moenster": "{0} l/km",
+      "smal_moenster": "{0}l/km"
+    },
+    {
+      "id": 37,
+      "unit_code": "consumption-mile-per-gallon",
+      "kategori": "consumption",
+      "navn": "miles per gallon",
+      "moenster_en": "{0} mile per gallon",
+      "moenster_flere": "{0} miles per gallon",
+      "kort_moenster": "{0} mpg",
+      "smal_moenster": "{0}mpg"
+    },
+    {
+      "id": 38,
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "kategori": "consumption",
+      "navn": "miles per britisk gallon",
+      "moenster_en": "{0} mile per britisk gallon",
+      "moenster_flere": "{0} miles per britisk gallon",
+      "kort_moenster": "{0} mpg brit.",
+      "smal_moenster": "{0}mpg brit."
+    },
+    {
+      "id": 39,
+      "unit_code": "digital-bit",
+      "kategori": "digital",
+      "navn": "bit",
+      "moenster_en": "{0} bit",
+      "moenster_flere": "{0} bit",
+      "kort_moenster": "{0} bit",
+      "smal_moenster": "{0}bit"
+    },
+    {
+      "id": 40,
+      "unit_code": "digital-byte",
+      "kategori": "digital",
+      "navn": "byte",
+      "moenster_en": "{0} byte",
+      "moenster_flere": "{0} byte",
+      "kort_moenster": "{0} B",
+      "smal_moenster": "{0}B"
+    },
+    {
+      "id": 41,
+      "unit_code": "digital-gigabit",
+      "kategori": "digital",
+      "navn": "gigabit",
+      "moenster_en": "{0} gigabit",
+      "moenster_flere": "{0} gigabit",
+      "kort_moenster": "{0} Gb",
+      "smal_moenster": "{0}Gb"
+    },
+    {
+      "id": 42,
+      "unit_code": "digital-gigabyte",
+      "kategori": "digital",
+      "navn": "gigabyte",
+      "moenster_en": "{0} gigabyte",
+      "moenster_flere": "{0} gigabyte",
+      "kort_moenster": "{0} GB",
+      "smal_moenster": "{0}GB"
+    },
+    {
+      "id": 43,
+      "unit_code": "digital-kilobit",
+      "kategori": "digital",
+      "navn": "kilobit",
+      "moenster_en": "{0} kilobit",
+      "moenster_flere": "{0} kilobit",
+      "kort_moenster": "{0} kb",
+      "smal_moenster": "{0}kb"
+    },
+    {
+      "id": 44,
+      "unit_code": "digital-kilobyte",
+      "kategori": "digital",
+      "navn": "kilobyte",
+      "moenster_en": "{0} kilobyte",
+      "moenster_flere": "{0} kilobyte",
+      "kort_moenster": "{0} kB",
+      "smal_moenster": "{0}kB"
+    },
+    {
+      "id": 45,
+      "unit_code": "digital-megabit",
+      "kategori": "digital",
+      "navn": "megabit",
+      "moenster_en": "{0} megabit",
+      "moenster_flere": "{0} megabit",
+      "kort_moenster": "{0} Mb",
+      "smal_moenster": "{0}Mb"
+    },
+    {
+      "id": 46,
+      "unit_code": "digital-megabyte",
+      "kategori": "digital",
+      "navn": "megabyte",
+      "moenster_en": "{0} megabyte",
+      "moenster_flere": "{0} megabyte",
+      "kort_moenster": "{0} MB",
+      "smal_moenster": "{0}MB"
+    },
+    {
+      "id": 47,
+      "unit_code": "digital-petabyte",
+      "kategori": "digital",
+      "navn": "petabyte",
+      "moenster_en": "{0} petabyte",
+      "moenster_flere": "{0} petabyte",
+      "kort_moenster": "{0} PB",
+      "smal_moenster": "{0}PB"
+    },
+    {
+      "id": 48,
+      "unit_code": "digital-terabit",
+      "kategori": "digital",
+      "navn": "terabit",
+      "moenster_en": "{0} terabit",
+      "moenster_flere": "{0} terabit",
+      "kort_moenster": "{0} Tb",
+      "smal_moenster": "{0}Tb"
+    },
+    {
+      "id": 49,
+      "unit_code": "digital-terabyte",
+      "kategori": "digital",
+      "navn": "terabyte",
+      "moenster_en": "{0} terabyte",
+      "moenster_flere": "{0} terabyte",
+      "kort_moenster": "{0} TB",
+      "smal_moenster": "{0}TB"
+    },
+    {
+      "id": 50,
+      "unit_code": "duration-century",
+      "kategori": "duration",
+      "navn": "århundrer",
+      "moenster_en": "{0} århundre",
+      "moenster_flere": "{0} århundrer",
+      "kort_moenster": "{0} årh.",
+      "smal_moenster": "{0} årh."
+    },
+    {
+      "id": 51,
+      "unit_code": "duration-day",
+      "kategori": "duration",
+      "navn": "døgn",
+      "moenster_en": "{0} døgn",
+      "moenster_flere": "{0} døgn",
+      "kort_moenster": "{0} d",
+      "smal_moenster": "{0}d"
+    },
+    {
+      "id": 52,
+      "unit_code": "duration-decade",
+      "kategori": "duration",
+      "navn": "tiår",
+      "moenster_en": "{0} tiår",
+      "moenster_flere": "{0} tiår",
+      "kort_moenster": "{0} tiår",
+      "smal_moenster": "{0} tiår"
+    },
+    {
+      "id": 53,
+      "unit_code": "duration-fortnight",
+      "kategori": "duration",
+      "navn": "fortnight",
+      "moenster_en": "",
+      "moenster_flere": "{0} fw",
+      "kort_moenster": "{0} fw",
+      "smal_moenster": "{0} fw"
+    },
+    {
+      "id": 54,
+      "unit_code": "duration-hour",
+      "kategori": "duration",
+      "navn": "timer",
+      "moenster_en": "{0} time",
+      "moenster_flere": "{0} timer",
+      "kort_moenster": "{0} t",
+      "smal_moenster": "{0}t"
+    },
+    {
+      "id": 55,
+      "unit_code": "duration-microsecond",
+      "kategori": "duration",
+      "navn": "mikrosekunder",
+      "moenster_en": "{0} mikrosekund",
+      "moenster_flere": "{0} mikrosekunder",
+      "kort_moenster": "{0} μs",
+      "smal_moenster": "{0}μs"
+    },
+    {
+      "id": 56,
+      "unit_code": "duration-millisecond",
+      "kategori": "duration",
+      "navn": "millisekunder",
+      "moenster_en": "{0} millisekund",
+      "moenster_flere": "{0} millisekunder",
+      "kort_moenster": "{0} ms",
+      "smal_moenster": "{0}ms"
+    },
+    {
+      "id": 57,
+      "unit_code": "duration-minute",
+      "kategori": "duration",
+      "navn": "minutter",
+      "moenster_en": "{0} minutt",
+      "moenster_flere": "{0} minutter",
+      "kort_moenster": "{0} min",
+      "smal_moenster": "{0}m"
+    },
+    {
+      "id": 58,
+      "unit_code": "duration-month",
+      "kategori": "duration",
+      "navn": "måneder",
+      "moenster_en": "{0} måned",
+      "moenster_flere": "{0} måneder",
+      "kort_moenster": "{0} md.",
+      "smal_moenster": "{0} m"
+    },
+    {
+      "id": 59,
+      "unit_code": "duration-nanosecond",
+      "kategori": "duration",
+      "navn": "nanosekunder",
+      "moenster_en": "{0} nanosekund",
+      "moenster_flere": "{0} nanosekunder",
+      "kort_moenster": "{0} ns",
+      "smal_moenster": "{0}ns"
+    },
+    {
+      "id": 60,
+      "unit_code": "duration-night",
+      "kategori": "duration",
+      "navn": "netter",
+      "moenster_en": "{0} natt",
+      "moenster_flere": "{0} netter",
+      "kort_moenster": "{0} netter",
+      "smal_moenster": "{0} netter"
+    },
+    {
+      "id": 61,
+      "unit_code": "duration-quarter",
+      "kategori": "duration",
+      "navn": "kvartal",
+      "moenster_en": "{0} kvartal",
+      "moenster_flere": "{0} kvartaler",
+      "kort_moenster": "{0} kvt",
+      "smal_moenster": "{0} kv"
+    },
+    {
+      "id": 62,
+      "unit_code": "duration-second",
+      "kategori": "duration",
+      "navn": "sekunder",
+      "moenster_en": "{0} sekund",
+      "moenster_flere": "{0} sekunder",
+      "kort_moenster": "{0} sek",
+      "smal_moenster": "{0}s"
+    },
+    {
+      "id": 63,
+      "unit_code": "duration-week",
+      "kategori": "duration",
+      "navn": "uker",
+      "moenster_en": "{0} uke",
+      "moenster_flere": "{0} uker",
+      "kort_moenster": "{0} u",
+      "smal_moenster": "{0}u"
+    },
+    {
+      "id": 64,
+      "unit_code": "duration-year",
+      "kategori": "duration",
+      "navn": "år",
+      "moenster_en": "{0} år",
+      "moenster_flere": "{0} år",
+      "kort_moenster": "{0} år",
+      "smal_moenster": "{0}å"
+    },
+    {
+      "id": 65,
+      "unit_code": "electric-ampere",
+      "kategori": "electric",
+      "navn": "ampere",
+      "moenster_en": "{0} ampere",
+      "moenster_flere": "{0} ampere",
+      "kort_moenster": "{0} A",
+      "smal_moenster": "{0} A"
+    },
+    {
+      "id": 66,
+      "unit_code": "electric-coulomb",
+      "kategori": "electric",
+      "navn": "coulomb",
+      "moenster_en": "{0} coulomb",
+      "moenster_flere": "{0} coulomb",
+      "kort_moenster": "{0} C",
+      "smal_moenster": "{0} C"
+    },
+    {
+      "id": 67,
+      "unit_code": "electric-farad",
+      "kategori": "electric",
+      "navn": "farad",
+      "moenster_en": "{0} farad",
+      "moenster_flere": "{0} farad",
+      "kort_moenster": "{0} F",
+      "smal_moenster": "{0} F"
+    },
+    {
+      "id": 68,
+      "unit_code": "electric-henry",
+      "kategori": "electric",
+      "navn": "henry",
+      "moenster_en": "{0} henry",
+      "moenster_flere": "{0} henry",
+      "kort_moenster": "{0} H",
+      "smal_moenster": "{0} H"
+    },
+    {
+      "id": 69,
+      "unit_code": "electric-milliampere",
+      "kategori": "electric",
+      "navn": "milliampere",
+      "moenster_en": "{0} milliampere",
+      "moenster_flere": "{0} milliampere",
+      "kort_moenster": "{0} mA",
+      "smal_moenster": "{0} mA"
+    },
+    {
+      "id": 70,
+      "unit_code": "electric-ohm",
+      "kategori": "electric",
+      "navn": "ohm",
+      "moenster_en": "{0} ohm",
+      "moenster_flere": "{0} ohm",
+      "kort_moenster": "{0} Ω",
+      "smal_moenster": "{0} Ω"
+    },
+    {
+      "id": 71,
+      "unit_code": "electric-siemens",
+      "kategori": "electric",
+      "navn": "siemens",
+      "moenster_en": "{0} siemens",
+      "moenster_flere": "{0} siemens",
+      "kort_moenster": "{0} S",
+      "smal_moenster": "{0} S"
+    },
+    {
+      "id": 72,
+      "unit_code": "electric-volt",
+      "kategori": "electric",
+      "navn": "volt",
+      "moenster_en": "{0} volt",
+      "moenster_flere": "{0} volt",
+      "kort_moenster": "{0} V",
+      "smal_moenster": "{0} V"
+    },
+    {
+      "id": 73,
+      "unit_code": "energy-becquerel",
+      "kategori": "energy",
+      "navn": "becquerel",
+      "moenster_en": "{0} becquerel",
+      "moenster_flere": "{0} becquerel",
+      "kort_moenster": "{0} Bq",
+      "smal_moenster": "{0} Bq"
+    },
+    {
+      "id": 74,
+      "unit_code": "energy-british-thermal-unit",
+      "kategori": "energy",
+      "navn": "British thermal unit",
+      "moenster_en": "",
+      "moenster_flere": "{0} Btu",
+      "kort_moenster": "{0} Btu",
+      "smal_moenster": "{0} Btu"
+    },
+    {
+      "id": 75,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategori": "energy",
+      "navn": "BTU-IT",
+      "moenster_en": "",
+      "moenster_flere": "{0} BTU-IT",
+      "kort_moenster": "{0} BTU-IT",
+      "smal_moenster": "{0} BTU-IT"
+    },
+    {
+      "id": 76,
+      "unit_code": "energy-calorie",
+      "kategori": "energy",
+      "navn": "kalorier",
+      "moenster_en": "{0} kalori",
+      "moenster_flere": "{0} kalorier",
+      "kort_moenster": "{0} cal",
+      "smal_moenster": "{0} cal"
+    },
+    {
+      "id": 77,
+      "unit_code": "energy-calorie-it",
+      "kategori": "energy",
+      "navn": "kalorier [IT]",
+      "moenster_en": "{0} kalori [IT]",
+      "moenster_flere": "{0} kalorier [IT]",
+      "kort_moenster": "{0} cal-IT",
+      "smal_moenster": "{0} cal-IT"
+    },
+    {
+      "id": 78,
+      "unit_code": "energy-electronvolt",
+      "kategori": "energy",
+      "navn": "elektronvolt",
+      "moenster_en": "{0} elektronvolt",
+      "moenster_flere": "{0} elektronvolt",
+      "kort_moenster": "{0} eV",
+      "smal_moenster": "{0} eV"
+    },
+    {
+      "id": 79,
+      "unit_code": "energy-foodcalorie",
+      "kategori": "energy",
+      "navn": "kalorier",
+      "moenster_en": "{0} kilokalori",
+      "moenster_flere": "{0} kilokalorier",
+      "kort_moenster": "",
+      "smal_moenster": ""
+    },
+    {
+      "id": 80,
+      "unit_code": "energy-gray",
+      "kategori": "energy",
+      "navn": "gray",
+      "moenster_en": "{0} gray",
+      "moenster_flere": "{0} gray",
+      "kort_moenster": "{0} Gy",
+      "smal_moenster": "{0} Gy"
+    },
+    {
+      "id": 81,
+      "unit_code": "energy-joule",
+      "kategori": "energy",
+      "navn": "joule",
+      "moenster_en": "{0} joule",
+      "moenster_flere": "{0} joule",
+      "kort_moenster": "{0} J",
+      "smal_moenster": "{0} J"
+    },
+    {
+      "id": 82,
+      "unit_code": "energy-kilocalorie",
+      "kategori": "energy",
+      "navn": "kilokalorier",
+      "moenster_en": "{0} kilokalori",
+      "moenster_flere": "{0} kilokalorier",
+      "kort_moenster": "{0} kcal",
+      "smal_moenster": "{0} kcal"
+    },
+    {
+      "id": 83,
+      "unit_code": "energy-kilojoule",
+      "kategori": "energy",
+      "navn": "kilojoule",
+      "moenster_en": "{0} kilojoule",
+      "moenster_flere": "{0} kilojoule",
+      "kort_moenster": "{0} kJ",
+      "smal_moenster": "{0} kJ"
+    },
+    {
+      "id": 84,
+      "unit_code": "energy-kilowatt-hour",
+      "kategori": "energy",
+      "navn": "kilowattimer",
+      "moenster_en": "{0} kilowattime",
+      "moenster_flere": "{0} kilowattimer",
+      "kort_moenster": "{0} kWh",
+      "smal_moenster": "{0} kWh"
+    },
+    {
+      "id": 85,
+      "unit_code": "energy-sievert",
+      "kategori": "energy",
+      "navn": "sievert",
+      "moenster_en": "{0} sievert",
+      "moenster_flere": "{0} sievert",
+      "kort_moenster": "{0} Sv",
+      "smal_moenster": "{0} Sv"
+    },
+    {
+      "id": 86,
+      "unit_code": "energy-therm-us",
+      "kategori": "energy",
+      "navn": "therm",
+      "moenster_en": "{0} therm",
+      "moenster_flere": "{0} therm",
+      "kort_moenster": "{0} therm",
+      "smal_moenster": "{0} therm"
+    },
+    {
+      "id": 87,
+      "unit_code": "force-kilogram-force",
+      "kategori": "force",
+      "navn": "kilopond",
+      "moenster_en": "{0} kilopond",
+      "moenster_flere": "{0} kilopond",
+      "kort_moenster": "{0} kp",
+      "smal_moenster": "{0} kp"
+    },
+    {
+      "id": 88,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategori": "force",
+      "navn": "kWh per 100 km",
+      "moenster_en": "{0} kWh per 100 km",
+      "moenster_flere": "{0} kWh per 100 km",
+      "kort_moenster": "{0} kWh/100 km",
+      "smal_moenster": "{0}kWh/100km"
+    },
+    {
+      "id": 89,
+      "unit_code": "force-newton",
+      "kategori": "force",
+      "navn": "newton",
+      "moenster_en": "{0} newton",
+      "moenster_flere": "{0} newton",
+      "kort_moenster": "{0} N",
+      "smal_moenster": "{0}N"
+    },
+    {
+      "id": 90,
+      "unit_code": "force-pound-force",
+      "kategori": "force",
+      "navn": "pound-force",
+      "moenster_en": "{0} pound-force",
+      "moenster_flere": "{0} pound-force",
+      "kort_moenster": "{0} lbf",
+      "smal_moenster": "{0}lbf"
+    },
+    {
+      "id": 91,
+      "unit_code": "frequency-gigahertz",
+      "kategori": "frequency",
+      "navn": "gigahertz",
+      "moenster_en": "{0} gigahertz",
+      "moenster_flere": "{0} gigahertz",
+      "kort_moenster": "{0} GHz",
+      "smal_moenster": "{0} GHz"
+    },
+    {
+      "id": 92,
+      "unit_code": "frequency-hertz",
+      "kategori": "frequency",
+      "navn": "hertz",
+      "moenster_en": "{0} hertz",
+      "moenster_flere": "{0} hertz",
+      "kort_moenster": "{0} Hz",
+      "smal_moenster": "{0} Hz"
+    },
+    {
+      "id": 93,
+      "unit_code": "frequency-kilohertz",
+      "kategori": "frequency",
+      "navn": "kilohertz",
+      "moenster_en": "{0} kilohertz",
+      "moenster_flere": "{0} kilohertz",
+      "kort_moenster": "{0} kHz",
+      "smal_moenster": "{0} kHz"
+    },
+    {
+      "id": 94,
+      "unit_code": "frequency-megahertz",
+      "kategori": "frequency",
+      "navn": "megahertz",
+      "moenster_en": "{0} megahertz",
+      "moenster_flere": "{0} megahertz",
+      "kort_moenster": "{0} MHz",
+      "smal_moenster": "{0} MHz"
+    },
+    {
+      "id": 95,
+      "unit_code": "graphics-dot",
+      "kategori": "graphics",
+      "navn": "punkt",
+      "moenster_en": "{0} punkt",
+      "moenster_flere": "{0} punkter",
+      "kort_moenster": "{0} pkt",
+      "smal_moenster": "{0} pkt"
+    },
+    {
+      "id": 96,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategori": "graphics",
+      "navn": "punkter per centimeter",
+      "moenster_en": "{0} punkt per centimeter",
+      "moenster_flere": "{0} punkter per centimeter",
+      "kort_moenster": "",
+      "smal_moenster": ""
+    },
+    {
+      "id": 97,
+      "unit_code": "graphics-dot-per-inch",
+      "kategori": "graphics",
+      "navn": "punkter per tomme",
+      "moenster_en": "{0} punkt per tomme",
+      "moenster_flere": "{0} punkter per tomme",
+      "kort_moenster": "{0} dpi",
+      "smal_moenster": "{0} dpi"
+    },
+    {
+      "id": 98,
+      "unit_code": "graphics-em",
+      "kategori": "graphics",
+      "navn": "gefirt",
+      "moenster_en": "{0} gefirt",
+      "moenster_flere": "{0} gefirt",
+      "kort_moenster": "{0} gefirt",
+      "smal_moenster": "{0} gefirt"
+    },
+    {
+      "id": 99,
+      "unit_code": "graphics-megapixel",
+      "kategori": "graphics",
+      "navn": "megapiksler",
+      "moenster_en": "{0} megapiksel",
+      "moenster_flere": "{0} megapiksler",
+      "kort_moenster": "{0} MP",
+      "smal_moenster": "{0} MP"
+    },
+    {
+      "id": 100,
+      "unit_code": "graphics-pixel",
+      "kategori": "graphics",
+      "navn": "piksler",
+      "moenster_en": "{0} piksel",
+      "moenster_flere": "{0} piksler",
+      "kort_moenster": "{0} px",
+      "smal_moenster": "{0} px"
+    },
+    {
+      "id": 101,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategori": "graphics",
+      "navn": "piksler per centimeter",
+      "moenster_en": "{0} piksel per centimeter",
+      "moenster_flere": "{0} piksler per centimeter",
+      "kort_moenster": "{0} ppcm",
+      "smal_moenster": "{0} ppcm"
+    },
+    {
+      "id": 102,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategori": "graphics",
+      "navn": "piksler per tomme",
+      "moenster_en": "{0} piksel per tomme",
+      "moenster_flere": "{0} piksler per tomme",
+      "kort_moenster": "{0} ppi",
+      "smal_moenster": "{0} ppi"
+    },
+    {
+      "id": 103,
+      "unit_code": "length-astronomical-unit",
+      "kategori": "length",
+      "navn": "astronomiske enheter",
+      "moenster_en": "{0} astronomisk enhet",
+      "moenster_flere": "{0} astronomiske enheter",
+      "kort_moenster": "{0} AU",
+      "smal_moenster": "{0}AU"
+    },
+    {
+      "id": 104,
+      "unit_code": "length-centimeter",
+      "kategori": "length",
+      "navn": "centimeter",
+      "moenster_en": "{0} centimeter",
+      "moenster_flere": "{0} centimeter",
+      "kort_moenster": "{0} cm",
+      "smal_moenster": "{0}cm"
+    },
+    {
+      "id": 105,
+      "unit_code": "length-chain",
+      "kategori": "length",
+      "navn": "chain",
+      "moenster_en": "",
+      "moenster_flere": "{0} chain",
+      "kort_moenster": "{0} chain",
+      "smal_moenster": "{0} chain"
+    },
+    {
+      "id": 106,
+      "unit_code": "length-decimeter",
+      "kategori": "length",
+      "navn": "desimeter",
+      "moenster_en": "{0} desimeter",
+      "moenster_flere": "{0} desimeter",
+      "kort_moenster": "{0} dm",
+      "smal_moenster": "{0}dm"
+    },
+    {
+      "id": 107,
+      "unit_code": "length-earth-radius",
+      "kategori": "length",
+      "navn": "jordradius",
+      "moenster_en": "{0} jordradius",
+      "moenster_flere": "{0} jordradier",
+      "kort_moenster": "{0} R⊕",
+      "smal_moenster": "{0}R⊕"
+    },
+    {
+      "id": 108,
+      "unit_code": "length-fathom",
+      "kategori": "length",
+      "navn": "favner",
+      "moenster_en": "{0} favn",
+      "moenster_flere": "{0} favner",
+      "kort_moenster": "{0} fm",
+      "smal_moenster": "{0} fm"
+    },
+    {
+      "id": 109,
+      "unit_code": "length-foot",
+      "kategori": "length",
+      "navn": "fot",
+      "moenster_en": "{0} fot",
+      "moenster_flere": "{0} fot",
+      "kort_moenster": "{0} fot",
+      "smal_moenster": "{0}ft"
+    },
+    {
+      "id": 110,
+      "unit_code": "length-furlong",
+      "kategori": "length",
+      "navn": "furlong",
+      "moenster_en": "{0} furlong",
+      "moenster_flere": "{0} furlong",
+      "kort_moenster": "{0} fur",
+      "smal_moenster": "{0} fur"
+    },
+    {
+      "id": 111,
+      "unit_code": "length-inch",
+      "kategori": "length",
+      "navn": "tommer",
+      "moenster_en": "{0} tomme",
+      "moenster_flere": "{0} tommer",
+      "kort_moenster": "{0} tommer",
+      "smal_moenster": "{0}″"
+    },
+    {
+      "id": 112,
+      "unit_code": "length-jo-jp",
+      "kategori": "length",
+      "navn": "jo [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} jo [JP]",
+      "kort_moenster": "{0} jo [JP]",
+      "smal_moenster": "{0} jo [JP]"
+    },
+    {
+      "id": 113,
+      "unit_code": "length-ken",
+      "kategori": "length",
+      "navn": "ken [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} ken [JP]",
+      "kort_moenster": "{0} ken [JP]",
+      "smal_moenster": "{0} ken [JP]"
+    },
+    {
+      "id": 114,
+      "unit_code": "length-kilometer",
+      "kategori": "length",
+      "navn": "kilometer",
+      "moenster_en": "{0} kilometer",
+      "moenster_flere": "{0} kilometer",
+      "kort_moenster": "{0} km",
+      "smal_moenster": "{0}km"
+    },
+    {
+      "id": 115,
+      "unit_code": "length-light-year",
+      "kategori": "length",
+      "navn": "lysår",
+      "moenster_en": "{0} lysår",
+      "moenster_flere": "{0} lysår",
+      "kort_moenster": "{0} ly",
+      "smal_moenster": "{0}ly"
+    },
+    {
+      "id": 116,
+      "unit_code": "length-meter",
+      "kategori": "length",
+      "navn": "meter",
+      "moenster_en": "{0} meter",
+      "moenster_flere": "{0} meter",
+      "kort_moenster": "{0} m",
+      "smal_moenster": "{0}m"
+    },
+    {
+      "id": 117,
+      "unit_code": "length-micrometer",
+      "kategori": "length",
+      "navn": "mikrometer",
+      "moenster_en": "{0} mikrometer",
+      "moenster_flere": "{0} mikrometer",
+      "kort_moenster": "{0} μm",
+      "smal_moenster": "{0}μm"
+    },
+    {
+      "id": 118,
+      "unit_code": "length-mile",
+      "kategori": "length",
+      "navn": "miles",
+      "moenster_en": "{0} mile",
+      "moenster_flere": "{0} miles",
+      "kort_moenster": "{0} miles",
+      "smal_moenster": "{0}mi"
+    },
+    {
+      "id": 119,
+      "unit_code": "length-mile-scandinavian",
+      "kategori": "length",
+      "navn": "mil",
+      "moenster_en": "{0} mil",
+      "moenster_flere": "{0} mil",
+      "kort_moenster": "{0} mil",
+      "smal_moenster": "{0}mil"
+    },
+    {
+      "id": 120,
+      "unit_code": "length-millimeter",
+      "kategori": "length",
+      "navn": "millimeter",
+      "moenster_en": "{0} millimeter",
+      "moenster_flere": "{0} millimeter",
+      "kort_moenster": "{0} mm",
+      "smal_moenster": "{0}mm"
+    },
+    {
+      "id": 121,
+      "unit_code": "length-nanometer",
+      "kategori": "length",
+      "navn": "nanometer",
+      "moenster_en": "{0} nanometer",
+      "moenster_flere": "{0} nanometer",
+      "kort_moenster": "{0} nm",
+      "smal_moenster": "{0}nm"
+    },
+    {
+      "id": 122,
+      "unit_code": "length-nautical-mile",
+      "kategori": "length",
+      "navn": "nautiske mil",
+      "moenster_en": "{0} nautisk mil",
+      "moenster_flere": "{0} nautiske mil",
+      "kort_moenster": "{0} nmi",
+      "smal_moenster": "{0}nmi"
+    },
+    {
+      "id": 123,
+      "unit_code": "length-parsec",
+      "kategori": "length",
+      "navn": "parsec",
+      "moenster_en": "{0} parsec",
+      "moenster_flere": "{0} parsec",
+      "kort_moenster": "{0} pc",
+      "smal_moenster": "{0}pc"
+    },
+    {
+      "id": 124,
+      "unit_code": "length-picometer",
+      "kategori": "length",
+      "navn": "pikometer",
+      "moenster_en": "{0} pikometer",
+      "moenster_flere": "{0} pikometer",
+      "kort_moenster": "{0} pm",
+      "smal_moenster": "{0}pm"
+    },
+    {
+      "id": 125,
+      "unit_code": "length-point",
+      "kategori": "length",
+      "navn": "typografiske punkter",
+      "moenster_en": "{0} typografisk punkt",
+      "moenster_flere": "{0} typografiske punkter",
+      "kort_moenster": "{0} pt",
+      "smal_moenster": "{0}pt"
+    },
+    {
+      "id": 126,
+      "unit_code": "length-ri-jp",
+      "kategori": "length",
+      "navn": "ri [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} ri [JP]",
+      "kort_moenster": "{0} ri [JP]",
+      "smal_moenster": "{0} ri [JP]"
+    },
+    {
+      "id": 127,
+      "unit_code": "length-rin",
+      "kategori": "length",
+      "navn": "rin [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} rin [JP]",
+      "kort_moenster": "{0} rin [JP]",
+      "smal_moenster": "{0} rin [JP]"
+    },
+    {
+      "id": 128,
+      "unit_code": "length-rod",
+      "kategori": "length",
+      "navn": "rod",
+      "moenster_en": "",
+      "moenster_flere": "{0} rod",
+      "kort_moenster": "{0} rod",
+      "smal_moenster": "{0} rod"
+    },
+    {
+      "id": 129,
+      "unit_code": "length-shaku-cloth",
+      "kategori": "length",
+      "navn": "shaku [cloth, JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} shaku [cloth, JP]",
+      "kort_moenster": "{0} shaku [cloth, JP]",
+      "smal_moenster": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 130,
+      "unit_code": "length-shaku-length",
+      "kategori": "length",
+      "navn": "shaku [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} shaku [JP]",
+      "kort_moenster": "{0} shaku [JP]",
+      "smal_moenster": "{0} shaku [JP]"
+    },
+    {
+      "id": 131,
+      "unit_code": "length-solar-radius",
+      "kategori": "length",
+      "navn": "solradier",
+      "moenster_en": "{0} solradius",
+      "moenster_flere": "{0} solradier",
+      "kort_moenster": "{0} R☉",
+      "smal_moenster": "{0} R☉"
+    },
+    {
+      "id": 132,
+      "unit_code": "length-sun",
+      "kategori": "length",
+      "navn": "sun [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} sun [JP]",
+      "kort_moenster": "{0} sun [JP]",
+      "smal_moenster": "{0} sun [JP]"
+    },
+    {
+      "id": 133,
+      "unit_code": "length-yard",
+      "kategori": "length",
+      "navn": "yard",
+      "moenster_en": "{0} yard",
+      "moenster_flere": "{0} yard",
+      "kort_moenster": "{0} yard",
+      "smal_moenster": "{0}yd"
+    },
+    {
+      "id": 134,
+      "unit_code": "light-candela",
+      "kategori": "light",
+      "navn": "candela",
+      "moenster_en": "{0} candela",
+      "moenster_flere": "{0} candela",
+      "kort_moenster": "{0} cd",
+      "smal_moenster": "{0} cd"
+    },
+    {
+      "id": 135,
+      "unit_code": "light-lumen",
+      "kategori": "light",
+      "navn": "lumen",
+      "moenster_en": "{0} lumen",
+      "moenster_flere": "{0} lumen",
+      "kort_moenster": "{0} lm",
+      "smal_moenster": "{0}lm"
+    },
+    {
+      "id": 136,
+      "unit_code": "light-lux",
+      "kategori": "light",
+      "navn": "lux",
+      "moenster_en": "{0} lux",
+      "moenster_flere": "{0} lux",
+      "kort_moenster": "{0} lx",
+      "smal_moenster": "{0}lx"
+    },
+    {
+      "id": 137,
+      "unit_code": "light-solar-luminosity",
+      "kategori": "light",
+      "navn": "solluminositet",
+      "moenster_en": "",
+      "moenster_flere": "{0} L☉",
+      "kort_moenster": "{0} L☉",
+      "smal_moenster": "{0}L☉"
+    },
+    {
+      "id": 138,
+      "unit_code": "magnetic-tesla",
+      "kategori": "magnetic",
+      "navn": "tesla",
+      "moenster_en": "{0} tesla",
+      "moenster_flere": "{0} tesla",
+      "kort_moenster": "{0} T",
+      "smal_moenster": "{0} T"
+    },
+    {
+      "id": 139,
+      "unit_code": "magnetic-weber",
+      "kategori": "magnetic",
+      "navn": "weber",
+      "moenster_en": "{0} weber",
+      "moenster_flere": "{0} weber",
+      "kort_moenster": "{0} Wb",
+      "smal_moenster": "{0} Wb"
+    },
+    {
+      "id": 140,
+      "unit_code": "mass-carat",
+      "kategori": "mass",
+      "navn": "karat",
+      "moenster_en": "{0} karat",
+      "moenster_flere": "{0} karat",
+      "kort_moenster": "{0} c",
+      "smal_moenster": "{0} c"
+    },
+    {
+      "id": 141,
+      "unit_code": "mass-dalton",
+      "kategori": "mass",
+      "navn": "dalton",
+      "moenster_en": "{0} dalton",
+      "moenster_flere": "{0} dalton",
+      "kort_moenster": "{0} Da",
+      "smal_moenster": "{0} Da"
+    },
+    {
+      "id": 142,
+      "unit_code": "mass-earth-mass",
+      "kategori": "mass",
+      "navn": "jordmasser",
+      "moenster_en": "{0} jordmasse",
+      "moenster_flere": "{0} jordmasser",
+      "kort_moenster": "{0} M⊕",
+      "smal_moenster": "{0} M⊕"
+    },
+    {
+      "id": 143,
+      "unit_code": "mass-fun",
+      "kategori": "mass",
+      "navn": "fun [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} fun [JP]",
+      "kort_moenster": "{0} fun [JP]",
+      "smal_moenster": "{0} fun [JP]"
+    },
+    {
+      "id": 144,
+      "unit_code": "mass-grain",
+      "kategori": "mass",
+      "navn": "grain",
+      "moenster_en": "",
+      "moenster_flere": "{0} grain",
+      "kort_moenster": "{0} grain",
+      "smal_moenster": "{0} grain"
+    },
+    {
+      "id": 145,
+      "unit_code": "mass-gram",
+      "kategori": "mass",
+      "navn": "gram",
+      "moenster_en": "{0} gram",
+      "moenster_flere": "{0} gram",
+      "kort_moenster": "{0} g",
+      "smal_moenster": "{0}g"
+    },
+    {
+      "id": 146,
+      "unit_code": "mass-kilogram",
+      "kategori": "mass",
+      "navn": "kilogram",
+      "moenster_en": "{0} kilogram",
+      "moenster_flere": "{0} kilogram",
+      "kort_moenster": "{0} kg",
+      "smal_moenster": "{0}kg"
+    },
+    {
+      "id": 147,
+      "unit_code": "mass-microgram",
+      "kategori": "mass",
+      "navn": "mikrogram",
+      "moenster_en": "{0} mikrogram",
+      "moenster_flere": "{0} mikrogram",
+      "kort_moenster": "{0} μg",
+      "smal_moenster": "{0}μg"
+    },
+    {
+      "id": 148,
+      "unit_code": "mass-milligram",
+      "kategori": "mass",
+      "navn": "milligram",
+      "moenster_en": "{0} milligram",
+      "moenster_flere": "{0} milligram",
+      "kort_moenster": "{0} mg",
+      "smal_moenster": "{0}mg"
+    },
+    {
+      "id": 149,
+      "unit_code": "mass-ounce",
+      "kategori": "mass",
+      "navn": "unser",
+      "moenster_en": "{0} unse",
+      "moenster_flere": "{0} unser",
+      "kort_moenster": "{0} unser",
+      "smal_moenster": "{0}oz"
+    },
+    {
+      "id": 150,
+      "unit_code": "mass-ounce-troy",
+      "kategori": "mass",
+      "navn": "troy ounce",
+      "moenster_en": "{0} troy ounce",
+      "moenster_flere": "{0} troy ounce",
+      "kort_moenster": "{0} oz tr",
+      "smal_moenster": "{0} oz tr"
+    },
+    {
+      "id": 151,
+      "unit_code": "mass-pound",
+      "kategori": "mass",
+      "navn": "pund",
+      "moenster_en": "{0} pund",
+      "moenster_flere": "{0} pund",
+      "kort_moenster": "{0} pund",
+      "smal_moenster": "{0} pund"
+    },
+    {
+      "id": 152,
+      "unit_code": "mass-slug",
+      "kategori": "mass",
+      "navn": "slug",
+      "moenster_en": "",
+      "moenster_flere": "{0} slug",
+      "kort_moenster": "{0} slug",
+      "smal_moenster": "{0} slug"
+    },
+    {
+      "id": 153,
+      "unit_code": "mass-solar-mass",
+      "kategori": "mass",
+      "navn": "solmasser",
+      "moenster_en": "{0} solmasse",
+      "moenster_flere": "{0} solmasser",
+      "kort_moenster": "{0} M☉",
+      "smal_moenster": "{0} M☉"
+    },
+    {
+      "id": 154,
+      "unit_code": "mass-stone",
+      "kategori": "mass",
+      "navn": "stone",
+      "moenster_en": "{0} stone",
+      "moenster_flere": "{0} stone",
+      "kort_moenster": "{0} st",
+      "smal_moenster": "{0} st"
+    },
+    {
+      "id": 155,
+      "unit_code": "mass-ton",
+      "kategori": "mass",
+      "navn": "amerikanske tonn",
+      "moenster_en": "{0} amerikansk tonn",
+      "moenster_flere": "{0} amerikanske tonn",
+      "kort_moenster": "{0} am. tonn",
+      "smal_moenster": "{0} am. tn."
+    },
+    {
+      "id": 156,
+      "unit_code": "mass-tonne",
+      "kategori": "mass",
+      "navn": "tonn",
+      "moenster_en": "{0} tonn",
+      "moenster_flere": "{0} tonn",
+      "kort_moenster": "{0} t",
+      "smal_moenster": "{0}t"
+    },
+    {
+      "id": 157,
+      "unit_code": "power-gigawatt",
+      "kategori": "power",
+      "navn": "gigawatt",
+      "moenster_en": "{0} gigawatt",
+      "moenster_flere": "{0} gigawatt",
+      "kort_moenster": "{0} GW",
+      "smal_moenster": "{0} GW"
+    },
+    {
+      "id": 158,
+      "unit_code": "power-horsepower",
+      "kategori": "power",
+      "navn": "hestekrefter",
+      "moenster_en": "{0} hestekraft",
+      "moenster_flere": "{0} hestekrefter",
+      "kort_moenster": "{0} hk",
+      "smal_moenster": "{0}hk"
+    },
+    {
+      "id": 159,
+      "unit_code": "power-kilowatt",
+      "kategori": "power",
+      "navn": "kilowatt",
+      "moenster_en": "{0} kilowatt",
+      "moenster_flere": "{0} kilowatt",
+      "kort_moenster": "{0} kW",
+      "smal_moenster": "{0}kW"
+    },
+    {
+      "id": 160,
+      "unit_code": "power-megawatt",
+      "kategori": "power",
+      "navn": "megawatt",
+      "moenster_en": "{0} megawatt",
+      "moenster_flere": "{0} megawatt",
+      "kort_moenster": "{0} MW",
+      "smal_moenster": "{0} MW"
+    },
+    {
+      "id": 161,
+      "unit_code": "power-milliwatt",
+      "kategori": "power",
+      "navn": "milliwatt",
+      "moenster_en": "{0} milliwatt",
+      "moenster_flere": "{0} milliwatt",
+      "kort_moenster": "{0} mW",
+      "smal_moenster": "{0} mW"
+    },
+    {
+      "id": 162,
+      "unit_code": "power-watt",
+      "kategori": "power",
+      "navn": "watt",
+      "moenster_en": "{0} watt",
+      "moenster_flere": "{0} watt",
+      "kort_moenster": "{0} W",
+      "smal_moenster": "{0}W"
+    },
+    {
+      "id": 163,
+      "unit_code": "pressure-atmosphere",
+      "kategori": "pressure",
+      "navn": "atmosfærer",
+      "moenster_en": "{0} atmosfære",
+      "moenster_flere": "{0} atmosfærer",
+      "kort_moenster": "{0} atm",
+      "smal_moenster": "{0} atm"
+    },
+    {
+      "id": 164,
+      "unit_code": "pressure-bar",
+      "kategori": "pressure",
+      "navn": "bar",
+      "moenster_en": "{0} bar",
+      "moenster_flere": "{0} bar",
+      "kort_moenster": "{0} bar",
+      "smal_moenster": "{0} bar"
+    },
+    {
+      "id": 165,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategori": "pressure",
+      "navn": "gas E",
+      "moenster_en": "",
+      "moenster_flere": "{0} gas E",
+      "kort_moenster": "{0} gas E",
+      "smal_moenster": "{0} gas E"
+    },
+    {
+      "id": 166,
+      "unit_code": "pressure-hectopascal",
+      "kategori": "pressure",
+      "navn": "hektopascal",
+      "moenster_en": "{0} hektopascal",
+      "moenster_flere": "{0} hektopascal",
+      "kort_moenster": "{0} hPa",
+      "smal_moenster": "{0}hPa"
+    },
+    {
+      "id": 167,
+      "unit_code": "pressure-inch-ofhg",
+      "kategori": "pressure",
+      "navn": "tommer kvikksølv",
+      "moenster_en": "{0} tomme kvikksølv",
+      "moenster_flere": "{0} tommer kvikksølv",
+      "kort_moenster": "{0} inHg",
+      "smal_moenster": "{0}inHg"
+    },
+    {
+      "id": 168,
+      "unit_code": "pressure-kilopascal",
+      "kategori": "pressure",
+      "navn": "kilopascal",
+      "moenster_en": "{0} kilopascal",
+      "moenster_flere": "{0} kilopascal",
+      "kort_moenster": "{0} kPa",
+      "smal_moenster": "{0} kPa"
+    },
+    {
+      "id": 169,
+      "unit_code": "pressure-megapascal",
+      "kategori": "pressure",
+      "navn": "megapascal",
+      "moenster_en": "{0} megapascal",
+      "moenster_flere": "{0} megapascal",
+      "kort_moenster": "{0} MPa",
+      "smal_moenster": "{0} MPa"
+    },
+    {
+      "id": 170,
+      "unit_code": "pressure-millibar",
+      "kategori": "pressure",
+      "navn": "millibar",
+      "moenster_en": "{0} millibar",
+      "moenster_flere": "{0} millibar",
+      "kort_moenster": "{0} mbar",
+      "smal_moenster": "{0}mbar"
+    },
+    {
+      "id": 171,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategori": "pressure",
+      "navn": "millimeter kvikksølv",
+      "moenster_en": "{0} millimeter kvikksølv",
+      "moenster_flere": "{0} millimeter kvikksølv",
+      "kort_moenster": "{0} mmHg",
+      "smal_moenster": "{0}mmHg"
+    },
+    {
+      "id": 172,
+      "unit_code": "pressure-ofhg",
+      "kategori": "pressure",
+      "navn": "kvikksølv",
+      "moenster_en": "{0} kvikksølv",
+      "moenster_flere": "{0} kvikksølv",
+      "kort_moenster": "{0} Hg",
+      "smal_moenster": "{0} Hg"
+    },
+    {
+      "id": 173,
+      "unit_code": "pressure-pascal",
+      "kategori": "pressure",
+      "navn": "pascal",
+      "moenster_en": "{0} pascal",
+      "moenster_flere": "{0} pascal",
+      "kort_moenster": "{0} Pa",
+      "smal_moenster": "{0} Pa"
+    },
+    {
+      "id": 174,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategori": "pressure",
+      "navn": "pund per kvadrattomme",
+      "moenster_en": "{0} pund per kvadrattomme",
+      "moenster_flere": "{0} pund per kvadrattomme",
+      "kort_moenster": "{0} psi",
+      "smal_moenster": "{0}psi"
+    },
+    {
+      "id": 175,
+      "unit_code": "speed-beaufort",
+      "kategori": "speed",
+      "navn": "beaufort",
+      "moenster_en": "beaufort {0}",
+      "moenster_flere": "beaufort {0}",
+      "kort_moenster": "Bf {0}",
+      "smal_moenster": "Bf{0}"
+    },
+    {
+      "id": 176,
+      "unit_code": "speed-kilometer-per-hour",
+      "kategori": "speed",
+      "navn": "kilometer per time",
+      "moenster_en": "{0} kilometer per time",
+      "moenster_flere": "{0} kilometer per time",
+      "kort_moenster": "{0} km/t",
+      "smal_moenster": "{0}km/t"
+    },
+    {
+      "id": 177,
+      "unit_code": "speed-knot",
+      "kategori": "speed",
+      "navn": "knop",
+      "moenster_en": "{0} knop",
+      "moenster_flere": "{0} knop",
+      "kort_moenster": "{0} kn",
+      "smal_moenster": "{0}kn"
+    },
+    {
+      "id": 178,
+      "unit_code": "speed-light-speed",
+      "kategori": "speed",
+      "navn": "lys",
+      "moenster_en": "{0} lys",
+      "moenster_flere": "{0} lys",
+      "kort_moenster": "{0} lys",
+      "smal_moenster": "{0}lys"
+    },
+    {
+      "id": 179,
+      "unit_code": "speed-meter-per-second",
+      "kategori": "speed",
+      "navn": "meter per sekund",
+      "moenster_en": "{0} meter per sekund",
+      "moenster_flere": "{0} meter per sekund",
+      "kort_moenster": "{0} m/s",
+      "smal_moenster": "{0}m/s"
+    },
+    {
+      "id": 180,
+      "unit_code": "speed-mile-per-hour",
+      "kategori": "speed",
+      "navn": "mile per time",
+      "moenster_en": "{0} engelsk mil per time",
+      "moenster_flere": "{0} engelske mil per time",
+      "kort_moenster": "{0} miles/t",
+      "smal_moenster": "{0}mi/t"
+    },
+    {
+      "id": 181,
+      "unit_code": "temperature-celsius",
+      "kategori": "temperature",
+      "navn": "grader celsius",
+      "moenster_en": "{0} grad celsius",
+      "moenster_flere": "{0} grader celsius",
+      "kort_moenster": "{0} °C",
+      "smal_moenster": "{0} °C"
+    },
+    {
+      "id": 182,
+      "unit_code": "temperature-fahrenheit",
+      "kategori": "temperature",
+      "navn": "grader fahrenheit",
+      "moenster_en": "{0} grad fahrenheit",
+      "moenster_flere": "{0} grader fahrenheit",
+      "kort_moenster": "{0} °F",
+      "smal_moenster": "{0}°F"
+    },
+    {
+      "id": 183,
+      "unit_code": "temperature-generic",
+      "kategori": "temperature",
+      "navn": "grader",
+      "moenster_en": "{0} grad",
+      "moenster_flere": "{0} grader",
+      "kort_moenster": "{0}°",
+      "smal_moenster": "{0}°"
+    },
+    {
+      "id": 184,
+      "unit_code": "temperature-kelvin",
+      "kategori": "temperature",
+      "navn": "kelvin",
+      "moenster_en": "{0} kelvin",
+      "moenster_flere": "{0} kelvin",
+      "kort_moenster": "{0} K",
+      "smal_moenster": "{0}K"
+    },
+    {
+      "id": 185,
+      "unit_code": "temperature-rankine",
+      "kategori": "temperature",
+      "navn": "°R",
+      "moenster_en": "",
+      "moenster_flere": "{0} °R",
+      "kort_moenster": "{0} °R",
+      "smal_moenster": "{0} °R"
+    },
+    {
+      "id": 186,
+      "unit_code": "torque-newton-meter",
+      "kategori": "torque",
+      "navn": "newtonmeter",
+      "moenster_en": "{0} newtonmeter",
+      "moenster_flere": "{0} newtonmeter",
+      "kort_moenster": "{0} Nm",
+      "smal_moenster": "{0}Nm"
+    },
+    {
+      "id": 187,
+      "unit_code": "torque-pound-force-foot",
+      "kategori": "torque",
+      "navn": "pound-foot",
+      "moenster_en": "{0} pound-foot",
+      "moenster_flere": "{0} pound-foot",
+      "kort_moenster": "{0} lbf⋅ft",
+      "smal_moenster": "{0}lbf⋅ft"
+    },
+    {
+      "id": 188,
+      "unit_code": "volume-acre-foot",
+      "kategori": "volume",
+      "navn": "acre-fot",
+      "moenster_en": "{0} acre-fot",
+      "moenster_flere": "{0} acre-fot",
+      "kort_moenster": "{0} ac-fot",
+      "smal_moenster": "{0} ac-fot"
+    },
+    {
+      "id": 189,
+      "unit_code": "volume-barrel",
+      "kategori": "volume",
+      "navn": "fat",
+      "moenster_en": "{0} fat",
+      "moenster_flere": "{0} fat",
+      "kort_moenster": "{0} fat",
+      "smal_moenster": "{0} fat"
+    },
+    {
+      "id": 190,
+      "unit_code": "volume-bushel",
+      "kategori": "volume",
+      "navn": "bushel",
+      "moenster_en": "{0} bushel",
+      "moenster_flere": "{0} bushel",
+      "kort_moenster": "{0} bu",
+      "smal_moenster": "{0} bu"
+    },
+    {
+      "id": 191,
+      "unit_code": "volume-centiliter",
+      "kategori": "volume",
+      "navn": "centiliter",
+      "moenster_en": "{0} centiliter",
+      "moenster_flere": "{0} centiliter",
+      "kort_moenster": "{0} cl",
+      "smal_moenster": "{0}cl"
+    },
+    {
+      "id": 192,
+      "unit_code": "volume-cubic-centimeter",
+      "kategori": "volume",
+      "navn": "kubikkcentimeter",
+      "moenster_en": "{0} kubikkcentimeter",
+      "moenster_flere": "{0} kubikkcentimeter",
+      "kort_moenster": "{0} cm³",
+      "smal_moenster": "{0}cm³"
+    },
+    {
+      "id": 193,
+      "unit_code": "volume-cubic-foot",
+      "kategori": "volume",
+      "navn": "kubikkfot",
+      "moenster_en": "{0} kubikkfot",
+      "moenster_flere": "{0} kubikkfot",
+      "kort_moenster": "{0} fot³",
+      "smal_moenster": "{0} fot³"
+    },
+    {
+      "id": 194,
+      "unit_code": "volume-cubic-inch",
+      "kategori": "volume",
+      "navn": "kubikktommer",
+      "moenster_en": "{0} kubikktomme",
+      "moenster_flere": "{0} kubikktommer",
+      "kort_moenster": "{0} tommer³",
+      "smal_moenster": "{0} in³"
+    },
+    {
+      "id": 195,
+      "unit_code": "volume-cubic-kilometer",
+      "kategori": "volume",
+      "navn": "kubikkilometer",
+      "moenster_en": "{0} kubikkilometer",
+      "moenster_flere": "{0} kubikkilometer",
+      "kort_moenster": "{0} km³",
+      "smal_moenster": "{0}km³"
+    },
+    {
+      "id": 196,
+      "unit_code": "volume-cubic-meter",
+      "kategori": "volume",
+      "navn": "kubikkmeter",
+      "moenster_en": "{0} kubikkmeter",
+      "moenster_flere": "{0} kubikkmeter",
+      "kort_moenster": "{0} m³",
+      "smal_moenster": "{0}m³"
+    },
+    {
+      "id": 197,
+      "unit_code": "volume-cubic-mile",
+      "kategori": "volume",
+      "navn": "kubikkmile",
+      "moenster_en": "{0} kubikkmile",
+      "moenster_flere": "{0} kubikkmile",
+      "kort_moenster": "{0} miles³",
+      "smal_moenster": "{0} mi³"
+    },
+    {
+      "id": 198,
+      "unit_code": "volume-cubic-yard",
+      "kategori": "volume",
+      "navn": "kubikkyard",
+      "moenster_en": "{0} kubikkyard",
+      "moenster_flere": "{0} kubikkyard",
+      "kort_moenster": "{0} yard³",
+      "smal_moenster": "{0} yd³"
+    },
+    {
+      "id": 199,
+      "unit_code": "volume-cup",
+      "kategori": "volume",
+      "navn": "kopper",
+      "moenster_en": "{0} kopp",
+      "moenster_flere": "{0} kopper",
+      "kort_moenster": "{0} k",
+      "smal_moenster": "{0} k"
+    },
+    {
+      "id": 200,
+      "unit_code": "volume-cup-imperial",
+      "kategori": "volume",
+      "navn": "cup Imp.",
+      "moenster_en": "",
+      "moenster_flere": "{0} cup Imp.",
+      "kort_moenster": "{0} cup Imp.",
+      "smal_moenster": "{0} cup Imp."
+    },
+    {
+      "id": 201,
+      "unit_code": "volume-cup-jp",
+      "kategori": "volume",
+      "navn": "cup [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} cup [JP]",
+      "kort_moenster": "{0} cup [JP]",
+      "smal_moenster": "{0} cup [JP]"
+    },
+    {
+      "id": 202,
+      "unit_code": "volume-cup-metric",
+      "kategori": "volume",
+      "navn": "metriske kopper",
+      "moenster_en": "{0} metrisk kopp",
+      "moenster_flere": "{0} metriske kopper",
+      "kort_moenster": "{0} m. kopper",
+      "smal_moenster": "{0} m. kopper"
+    },
+    {
+      "id": 203,
+      "unit_code": "volume-deciliter",
+      "kategori": "volume",
+      "navn": "desiliter",
+      "moenster_en": "{0} desiliter",
+      "moenster_flere": "{0} desiliter",
+      "kort_moenster": "{0} dl",
+      "smal_moenster": "{0}dl"
+    },
+    {
+      "id": 204,
+      "unit_code": "volume-dessert-spoon",
+      "kategori": "volume",
+      "navn": "barneskje",
+      "moenster_en": "{0} barneskje",
+      "moenster_flere": "{0} barneskjeer",
+      "kort_moenster": "{0} bs",
+      "smal_moenster": "{0} bs"
+    },
+    {
+      "id": 205,
+      "unit_code": "volume-dessert-spoon-imperial",
+      "kategori": "volume",
+      "navn": "britisk barneskje",
+      "moenster_en": "{0} britisk barneskje",
+      "moenster_flere": "{0} britiske barneskjeer",
+      "kort_moenster": "{0} imp. bs",
+      "smal_moenster": "{0} imp. bs"
+    },
+    {
+      "id": 206,
+      "unit_code": "volume-dram",
+      "kategori": "volume",
+      "navn": "dram",
+      "moenster_en": "{0} dram",
+      "moenster_flere": "{0} dram",
+      "kort_moenster": "{0} dram fl",
+      "smal_moenster": "{0} dram fl"
+    },
+    {
+      "id": 207,
+      "unit_code": "volume-drop",
+      "kategori": "volume",
+      "navn": "dråpe",
+      "moenster_en": "{0} dråpe",
+      "moenster_flere": "{0} dråper",
+      "kort_moenster": "{0} dråpe",
+      "smal_moenster": "{0} dr"
+    },
+    {
+      "id": 208,
+      "unit_code": "volume-fluid-ounce",
+      "kategori": "volume",
+      "navn": "væskeunser",
+      "moenster_en": "{0} væskeunse",
+      "moenster_flere": "{0} væskeunser",
+      "kort_moenster": "{0} fl oz",
+      "smal_moenster": "{0} fl oz"
+    },
+    {
+      "id": 209,
+      "unit_code": "volume-fluid-ounce-imperial",
+      "kategori": "volume",
+      "navn": "britiske væskeunser",
+      "moenster_en": "{0} britisk væskeunse",
+      "moenster_flere": "{0} britiske væskeunser",
+      "kort_moenster": "{0} imp. fl oz",
+      "smal_moenster": "{0} fl oz Im"
+    },
+    {
+      "id": 210,
+      "unit_code": "volume-fluid-ounce-metric",
+      "kategori": "volume",
+      "navn": "metriske væskeunser",
+      "moenster_en": "{0} metrisk væskeunse",
+      "moenster_flere": "{0} metriske væskeunser",
+      "kort_moenster": "{0} fl oz m.",
+      "smal_moenster": "{0} fl oz m."
+    },
+    {
+      "id": 211,
+      "unit_code": "volume-gallon",
+      "kategori": "volume",
+      "navn": "gallon",
+      "moenster_en": "{0} gallon",
+      "moenster_flere": "{0} gallon",
+      "kort_moenster": "{0} gal",
+      "smal_moenster": "{0} gal"
+    },
+    {
+      "id": 212,
+      "unit_code": "volume-gallon-imperial",
+      "kategori": "volume",
+      "navn": "britiske gallon",
+      "moenster_en": "{0} britisk gallon",
+      "moenster_flere": "{0} britiske gallon",
+      "kort_moenster": "{0} brit. gal",
+      "smal_moenster": "{0} brit. gal"
+    },
+    {
+      "id": 213,
+      "unit_code": "volume-hectoliter",
+      "kategori": "volume",
+      "navn": "hektoliter",
+      "moenster_en": "{0} hektoliter",
+      "moenster_flere": "{0} hektoliter",
+      "kort_moenster": "{0} hl",
+      "smal_moenster": "{0} hl"
+    },
+    {
+      "id": 214,
+      "unit_code": "volume-jigger",
+      "kategori": "volume",
+      "navn": "shot",
+      "moenster_en": "{0} shot",
+      "moenster_flere": "{0} shot",
+      "kort_moenster": "{0} shot",
+      "smal_moenster": "{0} shot"
+    },
+    {
+      "id": 215,
+      "unit_code": "volume-koku",
+      "kategori": "volume",
+      "navn": "koku [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} koku [JP]",
+      "kort_moenster": "{0} koku [JP]",
+      "smal_moenster": "{0} koku [JP]"
+    },
+    {
+      "id": 216,
+      "unit_code": "volume-kosaji",
+      "kategori": "volume",
+      "navn": "kosaji [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} kosaji [JP]",
+      "kort_moenster": "{0} kosaji [JP]",
+      "smal_moenster": "{0} kosaji [JP]"
+    },
+    {
+      "id": 217,
+      "unit_code": "volume-liter",
+      "kategori": "volume",
+      "navn": "liter",
+      "moenster_en": "{0} liter",
+      "moenster_flere": "{0} liter",
+      "kort_moenster": "{0} l",
+      "smal_moenster": "{0}l"
+    },
+    {
+      "id": 218,
+      "unit_code": "volume-megaliter",
+      "kategori": "volume",
+      "navn": "megaliter",
+      "moenster_en": "{0} megaliter",
+      "moenster_flere": "{0} megaliter",
+      "kort_moenster": "{0} Ml",
+      "smal_moenster": "{0} Ml"
+    },
+    {
+      "id": 219,
+      "unit_code": "volume-milliliter",
+      "kategori": "volume",
+      "navn": "milliliter",
+      "moenster_en": "{0} milliliter",
+      "moenster_flere": "{0} milliliter",
+      "kort_moenster": "{0} ml",
+      "smal_moenster": "{0}ml"
+    },
+    {
+      "id": 220,
+      "unit_code": "volume-osaji",
+      "kategori": "volume",
+      "navn": "osaji [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} osaji [JP]",
+      "kort_moenster": "{0} osaji [JP]",
+      "smal_moenster": "{0} osaji [JP]"
+    },
+    {
+      "id": 221,
+      "unit_code": "volume-pinch",
+      "kategori": "volume",
+      "navn": "klype",
+      "moenster_en": "{0} klype",
+      "moenster_flere": "{0} klyper",
+      "kort_moenster": "{0} klyper",
+      "smal_moenster": "{0} kl."
+    },
+    {
+      "id": 222,
+      "unit_code": "volume-pint",
+      "kategori": "volume",
+      "navn": "pint",
+      "moenster_en": "{0} pint",
+      "moenster_flere": "{0} pint",
+      "kort_moenster": "{0} pt",
+      "smal_moenster": "{0} pt"
+    },
+    {
+      "id": 223,
+      "unit_code": "volume-pint-imperial",
+      "kategori": "volume",
+      "navn": "pint Imp.",
+      "moenster_en": "",
+      "moenster_flere": "{0} pt Imp.",
+      "kort_moenster": "{0} pt Imp.",
+      "smal_moenster": "{0} pt Imp."
+    },
+    {
+      "id": 224,
+      "unit_code": "volume-pint-metric",
+      "kategori": "volume",
+      "navn": "metriske pint",
+      "moenster_en": "{0} metrisk pint",
+      "moenster_flere": "{0} metriske pint",
+      "kort_moenster": "{0} mpt",
+      "smal_moenster": "{0} mpt"
+    },
+    {
+      "id": 225,
+      "unit_code": "volume-quart",
+      "kategori": "volume",
+      "navn": "quart",
+      "moenster_en": "{0} quart",
+      "moenster_flere": "{0} quart",
+      "kort_moenster": "{0} qt",
+      "smal_moenster": "{0} qt"
+    },
+    {
+      "id": 226,
+      "unit_code": "volume-quart-imperial",
+      "kategori": "volume",
+      "navn": "britisk quart",
+      "moenster_en": "{0} britisk quart",
+      "moenster_flere": "{0} britiske quart",
+      "kort_moenster": "{0} imp. quart",
+      "smal_moenster": "{0} qt. Imp."
+    },
+    {
+      "id": 227,
+      "unit_code": "volume-sai",
+      "kategori": "volume",
+      "navn": "sai [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} sai [JP]",
+      "kort_moenster": "{0} sai [JP]",
+      "smal_moenster": "{0} sai [JP]"
+    },
+    {
+      "id": 228,
+      "unit_code": "volume-shaku",
+      "kategori": "volume",
+      "navn": "shaku [vol, JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} shaku [vol, JP]",
+      "kort_moenster": "{0} shaku [vol, JP]",
+      "smal_moenster": "{0} shaku [vol, JP]"
+    },
+    {
+      "id": 229,
+      "unit_code": "volume-tablespoon",
+      "kategori": "volume",
+      "navn": "spiseskjeer",
+      "moenster_en": "{0} spiseskje",
+      "moenster_flere": "{0} spiseskjeer",
+      "kort_moenster": "{0} ss",
+      "smal_moenster": "{0} ss"
+    },
+    {
+      "id": 230,
+      "unit_code": "volume-teaspoon",
+      "kategori": "volume",
+      "navn": "teskjeer",
+      "moenster_en": "{0} teskje",
+      "moenster_flere": "{0} teskjeer",
+      "kort_moenster": "{0} ts",
+      "smal_moenster": "{0} ts"
+    },
+    {
+      "id": 231,
+      "unit_code": "volume-to-jp",
+      "kategori": "volume",
+      "navn": "to [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} to [JP]",
+      "kort_moenster": "{0} to [JP]",
+      "smal_moenster": "{0} to [JP]"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter (CLDR, 231) - Gratis nedlasting",
+    "description": "Maaleenheter og deres norske navn og moenstre fra CLDR no-lokalets units.json (long/short/narrow). Inneholder 231 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter (CLDR, 231) | ListBase",
+    "seo_description": "Last ned Maaleenheter (CLDR, 231) — 231 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 231 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

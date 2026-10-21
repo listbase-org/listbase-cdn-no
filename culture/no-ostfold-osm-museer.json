@@ -1,0 +1,159 @@
+{
+  "id": "no-ostfold-osm-museer",
+  "name": "Museer i Østfold – OpenStreetMap (8 museums in Østfold, OSM)",
+  "title": "Museer i Østfold – OpenStreetMap (8 museums in Østfold, OSM)",
+  "description": "Museer i fylket Østfold fra OpenStreetMap — delmengde av no-osm-museer, 8 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Borgarsyssel Museum",
+      "name_en": "",
+      "city": "Sarpsborg",
+      "fylke": "Østfold",
+      "naermeste_sted": "Sarpsborg",
+      "avstand_km": 0.919,
+      "latitude": 59.279309,
+      "longitude": 11.12305,
+      "website": ""
+    },
+    {
+      "name": "Elingaard Herregård",
+      "name_en": "Elingaard Manor",
+      "city": "Lervik",
+      "fylke": "Østfold",
+      "naermeste_sted": "Lervik",
+      "avstand_km": 3.847,
+      "latitude": 59.25218,
+      "longitude": 10.80265,
+      "website": ""
+    },
+    {
+      "name": "Fotballmuseet",
+      "name_en": "",
+      "city": "Fredrikstad",
+      "fylke": "Østfold",
+      "naermeste_sted": "Fredrikstad",
+      "avstand_km": 0.616,
+      "latitude": 59.212588,
+      "longitude": 10.928778,
+      "website": ""
+    },
+    {
+      "name": "Fredrikstad Museum",
+      "name_en": "",
+      "city": "Fredrikstad",
+      "fylke": "Østfold",
+      "naermeste_sted": "Fredrikstad",
+      "avstand_km": 2.199,
+      "latitude": 59.201931,
+      "longitude": 10.95204,
+      "website": ""
+    },
+    {
+      "name": "Fredrikstad Museum",
+      "name_en": "",
+      "city": "Fredrikstad",
+      "fylke": "Østfold",
+      "naermeste_sted": "Fredrikstad",
+      "avstand_km": 1.891,
+      "latitude": 59.203213,
+      "longitude": 10.945853,
+      "website": ""
+    },
+    {
+      "name": "Kjærbus Krigshistoriske samlinger",
+      "name_en": "",
+      "city": "Tomter",
+      "fylke": "Østfold",
+      "naermeste_sted": "Tomter",
+      "avstand_km": 0.359,
+      "latitude": 59.658897,
+      "longitude": 11.001286,
+      "website": ""
+    },
+    {
+      "name": "Kystmuséet",
+      "name_en": "",
+      "city": "Fredrikstad",
+      "fylke": "Østfold",
+      "naermeste_sted": "Skjærhalden",
+      "avstand_km": 10.084,
+      "latitude": 59.093741,
+      "longitude": 10.921073,
+      "website": ""
+    },
+    {
+      "name": "Moss Town- And Industry Museum",
+      "name_en": "",
+      "city": "Moss",
+      "fylke": "Østfold",
+      "naermeste_sted": "Moss",
+      "avstand_km": 0.775,
+      "latitude": 59.438417,
+      "longitude": 10.668296,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Østfold – OpenStreetMap (8 museums in Østfold, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Østfold fra OpenStreetMap — delmengde av no-osm-museer, 8 poster. Inneholder 8 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Østfold – OpenStreetMap (8 museums in Østfold, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Østfold – OpenStreetMap (8 museums in Østfold, OSM) — 8 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 8 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

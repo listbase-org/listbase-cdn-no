@@ -1,0 +1,441 @@
+{
+  "id": "no-sykehjem",
+  "name": "Nursing homes in Norway",
+  "title": "Nursing homes in Norway",
+  "description": "Nursing homes in Norway (Sykehjem i Norge), derived from OpenStreetMap POIs tagged amenity=nursing_home. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 80,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akershus vernepleierskole",
+      "latitude": 59.895106,
+      "longitude": 10.491339
+    },
+    {
+      "name": "Asker bo- og omsorgssenter",
+      "latitude": 59.844119,
+      "longitude": 10.429964
+    },
+    {
+      "name": "Austmarka sykehjem",
+      "latitude": 60.103087,
+      "longitude": 12.320402
+    },
+    {
+      "name": "Bakke",
+      "latitude": 59.016536,
+      "longitude": 11.448458
+    },
+    {
+      "name": "Bergset alders- og sykehjem",
+      "latitude": 61.890006,
+      "longitude": 11.074567
+    },
+    {
+      "name": "Bjørnebekk kursted",
+      "latitude": 59.657533,
+      "longitude": 10.828506
+    },
+    {
+      "name": "Bjørnefjell",
+      "latitude": 59.224061,
+      "longitude": 10.937242
+    },
+    {
+      "name": "Blåkorshjemmet",
+      "latitude": 59.29125,
+      "longitude": 10.891594
+    },
+    {
+      "name": "Blåkorshjemmet",
+      "latitude": 60.540336,
+      "longitude": 10.655828
+    },
+    {
+      "name": "Brøttum aldershjem",
+      "latitude": 61.027468,
+      "longitude": 10.556159
+    },
+    {
+      "name": "Dagsrudheimen",
+      "latitude": 59.288518,
+      "longitude": 9.204935
+    },
+    {
+      "name": "Evanger aldersheim",
+      "latitude": 60.651959,
+      "longitude": 6.104989
+    },
+    {
+      "name": "Fedaheimen",
+      "latitude": 58.270192,
+      "longitude": 6.818558
+    },
+    {
+      "name": "Follo helseheim",
+      "latitude": 59.661872,
+      "longitude": 10.804453
+    },
+    {
+      "name": "Fredrikstad rekonvalesenthjem",
+      "latitude": 59.227681,
+      "longitude": 10.951661
+    },
+    {
+      "name": "Frogn eldresenter",
+      "latitude": 59.665378,
+      "longitude": 10.628275
+    },
+    {
+      "name": "Furnes alderssenter",
+      "latitude": 60.854156,
+      "longitude": 11.015931
+    },
+    {
+      "name": "Furutun habiliteringshjem",
+      "latitude": 59.237503,
+      "longitude": 10.946594
+    },
+    {
+      "name": "Gamleheimen",
+      "latitude": 60.904547,
+      "longitude": 7.197631
+    },
+    {
+      "name": "Gjerpen sykehjem",
+      "latitude": 59.221157,
+      "longitude": 9.610684
+    },
+    {
+      "name": "Godthåp",
+      "latitude": 59.928136,
+      "longitude": 10.553239
+    },
+    {
+      "name": "Grande",
+      "latitude": 59.669514,
+      "longitude": 10.626986
+    },
+    {
+      "name": "Grande",
+      "latitude": 60.768706,
+      "longitude": 10.947553
+    },
+    {
+      "name": "Grande rekreasjonshjem",
+      "latitude": 60.768546,
+      "longitude": 10.94765
+    },
+    {
+      "name": "Granheim",
+      "latitude": 61.574742,
+      "longitude": 11.047903
+    },
+    {
+      "name": "Granlia",
+      "latitude": 60.745064,
+      "longitude": 11.010569
+    },
+    {
+      "name": "Granlien",
+      "latitude": 59.396787,
+      "longitude": 8.511819
+    },
+    {
+      "name": "Grøndalen",
+      "latitude": 59.735703,
+      "longitude": 10.604814
+    },
+    {
+      "name": "Grønlien aldershjem",
+      "latitude": 59.253786,
+      "longitude": 10.991319
+    },
+    {
+      "name": "Heddelid",
+      "latitude": 59.482526,
+      "longitude": 8.617773
+    },
+    {
+      "name": "Hemne Helsesenter",
+      "latitude": 63.288921,
+      "longitude": 9.068002
+    },
+    {
+      "name": "Holla trygdeheim",
+      "latitude": 59.279331,
+      "longitude": 9.270569
+    },
+    {
+      "name": "Holo AO-senter",
+      "latitude": 60.831853,
+      "longitude": 10.772533
+    },
+    {
+      "name": "Høllandstunet",
+      "latitude": 59.653205,
+      "longitude": 6.354331
+    },
+    {
+      "name": "Høysand bad",
+      "latitude": 59.190644,
+      "longitude": 11.186736
+    },
+    {
+      "name": "Kalbakken eldresenter",
+      "latitude": 59.950991,
+      "longitude": 10.866085
+    },
+    {
+      "name": "Kvednatunet",
+      "latitude": 60.405887,
+      "longitude": 5.007975
+    },
+    {
+      "name": "Kvileheim",
+      "latitude": 59.445598,
+      "longitude": 8.172589
+    },
+    {
+      "name": "Kviteseid sjuke- og trygdeheim",
+      "latitude": 59.398291,
+      "longitude": 8.500571
+    },
+    {
+      "name": "Kvås kvileheim",
+      "latitude": 58.241485,
+      "longitude": 7.17909
+    },
+    {
+      "name": "Laureng bo- og servicesenter",
+      "latitude": 69.64445,
+      "longitude": 18.940163
+    },
+    {
+      "name": "Lesjaskog eldresenter",
+      "latitude": 62.232552,
+      "longitude": 8.364313
+    },
+    {
+      "name": "Lommedalen og Bærums verk seniorsenter",
+      "latitude": 59.96127,
+      "longitude": 10.475837
+    },
+    {
+      "name": "Løkentunet",
+      "latitude": 59.578916,
+      "longitude": 11.169625
+    },
+    {
+      "name": "Lørenskog sykehjem",
+      "latitude": 59.913371,
+      "longitude": 10.958661
+    },
+    {
+      "name": "Marie Plahtes Minde",
+      "latitude": 59.901272,
+      "longitude": 10.500944
+    },
+    {
+      "name": "Modum bad",
+      "latitude": 59.96762,
+      "longitude": 9.942851
+    },
+    {
+      "name": "Moelv bo- og aktivitetssenter",
+      "latitude": 60.931047,
+      "longitude": 10.703625
+    },
+    {
+      "name": "Montebellosenteret",
+      "latitude": 61.103281,
+      "longitude": 10.703856
+    },
+    {
+      "name": "Mosvangen aldershjem",
+      "latitude": 58.952203,
+      "longitude": 5.712076
+    },
+    {
+      "name": "Nedre Sund",
+      "latitude": 60.754058,
+      "longitude": 10.950072
+    },
+    {
+      "name": "Nordby sykehjem",
+      "latitude": 59.719025,
+      "longitude": 10.803953
+    },
+    {
+      "name": "Nordhagen",
+      "latitude": 58.298139,
+      "longitude": 7.779708
+    },
+    {
+      "name": "Nypantunet helse- og velferdssenter",
+      "latitude": 63.331836,
+      "longitude": 10.296794
+    },
+    {
+      "name": "Oscar Torp-heimen",
+      "latitude": 59.09735,
+      "longitude": 11.257703
+    },
+    {
+      "name": "Ringstrand",
+      "latitude": 60.899556,
+      "longitude": 10.724314
+    },
+    {
+      "name": "Rykkinn sykehjem",
+      "latitude": 59.924958,
+      "longitude": 10.484675
+    },
+    {
+      "name": "Sivdamsenteret",
+      "latitude": 58.736415,
+      "longitude": 5.656034
+    },
+    {
+      "name": "Sjukestova",
+      "latitude": 60.911753,
+      "longitude": 7.189153
+    },
+    {
+      "name": "Ski helse og eldresenter",
+      "latitude": 59.720704,
+      "longitude": 10.83755
+    },
+    {
+      "name": "Solfjellshøgda helsehus",
+      "latitude": 59.897929,
+      "longitude": 10.800192
+    },
+    {
+      "name": "Soltun sykehjem",
+      "latitude": 58.886287,
+      "longitude": 5.65055
+    },
+    {
+      "name": "Solvang",
+      "latitude": 58.967738,
+      "longitude": 5.723989
+    },
+    {
+      "name": "Stange sykehjem",
+      "latitude": 60.719279,
+      "longitude": 11.181359
+    },
+    {
+      "name": "Steensheim",
+      "latitude": 60.606043,
+      "longitude": 8.316374
+    },
+    {
+      "name": "Storåsli gamleheim",
+      "latitude": 59.405882,
+      "longitude": 7.988613
+    },
+    {
+      "name": "Tingvollheimen",
+      "latitude": 59.293922,
+      "longitude": 11.072653
+    },
+    {
+      "name": "Trondhjems Hospital",
+      "latitude": 63.431081,
+      "longitude": 10.38336
+    },
+    {
+      "name": "Unicare Fram",
+      "latitude": 59.934218,
+      "longitude": 10.47636
+    },
+    {
+      "name": "Valler bo- og behandlingssenter",
+      "latitude": 59.9034,
+      "longitude": 10.530736
+    },
+    {
+      "name": "Vallerhjemmet bo- og behandlingssenter",
+      "latitude": 59.903688,
+      "longitude": 10.53109
+    },
+    {
+      "name": "Vallset bo- og servicesenter",
+      "latitude": 60.683723,
+      "longitude": 11.342832
+    },
+    {
+      "name": "Veldre alderssenter",
+      "latitude": 60.920389,
+      "longitude": 10.903564
+    },
+    {
+      "name": "Veslelien",
+      "latitude": 60.933128,
+      "longitude": 10.852069
+    },
+    {
+      "name": "Vinjar bu- og omsorgssenter",
+      "latitude": 59.49021,
+      "longitude": 6.498274
+    },
+    {
+      "name": "Ålgård bo- og aktivitetssenter",
+      "latitude": 58.767516,
+      "longitude": 5.848013
+    },
+    {
+      "name": "Årvoll omsorgssenter",
+      "latitude": 59.944444,
+      "longitude": 10.811475
+    },
+    {
+      "name": "Åsebråten barnepsykiatrisk klinikk",
+      "latitude": 59.228561,
+      "longitude": 10.951183
+    },
+    {
+      "name": "Åsly",
+      "latitude": 59.225557,
+      "longitude": 10.335796
+    },
+    {
+      "name": "Ølve alderspensjonat",
+      "latitude": 60.009936,
+      "longitude": 5.811374
+    }
+  ],
+  "meta": {
+    "title": "Nursing homes in Norway - Gratis nedlasting",
+    "description": "Nursing homes in Norway (Sykehjem i Norge), derived from OpenStreetMap POIs tagged amenity=nursing_home. Named features only, clipped to mainland Norway. Inneholder 80 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Nursing homes in Norway | ListBase",
+    "seo_description": "Last ned Nursing homes in Norway — 80 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 80 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

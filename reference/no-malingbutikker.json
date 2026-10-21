@@ -1,0 +1,786 @@
+{
+  "id": "no-malingbutikker",
+  "name": "Paint shops in Norway",
+  "title": "Paint shops in Norway",
+  "description": "Paint shops in Norway (Malingbutikker i Norge), derived from OpenStreetMap POIs tagged shop=paint. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 149,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agerup",
+      "latitude": 59.92991,
+      "longitude": 10.709146
+    },
+    {
+      "name": "Alcro Pro Center",
+      "latitude": 59.928318,
+      "longitude": 10.754594
+    },
+    {
+      "name": "Bardufoss fargehandel AS",
+      "latitude": 69.066249,
+      "longitude": 18.517597
+    },
+    {
+      "name": "Bergen malingfabrikk AS",
+      "latitude": 60.381847,
+      "longitude": 5.203361
+    },
+    {
+      "name": "Brødrene Ek",
+      "latitude": 69.975443,
+      "longitude": 23.336875
+    },
+    {
+      "name": "Brødrene Nygaard AS",
+      "latitude": 58.083619,
+      "longitude": 7.305221
+    },
+    {
+      "name": "Elverum Farvehandel",
+      "latitude": 60.87639,
+      "longitude": 11.547825
+    },
+    {
+      "name": "Fargehandelen",
+      "latitude": 68.230503,
+      "longitude": 14.557948
+    },
+    {
+      "name": "Fargerike",
+      "latitude": 61.595343,
+      "longitude": 9.729874
+    },
+    {
+      "name": "Fargerike A. Kiellands Plass",
+      "latitude": 59.928429,
+      "longitude": 10.750182
+    },
+    {
+      "name": "Fargerike Alnabru",
+      "latitude": 59.928011,
+      "longitude": 10.850875
+    },
+    {
+      "name": "Fargerike Alta",
+      "latitude": 69.967606,
+      "longitude": 23.26764
+    },
+    {
+      "name": "Fargerike Arendal",
+      "latitude": 58.460758,
+      "longitude": 8.716235
+    },
+    {
+      "name": "Fargerike Asker",
+      "latitude": 59.819401,
+      "longitude": 10.439927
+    },
+    {
+      "name": "Fargerike Bjugn",
+      "latitude": 63.76598,
+      "longitude": 9.807254
+    },
+    {
+      "name": "Fargerike Bjørvik",
+      "latitude": 59.140392,
+      "longitude": 10.187628
+    },
+    {
+      "name": "Fargerike Breivika",
+      "latitude": 62.471672,
+      "longitude": 6.347489
+    },
+    {
+      "name": "Fargerike Bretun",
+      "latitude": 59.418004,
+      "longitude": 10.665307
+    },
+    {
+      "name": "Fargerike Bygg/Miljø",
+      "latitude": 58.776243,
+      "longitude": 5.628224
+    },
+    {
+      "name": "Fargerike Bø",
+      "latitude": 59.414679,
+      "longitude": 9.061602
+    },
+    {
+      "name": "Fargerike Bømlo",
+      "latitude": 59.796098,
+      "longitude": 5.185871
+    },
+    {
+      "name": "Fargerike C.Kristoffersen",
+      "latitude": 59.400716,
+      "longitude": 10.461104
+    },
+    {
+      "name": "Fargerike Christensen",
+      "latitude": 58.458092,
+      "longitude": 8.717464
+    },
+    {
+      "name": "Fargerike Christoffersen",
+      "latitude": 59.176962,
+      "longitude": 9.59986
+    },
+    {
+      "name": "Fargerike Christoffersen Porsgrunn",
+      "latitude": 59.135454,
+      "longitude": 9.640374
+    },
+    {
+      "name": "Fargerike Colibri",
+      "latitude": 59.75303,
+      "longitude": 10.155637
+    },
+    {
+      "name": "Fargerike Corona Søgne",
+      "latitude": 58.09261,
+      "longitude": 7.818591
+    },
+    {
+      "name": "Fargerike Corona Sørlandsparken",
+      "latitude": 58.175245,
+      "longitude": 8.127346
+    },
+    {
+      "name": "Fargerike Digerneset",
+      "latitude": 62.492499,
+      "longitude": 6.608738
+    },
+    {
+      "name": "Fargerike Dikeveien",
+      "latitude": 59.253191,
+      "longitude": 10.999197
+    },
+    {
+      "name": "Fargerike Dokka Farge og Miljø",
+      "latitude": 60.833238,
+      "longitude": 10.079799
+    },
+    {
+      "name": "Fargerike Enes og Olsen Verdal",
+      "latitude": 63.795012,
+      "longitude": 11.480998
+    },
+    {
+      "name": "Fargerike Evje",
+      "latitude": 58.585828,
+      "longitude": 7.805154
+    },
+    {
+      "name": "Fargerike Finnsnes",
+      "latitude": 69.234854,
+      "longitude": 18.030541
+    },
+    {
+      "name": "Fargerike Flisa",
+      "latitude": 60.611416,
+      "longitude": 12.011639
+    },
+    {
+      "name": "Fargerike Florø",
+      "latitude": 61.600702,
+      "longitude": 5.04632
+    },
+    {
+      "name": "Fargerike Fylling",
+      "latitude": 62.499069,
+      "longitude": 6.132594
+    },
+    {
+      "name": "Fargerike Gjert",
+      "latitude": 59.479241,
+      "longitude": 10.31705
+    },
+    {
+      "name": "Fargerike Grimstad",
+      "latitude": 58.336812,
+      "longitude": 8.593636
+    },
+    {
+      "name": "Fargerike Halvorsen",
+      "latitude": 58.617246,
+      "longitude": 5.650041
+    },
+    {
+      "name": "Fargerike Hamar",
+      "latitude": 60.830647,
+      "longitude": 11.065728
+    },
+    {
+      "name": "Fargerike Hareid",
+      "latitude": 62.373735,
+      "longitude": 6.030371
+    },
+    {
+      "name": "Fargerike Harstad",
+      "latitude": 68.797557,
+      "longitude": 16.53866
+    },
+    {
+      "name": "Fargerike Hemsedal",
+      "latitude": 60.849676,
+      "longitude": 8.615609
+    },
+    {
+      "name": "Fargerike Herøy",
+      "latitude": 62.341186,
+      "longitude": 5.633035
+    },
+    {
+      "name": "Fargerike Hjelle",
+      "latitude": 60.240086,
+      "longitude": 5.747619
+    },
+    {
+      "name": "Fargerike Hjertenes",
+      "latitude": 59.01853,
+      "longitude": 6.043311
+    },
+    {
+      "name": "Fargerike Husby Fagsenter",
+      "latitude": 64.464991,
+      "longitude": 11.502119
+    },
+    {
+      "name": "Fargerike Husnes",
+      "latitude": 59.859617,
+      "longitude": 5.753562
+    },
+    {
+      "name": "Fargerike Hvam",
+      "latitude": 59.978275,
+      "longitude": 11.001975
+    },
+    {
+      "name": "Fargerike Karlsen",
+      "latitude": 61.227716,
+      "longitude": 10.223459
+    },
+    {
+      "name": "Fargerike Kjøstelsen",
+      "latitude": 59.219786,
+      "longitude": 10.922423
+    },
+    {
+      "name": "Fargerike Knarvik",
+      "latitude": 60.546234,
+      "longitude": 5.288669
+    },
+    {
+      "name": "Fargerike Kolbotn",
+      "latitude": 59.801594,
+      "longitude": 10.818893
+    },
+    {
+      "name": "Fargerike Kolvereid",
+      "latitude": 64.865116,
+      "longitude": 11.604262
+    },
+    {
+      "name": "Fargerike Kongsberg",
+      "latitude": 59.672411,
+      "longitude": 9.648363
+    },
+    {
+      "name": "Fargerike Kongsvinger",
+      "latitude": 60.187094,
+      "longitude": 12.007881
+    },
+    {
+      "name": "Fargerike Kvinesdal",
+      "latitude": 58.321706,
+      "longitude": 6.966758
+    },
+    {
+      "name": "Fargerike Levanger",
+      "latitude": 63.749528,
+      "longitude": 11.310543
+    },
+    {
+      "name": "Fargerike Lillesand",
+      "latitude": 58.261398,
+      "longitude": 8.393569
+    },
+    {
+      "name": "Fargerike Lofoten",
+      "latitude": 68.144843,
+      "longitude": 13.64497
+    },
+    {
+      "name": "Fargerike Lothe",
+      "latitude": 59.740005,
+      "longitude": 10.198825
+    },
+    {
+      "name": "Fargerike Lunde",
+      "latitude": 59.29915,
+      "longitude": 9.10508
+    },
+    {
+      "name": "Fargerike Malerboden",
+      "latitude": 59.761526,
+      "longitude": 5.454557
+    },
+    {
+      "name": "Fargerike Malerbua",
+      "latitude": 58.104104,
+      "longitude": 6.758909
+    },
+    {
+      "name": "Fargerike Malern",
+      "latitude": 59.555161,
+      "longitude": 11.325422
+    },
+    {
+      "name": "Fargerike Malerstua Bodø",
+      "latitude": 67.27956,
+      "longitude": 14.417887
+    },
+    {
+      "name": "Fargerike Malertorget",
+      "latitude": 62.466701,
+      "longitude": 6.360758
+    },
+    {
+      "name": "Fargerike Mandal",
+      "latitude": 58.023791,
+      "longitude": 7.450893
+    },
+    {
+      "name": "Fargerike Melbu",
+      "latitude": 68.49902,
+      "longitude": 14.797758
+    },
+    {
+      "name": "Fargerike Meyer",
+      "latitude": 59.261991,
+      "longitude": 10.422332
+    },
+    {
+      "name": "Fargerike Moldehallen",
+      "latitude": 62.738695,
+      "longitude": 7.195616
+    },
+    {
+      "name": "Fargerike Måløy",
+      "latitude": 61.936082,
+      "longitude": 5.11457
+    },
+    {
+      "name": "Fargerike Norheimsund",
+      "latitude": 60.368839,
+      "longitude": 6.146251
+    },
+    {
+      "name": "Fargerike Os",
+      "latitude": 60.183239,
+      "longitude": 5.472789
+    },
+    {
+      "name": "Fargerike Raglamyr",
+      "latitude": 59.394969,
+      "longitude": 5.327999
+    },
+    {
+      "name": "Fargerike Ragnvald Moe",
+      "latitude": 61.120079,
+      "longitude": 10.462707
+    },
+    {
+      "name": "Fargerike Reinaas",
+      "latitude": 63.348984,
+      "longitude": 10.355106
+    },
+    {
+      "name": "Fargerike Ringebu",
+      "latitude": 61.531021,
+      "longitude": 10.140997
+    },
+    {
+      "name": "Fargerike Sandane",
+      "latitude": 61.778957,
+      "longitude": 6.214039
+    },
+    {
+      "name": "Fargerike Sande",
+      "latitude": 59.587521,
+      "longitude": 10.208433
+    },
+    {
+      "name": "Fargerike Sarpsborg",
+      "latitude": 59.27929,
+      "longitude": 11.121056
+    },
+    {
+      "name": "Fargerike Sivertsen",
+      "latitude": 62.623593,
+      "longitude": 7.0935
+    },
+    {
+      "name": "Fargerike Skadberg Hansen",
+      "latitude": 58.451338,
+      "longitude": 6.002775
+    },
+    {
+      "name": "Fargerike Sletvold",
+      "latitude": 60.146475,
+      "longitude": 11.175439
+    },
+    {
+      "name": "Fargerike Sogndal",
+      "latitude": 61.231279,
+      "longitude": 7.104561
+    },
+    {
+      "name": "Fargerike Sortland",
+      "latitude": 68.694009,
+      "longitude": 15.41678
+    },
+    {
+      "name": "Fargerike Stavanger",
+      "latitude": 58.97158,
+      "longitude": 5.749377
+    },
+    {
+      "name": "Fargerike Stjørdal",
+      "latitude": 63.468873,
+      "longitude": 10.915133
+    },
+    {
+      "name": "Fargerike Sunde",
+      "latitude": 61.913355,
+      "longitude": 5.978654
+    },
+    {
+      "name": "Fargerike Syvde",
+      "latitude": 62.089614,
+      "longitude": 5.739864
+    },
+    {
+      "name": "Fargerike Tau",
+      "latitude": 59.065355,
+      "longitude": 5.916276
+    },
+    {
+      "name": "Fargerike Teppesalongen",
+      "latitude": 59.947851,
+      "longitude": 11.010142
+    },
+    {
+      "name": "Fargerike Torkelsen",
+      "latitude": 60.069482,
+      "longitude": 6.54406
+    },
+    {
+      "name": "Fargerike Tromsø",
+      "latitude": 69.654523,
+      "longitude": 18.961012
+    },
+    {
+      "name": "Fargerike Tvilde",
+      "latitude": 60.635873,
+      "longitude": 6.439078
+    },
+    {
+      "name": "Fargerike Uniton",
+      "latitude": 59.282008,
+      "longitude": 5.307075
+    },
+    {
+      "name": "Fargerike Valdres",
+      "latitude": 60.971008,
+      "longitude": 9.287359
+    },
+    {
+      "name": "Fargerike Vennesla",
+      "latitude": 58.265834,
+      "longitude": 7.976968
+    },
+    {
+      "name": "Fargerike Ås",
+      "latitude": 59.663642,
+      "longitude": 10.792606
+    },
+    {
+      "name": "Fargerike Åsane",
+      "latitude": 60.465992,
+      "longitude": 5.322453
+    },
+    {
+      "name": "Fargerike Åsgårdstrand",
+      "latitude": 59.349434,
+      "longitude": 10.460034
+    },
+    {
+      "name": "Fargerike Ørsta",
+      "latitude": 62.200575,
+      "longitude": 6.124924
+    },
+    {
+      "name": "Fargerike Østerlie",
+      "latitude": 63.441477,
+      "longitude": 10.455202
+    },
+    {
+      "name": "Fargesenteret Spelhaugen Lagerutsalg",
+      "latitude": 60.350192,
+      "longitude": 5.27643
+    },
+    {
+      "name": "Fevik Interiør",
+      "latitude": 58.379621,
+      "longitude": 8.675763
+    },
+    {
+      "name": "Flügger",
+      "latitude": 59.945422,
+      "longitude": 11.007297
+    },
+    {
+      "name": "Flügger Farge",
+      "latitude": 60.371684,
+      "longitude": 5.180295
+    },
+    {
+      "name": "Flügger farve",
+      "latitude": 58.893155,
+      "longitude": 9.339874
+    },
+    {
+      "name": "Flügger farve",
+      "latitude": 59.445798,
+      "longitude": 10.682689
+    },
+    {
+      "name": "Flügger farve",
+      "latitude": 59.582591,
+      "longitude": 11.165662
+    },
+    {
+      "name": "Flügger farve",
+      "latitude": 59.716697,
+      "longitude": 10.838309
+    },
+    {
+      "name": "Flügger farve",
+      "latitude": 59.834735,
+      "longitude": 10.441578
+    },
+    {
+      "name": "Flügger Farve",
+      "latitude": 59.911429,
+      "longitude": 10.766626
+    },
+    {
+      "name": "Flügger Farve",
+      "latitude": 59.915261,
+      "longitude": 10.785009
+    },
+    {
+      "name": "Flügger farve",
+      "latitude": 59.928311,
+      "longitude": 10.752972
+    },
+    {
+      "name": "Flügger Farve",
+      "latitude": 59.942936,
+      "longitude": 10.702238
+    },
+    {
+      "name": "Flügger farve",
+      "latitude": 59.952164,
+      "longitude": 10.867673
+    },
+    {
+      "name": "Flügger farve",
+      "latitude": 63.409684,
+      "longitude": 10.444027
+    },
+    {
+      "name": "Flügger farver",
+      "latitude": 59.942552,
+      "longitude": 10.811478
+    },
+    {
+      "name": "Flügger Farver",
+      "latitude": 60.794639,
+      "longitude": 10.689669
+    },
+    {
+      "name": "Frøya Fargehandel",
+      "latitude": 63.727587,
+      "longitude": 8.830932
+    },
+    {
+      "name": "Gjøvik Fargehandel",
+      "latitude": 60.796014,
+      "longitude": 10.688425
+    },
+    {
+      "name": "Happy Homes",
+      "latitude": 62.738265,
+      "longitude": 7.193268
+    },
+    {
+      "name": "Insbo Kvinesdal",
+      "latitude": 58.321472,
+      "longitude": 6.964402
+    },
+    {
+      "name": "Insbo Sirnes",
+      "latitude": 58.294134,
+      "longitude": 6.662596
+    },
+    {
+      "name": "Insbo Teppekroa",
+      "latitude": 58.137736,
+      "longitude": 7.071262
+    },
+    {
+      "name": "Interiørfaghuset T. Lund",
+      "latitude": 58.889845,
+      "longitude": 5.729749
+    },
+    {
+      "name": "Jim's lagerutsalg",
+      "latitude": 59.9282,
+      "longitude": 10.831911
+    },
+    {
+      "name": "Kulør",
+      "latitude": 63.421995,
+      "longitude": 10.412112
+    },
+    {
+      "name": "Kulør - Vik fargehandel",
+      "latitude": 61.087623,
+      "longitude": 6.580043
+    },
+    {
+      "name": "Kulør Odden",
+      "latitude": 58.338312,
+      "longitude": 8.591812
+    },
+    {
+      "name": "Lavik & Rogstad Malerforretning AS",
+      "latitude": 60.398788,
+      "longitude": 5.308691
+    },
+    {
+      "name": "Mal Proff",
+      "latitude": 69.67599,
+      "longitude": 18.929012
+    },
+    {
+      "name": "Malepaletten",
+      "latitude": 60.39449,
+      "longitude": 5.329381
+    },
+    {
+      "name": "Malia Andenes AS",
+      "latitude": 69.309696,
+      "longitude": 16.09178
+    },
+    {
+      "name": "Malia Brandbu",
+      "latitude": 60.422072,
+      "longitude": 10.500802
+    },
+    {
+      "name": "Maling 1000",
+      "latitude": 63.364336,
+      "longitude": 10.380315
+    },
+    {
+      "name": "Maling i Bergen",
+      "latitude": 60.389216,
+      "longitude": 5.332699
+    },
+    {
+      "name": "Map proff partner Moss",
+      "latitude": 59.41798,
+      "longitude": 10.664831
+    },
+    {
+      "name": "Mesna Fargehandel",
+      "latitude": 61.113883,
+      "longitude": 10.463582
+    },
+    {
+      "name": "Mestmaling Flügger Farve",
+      "latitude": 60.310469,
+      "longitude": 5.349851
+    },
+    {
+      "name": "Moen Boligmiljø",
+      "latitude": 62.841282,
+      "longitude": 7.231583
+    },
+    {
+      "name": "Nysted",
+      "latitude": 58.835107,
+      "longitude": 5.732186
+    },
+    {
+      "name": "Odin Fargehandel",
+      "latitude": 60.395643,
+      "longitude": 5.327099
+    },
+    {
+      "name": "Otra Maling",
+      "latitude": 58.109614,
+      "longitude": 7.959568
+    },
+    {
+      "name": "Sandtec AS",
+      "latitude": 58.794676,
+      "longitude": 5.667928
+    },
+    {
+      "name": "Thu og Johansen AS",
+      "latitude": 59.414599,
+      "longitude": 10.682567
+    },
+    {
+      "name": "Vinderen farve og interiør",
+      "latitude": 59.942816,
+      "longitude": 10.703353
+    }
+  ],
+  "meta": {
+    "title": "Paint shops in Norway - Gratis nedlasting",
+    "description": "Paint shops in Norway (Malingbutikker i Norge), derived from OpenStreetMap POIs tagged shop=paint. Named features only, clipped to mainland Norway. Inneholder 149 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Paint shops in Norway | ListBase",
+    "seo_description": "Last ned Paint shops in Norway — 149 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 149 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

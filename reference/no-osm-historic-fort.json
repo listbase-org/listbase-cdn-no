@@ -1,0 +1,1331 @@
+{
+  "id": "no-osm-historic-fort",
+  "name": "Named forts and fortifications in Norway",
+  "title": "Named forts and fortifications in Norway",
+  "description": "Named forts and fortifications in Norway, derived from OpenStreetMap POI nodes tagged historic=fort in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 258,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aaknes kystfort",
+      "latitude": 68.986061,
+      "longitude": 15.455055
+    },
+    {
+      "name": "Aaram kystfort",
+      "latitude": 62.19,
+      "longitude": 5.511748
+    },
+    {
+      "name": "Alta kystfort",
+      "latitude": 70.138841,
+      "longitude": 22.974067
+    },
+    {
+      "name": "Ansnes kystfort",
+      "latitude": 69.502549,
+      "longitude": 18.444599
+    },
+    {
+      "name": "Arnøy kystfort",
+      "latitude": 67.164799,
+      "longitude": 14.007842
+    },
+    {
+      "name": "Arvik kystfort",
+      "latitude": 70.01968,
+      "longitude": 19.871365
+    },
+    {
+      "name": "Arøyholmen kystfort",
+      "latitude": 69.679518,
+      "longitude": 20.358589
+    },
+    {
+      "name": "Aspenes fort",
+      "latitude": 68.841857,
+      "longitude": 16.128048
+    },
+    {
+      "name": "Aspenes kystfort",
+      "latitude": 61.761885,
+      "longitude": 5.095475
+    },
+    {
+      "name": "Austein fort",
+      "latitude": 69.598897,
+      "longitude": 18.01569
+    },
+    {
+      "name": "Batteriet på Åsen",
+      "latitude": 58.894659,
+      "longitude": 5.669255
+    },
+    {
+      "name": "Belteviga Fort",
+      "latitude": 58.063075,
+      "longitude": 7.980135
+    },
+    {
+      "name": "Berg fort",
+      "latitude": 69.455867,
+      "longitude": 17.251528
+    },
+    {
+      "name": "Berlevåg kystfort",
+      "latitude": 70.861833,
+      "longitude": 29.074679
+    },
+    {
+      "name": "Billefjord kystfort",
+      "latitude": 70.325415,
+      "longitude": 25.177413
+    },
+    {
+      "name": "Birkenes kystfort",
+      "latitude": 62.220651,
+      "longitude": 5.933663
+    },
+    {
+      "name": "Bjarkøy kystfort",
+      "latitude": 68.996894,
+      "longitude": 16.569368
+    },
+    {
+      "name": "Bjørnåsbatteriet",
+      "latitude": 59.435655,
+      "longitude": 10.693585
+    },
+    {
+      "name": "Blaali fort",
+      "latitude": 61.920524,
+      "longitude": 5.126224
+    },
+    {
+      "name": "Bolærne fort",
+      "latitude": 59.204192,
+      "longitude": 10.570599
+    },
+    {
+      "name": "Bratholmen fort",
+      "latitude": 70.44399,
+      "longitude": 26.62233
+    },
+    {
+      "name": "Bremnes Fort",
+      "latitude": 67.321337,
+      "longitude": 14.457594
+    },
+    {
+      "name": "Bremnes fort",
+      "latitude": 68.863577,
+      "longitude": 16.195618
+    },
+    {
+      "name": "Brennsholmen fort",
+      "latitude": 69.593799,
+      "longitude": 18.027476
+    },
+    {
+      "name": "Brettingen fort",
+      "latitude": 63.659001,
+      "longitude": 9.812662
+    },
+    {
+      "name": "Bugøen fort",
+      "latitude": 69.970668,
+      "longitude": 29.668507
+    },
+    {
+      "name": "Buholmen fort",
+      "latitude": 69.739677,
+      "longitude": 29.689445
+    },
+    {
+      "name": "Bø kystfort",
+      "latitude": 59.011782,
+      "longitude": 5.568493
+    },
+    {
+      "name": "Bøkfjord fort",
+      "latitude": 69.876248,
+      "longitude": 30.175966
+    },
+    {
+      "name": "Børselvnes fort",
+      "latitude": 70.327119,
+      "longitude": 25.39013
+    },
+    {
+      "name": "Christiansholm festning",
+      "latitude": 58.144205,
+      "longitude": 8.003534
+    },
+    {
+      "name": "Christiansø festning",
+      "latitude": 58.085521,
+      "longitude": 7.984082
+    },
+    {
+      "name": "Dyngvold flakbatteri",
+      "latitude": 58.088903,
+      "longitude": 6.669774
+    },
+    {
+      "name": "Dønnes kystfort",
+      "latitude": 66.225325,
+      "longitude": 12.585434
+    },
+    {
+      "name": "Edøy fort",
+      "latitude": 63.285205,
+      "longitude": 8.124746
+    },
+    {
+      "name": "Egersund fort",
+      "latitude": 58.438649,
+      "longitude": 5.904045
+    },
+    {
+      "name": "Eidet kystfort",
+      "latitude": 67.583007,
+      "longitude": 14.992111
+    },
+    {
+      "name": "Eidsbygda kystfort",
+      "latitude": 62.585968,
+      "longitude": 7.531849
+    },
+    {
+      "name": "Eimind kystfort",
+      "latitude": 61.38011,
+      "longitude": 5.03089
+    },
+    {
+      "name": "Ekkerøy fort",
+      "latitude": 70.071554,
+      "longitude": 30.112517
+    },
+    {
+      "name": "Elgnes kystfort",
+      "latitude": 68.919222,
+      "longitude": 16.259662
+    },
+    {
+      "name": "Engan skanse",
+      "latitude": 62.809476,
+      "longitude": 11.344501
+    },
+    {
+      "name": "Engenes kystfort",
+      "latitude": 68.919557,
+      "longitude": 17.127042
+    },
+    {
+      "name": "Evenestangen fort",
+      "latitude": 68.454783,
+      "longitude": 16.712533
+    },
+    {
+      "name": "Ex. tysk leir",
+      "latitude": 70.440157,
+      "longitude": 25.198474
+    },
+    {
+      "name": "Fagervik fort",
+      "latitude": 66.128381,
+      "longitude": 12.835014
+    },
+    {
+      "name": "Farsund kystfort",
+      "latitude": 58.059722,
+      "longitude": 6.788446
+    },
+    {
+      "name": "Ferkingstad kystfort",
+      "latitude": 59.202419,
+      "longitude": 5.172826
+    },
+    {
+      "name": "Fetsund batteri",
+      "latitude": 59.929254,
+      "longitude": 11.155388
+    },
+    {
+      "name": "Finnlandsnes kystfort",
+      "latitude": 69.096202,
+      "longitude": 17.628293
+    },
+    {
+      "name": "Flatneset fort",
+      "latitude": 69.422147,
+      "longitude": 17.298977
+    },
+    {
+      "name": "Flekkerøy fort",
+      "latitude": 58.087989,
+      "longitude": 8.007824
+    },
+    {
+      "name": "Flokenes kystfort",
+      "latitude": 61.466279,
+      "longitude": 5.247489
+    },
+    {
+      "name": "Flygansvær fort",
+      "latitude": 60.012473,
+      "longitude": 5.353963
+    },
+    {
+      "name": "Folehavna fort",
+      "latitude": 59.043223,
+      "longitude": 10.270911
+    },
+    {
+      "name": "Forholten kystfort",
+      "latitude": 68.529892,
+      "longitude": 16.476123
+    },
+    {
+      "name": "Fredriksholm festning",
+      "latitude": 58.096463,
+      "longitude": 7.982563
+    },
+    {
+      "name": "Fuglenes fort",
+      "latitude": 70.678531,
+      "longitude": 23.642983
+    },
+    {
+      "name": "Furenes kystfort",
+      "latitude": 61.29635,
+      "longitude": 5.062112
+    },
+    {
+      "name": "Gamvik kystfort",
+      "latitude": 71.066124,
+      "longitude": 28.240539
+    },
+    {
+      "name": "Gavesluft fort",
+      "latitude": 70.508424,
+      "longitude": 28.328188
+    },
+    {
+      "name": "Gjellebekk skanse",
+      "latitude": 59.812073,
+      "longitude": 10.284389
+    },
+    {
+      "name": "Gjervik kystfort",
+      "latitude": 67.949514,
+      "longitude": 15.219782
+    },
+    {
+      "name": "Gossen Midt kystfort",
+      "latitude": 62.804474,
+      "longitude": 6.883333
+    },
+    {
+      "name": "Gossen Nord kystfort",
+      "latitude": 62.845525,
+      "longitude": 6.808307
+    },
+    {
+      "name": "Gossen Sør kystfort",
+      "latitude": 62.777169,
+      "longitude": 6.914295
+    },
+    {
+      "name": "Greåker fort",
+      "latitude": 59.271777,
+      "longitude": 11.033511
+    },
+    {
+      "name": "Grimstad Batteri",
+      "latitude": 58.332048,
+      "longitude": 8.620687
+    },
+    {
+      "name": "Grindalen Skanse",
+      "latitude": 60.887138,
+      "longitude": 11.549104
+    },
+    {
+      "name": "Grunnreisa kystfort",
+      "latitude": 69.183704,
+      "longitude": 18.05868
+    },
+    {
+      "name": "Gråkollen batteri",
+      "latitude": 59.598754,
+      "longitude": 11.080527
+    },
+    {
+      "name": "Grødem kystfort",
+      "latitude": 59.010954,
+      "longitude": 5.655649
+    },
+    {
+      "name": "Grøtavær kystfort",
+      "latitude": 68.97206,
+      "longitude": 16.272238
+    },
+    {
+      "name": "Grøtsund fort",
+      "latitude": 69.74618,
+      "longitude": 19.130282
+    },
+    {
+      "name": "Guldsmedvika fort",
+      "latitude": 69.836024,
+      "longitude": 30.072945
+    },
+    {
+      "name": "Gyllerås batteri",
+      "latitude": 59.333109,
+      "longitude": 10.940392
+    },
+    {
+      "name": "Halsøyra kystfort",
+      "latitude": 62.003462,
+      "longitude": 5.143039
+    },
+    {
+      "name": "Hambåra fort",
+      "latitude": 63.612015,
+      "longitude": 9.738817
+    },
+    {
+      "name": "Hammerfest fort",
+      "latitude": 70.648359,
+      "longitude": 23.636436
+    },
+    {
+      "name": "Hanaberget",
+      "latitude": 58.653767,
+      "longitude": 5.621974
+    },
+    {
+      "name": "Hansneset fort",
+      "latitude": 69.773945,
+      "longitude": 19.052889
+    },
+    {
+      "name": "Hausvik Fort",
+      "latitude": 58.046286,
+      "longitude": 6.976509
+    },
+    {
+      "name": "Havningberg kystfort",
+      "latitude": 70.543912,
+      "longitude": 30.617089
+    },
+    {
+      "name": "Helland fort",
+      "latitude": 62.61273,
+      "longitude": 6.463775
+    },
+    {
+      "name": "Hemnskjel fort",
+      "latitude": 63.4979,
+      "longitude": 9.109718
+    },
+    {
+      "name": "Henrikvik kystfort",
+      "latitude": 69.684009,
+      "longitude": 18.659913
+    },
+    {
+      "name": "Hetleflot kystfort",
+      "latitude": 60.216223,
+      "longitude": 5.439525
+    },
+    {
+      "name": "Hjelmkollen fort",
+      "latitude": 59.100733,
+      "longitude": 11.276399
+    },
+    {
+      "name": "Hoddøen kystfort",
+      "latitude": 64.483708,
+      "longitude": 11.206741
+    },
+    {
+      "name": "Holmenkollen leir",
+      "latitude": 59.964215,
+      "longitude": 10.663663
+    },
+    {
+      "name": "Hovde fort",
+      "latitude": 63.676988,
+      "longitude": 9.653436
+    },
+    {
+      "name": "Hoøy fort",
+      "latitude": 63.710801,
+      "longitude": 9.542264
+    },
+    {
+      "name": "Hundvåg fort",
+      "latitude": 58.997654,
+      "longitude": 5.716796
+    },
+    {
+      "name": "Hågenes kystfort",
+      "latitude": 68.987088,
+      "longitude": 17.373065
+    },
+    {
+      "name": "Hågåsen kystbatteri",
+      "latitude": 58.225158,
+      "longitude": 6.537981
+    },
+    {
+      "name": "Håøya fort",
+      "latitude": 59.176257,
+      "longitude": 10.353984
+    },
+    {
+      "name": "Høgaas batteri",
+      "latitude": 59.887238,
+      "longitude": 11.206876
+    },
+    {
+      "name": "Høybukten fort",
+      "latitude": 69.739536,
+      "longitude": 29.896468
+    },
+    {
+      "name": "Ime batteri",
+      "latitude": 58.034962,
+      "longitude": 7.490192
+    },
+    {
+      "name": "Innlandet kystfort",
+      "latitude": 63.103737,
+      "longitude": 7.725156
+    },
+    {
+      "name": "Innstrandi kystfort",
+      "latitude": 60.253178,
+      "longitude": 6.123387
+    },
+    {
+      "name": "Janshola fort",
+      "latitude": 58.301565,
+      "longitude": 6.326383
+    },
+    {
+      "name": "Justøy batteri",
+      "latitude": 58.200054,
+      "longitude": 8.373647
+    },
+    {
+      "name": "Kalvøysund festning",
+      "latitude": 58.539307,
+      "longitude": 8.976316
+    },
+    {
+      "name": "Karlsøy kystfort",
+      "latitude": 69.997327,
+      "longitude": 19.960962
+    },
+    {
+      "name": "Kiberg fort",
+      "latitude": 70.287495,
+      "longitude": 31.026308
+    },
+    {
+      "name": "Kirkeøen kystfort",
+      "latitude": 61.075908,
+      "longitude": 5.200536
+    },
+    {
+      "name": "Kistrand kystfort",
+      "latitude": 70.477594,
+      "longitude": 25.219921
+    },
+    {
+      "name": "Kjeldneset kystfort",
+      "latitude": 68.422438,
+      "longitude": 16.63815
+    },
+    {
+      "name": "Kjellås batteri",
+      "latitude": 59.516514,
+      "longitude": 11.204999
+    },
+    {
+      "name": "Kjelmø fort",
+      "latitude": 69.883846,
+      "longitude": 30.038281
+    },
+    {
+      "name": "Kjøkøy fort",
+      "latitude": 59.131791,
+      "longitude": 10.949198
+    },
+    {
+      "name": "Klævold kystfort",
+      "latitude": 61.161058,
+      "longitude": 5.828787
+    },
+    {
+      "name": "Kobbevik kystfort",
+      "latitude": 62.167171,
+      "longitude": 5.442064
+    },
+    {
+      "name": "Kongsfjord kystfort",
+      "latitude": 70.729273,
+      "longitude": 29.389565
+    },
+    {
+      "name": "Kongshavn fort",
+      "latitude": 59.208028,
+      "longitude": 10.568596
+    },
+    {
+      "name": "Korsnes fort",
+      "latitude": 60.209426,
+      "longitude": 5.257285
+    },
+    {
+      "name": "Korsnes fort",
+      "latitude": 70.215149,
+      "longitude": 23.181705
+    },
+    {
+      "name": "Korsnes kystfort",
+      "latitude": 68.250254,
+      "longitude": 16.050763
+    },
+    {
+      "name": "Krikken",
+      "latitude": 58.842923,
+      "longitude": 9.479221
+    },
+    {
+      "name": "Kristiansten festning",
+      "latitude": 63.42693,
+      "longitude": 10.411098
+    },
+    {
+      "name": "Kroken fort",
+      "latitude": 60.204913,
+      "longitude": 5.263808
+    },
+    {
+      "name": "Kuholmen batteri",
+      "latitude": 58.143234,
+      "longitude": 8.016425
+    },
+    {
+      "name": "Kvalneset fort",
+      "latitude": 70.207831,
+      "longitude": 30.473792
+    },
+    {
+      "name": "Kvalsund kystfort",
+      "latitude": 70.508963,
+      "longitude": 24.039684
+    },
+    {
+      "name": "Kvamsøy batteri",
+      "latitude": 62.20998,
+      "longitude": 5.345635
+    },
+    {
+      "name": "Landehobde fort",
+      "latitude": 58.010692,
+      "longitude": 7.418633
+    },
+    {
+      "name": "Langli kystbatteri",
+      "latitude": 69.802657,
+      "longitude": 20.732617
+    },
+    {
+      "name": "Langli kystbatteri",
+      "latitude": 69.808751,
+      "longitude": 20.754703
+    },
+    {
+      "name": "Langørjan fort",
+      "latitude": 63.420087,
+      "longitude": 10.134185
+    },
+    {
+      "name": "Lattervik kystfort",
+      "latitude": 69.777379,
+      "longitude": 19.87431
+    },
+    {
+      "name": "Laukvik kystfort",
+      "latitude": 67.664437,
+      "longitude": 14.94024
+    },
+    {
+      "name": "Leira fort",
+      "latitude": 63.380325,
+      "longitude": 10.403087
+    },
+    {
+      "name": "Leirvik kystfort",
+      "latitude": 59.768964,
+      "longitude": 5.493887
+    },
+    {
+      "name": "Leksan kystfort",
+      "latitude": 63.580646,
+      "longitude": 9.313358
+    },
+    {
+      "name": "Lenangen kystfort",
+      "latitude": 69.931787,
+      "longitude": 20.128337
+    },
+    {
+      "name": "Lillesand batteri",
+      "latitude": 58.265721,
+      "longitude": 8.353992
+    },
+    {
+      "name": "Lister Fort",
+      "latitude": 58.123759,
+      "longitude": 6.58323
+    },
+    {
+      "name": "Lodshavn fort",
+      "latitude": 58.065297,
+      "longitude": 6.816809
+    },
+    {
+      "name": "Losvik fort",
+      "latitude": 70.864216,
+      "longitude": 28.421631
+    },
+    {
+      "name": "Lund kystfort",
+      "latitude": 65.953378,
+      "longitude": 12.459067
+    },
+    {
+      "name": "Lødingen kystfort",
+      "latitude": 68.388,
+      "longitude": 15.898086
+    },
+    {
+      "name": "Løkhaug kystfort",
+      "latitude": 63.600296,
+      "longitude": 9.532383
+    },
+    {
+      "name": "Madlatuen fort",
+      "latitude": 58.936182,
+      "longitude": 5.645363
+    },
+    {
+      "name": "Makkaur kystfort",
+      "latitude": 70.707971,
+      "longitude": 30.016236
+    },
+    {
+      "name": "Malmøya fort",
+      "latitude": 59.010518,
+      "longitude": 10.096621
+    },
+    {
+      "name": "Marøy kystfort",
+      "latitude": 60.713129,
+      "longitude": 4.868512
+    },
+    {
+      "name": "Mehamn kystfort",
+      "latitude": 71.050309,
+      "longitude": 27.863056
+    },
+    {
+      "name": "Melbu kystfort",
+      "latitude": 68.496113,
+      "longitude": 14.73376
+    },
+    {
+      "name": "Meldalen luftvernbatteri",
+      "latitude": 63.692671,
+      "longitude": 9.600211
+    },
+    {
+      "name": "Melkøen fort",
+      "latitude": 70.690213,
+      "longitude": 23.600194
+    },
+    {
+      "name": "Melland fort Vest",
+      "latitude": 63.375047,
+      "longitude": 8.510145
+    },
+    {
+      "name": "Melland fort Øst",
+      "latitude": 63.381381,
+      "longitude": 8.520058
+    },
+    {
+      "name": "Mestersand fort",
+      "latitude": 69.8813,
+      "longitude": 30.036677
+    },
+    {
+      "name": "Mo kystfort",
+      "latitude": 66.176863,
+      "longitude": 13.053697
+    },
+    {
+      "name": "Mokoll batterier",
+      "latitude": 59.141427,
+      "longitude": 10.212734
+    },
+    {
+      "name": "Mosjøen kystfort",
+      "latitude": 65.985307,
+      "longitude": 12.856219
+    },
+    {
+      "name": "Mærraneset fort",
+      "latitude": 64.455447,
+      "longitude": 11.441866
+    },
+    {
+      "name": "Mørvik fort",
+      "latitude": 59.095307,
+      "longitude": 11.200678
+    },
+    {
+      "name": "Narrefort",
+      "latitude": 58.841051,
+      "longitude": 9.486089
+    },
+    {
+      "name": "Nesje kystfort",
+      "latitude": 61.117343,
+      "longitude": 5.228122
+    },
+    {
+      "name": "Nevlunghavn fort",
+      "latitude": 58.96267,
+      "longitude": 9.855879
+    },
+    {
+      "name": "Nordberg fort",
+      "latitude": 58.130825,
+      "longitude": 6.618954
+    },
+    {
+      "name": "Nordeidet kystfort",
+      "latitude": 69.916992,
+      "longitude": 19.776474
+    },
+    {
+      "name": "Osmundvåg kystfort",
+      "latitude": 61.988029,
+      "longitude": 5.192086
+    },
+    {
+      "name": "Prinds Christians Batterie",
+      "latitude": 59.255301,
+      "longitude": 10.503435
+    },
+    {
+      "name": "Rakke fort",
+      "latitude": 58.978538,
+      "longitude": 10.025046
+    },
+    {
+      "name": "Ramnes kystfort",
+      "latitude": 68.449294,
+      "longitude": 16.506534
+    },
+    {
+      "name": "Ramsøy fort",
+      "latitude": 60.437768,
+      "longitude": 5.048271
+    },
+    {
+      "name": "Rauøy fort",
+      "latitude": 59.215449,
+      "longitude": 10.703366
+    },
+    {
+      "name": "Ravneberget Fort",
+      "latitude": 59.302442,
+      "longitude": 11.127477
+    },
+    {
+      "name": "Reitan kystbatteri",
+      "latitude": 67.298899,
+      "longitude": 14.858156
+    },
+    {
+      "name": "Rekdal fort",
+      "latitude": 62.640794,
+      "longitude": 6.712435
+    },
+    {
+      "name": "Reksteren Nord kystfort",
+      "latitude": 60.082603,
+      "longitude": 5.360991
+    },
+    {
+      "name": "Renøsund kystfort",
+      "latitude": 70.398704,
+      "longitude": 31.071289
+    },
+    {
+      "name": "Revsneset fort",
+      "latitude": 70.69309,
+      "longitude": 24.357789
+    },
+    {
+      "name": "Risnes kystfort",
+      "latitude": 61.058339,
+      "longitude": 5.044508
+    },
+    {
+      "name": "Risør fort",
+      "latitude": 58.724603,
+      "longitude": 9.24017
+    },
+    {
+      "name": "Rolla kystfort",
+      "latitude": 68.86442,
+      "longitude": 17.038486
+    },
+    {
+      "name": "Rottenvik fort",
+      "latitude": 69.596229,
+      "longitude": 20.28773
+    },
+    {
+      "name": "Russelv kystfort",
+      "latitude": 69.944051,
+      "longitude": 20.212757
+    },
+    {
+      "name": "Rypøen fort",
+      "latitude": 70.517799,
+      "longitude": 26.889596
+    },
+    {
+      "name": "Rødberghamn kystfort",
+      "latitude": 69.449179,
+      "longitude": 18.139628
+    },
+    {
+      "name": "Rødbergodden kystfort",
+      "latitude": 69.456513,
+      "longitude": 18.134592
+    },
+    {
+      "name": "Rørvik fort",
+      "latitude": 64.853536,
+      "longitude": 11.213211
+    },
+    {
+      "name": "Røsvik Kystfort",
+      "latitude": 67.478801,
+      "longitude": 15.478041
+    },
+    {
+      "name": "Røtingi kystbatteri",
+      "latitude": 60.134627,
+      "longitude": 5.35478
+    },
+    {
+      "name": "Saltvikneset kystfort",
+      "latitude": 68.383156,
+      "longitude": 17.043997
+    },
+    {
+      "name": "Sandviken fort",
+      "latitude": 58.435096,
+      "longitude": 8.777781
+    },
+    {
+      "name": "Selbjørnsfjord kystfort",
+      "latitude": 59.979465,
+      "longitude": 5.321425
+    },
+    {
+      "name": "Signalen kystfort",
+      "latitude": 58.036056,
+      "longitude": 7.214203
+    },
+    {
+      "name": "Sirevåg Kystfort",
+      "latitude": 58.499877,
+      "longitude": 5.796962
+    },
+    {
+      "name": "Skarstein kystfort",
+      "latitude": 61.815712,
+      "longitude": 5.094014
+    },
+    {
+      "name": "Skipanes fort",
+      "latitude": 60.242837,
+      "longitude": 5.261287
+    },
+    {
+      "name": "Skippernes fort",
+      "latitude": 70.729893,
+      "longitude": 23.361558
+    },
+    {
+      "name": "Skjellanger fort",
+      "latitude": 60.61007,
+      "longitude": 4.94885
+    },
+    {
+      "name": "Skrolsvik fort",
+      "latitude": 69.057102,
+      "longitude": 16.792141
+    },
+    {
+      "name": "Skudesnes fort",
+      "latitude": 59.145716,
+      "longitude": 5.270735
+    },
+    {
+      "name": "Skånes skanse",
+      "latitude": 63.777085,
+      "longitude": 11.398052
+    },
+    {
+      "name": "Smøla kystfort",
+      "latitude": 63.439587,
+      "longitude": 8.144581
+    },
+    {
+      "name": "Sognefjord kystfort",
+      "latitude": 61.106752,
+      "longitude": 5.231777
+    },
+    {
+      "name": "Spåkenes Kystfort",
+      "latitude": 69.758871,
+      "longitude": 20.471508
+    },
+    {
+      "name": "Stallogaro",
+      "latitude": 70.525428,
+      "longitude": 23.989152
+    },
+    {
+      "name": "Stapnes fort",
+      "latitude": 58.381818,
+      "longitude": 6.043568
+    },
+    {
+      "name": "Statland fort",
+      "latitude": 64.49328,
+      "longitude": 11.16554
+    },
+    {
+      "name": "Staverns Fort",
+      "latitude": 58.995661,
+      "longitude": 10.049575
+    },
+    {
+      "name": "Staås batteri",
+      "latitude": 59.527392,
+      "longitude": 11.187953
+    },
+    {
+      "name": "Steinsvåttån",
+      "latitude": 63.755918,
+      "longitude": 11.737431
+    },
+    {
+      "name": "Stene skanse",
+      "latitude": 63.749366,
+      "longitude": 11.711096
+    },
+    {
+      "name": "Stjerneredutt",
+      "latitude": 63.77231,
+      "longitude": 11.403912
+    },
+    {
+      "name": "Storfosen kystfort",
+      "latitude": 63.651554,
+      "longitude": 9.383971
+    },
+    {
+      "name": "Storkmarknes kystfort",
+      "latitude": 68.576813,
+      "longitude": 14.793627
+    },
+    {
+      "name": "Stornes kystfort",
+      "latitude": 68.854809,
+      "longitude": 16.485999
+    },
+    {
+      "name": "Stranden kystfort",
+      "latitude": 67.967928,
+      "longitude": 14.957593
+    },
+    {
+      "name": "Straumen fort",
+      "latitude": 68.737263,
+      "longitude": 16.253999
+    },
+    {
+      "name": "Straumøy kystbatteri",
+      "latitude": 67.205233,
+      "longitude": 14.371042
+    },
+    {
+      "name": "Straumøy kystfort",
+      "latitude": 67.208833,
+      "longitude": 14.370659
+    },
+    {
+      "name": "Strønstad fort",
+      "latitude": 68.438315,
+      "longitude": 14.74656
+    },
+    {
+      "name": "Størdal kystfort",
+      "latitude": 63.575293,
+      "longitude": 9.783508
+    },
+    {
+      "name": "Sumatra batteri",
+      "latitude": 58.102779,
+      "longitude": 7.986205
+    },
+    {
+      "name": "Sundåsbatteriet",
+      "latitude": 59.174564,
+      "longitude": 10.327022
+    },
+    {
+      "name": "Svenningen (German WW II coastal battery)",
+      "latitude": 66.933439,
+      "longitude": 13.426645
+    },
+    {
+      "name": "Sørkil kystfort",
+      "latitude": 68.13878,
+      "longitude": 15.887325
+    },
+    {
+      "name": "Tana kystfort",
+      "latitude": 70.50868,
+      "longitude": 28.244069
+    },
+    {
+      "name": "Tangen fort",
+      "latitude": 58.988291,
+      "longitude": 9.750441
+    },
+    {
+      "name": "Tarva kystfort",
+      "latitude": 63.823758,
+      "longitude": 9.422536
+    },
+    {
+      "name": "Tau fort",
+      "latitude": 59.072114,
+      "longitude": 5.891466
+    },
+    {
+      "name": "Titran fort",
+      "latitude": 63.662814,
+      "longitude": 8.31135
+    },
+    {
+      "name": "Tjeldøy kystfort",
+      "latitude": 68.388177,
+      "longitude": 16.134571
+    },
+    {
+      "name": "Tjørvenes flakbatteri",
+      "latitude": 58.088397,
+      "longitude": 6.597837
+    },
+    {
+      "name": "Torgauten fort",
+      "latitude": 59.171773,
+      "longitude": 10.843231
+    },
+    {
+      "name": "Torp luftvernbatteri",
+      "latitude": 58.079079,
+      "longitude": 6.748644
+    },
+    {
+      "name": "Trolldalen fort",
+      "latitude": 58.929655,
+      "longitude": 9.591268
+    },
+    {
+      "name": "Trondenes kystfort",
+      "latitude": 68.832491,
+      "longitude": 16.577956
+    },
+    {
+      "name": "Tråstad skanse",
+      "latitude": 60.193165,
+      "longitude": 12.023057
+    },
+    {
+      "name": "Tueneset kystfort",
+      "latitude": 62.458342,
+      "longitude": 6.090465
+    },
+    {
+      "name": "Tysnes kystfort",
+      "latitude": 68.260338,
+      "longitude": 15.93771
+    },
+    {
+      "name": "Tysse batteri",
+      "latitude": 62.477073,
+      "longitude": 6.710011
+    },
+    {
+      "name": "Tårnvik kystfort",
+      "latitude": 67.565344,
+      "longitude": 15.143248
+    },
+    {
+      "name": "Uthaug luftvernbatteri",
+      "latitude": 63.719645,
+      "longitude": 9.605843
+    },
+    {
+      "name": "Utvorden fort Nord",
+      "latitude": 64.60622,
+      "longitude": 10.972445
+    },
+    {
+      "name": "Utvorden fort Sør",
+      "latitude": 64.600509,
+      "longitude": 10.966849
+    },
+    {
+      "name": "Vardås Fort",
+      "latitude": 59.203667,
+      "longitude": 10.427222
+    },
+    {
+      "name": "Varnes Fort",
+      "latitude": 58.17852,
+      "longitude": 6.635919
+    },
+    {
+      "name": "Vemmelsvik kystfort",
+      "latitude": 61.899873,
+      "longitude": 5.163786
+    },
+    {
+      "name": "Vestre batteri",
+      "latitude": 59.300945,
+      "longitude": 11.100481
+    },
+    {
+      "name": "Vikene kystfort",
+      "latitude": 59.322407,
+      "longitude": 5.201103
+    },
+    {
+      "name": "Visnes batteri",
+      "latitude": 59.35799,
+      "longitude": 5.2164
+    },
+    {
+      "name": "Våg kystfort",
+      "latitude": 67.91941,
+      "longitude": 14.984193
+    },
+    {
+      "name": "Vågenes kystfort",
+      "latitude": 60.674912,
+      "longitude": 4.949133
+    },
+    {
+      "name": "Ystøy batteri",
+      "latitude": 60.549232,
+      "longitude": 4.955151
+    },
+    {
+      "name": "fort",
+      "latitude": 70.8967,
+      "longitude": 25.884009
+    },
+    {
+      "name": "Åkrehamn kystfort",
+      "latitude": 59.251075,
+      "longitude": 5.184233
+    },
+    {
+      "name": "Ålesund kystfort",
+      "latitude": 62.468882,
+      "longitude": 6.093732
+    },
+    {
+      "name": "Ålo Kystfort",
+      "latitude": 58.050954,
+      "longitude": 7.702734
+    },
+    {
+      "name": "Årsund fort",
+      "latitude": 63.098237,
+      "longitude": 7.969629
+    },
+    {
+      "name": "Øveråssjøen fort",
+      "latitude": 62.6484,
+      "longitude": 6.944089
+    },
+    {
+      "name": "Øyjordneset kystfort",
+      "latitude": 68.466587,
+      "longitude": 17.473025
+    }
+  ],
+  "meta": {
+    "title": "Named forts and fortifications in Norway - Gratis nedlasting",
+    "description": "Named forts and fortifications in Norway, derived from OpenStreetMap POI nodes tagged historic=fort in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 258 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named forts and fortifications in Norway | ListBase",
+    "seo_description": "Last ned Named forts and fortifications in Norway — 258 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 258 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

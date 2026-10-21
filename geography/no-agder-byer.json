@@ -1,0 +1,286 @@
+{
+  "id": "no-agder-byer",
+  "name": "Byer og steder i Agder (Cities and places in Agder county, Norway)",
+  "title": "Byer og steder i Agder (Cities and places in Agder county, Norway)",
+  "description": "Byer og steder i fylket Agder i Noreg (25 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Agder county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79049,
+      "name": "Audnedal",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.28378000",
+      "longitude": "7.35487000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79134,
+      "name": "Farsund",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.09538000",
+      "longitude": "6.80403000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79149,
+      "name": "Flekkefjord",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.29791000",
+      "longitude": "6.66345000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79246,
+      "name": "Hægebostad",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.37572000",
+      "longitude": "7.21973000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79260,
+      "name": "Justvik",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.19691000",
+      "longitude": "8.03107000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79287,
+      "name": "Kristiansand",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.14642000",
+      "longitude": "7.99687000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79292,
+      "name": "Kvinesdal",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.23894000",
+      "longitude": "6.71445000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79322,
+      "name": "Liknes",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.31216000",
+      "longitude": "6.96180000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79325,
+      "name": "Lindesnes",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.08435000",
+      "longitude": "7.30162000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79337,
+      "name": "Lyngdal",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.13829000",
+      "longitude": "7.06836000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79350,
+      "name": "Mandal",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.02633000",
+      "longitude": "7.45014000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79353,
+      "name": "Marnardal",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.19802000",
+      "longitude": "7.52802000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79400,
+      "name": "Nodeland",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.15517000",
+      "longitude": "7.83576000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79499,
+      "name": "Sirdal",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.66510000",
+      "longitude": "6.71585000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79523,
+      "name": "Skålevik",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.07955000",
+      "longitude": "8.01602000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79533,
+      "name": "Songdalen",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.15273000",
+      "longitude": "7.83677000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79554,
+      "name": "Strai",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.18930000",
+      "longitude": "7.92826000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79576,
+      "name": "Søgne",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.09663000",
+      "longitude": "7.81491000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79602,
+      "name": "Tonstad",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.66263000",
+      "longitude": "6.71694000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79613,
+      "name": "Tveit",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.23366000",
+      "longitude": "8.12199000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79631,
+      "name": "Vanse",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.09812000",
+      "longitude": "6.69184000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79639,
+      "name": "Vennesla",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.34271000",
+      "longitude": "7.97596000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79643,
+      "name": "Vestbygd",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.09991000",
+      "longitude": "6.58696000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79649,
+      "name": "Vigeland",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.08437000",
+      "longitude": "7.30497000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79688,
+      "name": "Åseral",
+      "county": "Agder",
+      "county_iso3166_2": "NO-42",
+      "latitude": "58.61730000",
+      "longitude": "7.41118000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Agder (Cities and places in Agder county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Agder i Noreg (25 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Agder county, Norway. Inneholder 25 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Agder (Cities and places in Agder county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Agder (Cities and places in Agder county, Norway) — 25 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 25 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

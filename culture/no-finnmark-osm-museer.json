@@ -1,0 +1,170 @@
+{
+  "id": "no-finnmark-osm-museer",
+  "name": "Museer i Finnmark – OpenStreetMap (9 museums in Finnmark, OSM)",
+  "title": "Museer i Finnmark – OpenStreetMap (9 museums in Finnmark, OSM)",
+  "description": "Museer i fylket Finnmark fra OpenStreetMap — delmengde av no-osm-museer, 9 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alta Museum",
+      "name_en": "",
+      "city": "Alta",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Alta",
+      "avstand_km": 4.021,
+      "latitude": 69.94749,
+      "longitude": 23.186676,
+      "website": ""
+    },
+    {
+      "name": "Andersgrotta",
+      "name_en": "",
+      "city": "Kirkenes",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Kirkenes",
+      "avstand_km": 0.15,
+      "latitude": 69.726937,
+      "longitude": 30.049657,
+      "website": ""
+    },
+    {
+      "name": "Gjenreisningsmuseet",
+      "name_en": "Museum of Reconstruction for Finnmark and North Troms",
+      "city": "Hammerfest",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Hammerfest",
+      "avstand_km": 0.166,
+      "latitude": 70.662092,
+      "longitude": 23.677557,
+      "website": "http://www.kystmuseene.no/the-museum-of-reconstruction-for-finnmark-and-northern-troms.107297.en.html"
+    },
+    {
+      "name": "RiddoDuottarMuseat - Guovdageainnu gilišillju",
+      "name_en": "",
+      "city": "Kautokeino",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Alta",
+      "avstand_km": 107.137,
+      "latitude": 69.008572,
+      "longitude": 23.048541,
+      "website": ""
+    },
+    {
+      "name": "Sami Collection",
+      "name_en": "",
+      "city": "Kárášjohka",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Lakselv",
+      "avstand_km": 67.625,
+      "latitude": 69.473512,
+      "longitude": 25.520555,
+      "website": ""
+    },
+    {
+      "name": "Vadsø Museum",
+      "name_en": "",
+      "city": "Vadsø",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Vadsø",
+      "avstand_km": 0.707,
+      "latitude": 70.074839,
+      "longitude": 29.767651,
+      "website": ""
+    },
+    {
+      "name": "Varanger samiske museum",
+      "name_en": "",
+      "city": "Vuonnabahta",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Vadsø",
+      "avstand_km": 46.367,
+      "latitude": 70.172413,
+      "longitude": 28.557952,
+      "website": ""
+    },
+    {
+      "name": "Vardøhus festning",
+      "name_en": "Vardøhus Fortress",
+      "city": "Vuorea",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Vardø",
+      "avstand_km": 0.599,
+      "latitude": 70.37212,
+      "longitude": 31.095402,
+      "website": ""
+    },
+    {
+      "name": "Øst-Finnmark tingrett",
+      "name_en": "",
+      "city": "Vadsø",
+      "fylke": "Finnmark",
+      "naermeste_sted": "Vadsø",
+      "avstand_km": 0.088,
+      "latitude": 70.073797,
+      "longitude": 29.751558,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Finnmark – OpenStreetMap (9 museums in Finnmark, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Finnmark fra OpenStreetMap — delmengde av no-osm-museer, 9 poster. Inneholder 9 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Finnmark – OpenStreetMap (9 museums in Finnmark, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Finnmark – OpenStreetMap (9 museums in Finnmark, OSM) — 9 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 9 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

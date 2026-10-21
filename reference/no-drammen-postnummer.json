@@ -1,0 +1,552 @@
+{
+  "id": "no-drammen-postnummer",
+  "name": "Postnummer i Drammen",
+  "title": "Postnummer i Drammen",
+  "description": "Alle 62 postnummer i Drammen kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 62,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "3001",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3002",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3003",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3004",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3005",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3006",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3007",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3008",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3009",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3010",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3011",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3012",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3013",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3014",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3015",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3016",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3017",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3018",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3019",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3021",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3022",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3023",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3024",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3025",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3026",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3027",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3028",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3029",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3030",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3031",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3032",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3033",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3034",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3035",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3036",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3037",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3038",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3039",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3040",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3041",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3042",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3043",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3044",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3045",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3046",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3047",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3048",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3050",
+      "poststed": "Mjøndalen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3051",
+      "poststed": "Mjøndalen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3053",
+      "poststed": "Steinberg",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3054",
+      "poststed": "Krokstadelva",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3055",
+      "poststed": "Krokstadelva",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3056",
+      "poststed": "Solbergelva",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3057",
+      "poststed": "Solbergelva",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3058",
+      "poststed": "Solbergmoen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3060",
+      "poststed": "Svelvik",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3061",
+      "poststed": "Svelvik",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3063",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3064",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3065",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3066",
+      "poststed": "Drammen",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    },
+    {
+      "postnummer": "3075",
+      "poststed": "Berger",
+      "kommune_id": "3301",
+      "kommune": "Drammen",
+      "fylke_id": "33",
+      "fylke": "Buskerud"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Drammen - Gratis nedlasting",
+    "description": "Alle 62 postnummer i Drammen kommune med poststed. Inneholder 62 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Drammen | ListBase",
+    "seo_description": "Last ned Postnummer i Drammen — 62 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 62 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

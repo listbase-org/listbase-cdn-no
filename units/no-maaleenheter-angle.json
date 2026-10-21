@@ -1,0 +1,126 @@
+{
+  "id": "no-maaleenheter-angle",
+  "name": "Maaleenheter: angle (6)",
+  "title": "Maaleenheter: angle (6)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'angle'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "angle-arc-minute",
+      "kategori": "angle",
+      "navn": "bueminutter",
+      "moenster_en": "{0} bueminutt",
+      "moenster_flere": "{0} bueminutter",
+      "kort_moenster": "{0}′",
+      "smal_moenster": "{0}′"
+    },
+    {
+      "id": 2,
+      "unit_code": "angle-arc-second",
+      "kategori": "angle",
+      "navn": "buesekunder",
+      "moenster_en": "{0} buesekund",
+      "moenster_flere": "{0} buesekunder",
+      "kort_moenster": "{0}″",
+      "smal_moenster": "{0}″"
+    },
+    {
+      "id": 3,
+      "unit_code": "angle-degree",
+      "kategori": "angle",
+      "navn": "grader",
+      "moenster_en": "{0} grad",
+      "moenster_flere": "{0} grader",
+      "kort_moenster": "{0}°",
+      "smal_moenster": "{0}°"
+    },
+    {
+      "id": 4,
+      "unit_code": "angle-radian",
+      "kategori": "angle",
+      "navn": "radianer",
+      "moenster_en": "{0} radian",
+      "moenster_flere": "{0} radianer",
+      "kort_moenster": "{0} rad",
+      "smal_moenster": "{0}rad"
+    },
+    {
+      "id": 5,
+      "unit_code": "angle-revolution",
+      "kategori": "angle",
+      "navn": "omdreininger",
+      "moenster_en": "{0} omdreining",
+      "moenster_flere": "{0} omdreininger",
+      "kort_moenster": "{0} omdr.",
+      "smal_moenster": "{0} o"
+    },
+    {
+      "id": 6,
+      "unit_code": "angle-steradian",
+      "kategori": "angle",
+      "navn": "steradianer",
+      "moenster_en": "{0} steradian",
+      "moenster_flere": "{0} steradianer",
+      "kort_moenster": "{0} sr",
+      "smal_moenster": "{0} sr"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: angle (6) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'angle'. Inneholder 6 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: angle (6) | ListBase",
+    "seo_description": "Last ned Maaleenheter: angle (6) — 6 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 6 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

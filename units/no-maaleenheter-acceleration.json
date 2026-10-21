@@ -1,0 +1,86 @@
+{
+  "id": "no-maaleenheter-acceleration",
+  "name": "Maaleenheter: acceleration (2)",
+  "title": "Maaleenheter: acceleration (2)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'acceleration'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "acceleration-g-force",
+      "kategori": "acceleration",
+      "navn": "g-kraft",
+      "moenster_en": "{0} g-kraft",
+      "moenster_flere": "{0} g-kraft",
+      "kort_moenster": "{0} G",
+      "smal_moenster": "{0}G"
+    },
+    {
+      "id": 2,
+      "unit_code": "acceleration-meter-per-square-second",
+      "kategori": "acceleration",
+      "navn": "meter per sekund²",
+      "moenster_en": "{0} meter per sekund²",
+      "moenster_flere": "{0} meter per sekund²",
+      "kort_moenster": "{0} m/s²",
+      "smal_moenster": "{0}m/s²"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: acceleration (2) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'acceleration'. Inneholder 2 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: acceleration (2) | ListBase",
+    "seo_description": "Last ned Maaleenheter: acceleration (2) — 2 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 2 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

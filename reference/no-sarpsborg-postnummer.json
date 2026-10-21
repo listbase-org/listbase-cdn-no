@@ -1,0 +1,352 @@
+{
+  "id": "no-sarpsborg-postnummer",
+  "name": "Postnummer i Sarpsborg",
+  "title": "Postnummer i Sarpsborg",
+  "description": "Alle 37 postnummer i Sarpsborg kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1701",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1702",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1703",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1704",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1705",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1706",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1707",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1708",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1709",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1710",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1711",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1712",
+      "poststed": "Grålum",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1713",
+      "poststed": "Grålum",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1714",
+      "poststed": "Grålum",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1715",
+      "poststed": "Yven",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1718",
+      "poststed": "Greåker",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1719",
+      "poststed": "Greåker",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1720",
+      "poststed": "Greåker",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1721",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1722",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1723",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1724",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1725",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1726",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1727",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1730",
+      "poststed": "Ise",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1733",
+      "poststed": "Hafslundsøy",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1734",
+      "poststed": "Hafslundsøy",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1735",
+      "poststed": "Varteig",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1738",
+      "poststed": "Borgenhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1739",
+      "poststed": "Borgenhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1740",
+      "poststed": "Borgenhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1742",
+      "poststed": "Klavestadhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1743",
+      "poststed": "Klavestadhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1745",
+      "poststed": "Skjeberg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1746",
+      "poststed": "Skjeberg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1747",
+      "poststed": "Skjeberg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Sarpsborg - Gratis nedlasting",
+    "description": "Alle 37 postnummer i Sarpsborg kommune med poststed. Inneholder 37 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Sarpsborg | ListBase",
+    "seo_description": "Last ned Postnummer i Sarpsborg — 37 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 37 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

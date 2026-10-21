@@ -1,0 +1,2024 @@
+{
+  "id": "no-troms-postnummer",
+  "name": "Postnummer i Troms",
+  "title": "Postnummer i Troms",
+  "description": "Alle 246 postnummer i Troms fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 246,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "8409",
+      "poststed": "Gullesfjorden",
+      "kommune_id": "5510",
+      "kommune": "Kvæfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9006",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9007",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9008",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9009",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9010",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9011",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9012",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9013",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9014",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9015",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9016",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9017",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9018",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9019",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9020",
+      "poststed": "Tromsdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9021",
+      "poststed": "Tromsdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9022",
+      "poststed": "Krokelvdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9023",
+      "poststed": "Krokelvdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9024",
+      "poststed": "Tomasjord",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9027",
+      "poststed": "Ramfjordbotn",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9029",
+      "poststed": "Tromsdalen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9030",
+      "poststed": "Sjursnes",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9034",
+      "poststed": "Oldervik",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9037",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9038",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9040",
+      "poststed": "Nordkjosbotn",
+      "kommune_id": "5532",
+      "kommune": "Balsfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9042",
+      "poststed": "Laksvatn",
+      "kommune_id": "5532",
+      "kommune": "Balsfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9043",
+      "poststed": "Jøvika",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9045",
+      "poststed": "Lakselvbukt",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9046",
+      "poststed": "Oteren",
+      "kommune_id": "5538",
+      "kommune": "Storfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9049",
+      "poststed": "Nordkjosbotn",
+      "kommune_id": "5532",
+      "kommune": "Balsfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9050",
+      "poststed": "Storsteinnes",
+      "kommune_id": "5532",
+      "kommune": "Balsfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9055",
+      "poststed": "Meistervik",
+      "kommune_id": "5532",
+      "kommune": "Balsfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9056",
+      "poststed": "Mortenhals",
+      "kommune_id": "5532",
+      "kommune": "Balsfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9057",
+      "poststed": "Vikran",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9059",
+      "poststed": "Storsteinnes",
+      "kommune_id": "5532",
+      "kommune": "Balsfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9060",
+      "poststed": "Lyngseidet",
+      "kommune_id": "5536",
+      "kommune": "Lyngen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9062",
+      "poststed": "Furuflaten",
+      "kommune_id": "5536",
+      "kommune": "Lyngen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9064",
+      "poststed": "Svensby",
+      "kommune_id": "5536",
+      "kommune": "Lyngen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9068",
+      "poststed": "Nord-Lenangen",
+      "kommune_id": "5536",
+      "kommune": "Lyngen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9069",
+      "poststed": "Lyngseidet",
+      "kommune_id": "5536",
+      "kommune": "Lyngen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9100",
+      "poststed": "Kvaløysletta",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9101",
+      "poststed": "Kvaløysletta",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9102",
+      "poststed": "Kvaløysletta",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9103",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9104",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9105",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9106",
+      "poststed": "Straumsbukta",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9107",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9108",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9109",
+      "poststed": "Kvaløya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9110",
+      "poststed": "Sommarøya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9118",
+      "poststed": "Brensholmen",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9119",
+      "poststed": "Sommarøya",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9120",
+      "poststed": "Vengsøy",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9128",
+      "poststed": "Tussøy",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9130",
+      "poststed": "Hansnes",
+      "kommune_id": "5534",
+      "kommune": "Karlsøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9131",
+      "poststed": "Kårvik",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9132",
+      "poststed": "Stakkvik",
+      "kommune_id": "5534",
+      "kommune": "Karlsøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9134",
+      "poststed": "Hansnes",
+      "kommune_id": "5534",
+      "kommune": "Karlsøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9135",
+      "poststed": "Vannvåg",
+      "kommune_id": "5534",
+      "kommune": "Karlsøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9136",
+      "poststed": "Vannareid",
+      "kommune_id": "5534",
+      "kommune": "Karlsøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9137",
+      "poststed": "Vannvåg",
+      "kommune_id": "5534",
+      "kommune": "Karlsøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9138",
+      "poststed": "Karlsøy",
+      "kommune_id": "5534",
+      "kommune": "Karlsøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9140",
+      "poststed": "Rebbenes",
+      "kommune_id": "5534",
+      "kommune": "Karlsøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9141",
+      "poststed": "Melvika",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9142",
+      "poststed": "Skibotn",
+      "kommune_id": "5538",
+      "kommune": "Storfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9143",
+      "poststed": "Skibotn",
+      "kommune_id": "5538",
+      "kommune": "Storfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9144",
+      "poststed": "Samuelsberg",
+      "kommune_id": "5540",
+      "kommune": "Gáivuotna",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9145",
+      "poststed": "Samuelsberg",
+      "kommune_id": "5540",
+      "kommune": "Gáivuotna",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9146",
+      "poststed": "Olderdalen",
+      "kommune_id": "5540",
+      "kommune": "Gáivuotna",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9147",
+      "poststed": "Birtavarre",
+      "kommune_id": "5540",
+      "kommune": "Gáivuotna",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9148",
+      "poststed": "Olderdalen",
+      "kommune_id": "5540",
+      "kommune": "Gáivuotna",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9149",
+      "poststed": "Birtavarre",
+      "kommune_id": "5540",
+      "kommune": "Gáivuotna",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9151",
+      "poststed": "Storslett",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9152",
+      "poststed": "Sørkjosen",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9153",
+      "poststed": "Rotsund",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9154",
+      "poststed": "Storslett",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9155",
+      "poststed": "Sørkjosen",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9156",
+      "poststed": "Storslett",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9157",
+      "poststed": "Storslett",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9158",
+      "poststed": "Storslett",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9159",
+      "poststed": "Havnnes",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9161",
+      "poststed": "Burfjord",
+      "kommune_id": "5546",
+      "kommune": "Kvænangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9162",
+      "poststed": "Sørstraumen",
+      "kommune_id": "5546",
+      "kommune": "Kvænangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9163",
+      "poststed": "Jøkelfjord",
+      "kommune_id": "5546",
+      "kommune": "Kvænangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9169",
+      "poststed": "Burfjord",
+      "kommune_id": "5546",
+      "kommune": "Kvænangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9180",
+      "poststed": "Skjervøy",
+      "kommune_id": "5542",
+      "kommune": "Skjervøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9181",
+      "poststed": "Hamneidet",
+      "kommune_id": "5544",
+      "kommune": "Nordreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9182",
+      "poststed": "Seglvik",
+      "kommune_id": "5546",
+      "kommune": "Kvænangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9184",
+      "poststed": "Reinfjord",
+      "kommune_id": "5546",
+      "kommune": "Kvænangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9185",
+      "poststed": "Spildra",
+      "kommune_id": "5546",
+      "kommune": "Kvænangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9187",
+      "poststed": "Valanhamn",
+      "kommune_id": "5546",
+      "kommune": "Kvænangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9189",
+      "poststed": "Skjervøy",
+      "kommune_id": "5542",
+      "kommune": "Skjervøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9190",
+      "poststed": "Akkarvik",
+      "kommune_id": "5542",
+      "kommune": "Skjervøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9192",
+      "poststed": "Arnøyhamn",
+      "kommune_id": "5542",
+      "kommune": "Skjervøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9193",
+      "poststed": "Nikkeby",
+      "kommune_id": "5542",
+      "kommune": "Skjervøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9194",
+      "poststed": "Lauksletta",
+      "kommune_id": "5542",
+      "kommune": "Skjervøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9195",
+      "poststed": "Årviksand",
+      "kommune_id": "5542",
+      "kommune": "Skjervøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9197",
+      "poststed": "Uløybukt",
+      "kommune_id": "5542",
+      "kommune": "Skjervøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9240",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9251",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9252",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9253",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9254",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9255",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9256",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9257",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9258",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9259",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9260",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9261",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9262",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9263",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9265",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9266",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9267",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9268",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9269",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9270",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9271",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9272",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9273",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9274",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9275",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9276",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9277",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9278",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9279",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9280",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9281",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9282",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9283",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9284",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9285",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9286",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9287",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9288",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9291",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9292",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9293",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9294",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9296",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9298",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9299",
+      "poststed": "Tromsø",
+      "kommune_id": "5501",
+      "kommune": "Tromsø",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9300",
+      "poststed": "Finnsnes",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9302",
+      "poststed": "Rossfjordstraumen",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9303",
+      "poststed": "Silsand",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9304",
+      "poststed": "Vangsvik",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9305",
+      "poststed": "Finnsnes",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9306",
+      "poststed": "Finnsnes",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9307",
+      "poststed": "Finnsnes",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9308",
+      "poststed": "Finnsnes",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9309",
+      "poststed": "Finnsnes",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9310",
+      "poststed": "Sørreisa",
+      "kommune_id": "5526",
+      "kommune": "Sørreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9311",
+      "poststed": "Brøstadbotn",
+      "kommune_id": "5528",
+      "kommune": "Dyrøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9315",
+      "poststed": "Sørreisa",
+      "kommune_id": "5526",
+      "kommune": "Sørreisa",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9316",
+      "poststed": "Brøstadbotn",
+      "kommune_id": "5528",
+      "kommune": "Dyrøy",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9321",
+      "poststed": "Moen",
+      "kommune_id": "5524",
+      "kommune": "Målselv",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9322",
+      "poststed": "Karlstad",
+      "kommune_id": "5524",
+      "kommune": "Målselv",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9325",
+      "poststed": "Bardufoss",
+      "kommune_id": "5524",
+      "kommune": "Målselv",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9326",
+      "poststed": "Bardufoss",
+      "kommune_id": "5524",
+      "kommune": "Målselv",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9329",
+      "poststed": "Moen",
+      "kommune_id": "5524",
+      "kommune": "Målselv",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9334",
+      "poststed": "Øverbygd",
+      "kommune_id": "5524",
+      "kommune": "Målselv",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9335",
+      "poststed": "Øverbygd",
+      "kommune_id": "5524",
+      "kommune": "Målselv",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9336",
+      "poststed": "Rundhaug",
+      "kommune_id": "5524",
+      "kommune": "Målselv",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9350",
+      "poststed": "Sjøvegan",
+      "kommune_id": "5522",
+      "kommune": "Salangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9355",
+      "poststed": "Sjøvegan",
+      "kommune_id": "5522",
+      "kommune": "Salangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9357",
+      "poststed": "Tennevoll",
+      "kommune_id": "5518",
+      "kommune": "Loabák",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9358",
+      "poststed": "Tennevoll",
+      "kommune_id": "5518",
+      "kommune": "Loabák",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9360",
+      "poststed": "Bardu",
+      "kommune_id": "5520",
+      "kommune": "Bardu",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9365",
+      "poststed": "Bardu",
+      "kommune_id": "5520",
+      "kommune": "Bardu",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9370",
+      "poststed": "Silsand",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9372",
+      "poststed": "Gibostad",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9373",
+      "poststed": "Botnhamn",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9376",
+      "poststed": "Skatvik",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9379",
+      "poststed": "Gryllefjord",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9380",
+      "poststed": "Gryllefjord",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9381",
+      "poststed": "Torsken",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9382",
+      "poststed": "Gibostad",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9384",
+      "poststed": "Skaland",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9385",
+      "poststed": "Skaland",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9386",
+      "poststed": "Senjahopen",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9387",
+      "poststed": "Senjahopen",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9388",
+      "poststed": "Fjordgard",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9389",
+      "poststed": "Husøy i Senja",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9391",
+      "poststed": "Stonglandseidet",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9392",
+      "poststed": "Stonglandseidet",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9393",
+      "poststed": "Flakstadvåg",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9395",
+      "poststed": "Kaldfarnes",
+      "kommune_id": "5530",
+      "kommune": "Senja",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9402",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9403",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9404",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9405",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9406",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9407",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9408",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9409",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9411",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9414",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9415",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9416",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9419",
+      "poststed": "Sørvik",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9420",
+      "poststed": "Lundenes",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9423",
+      "poststed": "Grøtavær",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9424",
+      "poststed": "Kjøtta",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9425",
+      "poststed": "Sandsøy",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9426",
+      "poststed": "Bjarkøy",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9427",
+      "poststed": "Meløyvær",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9430",
+      "poststed": "Sandtorg",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9436",
+      "poststed": "Kongsvik",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9439",
+      "poststed": "Evenskjer",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9440",
+      "poststed": "Evenskjer",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9441",
+      "poststed": "Fjelldal",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9442",
+      "poststed": "Ramsund",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9443",
+      "poststed": "Myklebostad",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9444",
+      "poststed": "Hol i Tjeldsund",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9445",
+      "poststed": "Tovik",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9446",
+      "poststed": "Grovfjord",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9447",
+      "poststed": "Grovfjord",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9448",
+      "poststed": "Ramsund",
+      "kommune_id": "5512",
+      "kommune": "Dielddanuorri",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9450",
+      "poststed": "Hamnvik",
+      "kommune_id": "5514",
+      "kommune": "Ibestad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9451",
+      "poststed": "Hamnvik",
+      "kommune_id": "5514",
+      "kommune": "Ibestad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9453",
+      "poststed": "Kråkrøhamn",
+      "kommune_id": "5514",
+      "kommune": "Ibestad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9454",
+      "poststed": "Ånstad",
+      "kommune_id": "5514",
+      "kommune": "Ibestad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9455",
+      "poststed": "Engenes",
+      "kommune_id": "5514",
+      "kommune": "Ibestad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9456",
+      "poststed": "Engenes",
+      "kommune_id": "5514",
+      "kommune": "Ibestad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9470",
+      "poststed": "Gratangen",
+      "kommune_id": "5516",
+      "kommune": "Gratangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9471",
+      "poststed": "Gratangen",
+      "kommune_id": "5516",
+      "kommune": "Gratangen",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9475",
+      "poststed": "Borkenes",
+      "kommune_id": "5510",
+      "kommune": "Kvæfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9476",
+      "poststed": "Borkenes",
+      "kommune_id": "5510",
+      "kommune": "Kvæfjord",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9479",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9480",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9481",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9482",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9483",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9484",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9485",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9486",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9487",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9488",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9489",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9496",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9497",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9498",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Troms - Gratis nedlasting",
+    "description": "Alle 246 postnummer i Troms fylke med poststed og kommune. Inneholder 246 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Troms | ListBase",
+    "seo_description": "Last ned Postnummer i Troms — 246 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 246 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

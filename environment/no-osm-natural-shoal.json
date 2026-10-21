@@ -1,0 +1,6191 @@
+{
+  "id": "no-osm-natural-shoal",
+  "name": "Named shoals in Norway",
+  "title": "Named shoals in Norway",
+  "description": "Named shoals in Norway, derived from OpenStreetMap POI nodes tagged natural=shoal in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1230,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Altenborgleira",
+      "latitude": 59.911914,
+      "longitude": 10.650761
+    },
+    {
+      "name": "Andersbøen",
+      "latitude": 67.197025,
+      "longitude": 13.794278
+    },
+    {
+      "name": "Andersholmknausen",
+      "latitude": 66.7185,
+      "longitude": 12.447325
+    },
+    {
+      "name": "Andersskallen",
+      "latitude": 67.698139,
+      "longitude": 14.521992
+    },
+    {
+      "name": "Andstabbflua",
+      "latitude": 67.872225,
+      "longitude": 12.970708
+    },
+    {
+      "name": "Angersholmgrunnen",
+      "latitude": 66.766806,
+      "longitude": 13.260114
+    },
+    {
+      "name": "Ankerbåen",
+      "latitude": 58.115584,
+      "longitude": 8.105454
+    },
+    {
+      "name": "Anklakkgrunnen",
+      "latitude": 66.510333,
+      "longitude": 12.858522
+    },
+    {
+      "name": "Anklakkskallen",
+      "latitude": 66.514506,
+      "longitude": 12.877975
+    },
+    {
+      "name": "Ansnestaren",
+      "latitude": 63.629119,
+      "longitude": 9.001923
+    },
+    {
+      "name": "Arntuvbåen",
+      "latitude": 69.959975,
+      "longitude": 18.207833
+    },
+    {
+      "name": "Astreagrunnen",
+      "latitude": 67.822869,
+      "longitude": 14.739483
+    },
+    {
+      "name": "Austergrunnen",
+      "latitude": 66.955953,
+      "longitude": 13.439611
+    },
+    {
+      "name": "Austre Kvalhøgdgrunnen",
+      "latitude": 67.909814,
+      "longitude": 14.765842
+    },
+    {
+      "name": "Austre Tørrbåen",
+      "latitude": 67.78825,
+      "longitude": 14.516642
+    },
+    {
+      "name": "Austregrunnskallen",
+      "latitude": 67.562989,
+      "longitude": 12.265339
+    },
+    {
+      "name": "Austrenupsbåen",
+      "latitude": 67.498031,
+      "longitude": 12.214603
+    },
+    {
+      "name": "Ballastskjeran",
+      "latitude": 57.980603,
+      "longitude": 7.688892
+    },
+    {
+      "name": "Barkgrunnen",
+      "latitude": 67.009347,
+      "longitude": 13.919486
+    },
+    {
+      "name": "Barskallen",
+      "latitude": 67.022664,
+      "longitude": 13.563375
+    },
+    {
+      "name": "Beiteskiskallen",
+      "latitude": 67.999303,
+      "longitude": 12.899925
+    },
+    {
+      "name": "Beitskjelskallen",
+      "latitude": 68.002556,
+      "longitude": 12.894964
+    },
+    {
+      "name": "Belsøybåen",
+      "latitude": 66.4634,
+      "longitude": 12.763744
+    },
+    {
+      "name": "Bentsøybøen",
+      "latitude": 67.723344,
+      "longitude": 14.663372
+    },
+    {
+      "name": "Bergegrunnen",
+      "latitude": 69.559625,
+      "longitude": 18.888367
+    },
+    {
+      "name": "Bergenesgrunnen",
+      "latitude": 69.556367,
+      "longitude": 19.675153
+    },
+    {
+      "name": "Bergskallan",
+      "latitude": 66.618953,
+      "longitude": 12.827944
+    },
+    {
+      "name": "Bergskallen",
+      "latitude": 67.989686,
+      "longitude": 12.906808
+    },
+    {
+      "name": "Bertusskjæran",
+      "latitude": 70.016939,
+      "longitude": 18.640258
+    },
+    {
+      "name": "Bessværgrunnen",
+      "latitude": 66.628317,
+      "longitude": 12.677544
+    },
+    {
+      "name": "Bessværskallen",
+      "latitude": 66.619242,
+      "longitude": 12.685625
+    },
+    {
+      "name": "Bjørnarholmskallan",
+      "latitude": 67.789856,
+      "longitude": 14.484558
+    },
+    {
+      "name": "Bjørndalsgrunnen",
+      "latitude": 67.085303,
+      "longitude": 13.786017
+    },
+    {
+      "name": "Bjørnegrunnen",
+      "latitude": 57.955275,
+      "longitude": 7.383983
+    },
+    {
+      "name": "Bjørnnakkbåen",
+      "latitude": 70.038344,
+      "longitude": 18.415261
+    },
+    {
+      "name": "Bjørnøygrunnen",
+      "latitude": 66.467481,
+      "longitude": 13.061953
+    },
+    {
+      "name": "Bleikøyflua",
+      "latitude": 59.884528,
+      "longitude": 10.736144
+    },
+    {
+      "name": "Blindskjærbåen",
+      "latitude": 59.888364,
+      "longitude": 10.744853
+    },
+    {
+      "name": "Blodgrunnen",
+      "latitude": 67.489311,
+      "longitude": 12.005633
+    },
+    {
+      "name": "Blodskiten",
+      "latitude": 67.510642,
+      "longitude": 12.196519
+    },
+    {
+      "name": "Blåmannsgrunnen",
+      "latitude": 69.817,
+      "longitude": 19.716603
+    },
+    {
+      "name": "Bolggrunnen",
+      "latitude": 66.965561,
+      "longitude": 13.522853
+    },
+    {
+      "name": "Bolggrunnen",
+      "latitude": 67.023278,
+      "longitude": 13.631736
+    },
+    {
+      "name": "Bolgskallen",
+      "latitude": 66.795425,
+      "longitude": 13.255056
+    },
+    {
+      "name": "Bollfluin",
+      "latitude": 62.889911,
+      "longitude": 6.775542
+    },
+    {
+      "name": "Bonden",
+      "latitude": 67.783511,
+      "longitude": 14.537572
+    },
+    {
+      "name": "Bonnetskjærgrunnen",
+      "latitude": 66.939606,
+      "longitude": 13.465369
+    },
+    {
+      "name": "Borgagrunnen",
+      "latitude": 60.913714,
+      "longitude": 6.871164
+    },
+    {
+      "name": "Brakan",
+      "latitude": 67.706953,
+      "longitude": 14.4251
+    },
+    {
+      "name": "Braktaren",
+      "latitude": 66.5738,
+      "longitude": 12.503389
+    },
+    {
+      "name": "Brannan",
+      "latitude": 57.968422,
+      "longitude": 7.525414
+    },
+    {
+      "name": "Brannskjærskåret",
+      "latitude": 59.905829,
+      "longitude": 10.709713
+    },
+    {
+      "name": "Brattklakkskallan",
+      "latitude": 67.516072,
+      "longitude": 12.263872
+    },
+    {
+      "name": "Breibåen",
+      "latitude": 69.972528,
+      "longitude": 18.213756
+    },
+    {
+      "name": "Breidsundgrunnen",
+      "latitude": 66.616019,
+      "longitude": 12.704661
+    },
+    {
+      "name": "Breifallet",
+      "latitude": 67.630178,
+      "longitude": 14.600089
+    },
+    {
+      "name": "Breifallet",
+      "latitude": 67.721697,
+      "longitude": 14.466597
+    },
+    {
+      "name": "Breigrunnan",
+      "latitude": 66.847433,
+      "longitude": 12.805192
+    },
+    {
+      "name": "Breigrunnen",
+      "latitude": 66.564289,
+      "longitude": 12.412889
+    },
+    {
+      "name": "Breigrunnen",
+      "latitude": 66.7817,
+      "longitude": 12.921636
+    },
+    {
+      "name": "Breigrunnen",
+      "latitude": 67.095522,
+      "longitude": 13.722022
+    },
+    {
+      "name": "Breinykskallen",
+      "latitude": 67.572197,
+      "longitude": 12.246058
+    },
+    {
+      "name": "Breiskallen",
+      "latitude": 67.881389,
+      "longitude": 14.617122
+    },
+    {
+      "name": "Breisundgrunnen",
+      "latitude": 66.617319,
+      "longitude": 12.704675
+    },
+    {
+      "name": "Breitaren",
+      "latitude": 66.458075,
+      "longitude": 12.656689
+    },
+    {
+      "name": "Breitaren",
+      "latitude": 66.505111,
+      "longitude": 12.851611
+    },
+    {
+      "name": "Breitaren",
+      "latitude": 66.580144,
+      "longitude": 12.455003
+    },
+    {
+      "name": "Breitaren",
+      "latitude": 66.962294,
+      "longitude": 13.396403
+    },
+    {
+      "name": "Breitaren",
+      "latitude": 67.138894,
+      "longitude": 13.734819
+    },
+    {
+      "name": "Breitarren",
+      "latitude": 67.88833,
+      "longitude": 14.684425
+    },
+    {
+      "name": "Breitarskoltan",
+      "latitude": 66.963494,
+      "longitude": 13.427531
+    },
+    {
+      "name": "Bremholmtaran",
+      "latitude": 66.771639,
+      "longitude": 12.429256
+    },
+    {
+      "name": "Bremholmtaren",
+      "latitude": 66.863911,
+      "longitude": 13.330219
+    },
+    {
+      "name": "Brettingsbåan",
+      "latitude": 67.774389,
+      "longitude": 14.67425
+    },
+    {
+      "name": "Briet",
+      "latitude": 67.953303,
+      "longitude": 15.297431
+    },
+    {
+      "name": "Brunsøyskallen",
+      "latitude": 67.531192,
+      "longitude": 11.957889
+    },
+    {
+      "name": "Bryden",
+      "latitude": 57.982639,
+      "longitude": 7.429158
+    },
+    {
+      "name": "Bryten",
+      "latitude": 57.979339,
+      "longitude": 7.679403
+    },
+    {
+      "name": "Bryteran",
+      "latitude": 66.704897,
+      "longitude": 13.236919
+    },
+    {
+      "name": "Brødran",
+      "latitude": 67.500569,
+      "longitude": 12.051106
+    },
+    {
+      "name": "Brømnesskallen",
+      "latitude": 67.066508,
+      "longitude": 13.74485
+    },
+    {
+      "name": "Brønnesheiskjæran",
+      "latitude": 57.995136,
+      "longitude": 7.597706
+    },
+    {
+      "name": "Bukkøybåen",
+      "latitude": 66.506628,
+      "longitude": 12.843997
+    },
+    {
+      "name": "Bukkøyskallen",
+      "latitude": 66.748422,
+      "longitude": 13.255672
+    },
+    {
+      "name": "Bullersholmskallen",
+      "latitude": 67.187722,
+      "longitude": 14.199558
+    },
+    {
+      "name": "Buværflesa",
+      "latitude": 67.421839,
+      "longitude": 11.933564
+    },
+    {
+      "name": "Buøysundstaren",
+      "latitude": 67.012903,
+      "longitude": 13.090661
+    },
+    {
+      "name": "Båane",
+      "latitude": 61.497311,
+      "longitude": 5.239156
+    },
+    {
+      "name": "Båsgrunnen",
+      "latitude": 66.963842,
+      "longitude": 13.251931
+    },
+    {
+      "name": "Båtsmannen",
+      "latitude": 70.032767,
+      "longitude": 18.625144
+    },
+    {
+      "name": "Bøbakkan",
+      "latitude": 67.990719,
+      "longitude": 14.944542
+    },
+    {
+      "name": "Børbakbåen",
+      "latitude": 70.022761,
+      "longitude": 18.441128
+    },
+    {
+      "name": "Bøyesanden",
+      "latitude": 59.909844,
+      "longitude": 10.651803
+    },
+    {
+      "name": "Daggerskjærgrunnen",
+      "latitude": 59.887883,
+      "longitude": 10.731547
+    },
+    {
+      "name": "Dalgrunnen",
+      "latitude": 67.120508,
+      "longitude": 13.886172
+    },
+    {
+      "name": "Djupbåen",
+      "latitude": 66.591017,
+      "longitude": 12.552819
+    },
+    {
+      "name": "Djupbåen",
+      "latitude": 67.823992,
+      "longitude": 12.844214
+    },
+    {
+      "name": "Djupbåen",
+      "latitude": 67.830219,
+      "longitude": 12.785856
+    },
+    {
+      "name": "Djupbøen",
+      "latitude": 67.124825,
+      "longitude": 13.877167
+    },
+    {
+      "name": "Djupfallet",
+      "latitude": 66.653378,
+      "longitude": 12.901128
+    },
+    {
+      "name": "Djupfjordbøan",
+      "latitude": 67.91315,
+      "longitude": 13.0775
+    },
+    {
+      "name": "Djupflestaren",
+      "latitude": 66.525383,
+      "longitude": 12.554258
+    },
+    {
+      "name": "Djupholmskallen",
+      "latitude": 67.845742,
+      "longitude": 14.642781
+    },
+    {
+      "name": "Djupmørelen",
+      "latitude": 66.907489,
+      "longitude": 13.016961
+    },
+    {
+      "name": "Dragan",
+      "latitude": 67.534481,
+      "longitude": 12.1602
+    },
+    {
+      "name": "Dragskjærgrunnen",
+      "latitude": 66.498597,
+      "longitude": 12.839981
+    },
+    {
+      "name": "Dragskjærgrunnen",
+      "latitude": 66.500939,
+      "longitude": 12.859061
+    },
+    {
+      "name": "Draugvikskjeran",
+      "latitude": 67.880547,
+      "longitude": 12.843214
+    },
+    {
+      "name": "Drepbøen",
+      "latitude": 67.096906,
+      "longitude": 13.740233
+    },
+    {
+      "name": "Drillingen",
+      "latitude": 66.949906,
+      "longitude": 13.206142
+    },
+    {
+      "name": "Dronninggrunnen",
+      "latitude": 59.908619,
+      "longitude": 10.698703
+    },
+    {
+      "name": "Duncan Greybåen",
+      "latitude": 69.980956,
+      "longitude": 18.550303
+    },
+    {
+      "name": "Dvergsøyhausen",
+      "latitude": 58.093861,
+      "longitude": 8.070467
+    },
+    {
+      "name": "Dyrbåen",
+      "latitude": 67.996078,
+      "longitude": 12.786025
+    },
+    {
+      "name": "Dyrkleppskallen",
+      "latitude": 66.746264,
+      "longitude": 13.057653
+    },
+    {
+      "name": "Dåvskallen",
+      "latitude": 67.861556,
+      "longitude": 12.978653
+    },
+    {
+      "name": "Dølen",
+      "latitude": 65.210797,
+      "longitude": 10.930881
+    },
+    {
+      "name": "Dørholmbåen",
+      "latitude": 67.791472,
+      "longitude": 14.427589
+    },
+    {
+      "name": "Eggebåen",
+      "latitude": 70.040392,
+      "longitude": 18.390917
+    },
+    {
+      "name": "Eholmskallen",
+      "latitude": 67.116047,
+      "longitude": 13.796583
+    },
+    {
+      "name": "Eidgavlsbåen",
+      "latitude": 67.472411,
+      "longitude": 11.999783
+    },
+    {
+      "name": "Eigelandsskjeran",
+      "latitude": 57.975625,
+      "longitude": 7.500756
+    },
+    {
+      "name": "Einarskallen",
+      "latitude": 66.961008,
+      "longitude": 13.697433
+    },
+    {
+      "name": "Einaråsryggen",
+      "latitude": 66.922569,
+      "longitude": 13.043764
+    },
+    {
+      "name": "Einsteinen",
+      "latitude": 67.533853,
+      "longitude": 11.992422
+    },
+    {
+      "name": "Einsteinflua",
+      "latitude": 67.9387,
+      "longitude": 13.126295
+    },
+    {
+      "name": "Elsgrunnen",
+      "latitude": 67.992825,
+      "longitude": 15.009592
+    },
+    {
+      "name": "Elveflua",
+      "latitude": 59.830511,
+      "longitude": 10.762039
+    },
+    {
+      "name": "Elvskallan",
+      "latitude": 67.891022,
+      "longitude": 12.748225
+    },
+    {
+      "name": "Elvøra",
+      "latitude": 69.523654,
+      "longitude": 19.727468
+    },
+    {
+      "name": "Elvøra",
+      "latitude": 69.778361,
+      "longitude": 19.382706
+    },
+    {
+      "name": "Emortaren",
+      "latitude": 66.529511,
+      "longitude": 12.642878
+    },
+    {
+      "name": "Emortaren",
+      "latitude": 66.606675,
+      "longitude": 12.708983
+    },
+    {
+      "name": "Engelskmannsgrunnen",
+      "latitude": 67.425128,
+      "longitude": 11.959553
+    },
+    {
+      "name": "Ertnskjærtaren",
+      "latitude": 66.837464,
+      "longitude": 12.779525
+    },
+    {
+      "name": "Faksa",
+      "latitude": 66.78435,
+      "longitude": 12.469036
+    },
+    {
+      "name": "Fallan",
+      "latitude": 66.772125,
+      "longitude": 12.966967
+    },
+    {
+      "name": "Fallan",
+      "latitude": 70.024983,
+      "longitude": 18.393189
+    },
+    {
+      "name": "Fallet",
+      "latitude": 66.979428,
+      "longitude": 13.537144
+    },
+    {
+      "name": "Fallet",
+      "latitude": 67.035417,
+      "longitude": 13.219836
+    },
+    {
+      "name": "Fallmanngrunnen",
+      "latitude": 67.0281,
+      "longitude": 13.5907
+    },
+    {
+      "name": "Farligrova",
+      "latitude": 68.014944,
+      "longitude": 15.068322
+    },
+    {
+      "name": "Fellen",
+      "latitude": 66.643136,
+      "longitude": 12.742719
+    },
+    {
+      "name": "Finnesgrunnen",
+      "latitude": 66.983222,
+      "longitude": 13.724272
+    },
+    {
+      "name": "Finningan",
+      "latitude": 66.763475,
+      "longitude": 12.534661
+    },
+    {
+      "name": "Fjeldet",
+      "latitude": 57.980208,
+      "longitude": 7.422281
+    },
+    {
+      "name": "Fjellbakken",
+      "latitude": 70.054692,
+      "longitude": 18.27995
+    },
+    {
+      "name": "Fjellsettbåen",
+      "latitude": 69.979997,
+      "longitude": 18.207744
+    },
+    {
+      "name": "Fjellskallen",
+      "latitude": 66.668039,
+      "longitude": 13.428736
+    },
+    {
+      "name": "Fjordboen",
+      "latitude": 57.989436,
+      "longitude": 7.470964
+    },
+    {
+      "name": "Fjordskjærgrunnen",
+      "latitude": 67.744906,
+      "longitude": 14.743958
+    },
+    {
+      "name": "Flaget",
+      "latitude": 58.088667,
+      "longitude": 8.106497
+    },
+    {
+      "name": "Flatskallan",
+      "latitude": 67.404669,
+      "longitude": 11.815389
+    },
+    {
+      "name": "Flatskjærlusa",
+      "latitude": 66.935625,
+      "longitude": 13.233267
+    },
+    {
+      "name": "Flatøybåen",
+      "latitude": 68.005283,
+      "longitude": 15.069769
+    },
+    {
+      "name": "Flatøyfallet",
+      "latitude": 66.654878,
+      "longitude": 12.906553
+    },
+    {
+      "name": "Flekkgrunnen",
+      "latitude": 67.724039,
+      "longitude": 14.366025
+    },
+    {
+      "name": "Flesbåan",
+      "latitude": 67.399194,
+      "longitude": 11.846083
+    },
+    {
+      "name": "Flesbåen",
+      "latitude": 66.827303,
+      "longitude": 12.630794
+    },
+    {
+      "name": "Flesskallan",
+      "latitude": 66.838794,
+      "longitude": 12.636911
+    },
+    {
+      "name": "Flesskallan",
+      "latitude": 67.436089,
+      "longitude": 11.999461
+    },
+    {
+      "name": "Flesskallan",
+      "latitude": 67.554381,
+      "longitude": 12.177072
+    },
+    {
+      "name": "Flesskallen",
+      "latitude": 66.492617,
+      "longitude": 12.697883
+    },
+    {
+      "name": "Flesskallen",
+      "latitude": 67.638197,
+      "longitude": 14.656331
+    },
+    {
+      "name": "Flesskallen",
+      "latitude": 67.6822,
+      "longitude": 14.329019
+    },
+    {
+      "name": "Flestaren",
+      "latitude": 66.474364,
+      "longitude": 12.554583
+    },
+    {
+      "name": "Flestaren",
+      "latitude": 66.4953,
+      "longitude": 12.701547
+    },
+    {
+      "name": "Flestaren",
+      "latitude": 66.720144,
+      "longitude": 12.513211
+    },
+    {
+      "name": "Flintskallen",
+      "latitude": 70.026353,
+      "longitude": 18.350325
+    },
+    {
+      "name": "Flogskallan",
+      "latitude": 67.704236,
+      "longitude": 14.340003
+    },
+    {
+      "name": "Floholmgrunnen",
+      "latitude": 67.013844,
+      "longitude": 13.680833
+    },
+    {
+      "name": "Floholmmerran",
+      "latitude": 66.606725,
+      "longitude": 12.477625
+    },
+    {
+      "name": "Floholmskallen",
+      "latitude": 66.387456,
+      "longitude": 12.785664
+    },
+    {
+      "name": "Floskallan",
+      "latitude": 68.011083,
+      "longitude": 12.789008
+    },
+    {
+      "name": "Flua",
+      "latitude": 67.182256,
+      "longitude": 13.660375
+    },
+    {
+      "name": "Flua",
+      "latitude": 67.587969,
+      "longitude": 12.288133
+    },
+    {
+      "name": "Fløa",
+      "latitude": 63.610315,
+      "longitude": 8.565068
+    },
+    {
+      "name": "Fløbøskallan",
+      "latitude": 67.655622,
+      "longitude": 14.668758
+    },
+    {
+      "name": "Fløskjærtaren",
+      "latitude": 66.585825,
+      "longitude": 12.724022
+    },
+    {
+      "name": "Foldgrunnan",
+      "latitude": 67.646781,
+      "longitude": 14.748631
+    },
+    {
+      "name": "Foraboan",
+      "latitude": 57.963344,
+      "longitude": 7.606725
+    },
+    {
+      "name": "Foregrunnen",
+      "latitude": 66.897731,
+      "longitude": 13.593097
+    },
+    {
+      "name": "Foteggbakken",
+      "latitude": 67.517253,
+      "longitude": 11.876453
+    },
+    {
+      "name": "Fretheimgrunnen",
+      "latitude": 60.874083,
+      "longitude": 7.133189
+    },
+    {
+      "name": "Frognerdynga",
+      "latitude": 59.912306,
+      "longitude": 10.698303
+    },
+    {
+      "name": "Fugldalsgrunnen",
+      "latitude": 69.5246,
+      "longitude": 19.71195
+    },
+    {
+      "name": "Fugløytaren",
+      "latitude": 66.959608,
+      "longitude": 13.468628
+    },
+    {
+      "name": "Furbåtaren",
+      "latitude": 69.921928,
+      "longitude": 18.334919
+    },
+    {
+      "name": "Furebaltskoltan",
+      "latitude": 70.047225,
+      "longitude": 18.442193
+    },
+    {
+      "name": "Færøyboan",
+      "latitude": 57.985847,
+      "longitude": 7.492394
+    },
+    {
+      "name": "Førleira",
+      "latitude": 67.868486,
+      "longitude": 15.188692
+    },
+    {
+      "name": "Galten",
+      "latitude": 57.991261,
+      "longitude": 7.638317
+    },
+    {
+      "name": "Galten",
+      "latitude": 66.625542,
+      "longitude": 13.103944
+    },
+    {
+      "name": "Galten",
+      "latitude": 66.789758,
+      "longitude": 13.194464
+    },
+    {
+      "name": "Galten",
+      "latitude": 67.495728,
+      "longitude": 12.056278
+    },
+    {
+      "name": "Galten",
+      "latitude": 67.751395,
+      "longitude": 14.959317
+    },
+    {
+      "name": "Galten",
+      "latitude": 67.778464,
+      "longitude": 14.912403
+    },
+    {
+      "name": "Gammøygrunnen",
+      "latitude": 66.696311,
+      "longitude": 12.746181
+    },
+    {
+      "name": "Gannflesflua",
+      "latitude": 66.734456,
+      "longitude": 12.712747
+    },
+    {
+      "name": "Gautbåen",
+      "latitude": 67.924714,
+      "longitude": 13.108625
+    },
+    {
+      "name": "Gauven",
+      "latitude": 67.864486,
+      "longitude": 14.569939
+    },
+    {
+      "name": "Gauvskallen",
+      "latitude": 67.869636,
+      "longitude": 14.576755
+    },
+    {
+      "name": "Geitryggen",
+      "latitude": 66.916181,
+      "longitude": 13.416147
+    },
+    {
+      "name": "Gillingsbøen",
+      "latitude": 67.728731,
+      "longitude": 14.542836
+    },
+    {
+      "name": "Giryggen",
+      "latitude": 66.602828,
+      "longitude": 12.704767
+    },
+    {
+      "name": "Gjeirolboen",
+      "latitude": 57.972583,
+      "longitude": 7.638472
+    },
+    {
+      "name": "Gjeiteva",
+      "latitude": 58.12115,
+      "longitude": 8.008399
+    },
+    {
+      "name": "Gjerdtindsskallen",
+      "latitude": 67.868383,
+      "longitude": 12.996764
+    },
+    {
+      "name": "Gjerdøyrevet",
+      "latitude": 66.629983,
+      "longitude": 12.890833
+    },
+    {
+      "name": "Gleskallen",
+      "latitude": 66.539314,
+      "longitude": 12.522753
+    },
+    {
+      "name": "Glomskallen",
+      "latitude": 66.854017,
+      "longitude": 13.500694
+    },
+    {
+      "name": "Glossveet",
+      "latitude": 66.870853,
+      "longitude": 12.9476
+    },
+    {
+      "name": "Godbakken",
+      "latitude": 66.544678,
+      "longitude": 12.44825
+    },
+    {
+      "name": "Godfaren",
+      "latitude": 60.153586,
+      "longitude": 5.539628
+    },
+    {
+      "name": "Godskallen",
+      "latitude": 66.483244,
+      "longitude": 12.640136
+    },
+    {
+      "name": "Gorsenbåen",
+      "latitude": 67.974283,
+      "longitude": 15.008028
+    },
+    {
+      "name": "Goveskjæret",
+      "latitude": 69.473206,
+      "longitude": 19.699455
+    },
+    {
+      "name": "Grasberget",
+      "latitude": 59.860244,
+      "longitude": 10.76695
+    },
+    {
+      "name": "Grasholmflua",
+      "latitude": 67.893456,
+      "longitude": 12.820997
+    },
+    {
+      "name": "Grautdallen",
+      "latitude": 67.429058,
+      "longitude": 11.90965
+    },
+    {
+      "name": "Grautdallen",
+      "latitude": 67.898953,
+      "longitude": 13.056992
+    },
+    {
+      "name": "Greteskjær",
+      "latitude": 58.016583,
+      "longitude": 7.482447
+    },
+    {
+      "name": "Grimstadgrunnen",
+      "latitude": 66.952656,
+      "longitude": 13.700044
+    },
+    {
+      "name": "Grindvikgrunnen",
+      "latitude": 67.076628,
+      "longitude": 13.87365
+    },
+    {
+      "name": "Grisen",
+      "latitude": 60.556883,
+      "longitude": 5.442082
+    },
+    {
+      "name": "Grunnan",
+      "latitude": 66.566994,
+      "longitude": 12.790311
+    },
+    {
+      "name": "Grunneflua",
+      "latitude": 59.296819,
+      "longitude": 4.91504
+    },
+    {
+      "name": "Grunneskallane",
+      "latitude": 60.192811,
+      "longitude": 5.577375
+    },
+    {
+      "name": "Grunnflaget",
+      "latitude": 67.876442,
+      "longitude": 13.003058
+    },
+    {
+      "name": "Grunnmørelen",
+      "latitude": 66.911461,
+      "longitude": 12.96955
+    },
+    {
+      "name": "Grunnsklakken",
+      "latitude": 67.756561,
+      "longitude": 15.387878
+    },
+    {
+      "name": "Grunnøyra",
+      "latitude": 67.823408,
+      "longitude": 14.650403
+    },
+    {
+      "name": "Grytøygrunnen",
+      "latitude": 66.481689,
+      "longitude": 12.836611
+    },
+    {
+      "name": "Gråmerra",
+      "latitude": 59.745178,
+      "longitude": 10.184908
+    },
+    {
+      "name": "Gråskallen",
+      "latitude": 66.529844,
+      "longitude": 12.522678
+    },
+    {
+      "name": "Grønholmtaran",
+      "latitude": 66.829792,
+      "longitude": 13.1375
+    },
+    {
+      "name": "Grønningsteinen",
+      "latitude": 58.07803,
+      "longitude": 8.088996
+    },
+    {
+      "name": "Grønskallen",
+      "latitude": 66.997453,
+      "longitude": 13.154728
+    },
+    {
+      "name": "Grønøybåen",
+      "latitude": 66.796953,
+      "longitude": 13.448506
+    },
+    {
+      "name": "Grøtøyflua",
+      "latitude": 69.931194,
+      "longitude": 18.240303
+    },
+    {
+      "name": "Gubben",
+      "latitude": 69.988858,
+      "longitude": 18.461303
+    },
+    {
+      "name": "Guleskjær",
+      "latitude": 57.982878,
+      "longitude": 7.496617
+    },
+    {
+      "name": "Gulliskjærskallen",
+      "latitude": 67.764678,
+      "longitude": 14.530558
+    },
+    {
+      "name": "Gullkista",
+      "latitude": 70.044908,
+      "longitude": 18.295786
+    },
+    {
+      "name": "Gullkistgrunnen",
+      "latitude": 70.050203,
+      "longitude": 18.313636
+    },
+    {
+      "name": "Gurigrunnen",
+      "latitude": 67.747061,
+      "longitude": 14.798678
+    },
+    {
+      "name": "Guriskjeret",
+      "latitude": 67.880175,
+      "longitude": 13.01538
+    },
+    {
+      "name": "Gårdgrunnen",
+      "latitude": 67.197994,
+      "longitude": 13.709869
+    },
+    {
+      "name": "Gåsholmbåen",
+      "latitude": 66.953853,
+      "longitude": 13.376275
+    },
+    {
+      "name": "Gåsholmflua",
+      "latitude": 66.949417,
+      "longitude": 13.383231
+    },
+    {
+      "name": "Gåsholmsteinan",
+      "latitude": 70.008503,
+      "longitude": 18.627317
+    },
+    {
+      "name": "Gåsværbåen",
+      "latitude": 66.872611,
+      "longitude": 13.375378
+    },
+    {
+      "name": "Gåsøyskallan",
+      "latitude": 67.838825,
+      "longitude": 14.673622
+    },
+    {
+      "name": "Hakan",
+      "latitude": 59.214347,
+      "longitude": 10.754017
+    },
+    {
+      "name": "Hakvågbåan",
+      "latitude": 67.959222,
+      "longitude": 15.244183
+    },
+    {
+      "name": "Hallet",
+      "latitude": 67.813778,
+      "longitude": 14.617017
+    },
+    {
+      "name": "Halvaren",
+      "latitude": 69.496306,
+      "longitude": 18.958361
+    },
+    {
+      "name": "Halvorskallen",
+      "latitude": 60.196967,
+      "longitude": 5.5777
+    },
+    {
+      "name": "Halvorskallen",
+      "latitude": 67.698933,
+      "longitude": 14.308825
+    },
+    {
+      "name": "Halvpundsteinen",
+      "latitude": 66.805103,
+      "longitude": 13.325922
+    },
+    {
+      "name": "Hamarsflua",
+      "latitude": 60.540442,
+      "longitude": 5.327428
+    },
+    {
+      "name": "Hammarfallet",
+      "latitude": 67.145919,
+      "longitude": 13.684992
+    },
+    {
+      "name": "Hammarskaftskallen",
+      "latitude": 68.035894,
+      "longitude": 12.847167
+    },
+    {
+      "name": "Hamnvikleira",
+      "latitude": 67.0749,
+      "longitude": 14.296294
+    },
+    {
+      "name": "Hansgrunnen",
+      "latitude": 67.611833,
+      "longitude": 14.4502
+    },
+    {
+      "name": "Hanshansaskallen",
+      "latitude": 67.417808,
+      "longitude": 11.682775
+    },
+    {
+      "name": "Hansstossaflua",
+      "latitude": 69.987723,
+      "longitude": 18.669533
+    },
+    {
+      "name": "Hanstostensaflua",
+      "latitude": 69.980683,
+      "longitude": 18.654152
+    },
+    {
+      "name": "Haraldsbåane",
+      "latitude": 58.05748,
+      "longitude": 8.053906
+    },
+    {
+      "name": "Hardbakkskallen",
+      "latitude": 66.840533,
+      "longitude": 12.934611
+    },
+    {
+      "name": "Harfjellgrunnen",
+      "latitude": 67.005947,
+      "longitude": 13.554558
+    },
+    {
+      "name": "Hasdalbåen",
+      "latitude": 59.510247,
+      "longitude": 10.334904
+    },
+    {
+      "name": "Hatlemnesskallane",
+      "latitude": 60.143208,
+      "longitude": 5.573075
+    },
+    {
+      "name": "Hattbåen",
+      "latitude": 66.803978,
+      "longitude": 13.345556
+    },
+    {
+      "name": "Hausen",
+      "latitude": 58.178678,
+      "longitude": 6.690308
+    },
+    {
+      "name": "Hausen",
+      "latitude": 67.565797,
+      "longitude": 12.325981
+    },
+    {
+      "name": "Hausesloa",
+      "latitude": 58.085652,
+      "longitude": 8.183584
+    },
+    {
+      "name": "Hausgrunnen",
+      "latitude": 67.905392,
+      "longitude": 15.192136
+    },
+    {
+      "name": "Haustaren",
+      "latitude": 66.688478,
+      "longitude": 12.767578
+    },
+    {
+      "name": "Havgrunnen",
+      "latitude": 67.095508,
+      "longitude": 13.804628
+    },
+    {
+      "name": "Havskjærskallen",
+      "latitude": 67.79707,
+      "longitude": 14.531547
+    },
+    {
+      "name": "Heimsilstøbåen",
+      "latitude": 69.938605,
+      "longitude": 18.088903
+    },
+    {
+      "name": "Helganesboen",
+      "latitude": 59.303811,
+      "longitude": 4.852734
+    },
+    {
+      "name": "Helgøygrunnen",
+      "latitude": 69.973992,
+      "longitude": 18.641278
+    },
+    {
+      "name": "Hella",
+      "latitude": 66.45335,
+      "longitude": 12.661294
+    },
+    {
+      "name": "Hella",
+      "latitude": 66.834133,
+      "longitude": 13.031264
+    },
+    {
+      "name": "Hella",
+      "latitude": 67.493017,
+      "longitude": 12.05052
+    },
+    {
+      "name": "Hellaren",
+      "latitude": 57.998669,
+      "longitude": 7.600378
+    },
+    {
+      "name": "Hellefluna",
+      "latitude": 62.790467,
+      "longitude": 6.676756
+    },
+    {
+      "name": "Helligholmøra",
+      "latitude": 67.850406,
+      "longitude": 14.790278
+    },
+    {
+      "name": "Helliskjærskallen",
+      "latitude": 66.457264,
+      "longitude": 12.693033
+    },
+    {
+      "name": "Helløybakken",
+      "latitude": 67.537908,
+      "longitude": 11.984764
+    },
+    {
+      "name": "Helløygrunnen",
+      "latitude": 66.614419,
+      "longitude": 12.462725
+    },
+    {
+      "name": "Helløygrunnen",
+      "latitude": 66.799844,
+      "longitude": 12.871856
+    },
+    {
+      "name": "Helløyryggen",
+      "latitude": 66.504783,
+      "longitude": 12.563425
+    },
+    {
+      "name": "Helvetesgrunnan",
+      "latitude": 70.045433,
+      "longitude": 18.37565
+    },
+    {
+      "name": "Henriksgrunnen",
+      "latitude": 70.020419,
+      "longitude": 18.494086
+    },
+    {
+      "name": "Henrikskallen",
+      "latitude": 67.808136,
+      "longitude": 14.512486
+    },
+    {
+      "name": "Herjeskallen",
+      "latitude": 67.808825,
+      "longitude": 12.876467
+    },
+    {
+      "name": "Hermanryggen",
+      "latitude": 67.784786,
+      "longitude": 14.430028
+    },
+    {
+      "name": "Hermund",
+      "latitude": 63.503943,
+      "longitude": 8.241119
+    },
+    {
+      "name": "Hestflua",
+      "latitude": 66.950433,
+      "longitude": 13.391692
+    },
+    {
+      "name": "Hestmannryggen",
+      "latitude": 66.732142,
+      "longitude": 12.928261
+    },
+    {
+      "name": "Hestmontaren",
+      "latitude": 66.617206,
+      "longitude": 12.531592
+    },
+    {
+      "name": "Himmeriksboen",
+      "latitude": 59.306878,
+      "longitude": 4.914378
+    },
+    {
+      "name": "Hjellnesgrunnen",
+      "latitude": 69.619531,
+      "longitude": 19.784403
+    },
+    {
+      "name": "Holkestadbåen",
+      "latitude": 67.874694,
+      "longitude": 14.829292
+    },
+    {
+      "name": "Holkestadskallen",
+      "latitude": 67.893805,
+      "longitude": 14.873608
+    },
+    {
+      "name": "Holmagrunnen",
+      "latitude": 60.920878,
+      "longitude": 6.874358
+    },
+    {
+      "name": "Holmegrunka",
+      "latitude": 59.2894,
+      "longitude": 4.846895
+    },
+    {
+      "name": "Holmskallan",
+      "latitude": 67.703322,
+      "longitude": 14.390442
+    },
+    {
+      "name": "Holmskallen",
+      "latitude": 66.554539,
+      "longitude": 12.722511
+    },
+    {
+      "name": "Holmskallen",
+      "latitude": 66.597003,
+      "longitude": 12.457511
+    },
+    {
+      "name": "Holmskallen",
+      "latitude": 66.599831,
+      "longitude": 12.867589
+    },
+    {
+      "name": "Hombåen",
+      "latitude": 67.538492,
+      "longitude": 12.016742
+    },
+    {
+      "name": "Hornskardskallen",
+      "latitude": 67.8652,
+      "longitude": 12.977994
+    },
+    {
+      "name": "Horntindtaren",
+      "latitude": 66.966889,
+      "longitude": 13.452406
+    },
+    {
+      "name": "Hovsøyskallan",
+      "latitude": 67.770992,
+      "longitude": 14.807356
+    },
+    {
+      "name": "Hukfluene",
+      "latitude": 59.891236,
+      "longitude": 10.680067
+    },
+    {
+      "name": "Hukskjærgrunnen",
+      "latitude": 59.894028,
+      "longitude": 10.670931
+    },
+    {
+      "name": "Hullergrunnen",
+      "latitude": 58.049304,
+      "longitude": 8.0423
+    },
+    {
+      "name": "Hundholmtaren",
+      "latitude": 66.680969,
+      "longitude": 12.758092
+    },
+    {
+      "name": "Hungerøyra",
+      "latitude": 69.644034,
+      "longitude": 18.976879
+    },
+    {
+      "name": "Huseboan",
+      "latitude": 57.973531,
+      "longitude": 7.53787
+    },
+    {
+      "name": "Husmannsskallen",
+      "latitude": 67.878636,
+      "longitude": 13.022817
+    },
+    {
+      "name": "Hvalrosskallan",
+      "latitude": 66.850072,
+      "longitude": 13.005006
+    },
+    {
+      "name": "Hvalrosskallan",
+      "latitude": 66.874811,
+      "longitude": 13.292117
+    },
+    {
+      "name": "Hyseskjeret",
+      "latitude": 62.823614,
+      "longitude": 6.71367
+    },
+    {
+      "name": "Hysryggen",
+      "latitude": 66.922144,
+      "longitude": 13.341769
+    },
+    {
+      "name": "Håbergfluene",
+      "latitude": 59.296803,
+      "longitude": 4.903054
+    },
+    {
+      "name": "Håbåane",
+      "latitude": 58.054032,
+      "longitude": 8.049284
+    },
+    {
+      "name": "Håjataren",
+      "latitude": 70.071381,
+      "longitude": 18.5577
+    },
+    {
+      "name": "Håkabåskallen",
+      "latitude": 66.619325,
+      "longitude": 12.491828
+    },
+    {
+      "name": "Hårværgrunnen",
+      "latitude": 66.691728,
+      "longitude": 13.004331
+    },
+    {
+      "name": "Håøytaren",
+      "latitude": 66.711708,
+      "longitude": 12.48455
+    },
+    {
+      "name": "Hærnykskallen",
+      "latitude": 67.577836,
+      "longitude": 12.2271
+    },
+    {
+      "name": "Hæssholmbakken",
+      "latitude": 67.46695,
+      "longitude": 12.193381
+    },
+    {
+      "name": "Hæssholmbelan",
+      "latitude": 67.470828,
+      "longitude": 12.151267
+    },
+    {
+      "name": "Indre Andersskallen",
+      "latitude": 67.703506,
+      "longitude": 14.539311
+    },
+    {
+      "name": "Indre Grunnskallen",
+      "latitude": 67.859405,
+      "longitude": 12.975272
+    },
+    {
+      "name": "Indre Hausane",
+      "latitude": 58.088236,
+      "longitude": 8.19326
+    },
+    {
+      "name": "Indre Kaurskjærskallen",
+      "latitude": 67.147364,
+      "longitude": 13.783111
+    },
+    {
+      "name": "Indre Leibåen",
+      "latitude": 67.765464,
+      "longitude": 14.719117
+    },
+    {
+      "name": "Indre Lyngøyskallen",
+      "latitude": 67.807794,
+      "longitude": 14.611242
+    },
+    {
+      "name": "Indre Meskallen",
+      "latitude": 67.676042,
+      "longitude": 14.479019
+    },
+    {
+      "name": "Indre Mulflua",
+      "latitude": 69.937662,
+      "longitude": 18.218508
+    },
+    {
+      "name": "Indre Nettøyskallen",
+      "latitude": 67.783653,
+      "longitude": 14.620069
+    },
+    {
+      "name": "Indre Oddskallen",
+      "latitude": 67.836147,
+      "longitude": 14.528839
+    },
+    {
+      "name": "Indre Revskallen",
+      "latitude": 67.645358,
+      "longitude": 14.432986
+    },
+    {
+      "name": "Indre Rødliskallen",
+      "latitude": 67.857172,
+      "longitude": 12.968925
+    },
+    {
+      "name": "Indre Skarvholmskallen",
+      "latitude": 66.820203,
+      "longitude": 12.774767
+    },
+    {
+      "name": "Indre Steinen",
+      "latitude": 58.077083,
+      "longitude": 8.105948
+    },
+    {
+      "name": "Indre Tovegrunnen",
+      "latitude": 58.102239,
+      "longitude": 8.159928
+    },
+    {
+      "name": "Indrehorsgrunnen",
+      "latitude": 66.451175,
+      "longitude": 12.579961
+    },
+    {
+      "name": "Indretaren",
+      "latitude": 66.855369,
+      "longitude": 12.888353
+    },
+    {
+      "name": "Indreåsbrakrevet",
+      "latitude": 66.486758,
+      "longitude": 12.431281
+    },
+    {
+      "name": "Innbrettingbåan",
+      "latitude": 67.78598,
+      "longitude": 14.7406
+    },
+    {
+      "name": "Innergrunnen",
+      "latitude": 59.866664,
+      "longitude": 10.745589
+    },
+    {
+      "name": "Innerkvarøyskallen",
+      "latitude": 66.493122,
+      "longitude": 13.000575
+    },
+    {
+      "name": "Innmykøyskallen",
+      "latitude": 66.728108,
+      "longitude": 12.485794
+    },
+    {
+      "name": "Isskjærbåen",
+      "latitude": 66.572431,
+      "longitude": 12.447297
+    },
+    {
+      "name": "Isskjærgrunnen",
+      "latitude": 66.575511,
+      "longitude": 12.425989
+    },
+    {
+      "name": "Ivargrunnen",
+      "latitude": 66.754381,
+      "longitude": 13.002225
+    },
+    {
+      "name": "Jacobsboan",
+      "latitude": 57.978058,
+      "longitude": 7.422039
+    },
+    {
+      "name": "Jarskallen",
+      "latitude": 66.828822,
+      "longitude": 13.176692
+    },
+    {
+      "name": "Jektesanden",
+      "latitude": 61.105453,
+      "longitude": 7.471069
+    },
+    {
+      "name": "Jenskonradgrunnan",
+      "latitude": 69.739925,
+      "longitude": 19.102308
+    },
+    {
+      "name": "Jojensaskallen",
+      "latitude": 66.756442,
+      "longitude": 12.564028
+    },
+    {
+      "name": "Jomfruskjæret",
+      "latitude": 63.949947,
+      "longitude": 11.247447
+    },
+    {
+      "name": "Jonasleira - Reašši",
+      "latitude": 69.43365,
+      "longitude": 19.610158
+    },
+    {
+      "name": "Jonbøen",
+      "latitude": 67.116267,
+      "longitude": 13.908286
+    },
+    {
+      "name": "Jonsgrunnen",
+      "latitude": 66.907936,
+      "longitude": 13.195294
+    },
+    {
+      "name": "Josefstaren",
+      "latitude": 67.544933,
+      "longitude": 12.053447
+    },
+    {
+      "name": "Kalibøen",
+      "latitude": 67.138442,
+      "longitude": 13.900339
+    },
+    {
+      "name": "Kalkunnesbåen",
+      "latitude": 67.983655,
+      "longitude": 12.9181
+    },
+    {
+      "name": "Kallgrunnrumpa",
+      "latitude": 66.804706,
+      "longitude": 12.88395
+    },
+    {
+      "name": "Kalsgrunnen",
+      "latitude": 68.071308,
+      "longitude": 12.931218
+    },
+    {
+      "name": "Kalvikbåen",
+      "latitude": 70.022792,
+      "longitude": 18.518208
+    },
+    {
+      "name": "Kalvskinnskallen",
+      "latitude": 67.864978,
+      "longitude": 12.990486
+    },
+    {
+      "name": "Kalvøybøen",
+      "latitude": 67.168256,
+      "longitude": 13.702744
+    },
+    {
+      "name": "Kammaren",
+      "latitude": 66.764472,
+      "longitude": 12.434983
+    },
+    {
+      "name": "Kapprobåen",
+      "latitude": 69.995021,
+      "longitude": 18.57448
+    },
+    {
+      "name": "Kardalsflua",
+      "latitude": 66.454831,
+      "longitude": 12.976369
+    },
+    {
+      "name": "Kariskallen",
+      "latitude": 67.994125,
+      "longitude": 12.931319
+    },
+    {
+      "name": "Karlsmoøyra",
+      "latitude": 58.230203,
+      "longitude": 8.127961
+    },
+    {
+      "name": "Karsenslua",
+      "latitude": 65.224141,
+      "longitude": 11.002362
+    },
+    {
+      "name": "Katteryggen",
+      "latitude": 57.987306,
+      "longitude": 7.545175
+    },
+    {
+      "name": "Kattholmgrunnen",
+      "latitude": 67.796567,
+      "longitude": 14.721447
+    },
+    {
+      "name": "Kavringsanden",
+      "latitude": 59.902772,
+      "longitude": 10.721489
+    },
+    {
+      "name": "Keipan",
+      "latitude": 69.9621,
+      "longitude": 18.380064
+    },
+    {
+      "name": "Keipgrunnan",
+      "latitude": 69.95691,
+      "longitude": 18.376865
+    },
+    {
+      "name": "Killingflua",
+      "latitude": 59.905092,
+      "longitude": 10.659256
+    },
+    {
+      "name": "Kinnsgrunnen",
+      "latitude": 58.100416,
+      "longitude": 8.030587
+    },
+    {
+      "name": "Kjerkflua",
+      "latitude": 67.7451,
+      "longitude": 14.775042
+    },
+    {
+      "name": "Kjevikgrunnen",
+      "latitude": 58.196459,
+      "longitude": 8.070691
+    },
+    {
+      "name": "Kjeøybåan",
+      "latitude": 67.816267,
+      "longitude": 14.635608
+    },
+    {
+      "name": "Kjuklingflua",
+      "latitude": 67.853636,
+      "longitude": 14.790747
+    },
+    {
+      "name": "Kjærbakken",
+      "latitude": 60.894931,
+      "longitude": 7.221036
+    },
+    {
+      "name": "Kjølibåen",
+      "latitude": 67.756047,
+      "longitude": 14.391772
+    },
+    {
+      "name": "Kjølsøyfallan",
+      "latitude": 66.744558,
+      "longitude": 12.583764
+    },
+    {
+      "name": "Kjøpmannsskallen",
+      "latitude": 67.642828,
+      "longitude": 14.723144
+    },
+    {
+      "name": "Kjørestadflua",
+      "latitude": 58.086717,
+      "longitude": 6.800978
+    },
+    {
+      "name": "Klavestindskallen",
+      "latitude": 67.565911,
+      "longitude": 12.307258
+    },
+    {
+      "name": "Klenningsbåen",
+      "latitude": 70.038557,
+      "longitude": 18.441238
+    },
+    {
+      "name": "Klevehausen",
+      "latitude": 57.97105,
+      "longitude": 7.458233
+    },
+    {
+      "name": "Klubbgrunnen",
+      "latitude": 66.539378,
+      "longitude": 13.032125
+    },
+    {
+      "name": "Klubbskjærtaran",
+      "latitude": 66.48825,
+      "longitude": 12.720244
+    },
+    {
+      "name": "Klubbtaren",
+      "latitude": 63.135901,
+      "longitude": 7.451041
+    },
+    {
+      "name": "Knuppeboen",
+      "latitude": 58.010967,
+      "longitude": 7.687044
+    },
+    {
+      "name": "Knutsfallan",
+      "latitude": 66.814936,
+      "longitude": 12.551692
+    },
+    {
+      "name": "Knørrøyryggen",
+      "latitude": 66.792575,
+      "longitude": 13.027992
+    },
+    {
+      "name": "Kobbelvan",
+      "latitude": 67.4859,
+      "longitude": 11.950192
+    },
+    {
+      "name": "Kobbflua",
+      "latitude": 67.748169,
+      "longitude": 14.684394
+    },
+    {
+      "name": "Kobbfluan",
+      "latitude": 67.792486,
+      "longitude": 14.672797
+    },
+    {
+      "name": "Kobbholmgrunnen",
+      "latitude": 70.022703,
+      "longitude": 18.611517
+    },
+    {
+      "name": "Kobbskallen",
+      "latitude": 67.872392,
+      "longitude": 12.998778
+    },
+    {
+      "name": "Kobbskjærskallan",
+      "latitude": 67.778889,
+      "longitude": 14.449967
+    },
+    {
+      "name": "Konskallen",
+      "latitude": 67.052939,
+      "longitude": 13.372133
+    },
+    {
+      "name": "Koppernaglegrunnen",
+      "latitude": 59.892926,
+      "longitude": 10.689518
+    },
+    {
+      "name": "Korsbakkbåen",
+      "latitude": 67.466967,
+      "longitude": 12.096589
+    },
+    {
+      "name": "Kortgrunnen",
+      "latitude": 67.1342,
+      "longitude": 13.684656
+    },
+    {
+      "name": "Kortskallen",
+      "latitude": 67.946044,
+      "longitude": 13.163756
+    },
+    {
+      "name": "Kringla",
+      "latitude": 66.761372,
+      "longitude": 12.423853
+    },
+    {
+      "name": "Kringlan",
+      "latitude": 66.46685,
+      "longitude": 12.670539
+    },
+    {
+      "name": "Kristofferskallen",
+      "latitude": 67.689994,
+      "longitude": 14.341592
+    },
+    {
+      "name": "Krossbarmflua",
+      "latitude": 59.315239,
+      "longitude": 4.864512
+    },
+    {
+      "name": "Krykkjeholmflua",
+      "latitude": 67.883089,
+      "longitude": 12.828283
+    },
+    {
+      "name": "Kråka, store",
+      "latitude": 58.0167,
+      "longitude": 7.316575
+    },
+    {
+      "name": "Kråkbakken",
+      "latitude": 67.760642,
+      "longitude": 15.3796
+    },
+    {
+      "name": "Kråknesosen",
+      "latitude": 67.020281,
+      "longitude": 14.221411
+    },
+    {
+      "name": "Kråkskallen",
+      "latitude": 67.0295,
+      "longitude": 13.133461
+    },
+    {
+      "name": "Kråksteinan",
+      "latitude": 63.540668,
+      "longitude": 9.187592
+    },
+    {
+      "name": "Kråktaran",
+      "latitude": 66.750589,
+      "longitude": 12.589961
+    },
+    {
+      "name": "Kråktaren",
+      "latitude": 66.649214,
+      "longitude": 12.606119
+    },
+    {
+      "name": "Kråkungen",
+      "latitude": 66.821256,
+      "longitude": 12.723992
+    },
+    {
+      "name": "Kubakkflua",
+      "latitude": 66.805539,
+      "longitude": 13.286172
+    },
+    {
+      "name": "Kumannsskallen",
+      "latitude": 67.548092,
+      "longitude": 12.164061
+    },
+    {
+      "name": "Kuttinggrunnen",
+      "latitude": 58.100983,
+      "longitude": 8.068281
+    },
+    {
+      "name": "Kvalbakken",
+      "latitude": 67.831178,
+      "longitude": 12.876136
+    },
+    {
+      "name": "Kvalen",
+      "latitude": 60.211844,
+      "longitude": 5.161271
+    },
+    {
+      "name": "Kvalen",
+      "latitude": 65.207796,
+      "longitude": 10.957061
+    },
+    {
+      "name": "Kvalen",
+      "latitude": 66.767633,
+      "longitude": 13.177364
+    },
+    {
+      "name": "Kvalholmskallan",
+      "latitude": 66.604739,
+      "longitude": 12.57395
+    },
+    {
+      "name": "Kvalhøgda",
+      "latitude": 67.902836,
+      "longitude": 14.751303
+    },
+    {
+      "name": "Kvalnesgrunnen",
+      "latitude": 66.6724,
+      "longitude": 13.445967
+    },
+    {
+      "name": "Kvalnesgrunnen",
+      "latitude": 67.869469,
+      "longitude": 14.840819
+    },
+    {
+      "name": "Kvalnesgrunnen",
+      "latitude": 69.563661,
+      "longitude": 19.688664
+    },
+    {
+      "name": "Kvamskjærgrunnen",
+      "latitude": 67.057889,
+      "longitude": 14.027686
+    },
+    {
+      "name": "Kvaregrunnen",
+      "latitude": 58.09668,
+      "longitude": 8.165799
+    },
+    {
+      "name": "Kveithella",
+      "latitude": 66.457964,
+      "longitude": 12.921358
+    },
+    {
+      "name": "Kverna",
+      "latitude": 58.005739,
+      "longitude": 7.552614
+    },
+    {
+      "name": "Kvernan",
+      "latitude": 69.990028,
+      "longitude": 18.363142
+    },
+    {
+      "name": "Kvitberggrunnen",
+      "latitude": 69.526245,
+      "longitude": 19.642289
+    },
+    {
+      "name": "Kvitholmfluene",
+      "latitude": 66.422167,
+      "longitude": 12.755342
+    },
+    {
+      "name": "Kvitingsbåen",
+      "latitude": 67.925592,
+      "longitude": 14.846981
+    },
+    {
+      "name": "Kvitingskallen",
+      "latitude": 67.929069,
+      "longitude": 14.83455
+    },
+    {
+      "name": "Kårklakken",
+      "latitude": 67.51335,
+      "longitude": 12.112525
+    },
+    {
+      "name": "Ladderudskjæran",
+      "latitude": 58.012769,
+      "longitude": 7.646919
+    },
+    {
+      "name": "Lakselvnesskjæret",
+      "latitude": 69.434899,
+      "longitude": 19.612099
+    },
+    {
+      "name": "Lalagrunnen - Lálláboađđu",
+      "latitude": 69.524722,
+      "longitude": 19.655078
+    },
+    {
+      "name": "Lamøyskallen",
+      "latitude": 66.569997,
+      "longitude": 12.843281
+    },
+    {
+      "name": "Lamøyskallen",
+      "latitude": 66.683961,
+      "longitude": 12.91
+    },
+    {
+      "name": "Langbåan",
+      "latitude": 69.927225,
+      "longitude": 18.029869
+    },
+    {
+      "name": "Langbøan",
+      "latitude": 67.038081,
+      "longitude": 13.550925
+    },
+    {
+      "name": "Langbøen",
+      "latitude": 67.127033,
+      "longitude": 13.881261
+    },
+    {
+      "name": "Langeflua",
+      "latitude": 60.584181,
+      "longitude": 5.46664
+    },
+    {
+      "name": "Langfalla",
+      "latitude": 65.227121,
+      "longitude": 10.983611
+    },
+    {
+      "name": "Langgrunnen",
+      "latitude": 58.081024,
+      "longitude": 8.074366
+    },
+    {
+      "name": "Langgrunnen",
+      "latitude": 67.900339,
+      "longitude": 15.16225
+    },
+    {
+      "name": "Langgrunnen",
+      "latitude": 67.959247,
+      "longitude": 15.266942
+    },
+    {
+      "name": "Langholmsgrunnen",
+      "latitude": 67.02985,
+      "longitude": 13.903936
+    },
+    {
+      "name": "Langnesfluan",
+      "latitude": 67.681219,
+      "longitude": 15.039614
+    },
+    {
+      "name": "Langskallen",
+      "latitude": 67.645125,
+      "longitude": 14.657717
+    },
+    {
+      "name": "Langskallen",
+      "latitude": 67.654653,
+      "longitude": 14.467483
+    },
+    {
+      "name": "Langskallen",
+      "latitude": 67.698005,
+      "longitude": 14.499667
+    },
+    {
+      "name": "Langskallen",
+      "latitude": 67.768517,
+      "longitude": 14.6809
+    },
+    {
+      "name": "Langskallen",
+      "latitude": 67.834736,
+      "longitude": 14.663803
+    },
+    {
+      "name": "Langskjærgrunnen",
+      "latitude": 67.912661,
+      "longitude": 15.231114
+    },
+    {
+      "name": "Langtaren",
+      "latitude": 66.51845,
+      "longitude": 12.641728
+    },
+    {
+      "name": "Langtaren",
+      "latitude": 66.629967,
+      "longitude": 12.901075
+    },
+    {
+      "name": "Langtaren",
+      "latitude": 66.644739,
+      "longitude": 12.799328
+    },
+    {
+      "name": "Langtaren",
+      "latitude": 66.657242,
+      "longitude": 12.582356
+    },
+    {
+      "name": "Langtaren",
+      "latitude": 66.804461,
+      "longitude": 12.603625
+    },
+    {
+      "name": "Langtaren",
+      "latitude": 67.535606,
+      "longitude": 12.207586
+    },
+    {
+      "name": "Langøyboen",
+      "latitude": 57.976858,
+      "longitude": 7.684522
+    },
+    {
+      "name": "Larsbåen",
+      "latitude": 66.563442,
+      "longitude": 12.549214
+    },
+    {
+      "name": "Larsmannskallan",
+      "latitude": 66.872419,
+      "longitude": 12.873194
+    },
+    {
+      "name": "Larsskallen",
+      "latitude": 66.437992,
+      "longitude": 12.658058
+    },
+    {
+      "name": "Lasseboen",
+      "latitude": 57.974303,
+      "longitude": 7.583844
+    },
+    {
+      "name": "Lauknesgrunnen",
+      "latitude": 66.776836,
+      "longitude": 13.488247
+    },
+    {
+      "name": "Laukvikbøan",
+      "latitude": 67.65665,
+      "longitude": 14.910128
+    },
+    {
+      "name": "Laukøytaren",
+      "latitude": 64.609653,
+      "longitude": 10.911803
+    },
+    {
+      "name": "Lausgrunnen",
+      "latitude": 67.018875,
+      "longitude": 13.329672
+    },
+    {
+      "name": "Lausingboen",
+      "latitude": 59.275633,
+      "longitude": 4.847979
+    },
+    {
+      "name": "Lauvvollsgrunnen",
+      "latitude": 69.744406,
+      "longitude": 19.096961
+    },
+    {
+      "name": "Lavanggrunnen - Lávatboađđu",
+      "latitude": 69.537436,
+      "longitude": 19.667217
+    },
+    {
+      "name": "Leibåen",
+      "latitude": 67.53237,
+      "longitude": 12.142694
+    },
+    {
+      "name": "Leidegrunnen",
+      "latitude": 58.103339,
+      "longitude": 8.171339
+    },
+    {
+      "name": "Leiholmskallan",
+      "latitude": 67.650511,
+      "longitude": 14.731303
+    },
+    {
+      "name": "Leiholmskallen",
+      "latitude": 66.712586,
+      "longitude": 12.49675
+    },
+    {
+      "name": "Leikuskoltan",
+      "latitude": 70.000048,
+      "longitude": 18.437719
+    },
+    {
+      "name": "Leira",
+      "latitude": 69.756779,
+      "longitude": 19.67889
+    },
+    {
+      "name": "Leirdammen",
+      "latitude": 67.152061,
+      "longitude": 13.994736
+    },
+    {
+      "name": "Leirosen",
+      "latitude": 67.853564,
+      "longitude": 15.194086
+    },
+    {
+      "name": "Leirvikfluene",
+      "latitude": 60.178919,
+      "longitude": 5.58447
+    },
+    {
+      "name": "Leiskallan",
+      "latitude": 66.408531,
+      "longitude": 12.76385
+    },
+    {
+      "name": "Leitaren",
+      "latitude": 69.933625,
+      "longitude": 18.142925
+    },
+    {
+      "name": "Lepsøyrevet",
+      "latitude": 62.579421,
+      "longitude": 6.232815
+    },
+    {
+      "name": "Lerosgrunnen",
+      "latitude": 66.782125,
+      "longitude": 13.434614
+    },
+    {
+      "name": "Lille Bordstolen",
+      "latitude": 58.020675,
+      "longitude": 7.341264
+    },
+    {
+      "name": "Lille Skautskjæret",
+      "latitude": 70.048306,
+      "longitude": 18.476667
+    },
+    {
+      "name": "Liskallen",
+      "latitude": 67.88933,
+      "longitude": 14.889703
+    },
+    {
+      "name": "Lislmarkskjæret",
+      "latitude": 63.910291,
+      "longitude": 11.171701
+    },
+    {
+      "name": "Litl Bremlusa",
+      "latitude": 67.733942,
+      "longitude": 14.457572
+    },
+    {
+      "name": "Litla Mele",
+      "latitude": 59.081925,
+      "longitude": 5.46458
+    },
+    {
+      "name": "Litlandersholmknausen",
+      "latitude": 66.716706,
+      "longitude": 12.456128
+    },
+    {
+      "name": "Litlegrunnen",
+      "latitude": 67.119475,
+      "longitude": 13.984136
+    },
+    {
+      "name": "Litlegrunnskallen",
+      "latitude": 67.642931,
+      "longitude": 14.642575
+    },
+    {
+      "name": "Litleholmgrunnen",
+      "latitude": 69.515542,
+      "longitude": 19.683547
+    },
+    {
+      "name": "Litleholmskallen",
+      "latitude": 67.962683,
+      "longitude": 15.146828
+    },
+    {
+      "name": "Litleråsskallen",
+      "latitude": 67.895695,
+      "longitude": 14.674108
+    },
+    {
+      "name": "Litleskallen",
+      "latitude": 66.461656,
+      "longitude": 12.678108
+    },
+    {
+      "name": "Litleskallen",
+      "latitude": 67.635175,
+      "longitude": 14.600653
+    },
+    {
+      "name": "Litleskallen",
+      "latitude": 67.771094,
+      "longitude": 14.692592
+    },
+    {
+      "name": "Litleskallen",
+      "latitude": 67.9194,
+      "longitude": 15.391086
+    },
+    {
+      "name": "Litlgrunnen",
+      "latitude": 66.776669,
+      "longitude": 13.29705
+    },
+    {
+      "name": "Litlgrunnen",
+      "latitude": 66.781044,
+      "longitude": 12.974742
+    },
+    {
+      "name": "Litlgrunnen",
+      "latitude": 66.827183,
+      "longitude": 12.67595
+    },
+    {
+      "name": "Litlgrunnen",
+      "latitude": 66.934461,
+      "longitude": 13.475439
+    },
+    {
+      "name": "Litlgrunnen",
+      "latitude": 67.916511,
+      "longitude": 15.003861
+    },
+    {
+      "name": "Litlmåøyskolten",
+      "latitude": 66.8113,
+      "longitude": 13.012989
+    },
+    {
+      "name": "Litlravngrunnen",
+      "latitude": 66.818856,
+      "longitude": 12.856186
+    },
+    {
+      "name": "Litltaren",
+      "latitude": 66.764797,
+      "longitude": 12.835692
+    },
+    {
+      "name": "Ljansflua",
+      "latitude": 59.846342,
+      "longitude": 10.757503
+    },
+    {
+      "name": "Ljosbåen",
+      "latitude": 66.860039,
+      "longitude": 12.8724
+    },
+    {
+      "name": "Lundgrunnan",
+      "latitude": 68.025236,
+      "longitude": 15.147134
+    },
+    {
+      "name": "Lurøygrunnen",
+      "latitude": 66.633003,
+      "longitude": 12.592669
+    },
+    {
+      "name": "Lyngholmtaren",
+      "latitude": 67.036764,
+      "longitude": 13.709039
+    },
+    {
+      "name": "Lyngmorsøyskallen",
+      "latitude": 67.570572,
+      "longitude": 12.199925
+    },
+    {
+      "name": "Lyngværgrunnen",
+      "latitude": 66.638064,
+      "longitude": 12.522758
+    },
+    {
+      "name": "Lyngværgrunnen",
+      "latitude": 66.767575,
+      "longitude": 13.100553
+    },
+    {
+      "name": "Lyngværkastet",
+      "latitude": 66.642169,
+      "longitude": 12.518317
+    },
+    {
+      "name": "Lyngværtaran",
+      "latitude": 66.539869,
+      "longitude": 12.505075
+    },
+    {
+      "name": "Lyngøyskallen",
+      "latitude": 66.709892,
+      "longitude": 13.101886
+    },
+    {
+      "name": "Lysbotn",
+      "latitude": 66.512583,
+      "longitude": 12.99915
+    },
+    {
+      "name": "Lysbotnet",
+      "latitude": 66.475247,
+      "longitude": 13.088678
+    },
+    {
+      "name": "Lysbotnflua",
+      "latitude": 66.415256,
+      "longitude": 12.7558
+    },
+    {
+      "name": "Lysbotnflua",
+      "latitude": 66.534497,
+      "longitude": 12.754869
+    },
+    {
+      "name": "Lysbotnflua",
+      "latitude": 66.579911,
+      "longitude": 12.811781
+    },
+    {
+      "name": "Lysbøen",
+      "latitude": 67.175981,
+      "longitude": 14.206592
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 66.777811,
+      "longitude": 13.158511
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.090794,
+      "longitude": 13.837019
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.657325,
+      "longitude": 14.746053
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.747478,
+      "longitude": 14.827545
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.807256,
+      "longitude": 14.63722
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.827256,
+      "longitude": 14.6749
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.845178,
+      "longitude": 14.676456
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.907281,
+      "longitude": 15.204303
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.921361,
+      "longitude": 15.3797
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 67.957475,
+      "longitude": 15.241539
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 69.250219,
+      "longitude": 19.264216
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 69.520311,
+      "longitude": 19.684992
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 69.749983,
+      "longitude": 19.160842
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 69.9651,
+      "longitude": 18.607342
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 70.010397,
+      "longitude": 18.541375
+    },
+    {
+      "name": "Lysgrunnen",
+      "latitude": 70.021897,
+      "longitude": 18.610875
+    },
+    {
+      "name": "Låtholmskallan",
+      "latitude": 66.666708,
+      "longitude": 12.519931
+    },
+    {
+      "name": "Låven",
+      "latitude": 66.958131,
+      "longitude": 13.720408
+    },
+    {
+      "name": "Lønnbåen",
+      "latitude": 67.955792,
+      "longitude": 14.889408
+    },
+    {
+      "name": "Lønnfallet",
+      "latitude": 66.983397,
+      "longitude": 13.507981
+    },
+    {
+      "name": "Lønnfallet",
+      "latitude": 67.947333,
+      "longitude": 12.803839
+    },
+    {
+      "name": "Lønnflua",
+      "latitude": 70.036982,
+      "longitude": 18.47527
+    },
+    {
+      "name": "Madsskjærtaren",
+      "latitude": 66.754378,
+      "longitude": 13.053239
+    },
+    {
+      "name": "Magnhildbåen",
+      "latitude": 69.963731,
+      "longitude": 18.232695
+    },
+    {
+      "name": "Makkskallen",
+      "latitude": 66.94385,
+      "longitude": 13.392753
+    },
+    {
+      "name": "Makrelhausen",
+      "latitude": 58.089025,
+      "longitude": 8.152462
+    },
+    {
+      "name": "Makrellboen",
+      "latitude": 57.959117,
+      "longitude": 7.500261
+    },
+    {
+      "name": "Malangsgrunnen",
+      "latitude": 69.996442,
+      "longitude": 17.95868
+    },
+    {
+      "name": "Malangsgrunnen",
+      "latitude": 70.025356,
+      "longitude": 18.032872
+    },
+    {
+      "name": "Malmøyflua",
+      "latitude": 59.856214,
+      "longitude": 10.758022
+    },
+    {
+      "name": "Malmøyholdet",
+      "latitude": 59.8574,
+      "longitude": 10.761372
+    },
+    {
+      "name": "Malmøykalvbåen",
+      "latitude": 59.867808,
+      "longitude": 10.745383
+    },
+    {
+      "name": "Maltsekken",
+      "latitude": 67.838858,
+      "longitude": 14.780142
+    },
+    {
+      "name": "Mannskjæra",
+      "latitude": 63.947315,
+      "longitude": 11.239745
+    },
+    {
+      "name": "Markusbåen",
+      "latitude": 66.884694,
+      "longitude": 13.444583
+    },
+    {
+      "name": "Medbøen",
+      "latitude": 67.135175,
+      "longitude": 13.569758
+    },
+    {
+      "name": "Mefallbåen",
+      "latitude": 67.826825,
+      "longitude": 14.630478
+    },
+    {
+      "name": "Mefallbåen",
+      "latitude": 67.85245,
+      "longitude": 14.811964
+    },
+    {
+      "name": "Mefallbåskallen",
+      "latitude": 67.825453,
+      "longitude": 14.620139
+    },
+    {
+      "name": "Mefjordbåen",
+      "latitude": 63.477561,
+      "longitude": 8.178608
+    },
+    {
+      "name": "Mefjordsgrunnen",
+      "latitude": 64.20444,
+      "longitude": 11.53867
+    },
+    {
+      "name": "Megrunnen",
+      "latitude": 67.181167,
+      "longitude": 13.695094
+    },
+    {
+      "name": "Megrunnen",
+      "latitude": 67.745425,
+      "longitude": 14.432294
+    },
+    {
+      "name": "Mehallgrunnan",
+      "latitude": 69.986031,
+      "longitude": 18.216378
+    },
+    {
+      "name": "Mellantåga",
+      "latitude": 70.059739,
+      "longitude": 18.471125
+    },
+    {
+      "name": "Mellomøyra",
+      "latitude": 67.82102,
+      "longitude": 14.638975
+    },
+    {
+      "name": "Melvikbåen",
+      "latitude": 69.950216,
+      "longitude": 18.337383
+    },
+    {
+      "name": "Meløygrunnen",
+      "latitude": 66.972658,
+      "longitude": 13.545961
+    },
+    {
+      "name": "Merkesskjæran",
+      "latitude": 67.019914,
+      "longitude": 14.222567
+    },
+    {
+      "name": "Meskallen",
+      "latitude": 67.879017,
+      "longitude": 14.627917
+    },
+    {
+      "name": "Meskallen",
+      "latitude": 67.921867,
+      "longitude": 15.371578
+    },
+    {
+      "name": "Midtboen",
+      "latitude": 57.978367,
+      "longitude": 7.692447
+    },
+    {
+      "name": "Midtfjordboen",
+      "latitude": 57.958308,
+      "longitude": 7.590694
+    },
+    {
+      "name": "Midtfjær",
+      "latitude": 57.965103,
+      "longitude": 7.511286
+    },
+    {
+      "name": "Midtflua",
+      "latitude": 60.146131,
+      "longitude": 5.554601
+    },
+    {
+      "name": "Midtgrunnen",
+      "latitude": 59.746339,
+      "longitude": 10.176487
+    },
+    {
+      "name": "Midtre Husegrunnen",
+      "latitude": 67.018672,
+      "longitude": 13.583147
+    },
+    {
+      "name": "Midtre Skarvholmskallen",
+      "latitude": 66.825258,
+      "longitude": 12.7677
+    },
+    {
+      "name": "Midtskallen",
+      "latitude": 60.183631,
+      "longitude": 5.576595
+    },
+    {
+      "name": "Mikkelskallen",
+      "latitude": 66.544203,
+      "longitude": 12.528092
+    },
+    {
+      "name": "Mikkelskallen",
+      "latitude": 67.631481,
+      "longitude": 14.641464
+    },
+    {
+      "name": "Mjågrunnen",
+      "latitude": 66.6341,
+      "longitude": 12.734769
+    },
+    {
+      "name": "Mjågrunnen",
+      "latitude": 66.854425,
+      "longitude": 13.205783
+    },
+    {
+      "name": "Moden",
+      "latitude": 57.932917,
+      "longitude": 7.420575
+    },
+    {
+      "name": "Mogrunnen",
+      "latitude": 67.865533,
+      "longitude": 15.030108
+    },
+    {
+      "name": "Moholmskaftet",
+      "latitude": 66.830908,
+      "longitude": 12.949764
+    },
+    {
+      "name": "Moholmstorbåen",
+      "latitude": 66.841819,
+      "longitude": 13.006439
+    },
+    {
+      "name": "Moldskjeran",
+      "latitude": 58.012283,
+      "longitude": 7.483989
+    },
+    {
+      "name": "Monsbøen",
+      "latitude": 67.660533,
+      "longitude": 14.711386
+    },
+    {
+      "name": "Mortensgrunnen",
+      "latitude": 67.402453,
+      "longitude": 11.79475
+    },
+    {
+      "name": "Moskenesgrunnen",
+      "latitude": 67.079775,
+      "longitude": 14.009244
+    },
+    {
+      "name": "Moøybøen",
+      "latitude": 67.706733,
+      "longitude": 14.531506
+    },
+    {
+      "name": "Moøyskallen",
+      "latitude": 67.771114,
+      "longitude": 14.656886
+    },
+    {
+      "name": "Mågøytaren",
+      "latitude": 67.195247,
+      "longitude": 13.7613
+    },
+    {
+      "name": "Måholmbåen",
+      "latitude": 67.773542,
+      "longitude": 14.485439
+    },
+    {
+      "name": "Måholmskallen",
+      "latitude": 67.766678,
+      "longitude": 14.479375
+    },
+    {
+      "name": "Måholmtarren",
+      "latitude": 67.7732,
+      "longitude": 14.504989
+    },
+    {
+      "name": "Måværsteinen",
+      "latitude": 66.453694,
+      "longitude": 12.5197
+    },
+    {
+      "name": "Måøyflua",
+      "latitude": 66.917639,
+      "longitude": 13.352394
+    },
+    {
+      "name": "Måøyknausen",
+      "latitude": 66.624356,
+      "longitude": 12.183755
+    },
+    {
+      "name": "Måøyskallen",
+      "latitude": 66.779294,
+      "longitude": 12.441217
+    },
+    {
+      "name": "Måøyskallen",
+      "latitude": 66.913172,
+      "longitude": 13.34585
+    },
+    {
+      "name": "Mæløybreitaran",
+      "latitude": 66.954906,
+      "longitude": 13.162172
+    },
+    {
+      "name": "Mølnelvskjæret",
+      "latitude": 69.478103,
+      "longitude": 19.707341
+    },
+    {
+      "name": "Nakkegrunnen",
+      "latitude": 69.784706,
+      "longitude": 19.727022
+    },
+    {
+      "name": "Nakkgrunnen",
+      "latitude": 66.817336,
+      "longitude": 13.043689
+    },
+    {
+      "name": "Nakkholmsteinen",
+      "latitude": 59.889494,
+      "longitude": 10.685019
+    },
+    {
+      "name": "Nakkmean",
+      "latitude": 67.960725,
+      "longitude": 13.170205
+    },
+    {
+      "name": "Nakkøra",
+      "latitude": 69.780921,
+      "longitude": 19.722137
+    },
+    {
+      "name": "Namskjærgrunnen",
+      "latitude": 65.195606,
+      "longitude": 10.964075
+    },
+    {
+      "name": "Nattmålskjærgrunnen",
+      "latitude": 67.812247,
+      "longitude": 14.597514
+    },
+    {
+      "name": "Nattmålsryggen",
+      "latitude": 67.811144,
+      "longitude": 14.572525
+    },
+    {
+      "name": "Nattvikbåen",
+      "latitude": 67.538803,
+      "longitude": 12.112292
+    },
+    {
+      "name": "Naustberggrunnen",
+      "latitude": 67.050539,
+      "longitude": 13.780731
+    },
+    {
+      "name": "Naustklakken",
+      "latitude": 69.485331,
+      "longitude": 19.700564
+    },
+    {
+      "name": "Nautnesgrunnen",
+      "latitude": 66.963331,
+      "longitude": 13.762875
+    },
+    {
+      "name": "Nautskjer",
+      "latitude": 57.979392,
+      "longitude": 7.58545
+    },
+    {
+      "name": "Navarskallen",
+      "latitude": 67.649339,
+      "longitude": 14.461475
+    },
+    {
+      "name": "Nebbøra - Árbbinjuorra",
+      "latitude": 69.736181,
+      "longitude": 19.703969
+    },
+    {
+      "name": "Nesaflua",
+      "latitude": 62.834467,
+      "longitude": 7.041164
+    },
+    {
+      "name": "Nesafløa",
+      "latitude": 63.424378,
+      "longitude": 7.834652
+    },
+    {
+      "name": "Nesgrunnen",
+      "latitude": 67.8668,
+      "longitude": 14.836222
+    },
+    {
+      "name": "Nessesteinen",
+      "latitude": 69.740364,
+      "longitude": 19.062014
+    },
+    {
+      "name": "Nesøygrunnen",
+      "latitude": 66.839194,
+      "longitude": 12.709958
+    },
+    {
+      "name": "Nettskjærgrunnen",
+      "latitude": 66.985839,
+      "longitude": 13.243317
+    },
+    {
+      "name": "Nilsbåen",
+      "latitude": 70.009044,
+      "longitude": 18.314037
+    },
+    {
+      "name": "Nilsesgrunnen",
+      "latitude": 58.077956,
+      "longitude": 8.194394
+    },
+    {
+      "name": "Nilsgrunnen",
+      "latitude": 67.839064,
+      "longitude": 14.737047
+    },
+    {
+      "name": "Nilspersaskallen",
+      "latitude": 67.385764,
+      "longitude": 11.7218
+    },
+    {
+      "name": "Nord-Hella",
+      "latitude": 67.688119,
+      "longitude": 14.456953
+    },
+    {
+      "name": "Nordausten",
+      "latitude": 60.147997,
+      "longitude": 5.568917
+    },
+    {
+      "name": "Nordbakken",
+      "latitude": 67.573439,
+      "longitude": 12.189125
+    },
+    {
+      "name": "Nordbreigrunnen",
+      "latitude": 66.994053,
+      "longitude": 13.456992
+    },
+    {
+      "name": "Nordbåen",
+      "latitude": 67.940872,
+      "longitude": 12.780194
+    },
+    {
+      "name": "Nordbåsgrunnen",
+      "latitude": 66.797656,
+      "longitude": 12.776153
+    },
+    {
+      "name": "Nordfallet",
+      "latitude": 66.819475,
+      "longitude": 12.562289
+    },
+    {
+      "name": "Nordfallet",
+      "latitude": 66.899081,
+      "longitude": 12.860494
+    },
+    {
+      "name": "Nordflu",
+      "latitude": 60.189519,
+      "longitude": 5.581289
+    },
+    {
+      "name": "Nordgrunnen",
+      "latitude": 66.654361,
+      "longitude": 12.603475
+    },
+    {
+      "name": "Nordkallgrunnen",
+      "latitude": 66.812053,
+      "longitude": 12.898317
+    },
+    {
+      "name": "Nordknausen",
+      "latitude": 66.784344,
+      "longitude": 12.480233
+    },
+    {
+      "name": "Nordkråktaren",
+      "latitude": 66.652403,
+      "longitude": 12.611556
+    },
+    {
+      "name": "Nordnesøygrunnen",
+      "latitude": 66.765167,
+      "longitude": 13.026406
+    },
+    {
+      "name": "Nordosbåen",
+      "latitude": 59.508428,
+      "longitude": 10.338803
+    },
+    {
+      "name": "Nordre Brakskallan",
+      "latitude": 67.722392,
+      "longitude": 14.429781
+    },
+    {
+      "name": "Nordre Husegrunnen",
+      "latitude": 67.021411,
+      "longitude": 13.601033
+    },
+    {
+      "name": "Nordre Knappholmskallan",
+      "latitude": 67.7345,
+      "longitude": 14.653267
+    },
+    {
+      "name": "Nordre Knattane",
+      "latitude": 58.096524,
+      "longitude": 8.153293
+    },
+    {
+      "name": "Nordre Løynfallet",
+      "latitude": 66.807286,
+      "longitude": 12.615753
+    },
+    {
+      "name": "Nordre Malmøyflua",
+      "latitude": 59.871019,
+      "longitude": 10.742247
+    },
+    {
+      "name": "Nordre Notskallen",
+      "latitude": 67.7153,
+      "longitude": 14.468353
+    },
+    {
+      "name": "Nordre Rebbåen",
+      "latitude": 70.022358,
+      "longitude": 18.354425
+    },
+    {
+      "name": "Nordre Stormerrtaren",
+      "latitude": 66.525008,
+      "longitude": 12.757653
+    },
+    {
+      "name": "Nordre Trollskjærflua",
+      "latitude": 67.060114,
+      "longitude": 13.585314
+    },
+    {
+      "name": "Nordre Valløyboen",
+      "latitude": 57.997661,
+      "longitude": 7.632461
+    },
+    {
+      "name": "Nordre Årnhansaskallen",
+      "latitude": 67.500669,
+      "longitude": 12.284434
+    },
+    {
+      "name": "Nordsandværflesa",
+      "latitude": 66.780803,
+      "longitude": 12.774656
+    },
+    {
+      "name": "Nordskjortbaken",
+      "latitude": 67.484439,
+      "longitude": 11.860744
+    },
+    {
+      "name": "Nordskolten",
+      "latitude": 66.862167,
+      "longitude": 12.891808
+    },
+    {
+      "name": "Nordskotflaket",
+      "latitude": 67.851364,
+      "longitude": 14.802867
+    },
+    {
+      "name": "Nordstabban",
+      "latitude": 66.771269,
+      "longitude": 13.011894
+    },
+    {
+      "name": "Nordstabben",
+      "latitude": 70.031061,
+      "longitude": 18.604442
+    },
+    {
+      "name": "Nordstabben",
+      "latitude": 70.038638,
+      "longitude": 18.482941
+    },
+    {
+      "name": "Nordsvartskjærskallen",
+      "latitude": 66.436139,
+      "longitude": 12.798025
+    },
+    {
+      "name": "Nordtjeldgrunnen",
+      "latitude": 66.639078,
+      "longitude": 12.694514
+    },
+    {
+      "name": "Nordtorgrunnen",
+      "latitude": 66.892378,
+      "longitude": 12.902753
+    },
+    {
+      "name": "Nordøra",
+      "latitude": 69.800372,
+      "longitude": 19.545481
+    },
+    {
+      "name": "Nordøyskallen",
+      "latitude": 66.569625,
+      "longitude": 12.854756
+    },
+    {
+      "name": "Notskallen",
+      "latitude": 67.383639,
+      "longitude": 11.801269
+    },
+    {
+      "name": "Nupgrunnen",
+      "latitude": 67.142211,
+      "longitude": 13.725183
+    },
+    {
+      "name": "Nydjup",
+      "latitude": 70.052325,
+      "longitude": 18.270736
+    },
+    {
+      "name": "Nyflua",
+      "latitude": 69.984144,
+      "longitude": 18.649239
+    },
+    {
+      "name": "Nyflua",
+      "latitude": 69.98813,
+      "longitude": 18.669029
+    },
+    {
+      "name": "Nyklakken",
+      "latitude": 67.726456,
+      "longitude": 14.547492
+    },
+    {
+      "name": "Nykskallen",
+      "latitude": 67.553292,
+      "longitude": 12.080461
+    },
+    {
+      "name": "Nøkkelbøen",
+      "latitude": 67.691844,
+      "longitude": 14.454667
+    },
+    {
+      "name": "Nørdsølvskjeret",
+      "latitude": 63.481021,
+      "longitude": 8.063235
+    },
+    {
+      "name": "Oddbåan",
+      "latitude": 65.200898,
+      "longitude": 10.937149
+    },
+    {
+      "name": "Oddbåen",
+      "latitude": 67.404797,
+      "longitude": 11.977736
+    },
+    {
+      "name": "Oddgrunnen",
+      "latitude": 67.949747,
+      "longitude": 15.267667
+    },
+    {
+      "name": "Oddøyflua",
+      "latitude": 66.347564,
+      "longitude": 12.913019
+    },
+    {
+      "name": "Oddøygrunnen",
+      "latitude": 66.475286,
+      "longitude": 12.835422
+    },
+    {
+      "name": "Oddøytaren",
+      "latitude": 66.473211,
+      "longitude": 12.837892
+    },
+    {
+      "name": "Odhausen",
+      "latitude": 58.080957,
+      "longitude": 8.134987
+    },
+    {
+      "name": "Oksegrunnen",
+      "latitude": 67.113542,
+      "longitude": 13.785553
+    },
+    {
+      "name": "Okstaren",
+      "latitude": 63.454711,
+      "longitude": 8.256572
+    },
+    {
+      "name": "Oksøygrunnane",
+      "latitude": 58.047389,
+      "longitude": 8.065887
+    },
+    {
+      "name": "Olaryggen",
+      "latitude": 66.863903,
+      "longitude": 13.209675
+    },
+    {
+      "name": "Olhåksaflua",
+      "latitude": 66.848347,
+      "longitude": 13.335003
+    },
+    {
+      "name": "Olsbrakskallen",
+      "latitude": 66.844378,
+      "longitude": 12.696525
+    },
+    {
+      "name": "Olsbrakskolten",
+      "latitude": 66.845436,
+      "longitude": 12.729719
+    },
+    {
+      "name": "Olsskallen",
+      "latitude": 66.520475,
+      "longitude": 12.513986
+    },
+    {
+      "name": "Olsskallen",
+      "latitude": 66.758725,
+      "longitude": 12.9906
+    },
+    {
+      "name": "Oløyfløan",
+      "latitude": 63.815295,
+      "longitude": 8.659139
+    },
+    {
+      "name": "Ormøygrunnen",
+      "latitude": 59.874,
+      "longitude": 10.760033
+    },
+    {
+      "name": "Ormøysanden",
+      "latitude": 59.878536,
+      "longitude": 10.746372
+    },
+    {
+      "name": "Ostkistskallen",
+      "latitude": 66.827625,
+      "longitude": 13.112217
+    },
+    {
+      "name": "Oterbåan",
+      "latitude": 66.942972,
+      "longitude": 13.49245
+    },
+    {
+      "name": "Oternesbøan",
+      "latitude": 67.915611,
+      "longitude": 12.871258
+    },
+    {
+      "name": "Otersteinskallen",
+      "latitude": 67.722658,
+      "longitude": 15.182178
+    },
+    {
+      "name": "Oterværgrunnen",
+      "latitude": 66.824303,
+      "longitude": 13.287886
+    },
+    {
+      "name": "Overknausen",
+      "latitude": 66.783142,
+      "longitude": 12.472078
+    },
+    {
+      "name": "Pampus",
+      "latitude": 59.676974,
+      "longitude": 10.412814
+    },
+    {
+      "name": "Perandersentaren",
+      "latitude": 66.503242,
+      "longitude": 12.668181
+    },
+    {
+      "name": "Perlarsaskallen",
+      "latitude": 67.548239,
+      "longitude": 12.018805
+    },
+    {
+      "name": "Perlefluene",
+      "latitude": 59.3194,
+      "longitude": 4.873259
+    },
+    {
+      "name": "Perolsaryggen",
+      "latitude": 66.646961,
+      "longitude": 12.810339
+    },
+    {
+      "name": "Persbåan",
+      "latitude": 67.520333,
+      "longitude": 12.250242
+    },
+    {
+      "name": "Pirumbanken",
+      "latitude": 63.423871,
+      "longitude": 10.396146
+    },
+    {
+      "name": "Prestskjerryggen",
+      "latitude": 66.567122,
+      "longitude": 12.851806
+    },
+    {
+      "name": "Purkskallen",
+      "latitude": 67.920714,
+      "longitude": 13.101606
+    },
+    {
+      "name": "Pålskallen",
+      "latitude": 67.546108,
+      "longitude": 12.105953
+    },
+    {
+      "name": "Pølskallen",
+      "latitude": 66.888194,
+      "longitude": 13.539158
+    },
+    {
+      "name": "Rabbehausen",
+      "latitude": 58.079721,
+      "longitude": 8.106572
+    },
+    {
+      "name": "Rambergskårflua",
+      "latitude": 59.877675,
+      "longitude": 10.705128
+    },
+    {
+      "name": "Ramnan",
+      "latitude": 63.1282,
+      "longitude": 7.42565
+    },
+    {
+      "name": "Ramnnesskallen",
+      "latitude": 67.892989,
+      "longitude": 14.913592
+    },
+    {
+      "name": "Ramnungan",
+      "latitude": 63.128794,
+      "longitude": 7.426611
+    },
+    {
+      "name": "Ramsøybåen",
+      "latitude": 63.420173,
+      "longitude": 8.273411
+    },
+    {
+      "name": "Ramsøygalten",
+      "latitude": 63.386186,
+      "longitude": 8.344378
+    },
+    {
+      "name": "Rasmushausen",
+      "latitude": 58.084905,
+      "longitude": 8.16054
+    },
+    {
+      "name": "Rastejordgrunnen",
+      "latitude": 69.543703,
+      "longitude": 19.703967
+    },
+    {
+      "name": "Rastejordskjæret",
+      "latitude": 69.545233,
+      "longitude": 19.717642
+    },
+    {
+      "name": "Raudbåen",
+      "latitude": 67.533447,
+      "longitude": 12.167644
+    },
+    {
+      "name": "Raudholmgrunnen",
+      "latitude": 66.574353,
+      "longitude": 12.772661
+    },
+    {
+      "name": "Raudholmgrunnen",
+      "latitude": 66.703731,
+      "longitude": 12.633628
+    },
+    {
+      "name": "Raudholmkringla",
+      "latitude": 66.498183,
+      "longitude": 12.60875
+    },
+    {
+      "name": "Raudholmskallen",
+      "latitude": 66.510606,
+      "longitude": 12.629075
+    },
+    {
+      "name": "Raudholmskallen",
+      "latitude": 66.783422,
+      "longitude": 12.585844
+    },
+    {
+      "name": "Raudskallen",
+      "latitude": 66.534569,
+      "longitude": 12.766444
+    },
+    {
+      "name": "Ravikskallen",
+      "latitude": 67.133942,
+      "longitude": 14.160881
+    },
+    {
+      "name": "Ravnholmryggen",
+      "latitude": 66.733686,
+      "longitude": 12.603378
+    },
+    {
+      "name": "Ravnholmtaran",
+      "latitude": 66.719347,
+      "longitude": 12.610908
+    },
+    {
+      "name": "Ravnholmtaren",
+      "latitude": 66.736153,
+      "longitude": 12.484875
+    },
+    {
+      "name": "Ravnøygrunnen",
+      "latitude": 66.697828,
+      "longitude": 13.008725
+    },
+    {
+      "name": "Revet",
+      "latitude": 66.656444,
+      "longitude": 12.30664
+    },
+    {
+      "name": "Revet",
+      "latitude": 66.690725,
+      "longitude": 12.788064
+    },
+    {
+      "name": "Revet",
+      "latitude": 66.969853,
+      "longitude": 13.964856
+    },
+    {
+      "name": "Revet",
+      "latitude": 67.755308,
+      "longitude": 15.021589
+    },
+    {
+      "name": "Revigrunnen",
+      "latitude": 67.141703,
+      "longitude": 13.903542
+    },
+    {
+      "name": "Revillen",
+      "latitude": 64.618508,
+      "longitude": 10.913575
+    },
+    {
+      "name": "Revlingsøra",
+      "latitude": 62.220211,
+      "longitude": 11.932936
+    },
+    {
+      "name": "Risøybåen",
+      "latitude": 66.625892,
+      "longitude": 12.708783
+    },
+    {
+      "name": "Rivtaran",
+      "latitude": 66.491989,
+      "longitude": 12.638875
+    },
+    {
+      "name": "Rognholmskallan",
+      "latitude": 67.656161,
+      "longitude": 14.649942
+    },
+    {
+      "name": "Romskallen",
+      "latitude": 66.821825,
+      "longitude": 12.897378
+    },
+    {
+      "name": "Rornesgrunnen",
+      "latitude": 69.557394,
+      "longitude": 19.711731
+    },
+    {
+      "name": "Rottesteinen",
+      "latitude": 58.025328,
+      "longitude": 7.353822
+    },
+    {
+      "name": "Ruggelgrunnan",
+      "latitude": 69.969517,
+      "longitude": 18.574878
+    },
+    {
+      "name": "Rumpa",
+      "latitude": 66.81835,
+      "longitude": 12.900953
+    },
+    {
+      "name": "Rundskallen",
+      "latitude": 66.556669,
+      "longitude": 12.486403
+    },
+    {
+      "name": "Russesteinen",
+      "latitude": 70.032719,
+      "longitude": 18.706149
+    },
+    {
+      "name": "Rygg",
+      "latitude": 70.040536,
+      "longitude": 18.309539
+    },
+    {
+      "name": "Ryggen",
+      "latitude": 67.184014,
+      "longitude": 13.7089
+    },
+    {
+      "name": "Ryvinggrunnen",
+      "latitude": 57.952878,
+      "longitude": 7.478825
+    },
+    {
+      "name": "Råsbakken",
+      "latitude": 70.004364,
+      "longitude": 18.256411
+    },
+    {
+      "name": "Rødbåan",
+      "latitude": 70.030811,
+      "longitude": 18.499372
+    },
+    {
+      "name": "Rødøygrunnen",
+      "latitude": 66.594375,
+      "longitude": 12.428775
+    },
+    {
+      "name": "Rørbåan",
+      "latitude": 66.978436,
+      "longitude": 13.527811
+    },
+    {
+      "name": "Rørgrunnen",
+      "latitude": 67.012636,
+      "longitude": 13.59095
+    },
+    {
+      "name": "Rørvikstranda",
+      "latitude": 68.204174,
+      "longitude": 14.232952
+    },
+    {
+      "name": "Røtnesbåen",
+      "latitude": 67.954089,
+      "longitude": 15.309711
+    },
+    {
+      "name": "Røyrøybåen",
+      "latitude": 67.862564,
+      "longitude": 14.694708
+    },
+    {
+      "name": "Røysa",
+      "latitude": 58.015781,
+      "longitude": 7.367189
+    },
+    {
+      "name": "Saltboen",
+      "latitude": 57.962242,
+      "longitude": 7.511792
+    },
+    {
+      "name": "Sandbakkøyra",
+      "latitude": 69.476178,
+      "longitude": 18.907192
+    },
+    {
+      "name": "Sanden",
+      "latitude": 58.078756,
+      "longitude": 6.77355
+    },
+    {
+      "name": "Sandgrunnane",
+      "latitude": 58.041197,
+      "longitude": 8.022019
+    },
+    {
+      "name": "Sandholmflua",
+      "latitude": 60.187033,
+      "longitude": 5.527859
+    },
+    {
+      "name": "Sandryggen",
+      "latitude": 67.020517,
+      "longitude": 13.540061
+    },
+    {
+      "name": "Sandskallen",
+      "latitude": 67.166775,
+      "longitude": 14.205272
+    },
+    {
+      "name": "Sandskjerskallen",
+      "latitude": 67.463211,
+      "longitude": 11.765033
+    },
+    {
+      "name": "Sandskjæret - Sáttuskierri",
+      "latitude": 69.523442,
+      "longitude": 19.674242
+    },
+    {
+      "name": "Sandtaran",
+      "latitude": 70.054456,
+      "longitude": 18.415956
+    },
+    {
+      "name": "Sandvadet",
+      "latitude": 67.528611,
+      "longitude": 12.009219
+    },
+    {
+      "name": "Sandvikryggen",
+      "latitude": 66.586961,
+      "longitude": 12.695236
+    },
+    {
+      "name": "Sandværbåen",
+      "latitude": 66.848308,
+      "longitude": 13.303569
+    },
+    {
+      "name": "Sandværflua",
+      "latitude": 66.845092,
+      "longitude": 13.282044
+    },
+    {
+      "name": "Sandværgrunnen",
+      "latitude": 70.0525,
+      "longitude": 18.329444
+    },
+    {
+      "name": "Sandværholmtaren",
+      "latitude": 66.624683,
+      "longitude": 12.775331
+    },
+    {
+      "name": "Sandøyra",
+      "latitude": 69.548358,
+      "longitude": 19.084
+    },
+    {
+      "name": "Sandøyskallen",
+      "latitude": 66.754869,
+      "longitude": 12.491039
+    },
+    {
+      "name": "Sandøyskallen",
+      "latitude": 67.467469,
+      "longitude": 12.08385
+    },
+    {
+      "name": "Saubergskallen",
+      "latitude": 66.958411,
+      "longitude": 13.551858
+    },
+    {
+      "name": "Seibarden",
+      "latitude": 63.506169,
+      "longitude": 8.249144
+    },
+    {
+      "name": "Seibåane",
+      "latitude": 58.064531,
+      "longitude": 8.06445
+    },
+    {
+      "name": "Seiflesa",
+      "latitude": 67.4077,
+      "longitude": 11.977492
+    },
+    {
+      "name": "Seiflesa",
+      "latitude": 67.528378,
+      "longitude": 11.996211
+    },
+    {
+      "name": "Seiflua",
+      "latitude": 67.824681,
+      "longitude": 12.828497
+    },
+    {
+      "name": "Seifluan",
+      "latitude": 67.446636,
+      "longitude": 11.856456
+    },
+    {
+      "name": "Seigrunnan",
+      "latitude": 67.143214,
+      "longitude": 14.168997
+    },
+    {
+      "name": "Seigrunnen",
+      "latitude": 69.80125,
+      "longitude": 19.483433
+    },
+    {
+      "name": "Seihauggrunnen",
+      "latitude": 69.812072,
+      "longitude": 19.557994
+    },
+    {
+      "name": "Seihausen",
+      "latitude": 58.078436,
+      "longitude": 8.111172
+    },
+    {
+      "name": "Seiholmtaren",
+      "latitude": 66.591075,
+      "longitude": 12.428342
+    },
+    {
+      "name": "Seingskjærskallen",
+      "latitude": 67.8758,
+      "longitude": 14.632242
+    },
+    {
+      "name": "Seioksskallen",
+      "latitude": 67.138883,
+      "longitude": 13.552889
+    },
+    {
+      "name": "Seiskallen",
+      "latitude": 67.377714,
+      "longitude": 11.764436
+    },
+    {
+      "name": "Seiskallen",
+      "latitude": 67.511139,
+      "longitude": 12.288875
+    },
+    {
+      "name": "Seiskallen",
+      "latitude": 67.639233,
+      "longitude": 14.493197
+    },
+    {
+      "name": "Seiskjærgrunnen",
+      "latitude": 67.090383,
+      "longitude": 13.805736
+    },
+    {
+      "name": "Seitaren",
+      "latitude": 67.389603,
+      "longitude": 11.894553
+    },
+    {
+      "name": "Seitåga",
+      "latitude": 69.922867,
+      "longitude": 18.023892
+    },
+    {
+      "name": "Seiåsryggen",
+      "latitude": 66.518856,
+      "longitude": 12.497567
+    },
+    {
+      "name": "Selbryden",
+      "latitude": 58.004158,
+      "longitude": 7.654336
+    },
+    {
+      "name": "Selskjær",
+      "latitude": 58.002314,
+      "longitude": 7.339178
+    },
+    {
+      "name": "Selværtaran",
+      "latitude": 66.612928,
+      "longitude": 12.515781
+    },
+    {
+      "name": "Sendingsgrunnen",
+      "latitude": 66.737347,
+      "longitude": 13.055258
+    },
+    {
+      "name": "Seskjærgrunnen",
+      "latitude": 67.063228,
+      "longitude": 13.609994
+    },
+    {
+      "name": "Seterflua",
+      "latitude": 59.860544,
+      "longitude": 10.776822
+    },
+    {
+      "name": "Sildbåen",
+      "latitude": 67.793308,
+      "longitude": 14.742728
+    },
+    {
+      "name": "Sildeberget",
+      "latitude": 59.893536,
+      "longitude": 10.694717
+    },
+    {
+      "name": "Sildskjærgrunnen",
+      "latitude": 67.803381,
+      "longitude": 14.719706
+    },
+    {
+      "name": "Silgrunnen",
+      "latitude": 69.924753,
+      "longitude": 18.235697
+    },
+    {
+      "name": "Sirinesskallen",
+      "latitude": 67.9514,
+      "longitude": 15.5812
+    },
+    {
+      "name": "Sjursbåen",
+      "latitude": 67.824011,
+      "longitude": 14.747969
+    },
+    {
+      "name": "Sjursbøen",
+      "latitude": 67.182983,
+      "longitude": 13.814464
+    },
+    {
+      "name": "Sjågrunnen",
+      "latitude": 58.098206,
+      "longitude": 8.196516
+    },
+    {
+      "name": "Sjøvikbakken",
+      "latitude": 66.577989,
+      "longitude": 12.423869
+    },
+    {
+      "name": "Skaboen",
+      "latitude": 59.316539,
+      "longitude": 4.868929
+    },
+    {
+      "name": "Skadden",
+      "latitude": 58.072882,
+      "longitude": 8.147506
+    },
+    {
+      "name": "Skaftet",
+      "latitude": 66.824936,
+      "longitude": 13.170225
+    },
+    {
+      "name": "Skaftskallen",
+      "latitude": 66.540664,
+      "longitude": 12.674136
+    },
+    {
+      "name": "Skaftskallen",
+      "latitude": 66.635356,
+      "longitude": 13.133844
+    },
+    {
+      "name": "Skalgrunnen",
+      "latitude": 69.493478,
+      "longitude": 19.692572
+    },
+    {
+      "name": "Skalhammaren",
+      "latitude": 67.184625,
+      "longitude": 13.645617
+    },
+    {
+      "name": "Skallen",
+      "latitude": 59.26618,
+      "longitude": 4.872206
+    },
+    {
+      "name": "Skallen",
+      "latitude": 66.481928,
+      "longitude": 13.085839
+    },
+    {
+      "name": "Skallen",
+      "latitude": 67.826578,
+      "longitude": 12.7856
+    },
+    {
+      "name": "Skallen",
+      "latitude": 67.919,
+      "longitude": 15.373725
+    },
+    {
+      "name": "Skallen",
+      "latitude": 67.970842,
+      "longitude": 15.044914
+    },
+    {
+      "name": "Skallen",
+      "latitude": 69.551797,
+      "longitude": 18.696211
+    },
+    {
+      "name": "Skamlaustaren",
+      "latitude": 67.501828,
+      "longitude": 12.250589
+    },
+    {
+      "name": "Skankeren",
+      "latitude": 66.758689,
+      "longitude": 12.41945
+    },
+    {
+      "name": "Skardholmflua",
+      "latitude": 59.303419,
+      "longitude": 4.920823
+    },
+    {
+      "name": "Skarvbardstabban",
+      "latitude": 70.019033,
+      "longitude": 18.457906
+    },
+    {
+      "name": "Skarvbergskallen",
+      "latitude": 67.649286,
+      "longitude": 14.453511
+    },
+    {
+      "name": "Skarvhella",
+      "latitude": 67.465097,
+      "longitude": 11.951819
+    },
+    {
+      "name": "Skarvholmgrunnen",
+      "latitude": 66.648831,
+      "longitude": 12.927403
+    },
+    {
+      "name": "Skarvholmtaren",
+      "latitude": 66.647426,
+      "longitude": 12.911377
+    },
+    {
+      "name": "Skata",
+      "latitude": 67.832778,
+      "longitude": 12.878353
+    },
+    {
+      "name": "Skaugleira",
+      "latitude": 67.138353,
+      "longitude": 13.975761
+    },
+    {
+      "name": "Skautskjærtåga",
+      "latitude": 70.057777,
+      "longitude": 18.494893
+    },
+    {
+      "name": "Skeivikgrunnen",
+      "latitude": 66.894592,
+      "longitude": 13.632078
+    },
+    {
+      "name": "Skinnarøytaren",
+      "latitude": 64.58965,
+      "longitude": 10.790433
+    },
+    {
+      "name": "Skipbåan",
+      "latitude": 67.524072,
+      "longitude": 12.223133
+    },
+    {
+      "name": "Skjedeflaket",
+      "latitude": 58.103943,
+      "longitude": 8.004808
+    },
+    {
+      "name": "Skjeggegrunnen",
+      "latitude": 67.091042,
+      "longitude": 13.762853
+    },
+    {
+      "name": "Skjeljeviksfluene",
+      "latitude": 60.166855,
+      "longitude": 5.580781
+    },
+    {
+      "name": "Skjellryggen",
+      "latitude": 66.499008,
+      "longitude": 12.706536
+    },
+    {
+      "name": "Skjellsteinen",
+      "latitude": 69.895854,
+      "longitude": 18.80845
+    },
+    {
+      "name": "Skjellvalen",
+      "latitude": 66.599731,
+      "longitude": 13.029375
+    },
+    {
+      "name": "Skjelløra",
+      "latitude": 69.800419,
+      "longitude": 19.537353
+    },
+    {
+      "name": "Skjengrunnen",
+      "latitude": 67.8632,
+      "longitude": 14.81675
+    },
+    {
+      "name": "Skjeribåan",
+      "latitude": 66.808814,
+      "longitude": 12.589292
+    },
+    {
+      "name": "Skjerpskallen",
+      "latitude": 67.659725,
+      "longitude": 14.565072
+    },
+    {
+      "name": "Skjortbaken",
+      "latitude": 67.895253,
+      "longitude": 13.052203
+    },
+    {
+      "name": "Skjågrunnen",
+      "latitude": 67.088769,
+      "longitude": 14.052944
+    },
+    {
+      "name": "Skjæret",
+      "latitude": 69.54804,
+      "longitude": 18.789802
+    },
+    {
+      "name": "Skjæret",
+      "latitude": 69.560528,
+      "longitude": 18.837447
+    },
+    {
+      "name": "Skjæret",
+      "latitude": 69.560866,
+      "longitude": 18.942488
+    },
+    {
+      "name": "Skjærflua",
+      "latitude": 59.288956,
+      "longitude": 4.902295
+    },
+    {
+      "name": "Skjærtaren",
+      "latitude": 69.753933,
+      "longitude": 19.117811
+    },
+    {
+      "name": "Skogdalskallan",
+      "latitude": 67.759822,
+      "longitude": 15.456561
+    },
+    {
+      "name": "Skoggrunnen",
+      "latitude": 67.982403,
+      "longitude": 15.023706
+    },
+    {
+      "name": "Skognesgrunnen",
+      "latitude": 69.497806,
+      "longitude": 19.683133
+    },
+    {
+      "name": "Skognesholmen",
+      "latitude": 69.490114,
+      "longitude": 19.672392
+    },
+    {
+      "name": "Skogsfallan",
+      "latitude": 69.983106,
+      "longitude": 18.316589
+    },
+    {
+      "name": "Skogsholmgrunnen",
+      "latitude": 66.778942,
+      "longitude": 12.86005
+    },
+    {
+      "name": "Skolhusbakken",
+      "latitude": 67.480725,
+      "longitude": 12.192
+    },
+    {
+      "name": "Skoltan",
+      "latitude": 66.483225,
+      "longitude": 12.516042
+    },
+    {
+      "name": "Skoltan",
+      "latitude": 67.681006,
+      "longitude": 14.3844
+    },
+    {
+      "name": "Skolten",
+      "latitude": 66.783106,
+      "longitude": 12.858631
+    },
+    {
+      "name": "Skolten",
+      "latitude": 67.046158,
+      "longitude": 13.779506
+    },
+    {
+      "name": "Skolten",
+      "latitude": 69.530636,
+      "longitude": 19.653169
+    },
+    {
+      "name": "Skomakerflua",
+      "latitude": 59.879761,
+      "longitude": 10.707128
+    },
+    {
+      "name": "Skorpegrunnen",
+      "latitude": 67.831272,
+      "longitude": 14.763233
+    },
+    {
+      "name": "Skorten",
+      "latitude": 66.755025,
+      "longitude": 12.596769
+    },
+    {
+      "name": "Skurdgrunnen",
+      "latitude": 66.464786,
+      "longitude": 12.527308
+    },
+    {
+      "name": "Skurvegrunnen",
+      "latitude": 59.8988,
+      "longitude": 10.699525
+    },
+    {
+      "name": "Skurven",
+      "latitude": 66.834753,
+      "longitude": 13.147881
+    },
+    {
+      "name": "Skutgrunnen",
+      "latitude": 66.418233,
+      "longitude": 12.745547
+    },
+    {
+      "name": "Skåktarbråttan",
+      "latitude": 66.724797,
+      "longitude": 12.465756
+    },
+    {
+      "name": "Slaggrunnen",
+      "latitude": 69.817036,
+      "longitude": 19.598828
+    },
+    {
+      "name": "Sloppebåen",
+      "latitude": 70.037451,
+      "longitude": 18.502264
+    },
+    {
+      "name": "Smelflua",
+      "latitude": 57.994842,
+      "longitude": 7.323239
+    },
+    {
+      "name": "Smitskallen",
+      "latitude": 66.842919,
+      "longitude": 13.271725
+    },
+    {
+      "name": "Småskallan",
+      "latitude": 67.413778,
+      "longitude": 11.784053
+    },
+    {
+      "name": "Småskallan",
+      "latitude": 67.956236,
+      "longitude": 12.832536
+    },
+    {
+      "name": "Småskallan",
+      "latitude": 68.011403,
+      "longitude": 12.856108
+    },
+    {
+      "name": "Småskjærtaren",
+      "latitude": 66.503297,
+      "longitude": 12.908083
+    },
+    {
+      "name": "Småtaran",
+      "latitude": 66.778458,
+      "longitude": 13.047281
+    },
+    {
+      "name": "Snarbyøra",
+      "latitude": 69.800725,
+      "longitude": 19.543872
+    },
+    {
+      "name": "Snellungen",
+      "latitude": 57.982772,
+      "longitude": 7.602186
+    },
+    {
+      "name": "Snopskjertaran",
+      "latitude": 67.458081,
+      "longitude": 12.053478
+    },
+    {
+      "name": "Snybreigrunnen",
+      "latitude": 66.794611,
+      "longitude": 12.996094
+    },
+    {
+      "name": "Spekkflesan",
+      "latitude": 66.772542,
+      "longitude": 12.585186
+    },
+    {
+      "name": "Spjutskallen",
+      "latitude": 67.582105,
+      "longitude": 12.245419
+    },
+    {
+      "name": "Stabban",
+      "latitude": 67.739186,
+      "longitude": 15.33682
+    },
+    {
+      "name": "Stabben",
+      "latitude": 65.226811,
+      "longitude": 10.997263
+    },
+    {
+      "name": "Stabben",
+      "latitude": 66.745892,
+      "longitude": 12.734428
+    },
+    {
+      "name": "Stabben",
+      "latitude": 66.766158,
+      "longitude": 12.894536
+    },
+    {
+      "name": "Stabben",
+      "latitude": 67.012044,
+      "longitude": 13.628669
+    },
+    {
+      "name": "Stabben",
+      "latitude": 67.110853,
+      "longitude": 13.960847
+    },
+    {
+      "name": "Stabben",
+      "latitude": 67.192039,
+      "longitude": 13.783914
+    },
+    {
+      "name": "Stabben",
+      "latitude": 67.497797,
+      "longitude": 12.049222
+    },
+    {
+      "name": "Stabben",
+      "latitude": 67.754328,
+      "longitude": 14.76595
+    },
+    {
+      "name": "Stabben",
+      "latitude": 67.916964,
+      "longitude": 14.902275
+    },
+    {
+      "name": "Stallen",
+      "latitude": 60.139364,
+      "longitude": 5.563275
+    },
+    {
+      "name": "Stampen",
+      "latitude": 66.686139,
+      "longitude": 12.710986
+    },
+    {
+      "name": "Stampen",
+      "latitude": 67.868564,
+      "longitude": 12.761953
+    },
+    {
+      "name": "Stangnesgrunnen",
+      "latitude": 66.591617,
+      "longitude": 12.695664
+    },
+    {
+      "name": "Stangskjærrabben",
+      "latitude": 59.88535,
+      "longitude": 10.706147
+    },
+    {
+      "name": "Steinan",
+      "latitude": 57.977353,
+      "longitude": 7.412244
+    },
+    {
+      "name": "Steinan",
+      "latitude": 67.478567,
+      "longitude": 11.842989
+    },
+    {
+      "name": "Steinbitskallen",
+      "latitude": 67.655414,
+      "longitude": 14.522617
+    },
+    {
+      "name": "Steinen",
+      "latitude": 58.045189,
+      "longitude": 8.073926
+    },
+    {
+      "name": "Steinen",
+      "latitude": 58.092866,
+      "longitude": 8.198901
+    },
+    {
+      "name": "Steinen",
+      "latitude": 66.767144,
+      "longitude": 12.4355
+    },
+    {
+      "name": "Steinen",
+      "latitude": 66.856533,
+      "longitude": 12.872508
+    },
+    {
+      "name": "Steinen",
+      "latitude": 67.860761,
+      "longitude": 12.814633
+    },
+    {
+      "name": "Steinen",
+      "latitude": 69.528269,
+      "longitude": 19.703864
+    },
+    {
+      "name": "Steinflua",
+      "latitude": 67.989722,
+      "longitude": 13.017689
+    },
+    {
+      "name": "Steingrunnan",
+      "latitude": 69.947831,
+      "longitude": 18.165786
+    },
+    {
+      "name": "Steingrunnen",
+      "latitude": 67.534339,
+      "longitude": 11.992833
+    },
+    {
+      "name": "Steingrunnen",
+      "latitude": 69.977242,
+      "longitude": 18.301869
+    },
+    {
+      "name": "Steingrunnen",
+      "latitude": 70.015642,
+      "longitude": 18.542306
+    },
+    {
+      "name": "Steinleia",
+      "latitude": 67.935125,
+      "longitude": 13.097442
+    },
+    {
+      "name": "Steinsbåane",
+      "latitude": 57.972389,
+      "longitude": 7.420119
+    },
+    {
+      "name": "Steinsholmgrunnen",
+      "latitude": 67.182728,
+      "longitude": 14.1915
+    },
+    {
+      "name": "Steinsholmsflua",
+      "latitude": 66.780164,
+      "longitude": 12.772789
+    },
+    {
+      "name": "Steinsholmtaren",
+      "latitude": 66.622294,
+      "longitude": 12.908444
+    },
+    {
+      "name": "Steinsholmtaren",
+      "latitude": 66.786233,
+      "longitude": 12.778856
+    },
+    {
+      "name": "Stertinga",
+      "latitude": 66.598089,
+      "longitude": 12.885375
+    },
+    {
+      "name": "Stiksøyflua",
+      "latitude": 66.669839,
+      "longitude": 12.551206
+    },
+    {
+      "name": "Stjerngrunnan",
+      "latitude": 67.138358,
+      "longitude": 13.656728
+    },
+    {
+      "name": "Stjerngrunnen",
+      "latitude": 67.084961,
+      "longitude": 13.733994
+    },
+    {
+      "name": "Stokkeboen",
+      "latitude": 58.019892,
+      "longitude": 7.675325
+    },
+    {
+      "name": "Stokkgrunnen",
+      "latitude": 67.121411,
+      "longitude": 13.989267
+    },
+    {
+      "name": "Stolen",
+      "latitude": 66.693125,
+      "longitude": 13.147383
+    },
+    {
+      "name": "Stolsboen",
+      "latitude": 57.970894,
+      "longitude": 7.521983
+    },
+    {
+      "name": "Stolsgrunnen",
+      "latitude": 60.930749,
+      "longitude": 6.882377
+    },
+    {
+      "name": "Stompen",
+      "latitude": 66.479569,
+      "longitude": 12.693742
+    },
+    {
+      "name": "Stonggrunnen",
+      "latitude": 67.177214,
+      "longitude": 13.807822
+    },
+    {
+      "name": "Stongholmbåen",
+      "latitude": 67.487703,
+      "longitude": 12.123422
+    },
+    {
+      "name": "Store Bremlusa",
+      "latitude": 67.739306,
+      "longitude": 14.456039
+    },
+    {
+      "name": "Store Skautskjæret",
+      "latitude": 70.049239,
+      "longitude": 18.479867
+    },
+    {
+      "name": "Storegrunnen",
+      "latitude": 67.748622,
+      "longitude": 14.778383
+    },
+    {
+      "name": "Storegrunnen",
+      "latitude": 67.782203,
+      "longitude": 14.412761
+    },
+    {
+      "name": "Storelvøra",
+      "latitude": 69.796906,
+      "longitude": 19.560408
+    },
+    {
+      "name": "Storfluene",
+      "latitude": 66.432319,
+      "longitude": 12.751717
+    },
+    {
+      "name": "Storfløa",
+      "latitude": 63.460632,
+      "longitude": 8.050951
+    },
+    {
+      "name": "Storgrunnen",
+      "latitude": 66.527983,
+      "longitude": 12.485017
+    },
+    {
+      "name": "Storgrunnen",
+      "latitude": 66.736825,
+      "longitude": 13.103014
+    },
+    {
+      "name": "Storgrunnen",
+      "latitude": 67.753475,
+      "longitude": 15.382683
+    },
+    {
+      "name": "Storgrunnen",
+      "latitude": 69.488589,
+      "longitude": 19.705864
+    },
+    {
+      "name": "Storgrunnen",
+      "latitude": 69.965792,
+      "longitude": 18.67493
+    },
+    {
+      "name": "Storgrunnskallen",
+      "latitude": 67.641464,
+      "longitude": 14.620147
+    },
+    {
+      "name": "Stornakkgrunnene",
+      "latitude": 66.738347,
+      "longitude": 12.962525
+    },
+    {
+      "name": "Storravngrunnen",
+      "latitude": 66.811319,
+      "longitude": 12.84725
+    },
+    {
+      "name": "Storseiskallen",
+      "latitude": 67.771617,
+      "longitude": 14.636683
+    },
+    {
+      "name": "Storskallan",
+      "latitude": 66.713686,
+      "longitude": 12.437869
+    },
+    {
+      "name": "Storskallen",
+      "latitude": 66.5297,
+      "longitude": 12.761717
+    },
+    {
+      "name": "Storskallen",
+      "latitude": 66.626361,
+      "longitude": 12.823683
+    },
+    {
+      "name": "Storskallen",
+      "latitude": 66.651219,
+      "longitude": 13.090328
+    },
+    {
+      "name": "Storskallen",
+      "latitude": 67.883231,
+      "longitude": 12.75505
+    },
+    {
+      "name": "Stortaren",
+      "latitude": 66.562575,
+      "longitude": 12.467628
+    },
+    {
+      "name": "Stortorskebåen",
+      "latitude": 69.950121,
+      "longitude": 18.38326
+    },
+    {
+      "name": "Storvikflua",
+      "latitude": 66.389989,
+      "longitude": 12.796019
+    },
+    {
+      "name": "Storvikskallen",
+      "latitude": 66.466369,
+      "longitude": 13.345778
+    },
+    {
+      "name": "Storøyra",
+      "latitude": 67.001458,
+      "longitude": 14.596078
+    },
+    {
+      "name": "Storøyskallen",
+      "latitude": 66.760967,
+      "longitude": 13.097244
+    },
+    {
+      "name": "Storøyskjeran",
+      "latitude": 57.989556,
+      "longitude": 7.441544
+    },
+    {
+      "name": "Strandgrunnen",
+      "latitude": 66.491908,
+      "longitude": 13.261208
+    },
+    {
+      "name": "Strandgrunnen",
+      "latitude": 69.725506,
+      "longitude": 19.065108
+    },
+    {
+      "name": "Strælingan",
+      "latitude": 66.806114,
+      "longitude": 12.763825
+    },
+    {
+      "name": "Ståkja",
+      "latitude": 67.841639,
+      "longitude": 12.892583
+    },
+    {
+      "name": "Størkelgrunnen",
+      "latitude": 67.982147,
+      "longitude": 14.939578
+    },
+    {
+      "name": "Støttbreitaren",
+      "latitude": 66.956572,
+      "longitude": 13.424322
+    },
+    {
+      "name": "Sundsgrunnen",
+      "latitude": 67.079944,
+      "longitude": 14.029725
+    },
+    {
+      "name": "Sundskallan",
+      "latitude": 66.957011,
+      "longitude": 13.563942
+    },
+    {
+      "name": "Svabåan",
+      "latitude": 69.933522,
+      "longitude": 18.098525
+    },
+    {
+      "name": "Svartfjellskallen",
+      "latitude": 67.945442,
+      "longitude": 15.53987
+    },
+    {
+      "name": "Svartskjer",
+      "latitude": 57.972133,
+      "longitude": 7.545892
+    },
+    {
+      "name": "Svartskjærskallan",
+      "latitude": 66.597906,
+      "longitude": 12.554944
+    },
+    {
+      "name": "Svartskjærtaren",
+      "latitude": 66.641294,
+      "longitude": 12.758267
+    },
+    {
+      "name": "Svarvarøra",
+      "latitude": 69.794339,
+      "longitude": 19.493661
+    },
+    {
+      "name": "Svebåen",
+      "latitude": 66.89895,
+      "longitude": 12.856789
+    },
+    {
+      "name": "Svebåskallen",
+      "latitude": 66.885825,
+      "longitude": 12.84745
+    },
+    {
+      "name": "Sveinskallen",
+      "latitude": 67.532753,
+      "longitude": 12.128517
+    },
+    {
+      "name": "Svenngrunnen",
+      "latitude": 69.44485,
+      "longitude": 19.600831
+    },
+    {
+      "name": "Svinøyflua",
+      "latitude": 63.876264,
+      "longitude": 9.762461
+    },
+    {
+      "name": "Svinøygrunnen",
+      "latitude": 66.602758,
+      "longitude": 12.4096
+    },
+    {
+      "name": "Søndre Knattane",
+      "latitude": 58.094214,
+      "longitude": 8.152697
+    },
+    {
+      "name": "Søndre Løynfallet",
+      "latitude": 66.801758,
+      "longitude": 12.595486
+    },
+    {
+      "name": "Søndre Stormerrtaren",
+      "latitude": 66.517269,
+      "longitude": 12.758917
+    },
+    {
+      "name": "Sønsteflua",
+      "latitude": 60.171325,
+      "longitude": 5.513575
+    },
+    {
+      "name": "Sør Steingrunnen",
+      "latitude": 69.934525,
+      "longitude": 18.191561
+    },
+    {
+      "name": "Sør-Hella",
+      "latitude": 67.684033,
+      "longitude": 14.455631
+    },
+    {
+      "name": "Sør-Skarvhella",
+      "latitude": 67.462742,
+      "longitude": 11.94755
+    },
+    {
+      "name": "Sørbreigrunnen",
+      "latitude": 66.893017,
+      "longitude": 13.277656
+    },
+    {
+      "name": "Sørbåsgrunnen",
+      "latitude": 66.787153,
+      "longitude": 12.768253
+    },
+    {
+      "name": "Søre Husegrunnen",
+      "latitude": 67.000597,
+      "longitude": 13.569208
+    },
+    {
+      "name": "Søre Lausgrunnen",
+      "latitude": 67.008928,
+      "longitude": 13.330933
+    },
+    {
+      "name": "Søre Notskallen",
+      "latitude": 67.70685,
+      "longitude": 14.462875
+    },
+    {
+      "name": "Søre Rebbåen",
+      "latitude": 70.018231,
+      "longitude": 18.347811
+    },
+    {
+      "name": "Søre Trollskjærflua",
+      "latitude": 67.049186,
+      "longitude": 13.563197
+    },
+    {
+      "name": "Søre Årnhansaskallen",
+      "latitude": 67.491875,
+      "longitude": 12.284081
+    },
+    {
+      "name": "Sørenshausen",
+      "latitude": 58.083556,
+      "longitude": 8.207644
+    },
+    {
+      "name": "Sørfallet",
+      "latitude": 66.81045,
+      "longitude": 12.537803
+    },
+    {
+      "name": "Sørfallet",
+      "latitude": 67.822764,
+      "longitude": 12.794705
+    },
+    {
+      "name": "Sørfjordskallen",
+      "latitude": 60.537747,
+      "longitude": 5.321678
+    },
+    {
+      "name": "Sørkallgrunnen",
+      "latitude": 66.807806,
+      "longitude": 12.894125
+    },
+    {
+      "name": "Sørsandværflesa",
+      "latitude": 66.774767,
+      "longitude": 12.762189
+    },
+    {
+      "name": "Sørskallen",
+      "latitude": 60.177158,
+      "longitude": 5.558887
+    },
+    {
+      "name": "Sørskallen",
+      "latitude": 67.370789,
+      "longitude": 11.741981
+    },
+    {
+      "name": "Sørskjortbaken",
+      "latitude": 67.47942,
+      "longitude": 11.864775
+    },
+    {
+      "name": "Sørstabben",
+      "latitude": 69.995833,
+      "longitude": 18.325556
+    },
+    {
+      "name": "Sørstabben",
+      "latitude": 70.031003,
+      "longitude": 18.487478
+    },
+    {
+      "name": "Sørsvartskjærskallen",
+      "latitude": 66.427069,
+      "longitude": 12.78895
+    },
+    {
+      "name": "Sørtjeldgrunnen",
+      "latitude": 66.633069,
+      "longitude": 12.690631
+    },
+    {
+      "name": "Sørtorgrunnen",
+      "latitude": 66.885044,
+      "longitude": 12.917014
+    },
+    {
+      "name": "Sørværbåen",
+      "latitude": 66.441928,
+      "longitude": 12.726669
+    },
+    {
+      "name": "Sørværbåskallan",
+      "latitude": 66.439544,
+      "longitude": 12.715894
+    },
+    {
+      "name": "Sørværdragern",
+      "latitude": 66.429139,
+      "longitude": 12.752586
+    },
+    {
+      "name": "Sørværrevet",
+      "latitude": 66.428344,
+      "longitude": 12.730033
+    },
+    {
+      "name": "Tangen",
+      "latitude": 69.548706,
+      "longitude": 18.750197
+    },
+    {
+      "name": "Tangskjæret - Deapposkierri",
+      "latitude": 69.536112,
+      "longitude": 19.652642
+    },
+    {
+      "name": "Taregrunnen",
+      "latitude": 67.069361,
+      "longitude": 13.603294
+    },
+    {
+      "name": "Taregrunnen",
+      "latitude": 69.530936,
+      "longitude": 19.684467
+    },
+    {
+      "name": "Tarskjærbåen",
+      "latitude": 66.852608,
+      "longitude": 13.060569
+    },
+    {
+      "name": "Tartuvo",
+      "latitude": 67.0906,
+      "longitude": 13.823864
+    },
+    {
+      "name": "Taska",
+      "latitude": 66.445158,
+      "longitude": 13.013711
+    },
+    {
+      "name": "Teinegrunnen",
+      "latitude": 58.083167,
+      "longitude": 8.131715
+    },
+    {
+      "name": "Teistholmskallen",
+      "latitude": 67.925764,
+      "longitude": 14.817108
+    },
+    {
+      "name": "Telnesgrunnen",
+      "latitude": 66.824392,
+      "longitude": 12.582383
+    },
+    {
+      "name": "Tennskjærgrunnen",
+      "latitude": 67.072631,
+      "longitude": 14.015906
+    },
+    {
+      "name": "Ternesteinane",
+      "latitude": 60.921911,
+      "longitude": 6.868589
+    },
+    {
+      "name": "Ternholmlusa",
+      "latitude": 66.918425,
+      "longitude": 13.170394
+    },
+    {
+      "name": "Tindskjertaran",
+      "latitude": 67.476969,
+      "longitude": 12.106814
+    },
+    {
+      "name": "Tingvallagrunnen",
+      "latitude": 59.899588,
+      "longitude": 10.734522
+    },
+    {
+      "name": "Tisterskallen",
+      "latitude": 67.859669,
+      "longitude": 14.80155
+    },
+    {
+      "name": "Tjuvgrunnan",
+      "latitude": 69.978,
+      "longitude": 18.283703
+    },
+    {
+      "name": "Tjuvholmryggen",
+      "latitude": 66.648111,
+      "longitude": 12.775081
+    },
+    {
+      "name": "Tjuvholmskallen",
+      "latitude": 66.647908,
+      "longitude": 12.787956
+    },
+    {
+      "name": "Tjuvskjærgrunnen",
+      "latitude": 67.120233,
+      "longitude": 13.994019
+    },
+    {
+      "name": "Tjørnholmgrunnen",
+      "latitude": 67.799486,
+      "longitude": 14.723308
+    },
+    {
+      "name": "Tolleboen",
+      "latitude": 57.980478,
+      "longitude": 7.414356
+    },
+    {
+      "name": "Torbruskallen",
+      "latitude": 67.906231,
+      "longitude": 14.996117
+    },
+    {
+      "name": "Torjusskjæret",
+      "latitude": 58.038486,
+      "longitude": 7.559569
+    },
+    {
+      "name": "Torkelbåen",
+      "latitude": 66.778264,
+      "longitude": 13.002244
+    },
+    {
+      "name": "Torkelbåtaren",
+      "latitude": 66.780342,
+      "longitude": 13.014856
+    },
+    {
+      "name": "Torkelsbåane",
+      "latitude": 58.061709,
+      "longitude": 8.058183
+    },
+    {
+      "name": "Torsteinholmboen",
+      "latitude": 58.001917,
+      "longitude": 7.536933
+    },
+    {
+      "name": "Torsvestbåen",
+      "latitude": 67.493347,
+      "longitude": 11.833561
+    },
+    {
+      "name": "Treboane",
+      "latitude": 59.310528,
+      "longitude": 4.85749
+    },
+    {
+      "name": "Trehuken",
+      "latitude": 69.980694,
+      "longitude": 18.67685
+    },
+    {
+      "name": "Trehørningsgrunnen",
+      "latitude": 69.928719,
+      "longitude": 18.261381
+    },
+    {
+      "name": "Trollet",
+      "latitude": 67.471361,
+      "longitude": 11.950489
+    },
+    {
+      "name": "Trollskallan",
+      "latitude": 67.891094,
+      "longitude": 12.801675
+    },
+    {
+      "name": "Trollskjærsteinen",
+      "latitude": 66.909961,
+      "longitude": 13.063631
+    },
+    {
+      "name": "Trollskjærtåga",
+      "latitude": 66.805525,
+      "longitude": 12.973872
+    },
+    {
+      "name": "Troneboen",
+      "latitude": 57.969,
+      "longitude": 7.516483
+    },
+    {
+      "name": "Truskallen",
+      "latitude": 67.857294,
+      "longitude": 12.762894
+    },
+    {
+      "name": "Tueboen",
+      "latitude": 58.123516,
+      "longitude": 8.049347
+    },
+    {
+      "name": "Tungegrunnen",
+      "latitude": 57.9576,
+      "longitude": 7.408097
+    },
+    {
+      "name": "Tungeskjeran",
+      "latitude": 57.987397,
+      "longitude": 7.388761
+    },
+    {
+      "name": "Tungeskjerboen",
+      "latitude": 57.984208,
+      "longitude": 7.382411
+    },
+    {
+      "name": "Tustegrunnen",
+      "latitude": 58.085813,
+      "longitude": 8.191617
+    },
+    {
+      "name": "Tuvbåen",
+      "latitude": 70.056481,
+      "longitude": 18.449664
+    },
+    {
+      "name": "Tverrskallen",
+      "latitude": 67.839344,
+      "longitude": 14.525808
+    },
+    {
+      "name": "Tverrskjærskallen",
+      "latitude": 67.706733,
+      "longitude": 14.765953
+    },
+    {
+      "name": "Tværskallen",
+      "latitude": 66.577392,
+      "longitude": 12.812478
+    },
+    {
+      "name": "Tynnbotnskallen",
+      "latitude": 66.6221,
+      "longitude": 12.8171
+    },
+    {
+      "name": "Tørnskiten",
+      "latitude": 67.731083,
+      "longitude": 14.534042
+    },
+    {
+      "name": "Tørrbøen",
+      "latitude": 67.524856,
+      "longitude": 11.975733
+    },
+    {
+      "name": "Tørrbøen",
+      "latitude": 67.739414,
+      "longitude": 14.684994
+    },
+    {
+      "name": "Tørrfallan",
+      "latitude": 67.479719,
+      "longitude": 12.231706
+    },
+    {
+      "name": "Tørrfallet",
+      "latitude": 67.827156,
+      "longitude": 12.791614
+    },
+    {
+      "name": "Ullstindklakken",
+      "latitude": 69.826667,
+      "longitude": 19.735322
+    },
+    {
+      "name": "Ungen",
+      "latitude": 67.022653,
+      "longitude": 13.099433
+    },
+    {
+      "name": "Utgrunnen",
+      "latitude": 67.691389,
+      "longitude": 14.280486
+    },
+    {
+      "name": "Vallgalten",
+      "latitude": 67.710356,
+      "longitude": 15.141158
+    },
+    {
+      "name": "Vallskallen",
+      "latitude": 67.704108,
+      "longitude": 15.131031
+    },
+    {
+      "name": "Valløybåen",
+      "latitude": 57.978531,
+      "longitude": 7.660969
+    },
+    {
+      "name": "Valsbåen",
+      "latitude": 67.947167,
+      "longitude": 14.847614
+    },
+    {
+      "name": "Valøygrunnen",
+      "latitude": 67.198181,
+      "longitude": 13.695028
+    },
+    {
+      "name": "Valøyskallen",
+      "latitude": 66.702161,
+      "longitude": 13.082603
+    },
+    {
+      "name": "Vardholmegga",
+      "latitude": 69.947656,
+      "longitude": 18.383514
+    },
+    {
+      "name": "Vardskjærgrunnen",
+      "latitude": 67.013122,
+      "longitude": 13.889883
+    },
+    {
+      "name": "Vargbåen",
+      "latitude": 67.881886,
+      "longitude": 14.627036
+    },
+    {
+      "name": "Velomskallen",
+      "latitude": 66.707914,
+      "longitude": 13.065189
+    },
+    {
+      "name": "Verjeholmbåen",
+      "latitude": 66.733086,
+      "longitude": 12.455525
+    },
+    {
+      "name": "Vesholmryggen",
+      "latitude": 66.822286,
+      "longitude": 13.077325
+    },
+    {
+      "name": "Vestergrunnen",
+      "latitude": 59.866356,
+      "longitude": 10.741733
+    },
+    {
+      "name": "Vestergrunnen",
+      "latitude": 66.956167,
+      "longitude": 13.401169
+    },
+    {
+      "name": "Vesterøyra",
+      "latitude": 67.818189,
+      "longitude": 14.628772
+    },
+    {
+      "name": "Vestre Brakskallan",
+      "latitude": 67.709878,
+      "longitude": 14.404803
+    },
+    {
+      "name": "Vestre Burskjærflua",
+      "latitude": 70.002464,
+      "longitude": 18.30945
+    },
+    {
+      "name": "Vestre Flesskallen",
+      "latitude": 66.834494,
+      "longitude": 12.625997
+    },
+    {
+      "name": "Vestre Flestaren",
+      "latitude": 66.631517,
+      "longitude": 12.820478
+    },
+    {
+      "name": "Vestre Futøygrunnen",
+      "latitude": 66.615639,
+      "longitude": 12.806517
+    },
+    {
+      "name": "Vestre Gannflestaren",
+      "latitude": 66.740433,
+      "longitude": 12.697322
+    },
+    {
+      "name": "Vestre Grunnskallen",
+      "latitude": 67.562867,
+      "longitude": 12.242733
+    },
+    {
+      "name": "Vestre Hellersøyboen",
+      "latitude": 57.985286,
+      "longitude": 7.554642
+    },
+    {
+      "name": "Vestre Kavringdynga",
+      "latitude": 59.899819,
+      "longitude": 10.719319
+    },
+    {
+      "name": "Vestre Seihausane",
+      "latitude": 58.09224,
+      "longitude": 8.15379
+    },
+    {
+      "name": "Vestre Skarvungen",
+      "latitude": 66.820556,
+      "longitude": 12.742217
+    },
+    {
+      "name": "Vestre Skogrunnen",
+      "latitude": 58.079326,
+      "longitude": 8.129182
+    },
+    {
+      "name": "Vestre Tørrbåen",
+      "latitude": 67.783972,
+      "longitude": 14.440889
+    },
+    {
+      "name": "Vestrefallet",
+      "latitude": 66.895711,
+      "longitude": 12.855753
+    },
+    {
+      "name": "Vestreflua",
+      "latitude": 59.269875,
+      "longitude": 4.844729
+    },
+    {
+      "name": "Vestreknausen",
+      "latitude": 66.816775,
+      "longitude": 12.552961
+    },
+    {
+      "name": "Vestrenupsbåen",
+      "latitude": 67.495483,
+      "longitude": 12.216697
+    },
+    {
+      "name": "Vestretaren",
+      "latitude": 66.8589,
+      "longitude": 12.864181
+    },
+    {
+      "name": "Vestskåltaren",
+      "latitude": 66.757997,
+      "longitude": 12.691703
+    },
+    {
+      "name": "Vikaskallen",
+      "latitude": 66.540211,
+      "longitude": 12.763794
+    },
+    {
+      "name": "Vikinggrunn",
+      "latitude": 66.531669,
+      "longitude": 12.966908
+    },
+    {
+      "name": "Villmannsgrunnen",
+      "latitude": 58.133658,
+      "longitude": 8.036489
+    },
+    {
+      "name": "Vindballflua",
+      "latitude": 59.290017,
+      "longitude": 4.891726
+    },
+    {
+      "name": "Vinstrefallan",
+      "latitude": 69.976594,
+      "longitude": 18.220664
+    },
+    {
+      "name": "Vipgrunnen",
+      "latitude": 66.844742,
+      "longitude": 12.756842
+    },
+    {
+      "name": "Vippstøskallan",
+      "latitude": 67.390242,
+      "longitude": 11.841494
+    },
+    {
+      "name": "Voksholmskaftet",
+      "latitude": 66.794356,
+      "longitude": 12.620247
+    },
+    {
+      "name": "Voksholmskallen",
+      "latitude": 66.788478,
+      "longitude": 12.596019
+    },
+    {
+      "name": "Vomma",
+      "latitude": 61.595674,
+      "longitude": 4.981271
+    },
+    {
+      "name": "Vonholmgrunnen",
+      "latitude": 66.503333,
+      "longitude": 12.8928
+    },
+    {
+      "name": "Vågskjeftboen",
+      "latitude": 57.989608,
+      "longitude": 7.500017
+    },
+    {
+      "name": "Vårfiskskallan",
+      "latitude": 67.648647,
+      "longitude": 14.682689
+    },
+    {
+      "name": "Våtbåan",
+      "latitude": 67.399194,
+      "longitude": 11.875839
+    },
+    {
+      "name": "Værangskallen",
+      "latitude": 66.639283,
+      "longitude": 13.294131
+    },
+    {
+      "name": "Væroddbåen",
+      "latitude": 68.006317,
+      "longitude": 15.061972
+    },
+    {
+      "name": "Ysteflua",
+      "latitude": 60.147711,
+      "longitude": 5.544589
+    },
+    {
+      "name": "Ytre Hausane",
+      "latitude": 58.079823,
+      "longitude": 8.188724
+    },
+    {
+      "name": "Ytre Lavanggrunnen",
+      "latitude": 69.549336,
+      "longitude": 19.677822
+    },
+    {
+      "name": "Ytre Leibåen",
+      "latitude": 67.767222,
+      "longitude": 14.708825
+    },
+    {
+      "name": "Ytre Lyngøyskallen",
+      "latitude": 67.809336,
+      "longitude": 14.598781
+    },
+    {
+      "name": "Ytre Meskallen",
+      "latitude": 67.673208,
+      "longitude": 14.437725
+    },
+    {
+      "name": "Ytre Mulflua",
+      "latitude": 69.931028,
+      "longitude": 18.15212
+    },
+    {
+      "name": "Ytre Nettøyskallen",
+      "latitude": 67.78075,
+      "longitude": 14.609692
+    },
+    {
+      "name": "Ytre Oddskallen",
+      "latitude": 67.843611,
+      "longitude": 14.532472
+    },
+    {
+      "name": "Ytre Revskallen",
+      "latitude": 67.642261,
+      "longitude": 14.397228
+    },
+    {
+      "name": "Ytre Råholmskallan",
+      "latitude": 67.62615,
+      "longitude": 14.617886
+    },
+    {
+      "name": "Ytre Rødgrunnen",
+      "latitude": 67.208328,
+      "longitude": 13.724464
+    },
+    {
+      "name": "Ytre Skarvholmskallen",
+      "latitude": 66.829408,
+      "longitude": 12.749269
+    },
+    {
+      "name": "Ytre Smellbåan",
+      "latitude": 67.870839,
+      "longitude": 12.781381
+    },
+    {
+      "name": "Ytre Steinen",
+      "latitude": 58.075088,
+      "longitude": 8.105405
+    },
+    {
+      "name": "Ytre Steingrunnen",
+      "latitude": 67.851805,
+      "longitude": 14.798558
+    },
+    {
+      "name": "Ytre Steinsøyflua",
+      "latitude": 61.085819,
+      "longitude": 4.660108
+    },
+    {
+      "name": "Ytre Svinskjærtaren",
+      "latitude": 67.073381,
+      "longitude": 13.615719
+    },
+    {
+      "name": "Ytre Tovegrunnen",
+      "latitude": 58.100323,
+      "longitude": 8.161289
+    },
+    {
+      "name": "Ytre Trollet",
+      "latitude": 67.473025,
+      "longitude": 11.943292
+    },
+    {
+      "name": "Ytre Vikaskallen",
+      "latitude": 66.538764,
+      "longitude": 12.758025
+    },
+    {
+      "name": "Ytrehorsgrunnen",
+      "latitude": 66.462878,
+      "longitude": 12.549306
+    },
+    {
+      "name": "Ytstbøen",
+      "latitude": 67.138586,
+      "longitude": 13.545136
+    },
+    {
+      "name": "Yttergrunn",
+      "latitude": 66.702936,
+      "longitude": 13.235608
+    },
+    {
+      "name": "Yttergrunnen",
+      "latitude": 66.626908,
+      "longitude": 13.103064
+    },
+    {
+      "name": "Ytterkvarøyskallen",
+      "latitude": 66.494747,
+      "longitude": 12.929428
+    },
+    {
+      "name": "Ytterskallan",
+      "latitude": 67.389606,
+      "longitude": 11.671692
+    },
+    {
+      "name": "Åbornesflua",
+      "latitude": 67.739747,
+      "longitude": 15.211122
+    },
+    {
+      "name": "Ågskallan",
+      "latitude": 67.859,
+      "longitude": 12.967311
+    },
+    {
+      "name": "Åmnøyskallan",
+      "latitude": 66.793261,
+      "longitude": 12.893344
+    },
+    {
+      "name": "Ånderbakkskallen",
+      "latitude": 67.748997,
+      "longitude": 14.399025
+    },
+    {
+      "name": "Ånensboen",
+      "latitude": 57.994344,
+      "longitude": 7.308681
+    },
+    {
+      "name": "Ånnhammarbakken",
+      "latitude": 67.567578,
+      "longitude": 12.167678
+    },
+    {
+      "name": "Årsholmflaket",
+      "latitude": 57.967786,
+      "longitude": 7.612842
+    },
+    {
+      "name": "Åsbrakkringla",
+      "latitude": 66.4946,
+      "longitude": 12.514992
+    },
+    {
+      "name": "Åsgargrunnen",
+      "latitude": 57.959456,
+      "longitude": 7.339614
+    },
+    {
+      "name": "Åsjordskjærbåen",
+      "latitude": 67.909433,
+      "longitude": 14.978842
+    },
+    {
+      "name": "Åsleira",
+      "latitude": 66.400119,
+      "longitude": 13.132808
+    },
+    {
+      "name": "Åtnesgrunnen",
+      "latitude": 60.880383,
+      "longitude": 7.144594
+    },
+    {
+      "name": "Øra",
+      "latitude": 69.602713,
+      "longitude": 19.861235
+    },
+    {
+      "name": "Øra",
+      "latitude": 69.738914,
+      "longitude": 19.109979
+    },
+    {
+      "name": "Øra",
+      "latitude": 69.800064,
+      "longitude": 19.532342
+    },
+    {
+      "name": "Øra",
+      "latitude": 69.815592,
+      "longitude": 19.706847
+    },
+    {
+      "name": "Ørbogskallen",
+      "latitude": 67.552981,
+      "longitude": 12.059019
+    },
+    {
+      "name": "Østre Flestaren",
+      "latitude": 66.632219,
+      "longitude": 12.846111
+    },
+    {
+      "name": "Østre Futøygrunnen",
+      "latitude": 66.616519,
+      "longitude": 12.825353
+    },
+    {
+      "name": "Østre Gannflestaren",
+      "latitude": 66.739075,
+      "longitude": 12.747008
+    },
+    {
+      "name": "Østre Kavringdynga",
+      "latitude": 59.90151,
+      "longitude": 10.725839
+    },
+    {
+      "name": "Østre Kråga",
+      "latitude": 57.962197,
+      "longitude": 7.540511
+    },
+    {
+      "name": "Østre Seihausane",
+      "latitude": 58.091328,
+      "longitude": 8.159408
+    },
+    {
+      "name": "Østre Skarvungen",
+      "latitude": 66.819553,
+      "longitude": 12.747033
+    },
+    {
+      "name": "Østre Skogrunnen",
+      "latitude": 58.0776,
+      "longitude": 8.133417
+    },
+    {
+      "name": "Østre Stabbrøtet",
+      "latitude": 66.743689,
+      "longitude": 12.740369
+    },
+    {
+      "name": "Østreknausen",
+      "latitude": 66.811728,
+      "longitude": 12.543892
+    },
+    {
+      "name": "Østskåltaren",
+      "latitude": 66.758367,
+      "longitude": 12.708392
+    },
+    {
+      "name": "Øvre Grunnskallen",
+      "latitude": 67.861242,
+      "longitude": 12.974994
+    },
+    {
+      "name": "Øvre Medtuvskallen",
+      "latitude": 71.131495,
+      "longitude": 27.90019
+    },
+    {
+      "name": "Øvre Rødgrunnen",
+      "latitude": 67.203142,
+      "longitude": 13.743753
+    },
+    {
+      "name": "Øvre Rødliskallen",
+      "latitude": 67.859125,
+      "longitude": 12.967208
+    },
+    {
+      "name": "Øvre Smellbåen",
+      "latitude": 67.866003,
+      "longitude": 12.802033
+    },
+    {
+      "name": "Øvskallan",
+      "latitude": 66.831525,
+      "longitude": 13.064328
+    },
+    {
+      "name": "Øvskallen",
+      "latitude": 66.761133,
+      "longitude": 12.817944
+    },
+    {
+      "name": "Øvstskallen",
+      "latitude": 66.999647,
+      "longitude": 13.056989
+    },
+    {
+      "name": "Øygrunnen",
+      "latitude": 67.023339,
+      "longitude": 14.228897
+    },
+    {
+      "name": "Øyra",
+      "latitude": 66.516361,
+      "longitude": 13.663142
+    },
+    {
+      "name": "Øyra",
+      "latitude": 69.503408,
+      "longitude": 18.872016
+    },
+    {
+      "name": "Øyra",
+      "latitude": 69.5121,
+      "longitude": 18.996828
+    },
+    {
+      "name": "Øyskallen",
+      "latitude": 68.15091,
+      "longitude": 13.076433
+    }
+  ],
+  "meta": {
+    "title": "Named shoals in Norway - Gratis nedlasting",
+    "description": "Named shoals in Norway, derived from OpenStreetMap POI nodes tagged natural=shoal in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 1230 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named shoals in Norway | ListBase",
+    "seo_description": "Last ned Named shoals in Norway — 1230 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 1230 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

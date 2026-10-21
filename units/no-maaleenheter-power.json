@@ -1,0 +1,126 @@
+{
+  "id": "no-maaleenheter-power",
+  "name": "Maaleenheter: power (6)",
+  "title": "Maaleenheter: power (6)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'power'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "power-gigawatt",
+      "kategori": "power",
+      "navn": "gigawatt",
+      "moenster_en": "{0} gigawatt",
+      "moenster_flere": "{0} gigawatt",
+      "kort_moenster": "{0} GW",
+      "smal_moenster": "{0} GW"
+    },
+    {
+      "id": 2,
+      "unit_code": "power-horsepower",
+      "kategori": "power",
+      "navn": "hestekrefter",
+      "moenster_en": "{0} hestekraft",
+      "moenster_flere": "{0} hestekrefter",
+      "kort_moenster": "{0} hk",
+      "smal_moenster": "{0}hk"
+    },
+    {
+      "id": 3,
+      "unit_code": "power-kilowatt",
+      "kategori": "power",
+      "navn": "kilowatt",
+      "moenster_en": "{0} kilowatt",
+      "moenster_flere": "{0} kilowatt",
+      "kort_moenster": "{0} kW",
+      "smal_moenster": "{0}kW"
+    },
+    {
+      "id": 4,
+      "unit_code": "power-megawatt",
+      "kategori": "power",
+      "navn": "megawatt",
+      "moenster_en": "{0} megawatt",
+      "moenster_flere": "{0} megawatt",
+      "kort_moenster": "{0} MW",
+      "smal_moenster": "{0} MW"
+    },
+    {
+      "id": 5,
+      "unit_code": "power-milliwatt",
+      "kategori": "power",
+      "navn": "milliwatt",
+      "moenster_en": "{0} milliwatt",
+      "moenster_flere": "{0} milliwatt",
+      "kort_moenster": "{0} mW",
+      "smal_moenster": "{0} mW"
+    },
+    {
+      "id": 6,
+      "unit_code": "power-watt",
+      "kategori": "power",
+      "navn": "watt",
+      "moenster_en": "{0} watt",
+      "moenster_flere": "{0} watt",
+      "kort_moenster": "{0} W",
+      "smal_moenster": "{0}W"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: power (6) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'power'. Inneholder 6 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: power (6) | ListBase",
+    "seo_description": "Last ned Maaleenheter: power (6) — 6 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 6 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

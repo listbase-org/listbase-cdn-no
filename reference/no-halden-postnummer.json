@@ -1,0 +1,352 @@
+{
+  "id": "no-halden-postnummer",
+  "name": "Postnummer i Halden",
+  "title": "Postnummer i Halden",
+  "description": "Alle 37 postnummer i Halden kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1751",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1752",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1753",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1754",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1757",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1759",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1760",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1761",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1762",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1763",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1764",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1765",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1766",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1767",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1768",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1769",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1771",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1772",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1776",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1777",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1778",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1779",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1781",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1782",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1783",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1784",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1785",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1786",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1787",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1788",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1789",
+      "poststed": "Berg i Østfold",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1790",
+      "poststed": "Tistedal",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1791",
+      "poststed": "Tistedal",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1792",
+      "poststed": "Tistedal",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1793",
+      "poststed": "Tistedal",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1794",
+      "poststed": "Sponvika",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1796",
+      "poststed": "Kornsjø",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Halden - Gratis nedlasting",
+    "description": "Alle 37 postnummer i Halden kommune med poststed. Inneholder 37 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Halden | ListBase",
+    "seo_description": "Last ned Postnummer i Halden — 37 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 37 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

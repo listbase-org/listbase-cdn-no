@@ -1,0 +1,512 @@
+{
+  "id": "no-fredrikstad-postnummer",
+  "name": "Postnummer i Fredrikstad",
+  "title": "Postnummer i Fredrikstad",
+  "description": "Alle 57 postnummer i Fredrikstad kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 57,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1601",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1602",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1604",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1605",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1606",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1607",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1608",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1609",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1610",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1612",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1613",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1614",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1615",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1616",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1617",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1618",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1619",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1620",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1621",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1622",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1623",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1624",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1625",
+      "poststed": "Manstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1626",
+      "poststed": "Manstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1628",
+      "poststed": "Engelsviken",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1629",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1630",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1632",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1633",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1634",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1636",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1637",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1638",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1639",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1650",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1651",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1653",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1654",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1655",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1657",
+      "poststed": "Torp",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1658",
+      "poststed": "Torp",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1659",
+      "poststed": "Torp",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1661",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1662",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1663",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1664",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1665",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1666",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1667",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1670",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1671",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1672",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1673",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1675",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1676",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1678",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1679",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Fredrikstad - Gratis nedlasting",
+    "description": "Alle 57 postnummer i Fredrikstad kommune med poststed. Inneholder 57 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Fredrikstad | ListBase",
+    "seo_description": "Last ned Postnummer i Fredrikstad — 57 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 57 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

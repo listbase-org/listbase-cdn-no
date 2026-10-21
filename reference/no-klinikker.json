@@ -1,0 +1,666 @@
+{
+  "id": "no-klinikker",
+  "name": "Klinikker i Norge",
+  "title": "Klinikker i Norge",
+  "description": "Klinikker og legevakter i Norge (OSM amenity=clinic).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aktimed Helse AS, avd. Trondheim",
+      "latitude": 63.398247,
+      "longitude": 10.397337
+    },
+    {
+      "name": "Aleris Bodø",
+      "latitude": 67.281407,
+      "longitude": 14.374532
+    },
+    {
+      "name": "Aleris Frogner",
+      "latitude": 59.915148,
+      "longitude": 10.708575
+    },
+    {
+      "name": "Aleris Marken",
+      "latitude": 60.391286,
+      "longitude": 5.331815
+    },
+    {
+      "name": "Aleris Nesttun",
+      "latitude": 60.320189,
+      "longitude": 5.353209
+    },
+    {
+      "name": "Amathea",
+      "latitude": 67.284673,
+      "longitude": 14.378811
+    },
+    {
+      "name": "Arendal legevakt",
+      "latitude": 58.467062,
+      "longitude": 8.755632
+    },
+    {
+      "name": "Arkaden legesenter",
+      "latitude": 60.35845,
+      "longitude": 5.126521
+    },
+    {
+      "name": "Askim øre- Nese- Hals- og Allergiklinikk",
+      "latitude": 59.5806,
+      "longitude": 11.157821
+    },
+    {
+      "name": "Askøy legevakt",
+      "latitude": 60.413431,
+      "longitude": 5.220765
+    },
+    {
+      "name": "Barne- og familietjenesten Lerkendal",
+      "latitude": 63.401923,
+      "longitude": 10.407206
+    },
+    {
+      "name": "Barne- og ungdomspsykiatrisk poliklinikk",
+      "latitude": 59.209198,
+      "longitude": 10.940718
+    },
+    {
+      "name": "Barne- og ungdomspsykiatrisk poliklinikk (BUPP)",
+      "latitude": 59.207816,
+      "longitude": 10.945861
+    },
+    {
+      "name": "Bergen Legevakt",
+      "latitude": 60.377734,
+      "longitude": 5.335682
+    },
+    {
+      "name": "Bergen Venesenter",
+      "latitude": 60.39256,
+      "longitude": 5.325673
+    },
+    {
+      "name": "Blodbanken i Trondheim og Orkdal",
+      "latitude": 63.419443,
+      "longitude": 10.390558
+    },
+    {
+      "name": "Bodø Gynekologiske klinikk",
+      "latitude": 67.283228,
+      "longitude": 14.373539
+    },
+    {
+      "name": "Bodø Legevakt",
+      "latitude": 67.27779,
+      "longitude": 14.414758
+    },
+    {
+      "name": "Bodø Øyelegesenter",
+      "latitude": 67.283344,
+      "longitude": 14.373279
+    },
+    {
+      "name": "Bogstadveien legevakt",
+      "latitude": 59.925086,
+      "longitude": 10.724178
+    },
+    {
+      "name": "Bremnes helsestasjon",
+      "latitude": 59.794389,
+      "longitude": 5.177756
+    },
+    {
+      "name": "Briskeby kompetansesenter",
+      "latitude": 59.768907,
+      "longitude": 10.252045
+    },
+    {
+      "name": "BUP, Poliklinikk Klostergata",
+      "latitude": 63.423445,
+      "longitude": 10.390893
+    },
+    {
+      "name": "Curato Røntgen",
+      "latitude": 67.284029,
+      "longitude": 14.376235
+    },
+    {
+      "name": "Danmarksplass akupunktur",
+      "latitude": 60.376723,
+      "longitude": 5.339665
+    },
+    {
+      "name": "Distriktsmedisinsk senter Midt-Troms, Finnsnes",
+      "latitude": 69.234389,
+      "longitude": 18.010205
+    },
+    {
+      "name": "Distriktsmedisinsk senter Nord-Troms, Storslett",
+      "latitude": 69.766542,
+      "longitude": 21.036394
+    },
+    {
+      "name": "DPS Lister",
+      "latitude": 58.095268,
+      "longitude": 6.802577
+    },
+    {
+      "name": "Drotningsvik Legesenter og Legevakt",
+      "latitude": 60.371659,
+      "longitude": 5.180635
+    },
+    {
+      "name": "Egge Helsetun",
+      "latitude": 64.032519,
+      "longitude": 11.481457
+    },
+    {
+      "name": "ElaKlinikken",
+      "latitude": 63.433037,
+      "longitude": 10.392272
+    },
+    {
+      "name": "Fjellhamarklinikken",
+      "latitude": 59.939563,
+      "longitude": 10.98955
+    },
+    {
+      "name": "Fjord Dental",
+      "latitude": 59.928466,
+      "longitude": 10.718317
+    },
+    {
+      "name": "Fokusklinikken",
+      "latitude": 59.927719,
+      "longitude": 10.806412
+    },
+    {
+      "name": "Frisk Legekontor",
+      "latitude": 59.927921,
+      "longitude": 10.79527
+    },
+    {
+      "name": "Fysio Fix Bergen",
+      "latitude": 60.393664,
+      "longitude": 5.316182
+    },
+    {
+      "name": "FysioFirst",
+      "latitude": 60.374995,
+      "longitude": 5.339511
+    },
+    {
+      "name": "Fysioterapisenteret i Bergen",
+      "latitude": 60.386178,
+      "longitude": 5.331659
+    },
+    {
+      "name": "Gamle Oslo smittevernkontor og reisevaksinasjon",
+      "latitude": 59.912884,
+      "longitude": 10.762996
+    },
+    {
+      "name": "Glød Hudklinikk AS",
+      "latitude": 59.584945,
+      "longitude": 11.164927
+    },
+    {
+      "name": "Gynekologisk Senter",
+      "latitude": 67.28519,
+      "longitude": 14.389868
+    },
+    {
+      "name": "HAB",
+      "latitude": 60.403719,
+      "longitude": 5.322046
+    },
+    {
+      "name": "Haldenklinikken",
+      "latitude": 59.128873,
+      "longitude": 11.37566
+    },
+    {
+      "name": "Hallingdal sjukestugu",
+      "latitude": 60.630341,
+      "longitude": 8.565579
+    },
+    {
+      "name": "Haugesund legevakt",
+      "latitude": 59.403762,
+      "longitude": 5.293663
+    },
+    {
+      "name": "Haugåstunet sykehjem",
+      "latitude": 58.946886,
+      "longitude": 5.729158
+    },
+    {
+      "name": "Helgeland Rehabilitering",
+      "latitude": 65.30975,
+      "longitude": 12.166581
+    },
+    {
+      "name": "Helsestasjon",
+      "latitude": 59.062116,
+      "longitude": 5.402904
+    },
+    {
+      "name": "Helsestasjon for ungdom",
+      "latitude": 60.358335,
+      "longitude": 5.124831
+    },
+    {
+      "name": "Hopstock Helse",
+      "latitude": 59.928299,
+      "longitude": 10.714874
+    },
+    {
+      "name": "Hudklinikken",
+      "latitude": 67.28389,
+      "longitude": 14.375703
+    },
+    {
+      "name": "Høyås bo- og rehabiliteringssenter",
+      "latitude": 59.818219,
+      "longitude": 10.81544
+    },
+    {
+      "name": "Incognito klinikk",
+      "latitude": 59.955857,
+      "longitude": 10.859472
+    },
+    {
+      "name": "Jessheim Legevakt",
+      "latitude": 60.139162,
+      "longitude": 11.173042
+    },
+    {
+      "name": "Jorunns Fotklinikk",
+      "latitude": 60.396492,
+      "longitude": 5.32525
+    },
+    {
+      "name": "Karmøy DPS",
+      "latitude": 59.282187,
+      "longitude": 5.283397
+    },
+    {
+      "name": "Klinikk for Alle",
+      "latitude": 59.908159,
+      "longitude": 10.759239
+    },
+    {
+      "name": "Klinikk for alle",
+      "latitude": 59.9311,
+      "longitude": 10.715468
+    },
+    {
+      "name": "Klinikk ISIS",
+      "latitude": 63.404676,
+      "longitude": 10.395965
+    },
+    {
+      "name": "Klinikk Øyeblikk",
+      "latitude": 63.433571,
+      "longitude": 10.391464
+    },
+    {
+      "name": "Kronstad distriktspsykiatriske senter",
+      "latitude": 60.375404,
+      "longitude": 5.340305
+    },
+    {
+      "name": "Landaasen Rehabiliteringssenter",
+      "latitude": 60.82974,
+      "longitude": 10.310706
+    },
+    {
+      "name": "Laserklinikken in Råholt",
+      "latitude": 60.286897,
+      "longitude": 11.17021
+    },
+    {
+      "name": "Legevakt",
+      "latitude": 60.633519,
+      "longitude": 6.420476
+    },
+    {
+      "name": "Legevakt",
+      "latitude": 61.599205,
+      "longitude": 5.039656
+    },
+    {
+      "name": "Legevakt Molde",
+      "latitude": 62.739575,
+      "longitude": 7.161968
+    },
+    {
+      "name": "Legevakta Helsehuset",
+      "latitude": 59.211945,
+      "longitude": 10.92707
+    },
+    {
+      "name": "Leistad Etterbehandling / KAD",
+      "latitude": 63.420851,
+      "longitude": 10.479892
+    },
+    {
+      "name": "Lindesnesregionens medisinske senter",
+      "latitude": 58.030156,
+      "longitude": 7.457796
+    },
+    {
+      "name": "Lokalmedisinsk senter Otta",
+      "latitude": 61.773137,
+      "longitude": 9.533339
+    },
+    {
+      "name": "Læge - Lege Andresen",
+      "latitude": 60.390532,
+      "longitude": 5.318857
+    },
+    {
+      "name": "Løbakk Psykiatriske senter",
+      "latitude": 60.827838,
+      "longitude": 11.141107
+    },
+    {
+      "name": "MedOslo",
+      "latitude": 59.929492,
+      "longitude": 10.716006
+    },
+    {
+      "name": "Moen Fysioterapi",
+      "latitude": 60.374797,
+      "longitude": 5.339607
+    },
+    {
+      "name": "Muren Fysikalske Institutt",
+      "latitude": 60.394456,
+      "longitude": 5.31879
+    },
+    {
+      "name": "Muren Legekontor",
+      "latitude": 60.394475,
+      "longitude": 5.318826
+    },
+    {
+      "name": "Nemus Trondheim",
+      "latitude": 63.434205,
+      "longitude": 10.393908
+    },
+    {
+      "name": "Nesttun Dagkirurgiske Senter",
+      "latitude": 60.318145,
+      "longitude": 5.353547
+    },
+    {
+      "name": "NKS Olaviken",
+      "latitude": 60.45627,
+      "longitude": 5.225756
+    },
+    {
+      "name": "Nordland Hjertesenter",
+      "latitude": 67.283839,
+      "longitude": 14.375473
+    },
+    {
+      "name": "Nordre Byre",
+      "latitude": 61.601322,
+      "longitude": 9.740423
+    },
+    {
+      "name": "Plastikkirurg1",
+      "latitude": 60.292903,
+      "longitude": 5.277627
+    },
+    {
+      "name": "Privathospitalet Fana Medisinske senter",
+      "latitude": 60.332279,
+      "longitude": 5.349223
+    },
+    {
+      "name": "Psykiatrisk klinikk, Haukeland universitetssjukehus",
+      "latitude": 60.419634,
+      "longitude": 5.313069
+    },
+    {
+      "name": "Psykologsenteret",
+      "latitude": 67.286059,
+      "longitude": 14.392466
+    },
+    {
+      "name": "Reisevaksiner Trondheim AS",
+      "latitude": 63.434194,
+      "longitude": 10.393584
+    },
+    {
+      "name": "Salt Helseklinikk",
+      "latitude": 58.138761,
+      "longitude": 7.069176
+    },
+    {
+      "name": "Sentrum familiesenter",
+      "latitude": 67.284763,
+      "longitude": 14.378256
+    },
+    {
+      "name": "Sentrum helsestasjon og jordmortjeneste",
+      "latitude": 67.281495,
+      "longitude": 14.374902
+    },
+    {
+      "name": "Sentrum Øyeklinikk",
+      "latitude": 63.43341,
+      "longitude": 10.391584
+    },
+    {
+      "name": "Sentrumslegene",
+      "latitude": 60.393818,
+      "longitude": 5.315753
+    },
+    {
+      "name": "SiO Studenthelsetjenesten",
+      "latitude": 59.939787,
+      "longitude": 10.720969
+    },
+    {
+      "name": "Skogli Helse- og Rehabiliteringssenter",
+      "latitude": 61.10037,
+      "longitude": 10.482223
+    },
+    {
+      "name": "Solli DPS",
+      "latitude": 60.311527,
+      "longitude": 5.356862
+    },
+    {
+      "name": "Spesialistlegesenteret i Karasjok",
+      "latitude": 69.471928,
+      "longitude": 25.521362
+    },
+    {
+      "name": "Stabekk Nevrokiropraktiske Klinikk",
+      "latitude": 59.908456,
+      "longitude": 10.607549
+    },
+    {
+      "name": "Sterk Helse",
+      "latitude": 59.927955,
+      "longitude": 10.795238
+    },
+    {
+      "name": "Stiftelsen Bergensklinikkene",
+      "latitude": 60.228236,
+      "longitude": 5.149516
+    },
+    {
+      "name": "Straume Helsesenter",
+      "latitude": 60.362309,
+      "longitude": 5.118681
+    },
+    {
+      "name": "Straume Terapisenter",
+      "latitude": 60.364297,
+      "longitude": 5.118095
+    },
+    {
+      "name": "Sykehuset Telemark - Rjukan",
+      "latitude": 59.880354,
+      "longitude": 8.606093
+    },
+    {
+      "name": "Sykehuset Telemark, psykiatrisk avdeling",
+      "latitude": 59.195884,
+      "longitude": 9.589851
+    },
+    {
+      "name": "Sykestua",
+      "latitude": 60.340371,
+      "longitude": 5.224708
+    },
+    {
+      "name": "Tasta Helseloft",
+      "latitude": 58.984151,
+      "longitude": 5.690796
+    },
+    {
+      "name": "Tereveyskeskus",
+      "latitude": 69.405851,
+      "longitude": 25.837489
+    },
+    {
+      "name": "Trondheim Øyelegesenter",
+      "latitude": 63.433506,
+      "longitude": 10.391522
+    },
+    {
+      "name": "Trondsletten habiliteringssenter",
+      "latitude": 63.423386,
+      "longitude": 10.446572
+    },
+    {
+      "name": "Unicare Jeløy",
+      "latitude": 59.427833,
+      "longitude": 10.632551
+    },
+    {
+      "name": "Unicare Røros",
+      "latitude": 62.573705,
+      "longitude": 11.401563
+    },
+    {
+      "name": "Unilabs",
+      "latitude": 59.74041,
+      "longitude": 10.20151
+    },
+    {
+      "name": "Unilabs Røntgen Bryn",
+      "latitude": 59.903225,
+      "longitude": 10.82245
+    },
+    {
+      "name": "Unilabs Røntgen Majorstuen",
+      "latitude": 59.92808,
+      "longitude": 10.709414
+    },
+    {
+      "name": "Unnis Hudpleie",
+      "latitude": 59.118842,
+      "longitude": 11.383641
+    },
+    {
+      "name": "Vanlesfjord Helsesportssenter",
+      "latitude": 67.391504,
+      "longitude": 15.36181
+    },
+    {
+      "name": "Veja Clinic AS",
+      "latitude": 68.875264,
+      "longitude": 17.835283
+    },
+    {
+      "name": "Vesterålen Idrettsklinikk",
+      "latitude": 69.318995,
+      "longitude": 16.122509
+    },
+    {
+      "name": "Volvat",
+      "latitude": 60.796142,
+      "longitude": 11.087856
+    },
+    {
+      "name": "Volvat Bergen - Laguneparken",
+      "latitude": 60.294731,
+      "longitude": 5.325818
+    },
+    {
+      "name": "Volvat medisinske senter",
+      "latitude": 59.933604,
+      "longitude": 10.703805
+    },
+    {
+      "name": "Volvat Stokkan",
+      "latitude": 63.434447,
+      "longitude": 10.39498
+    },
+    {
+      "name": "Værnesregionens Distriktsmedisinske Senter",
+      "latitude": 63.468801,
+      "longitude": 10.93084
+    },
+    {
+      "name": "Åsane hudlegeklinikk",
+      "latitude": 60.471086,
+      "longitude": 5.320986
+    },
+    {
+      "name": "ØreNeseHals-Senteret",
+      "latitude": 58.876947,
+      "longitude": 5.723512
+    },
+    {
+      "name": "Øyane DPS",
+      "latitude": 60.364814,
+      "longitude": 5.117027
+    },
+    {
+      "name": "Øyelegeklinikken",
+      "latitude": 63.434208,
+      "longitude": 10.393668
+    }
+  ],
+  "meta": {
+    "title": "Klinikker i Norge - Gratis nedlasting",
+    "description": "Klinikker og legevakter i Norge (OSM amenity=clinic). Inneholder 125 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Klinikker i Norge | ListBase",
+    "seo_description": "Last ned Klinikker i Norge — 125 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 125 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

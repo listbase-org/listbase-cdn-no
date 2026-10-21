@@ -1,0 +1,121 @@
+{
+  "id": "no-stavanger-banker",
+  "name": "Banker i Stavanger — SWIFT/BIC-koder",
+  "title": "Banker i Stavanger — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC codes for banks and financial institutions in NO located in the city the source records verbatim as \"STAVANGER\" (10 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 5,
+      "bank": "ACTA ASSET MANAGEMENT ASA",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "AANSNO21"
+    },
+    {
+      "id": 6,
+      "bank": "ACTA BANK ASA",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "ACBANO21"
+    },
+    {
+      "id": 51,
+      "bank": "DANSKE BANK A/S",
+      "city": "STAVANGER",
+      "branch": "(STAVANGER)",
+      "swift_code": "DABANO22SVG"
+    },
+    {
+      "id": 96,
+      "bank": "GE MONEY BANK NUF",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "MNNUNO21"
+    },
+    {
+      "id": 109,
+      "bank": "HEIMDAL FORVALTNING AS",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "HEFONO21"
+    },
+    {
+      "id": 270,
+      "bank": "SKAGEN AS",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "SKGNNO22"
+    },
+    {
+      "id": 301,
+      "bank": "SPAREBANK 1 SR-BANK ASA",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "SPRONO22"
+    },
+    {
+      "id": 324,
+      "bank": "STATOIL ASA",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "SASANO22"
+    },
+    {
+      "id": 325,
+      "bank": "STATOIL KAPITALFORVALTNING ASA",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "STKSNO22"
+    },
+    {
+      "id": 326,
+      "bank": "STAVANGER FONDSFORVALTNING AS",
+      "city": "STAVANGER",
+      "branch": "",
+      "swift_code": "STFONOK1"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Stavanger — SWIFT/BIC-koder - Gratis nedlasting",
+    "description": "SWIFT/BIC codes for banks and financial institutions in NO located in the city the source records verbatim as \"STAVANGER\" (10 institutions). Inneholder 10 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Stavanger — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Last ned Banker i Stavanger — SWIFT/BIC-koder — 10 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 10 poster / 5 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

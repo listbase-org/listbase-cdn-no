@@ -1,0 +1,2846 @@
+{
+  "id": "no-osm-natural-glacier",
+  "name": "Named glaciers in Norway",
+  "title": "Named glaciers in Norway",
+  "description": "Named glaciers in Norway, derived from OpenStreetMap POI nodes tagged natural=glacier in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 561,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adelsbreen",
+      "latitude": 62.492844,
+      "longitude": 7.714102
+    },
+    {
+      "name": "Aldegondabreen",
+      "latitude": 77.96996,
+      "longitude": 14.067074
+    },
+    {
+      "name": "Altbreen",
+      "latitude": 78.229169,
+      "longitude": 16.107505
+    },
+    {
+      "name": "Alvbreen",
+      "latitude": 61.496181,
+      "longitude": 8.204495
+    },
+    {
+      "name": "Austdalsbreen",
+      "latitude": 61.809753,
+      "longitude": 7.385472
+    },
+    {
+      "name": "Austerdalsbreen",
+      "latitude": 61.601015,
+      "longitude": 6.982777
+    },
+    {
+      "name": "Austerdalsisen",
+      "latitude": 66.520993,
+      "longitude": 14.10201
+    },
+    {
+      "name": "Austfjellfonna",
+      "latitude": 66.876857,
+      "longitude": 14.582167
+    },
+    {
+      "name": "Austgötabreen",
+      "latitude": 78.430064,
+      "longitude": 13.046743
+    },
+    {
+      "name": "Austra Leirebottsskåka",
+      "latitude": 60.509366,
+      "longitude": 7.496227
+    },
+    {
+      "name": "Austre Brøggerbreen",
+      "latitude": 78.885393,
+      "longitude": 11.817947
+    },
+    {
+      "name": "Austre Grønfjordbreen",
+      "latitude": 77.897421,
+      "longitude": 14.359185
+    },
+    {
+      "name": "Austre Helvetiabreen",
+      "latitude": 78.221771,
+      "longitude": 16.274861
+    },
+    {
+      "name": "Austre Helvetiabreen",
+      "latitude": 78.222108,
+      "longitude": 16.27663
+    },
+    {
+      "name": "Austre Kollebreen",
+      "latitude": 61.747149,
+      "longitude": 7.634223
+    },
+    {
+      "name": "Austre Memurubrean",
+      "latitude": 61.553742,
+      "longitude": 8.494026
+    },
+    {
+      "name": "Austre Okstindbreen",
+      "latitude": 66.010446,
+      "longitude": 14.289574
+    },
+    {
+      "name": "Austre Okstindbreen",
+      "latitude": 66.018457,
+      "longitude": 14.294174
+    },
+    {
+      "name": "Austre Svartfjellbreen",
+      "latitude": 65.982323,
+      "longitude": 14.370437
+    },
+    {
+      "name": "Austre Vaggasblåisen - Vákkášjiehkki",
+      "latitude": 69.78253,
+      "longitude": 20.230189
+    },
+    {
+      "name": "AustreLovenbreen",
+      "latitude": 78.878695,
+      "longitude": 12.156502
+    },
+    {
+      "name": "Baalsrudbreen",
+      "latitude": 77.913549,
+      "longitude": 14.622774
+    },
+    {
+      "name": "Basejiekŋa",
+      "latitude": 68.296774,
+      "longitude": 17.760159
+    },
+    {
+      "name": "Beatnatjiekŋa",
+      "latitude": 68.264051,
+      "longitude": 18.081621
+    },
+    {
+      "name": "Berdalsbreen",
+      "latitude": 61.436969,
+      "longitude": 7.780215
+    },
+    {
+      "name": "Bertilbreen",
+      "latitude": 78.700222,
+      "longitude": 16.2515
+    },
+    {
+      "name": "Bessedørbreen",
+      "latitude": 65.97538,
+      "longitude": 14.242074
+    },
+    {
+      "name": "Besshøbrean",
+      "latitude": 61.524537,
+      "longitude": 8.700532
+    },
+    {
+      "name": "Billesholmbreen",
+      "latitude": 77.902757,
+      "longitude": 17.140787
+    },
+    {
+      "name": "Bivrostfonna",
+      "latitude": 79.441895,
+      "longitude": 17.555233
+    },
+    {
+      "name": "Bjuvbreen",
+      "latitude": 77.905822,
+      "longitude": 17.217262
+    },
+    {
+      "name": "Bjåstadbreen",
+      "latitude": 61.336322,
+      "longitude": 6.791579
+    },
+    {
+      "name": "Bjørnabreen",
+      "latitude": 61.24689,
+      "longitude": 6.432303
+    },
+    {
+      "name": "Bjørnbrean",
+      "latitude": 61.55436,
+      "longitude": 8.141063
+    },
+    {
+      "name": "Blackbreen",
+      "latitude": 78.286141,
+      "longitude": 16.10353
+    },
+    {
+      "name": "Blekumbreen",
+      "latitude": 78.243924,
+      "longitude": 16.073271
+    },
+    {
+      "name": "Bliehtjedielhtie",
+      "latitude": 65.344288,
+      "longitude": 13.806848
+    },
+    {
+      "name": "Blikskårbreen",
+      "latitude": 62.582838,
+      "longitude": 8.101447
+    },
+    {
+      "name": "Blåbrean",
+      "latitude": 61.553734,
+      "longitude": 8.569018
+    },
+    {
+      "name": "Blåbreden",
+      "latitude": 62.055784,
+      "longitude": 6.579233
+    },
+    {
+      "name": "Blåbreen",
+      "latitude": 61.739813,
+      "longitude": 5.59481
+    },
+    {
+      "name": "Blåbreen",
+      "latitude": 62.272839,
+      "longitude": 6.545889
+    },
+    {
+      "name": "Blåbreen",
+      "latitude": 62.298611,
+      "longitude": 6.565482
+    },
+    {
+      "name": "Blåfonna",
+      "latitude": 61.427011,
+      "longitude": 5.524581
+    },
+    {
+      "name": "Blåisen",
+      "latitude": 60.55645,
+      "longitude": 7.488636
+    },
+    {
+      "name": "Blåisen",
+      "latitude": 68.869133,
+      "longitude": 17.398155
+    },
+    {
+      "name": "Blåisen",
+      "latitude": 69.206992,
+      "longitude": 20.058935
+    },
+    {
+      "name": "Blåisen",
+      "latitude": 69.462614,
+      "longitude": 19.797135
+    },
+    {
+      "name": "Blåisen",
+      "latitude": 69.956453,
+      "longitude": 20.84826
+    },
+    {
+      "name": "Blåisen - Beajojiekŋa",
+      "latitude": 68.354688,
+      "longitude": 17.825767
+    },
+    {
+      "name": "Blåisen - Olmmáijietnja",
+      "latitude": 69.498874,
+      "longitude": 19.451505
+    },
+    {
+      "name": "Blåmannsisen - Ålmåjalosjiegŋa",
+      "latitude": 67.250437,
+      "longitude": 16.080949
+    },
+    {
+      "name": "Blåskavlen",
+      "latitude": 68.358744,
+      "longitude": 14.811639
+    },
+    {
+      "name": "Bogerbreen",
+      "latitude": 78.12407,
+      "longitude": 15.63453
+    },
+    {
+      "name": "Bogerbreen",
+      "latitude": 78.124714,
+      "longitude": 15.633507
+    },
+    {
+      "name": "Bogfjellbreen",
+      "latitude": 66.66402,
+      "longitude": 14.515633
+    },
+    {
+      "name": "Bohrsbreen",
+      "latitude": 61.786426,
+      "longitude": 7.155501
+    },
+    {
+      "name": "Bondhusbrea",
+      "latitude": 60.060808,
+      "longitude": 6.308625
+    },
+    {
+      "name": "Bosarpbreen",
+      "latitude": 77.882482,
+      "longitude": 17.047435
+    },
+    {
+      "name": "Bosarpbreen",
+      "latitude": 77.882902,
+      "longitude": 17.050457
+    },
+    {
+      "name": "Brandtbreen",
+      "latitude": 78.284257,
+      "longitude": 15.995569
+    },
+    {
+      "name": "Brandtbreen",
+      "latitude": 78.284423,
+      "longitude": 15.99102
+    },
+    {
+      "name": "Brattbreen",
+      "latitude": 61.366734,
+      "longitude": 6.956297
+    },
+    {
+      "name": "Brattskavelen",
+      "latitude": 60.656428,
+      "longitude": 7.153984
+    },
+    {
+      "name": "Breidablikkbrea",
+      "latitude": 60.082945,
+      "longitude": 6.353468
+    },
+    {
+      "name": "Breifonn",
+      "latitude": 59.743714,
+      "longitude": 6.895128
+    },
+    {
+      "name": "Breifonna",
+      "latitude": 61.904155,
+      "longitude": 6.983382
+    },
+    {
+      "name": "Brekketindbreen",
+      "latitude": 62.224888,
+      "longitude": 6.70593
+    },
+    {
+      "name": "Brenndalsbreen",
+      "latitude": 61.686761,
+      "longitude": 6.886809
+    },
+    {
+      "name": "Briksdalsbreen",
+      "latitude": 61.664555,
+      "longitude": 6.888963
+    },
+    {
+      "name": "Brovresenspeatnoe",
+      "latitude": 65.778903,
+      "longitude": 13.672084
+    },
+    {
+      "name": "Brufossbrea",
+      "latitude": 60.063212,
+      "longitude": 6.338044
+    },
+    {
+      "name": "Bukkabreen",
+      "latitude": 61.434691,
+      "longitude": 7.014569
+    },
+    {
+      "name": "Bukkeholsbrean",
+      "latitude": 61.58257,
+      "longitude": 8.314665
+    },
+    {
+      "name": "Bullbreen",
+      "latitude": 78.46517,
+      "longitude": 12.631676
+    },
+    {
+      "name": "Bullbreen",
+      "latitude": 78.465559,
+      "longitude": 12.632928
+    },
+    {
+      "name": "Bødalsbreen",
+      "latitude": 61.77429,
+      "longitude": 7.095253
+    },
+    {
+      "name": "Bøverbrean",
+      "latitude": 61.548555,
+      "longitude": 8.074723
+    },
+    {
+      "name": "Charles Rabot-breen",
+      "latitude": 66.014346,
+      "longitude": 14.361195
+    },
+    {
+      "name": "Cookbreen",
+      "latitude": 79.261174,
+      "longitude": 16.494697
+    },
+    {
+      "name": "Corneliussenbreen",
+      "latitude": 65.996619,
+      "longitude": 14.371381
+    },
+    {
+      "name": "Dahlfonna",
+      "latitude": 77.894384,
+      "longitude": 14.021358
+    },
+    {
+      "name": "Daudmannsbreen",
+      "latitude": 78.228168,
+      "longitude": 13.63071
+    },
+    {
+      "name": "Den Himmelske Freds Plass",
+      "latitude": 69.40079,
+      "longitude": 19.737751
+    },
+    {
+      "name": "Dettebreen",
+      "latitude": 60.189815,
+      "longitude": 6.4883
+    },
+    {
+      "name": "Didnojiehkki",
+      "latitude": 69.274075,
+      "longitude": 20.148137
+    },
+    {
+      "name": "Dildojiehkki",
+      "latitude": 68.899967,
+      "longitude": 18.623998
+    },
+    {
+      "name": "Doaresjietnja",
+      "latitude": 69.483311,
+      "longitude": 19.197765
+    },
+    {
+      "name": "Dolkbreen",
+      "latitude": 78.200708,
+      "longitude": 18.120119
+    },
+    {
+      "name": "Dolkbreen",
+      "latitude": 78.201131,
+      "longitude": 18.120929
+    },
+    {
+      "name": "Dronningbreen",
+      "latitude": 79.262904,
+      "longitude": 11.297513
+    },
+    {
+      "name": "Dukfonna - Åejjiendielhtie",
+      "latitude": 62.898429,
+      "longitude": 9.363892
+    },
+    {
+      "name": "Dumhøbrean",
+      "latitude": 61.640061,
+      "longitude": 8.225132
+    },
+    {
+      "name": "Dunérbreen",
+      "latitude": 79.795886,
+      "longitude": 16.830744
+    },
+    {
+      "name": "Ebbabreen",
+      "latitude": 78.740149,
+      "longitude": 16.876689
+    },
+    {
+      "name": "Edvardbreen",
+      "latitude": 77.865365,
+      "longitude": 17.50867
+    },
+    {
+      "name": "Edvardbreen",
+      "latitude": 77.865823,
+      "longitude": 17.511606
+    },
+    {
+      "name": "Eggbreen",
+      "latitude": 77.96199,
+      "longitude": 14.854945
+    },
+    {
+      "name": "Eidembreen",
+      "latitude": 78.414961,
+      "longitude": 13.236578
+    },
+    {
+      "name": "Eimefonni",
+      "latitude": 60.557439,
+      "longitude": 8.000732
+    },
+    {
+      "name": "Elfenbeinbreen",
+      "latitude": 78.17798,
+      "longitude": 18.161129
+    },
+    {
+      "name": "Elfenbeinbreen",
+      "latitude": 78.179674,
+      "longitude": 18.167004
+    },
+    {
+      "name": "Engabreen",
+      "latitude": 66.682386,
+      "longitude": 13.770803
+    },
+    {
+      "name": "Erdmannbreen",
+      "latitude": 77.876373,
+      "longitude": 14.056615
+    },
+    {
+      "name": "Esmarkbreen",
+      "latitude": 78.343679,
+      "longitude": 13.741553
+    },
+    {
+      "name": "Fallbreen",
+      "latitude": 78.699295,
+      "longitude": 10.955596
+    },
+    {
+      "name": "Fallbreen",
+      "latitude": 78.699579,
+      "longitude": 10.958022
+    },
+    {
+      "name": "Fannaråkbreen",
+      "latitude": 61.521487,
+      "longitude": 7.936526
+    },
+    {
+      "name": "Ferdinandbreen",
+      "latitude": 78.711001,
+      "longitude": 16.303812
+    },
+    {
+      "name": "Fingerbreen",
+      "latitude": 66.62989,
+      "longitude": 14.372828
+    },
+    {
+      "name": "Firmbreen",
+      "latitude": 77.867475,
+      "longitude": 17.249614
+    },
+    {
+      "name": "Firmbreen",
+      "latitude": 77.867881,
+      "longitude": 17.250543
+    },
+    {
+      "name": "Fitzbillybreen",
+      "latitude": 79.299106,
+      "longitude": 17.091805
+    },
+    {
+      "name": "Flakavassfonn",
+      "latitude": 60.650283,
+      "longitude": 7.553277
+    },
+    {
+      "name": "Flatkjølen - Duolbbagjiegŋa",
+      "latitude": 67.400212,
+      "longitude": 15.989476
+    },
+    {
+      "name": "Flydalsbreen",
+      "latitude": 62.053642,
+      "longitude": 7.18076
+    },
+    {
+      "name": "Folgefonna",
+      "latitude": 60.023664,
+      "longitude": 6.349058
+    },
+    {
+      "name": "Folgefonna",
+      "latitude": 60.151009,
+      "longitude": 6.473907
+    },
+    {
+      "name": "Folgefonna",
+      "latitude": 60.201223,
+      "longitude": 6.45748
+    },
+    {
+      "name": "Fonna",
+      "latitude": 68.58177,
+      "longitude": 18.426565
+    },
+    {
+      "name": "Fonndalsbreen",
+      "latitude": 66.663616,
+      "longitude": 13.699414
+    },
+    {
+      "name": "Fornesbreen",
+      "latitude": 69.52061,
+      "longitude": 19.868249
+    },
+    {
+      "name": "Forrholtbreen",
+      "latitude": 69.691006,
+      "longitude": 20.004701
+    },
+    {
+      "name": "Fortundalsbreen",
+      "latitude": 61.734963,
+      "longitude": 7.699304
+    },
+    {
+      "name": "Fresvikbreen",
+      "latitude": 61.034112,
+      "longitude": 6.77046
+    },
+    {
+      "name": "Fridtjovbreen",
+      "latitude": 77.851093,
+      "longitude": 14.366745
+    },
+    {
+      "name": "Friggkåpa",
+      "latitude": 78.681458,
+      "longitude": 15.871292
+    },
+    {
+      "name": "Frostisen",
+      "latitude": 78.53915,
+      "longitude": 15.696686
+    },
+    {
+      "name": "Frostisen",
+      "latitude": 78.539762,
+      "longitude": 15.694195
+    },
+    {
+      "name": "Frostisen - Ruostajiekŋa",
+      "latitude": 68.232028,
+      "longitude": 17.188909
+    },
+    {
+      "name": "Frudalsbreen",
+      "latitude": 61.36531,
+      "longitude": 6.829783
+    },
+    {
+      "name": "Fugldalsbreen",
+      "latitude": 69.504852,
+      "longitude": 19.882084
+    },
+    {
+      "name": "Fåbergstølsbreen",
+      "latitude": 61.710714,
+      "longitude": 7.270594
+    },
+    {
+      "name": "Förstebreen",
+      "latitude": 79.276452,
+      "longitude": 11.153935
+    },
+    {
+      "name": "Gamvikblåisen",
+      "latitude": 69.879373,
+      "longitude": 20.276823
+    },
+    {
+      "name": "Geabreen",
+      "latitude": 78.325074,
+      "longitude": 14.034623
+    },
+    {
+      "name": "Gihccejiehkki",
+      "latitude": 69.299013,
+      "longitude": 20.261053
+    },
+    {
+      "name": "Gihtsejiegŋa",
+      "latitude": 68.014018,
+      "longitude": 16.821662
+    },
+    {
+      "name": "Gislebreen",
+      "latitude": 78.476405,
+      "longitude": 12.55244
+    },
+    {
+      "name": "Gjegnalundsbreen",
+      "latitude": 61.798765,
+      "longitude": 5.866249
+    },
+    {
+      "name": "Gjertvassbreen",
+      "latitude": 61.469865,
+      "longitude": 7.911189
+    },
+    {
+      "name": "Gjømmerdalsbreen - Durejohjiehkki",
+      "latitude": 69.426119,
+      "longitude": 19.370976
+    },
+    {
+      "name": "Gleditschfonna",
+      "latitude": 77.909305,
+      "longitude": 14.679003
+    },
+    {
+      "name": "Glitterbrean",
+      "latitude": 61.649122,
+      "longitude": 8.570254
+    },
+    {
+      "name": "Glombreen",
+      "latitude": 66.850003,
+      "longitude": 13.938287
+    },
+    {
+      "name": "Goahtejiehkki",
+      "latitude": 69.694335,
+      "longitude": 20.663754
+    },
+    {
+      "name": "Goasstejiegŋa",
+      "latitude": 67.894287,
+      "longitude": 16.13002
+    },
+    {
+      "name": "Grasdalsbreen",
+      "latitude": 61.997245,
+      "longitude": 7.283367
+    },
+    {
+      "name": "Greinbreen",
+      "latitude": 61.72303,
+      "longitude": 7.529302
+    },
+    {
+      "name": "Grjotåbreen",
+      "latitude": 61.813251,
+      "longitude": 8.038159
+    },
+    {
+      "name": "Grotbrean",
+      "latitude": 61.664686,
+      "longitude": 8.555722
+    },
+    {
+      "name": "Grovabreen",
+      "latitude": 61.483118,
+      "longitude": 6.519521
+    },
+    {
+      "name": "Gruvfonna",
+      "latitude": 77.980121,
+      "longitude": 16.71811
+    },
+    {
+      "name": "Gruvfonna",
+      "latitude": 77.980636,
+      "longitude": 16.717744
+    },
+    {
+      "name": "Gryteskarvbreen",
+      "latitude": 61.004924,
+      "longitude": 6.799374
+    },
+    {
+      "name": "Gråfjellsbrea",
+      "latitude": 60.094728,
+      "longitude": 6.380494
+    },
+    {
+      "name": "Grånutbreen",
+      "latitude": 77.790714,
+      "longitude": 14.397332
+    },
+    {
+      "name": "Gråsubrean",
+      "latitude": 61.654709,
+      "longitude": 8.598194
+    },
+    {
+      "name": "Gråtåtindfonna",
+      "latitude": 66.927019,
+      "longitude": 14.592247
+    },
+    {
+      "name": "Gullfaksebreen",
+      "latitude": 79.559748,
+      "longitude": 17.216966
+    },
+    {
+      "name": "Gullmorbreen",
+      "latitude": 62.230548,
+      "longitude": 6.68671
+    },
+    {
+      "name": "Gunvordalsbreen",
+      "latitude": 61.31413,
+      "longitude": 6.802573
+    },
+    {
+      "name": "Gåvdesfonna",
+      "latitude": 66.899568,
+      "longitude": 14.573223
+    },
+    {
+      "name": "Habostadbreen",
+      "latitude": 62.229648,
+      "longitude": 6.714747
+    },
+    {
+      "name": "Habostadbreen",
+      "latitude": 62.237669,
+      "longitude": 6.70927
+    },
+    {
+      "name": "Habresfonna",
+      "latitude": 66.889061,
+      "longitude": 14.513776
+    },
+    {
+      "name": "Hagermanbreen",
+      "latitude": 77.880597,
+      "longitude": 17.45154
+    },
+    {
+      "name": "Hagermanbreen",
+      "latitude": 77.881109,
+      "longitude": 17.455502
+    },
+    {
+      "name": "Hans Pålsa-breen",
+      "latitude": 66.736721,
+      "longitude": 14.478798
+    },
+    {
+      "name": "Harbardsbreen",
+      "latitude": 61.685129,
+      "longitude": 7.668248
+    },
+    {
+      "name": "Hardangerjøkulen",
+      "latitude": 60.544337,
+      "longitude": 7.419223
+    },
+    {
+      "name": "Harrietbreen",
+      "latitude": 78.267961,
+      "longitude": 13.604001
+    },
+    {
+      "name": "Harrietbreen",
+      "latitude": 78.267982,
+      "longitude": 13.607133
+    },
+    {
+      "name": "Haugabreen",
+      "latitude": 61.655635,
+      "longitude": 6.726387
+    },
+    {
+      "name": "Hayesbreen",
+      "latitude": 78.389143,
+      "longitude": 18.408832
+    },
+    {
+      "name": "Hayesbreen",
+      "latitude": 78.38952,
+      "longitude": 18.40436
+    },
+    {
+      "name": "Heftyebreen",
+      "latitude": 78.0021,
+      "longitude": 13.985883
+    },
+    {
+      "name": "Heimaste Hestbreen",
+      "latitude": 61.748383,
+      "longitude": 8.104586
+    },
+    {
+      "name": "Heksebreen",
+      "latitude": 78.389926,
+      "longitude": 13.411114
+    },
+    {
+      "name": "Heksebreen",
+      "latitude": 78.390262,
+      "longitude": 13.399794
+    },
+    {
+      "name": "Heksetebrean",
+      "latitude": 61.739422,
+      "longitude": 8.142294
+    },
+    {
+      "name": "Hellefonna",
+      "latitude": 78.132843,
+      "longitude": 17.589731
+    },
+    {
+      "name": "Hellefonna",
+      "latitude": 78.133535,
+      "longitude": 17.591605
+    },
+    {
+      "name": "Hellevassfonni",
+      "latitude": 60.611557,
+      "longitude": 7.725989
+    },
+    {
+      "name": "Hellstugubrean",
+      "latitude": 61.56003,
+      "longitude": 8.436322
+    },
+    {
+      "name": "Hengfonna",
+      "latitude": 66.82548,
+      "longitude": 14.469758
+    },
+    {
+      "name": "Hestbrean",
+      "latitude": 61.753039,
+      "longitude": 8.151991
+    },
+    {
+      "name": "Hestbreen",
+      "latitude": 61.483551,
+      "longitude": 7.123491
+    },
+    {
+      "name": "Hestebreen",
+      "latitude": 62.037094,
+      "longitude": 7.18786
+    },
+    {
+      "name": "Hestefonni",
+      "latitude": 60.958675,
+      "longitude": 7.616811
+    },
+    {
+      "name": "Hestfonni",
+      "latitude": 61.773237,
+      "longitude": 8.161538
+    },
+    {
+      "name": "Heuglinbreen",
+      "latitude": 78.37497,
+      "longitude": 18.802124
+    },
+    {
+      "name": "Heuglinbreen",
+      "latitude": 78.375276,
+      "longitude": 18.805161
+    },
+    {
+      "name": "Himingbjørgfonna",
+      "latitude": 79.267728,
+      "longitude": 16.701013
+    },
+    {
+      "name": "Hiorthbreen",
+      "latitude": 78.268876,
+      "longitude": 15.8418
+    },
+    {
+      "name": "Hoelbreen",
+      "latitude": 78.745652,
+      "longitude": 16.216246
+    },
+    {
+      "name": "Hoemsbreen",
+      "latitude": 62.564271,
+      "longitude": 8.061874
+    },
+    {
+      "name": "Holåbreen",
+      "latitude": 61.760431,
+      "longitude": 7.946859
+    },
+    {
+      "name": "Holåbreen",
+      "latitude": 61.876066,
+      "longitude": 7.633521
+    },
+    {
+      "name": "Hurrabrean",
+      "latitude": 61.605527,
+      "longitude": 8.13809
+    },
+    {
+      "name": "Hurrabrean",
+      "latitude": 61.607744,
+      "longitude": 8.122011
+    },
+    {
+      "name": "Hydrografbreen",
+      "latitude": 78.453856,
+      "longitude": 12.743614
+    },
+    {
+      "name": "Hydrografbreen",
+      "latitude": 78.454029,
+      "longitude": 12.74625
+    },
+    {
+      "name": "Høgtindbreen",
+      "latitude": 66.975516,
+      "longitude": 14.54947
+    },
+    {
+      "name": "Høgtuvbreen",
+      "latitude": 66.436057,
+      "longitude": 13.671145
+    },
+    {
+      "name": "Høgvaglbreen",
+      "latitude": 61.513954,
+      "longitude": 8.264137
+    },
+    {
+      "name": "Høybrean",
+      "latitude": 61.720717,
+      "longitude": 8.010266
+    },
+    {
+      "name": "Illstigbreen",
+      "latitude": 62.244563,
+      "longitude": 7.611332
+    },
+    {
+      "name": "Innerbreen",
+      "latitude": 78.101081,
+      "longitude": 17.391138
+    },
+    {
+      "name": "Isdaljøkelen",
+      "latitude": 70.173547,
+      "longitude": 21.968474
+    },
+    {
+      "name": "Iskollbreen",
+      "latitude": 77.825847,
+      "longitude": 14.88189
+    },
+    {
+      "name": "Isrosa",
+      "latitude": 78.176602,
+      "longitude": 18.426991
+    },
+    {
+      "name": "Isrosa",
+      "latitude": 78.17735,
+      "longitude": 18.430111
+    },
+    {
+      "name": "Isskarbreen",
+      "latitude": 69.643309,
+      "longitude": 19.986809
+    },
+    {
+      "name": "Jervåfonna",
+      "latitude": 66.851,
+      "longitude": 14.52755
+    },
+    {
+      "name": "Jinnbreen",
+      "latitude": 78.150512,
+      "longitude": 17.473423
+    },
+    {
+      "name": "Jinnbreen",
+      "latitude": 78.151648,
+      "longitude": 17.464867
+    },
+    {
+      "name": "Jostedalsbreen",
+      "latitude": 61.675171,
+      "longitude": 7.063414
+    },
+    {
+      "name": "Jostefonni",
+      "latitude": 61.422021,
+      "longitude": 6.550764
+    },
+    {
+      "name": "Jotunfonna",
+      "latitude": 78.608308,
+      "longitude": 16.1019
+    },
+    {
+      "name": "Juvaskjellebreen",
+      "latitude": 61.671086,
+      "longitude": 8.344938
+    },
+    {
+      "name": "Juvfonne",
+      "latitude": 61.676969,
+      "longitude": 8.349237
+    },
+    {
+      "name": "Kaldfonna",
+      "latitude": 62.682893,
+      "longitude": 8.681666
+    },
+    {
+      "name": "Kalvdalsbreen",
+      "latitude": 77.91346,
+      "longitude": 15.069931
+    },
+    {
+      "name": "Kampliisen",
+      "latitude": 66.573485,
+      "longitude": 14.02118
+    },
+    {
+      "name": "Karlbreen",
+      "latitude": 79.23771,
+      "longitude": 11.540024
+    },
+    {
+      "name": "Kiærbreen",
+      "latitude": 78.311207,
+      "longitude": 13.745821
+    },
+    {
+      "name": "Kiærbreen",
+      "latitude": 78.311711,
+      "longitude": 13.746175
+    },
+    {
+      "name": "Kjerulfbreen",
+      "latitude": 78.308382,
+      "longitude": 13.611668
+    },
+    {
+      "name": "Kjosbreen",
+      "latitude": 69.603012,
+      "longitude": 20.14529
+    },
+    {
+      "name": "Klausbreen",
+      "latitude": 77.896917,
+      "longitude": 13.969421
+    },
+    {
+      "name": "Klauvbreen",
+      "latitude": 78.297083,
+      "longitude": 18.185045
+    },
+    {
+      "name": "Klauvbreen",
+      "latitude": 78.297799,
+      "longitude": 18.185947
+    },
+    {
+      "name": "Kleivbreen",
+      "latitude": 77.911831,
+      "longitude": 17.342975
+    },
+    {
+      "name": "Kleivbreen",
+      "latitude": 77.912271,
+      "longitude": 17.340277
+    },
+    {
+      "name": "Klunsbreen",
+      "latitude": 78.153857,
+      "longitude": 18.225196
+    },
+    {
+      "name": "Klunsbreen",
+      "latitude": 78.15444,
+      "longitude": 18.227595
+    },
+    {
+      "name": "Knorringbreen",
+      "latitude": 78.295221,
+      "longitude": 16.003581
+    },
+    {
+      "name": "Koldedalsbreen",
+      "latitude": 61.360754,
+      "longitude": 8.135451
+    },
+    {
+      "name": "Koldrombreen",
+      "latitude": 77.893532,
+      "longitude": 17.101224
+    },
+    {
+      "name": "Kolfjellbreen",
+      "latitude": 77.814606,
+      "longitude": 14.937554
+    },
+    {
+      "name": "Koppangsbreen",
+      "latitude": 69.685338,
+      "longitude": 20.145119
+    },
+    {
+      "name": "Kristenbreen",
+      "latitude": 61.500484,
+      "longitude": 8.189654
+    },
+    {
+      "name": "Krokbreen",
+      "latitude": 78.321428,
+      "longitude": 13.524097
+    },
+    {
+      "name": "Krokbreen",
+      "latitude": 78.321829,
+      "longitude": 13.529603
+    },
+    {
+      "name": "Krokfjellbreen",
+      "latitude": 78.310734,
+      "longitude": 13.527915
+    },
+    {
+      "name": "Krokfjellbreen",
+      "latitude": 78.311013,
+      "longitude": 13.52971
+    },
+    {
+      "name": "Kroppbreen",
+      "latitude": 77.892136,
+      "longitude": 17.397647
+    },
+    {
+      "name": "Kroppbreen",
+      "latitude": 77.892561,
+      "longitude": 17.398843
+    },
+    {
+      "name": "Kupbreen",
+      "latitude": 61.806258,
+      "longitude": 7.45195
+    },
+    {
+      "name": "Kvitekoll",
+      "latitude": 61.545763,
+      "longitude": 7.050568
+    },
+    {
+      "name": "Kvitingsbreen",
+      "latitude": 61.845231,
+      "longitude": 8.091333
+    },
+    {
+      "name": "Königsbergbreen",
+      "latitude": 78.336497,
+      "longitude": 18.616608
+    },
+    {
+      "name": "Langafonni",
+      "latitude": 60.892755,
+      "longitude": 7.483498
+    },
+    {
+      "name": "Langedalsbrean",
+      "latitude": 61.403726,
+      "longitude": 8.490716
+    },
+    {
+      "name": "Langedalsbreen",
+      "latitude": 61.24075,
+      "longitude": 6.39766
+    },
+    {
+      "name": "Langfjordjøkelen - Bártnatvuonjiehkki",
+      "latitude": 70.136244,
+      "longitude": 21.731286
+    },
+    {
+      "name": "Langhansbreen",
+      "latitude": 78.459235,
+      "longitude": 18.542776
+    },
+    {
+      "name": "Langhansbreen",
+      "latitude": 78.460109,
+      "longitude": 18.542295
+    },
+    {
+      "name": "Lappbreen",
+      "latitude": 66.589759,
+      "longitude": 14.322698
+    },
+    {
+      "name": "Lappbreen",
+      "latitude": 78.650227,
+      "longitude": 14.246884
+    },
+    {
+      "name": "Larsbreen",
+      "latitude": 78.173626,
+      "longitude": 15.55586
+    },
+    {
+      "name": "Leirbrean",
+      "latitude": 61.562204,
+      "longitude": 8.108818
+    },
+    {
+      "name": "Leirbreen",
+      "latitude": 66.823665,
+      "longitude": 14.427223
+    },
+    {
+      "name": "Lenangsbreen",
+      "latitude": 69.697673,
+      "longitude": 20.057822
+    },
+    {
+      "name": "Lenangsbreen",
+      "latitude": 69.709495,
+      "longitude": 20.038807
+    },
+    {
+      "name": "Lendbreen ice patch",
+      "latitude": 61.822394,
+      "longitude": 8.313233
+    },
+    {
+      "name": "Lexfjellbreen",
+      "latitude": 78.262005,
+      "longitude": 13.477677
+    },
+    {
+      "name": "Lexfjellbreen",
+      "latitude": 78.262169,
+      "longitude": 13.472712
+    },
+    {
+      "name": "Likkájiehkki",
+      "latitude": 68.926263,
+      "longitude": 19.894637
+    },
+    {
+      "name": "Linnébreen",
+      "latitude": 77.957307,
+      "longitude": 13.903887
+    },
+    {
+      "name": "Lináisen - Linájiegŋa",
+      "latitude": 67.255148,
+      "longitude": 16.357441
+    },
+    {
+      "name": "Litlbreen",
+      "latitude": 66.692283,
+      "longitude": 13.830456
+    },
+    {
+      "name": "Ljøsabreen",
+      "latitude": 62.31349,
+      "longitude": 6.546708
+    },
+    {
+      "name": "Lognbreen",
+      "latitude": 77.828999,
+      "longitude": 17.181527
+    },
+    {
+      "name": "Lokebreen",
+      "latitude": 61.584933,
+      "longitude": 6.938246
+    },
+    {
+      "name": "Longyearbreen",
+      "latitude": 78.172186,
+      "longitude": 15.467652
+    },
+    {
+      "name": "Luitpoldbreen",
+      "latitude": 78.361501,
+      "longitude": 18.376197
+    },
+    {
+      "name": "Luitpoldbreen",
+      "latitude": 78.362191,
+      "longitude": 18.381094
+    },
+    {
+      "name": "Lumpbreen",
+      "latitude": 78.216002,
+      "longitude": 18.030386
+    },
+    {
+      "name": "Lumpbreen",
+      "latitude": 78.216249,
+      "longitude": 18.034474
+    },
+    {
+      "name": "Luovttat",
+      "latitude": 69.767606,
+      "longitude": 21.525863
+    },
+    {
+      "name": "Lysebreen",
+      "latitude": 61.425088,
+      "longitude": 7.007365
+    },
+    {
+      "name": "Løvliebreen",
+      "latitude": 78.472894,
+      "longitude": 13.077094
+    },
+    {
+      "name": "Manbreen",
+      "latitude": 79.583191,
+      "longitude": 17.149648
+    },
+    {
+      "name": "Maradalsbreen",
+      "latitude": 61.456826,
+      "longitude": 7.909995
+    },
+    {
+      "name": "Marmorbreen",
+      "latitude": 78.179006,
+      "longitude": 17.831295
+    },
+    {
+      "name": "Marmorbreen",
+      "latitude": 78.179656,
+      "longitude": 17.845966
+    },
+    {
+      "name": "Marstranderbreen",
+      "latitude": 77.931806,
+      "longitude": 14.972924
+    },
+    {
+      "name": "McWhaebreen",
+      "latitude": 78.770576,
+      "longitude": 16.650932
+    },
+    {
+      "name": "Mediumbreen",
+      "latitude": 78.539299,
+      "longitude": 14.136543
+    },
+    {
+      "name": "Mettebreen",
+      "latitude": 77.824653,
+      "longitude": 17.290743
+    },
+    {
+      "name": "Mettebreen",
+      "latitude": 77.824872,
+      "longitude": 17.292856
+    },
+    {
+      "name": "Middalsbreen",
+      "latitude": 60.565108,
+      "longitude": 7.459953
+    },
+    {
+      "name": "Midtbreen - Gaskajiehkki",
+      "latitude": 69.467377,
+      "longitude": 19.924794
+    },
+    {
+      "name": "Midthøbreen",
+      "latitude": 62.50277,
+      "longitude": 8.020479
+    },
+    {
+      "name": "Midtmaradalsbreen",
+      "latitude": 61.447855,
+      "longitude": 7.85722
+    },
+    {
+      "name": "Midtre Gjelåbreen",
+      "latitude": 61.77838,
+      "longitude": 7.921277
+    },
+    {
+      "name": "Midtre Helvetiabreen",
+      "latitude": 78.222097,
+      "longitude": 16.222545
+    },
+    {
+      "name": "Midtre Lovénbreen",
+      "latitude": 78.875463,
+      "longitude": 12.038689
+    },
+    {
+      "name": "Millerbreen",
+      "latitude": 78.699299,
+      "longitude": 10.861752
+    },
+    {
+      "name": "Mjølkedalsbreen",
+      "latitude": 61.432426,
+      "longitude": 8.182738
+    },
+    {
+      "name": "Muninbreen",
+      "latitude": 78.729871,
+      "longitude": 16.125139
+    },
+    {
+      "name": "Muninbreen",
+      "latitude": 78.73064,
+      "longitude": 16.129299
+    },
+    {
+      "name": "Muohtaguobla",
+      "latitude": 68.214217,
+      "longitude": 18.002453
+    },
+    {
+      "name": "Murraybreen",
+      "latitude": 78.725532,
+      "longitude": 10.957778
+    },
+    {
+      "name": "Myklebustbreen",
+      "latitude": 61.700418,
+      "longitude": 6.708698
+    },
+    {
+      "name": "Myrdalsbreen",
+      "latitude": 61.294234,
+      "longitude": 6.814851
+    },
+    {
+      "name": "Mälarbreen",
+      "latitude": 78.264109,
+      "longitude": 16.071011
+    },
+    {
+      "name": "Mårådalsbreen",
+      "latitude": 61.934886,
+      "longitude": 7.40538
+    },
+    {
+      "name": "Nakkebreen",
+      "latitude": 62.275998,
+      "longitude": 7.471672
+    },
+    {
+      "name": "Nammajietnja",
+      "latitude": 69.520804,
+      "longitude": 19.391961
+    },
+    {
+      "name": "Nautbreen",
+      "latitude": 61.998275,
+      "longitude": 7.183121
+    },
+    {
+      "name": "Nautbreen",
+      "latitude": 62.01537,
+      "longitude": 7.16569
+    },
+    {
+      "name": "Nedre Buarbreen",
+      "latitude": 60.033817,
+      "longitude": 6.43227
+    },
+    {
+      "name": "Nerisen - Vuollejiehkki",
+      "latitude": 70.131607,
+      "longitude": 22.064085
+    },
+    {
+      "name": "Nigardsbreen",
+      "latitude": 61.690366,
+      "longitude": 7.175587
+    },
+    {
+      "name": "Njukafonni",
+      "latitude": 60.85498,
+      "longitude": 7.019779
+    },
+    {
+      "name": "Noammerjiehkki",
+      "latitude": 69.561986,
+      "longitude": 20.799532
+    },
+    {
+      "name": "Nordenskiöldbreen",
+      "latitude": 78.669848,
+      "longitude": 17.085662
+    },
+    {
+      "name": "Nordenskiöldbreen",
+      "latitude": 78.670344,
+      "longitude": 17.088069
+    },
+    {
+      "name": "Nordfjordbreen",
+      "latitude": 66.62775,
+      "longitude": 13.760986
+    },
+    {
+      "name": "Nordfjordbreen",
+      "latitude": 66.641894,
+      "longitude": 13.75399
+    },
+    {
+      "name": "Nordfjordbreen",
+      "latitude": 66.645541,
+      "longitude": 13.755706
+    },
+    {
+      "name": "Nordmannsfonna",
+      "latitude": 78.295581,
+      "longitude": 18.347843
+    },
+    {
+      "name": "Nordmannsjøkelen - Dáččavuonjiehkki",
+      "latitude": 70.452844,
+      "longitude": 23.079869
+    },
+    {
+      "name": "Nordre Aurdalsbre",
+      "latitude": 77.87359,
+      "longitude": 14.46549
+    },
+    {
+      "name": "Nordre Bayfjellbreen",
+      "latitude": 78.138555,
+      "longitude": 15.686687
+    },
+    {
+      "name": "Nupsfonn",
+      "latitude": 59.898544,
+      "longitude": 7.152944
+    },
+    {
+      "name": "Nørdre Illåbrean",
+      "latitude": 61.614443,
+      "longitude": 8.273327
+    },
+    {
+      "name": "Oksfjellbreen",
+      "latitude": 65.9712,
+      "longitude": 14.183315
+    },
+    {
+      "name": "Oksfjellbreen",
+      "latitude": 65.972822,
+      "longitude": 14.183315
+    },
+    {
+      "name": "Oksskoltbreen",
+      "latitude": 66.021824,
+      "longitude": 14.340167
+    },
+    {
+      "name": "Okstindbreen",
+      "latitude": 65.99433,
+      "longitude": 14.243626
+    },
+    {
+      "name": "Omnsbreen",
+      "latitude": 60.65665,
+      "longitude": 7.481313
+    },
+    {
+      "name": "Oppdalsbreen",
+      "latitude": 78.090459,
+      "longitude": 17.489529
+    },
+    {
+      "name": "Petermannbreen",
+      "latitude": 78.498083,
+      "longitude": 18.709722
+    },
+    {
+      "name": "Piggbreen",
+      "latitude": 61.637706,
+      "longitude": 8.323125
+    },
+    {
+      "name": "Platåbreen",
+      "latitude": 78.188105,
+      "longitude": 15.448679
+    },
+    {
+      "name": "Protektorbreen",
+      "latitude": 78.237029,
+      "longitude": 13.676483
+    },
+    {
+      "name": "Protektorbreen",
+      "latitude": 78.237205,
+      "longitude": 13.67852
+    },
+    {
+      "name": "Pyttabrea",
+      "latitude": 60.040817,
+      "longitude": 6.264293
+    },
+    {
+      "name": "Rabotbreen",
+      "latitude": 78.312477,
+      "longitude": 18.088606
+    },
+    {
+      "name": "Ragnarbreen",
+      "latitude": 78.759602,
+      "longitude": 16.737577
+    },
+    {
+      "name": "Raudeggbreen",
+      "latitude": 61.953458,
+      "longitude": 7.475307
+    },
+    {
+      "name": "Reindalsblåisen",
+      "latitude": 69.76163,
+      "longitude": 20.170731
+    },
+    {
+      "name": "Reinkalvfonna",
+      "latitude": 66.843289,
+      "longitude": 14.403986
+    },
+    {
+      "name": "Reinsnosfonni",
+      "latitude": 59.93008,
+      "longitude": 6.812124
+    },
+    {
+      "name": "Reinvikisen",
+      "latitude": 67.725296,
+      "longitude": 15.628184
+    },
+    {
+      "name": "Rembesdalskåka",
+      "latitude": 60.537048,
+      "longitude": 7.32113
+    },
+    {
+      "name": "Renardbreen",
+      "latitude": 77.502214,
+      "longitude": 14.342635
+    },
+    {
+      "name": "Renardbreen",
+      "latitude": 77.502974,
+      "longitude": 14.3484
+    },
+    {
+      "name": "Riehppejiehkki",
+      "latitude": 69.300634,
+      "longitude": 20.065673
+    },
+    {
+      "name": "Ringhornbreen",
+      "latitude": 79.334942,
+      "longitude": 16.491456
+    },
+    {
+      "name": "Ringsbreen",
+      "latitude": 61.44805,
+      "longitude": 7.803384
+    },
+    {
+      "name": "Rivgojiekŋa",
+      "latitude": 68.08551,
+      "longitude": 18.026139
+    },
+    {
+      "name": "Rivtindbreda",
+      "latitude": 68.60013,
+      "longitude": 17.931314
+    },
+    {
+      "name": "Rottenvikbreen - Guohcavuohjiehkki",
+      "latitude": 69.61203,
+      "longitude": 20.141362
+    },
+    {
+      "name": "Royal Societybreen",
+      "latitude": 79.31093,
+      "longitude": 16.519943
+    },
+    {
+      "name": "Runningbrean",
+      "latitude": 61.76337,
+      "longitude": 8.18092
+    },
+    {
+      "name": "Russetindbreen",
+      "latitude": 69.188979,
+      "longitude": 19.438411
+    },
+    {
+      "name": "Rypdalsbreen",
+      "latitude": 69.510817,
+      "longitude": 19.928735
+    },
+    {
+      "name": "Rypefjellbreen",
+      "latitude": 77.89614,
+      "longitude": 15.142762
+    },
+    {
+      "name": "Rypefjellbreen",
+      "latitude": 77.896319,
+      "longitude": 15.145539
+    },
+    {
+      "name": "Rágojiegŋa",
+      "latitude": 67.421219,
+      "longitude": 16.074693
+    },
+    {
+      "name": "Rødbergdalsbreen",
+      "latitude": 69.55209,
+      "longitude": 19.994765
+    },
+    {
+      "name": "Rønnåfonna",
+      "latitude": 66.895818,
+      "longitude": 14.599844
+    },
+    {
+      "name": "Sagabreen",
+      "latitude": 77.777587,
+      "longitude": 14.407616
+    },
+    {
+      "name": "Sandelvbrean",
+      "latitude": 61.536365,
+      "longitude": 8.134329
+    },
+    {
+      "name": "Sandfonna",
+      "latitude": 62.069194,
+      "longitude": 7.173487
+    },
+    {
+      "name": "Sandåbreen",
+      "latitude": 61.931247,
+      "longitude": 7.591222
+    },
+    {
+      "name": "Sandåbreen",
+      "latitude": 61.931408,
+      "longitude": 7.592515
+    },
+    {
+      "name": "Sauabreen",
+      "latitude": 59.971641,
+      "longitude": 6.422306
+    },
+    {
+      "name": "Sealggajiekŋa",
+      "latitude": 68.25184,
+      "longitude": 17.82176
+    },
+    {
+      "name": "Seilandsjøkelen - Nuortageašjiehkki",
+      "latitude": 70.412377,
+      "longitude": 23.25991
+    },
+    {
+      "name": "Sekkebreen",
+      "latitude": 61.859397,
+      "longitude": 7.562674
+    },
+    {
+      "name": "Sijdasjiegŋa",
+      "latitude": 67.35784,
+      "longitude": 15.887097
+    },
+    {
+      "name": "Simlebreen - Vátjamjåkjiehkke",
+      "latitude": 66.844501,
+      "longitude": 14.48581
+    },
+    {
+      "name": "Simlefonna",
+      "latitude": 66.866667,
+      "longitude": 14.535467
+    },
+    {
+      "name": "Simlefonni",
+      "latitude": 59.739538,
+      "longitude": 7.293901
+    },
+    {
+      "name": "Skagastølsbreen",
+      "latitude": 61.460521,
+      "longitude": 7.844753
+    },
+    {
+      "name": "Skarvedalsbreen",
+      "latitude": 61.384894,
+      "longitude": 6.455896
+    },
+    {
+      "name": "Skarvflybrean",
+      "latitude": 61.43907,
+      "longitude": 8.600281
+    },
+    {
+      "name": "Skarvflyløyftbrean",
+      "latitude": 61.422858,
+      "longitude": 8.614744
+    },
+    {
+      "name": "Skavlefjellbreen",
+      "latitude": 77.952262,
+      "longitude": 14.891791
+    },
+    {
+      "name": "Skinfaksebreen",
+      "latitude": 79.485237,
+      "longitude": 17.208996
+    },
+    {
+      "name": "Skjellåfonna",
+      "latitude": 66.83901,
+      "longitude": 14.502289
+    },
+    {
+      "name": "Skjelåtindbreen",
+      "latitude": 66.726677,
+      "longitude": 14.446518
+    },
+    {
+      "name": "Skjerdingdalsbreen",
+      "latitude": 62.013716,
+      "longitude": 7.250405
+    },
+    {
+      "name": "Skogadalsbreen",
+      "latitude": 61.439449,
+      "longitude": 8.142716
+    },
+    {
+      "name": "Skomabreen",
+      "latitude": 60.697528,
+      "longitude": 7.367899
+    },
+    {
+      "name": "Skrombergabreen",
+      "latitude": 77.877894,
+      "longitude": 16.967944
+    },
+    {
+      "name": "Skrottbreen",
+      "latitude": 78.244313,
+      "longitude": 18.100016
+    },
+    {
+      "name": "Skrottbreen",
+      "latitude": 78.246232,
+      "longitude": 18.100919
+    },
+    {
+      "name": "Skruisbreen",
+      "latitude": 78.152268,
+      "longitude": 17.815369
+    },
+    {
+      "name": "Skruisbreen",
+      "latitude": 78.152878,
+      "longitude": 17.804375
+    },
+    {
+      "name": "Skruklebreen",
+      "latitude": 61.50729,
+      "longitude": 7.081245
+    },
+    {
+      "name": "Skråisen",
+      "latitude": 67.407405,
+      "longitude": 15.925957
+    },
+    {
+      "name": "Skutbreen",
+      "latitude": 78.0389,
+      "longitude": 17.531044
+    },
+    {
+      "name": "Skåfonn",
+      "latitude": 59.755503,
+      "longitude": 7.241216
+    },
+    {
+      "name": "Skålabreen",
+      "latitude": 61.868829,
+      "longitude": 7.004396
+    },
+    {
+      "name": "Skårisen",
+      "latitude": 68.138529,
+      "longitude": 16.916647
+    },
+    {
+      "name": "Slettmarkbrean",
+      "latitude": 61.402747,
+      "longitude": 8.460304
+    },
+    {
+      "name": "Slingsbybreen",
+      "latitude": 61.458766,
+      "longitude": 7.878607
+    },
+    {
+      "name": "Smálatjietnja",
+      "latitude": 69.457086,
+      "longitude": 19.303152
+    },
+    {
+      "name": "Småtindisen",
+      "latitude": 67.006703,
+      "longitude": 14.340857
+    },
+    {
+      "name": "Smørstabbreen",
+      "latitude": 61.541937,
+      "longitude": 8.10802
+    },
+    {
+      "name": "Snøggeken",
+      "latitude": 61.389151,
+      "longitude": 8.109088
+    },
+    {
+      "name": "Snøkampbreen",
+      "latitude": 77.895889,
+      "longitude": 14.918489
+    },
+    {
+      "name": "Solfonna",
+      "latitude": 77.978272,
+      "longitude": 13.809862
+    },
+    {
+      "name": "Sorbmejiehkki",
+      "latitude": 69.728857,
+      "longitude": 20.638511
+    },
+    {
+      "name": "Spørteggbreen",
+      "latitude": 61.618287,
+      "longitude": 7.459303
+    },
+    {
+      "name": "Stabbarpbreen",
+      "latitude": 77.86468,
+      "longitude": 16.962587
+    },
+    {
+      "name": "Stabbarpbreen",
+      "latitude": 77.865261,
+      "longitude": 16.967008
+    },
+    {
+      "name": "Stallobreen",
+      "latitude": 78.374745,
+      "longitude": 13.30747
+    },
+    {
+      "name": "Stallobreen",
+      "latitude": 78.374879,
+      "longitude": 13.294932
+    },
+    {
+      "name": "Steenbreen",
+      "latitude": 78.863856,
+      "longitude": 11.936671
+    },
+    {
+      "name": "Stefjellblåisen",
+      "latitude": 69.795377,
+      "longitude": 20.158178
+    },
+    {
+      "name": "Steikvassbreen",
+      "latitude": 65.975785,
+      "longitude": 14.283721
+    },
+    {
+      "name": "Steindalsbreen",
+      "latitude": 61.417855,
+      "longitude": 6.882389
+    },
+    {
+      "name": "Steindalsbreen",
+      "latitude": 69.392705,
+      "longitude": 19.85872
+    },
+    {
+      "name": "Steinflybrean",
+      "latitude": 61.446345,
+      "longitude": 8.672425
+    },
+    {
+      "name": "Stenehjembreen",
+      "latitude": 77.827804,
+      "longitude": 14.965035
+    },
+    {
+      "name": "Stensiöbreen",
+      "latitude": 78.749112,
+      "longitude": 16.05317
+    },
+    {
+      "name": "Storbrean",
+      "latitude": 61.572809,
+      "longitude": 8.140609
+    },
+    {
+      "name": "Storbrean",
+      "latitude": 62.362937,
+      "longitude": 9.408933
+    },
+    {
+      "name": "Storbreen",
+      "latitude": 62.102641,
+      "longitude": 8.070888
+    },
+    {
+      "name": "Storbreen",
+      "latitude": 62.110987,
+      "longitude": 8.103102
+    },
+    {
+      "name": "Storbreen",
+      "latitude": 62.117841,
+      "longitude": 8.104393
+    },
+    {
+      "name": "Storbreen",
+      "latitude": 62.1198,
+      "longitude": 8.094185
+    },
+    {
+      "name": "Storbreen",
+      "latitude": 62.244449,
+      "longitude": 7.577713
+    },
+    {
+      "name": "Storbreen",
+      "latitude": 62.350775,
+      "longitude": 7.768738
+    },
+    {
+      "name": "Storbreen",
+      "latitude": 62.520548,
+      "longitude": 8.264025
+    },
+    {
+      "name": "Storbreen",
+      "latitude": 62.536055,
+      "longitude": 7.99179
+    },
+    {
+      "name": "Storebottfonne",
+      "latitude": 61.034927,
+      "longitude": 8.426477
+    },
+    {
+      "name": "Storegrovbreen",
+      "latitude": 61.841331,
+      "longitude": 7.585624
+    },
+    {
+      "name": "Storfjellbreen",
+      "latitude": 62.29487,
+      "longitude": 7.683541
+    },
+    {
+      "name": "Storfonn",
+      "latitude": 60.668593,
+      "longitude": 7.579696
+    },
+    {
+      "name": "Storjuvbrean",
+      "latitude": 61.641301,
+      "longitude": 8.288801
+    },
+    {
+      "name": "Storløypbreen",
+      "latitude": 62.180837,
+      "longitude": 7.995471
+    },
+    {
+      "name": "Storskavlen",
+      "latitude": 60.751361,
+      "longitude": 7.311432
+    },
+    {
+      "name": "Storsteinsfjellbreen",
+      "latitude": 68.223656,
+      "longitude": 17.923881
+    },
+    {
+      "name": "Storsylglaciären",
+      "latitude": 63.02249,
+      "longitude": 12.203535
+    },
+    {
+      "name": "Strupbreen",
+      "latitude": 69.704185,
+      "longitude": 20.125127
+    },
+    {
+      "name": "Stuora Meahccejietnja",
+      "latitude": 69.450982,
+      "longitude": 19.390531
+    },
+    {
+      "name": "Styggebrean",
+      "latitude": 61.640809,
+      "longitude": 8.339067
+    },
+    {
+      "name": "Styggedalsbreen",
+      "latitude": 61.473893,
+      "longitude": 7.879765
+    },
+    {
+      "name": "Styggehøbrean",
+      "latitude": 61.574092,
+      "longitude": 8.561572
+    },
+    {
+      "name": "Stølsmaradalsbreen",
+      "latitude": 61.433822,
+      "longitude": 7.846545
+    },
+    {
+      "name": "Stølsnosbreen",
+      "latitude": 61.393533,
+      "longitude": 8.06686
+    },
+    {
+      "name": "Støvelbreen",
+      "latitude": 69.736406,
+      "longitude": 20.241903
+    },
+    {
+      "name": "Sulitjelmaisen - Sállajiegŋa",
+      "latitude": 67.15302,
+      "longitude": 16.332447
+    },
+    {
+      "name": "Svardalsbreen",
+      "latitude": 61.460072,
+      "longitude": 6.901671
+    },
+    {
+      "name": "Svartavassbreen",
+      "latitude": 60.725087,
+      "longitude": 7.477202
+    },
+    {
+      "name": "Svartdalsbrean",
+      "latitude": 61.407876,
+      "longitude": 8.524991
+    },
+    {
+      "name": "Svartfjelljøkelen",
+      "latitude": 70.234784,
+      "longitude": 21.960705
+    },
+    {
+      "name": "Svartisen - Tjáhppisjiegŋa - Tjähppisjiegŋa",
+      "latitude": 66.601577,
+      "longitude": 14.218022
+    },
+    {
+      "name": "Svartisen - Tjáhppisjiegŋa - Tjähppisjiegŋa",
+      "latitude": 66.622473,
+      "longitude": 13.880084
+    },
+    {
+      "name": "Sveabreen",
+      "latitude": 78.658266,
+      "longitude": 13.72857
+    },
+    {
+      "name": "Sveabreen",
+      "latitude": 78.659131,
+      "longitude": 13.72356
+    },
+    {
+      "name": "Sveidalsbreen",
+      "latitude": 61.606597,
+      "longitude": 7.704929
+    },
+    {
+      "name": "Sveigbreen",
+      "latitude": 78.107773,
+      "longitude": 17.86072
+    },
+    {
+      "name": "Sveigbreen",
+      "latitude": 78.108495,
+      "longitude": 17.862731
+    },
+    {
+      "name": "Svellnosbrean",
+      "latitude": 61.623424,
+      "longitude": 8.320659
+    },
+    {
+      "name": "Svenbreen",
+      "latitude": 78.725797,
+      "longitude": 16.281985
+    },
+    {
+      "name": "Svingombreen",
+      "latitude": 77.860429,
+      "longitude": 17.037018
+    },
+    {
+      "name": "Svingombreen",
+      "latitude": 77.860915,
+      "longitude": 17.039431
+    },
+    {
+      "name": "Sydbreen - Oarjjabealjiehkki",
+      "latitude": 69.446372,
+      "longitude": 19.884645
+    },
+    {
+      "name": "Syrdalsbreen",
+      "latitude": 60.92722,
+      "longitude": 7.022343
+    },
+    {
+      "name": "Såtaskavlen",
+      "latitude": 60.632936,
+      "longitude": 6.941269
+    },
+    {
+      "name": "Såtebreen",
+      "latitude": 78.064858,
+      "longitude": 17.467282
+    },
+    {
+      "name": "Sørbreen",
+      "latitude": 79.485942,
+      "longitude": 16.153383
+    },
+    {
+      "name": "Søre Aurdalsbre",
+      "latitude": 77.859816,
+      "longitude": 14.485262
+    },
+    {
+      "name": "Søre Illåbrean",
+      "latitude": 61.582353,
+      "longitude": 8.257175
+    },
+    {
+      "name": "Sørfjellbreen",
+      "latitude": 79.786168,
+      "longitude": 16.939143
+    },
+    {
+      "name": "Sørfonna",
+      "latitude": 79.480955,
+      "longitude": 22.480253
+    },
+    {
+      "name": "Sørfonna",
+      "latitude": 79.481272,
+      "longitude": 22.493212
+    },
+    {
+      "name": "Tavlebreen",
+      "latitude": 77.953339,
+      "longitude": 15.078692
+    },
+    {
+      "name": "Tellbreen",
+      "latitude": 78.252532,
+      "longitude": 16.156048
+    },
+    {
+      "name": "Torgnybreen",
+      "latitude": 78.238667,
+      "longitude": 13.581427
+    },
+    {
+      "name": "Torsteinsfonna",
+      "latitude": 60.533154,
+      "longitude": 7.511654
+    },
+    {
+      "name": "Trinity Hallbreen",
+      "latitude": 79.273889,
+      "longitude": 17.09105
+    },
+    {
+      "name": "Trollbergdalsbreen",
+      "latitude": 66.717411,
+      "longitude": 14.425851
+    },
+    {
+      "name": "Trollbreen",
+      "latitude": 69.702517,
+      "longitude": 20.020081
+    },
+    {
+      "name": "Trollkyrkjebreen",
+      "latitude": 62.287489,
+      "longitude": 7.457207
+    },
+    {
+      "name": "Tuftebreen",
+      "latitude": 61.664813,
+      "longitude": 7.131726
+    },
+    {
+      "name": "Tunabreen",
+      "latitude": 78.487634,
+      "longitude": 17.434886
+    },
+    {
+      "name": "Tungebreen",
+      "latitude": 77.952486,
+      "longitude": 14.965214
+    },
+    {
+      "name": "Tunsbergdalsbreen",
+      "latitude": 61.579178,
+      "longitude": 7.118544
+    },
+    {
+      "name": "Tverrbotnbreen",
+      "latitude": 61.733513,
+      "longitude": 7.577454
+    },
+    {
+      "name": "Tverrbyttnbreen",
+      "latitude": 61.858043,
+      "longitude": 7.462311
+    },
+    {
+      "name": "Tverrdalsbreen",
+      "latitude": 61.521384,
+      "longitude": 7.051429
+    },
+    {
+      "name": "Tverråbrean",
+      "latitude": 61.598274,
+      "longitude": 8.300601
+    },
+    {
+      "name": "Tverrådalsfonna",
+      "latitude": 66.85079,
+      "longitude": 14.440064
+    },
+    {
+      "name": "Tystigbreen",
+      "latitude": 61.920475,
+      "longitude": 7.338979
+    },
+    {
+      "name": "Ulvebreen",
+      "latitude": 78.205393,
+      "longitude": 18.673328
+    },
+    {
+      "name": "Ulvebreen",
+      "latitude": 78.206767,
+      "longitude": 18.653894
+    },
+    {
+      "name": "Unna Meahccejietnja",
+      "latitude": 69.438976,
+      "longitude": 19.392032
+    },
+    {
+      "name": "Uranosbreen",
+      "latitude": 61.419915,
+      "longitude": 8.166667
+    },
+    {
+      "name": "Usherbreen",
+      "latitude": 78.287196,
+      "longitude": 18.698149
+    },
+    {
+      "name": "Usherbreen",
+      "latitude": 78.287761,
+      "longitude": 18.695299
+    },
+    {
+      "name": "Valhallfonna",
+      "latitude": 79.730309,
+      "longitude": 17.426417
+    },
+    {
+      "name": "Vallåkrabreen",
+      "latitude": 77.872861,
+      "longitude": 17.176261
+    },
+    {
+      "name": "Vallåkrabreen",
+      "latitude": 77.873475,
+      "longitude": 17.178613
+    },
+    {
+      "name": "Vardebreen",
+      "latitude": 78.077512,
+      "longitude": 13.859384
+    },
+    {
+      "name": "Vargabreen",
+      "latitude": 60.680096,
+      "longitude": 7.454815
+    },
+    {
+      "name": "Vassdalsbreen",
+      "latitude": 61.554824,
+      "longitude": 7.187971
+    },
+    {
+      "name": "Vassdalsbreen",
+      "latitude": 77.90291,
+      "longitude": 14.992177
+    },
+    {
+      "name": "Vegdalsisen",
+      "latitude": 66.789942,
+      "longitude": 14.412075
+    },
+    {
+      "name": "Veikdalsisen - Viejekjiegŋa",
+      "latitude": 67.627227,
+      "longitude": 16.169495
+    },
+    {
+      "name": "Veitbreen",
+      "latitude": 78.194368,
+      "longitude": 18.026622
+    },
+    {
+      "name": "Venernbreen",
+      "latitude": 78.362213,
+      "longitude": 13.517441
+    },
+    {
+      "name": "Veobrean",
+      "latitude": 61.579026,
+      "longitude": 8.502726
+    },
+    {
+      "name": "Veobreen",
+      "latitude": 79.21804,
+      "longitude": 11.52145
+    },
+    {
+      "name": "Veobreen",
+      "latitude": 79.218231,
+      "longitude": 11.518921
+    },
+    {
+      "name": "Veslbrean",
+      "latitude": 61.593269,
+      "longitude": 8.127938
+    },
+    {
+      "name": "Vesljuvbreen",
+      "latitude": 61.664114,
+      "longitude": 8.34939
+    },
+    {
+      "name": "Vestbreen - Nuorttabealjiehkki",
+      "latitude": 69.486418,
+      "longitude": 19.955722
+    },
+    {
+      "name": "Vestfonna",
+      "latitude": 79.959649,
+      "longitude": 19.914085
+    },
+    {
+      "name": "Vestfonna",
+      "latitude": 79.960102,
+      "longitude": 19.926103
+    },
+    {
+      "name": "Vestgötabreen",
+      "latitude": 78.458477,
+      "longitude": 12.94696
+    },
+    {
+      "name": "Vestisen",
+      "latitude": 65.986447,
+      "longitude": 14.116779
+    },
+    {
+      "name": "Vestra Leirebottsskåka",
+      "latitude": 60.498396,
+      "longitude": 7.448367
+    },
+    {
+      "name": "Vestre Grønfjordbreen",
+      "latitude": 77.901858,
+      "longitude": 14.211478
+    },
+    {
+      "name": "Vestre Helvetiabreen",
+      "latitude": 78.234583,
+      "longitude": 16.204318
+    },
+    {
+      "name": "Vestre Helvetiabreen",
+      "latitude": 78.23493,
+      "longitude": 16.206489
+    },
+    {
+      "name": "Vestre Kollebreen",
+      "latitude": 61.754633,
+      "longitude": 7.632199
+    },
+    {
+      "name": "Vestre Memurubrean",
+      "latitude": 61.540189,
+      "longitude": 8.451047
+    },
+    {
+      "name": "Vestre Okstindbreen",
+      "latitude": 66.002193,
+      "longitude": 14.229003
+    },
+    {
+      "name": "Vestre Okstindbreen",
+      "latitude": 66.002636,
+      "longitude": 14.229672
+    },
+    {
+      "name": "Vestre Svartfjellbreen",
+      "latitude": 65.986378,
+      "longitude": 14.338952
+    },
+    {
+      "name": "Vestre Svartfjellbreen",
+      "latitude": 65.987283,
+      "longitude": 14.338986
+    },
+    {
+      "name": "Vestre Vaggasblåisen - Vákkášjiehkki",
+      "latitude": 69.789353,
+      "longitude": 20.173942
+    },
+    {
+      "name": "Veteranen",
+      "latitude": 79.337693,
+      "longitude": 17.293129
+    },
+    {
+      "name": "Vetlefjordbreen",
+      "latitude": 61.408495,
+      "longitude": 6.555322
+    },
+    {
+      "name": "Vetternbreen",
+      "latitude": 78.315754,
+      "longitude": 13.405179
+    },
+    {
+      "name": "Vetternbreen",
+      "latitude": 78.315964,
+      "longitude": 13.411422
+    },
+    {
+      "name": "Vinkelbreen",
+      "latitude": 77.810456,
+      "longitude": 17.305632
+    },
+    {
+      "name": "Vinnufonna",
+      "latitude": 62.678555,
+      "longitude": 8.665108
+    },
+    {
+      "name": "Visbrean",
+      "latitude": 61.53061,
+      "longitude": 8.344083
+    },
+    {
+      "name": "Vossaskavlen",
+      "latitude": 60.682819,
+      "longitude": 7.10795
+    },
+    {
+      "name": "Vråbreen",
+      "latitude": 78.064159,
+      "longitude": 17.70828
+    },
+    {
+      "name": "Vråbreen",
+      "latitude": 78.064453,
+      "longitude": 17.701625
+    },
+    {
+      "name": "Vøringbreen",
+      "latitude": 78.040135,
+      "longitude": 13.956372
+    },
+    {
+      "name": "Waldemar",
+      "latitude": 78.677113,
+      "longitude": 12.069176
+    },
+    {
+      "name": "Willebreen",
+      "latitude": 79.138342,
+      "longitude": 11.443261
+    },
+    {
+      "name": "Willebreen",
+      "latitude": 79.13847,
+      "longitude": 11.445589
+    },
+    {
+      "name": "Worsleybreen",
+      "latitude": 79.998983,
+      "longitude": 27.132014
+    },
+    {
+      "name": "Ystebreen",
+      "latitude": 61.753126,
+      "longitude": 8.063799
+    },
+    {
+      "name": "Ytre Gjelåbreen",
+      "latitude": 61.742988,
+      "longitude": 7.867848
+    },
+    {
+      "name": "bergsetbreen",
+      "latitude": 61.648919,
+      "longitude": 7.084024
+    },
+    {
+      "name": "Ålfotbreen",
+      "latitude": 61.74447,
+      "longitude": 5.653967
+    },
+    {
+      "name": "Åsgardfonna",
+      "latitude": 79.534539,
+      "longitude": 16.493184
+    },
+    {
+      "name": "Øksfjordjøkelen - Ákšovuonjiehkki",
+      "latitude": 70.17468,
+      "longitude": 22.049251
+    },
+    {
+      "name": "Øverisen - Badjejiehkki",
+      "latitude": 70.138045,
+      "longitude": 22.069367
+    },
+    {
+      "name": "Øvre Buarbreen",
+      "latitude": 60.043093,
+      "longitude": 6.424013
+    },
+    {
+      "name": "Øyaskavlen",
+      "latitude": 60.875684,
+      "longitude": 6.971966
+    },
+    {
+      "name": "Øykjafonn",
+      "latitude": 60.697007,
+      "longitude": 7.045308
+    },
+    {
+      "name": "Čuonjajienjat",
+      "latitude": 69.515097,
+      "longitude": 19.509177
+    },
+    {
+      "name": "Čuonjajienjat",
+      "latitude": 69.520239,
+      "longitude": 19.552704
+    },
+    {
+      "name": "Čuonjajienjat",
+      "latitude": 69.528152,
+      "longitude": 19.551999
+    }
+  ],
+  "meta": {
+    "title": "Named glaciers in Norway - Gratis nedlasting",
+    "description": "Named glaciers in Norway, derived from OpenStreetMap POI nodes tagged natural=glacier in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 561 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named glaciers in Norway | ListBase",
+    "seo_description": "Last ned Named glaciers in Norway — 561 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 561 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

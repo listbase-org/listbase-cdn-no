@@ -1,0 +1,186 @@
+{
+  "id": "no-maaleenheter-pressure",
+  "name": "Maaleenheter: pressure (12)",
+  "title": "Maaleenheter: pressure (12)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'pressure'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "pressure-atmosphere",
+      "kategori": "pressure",
+      "navn": "atmosfærer",
+      "moenster_en": "{0} atmosfære",
+      "moenster_flere": "{0} atmosfærer",
+      "kort_moenster": "{0} atm",
+      "smal_moenster": "{0} atm"
+    },
+    {
+      "id": 2,
+      "unit_code": "pressure-bar",
+      "kategori": "pressure",
+      "navn": "bar",
+      "moenster_en": "{0} bar",
+      "moenster_flere": "{0} bar",
+      "kort_moenster": "{0} bar",
+      "smal_moenster": "{0} bar"
+    },
+    {
+      "id": 3,
+      "unit_code": "pressure-gasoline-energy-density",
+      "kategori": "pressure",
+      "navn": "gas E",
+      "moenster_en": "",
+      "moenster_flere": "{0} gas E",
+      "kort_moenster": "{0} gas E",
+      "smal_moenster": "{0} gas E"
+    },
+    {
+      "id": 4,
+      "unit_code": "pressure-hectopascal",
+      "kategori": "pressure",
+      "navn": "hektopascal",
+      "moenster_en": "{0} hektopascal",
+      "moenster_flere": "{0} hektopascal",
+      "kort_moenster": "{0} hPa",
+      "smal_moenster": "{0}hPa"
+    },
+    {
+      "id": 5,
+      "unit_code": "pressure-inch-ofhg",
+      "kategori": "pressure",
+      "navn": "tommer kvikksølv",
+      "moenster_en": "{0} tomme kvikksølv",
+      "moenster_flere": "{0} tommer kvikksølv",
+      "kort_moenster": "{0} inHg",
+      "smal_moenster": "{0}inHg"
+    },
+    {
+      "id": 6,
+      "unit_code": "pressure-kilopascal",
+      "kategori": "pressure",
+      "navn": "kilopascal",
+      "moenster_en": "{0} kilopascal",
+      "moenster_flere": "{0} kilopascal",
+      "kort_moenster": "{0} kPa",
+      "smal_moenster": "{0} kPa"
+    },
+    {
+      "id": 7,
+      "unit_code": "pressure-megapascal",
+      "kategori": "pressure",
+      "navn": "megapascal",
+      "moenster_en": "{0} megapascal",
+      "moenster_flere": "{0} megapascal",
+      "kort_moenster": "{0} MPa",
+      "smal_moenster": "{0} MPa"
+    },
+    {
+      "id": 8,
+      "unit_code": "pressure-millibar",
+      "kategori": "pressure",
+      "navn": "millibar",
+      "moenster_en": "{0} millibar",
+      "moenster_flere": "{0} millibar",
+      "kort_moenster": "{0} mbar",
+      "smal_moenster": "{0}mbar"
+    },
+    {
+      "id": 9,
+      "unit_code": "pressure-millimeter-ofhg",
+      "kategori": "pressure",
+      "navn": "millimeter kvikksølv",
+      "moenster_en": "{0} millimeter kvikksølv",
+      "moenster_flere": "{0} millimeter kvikksølv",
+      "kort_moenster": "{0} mmHg",
+      "smal_moenster": "{0}mmHg"
+    },
+    {
+      "id": 10,
+      "unit_code": "pressure-ofhg",
+      "kategori": "pressure",
+      "navn": "kvikksølv",
+      "moenster_en": "{0} kvikksølv",
+      "moenster_flere": "{0} kvikksølv",
+      "kort_moenster": "{0} Hg",
+      "smal_moenster": "{0} Hg"
+    },
+    {
+      "id": 11,
+      "unit_code": "pressure-pascal",
+      "kategori": "pressure",
+      "navn": "pascal",
+      "moenster_en": "{0} pascal",
+      "moenster_flere": "{0} pascal",
+      "kort_moenster": "{0} Pa",
+      "smal_moenster": "{0} Pa"
+    },
+    {
+      "id": 12,
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "kategori": "pressure",
+      "navn": "pund per kvadrattomme",
+      "moenster_en": "{0} pund per kvadrattomme",
+      "moenster_flere": "{0} pund per kvadrattomme",
+      "kort_moenster": "{0} psi",
+      "smal_moenster": "{0}psi"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: pressure (12) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'pressure'. Inneholder 12 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: pressure (12) | ListBase",
+    "seo_description": "Last ned Maaleenheter: pressure (12) — 12 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 12 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

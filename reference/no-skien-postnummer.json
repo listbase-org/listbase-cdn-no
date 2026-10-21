@@ -1,0 +1,448 @@
+{
+  "id": "no-skien-postnummer",
+  "name": "Postnummer i Skien",
+  "title": "Postnummer i Skien",
+  "description": "Alle 49 postnummer i Skien kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "3701",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3702",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3703",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3704",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3705",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3707",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3710",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3711",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3712",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3713",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3714",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3715",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3716",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3717",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3718",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3719",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3720",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3721",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3722",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3723",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3724",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3725",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3726",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3727",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3728",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3729",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3730",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3731",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3732",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3733",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3734",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3735",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3736",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3737",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3738",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3739",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3740",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3741",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3742",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3743",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3744",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3746",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3747",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3785",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3786",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3792",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3796",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3798",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3799",
+      "poststed": "Skien",
+      "kommune_id": "4003",
+      "kommune": "Skien",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Skien - Gratis nedlasting",
+    "description": "Alle 49 postnummer i Skien kommune med poststed. Inneholder 49 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Skien | ListBase",
+    "seo_description": "Last ned Postnummer i Skien — 49 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 49 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

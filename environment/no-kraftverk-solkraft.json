@@ -1,0 +1,310 @@
+{
+  "id": "no-kraftverk-solkraft",
+  "name": "Solkraftanlegg i Norge",
+  "title": "Solkraftanlegg i Norge",
+  "description": "Solkraftanlegg i Norge (9 anlegg) fra powerplantmatching (PyPSA): navn, teknologi, installert effekt (MW), driftsstart, koordinater og lagringsegenskaper. Delmengde av no-kraftverk filtrert på fueltype == \"Solar\".",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 9117,
+      "name": "Akershus Solar",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 5,
+      "efficiency": "",
+      "date_in": 2023,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.76905,
+      "lon": 10.8447,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001083460, G100001083466"
+    },
+    {
+      "id": 9118,
+      "name": "Akershus Solar",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 2.7,
+      "efficiency": "",
+      "date_in": 2017,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.9727,
+      "lon": 11.0749,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001083464"
+    },
+    {
+      "id": 14418,
+      "name": "Fredrikstad Ostfold Solar",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 1.2,
+      "efficiency": "",
+      "date_in": 2022,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.1793,
+      "lon": 10.9586,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001083462"
+    },
+    {
+      "id": 14473,
+      "name": "Furuseth Solar Farm",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 7,
+      "efficiency": "",
+      "date_in": 2023,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 61.3736,
+      "lon": 11.1684,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001052630"
+    },
+    {
+      "id": 14478,
+      "name": "Fyresdal Solar Farm",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 14.8,
+      "efficiency": "",
+      "date_in": 2025,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.2145,
+      "lon": 8.0671,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001052642"
+    },
+    {
+      "id": 19972,
+      "name": "Ostfold Solar",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 1.3,
+      "efficiency": "",
+      "date_in": 2017,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.4858,
+      "lon": 10.7946,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001083461"
+    },
+    {
+      "id": 24009,
+      "name": "Trondheim Trondelag Solar",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 1.6,
+      "efficiency": "",
+      "date_in": 2024,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 63.344,
+      "lon": 10.3743,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001010433"
+    },
+    {
+      "id": 24595,
+      "name": "Vestfold Solar",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 1.2,
+      "efficiency": "",
+      "date_in": 2021,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.3458,
+      "lon": 10.3203,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001083465"
+    },
+    {
+      "id": 24597,
+      "name": "Vestland Solar",
+      "fueltype": "Solar",
+      "technology": "PV",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 1,
+      "efficiency": "",
+      "date_in": 2025,
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 60.1862,
+      "lon": 7.18,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100001083463"
+    }
+  ],
+  "meta": {
+    "title": "Solkraftanlegg i Norge - Gratis nedlasting",
+    "description": "Solkraftanlegg i Norge (9 anlegg) fra powerplantmatching (PyPSA): navn, teknologi, installert effekt (MW), driftsstart, koordinater og lagringsegenskaper. Delmengde av no-kraftverk filtrert på fueltype == \"Solar\". Inneholder 9 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Solkraftanlegg i Norge | ListBase",
+    "seo_description": "Last ned Solkraftanlegg i Norge — 9 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 9 poster / 19 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

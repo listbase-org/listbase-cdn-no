@@ -1,0 +1,219 @@
+{
+  "id": "no-etternavn",
+  "name": "Vanligste etternavn i Norge (Most Common Norwegian Surnames)",
+  "title": "Vanligste etternavn i Norge (Most Common Norwegian Surnames)",
+  "description": "De 24 vanligste etternavnene i Norge, med antall bærere, basert på Statistisk sentralbyrås navnestatistikk; rangert etter hyppighet.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "NO-1",
+      "rank": 1,
+      "localized": "Hansen",
+      "romanized": "Hansen",
+      "count": 53011
+    },
+    {
+      "name_group": "NO-2",
+      "rank": 2,
+      "localized": "Johansen",
+      "romanized": "Johansen",
+      "count": 50088
+    },
+    {
+      "name_group": "NO-3",
+      "rank": 3,
+      "localized": "Olsen",
+      "romanized": "Olsen",
+      "count": 49303
+    },
+    {
+      "name_group": "NO-4",
+      "rank": 4,
+      "localized": "Larsen",
+      "romanized": "Larsen",
+      "count": 38
+    },
+    {
+      "name_group": "NO-5",
+      "rank": 5,
+      "localized": "Andersen",
+      "romanized": "Andersen",
+      "count": 37206
+    },
+    {
+      "name_group": "NO-6",
+      "rank": 6,
+      "localized": "Pedersen",
+      "romanized": "Pedersen",
+      "count": 35402
+    },
+    {
+      "name_group": "NO-7",
+      "rank": 7,
+      "localized": "Nilsen",
+      "romanized": "Nilsen",
+      "count": 34941
+    },
+    {
+      "name_group": "NO-8",
+      "rank": 8,
+      "localized": "Kristiansen",
+      "romanized": "Kristiansen",
+      "count": 23595
+    },
+    {
+      "name_group": "NO-9",
+      "rank": 9,
+      "localized": "Jensen",
+      "romanized": "Jensen",
+      "count": 23079
+    },
+    {
+      "name_group": "NO-10",
+      "rank": 10,
+      "localized": "Karlsen",
+      "romanized": "Karlsen",
+      "count": 21330
+    },
+    {
+      "name_group": "NO-11",
+      "rank": 11,
+      "localized": "Johnsen",
+      "romanized": "Johnsen",
+      "count": 20755
+    },
+    {
+      "name_group": "NO-12",
+      "rank": 12,
+      "localized": "Pettersen",
+      "romanized": "Pettersen",
+      "count": 20226
+    },
+    {
+      "name_group": "NO-13",
+      "rank": 13,
+      "localized": "Eriksen",
+      "romanized": "Eriksen",
+      "count": 19241
+    },
+    {
+      "name_group": "NO-14",
+      "rank": 14,
+      "localized": "Berg",
+      "romanized": "Berg",
+      "count": 18133
+    },
+    {
+      "name_group": "NO-15",
+      "rank": 15,
+      "localized": "Haugen",
+      "romanized": "Haugen",
+      "count": 14392
+    },
+    {
+      "name_group": "NO-16",
+      "rank": 16,
+      "localized": "Hagen",
+      "romanized": "Hagen",
+      "count": 14126
+    },
+    {
+      "name_group": "NO-17",
+      "rank": 17,
+      "localized": "Johannessen",
+      "romanized": "Johannessen",
+      "count": 13387
+    },
+    {
+      "name_group": "NO-18",
+      "rank": 18,
+      "localized": "Andreassen",
+      "romanized": "Andreassen",
+      "count": 12139
+    },
+    {
+      "name_group": "NO-19",
+      "rank": 19,
+      "localized": "Jacobsen",
+      "romanized": "Jacobsen",
+      "count": 11925
+    },
+    {
+      "name_group": "NO-20",
+      "rank": 20,
+      "localized": "Dahl",
+      "romanized": "Dahl",
+      "count": 11540
+    },
+    {
+      "name_group": "NO-21",
+      "rank": 21,
+      "localized": "Jørgensen",
+      "romanized": "Jørgensen",
+      "count": 11481
+    },
+    {
+      "name_group": "NO-22",
+      "rank": 22,
+      "localized": "Halvorsen",
+      "romanized": "Halvorsen",
+      "count": 11477
+    },
+    {
+      "name_group": "NO-23",
+      "rank": 23,
+      "localized": "Henriksen",
+      "romanized": "Henriksen",
+      "count": 11364
+    },
+    {
+      "name_group": "NO-24",
+      "rank": 24,
+      "localized": "Lund",
+      "romanized": "Lund",
+      "count": 11282
+    }
+  ],
+  "meta": {
+    "title": "Vanligste etternavn i Norge (Most Common Norwegian Surnames) - Gratis nedlasting",
+    "description": "De 24 vanligste etternavnene i Norge, med antall bærere, basert på Statistisk sentralbyrås navnestatistikk; rangert etter hyppighet. Inneholder 24 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Vanligste etternavn i Norge (Most Common Norwegian Surnames) | ListBase",
+    "seo_description": "Last ned Vanligste etternavn i Norge (Most Common Norwegian Surnames) — 24 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 24 poster / 5 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

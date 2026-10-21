@@ -1,0 +1,79 @@
+{
+  "id": "no-oslo-byer",
+  "name": "Byer og steder i Oslo (Cities and places in Oslo county, Norway)",
+  "title": "Byer og steder i Oslo (Cities and places in Oslo county, Norway)",
+  "description": "Byer og steder i fylket Oslo i Noreg (2 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Oslo county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79425,
+      "name": "Oslo",
+      "county": "Oslo",
+      "county_iso3166_2": "NO-03",
+      "latitude": "59.91273000",
+      "longitude": "10.74609000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79502,
+      "name": "Sjølyststranda",
+      "county": "Oslo",
+      "county_iso3166_2": "NO-03",
+      "latitude": "59.92105000",
+      "longitude": "10.68017000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Oslo (Cities and places in Oslo county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Oslo i Noreg (2 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Oslo county, Norway. Inneholder 2 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Oslo (Cities and places in Oslo county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Oslo (Cities and places in Oslo county, Norway) — 2 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 2 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

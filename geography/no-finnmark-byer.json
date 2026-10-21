@@ -1,0 +1,484 @@
+{
+  "id": "no-finnmark-byer",
+  "name": "Byer og steder i Finnmark (Cities and places in Finnmark county, Norway)",
+  "title": "Byer og steder i Finnmark (Cities and places in Finnmark county, Norway)",
+  "description": "Byer og steder i fylket Finnmark i Noreg (47 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Finnmark county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79039,
+      "name": "Alta",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.97675000",
+      "longitude": "23.29634000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79068,
+      "name": "Berg",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.44444000",
+      "longitude": "17.29950000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79072,
+      "name": "Berlevåg",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.85778000",
+      "longitude": "29.08636000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79079,
+      "name": "Bjørnevatn",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.66745000",
+      "longitude": "29.98722000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79084,
+      "name": "Borkenes",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "68.77261000",
+      "longitude": "16.17115000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79093,
+      "name": "Båtsfjord",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.63428000",
+      "longitude": "29.71750000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79129,
+      "name": "Evenskjer",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "68.58283000",
+      "longitude": "16.57203000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79140,
+      "name": "Finnsnes",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.22959000",
+      "longitude": "17.98114000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79170,
+      "name": "Gamvik",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "71.04107000",
+      "longitude": "27.85144000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79193,
+      "name": "Gryllefjord",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.36304000",
+      "longitude": "17.05284000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79203,
+      "name": "Hammerfest",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.66257000",
+      "longitude": "23.68295000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79204,
+      "name": "Hansnes",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.96701000",
+      "longitude": "19.62752000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79209,
+      "name": "Hasvik",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.59164000",
+      "longitude": "22.30272000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79233,
+      "name": "Honningsvåg",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.98209000",
+      "longitude": "25.97037000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79264,
+      "name": "Karasjok",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.47224000",
+      "longitude": "25.51885000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79268,
+      "name": "Kautokeino",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.01151000",
+      "longitude": "23.04151000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79270,
+      "name": "Kirkenes",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.72706000",
+      "longitude": "30.04578000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79272,
+      "name": "Kjøllefjord",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.94574000",
+      "longitude": "27.34650000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79290,
+      "name": "Kvalsund",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.49910000",
+      "longitude": "23.97393000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79299,
+      "name": "Kárášjohka",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.47187000",
+      "longitude": "25.51122000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79300,
+      "name": "Kåfjord",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.60400000",
+      "longitude": "20.53456000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79301,
+      "name": "Lakselv",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.05133000",
+      "longitude": "24.97182000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79307,
+      "name": "Lebesby",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.94535000",
+      "longitude": "27.35134000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79316,
+      "name": "Lenvik",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.23111000",
+      "longitude": "17.98739000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79329,
+      "name": "Loppa",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.23952000",
+      "longitude": "22.35136000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79339,
+      "name": "Lyngseidet",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.57629000",
+      "longitude": "20.21887000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79356,
+      "name": "Mehamn",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "71.04137000",
+      "longitude": "27.85133000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79370,
+      "name": "Moen",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.13043000",
+      "longitude": "18.61226000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79381,
+      "name": "Måsøy",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.99654000",
+      "longitude": "24.66146000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79396,
+      "name": "Nesseby",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.88541000",
+      "longitude": "28.43368000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79407,
+      "name": "Nordkapp",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.97808000",
+      "longitude": "25.97473000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79418,
+      "name": "Olderdalen",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.60407000",
+      "longitude": "20.53272000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79429,
+      "name": "Porsanger",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.05214000",
+      "longitude": "24.95592000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79462,
+      "name": "Rypefjord",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.64126000",
+      "longitude": "23.67213000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79496,
+      "name": "Setermoen",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "68.86099000",
+      "longitude": "18.34857000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79503,
+      "name": "Sjøvegan",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "68.87363000",
+      "longitude": "17.84706000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79524,
+      "name": "Skånland",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "68.58378000",
+      "longitude": "16.57305000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79552,
+      "name": "Storslett",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.76783000",
+      "longitude": "21.02466000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79553,
+      "name": "Storsteinnes",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.24081000",
+      "longitude": "19.23437000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79582,
+      "name": "Sør-Varanger",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.72859000",
+      "longitude": "30.04264000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79588,
+      "name": "Tana",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.19976000",
+      "longitude": "28.18494000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79603,
+      "name": "Torsken",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.36184000",
+      "longitude": "17.05384000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79605,
+      "name": "Tranøy",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "69.17022000",
+      "longitude": "17.73480000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79628,
+      "name": "Vadsø",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.07412000",
+      "longitude": "29.74922000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79633,
+      "name": "Vardø",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.37040000",
+      "longitude": "31.10866000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79672,
+      "name": "Ávanuorri",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.99634000",
+      "longitude": "24.66217000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79691,
+      "name": "Øksfjord",
+      "county": "Finnmark",
+      "county_iso3166_2": "NO-56",
+      "latitude": "70.23936000",
+      "longitude": "22.35070000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Finnmark (Cities and places in Finnmark county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Finnmark i Noreg (47 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Finnmark county, Norway. Inneholder 47 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Finnmark (Cities and places in Finnmark county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Finnmark (Cities and places in Finnmark county, Norway) — 47 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 47 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

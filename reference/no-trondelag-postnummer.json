@@ -1,0 +1,4184 @@
+{
+  "id": "no-trondelag-postnummer",
+  "name": "Postnummer i Trøndelag",
+  "title": "Postnummer i Trøndelag",
+  "description": "Alle 516 postnummer i Trøndelag fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 516,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "6657",
+      "poststed": "Rindal",
+      "kommune_id": "5061",
+      "kommune": "Rindal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "6658",
+      "poststed": "Rindalsskogen",
+      "kommune_id": "5061",
+      "kommune": "Rindal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "6659",
+      "poststed": "Rindal",
+      "kommune_id": "5061",
+      "kommune": "Rindal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "6680",
+      "poststed": "Halsanaustan",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "6683",
+      "poststed": "Vågland",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "6686",
+      "poststed": "Valsøybotn",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "6687",
+      "poststed": "Valsøyfjord",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "6688",
+      "poststed": "Vågland",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7003",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7004",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7005",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7006",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7010",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7011",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7012",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7013",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7014",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7015",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7016",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7017",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7018",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7019",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7020",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7021",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7022",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7023",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7024",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7025",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7026",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7027",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7028",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7029",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7030",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7031",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7032",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7033",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7034",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7035",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7036",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7037",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7038",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7039",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7040",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7041",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7042",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7043",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7044",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7045",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7046",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7047",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7048",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7049",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7050",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7051",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7052",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7053",
+      "poststed": "Ranheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7054",
+      "poststed": "Ranheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7055",
+      "poststed": "Ranheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7056",
+      "poststed": "Ranheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7057",
+      "poststed": "Jonsvatnet",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7058",
+      "poststed": "Charlottenlund",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7059",
+      "poststed": "Jakobsli",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7060",
+      "poststed": "Charlottenlund",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7061",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7066",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7067",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7068",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7069",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7070",
+      "poststed": "Bosberg",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7071",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7072",
+      "poststed": "Heimdal",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7074",
+      "poststed": "Spongdal",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7075",
+      "poststed": "Tiller",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7078",
+      "poststed": "Saupstad",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7079",
+      "poststed": "Flatåsen",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7080",
+      "poststed": "Heimdal",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7081",
+      "poststed": "Sjetnemarka",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7082",
+      "poststed": "Kattem",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7083",
+      "poststed": "Leinstrand",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7088",
+      "poststed": "Heimdal",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7089",
+      "poststed": "Heimdal",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7091",
+      "poststed": "Tiller",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7092",
+      "poststed": "Tiller",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7093",
+      "poststed": "Tiller",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7097",
+      "poststed": "Saupstad",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7098",
+      "poststed": "Saupstad",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7099",
+      "poststed": "Flatåsen",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7100",
+      "poststed": "Rissa",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7101",
+      "poststed": "Rissa",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7105",
+      "poststed": "Stadsbygd",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7110",
+      "poststed": "Fevåg",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7111",
+      "poststed": "Hasselvika",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7112",
+      "poststed": "Hasselvika",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7113",
+      "poststed": "Husbysjøen",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7114",
+      "poststed": "Råkvåg",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7115",
+      "poststed": "Husbysjøen",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7116",
+      "poststed": "Råkvåg",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7119",
+      "poststed": "Stadsbygd",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7120",
+      "poststed": "Leksvik",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7121",
+      "poststed": "Leksvik",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7125",
+      "poststed": "Vanvikan",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7126",
+      "poststed": "Vanvikan",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7127",
+      "poststed": "Opphaug",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7129",
+      "poststed": "Brekstad",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7130",
+      "poststed": "Brekstad",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7140",
+      "poststed": "Opphaug",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7142",
+      "poststed": "Uthaug",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7150",
+      "poststed": "Storfosna",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7151",
+      "poststed": "Storfosna",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7152",
+      "poststed": "Kråkvåg",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7153",
+      "poststed": "Garten",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7156",
+      "poststed": "Leksa",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7159",
+      "poststed": "Bjugn",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7160",
+      "poststed": "Bjugn",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7164",
+      "poststed": "Lysøysundet",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7165",
+      "poststed": "Oksvoll",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7166",
+      "poststed": "Tarva",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7167",
+      "poststed": "Vallersund",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7168",
+      "poststed": "Lysøysundet",
+      "kommune_id": "5057",
+      "kommune": "Ørland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7169",
+      "poststed": "Åfjord",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7170",
+      "poststed": "Åfjord",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7174",
+      "poststed": "Revsnes",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7175",
+      "poststed": "Stokkøy",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7176",
+      "poststed": "Linesøya",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7177",
+      "poststed": "Revsnes",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7178",
+      "poststed": "Stokkøy",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7180",
+      "poststed": "Roan",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7181",
+      "poststed": "Roan",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7190",
+      "poststed": "Bessaker",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7194",
+      "poststed": "Brandsfjord",
+      "kommune_id": "5058",
+      "kommune": "Åfjord",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7200",
+      "poststed": "Kyrksæterøra",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7201",
+      "poststed": "Kyrksæterøra",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7203",
+      "poststed": "Vinjeøra",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7206",
+      "poststed": "Hellandsjøen",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7207",
+      "poststed": "Ytre Snillfjord",
+      "kommune_id": "5055",
+      "kommune": "Heim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7211",
+      "poststed": "Korsvegen",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7212",
+      "poststed": "Korsvegen",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7213",
+      "poststed": "Gåsbakken",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7221",
+      "poststed": "Melhus",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7223",
+      "poststed": "Melhus",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7224",
+      "poststed": "Melhus",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7227",
+      "poststed": "Gimse",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7228",
+      "poststed": "Kvål",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7231",
+      "poststed": "Lundamo",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7232",
+      "poststed": "Lundamo",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7234",
+      "poststed": "Ler",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7235",
+      "poststed": "Ler",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7236",
+      "poststed": "Hovin i Gauldal",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7238",
+      "poststed": "Hovin i Gauldal",
+      "kommune_id": "5028",
+      "kommune": "Melhus",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7239",
+      "poststed": "Hitra",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7240",
+      "poststed": "Hitra",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7241",
+      "poststed": "Ansnes",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7242",
+      "poststed": "Knarrlagsund",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7243",
+      "poststed": "Kvenvær",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7244",
+      "poststed": "Knarrlagsund",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7245",
+      "poststed": "Kvenvær",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7246",
+      "poststed": "Sandstad",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7247",
+      "poststed": "Hestvika",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7250",
+      "poststed": "Melandsjø",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7252",
+      "poststed": "Dolmøy",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7255",
+      "poststed": "Sundlandet",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7256",
+      "poststed": "Hemnskjela",
+      "kommune_id": "5056",
+      "kommune": "Hitra",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7257",
+      "poststed": "Snillfjord",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7259",
+      "poststed": "Snillfjord",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7260",
+      "poststed": "Sistranda",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7261",
+      "poststed": "Sistranda",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7263",
+      "poststed": "Hamarvik",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7264",
+      "poststed": "Hamarvik",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7266",
+      "poststed": "Kverva",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7267",
+      "poststed": "Kverva",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7268",
+      "poststed": "Titran",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7270",
+      "poststed": "Dyrvik",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7273",
+      "poststed": "Norddyrøy",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7274",
+      "poststed": "Norddyrøy",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7280",
+      "poststed": "Sula",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7282",
+      "poststed": "Bogøyvær",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7284",
+      "poststed": "Mausund",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7285",
+      "poststed": "Gjæsingen",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7286",
+      "poststed": "Sørburøy",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7287",
+      "poststed": "Sauøy",
+      "kommune_id": "5014",
+      "kommune": "Frøya",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7288",
+      "poststed": "Soknedal",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7289",
+      "poststed": "Soknedal",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7290",
+      "poststed": "Støren",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7291",
+      "poststed": "Støren",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7295",
+      "poststed": "Rognes",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7298",
+      "poststed": "Budalen",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7300",
+      "poststed": "Orkanger",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7301",
+      "poststed": "Orkanger",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7302",
+      "poststed": "Orkanger",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7303",
+      "poststed": "Orkanger",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7310",
+      "poststed": "Gjølme",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7315",
+      "poststed": "Lensvik",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7316",
+      "poststed": "Lensvik",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7318",
+      "poststed": "Agdenes",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7319",
+      "poststed": "Agdenes",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7320",
+      "poststed": "Fannrem",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7321",
+      "poststed": "Fannrem",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7327",
+      "poststed": "Svorkmo",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7329",
+      "poststed": "Svorkmo",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7331",
+      "poststed": "Løkken Verk",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7332",
+      "poststed": "Løkken Verk",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7333",
+      "poststed": "Storås",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7334",
+      "poststed": "Storås",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7335",
+      "poststed": "Jerpstad",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7336",
+      "poststed": "Meldal",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7338",
+      "poststed": "Meldal",
+      "kommune_id": "5059",
+      "kommune": "Orkland",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7340",
+      "poststed": "Oppdal",
+      "kommune_id": "5021",
+      "kommune": "Oppdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7341",
+      "poststed": "Oppdal",
+      "kommune_id": "5021",
+      "kommune": "Oppdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7342",
+      "poststed": "Lønset",
+      "kommune_id": "5021",
+      "kommune": "Oppdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7343",
+      "poststed": "Vognill",
+      "kommune_id": "5021",
+      "kommune": "Oppdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7344",
+      "poststed": "Oppdal",
+      "kommune_id": "5021",
+      "kommune": "Oppdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7345",
+      "poststed": "Drivdalen",
+      "kommune_id": "5021",
+      "kommune": "Oppdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7346",
+      "poststed": "Oppdal",
+      "kommune_id": "5021",
+      "kommune": "Oppdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7347",
+      "poststed": "Oppdal",
+      "kommune_id": "5021",
+      "kommune": "Oppdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7350",
+      "poststed": "Buvika",
+      "kommune_id": "5029",
+      "kommune": "Skaun",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7351",
+      "poststed": "Buvika",
+      "kommune_id": "5029",
+      "kommune": "Skaun",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7353",
+      "poststed": "Børsa",
+      "kommune_id": "5029",
+      "kommune": "Skaun",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7354",
+      "poststed": "Viggja",
+      "kommune_id": "5029",
+      "kommune": "Skaun",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7355",
+      "poststed": "Eggkleiva",
+      "kommune_id": "5029",
+      "kommune": "Skaun",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7356",
+      "poststed": "Skaun",
+      "kommune_id": "5029",
+      "kommune": "Skaun",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7357",
+      "poststed": "Skaun",
+      "kommune_id": "5029",
+      "kommune": "Skaun",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7358",
+      "poststed": "Børsa",
+      "kommune_id": "5029",
+      "kommune": "Skaun",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7361",
+      "poststed": "Røros",
+      "kommune_id": "5025",
+      "kommune": "Rosse",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7370",
+      "poststed": "Brekkebygd",
+      "kommune_id": "5025",
+      "kommune": "Rosse",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7372",
+      "poststed": "Glåmos",
+      "kommune_id": "5025",
+      "kommune": "Rosse",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7374",
+      "poststed": "Røros",
+      "kommune_id": "5025",
+      "kommune": "Rosse",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7375",
+      "poststed": "Røros",
+      "kommune_id": "5025",
+      "kommune": "Rosse",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7380",
+      "poststed": "Ålen",
+      "kommune_id": "5026",
+      "kommune": "Holtålen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7383",
+      "poststed": "Haltdalen",
+      "kommune_id": "5026",
+      "kommune": "Holtålen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7384",
+      "poststed": "Ålen",
+      "kommune_id": "5026",
+      "kommune": "Holtålen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7386",
+      "poststed": "Singsås",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7387",
+      "poststed": "Singsås",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7388",
+      "poststed": "Singsås",
+      "kommune_id": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7391",
+      "poststed": "Rennebu",
+      "kommune_id": "5022",
+      "kommune": "Rennebu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7392",
+      "poststed": "Rennebu",
+      "kommune_id": "5022",
+      "kommune": "Rennebu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7393",
+      "poststed": "Rennebu",
+      "kommune_id": "5022",
+      "kommune": "Rennebu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7397",
+      "poststed": "Rennebu",
+      "kommune_id": "5022",
+      "kommune": "Rennebu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7398",
+      "poststed": "Rennebu",
+      "kommune_id": "5022",
+      "kommune": "Rennebu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7399",
+      "poststed": "Rennebu",
+      "kommune_id": "5022",
+      "kommune": "Rennebu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7400",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7401",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7402",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7403",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7404",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7405",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7406",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7407",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7408",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7409",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7410",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7411",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7412",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7413",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7414",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7415",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7416",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7417",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7418",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7419",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7420",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7421",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7422",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7424",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7425",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7427",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7428",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7429",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7430",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7431",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7432",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7433",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7434",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7435",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7436",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7437",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7438",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7439",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7440",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7441",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7442",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7443",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7444",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7445",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7446",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7447",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7448",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7449",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7450",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7451",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7452",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7453",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7454",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7455",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7456",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7457",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7458",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7462",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7463",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7464",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7465",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7466",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7467",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7468",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7469",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7470",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7471",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7472",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7473",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7474",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7475",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7476",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7477",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7478",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7479",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7480",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7481",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7482",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7483",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7484",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7485",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7486",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7487",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7488",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7489",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7490",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7491",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7492",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7493",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7494",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7495",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7496",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7497",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7498",
+      "poststed": "Trondheim",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7500",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7501",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7502",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7503",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7504",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7505",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7506",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7507",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7508",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7509",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7510",
+      "poststed": "Skatval",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7511",
+      "poststed": "Skatval",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7512",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7513",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7514",
+      "poststed": "Stjørdal",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7517",
+      "poststed": "Hell",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7519",
+      "poststed": "Elvarli",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7520",
+      "poststed": "Hegra",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7525",
+      "poststed": "Flornes",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7529",
+      "poststed": "Hegra",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7530",
+      "poststed": "Meråker",
+      "kommune_id": "5034",
+      "kommune": "Meråker",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7531",
+      "poststed": "Meråker",
+      "kommune_id": "5034",
+      "kommune": "Meråker",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7533",
+      "poststed": "Kopperå",
+      "kommune_id": "5034",
+      "kommune": "Meråker",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7540",
+      "poststed": "Klæbu",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7541",
+      "poststed": "Klæbu",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7549",
+      "poststed": "Tanem",
+      "kommune_id": "5001",
+      "kommune": "Trondheim",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7550",
+      "poststed": "Hommelvik",
+      "kommune_id": "5031",
+      "kommune": "Malvik",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7551",
+      "poststed": "Hommelvik",
+      "kommune_id": "5031",
+      "kommune": "Malvik",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7560",
+      "poststed": "Vikhammer",
+      "kommune_id": "5031",
+      "kommune": "Malvik",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7562",
+      "poststed": "Saksvik",
+      "kommune_id": "5031",
+      "kommune": "Malvik",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7563",
+      "poststed": "Malvik",
+      "kommune_id": "5031",
+      "kommune": "Malvik",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7566",
+      "poststed": "Vikhammer",
+      "kommune_id": "5031",
+      "kommune": "Malvik",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7570",
+      "poststed": "Hell",
+      "kommune_id": "5035",
+      "kommune": "Stjørdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7580",
+      "poststed": "Selbu",
+      "kommune_id": "5032",
+      "kommune": "Selbu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7581",
+      "poststed": "Selbu",
+      "kommune_id": "5032",
+      "kommune": "Selbu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7583",
+      "poststed": "Selbu",
+      "kommune_id": "5032",
+      "kommune": "Selbu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7584",
+      "poststed": "Selbustrand",
+      "kommune_id": "5032",
+      "kommune": "Selbu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7590",
+      "poststed": "Tydal",
+      "kommune_id": "5033",
+      "kommune": "Tydal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7591",
+      "poststed": "Tydal",
+      "kommune_id": "5033",
+      "kommune": "Tydal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7596",
+      "poststed": "Flaknan",
+      "kommune_id": "5032",
+      "kommune": "Selbu",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7600",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7601",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7602",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7603",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7604",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7605",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7606",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7607",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7608",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7609",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7610",
+      "poststed": "Levanger",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7619",
+      "poststed": "Skogn",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7620",
+      "poststed": "Skogn",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7622",
+      "poststed": "Markabygda",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7623",
+      "poststed": "Ronglan",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7624",
+      "poststed": "Ekne",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7629",
+      "poststed": "Ytterøy",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7630",
+      "poststed": "Åsen",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7631",
+      "poststed": "Åsen",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7632",
+      "poststed": "Åsenfjord",
+      "kommune_id": "5037",
+      "kommune": "Levanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7633",
+      "poststed": "Frosta",
+      "kommune_id": "5036",
+      "kommune": "Frosta",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7634",
+      "poststed": "Frosta",
+      "kommune_id": "5036",
+      "kommune": "Frosta",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7650",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7651",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7652",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7653",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7654",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7655",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7656",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7657",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7658",
+      "poststed": "Verdal",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7660",
+      "poststed": "Vuku",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7661",
+      "poststed": "Vuku",
+      "kommune_id": "5038",
+      "kommune": "Verdal",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7670",
+      "poststed": "Inderøy",
+      "kommune_id": "5053",
+      "kommune": "Inderøy",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7671",
+      "poststed": "Inderøy",
+      "kommune_id": "5053",
+      "kommune": "Inderøy",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7672",
+      "poststed": "Inderøy",
+      "kommune_id": "5053",
+      "kommune": "Inderøy",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7690",
+      "poststed": "Mosvik",
+      "kommune_id": "5053",
+      "kommune": "Inderøy",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7691",
+      "poststed": "Mosvik",
+      "kommune_id": "5053",
+      "kommune": "Inderøy",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7701",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7702",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7703",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7704",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7705",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7707",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7708",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7709",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7710",
+      "poststed": "Sparbu",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7711",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7712",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7713",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7714",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7715",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7716",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7717",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7718",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7724",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7725",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7726",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7729",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7730",
+      "poststed": "Beitstad",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7732",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7733",
+      "poststed": "Sparbu",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7734",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7735",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7736",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7737",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7738",
+      "poststed": "Steinkjer",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7739",
+      "poststed": "Beitstad",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7740",
+      "poststed": "Steinsdalen",
+      "kommune_id": "5020",
+      "kommune": "Osen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7741",
+      "poststed": "Steinsdalen",
+      "kommune_id": "5020",
+      "kommune": "Osen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7742",
+      "poststed": "Yttervåg",
+      "kommune_id": "5020",
+      "kommune": "Osen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7744",
+      "poststed": "Hepsøy",
+      "kommune_id": "5020",
+      "kommune": "Osen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7745",
+      "poststed": "Oppland",
+      "kommune_id": "5049",
+      "kommune": "Flatanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7746",
+      "poststed": "Hasvåg",
+      "kommune_id": "5049",
+      "kommune": "Flatanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7748",
+      "poststed": "Seter",
+      "kommune_id": "5020",
+      "kommune": "Osen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7750",
+      "poststed": "Namdalseid",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7751",
+      "poststed": "Namdalseid",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7760",
+      "poststed": "Snåsa",
+      "kommune_id": "5041",
+      "kommune": "Snåase",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7761",
+      "poststed": "Snåsa",
+      "kommune_id": "5041",
+      "kommune": "Snåase",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7770",
+      "poststed": "Flatanger",
+      "kommune_id": "5049",
+      "kommune": "Flatanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7771",
+      "poststed": "Flatanger",
+      "kommune_id": "5049",
+      "kommune": "Flatanger",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7777",
+      "poststed": "Nord-Statland",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7790",
+      "poststed": "Malm",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7791",
+      "poststed": "Malm",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7795",
+      "poststed": "Follafoss",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7796",
+      "poststed": "Follafoss",
+      "kommune_id": "5006",
+      "kommune": "Steinkjer",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7797",
+      "poststed": "Verrabotn",
+      "kommune_id": "5054",
+      "kommune": "Indre Fosen",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7800",
+      "poststed": "Namsos",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7801",
+      "poststed": "Namsos",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7802",
+      "poststed": "Namsos",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7803",
+      "poststed": "Namsos",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7804",
+      "poststed": "Namsos",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7805",
+      "poststed": "Namsos",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7808",
+      "poststed": "Namsos",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7810",
+      "poststed": "Namsos",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7817",
+      "poststed": "Salsnes",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7818",
+      "poststed": "Lund",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7819",
+      "poststed": "Fosslandsosen",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7820",
+      "poststed": "Spillum",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7821",
+      "poststed": "Spillum",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7822",
+      "poststed": "Bangsund",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7823",
+      "poststed": "Bangsund",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7856",
+      "poststed": "Jøa",
+      "kommune_id": "5007",
+      "kommune": "Namsos",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7860",
+      "poststed": "Skage i Namdalen",
+      "kommune_id": "5047",
+      "kommune": "Overhalla",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7863",
+      "poststed": "Overhalla",
+      "kommune_id": "5047",
+      "kommune": "Overhalla",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7864",
+      "poststed": "Overhalla",
+      "kommune_id": "5047",
+      "kommune": "Overhalla",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7869",
+      "poststed": "Skage i Namdalen",
+      "kommune_id": "5047",
+      "kommune": "Overhalla",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7870",
+      "poststed": "Grong",
+      "kommune_id": "5045",
+      "kommune": "Grong",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7871",
+      "poststed": "Grong",
+      "kommune_id": "5045",
+      "kommune": "Grong",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7873",
+      "poststed": "Harran",
+      "kommune_id": "5045",
+      "kommune": "Grong",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7874",
+      "poststed": "Harran",
+      "kommune_id": "5045",
+      "kommune": "Grong",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7876",
+      "poststed": "Kongsmoen",
+      "kommune_id": "5046",
+      "kommune": "Høylandet",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7877",
+      "poststed": "Høylandet",
+      "kommune_id": "5046",
+      "kommune": "Høylandet",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7878",
+      "poststed": "Høylandet",
+      "kommune_id": "5046",
+      "kommune": "Høylandet",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7881",
+      "poststed": "Nordli",
+      "kommune_id": "5042",
+      "kommune": "Lierne",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7882",
+      "poststed": "Nordli",
+      "kommune_id": "5042",
+      "kommune": "Lierne",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7884",
+      "poststed": "Sørli",
+      "kommune_id": "5042",
+      "kommune": "Lierne",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7885",
+      "poststed": "Sørli",
+      "kommune_id": "5042",
+      "kommune": "Lierne",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7890",
+      "poststed": "Namsskogan",
+      "kommune_id": "5044",
+      "kommune": "Namsskogan",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7891",
+      "poststed": "Namsskogan",
+      "kommune_id": "5044",
+      "kommune": "Namsskogan",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7892",
+      "poststed": "Trones",
+      "kommune_id": "5044",
+      "kommune": "Namsskogan",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7893",
+      "poststed": "Skorovatn",
+      "kommune_id": "5044",
+      "kommune": "Namsskogan",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7896",
+      "poststed": "Brekkvasselv",
+      "kommune_id": "5044",
+      "kommune": "Namsskogan",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7897",
+      "poststed": "Limingen",
+      "kommune_id": "5043",
+      "kommune": "Raarvihke",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7898",
+      "poststed": "Limingen",
+      "kommune_id": "5043",
+      "kommune": "Raarvihke",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7900",
+      "poststed": "Rørvik",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7901",
+      "poststed": "Rørvik",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7902",
+      "poststed": "Rørvik",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7924",
+      "poststed": "Austafjord",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7940",
+      "poststed": "Ottersøy",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7941",
+      "poststed": "Ottersøy",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7944",
+      "poststed": "Indre Nærøy",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7950",
+      "poststed": "Abelvær",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7960",
+      "poststed": "Salsbruket",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7970",
+      "poststed": "Kolvereid",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7971",
+      "poststed": "Kolvereid",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7973",
+      "poststed": "Gjerdinga",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7985",
+      "poststed": "Foldereid",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7986",
+      "poststed": "Foldereid",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7990",
+      "poststed": "Naustbukta",
+      "kommune_id": "5060",
+      "kommune": "Nærøysund",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7993",
+      "poststed": "Gutvik",
+      "kommune_id": "5052",
+      "kommune": "Leka",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7994",
+      "poststed": "Leka",
+      "kommune_id": "5052",
+      "kommune": "Leka",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    },
+    {
+      "postnummer": "7995",
+      "poststed": "Leka",
+      "kommune_id": "5052",
+      "kommune": "Leka",
+      "fylke_id": "50",
+      "fylke": "Trøndelag"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Trøndelag - Gratis nedlasting",
+    "description": "Alle 516 postnummer i Trøndelag fylke med poststed og kommune. Inneholder 516 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Trøndelag | ListBase",
+    "seo_description": "Last ned Postnummer i Trøndelag — 516 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 516 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

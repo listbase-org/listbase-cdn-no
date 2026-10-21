@@ -1,0 +1,493 @@
+{
+  "id": "no-akershus-byer",
+  "name": "Byer og steder i Akershus (Cities and places in Akershus county, Norway)",
+  "title": "Byer og steder i Akershus (Cities and places in Akershus county, Norway)",
+  "description": "Byer og steder i fylket Akershus i Noreg (48 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Akershus county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79044,
+      "name": "Ask",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.07131000",
+      "longitude": "11.03620000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79045,
+      "name": "Asker",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.83734000",
+      "longitude": "10.43595000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79051,
+      "name": "Auli",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.03450000",
+      "longitude": "11.36046000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79054,
+      "name": "Aurskog-Høland",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.88321000",
+      "longitude": "11.56491000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79055,
+      "name": "Aursmoen",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.92763000",
+      "longitude": "11.44275000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79073,
+      "name": "Billingstad",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.87548000",
+      "longitude": "10.48230000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79078,
+      "name": "Bjørkelangen",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.88357000",
+      "longitude": "11.56396000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79080,
+      "name": "Blakstad",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.81910000",
+      "longitude": "10.46450000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79094,
+      "name": "Bærum",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.88996000",
+      "longitude": "10.52649000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79106,
+      "name": "Drøbak",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.66333000",
+      "longitude": "10.62975000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79115,
+      "name": "Eidsvoll",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.32893000",
+      "longitude": "11.26119000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79123,
+      "name": "Enebakk",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.76452000",
+      "longitude": "11.14492000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79132,
+      "name": "Fagerstrand",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.73746000",
+      "longitude": "10.59404000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79137,
+      "name": "Fet",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.92216000",
+      "longitude": "11.16778000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79138,
+      "name": "Fetsund",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.92463000",
+      "longitude": "11.15711000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79145,
+      "name": "Fjellfoten",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.08967000",
+      "longitude": "11.47222000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79148,
+      "name": "Flateby",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.82951000",
+      "longitude": "11.15345000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79161,
+      "name": "Frogn",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.66665000",
+      "longitude": "10.63566000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79162,
+      "name": "Frogner",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.02463000",
+      "longitude": "11.10284000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79178,
+      "name": "Gjerdrum",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.07159000",
+      "longitude": "11.03597000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79239,
+      "name": "Hurdal",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.43518000",
+      "longitude": "11.06707000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79256,
+      "name": "Jessheim",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.14151000",
+      "longitude": "11.17515000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79276,
+      "name": "Kløfta",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.07407000",
+      "longitude": "11.13805000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79310,
+      "name": "Leirsund",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.99682000",
+      "longitude": "11.08746000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79324,
+      "name": "Lillestrøm",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.95597000",
+      "longitude": "11.04918000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79340,
+      "name": "Lysaker",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.90994000",
+      "longitude": "10.63545000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79346,
+      "name": "Lørenskog",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.93209000",
+      "longitude": "10.96079000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79355,
+      "name": "Maura",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.25830000",
+      "longitude": "11.03192000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79385,
+      "name": "Nannestad",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.21707000",
+      "longitude": "11.01200000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79389,
+      "name": "Nes",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.12252000",
+      "longitude": "11.46570000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79392,
+      "name": "Neskollen",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.12159000",
+      "longitude": "11.33926000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79394,
+      "name": "Nesodden",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.84220000",
+      "longitude": "10.64940000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79395,
+      "name": "Nesoddtangen",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.86244000",
+      "longitude": "10.66308000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79399,
+      "name": "Nittedal",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.04278000",
+      "longitude": "10.88167000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79420,
+      "name": "Oppegård",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.81149000",
+      "longitude": "10.79712000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79458,
+      "name": "Rotnes",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.05707000",
+      "longitude": "10.86135000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79464,
+      "name": "Råholt",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.27513000",
+      "longitude": "11.17901000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79465,
+      "name": "Rælingen",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.92626000",
+      "longitude": "11.06527000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79506,
+      "name": "Skedsmo",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.95448000",
+      "longitude": "11.03952000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79507,
+      "name": "Ski",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.72049000",
+      "longitude": "10.83882000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79522,
+      "name": "Skui",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.92746000",
+      "longitude": "10.44750000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79586,
+      "name": "Sørum",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.98709000",
+      "longitude": "11.24019000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79587,
+      "name": "Sørumsand",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.98621000",
+      "longitude": "11.24154000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79621,
+      "name": "Ullensaker",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.14401000",
+      "longitude": "11.17441000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79642,
+      "name": "Vestby",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.60228000",
+      "longitude": "10.74807000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79681,
+      "name": "Åneby",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.08926000",
+      "longitude": "10.86998000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79684,
+      "name": "Årnes",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "60.12237000",
+      "longitude": "11.47005000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79687,
+      "name": "Ås",
+      "county": "Akershus",
+      "county_iso3166_2": "NO-32",
+      "latitude": "59.66366000",
+      "longitude": "10.79101000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Akershus (Cities and places in Akershus county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Akershus i Noreg (48 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Akershus county, Norway. Inneholder 48 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Akershus (Cities and places in Akershus county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Akershus (Cities and places in Akershus county, Norway) — 48 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 48 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

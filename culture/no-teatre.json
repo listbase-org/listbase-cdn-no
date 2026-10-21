@@ -1,0 +1,926 @@
+{
+  "id": "no-teatre",
+  "name": "Norway Theatres",
+  "title": "Norway Theatres",
+  "description": "Theatres in Norway (OSM amenity=theatre), with coordinates.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 177,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Amphitheater",
+      "latitude": 59.930946,
+      "longitude": 10.962407
+    },
+    {
+      "name": "Annes Dukketeater",
+      "latitude": 59.926385,
+      "longitude": 10.708414
+    },
+    {
+      "name": "Arbeideren kulturhus",
+      "latitude": 62.470692,
+      "longitude": 6.152701
+    },
+    {
+      "name": "Arendal Kulturhus",
+      "latitude": 58.460371,
+      "longitude": 8.764819
+    },
+    {
+      "name": "Askim kulturhus",
+      "latitude": 59.583639,
+      "longitude": 11.167303
+    },
+    {
+      "name": "Aulaen Domkirkeodden",
+      "latitude": 60.792175,
+      "longitude": 11.039734
+    },
+    {
+      "name": "Bakgården",
+      "latitude": 58.458683,
+      "longitude": 8.767275
+    },
+    {
+      "name": "Banken kulturhus",
+      "latitude": 61.113443,
+      "longitude": 10.465199
+    },
+    {
+      "name": "Biorama kultursal",
+      "latitude": 59.489819,
+      "longitude": 10.315008
+    },
+    {
+      "name": "Black box Lillestrøm",
+      "latitude": 59.955463,
+      "longitude": 11.043244
+    },
+    {
+      "name": "Black Box Theater",
+      "latitude": 59.927008,
+      "longitude": 10.76868
+    },
+    {
+      "name": "Blackbox",
+      "latitude": 59.122769,
+      "longitude": 11.383648
+    },
+    {
+      "name": "BlackBox",
+      "latitude": 63.408056,
+      "longitude": 10.469878
+    },
+    {
+      "name": "Blackbox Nannestad",
+      "latitude": 60.216599,
+      "longitude": 11.010833
+    },
+    {
+      "name": "Blå Grotte",
+      "latitude": 59.210887,
+      "longitude": 10.939702
+    },
+    {
+      "name": "Brageteatret",
+      "latitude": 59.744076,
+      "longitude": 10.192258
+    },
+    {
+      "name": "Brottet",
+      "latitude": 59.093376,
+      "longitude": 10.918069
+    },
+    {
+      "name": "Bruddet",
+      "latitude": 59.091076,
+      "longitude": 10.424712
+    },
+    {
+      "name": "BUL i Nidaros",
+      "latitude": 63.43185,
+      "longitude": 10.39098
+    },
+    {
+      "name": "BUL-salen",
+      "latitude": 63.43401,
+      "longitude": 10.399686
+    },
+    {
+      "name": "Buranhus musikksenter",
+      "latitude": 63.434826,
+      "longitude": 10.423436
+    },
+    {
+      "name": "Byscenen",
+      "latitude": 63.43013,
+      "longitude": 10.391688
+    },
+    {
+      "name": "Båthuset Scene",
+      "latitude": 59.21163,
+      "longitude": 10.934445
+    },
+    {
+      "name": "Bærum kulturhus",
+      "latitude": 59.888795,
+      "longitude": 10.522378
+    },
+    {
+      "name": "Carte Blanche",
+      "latitude": 60.394752,
+      "longitude": 5.31114
+    },
+    {
+      "name": "Chat Noir",
+      "latitude": 59.913728,
+      "longitude": 10.732298
+    },
+    {
+      "name": "Chateau Neuf",
+      "latitude": 59.932344,
+      "longitude": 10.712638
+    },
+    {
+      "name": "Cirka Teater AS",
+      "latitude": 63.439424,
+      "longitude": 10.418521
+    },
+    {
+      "name": "Cornerteateret",
+      "latitude": 60.382695,
+      "longitude": 5.325502
+    },
+    {
+      "name": "Cosmopolite",
+      "latitude": 59.936109,
+      "longitude": 10.765659
+    },
+    {
+      "name": "Dansens Hus",
+      "latitude": 59.921613,
+      "longitude": 10.752348
+    },
+    {
+      "name": "Den Nationale Scene",
+      "latitude": 60.39262,
+      "longitude": 5.319525
+    },
+    {
+      "name": "Det Andre Teatret",
+      "latitude": 59.938677,
+      "longitude": 10.765609
+    },
+    {
+      "name": "Det Norske Teatret",
+      "latitude": 59.915219,
+      "longitude": 10.738625
+    },
+    {
+      "name": "Dokkhuset Scene",
+      "latitude": 63.434145,
+      "longitude": 10.411187
+    },
+    {
+      "name": "Dramatikkens hus",
+      "latitude": 59.911256,
+      "longitude": 10.762057
+    },
+    {
+      "name": "Drammens Teater",
+      "latitude": 59.744587,
+      "longitude": 10.200442
+    },
+    {
+      "name": "Edderkoppen scene",
+      "latitude": 59.918258,
+      "longitude": 10.739631
+    },
+    {
+      "name": "Fana kulturhus",
+      "latitude": 60.316705,
+      "longitude": 5.35484
+    },
+    {
+      "name": "Fanaparken amfi",
+      "latitude": 60.262192,
+      "longitude": 5.348283
+    },
+    {
+      "name": "Festiviteten",
+      "latitude": 59.209538,
+      "longitude": 9.607425
+    },
+    {
+      "name": "Festiviteten",
+      "latitude": 59.410374,
+      "longitude": 5.274352
+    },
+    {
+      "name": "Festiviteten",
+      "latitude": 63.111704,
+      "longitude": 7.723955
+    },
+    {
+      "name": "Fjæreheia",
+      "latitude": 58.37773,
+      "longitude": 8.593118
+    },
+    {
+      "name": "Folketeatret",
+      "latitude": 59.914281,
+      "longitude": 10.750421
+    },
+    {
+      "name": "Fredrikshalds Teater",
+      "latitude": 59.123384,
+      "longitude": 11.384901
+    },
+    {
+      "name": "Frilletrall amfi",
+      "latitude": 59.001867,
+      "longitude": 9.974033
+    },
+    {
+      "name": "Friluftsscena ved Gålåvatnet",
+      "latitude": 61.499677,
+      "longitude": 9.76665
+    },
+    {
+      "name": "Fyllingsdalen Teater",
+      "latitude": 60.352953,
+      "longitude": 5.289565
+    },
+    {
+      "name": "Gimle",
+      "latitude": 68.126133,
+      "longitude": 13.850661
+    },
+    {
+      "name": "Gjøvikhallen",
+      "latitude": 60.793048,
+      "longitude": 10.690927
+    },
+    {
+      "name": "Glenghuset",
+      "latitude": 59.282057,
+      "longitude": 11.107118
+    },
+    {
+      "name": "Graddholmen",
+      "latitude": 67.23127,
+      "longitude": 15.002413
+    },
+    {
+      "name": "Grenland friteater",
+      "latitude": 59.137253,
+      "longitude": 9.642969
+    },
+    {
+      "name": "Grusomhetens teater",
+      "latitude": 59.919332,
+      "longitude": 10.752462
+    },
+    {
+      "name": "H3 Arena",
+      "latitude": 59.901231,
+      "longitude": 10.622852
+    },
+    {
+      "name": "Hageteater",
+      "latitude": 59.908105,
+      "longitude": 10.684558
+    },
+    {
+      "name": "Halti kulturscene",
+      "latitude": 69.767265,
+      "longitude": 21.015861
+    },
+    {
+      "name": "Harstad Kulturhus",
+      "latitude": 68.80429,
+      "longitude": 16.549801
+    },
+    {
+      "name": "Haugesund Teater",
+      "latitude": 59.414113,
+      "longitude": 5.265487
+    },
+    {
+      "name": "Hokksund kultursal",
+      "latitude": 59.770278,
+      "longitude": 9.906743
+    },
+    {
+      "name": "Hordaland teater",
+      "latitude": 60.271308,
+      "longitude": 5.325977
+    },
+    {
+      "name": "Hundremeterskogen",
+      "latitude": 60.501421,
+      "longitude": 5.438657
+    },
+    {
+      "name": "Hålogaland teater",
+      "latitude": 69.641813,
+      "longitude": 18.944167
+    },
+    {
+      "name": "Høyjord ungdomslokale",
+      "latitude": 59.361461,
+      "longitude": 10.115487
+    },
+    {
+      "name": "Ibsenhuset",
+      "latitude": 59.207346,
+      "longitude": 9.605474
+    },
+    {
+      "name": "Inderøy Kultursenter",
+      "latitude": 63.877489,
+      "longitude": 11.286195
+    },
+    {
+      "name": "Ivar Aasen-tunet",
+      "latitude": 62.179826,
+      "longitude": 6.060884
+    },
+    {
+      "name": "Kaptein Sabeltann",
+      "latitude": 58.185854,
+      "longitude": 8.143757
+    },
+    {
+      "name": "Kautokeino kulturhus",
+      "latitude": 69.018602,
+      "longitude": 23.057063
+    },
+    {
+      "name": "Kimen kulturhus",
+      "latitude": 63.469689,
+      "longitude": 10.928058
+    },
+    {
+      "name": "Kjerka kulturverksted",
+      "latitude": 58.463237,
+      "longitude": 8.769211
+    },
+    {
+      "name": "Kloden Teater - Pilotscenen",
+      "latitude": 59.928103,
+      "longitude": 10.819426
+    },
+    {
+      "name": "Kodal ungdomslokale",
+      "latitude": 59.208452,
+      "longitude": 10.115861
+    },
+    {
+      "name": "Kolben",
+      "latitude": 59.810049,
+      "longitude": 10.801003
+    },
+    {
+      "name": "Kongsberg Musikkteater",
+      "latitude": 59.664933,
+      "longitude": 9.643672
+    },
+    {
+      "name": "Kristiansand teater",
+      "latitude": 58.142994,
+      "longitude": 7.995597
+    },
+    {
+      "name": "Kristofferhallen",
+      "latitude": 59.286107,
+      "longitude": 10.084422
+    },
+    {
+      "name": "Krågevika amfi",
+      "latitude": 58.043238,
+      "longitude": 7.154805
+    },
+    {
+      "name": "Kulturfabrikken",
+      "latitude": 63.117234,
+      "longitude": 7.73226
+    },
+    {
+      "name": "Kulturfabrikken",
+      "latitude": 66.864766,
+      "longitude": 13.722462
+    },
+    {
+      "name": "Kulturhuset Finnsnes",
+      "latitude": 69.231286,
+      "longitude": 17.9881
+    },
+    {
+      "name": "Kulturhuset Husnes",
+      "latitude": 59.860475,
+      "longitude": 5.75582
+    },
+    {
+      "name": "Kulturkirken Jakob",
+      "latitude": 59.918097,
+      "longitude": 10.754302
+    },
+    {
+      "name": "Kvennstuguteatret",
+      "latitude": 60.670149,
+      "longitude": 11.365687
+    },
+    {
+      "name": "Kvinesdal kulturhus",
+      "latitude": 58.319561,
+      "longitude": 6.958303
+    },
+    {
+      "name": "Lambertseter skole - Atrium",
+      "latitude": 59.871787,
+      "longitude": 10.816473
+    },
+    {
+      "name": "Latter",
+      "latitude": 59.910878,
+      "longitude": 10.726506
+    },
+    {
+      "name": "Lier kulturscene",
+      "latitude": 59.782052,
+      "longitude": 10.245359
+    },
+    {
+      "name": "Lille Scene",
+      "latitude": 59.890745,
+      "longitude": 10.525358
+    },
+    {
+      "name": "Lillestrøm kultursenter",
+      "latitude": 59.955306,
+      "longitude": 11.043608
+    },
+    {
+      "name": "Litjbrekka Amfi",
+      "latitude": 68.508687,
+      "longitude": 14.799384
+    },
+    {
+      "name": "Lofoten kulturhus",
+      "latitude": 68.231431,
+      "longitude": 14.56567
+    },
+    {
+      "name": "Logen Teater",
+      "latitude": 60.391864,
+      "longitude": 5.321521
+    },
+    {
+      "name": "Lundsneset amfiteater",
+      "latitude": 59.011089,
+      "longitude": 5.752855
+    },
+    {
+      "name": "Magnushallen",
+      "latitude": 63.586682,
+      "longitude": 10.737015
+    },
+    {
+      "name": "Maihaugsalen",
+      "latitude": 61.111879,
+      "longitude": 10.477948
+    },
+    {
+      "name": "Melhus kulturhus",
+      "latitude": 63.287364,
+      "longitude": 10.276185
+    },
+    {
+      "name": "Moelv kulturhus",
+      "latitude": 60.926784,
+      "longitude": 10.696766
+    },
+    {
+      "name": "Moster amfi",
+      "latitude": 59.702208,
+      "longitude": 5.382893
+    },
+    {
+      "name": "Namsos kulturhus",
+      "latitude": 64.467914,
+      "longitude": 11.503258
+    },
+    {
+      "name": "Nationaltheatret",
+      "latitude": 59.914376,
+      "longitude": 10.734307
+    },
+    {
+      "name": "Nieu Scene",
+      "latitude": 59.936139,
+      "longitude": 10.76555
+    },
+    {
+      "name": "Nordic Black Theatre & Cafeteatret",
+      "latitude": 59.910351,
+      "longitude": 10.767021
+    },
+    {
+      "name": "Nordland teater",
+      "latitude": 66.310318,
+      "longitude": 14.140204
+    },
+    {
+      "name": "Nye Hjorten Teater",
+      "latitude": 63.432372,
+      "longitude": 10.399205
+    },
+    {
+      "name": "Nærøysund kulturhus",
+      "latitude": 64.86296,
+      "longitude": 11.604909
+    },
+    {
+      "name": "Nøtterøy kulturhus",
+      "latitude": 59.22493,
+      "longitude": 10.409668
+    },
+    {
+      "name": "Olavshallen",
+      "latitude": 63.433765,
+      "longitude": 10.403396
+    },
+    {
+      "name": "Oslo Konserthus",
+      "latitude": 59.913308,
+      "longitude": 10.72909
+    },
+    {
+      "name": "Oslo Nye Centralteatret",
+      "latitude": 59.91454,
+      "longitude": 10.743455
+    },
+    {
+      "name": "Oslo Nye Hovedscenen",
+      "latitude": 59.914414,
+      "longitude": 10.739797
+    },
+    {
+      "name": "Oslo Nye Trikkestallen",
+      "latitude": 59.932775,
+      "longitude": 10.768167
+    },
+    {
+      "name": "Oslo Spektrum",
+      "latitude": 59.913177,
+      "longitude": 10.754468
+    },
+    {
+      "name": "Parkbiografen",
+      "latitude": 59.209999,
+      "longitude": 9.607299
+    },
+    {
+      "name": "Parken kulturhus",
+      "latitude": 62.472953,
+      "longitude": 6.16037
+    },
+    {
+      "name": "Parkteatret",
+      "latitude": 59.435398,
+      "longitude": 10.660263
+    },
+    {
+      "name": "Parkteatret Scene",
+      "latitude": 59.92362,
+      "longitude": 10.758353
+    },
+    {
+      "name": "Rauma kulturhus",
+      "latitude": 62.565391,
+      "longitude": 7.688899
+    },
+    {
+      "name": "Riksteatret",
+      "latitude": 59.950582,
+      "longitude": 10.765562
+    },
+    {
+      "name": "Ringerike kulturhus",
+      "latitude": 60.167648,
+      "longitude": 10.256849
+    },
+    {
+      "name": "Ringsakeroperaen",
+      "latitude": 60.88289,
+      "longitude": 10.949455
+    },
+    {
+      "name": "Risørhuset",
+      "latitude": 58.719459,
+      "longitude": 9.229014
+    },
+    {
+      "name": "Rogaland Teater",
+      "latitude": 58.965395,
+      "longitude": 5.732797
+    },
+    {
+      "name": "Rosegården teaterhus",
+      "latitude": 58.14923,
+      "longitude": 8.0302
+    },
+    {
+      "name": "Rosendal teater",
+      "latitude": 63.436515,
+      "longitude": 10.432456
+    },
+    {
+      "name": "Rosenlundsalen",
+      "latitude": 59.122608,
+      "longitude": 11.384115
+    },
+    {
+      "name": "Rudi gard",
+      "latitude": 61.575115,
+      "longitude": 9.907639
+    },
+    {
+      "name": "Rådhusteatret",
+      "latitude": 59.72032,
+      "longitude": 10.838007
+    },
+    {
+      "name": "Rådhusteatret Kongsvinger - kino",
+      "latitude": 60.19149,
+      "longitude": 11.999663
+    },
+    {
+      "name": "Salen - Institutt for musikkvitenskap",
+      "latitude": 59.937106,
+      "longitude": 10.720352
+    },
+    {
+      "name": "Samovarteateret",
+      "latitude": 69.723869,
+      "longitude": 30.058297
+    },
+    {
+      "name": "Sandnes kulturhus",
+      "latitude": 58.851532,
+      "longitude": 5.739814
+    },
+    {
+      "name": "Sandvika teater",
+      "latitude": 59.890933,
+      "longitude": 10.524949
+    },
+    {
+      "name": "Sarpsborg Scene",
+      "latitude": 59.28022,
+      "longitude": 11.120059
+    },
+    {
+      "name": "Sentrum Scene",
+      "latitude": 59.915476,
+      "longitude": 10.751781
+    },
+    {
+      "name": "Sofienbergprosjektet",
+      "latitude": 59.922308,
+      "longitude": 10.766001
+    },
+    {
+      "name": "Sogn og Fjordane teater",
+      "latitude": 61.453701,
+      "longitude": 5.867763
+    },
+    {
+      "name": "Sogndalstrand Amfi",
+      "latitude": 58.321808,
+      "longitude": 6.286525
+    },
+    {
+      "name": "Solhaug ungdomslokale",
+      "latitude": 59.292565,
+      "longitude": 10.131544
+    },
+    {
+      "name": "Soria Moria",
+      "latitude": 59.936173,
+      "longitude": 10.765669
+    },
+    {
+      "name": "Sorialab",
+      "latitude": 59.936476,
+      "longitude": 10.765331
+    },
+    {
+      "name": "Spelamfiet",
+      "latitude": 63.797038,
+      "longitude": 11.566088
+    },
+    {
+      "name": "Steinparken Amfi",
+      "latitude": 59.412139,
+      "longitude": 5.270904
+    },
+    {
+      "name": "Stord Theather",
+      "latitude": 59.778466,
+      "longitude": 5.49733
+    },
+    {
+      "name": "Store Scene",
+      "latitude": 60.433314,
+      "longitude": 9.445134
+    },
+    {
+      "name": "Stormen Konserthus",
+      "latitude": 67.283138,
+      "longitude": 14.375025
+    },
+    {
+      "name": "Storsalen Nannestad",
+      "latitude": 60.216574,
+      "longitude": 11.011175
+    },
+    {
+      "name": "Storstua",
+      "latitude": 59.927806,
+      "longitude": 10.961918
+    },
+    {
+      "name": "Storstuggu",
+      "latitude": 62.579071,
+      "longitude": 11.381065
+    },
+    {
+      "name": "Studentersamfundets Interne Teater",
+      "latitude": 63.422543,
+      "longitude": 10.395321
+    },
+    {
+      "name": "Størenslunden",
+      "latitude": 60.420594,
+      "longitude": 10.51216
+    },
+    {
+      "name": "Teater Ibsen",
+      "latitude": 59.198094,
+      "longitude": 9.614819
+    },
+    {
+      "name": "Teater Manu",
+      "latitude": 59.927506,
+      "longitude": 10.765106
+    },
+    {
+      "name": "Teaterhuset Munken",
+      "latitude": 59.049976,
+      "longitude": 10.033852
+    },
+    {
+      "name": "Teaterloftet",
+      "latitude": 59.90868,
+      "longitude": 10.601836
+    },
+    {
+      "name": "Teaterplassen",
+      "latitude": 60.288933,
+      "longitude": 5.354836
+    },
+    {
+      "name": "Teatersalen, Porsgrunn rådhus",
+      "latitude": 59.141152,
+      "longitude": 9.655774
+    },
+    {
+      "name": "Teatret Vårt",
+      "latitude": 62.736325,
+      "longitude": 7.155576
+    },
+    {
+      "name": "Tivoli Amfi",
+      "latitude": 59.434958,
+      "longitude": 10.657607
+    },
+    {
+      "name": "Torshovloftet",
+      "latitude": 59.936437,
+      "longitude": 10.765453
+    },
+    {
+      "name": "Torshovteatret",
+      "latitude": 59.936172,
+      "longitude": 10.765736
+    },
+    {
+      "name": "Trøndelag Teater",
+      "latitude": 63.429364,
+      "longitude": 10.391237
+    },
+    {
+      "name": "Tynset kulturhus",
+      "latitude": 62.273878,
+      "longitude": 10.775957
+    },
+    {
+      "name": "Union Scene",
+      "latitude": 59.744113,
+      "longitude": 10.192771
+    },
+    {
+      "name": "Utendørs scene",
+      "latitude": 60.880835,
+      "longitude": 10.942473
+    },
+    {
+      "name": "Utescena",
+      "latitude": 60.626646,
+      "longitude": 6.418006
+    },
+    {
+      "name": "Utescene",
+      "latitude": 63.417722,
+      "longitude": 10.356232
+    },
+    {
+      "name": "Utescenen",
+      "latitude": 60.677334,
+      "longitude": 6.509879
+    },
+    {
+      "name": "Vega scene",
+      "latitude": 59.919082,
+      "longitude": 10.752416
+    },
+    {
+      "name": "Verdensteateret",
+      "latitude": 59.132381,
+      "longitude": 10.22668
+    },
+    {
+      "name": "Verdensteateret",
+      "latitude": 68.438978,
+      "longitude": 17.431701
+    },
+    {
+      "name": "Vulkan arena",
+      "latitude": 59.922385,
+      "longitude": 10.751105
+    },
+    {
+      "name": "Ytrebygda kirke amfi",
+      "latitude": 60.282766,
+      "longitude": 5.25313
+    },
+    {
+      "name": "Ytrebygda kultursenter",
+      "latitude": 60.300051,
+      "longitude": 5.285689
+    },
+    {
+      "name": "Ås kulturhus",
+      "latitude": 59.664094,
+      "longitude": 10.791335
+    },
+    {
+      "name": "Ælvespeilet",
+      "latitude": 59.142132,
+      "longitude": 9.655391
+    }
+  ],
+  "meta": {
+    "title": "Norway Theatres - Gratis nedlasting",
+    "description": "Theatres in Norway (OSM amenity=theatre), with coordinates. Inneholder 177 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Norway Theatres | ListBase",
+    "seo_description": "Last ned Norway Theatres — 177 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 177 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

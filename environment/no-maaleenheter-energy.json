@@ -1,0 +1,206 @@
+{
+  "id": "no-maaleenheter-energy",
+  "name": "Maaleenheter: energy (14)",
+  "title": "Maaleenheter: energy (14)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'energy'.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "energy-becquerel",
+      "kategori": "energy",
+      "navn": "becquerel",
+      "moenster_en": "{0} becquerel",
+      "moenster_flere": "{0} becquerel",
+      "kort_moenster": "{0} Bq",
+      "smal_moenster": "{0} Bq"
+    },
+    {
+      "id": 2,
+      "unit_code": "energy-british-thermal-unit",
+      "kategori": "energy",
+      "navn": "British thermal unit",
+      "moenster_en": "",
+      "moenster_flere": "{0} Btu",
+      "kort_moenster": "{0} Btu",
+      "smal_moenster": "{0} Btu"
+    },
+    {
+      "id": 3,
+      "unit_code": "energy-british-thermal-unit-it",
+      "kategori": "energy",
+      "navn": "BTU-IT",
+      "moenster_en": "",
+      "moenster_flere": "{0} BTU-IT",
+      "kort_moenster": "{0} BTU-IT",
+      "smal_moenster": "{0} BTU-IT"
+    },
+    {
+      "id": 4,
+      "unit_code": "energy-calorie",
+      "kategori": "energy",
+      "navn": "kalorier",
+      "moenster_en": "{0} kalori",
+      "moenster_flere": "{0} kalorier",
+      "kort_moenster": "{0} cal",
+      "smal_moenster": "{0} cal"
+    },
+    {
+      "id": 5,
+      "unit_code": "energy-calorie-it",
+      "kategori": "energy",
+      "navn": "kalorier [IT]",
+      "moenster_en": "{0} kalori [IT]",
+      "moenster_flere": "{0} kalorier [IT]",
+      "kort_moenster": "{0} cal-IT",
+      "smal_moenster": "{0} cal-IT"
+    },
+    {
+      "id": 6,
+      "unit_code": "energy-electronvolt",
+      "kategori": "energy",
+      "navn": "elektronvolt",
+      "moenster_en": "{0} elektronvolt",
+      "moenster_flere": "{0} elektronvolt",
+      "kort_moenster": "{0} eV",
+      "smal_moenster": "{0} eV"
+    },
+    {
+      "id": 7,
+      "unit_code": "energy-foodcalorie",
+      "kategori": "energy",
+      "navn": "kalorier",
+      "moenster_en": "{0} kilokalori",
+      "moenster_flere": "{0} kilokalorier",
+      "kort_moenster": "",
+      "smal_moenster": ""
+    },
+    {
+      "id": 8,
+      "unit_code": "energy-gray",
+      "kategori": "energy",
+      "navn": "gray",
+      "moenster_en": "{0} gray",
+      "moenster_flere": "{0} gray",
+      "kort_moenster": "{0} Gy",
+      "smal_moenster": "{0} Gy"
+    },
+    {
+      "id": 9,
+      "unit_code": "energy-joule",
+      "kategori": "energy",
+      "navn": "joule",
+      "moenster_en": "{0} joule",
+      "moenster_flere": "{0} joule",
+      "kort_moenster": "{0} J",
+      "smal_moenster": "{0} J"
+    },
+    {
+      "id": 10,
+      "unit_code": "energy-kilocalorie",
+      "kategori": "energy",
+      "navn": "kilokalorier",
+      "moenster_en": "{0} kilokalori",
+      "moenster_flere": "{0} kilokalorier",
+      "kort_moenster": "{0} kcal",
+      "smal_moenster": "{0} kcal"
+    },
+    {
+      "id": 11,
+      "unit_code": "energy-kilojoule",
+      "kategori": "energy",
+      "navn": "kilojoule",
+      "moenster_en": "{0} kilojoule",
+      "moenster_flere": "{0} kilojoule",
+      "kort_moenster": "{0} kJ",
+      "smal_moenster": "{0} kJ"
+    },
+    {
+      "id": 12,
+      "unit_code": "energy-kilowatt-hour",
+      "kategori": "energy",
+      "navn": "kilowattimer",
+      "moenster_en": "{0} kilowattime",
+      "moenster_flere": "{0} kilowattimer",
+      "kort_moenster": "{0} kWh",
+      "smal_moenster": "{0} kWh"
+    },
+    {
+      "id": 13,
+      "unit_code": "energy-sievert",
+      "kategori": "energy",
+      "navn": "sievert",
+      "moenster_en": "{0} sievert",
+      "moenster_flere": "{0} sievert",
+      "kort_moenster": "{0} Sv",
+      "smal_moenster": "{0} Sv"
+    },
+    {
+      "id": 14,
+      "unit_code": "energy-therm-us",
+      "kategori": "energy",
+      "navn": "therm",
+      "moenster_en": "{0} therm",
+      "moenster_flere": "{0} therm",
+      "kort_moenster": "{0} therm",
+      "smal_moenster": "{0} therm"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: energy (14) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'energy'. Inneholder 14 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: energy (14) | ListBase",
+    "seo_description": "Last ned Maaleenheter: energy (14) — 14 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 14 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

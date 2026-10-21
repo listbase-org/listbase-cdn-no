@@ -1,0 +1,432 @@
+{
+  "id": "no-asker-postnummer",
+  "name": "Postnummer i Asker",
+  "title": "Postnummer i Asker",
+  "description": "Alle 47 postnummer i Asker kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1371",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1372",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1373",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1375",
+      "poststed": "Billingstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1376",
+      "poststed": "Billingstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1377",
+      "poststed": "Billingstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1378",
+      "poststed": "Nesbru",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1379",
+      "poststed": "Nesbru",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1380",
+      "poststed": "Heggedal",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1381",
+      "poststed": "Vettre",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1383",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1384",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1385",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1386",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1387",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1388",
+      "poststed": "Borgen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1389",
+      "poststed": "Heggedal",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1390",
+      "poststed": "Vollen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1391",
+      "poststed": "Vollen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1392",
+      "poststed": "Vettre",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1393",
+      "poststed": "Vollen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1394",
+      "poststed": "Nesbru",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1395",
+      "poststed": "Hvalstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1396",
+      "poststed": "Billingstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1397",
+      "poststed": "Nesøya",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1399",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3430",
+      "poststed": "Spikkestad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3431",
+      "poststed": "Spikkestad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3440",
+      "poststed": "Røyken",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3441",
+      "poststed": "Røyken",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3442",
+      "poststed": "Hyggen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3470",
+      "poststed": "Slemmestad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3471",
+      "poststed": "Slemmestad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3472",
+      "poststed": "Bødalen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3474",
+      "poststed": "Åros",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3475",
+      "poststed": "Sætre",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3476",
+      "poststed": "Sætre",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3477",
+      "poststed": "Båtstø",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3478",
+      "poststed": "Nærsnes",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3479",
+      "poststed": "Nærsnes",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3480",
+      "poststed": "Filtvet",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3481",
+      "poststed": "Tofte",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3482",
+      "poststed": "Tofte",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3483",
+      "poststed": "Kana",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3484",
+      "poststed": "Holmsbu",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3485",
+      "poststed": "Filtvet",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3490",
+      "poststed": "Klokkarstua",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Asker - Gratis nedlasting",
+    "description": "Alle 47 postnummer i Asker kommune med poststed. Inneholder 47 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Asker | ListBase",
+    "seo_description": "Last ned Postnummer i Asker — 47 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 47 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

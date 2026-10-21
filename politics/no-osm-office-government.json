@@ -1,0 +1,2821 @@
+{
+  "id": "no-osm-office-government",
+  "name": "Named government offices in Norway",
+  "title": "Named government offices in Norway",
+  "description": "Named government offices in Norway, derived from OpenStreetMap POI nodes tagged office=government in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 556,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Arbeids- og sosialdepartementet",
+      "latitude": 59.917278,
+      "longitude": 10.745143
+    },
+    {
+      "name": "Arbeids- og velferdsdirektoratet",
+      "latitude": 59.912663,
+      "longitude": 10.796778
+    },
+    {
+      "name": "Arbeidstilsynet",
+      "latitude": 59.743006,
+      "longitude": 10.193528
+    },
+    {
+      "name": "Arbeidstilsynet",
+      "latitude": 67.284709,
+      "longitude": 14.379131
+    },
+    {
+      "name": "Arbeidstilsynet Vestlandet",
+      "latitude": 60.391945,
+      "longitude": 5.327508
+    },
+    {
+      "name": "Arendal trafikkstasjon",
+      "latitude": 58.464284,
+      "longitude": 8.723505
+    },
+    {
+      "name": "Arkiv Øst",
+      "latitude": 59.266928,
+      "longitude": 11.170966
+    },
+    {
+      "name": "Askim kommune",
+      "latitude": 59.583639,
+      "longitude": 11.162426
+    },
+    {
+      "name": "BUFETAT",
+      "latitude": 59.278192,
+      "longitude": 10.401532
+    },
+    {
+      "name": "Barne- og familiedepartementet",
+      "latitude": 59.915722,
+      "longitude": 10.744239
+    },
+    {
+      "name": "Bergen trafikkstasjon",
+      "latitude": 60.475034,
+      "longitude": 5.336081
+    },
+    {
+      "name": "Bergen trafikkstasjon, førerkort",
+      "latitude": 60.384425,
+      "longitude": 5.333128
+    },
+    {
+      "name": "Biebmobearráigeahčču",
+      "latitude": 69.467056,
+      "longitude": 25.507073
+    },
+    {
+      "name": "Billingstad trafikkstasjon",
+      "latitude": 59.871795,
+      "longitude": 10.48499
+    },
+    {
+      "name": "Björnfjell tullstation",
+      "latitude": 68.434603,
+      "longitude": 18.109515
+    },
+    {
+      "name": "Brekstad trafikkstasjon",
+      "latitude": 63.694848,
+      "longitude": 9.66195
+    },
+    {
+      "name": "Bufetat",
+      "latitude": 59.951358,
+      "longitude": 11.046959
+    },
+    {
+      "name": "ByLab Svelvik",
+      "latitude": 59.614118,
+      "longitude": 10.409186
+    },
+    {
+      "name": "Bydelens hus, bydel Frogner",
+      "latitude": 59.912453,
+      "longitude": 10.712204
+    },
+    {
+      "name": "Bylab",
+      "latitude": 59.43562,
+      "longitude": 10.663327
+    },
+    {
+      "name": "Bymiljøetaten",
+      "latitude": 59.92765,
+      "longitude": 10.799455
+    },
+    {
+      "name": "Bymiljøetaten",
+      "latitude": 60.384988,
+      "longitude": 5.33133
+    },
+    {
+      "name": "Båtsfjord kommune - Teknisk etat – Drift",
+      "latitude": 70.628354,
+      "longitude": 29.696018
+    },
+    {
+      "name": "Cyberforsvaret",
+      "latitude": 59.917976,
+      "longitude": 10.503042
+    },
+    {
+      "name": "Den militære kontorbygning",
+      "latitude": 59.908059,
+      "longitude": 10.740485
+    },
+    {
+      "name": "Direktorat for samfunnssikkerhet og beredskap",
+      "latitude": 59.263867,
+      "longitude": 10.404578
+    },
+    {
+      "name": "Direktoratet for Mineralforvaltning",
+      "latitude": 78.218868,
+      "longitude": 15.642978
+    },
+    {
+      "name": "Domstoladministrasjonen Trondheim",
+      "latitude": 63.432036,
+      "longitude": 10.401713
+    },
+    {
+      "name": "Drammen havn",
+      "latitude": 59.732498,
+      "longitude": 10.221135
+    },
+    {
+      "name": "Drammen kulturskole",
+      "latitude": 59.744293,
+      "longitude": 10.192044
+    },
+    {
+      "name": "Drammen tollsted",
+      "latitude": 59.732933,
+      "longitude": 10.222039
+    },
+    {
+      "name": "Drammen trafikkstasjon Statens vegvesen",
+      "latitude": 59.751875,
+      "longitude": 10.247078
+    },
+    {
+      "name": "Drøbak trafikkstasjon",
+      "latitude": 59.669198,
+      "longitude": 10.648889
+    },
+    {
+      "name": "Drømtorp driftssentral",
+      "latitude": 59.716356,
+      "longitude": 10.85371
+    },
+    {
+      "name": "Egersund trafikkstasjon",
+      "latitude": 58.477466,
+      "longitude": 6.030556
+    },
+    {
+      "name": "Eiendomsavdelingen",
+      "latitude": 60.386276,
+      "longitude": 5.323783
+    },
+    {
+      "name": "Eksamenskontoret i Telemark",
+      "latitude": 59.215955,
+      "longitude": 9.612181
+    },
+    {
+      "name": "Fagernes trafikkstasjon",
+      "latitude": 60.997698,
+      "longitude": 9.21356
+    },
+    {
+      "name": "FeFo",
+      "latitude": 70.050985,
+      "longitude": 24.969828
+    },
+    {
+      "name": "Finansdepartementet",
+      "latitude": 59.91489,
+      "longitude": 10.744828
+    },
+    {
+      "name": "Fiskeridirektoratet",
+      "latitude": 60.399554,
+      "longitude": 5.307258
+    },
+    {
+      "name": "Fjelloppsyn",
+      "latitude": 62.30941,
+      "longitude": 12.12784
+    },
+    {
+      "name": "Flyktningtjenesten",
+      "latitude": 62.737497,
+      "longitude": 7.162705
+    },
+    {
+      "name": "Folkehelseinstituttet",
+      "latitude": 59.934334,
+      "longitude": 10.745513
+    },
+    {
+      "name": "Forbrukerrådet I Finnmark og Troms, 4. etg",
+      "latitude": 69.650438,
+      "longitude": 18.953784
+    },
+    {
+      "name": "Forbrukerrådet i Nordland",
+      "latitude": 67.28044,
+      "longitude": 14.37196
+    },
+    {
+      "name": "Forbrukerrådet i Oslo",
+      "latitude": 59.908969,
+      "longitude": 10.746327
+    },
+    {
+      "name": "Forbrukerrådet i Rogaland",
+      "latitude": 58.971589,
+      "longitude": 5.735512
+    },
+    {
+      "name": "Forsvarets logistikkorganisasjon, divisjon for IKT-kapasiteter",
+      "latitude": 59.917908,
+      "longitude": 10.50294
+    },
+    {
+      "name": "Forsvarets lønnsadministrasjon",
+      "latitude": 68.796017,
+      "longitude": 16.536373
+    },
+    {
+      "name": "Forsvarsdepartementet",
+      "latitude": 59.905882,
+      "longitude": 10.742914
+    },
+    {
+      "name": "Fylkesarkivet i Sogn og Fjordane",
+      "latitude": 61.181283,
+      "longitude": 6.854833
+    },
+    {
+      "name": "Fylkeshuset Trondheim",
+      "latitude": 63.429227,
+      "longitude": 10.394382
+    },
+    {
+      "name": "Fylkeshuset i Agder",
+      "latitude": 58.148392,
+      "longitude": 7.990007
+    },
+    {
+      "name": "Fylkeshuset i Akershus",
+      "latitude": 59.91204,
+      "longitude": 10.755712
+    },
+    {
+      "name": "Fylkeshuset i Aust-Agder",
+      "latitude": 58.464253,
+      "longitude": 8.767456
+    },
+    {
+      "name": "Fylkeshuset i Buskerud",
+      "latitude": 59.74844,
+      "longitude": 10.189134
+    },
+    {
+      "name": "Fylkeshuset i Finnmark",
+      "latitude": 70.08146,
+      "longitude": 29.734936
+    },
+    {
+      "name": "Fylkeshuset i Innlandet",
+      "latitude": 60.795144,
+      "longitude": 11.082634
+    },
+    {
+      "name": "Fylkeshuset i Innlandet",
+      "latitude": 61.116314,
+      "longitude": 10.462113
+    },
+    {
+      "name": "Fylkeshuset i Møre og Romsdal",
+      "latitude": 62.734674,
+      "longitude": 7.150985
+    },
+    {
+      "name": "Fylkeshuset i Rogaland",
+      "latitude": 58.964477,
+      "longitude": 5.730623
+    },
+    {
+      "name": "Fylkeshuset i Sogn og Fjordane",
+      "latitude": 61.181121,
+      "longitude": 6.854544
+    },
+    {
+      "name": "Fylkeshuset i Telemark",
+      "latitude": 59.209803,
+      "longitude": 9.608594
+    },
+    {
+      "name": "Fylkeshuset i Tromsø",
+      "latitude": 69.64458,
+      "longitude": 18.944594
+    },
+    {
+      "name": "Fylkeshuset i Trøndelag",
+      "latitude": 64.014371,
+      "longitude": 11.482162
+    },
+    {
+      "name": "Fylkeshuset i Vest-Agder",
+      "latitude": 58.151263,
+      "longitude": 7.993977
+    },
+    {
+      "name": "Fylkeshuset i Vestfold",
+      "latitude": 59.26542,
+      "longitude": 10.416063
+    },
+    {
+      "name": "Fylkeshuset i Østfold",
+      "latitude": 59.275142,
+      "longitude": 11.105751
+    },
+    {
+      "name": "Førde trafikkstasjon",
+      "latitude": 61.446804,
+      "longitude": 5.883733
+    },
+    {
+      "name": "Gjøvik trafikkstasjon",
+      "latitude": 60.779269,
+      "longitude": 10.633199
+    },
+    {
+      "name": "Glitre Nett AS",
+      "latitude": 58.461819,
+      "longitude": 8.717367
+    },
+    {
+      "name": "HELFO",
+      "latitude": 59.276941,
+      "longitude": 10.401631
+    },
+    {
+      "name": "Hafslund trafikkstasjon",
+      "latitude": 59.263255,
+      "longitude": 11.125809
+    },
+    {
+      "name": "Hamar trafikkstasjon",
+      "latitude": 60.793994,
+      "longitude": 11.097534
+    },
+    {
+      "name": "Harstad Havn KF",
+      "latitude": 68.800856,
+      "longitude": 16.546682
+    },
+    {
+      "name": "Haugesund trafikkstasjon",
+      "latitude": 59.387427,
+      "longitude": 5.310965
+    },
+    {
+      "name": "Helse Vest IKT",
+      "latitude": 58.932847,
+      "longitude": 5.704804
+    },
+    {
+      "name": "Helse- og omsorgsdepartementet",
+      "latitude": 59.916327,
+      "longitude": 10.742672
+    },
+    {
+      "name": "Helsetilsynet",
+      "latitude": 67.28015,
+      "longitude": 14.370608
+    },
+    {
+      "name": "Helsetilsynet i Finnmark",
+      "latitude": 70.076122,
+      "longitude": 29.747695
+    },
+    {
+      "name": "Husbanken Drammen",
+      "latitude": 59.743013,
+      "longitude": 10.192517
+    },
+    {
+      "name": "Husbanken Midt-Norge",
+      "latitude": 63.41569,
+      "longitude": 10.393894
+    },
+    {
+      "name": "Husbanken nord, Bodø",
+      "latitude": 67.285059,
+      "longitude": 14.379711
+    },
+    {
+      "name": "Husbanken nord, Hammerfest",
+      "latitude": 70.663742,
+      "longitude": 23.682539
+    },
+    {
+      "name": "Husbanken sør",
+      "latitude": 58.460085,
+      "longitude": 8.773376
+    },
+    {
+      "name": "Husbanken vest",
+      "latitude": 60.389377,
+      "longitude": 5.334208
+    },
+    {
+      "name": "Husbanken øst",
+      "latitude": 59.910204,
+      "longitude": 10.743225
+    },
+    {
+      "name": "Innbyggerservice",
+      "latitude": 60.391392,
+      "longitude": 5.329032
+    },
+    {
+      "name": "Innbyggertorg Lyngdal kommune",
+      "latitude": 58.138405,
+      "longitude": 7.068956
+    },
+    {
+      "name": "Innom",
+      "latitude": 62.73751,
+      "longitude": 7.160127
+    },
+    {
+      "name": "Jessheim trafikkstasjon",
+      "latitude": 60.167453,
+      "longitude": 11.159624
+    },
+    {
+      "name": "Junkerdal Tollsted",
+      "latitude": 66.751468,
+      "longitude": 15.819589
+    },
+    {
+      "name": "Justis- og beredskapsdepartementet",
+      "latitude": 59.952178,
+      "longitude": 10.764325
+    },
+    {
+      "name": "Kartverket",
+      "latitude": 60.14352,
+      "longitude": 10.249509
+    },
+    {
+      "name": "Kartverket",
+      "latitude": 60.375046,
+      "longitude": 6.718268
+    },
+    {
+      "name": "Kartverket",
+      "latitude": 67.284436,
+      "longitude": 14.379923
+    },
+    {
+      "name": "Klima- og miljødepartementet",
+      "latitude": 59.911707,
+      "longitude": 10.743562
+    },
+    {
+      "name": "Kommandantskapet (Forsvarssjefens bolig)",
+      "latitude": 59.90539,
+      "longitude": 10.740309
+    },
+    {
+      "name": "Kommunegården",
+      "latitude": 59.889078,
+      "longitude": 10.523708
+    },
+    {
+      "name": "Kongsvinger trafikkstasjon",
+      "latitude": 60.186346,
+      "longitude": 12.022177
+    },
+    {
+      "name": "Kragerø havnevesen",
+      "latitude": 58.869408,
+      "longitude": 9.416169
+    },
+    {
+      "name": "Kriminalomsorgen",
+      "latitude": 59.916993,
+      "longitude": 10.751428
+    },
+    {
+      "name": "Kriminalomsorgsdirektoratet",
+      "latitude": 59.956903,
+      "longitude": 11.051749
+    },
+    {
+      "name": "Kristiansund trafikkstasjon",
+      "latitude": 63.109605,
+      "longitude": 7.777245
+    },
+    {
+      "name": "Kulturetaten Oslo kommune",
+      "latitude": 59.908981,
+      "longitude": 10.738365
+    },
+    {
+      "name": "Lakselv veg- og trafikkstasjon",
+      "latitude": 70.039339,
+      "longitude": 24.968543
+    },
+    {
+      "name": "Larvik havnekontor",
+      "latitude": 59.046075,
+      "longitude": 10.03978
+    },
+    {
+      "name": "Larvik trafikkstasjon",
+      "latitude": 59.056081,
+      "longitude": 10.032733
+    },
+    {
+      "name": "Lillehammer trafikkstasjon",
+      "latitude": 61.126744,
+      "longitude": 10.453066
+    },
+    {
+      "name": "Lillestrøm trafikkstasjon",
+      "latitude": 59.971278,
+      "longitude": 11.049679
+    },
+    {
+      "name": "Linken Møtesenter",
+      "latitude": 69.681722,
+      "longitude": 18.987983
+    },
+    {
+      "name": "Longyearbyen Arebeidsforening",
+      "latitude": 78.221342,
+      "longitude": 15.642499
+    },
+    {
+      "name": "Longyearbyen Lokalstyre",
+      "latitude": 78.219275,
+      "longitude": 15.642224
+    },
+    {
+      "name": "Lærernes hus",
+      "latitude": 59.915847,
+      "longitude": 10.755087
+    },
+    {
+      "name": "Mattilsynet",
+      "latitude": 59.661817,
+      "longitude": 10.793703
+    },
+    {
+      "name": "Mattilsynet Lokasjon Haugalandet",
+      "latitude": 59.406757,
+      "longitude": 5.454731
+    },
+    {
+      "name": "Mattilsynet Sogndal",
+      "latitude": 61.228106,
+      "longitude": 7.099392
+    },
+    {
+      "name": "Medietilsynet",
+      "latitude": 59.211359,
+      "longitude": 10.940688
+    },
+    {
+      "name": "Meteorologisk institutt",
+      "latitude": 59.942682,
+      "longitude": 10.720454
+    },
+    {
+      "name": "Midtkvartalet",
+      "latitude": 59.914157,
+      "longitude": 10.727943
+    },
+    {
+      "name": "Miljødirektoratet",
+      "latitude": 59.914226,
+      "longitude": 10.798825
+    },
+    {
+      "name": "Molde frivilligsentral",
+      "latitude": 62.737362,
+      "longitude": 7.156951
+    },
+    {
+      "name": "Molde trafikkstasjon",
+      "latitude": 62.764797,
+      "longitude": 7.275313
+    },
+    {
+      "name": "Moss kommune, enhet kommunalteknikk",
+      "latitude": 59.443047,
+      "longitude": 10.700233
+    },
+    {
+      "name": "Movar IKS",
+      "latitude": 59.442323,
+      "longitude": 10.683807
+    },
+    {
+      "name": "Møre og Romsdal fylkeskommune",
+      "latitude": 63.114264,
+      "longitude": 7.733241
+    },
+    {
+      "name": "NAV Alna",
+      "latitude": 59.940906,
+      "longitude": 10.897282
+    },
+    {
+      "name": "NAV Alstahaug",
+      "latitude": 66.02347,
+      "longitude": 12.637165
+    },
+    {
+      "name": "NAV Alta",
+      "latitude": 69.96676,
+      "longitude": 23.270632
+    },
+    {
+      "name": "NAV Alver",
+      "latitude": 60.517719,
+      "longitude": 5.240848
+    },
+    {
+      "name": "NAV Andøy",
+      "latitude": 69.315938,
+      "longitude": 16.119546
+    },
+    {
+      "name": "NAV Arendal",
+      "latitude": 58.458478,
+      "longitude": 8.768387
+    },
+    {
+      "name": "NAV Arna",
+      "latitude": 60.421526,
+      "longitude": 5.465168
+    },
+    {
+      "name": "NAV Asker",
+      "latitude": 59.833711,
+      "longitude": 10.439283
+    },
+    {
+      "name": "NAV Askvoll",
+      "latitude": 61.345447,
+      "longitude": 5.062532
+    },
+    {
+      "name": "NAV Askøy",
+      "latitude": 60.409014,
+      "longitude": 5.227047
+    },
+    {
+      "name": "NAV Aukra",
+      "latitude": 62.805295,
+      "longitude": 6.888093
+    },
+    {
+      "name": "NAV Aure",
+      "latitude": 63.268124,
+      "longitude": 8.531198
+    },
+    {
+      "name": "NAV Aurland",
+      "latitude": 60.905589,
+      "longitude": 7.18762
+    },
+    {
+      "name": "NAV Aurskog - Høland",
+      "latitude": 59.882884,
+      "longitude": 11.564928
+    },
+    {
+      "name": "NAV Austevoll",
+      "latitude": 60.098817,
+      "longitude": 5.226034
+    },
+    {
+      "name": "NAV Averøy",
+      "latitude": 63.052245,
+      "longitude": 7.631154
+    },
+    {
+      "name": "NAV Balsfjord og Storfjord",
+      "latitude": 69.218403,
+      "longitude": 19.561923
+    },
+    {
+      "name": "NAV Bamble",
+      "latitude": 59.044369,
+      "longitude": 9.692219
+    },
+    {
+      "name": "NAV Bardu",
+      "latitude": 68.859989,
+      "longitude": 18.348239
+    },
+    {
+      "name": "NAV Beiarn",
+      "latitude": 67.007547,
+      "longitude": 14.573142
+    },
+    {
+      "name": "NAV Bergenhus",
+      "latitude": 60.393808,
+      "longitude": 5.32092
+    },
+    {
+      "name": "NAV Berlevåg",
+      "latitude": 70.860924,
+      "longitude": 29.090849
+    },
+    {
+      "name": "NAV Birkenes",
+      "latitude": 58.334678,
+      "longitude": 8.233003
+    },
+    {
+      "name": "NAV Bjerke",
+      "latitude": 59.926209,
+      "longitude": 10.812239
+    },
+    {
+      "name": "NAV Bjørnafjorden",
+      "latitude": 60.185175,
+      "longitude": 5.471753
+    },
+    {
+      "name": "NAV Bodø",
+      "latitude": 67.286012,
+      "longitude": 14.388038
+    },
+    {
+      "name": "NAV Bremanger",
+      "latitude": 61.768467,
+      "longitude": 5.290109
+    },
+    {
+      "name": "NAV Brønnøy",
+      "latitude": 65.475623,
+      "longitude": 12.211008
+    },
+    {
+      "name": "NAV Båtsfjord",
+      "latitude": 70.635911,
+      "longitude": 29.721894
+    },
+    {
+      "name": "NAV Bærum",
+      "latitude": 59.892328,
+      "longitude": 10.521121
+    },
+    {
+      "name": "NAV Bø (Nordland)",
+      "latitude": 68.680635,
+      "longitude": 14.46802
+    },
+    {
+      "name": "NAV Bømlo",
+      "latitude": 59.794989,
+      "longitude": 5.172188
+    },
+    {
+      "name": "NAV Deatnu - Tana",
+      "latitude": 70.198983,
+      "longitude": 28.173152
+    },
+    {
+      "name": "NAV Drammen",
+      "latitude": 59.74344,
+      "longitude": 10.192114
+    },
+    {
+      "name": "NAV Drangedal",
+      "latitude": 59.096847,
+      "longitude": 9.06285
+    },
+    {
+      "name": "NAV Dønna",
+      "latitude": 66.106034,
+      "longitude": 12.481903
+    },
+    {
+      "name": "NAV Eidfjord",
+      "latitude": 60.467331,
+      "longitude": 7.069625
+    },
+    {
+      "name": "NAV Eidskog",
+      "latitude": 59.98557,
+      "longitude": 12.124453
+    },
+    {
+      "name": "NAV Eidsvoll",
+      "latitude": 60.328305,
+      "longitude": 11.258861
+    },
+    {
+      "name": "NAV Eiganes og Tasta",
+      "latitude": 58.982079,
+      "longitude": 5.712936
+    },
+    {
+      "name": "NAV Eigersund",
+      "latitude": 58.446028,
+      "longitude": 6.005457
+    },
+    {
+      "name": "NAV Elverum",
+      "latitude": 60.881917,
+      "longitude": 11.563816
+    },
+    {
+      "name": "NAV Enebakk",
+      "latitude": 59.721276,
+      "longitude": 11.052709
+    },
+    {
+      "name": "NAV Engerdal",
+      "latitude": 61.757537,
+      "longitude": 11.959881
+    },
+    {
+      "name": "NAV Evje og Hornnes",
+      "latitude": 58.586577,
+      "longitude": 7.805541
+    },
+    {
+      "name": "NAV Falkenborg",
+      "latitude": 63.436823,
+      "longitude": 10.458344
+    },
+    {
+      "name": "NAV Fana",
+      "latitude": 60.318196,
+      "longitude": 5.35449
+    },
+    {
+      "name": "NAV Fauske",
+      "latitude": 67.258116,
+      "longitude": 15.386753
+    },
+    {
+      "name": "NAV Fensfjorden",
+      "latitude": 60.779003,
+      "longitude": 4.719229
+    },
+    {
+      "name": "NAV Fitjar",
+      "latitude": 59.91844,
+      "longitude": 5.318482
+    },
+    {
+      "name": "NAV Fjord",
+      "latitude": 62.598679,
+      "longitude": 6.444952
+    },
+    {
+      "name": "NAV Flakstad",
+      "latitude": 68.092981,
+      "longitude": 13.232709
+    },
+    {
+      "name": "NAV Flå",
+      "latitude": 60.429772,
+      "longitude": 9.462363
+    },
+    {
+      "name": "NAV Fredrikstad",
+      "latitude": 59.211651,
+      "longitude": 10.929049
+    },
+    {
+      "name": "NAV Frogn",
+      "latitude": 59.666723,
+      "longitude": 10.635827
+    },
+    {
+      "name": "NAV Frogner",
+      "latitude": 59.912458,
+      "longitude": 10.712331
+    },
+    {
+      "name": "NAV Froland",
+      "latitude": 58.508442,
+      "longitude": 8.631512
+    },
+    {
+      "name": "NAV Fyllingsdalen",
+      "latitude": 60.352616,
+      "longitude": 5.274925
+    },
+    {
+      "name": "NAV Færder",
+      "latitude": 59.22435,
+      "longitude": 10.409644
+    },
+    {
+      "name": "NAV Gamle Oslo",
+      "latitude": 59.914426,
+      "longitude": 10.77489
+    },
+    {
+      "name": "NAV Gamvik",
+      "latitude": 71.037541,
+      "longitude": 27.85195
+    },
+    {
+      "name": "NAV Gildeskål",
+      "latitude": 67.033424,
+      "longitude": 14.025545
+    },
+    {
+      "name": "NAV Giske",
+      "latitude": 62.500804,
+      "longitude": 6.134603
+    },
+    {
+      "name": "NAV Gjemnes",
+      "latitude": 62.892481,
+      "longitude": 7.679685
+    },
+    {
+      "name": "NAV Gjerdrum",
+      "latitude": 60.071714,
+      "longitude": 11.035773
+    },
+    {
+      "name": "NAV Gjerstad",
+      "latitude": 58.881354,
+      "longitude": 9.019063
+    },
+    {
+      "name": "NAV Gjesdal",
+      "latitude": 58.764952,
+      "longitude": 5.856945
+    },
+    {
+      "name": "NAV Gjøvik",
+      "latitude": 60.792252,
+      "longitude": 10.690959
+    },
+    {
+      "name": "NAV Gloppen",
+      "latitude": 61.7716,
+      "longitude": 6.228296
+    },
+    {
+      "name": "NAV Grane",
+      "latitude": 65.538683,
+      "longitude": 13.384854
+    },
+    {
+      "name": "NAV Grimstad",
+      "latitude": 58.341866,
+      "longitude": 8.594089
+    },
+    {
+      "name": "NAV Grorud",
+      "latitude": 59.958903,
+      "longitude": 10.869297
+    },
+    {
+      "name": "NAV Grue",
+      "latitude": 60.451211,
+      "longitude": 12.054719
+    },
+    {
+      "name": "NAV Grünerløkka",
+      "latitude": 59.926763,
+      "longitude": 10.769075
+    },
+    {
+      "name": "NAV Guovdageaidnu - Kautokeino",
+      "latitude": 69.011956,
+      "longitude": 23.041774
+    },
+    {
+      "name": "NAV Gáivuotna - Kåfjord",
+      "latitude": 69.604088,
+      "longitude": 20.53416
+    },
+    {
+      "name": "NAV Hadeland",
+      "latitude": 60.356918,
+      "longitude": 10.570732
+    },
+    {
+      "name": "NAV Hadsel",
+      "latitude": 68.563453,
+      "longitude": 14.90816
+    },
+    {
+      "name": "NAV Halden-Aremark",
+      "latitude": 59.122509,
+      "longitude": 11.387008
+    },
+    {
+      "name": "NAV Hallingdal",
+      "latitude": 60.69955,
+      "longitude": 8.950401
+    },
+    {
+      "name": "NAV Hamar",
+      "latitude": 60.795088,
+      "longitude": 11.071639
+    },
+    {
+      "name": "NAV Hamarøy",
+      "latitude": 68.084876,
+      "longitude": 15.617255
+    },
+    {
+      "name": "NAV Hammerfest",
+      "latitude": 70.498993,
+      "longitude": 23.973734
+    },
+    {
+      "name": "NAV Hareid-Ulstein-Sande",
+      "latitude": 62.340786,
+      "longitude": 5.851603
+    },
+    {
+      "name": "NAV Harstad",
+      "latitude": 68.798308,
+      "longitude": 16.545061
+    },
+    {
+      "name": "NAV Hasvik",
+      "latitude": 70.484602,
+      "longitude": 22.163687
+    },
+    {
+      "name": "NAV Hattfjelldal",
+      "latitude": 65.597641,
+      "longitude": 13.989284
+    },
+    {
+      "name": "NAV Haugesund-Utsira",
+      "latitude": 59.414001,
+      "longitude": 5.272875
+    },
+    {
+      "name": "NAV Heim",
+      "latitude": 63.118688,
+      "longitude": 8.31123
+    },
+    {
+      "name": "NAV Hemnes",
+      "latitude": 66.076328,
+      "longitude": 13.82335
+    },
+    {
+      "name": "NAV Herøy",
+      "latitude": 65.983939,
+      "longitude": 12.288644
+    },
+    {
+      "name": "NAV Herøy og Vanylven",
+      "latitude": 62.099873,
+      "longitude": 5.557006
+    },
+    {
+      "name": "NAV Hillevåg og Hinna",
+      "latitude": 58.905058,
+      "longitude": 5.732344
+    },
+    {
+      "name": "NAV Hitra Frøya",
+      "latitude": 63.600845,
+      "longitude": 8.974531
+    },
+    {
+      "name": "NAV Hjartdal",
+      "latitude": 59.612796,
+      "longitude": 8.949293
+    },
+    {
+      "name": "NAV Hjelmeland",
+      "latitude": 59.234291,
+      "longitude": 6.179452
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Aust-Agder",
+      "latitude": 58.477537,
+      "longitude": 8.742158
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Buskerud",
+      "latitude": 59.751978,
+      "longitude": 10.128223
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Finnmark",
+      "latitude": 70.052486,
+      "longitude": 24.953643
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Hedmark",
+      "latitude": 60.88196,
+      "longitude": 11.537012
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Hordaland",
+      "latitude": 60.298113,
+      "longitude": 5.257053
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Møre og Romsdal",
+      "latitude": 62.432772,
+      "longitude": 6.413234
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Nord-Trøndelag",
+      "latitude": 63.741658,
+      "longitude": 11.288648
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Nordland",
+      "latitude": 67.276088,
+      "longitude": 14.398886
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Oppland",
+      "latitude": 60.771548,
+      "longitude": 10.703871
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Oslo og Akerhus",
+      "latitude": 59.926578,
+      "longitude": 10.815973
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Rogaland",
+      "latitude": 58.891343,
+      "longitude": 5.705053
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Sogn og Fjordane",
+      "latitude": 61.454875,
+      "longitude": 5.840104
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Sør-Trøndelag",
+      "latitude": 63.332095,
+      "longitude": 10.359847
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Telemark",
+      "latitude": 59.178613,
+      "longitude": 9.607139
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Troms",
+      "latitude": 69.668682,
+      "longitude": 18.971954
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Vest-Agder",
+      "latitude": 58.146831,
+      "longitude": 8.01037
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Vestfold",
+      "latitude": 59.244053,
+      "longitude": 10.254535
+    },
+    {
+      "name": "NAV Hjelpemiddelsentral Østfold",
+      "latitude": 59.267689,
+      "longitude": 11.03817
+    },
+    {
+      "name": "NAV Hole",
+      "latitude": 60.080193,
+      "longitude": 10.278422
+    },
+    {
+      "name": "NAV Holmestrand",
+      "latitude": 59.487201,
+      "longitude": 10.318652
+    },
+    {
+      "name": "NAV Horten",
+      "latitude": 59.415943,
+      "longitude": 10.484211
+    },
+    {
+      "name": "NAV Hundvåg og Storhaug",
+      "latitude": 58.968302,
+      "longitude": 5.760053
+    },
+    {
+      "name": "NAV Hurdal",
+      "latitude": 60.43598,
+      "longitude": 11.066421
+    },
+    {
+      "name": "NAV Hustadvika",
+      "latitude": 62.853565,
+      "longitude": 7.153488
+    },
+    {
+      "name": "NAV Hvaler",
+      "latitude": 59.027863,
+      "longitude": 11.031081
+    },
+    {
+      "name": "NAV Hyllestad",
+      "latitude": 61.170714,
+      "longitude": 5.293849
+    },
+    {
+      "name": "NAV Hå",
+      "latitude": 58.665566,
+      "longitude": 5.639364
+    },
+    {
+      "name": "NAV Hægebostad",
+      "latitude": 58.460882,
+      "longitude": 7.229562
+    },
+    {
+      "name": "NAV Høyanger",
+      "latitude": 61.21788,
+      "longitude": 6.073638
+    },
+    {
+      "name": "NAV Høylandet",
+      "latitude": 64.627501,
+      "longitude": 12.300329
+    },
+    {
+      "name": "NAV Ibestad",
+      "latitude": 68.785581,
+      "longitude": 17.160326
+    },
+    {
+      "name": "NAV Indre Namdal",
+      "latitude": 64.883976,
+      "longitude": 13.563046
+    },
+    {
+      "name": "NAV Indre Østfold",
+      "latitude": 59.584604,
+      "longitude": 11.161193
+    },
+    {
+      "name": "NAV Inn-Trøndelag",
+      "latitude": 64.013178,
+      "longitude": 11.495409
+    },
+    {
+      "name": "NAV Jevnaker",
+      "latitude": 60.240641,
+      "longitude": 10.386083
+    },
+    {
+      "name": "NAV Karlsøy",
+      "latitude": 69.967854,
+      "longitude": 19.625782
+    },
+    {
+      "name": "NAV Karmøy-Bokn",
+      "latitude": 59.283392,
+      "longitude": 5.306141
+    },
+    {
+      "name": "NAV Kinn",
+      "latitude": 61.935812,
+      "longitude": 5.114345
+    },
+    {
+      "name": "NAV Klepp-Time",
+      "latitude": 58.779873,
+      "longitude": 5.62255
+    },
+    {
+      "name": "NAV Kongsberg",
+      "latitude": 59.665157,
+      "longitude": 9.646474
+    },
+    {
+      "name": "NAV Kongsvinger",
+      "latitude": 60.190706,
+      "longitude": 11.998485
+    },
+    {
+      "name": "NAV Kragerø",
+      "latitude": 58.872706,
+      "longitude": 9.396924
+    },
+    {
+      "name": "NAV Kristiansand",
+      "latitude": 58.147558,
+      "longitude": 7.995601
+    },
+    {
+      "name": "NAV Kristiansund",
+      "latitude": 63.115761,
+      "longitude": 7.73423
+    },
+    {
+      "name": "NAV Krødsherad",
+      "latitude": 60.183801,
+      "longitude": 9.618843
+    },
+    {
+      "name": "NAV Kvam",
+      "latitude": 60.369185,
+      "longitude": 6.146264
+    },
+    {
+      "name": "NAV Kvinnherad",
+      "latitude": 59.861053,
+      "longitude": 5.755102
+    },
+    {
+      "name": "NAV Kvæfjord",
+      "latitude": 68.771693,
+      "longitude": 16.171728
+    },
+    {
+      "name": "NAV Kvænangen",
+      "latitude": 69.938826,
+      "longitude": 22.048929
+    },
+    {
+      "name": "NAV Kárášjohka - Karasjok",
+      "latitude": 69.467018,
+      "longitude": 25.507304
+    },
+    {
+      "name": "NAV Laksevåg",
+      "latitude": 60.363343,
+      "longitude": 5.232944
+    },
+    {
+      "name": "NAV Larvik",
+      "latitude": 59.05375,
+      "longitude": 10.02902
+    },
+    {
+      "name": "NAV Lebesby",
+      "latitude": 70.946028,
+      "longitude": 27.344272
+    },
+    {
+      "name": "NAV Leirfjord",
+      "latitude": 66.063587,
+      "longitude": 12.936522
+    },
+    {
+      "name": "NAV Lerkendal",
+      "latitude": 63.405139,
+      "longitude": 10.398625
+    },
+    {
+      "name": "NAV Lesja-Dovre",
+      "latitude": 62.074361,
+      "longitude": 9.12743
+    },
+    {
+      "name": "NAV Levanger",
+      "latitude": 63.744679,
+      "longitude": 11.298241
+    },
+    {
+      "name": "NAV Lier",
+      "latitude": 59.817659,
+      "longitude": 10.273839
+    },
+    {
+      "name": "NAV Lillehammer - Gausdal",
+      "latitude": 61.116739,
+      "longitude": 10.466761
+    },
+    {
+      "name": "NAV Lillesand",
+      "latitude": 58.249753,
+      "longitude": 8.376231
+    },
+    {
+      "name": "NAV Lillestrøm",
+      "latitude": 59.953248,
+      "longitude": 11.041407
+    },
+    {
+      "name": "NAV Lindesnes",
+      "latitude": 58.029547,
+      "longitude": 7.460661
+    },
+    {
+      "name": "NAV Lister",
+      "latitude": 58.095393,
+      "longitude": 6.802486
+    },
+    {
+      "name": "NAV Lom-Skjåk",
+      "latitude": 61.88782,
+      "longitude": 8.256215
+    },
+    {
+      "name": "NAV Loppa",
+      "latitude": 70.245686,
+      "longitude": 22.349849
+    },
+    {
+      "name": "NAV Lund",
+      "latitude": 58.457521,
+      "longitude": 6.551442
+    },
+    {
+      "name": "NAV Lurøy",
+      "latitude": 66.393,
+      "longitude": 12.829151
+    },
+    {
+      "name": "NAV Luster",
+      "latitude": 61.403478,
+      "longitude": 7.297478
+    },
+    {
+      "name": "NAV Lyngen",
+      "latitude": 69.576234,
+      "longitude": 20.219938
+    },
+    {
+      "name": "NAV Lærdal",
+      "latitude": 61.098438,
+      "longitude": 7.481002
+    },
+    {
+      "name": "NAV Lødingen",
+      "latitude": 68.414783,
+      "longitude": 15.994502
+    },
+    {
+      "name": "NAV Lørenskog",
+      "latitude": 59.921332,
+      "longitude": 10.953929
+    },
+    {
+      "name": "NAV Løten",
+      "latitude": 60.817375,
+      "longitude": 11.34413
+    },
+    {
+      "name": "NAV Madla",
+      "latitude": 58.952407,
+      "longitude": 5.68163
+    },
+    {
+      "name": "NAV Malvik",
+      "latitude": 63.41106,
+      "longitude": 10.794534
+    },
+    {
+      "name": "NAV Marker",
+      "latitude": 59.479498,
+      "longitude": 11.658919
+    },
+    {
+      "name": "NAV Melhus",
+      "latitude": 63.287629,
+      "longitude": 10.277488
+    },
+    {
+      "name": "NAV Meløy",
+      "latitude": 66.873686,
+      "longitude": 13.707327
+    },
+    {
+      "name": "NAV Midt-Agder",
+      "latitude": 58.45742,
+      "longitude": 7.918275
+    },
+    {
+      "name": "NAV Midt-Gudbrandsdal",
+      "latitude": 61.595624,
+      "longitude": 9.748013
+    },
+    {
+      "name": "NAV Midt-Telemark",
+      "latitude": 59.279186,
+      "longitude": 9.270129
+    },
+    {
+      "name": "NAV Midtre Gauldal",
+      "latitude": 63.039207,
+      "longitude": 10.287091
+    },
+    {
+      "name": "NAV Midtre Namdal",
+      "latitude": 64.467452,
+      "longitude": 11.500073
+    },
+    {
+      "name": "NAV Modum",
+      "latitude": 59.89292,
+      "longitude": 9.927592
+    },
+    {
+      "name": "NAV Molde",
+      "latitude": 62.739766,
+      "longitude": 7.173198
+    },
+    {
+      "name": "NAV Mosjøen",
+      "latitude": 65.835567,
+      "longitude": 13.19218
+    },
+    {
+      "name": "NAV Moskenes",
+      "latitude": 67.93207,
+      "longitude": 13.090889
+    },
+    {
+      "name": "NAV Moss",
+      "latitude": 59.436979,
+      "longitude": 10.664045
+    },
+    {
+      "name": "NAV Målselv",
+      "latitude": 69.066496,
+      "longitude": 18.516554
+    },
+    {
+      "name": "NAV Måsøy",
+      "latitude": 70.995054,
+      "longitude": 24.671241
+    },
+    {
+      "name": "NAV Møre og Romsdal",
+      "latitude": 62.739254,
+      "longitude": 7.190853
+    },
+    {
+      "name": "NAV Nannestad",
+      "latitude": 60.219248,
+      "longitude": 11.015143
+    },
+    {
+      "name": "NAV Narvik",
+      "latitude": 68.43972,
+      "longitude": 17.430039
+    },
+    {
+      "name": "NAV Nes",
+      "latitude": 60.12435,
+      "longitude": 11.466551
+    },
+    {
+      "name": "NAV Nesna",
+      "latitude": 66.199141,
+      "longitude": 13.016806
+    },
+    {
+      "name": "NAV Nesodden",
+      "latitude": 59.855852,
+      "longitude": 10.66111
+    },
+    {
+      "name": "NAV Nittedal",
+      "latitude": 60.043257,
+      "longitude": 10.88107
+    },
+    {
+      "name": "NAV Nord-Fosen",
+      "latitude": 64.298653,
+      "longitude": 10.512342
+    },
+    {
+      "name": "NAV Nord-Østerdal",
+      "latitude": 62.133556,
+      "longitude": 9.997966
+    },
+    {
+      "name": "NAV Nordkapp",
+      "latitude": 70.981903,
+      "longitude": 25.970718
+    },
+    {
+      "name": "NAV Nordre Aker",
+      "latitude": 59.951045,
+      "longitude": 10.767097
+    },
+    {
+      "name": "NAV Nordre Follo",
+      "latitude": 59.719827,
+      "longitude": 10.840819
+    },
+    {
+      "name": "NAV Nordre Land",
+      "latitude": 60.8345,
+      "longitude": 10.076109
+    },
+    {
+      "name": "NAV Nordreisa",
+      "latitude": 69.768227,
+      "longitude": 21.025516
+    },
+    {
+      "name": "NAV Nordstrand",
+      "latitude": 59.879283,
+      "longitude": 10.807137
+    },
+    {
+      "name": "NAV Notodden",
+      "latitude": 59.557817,
+      "longitude": 9.253044
+    },
+    {
+      "name": "NAV Numedal",
+      "latitude": 59.984209,
+      "longitude": 9.294499
+    },
+    {
+      "name": "NAV Nærøysund",
+      "latitude": 65.092307,
+      "longitude": 11.705136
+    },
+    {
+      "name": "NAV Odal",
+      "latitude": 60.391837,
+      "longitude": 11.541721
+    },
+    {
+      "name": "NAV Oppdal og Rennebu",
+      "latitude": 62.82878,
+      "longitude": 10.004651
+    },
+    {
+      "name": "NAV Orkland",
+      "latitude": 63.505624,
+      "longitude": 9.826072
+    },
+    {
+      "name": "NAV Oslo og Akershus",
+      "latitude": 59.916177,
+      "longitude": 10.741113
+    },
+    {
+      "name": "NAV Osterøy",
+      "latitude": 60.523763,
+      "longitude": 5.505431
+    },
+    {
+      "name": "NAV Porsanger-Porsáŋgu - Porsangin",
+      "latitude": 70.052711,
+      "longitude": 24.963698
+    },
+    {
+      "name": "NAV Porsgrunn",
+      "latitude": 59.141105,
+      "longitude": 9.657987
+    },
+    {
+      "name": "NAV Rakkestad",
+      "latitude": 59.427951,
+      "longitude": 11.343116
+    },
+    {
+      "name": "NAV Rana",
+      "latitude": 66.311384,
+      "longitude": 14.136876
+    },
+    {
+      "name": "NAV Randaberg-Kvitsøy",
+      "latitude": 58.998849,
+      "longitude": 5.620321
+    },
+    {
+      "name": "NAV Rauma",
+      "latitude": 62.568213,
+      "longitude": 7.686268
+    },
+    {
+      "name": "NAV Rennesøy og Finnøy",
+      "latitude": 59.099376,
+      "longitude": 5.700332
+    },
+    {
+      "name": "NAV Ringerike",
+      "latitude": 60.167644,
+      "longitude": 10.256488
+    },
+    {
+      "name": "NAV Ringsaker",
+      "latitude": 60.884399,
+      "longitude": 10.946136
+    },
+    {
+      "name": "NAV Risør",
+      "latitude": 58.721294,
+      "longitude": 9.226881
+    },
+    {
+      "name": "NAV Rogaland",
+      "latitude": 58.966152,
+      "longitude": 5.729538
+    },
+    {
+      "name": "NAV Råde",
+      "latitude": 59.351736,
+      "longitude": 10.871632
+    },
+    {
+      "name": "NAV Rælingen",
+      "latitude": 59.925288,
+      "longitude": 11.065743
+    },
+    {
+      "name": "NAV Rødøy",
+      "latitude": 66.711666,
+      "longitude": 13.284434
+    },
+    {
+      "name": "NAV Røros, Os og Holtålen",
+      "latitude": 62.575197,
+      "longitude": 11.385378
+    },
+    {
+      "name": "NAV Røst",
+      "latitude": 67.517354,
+      "longitude": 12.11519
+    },
+    {
+      "name": "NAV Sagene",
+      "latitude": 59.929189,
+      "longitude": 10.758528
+    },
+    {
+      "name": "NAV Salangen-Lavangen-Dyrøy",
+      "latitude": 68.876807,
+      "longitude": 17.832555
+    },
+    {
+      "name": "NAV Saltdal",
+      "latitude": 67.103428,
+      "longitude": 15.391476
+    },
+    {
+      "name": "NAV Samnanger",
+      "latitude": 60.377487,
+      "longitude": 5.761989
+    },
+    {
+      "name": "NAV Sandefjord",
+      "latitude": 59.12769,
+      "longitude": 10.228732
+    },
+    {
+      "name": "NAV Sandnes",
+      "latitude": 58.850239,
+      "longitude": 5.743216
+    },
+    {
+      "name": "NAV Sarpsborg",
+      "latitude": 59.28298,
+      "longitude": 11.111809
+    },
+    {
+      "name": "NAV Sauda",
+      "latitude": 59.649452,
+      "longitude": 6.354309
+    },
+    {
+      "name": "NAV Sel",
+      "latitude": 61.77221,
+      "longitude": 9.535288
+    },
+    {
+      "name": "NAV Senja-Sørreisa",
+      "latitude": 69.147274,
+      "longitude": 18.156162
+    },
+    {
+      "name": "NAV Sigdal",
+      "latitude": 60.045032,
+      "longitude": 9.635883
+    },
+    {
+      "name": "NAV Siljan",
+      "latitude": 59.278271,
+      "longitude": 9.727192
+    },
+    {
+      "name": "NAV Skaun",
+      "latitude": 63.324082,
+      "longitude": 10.066873
+    },
+    {
+      "name": "NAV Skien",
+      "latitude": 59.207343,
+      "longitude": 9.609318
+    },
+    {
+      "name": "NAV Skiptvet",
+      "latitude": 59.477488,
+      "longitude": 11.161588
+    },
+    {
+      "name": "NAV Skjervøy",
+      "latitude": 70.033815,
+      "longitude": 20.973758
+    },
+    {
+      "name": "NAV Smøla",
+      "latitude": 63.459917,
+      "longitude": 8.011483
+    },
+    {
+      "name": "NAV Sogn og Fjordane",
+      "latitude": 61.18434,
+      "longitude": 6.849531
+    },
+    {
+      "name": "NAV Sogndal",
+      "latitude": 61.229839,
+      "longitude": 7.102155
+    },
+    {
+      "name": "NAV Sokndal",
+      "latitude": 58.342486,
+      "longitude": 6.293416
+    },
+    {
+      "name": "NAV Sola",
+      "latitude": 58.886666,
+      "longitude": 5.647478
+    },
+    {
+      "name": "NAV Solund",
+      "latitude": 61.071997,
+      "longitude": 4.840813
+    },
+    {
+      "name": "NAV Sortland",
+      "latitude": 68.693298,
+      "longitude": 15.415879
+    },
+    {
+      "name": "NAV St. Hanshaugen",
+      "latitude": 59.923469,
+      "longitude": 10.731909
+    },
+    {
+      "name": "NAV Stad",
+      "latitude": 61.907797,
+      "longitude": 5.990333
+    },
+    {
+      "name": "NAV Stange",
+      "latitude": 60.715998,
+      "longitude": 11.190105
+    },
+    {
+      "name": "NAV Steigen",
+      "latitude": 67.775043,
+      "longitude": 15.013528
+    },
+    {
+      "name": "NAV Stor-Elvdal",
+      "latitude": 61.571946,
+      "longitude": 11.047671
+    },
+    {
+      "name": "NAV Stord",
+      "latitude": 59.779412,
+      "longitude": 5.49692
+    },
+    {
+      "name": "NAV Stovner",
+      "latitude": 59.960895,
+      "longitude": 10.925659
+    },
+    {
+      "name": "NAV Strand",
+      "latitude": 59.020244,
+      "longitude": 6.038668
+    },
+    {
+      "name": "NAV Stranda",
+      "latitude": 62.307271,
+      "longitude": 6.944584
+    },
+    {
+      "name": "NAV Stryn",
+      "latitude": 61.903482,
+      "longitude": 6.719176
+    },
+    {
+      "name": "NAV Sula",
+      "latitude": 62.442263,
+      "longitude": 6.190397
+    },
+    {
+      "name": "NAV Suldal",
+      "latitude": 59.483651,
+      "longitude": 6.249963
+    },
+    {
+      "name": "NAV Sunndal",
+      "latitude": 62.67277,
+      "longitude": 8.565667
+    },
+    {
+      "name": "NAV Sunnfjord",
+      "latitude": 61.449985,
+      "longitude": 5.857426
+    },
+    {
+      "name": "NAV Surnadal",
+      "latitude": 62.975198,
+      "longitude": 8.725634
+    },
+    {
+      "name": "NAV Sveio",
+      "latitude": 59.543034,
+      "longitude": 5.354351
+    },
+    {
+      "name": "NAV Svolvær",
+      "latitude": 68.232735,
+      "longitude": 14.562124
+    },
+    {
+      "name": "NAV Sykkylven",
+      "latitude": 62.390621,
+      "longitude": 6.575527
+    },
+    {
+      "name": "NAV Sømna",
+      "latitude": 65.314191,
+      "longitude": 12.167171
+    },
+    {
+      "name": "NAV Søndre Land",
+      "latitude": 60.69943,
+      "longitude": 10.350887
+    },
+    {
+      "name": "NAV Søndre Nordstrand",
+      "latitude": 59.838354,
+      "longitude": 10.796252
+    },
+    {
+      "name": "NAV Sør-Varanger",
+      "latitude": 69.727798,
+      "longitude": 30.045046
+    },
+    {
+      "name": "NAV Sørfold",
+      "latitude": 67.348252,
+      "longitude": 15.59431
+    },
+    {
+      "name": "NAV Tingvoll",
+      "latitude": 62.912229,
+      "longitude": 8.206683
+    },
+    {
+      "name": "NAV Tinn",
+      "latitude": 59.878619,
+      "longitude": 8.597376
+    },
+    {
+      "name": "NAV Tjeldsund",
+      "latitude": 68.583104,
+      "longitude": 16.571584
+    },
+    {
+      "name": "NAV Tromsø",
+      "latitude": 69.653322,
+      "longitude": 18.957137
+    },
+    {
+      "name": "NAV Trysil",
+      "latitude": 61.315126,
+      "longitude": 12.264875
+    },
+    {
+      "name": "NAV Træna",
+      "latitude": 66.502589,
+      "longitude": 12.094346
+    },
+    {
+      "name": "NAV Trøndelag",
+      "latitude": 64.008083,
+      "longitude": 11.50137
+    },
+    {
+      "name": "NAV Tvedestrand",
+      "latitude": 58.626599,
+      "longitude": 8.928798
+    },
+    {
+      "name": "NAV Tysnes",
+      "latitude": 60.005881,
+      "longitude": 5.500078
+    },
+    {
+      "name": "NAV Tysvær",
+      "latitude": 59.421551,
+      "longitude": 5.44753
+    },
+    {
+      "name": "NAV Tønsberg",
+      "latitude": 59.278221,
+      "longitude": 10.404424
+    },
+    {
+      "name": "NAV Ullensaker",
+      "latitude": 60.141819,
+      "longitude": 11.170839
+    },
+    {
+      "name": "NAV Ullensvang",
+      "latitude": 60.374939,
+      "longitude": 6.721176
+    },
+    {
+      "name": "NAV Ullern",
+      "latitude": 59.933713,
+      "longitude": 10.674158
+    },
+    {
+      "name": "NAV Ulvik",
+      "latitude": 60.567969,
+      "longitude": 6.914951
+    },
+    {
+      "name": "NAV Unjárga - Nesseby",
+      "latitude": 70.1638,
+      "longitude": 28.571178
+    },
+    {
+      "name": "NAV Vadsø",
+      "latitude": 70.07303,
+      "longitude": 29.752155
+    },
+    {
+      "name": "NAV Vaksdal",
+      "latitude": 60.590309,
+      "longitude": 5.823135
+    },
+    {
+      "name": "NAV Valdres",
+      "latitude": 60.985358,
+      "longitude": 9.23665
+    },
+    {
+      "name": "NAV Vardø",
+      "latitude": 70.374103,
+      "longitude": 31.095664
+    },
+    {
+      "name": "NAV Vega",
+      "latitude": 65.675154,
+      "longitude": 11.96479
+    },
+    {
+      "name": "NAV Vegårshei",
+      "latitude": 58.750431,
+      "longitude": 8.863716
+    },
+    {
+      "name": "NAV Verdal",
+      "latitude": 63.793595,
+      "longitude": 11.481209
+    },
+    {
+      "name": "NAV Vest-Telemark",
+      "latitude": 59.482585,
+      "longitude": 8.626161
+    },
+    {
+      "name": "NAV Vestby",
+      "latitude": 59.601589,
+      "longitude": 10.749038
+    },
+    {
+      "name": "NAV Vestnes",
+      "latitude": 62.621302,
+      "longitude": 7.089667
+    },
+    {
+      "name": "NAV Vestre Aker",
+      "latitude": 59.941608,
+      "longitude": 10.654772
+    },
+    {
+      "name": "NAV Vestre Toten",
+      "latitude": 60.726056,
+      "longitude": 10.607582
+    },
+    {
+      "name": "NAV Vestvågøy",
+      "latitude": 68.147661,
+      "longitude": 13.609522
+    },
+    {
+      "name": "NAV Vevelstad",
+      "latitude": 65.700063,
+      "longitude": 12.439304
+    },
+    {
+      "name": "NAV Vik",
+      "latitude": 61.088744,
+      "longitude": 6.579465
+    },
+    {
+      "name": "NAV Vindafjord-Etne",
+      "latitude": 59.604171,
+      "longitude": 5.811627
+    },
+    {
+      "name": "NAV Voss",
+      "latitude": 60.629435,
+      "longitude": 6.414727
+    },
+    {
+      "name": "NAV Vågå",
+      "latitude": 61.875781,
+      "longitude": 9.095792
+    },
+    {
+      "name": "NAV Våler (Innlandet)",
+      "latitude": 60.674228,
+      "longitude": 11.832214
+    },
+    {
+      "name": "NAV Våler (Viken)",
+      "latitude": 59.488387,
+      "longitude": 10.865441
+    },
+    {
+      "name": "NAV Værnes",
+      "latitude": 63.468439,
+      "longitude": 10.918606
+    },
+    {
+      "name": "NAV Værøy",
+      "latitude": 67.663622,
+      "longitude": 12.693266
+    },
+    {
+      "name": "NAV Ytrebygda",
+      "latitude": 60.305214,
+      "longitude": 5.282301
+    },
+    {
+      "name": "NAV Ålesund",
+      "latitude": 62.471871,
+      "longitude": 6.154488
+    },
+    {
+      "name": "NAV Åmli",
+      "latitude": 58.766741,
+      "longitude": 8.485031
+    },
+    {
+      "name": "NAV Åmot",
+      "latitude": 61.131853,
+      "longitude": 11.372531
+    },
+    {
+      "name": "NAV Årdal",
+      "latitude": 61.236376,
+      "longitude": 7.702086
+    },
+    {
+      "name": "NAV Årstad",
+      "latitude": 60.379553,
+      "longitude": 5.338584
+    },
+    {
+      "name": "NAV Ås",
+      "latitude": 59.664059,
+      "longitude": 10.792565
+    },
+    {
+      "name": "NAV Åsane",
+      "latitude": 60.464716,
+      "longitude": 5.321696
+    },
+    {
+      "name": "NAV Åsnes",
+      "latitude": 60.613444,
+      "longitude": 12.008525
+    },
+    {
+      "name": "NAV Øksnes",
+      "latitude": 68.914006,
+      "longitude": 15.089202
+    },
+    {
+      "name": "NAV Ørland",
+      "latitude": 63.692515,
+      "longitude": 9.661258
+    },
+    {
+      "name": "NAV Ørsta Volda",
+      "latitude": 62.198678,
+      "longitude": 6.125939
+    },
+    {
+      "name": "NAV Østensjø",
+      "latitude": 59.865174,
+      "longitude": 10.841339
+    },
+    {
+      "name": "NAV Østre Toten",
+      "latitude": 60.67699,
+      "longitude": 10.816914
+    },
+    {
+      "name": "NAV Øvre Eiker",
+      "latitude": 59.769281,
+      "longitude": 9.910753
+    },
+    {
+      "name": "NAV Øyer",
+      "latitude": 61.314024,
+      "longitude": 10.301655
+    },
+    {
+      "name": "NAV Øygarden",
+      "latitude": 60.359131,
+      "longitude": 5.127097
+    },
+    {
+      "name": "Namsos trafikkstasjon",
+      "latitude": 64.469496,
+      "longitude": 11.532124
+    },
+    {
+      "name": "Nasjonal Sikkerhetsmyndighet",
+      "latitude": 59.917988,
+      "longitude": 10.507774
+    },
+    {
+      "name": "Nordfjordeid trafikkstasjon",
+      "latitude": 61.902852,
+      "longitude": 5.994493
+    },
+    {
+      "name": "Nordkvartalet",
+      "latitude": 59.914548,
+      "longitude": 10.72887
+    },
+    {
+      "name": "Nordland Fylkeskommune",
+      "latitude": 67.280397,
+      "longitude": 14.376233
+    },
+    {
+      "name": "Nordstrand bydelshus",
+      "latitude": 59.873312,
+      "longitude": 10.812035
+    },
+    {
+      "name": "Norgesuniversitetet",
+      "latitude": 69.680615,
+      "longitude": 18.987328
+    },
+    {
+      "name": "Norsk Romsenter",
+      "latitude": 59.921866,
+      "longitude": 10.674607
+    },
+    {
+      "name": "Norsk institutt for bioøkonomi",
+      "latitude": 59.665387,
+      "longitude": 10.792017
+    },
+    {
+      "name": "Norsk institutt for kulturminneforskning",
+      "latitude": 59.912784,
+      "longitude": 10.748548
+    },
+    {
+      "name": "Nærings- og fiskeridepartementet",
+      "latitude": 59.910171,
+      "longitude": 10.742135
+    },
+    {
+      "name": "Odda trafikkstasjon",
+      "latitude": 60.093421,
+      "longitude": 6.526371
+    },
+    {
+      "name": "Orkdal trafikkstasjon",
+      "latitude": 63.296219,
+      "longitude": 9.83691
+    },
+    {
+      "name": "Otta trafikkstasjon",
+      "latitude": 61.748662,
+      "longitude": 9.555366
+    },
+    {
+      "name": "Petroleumstilsynet",
+      "latitude": 58.934941,
+      "longitude": 5.702552
+    },
+    {
+      "name": "Plan og bygningsetaten",
+      "latitude": 60.385095,
+      "longitude": 5.331194
+    },
+    {
+      "name": "Psykisk helse og rus, Indre Fosen Kommune",
+      "latitude": 63.586622,
+      "longitude": 9.960444
+    },
+    {
+      "name": "Regjeringens representasjonsanlegg",
+      "latitude": 59.918123,
+      "longitude": 10.723373
+    },
+    {
+      "name": "Riksantikvaren",
+      "latitude": 59.910513,
+      "longitude": 10.763315
+    },
+    {
+      "name": "Riksrevisjonen",
+      "latitude": 59.913591,
+      "longitude": 10.750801
+    },
+    {
+      "name": "Risløkka trafikkstasjon",
+      "latitude": 59.930814,
+      "longitude": 10.820861
+    },
+    {
+      "name": "Rissa Helsetun",
+      "latitude": 63.586785,
+      "longitude": 9.958759
+    },
+    {
+      "name": "Røros trafikkstasjon",
+      "latitude": 62.565593,
+      "longitude": 11.369959
+    },
+    {
+      "name": "Senter mot marin forsøpling",
+      "latitude": 68.230722,
+      "longitude": 14.56431
+    },
+    {
+      "name": "Servicetorget",
+      "latitude": 59.961747,
+      "longitude": 10.928189
+    },
+    {
+      "name": "Sis Finnmárkku Bearašsuodjalanguovddáš",
+      "latitude": 69.472397,
+      "longitude": 25.517205
+    },
+    {
+      "name": "Sivil klareringsmyndighet",
+      "latitude": 59.433812,
+      "longitude": 10.667535
+    },
+    {
+      "name": "Skatt Midt-Norge Trondheim",
+      "latitude": 63.429836,
+      "longitude": 10.382765
+    },
+    {
+      "name": "Skatt nord Tromsø",
+      "latitude": 69.641974,
+      "longitude": 18.943236
+    },
+    {
+      "name": "Skatt vest Bergen",
+      "latitude": 60.388915,
+      "longitude": 5.334776
+    },
+    {
+      "name": "Skatt øst Oslo",
+      "latitude": 59.910283,
+      "longitude": 10.761957
+    },
+    {
+      "name": "Skatteetaten",
+      "latitude": 59.43974,
+      "longitude": 10.666716
+    },
+    {
+      "name": "Skatteetaten",
+      "latitude": 59.745584,
+      "longitude": 10.198901
+    },
+    {
+      "name": "Skatteetaten",
+      "latitude": 59.951552,
+      "longitude": 11.047352
+    },
+    {
+      "name": "Skatteetaten",
+      "latitude": 61.117312,
+      "longitude": 10.468064
+    },
+    {
+      "name": "Skatteetaten Kongsvinger",
+      "latitude": 60.191705,
+      "longitude": 11.997317
+    },
+    {
+      "name": "Skatteetaten Trondheim",
+      "latitude": 63.414556,
+      "longitude": 10.397801
+    },
+    {
+      "name": "Skattekontoret Molde",
+      "latitude": 62.736123,
+      "longitude": 7.181973
+    },
+    {
+      "name": "Skattens hus",
+      "latitude": 58.960819,
+      "longitude": 5.739134
+    },
+    {
+      "name": "Skur 8 - Dreggekaien",
+      "latitude": 60.397835,
+      "longitude": 5.320889
+    },
+    {
+      "name": "Sogndal trafikkstasjon",
+      "latitude": 61.225698,
+      "longitude": 7.101321
+    },
+    {
+      "name": "Sokkeldirektoratet",
+      "latitude": 58.934426,
+      "longitude": 5.704234
+    },
+    {
+      "name": "Statens Havarikommisjon for Transport",
+      "latitude": 59.96777,
+      "longitude": 11.036038
+    },
+    {
+      "name": "Statens Innkrevingssentral",
+      "latitude": 66.307136,
+      "longitude": 14.128792
+    },
+    {
+      "name": "Statens Vegvesen",
+      "latitude": 63.428893,
+      "longitude": 10.392948
+    },
+    {
+      "name": "Statens Vegvesen",
+      "latitude": 70.669674,
+      "longitude": 23.666812
+    },
+    {
+      "name": "Statens Vegvesen Regionvegkontoret",
+      "latitude": 67.295505,
+      "longitude": 14.404555
+    },
+    {
+      "name": "Statens Vegvesen, Levanger servicekontor",
+      "latitude": 63.745986,
+      "longitude": 11.299789
+    },
+    {
+      "name": "Statens Vegvesen, Oppdal servicekontor",
+      "latitude": 62.59488,
+      "longitude": 9.687776
+    },
+    {
+      "name": "Statens Vegvesen, Sauda kundesenter",
+      "latitude": 59.650755,
+      "longitude": 6.353158
+    },
+    {
+      "name": "Statens barnehus Moss",
+      "latitude": 59.434188,
+      "longitude": 10.669528
+    },
+    {
+      "name": "Statens hus",
+      "latitude": 58.961274,
+      "longitude": 5.738514
+    },
+    {
+      "name": "Statens hus",
+      "latitude": 59.433926,
+      "longitude": 10.667776
+    },
+    {
+      "name": "Statens vegvesen",
+      "latitude": 59.4353,
+      "longitude": 10.664847
+    },
+    {
+      "name": "Statens vegvesen",
+      "latitude": 59.738594,
+      "longitude": 10.207587
+    },
+    {
+      "name": "Statens vegvesen",
+      "latitude": 59.971206,
+      "longitude": 11.049959
+    },
+    {
+      "name": "Statens vegvesen",
+      "latitude": 60.795585,
+      "longitude": 11.086154
+    },
+    {
+      "name": "Statens vegvesen",
+      "latitude": 69.666547,
+      "longitude": 18.969233
+    },
+    {
+      "name": "Statens vegvesen, Vegdirektoratet",
+      "latitude": 59.916123,
+      "longitude": 10.806458
+    },
+    {
+      "name": "Statens vegvesen, distriktskontor",
+      "latitude": 64.025942,
+      "longitude": 11.500928
+    },
+    {
+      "name": "Statistisk sentralbyrå",
+      "latitude": 59.922027,
+      "longitude": 10.746852
+    },
+    {
+      "name": "Statsforvalteren Oslo og Viken",
+      "latitude": 59.434024,
+      "longitude": 10.668006
+    },
+    {
+      "name": "Statsforvalteren i Nordland",
+      "latitude": 67.274645,
+      "longitude": 14.384637
+    },
+    {
+      "name": "Statsforvalteren i Vestfold og Telemark",
+      "latitude": 59.270959,
+      "longitude": 10.409453
+    },
+    {
+      "name": "Statsforvalteren i Vestland",
+      "latitude": 60.376345,
+      "longitude": 5.336611
+    },
+    {
+      "name": "Statsministerboligen",
+      "latitude": 59.91805,
+      "longitude": 10.722813
+    },
+    {
+      "name": "Statsministerens kontor",
+      "latitude": 59.906083,
+      "longitude": 10.743059
+    },
+    {
+      "name": "Stavanger trafikkstasjon",
+      "latitude": 58.899147,
+      "longitude": 5.693709
+    },
+    {
+      "name": "Steinkjer trafikkstasjon",
+      "latitude": 64.025997,
+      "longitude": 11.500985
+    },
+    {
+      "name": "Stjørdal trafikkstasjon",
+      "latitude": 63.47528,
+      "longitude": 10.892455
+    },
+    {
+      "name": "Stord trafikkstasjon",
+      "latitude": 59.773959,
+      "longitude": 5.483726
+    },
+    {
+      "name": "Stortinget",
+      "latitude": 59.912996,
+      "longitude": 10.740146
+    },
+    {
+      "name": "Sunndalsøra trafikkstasjon",
+      "latitude": 62.674731,
+      "longitude": 8.56205
+    },
+    {
+      "name": "Svalbard skattekontor",
+      "latitude": 78.218835,
+      "longitude": 15.642902
+    },
+    {
+      "name": "Svinesund tullstation",
+      "latitude": 58.933784,
+      "longitude": 11.671598
+    },
+    {
+      "name": "Sámediggi",
+      "latitude": 69.47099,
+      "longitude": 25.4962
+    },
+    {
+      "name": "Sámediggi",
+      "latitude": 69.90781,
+      "longitude": 27.028253
+    },
+    {
+      "name": "Tolletaten",
+      "latitude": 59.440826,
+      "longitude": 10.66729
+    },
+    {
+      "name": "Tolletaten",
+      "latitude": 78.221047,
+      "longitude": 15.642027
+    },
+    {
+      "name": "Tollkontor Utstikker II",
+      "latitude": 59.905158,
+      "longitude": 10.744438
+    },
+    {
+      "name": "Troms fylkeskommune samferdsel",
+      "latitude": 69.644774,
+      "longitude": 18.942153
+    },
+    {
+      "name": "Tromsø kommunale pensjonskasse",
+      "latitude": 69.655908,
+      "longitude": 18.964498
+    },
+    {
+      "name": "Trondheim kommune, Kulturenheten",
+      "latitude": 63.431753,
+      "longitude": 10.400546
+    },
+    {
+      "name": "Trondheim trafikkstasjon",
+      "latitude": 63.398566,
+      "longitude": 10.40171
+    },
+    {
+      "name": "Trondheimsporten",
+      "latitude": 63.404994,
+      "longitude": 10.398023
+    },
+    {
+      "name": "Tronhdeim City Archive",
+      "latitude": 63.438847,
+      "longitude": 10.420863
+    },
+    {
+      "name": "Tull Customs",
+      "latitude": 59.08675,
+      "longitude": 11.249262
+    },
+    {
+      "name": "Tynset trafikkstasjon",
+      "latitude": 62.264687,
+      "longitude": 10.742181
+    },
+    {
+      "name": "UDI",
+      "latitude": 59.916821,
+      "longitude": 10.755309
+    },
+    {
+      "name": "Utdanningsdirektoratet",
+      "latitude": 59.910666,
+      "longitude": 10.759208
+    },
+    {
+      "name": "Utenriksdepartementet",
+      "latitude": 59.914722,
+      "longitude": 10.729132
+    },
+    {
+      "name": "Valgdirektoratet",
+      "latitude": 59.263972,
+      "longitude": 10.404462
+    },
+    {
+      "name": "Veiledningssenteret Follo",
+      "latitude": 59.665434,
+      "longitude": 10.791808
+    },
+    {
+      "name": "Verkstedgården",
+      "latitude": 59.906143,
+      "longitude": 10.742941
+    },
+    {
+      "name": "Vestland Fylkeskommune",
+      "latitude": 60.386682,
+      "longitude": 5.332464
+    },
+    {
+      "name": "Vestre Toten Kommune Teknisk Driftsavdeling",
+      "latitude": 60.707874,
+      "longitude": 10.604518
+    },
+    {
+      "name": "Viken fylkeskommune",
+      "latitude": 59.434094,
+      "longitude": 10.667998
+    },
+    {
+      "name": "Vikevåg innbyggertorg",
+      "latitude": 59.099082,
+      "longitude": 5.69966
+    },
+    {
+      "name": "Voss trafikkstasjon",
+      "latitude": 60.637996,
+      "longitude": 6.479647
+    },
+    {
+      "name": "Yhteispalvelupiste",
+      "latitude": 69.908142,
+      "longitude": 27.027997
+    },
+    {
+      "name": "Ålesund trafikkstasjon",
+      "latitude": 62.47341,
+      "longitude": 6.362267
+    },
+    {
+      "name": "Ørsta trafikkstasjon",
+      "latitude": 62.181711,
+      "longitude": 6.086207
+    },
+    {
+      "name": "Østfold sivilforsvarsdistrikt",
+      "latitude": 59.288721,
+      "longitude": 11.083846
+    }
+  ],
+  "meta": {
+    "title": "Named government offices in Norway - Gratis nedlasting",
+    "description": "Named government offices in Norway, derived from OpenStreetMap POI nodes tagged office=government in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 556 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named government offices in Norway | ListBase",
+    "seo_description": "Last ned Named government offices in Norway — 556 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 556 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

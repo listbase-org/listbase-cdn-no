@@ -1,0 +1,656 @@
+{
+  "id": "no-trafikkskoler",
+  "name": "Driving schools in Norway",
+  "title": "Driving schools in Norway",
+  "description": "Driving schools in Norway (Trafikkskoler i Norge), derived from OpenStreetMap POIs tagged amenity=driving_school. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 123,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AB trafikksenter",
+      "latitude": 59.963322,
+      "longitude": 10.907643
+    },
+    {
+      "name": "ABC Kjøreskole",
+      "latitude": 62.737997,
+      "longitude": 7.163232
+    },
+    {
+      "name": "ABC Trafikkskole",
+      "latitude": 59.913426,
+      "longitude": 10.776465
+    },
+    {
+      "name": "ABE trafikkskole",
+      "latitude": 59.940343,
+      "longitude": 10.985447
+    },
+    {
+      "name": "ABES Trafikkskole",
+      "latitude": 63.219748,
+      "longitude": 11.036751
+    },
+    {
+      "name": "Agder Storbilskole",
+      "latitude": 58.565,
+      "longitude": 7.779745
+    },
+    {
+      "name": "Alf Hoff Trafikkskole",
+      "latitude": 58.951169,
+      "longitude": 5.742478
+    },
+    {
+      "name": "Alna trafikkskole",
+      "latitude": 59.932273,
+      "longitude": 10.819396
+    },
+    {
+      "name": "Austerheim Kjøreskole",
+      "latitude": 59.647494,
+      "longitude": 6.350589
+    },
+    {
+      "name": "Autoteam.no Trafikkskole",
+      "latitude": 59.95533,
+      "longitude": 11.042416
+    },
+    {
+      "name": "Bergen Bil & MC skole",
+      "latitude": 60.376203,
+      "longitude": 5.339469
+    },
+    {
+      "name": "Blindern trafikkskole",
+      "latitude": 59.939963,
+      "longitude": 10.716691
+    },
+    {
+      "name": "Bob trafikkskole",
+      "latitude": 59.427741,
+      "longitude": 10.670743
+    },
+    {
+      "name": "BOB Trafikkskole avd Borgeskogen",
+      "latitude": 59.251035,
+      "longitude": 10.26173
+    },
+    {
+      "name": "Bonsaksen trafikkskule",
+      "latitude": 60.628595,
+      "longitude": 6.418972
+    },
+    {
+      "name": "Byens Trafikkskole",
+      "latitude": 59.047462,
+      "longitude": 10.043322
+    },
+    {
+      "name": "Byens Trafikkskole",
+      "latitude": 60.393783,
+      "longitude": 5.329776
+    },
+    {
+      "name": "Byåsen Trafikkskole",
+      "latitude": 63.428162,
+      "longitude": 10.367873
+    },
+    {
+      "name": "Centrum Trafikkskole",
+      "latitude": 60.294744,
+      "longitude": 5.326497
+    },
+    {
+      "name": "Centrum Trafikkskole",
+      "latitude": 60.387418,
+      "longitude": 5.332561
+    },
+    {
+      "name": "Centrum Trafikkskole",
+      "latitude": 63.429765,
+      "longitude": 10.392682
+    },
+    {
+      "name": "Connect Trafikkskole",
+      "latitude": 59.948066,
+      "longitude": 10.731499
+    },
+    {
+      "name": "Din trafikkskole",
+      "latitude": 58.850983,
+      "longitude": 5.735676
+    },
+    {
+      "name": "Drivn",
+      "latitude": 59.956651,
+      "longitude": 11.046732
+    },
+    {
+      "name": "Enern trafikkskole",
+      "latitude": 59.433878,
+      "longitude": 10.669755
+    },
+    {
+      "name": "Esp1 trafikkskole",
+      "latitude": 59.579497,
+      "longitude": 11.171683
+    },
+    {
+      "name": "ET Trafikkskole",
+      "latitude": 59.71809,
+      "longitude": 10.83718
+    },
+    {
+      "name": "Evje Trafikkskole",
+      "latitude": 58.587124,
+      "longitude": 7.806364
+    },
+    {
+      "name": "Fagerthun Trafikkskole",
+      "latitude": 68.440184,
+      "longitude": 17.420157
+    },
+    {
+      "name": "Falk Trafikkskole",
+      "latitude": 62.73621,
+      "longitude": 7.183187
+    },
+    {
+      "name": "Felgen",
+      "latitude": 61.118964,
+      "longitude": 10.460391
+    },
+    {
+      "name": "Flekkefjord Golins Trafikkskole",
+      "latitude": 58.295596,
+      "longitude": 6.66592
+    },
+    {
+      "name": "Flyt",
+      "latitude": 59.958798,
+      "longitude": 11.016088
+    },
+    {
+      "name": "Front trafikkskole",
+      "latitude": 59.437275,
+      "longitude": 10.662988
+    },
+    {
+      "name": "Fyllingsdalen trafikkskole",
+      "latitude": 60.350547,
+      "longitude": 5.288423
+    },
+    {
+      "name": "Førerkortexperten",
+      "latitude": 59.920301,
+      "longitude": 10.761452
+    },
+    {
+      "name": "Førerkortsentralen",
+      "latitude": 60.358985,
+      "longitude": 5.121452
+    },
+    {
+      "name": "GJS Trafikkskole",
+      "latitude": 59.434986,
+      "longitude": 10.668086
+    },
+    {
+      "name": "Glattkjøringsbana",
+      "latitude": 62.175831,
+      "longitude": 6.056615
+    },
+    {
+      "name": "Hamang trafikkskole",
+      "latitude": 59.262859,
+      "longitude": 11.127152
+    },
+    {
+      "name": "Heimdal trafikkskole",
+      "latitude": 63.285048,
+      "longitude": 10.277064
+    },
+    {
+      "name": "Heimdal trafikkskole",
+      "latitude": 63.422434,
+      "longitude": 10.432317
+    },
+    {
+      "name": "Heimdal Trafikkskole",
+      "latitude": 63.429295,
+      "longitude": 10.392808
+    },
+    {
+      "name": "Horten trafikkopplæring",
+      "latitude": 59.417881,
+      "longitude": 10.484548
+    },
+    {
+      "name": "HTO",
+      "latitude": 60.702197,
+      "longitude": 8.937321
+    },
+    {
+      "name": "Ila Trafikkskole",
+      "latitude": 63.436038,
+      "longitude": 10.423388
+    },
+    {
+      "name": "Karlsen Trafikkskole",
+      "latitude": 69.653751,
+      "longitude": 18.962786
+    },
+    {
+      "name": "KF Trafikkskole",
+      "latitude": 63.478218,
+      "longitude": 10.941347
+    },
+    {
+      "name": "Kjør Pent",
+      "latitude": 60.376699,
+      "longitude": 5.337648
+    },
+    {
+      "name": "Knut Wallem Trafikkskole",
+      "latitude": 59.941325,
+      "longitude": 10.672099
+    },
+    {
+      "name": "Komet Trafikkskole",
+      "latitude": 59.953018,
+      "longitude": 11.048884
+    },
+    {
+      "name": "Learn Trafikkskole",
+      "latitude": 59.916808,
+      "longitude": 10.586408
+    },
+    {
+      "name": "Learn Åssiden",
+      "latitude": 59.75561,
+      "longitude": 10.125492
+    },
+    {
+      "name": "Lech-Hanssens",
+      "latitude": 59.922775,
+      "longitude": 10.721149
+    },
+    {
+      "name": "Lena & centrum trafikkskole",
+      "latitude": 60.67511,
+      "longitude": 10.812055
+    },
+    {
+      "name": "Lena & Centrum Trafikkskole",
+      "latitude": 60.727527,
+      "longitude": 10.614255
+    },
+    {
+      "name": "Lillehammer trafikkskole",
+      "latitude": 61.110188,
+      "longitude": 10.469902
+    },
+    {
+      "name": "Lister Trafikkskole",
+      "latitude": 58.094957,
+      "longitude": 6.802437
+    },
+    {
+      "name": "Lærer'n Bil & MC",
+      "latitude": 59.932703,
+      "longitude": 10.881633
+    },
+    {
+      "name": "Løbergs trafikkskole AS",
+      "latitude": 59.047491,
+      "longitude": 10.044496
+    },
+    {
+      "name": "Majorstuen Trafikkskole as",
+      "latitude": 59.923565,
+      "longitude": 10.725479
+    },
+    {
+      "name": "Metro Trafikkskole",
+      "latitude": 59.955419,
+      "longitude": 11.045676
+    },
+    {
+      "name": "Midt-Troms kjøreskole",
+      "latitude": 69.064581,
+      "longitude": 18.512735
+    },
+    {
+      "name": "Moss trafikkskole",
+      "latitude": 59.43389,
+      "longitude": 10.65464
+    },
+    {
+      "name": "Mysen trafikkstasjon",
+      "latitude": 59.554821,
+      "longitude": 11.36426
+    },
+    {
+      "name": "Mørk trafikkskole",
+      "latitude": 59.434335,
+      "longitude": 10.665433
+    },
+    {
+      "name": "NAF øvingsbane",
+      "latitude": 59.878144,
+      "longitude": 11.256688
+    },
+    {
+      "name": "NAF Øvingsbane på Lånke",
+      "latitude": 63.404339,
+      "longitude": 10.920302
+    },
+    {
+      "name": "Narvik Sjåførskole",
+      "latitude": 68.440362,
+      "longitude": 17.420152
+    },
+    {
+      "name": "Next",
+      "latitude": 60.702198,
+      "longitude": 8.939467
+    },
+    {
+      "name": "Oslo Vest Trafikkskole",
+      "latitude": 59.947251,
+      "longitude": 10.660979
+    },
+    {
+      "name": "PC Trafikkskole",
+      "latitude": 59.049904,
+      "longitude": 10.053173
+    },
+    {
+      "name": "Petters trafikkskole",
+      "latitude": 59.29182,
+      "longitude": 10.419555
+    },
+    {
+      "name": "Pitstop Trafikkskole",
+      "latitude": 58.506436,
+      "longitude": 8.638036
+    },
+    {
+      "name": "Polararsirkelen Trafikkskole",
+      "latitude": 66.317834,
+      "longitude": 14.150385
+    },
+    {
+      "name": "Porsnes trafikkskole",
+      "latitude": 59.123577,
+      "longitude": 11.390314
+    },
+    {
+      "name": "PVJ Trafikkskole Alta AS",
+      "latitude": 69.960883,
+      "longitude": 23.235098
+    },
+    {
+      "name": "Reer & Horten trafikkskole",
+      "latitude": 59.418137,
+      "longitude": 10.484222
+    },
+    {
+      "name": "Roberts Trafikkopplæring",
+      "latitude": 58.098229,
+      "longitude": 6.691619
+    },
+    {
+      "name": "Romerike Trafikkskole",
+      "latitude": 59.956844,
+      "longitude": 11.047878
+    },
+    {
+      "name": "Runes Bil og MC",
+      "latitude": 62.738097,
+      "longitude": 7.167038
+    },
+    {
+      "name": "Safe Driving",
+      "latitude": 59.488488,
+      "longitude": 10.31778
+    },
+    {
+      "name": "SAFE Trafikkskole",
+      "latitude": 58.96359,
+      "longitude": 5.726078
+    },
+    {
+      "name": "Sikker Trafikkskole",
+      "latitude": 59.918298,
+      "longitude": 10.763809
+    },
+    {
+      "name": "SIKT",
+      "latitude": 62.467231,
+      "longitude": 6.350879
+    },
+    {
+      "name": "Skills",
+      "latitude": 69.653258,
+      "longitude": 18.962452
+    },
+    {
+      "name": "Skogen trafikkskole",
+      "latitude": 59.952128,
+      "longitude": 10.867709
+    },
+    {
+      "name": "Soria Moria Trafikkskole",
+      "latitude": 59.936192,
+      "longitude": 10.765768
+    },
+    {
+      "name": "Speed trafikkopplæring",
+      "latitude": 59.41774,
+      "longitude": 10.483994
+    },
+    {
+      "name": "Støyten Trafikkskolesenter",
+      "latitude": 60.163204,
+      "longitude": 10.255317
+    },
+    {
+      "name": "Svein Svendsen trafikkskole",
+      "latitude": 59.925354,
+      "longitude": 10.775379
+    },
+    {
+      "name": "Svein Svendsen Trafikkskole",
+      "latitude": 60.79493,
+      "longitude": 10.693796
+    },
+    {
+      "name": "Sørby Trafikk-Skole AS",
+      "latitude": 59.581703,
+      "longitude": 11.170636
+    },
+    {
+      "name": "Team Antonsen Trafikkskole",
+      "latitude": 59.21596,
+      "longitude": 10.940978
+    },
+    {
+      "name": "Team Trafikkskole",
+      "latitude": 60.398879,
+      "longitude": 5.309207
+    },
+    {
+      "name": "Team Trafikkskole",
+      "latitude": 62.737049,
+      "longitude": 7.162876
+    },
+    {
+      "name": "Team trafikkskole AS",
+      "latitude": 59.581471,
+      "longitude": 11.167668
+    },
+    {
+      "name": "Team trafikkskolene Bo & Anga",
+      "latitude": 60.187142,
+      "longitude": 12.002196
+    },
+    {
+      "name": "Tempo Trafikkskole",
+      "latitude": 59.920749,
+      "longitude": 10.77576
+    },
+    {
+      "name": "Toten Trafikkskole",
+      "latitude": 60.796207,
+      "longitude": 10.692944
+    },
+    {
+      "name": "Trafikkskol1",
+      "latitude": 67.289855,
+      "longitude": 14.567026
+    },
+    {
+      "name": "Trafikkskolen1",
+      "latitude": 61.116674,
+      "longitude": 10.467121
+    },
+    {
+      "name": "Trafikkskulen Din AS",
+      "latitude": 59.782291,
+      "longitude": 5.498698
+    },
+    {
+      "name": "Tønsberg og Nøtterøy Trafikkskole",
+      "latitude": 59.251929,
+      "longitude": 10.418442
+    },
+    {
+      "name": "Vestkanten Bil & MC-skole",
+      "latitude": 60.361368,
+      "longitude": 5.234045
+    },
+    {
+      "name": "VIP Trafikkskole",
+      "latitude": 60.376101,
+      "longitude": 5.338638
+    },
+    {
+      "name": "VIP Trafikkskole A/S",
+      "latitude": 59.2816,
+      "longitude": 11.117134
+    },
+    {
+      "name": "Voss trafikkskule",
+      "latitude": 60.628287,
+      "longitude": 6.425666
+    },
+    {
+      "name": "Way",
+      "latitude": 63.43255,
+      "longitude": 10.397765
+    },
+    {
+      "name": "Wright",
+      "latitude": 58.148351,
+      "longitude": 8.005146
+    },
+    {
+      "name": "Wright",
+      "latitude": 59.959871,
+      "longitude": 11.044469
+    },
+    {
+      "name": "Wright Trafikkskole",
+      "latitude": 58.340828,
+      "longitude": 8.59438
+    },
+    {
+      "name": "Wright Trafikkskole",
+      "latitude": 58.462483,
+      "longitude": 8.762999
+    },
+    {
+      "name": "Wright Trafikkskole",
+      "latitude": 59.140613,
+      "longitude": 9.654198
+    },
+    {
+      "name": "Wright Trafikkskole",
+      "latitude": 59.926073,
+      "longitude": 10.954368
+    },
+    {
+      "name": "Wright trafikkskole",
+      "latitude": 59.953798,
+      "longitude": 10.905183
+    },
+    {
+      "name": "Wright trafikkskole",
+      "latitude": 61.114044,
+      "longitude": 10.464108
+    },
+    {
+      "name": "Wright Trafikkskole",
+      "latitude": 62.738094,
+      "longitude": 7.165181
+    },
+    {
+      "name": "Wright Trafikkskole avd. Halden",
+      "latitude": 59.124835,
+      "longitude": 11.390456
+    },
+    {
+      "name": "Wright trafikkskole Moss",
+      "latitude": 59.433467,
+      "longitude": 10.669492
+    },
+    {
+      "name": "Wright trafikkskole Tiller",
+      "latitude": 63.366973,
+      "longitude": 10.380146
+    },
+    {
+      "name": "Wright Tønsberg",
+      "latitude": 59.270104,
+      "longitude": 10.409819
+    },
+    {
+      "name": "Østfold Trafikkskole avd. Halden",
+      "latitude": 59.124232,
+      "longitude": 11.392414
+    }
+  ],
+  "meta": {
+    "title": "Driving schools in Norway - Gratis nedlasting",
+    "description": "Driving schools in Norway (Trafikkskoler i Norge), derived from OpenStreetMap POIs tagged amenity=driving_school. Named features only, clipped to mainland Norway. Inneholder 123 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Driving schools in Norway | ListBase",
+    "seo_description": "Last ned Driving schools in Norway — 123 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 123 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

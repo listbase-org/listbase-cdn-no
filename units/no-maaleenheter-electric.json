@@ -1,0 +1,146 @@
+{
+  "id": "no-maaleenheter-electric",
+  "name": "Maaleenheter: electric (8)",
+  "title": "Maaleenheter: electric (8)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'electric'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "electric-ampere",
+      "kategori": "electric",
+      "navn": "ampere",
+      "moenster_en": "{0} ampere",
+      "moenster_flere": "{0} ampere",
+      "kort_moenster": "{0} A",
+      "smal_moenster": "{0} A"
+    },
+    {
+      "id": 2,
+      "unit_code": "electric-coulomb",
+      "kategori": "electric",
+      "navn": "coulomb",
+      "moenster_en": "{0} coulomb",
+      "moenster_flere": "{0} coulomb",
+      "kort_moenster": "{0} C",
+      "smal_moenster": "{0} C"
+    },
+    {
+      "id": 3,
+      "unit_code": "electric-farad",
+      "kategori": "electric",
+      "navn": "farad",
+      "moenster_en": "{0} farad",
+      "moenster_flere": "{0} farad",
+      "kort_moenster": "{0} F",
+      "smal_moenster": "{0} F"
+    },
+    {
+      "id": 4,
+      "unit_code": "electric-henry",
+      "kategori": "electric",
+      "navn": "henry",
+      "moenster_en": "{0} henry",
+      "moenster_flere": "{0} henry",
+      "kort_moenster": "{0} H",
+      "smal_moenster": "{0} H"
+    },
+    {
+      "id": 5,
+      "unit_code": "electric-milliampere",
+      "kategori": "electric",
+      "navn": "milliampere",
+      "moenster_en": "{0} milliampere",
+      "moenster_flere": "{0} milliampere",
+      "kort_moenster": "{0} mA",
+      "smal_moenster": "{0} mA"
+    },
+    {
+      "id": 6,
+      "unit_code": "electric-ohm",
+      "kategori": "electric",
+      "navn": "ohm",
+      "moenster_en": "{0} ohm",
+      "moenster_flere": "{0} ohm",
+      "kort_moenster": "{0} Ω",
+      "smal_moenster": "{0} Ω"
+    },
+    {
+      "id": 7,
+      "unit_code": "electric-siemens",
+      "kategori": "electric",
+      "navn": "siemens",
+      "moenster_en": "{0} siemens",
+      "moenster_flere": "{0} siemens",
+      "kort_moenster": "{0} S",
+      "smal_moenster": "{0} S"
+    },
+    {
+      "id": 8,
+      "unit_code": "electric-volt",
+      "kategori": "electric",
+      "navn": "volt",
+      "moenster_en": "{0} volt",
+      "moenster_flere": "{0} volt",
+      "kort_moenster": "{0} V",
+      "smal_moenster": "{0} V"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: electric (8) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'electric'. Inneholder 8 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: electric (8) | ListBase",
+    "seo_description": "Last ned Maaleenheter: electric (8) — 8 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 8 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

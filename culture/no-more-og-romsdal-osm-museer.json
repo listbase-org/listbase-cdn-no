@@ -1,0 +1,214 @@
+{
+  "id": "no-more-og-romsdal-osm-museer",
+  "name": "Museer i Møre og Romsdal – OpenStreetMap (13 museums in Møre og Romsdal, OSM)",
+  "title": "Museer i Møre og Romsdal – OpenStreetMap (13 museums in Møre og Romsdal, OSM)",
+  "description": "Museer i fylket Møre og Romsdal fra OpenStreetMap — delmengde av no-osm-museer, 13 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ergansenteret",
+      "name_en": "",
+      "city": "Falkhytta",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Bud",
+      "avstand_km": 0.321,
+      "latitude": 62.9086,
+      "longitude": 6.908685,
+      "website": ""
+    },
+    {
+      "name": "Fiskerimuseum",
+      "name_en": "",
+      "city": "Ålesund",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Ålesund",
+      "avstand_km": 0.342,
+      "latitude": 62.473644,
+      "longitude": 6.148917,
+      "website": ""
+    },
+    {
+      "name": "Ishavsmuseet",
+      "name_en": "",
+      "city": "Hareid",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Hareid",
+      "avstand_km": 3.352,
+      "latitude": 62.399433,
+      "longitude": 6.011478,
+      "website": ""
+    },
+    {
+      "name": "Konfeksjonsmuseet",
+      "name_en": "",
+      "city": "Åndalsnes",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Åndalsnes",
+      "avstand_km": 3.468,
+      "latitude": 62.579538,
+      "longitude": 7.749566,
+      "website": ""
+    },
+    {
+      "name": "Løvikremma",
+      "name_en": "",
+      "city": "Falkhytta",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Falkhytta",
+      "avstand_km": 4.244,
+      "latitude": 62.838637,
+      "longitude": 6.847696,
+      "website": ""
+    },
+    {
+      "name": "Middelaldermuseet",
+      "name_en": "",
+      "city": "Langevåg",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Langevåg",
+      "avstand_km": 3.687,
+      "latitude": 62.465861,
+      "longitude": 6.238334,
+      "website": ""
+    },
+    {
+      "name": "Norwegian Klippfish Museum",
+      "name_en": "",
+      "city": "Kristiansund",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Kristiansund",
+      "avstand_km": 0.79,
+      "latitude": 63.115649,
+      "longitude": 7.738727,
+      "website": ""
+    },
+    {
+      "name": "Romsdalsmuseet",
+      "name_en": "",
+      "city": "Molde",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Molde",
+      "avstand_km": 0.649,
+      "latitude": 62.739431,
+      "longitude": 7.147073,
+      "website": ""
+    },
+    {
+      "name": "Sekken bygdetun",
+      "name_en": "",
+      "city": "Molde",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Molde",
+      "avstand_km": 13.139,
+      "latitude": 62.652232,
+      "longitude": 7.337437,
+      "website": ""
+    },
+    {
+      "name": "Sivert Aarflot-museet",
+      "name_en": "",
+      "city": "Volda",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Volda",
+      "avstand_km": 2.736,
+      "latitude": 62.162206,
+      "longitude": 6.031473,
+      "website": ""
+    },
+    {
+      "name": "Sunmore Museum",
+      "name_en": "",
+      "city": "Langevåg",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Langevåg",
+      "avstand_km": 3.878,
+      "latitude": 62.46882,
+      "longitude": 6.236292,
+      "website": ""
+    },
+    {
+      "name": "Tingvoll Museum",
+      "name_en": "",
+      "city": "Tingvoll",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Tingvoll",
+      "avstand_km": 1.606,
+      "latitude": 62.924689,
+      "longitude": 8.186073,
+      "website": ""
+    },
+    {
+      "name": "Ålesund museum",
+      "name_en": "",
+      "city": "Ålesund",
+      "fylke": "Møre og Romsdal",
+      "naermeste_sted": "Ålesund",
+      "avstand_km": 0.116,
+      "latitude": 62.471972,
+      "longitude": 6.157043,
+      "website": "http://www.aalesunds.museum.no"
+    }
+  ],
+  "meta": {
+    "title": "Museer i Møre og Romsdal – OpenStreetMap (13 museums in Møre og Romsdal, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Møre og Romsdal fra OpenStreetMap — delmengde av no-osm-museer, 13 poster. Inneholder 13 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Møre og Romsdal – OpenStreetMap (13 museums in Møre og Romsdal, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Møre og Romsdal – OpenStreetMap (13 museums in Møre og Romsdal, OSM) — 13 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 13 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

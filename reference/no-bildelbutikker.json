@@ -1,0 +1,811 @@
+{
+  "id": "no-bildelbutikker",
+  "name": "Car parts shops in Norway",
+  "title": "Car parts shops in Norway",
+  "description": "Car parts shops in Norway (Bildelbutikker i Norge), derived from OpenStreetMap POIs tagged shop=car_parts. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 154,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AirSuspension",
+      "latitude": 58.138567,
+      "longitude": 7.034128
+    },
+    {
+      "name": "Autoplug AS",
+      "latitude": 66.909744,
+      "longitude": 13.636492
+    },
+    {
+      "name": "Bamse Metall, Bil og Deler AS",
+      "latitude": 59.378815,
+      "longitude": 10.407397
+    },
+    {
+      "name": "Batteriservice AS",
+      "latitude": 69.967878,
+      "longitude": 23.341074
+    },
+    {
+      "name": "BEMA AS",
+      "latitude": 58.340727,
+      "longitude": 8.587797
+    },
+    {
+      "name": "Bilutstyr Drammen AS",
+      "latitude": 59.757145,
+      "longitude": 10.259857
+    },
+    {
+      "name": "BilXtra",
+      "latitude": 59.415453,
+      "longitude": 10.687277
+    },
+    {
+      "name": "BilXtra",
+      "latitude": 61.909059,
+      "longitude": 5.986774
+    },
+    {
+      "name": "BilXtra",
+      "latitude": 69.675735,
+      "longitude": 18.921704
+    },
+    {
+      "name": "Bilxtra Alna",
+      "latitude": 59.927184,
+      "longitude": 10.84829
+    },
+    {
+      "name": "Bilxtra Arendal",
+      "latitude": 58.463008,
+      "longitude": 8.715023
+    },
+    {
+      "name": "Bilxtra Askim",
+      "latitude": 59.582065,
+      "longitude": 11.16804
+    },
+    {
+      "name": "Bilxtra Bardufoss",
+      "latitude": 69.046216,
+      "longitude": 18.507875
+    },
+    {
+      "name": "Bilxtra Bodø",
+      "latitude": 67.275902,
+      "longitude": 14.419849
+    },
+    {
+      "name": "Bilxtra Bryne",
+      "latitude": 58.720798,
+      "longitude": 5.649302
+    },
+    {
+      "name": "Bilxtra Bømlo",
+      "latitude": 59.795577,
+      "longitude": 5.203233
+    },
+    {
+      "name": "Bilxtra Drammen",
+      "latitude": 59.753587,
+      "longitude": 10.12944
+    },
+    {
+      "name": "Bilxtra Fauske",
+      "latitude": 67.265855,
+      "longitude": 15.38648
+    },
+    {
+      "name": "Bilxtra Flisa",
+      "latitude": 60.613753,
+      "longitude": 12.006957
+    },
+    {
+      "name": "Bilxtra Fosen Dekkservice",
+      "latitude": 63.698078,
+      "longitude": 9.669321
+    },
+    {
+      "name": "Bilxtra Frosta",
+      "latitude": 63.581996,
+      "longitude": 10.758195
+    },
+    {
+      "name": "Bilxtra Gjøvik",
+      "latitude": 60.781226,
+      "longitude": 10.636378
+    },
+    {
+      "name": "Bilxtra Halden",
+      "latitude": 59.124004,
+      "longitude": 11.392781
+    },
+    {
+      "name": "Bilxtra Hallingdal",
+      "latitude": 60.570427,
+      "longitude": 9.111948
+    },
+    {
+      "name": "Bilxtra Hamar",
+      "latitude": 60.798083,
+      "longitude": 11.110522
+    },
+    {
+      "name": "Bilxtra Hammerfest",
+      "latitude": 70.636486,
+      "longitude": 23.676168
+    },
+    {
+      "name": "Bilxtra Harstad",
+      "latitude": 68.787106,
+      "longitude": 16.529673
+    },
+    {
+      "name": "Bilxtra Haugesund",
+      "latitude": 59.395238,
+      "longitude": 5.309878
+    },
+    {
+      "name": "Bilxtra Holmestrand",
+      "latitude": 59.497137,
+      "longitude": 10.281913
+    },
+    {
+      "name": "Bilxtra Holmlia",
+      "latitude": 59.827122,
+      "longitude": 10.796738
+    },
+    {
+      "name": "Bilxtra Hønefoss",
+      "latitude": 60.154756,
+      "longitude": 10.249806
+    },
+    {
+      "name": "Bilxtra Jessheim",
+      "latitude": 60.144069,
+      "longitude": 11.165934
+    },
+    {
+      "name": "Bilxtra Karmøy",
+      "latitude": 59.289952,
+      "longitude": 5.287494
+    },
+    {
+      "name": "Bilxtra Kokstad",
+      "latitude": 60.300731,
+      "longitude": 5.262108
+    },
+    {
+      "name": "Bilxtra Kongsberg",
+      "latitude": 59.642412,
+      "longitude": 9.642654
+    },
+    {
+      "name": "Bilxtra Kongsvinger",
+      "latitude": 60.193065,
+      "longitude": 11.992707
+    },
+    {
+      "name": "Bilxtra Kristiansund",
+      "latitude": 63.11138,
+      "longitude": 7.784726
+    },
+    {
+      "name": "Bilxtra Lagunen",
+      "latitude": 60.295302,
+      "longitude": 5.327652
+    },
+    {
+      "name": "Bilxtra Lakselv",
+      "latitude": 70.05352,
+      "longitude": 24.962721
+    },
+    {
+      "name": "Bilxtra Lillehammer",
+      "latitude": 61.127381,
+      "longitude": 10.447082
+    },
+    {
+      "name": "Bilxtra Lillestrøm",
+      "latitude": 59.956415,
+      "longitude": 11.051787
+    },
+    {
+      "name": "Bilxtra Lyngdal",
+      "latitude": 58.138024,
+      "longitude": 7.066857
+    },
+    {
+      "name": "Bilxtra Mo i Rana",
+      "latitude": 66.304754,
+      "longitude": 14.131992
+    },
+    {
+      "name": "Bilxtra Molde",
+      "latitude": 62.739226,
+      "longitude": 7.176221
+    },
+    {
+      "name": "Bilxtra Mysen",
+      "latitude": 59.55289,
+      "longitude": 11.334684
+    },
+    {
+      "name": "Bilxtra Namsos",
+      "latitude": 64.455777,
+      "longitude": 11.542816
+    },
+    {
+      "name": "Bilxtra Nordfjordeid",
+      "latitude": 61.908957,
+      "longitude": 5.986328
+    },
+    {
+      "name": "Bilxtra Notodden",
+      "latitude": 59.567838,
+      "longitude": 9.215654
+    },
+    {
+      "name": "Bilxtra Os",
+      "latitude": 60.189151,
+      "longitude": 5.466265
+    },
+    {
+      "name": "Bilxtra Per Hagen (Kristiansand)",
+      "latitude": 58.142881,
+      "longitude": 7.884472
+    },
+    {
+      "name": "Bilxtra Rissa",
+      "latitude": 63.584341,
+      "longitude": 9.957629
+    },
+    {
+      "name": "Bilxtra Ryen",
+      "latitude": 59.892114,
+      "longitude": 10.80511
+    },
+    {
+      "name": "Bilxtra Råholt",
+      "latitude": 60.279508,
+      "longitude": 11.177239
+    },
+    {
+      "name": "Bilxtra Røros",
+      "latitude": 62.572702,
+      "longitude": 11.380574
+    },
+    {
+      "name": "Bilxtra Sarpsborg",
+      "latitude": 59.287928,
+      "longitude": 11.090279
+    },
+    {
+      "name": "Bilxtra Sartor",
+      "latitude": 60.358377,
+      "longitude": 5.121475
+    },
+    {
+      "name": "Bilxtra Skien",
+      "latitude": 59.174406,
+      "longitude": 9.612653
+    },
+    {
+      "name": "Bilxtra Stavanger",
+      "latitude": 58.941221,
+      "longitude": 5.749033
+    },
+    {
+      "name": "Bilxtra Steinkjer",
+      "latitude": 64.023099,
+      "longitude": 11.487953
+    },
+    {
+      "name": "Bilxtra Stryn",
+      "latitude": 61.905705,
+      "longitude": 6.726187
+    },
+    {
+      "name": "Bilxtra Strømmen",
+      "latitude": 59.945706,
+      "longitude": 11.00663
+    },
+    {
+      "name": "Bilxtra Sørlandsparken",
+      "latitude": 58.175314,
+      "longitude": 8.130033
+    },
+    {
+      "name": "Bilxtra Trondheim",
+      "latitude": 63.355185,
+      "longitude": 10.373284
+    },
+    {
+      "name": "Bilxtra Trysil",
+      "latitude": 61.314557,
+      "longitude": 12.262009
+    },
+    {
+      "name": "Bilxtra Tynset",
+      "latitude": 62.277512,
+      "longitude": 10.778138
+    },
+    {
+      "name": "BilXtra Tønsberg",
+      "latitude": 59.272898,
+      "longitude": 10.406824
+    },
+    {
+      "name": "Bilxtra Verdal",
+      "latitude": 63.788754,
+      "longitude": 11.467754
+    },
+    {
+      "name": "BilXtra verksted",
+      "latitude": 59.252975,
+      "longitude": 11.179618
+    },
+    {
+      "name": "Bilxtra Vestkanten",
+      "latitude": 60.362077,
+      "longitude": 5.234128
+    },
+    {
+      "name": "Bilxtra Ålesund",
+      "latitude": 62.470656,
+      "longitude": 6.349966
+    },
+    {
+      "name": "Bilxtra Årnes",
+      "latitude": 60.120427,
+      "longitude": 11.462959
+    },
+    {
+      "name": "Bilxtra Åsane",
+      "latitude": 60.462098,
+      "longitude": 5.324148
+    },
+    {
+      "name": "Bilxtra Ørsta",
+      "latitude": 62.182824,
+      "longitude": 6.084284
+    },
+    {
+      "name": "BKT",
+      "latitude": 60.29186,
+      "longitude": 5.259598
+    },
+    {
+      "name": "Dekk1 Lade",
+      "latitude": 63.434542,
+      "longitude": 10.463696
+    },
+    {
+      "name": "Dieselgrossisten",
+      "latitude": 60.162639,
+      "longitude": 10.257052
+    },
+    {
+      "name": "Eiker Motorshop",
+      "latitude": 59.761988,
+      "longitude": 9.902692
+    },
+    {
+      "name": "GS bildeler",
+      "latitude": 60.371473,
+      "longitude": 5.342665
+    },
+    {
+      "name": "Gundersen Motorsport må vi",
+      "latitude": 59.924659,
+      "longitude": 10.835852
+    },
+    {
+      "name": "Haneborg Auto",
+      "latitude": 59.962297,
+      "longitude": 11.047398
+    },
+    {
+      "name": "Hellanor",
+      "latitude": 59.26338,
+      "longitude": 11.144584
+    },
+    {
+      "name": "Hellanor",
+      "latitude": 61.128753,
+      "longitude": 10.446841
+    },
+    {
+      "name": "Hjulmakeren",
+      "latitude": 60.379008,
+      "longitude": 5.34071
+    },
+    {
+      "name": "Hurtigruta Carglass",
+      "latitude": 60.201574,
+      "longitude": 5.456695
+    },
+    {
+      "name": "Høisveen Caravan",
+      "latitude": 60.875359,
+      "longitude": 10.941488
+    },
+    {
+      "name": "LKQ Atracco Moss",
+      "latitude": 59.450564,
+      "longitude": 10.739325
+    },
+    {
+      "name": "Mekonomen Arendal",
+      "latitude": 58.465939,
+      "longitude": 8.742427
+    },
+    {
+      "name": "Mekonomen avd Mosjøen",
+      "latitude": 65.828606,
+      "longitude": 13.193974
+    },
+    {
+      "name": "Mekonomen Bildeler Ålesund",
+      "latitude": 62.471997,
+      "longitude": 6.344593
+    },
+    {
+      "name": "Mekonomen Bjørkelangen",
+      "latitude": 59.891575,
+      "longitude": 11.562048
+    },
+    {
+      "name": "Mekonomen Bodø",
+      "latitude": 67.275032,
+      "longitude": 14.405271
+    },
+    {
+      "name": "Mekonomen Grenland",
+      "latitude": 59.15085,
+      "longitude": 9.636031
+    },
+    {
+      "name": "Mekonomen Hadeland",
+      "latitude": 60.407704,
+      "longitude": 10.553984
+    },
+    {
+      "name": "Mekonomen Harstad",
+      "latitude": 68.781294,
+      "longitude": 16.583437
+    },
+    {
+      "name": "Mekonomen Haugesund",
+      "latitude": 59.383076,
+      "longitude": 5.309964
+    },
+    {
+      "name": "Mekonomen Horten",
+      "latitude": 59.419178,
+      "longitude": 10.458939
+    },
+    {
+      "name": "Mekonomen Hønefoss",
+      "latitude": 60.156074,
+      "longitude": 10.249701
+    },
+    {
+      "name": "Mekonomen Jessheim",
+      "latitude": 60.151937,
+      "longitude": 11.18578
+    },
+    {
+      "name": "Mekonomen Kongsberg",
+      "latitude": 59.623316,
+      "longitude": 9.685536
+    },
+    {
+      "name": "Mekonomen Leif Hastadklev Butikk",
+      "latitude": 63.467405,
+      "longitude": 10.91985
+    },
+    {
+      "name": "Mekonomen Lillestrøm",
+      "latitude": 59.952618,
+      "longitude": 11.074923
+    },
+    {
+      "name": "Mekonomen Mandal",
+      "latitude": 58.027559,
+      "longitude": 7.520556
+    },
+    {
+      "name": "Mekonomen Mjøsbil avd. Dokka",
+      "latitude": 60.838207,
+      "longitude": 10.058465
+    },
+    {
+      "name": "Mekonomen Mjøsbil avd. Gjøvik",
+      "latitude": 60.775977,
+      "longitude": 10.699557
+    },
+    {
+      "name": "Mekonomen Oslo",
+      "latitude": 59.920369,
+      "longitude": 10.837558
+    },
+    {
+      "name": "Mekonomen Sandefjord",
+      "latitude": 59.139851,
+      "longitude": 10.185679
+    },
+    {
+      "name": "Mekonomen Sarpsborg",
+      "latitude": 59.2884,
+      "longitude": 11.084354
+    },
+    {
+      "name": "Mekonomen Sarpsborg avd. Rakkestad",
+      "latitude": 59.426686,
+      "longitude": 11.340248
+    },
+    {
+      "name": "Mekonomen Ski",
+      "latitude": 59.712765,
+      "longitude": 10.850904
+    },
+    {
+      "name": "Mekonomen Stavanger",
+      "latitude": 58.942616,
+      "longitude": 5.727595
+    },
+    {
+      "name": "Mekonomen Sørlandsparken",
+      "latitude": 58.173195,
+      "longitude": 8.122803
+    },
+    {
+      "name": "Mekonomen Trondheim",
+      "latitude": 63.400849,
+      "longitude": 10.401074
+    },
+    {
+      "name": "Mekonomen Tønsberg",
+      "latitude": 59.276321,
+      "longitude": 10.432509
+    },
+    {
+      "name": "Nokian dekk AS",
+      "latitude": 63.331163,
+      "longitude": 10.349671
+    },
+    {
+      "name": "Riis bilglass",
+      "latitude": 59.730431,
+      "longitude": 10.220316
+    },
+    {
+      "name": "Runes Dekkservice",
+      "latitude": 58.137622,
+      "longitude": 7.040504
+    },
+    {
+      "name": "Råde Auto-Shop",
+      "latitude": 59.347511,
+      "longitude": 10.86392
+    },
+    {
+      "name": "T. Hansen Bergen",
+      "latitude": 60.469957,
+      "longitude": 5.340109
+    },
+    {
+      "name": "T. Hansen Eidsvoll",
+      "latitude": 60.32924,
+      "longitude": 11.224432
+    },
+    {
+      "name": "T. Hansen Elverum",
+      "latitude": 60.894134,
+      "longitude": 11.586682
+    },
+    {
+      "name": "T. Hansen Fredrikstad",
+      "latitude": 59.249192,
+      "longitude": 10.990084
+    },
+    {
+      "name": "T. Hansen Gjøvik",
+      "latitude": 60.800134,
+      "longitude": 10.692823
+    },
+    {
+      "name": "T. Hansen Haugesund",
+      "latitude": 59.394563,
+      "longitude": 5.320779
+    },
+    {
+      "name": "T. Hansen Hillevåg",
+      "latitude": 58.949792,
+      "longitude": 5.74089
+    },
+    {
+      "name": "T. Hansen Holmen",
+      "latitude": 59.855561,
+      "longitude": 10.48985
+    },
+    {
+      "name": "T. Hansen Jærhagen",
+      "latitude": 58.780141,
+      "longitude": 5.628933
+    },
+    {
+      "name": "T. Hansen Kristiansand",
+      "latitude": 58.177688,
+      "longitude": 8.137393
+    },
+    {
+      "name": "T. Hansen Kristiansund",
+      "latitude": 63.107147,
+      "longitude": 7.792095
+    },
+    {
+      "name": "T. Hansen Lade",
+      "latitude": 63.44048,
+      "longitude": 10.46283
+    },
+    {
+      "name": "T. Hansen Larvik",
+      "latitude": 59.042111,
+      "longitude": 10.060027
+    },
+    {
+      "name": "T. Hansen Liertoppen",
+      "latitude": 59.811594,
+      "longitude": 10.306241
+    },
+    {
+      "name": "T. Hansen Lillehammer",
+      "latitude": 61.11458,
+      "longitude": 10.45235
+    },
+    {
+      "name": "T. Hansen Lyngdal",
+      "latitude": 58.156507,
+      "longitude": 7.104295
+    },
+    {
+      "name": "T. Hansen Mosjøen",
+      "latitude": 65.841134,
+      "longitude": 13.19199
+    },
+    {
+      "name": "T. Hansen Moss",
+      "latitude": 59.417468,
+      "longitude": 10.684219
+    },
+    {
+      "name": "T. Hansen Narvik",
+      "latitude": 68.434981,
+      "longitude": 17.409146
+    },
+    {
+      "name": "T. Hansen Orkanger",
+      "latitude": 63.297148,
+      "longitude": 9.853285
+    },
+    {
+      "name": "T. Hansen Sarpsborg",
+      "latitude": 59.288522,
+      "longitude": 11.08085
+    },
+    {
+      "name": "T. Hansen Ski",
+      "latitude": 59.716507,
+      "longitude": 10.836301
+    },
+    {
+      "name": "T. Hansen Skien",
+      "latitude": 59.172949,
+      "longitude": 9.61412
+    },
+    {
+      "name": "T. Hansen Slitu",
+      "latitude": 59.577108,
+      "longitude": 11.278533
+    },
+    {
+      "name": "T. Hansen Stord",
+      "latitude": 59.759705,
+      "longitude": 5.455999
+    },
+    {
+      "name": "T. Hansen Storo",
+      "latitude": 59.946499,
+      "longitude": 10.776193
+    },
+    {
+      "name": "T. Hansen Strømmen",
+      "latitude": 59.948203,
+      "longitude": 11.00639
+    },
+    {
+      "name": "T. Hansen Tiller",
+      "latitude": 63.359094,
+      "longitude": 10.377168
+    },
+    {
+      "name": "T. Hansen Ålesund",
+      "latitude": 62.471635,
+      "longitude": 6.375246
+    },
+    {
+      "name": "Thansen Drammen",
+      "latitude": 59.740918,
+      "longitude": 10.223399
+    },
+    {
+      "name": "Thansen Mjøndalen",
+      "latitude": 59.747952,
+      "longitude": 10.025706
+    },
+    {
+      "name": "thansen Steinkjer",
+      "latitude": 64.021626,
+      "longitude": 11.48686
+    },
+    {
+      "name": "thasen",
+      "latitude": 58.971622,
+      "longitude": 9.520411
+    },
+    {
+      "name": "Veng Norge A/S",
+      "latitude": 59.120921,
+      "longitude": 11.30796
+    },
+    {
+      "name": "Økonomi-Deler AS",
+      "latitude": 59.299577,
+      "longitude": 11.040203
+    },
+    {
+      "name": "Østfold Bildemontering AS",
+      "latitude": 59.301295,
+      "longitude": 11.042793
+    },
+    {
+      "name": "Østfold Felgteknikk",
+      "latitude": 59.232383,
+      "longitude": 10.977704
+    }
+  ],
+  "meta": {
+    "title": "Car parts shops in Norway - Gratis nedlasting",
+    "description": "Car parts shops in Norway (Bildelbutikker i Norge), derived from OpenStreetMap POIs tagged shop=car_parts. Named features only, clipped to mainland Norway. Inneholder 154 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Car parts shops in Norway | ListBase",
+    "seo_description": "Last ned Car parts shops in Norway — 154 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 154 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

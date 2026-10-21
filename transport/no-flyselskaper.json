@@ -1,0 +1,412 @@
+{
+  "id": "no-flyselskaper",
+  "name": "Flyselskaper i Norge",
+  "title": "Flyselskaper i Norge",
+  "description": "Flyselskaper i Norge. Komplett liste over flyselskaper registrert i Norge i OpenFlights-databasen: navn, alias, IATA- og ICAO-kode, kallesignal og aktiv/inaktiv status. Kilde: OpenFlights (ODbL).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "openflights_id",
+      "label": "Openflights Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alias",
+      "label": "Alias",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "callsign",
+      "label": "Callsign",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "boolean"
+    },
+    {
+      "key": "country_local",
+      "label": "Country Local",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "openflights_id": 1125,
+      "name": "Airwing",
+      "alias": "",
+      "iata": "",
+      "icao": "NWG",
+      "callsign": "NORWING",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 6182,
+      "name": "Arctic Air",
+      "alias": "",
+      "iata": "",
+      "icao": "AKR",
+      "callsign": "Arctic Norway",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 947,
+      "name": "Avinor",
+      "alias": "",
+      "iata": "",
+      "icao": "HQO",
+      "callsign": "",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 1538,
+      "name": "Benair",
+      "alias": "",
+      "iata": "",
+      "icao": "HAX",
+      "callsign": "SCOOP",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 1395,
+      "name": "Bergen Air Transport",
+      "alias": "",
+      "iata": "",
+      "icao": "BGT",
+      "callsign": "BERGEN AIR",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 1545,
+      "name": "Blom Geomatics",
+      "alias": "",
+      "iata": "",
+      "icao": "LED",
+      "callsign": "SWEEPER",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 6183,
+      "name": "Braathens",
+      "alias": "Braathens SAFE",
+      "iata": "BU",
+      "icao": "BRA",
+      "callsign": "Braathens",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 1589,
+      "name": "CHC Helikopter Service",
+      "alias": "",
+      "iata": "",
+      "icao": "HKS",
+      "callsign": "HELIBUS",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 1813,
+      "name": "Coast Air",
+      "alias": "",
+      "iata": "BX",
+      "icao": "CST",
+      "callsign": "COAST CENTER",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 18702,
+      "name": "Denim Air",
+      "alias": "FlyNonstop",
+      "iata": "J7",
+      "icao": "",
+      "callsign": "DNM",
+      "country": "Norway",
+      "active": true,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 2437,
+      "name": "Fonnafly",
+      "alias": "",
+      "iata": "",
+      "icao": "NOF",
+      "callsign": "FONNA",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 6862,
+      "name": "Fred. Olsen",
+      "alias": "",
+      "iata": "",
+      "icao": "FOF",
+      "callsign": "",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 2625,
+      "name": "Guard Systems",
+      "alias": "",
+      "iata": "",
+      "icao": "GSY",
+      "callsign": "GUARD AIR",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 2732,
+      "name": "Helikopterdrift",
+      "alias": "",
+      "iata": "",
+      "icao": "HDR",
+      "callsign": "HELIDRIFT",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 2744,
+      "name": "Helitrans",
+      "alias": "",
+      "iata": "",
+      "icao": "HTA",
+      "callsign": "SCANBIRD",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3109,
+      "name": "Kato Airline",
+      "alias": "",
+      "iata": "",
+      "icao": "KAT",
+      "callsign": "KATO-AIR",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3326,
+      "name": "Lufttransport",
+      "alias": "",
+      "iata": "L5",
+      "icao": "LTR",
+      "callsign": "LUFT TRANSPORT",
+      "country": "Norway",
+      "active": true,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3677,
+      "name": "Norcopter",
+      "alias": "",
+      "iata": "",
+      "icao": "NOC",
+      "callsign": "",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3688,
+      "name": "Norsk Flyrjeneste",
+      "alias": "",
+      "iata": "",
+      "icao": "NIR",
+      "callsign": "NORSEMAN",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3689,
+      "name": "Norsk Helikopter",
+      "alias": "",
+      "iata": "",
+      "icao": "NOR",
+      "callsign": "NORSKE",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3690,
+      "name": "Norsk Luftambulanse",
+      "alias": "",
+      "iata": "",
+      "icao": "DOC",
+      "callsign": "HELIDOC",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3697,
+      "name": "North Atlantic Cargo",
+      "alias": "",
+      "iata": "",
+      "icao": "NFC",
+      "callsign": "NORTH ATLANTIC",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 20729,
+      "name": "Norwegian Air International (D8)",
+      "alias": "",
+      "iata": "",
+      "icao": "IBK",
+      "callsign": "NORTRANS",
+      "country": "Norway",
+      "active": true,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3737,
+      "name": "Norwegian Air Shuttle",
+      "alias": "",
+      "iata": "DY",
+      "icao": "NAX",
+      "callsign": "NOR SHUTTLE",
+      "country": "Norway",
+      "active": true,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3738,
+      "name": "Norwegian Aviation College",
+      "alias": "",
+      "iata": "",
+      "icao": "TFN",
+      "callsign": "SPRIT",
+      "country": "Norway",
+      "active": true,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 20170,
+      "name": "Norwegian Long Haul AS",
+      "alias": "",
+      "iata": "DU",
+      "icao": "NLH",
+      "callsign": "NORSTAR",
+      "country": "Norway",
+      "active": true,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 3929,
+      "name": "Pegasus Helicopters",
+      "alias": "",
+      "iata": "",
+      "icao": "HAK",
+      "callsign": "HELIFALCON",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 4268,
+      "name": "Royal Norwegian Air Force",
+      "alias": "",
+      "iata": "",
+      "icao": "NOW",
+      "callsign": "NORWEGIAN",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 4606,
+      "name": "SAS Braathens",
+      "alias": "",
+      "iata": "",
+      "icao": "CNO",
+      "callsign": "SCANOR",
+      "country": "Norway",
+      "active": true,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 4666,
+      "name": "Sundt Air",
+      "alias": "",
+      "iata": "",
+      "icao": "MDT",
+      "callsign": "MIDNIGHT",
+      "country": "Norway",
+      "active": false,
+      "country_local": "Norge"
+    },
+    {
+      "openflights_id": 5439,
+      "name": "Widerøe",
+      "alias": "",
+      "iata": "WF",
+      "icao": "WIF",
+      "callsign": "WIDEROE",
+      "country": "Norway",
+      "active": true,
+      "country_local": "Norge"
+    }
+  ],
+  "meta": {
+    "title": "Flyselskaper i Norge - Gratis nedlasting",
+    "description": "Flyselskaper i Norge. Komplett liste over flyselskaper registrert i Norge i OpenFlights-databasen: navn, alias, IATA- og ICAO-kode, kallesignal og aktiv/inaktiv status. Kilde: OpenFlights (ODbL). Inneholder 31 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Flyselskaper i Norge | ListBase",
+    "seo_description": "Last ned Flyselskaper i Norge — 31 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 31 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

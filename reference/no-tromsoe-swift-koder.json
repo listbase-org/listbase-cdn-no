@@ -1,0 +1,64 @@
+{
+  "id": "no-tromsoe-swift-koder",
+  "name": "SWIFT/BIC-koder — Tromsoe",
+  "title": "SWIFT/BIC-koder — Tromsoe",
+  "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 3 institusjonene som kilden oppgir med byen \"TROMSOE\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "TROMSOE",
+      "branch": "(TROMSOE BRANCH)",
+      "swift_code": "DABANO22TRM"
+    },
+    {
+      "bank": "SPAREBANK 1 NORD-NORGE",
+      "city": "TROMSOE",
+      "branch": "",
+      "swift_code": "SNOWNO22"
+    },
+    {
+      "bank": "STOREBRAND KAPITALFORVALTNING",
+      "city": "TROMSOE",
+      "branch": "(TROMSOE KOMMUNALE PENSJONSKASSE)",
+      "swift_code": "STKTNOK108U"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Tromsoe - Gratis nedlasting",
+    "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 3 institusjonene som kilden oppgir med byen \"TROMSOE\". Inneholder 3 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Tromsoe | ListBase",
+    "seo_description": "Last ned SWIFT/BIC-koder — Tromsoe — 3 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 3 poster / 4 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "id": "no-kinoer",
+  "name": "Norway Cinemas",
+  "title": "Norway Cinemas",
+  "description": "Cinemas in Norway (OSM amenity=cinema), with coordinates.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Arktisk Kultursenter",
+      "latitude": 70.663866,
+      "longitude": 23.689376
+    },
+    {
+      "name": "Asker kulturhus",
+      "latitude": 59.836058,
+      "longitude": 10.432749
+    },
+    {
+      "name": "Askim kino",
+      "latitude": 59.584586,
+      "longitude": 11.160215
+    },
+    {
+      "name": "Aure kultur- og kinosal",
+      "latitude": 63.267828,
+      "longitude": 8.533224
+    },
+    {
+      "name": "Aurland kino",
+      "latitude": 60.905589,
+      "longitude": 7.190267
+    },
+    {
+      "name": "Aurora kino",
+      "latitude": 69.651192,
+      "longitude": 18.955562
+    },
+    {
+      "name": "Aurora kino",
+      "latitude": 69.726836,
+      "longitude": 30.043684
+    },
+    {
+      "name": "Aurora Kino Alta",
+      "latitude": 69.966767,
+      "longitude": 23.27572
+    },
+    {
+      "name": "Aurora Kino Narvik",
+      "latitude": 68.439185,
+      "longitude": 17.427724
+    },
+    {
+      "name": "Aurora kino Vardø",
+      "latitude": 70.370411,
+      "longitude": 31.108818
+    },
+    {
+      "name": "Brandbu Kino",
+      "latitude": 60.421322,
+      "longitude": 10.505538
+    },
+    {
+      "name": "Brygga kino",
+      "latitude": 59.266767,
+      "longitude": 10.40541
+    },
+    {
+      "name": "Bryne Kino",
+      "latitude": 58.735149,
+      "longitude": 5.647986
+    },
+    {
+      "name": "Brønnøy Kino",
+      "latitude": 65.467724,
+      "longitude": 12.206071
+    },
+    {
+      "name": "Buen Kino",
+      "latitude": 58.025225,
+      "longitude": 7.456315
+    },
+    {
+      "name": "Bygdakino",
+      "latitude": 58.833457,
+      "longitude": 6.056768
+    },
+    {
+      "name": "Bygdekinoen",
+      "latitude": 65.976349,
+      "longitude": 12.275263
+    },
+    {
+      "name": "Bygdekinoen Tingnes",
+      "latitude": 60.762584,
+      "longitude": 10.941869
+    },
+    {
+      "name": "Båtsfjord kino",
+      "latitude": 70.632131,
+      "longitude": 29.705667
+    },
+    {
+      "name": "Bømlo kino",
+      "latitude": 59.794841,
+      "longitude": 5.171922
+    },
+    {
+      "name": "Caroline kino",
+      "latitude": 63.109728,
+      "longitude": 7.729502
+    },
+    {
+      "name": "Cinema Fantasia",
+      "latitude": 59.000361,
+      "longitude": 9.91024
+    },
+    {
+      "name": "Cinemateket",
+      "latitude": 59.909533,
+      "longitude": 10.745719
+    },
+    {
+      "name": "Cinemateket Trondheim",
+      "latitude": 63.433403,
+      "longitude": 10.402921
+    },
+    {
+      "name": "Colosseum kino",
+      "latitude": 59.929593,
+      "longitude": 10.710313
+    },
+    {
+      "name": "Dombås kino",
+      "latitude": 62.080337,
+      "longitude": 9.123033
+    },
+    {
+      "name": "Edda Kino",
+      "latitude": 59.415443,
+      "longitude": 5.267599
+    },
+    {
+      "name": "Elvarheim kino",
+      "latitude": 60.881408,
+      "longitude": 11.564055
+    },
+    {
+      "name": "Farsund kino",
+      "latitude": 58.09535,
+      "longitude": 6.79848
+    },
+    {
+      "name": "Felix konferansesenter",
+      "latitude": 59.910294,
+      "longitude": 10.724758
+    },
+    {
+      "name": "Festiviteten",
+      "latitude": 59.552337,
+      "longitude": 11.330631
+    },
+    {
+      "name": "Filmsentret Charlie",
+      "latitude": 59.14067,
+      "longitude": 9.65521
+    },
+    {
+      "name": "Fjaler kino",
+      "latitude": 61.359255,
+      "longitude": 5.396717
+    },
+    {
+      "name": "Flekkefjord kultursenter Spira",
+      "latitude": 58.295052,
+      "longitude": 6.66088
+    },
+    {
+      "name": "Florø kino",
+      "latitude": 61.600089,
+      "longitude": 5.037062
+    },
+    {
+      "name": "Fram kino",
+      "latitude": 67.283519,
+      "longitude": 14.378733
+    },
+    {
+      "name": "Fredrikstad Kino",
+      "latitude": 59.210478,
+      "longitude": 10.94002
+    },
+    {
+      "name": "Friberg kino",
+      "latitude": 61.208,
+      "longitude": 6.532121
+    },
+    {
+      "name": "Frogner kino",
+      "latitude": 59.918655,
+      "longitude": 10.709961
+    },
+    {
+      "name": "Frøya Kino",
+      "latitude": 63.73057,
+      "longitude": 8.8305
+    },
+    {
+      "name": "Gimle Kino",
+      "latitude": 59.917375,
+      "longitude": 10.709198
+    },
+    {
+      "name": "Gjøvik Kino",
+      "latitude": 60.79452,
+      "longitude": 10.694574
+    },
+    {
+      "name": "Grendatun kino",
+      "latitude": 60.006259,
+      "longitude": 5.500522
+    },
+    {
+      "name": "Grimstad kulturhus",
+      "latitude": 58.342498,
+      "longitude": 8.590564
+    },
+    {
+      "name": "Grytøyra bygdekino",
+      "latitude": 61.282903,
+      "longitude": 5.036207
+    },
+    {
+      "name": "Halden  kino",
+      "latitude": 59.125306,
+      "longitude": 11.38903
+    },
+    {
+      "name": "Hamar Kino",
+      "latitude": 60.795323,
+      "longitude": 11.067592
+    },
+    {
+      "name": "Harsrad Kino",
+      "latitude": 68.800203,
+      "longitude": 16.541392
+    },
+    {
+      "name": "Horten Kino",
+      "latitude": 59.416865,
+      "longitude": 10.484712
+    },
+    {
+      "name": "Husnes Kino",
+      "latitude": 59.860345,
+      "longitude": 5.755674
+    },
+    {
+      "name": "Kilden kino",
+      "latitude": 59.273878,
+      "longitude": 10.436214
+    },
+    {
+      "name": "King Oscar kino",
+      "latitude": 59.794401,
+      "longitude": 5.713168
+    },
+    {
+      "name": "Kino",
+      "latitude": 58.833445,
+      "longitude": 6.056495
+    },
+    {
+      "name": "Kino City",
+      "latitude": 59.743997,
+      "longitude": 10.203385
+    },
+    {
+      "name": "Kino Førde",
+      "latitude": 61.45346,
+      "longitude": 5.867745
+    },
+    {
+      "name": "Kino1 Arendal",
+      "latitude": 58.458645,
+      "longitude": 8.766736
+    },
+    {
+      "name": "Klingenberg kino",
+      "latitude": 59.913468,
+      "longitude": 10.732893
+    },
+    {
+      "name": "Kolben kino",
+      "latitude": 59.810149,
+      "longitude": 10.801454
+    },
+    {
+      "name": "Konsertpaleet",
+      "latitude": 60.391281,
+      "longitude": 5.318533
+    },
+    {
+      "name": "Kragerø Biograf",
+      "latitude": 58.87183,
+      "longitude": 9.413036
+    },
+    {
+      "name": "Kristiansand Kino",
+      "latitude": 58.142911,
+      "longitude": 7.994551
+    },
+    {
+      "name": "Krossvoll Kino",
+      "latitude": 60.324958,
+      "longitude": 6.658916
+    },
+    {
+      "name": "Kulturhuset Stabekk Kino",
+      "latitude": 59.909021,
+      "longitude": 10.601819
+    },
+    {
+      "name": "Kvam kino",
+      "latitude": 60.372658,
+      "longitude": 6.142772
+    },
+    {
+      "name": "Kvinesdal Kino",
+      "latitude": 58.319393,
+      "longitude": 6.958579
+    },
+    {
+      "name": "Kvitvella Kino",
+      "latitude": 60.985322,
+      "longitude": 9.237384
+    },
+    {
+      "name": "Larvik Kulturhus Bølgen",
+      "latitude": 59.049855,
+      "longitude": 10.023351
+    },
+    {
+      "name": "Lillehammer Kino",
+      "latitude": 61.115772,
+      "longitude": 10.463905
+    },
+    {
+      "name": "Lillesand Kino",
+      "latitude": 58.251337,
+      "longitude": 8.376192
+    },
+    {
+      "name": "Lillestrøm kino",
+      "latitude": 59.958279,
+      "longitude": 11.050237
+    },
+    {
+      "name": "Longyearbyen Kino",
+      "latitude": 78.219563,
+      "longitude": 15.64198
+    },
+    {
+      "name": "Lund Kino",
+      "latitude": 58.457192,
+      "longitude": 6.551732
+    },
+    {
+      "name": "Lyngdal Kulturhus",
+      "latitude": 58.138305,
+      "longitude": 7.069233
+    },
+    {
+      "name": "Lødingen Kino",
+      "latitude": 68.412204,
+      "longitude": 15.997431
+    },
+    {
+      "name": "Lørenskog kino",
+      "latitude": 59.928,
+      "longitude": 10.961661
+    },
+    {
+      "name": "Løvenvold Theater",
+      "latitude": 62.472957,
+      "longitude": 6.158448
+    },
+    {
+      "name": "Magnus Barfot kinosenter",
+      "latitude": 60.391028,
+      "longitude": 5.319456
+    },
+    {
+      "name": "Meieriet Kino",
+      "latitude": 68.149049,
+      "longitude": 13.614776
+    },
+    {
+      "name": "Milepelen kino",
+      "latitude": 60.391501,
+      "longitude": 11.541079
+    },
+    {
+      "name": "Molde kino",
+      "latitude": 62.737885,
+      "longitude": 7.164738
+    },
+    {
+      "name": "Mosjøen Kino",
+      "latitude": 65.839715,
+      "longitude": 13.189288
+    },
+    {
+      "name": "Måløy kino",
+      "latitude": 61.940195,
+      "longitude": 5.120794
+    },
+    {
+      "name": "NF Kino Lagunen",
+      "latitude": 60.297297,
+      "longitude": 5.32925
+    },
+    {
+      "name": "Nordisk Film Kino Hønefoss",
+      "latitude": 60.166816,
+      "longitude": 10.256861
+    },
+    {
+      "name": "Nordkapp kino",
+      "latitude": 70.978094,
+      "longitude": 25.974617
+    },
+    {
+      "name": "Notodden kino",
+      "latitude": 59.55624,
+      "longitude": 9.254565
+    },
+    {
+      "name": "Notodden Teater",
+      "latitude": 59.559809,
+      "longitude": 9.260191
+    },
+    {
+      "name": "Nova kino",
+      "latitude": 63.433117,
+      "longitude": 10.401716
+    },
+    {
+      "name": "Nye Kongsberg kino",
+      "latitude": 59.664743,
+      "longitude": 9.644024
+    },
+    {
+      "name": "ODEON Moss",
+      "latitude": 59.43844,
+      "longitude": 10.667541
+    },
+    {
+      "name": "ODEON Oslo",
+      "latitude": 59.947658,
+      "longitude": 10.772491
+    },
+    {
+      "name": "ODEON Sandnes",
+      "latitude": 58.851057,
+      "longitude": 5.738017
+    },
+    {
+      "name": "ODEON Sandvika",
+      "latitude": 59.889071,
+      "longitude": 10.522314
+    },
+    {
+      "name": "ODEON Sarpsborg",
+      "latitude": 59.282112,
+      "longitude": 11.113556
+    },
+    {
+      "name": "ODEON Ski",
+      "latitude": 59.718375,
+      "longitude": 10.837653
+    },
+    {
+      "name": "ODEON Skien",
+      "latitude": 59.205024,
+      "longitude": 9.604559
+    },
+    {
+      "name": "ODEON Sotra",
+      "latitude": 60.358666,
+      "longitude": 5.126033
+    },
+    {
+      "name": "ODEON Stavanger",
+      "latitude": 58.9712,
+      "longitude": 5.733082
+    },
+    {
+      "name": "ODEON Ålesund",
+      "latitude": 62.465899,
+      "longitude": 6.352732
+    },
+    {
+      "name": "Prinsen Kinosenter",
+      "latitude": 63.427018,
+      "longitude": 10.392512
+    },
+    {
+      "name": "Rakkestad kulturhus",
+      "latitude": 59.428283,
+      "longitude": 11.343589
+    },
+    {
+      "name": "Rana Kino",
+      "latitude": 66.310828,
+      "longitude": 14.140199
+    },
+    {
+      "name": "Reodor Felgens Hyperakselerator",
+      "latitude": 61.228888,
+      "longitude": 10.435593
+    },
+    {
+      "name": "Ringen Kino",
+      "latitude": 59.928574,
+      "longitude": 10.760733
+    },
+    {
+      "name": "Risør kino",
+      "latitude": 58.719515,
+      "longitude": 9.229092
+    },
+    {
+      "name": "Rådhuskinoen Flisa",
+      "latitude": 60.613831,
+      "longitude": 12.011497
+    },
+    {
+      "name": "Rådhusteateret",
+      "latitude": 60.191397,
+      "longitude": 11.999882
+    },
+    {
+      "name": "Røros kino",
+      "latitude": 62.57917,
+      "longitude": 11.381093
+    },
+    {
+      "name": "Saga Kino",
+      "latitude": 59.914122,
+      "longitude": 10.732463
+    },
+    {
+      "name": "Salangen kommunale kino",
+      "latitude": 68.874323,
+      "longitude": 17.839767
+    },
+    {
+      "name": "Sauda kino",
+      "latitude": 59.650584,
+      "longitude": 6.353044
+    },
+    {
+      "name": "Setermoen Kino",
+      "latitude": 68.859502,
+      "longitude": 18.352625
+    },
+    {
+      "name": "Sjøborg Kino",
+      "latitude": 62.341029,
+      "longitude": 5.848925
+    },
+    {
+      "name": "Sogndal kulturhus",
+      "latitude": 61.232498,
+      "longitude": 7.10611
+    },
+    {
+      "name": "Sokndal kino",
+      "latitude": 58.342578,
+      "longitude": 6.294122
+    },
+    {
+      "name": "Steinkjer Kino",
+      "latitude": 64.015439,
+      "longitude": 11.493632
+    },
+    {
+      "name": "Stord Kino",
+      "latitude": 59.778313,
+      "longitude": 5.497705
+    },
+    {
+      "name": "Storstova",
+      "latitude": 58.735974,
+      "longitude": 5.65169
+    },
+    {
+      "name": "Stranda kino",
+      "latitude": 62.307982,
+      "longitude": 6.945808
+    },
+    {
+      "name": "Sunndal kino",
+      "latitude": 62.674019,
+      "longitude": 8.562547
+    },
+    {
+      "name": "Svolvær Filmteater",
+      "latitude": 68.23219,
+      "longitude": 14.56257
+    },
+    {
+      "name": "Sykkylven kulturhus",
+      "latitude": 62.394401,
+      "longitude": 6.588177
+    },
+    {
+      "name": "Symra kino",
+      "latitude": 59.873875,
+      "longitude": 10.811423
+    },
+    {
+      "name": "Tana Kino",
+      "latitude": 70.199745,
+      "longitude": 28.184735
+    },
+    {
+      "name": "Træna Kino",
+      "latitude": 66.499978,
+      "longitude": 12.094511
+    },
+    {
+      "name": "Tysvær kino",
+      "latitude": 59.423578,
+      "longitude": 5.44479
+    },
+    {
+      "name": "Ullensaker kino",
+      "latitude": 60.143599,
+      "longitude": 11.174813
+    },
+    {
+      "name": "Ulvik Kino",
+      "latitude": 60.567017,
+      "longitude": 6.914522
+    },
+    {
+      "name": "Vadsø Kino",
+      "latitude": 70.075474,
+      "longitude": 29.756932
+    },
+    {
+      "name": "Verdal kino",
+      "latitude": 63.793854,
+      "longitude": 11.480956
+    },
+    {
+      "name": "Verdensteateret",
+      "latitude": 59.878978,
+      "longitude": 8.589991
+    },
+    {
+      "name": "Verdensteatret kino",
+      "latitude": 69.652129,
+      "longitude": 18.959042
+    },
+    {
+      "name": "Vika kino",
+      "latitude": 59.913388,
+      "longitude": 10.72853
+    },
+    {
+      "name": "Vinstra kino",
+      "latitude": 61.594664,
+      "longitude": 9.750105
+    },
+    {
+      "name": "Voss Kino",
+      "latitude": 60.628271,
+      "longitude": 6.410379
+    }
+  ],
+  "meta": {
+    "title": "Norway Cinemas - Gratis nedlasting",
+    "description": "Cinemas in Norway (OSM amenity=cinema), with coordinates. Inneholder 135 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Norway Cinemas | ListBase",
+    "seo_description": "Last ned Norway Cinemas — 135 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 135 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

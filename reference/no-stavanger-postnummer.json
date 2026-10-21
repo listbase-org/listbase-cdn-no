@@ -1,0 +1,728 @@
+{
+  "id": "no-stavanger-postnummer",
+  "name": "Postnummer i Stavanger",
+  "title": "Postnummer i Stavanger",
+  "description": "Alle 84 postnummer i Stavanger kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "4001",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4002",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4003",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4004",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4005",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4006",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4007",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4008",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4009",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4010",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4011",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4012",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4013",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4014",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4015",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4016",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4017",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4018",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4019",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4020",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4021",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4022",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4023",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4024",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4025",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4026",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4027",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4028",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4029",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4031",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4032",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4033",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4034",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4035",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4036",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4041",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4042",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4043",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4044",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4045",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4046",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4047",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4048",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4049",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4068",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4075",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4076",
+      "poststed": "Vassøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4077",
+      "poststed": "Hundvåg",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4078",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4079",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4081",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4082",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4083",
+      "poststed": "Hundvåg",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4084",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4085",
+      "poststed": "Hundvåg",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4086",
+      "poststed": "Hundvåg",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4087",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4088",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4089",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4090",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4091",
+      "poststed": "Hafrsfjord",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4092",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4093",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4094",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4095",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4099",
+      "poststed": "Stavanger",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4150",
+      "poststed": "Rennesøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4152",
+      "poststed": "Vestre Åmøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4153",
+      "poststed": "Brimse",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4154",
+      "poststed": "Austre Åmøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4156",
+      "poststed": "Mosterøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4158",
+      "poststed": "Bru",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4159",
+      "poststed": "Rennesøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4160",
+      "poststed": "Finnøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4161",
+      "poststed": "Finnøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4163",
+      "poststed": "Talgje",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4164",
+      "poststed": "Fogn",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4168",
+      "poststed": "Byre",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4169",
+      "poststed": "Sørbokn",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4170",
+      "poststed": "Sjernarøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4173",
+      "poststed": "Nord-Hidle",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4174",
+      "poststed": "Sjernarøy",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4182",
+      "poststed": "Skartveit",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4187",
+      "poststed": "Ombo",
+      "kommune_id": "1103",
+      "kommune": "Stavanger",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Stavanger - Gratis nedlasting",
+    "description": "Alle 84 postnummer i Stavanger kommune med poststed. Inneholder 84 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Stavanger | ListBase",
+    "seo_description": "Last ned Postnummer i Stavanger — 84 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 84 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

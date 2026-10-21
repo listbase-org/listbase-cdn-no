@@ -1,0 +1,384 @@
+{
+  "id": "no-molde-postnummer",
+  "name": "Postnummer i Molde",
+  "title": "Postnummer i Molde",
+  "description": "Alle 41 postnummer i Molde kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "6364",
+      "poststed": "Vistdal",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6365",
+      "poststed": "Vistdal",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6401",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6402",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6403",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6404",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6405",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6407",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6410",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6411",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6412",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6413",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6414",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6415",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6416",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6418",
+      "poststed": "Sekken",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6419",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6420",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6421",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6422",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6423",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6425",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6429",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6434",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6436",
+      "poststed": "Molde",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6450",
+      "poststed": "Hjelset",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6452",
+      "poststed": "Kleive",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6453",
+      "poststed": "Kleive",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6454",
+      "poststed": "Hjelset",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6455",
+      "poststed": "Kortgarden",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6456",
+      "poststed": "Skåla",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6457",
+      "poststed": "Bolsøya",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6458",
+      "poststed": "Skåla",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6460",
+      "poststed": "Eidsvåg i Romsdal",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6461",
+      "poststed": "Eidsvåg i Romsdal",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6462",
+      "poststed": "Raudsand",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6470",
+      "poststed": "Eresfjord",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6471",
+      "poststed": "Eresfjord",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6472",
+      "poststed": "Eikesdal",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6475",
+      "poststed": "Midsund",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6476",
+      "poststed": "Midsund",
+      "kommune_id": "1506",
+      "kommune": "Molde",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Molde - Gratis nedlasting",
+    "description": "Alle 41 postnummer i Molde kommune med poststed. Inneholder 41 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Molde | ListBase",
+    "seo_description": "Last ned Postnummer i Molde — 41 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 41 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

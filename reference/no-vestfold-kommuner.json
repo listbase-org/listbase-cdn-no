@@ -1,0 +1,203 @@
+{
+  "id": "no-vestfold-kommuner",
+  "name": "Kommuner i Vestfold",
+  "title": "Kommuner i Vestfold",
+  "description": "Alle 6 kommuner i Vestfold fylke (2025) med befolkning, areal, målform og adresse til kommunens nettside.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_no",
+      "label": "Name No",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "fylke_slug",
+      "label": "Fylke Slug",
+      "type": "string"
+    },
+    {
+      "key": "adm_center",
+      "label": "Adm Center",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "alternative_navn",
+      "label": "Alternative Navn",
+      "type": "string"
+    },
+    {
+      "key": "tidligere_fylker",
+      "label": "Tidligere Fylker",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "3901",
+      "name": "Horten",
+      "name_no": "Horten",
+      "slug": "horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold",
+      "fylke_slug": "vestfold",
+      "adm_center": "Horten",
+      "population": 27939,
+      "area_km2": 70.95,
+      "language": "Bokmål",
+      "url": "www.horten.kommune.no",
+      "num_postnummer": 20,
+      "alternative_navn": "",
+      "tidligere_fylker": "Vestfold og Telemark"
+    },
+    {
+      "id": "3903",
+      "name": "Holmestrand",
+      "name_no": "Holmestrand",
+      "slug": "holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold",
+      "fylke_slug": "vestfold",
+      "adm_center": "Holmestrand",
+      "population": 26872,
+      "area_km2": 432.35,
+      "language": "Bokmål",
+      "url": "www.holmestrand.kommune.no",
+      "num_postnummer": 21,
+      "alternative_navn": "",
+      "tidligere_fylker": "Vestfold og Telemark"
+    },
+    {
+      "id": "3905",
+      "name": "Tønsberg",
+      "name_no": "Tønsberg",
+      "slug": "tonsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold",
+      "fylke_slug": "vestfold",
+      "adm_center": "Tønsberg",
+      "population": 59174,
+      "area_km2": 329.26,
+      "language": "Nøytral",
+      "url": "www.tonsberg.kommune.no",
+      "num_postnummer": 42,
+      "alternative_navn": "",
+      "tidligere_fylker": "Vestfold og Telemark"
+    },
+    {
+      "id": "3907",
+      "name": "Sandefjord",
+      "name_no": "Sandefjord",
+      "slug": "sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold",
+      "fylke_slug": "vestfold",
+      "adm_center": "Sandefjord",
+      "population": 66231,
+      "area_km2": 422.26,
+      "language": "Bokmål",
+      "url": "www.sandefjord.kommune.no",
+      "num_postnummer": 55,
+      "alternative_navn": "",
+      "tidligere_fylker": "Vestfold og Telemark"
+    },
+    {
+      "id": "3909",
+      "name": "Larvik",
+      "name_no": "Larvik",
+      "slug": "larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold",
+      "fylke_slug": "vestfold",
+      "adm_center": "Larvik",
+      "population": 48715,
+      "area_km2": 812.88,
+      "language": "Nøytral",
+      "url": "www.larvik.kommune.no",
+      "num_postnummer": 36,
+      "alternative_navn": "",
+      "tidligere_fylker": "Vestfold og Telemark"
+    },
+    {
+      "id": "3911",
+      "name": "Færder",
+      "name_no": "Færder",
+      "slug": "faerder",
+      "fylke_id": "39",
+      "fylke": "Vestfold",
+      "fylke_slug": "vestfold",
+      "adm_center": "Borgheim",
+      "population": 27501,
+      "area_km2": 99.95,
+      "language": "Nøytral",
+      "url": "www.farder.kommune.no",
+      "num_postnummer": 20,
+      "alternative_navn": "",
+      "tidligere_fylker": "Vestfold og Telemark"
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Vestfold - Gratis nedlasting",
+    "description": "Alle 6 kommuner i Vestfold fylke (2025) med befolkning, areal, målform og adresse til kommunens nettside. Inneholder 6 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Vestfold | ListBase",
+    "seo_description": "Last ned Kommuner i Vestfold — 6 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 6 poster / 15 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

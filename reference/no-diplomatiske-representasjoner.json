@@ -1,0 +1,486 @@
+{
+  "id": "no-diplomatiske-representasjoner",
+  "name": "Diplomatic missions in Norway",
+  "title": "Diplomatic missions in Norway",
+  "description": "Diplomatic missions in Norway (Diplomatiske representasjoner i Norge), derived from OpenStreetMap POIs tagged office=diplomatic. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Afghanistans ambassade",
+      "latitude": 59.916115,
+      "longitude": 10.699492
+    },
+    {
+      "name": "Algerias ambassade",
+      "latitude": 59.915452,
+      "longitude": 10.720665
+    },
+    {
+      "name": "Amerikas forente staters ambassade",
+      "latitude": 59.941403,
+      "longitude": 10.669011
+    },
+    {
+      "name": "Argentinas ambassade",
+      "latitude": 59.913508,
+      "longitude": 10.713024
+    },
+    {
+      "name": "Belgias ambassade",
+      "latitude": 59.910956,
+      "longitude": 10.722694
+    },
+    {
+      "name": "Belgias ambassade",
+      "latitude": 59.918494,
+      "longitude": 10.696596
+    },
+    {
+      "name": "Bosnia og Herzegovinas ambassade",
+      "latitude": 59.918707,
+      "longitude": 10.696363
+    },
+    {
+      "name": "Brasils ambassade",
+      "latitude": 59.919502,
+      "longitude": 10.691432
+    },
+    {
+      "name": "Bulgarias ambassade",
+      "latitude": 59.921912,
+      "longitude": 10.709282
+    },
+    {
+      "name": "Canadas ambassade",
+      "latitude": 59.918967,
+      "longitude": 10.731518
+    },
+    {
+      "name": "Chiles ambassade",
+      "latitude": 59.91785,
+      "longitude": 10.720622
+    },
+    {
+      "name": "Colombias ambassade",
+      "latitude": 59.920521,
+      "longitude": 10.724202
+    },
+    {
+      "name": "Consulate of Spain",
+      "latitude": 63.429065,
+      "longitude": 10.397431
+    },
+    {
+      "name": "Costa Ricas ambassade",
+      "latitude": 59.912743,
+      "longitude": 10.749333
+    },
+    {
+      "name": "Danmarks ambassade",
+      "latitude": 59.917986,
+      "longitude": 10.693495
+    },
+    {
+      "name": "De forente arabiske emiraters ambassade",
+      "latitude": 59.919028,
+      "longitude": 10.697105
+    },
+    {
+      "name": "Den britiske ambassadørens offisielle residens",
+      "latitude": 59.914514,
+      "longitude": 10.704752
+    },
+    {
+      "name": "Den europeiske unions delegasjon",
+      "latitude": 59.913551,
+      "longitude": 10.731607
+    },
+    {
+      "name": "Egypts ambassade",
+      "latitude": 59.916336,
+      "longitude": 10.699819
+    },
+    {
+      "name": "Embassy of the United Arab Emirates",
+      "latitude": 59.913875,
+      "longitude": 10.722295
+    },
+    {
+      "name": "Estlands ambassade",
+      "latitude": 59.91731,
+      "longitude": 10.722965
+    },
+    {
+      "name": "Filippinenes ambassade",
+      "latitude": 59.911032,
+      "longitude": 10.73814
+    },
+    {
+      "name": "Finlands ambassade",
+      "latitude": 59.914811,
+      "longitude": 10.707503
+    },
+    {
+      "name": "Forbundsrepublikken Tysklands honorær konsul",
+      "latitude": 62.472469,
+      "longitude": 6.160787
+    },
+    {
+      "name": "Forbundsrepublikken Tysklands honorær konsul",
+      "latitude": 67.28507,
+      "longitude": 14.381555
+    },
+    {
+      "name": "Forbundsrepublikken Tysklands honorær konsul",
+      "latitude": 69.64705,
+      "longitude": 18.956539
+    },
+    {
+      "name": "Frankrikes ambassade",
+      "latitude": 59.913374,
+      "longitude": 10.705983
+    },
+    {
+      "name": "Georgias ambassade",
+      "latitude": 59.916412,
+      "longitude": 10.740244
+    },
+    {
+      "name": "Germany",
+      "latitude": 58.969755,
+      "longitude": 5.734943
+    },
+    {
+      "name": "Hellas ambassade",
+      "latitude": 59.92291,
+      "longitude": 10.702447
+    },
+    {
+      "name": "Honorarkonsul Bundesrepublik Deutschland",
+      "latitude": 63.43586,
+      "longitude": 10.457114
+    },
+    {
+      "name": "Honorary Consulate of the Czech Republic",
+      "latitude": 60.39364,
+      "longitude": 5.32354
+    },
+    {
+      "name": "Honorary Consulate of the Czech Republic",
+      "latitude": 68.876869,
+      "longitude": 17.838893
+    },
+    {
+      "name": "Honorære finske konsulat",
+      "latitude": 58.089503,
+      "longitude": 6.805796
+    },
+    {
+      "name": "Indias ambassade",
+      "latitude": 59.914223,
+      "longitude": 10.71152
+    },
+    {
+      "name": "Indonesias ambassade",
+      "latitude": 59.91644,
+      "longitude": 10.704791
+    },
+    {
+      "name": "International Barents Secretariat",
+      "latitude": 69.727371,
+      "longitude": 30.041996
+    },
+    {
+      "name": "Iraks ambassade",
+      "latitude": 59.921759,
+      "longitude": 10.708974
+    },
+    {
+      "name": "Irans ambassade",
+      "latitude": 59.91598,
+      "longitude": 10.700126
+    },
+    {
+      "name": "Irlands ambassade",
+      "latitude": 59.913061,
+      "longitude": 10.731895
+    },
+    {
+      "name": "Islands ambassade",
+      "latitude": 59.914728,
+      "longitude": 10.731707
+    },
+    {
+      "name": "Israels ambassade",
+      "latitude": 59.919305,
+      "longitude": 10.725545
+    },
+    {
+      "name": "Italias ambassade",
+      "latitude": 59.919403,
+      "longitude": 10.723507
+    },
+    {
+      "name": "Japans ambassade",
+      "latitude": 59.914311,
+      "longitude": 10.730912
+    },
+    {
+      "name": "Jordans ambassade",
+      "latitude": 59.918813,
+      "longitude": 10.66443
+    },
+    {
+      "name": "Kasakhstans ambassade",
+      "latitude": 59.911015,
+      "longitude": 10.737639
+    },
+    {
+      "name": "Kinas ambassade",
+      "latitude": 59.941299,
+      "longitude": 10.701447
+    },
+    {
+      "name": "Kroatias ambassade",
+      "latitude": 59.913795,
+      "longitude": 10.702531
+    },
+    {
+      "name": "Kubas ambassade",
+      "latitude": 59.917044,
+      "longitude": 10.719411
+    },
+    {
+      "name": "Latvias ambassade",
+      "latitude": 59.919046,
+      "longitude": 10.698819
+    },
+    {
+      "name": "Litauens ambassade",
+      "latitude": 59.907927,
+      "longitude": 10.74374
+    },
+    {
+      "name": "Marokkos ambassade",
+      "latitude": 59.923687,
+      "longitude": 10.72272
+    },
+    {
+      "name": "Mexicos ambassade",
+      "latitude": 59.916732,
+      "longitude": 10.695248
+    },
+    {
+      "name": "Myanmars ambassade",
+      "latitude": 59.913809,
+      "longitude": 10.722436
+    },
+    {
+      "name": "Nederlands ambassade",
+      "latitude": 59.921601,
+      "longitude": 10.724764
+    },
+    {
+      "name": "Nord-Makedonske ambassaden",
+      "latitude": 59.919251,
+      "longitude": 10.701874
+    },
+    {
+      "name": "Official residence of Japan's Ambassador to Norway",
+      "latitude": 59.946878,
+      "longitude": 10.686879
+    },
+    {
+      "name": "Pakistans ambassade",
+      "latitude": 59.944105,
+      "longitude": 10.696304
+    },
+    {
+      "name": "Perus ambassade",
+      "latitude": 59.914734,
+      "longitude": 10.727296
+    },
+    {
+      "name": "Polens ambassade",
+      "latitude": 59.918983,
+      "longitude": 10.696235
+    },
+    {
+      "name": "Portugals ambassade",
+      "latitude": 59.922165,
+      "longitude": 10.723715
+    },
+    {
+      "name": "Republikken Koreas ambassade",
+      "latitude": 59.91981,
+      "longitude": 10.724141
+    },
+    {
+      "name": "Residensen til Sør-Koreas ambassadør",
+      "latitude": 59.945016,
+      "longitude": 10.6943
+    },
+    {
+      "name": "Romanias ambassade",
+      "latitude": 59.919783,
+      "longitude": 10.722114
+    },
+    {
+      "name": "Russlands ambassade",
+      "latitude": 59.912761,
+      "longitude": 10.705298
+    },
+    {
+      "name": "Saudi-Arabias ambassade",
+      "latitude": 59.91637,
+      "longitude": 10.694267
+    },
+    {
+      "name": "Serbias ambassade",
+      "latitude": 59.911043,
+      "longitude": 10.721575
+    },
+    {
+      "name": "Slovakias ambassade",
+      "latitude": 59.916445,
+      "longitude": 10.703533
+    },
+    {
+      "name": "Spain",
+      "latitude": 58.971389,
+      "longitude": 5.738439
+    },
+    {
+      "name": "Spanias ambassade i Oslo",
+      "latitude": 59.921408,
+      "longitude": 10.696382
+    },
+    {
+      "name": "Sri Lankas ambassade",
+      "latitude": 59.920485,
+      "longitude": 10.682052
+    },
+    {
+      "name": "Storbritannias ambassade",
+      "latitude": 59.914765,
+      "longitude": 10.705526
+    },
+    {
+      "name": "Sudans ambassade",
+      "latitude": 59.923732,
+      "longitude": 10.722589
+    },
+    {
+      "name": "Sveits ambassade",
+      "latitude": 59.921681,
+      "longitude": 10.724912
+    },
+    {
+      "name": "Sveriges ambasade",
+      "latitude": 59.917224,
+      "longitude": 10.720972
+    },
+    {
+      "name": "Sør-Afrikas ambassade",
+      "latitude": 59.915673,
+      "longitude": 10.699706
+    },
+    {
+      "name": "Sør-Sudans ambassade",
+      "latitude": 59.922978,
+      "longitude": 10.685789
+    },
+    {
+      "name": "Thailands ambassade",
+      "latitude": 59.921014,
+      "longitude": 10.71516
+    },
+    {
+      "name": "Tsjekkias ambassade",
+      "latitude": 59.91681,
+      "longitude": 10.70479
+    },
+    {
+      "name": "Tunisias ambassade",
+      "latitude": 59.91361,
+      "longitude": 10.701957
+    },
+    {
+      "name": "Tyrkias ambassade",
+      "latitude": 59.92075,
+      "longitude": 10.695359
+    },
+    {
+      "name": "Tysklands ambassade",
+      "latitude": 59.920158,
+      "longitude": 10.722707
+    },
+    {
+      "name": "Tysklands honorær konsul",
+      "latitude": 60.37817,
+      "longitude": 5.330134
+    },
+    {
+      "name": "Ukrainas ambassade",
+      "latitude": 59.91459,
+      "longitude": 10.727082
+    },
+    {
+      "name": "Ungarns ambassade",
+      "latitude": 59.915808,
+      "longitude": 10.70708
+    },
+    {
+      "name": "Venezuelas ambassade",
+      "latitude": 59.913973,
+      "longitude": 10.702604
+    },
+    {
+      "name": "Vietnams ambassade",
+      "latitude": 59.918053,
+      "longitude": 10.73845
+    },
+    {
+      "name": "Østerrikes ambassade",
+      "latitude": 59.916126,
+      "longitude": 10.704315
+    },
+    {
+      "name": "Российское генконсульство",
+      "latitude": 69.72818,
+      "longitude": 30.040844
+    }
+  ],
+  "meta": {
+    "title": "Diplomatic missions in Norway - Gratis nedlasting",
+    "description": "Diplomatic missions in Norway (Diplomatiske representasjoner i Norge), derived from OpenStreetMap POIs tagged office=diplomatic. Named features only, clipped to mainland Norway. Inneholder 89 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Diplomatic missions in Norway | ListBase",
+    "seo_description": "Last ned Diplomatic missions in Norway — 89 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 89 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

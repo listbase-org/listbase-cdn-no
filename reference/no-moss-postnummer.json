@@ -1,0 +1,424 @@
+{
+  "id": "no-moss-postnummer",
+  "name": "Postnummer i Moss",
+  "title": "Postnummer i Moss",
+  "description": "Alle 46 postnummer i Moss kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1501",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1502",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1503",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1504",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1506",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1508",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1509",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1510",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1511",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1512",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1513",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1514",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1515",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1516",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1517",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1518",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1519",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1520",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1521",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1522",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1523",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1524",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1525",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1526",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1528",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1529",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1530",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1531",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1532",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1533",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1534",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1535",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1536",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1537",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1538",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1539",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1560",
+      "poststed": "Larkollen",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1561",
+      "poststed": "Larkollen",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1570",
+      "poststed": "Dilling",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1580",
+      "poststed": "Rygge",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1581",
+      "poststed": "Rygge",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1590",
+      "poststed": "Rygge",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1596",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1597",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1598",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1599",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Moss - Gratis nedlasting",
+    "description": "Alle 46 postnummer i Moss kommune med poststed. Inneholder 46 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Moss | ListBase",
+    "seo_description": "Last ned Postnummer i Moss — 46 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 46 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

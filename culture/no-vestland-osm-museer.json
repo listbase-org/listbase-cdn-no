@@ -1,0 +1,588 @@
+{
+  "id": "no-vestland-osm-museer",
+  "name": "Museer i Vestland – OpenStreetMap (47 museums in Vestland, OSM)",
+  "title": "Museer i Vestland – OpenStreetMap (47 museums in Vestland, OSM)",
+  "description": "Museer i fylket Vestland fra OpenStreetMap — delmengde av no-osm-museer, 47 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aker Stord industrimuseum",
+      "name_en": "",
+      "city": "Leirvik",
+      "fylke": "Vestland",
+      "naermeste_sted": "Leirvik",
+      "avstand_km": 1.513,
+      "latitude": 59.766339,
+      "longitude": 5.496557,
+      "website": ""
+    },
+    {
+      "name": "Amtskontioret",
+      "name_en": "",
+      "city": "Hermansverk",
+      "fylke": "Vestland",
+      "naermeste_sted": "Hermansverk",
+      "avstand_km": 0.773,
+      "latitude": 61.18646,
+      "longitude": 6.836308,
+      "website": ""
+    },
+    {
+      "name": "Bergen Lepramuseum",
+      "name_en": "Bergen Leprosy Museum",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 0.497,
+      "latitude": 60.391415,
+      "longitude": 5.332654,
+      "website": "http://www.bymuseet.no/?vis=80"
+    },
+    {
+      "name": "Bergen Skolemuseum",
+      "name_en": "",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 0.379,
+      "latitude": 60.394315,
+      "longitude": 5.330568,
+      "website": "http://www.bymuseet.no/?vis=57"
+    },
+    {
+      "name": "Bergens Tekniske Museum",
+      "name_en": "Bergen Technical Museum",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 1.044,
+      "latitude": 60.383707,
+      "longitude": 5.321475,
+      "website": "http://www.bergenstekniskemuseum.no/"
+    },
+    {
+      "name": "Bjørn West-museet",
+      "name_en": "",
+      "city": "Mo",
+      "fylke": "Vestland",
+      "naermeste_sted": "Mo",
+      "avstand_km": 13.723,
+      "latitude": 60.876331,
+      "longitude": 5.58446,
+      "website": "http://bjornwest.museumvest.no"
+    },
+    {
+      "name": "Borgund Stavkirke",
+      "name_en": "",
+      "city": "Årdalstangen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Lærdalsøyri",
+      "avstand_km": 19.142,
+      "latitude": 61.047098,
+      "longitude": 7.812377,
+      "website": ""
+    },
+    {
+      "name": "Borgund Stavkirke Visitor Center",
+      "name_en": "",
+      "city": "Årdalstangen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Lærdalsøyri",
+      "avstand_km": 19.18,
+      "latitude": 61.048171,
+      "longitude": 7.813848,
+      "website": ""
+    },
+    {
+      "name": "Breheimsenteret",
+      "name_en": "",
+      "city": "Gaupne",
+      "fylke": "Vestland",
+      "naermeste_sted": "Gaupne",
+      "avstand_km": 27.44,
+      "latitude": 61.651322,
+      "longitude": 7.276527,
+      "website": ""
+    },
+    {
+      "name": "Bryggens Museum",
+      "name_en": "",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 0.601,
+      "latitude": 60.398354,
+      "longitude": 5.322759,
+      "website": "http://www.bymuseet.no/?vis=77"
+    },
+    {
+      "name": "Buekorpsmuseet",
+      "name_en": "",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 0.311,
+      "latitude": 60.394742,
+      "longitude": 5.319768,
+      "website": "http://buekorps.webs.com/"
+    },
+    {
+      "name": "Båtbygger Museum",
+      "name_en": "",
+      "city": "Rosendal",
+      "fylke": "Vestland",
+      "naermeste_sted": "Rosendal",
+      "avstand_km": 0.253,
+      "latitude": 59.986704,
+      "longitude": 6.007351,
+      "website": ""
+    },
+    {
+      "name": "Damsgård hovedgård",
+      "name_en": "Damsgård Manor",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 1.638,
+      "latitude": 60.383136,
+      "longitude": 5.302058,
+      "website": "http://www.bymuseet.no/?vis=82"
+    },
+    {
+      "name": "De Heibergske Samlinger",
+      "name_en": "",
+      "city": "Sogndalsfjøra",
+      "fylke": "Vestland",
+      "naermeste_sted": "Kaupanger",
+      "avstand_km": 3.195,
+      "latitude": 61.205187,
+      "longitude": 7.201124,
+      "website": ""
+    },
+    {
+      "name": "Det Røde Hus",
+      "name_en": "",
+      "city": "Askøy",
+      "fylke": "Vestland",
+      "naermeste_sted": "Askøy",
+      "avstand_km": 0.404,
+      "latitude": 60.402182,
+      "longitude": 5.189178,
+      "website": ""
+    },
+    {
+      "name": "Fjell Festning",
+      "name_en": "Fjell Fortress",
+      "city": "Straume",
+      "fylke": "Vestland",
+      "naermeste_sted": "Straume",
+      "avstand_km": 4.473,
+      "latitude": 60.325648,
+      "longitude": 5.08435,
+      "website": "http://fjellfestning.museumvest.no/"
+    },
+    {
+      "name": "Fysikk Museum",
+      "name_en": "",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 1.025,
+      "latitude": 60.384331,
+      "longitude": 5.330558,
+      "website": ""
+    },
+    {
+      "name": "Gamle Bergen",
+      "name_en": "Old Bergen",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 2.865,
+      "latitude": 60.417943,
+      "longitude": 5.311142,
+      "website": "http://www.bymuseet.no/?vis=79"
+    },
+    {
+      "name": "Gamlehaugen",
+      "name_en": "",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Ytrebygda",
+      "avstand_km": 5.169,
+      "latitude": 60.34291,
+      "longitude": 5.336747,
+      "website": "http://gamlehaugen.museumvest.no"
+    },
+    {
+      "name": "Gjestheim",
+      "name_en": "",
+      "city": "Sogndal",
+      "fylke": "Vestland",
+      "naermeste_sted": "Sogndal",
+      "avstand_km": 0.339,
+      "latitude": 61.2294,
+      "longitude": 7.103005,
+      "website": ""
+    },
+    {
+      "name": "Gruvemuseet Stordø Kisgruber",
+      "name_en": "",
+      "city": "Sagvåg",
+      "fylke": "Vestland",
+      "naermeste_sted": "Sagvåg",
+      "avstand_km": 2.049,
+      "latitude": 59.791004,
+      "longitude": 5.421246,
+      "website": "http://www.gruo.no/"
+    },
+    {
+      "name": "Hanseatisk Museum",
+      "name_en": "Hanseatic Museum",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 0.328,
+      "latitude": 60.39584,
+      "longitude": 5.325832,
+      "website": "http://schøtstuene.no/"
+    },
+    {
+      "name": "Hardanger Fartøyvernsenter",
+      "name_en": "",
+      "city": "Norheimsund",
+      "fylke": "Vestland",
+      "naermeste_sted": "Norheimsund",
+      "avstand_km": 0.547,
+      "latitude": 60.366124,
+      "longitude": 6.147963,
+      "website": "http://www.hardangerogvossmuseum.no/hardanger-fartoeyvernsenter/norsk/aktuelt.aspx"
+    },
+    {
+      "name": "Hardangervidda natursenter",
+      "name_en": "",
+      "city": "Eidfjord",
+      "fylke": "Vestland",
+      "naermeste_sted": "Eidfjord",
+      "avstand_km": 6.012,
+      "latitude": 60.423215,
+      "longitude": 7.13479,
+      "website": ""
+    },
+    {
+      "name": "Herand Kulturhistoriske Senter",
+      "name_en": "",
+      "city": "Jondal",
+      "fylke": "Vestland",
+      "naermeste_sted": "Jondal",
+      "avstand_km": 10.332,
+      "latitude": 60.343047,
+      "longitude": 6.381332,
+      "website": ""
+    },
+    {
+      "name": "Herdla museum",
+      "name_en": "",
+      "city": "Manger",
+      "fylke": "Vestland",
+      "naermeste_sted": "Tjeldstø",
+      "avstand_km": 6.962,
+      "latitude": 60.567005,
+      "longitude": 4.957271,
+      "website": "http://www.museumvest.no/index.php?action=static&id=2"
+    },
+    {
+      "name": "Hillesvåg Ullvarefabrikk AS",
+      "name_en": "",
+      "city": "Hylkje",
+      "fylke": "Vestland",
+      "naermeste_sted": "Isdalstø",
+      "avstand_km": 6.132,
+      "latitude": 60.583656,
+      "longitude": 5.365532,
+      "website": "http://www.ull.no/"
+    },
+    {
+      "name": "Hordamuseet",
+      "name_en": "",
+      "city": "Sandsli",
+      "fylke": "Vestland",
+      "naermeste_sted": "Sandsli",
+      "avstand_km": 4.322,
+      "latitude": 60.270079,
+      "longitude": 5.326533,
+      "website": "http://www.bymuseet.no/?vis=249"
+    },
+    {
+      "name": "Jølstratunet",
+      "name_en": "",
+      "city": "Førde",
+      "fylke": "Vestland",
+      "naermeste_sted": "Førde",
+      "avstand_km": 13.91,
+      "latitude": 61.491563,
+      "longitude": 6.105822,
+      "website": ""
+    },
+    {
+      "name": "Kristianhus Båt- og Motormuseum",
+      "name_en": "",
+      "city": "Vikøyri",
+      "fylke": "Vestland",
+      "naermeste_sted": "Vikøyri",
+      "avstand_km": 0.417,
+      "latitude": 61.089505,
+      "longitude": 6.585049,
+      "website": ""
+    },
+    {
+      "name": "Kystmuseet i Øygarden",
+      "name_en": "The Coastal Museum in Øygarden",
+      "city": "Tjeldstø",
+      "fylke": "Vestland",
+      "naermeste_sted": "Tjeldstø",
+      "avstand_km": 3.419,
+      "latitude": 60.567014,
+      "longitude": 4.864216,
+      "website": "http://kystmuseet.museumvest.no/"
+    },
+    {
+      "name": "Lyngheisenteret",
+      "name_en": "The Heathland Centre",
+      "city": "Lindås",
+      "fylke": "Vestland",
+      "naermeste_sted": "Lindås",
+      "avstand_km": 5.398,
+      "latitude": 60.695243,
+      "longitude": 5.108359,
+      "website": "http://www.muho.no/lyngheisenteret/"
+    },
+    {
+      "name": "Massnes Villmarksmuseum",
+      "name_en": "",
+      "city": "Sande",
+      "fylke": "Vestland",
+      "naermeste_sted": "Hyllestad",
+      "avstand_km": 20.733,
+      "latitude": 61.100833,
+      "longitude": 5.653775,
+      "website": ""
+    },
+    {
+      "name": "Museet Gamle Vossebanen",
+      "name_en": "",
+      "city": "Indre Arna",
+      "fylke": "Vestland",
+      "naermeste_sted": "Ytre Arna",
+      "avstand_km": 2.651,
+      "latitude": 60.446753,
+      "longitude": 5.470095,
+      "website": ""
+    },
+    {
+      "name": "Måbø",
+      "name_en": "",
+      "city": "Eidfjord",
+      "fylke": "Vestland",
+      "naermeste_sted": "Eidfjord",
+      "avstand_km": 9,
+      "latitude": 60.417362,
+      "longitude": 7.200702,
+      "website": ""
+    },
+    {
+      "name": "Mølstertunet",
+      "name_en": "",
+      "city": "Voss",
+      "fylke": "Vestland",
+      "naermeste_sted": "Voss",
+      "avstand_km": 0.544,
+      "latitude": 60.633487,
+      "longitude": 6.41261,
+      "website": ""
+    },
+    {
+      "name": "Nesheimstunet",
+      "name_en": "",
+      "city": "Voss",
+      "fylke": "Vestland",
+      "naermeste_sted": "Voss",
+      "avstand_km": 8.708,
+      "latitude": 60.697689,
+      "longitude": 6.490322,
+      "website": ""
+    },
+    {
+      "name": "Nordsjøfartsmuseet",
+      "name_en": "",
+      "city": "Skogsvågen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Skogsvågen",
+      "avstand_km": 6.195,
+      "latitude": 60.254425,
+      "longitude": 4.989325,
+      "website": "http://nordsjofartsmuseum.museumvest.no"
+    },
+    {
+      "name": "Norges Fiskerimuseum",
+      "name_en": "",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 1.673,
+      "latitude": 60.407987,
+      "longitude": 5.321606,
+      "website": "http://fiskerimuseum.museumvest.no/"
+    },
+    {
+      "name": "Ole Bulls hjem",
+      "name_en": "Ole Bull's home",
+      "city": "Ytre Arna",
+      "fylke": "Vestland",
+      "naermeste_sted": "Lonevåg",
+      "avstand_km": 3.708,
+      "latitude": 60.509545,
+      "longitude": 5.436205,
+      "website": ""
+    },
+    {
+      "name": "Radiomuseet",
+      "name_en": "",
+      "city": "Kleppestø",
+      "fylke": "Vestland",
+      "naermeste_sted": "Kleppestø",
+      "avstand_km": 4.514,
+      "latitude": 60.448636,
+      "longitude": 5.216736,
+      "website": "http://www.bergenkringkaster.no/"
+    },
+    {
+      "name": "Schøtstuene",
+      "name_en": "",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 0.612,
+      "latitude": 60.398497,
+      "longitude": 5.323762,
+      "website": "http://schøtstuene.no/"
+    },
+    {
+      "name": "Sogn og Fjordane Kunstmuseum",
+      "name_en": "",
+      "city": "Førde",
+      "fylke": "Vestland",
+      "naermeste_sted": "Førde",
+      "avstand_km": 0.028,
+      "latitude": 61.45203,
+      "longitude": 5.856811,
+      "website": "http://www.sfk.museum.no/"
+    },
+    {
+      "name": "Stord maritime museum",
+      "name_en": "",
+      "city": "Leirvik",
+      "fylke": "Vestland",
+      "naermeste_sted": "Leirvik",
+      "avstand_km": 0.276,
+      "latitude": 59.781641,
+      "longitude": 5.503804,
+      "website": ""
+    },
+    {
+      "name": "Troldhaugen",
+      "name_en": "",
+      "city": "Sandsli",
+      "fylke": "Vestland",
+      "naermeste_sted": "Sandsli",
+      "avstand_km": 3.048,
+      "latitude": 60.31965,
+      "longitude": 5.32976,
+      "website": ""
+    },
+    {
+      "name": "Veteran bensinstasjon",
+      "name_en": "Veteran petrol station",
+      "city": "Bergen",
+      "fylke": "Vestland",
+      "naermeste_sted": "Bergen",
+      "avstand_km": 0.933,
+      "latitude": 60.38555,
+      "longitude": 5.331994,
+      "website": ""
+    },
+    {
+      "name": "Vilvite Sotra",
+      "name_en": "",
+      "city": "Straume",
+      "fylke": "Vestland",
+      "naermeste_sted": "Straume",
+      "avstand_km": 0.364,
+      "latitude": 60.35837,
+      "longitude": 5.124935,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Vestland – OpenStreetMap (47 museums in Vestland, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Vestland fra OpenStreetMap — delmengde av no-osm-museer, 47 poster. Inneholder 47 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Vestland – OpenStreetMap (47 museums in Vestland, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Vestland – OpenStreetMap (47 museums in Vestland, OSM) — 47 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 47 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

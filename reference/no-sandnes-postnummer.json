@@ -1,0 +1,408 @@
+{
+  "id": "no-sandnes-postnummer",
+  "name": "Postnummer i Sandnes",
+  "title": "Postnummer i Sandnes",
+  "description": "Alle 44 postnummer i Sandnes kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 44,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "4110",
+      "poststed": "Forsand",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4119",
+      "poststed": "Forsand",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4127",
+      "poststed": "Lysebotn",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4128",
+      "poststed": "Flørli",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4129",
+      "poststed": "Songesand",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4301",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4302",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4306",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4307",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4308",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4309",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4310",
+      "poststed": "Hommersåk",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4311",
+      "poststed": "Hommersåk",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4312",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4313",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4314",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4315",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4316",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4317",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4318",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4319",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4320",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4321",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4322",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4323",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4324",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4325",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4326",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4327",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4328",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4329",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4332",
+      "poststed": "Figgjo",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4336",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4337",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4338",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4391",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4392",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4393",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4394",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4395",
+      "poststed": "Hommersåk",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4396",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4397",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4398",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    },
+    {
+      "postnummer": "4399",
+      "poststed": "Sandnes",
+      "kommune_id": "1108",
+      "kommune": "Sandnes",
+      "fylke_id": "11",
+      "fylke": "Rogaland"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Sandnes - Gratis nedlasting",
+    "description": "Alle 44 postnummer i Sandnes kommune med poststed. Inneholder 44 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Sandnes | ListBase",
+    "seo_description": "Last ned Postnummer i Sandnes — 44 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 44 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

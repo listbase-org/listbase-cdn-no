@@ -1,0 +1,876 @@
+{
+  "id": "no-svommebasseng",
+  "name": "Swimming pools in Norway",
+  "title": "Swimming pools in Norway",
+  "description": "Swimming pools in Norway (Svommebasseng i Norge), derived from OpenStreetMap POIs tagged leisure=swimming_pool. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ADO arena Hovedbasseng 50 x 25",
+      "latitude": 60.385125,
+      "longitude": 5.338706
+    },
+    {
+      "name": "ADO arena opplæringsbasseng",
+      "latitude": 60.385099,
+      "longitude": 5.339198
+    },
+    {
+      "name": "ADO arena stupebasseng",
+      "latitude": 60.385397,
+      "longitude": 5.33793
+    },
+    {
+      "name": "Alversund skule - symjebasseng",
+      "latitude": 60.570012,
+      "longitude": 5.232887
+    },
+    {
+      "name": "Arendal gjestehavn svømmebasseng",
+      "latitude": 58.456771,
+      "longitude": 8.762767
+    },
+    {
+      "name": "Askøy Terapibad",
+      "latitude": 60.45865,
+      "longitude": 5.226427
+    },
+    {
+      "name": "Askøyhallen svømmehall",
+      "latitude": 60.41658,
+      "longitude": 5.22054
+    },
+    {
+      "name": "Atlanterhavsbadet",
+      "latitude": 63.123711,
+      "longitude": 7.732458
+    },
+    {
+      "name": "Austevoll symjeanlegg-opplæringsbasseng",
+      "latitude": 60.091816,
+      "longitude": 5.224563
+    },
+    {
+      "name": "Austevoll ungdomsskole symjebasseng",
+      "latitude": 60.079555,
+      "longitude": 5.247946
+    },
+    {
+      "name": "Bad",
+      "latitude": 59.18623,
+      "longitude": 9.595428
+    },
+    {
+      "name": "Bade-Oleanas bybad",
+      "latitude": 59.149101,
+      "longitude": 5.258299
+    },
+    {
+      "name": "Badeland i Sarons Dal",
+      "latitude": 58.326015,
+      "longitude": 6.988874
+    },
+    {
+      "name": "Badeparken i Langesund",
+      "latitude": 59.013732,
+      "longitude": 9.745418
+    },
+    {
+      "name": "Barnebassenget",
+      "latitude": 59.449007,
+      "longitude": 9.072534
+    },
+    {
+      "name": "Barnestimen",
+      "latitude": 58.187597,
+      "longitude": 8.145709
+    },
+    {
+      "name": "Baseeng",
+      "latitude": 58.187993,
+      "longitude": 8.145537
+    },
+    {
+      "name": "Berger svømmehall",
+      "latitude": 59.929092,
+      "longitude": 10.475113
+    },
+    {
+      "name": "Brakanes skule symjeanlegg",
+      "latitude": 60.568129,
+      "longitude": 6.910585
+    },
+    {
+      "name": "Breidablikk svømmesbasseng",
+      "latitude": 70.634901,
+      "longitude": 23.685593
+    },
+    {
+      "name": "Brumunddal svømmebasseng",
+      "latitude": 60.890545,
+      "longitude": 10.938697
+    },
+    {
+      "name": "Bystranda",
+      "latitude": 59.906379,
+      "longitude": 10.720904
+    },
+    {
+      "name": "Bærum idrettspark svømmehall",
+      "latitude": 59.909916,
+      "longitude": 10.498182
+    },
+    {
+      "name": "Bølgen",
+      "latitude": 58.18767,
+      "longitude": 8.144946
+    },
+    {
+      "name": "Bøverstranda",
+      "latitude": 59.449317,
+      "longitude": 9.076493
+    },
+    {
+      "name": "Dale ungdomsskule symjebasseng",
+      "latitude": 60.591391,
+      "longitude": 5.818127
+    },
+    {
+      "name": "Domus Athletica svømmehall",
+      "latitude": 59.946092,
+      "longitude": 10.724035
+    },
+    {
+      "name": "Dønningen",
+      "latitude": 58.18826,
+      "longitude": 8.143365
+    },
+    {
+      "name": "Eidfjord kommune terapibasseng",
+      "latitude": 60.467605,
+      "longitude": 7.070465
+    },
+    {
+      "name": "Eikelund komp. senter basseng",
+      "latitude": 60.33553,
+      "longitude": 5.353725
+    },
+    {
+      "name": "Eknes svømmehall",
+      "latitude": 59.759021,
+      "longitude": 10.007845
+    },
+    {
+      "name": "Enge skule svømmebasseng",
+      "latitude": 59.666824,
+      "longitude": 5.941657
+    },
+    {
+      "name": "Fedje skule svømmebasseng",
+      "latitude": 60.777919,
+      "longitude": 4.721497
+    },
+    {
+      "name": "Fiskespretten",
+      "latitude": 58.188328,
+      "longitude": 8.142823
+    },
+    {
+      "name": "Fjell ungdomsskule - Svømmebasseng",
+      "latitude": 60.351845,
+      "longitude": 5.110546
+    },
+    {
+      "name": "Flow Rider",
+      "latitude": 59.448891,
+      "longitude": 9.076469
+    },
+    {
+      "name": "Folldal Flerbrukshus svømmehall",
+      "latitude": 62.132605,
+      "longitude": 9.98547
+    },
+    {
+      "name": "Framnes kristne videregåande skule, symjehall",
+      "latitude": 60.349734,
+      "longitude": 6.18454
+    },
+    {
+      "name": "Framo aktiv - svømmehall",
+      "latitude": 60.200769,
+      "longitude": 5.606883
+    },
+    {
+      "name": "Frøya Svømmehall",
+      "latitude": 63.730143,
+      "longitude": 8.827514
+    },
+    {
+      "name": "Fusa symjehall",
+      "latitude": 60.247032,
+      "longitude": 5.740512
+    },
+    {
+      "name": "Garnes ungdomsskole svømmebasseng",
+      "latitude": 60.441113,
+      "longitude": 5.461128
+    },
+    {
+      "name": "Gaustadhallen offentlig bad",
+      "latitude": 59.26623,
+      "longitude": 10.772241
+    },
+    {
+      "name": "Granvin barne- og ungdomsskule svømmebasseng",
+      "latitude": 60.527703,
+      "longitude": 6.722725
+    },
+    {
+      "name": "Grotta",
+      "latitude": 58.188787,
+      "longitude": 8.143266
+    },
+    {
+      "name": "Grottebadet",
+      "latitude": 68.800648,
+      "longitude": 16.540143
+    },
+    {
+      "name": "Haakonsvern basseng",
+      "latitude": 60.337395,
+      "longitude": 5.220119
+    },
+    {
+      "name": "Hagahaugen svømmebasseng",
+      "latitude": 60.638715,
+      "longitude": 6.422841
+    },
+    {
+      "name": "Halfpipe",
+      "latitude": 59.449727,
+      "longitude": 9.072627
+    },
+    {
+      "name": "Hatlestrand symjehall",
+      "latitude": 60.058007,
+      "longitude": 5.916946
+    },
+    {
+      "name": "Haukeliseter fjellstue",
+      "latitude": 59.823551,
+      "longitude": 7.192996
+    },
+    {
+      "name": "Hauso skule symjebasseng",
+      "latitude": 60.37466,
+      "longitude": 6.642044
+    },
+    {
+      "name": "Havstein helse- og velferdssenter",
+      "latitude": 63.403862,
+      "longitude": 10.363258
+    },
+    {
+      "name": "Horten Svømmehall",
+      "latitude": 59.414184,
+      "longitude": 10.478141
+    },
+    {
+      "name": "Hovdetjernet",
+      "latitude": 60.797814,
+      "longitude": 10.674942
+    },
+    {
+      "name": "Hove strand",
+      "latitude": 58.435764,
+      "longitude": 8.826007
+    },
+    {
+      "name": "Hunstad skole basseng",
+      "latitude": 60.376187,
+      "longitude": 5.347854
+    },
+    {
+      "name": "Husebybadet",
+      "latitude": 63.365622,
+      "longitude": 10.350876
+    },
+    {
+      "name": "Husnestunet bu- og rehabiliteringssenter, varmtvassbasseng",
+      "latitude": 59.854709,
+      "longitude": 5.744341
+    },
+    {
+      "name": "Idrettens Hus",
+      "latitude": 68.44189,
+      "longitude": 17.418878
+    },
+    {
+      "name": "Inky",
+      "latitude": 58.188613,
+      "longitude": 8.142681
+    },
+    {
+      "name": "Inky-dammen",
+      "latitude": 58.18856,
+      "longitude": 8.143277
+    },
+    {
+      "name": "Jondal skule symjebassseng",
+      "latitude": 60.279012,
+      "longitude": 6.253214
+    },
+    {
+      "name": "Kaland skule, basseng",
+      "latitude": 60.801352,
+      "longitude": 5.000006
+    },
+    {
+      "name": "Kalveputten",
+      "latitude": 59.651837,
+      "longitude": 10.067593
+    },
+    {
+      "name": "Kinsarvik skule - symjebasseng",
+      "latitude": 60.373697,
+      "longitude": 6.719024
+    },
+    {
+      "name": "Kjenn folkebad",
+      "latitude": 59.930572,
+      "longitude": 10.957984
+    },
+    {
+      "name": "Korallrevet",
+      "latitude": 58.188054,
+      "longitude": 8.143519
+    },
+    {
+      "name": "Kragerø svømmehall",
+      "latitude": 58.867818,
+      "longitude": 9.408546
+    },
+    {
+      "name": "Krokeide yrkesskole basseng",
+      "latitude": 60.222314,
+      "longitude": 5.287891
+    },
+    {
+      "name": "Lagunen",
+      "latitude": 58.188153,
+      "longitude": 8.143436
+    },
+    {
+      "name": "Lambertseter bad",
+      "latitude": 59.870914,
+      "longitude": 10.815593
+    },
+    {
+      "name": "Landåshallen svømmebasseng",
+      "latitude": 60.363588,
+      "longitude": 5.369315
+    },
+    {
+      "name": "Loddefjord skole basseng",
+      "latitude": 60.363178,
+      "longitude": 5.231854
+    },
+    {
+      "name": "Lyderhorn skole basseng",
+      "latitude": 60.373789,
+      "longitude": 5.231045
+    },
+    {
+      "name": "Lægreid skule symjebasseng",
+      "latitude": 60.463449,
+      "longitude": 7.073843
+    },
+    {
+      "name": "Løvås skole basseng",
+      "latitude": 60.353546,
+      "longitude": 5.291934
+    },
+    {
+      "name": "Matre skule symjebasseng",
+      "latitude": 60.872997,
+      "longitude": 5.582063
+    },
+    {
+      "name": "Mausund svømmehall",
+      "latitude": 63.864812,
+      "longitude": 8.658023
+    },
+    {
+      "name": "Meløy fritidsbad",
+      "latitude": 66.815674,
+      "longitude": 13.929112
+    },
+    {
+      "name": "Mini-surfer'n",
+      "latitude": 59.449228,
+      "longitude": 9.073428
+    },
+    {
+      "name": "Modalen allaktivitetshus - basseng",
+      "latitude": 60.813551,
+      "longitude": 5.802868
+    },
+    {
+      "name": "Moster skule - symjebasseng",
+      "latitude": 59.699746,
+      "longitude": 5.361334
+    },
+    {
+      "name": "Myklebust sjøbad",
+      "latitude": 58.947281,
+      "longitude": 5.57019
+    },
+    {
+      "name": "Nadderudhallen",
+      "latitude": 59.921744,
+      "longitude": 10.583912
+    },
+    {
+      "name": "Nordhordland folkehøgskule svømmebasseng",
+      "latitude": 60.514473,
+      "longitude": 5.239299
+    },
+    {
+      "name": "Nordlandsbadet",
+      "latitude": 67.277599,
+      "longitude": 14.413657
+    },
+    {
+      "name": "Nordlysbadet",
+      "latitude": 69.965211,
+      "longitude": 23.269317
+    },
+    {
+      "name": "Nordnes Sjøbad",
+      "latitude": 60.398952,
+      "longitude": 5.302538
+    },
+    {
+      "name": "Nordåstunet basseng",
+      "latitude": 60.308417,
+      "longitude": 5.321536
+    },
+    {
+      "name": "Norheimsund skule symjehall",
+      "latitude": 60.370843,
+      "longitude": 6.142694
+    },
+    {
+      "name": "Ny-Krohnborg skole svømmebasseng",
+      "latitude": 60.375206,
+      "longitude": 5.333164
+    },
+    {
+      "name": "Nysæter ungdomsskule, symjebasseng",
+      "latitude": 59.784109,
+      "longitude": 5.398678
+    },
+    {
+      "name": "Oasen",
+      "latitude": 69.998973,
+      "longitude": 24.991226
+    },
+    {
+      "name": "Odda folkebad",
+      "latitude": 60.065729,
+      "longitude": 6.546111
+    },
+    {
+      "name": "Ostereidet skule symjebasseng",
+      "latitude": 60.629492,
+      "longitude": 5.482825
+    },
+    {
+      "name": "Osterøy ungdomsskule symjeanlegg",
+      "latitude": 60.522815,
+      "longitude": 5.509421
+    },
+    {
+      "name": "Overfloden",
+      "latitude": 58.18849,
+      "longitude": 8.142932
+    },
+    {
+      "name": "Plaskedammen",
+      "latitude": 58.188223,
+      "longitude": 8.143588
+    },
+    {
+      "name": "Polarbadet",
+      "latitude": 69.054252,
+      "longitude": 18.486077
+    },
+    {
+      "name": "Pool & Wellbeing—Wood Hotel Bodø",
+      "latitude": 67.30025,
+      "longitude": 14.439885
+    },
+    {
+      "name": "Radøyhallen - svømmebasseng",
+      "latitude": 60.637408,
+      "longitude": 5.044767
+    },
+    {
+      "name": "Rimbareid skule - symjebasseng",
+      "latitude": 59.914949,
+      "longitude": 5.31994
+    },
+    {
+      "name": "Risør fritidssenter",
+      "latitude": 58.756988,
+      "longitude": 9.265415
+    },
+    {
+      "name": "Rolland skole svømmebasseng",
+      "latitude": 60.462671,
+      "longitude": 5.33305
+    },
+    {
+      "name": "Rosendal ungdomsskule - Rosendal symjehall",
+      "latitude": 59.983641,
+      "longitude": 6.009698
+    },
+    {
+      "name": "Rossland skule svømmebasseng",
+      "latitude": 60.560874,
+      "longitude": 5.054653
+    },
+    {
+      "name": "Rubbestadneset skule - symjebasseng",
+      "latitude": 59.813873,
+      "longitude": 5.258555
+    },
+    {
+      "name": "Rå skole basseng",
+      "latitude": 60.297264,
+      "longitude": 5.324573
+    },
+    {
+      "name": "Røldal svømmebasseng",
+      "latitude": 59.831885,
+      "longitude": 6.813896
+    },
+    {
+      "name": "Røykenbadet",
+      "latitude": 59.741862,
+      "longitude": 10.390754
+    },
+    {
+      "name": "Samnanger ungdomsskule - symjehall",
+      "latitude": 60.374113,
+      "longitude": 5.757888
+    },
+    {
+      "name": "Sandgotna skole basseng",
+      "latitude": 60.362329,
+      "longitude": 5.229612
+    },
+    {
+      "name": "Sentrifuga",
+      "latitude": 59.449353,
+      "longitude": 9.072272
+    },
+    {
+      "name": "Skare barneskule svømmebasseng",
+      "latitude": 59.9312,
+      "longitude": 6.596621
+    },
+    {
+      "name": "Slåtthaug idrettsanlegg svømmebasseng",
+      "latitude": 60.308772,
+      "longitude": 5.359423
+    },
+    {
+      "name": "Solstrand fjord hotell-symjebasseng",
+      "latitude": 60.189451,
+      "longitude": 5.488271
+    },
+    {
+      "name": "Solvik Syn- og Mestringssenter Terapibad",
+      "latitude": 60.498837,
+      "longitude": 5.182638
+    },
+    {
+      "name": "Stampen",
+      "latitude": 58.188143,
+      "longitude": 8.143618
+    },
+    {
+      "name": "Stemmemyren idrettsanlegg svømmebasseng",
+      "latitude": 60.426881,
+      "longitude": 5.306211
+    },
+    {
+      "name": "Stolmen skule symjebasseng",
+      "latitude": 59.994117,
+      "longitude": 5.088182
+    },
+    {
+      "name": "Stord bu- og rehab. svømmehall",
+      "latitude": 59.782442,
+      "longitude": 5.496932
+    },
+    {
+      "name": "Stord svømmehall",
+      "latitude": 59.778656,
+      "longitude": 5.497593
+    },
+    {
+      "name": "Storetveit skole svømmebasseng",
+      "latitude": 60.346263,
+      "longitude": 5.346176
+    },
+    {
+      "name": "Stranda skule, svømmebasseng",
+      "latitude": 60.197312,
+      "longitude": 5.102566
+    },
+    {
+      "name": "Strandebarm skule symjehall",
+      "latitude": 60.261631,
+      "longitude": 6.008843
+    },
+    {
+      "name": "Strandebarm symjehall",
+      "latitude": 60.256002,
+      "longitude": 6.014456
+    },
+    {
+      "name": "Straume terapisenter - Terapibasseng",
+      "latitude": 60.364112,
+      "longitude": 5.11803
+    },
+    {
+      "name": "Stryn symjehall",
+      "latitude": 61.904862,
+      "longitude": 6.718435
+    },
+    {
+      "name": "Strømvik sjøbad",
+      "latitude": 58.952028,
+      "longitude": 5.752563
+    },
+    {
+      "name": "Stupetårnet",
+      "latitude": 58.187883,
+      "longitude": 8.145923
+    },
+    {
+      "name": "Suldal Bad",
+      "latitude": 59.493923,
+      "longitude": 6.252858
+    },
+    {
+      "name": "Super-Surfere'n",
+      "latitude": 59.449146,
+      "longitude": 9.073452
+    },
+    {
+      "name": "Sveio skule, symjebasseng",
+      "latitude": 59.544294,
+      "longitude": 5.358372
+    },
+    {
+      "name": "Svømmebasseng",
+      "latitude": 59.088255,
+      "longitude": 10.096648
+    },
+    {
+      "name": "Svømmehall",
+      "latitude": 59.294969,
+      "longitude": 10.41599
+    },
+    {
+      "name": "Svømmehall",
+      "latitude": 63.426178,
+      "longitude": 10.488167
+    },
+    {
+      "name": "Svømmehall",
+      "latitude": 66.502307,
+      "longitude": 12.094082
+    },
+    {
+      "name": "Svømmehallen",
+      "latitude": 59.671551,
+      "longitude": 9.642184
+    },
+    {
+      "name": "Svømmehallen",
+      "latitude": 63.473533,
+      "longitude": 10.930502
+    },
+    {
+      "name": "Swimming pool for dogs",
+      "latitude": 68.427276,
+      "longitude": 17.431268
+    },
+    {
+      "name": "Symjehallen i Førdehuset",
+      "latitude": 61.453274,
+      "longitude": 5.866473
+    },
+    {
+      "name": "Sør-Aurdal Folkebad",
+      "latitude": 60.823919,
+      "longitude": 9.550617
+    },
+    {
+      "name": "Tjuvholmen Sjøbad",
+      "latitude": 59.906208,
+      "longitude": 10.719703
+    },
+    {
+      "name": "Tolga svømmehall og gymbygg",
+      "latitude": 62.410804,
+      "longitude": 10.997066
+    },
+    {
+      "name": "Toso skole - Svømmehall",
+      "latitude": 60.237958,
+      "longitude": 10.424862
+    },
+    {
+      "name": "Totenbadet",
+      "latitude": 60.721423,
+      "longitude": 10.592302
+    },
+    {
+      "name": "Trolandshamar barne- og u.sko.",
+      "latitude": 60.111609,
+      "longitude": 5.152238
+    },
+    {
+      "name": "Tropefryd",
+      "latitude": 60.377376,
+      "longitude": 6.726477
+    },
+    {
+      "name": "Tysnes skule svømmebasseng",
+      "latitude": 60.040683,
+      "longitude": 5.538178
+    },
+    {
+      "name": "Tyssedal barneskole svømmebasseng",
+      "latitude": 60.117873,
+      "longitude": 6.558937
+    },
+    {
+      "name": "Tyssedal friluftsbad",
+      "latitude": 60.117037,
+      "longitude": 6.568391
+    },
+    {
+      "name": "Ulveset skule - Svømmebasseng",
+      "latitude": 60.327585,
+      "longitude": 5.036722
+    },
+    {
+      "name": "Undarheim skule, Husnes symjebasseng",
+      "latitude": 59.852508,
+      "longitude": 5.744665
+    },
+    {
+      "name": "Ungdomsherberget Svømmebasseng",
+      "latitude": 60.702735,
+      "longitude": 6.937101
+    },
+    {
+      "name": "Vannkanten",
+      "latitude": 60.362236,
+      "longitude": 5.235751
+    },
+    {
+      "name": "Vestlandsheimen basseng",
+      "latitude": 60.497325,
+      "longitude": 5.382589
+    },
+    {
+      "name": "Vormedal Svømmehall",
+      "latitude": 59.358258,
+      "longitude": 5.324585
+    },
+    {
+      "name": "Ytrebygda skole svømmebasseng",
+      "latitude": 60.286961,
+      "longitude": 5.270381
+    },
+    {
+      "name": "Ågotnes skule - Svømmebasseng",
+      "latitude": 60.407323,
+      "longitude": 4.996158
+    },
+    {
+      "name": "Ålgård svømmehall",
+      "latitude": 58.767862,
+      "longitude": 5.868743
+    },
+    {
+      "name": "Ålvik skule symjebasseng",
+      "latitude": 60.43346,
+      "longitude": 6.435602
+    },
+    {
+      "name": "Åstveit svømmehall",
+      "latitude": 60.455269,
+      "longitude": 5.311428
+    },
+    {
+      "name": "Østfoldbadet Utebasseng",
+      "latitude": 59.583795,
+      "longitude": 11.168991
+    },
+    {
+      "name": "Øyatun skule, symjehall",
+      "latitude": 59.793305,
+      "longitude": 5.704491
+    },
+    {
+      "name": "Øygarden kulturhus - Rong svømmebasseng",
+      "latitude": 60.5163,
+      "longitude": 4.903637
+    },
+    {
+      "name": "Øystese barneskule symjebasseng",
+      "latitude": 60.388115,
+      "longitude": 6.200053
+    }
+  ],
+  "meta": {
+    "title": "Swimming pools in Norway - Gratis nedlasting",
+    "description": "Swimming pools in Norway (Svommebasseng i Norge), derived from OpenStreetMap POIs tagged leisure=swimming_pool. Named features only, clipped to mainland Norway. Inneholder 167 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Swimming pools in Norway | ListBase",
+    "seo_description": "Last ned Swimming pools in Norway — 167 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 167 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

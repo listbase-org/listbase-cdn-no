@@ -1,0 +1,1816 @@
+{
+  "id": "no-bergen-postnummer",
+  "name": "Postnummer i Bergen",
+  "title": "Postnummer i Bergen",
+  "description": "Alle 220 postnummer i Bergen kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 220,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "5003",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5004",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5005",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5006",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5007",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5008",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5009",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5010",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5011",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5012",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5013",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5014",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5015",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5016",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5017",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5018",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5019",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5020",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5021",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5022",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5031",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5032",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5033",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5034",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5035",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5036",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5037",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5038",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5039",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5041",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5042",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5043",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5045",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5052",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5053",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5054",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5055",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5056",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5057",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5058",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5059",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5063",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5067",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5068",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5072",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5073",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5075",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5081",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5082",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5089",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5093",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5094",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5096",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5097",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5098",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5099",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5101",
+      "poststed": "Eidsvågneset",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5104",
+      "poststed": "Eidsvåg i Åsane",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5105",
+      "poststed": "Eidsvåg i Åsane",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5106",
+      "poststed": "Øvre Ervik",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5107",
+      "poststed": "Salhus",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5108",
+      "poststed": "Hordvik",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5109",
+      "poststed": "Hylkje",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5111",
+      "poststed": "Breistein",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5113",
+      "poststed": "Tertnes",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5114",
+      "poststed": "Tertnes",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5115",
+      "poststed": "Ulset",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5116",
+      "poststed": "Ulset",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5117",
+      "poststed": "Ulset",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5118",
+      "poststed": "Ulset",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5119",
+      "poststed": "Ulset",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5121",
+      "poststed": "Ulset",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5122",
+      "poststed": "Morvik",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5124",
+      "poststed": "Morvik",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5130",
+      "poststed": "Nyborg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5131",
+      "poststed": "Nyborg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5132",
+      "poststed": "Nyborg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5134",
+      "poststed": "Flaktveit",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5135",
+      "poststed": "Flaktveit",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5136",
+      "poststed": "Mjølkeråen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5137",
+      "poststed": "Mjølkeråen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5141",
+      "poststed": "Fyllingsdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5142",
+      "poststed": "Fyllingsdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5143",
+      "poststed": "Fyllingsdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5144",
+      "poststed": "Fyllingsdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5145",
+      "poststed": "Fyllingsdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5146",
+      "poststed": "Fyllingsdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5147",
+      "poststed": "Fyllingsdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5148",
+      "poststed": "Fyllingsdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5151",
+      "poststed": "Straumsgrend",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5152",
+      "poststed": "Bønes",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5153",
+      "poststed": "Bønes",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5154",
+      "poststed": "Bønes",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5155",
+      "poststed": "Bønes",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5160",
+      "poststed": "Laksevåg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5161",
+      "poststed": "Laksevåg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5162",
+      "poststed": "Laksevåg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5163",
+      "poststed": "Laksevåg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5164",
+      "poststed": "Laksevåg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5165",
+      "poststed": "Laksevåg",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5170",
+      "poststed": "Bjørndalstræ",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5171",
+      "poststed": "Loddefjord",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5172",
+      "poststed": "Loddefjord",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5173",
+      "poststed": "Loddefjord",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5174",
+      "poststed": "Mathopen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5176",
+      "poststed": "Loddefjord",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5178",
+      "poststed": "Loddefjord",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5179",
+      "poststed": "Godvik",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5183",
+      "poststed": "Olsvik",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5184",
+      "poststed": "Olsvik",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5221",
+      "poststed": "Nesttun",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5222",
+      "poststed": "Nesttun",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5223",
+      "poststed": "Nesttun",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5224",
+      "poststed": "Nesttun",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5225",
+      "poststed": "Nesttun",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5226",
+      "poststed": "Nesttun",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5227",
+      "poststed": "Nesttun",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5228",
+      "poststed": "Nesttun",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5229",
+      "poststed": "Kalandseidet",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5230",
+      "poststed": "Paradis",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5231",
+      "poststed": "Paradis",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5232",
+      "poststed": "Paradis",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5235",
+      "poststed": "Rådal",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5236",
+      "poststed": "Rådal",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5237",
+      "poststed": "Rådal",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5238",
+      "poststed": "Rådal",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5239",
+      "poststed": "Rådal",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5243",
+      "poststed": "Fana",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5244",
+      "poststed": "Fana",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5251",
+      "poststed": "Søreidgrend",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5252",
+      "poststed": "Søreidgrend",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5253",
+      "poststed": "Sandsli",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5254",
+      "poststed": "Sandsli",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5257",
+      "poststed": "Kokstad",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5258",
+      "poststed": "Blomsterdalen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5259",
+      "poststed": "Hjellestad",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5260",
+      "poststed": "Indre Arna",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5261",
+      "poststed": "Indre Arna",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5262",
+      "poststed": "Arnatveit",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5263",
+      "poststed": "Trengereid",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5264",
+      "poststed": "Garnes",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5265",
+      "poststed": "Ytre Arna",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5267",
+      "poststed": "Espeland",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5268",
+      "poststed": "Haukeland",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5802",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5803",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5804",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5805",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5806",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5807",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5808",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5809",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5810",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5811",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5812",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5813",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5814",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5815",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5816",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5817",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5818",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5819",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5820",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5821",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5822",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5823",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5824",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5825",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5826",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5827",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5829",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5830",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5831",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5832",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5833",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5834",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5835",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5836",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5837",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5838",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5841",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5843",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5844",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5845",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5847",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5848",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5849",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5851",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5852",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5853",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5854",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5855",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5857",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5858",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5859",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5861",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5862",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5863",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5864",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5865",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5866",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5867",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5868",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5872",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5873",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5876",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5877",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5878",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5879",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5881",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5884",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5886",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5887",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5888",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5889",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5892",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5893",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5895",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5896",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    },
+    {
+      "postnummer": "5899",
+      "poststed": "Bergen",
+      "kommune_id": "4601",
+      "kommune": "Bergen",
+      "fylke_id": "46",
+      "fylke": "Vestland"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Bergen - Gratis nedlasting",
+    "description": "Alle 220 postnummer i Bergen kommune med poststed. Inneholder 220 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Bergen | ListBase",
+    "seo_description": "Last ned Postnummer i Bergen — 220 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 220 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

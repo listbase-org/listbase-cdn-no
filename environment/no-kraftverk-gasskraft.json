@@ -1,0 +1,205 @@
+{
+  "id": "no-kraftverk-gasskraft",
+  "name": "Gasskraftverk i Norge",
+  "title": "Gasskraftverk i Norge",
+  "description": "Gasskraftverk i Norge (4 anlegg) fra powerplantmatching (PyPSA): navn, teknologi, installert effekt (MW), driftsstart og koordinater. Delmengde av no-kraftverk filtrert på fueltype == \"Natural Gas\".",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "number"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "number"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "string"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 5035,
+      "name": "Melkoya",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 230,
+      "efficiency": "",
+      "date_in": 2007,
+      "date_retrofit": 2007,
+      "date_out": "",
+      "lat": 70.6893659,
+      "lon": 23.600448,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "50WP00000000456T",
+      "project_ids": "ENTSOE: 50WP00000000456T; OPSD: OEU-4796"
+    },
+    {
+      "id": 5055,
+      "name": "Nyhamna Reserve",
+      "fueltype": "Natural Gas",
+      "technology": "Steam Turbine",
+      "set": "PP",
+      "country": "Norway",
+      "capacity_mw": 180,
+      "efficiency": "",
+      "date_in": 2008,
+      "date_retrofit": 2008,
+      "date_out": 2020,
+      "lat": 62.846224,
+      "lon": 6.939324,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000407317, G100000407318, G100000407319; OPSD: OEU-4799"
+    },
+    {
+      "id": 5056,
+      "name": "Mongstad",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "CHP",
+      "country": "Norway",
+      "capacity_mw": 294,
+      "efficiency": "",
+      "date_in": 2010,
+      "date_retrofit": 2010,
+      "date_out": "",
+      "lat": 60.808615,
+      "lon": 5.037212,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000407321; OPSD: OEU-4797"
+    },
+    {
+      "id": 15213,
+      "name": "Hammerfest Snohvit Terminal",
+      "fueltype": "Natural Gas",
+      "technology": "CCGT",
+      "set": "",
+      "country": "Norway",
+      "capacity_mw": 229,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 70.6854,
+      "lon": 23.59,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": "",
+      "eic": "",
+      "project_ids": "GEM: G100000410482"
+    }
+  ],
+  "meta": {
+    "title": "Gasskraftverk i Norge - Gratis nedlasting",
+    "description": "Gasskraftverk i Norge (4 anlegg) fra powerplantmatching (PyPSA): navn, teknologi, installert effekt (MW), driftsstart og koordinater. Delmengde av no-kraftverk filtrert på fueltype == \"Natural Gas\". Inneholder 4 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Gasskraftverk i Norge | ListBase",
+    "seo_description": "Last ned Gasskraftverk i Norge — 4 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 4 poster / 19 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

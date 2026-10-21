@@ -1,0 +1,2756 @@
+{
+  "id": "no-treningssentre",
+  "name": "Fitness centres in Norway",
+  "title": "Fitness centres in Norway",
+  "description": "Fitness centres in Norway (Treningssentre i Norge), derived from OpenStreetMap POIs tagged leisure=fitness_centre. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 543,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3T Byåsen",
+      "latitude": 63.394558,
+      "longitude": 10.36562
+    },
+    {
+      "name": "3T Ilsvika",
+      "latitude": 63.431323,
+      "longitude": 10.357264
+    },
+    {
+      "name": "3T Lade",
+      "latitude": 63.443037,
+      "longitude": 10.450606
+    },
+    {
+      "name": "3T Midtbyen",
+      "latitude": 63.431709,
+      "longitude": 10.402142
+    },
+    {
+      "name": "3T Moholt",
+      "latitude": 63.410387,
+      "longitude": 10.445081
+    },
+    {
+      "name": "3T Saupstad",
+      "latitude": 63.366417,
+      "longitude": 10.348902
+    },
+    {
+      "name": "3T Sluppen",
+      "latitude": 63.394522,
+      "longitude": 10.395403
+    },
+    {
+      "name": "3T Solsiden",
+      "latitude": 63.436429,
+      "longitude": 10.416505
+    },
+    {
+      "name": "3T-Leangen",
+      "latitude": 63.4358,
+      "longitude": 10.464929
+    },
+    {
+      "name": "3T-Solsiden",
+      "latitude": 63.436602,
+      "longitude": 10.415955
+    },
+    {
+      "name": "3T-Steinkjer",
+      "latitude": 64.011975,
+      "longitude": 11.498292
+    },
+    {
+      "name": "6 pack",
+      "latitude": 65.082466,
+      "longitude": 12.363642
+    },
+    {
+      "name": "Actic Alta",
+      "latitude": 69.965283,
+      "longitude": 23.269744
+    },
+    {
+      "name": "Actic Bergen",
+      "latitude": 60.391395,
+      "longitude": 5.322406
+    },
+    {
+      "name": "Actic Hamar",
+      "latitude": 60.791437,
+      "longitude": 11.073639
+    },
+    {
+      "name": "Actic Kronstad",
+      "latitude": 69.964984,
+      "longitude": 23.387387
+    },
+    {
+      "name": "Actic Moss",
+      "latitude": 59.417974,
+      "longitude": 10.677948
+    },
+    {
+      "name": "Adrenalin Drammen",
+      "latitude": 59.74057,
+      "longitude": 10.176434
+    },
+    {
+      "name": "Aktiv 365 Xpress Os",
+      "latitude": 60.185393,
+      "longitude": 5.471398
+    },
+    {
+      "name": "Aktiv trening Gym Molde",
+      "latitude": 62.736865,
+      "longitude": 7.16259
+    },
+    {
+      "name": "Aktiv treningssenter",
+      "latitude": 62.504977,
+      "longitude": 6.692723
+    },
+    {
+      "name": "Aktiv365 Kråkenes",
+      "latitude": 60.338962,
+      "longitude": 5.320642
+    },
+    {
+      "name": "Aktiv365 Paradis",
+      "latitude": 60.332094,
+      "longitude": 5.348759
+    },
+    {
+      "name": "Aktiv365 Sandsli",
+      "latitude": 60.292689,
+      "longitude": 5.283967
+    },
+    {
+      "name": "Aktiviteten Treningssenter",
+      "latitude": 62.57375,
+      "longitude": 11.378453
+    },
+    {
+      "name": "Aktiviteten Treningssentner Verket",
+      "latitude": 62.576491,
+      "longitude": 11.369718
+    },
+    {
+      "name": "Alvdal Friskliv",
+      "latitude": 62.103285,
+      "longitude": 10.644925
+    },
+    {
+      "name": "AMFI Treningssenter Eina",
+      "latitude": 60.628815,
+      "longitude": 10.598459
+    },
+    {
+      "name": "Arena Trening",
+      "latitude": 59.963784,
+      "longitude": 11.047814
+    },
+    {
+      "name": "Arena Treningssenter",
+      "latitude": 58.914285,
+      "longitude": 5.729225
+    },
+    {
+      "name": "Askim Treningssenter",
+      "latitude": 59.581441,
+      "longitude": 11.144543
+    },
+    {
+      "name": "Astou yoga",
+      "latitude": 59.269976,
+      "longitude": 10.40748
+    },
+    {
+      "name": "Athletica Nydalen",
+      "latitude": 59.948616,
+      "longitude": 10.769321
+    },
+    {
+      "name": "Atleta",
+      "latitude": 62.973891,
+      "longitude": 8.724585
+    },
+    {
+      "name": "Avancia",
+      "latitude": 59.965623,
+      "longitude": 10.772565
+    },
+    {
+      "name": "Avancia Skedsmokorset",
+      "latitude": 60.006805,
+      "longitude": 11.04788
+    },
+    {
+      "name": "Bailine Figurtrening",
+      "latitude": 60.393395,
+      "longitude": 5.319205
+    },
+    {
+      "name": "Bailine Straume",
+      "latitude": 60.357819,
+      "longitude": 5.125564
+    },
+    {
+      "name": "Balanz Sola",
+      "latitude": 58.87914,
+      "longitude": 5.668747
+    },
+    {
+      "name": "Bare Trening Haugerud",
+      "latitude": 59.92226,
+      "longitude": 10.856689
+    },
+    {
+      "name": "Barents Gym",
+      "latitude": 70.687182,
+      "longitude": 23.681898
+    },
+    {
+      "name": "Barry's",
+      "latitude": 59.907874,
+      "longitude": 10.76232
+    },
+    {
+      "name": "Barry's",
+      "latitude": 59.92061,
+      "longitude": 10.726734
+    },
+    {
+      "name": "Barry's",
+      "latitude": 60.388931,
+      "longitude": 5.334303
+    },
+    {
+      "name": "Basic treningssenter og fysioterapi",
+      "latitude": 59.942234,
+      "longitude": 10.649683
+    },
+    {
+      "name": "Bergen Kampsportsenter",
+      "latitude": 60.383655,
+      "longitude": 5.310688
+    },
+    {
+      "name": "Bergen klatresenter Laksevåg",
+      "latitude": 60.391971,
+      "longitude": 5.282697
+    },
+    {
+      "name": "Bergen Sparta Treningssenter",
+      "latitude": 60.397642,
+      "longitude": 5.331402
+    },
+    {
+      "name": "Bislet Bad & Trening",
+      "latitude": 59.924882,
+      "longitude": 10.731446
+    },
+    {
+      "name": "Body Fit Training",
+      "latitude": 59.928105,
+      "longitude": 10.709317
+    },
+    {
+      "name": "Care Treningssenter",
+      "latitude": 64.01147,
+      "longitude": 11.490042
+    },
+    {
+      "name": "Centrum Athletica",
+      "latitude": 59.918695,
+      "longitude": 10.733585
+    },
+    {
+      "name": "Centrum Sol & Helsestudio",
+      "latitude": 59.212807,
+      "longitude": 10.945625
+    },
+    {
+      "name": "City Gym",
+      "latitude": 58.849573,
+      "longitude": 5.741563
+    },
+    {
+      "name": "Core Balance",
+      "latitude": 59.926821,
+      "longitude": 10.716475
+    },
+    {
+      "name": "Crossfit kystby",
+      "latitude": 60.358667,
+      "longitude": 5.127787
+    },
+    {
+      "name": "CrossFit Løren",
+      "latitude": 59.925229,
+      "longitude": 10.795992
+    },
+    {
+      "name": "Crossfit Moholt",
+      "latitude": 63.410673,
+      "longitude": 10.446028
+    },
+    {
+      "name": "CrossFit Moss",
+      "latitude": 59.41798,
+      "longitude": 10.677142
+    },
+    {
+      "name": "CrossFit Narvik",
+      "latitude": 68.446367,
+      "longitude": 17.449901
+    },
+    {
+      "name": "CrossFit Åsane",
+      "latitude": 60.465056,
+      "longitude": 5.345295
+    },
+    {
+      "name": "Delta Iform",
+      "latitude": 69.47248,
+      "longitude": 25.514287
+    },
+    {
+      "name": "Ditt treningssenter",
+      "latitude": 59.436852,
+      "longitude": 10.660475
+    },
+    {
+      "name": "e2 Trening",
+      "latitude": 59.119275,
+      "longitude": 10.229609
+    },
+    {
+      "name": "Easyfit",
+      "latitude": 62.739244,
+      "longitude": 7.17559
+    },
+    {
+      "name": "EchoTrening",
+      "latitude": 60.058307,
+      "longitude": 10.865052
+    },
+    {
+      "name": "Eidskog aktiv",
+      "latitude": 59.978229,
+      "longitude": 12.14596
+    },
+    {
+      "name": "Elnesvågen Treningssenter",
+      "latitude": 62.85384,
+      "longitude": 7.1611
+    },
+    {
+      "name": "Energy Gym Ørnes",
+      "latitude": 66.872872,
+      "longitude": 13.70766
+    },
+    {
+      "name": "Engelsviken Treningssenter",
+      "latitude": 59.251492,
+      "longitude": 10.735328
+    },
+    {
+      "name": "Evo",
+      "latitude": 59.945834,
+      "longitude": 10.810736
+    },
+    {
+      "name": "Evo",
+      "latitude": 60.318945,
+      "longitude": 5.353787
+    },
+    {
+      "name": "Evo",
+      "latitude": 69.653575,
+      "longitude": 18.962354
+    },
+    {
+      "name": "EVO Adamstuen",
+      "latitude": 59.93161,
+      "longitude": 10.736247
+    },
+    {
+      "name": "EVO Asker",
+      "latitude": 59.833331,
+      "longitude": 10.442508
+    },
+    {
+      "name": "EVO Bjergsted",
+      "latitude": 58.979781,
+      "longitude": 5.714545
+    },
+    {
+      "name": "EVO Bryn",
+      "latitude": 59.903301,
+      "longitude": 10.822162
+    },
+    {
+      "name": "EVO Bryne",
+      "latitude": 58.734823,
+      "longitude": 5.653135
+    },
+    {
+      "name": "EVO CC Drammen",
+      "latitude": 59.741066,
+      "longitude": 10.222833
+    },
+    {
+      "name": "EVO Damsgårdssundet",
+      "latitude": 60.380721,
+      "longitude": 5.320832
+    },
+    {
+      "name": "EVO Drammen",
+      "latitude": 59.743383,
+      "longitude": 10.208953
+    },
+    {
+      "name": "EVO Drøbak",
+      "latitude": 59.674036,
+      "longitude": 10.655876
+    },
+    {
+      "name": "EVO Egersund",
+      "latitude": 58.46219,
+      "longitude": 6.006787
+    },
+    {
+      "name": "EVO Fagerholt",
+      "latitude": 58.177298,
+      "longitude": 8.042262
+    },
+    {
+      "name": "EVO Forus",
+      "latitude": 58.895443,
+      "longitude": 5.704235
+    },
+    {
+      "name": "EVO Fredrikstad",
+      "latitude": 59.214369,
+      "longitude": 10.933154
+    },
+    {
+      "name": "EVO Frysja",
+      "latitude": 59.965842,
+      "longitude": 10.771385
+    },
+    {
+      "name": "EVO Gjøvik",
+      "latitude": 60.797638,
+      "longitude": 10.691634
+    },
+    {
+      "name": "EVO Godvik",
+      "latitude": 60.375703,
+      "longitude": 5.208491
+    },
+    {
+      "name": "EVO Gran",
+      "latitude": 60.35578,
+      "longitude": 10.572038
+    },
+    {
+      "name": "EVO Greåker",
+      "latitude": 59.267872,
+      "longitude": 11.032004
+    },
+    {
+      "name": "EVO Grünerløkka",
+      "latitude": 59.91971,
+      "longitude": 10.759543
+    },
+    {
+      "name": "EVO Haugesund",
+      "latitude": 59.405782,
+      "longitude": 5.285577
+    },
+    {
+      "name": "EVO Horten",
+      "latitude": 59.407672,
+      "longitude": 10.484228
+    },
+    {
+      "name": "EVO Hønefoss",
+      "latitude": 60.165377,
+      "longitude": 10.254373
+    },
+    {
+      "name": "EVO Kirkenes-Hesseng",
+      "latitude": 69.688382,
+      "longitude": 29.992124
+    },
+    {
+      "name": "EVO Konnerud",
+      "latitude": 59.717537,
+      "longitude": 10.14934
+    },
+    {
+      "name": "EVO Lambertseter",
+      "latitude": 59.874444,
+      "longitude": 10.810789
+    },
+    {
+      "name": "EVO Larvik",
+      "latitude": 59.064938,
+      "longitude": 10.052599
+    },
+    {
+      "name": "EVO Levanger",
+      "latitude": 63.744742,
+      "longitude": 11.298069
+    },
+    {
+      "name": "EVO Lillehammer",
+      "latitude": 61.127458,
+      "longitude": 10.452647
+    },
+    {
+      "name": "Evo Lillestrøm",
+      "latitude": 59.955681,
+      "longitude": 11.053524
+    },
+    {
+      "name": "EVO Majorstua",
+      "latitude": 59.931279,
+      "longitude": 10.710425
+    },
+    {
+      "name": "EVO Narvik",
+      "latitude": 68.435841,
+      "longitude": 17.411591
+    },
+    {
+      "name": "EVO Nesttun",
+      "latitude": 60.317982,
+      "longitude": 5.354113
+    },
+    {
+      "name": "EVO Nordnes",
+      "latitude": 60.398002,
+      "longitude": 5.312468
+    },
+    {
+      "name": "EVO Nordstrand",
+      "latitude": 59.861348,
+      "longitude": 10.799603
+    },
+    {
+      "name": "EVO Nordås",
+      "latitude": 60.306368,
+      "longitude": 5.322487
+    },
+    {
+      "name": "EVO Nydalen",
+      "latitude": 59.949637,
+      "longitude": 10.766873
+    },
+    {
+      "name": "EVO Nydalen",
+      "latitude": 59.950037,
+      "longitude": 10.766387
+    },
+    {
+      "name": "EVO Os",
+      "latitude": 60.204462,
+      "longitude": 5.449678
+    },
+    {
+      "name": "EVO Oscarsgate",
+      "latitude": 59.922356,
+      "longitude": 10.727954
+    },
+    {
+      "name": "EVO Paradis",
+      "latitude": 58.957876,
+      "longitude": 5.740425
+    },
+    {
+      "name": "EVO Ryen",
+      "latitude": 59.893632,
+      "longitude": 10.804905
+    },
+    {
+      "name": "EVO Røa",
+      "latitude": 59.948346,
+      "longitude": 10.644058
+    },
+    {
+      "name": "EVO Sandefjord Vest",
+      "latitude": 59.135125,
+      "longitude": 10.212206
+    },
+    {
+      "name": "EVO Sandefjord Øst",
+      "latitude": 59.131136,
+      "longitude": 10.246259
+    },
+    {
+      "name": "EVO Sandnes",
+      "latitude": 58.850824,
+      "longitude": 5.73376
+    },
+    {
+      "name": "EVO Sjølyst",
+      "latitude": 59.919397,
+      "longitude": 10.685901
+    },
+    {
+      "name": "EVO SNØ",
+      "latitude": 59.947448,
+      "longitude": 10.951974
+    },
+    {
+      "name": "EVO Stabekk",
+      "latitude": 59.90805,
+      "longitude": 10.601751
+    },
+    {
+      "name": "EVO Strømsø",
+      "latitude": 59.734325,
+      "longitude": 10.207038
+    },
+    {
+      "name": "EVO Toppe",
+      "latitude": 60.483367,
+      "longitude": 5.271883
+    },
+    {
+      "name": "EVO Tromsø Nord",
+      "latitude": 69.673143,
+      "longitude": 18.976378
+    },
+    {
+      "name": "EVO Tromsø Sør",
+      "latitude": 69.63087,
+      "longitude": 18.922158
+    },
+    {
+      "name": "EVO Tønsberg",
+      "latitude": 59.273284,
+      "longitude": 10.427273
+    },
+    {
+      "name": "EVO Vika",
+      "latitude": 59.912848,
+      "longitude": 10.728822
+    },
+    {
+      "name": "EVO Ålgård",
+      "latitude": 58.770326,
+      "longitude": 5.856018
+    },
+    {
+      "name": "EVO Østerås",
+      "latitude": 59.945695,
+      "longitude": 10.597153
+    },
+    {
+      "name": "Expressgym Råde",
+      "latitude": 59.35115,
+      "longitude": 10.876662
+    },
+    {
+      "name": "Family sports center",
+      "latitude": 59.584267,
+      "longitude": 11.166364
+    },
+    {
+      "name": "Family Sports Club",
+      "latitude": 59.269098,
+      "longitude": 11.15818
+    },
+    {
+      "name": "Family Sports Club Danmarksplass",
+      "latitude": 60.375593,
+      "longitude": 5.337342
+    },
+    {
+      "name": "Family Sports Club Mysen",
+      "latitude": 59.552641,
+      "longitude": 11.337915
+    },
+    {
+      "name": "Family Sports Club Sentrum",
+      "latitude": 60.882029,
+      "longitude": 11.566863
+    },
+    {
+      "name": "Family Sports Club Terningen",
+      "latitude": 60.881142,
+      "longitude": 11.537453
+    },
+    {
+      "name": "Family Ålesund",
+      "latitude": 62.470987,
+      "longitude": 6.16794
+    },
+    {
+      "name": "Farsund Fitness",
+      "latitude": 58.097855,
+      "longitude": 6.688663
+    },
+    {
+      "name": "Feel 24",
+      "latitude": 59.730704,
+      "longitude": 10.238331
+    },
+    {
+      "name": "Feel 24",
+      "latitude": 59.908932,
+      "longitude": 10.476816
+    },
+    {
+      "name": "Feel 24",
+      "latitude": 67.289824,
+      "longitude": 14.586638
+    },
+    {
+      "name": "Feel 24",
+      "latitude": 68.233747,
+      "longitude": 14.561072
+    },
+    {
+      "name": "Feel 24",
+      "latitude": 69.217506,
+      "longitude": 19.56172
+    },
+    {
+      "name": "Feel24",
+      "latitude": 59.756902,
+      "longitude": 10.005743
+    },
+    {
+      "name": "FEEL24",
+      "latitude": 59.818493,
+      "longitude": 10.275768
+    },
+    {
+      "name": "Feel24",
+      "latitude": 66.022088,
+      "longitude": 12.632699
+    },
+    {
+      "name": "Feel24",
+      "latitude": 68.805842,
+      "longitude": 16.534523
+    },
+    {
+      "name": "Feel24 Bossekop",
+      "latitude": 69.958656,
+      "longitude": 23.223284
+    },
+    {
+      "name": "Feel24 Finnsnes",
+      "latitude": 69.230239,
+      "longitude": 17.981414
+    },
+    {
+      "name": "Feel24 Harstad AS",
+      "latitude": 68.761933,
+      "longitude": 16.556341
+    },
+    {
+      "name": "Feel24 Haugesund",
+      "latitude": 59.427455,
+      "longitude": 5.263781
+    },
+    {
+      "name": "Feel24 Sørreisa",
+      "latitude": 69.144923,
+      "longitude": 18.153421
+    },
+    {
+      "name": "Feelgood",
+      "latitude": 59.378745,
+      "longitude": 10.756517
+    },
+    {
+      "name": "Feelgood",
+      "latitude": 59.94962,
+      "longitude": 11.011525
+    },
+    {
+      "name": "Feelgood",
+      "latitude": 60.186273,
+      "longitude": 12.004565
+    },
+    {
+      "name": "Feelgood Dal",
+      "latitude": 60.25235,
+      "longitude": 11.186625
+    },
+    {
+      "name": "Feelgood Dombås",
+      "latitude": 62.076096,
+      "longitude": 9.128008
+    },
+    {
+      "name": "Feelgood Elverum",
+      "latitude": 60.880316,
+      "longitude": 11.564179
+    },
+    {
+      "name": "Feelgood Fana",
+      "latitude": 60.325671,
+      "longitude": 5.367015
+    },
+    {
+      "name": "Feelgood Gran",
+      "latitude": 60.358363,
+      "longitude": 10.571002
+    },
+    {
+      "name": "Feelgood Grimstad",
+      "latitude": 58.342693,
+      "longitude": 8.554817
+    },
+    {
+      "name": "Feelgood Hamar",
+      "latitude": 60.794783,
+      "longitude": 11.070605
+    },
+    {
+      "name": "Feelgood Hof",
+      "latitude": 59.529713,
+      "longitude": 10.088142
+    },
+    {
+      "name": "Feelgood Hokksund",
+      "latitude": 59.767798,
+      "longitude": 9.913809
+    },
+    {
+      "name": "Feelgood Horten",
+      "latitude": 59.416001,
+      "longitude": 10.48667
+    },
+    {
+      "name": "Feelgood Hønefoss",
+      "latitude": 60.170695,
+      "longitude": 10.258493
+    },
+    {
+      "name": "Feelgood Kongsberg",
+      "latitude": 59.668843,
+      "longitude": 9.651395
+    },
+    {
+      "name": "Feelgood Leangen",
+      "latitude": 63.434598,
+      "longitude": 10.464191
+    },
+    {
+      "name": "Feelgood Meråker",
+      "latitude": 63.41812,
+      "longitude": 11.73728
+    },
+    {
+      "name": "Feelgood Moelv",
+      "latitude": 60.930008,
+      "longitude": 10.701275
+    },
+    {
+      "name": "Feelgood Nesbru",
+      "latitude": 59.863697,
+      "longitude": 10.488289
+    },
+    {
+      "name": "Feelgood Notodden",
+      "latitude": 59.560279,
+      "longitude": 9.259709
+    },
+    {
+      "name": "Feelgood Otta",
+      "latitude": 61.771559,
+      "longitude": 9.532343
+    },
+    {
+      "name": "Feelgood Rauland",
+      "latitude": 59.69488,
+      "longitude": 8.066001
+    },
+    {
+      "name": "Feelgood Rena",
+      "latitude": 61.135313,
+      "longitude": 11.372012
+    },
+    {
+      "name": "Feelgood Ringebu",
+      "latitude": 61.532156,
+      "longitude": 10.140259
+    },
+    {
+      "name": "Feelgood Rundtom",
+      "latitude": 59.727867,
+      "longitude": 10.227229
+    },
+    {
+      "name": "Feelgood Sande",
+      "latitude": 59.586872,
+      "longitude": 10.206621
+    },
+    {
+      "name": "Feelgood Sandnes",
+      "latitude": 58.873283,
+      "longitude": 5.727516
+    },
+    {
+      "name": "Feelgood Sigdal",
+      "latitude": 60.043126,
+      "longitude": 9.63434
+    },
+    {
+      "name": "Feelgood Ski",
+      "latitude": 59.720057,
+      "longitude": 10.837432
+    },
+    {
+      "name": "Feelgood Skien",
+      "latitude": 59.172185,
+      "longitude": 9.632857
+    },
+    {
+      "name": "Feelgood Sortland",
+      "latitude": 68.692067,
+      "longitude": 15.412715
+    },
+    {
+      "name": "Feelgood Stange",
+      "latitude": 60.717422,
+      "longitude": 11.189943
+    },
+    {
+      "name": "Feelgood Stokmarknes",
+      "latitude": 68.566493,
+      "longitude": 14.951856
+    },
+    {
+      "name": "Feelgood Tiller",
+      "latitude": 63.35461,
+      "longitude": 10.3727
+    },
+    {
+      "name": "Feelgood Trysil",
+      "latitude": 61.312914,
+      "longitude": 12.267603
+    },
+    {
+      "name": "Feelgood Tyristrand",
+      "latitude": 60.086752,
+      "longitude": 10.105327
+    },
+    {
+      "name": "Feelgood Vikersund",
+      "latitude": 59.96566,
+      "longitude": 9.995243
+    },
+    {
+      "name": "Feelgood Vollebekk",
+      "latitude": 59.936585,
+      "longitude": 10.825246
+    },
+    {
+      "name": "Feelgood Åmot",
+      "latitude": 59.893006,
+      "longitude": 9.926161
+    },
+    {
+      "name": "Feelgood Åsane",
+      "latitude": 60.465685,
+      "longitude": 5.32451
+    },
+    {
+      "name": "Fenris Gym",
+      "latitude": 62.893728,
+      "longitude": 7.679683
+    },
+    {
+      "name": "Fight & Fitness",
+      "latitude": 60.374735,
+      "longitude": 5.339564
+    },
+    {
+      "name": "FIS",
+      "latitude": 61.134306,
+      "longitude": 10.506626
+    },
+    {
+      "name": "Fitness 24 Seven",
+      "latitude": 59.924676,
+      "longitude": 10.774219
+    },
+    {
+      "name": "Fitness 24/7",
+      "latitude": 59.944467,
+      "longitude": 10.776914
+    },
+    {
+      "name": "Fitness 24Seven Haugenstua",
+      "latitude": 59.953129,
+      "longitude": 10.90804
+    },
+    {
+      "name": "Fitness Corner",
+      "latitude": 59.921308,
+      "longitude": 10.770698
+    },
+    {
+      "name": "Fitness Fabriken",
+      "latitude": 62.622929,
+      "longitude": 7.093678
+    },
+    {
+      "name": "Fitness First",
+      "latitude": 60.389075,
+      "longitude": 5.33101
+    },
+    {
+      "name": "Fitness24Seven",
+      "latitude": 59.942484,
+      "longitude": 10.811974
+    },
+    {
+      "name": "Fitnesspoint Askim",
+      "latitude": 59.583371,
+      "longitude": 11.161335
+    },
+    {
+      "name": "Fitnesspoint treningssenter",
+      "latitude": 62.905494,
+      "longitude": 6.91978
+    },
+    {
+      "name": "FitnessRoom",
+      "latitude": 59.923932,
+      "longitude": 10.485278
+    },
+    {
+      "name": "Fokus trening",
+      "latitude": 59.407872,
+      "longitude": 10.695885
+    },
+    {
+      "name": "Form",
+      "latitude": 59.889045,
+      "longitude": 11.561132
+    },
+    {
+      "name": "Fres Fitness",
+      "latitude": 60.618121,
+      "longitude": 11.267596
+    },
+    {
+      "name": "Fres Fitness",
+      "latitude": 60.7172,
+      "longitude": 11.192012
+    },
+    {
+      "name": "Fresh Fitness",
+      "latitude": 59.929166,
+      "longitude": 10.778353
+    },
+    {
+      "name": "Fresh Fitness Carl Berner",
+      "latitude": 59.925469,
+      "longitude": 10.774424
+    },
+    {
+      "name": "Fresh Fitness Ensjø",
+      "latitude": 59.914542,
+      "longitude": 10.788237
+    },
+    {
+      "name": "Fresh Fitness Grønland",
+      "latitude": 59.91178,
+      "longitude": 10.766164
+    },
+    {
+      "name": "Fresh Fitness Hauketo",
+      "latitude": 59.847406,
+      "longitude": 10.80464
+    },
+    {
+      "name": "Fresh Fitness Jessheim",
+      "latitude": 60.1457,
+      "longitude": 11.170442
+    },
+    {
+      "name": "Fresh Fitness Lade Arena",
+      "latitude": 63.440433,
+      "longitude": 10.462974
+    },
+    {
+      "name": "Fresh Fitness Lillestrøm",
+      "latitude": 59.953448,
+      "longitude": 11.049673
+    },
+    {
+      "name": "Fresh Fitness Majorstuen",
+      "latitude": 59.924794,
+      "longitude": 10.725271
+    },
+    {
+      "name": "Fresh Fitness Ryen",
+      "latitude": 59.893705,
+      "longitude": 10.80612
+    },
+    {
+      "name": "Fresh Fitness Sandefjord",
+      "latitude": 59.128723,
+      "longitude": 10.242792
+    },
+    {
+      "name": "Fresh Fitness Sandvika",
+      "latitude": 59.891871,
+      "longitude": 10.510003
+    },
+    {
+      "name": "Fresh Fitness Skedsmokorset",
+      "latitude": 60.008721,
+      "longitude": 11.042346
+    },
+    {
+      "name": "Fresh Fitness Ski",
+      "latitude": 59.715199,
+      "longitude": 10.839344
+    },
+    {
+      "name": "Fresh Fitness Skårer",
+      "latitude": 59.921257,
+      "longitude": 10.955551
+    },
+    {
+      "name": "Fresh Fitness St Hanshaugen",
+      "latitude": 59.925473,
+      "longitude": 10.745469
+    },
+    {
+      "name": "Fresh Fitness Storo",
+      "latitude": 59.943933,
+      "longitude": 10.771031
+    },
+    {
+      "name": "Fresh Fitness Strømmen",
+      "latitude": 59.945995,
+      "longitude": 11.006365
+    },
+    {
+      "name": "Fresh Fitness Tiller",
+      "latitude": 63.355616,
+      "longitude": 10.375855
+    },
+    {
+      "name": "Fresh Fitness Trondheim Sentrum",
+      "latitude": 63.432781,
+      "longitude": 10.404158
+    },
+    {
+      "name": "Fresh Fitness Tønsberg",
+      "latitude": 59.26209,
+      "longitude": 10.418875
+    },
+    {
+      "name": "Fresh Fitness Ullevål",
+      "latitude": 59.935517,
+      "longitude": 10.732009
+    },
+    {
+      "name": "Fresh Fitness Valentinlyst",
+      "latitude": 63.424208,
+      "longitude": 10.443152
+    },
+    {
+      "name": "Fresh Fitness Østerås",
+      "latitude": 59.943626,
+      "longitude": 10.607527
+    },
+    {
+      "name": "Freskus",
+      "latitude": 61.455238,
+      "longitude": 10.195199
+    },
+    {
+      "name": "Frisk i Fron",
+      "latitude": 61.595736,
+      "longitude": 9.727708
+    },
+    {
+      "name": "FRISK Treningsenter",
+      "latitude": 63.875419,
+      "longitude": 11.2897
+    },
+    {
+      "name": "Frisk Treningssenter",
+      "latitude": 59.605957,
+      "longitude": 5.811064
+    },
+    {
+      "name": "Frogner fysioterapi og trening",
+      "latitude": 60.024495,
+      "longitude": 11.103516
+    },
+    {
+      "name": "Frontline Academy Bergen",
+      "latitude": 60.385247,
+      "longitude": 5.331793
+    },
+    {
+      "name": "Frontline Academy Hasle",
+      "latitude": 59.926127,
+      "longitude": 10.802355
+    },
+    {
+      "name": "FysioGym Leinesfjord",
+      "latitude": 67.777037,
+      "longitude": 15.01519
+    },
+    {
+      "name": "Fønix",
+      "latitude": 60.880998,
+      "longitude": 10.938239
+    },
+    {
+      "name": "Gjøvik treningssenter",
+      "latitude": 60.798344,
+      "longitude": 10.677173
+    },
+    {
+      "name": "Gladiator Gym",
+      "latitude": 59.489098,
+      "longitude": 10.296512
+    },
+    {
+      "name": "Gnist Nadderud",
+      "latitude": 59.921912,
+      "longitude": 10.585644
+    },
+    {
+      "name": "Grenland CrossFit",
+      "latitude": 59.162305,
+      "longitude": 9.645212
+    },
+    {
+      "name": "Gym 1",
+      "latitude": 70.664311,
+      "longitude": 23.678851
+    },
+    {
+      "name": "Gym City Moss",
+      "latitude": 59.435507,
+      "longitude": 10.664029
+    },
+    {
+      "name": "Gym Ragnarok",
+      "latitude": 63.116735,
+      "longitude": 7.720057
+    },
+    {
+      "name": "Gym+",
+      "latitude": 61.116741,
+      "longitude": 10.462493
+    },
+    {
+      "name": "H.O.T. Helse og Trening",
+      "latitude": 63.587534,
+      "longitude": 9.96213
+    },
+    {
+      "name": "Hamarøy treningssenter",
+      "latitude": 68.08428,
+      "longitude": 15.624588
+    },
+    {
+      "name": "Haralds Gym",
+      "latitude": 59.915686,
+      "longitude": 10.758573
+    },
+    {
+      "name": "Hardanger Trening",
+      "latitude": 60.371944,
+      "longitude": 6.141247
+    },
+    {
+      "name": "Haugesund Aerobic og Treningssenter",
+      "latitude": 59.402546,
+      "longitude": 5.292374
+    },
+    {
+      "name": "Havhesten",
+      "latitude": 61.592613,
+      "longitude": 5.054491
+    },
+    {
+      "name": "Helsegym1",
+      "latitude": 63.827921,
+      "longitude": 11.45808
+    },
+    {
+      "name": "Helsehuset Trening AS",
+      "latitude": 62.676215,
+      "longitude": 8.563674
+    },
+    {
+      "name": "Helselaben",
+      "latitude": 60.863034,
+      "longitude": 8.551118
+    },
+    {
+      "name": "Hot Yoga Stavanger",
+      "latitude": 58.97838,
+      "longitude": 5.715757
+    },
+    {
+      "name": "House of Femme",
+      "latitude": 63.403799,
+      "longitude": 10.400023
+    },
+    {
+      "name": "HT-Club",
+      "latitude": 59.488345,
+      "longitude": 10.318053
+    },
+    {
+      "name": "Hurum Yoga",
+      "latitude": 59.680481,
+      "longitude": 10.53104
+    },
+    {
+      "name": "Hustadvika Treningssenter",
+      "latitude": 62.953867,
+      "longitude": 7.095547
+    },
+    {
+      "name": "iGym EXPRESS Bjerka",
+      "latitude": 66.148289,
+      "longitude": 13.827458
+    },
+    {
+      "name": "iGym EXPRESS Gruben",
+      "latitude": 66.318251,
+      "longitude": 14.192749
+    },
+    {
+      "name": "Impulse",
+      "latitude": 63.433857,
+      "longitude": 10.413352
+    },
+    {
+      "name": "Impulse",
+      "latitude": 63.434176,
+      "longitude": 10.502158
+    },
+    {
+      "name": "Impulse Lerkendal",
+      "latitude": 63.411679,
+      "longitude": 10.404136
+    },
+    {
+      "name": "Impulse Leuthenhaven",
+      "latitude": 63.43024,
+      "longitude": 10.387802
+    },
+    {
+      "name": "Impulse treningssenter - Pirbadet",
+      "latitude": 63.440909,
+      "longitude": 10.401688
+    },
+    {
+      "name": "Invictus Treningssenter",
+      "latitude": 59.580683,
+      "longitude": 11.149693
+    },
+    {
+      "name": "Joy Yoga",
+      "latitude": 59.925522,
+      "longitude": 10.76851
+    },
+    {
+      "name": "Kick Hvittingfoss",
+      "latitude": 59.481945,
+      "longitude": 10.010898
+    },
+    {
+      "name": "Kick Svarstad",
+      "latitude": 59.398298,
+      "longitude": 9.971832
+    },
+    {
+      "name": "Klæbu treningssenter",
+      "latitude": 63.299531,
+      "longitude": 10.48586
+    },
+    {
+      "name": "Kraft Narvik",
+      "latitude": 68.436446,
+      "longitude": 17.434528
+    },
+    {
+      "name": "Kraft Stadion",
+      "latitude": 68.442699,
+      "longitude": 17.406015
+    },
+    {
+      "name": "Lasses gym",
+      "latitude": 59.43156,
+      "longitude": 10.649799
+    },
+    {
+      "name": "Level Up",
+      "latitude": 58.929898,
+      "longitude": 5.856552
+    },
+    {
+      "name": "Lia Trening",
+      "latitude": 59.835956,
+      "longitude": 10.796567
+    },
+    {
+      "name": "Lindas Gym",
+      "latitude": 59.759156,
+      "longitude": 5.452927
+    },
+    {
+      "name": "Lone Yoga AS",
+      "latitude": 68.877948,
+      "longitude": 17.827992
+    },
+    {
+      "name": "Lontjørn skistadion",
+      "latitude": 59.912879,
+      "longitude": 6.606316
+    },
+    {
+      "name": "Maha Yoga",
+      "latitude": 59.855621,
+      "longitude": 10.654184
+    },
+    {
+      "name": "Maksimal",
+      "latitude": 59.927148,
+      "longitude": 10.722402
+    },
+    {
+      "name": "Mash",
+      "latitude": 59.910665,
+      "longitude": 10.765147
+    },
+    {
+      "name": "Maxgym",
+      "latitude": 63.298675,
+      "longitude": 9.851137
+    },
+    {
+      "name": "Maxtrim - Frøya Storhall",
+      "latitude": 63.730946,
+      "longitude": 8.822051
+    },
+    {
+      "name": "Mecca Tønsberg Muscle Club",
+      "latitude": 59.263622,
+      "longitude": 10.417519
+    },
+    {
+      "name": "Meløy Sol & Trening AS",
+      "latitude": 66.845919,
+      "longitude": 13.732712
+    },
+    {
+      "name": "Miin Helse",
+      "latitude": 59.414895,
+      "longitude": 10.685088
+    },
+    {
+      "name": "Milepel Squash",
+      "latitude": 60.375944,
+      "longitude": 5.337834
+    },
+    {
+      "name": "Mjølkesyra - Tolga treningssenter",
+      "latitude": 62.410812,
+      "longitude": 10.99104
+    },
+    {
+      "name": "Moholt Treningssenter",
+      "latitude": 63.411508,
+      "longitude": 10.433014
+    },
+    {
+      "name": "Moov",
+      "latitude": 59.742295,
+      "longitude": 10.19561
+    },
+    {
+      "name": "MOT",
+      "latitude": 58.874948,
+      "longitude": 9.364905
+    },
+    {
+      "name": "Mova",
+      "latitude": 59.964745,
+      "longitude": 11.032401
+    },
+    {
+      "name": "MOVA",
+      "latitude": 62.466964,
+      "longitude": 6.114131
+    },
+    {
+      "name": "MOVA Blindheim",
+      "latitude": 62.441179,
+      "longitude": 6.372948
+    },
+    {
+      "name": "MOVA Landås",
+      "latitude": 60.35369,
+      "longitude": 5.367715
+    },
+    {
+      "name": "MOVA Lena",
+      "latitude": 60.674221,
+      "longitude": 10.816717
+    },
+    {
+      "name": "Mova Ullern",
+      "latitude": 59.926988,
+      "longitude": 10.651664
+    },
+    {
+      "name": "MOVA Vangsgata",
+      "latitude": 60.62902,
+      "longitude": 6.420746
+    },
+    {
+      "name": "MOVA Voss",
+      "latitude": 60.627868,
+      "longitude": 6.426939
+    },
+    {
+      "name": "MTA",
+      "latitude": 60.337316,
+      "longitude": 5.220558
+    },
+    {
+      "name": "Mudo",
+      "latitude": 61.114309,
+      "longitude": 10.453608
+    },
+    {
+      "name": "Mudo Gym",
+      "latitude": 59.928477,
+      "longitude": 10.780864
+    },
+    {
+      "name": "Mudo gym Bergen",
+      "latitude": 60.392105,
+      "longitude": 5.282511
+    },
+    {
+      "name": "Mudo Gym Ulsrud",
+      "latitude": 59.891761,
+      "longitude": 10.854393
+    },
+    {
+      "name": "Mudo gym Åsane",
+      "latitude": 60.453593,
+      "longitude": 5.323344
+    },
+    {
+      "name": "Mudo treningsenter",
+      "latitude": 60.794817,
+      "longitude": 10.690068
+    },
+    {
+      "name": "Mudo Tveita",
+      "latitude": 59.915515,
+      "longitude": 10.845941
+    },
+    {
+      "name": "Mysen Prestasjon og Helse",
+      "latitude": 59.550064,
+      "longitude": 11.343913
+    },
+    {
+      "name": "Next",
+      "latitude": 60.376157,
+      "longitude": 5.338161
+    },
+    {
+      "name": "Nidarø Treningssenter",
+      "latitude": 63.396067,
+      "longitude": 10.393671
+    },
+    {
+      "name": "Nivå",
+      "latitude": 59.121679,
+      "longitude": 11.380363
+    },
+    {
+      "name": "Nordic Power Zone",
+      "latitude": 58.138399,
+      "longitude": 7.040109
+    },
+    {
+      "name": "Norgesgym",
+      "latitude": 59.442971,
+      "longitude": 10.700716
+    },
+    {
+      "name": "Norsk Yoga-Skole",
+      "latitude": 59.925063,
+      "longitude": 10.724887
+    },
+    {
+      "name": "Northern Light",
+      "latitude": 59.926156,
+      "longitude": 10.725414
+    },
+    {
+      "name": "Novus Academy Molde",
+      "latitude": 62.742036,
+      "longitude": 7.230913
+    },
+    {
+      "name": "nr1 fitness",
+      "latitude": 60.333765,
+      "longitude": 5.212191
+    },
+    {
+      "name": "nr1 fitness",
+      "latitude": 60.350949,
+      "longitude": 5.24446
+    },
+    {
+      "name": "nr1 fitness",
+      "latitude": 60.395126,
+      "longitude": 5.318562
+    },
+    {
+      "name": "Nr1 FitnessXpress",
+      "latitude": 60.399833,
+      "longitude": 5.32377
+    },
+    {
+      "name": "nr1Fitness Xpress",
+      "latitude": 60.354552,
+      "longitude": 5.126145
+    },
+    {
+      "name": "Olympus Solbergelva",
+      "latitude": 59.763662,
+      "longitude": 10.072389
+    },
+    {
+      "name": "Optimal Prestasjon",
+      "latitude": 59.434729,
+      "longitude": 10.648611
+    },
+    {
+      "name": "Oslo Helsestudio",
+      "latitude": 59.925586,
+      "longitude": 10.756982
+    },
+    {
+      "name": "Outdoor Gym",
+      "latitude": 59.960536,
+      "longitude": 10.791773
+    },
+    {
+      "name": "Paulsbyen Gym",
+      "latitude": 60.884814,
+      "longitude": 11.560693
+    },
+    {
+      "name": "PeakFitness",
+      "latitude": 60.513527,
+      "longitude": 4.909443
+    },
+    {
+      "name": "Pole Fit",
+      "latitude": 61.114369,
+      "longitude": 10.453674
+    },
+    {
+      "name": "Presence Yoga",
+      "latitude": 59.92733,
+      "longitude": 10.726095
+    },
+    {
+      "name": "Pro Gym",
+      "latitude": 62.85429,
+      "longitude": 7.164816
+    },
+    {
+      "name": "Progym",
+      "latitude": 62.916225,
+      "longitude": 7.446084
+    },
+    {
+      "name": "PT-Senter Nygårdsgaten",
+      "latitude": 60.385281,
+      "longitude": 5.331713
+    },
+    {
+      "name": "Pulz treningssenter",
+      "latitude": 58.993158,
+      "longitude": 5.744255
+    },
+    {
+      "name": "Rapida Balanse",
+      "latitude": 67.283868,
+      "longitude": 14.377071
+    },
+    {
+      "name": "Rapida Meierikvartalet",
+      "latitude": 67.284029,
+      "longitude": 14.385802
+    },
+    {
+      "name": "Reebok CrossFit Bryggen",
+      "latitude": 60.402094,
+      "longitude": 5.316922
+    },
+    {
+      "name": "Repeat Lillestrøm",
+      "latitude": 59.965559,
+      "longitude": 11.038953
+    },
+    {
+      "name": "Risvollan treningssenter",
+      "latitude": 63.391605,
+      "longitude": 10.429936
+    },
+    {
+      "name": "Røa kampsport",
+      "latitude": 59.942227,
+      "longitude": 10.649626
+    },
+    {
+      "name": "Røros Gym",
+      "latitude": 62.571448,
+      "longitude": 11.3875
+    },
+    {
+      "name": "Røykenbadet treningssenter",
+      "latitude": 59.741636,
+      "longitude": 10.390932
+    },
+    {
+      "name": "Sammen City",
+      "latitude": 60.387856,
+      "longitude": 5.332447
+    },
+    {
+      "name": "Sammen Kronstadparken",
+      "latitude": 60.371811,
+      "longitude": 5.347864
+    },
+    {
+      "name": "Sammen Studentsenteret",
+      "latitude": 60.386757,
+      "longitude": 5.322636
+    },
+    {
+      "name": "Sammen Vektertorget",
+      "latitude": 60.389132,
+      "longitude": 5.323055
+    },
+    {
+      "name": "Sammen Årstad",
+      "latitude": 60.379109,
+      "longitude": 5.358907
+    },
+    {
+      "name": "Sanden Treningssenter",
+      "latitude": 58.022781,
+      "longitude": 7.451686
+    },
+    {
+      "name": "Sats",
+      "latitude": 59.918888,
+      "longitude": 10.760393
+    },
+    {
+      "name": "SATS Akersgata",
+      "latitude": 59.914818,
+      "longitude": 10.742802
+    },
+    {
+      "name": "SATS Aquarama",
+      "latitude": 58.14704,
+      "longitude": 8.00658
+    },
+    {
+      "name": "SATS Asker",
+      "latitude": 59.834426,
+      "longitude": 10.438195
+    },
+    {
+      "name": "SATS Bekkestua",
+      "latitude": 59.916024,
+      "longitude": 10.588642
+    },
+    {
+      "name": "SATS Bergen LHG",
+      "latitude": 60.38509,
+      "longitude": 5.332162
+    },
+    {
+      "name": "SATS Billingstad",
+      "latitude": 59.876906,
+      "longitude": 10.50052
+    },
+    {
+      "name": "SATS Bislett",
+      "latitude": 59.924447,
+      "longitude": 10.732281
+    },
+    {
+      "name": "SATS Bjørvika",
+      "latitude": 59.908126,
+      "longitude": 10.75919
+    },
+    {
+      "name": "SATS Bryne",
+      "latitude": 58.729545,
+      "longitude": 5.648957
+    },
+    {
+      "name": "SATS Carl Berner",
+      "latitude": 59.928636,
+      "longitude": 10.7783
+    },
+    {
+      "name": "SATS CC Vest",
+      "latitude": 59.916141,
+      "longitude": 10.634979
+    },
+    {
+      "name": "SATS Colosseum",
+      "latitude": 59.928509,
+      "longitude": 10.710894
+    },
+    {
+      "name": "SATS Danmarksplass",
+      "latitude": 60.375912,
+      "longitude": 5.338253
+    },
+    {
+      "name": "SATS Dikeveien",
+      "latitude": 59.256223,
+      "longitude": 11.001003
+    },
+    {
+      "name": "SATS Drammen",
+      "latitude": 59.740994,
+      "longitude": 10.221842
+    },
+    {
+      "name": "SATS Ekspress Porsgrunn",
+      "latitude": 59.139614,
+      "longitude": 9.655316
+    },
+    {
+      "name": "SATS Fagerborg",
+      "latitude": 59.926866,
+      "longitude": 10.728072
+    },
+    {
+      "name": "SATS Fornebu",
+      "latitude": 59.893917,
+      "longitude": 10.618385
+    },
+    {
+      "name": "SATS Forus",
+      "latitude": 58.893698,
+      "longitude": 5.707618
+    },
+    {
+      "name": "SATS Fredrikstad",
+      "latitude": 59.205509,
+      "longitude": 10.938091
+    },
+    {
+      "name": "SATS Hana",
+      "latitude": 58.853845,
+      "longitude": 5.751568
+    },
+    {
+      "name": "SATS Hasle",
+      "latitude": 59.923662,
+      "longitude": 10.792847
+    },
+    {
+      "name": "SATS Hellerud",
+      "latitude": 59.916436,
+      "longitude": 10.848166
+    },
+    {
+      "name": "SATS Herbarium",
+      "latitude": 58.967229,
+      "longitude": 5.729146
+    },
+    {
+      "name": "Sats Hillevåg",
+      "latitude": 58.949885,
+      "longitude": 5.742272
+    },
+    {
+      "name": "SATS Hinna",
+      "latitude": 58.914792,
+      "longitude": 5.729846
+    },
+    {
+      "name": "Sats Hoff",
+      "latitude": 59.925744,
+      "longitude": 10.674848
+    },
+    {
+      "name": "SATS Hønefoss",
+      "latitude": 60.145228,
+      "longitude": 10.2497
+    },
+    {
+      "name": "Sats Ila",
+      "latitude": 59.928334,
+      "longitude": 10.753828
+    },
+    {
+      "name": "SATS Jessheim",
+      "latitude": 60.15165,
+      "longitude": 11.184716
+    },
+    {
+      "name": "SATS Kalbakken",
+      "latitude": 59.952818,
+      "longitude": 10.867708
+    },
+    {
+      "name": "SATS Kampen",
+      "latitude": 59.910524,
+      "longitude": 10.788312
+    },
+    {
+      "name": "SATS Karlsrud",
+      "latitude": 59.878513,
+      "longitude": 10.807958
+    },
+    {
+      "name": "SATS Klosterøya",
+      "latitude": 59.199369,
+      "longitude": 9.612844
+    },
+    {
+      "name": "SATS Kokstad",
+      "latitude": 60.296483,
+      "longitude": 5.266304
+    },
+    {
+      "name": "SATS Kolbotn",
+      "latitude": 59.810898,
+      "longitude": 10.801916
+    },
+    {
+      "name": "SATS Kristiansand Sentrum",
+      "latitude": 58.147564,
+      "longitude": 7.992176
+    },
+    {
+      "name": "SATS Lagunen",
+      "latitude": 60.296673,
+      "longitude": 5.330702
+    },
+    {
+      "name": "SATS Laksevåg",
+      "latitude": 60.384699,
+      "longitude": 5.310176
+    },
+    {
+      "name": "SATS Lambertseter",
+      "latitude": 59.873119,
+      "longitude": 10.811534
+    },
+    {
+      "name": "SATS Langnes",
+      "latitude": 69.671536,
+      "longitude": 18.919981
+    },
+    {
+      "name": "SATS Lillehammer",
+      "latitude": 61.114648,
+      "longitude": 10.452139
+    },
+    {
+      "name": "SATS Lillestrøm",
+      "latitude": 59.952408,
+      "longitude": 11.04473
+    },
+    {
+      "name": "SATS Linderud",
+      "latitude": 59.94304,
+      "longitude": 10.834923
+    },
+    {
+      "name": "SATS Lund",
+      "latitude": 58.15137,
+      "longitude": 8.025725
+    },
+    {
+      "name": "SATS Madla",
+      "latitude": 58.952396,
+      "longitude": 5.679679
+    },
+    {
+      "name": "SATS Metro",
+      "latitude": 59.927597,
+      "longitude": 10.962504
+    },
+    {
+      "name": "SATS Nationaltheatret",
+      "latitude": 59.914664,
+      "longitude": 10.731125
+    },
+    {
+      "name": "SATS Nesttun",
+      "latitude": 60.312376,
+      "longitude": 5.356395
+    },
+    {
+      "name": "SATS Njårdhallen",
+      "latitude": 59.941328,
+      "longitude": 10.671716
+    },
+    {
+      "name": "SATS Nydalen",
+      "latitude": 59.947696,
+      "longitude": 10.770786
+    },
+    {
+      "name": "SATS Porselensfabrikken",
+      "latitude": 59.140717,
+      "longitude": 9.639422
+    },
+    {
+      "name": "SATS Porsgrunn",
+      "latitude": 59.138461,
+      "longitude": 9.649998
+    },
+    {
+      "name": "SATS Ringnes Park",
+      "latitude": 59.928583,
+      "longitude": 10.759411
+    },
+    {
+      "name": "SATS Ryen",
+      "latitude": 59.892746,
+      "longitude": 10.804877
+    },
+    {
+      "name": "SATS Røa Trening",
+      "latitude": 59.946308,
+      "longitude": 10.645231
+    },
+    {
+      "name": "SATS Sagene",
+      "latitude": 59.936194,
+      "longitude": 10.753952
+    },
+    {
+      "name": "SATS Sandnes",
+      "latitude": 58.850963,
+      "longitude": 5.735352
+    },
+    {
+      "name": "SATS Sandvika Panorama",
+      "latitude": 59.887199,
+      "longitude": 10.52067
+    },
+    {
+      "name": "SATS Sandviken",
+      "latitude": 60.412808,
+      "longitude": 5.32077
+    },
+    {
+      "name": "SATS Sarpsborg",
+      "latitude": 59.28355,
+      "longitude": 11.107767
+    },
+    {
+      "name": "Sats Sjølyst",
+      "latitude": 59.919818,
+      "longitude": 10.68588
+    },
+    {
+      "name": "Sats Solli plass",
+      "latitude": 59.914164,
+      "longitude": 10.718729
+    },
+    {
+      "name": "SATS Spektrum",
+      "latitude": 59.912755,
+      "longitude": 10.755106
+    },
+    {
+      "name": "SATS Storhaug",
+      "latitude": 58.968965,
+      "longitude": 5.757038
+    },
+    {
+      "name": "SATS Storo",
+      "latitude": 59.946623,
+      "longitude": 10.774554
+    },
+    {
+      "name": "SATS Strømsø",
+      "latitude": 59.731807,
+      "longitude": 10.213878
+    },
+    {
+      "name": "SATS Tasta",
+      "latitude": 58.98433,
+      "longitude": 5.690956
+    },
+    {
+      "name": "SATS Trim Towers",
+      "latitude": 58.869417,
+      "longitude": 5.717568
+    },
+    {
+      "name": "SATS Tromsø",
+      "latitude": 69.649326,
+      "longitude": 18.958599
+    },
+    {
+      "name": "SATS Tunejordet",
+      "latitude": 59.289326,
+      "longitude": 11.086165
+    },
+    {
+      "name": "SATS Ullevaal Stadion",
+      "latitude": 59.949764,
+      "longitude": 10.735616
+    },
+    {
+      "name": "SATS Vestkanten",
+      "latitude": 60.362519,
+      "longitude": 5.235716
+    },
+    {
+      "name": "SATS Vinderen",
+      "latitude": 59.942248,
+      "longitude": 10.703992
+    },
+    {
+      "name": "SATS Vågsbygd",
+      "latitude": 58.127139,
+      "longitude": 7.964088
+    },
+    {
+      "name": "SATS Wergeland",
+      "latitude": 60.36137,
+      "longitude": 5.351573
+    },
+    {
+      "name": "SATS Åsane",
+      "latitude": 60.470369,
+      "longitude": 5.323257
+    },
+    {
+      "name": "SATS Åssiden",
+      "latitude": 59.752983,
+      "longitude": 10.125607
+    },
+    {
+      "name": "Scala Trening",
+      "latitude": 60.360441,
+      "longitude": 5.360853
+    },
+    {
+      "name": "Shape Kvinesdal",
+      "latitude": 58.320864,
+      "longitude": 6.964708
+    },
+    {
+      "name": "Shapes Lindesnes",
+      "latitude": 58.083434,
+      "longitude": 7.304194
+    },
+    {
+      "name": "Sissels Trening og Trivsel Oasen",
+      "latitude": 60.349181,
+      "longitude": 5.291125
+    },
+    {
+      "name": "SIT treningssenter",
+      "latitude": 63.436417,
+      "longitude": 10.415544
+    },
+    {
+      "name": "Sky Fitness",
+      "latitude": 58.342976,
+      "longitude": 8.590186
+    },
+    {
+      "name": "SKY Fitness",
+      "latitude": 59.212747,
+      "longitude": 10.928853
+    },
+    {
+      "name": "Sky Fitness",
+      "latitude": 60.186584,
+      "longitude": 12.005987
+    },
+    {
+      "name": "Sky Fitness",
+      "latitude": 60.464852,
+      "longitude": 5.345386
+    },
+    {
+      "name": "Sky Fitness",
+      "latitude": 60.628835,
+      "longitude": 6.425109
+    },
+    {
+      "name": "Sky Fitness",
+      "latitude": 67.284933,
+      "longitude": 14.385217
+    },
+    {
+      "name": "SKY Fitness Drammen",
+      "latitude": 59.756877,
+      "longitude": 10.123864
+    },
+    {
+      "name": "SKY Fitness Halden",
+      "latitude": 59.123389,
+      "longitude": 11.38724
+    },
+    {
+      "name": "SKY Fitness Moss Jeløy",
+      "latitude": 59.433845,
+      "longitude": 10.648162
+    },
+    {
+      "name": "Sky Fitness Rygge",
+      "latitude": 59.37898,
+      "longitude": 10.758123
+    },
+    {
+      "name": "Sky Fitness Råde",
+      "latitude": 59.353632,
+      "longitude": 10.865327
+    },
+    {
+      "name": "SKY Fitness Stord",
+      "latitude": 59.779449,
+      "longitude": 5.500434
+    },
+    {
+      "name": "Sky Fitness Torp",
+      "latitude": 59.242225,
+      "longitude": 11.017458
+    },
+    {
+      "name": "Solvik Yoga",
+      "latitude": 59.024199,
+      "longitude": 5.979003
+    },
+    {
+      "name": "Spenst",
+      "latitude": 59.473599,
+      "longitude": 11.161519
+    },
+    {
+      "name": "Spenst",
+      "latitude": 59.927375,
+      "longitude": 11.160318
+    },
+    {
+      "name": "Spenst",
+      "latitude": 61.100065,
+      "longitude": 10.47094
+    },
+    {
+      "name": "Spenst",
+      "latitude": 61.130769,
+      "longitude": 10.448545
+    },
+    {
+      "name": "Spenst",
+      "latitude": 69.964327,
+      "longitude": 23.268601
+    },
+    {
+      "name": "Spenst Halden avd. Brødløs Express",
+      "latitude": 59.138253,
+      "longitude": 11.377642
+    },
+    {
+      "name": "Spenst Halden avd. Høvleriet",
+      "latitude": 59.120127,
+      "longitude": 11.374393
+    },
+    {
+      "name": "Spenst Jessheim",
+      "latitude": 60.14144,
+      "longitude": 11.17877
+    },
+    {
+      "name": "Spenst Middtun",
+      "latitude": 60.319732,
+      "longitude": 5.367609
+    },
+    {
+      "name": "Spenst Moss",
+      "latitude": 59.417805,
+      "longitude": 10.686032
+    },
+    {
+      "name": "Spicheren",
+      "latitude": 58.162108,
+      "longitude": 8.008234
+    },
+    {
+      "name": "Spinn treningssenter",
+      "latitude": 62.853868,
+      "longitude": 7.150265
+    },
+    {
+      "name": "Spinneriet Treningssenter",
+      "latitude": 58.451364,
+      "longitude": 6.007502
+    },
+    {
+      "name": "Spinnvill Drammen",
+      "latitude": 59.753487,
+      "longitude": 10.129452
+    },
+    {
+      "name": "Sport 4 You Hommersåk",
+      "latitude": 58.927712,
+      "longitude": 5.855591
+    },
+    {
+      "name": "Sport4You",
+      "latitude": 58.825815,
+      "longitude": 5.82142
+    },
+    {
+      "name": "Sportsenter 1",
+      "latitude": 59.821637,
+      "longitude": 10.777195
+    },
+    {
+      "name": "Sporty",
+      "latitude": 59.583706,
+      "longitude": 10.210486
+    },
+    {
+      "name": "Sporty24 Bø",
+      "latitude": 59.411257,
+      "longitude": 9.071037
+    },
+    {
+      "name": "Sporty24 Fredrikstad",
+      "latitude": 59.240534,
+      "longitude": 10.974307
+    },
+    {
+      "name": "Sporty24 Holmestrand",
+      "latitude": 59.479059,
+      "longitude": 10.317757
+    },
+    {
+      "name": "Sporty24 Holmestrand Express",
+      "latitude": 59.496746,
+      "longitude": 10.282189
+    },
+    {
+      "name": "Sporty24 Horten",
+      "latitude": 59.426656,
+      "longitude": 10.454872
+    },
+    {
+      "name": "Sporty24 Mjøndalen",
+      "latitude": 59.75151,
+      "longitude": 10.02095
+    },
+    {
+      "name": "Sporty24 Nøtterøy",
+      "latitude": 59.264422,
+      "longitude": 10.390909
+    },
+    {
+      "name": "Sporty24 Sandefjord",
+      "latitude": 59.143088,
+      "longitude": 10.200277
+    },
+    {
+      "name": "Sporty24 Sem",
+      "latitude": 59.281634,
+      "longitude": 10.328762
+    },
+    {
+      "name": "Sporty24 Stokke",
+      "latitude": 59.221913,
+      "longitude": 10.304613
+    },
+    {
+      "name": "Sporty24 Stokke Express",
+      "latitude": 59.228888,
+      "longitude": 10.288142
+    },
+    {
+      "name": "Sporty24 Tønsberg",
+      "latitude": 59.277088,
+      "longitude": 10.432507
+    },
+    {
+      "name": "Sprek & Blid 24H",
+      "latitude": 60.371792,
+      "longitude": 5.17994
+    },
+    {
+      "name": "Sprek akropolis",
+      "latitude": 59.734919,
+      "longitude": 10.20245
+    },
+    {
+      "name": "Sprek og Blid Ågotnes",
+      "latitude": 60.402827,
+      "longitude": 4.999905
+    },
+    {
+      "name": "Sprek365",
+      "latitude": 58.030815,
+      "longitude": 7.490588
+    },
+    {
+      "name": "Sprek365 Nørve",
+      "latitude": 62.470722,
+      "longitude": 6.211406
+    },
+    {
+      "name": "Sprut treningssenter",
+      "latitude": 65.98059,
+      "longitude": 12.287067
+    },
+    {
+      "name": "Spydeberg Treningssenter",
+      "latitude": 59.615516,
+      "longitude": 11.077537
+    },
+    {
+      "name": "SSA Steinkjer",
+      "latitude": 64.008458,
+      "longitude": 11.49543
+    },
+    {
+      "name": "Stadion treningssenter",
+      "latitude": 60.241552,
+      "longitude": 10.366617
+    },
+    {
+      "name": "Stamina",
+      "latitude": 60.40602,
+      "longitude": 5.219502
+    },
+    {
+      "name": "Stamina HOT treningsstudio",
+      "latitude": 67.287993,
+      "longitude": 14.567258
+    },
+    {
+      "name": "Stas Knallform",
+      "latitude": 59.48335,
+      "longitude": 6.2579
+    },
+    {
+      "name": "Sterkere",
+      "latitude": 59.959418,
+      "longitude": 11.049646
+    },
+    {
+      "name": "STOLT trening",
+      "latitude": 59.962136,
+      "longitude": 10.925027
+    },
+    {
+      "name": "Studio Jobbsprek Økern Portal",
+      "latitude": 59.930442,
+      "longitude": 10.800619
+    },
+    {
+      "name": "Studio Pilates",
+      "latitude": 60.378351,
+      "longitude": 5.353967
+    },
+    {
+      "name": "Studio Pilates",
+      "latitude": 69.646367,
+      "longitude": 18.954487
+    },
+    {
+      "name": "Studio Spire",
+      "latitude": 59.012611,
+      "longitude": 10.033678
+    },
+    {
+      "name": "Studio Yoga",
+      "latitude": 59.782133,
+      "longitude": 5.50241
+    },
+    {
+      "name": "Styrkehust Lena",
+      "latitude": 60.672894,
+      "longitude": 10.812286
+    },
+    {
+      "name": "Summit",
+      "latitude": 59.918787,
+      "longitude": 10.710244
+    },
+    {
+      "name": "Summit",
+      "latitude": 59.921335,
+      "longitude": 10.770245
+    },
+    {
+      "name": "Summit",
+      "latitude": 59.92946,
+      "longitude": 10.761296
+    },
+    {
+      "name": "Synergy Trening",
+      "latitude": 59.92846,
+      "longitude": 10.718361
+    },
+    {
+      "name": "THVS treningssenter",
+      "latitude": 59.049566,
+      "longitude": 10.054127
+    },
+    {
+      "name": "TIBIA Trening",
+      "latitude": 60.700355,
+      "longitude": 8.945248
+    },
+    {
+      "name": "Top Notch Fitness",
+      "latitude": 59.663239,
+      "longitude": 9.64418
+    },
+    {
+      "name": "Toppform fitness",
+      "latitude": 59.414986,
+      "longitude": 10.675939
+    },
+    {
+      "name": "Tr1",
+      "latitude": 59.765874,
+      "longitude": 10.259133
+    },
+    {
+      "name": "Tren Her",
+      "latitude": 63.443576,
+      "longitude": 10.435902
+    },
+    {
+      "name": "Tren Saltnes",
+      "latitude": 59.294564,
+      "longitude": 10.761264
+    },
+    {
+      "name": "TrenHer Angelltrøa",
+      "latitude": 63.417689,
+      "longitude": 10.461084
+    },
+    {
+      "name": "TrenHer Nardo",
+      "latitude": 63.40757,
+      "longitude": 10.420453
+    },
+    {
+      "name": "Treningshuset",
+      "latitude": 59.917996,
+      "longitude": 10.73701
+    },
+    {
+      "name": "Treningskompaniet",
+      "latitude": 60.879041,
+      "longitude": 10.955877
+    },
+    {
+      "name": "Trento Eidsvoll",
+      "latitude": 60.281456,
+      "longitude": 11.173417
+    },
+    {
+      "name": "Trento Kjeller",
+      "latitude": 59.974189,
+      "longitude": 11.047731
+    },
+    {
+      "name": "Trimfit",
+      "latitude": 63.59926,
+      "longitude": 8.975449
+    },
+    {
+      "name": "Trimhuset Holmestrand",
+      "latitude": 59.479798,
+      "longitude": 10.31853
+    },
+    {
+      "name": "Trinity Club",
+      "latitude": 59.910522,
+      "longitude": 10.762603
+    },
+    {
+      "name": "Trondheim Padel",
+      "latitude": 63.438753,
+      "longitude": 10.460095
+    },
+    {
+      "name": "Trondheim Pole Studio",
+      "latitude": 63.435863,
+      "longitude": 10.463482
+    },
+    {
+      "name": "Trondheim Pole Studio",
+      "latitude": 63.440664,
+      "longitude": 10.421063
+    },
+    {
+      "name": "Tønsberg Functional Fitnessklubb",
+      "latitude": 59.285202,
+      "longitude": 10.398108
+    },
+    {
+      "name": "Tønsberg Yoga",
+      "latitude": 59.267701,
+      "longitude": 10.407051
+    },
+    {
+      "name": "Uno Gym & Fitnes",
+      "latitude": 59.384684,
+      "longitude": 5.302728
+    },
+    {
+      "name": "Vardø Trimsenter",
+      "latitude": 70.373862,
+      "longitude": 31.097588
+    },
+    {
+      "name": "Vigrestad Idrettsklubb",
+      "latitude": 58.566986,
+      "longitude": 5.704957
+    },
+    {
+      "name": "Viking Gym",
+      "latitude": 58.09557,
+      "longitude": 6.794887
+    },
+    {
+      "name": "Vossgym",
+      "latitude": 60.628353,
+      "longitude": 6.422984
+    },
+    {
+      "name": "Vrådal Fitness",
+      "latitude": 59.325679,
+      "longitude": 8.484606
+    },
+    {
+      "name": "Yggdrasil Yogaskole",
+      "latitude": 59.915672,
+      "longitude": 10.767042
+    },
+    {
+      "name": "Yoga",
+      "latitude": 59.924477,
+      "longitude": 10.759943
+    },
+    {
+      "name": "Yoga Vital",
+      "latitude": 59.252699,
+      "longitude": 10.417581
+    },
+    {
+      "name": "Yoga Yoga",
+      "latitude": 58.941078,
+      "longitude": 5.745545
+    },
+    {
+      "name": "Yogaens Hus",
+      "latitude": 63.432553,
+      "longitude": 10.352655
+    },
+    {
+      "name": "Yogarommet i Ås",
+      "latitude": 59.66933,
+      "longitude": 10.796288
+    },
+    {
+      "name": "Yogy",
+      "latitude": 59.433979,
+      "longitude": 10.651344
+    },
+    {
+      "name": "YORI Yoga & Pilates",
+      "latitude": 58.097134,
+      "longitude": 7.814787
+    },
+    {
+      "name": "zenit yoga",
+      "latitude": 63.431625,
+      "longitude": 10.40702
+    },
+    {
+      "name": "Ålvik Treningssenter",
+      "latitude": 60.435194,
+      "longitude": 6.43256
+    },
+    {
+      "name": "Østfoldbadet Friskhetssenter",
+      "latitude": 59.583555,
+      "longitude": 11.167931
+    }
+  ],
+  "meta": {
+    "title": "Fitness centres in Norway - Gratis nedlasting",
+    "description": "Fitness centres in Norway (Treningssentre i Norge), derived from OpenStreetMap POIs tagged leisure=fitness_centre. Named features only, clipped to mainland Norway. Inneholder 543 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Fitness centres in Norway | ListBase",
+    "seo_description": "Last ned Fitness centres in Norway — 543 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 543 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

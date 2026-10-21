@@ -1,0 +1,791 @@
+{
+  "id": "no-osm-natural-heath",
+  "name": "Named heathland in Norway",
+  "title": "Named heathland in Norway",
+  "description": "Named heathland in Norway, derived from OpenStreetMap POI nodes tagged natural=heath in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 150,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aksla",
+      "latitude": 66.80735,
+      "longitude": 13.22275
+    },
+    {
+      "name": "Anders-Pettersenheia",
+      "latitude": 67.126369,
+      "longitude": 14.354264
+    },
+    {
+      "name": "Berrfjellet",
+      "latitude": 67.100494,
+      "longitude": 14.424497
+    },
+    {
+      "name": "Blåmoheia",
+      "latitude": 66.871214,
+      "longitude": 14.695981
+    },
+    {
+      "name": "Blåtinden",
+      "latitude": 66.643225,
+      "longitude": 13.269447
+    },
+    {
+      "name": "Breivikheia",
+      "latitude": 67.048389,
+      "longitude": 14.477008
+    },
+    {
+      "name": "Brenheia",
+      "latitude": 66.973664,
+      "longitude": 13.945469
+    },
+    {
+      "name": "Brønnvikheia",
+      "latitude": 67.080036,
+      "longitude": 14.520861
+    },
+    {
+      "name": "Bukkfjellet",
+      "latitude": 66.414756,
+      "longitude": 12.919169
+    },
+    {
+      "name": "Buttulsvågheia",
+      "latitude": 63.547271,
+      "longitude": 8.464358
+    },
+    {
+      "name": "Daffinheia",
+      "latitude": 67.122947,
+      "longitude": 14.339903
+    },
+    {
+      "name": "Dummelsheia",
+      "latitude": 63.535439,
+      "longitude": 8.409598
+    },
+    {
+      "name": "Eikelibakken",
+      "latitude": 59.939197,
+      "longitude": 10.602627
+    },
+    {
+      "name": "Finnkåtan",
+      "latitude": 66.5284,
+      "longitude": 13.118158
+    },
+    {
+      "name": "Finnlegran",
+      "latitude": 66.449903,
+      "longitude": 13.316697
+    },
+    {
+      "name": "Fjellet",
+      "latitude": 66.559153,
+      "longitude": 13.008161
+    },
+    {
+      "name": "Fløyhågen",
+      "latitude": 66.581044,
+      "longitude": 12.931028
+    },
+    {
+      "name": "Fornheia",
+      "latitude": 66.999853,
+      "longitude": 13.878758
+    },
+    {
+      "name": "Forrheia",
+      "latitude": 66.983881,
+      "longitude": 13.960089
+    },
+    {
+      "name": "Fåreklatten",
+      "latitude": 58.971276,
+      "longitude": 6.884049
+    },
+    {
+      "name": "Geitfjellet",
+      "latitude": 66.454575,
+      "longitude": 13.331831
+    },
+    {
+      "name": "Geitsprangheia",
+      "latitude": 67.057633,
+      "longitude": 13.958583
+    },
+    {
+      "name": "Gjeddågheia",
+      "latitude": 66.9597,
+      "longitude": 14.826017
+    },
+    {
+      "name": "Granheia",
+      "latitude": 66.865869,
+      "longitude": 14.633072
+    },
+    {
+      "name": "Granlitinden",
+      "latitude": 66.524578,
+      "longitude": 13.045472
+    },
+    {
+      "name": "Grasåsen",
+      "latitude": 66.738289,
+      "longitude": 13.588947
+    },
+    {
+      "name": "Grøssetheian",
+      "latitude": 66.980164,
+      "longitude": 13.953681
+    },
+    {
+      "name": "Hattferhei",
+      "latitude": 66.986239,
+      "longitude": 14.679556
+    },
+    {
+      "name": "Hattheia",
+      "latitude": 66.866514,
+      "longitude": 13.744183
+    },
+    {
+      "name": "Heia",
+      "latitude": 66.499003,
+      "longitude": 13.381942
+    },
+    {
+      "name": "Heia",
+      "latitude": 66.511072,
+      "longitude": 13.3161
+    },
+    {
+      "name": "Heia",
+      "latitude": 66.82885,
+      "longitude": 13.770997
+    },
+    {
+      "name": "Heia",
+      "latitude": 66.945606,
+      "longitude": 14.853592
+    },
+    {
+      "name": "Heia",
+      "latitude": 66.990253,
+      "longitude": 14.710186
+    },
+    {
+      "name": "Heia",
+      "latitude": 67.002822,
+      "longitude": 14.714808
+    },
+    {
+      "name": "Heia",
+      "latitude": 67.044553,
+      "longitude": 14.051608
+    },
+    {
+      "name": "Heian",
+      "latitude": 66.968622,
+      "longitude": 14.783067
+    },
+    {
+      "name": "Heian",
+      "latitude": 66.986758,
+      "longitude": 13.957258
+    },
+    {
+      "name": "Heian",
+      "latitude": 67.013611,
+      "longitude": 14.741467
+    },
+    {
+      "name": "Heian",
+      "latitude": 67.078306,
+      "longitude": 13.831961
+    },
+    {
+      "name": "Heian",
+      "latitude": 67.117464,
+      "longitude": 13.885597
+    },
+    {
+      "name": "Heiengan",
+      "latitude": 66.950214,
+      "longitude": 13.770942
+    },
+    {
+      "name": "Hestskarheia",
+      "latitude": 66.709186,
+      "longitude": 13.460308
+    },
+    {
+      "name": "Hestviktinden",
+      "latitude": 66.668817,
+      "longitude": 13.043994
+    },
+    {
+      "name": "Holmen",
+      "latitude": 58.981158,
+      "longitude": 6.153539
+    },
+    {
+      "name": "Holtaheia",
+      "latitude": 59.102111,
+      "longitude": 6.064281
+    },
+    {
+      "name": "Hoverpiggen",
+      "latitude": 66.524028,
+      "longitude": 13.161778
+    },
+    {
+      "name": "Hundhaugen",
+      "latitude": 63.540672,
+      "longitude": 8.455074
+    },
+    {
+      "name": "Hundtjørnrabben",
+      "latitude": 63.444747,
+      "longitude": 8.096871
+    },
+    {
+      "name": "Høgheia",
+      "latitude": 67.117967,
+      "longitude": 14.330728
+    },
+    {
+      "name": "Høghågen",
+      "latitude": 66.660717,
+      "longitude": 13.189483
+    },
+    {
+      "name": "Ingierkollen Slalåmsenter",
+      "latitude": 59.803049,
+      "longitude": 10.788108
+    },
+    {
+      "name": "Innermerkerabben",
+      "latitude": 66.739361,
+      "longitude": 13.714969
+    },
+    {
+      "name": "Jensforheia",
+      "latitude": 66.874128,
+      "longitude": 13.773586
+    },
+    {
+      "name": "Johaugen",
+      "latitude": 63.381269,
+      "longitude": 8.152623
+    },
+    {
+      "name": "Jutøyhatten",
+      "latitude": 66.764694,
+      "longitude": 12.476972
+    },
+    {
+      "name": "Kalvhagheia",
+      "latitude": 66.973519,
+      "longitude": 14.024272
+    },
+    {
+      "name": "Kalvskarlemmen",
+      "latitude": 66.521636,
+      "longitude": 13.276319
+    },
+    {
+      "name": "Kalvvågheia",
+      "latitude": 66.975708,
+      "longitude": 14.020222
+    },
+    {
+      "name": "Kattevasshågen",
+      "latitude": 66.595144,
+      "longitude": 12.628922
+    },
+    {
+      "name": "Kattheia",
+      "latitude": 66.77345,
+      "longitude": 13.321919
+    },
+    {
+      "name": "Kattmyrheia",
+      "latitude": 66.960253,
+      "longitude": 14.822847
+    },
+    {
+      "name": "Kattuggelheia",
+      "latitude": 63.539841,
+      "longitude": 8.471644
+    },
+    {
+      "name": "Kistaksla",
+      "latitude": 66.833967,
+      "longitude": 13.41195
+    },
+    {
+      "name": "Kiststeinheia",
+      "latitude": 67.012394,
+      "longitude": 14.805492
+    },
+    {
+      "name": "Kjerringrisfjellet",
+      "latitude": 66.958817,
+      "longitude": 14.860769
+    },
+    {
+      "name": "Klempheia",
+      "latitude": 67.10305,
+      "longitude": 14.31495
+    },
+    {
+      "name": "Klovaksla",
+      "latitude": 66.490008,
+      "longitude": 13.741047
+    },
+    {
+      "name": "Kondalsheia",
+      "latitude": 58.427906,
+      "longitude": 6.362049
+    },
+    {
+      "name": "Kondalsheia",
+      "latitude": 58.429049,
+      "longitude": 6.362861
+    },
+    {
+      "name": "Krokheia",
+      "latitude": 67.089686,
+      "longitude": 14.396067
+    },
+    {
+      "name": "Kråkhaugen",
+      "latitude": 63.545016,
+      "longitude": 8.472364
+    },
+    {
+      "name": "Kvannhølheia",
+      "latitude": 66.934956,
+      "longitude": 14.969553
+    },
+    {
+      "name": "Kvannskardalfjellet",
+      "latitude": 66.5117,
+      "longitude": 13.707561
+    },
+    {
+      "name": "Kvitheia",
+      "latitude": 67.105472,
+      "longitude": 14.328861
+    },
+    {
+      "name": "Kvitheia",
+      "latitude": 67.108378,
+      "longitude": 14.314336
+    },
+    {
+      "name": "Kvithågbergan",
+      "latitude": 66.534256,
+      "longitude": 12.855292
+    },
+    {
+      "name": "Kådalsheia",
+      "latitude": 63.53098,
+      "longitude": 8.448574
+    },
+    {
+      "name": "Langheia",
+      "latitude": 67.003306,
+      "longitude": 14.827283
+    },
+    {
+      "name": "Langheia",
+      "latitude": 67.008144,
+      "longitude": 14.836642
+    },
+    {
+      "name": "Langheia",
+      "latitude": 67.142922,
+      "longitude": 14.100475
+    },
+    {
+      "name": "Laukliheia",
+      "latitude": 67.066603,
+      "longitude": 13.762372
+    },
+    {
+      "name": "Lemman",
+      "latitude": 66.976342,
+      "longitude": 14.685217
+    },
+    {
+      "name": "Lyngbakkodden",
+      "latitude": 58.189289,
+      "longitude": 6.680446
+    },
+    {
+      "name": "Mefjellet",
+      "latitude": 66.712697,
+      "longitude": 13.437933
+    },
+    {
+      "name": "Memaurtuva",
+      "latitude": 66.647706,
+      "longitude": 13.648033
+    },
+    {
+      "name": "Middagsfjellet",
+      "latitude": 66.529058,
+      "longitude": 13.142986
+    },
+    {
+      "name": "Mordalsheia",
+      "latitude": 67.035189,
+      "longitude": 14.155919
+    },
+    {
+      "name": "Moseheian",
+      "latitude": 67.079967,
+      "longitude": 14.587886
+    },
+    {
+      "name": "Mosheia",
+      "latitude": 66.8024,
+      "longitude": 13.624428
+    },
+    {
+      "name": "Mosheia",
+      "latitude": 66.912358,
+      "longitude": 13.828931
+    },
+    {
+      "name": "Mossheian",
+      "latitude": 67.076472,
+      "longitude": 13.827978
+    },
+    {
+      "name": "Mulliheia",
+      "latitude": 66.942389,
+      "longitude": 13.772428
+    },
+    {
+      "name": "Mølnhusfjellet",
+      "latitude": 66.624947,
+      "longitude": 13.471508
+    },
+    {
+      "name": "Møsapallen",
+      "latitude": 66.814575,
+      "longitude": 14.655222
+    },
+    {
+      "name": "Nerfjellet",
+      "latitude": 66.481331,
+      "longitude": 13.511061
+    },
+    {
+      "name": "Nilsengfjellet",
+      "latitude": 66.471853,
+      "longitude": 13.182233
+    },
+    {
+      "name": "Nonsfjellet",
+      "latitude": 66.535714,
+      "longitude": 13.061278
+    },
+    {
+      "name": "Nonshågan",
+      "latitude": 66.743658,
+      "longitude": 13.742483
+    },
+    {
+      "name": "Novikheia",
+      "latitude": 66.975525,
+      "longitude": 13.879097
+    },
+    {
+      "name": "Nupan",
+      "latitude": 66.745142,
+      "longitude": 13.730422
+    },
+    {
+      "name": "Oddhågen",
+      "latitude": 66.656794,
+      "longitude": 13.179925
+    },
+    {
+      "name": "Per Mikkel hammaren",
+      "latitude": 66.913272,
+      "longitude": 13.7932
+    },
+    {
+      "name": "Pisshammaren",
+      "latitude": 66.637947,
+      "longitude": 13.012069
+    },
+    {
+      "name": "Ramberga",
+      "latitude": 63.445648,
+      "longitude": 8.114514
+    },
+    {
+      "name": "Ramndalstuva",
+      "latitude": 66.560739,
+      "longitude": 12.623392
+    },
+    {
+      "name": "Ramskjellheia",
+      "latitude": 66.949892,
+      "longitude": 14.849928
+    },
+    {
+      "name": "Raudtinden",
+      "latitude": 66.530783,
+      "longitude": 12.82835
+    },
+    {
+      "name": "Raunesheia",
+      "latitude": 67.064233,
+      "longitude": 13.768311
+    },
+    {
+      "name": "Risfjellet",
+      "latitude": 66.733897,
+      "longitude": 13.719486
+    },
+    {
+      "name": "Rykkevikkrabban",
+      "latitude": 66.540444,
+      "longitude": 13.120561
+    },
+    {
+      "name": "Sandvikhatten",
+      "latitude": 66.636517,
+      "longitude": 13.030492
+    },
+    {
+      "name": "Sildvikheia",
+      "latitude": 67.097111,
+      "longitude": 14.417789
+    },
+    {
+      "name": "Sirivikheiene",
+      "latitude": 67.002669,
+      "longitude": 14.156308
+    },
+    {
+      "name": "Skagafjellet",
+      "latitude": 66.522764,
+      "longitude": 13.002156
+    },
+    {
+      "name": "Skognesheia",
+      "latitude": 67.07695,
+      "longitude": 14.092314
+    },
+    {
+      "name": "Skålsvikheia",
+      "latitude": 66.723761,
+      "longitude": 13.577217
+    },
+    {
+      "name": "Slettfjellet",
+      "latitude": 66.663839,
+      "longitude": 13.202619
+    },
+    {
+      "name": "Stigtindan",
+      "latitude": 66.414933,
+      "longitude": 12.943436
+    },
+    {
+      "name": "Stokkvikheia",
+      "latitude": 67.051481,
+      "longitude": 13.949264
+    },
+    {
+      "name": "Storheia",
+      "latitude": 67.002931,
+      "longitude": 14.242322
+    },
+    {
+      "name": "Storheia",
+      "latitude": 67.057525,
+      "longitude": 13.825719
+    },
+    {
+      "name": "Storheia",
+      "latitude": 67.100083,
+      "longitude": 14.026461
+    },
+    {
+      "name": "Stornesheia",
+      "latitude": 67.059806,
+      "longitude": 13.836692
+    },
+    {
+      "name": "Storpallen",
+      "latitude": 66.811528,
+      "longitude": 14.664603
+    },
+    {
+      "name": "Storvassåsen",
+      "latitude": 66.657311,
+      "longitude": 13.218789
+    },
+    {
+      "name": "Svindalshågan",
+      "latitude": 66.540736,
+      "longitude": 12.832042
+    },
+    {
+      "name": "Svinheia",
+      "latitude": 67.095378,
+      "longitude": 14.295544
+    },
+    {
+      "name": "Sølvfastfjellet",
+      "latitude": 66.641961,
+      "longitude": 13.561106
+    },
+    {
+      "name": "Sør-Stokkvikheia",
+      "latitude": 67.045911,
+      "longitude": 13.949481
+    },
+    {
+      "name": "Teppfjellet",
+      "latitude": 66.710142,
+      "longitude": 13.445839
+    },
+    {
+      "name": "Tistelheia",
+      "latitude": 63.643017,
+      "longitude": 8.944799
+    },
+    {
+      "name": "Tjuskafjellet",
+      "latitude": 66.438744,
+      "longitude": 13.265203
+    },
+    {
+      "name": "Tjyvdalsheia",
+      "latitude": 66.919108,
+      "longitude": 13.440533
+    },
+    {
+      "name": "Torvheia",
+      "latitude": 67.14685,
+      "longitude": 14.111219
+    },
+    {
+      "name": "Turvheia",
+      "latitude": 67.035653,
+      "longitude": 14.197039
+    },
+    {
+      "name": "Tverrfjellet",
+      "latitude": 66.473881,
+      "longitude": 13.302403
+    },
+    {
+      "name": "Tverrheia",
+      "latitude": 66.980403,
+      "longitude": 13.863519
+    },
+    {
+      "name": "Vardheia",
+      "latitude": 66.944086,
+      "longitude": 14.951628
+    },
+    {
+      "name": "Vardheia",
+      "latitude": 67.087092,
+      "longitude": 14.401303
+    },
+    {
+      "name": "Vedkassberget",
+      "latitude": 66.745578,
+      "longitude": 13.821167
+    },
+    {
+      "name": "Vikkrona",
+      "latitude": 66.450494,
+      "longitude": 13.247397
+    },
+    {
+      "name": "Ytre Kvarøyfjellet",
+      "latitude": 66.483644,
+      "longitude": 12.893303
+    },
+    {
+      "name": "Yttermerkerabben",
+      "latitude": 66.739844,
+      "longitude": 13.698261
+    },
+    {
+      "name": "Åsen",
+      "latitude": 66.853692,
+      "longitude": 13.738986
+    },
+    {
+      "name": "Ørndalsfjellet",
+      "latitude": 66.5272,
+      "longitude": 12.982347
+    },
+    {
+      "name": "Ørnlifjellet",
+      "latitude": 66.662711,
+      "longitude": 13.219625
+    },
+    {
+      "name": "Ørntuva",
+      "latitude": 66.839097,
+      "longitude": 13.565722
+    },
+    {
+      "name": "Øverfjellet",
+      "latitude": 66.484467,
+      "longitude": 13.511322
+    },
+    {
+      "name": "Øverloftet",
+      "latitude": 66.521522,
+      "longitude": 13.726731
+    }
+  ],
+  "meta": {
+    "title": "Named heathland in Norway - Gratis nedlasting",
+    "description": "Named heathland in Norway, derived from OpenStreetMap POI nodes tagged natural=heath in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 150 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named heathland in Norway | ListBase",
+    "seo_description": "Last ned Named heathland in Norway — 150 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 150 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

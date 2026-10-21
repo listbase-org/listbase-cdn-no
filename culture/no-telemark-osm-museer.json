@@ -1,0 +1,225 @@
+{
+  "id": "no-telemark-osm-museer",
+  "name": "Museer i Telemark – OpenStreetMap (14 museums in Telemark, OSM)",
+  "title": "Museer i Telemark – OpenStreetMap (14 museums in Telemark, OSM)",
+  "description": "Museer i fylket Telemark fra OpenStreetMap — delmengde av no-osm-museer, 14 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bø museum",
+      "name_en": "",
+      "city": "Bø",
+      "fylke": "Telemark",
+      "naermeste_sted": "Bø",
+      "avstand_km": 2.267,
+      "latitude": 59.429758,
+      "longitude": 9.046478,
+      "website": ""
+    },
+    {
+      "name": "Hardangervidda nasjonalparksenter",
+      "name_en": "",
+      "city": "Rjukan",
+      "fylke": "Telemark",
+      "naermeste_sted": "Rjukan",
+      "avstand_km": 17.413,
+      "latitude": 59.815249,
+      "longitude": 8.309261,
+      "website": ""
+    },
+    {
+      "name": "Heddal Bygdetun",
+      "name_en": "",
+      "city": "Notodden",
+      "fylke": "Telemark",
+      "naermeste_sted": "Notodden",
+      "avstand_km": 4.818,
+      "latitude": 59.578799,
+      "longitude": 9.182013,
+      "website": ""
+    },
+    {
+      "name": "Kittelsenhuset",
+      "name_en": "",
+      "city": "Kragerø",
+      "fylke": "Telemark",
+      "naermeste_sted": "Kragerø",
+      "avstand_km": 0.193,
+      "latitude": 58.868613,
+      "longitude": 9.411822,
+      "website": ""
+    },
+    {
+      "name": "Myllarheimen",
+      "name_en": "",
+      "city": "Åmot",
+      "fylke": "Telemark",
+      "naermeste_sted": "Åmot",
+      "avstand_km": 27.171,
+      "latitude": 59.775408,
+      "longitude": 7.72751,
+      "website": ""
+    },
+    {
+      "name": "Playmobil",
+      "name_en": "",
+      "city": "Kragerø",
+      "fylke": "Telemark",
+      "naermeste_sted": "Kragerø",
+      "avstand_km": 0.12,
+      "latitude": 58.869489,
+      "longitude": 9.41285,
+      "website": ""
+    },
+    {
+      "name": "Sjøfartsmuseet",
+      "name_en": "",
+      "city": "Porsgrunn",
+      "fylke": "Telemark",
+      "naermeste_sted": "Porsgrunn",
+      "avstand_km": 1.072,
+      "latitude": 59.137229,
+      "longitude": 9.638412,
+      "website": ""
+    },
+    {
+      "name": "Sputnik Museet",
+      "name_en": "",
+      "city": "Prestestranda",
+      "fylke": "Telemark",
+      "naermeste_sted": "Prestestranda",
+      "avstand_km": 9.88,
+      "latitude": 59.107142,
+      "longitude": 8.886639,
+      "website": ""
+    },
+    {
+      "name": "Telemark Fylkesgalleri",
+      "name_en": "",
+      "city": "Notodden",
+      "fylke": "Telemark",
+      "naermeste_sted": "Notodden",
+      "avstand_km": 0.921,
+      "latitude": 59.567464,
+      "longitude": 9.26222,
+      "website": ""
+    },
+    {
+      "name": "Telemark museum",
+      "name_en": "",
+      "city": "Skien",
+      "fylke": "Telemark",
+      "naermeste_sted": "Skien",
+      "avstand_km": 0.306,
+      "latitude": 59.208937,
+      "longitude": 9.614224,
+      "website": ""
+    },
+    {
+      "name": "Vest-Telemark Museum",
+      "name_en": "",
+      "city": "Dalen",
+      "fylke": "Telemark",
+      "naermeste_sted": "Dalen",
+      "avstand_km": 2.493,
+      "latitude": 59.466059,
+      "longitude": 8.020046,
+      "website": "http://www.vest-telemark.museum.no/museum/vest-telemark-museum-eidsborg-p515293"
+    },
+    {
+      "name": "Vinje biletgalleri",
+      "name_en": "",
+      "city": "Åmot",
+      "fylke": "Telemark",
+      "naermeste_sted": "Åmot",
+      "avstand_km": 14.209,
+      "latitude": 59.648801,
+      "longitude": 7.79033,
+      "website": ""
+    },
+    {
+      "name": "Vinjestoga",
+      "name_en": "",
+      "city": "Åmot",
+      "fylke": "Telemark",
+      "naermeste_sted": "Åmot",
+      "avstand_km": 10.555,
+      "latitude": 59.621677,
+      "longitude": 7.831763,
+      "website": ""
+    },
+    {
+      "name": "Øyskogen",
+      "name_en": "",
+      "city": "Moland",
+      "fylke": "Telemark",
+      "naermeste_sted": "Fyresdal",
+      "avstand_km": 0.089,
+      "latitude": 59.182802,
+      "longitude": 8.091053,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Telemark – OpenStreetMap (14 museums in Telemark, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Telemark fra OpenStreetMap — delmengde av no-osm-museer, 14 poster. Inneholder 14 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Telemark – OpenStreetMap (14 museums in Telemark, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Telemark – OpenStreetMap (14 museums in Telemark, OSM) — 14 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 14 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "id": "no-fylker",
+  "name": "Fylker i Norge",
+  "title": "Fylker i Norge",
+  "description": "Liste over alle 15 norske fylker (post-2024-reformen layout) med ISO 3166-2-koder, hovedstad og antall kommuner/postnummer.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_2",
+      "label": "Iso 3166 2",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_kommuner",
+      "label": "Num Kommuner",
+      "type": "number"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "03",
+      "name": "Oslo",
+      "slug": "oslo",
+      "iso_3166_2": "NO-03",
+      "capital": "Oslo",
+      "url": "www.oslo.kommune.no",
+      "num_kommuner": 1,
+      "num_postnummer": 633
+    },
+    {
+      "id": "11",
+      "name": "Rogaland",
+      "slug": "rogaland",
+      "iso_3166_2": "NO-11",
+      "capital": "Stavanger",
+      "url": "www.rogfk.no",
+      "num_kommuner": 23,
+      "num_postnummer": 314
+    },
+    {
+      "id": "15",
+      "name": "Møre og Romsdal",
+      "slug": "more-og-romsdal",
+      "iso_3166_2": "NO-15",
+      "capital": "Molde",
+      "url": "www.mrfylke.no",
+      "num_kommuner": 27,
+      "num_postnummer": 327
+    },
+    {
+      "id": "18",
+      "name": "Nordland",
+      "slug": "nordland",
+      "iso_3166_2": "NO-18",
+      "capital": "Bodø",
+      "url": "www.nfk.no",
+      "num_kommuner": 41,
+      "num_postnummer": 404
+    },
+    {
+      "id": "31",
+      "name": "Østfold",
+      "slug": "ostfold",
+      "iso_3166_2": "NO-31",
+      "capital": "Sarpsborg",
+      "url": "www.ofk.no",
+      "num_kommuner": 12,
+      "num_postnummer": 236
+    },
+    {
+      "id": "32",
+      "name": "Akershus",
+      "slug": "akershus",
+      "iso_3166_2": "NO-32",
+      "capital": "Oslo",
+      "url": "www.afk.no",
+      "num_kommuner": 21,
+      "num_postnummer": 322
+    },
+    {
+      "id": "33",
+      "name": "Buskerud",
+      "slug": "buskerud",
+      "iso_3166_2": "NO-33",
+      "capital": "Drammen",
+      "url": "www.bfk.no",
+      "num_kommuner": 18,
+      "num_postnummer": 191
+    },
+    {
+      "id": "34",
+      "name": "Innlandet",
+      "slug": "innlandet",
+      "iso_3166_2": "NO-34",
+      "capital": "Hamar",
+      "url": "www.innlandetfylke.no",
+      "num_kommuner": 46,
+      "num_postnummer": 383
+    },
+    {
+      "id": "39",
+      "name": "Vestfold",
+      "slug": "vestfold",
+      "iso_3166_2": "NO-39",
+      "capital": "Tønsberg",
+      "url": "www.vestfoldfylke.no",
+      "num_kommuner": 6,
+      "num_postnummer": 194
+    },
+    {
+      "id": "40",
+      "name": "Telemark",
+      "slug": "telemark",
+      "iso_3166_2": "NO-40",
+      "capital": "Skien",
+      "url": "www.telemarkfylke.no",
+      "num_kommuner": 17,
+      "num_postnummer": 188
+    },
+    {
+      "id": "42",
+      "name": "Agder",
+      "slug": "agder",
+      "iso_3166_2": "NO-42",
+      "capital": "Kristiansand",
+      "url": "www.agderfk.no",
+      "num_kommuner": 25,
+      "num_postnummer": 288
+    },
+    {
+      "id": "46",
+      "name": "Vestland",
+      "slug": "vestland",
+      "iso_3166_2": "NO-46",
+      "capital": "Bergen",
+      "url": "www.vestlandfylke.no",
+      "num_kommuner": 43,
+      "num_postnummer": 722
+    },
+    {
+      "id": "50",
+      "name": "Trøndelag",
+      "slug": "trondelag",
+      "iso_3166_2": "NO-50",
+      "capital": "Steinkjer",
+      "url": "www.trondelagfylke.no",
+      "num_kommuner": 38,
+      "num_postnummer": 516
+    },
+    {
+      "id": "55",
+      "name": "Troms",
+      "slug": "troms",
+      "iso_3166_2": "NO-55",
+      "capital": "Tromsø",
+      "url": "www.tromsfylke.no",
+      "num_kommuner": 21,
+      "num_postnummer": 246
+    },
+    {
+      "id": "56",
+      "name": "Finnmark",
+      "slug": "finnmark",
+      "iso_3166_2": "NO-56",
+      "capital": "Vadsø",
+      "url": "www.ffk.no",
+      "num_kommuner": 18,
+      "num_postnummer": 149
+    }
+  ],
+  "meta": {
+    "title": "Fylker i Norge - Gratis nedlasting",
+    "description": "Liste over alle 15 norske fylker (post-2024-reformen layout) med ISO 3166-2-koder, hovedstad og antall kommuner/postnummer. Inneholder 15 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Fylker i Norge | ListBase",
+    "seo_description": "Last ned Fylker i Norge — 15 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 15 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

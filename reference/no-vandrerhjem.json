@@ -1,0 +1,601 @@
+{
+  "id": "no-vandrerhjem",
+  "name": "Hostels in Norway",
+  "title": "Hostels in Norway",
+  "description": "Hostels in Norway (Vandrerhjem i Norge), derived from OpenStreetMap POIs tagged tourism=hostel. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "@Hardanger Vandrerhjem",
+      "latitude": 60.372758,
+      "longitude": 6.717343
+    },
+    {
+      "name": "Akkarfjord Hostel",
+      "latitude": 70.79028,
+      "longitude": 23.416339
+    },
+    {
+      "name": "Anker Hostel",
+      "latitude": 59.917048,
+      "longitude": 10.75765
+    },
+    {
+      "name": "Annecy Sommerpensjonat",
+      "latitude": 62.471138,
+      "longitude": 6.150441
+    },
+    {
+      "name": "Balestrand Vandrerhjem",
+      "latitude": 61.209404,
+      "longitude": 6.533126
+    },
+    {
+      "name": "Bergen YMCA Hostel",
+      "latitude": 60.394493,
+      "longitude": 5.326685
+    },
+    {
+      "name": "Bjøntegaard Leirskole og Leirsted",
+      "latitude": 61.837902,
+      "longitude": 10.881143
+    },
+    {
+      "name": "Bjøråneskoia",
+      "latitude": 61.657406,
+      "longitude": 10.899639
+    },
+    {
+      "name": "Bodo Motel",
+      "latitude": 67.286189,
+      "longitude": 14.391184
+    },
+    {
+      "name": "Bogen",
+      "latitude": 68.513596,
+      "longitude": 17.011234
+    },
+    {
+      "name": "Borlaug Vandrerhjem",
+      "latitude": 61.073284,
+      "longitude": 7.953714
+    },
+    {
+      "name": "Brufjell Hostel & Parking",
+      "latitude": 58.285395,
+      "longitude": 6.423287
+    },
+    {
+      "name": "Brygga",
+      "latitude": 64.171702,
+      "longitude": 9.408404
+    },
+    {
+      "name": "Bunks at Rode",
+      "latitude": 59.927317,
+      "longitude": 10.766856
+    },
+    {
+      "name": "Daniel's Hjem",
+      "latitude": 63.28499,
+      "longitude": 10.284619
+    },
+    {
+      "name": "Daniel's Hjem",
+      "latitude": 63.285482,
+      "longitude": 10.286044
+    },
+    {
+      "name": "Eco Camp",
+      "latitude": 63.327662,
+      "longitude": 8.052813
+    },
+    {
+      "name": "Eliassen Rorbuer and Hostel",
+      "latitude": 67.947528,
+      "longitude": 13.131517
+    },
+    {
+      "name": "Elsa",
+      "latitude": 69.972127,
+      "longitude": 29.632194
+    },
+    {
+      "name": "Elverum Folkehøgskule",
+      "latitude": 60.897353,
+      "longitude": 11.562974
+    },
+    {
+      "name": "Engholm's Husky",
+      "latitude": 69.448817,
+      "longitude": 25.358753
+    },
+    {
+      "name": "Eplet",
+      "latitude": 61.301808,
+      "longitude": 7.243598
+    },
+    {
+      "name": "Finse",
+      "latitude": 60.597932,
+      "longitude": 7.506994
+    },
+    {
+      "name": "Fiskarheimen Havly Røst",
+      "latitude": 67.506129,
+      "longitude": 12.075204
+    },
+    {
+      "name": "Flørli Historic Hostel",
+      "latitude": 59.012923,
+      "longitude": 6.425745
+    },
+    {
+      "name": "FURU Hostel",
+      "latitude": 68.282707,
+      "longitude": 13.911596
+    },
+    {
+      "name": "Furutangen Vandrerhjem",
+      "latitude": 59.20069,
+      "longitude": 6.004162
+    },
+    {
+      "name": "Førde Pensjonat",
+      "latitude": 61.453622,
+      "longitude": 5.83955
+    },
+    {
+      "name": "Førde Sommarhotell",
+      "latitude": 61.46116,
+      "longitude": 5.887468
+    },
+    {
+      "name": "Gildesvollen",
+      "latitude": 61.509166,
+      "longitude": 10.170134
+    },
+    {
+      "name": "Gjøvik Vandrerhjem Hovdetun",
+      "latitude": 60.797664,
+      "longitude": 10.671691
+    },
+    {
+      "name": "Gumdal Farm",
+      "latitude": 63.176512,
+      "longitude": 9.772661
+    },
+    {
+      "name": "Hamar Vandrerhjem Vikingskipet",
+      "latitude": 60.794759,
+      "longitude": 11.09874
+    },
+    {
+      "name": "Haraldsheim",
+      "latitude": 59.940807,
+      "longitude": 10.788563
+    },
+    {
+      "name": "Hardanger Hostel B&B",
+      "latitude": 60.318341,
+      "longitude": 6.657623
+    },
+    {
+      "name": "Hellberg herberge",
+      "latitude": 63.632346,
+      "longitude": 10.811695
+    },
+    {
+      "name": "Hellesylt vandrerhjem",
+      "latitude": 62.08945,
+      "longitude": 6.865856
+    },
+    {
+      "name": "Helligskogen",
+      "latitude": 69.19982,
+      "longitude": 20.709046
+    },
+    {
+      "name": "HI Mandal Vandrerhjem",
+      "latitude": 58.025292,
+      "longitude": 7.450161
+    },
+    {
+      "name": "HI Åpta",
+      "latitude": 58.186792,
+      "longitude": 6.795025
+    },
+    {
+      "name": "Hoddevika Surf Camp",
+      "latitude": 62.125752,
+      "longitude": 5.167572
+    },
+    {
+      "name": "Hostel Oslofjord",
+      "latitude": 59.903676,
+      "longitude": 10.604744
+    },
+    {
+      "name": "Hostellet",
+      "latitude": 59.567586,
+      "longitude": 7.364071
+    },
+    {
+      "name": "Intermission Hostel",
+      "latitude": 60.390182,
+      "longitude": 5.337802
+    },
+    {
+      "name": "Kabelvåg Vandrerhjem",
+      "latitude": 68.212226,
+      "longitude": 14.486278
+    },
+    {
+      "name": "Karalaks",
+      "latitude": 69.998732,
+      "longitude": 24.990498
+    },
+    {
+      "name": "Karmøy Vandrerhjem",
+      "latitude": 59.281256,
+      "longitude": 5.284116
+    },
+    {
+      "name": "Knaben leirskole",
+      "latitude": 58.664868,
+      "longitude": 7.065434
+    },
+    {
+      "name": "Knutehytta",
+      "latitude": 59.672613,
+      "longitude": 9.539475
+    },
+    {
+      "name": "Kongsberg Vandrerhjem Bergmannen",
+      "latitude": 59.667558,
+      "longitude": 9.642488
+    },
+    {
+      "name": "KONGSVEGEN PILEGRIMSHERBERGE",
+      "latitude": 60.869468,
+      "longitude": 10.957966
+    },
+    {
+      "name": "Kræmmervika Rorbuer",
+      "latitude": 68.06909,
+      "longitude": 13.534322
+    },
+    {
+      "name": "Lapoint Surfeleir Norge - Hoddevik",
+      "latitude": 62.118549,
+      "longitude": 5.174675
+    },
+    {
+      "name": "Large apartment in Herand",
+      "latitude": 60.342598,
+      "longitude": 6.377558
+    },
+    {
+      "name": "Lilland Vandrerhjem Vaulali",
+      "latitude": 59.065691,
+      "longitude": 6.024603
+    },
+    {
+      "name": "Lille Pernille",
+      "latitude": 70.780072,
+      "longitude": 23.383484
+    },
+    {
+      "name": "Lillehammer Vandrerhjem",
+      "latitude": 61.114502,
+      "longitude": 10.46154
+    },
+    {
+      "name": "Lista Vandrerhjem",
+      "latitude": 58.115235,
+      "longitude": 6.617621
+    },
+    {
+      "name": "Lorden Kro",
+      "latitude": 71.040336,
+      "longitude": 27.850473
+    },
+    {
+      "name": "Lunde Vandrerhjem",
+      "latitude": 59.293733,
+      "longitude": 9.108058
+    },
+    {
+      "name": "Magasingården",
+      "latitude": 59.352386,
+      "longitude": 5.222954
+    },
+    {
+      "name": "Midnattsol Pensjonat",
+      "latitude": 68.804844,
+      "longitude": 16.541255
+    },
+    {
+      "name": "Mjølfjell Ungdomsherberge",
+      "latitude": 60.702157,
+      "longitude": 6.93825
+    },
+    {
+      "name": "Molde vandrerhjem",
+      "latitude": 62.736686,
+      "longitude": 7.123912
+    },
+    {
+      "name": "Montana hostel",
+      "latitude": 60.371616,
+      "longitude": 5.366255
+    },
+    {
+      "name": "Mosvangen vandrerhjem",
+      "latitude": 58.952599,
+      "longitude": 5.712947
+    },
+    {
+      "name": "Nesholmen",
+      "latitude": 61.655391,
+      "longitude": 5.785583
+    },
+    {
+      "name": "Nordic safari, rorbu og vandrehjem",
+      "latitude": 71.038004,
+      "longitude": 27.835584
+    },
+    {
+      "name": "Nørgar Voll",
+      "latitude": 62.871899,
+      "longitude": 9.843207
+    },
+    {
+      "name": "Oiygardsgrend",
+      "latitude": 60.321875,
+      "longitude": 8.922377
+    },
+    {
+      "name": "Piano Hostel",
+      "latitude": 60.392601,
+      "longitude": 5.331864
+    },
+    {
+      "name": "Pilegrimsloftet Borkerud",
+      "latitude": 61.324827,
+      "longitude": 10.33215
+    },
+    {
+      "name": "Pilgrimsstuggua",
+      "latitude": 60.902477,
+      "longitude": 10.723935
+    },
+    {
+      "name": "Repparfjord Camping og Misjonssenter",
+      "latitude": 70.447947,
+      "longitude": 24.388361
+    },
+    {
+      "name": "RUMI Hostel",
+      "latitude": 63.433675,
+      "longitude": 10.424511
+    },
+    {
+      "name": "Sandnes Vandrerhjem",
+      "latitude": 58.852369,
+      "longitude": 5.733866
+    },
+    {
+      "name": "Sappen Leirskole",
+      "latitude": 69.559535,
+      "longitude": 21.302234
+    },
+    {
+      "name": "Senjahuset Gibostad",
+      "latitude": 69.354271,
+      "longitude": 18.076508
+    },
+    {
+      "name": "Sjoa kajakk camp (Riksanlegget)",
+      "latitude": 61.685114,
+      "longitude": 9.485587
+    },
+    {
+      "name": "Sjøglimt leirsted",
+      "latitude": 59.503054,
+      "longitude": 11.627769
+    },
+    {
+      "name": "Sjømannskirka",
+      "latitude": 68.433094,
+      "longitude": 17.423688
+    },
+    {
+      "name": "Skanklåna",
+      "latitude": 64.171541,
+      "longitude": 9.40892
+    },
+    {
+      "name": "Skien Vandrerhjem",
+      "latitude": 59.185263,
+      "longitude": 9.59839
+    },
+    {
+      "name": "Skjolden Vandrerhjem",
+      "latitude": 61.485736,
+      "longitude": 7.648619
+    },
+    {
+      "name": "Skolla leirsted",
+      "latitude": 61.243172,
+      "longitude": 10.817027
+    },
+    {
+      "name": "Smedberget Pilegrimstun",
+      "latitude": 61.900397,
+      "longitude": 11.066558
+    },
+    {
+      "name": "Sogndal Vandrerhjem",
+      "latitude": 61.23204,
+      "longitude": 7.116979
+    },
+    {
+      "name": "Sognhostel",
+      "latitude": 61.222803,
+      "longitude": 5.202331
+    },
+    {
+      "name": "Spellmovollen",
+      "latitude": 62.626848,
+      "longitude": 10.848267
+    },
+    {
+      "name": "Stamsund Vandrerhjem",
+      "latitude": 68.130499,
+      "longitude": 13.854334
+    },
+    {
+      "name": "Steine Rorbu",
+      "latitude": 68.118093,
+      "longitude": 13.787986
+    },
+    {
+      "name": "Stryn House - Hotel & Apartments",
+      "latitude": 61.905136,
+      "longitude": 6.725478
+    },
+    {
+      "name": "Sund Folkehøgskole Sommerhotell",
+      "latitude": 63.857785,
+      "longitude": 11.315376
+    },
+    {
+      "name": "The White House Hostel B & B",
+      "latitude": 59.054033,
+      "longitude": 6.648943
+    },
+    {
+      "name": "Trailing Tellervo @Bungalåven",
+      "latitude": 70.317396,
+      "longitude": 25.559303
+    },
+    {
+      "name": "Trolltunga Studios",
+      "latitude": 60.072517,
+      "longitude": 6.552437
+    },
+    {
+      "name": "Tromso Activities Hostel 4569",
+      "latitude": 69.653707,
+      "longitude": 18.960766
+    },
+    {
+      "name": "Tromso Coco Apartments",
+      "latitude": 69.648686,
+      "longitude": 18.951108
+    },
+    {
+      "name": "Tuneheimen",
+      "latitude": 59.291907,
+      "longitude": 11.090558
+    },
+    {
+      "name": "Tømmerneset Leirsted",
+      "latitude": 69.217775,
+      "longitude": 18.286592
+    },
+    {
+      "name": "Tønsberg Vandrehjem",
+      "latitude": 59.273012,
+      "longitude": 10.405351
+    },
+    {
+      "name": "Uvdal Vandrerhjem",
+      "latitude": 60.265609,
+      "longitude": 8.796092
+    },
+    {
+      "name": "Vanderheim",
+      "latitude": 62.472499,
+      "longitude": 6.162186
+    },
+    {
+      "name": "Vestre Jakobselv Camping og Misjonssenter",
+      "latitude": 70.120256,
+      "longitude": 29.330764
+    },
+    {
+      "name": "Vinstra Hostel",
+      "latitude": 61.598084,
+      "longitude": 9.744786
+    },
+    {
+      "name": "Voss Vandrerhjem",
+      "latitude": 60.625554,
+      "longitude": 6.396116
+    },
+    {
+      "name": "VÅGSEIDESTRANDA FERIESENTER",
+      "latitude": 60.724479,
+      "longitude": 5.21406
+    },
+    {
+      "name": "Værkshuset Froland",
+      "latitude": 58.499044,
+      "longitude": 8.599402
+    },
+    {
+      "name": "Å Hamna Rorbuer",
+      "latitude": 67.881491,
+      "longitude": 12.982751
+    },
+    {
+      "name": "Åkersetra leirsted",
+      "latitude": 61.155344,
+      "longitude": 10.916409
+    },
+    {
+      "name": "Åndalsnes vandrerhjem",
+      "latitude": 62.554239,
+      "longitude": 7.681726
+    },
+    {
+      "name": "Общежитие",
+      "latitude": 69.021225,
+      "longitude": 28.993589
+    }
+  ],
+  "meta": {
+    "title": "Hostels in Norway - Gratis nedlasting",
+    "description": "Hostels in Norway (Vandrerhjem i Norge), derived from OpenStreetMap POIs tagged tourism=hostel. Named features only, clipped to mainland Norway. Inneholder 112 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Hostels in Norway | ListBase",
+    "seo_description": "Last ned Hostels in Norway — 112 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 112 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

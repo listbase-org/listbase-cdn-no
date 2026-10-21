@@ -1,0 +1,941 @@
+{
+  "id": "no-fiskeplasser",
+  "name": "Fishing spots in Norway",
+  "title": "Fishing spots in Norway",
+  "description": "Fishing spots in Norway (Fiskeplasser i Norge), derived from OpenStreetMap POIs tagged leisure=fishing. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 180,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aelesundfisk Skarsvåg",
+      "latitude": 71.114087,
+      "longitude": 25.833298
+    },
+    {
+      "name": "Albogesvingen",
+      "latitude": 61.052343,
+      "longitude": 11.323423
+    },
+    {
+      "name": "Apalvika",
+      "latitude": 59.792311,
+      "longitude": 5.537973
+    },
+    {
+      "name": "Aslavikjo",
+      "latitude": 59.788495,
+      "longitude": 5.522624
+    },
+    {
+      "name": "Aumkroken",
+      "latitude": 62.221709,
+      "longitude": 10.786935
+    },
+    {
+      "name": "Bakevja",
+      "latitude": 60.476862,
+      "longitude": 11.778839
+    },
+    {
+      "name": "Bakevja",
+      "latitude": 61.842436,
+      "longitude": 10.403567
+    },
+    {
+      "name": "Bala",
+      "latitude": 60.425124,
+      "longitude": 11.751953
+    },
+    {
+      "name": "Bekkhølen",
+      "latitude": 62.138264,
+      "longitude": 10.167174
+    },
+    {
+      "name": "Bjåstadvatnet",
+      "latitude": 58.208829,
+      "longitude": 7.395164
+    },
+    {
+      "name": "Bjørhølen",
+      "latitude": 60.963806,
+      "longitude": 12.048196
+    },
+    {
+      "name": "Bjørnhølen",
+      "latitude": 62.214561,
+      "longitude": 11.406991
+    },
+    {
+      "name": "Brannstrømmen",
+      "latitude": 61.235347,
+      "longitude": 11.498723
+    },
+    {
+      "name": "Brendryhølen",
+      "latitude": 62.244842,
+      "longitude": 10.336778
+    },
+    {
+      "name": "Brufosshølen",
+      "latitude": 62.285994,
+      "longitude": 10.119597
+    },
+    {
+      "name": "Buhølen",
+      "latitude": 61.013495,
+      "longitude": 11.925816
+    },
+    {
+      "name": "Damkjølen",
+      "latitude": 61.669694,
+      "longitude": 12.186963
+    },
+    {
+      "name": "Djupdalen",
+      "latitude": 61.324135,
+      "longitude": 11.407955
+    },
+    {
+      "name": "Djupholet",
+      "latitude": 62.283882,
+      "longitude": 12.157326
+    },
+    {
+      "name": "Djuphåen",
+      "latitude": 62.347054,
+      "longitude": 12.052418
+    },
+    {
+      "name": "Dulpa",
+      "latitude": 61.297377,
+      "longitude": 11.420421
+    },
+    {
+      "name": "Eftasbetta",
+      "latitude": 61.017499,
+      "longitude": 11.917819
+    },
+    {
+      "name": "Elgetjern",
+      "latitude": 59.076455,
+      "longitude": 11.629007
+    },
+    {
+      "name": "Elsehølet",
+      "latitude": 61.848668,
+      "longitude": 10.268087
+    },
+    {
+      "name": "Engelsmannhølen",
+      "latitude": 62.008708,
+      "longitude": 10.013791
+    },
+    {
+      "name": "Firerfløyta",
+      "latitude": 60.342054,
+      "longitude": 12.443086
+    },
+    {
+      "name": "Fiskeplass",
+      "latitude": 60.207751,
+      "longitude": 10.509946
+    },
+    {
+      "name": "Fisketjernsfløyta",
+      "latitude": 60.469965,
+      "longitude": 12.527717
+    },
+    {
+      "name": "Fjellkroken",
+      "latitude": 61.654056,
+      "longitude": 11.603262
+    },
+    {
+      "name": "Flisbergfloa",
+      "latitude": 60.936681,
+      "longitude": 12.095192
+    },
+    {
+      "name": "Flyet",
+      "latitude": 61.666717,
+      "longitude": 12.167617
+    },
+    {
+      "name": "Flytebrygge for sportsfiske",
+      "latitude": 59.15797,
+      "longitude": 11.73483
+    },
+    {
+      "name": "Fløman",
+      "latitude": 62.316232,
+      "longitude": 9.83893
+    },
+    {
+      "name": "Fløta",
+      "latitude": 61.78074,
+      "longitude": 11.638462
+    },
+    {
+      "name": "Fløthølen",
+      "latitude": 62.204959,
+      "longitude": 10.058244
+    },
+    {
+      "name": "Fløythølen",
+      "latitude": 61.138055,
+      "longitude": 10.708758
+    },
+    {
+      "name": "Fosshue",
+      "latitude": 62.258223,
+      "longitude": 10.337272
+    },
+    {
+      "name": "Galthovudet",
+      "latitude": 61.87975,
+      "longitude": 11.728221
+    },
+    {
+      "name": "Galthølen",
+      "latitude": 62.993735,
+      "longitude": 8.875242
+    },
+    {
+      "name": "Gammelbruhølen",
+      "latitude": 62.111184,
+      "longitude": 11.429949
+    },
+    {
+      "name": "Gjelbruhølen",
+      "latitude": 62.028728,
+      "longitude": 9.972588
+    },
+    {
+      "name": "Gjerdinghølen",
+      "latitude": 62.243099,
+      "longitude": 11.40101
+    },
+    {
+      "name": "Godhølet",
+      "latitude": 60.467045,
+      "longitude": 11.78722
+    },
+    {
+      "name": "Goist",
+      "latitude": 60.460758,
+      "longitude": 12.526799
+    },
+    {
+      "name": "Granenghølen",
+      "latitude": 62.549619,
+      "longitude": 10.350809
+    },
+    {
+      "name": "Gravfløyta",
+      "latitude": 60.323749,
+      "longitude": 12.45258
+    },
+    {
+      "name": "Gravfløyta",
+      "latitude": 60.326045,
+      "longitude": 12.450988
+    },
+    {
+      "name": "Grislehåen",
+      "latitude": 62.309931,
+      "longitude": 12.129367
+    },
+    {
+      "name": "Grythølen",
+      "latitude": 61.851418,
+      "longitude": 10.31468
+    },
+    {
+      "name": "Grytkroken",
+      "latitude": 62.524898,
+      "longitude": 10.389315
+    },
+    {
+      "name": "Gullaspollen",
+      "latitude": 62.992665,
+      "longitude": 8.858667
+    },
+    {
+      "name": "Gælenevjua",
+      "latitude": 60.975329,
+      "longitude": 12.012961
+    },
+    {
+      "name": "Haukgåsk",
+      "latitude": 60.46455,
+      "longitude": 12.525855
+    },
+    {
+      "name": "Havnegardsflua",
+      "latitude": 57.985218,
+      "longitude": 6.981082
+    },
+    {
+      "name": "Heggeneskroken",
+      "latitude": 61.127114,
+      "longitude": 11.509215
+    },
+    {
+      "name": "Hesten",
+      "latitude": 58.158997,
+      "longitude": 6.62143
+    },
+    {
+      "name": "Holmeslettå",
+      "latitude": 62.981941,
+      "longitude": 8.802294
+    },
+    {
+      "name": "Hornet",
+      "latitude": 60.292815,
+      "longitude": 12.280667
+    },
+    {
+      "name": "Horrhølen",
+      "latitude": 62.153526,
+      "longitude": 9.847246
+    },
+    {
+      "name": "Håan",
+      "latitude": 62.665709,
+      "longitude": 10.838243
+    },
+    {
+      "name": "Håbudammen",
+      "latitude": 61.884031,
+      "longitude": 11.661112
+    },
+    {
+      "name": "Håen",
+      "latitude": 62.296472,
+      "longitude": 11.320257
+    },
+    {
+      "name": "Hølen",
+      "latitude": 61.861643,
+      "longitude": 11.729602
+    },
+    {
+      "name": "Hølen",
+      "latitude": 62.222976,
+      "longitude": 11.7924
+    },
+    {
+      "name": "Hølet",
+      "latitude": 62.076497,
+      "longitude": 12.109516
+    },
+    {
+      "name": "Høshåen",
+      "latitude": 62.473498,
+      "longitude": 11.331081
+    },
+    {
+      "name": "Ingeborghullet",
+      "latitude": 60.857866,
+      "longitude": 12.002466
+    },
+    {
+      "name": "Jokumshølen",
+      "latitude": 61.029722,
+      "longitude": 11.048381
+    },
+    {
+      "name": "Kammershølen",
+      "latitude": 60.906821,
+      "longitude": 11.109067
+    },
+    {
+      "name": "Kjellåsevja",
+      "latitude": 60.658835,
+      "longitude": 12.100186
+    },
+    {
+      "name": "Kjerringhølkroken",
+      "latitude": 60.999324,
+      "longitude": 11.938381
+    },
+    {
+      "name": "Kneet",
+      "latitude": 61.764034,
+      "longitude": 10.9664
+    },
+    {
+      "name": "Knektfløyta",
+      "latitude": 60.398277,
+      "longitude": 11.822428
+    },
+    {
+      "name": "Koidalshølen",
+      "latitude": 62.510063,
+      "longitude": 10.382877
+    },
+    {
+      "name": "Korrasvingen",
+      "latitude": 60.84638,
+      "longitude": 12.318962
+    },
+    {
+      "name": "Korsahølen",
+      "latitude": 62.992911,
+      "longitude": 8.837365
+    },
+    {
+      "name": "Krangneshølen",
+      "latitude": 62.981221,
+      "longitude": 8.789226
+    },
+    {
+      "name": "Krokam",
+      "latitude": 62.33759,
+      "longitude": 10.255347
+    },
+    {
+      "name": "Kroken",
+      "latitude": 62.22156,
+      "longitude": 11.806948
+    },
+    {
+      "name": "Kroken",
+      "latitude": 62.326717,
+      "longitude": 11.550158
+    },
+    {
+      "name": "Krokfløyta",
+      "latitude": 60.333172,
+      "longitude": 12.201941
+    },
+    {
+      "name": "Krokhølen",
+      "latitude": 61.522698,
+      "longitude": 10.773589
+    },
+    {
+      "name": "Krokåthåen",
+      "latitude": 62.292855,
+      "longitude": 12.123279
+    },
+    {
+      "name": "Kvannløken",
+      "latitude": 62.137312,
+      "longitude": 9.943579
+    },
+    {
+      "name": "Kvennkroken",
+      "latitude": 62.206317,
+      "longitude": 11.729658
+    },
+    {
+      "name": "Kverningletet",
+      "latitude": 61.981551,
+      "longitude": 11.088512
+    },
+    {
+      "name": "Kverntjern",
+      "latitude": 59.096099,
+      "longitude": 11.565367
+    },
+    {
+      "name": "Kvisselhølen",
+      "latitude": 61.060795,
+      "longitude": 11.840047
+    },
+    {
+      "name": "Langetjern",
+      "latitude": 59.071918,
+      "longitude": 11.625338
+    },
+    {
+      "name": "Langhølen",
+      "latitude": 62.991731,
+      "longitude": 8.851321
+    },
+    {
+      "name": "Langleitet",
+      "latitude": 62.036292,
+      "longitude": 11.068948
+    },
+    {
+      "name": "Langstilla",
+      "latitude": 61.888219,
+      "longitude": 10.401529
+    },
+    {
+      "name": "Lillfløyta",
+      "latitude": 60.278086,
+      "longitude": 12.503165
+    },
+    {
+      "name": "Litlåkroken",
+      "latitude": 62.159007,
+      "longitude": 11.65276
+    },
+    {
+      "name": "Lona",
+      "latitude": 61.958712,
+      "longitude": 10.252636
+    },
+    {
+      "name": "Løftern",
+      "latitude": 60.471318,
+      "longitude": 11.78332
+    },
+    {
+      "name": "Mattisevjua",
+      "latitude": 60.984441,
+      "longitude": 11.983589
+    },
+    {
+      "name": "Merraskjulfløyta",
+      "latitude": 60.374296,
+      "longitude": 12.427732
+    },
+    {
+      "name": "Mofløyta",
+      "latitude": 60.335292,
+      "longitude": 12.449759
+    },
+    {
+      "name": "Mogstadhølen",
+      "latitude": 62.991046,
+      "longitude": 8.830492
+    },
+    {
+      "name": "Muluniska",
+      "latitude": 60.458645,
+      "longitude": 12.526196
+    },
+    {
+      "name": "Måsåkluet",
+      "latitude": 62.375257,
+      "longitude": 10.352225
+    },
+    {
+      "name": "Måsåkluet",
+      "latitude": 62.376411,
+      "longitude": 10.349644
+    },
+    {
+      "name": "Mørstaddammen",
+      "latitude": 61.125157,
+      "longitude": 11.51521
+    },
+    {
+      "name": "Mørte",
+      "latitude": 59.091572,
+      "longitude": 11.596799
+    },
+    {
+      "name": "Narkroken",
+      "latitude": 62.328599,
+      "longitude": 11.547778
+    },
+    {
+      "name": "Nedre Sørvannet",
+      "latitude": 59.08734,
+      "longitude": 11.637418
+    },
+    {
+      "name": "Nesevja",
+      "latitude": 60.584255,
+      "longitude": 12.035066
+    },
+    {
+      "name": "Nuphølen",
+      "latitude": 61.047672,
+      "longitude": 11.850212
+    },
+    {
+      "name": "Nøkkhulula",
+      "latitude": 60.430509,
+      "longitude": 12.381416
+    },
+    {
+      "name": "Oddhølen",
+      "latitude": 62.054744,
+      "longitude": 11.489961
+    },
+    {
+      "name": "Okshølen",
+      "latitude": 62.249448,
+      "longitude": 11.473597
+    },
+    {
+      "name": "Olfisken",
+      "latitude": 60.524203,
+      "longitude": 8.732434
+    },
+    {
+      "name": "Orkelkroken",
+      "latitude": 62.466424,
+      "longitude": 10.37807
+    },
+    {
+      "name": "Orkelkroken",
+      "latitude": 62.466556,
+      "longitude": 10.376904
+    },
+    {
+      "name": "Osdammen",
+      "latitude": 61.201574,
+      "longitude": 11.523058
+    },
+    {
+      "name": "Otjønna",
+      "latitude": 62.445488,
+      "longitude": 10.53873
+    },
+    {
+      "name": "Otjørna",
+      "latitude": 62.445392,
+      "longitude": 10.539113
+    },
+    {
+      "name": "Ottadammen",
+      "latitude": 61.776718,
+      "longitude": 11.05538
+    },
+    {
+      "name": "Pannhølet",
+      "latitude": 62.058196,
+      "longitude": 11.687072
+    },
+    {
+      "name": "Plassæterhølen",
+      "latitude": 62.569904,
+      "longitude": 10.503107
+    },
+    {
+      "name": "Portan",
+      "latitude": 62.276285,
+      "longitude": 11.000922
+    },
+    {
+      "name": "Raisfløyta",
+      "latitude": 60.351825,
+      "longitude": 12.436393
+    },
+    {
+      "name": "Raudhåmårhølen",
+      "latitude": 62.090018,
+      "longitude": 10.089499
+    },
+    {
+      "name": "Rauhølen",
+      "latitude": 62.055945,
+      "longitude": 10.089759
+    },
+    {
+      "name": "Ringen",
+      "latitude": 60.436197,
+      "longitude": 11.773485
+    },
+    {
+      "name": "Ringfløyta",
+      "latitude": 60.366567,
+      "longitude": 11.752924
+    },
+    {
+      "name": "Rokstadhølen",
+      "latitude": 60.980353,
+      "longitude": 12.002911
+    },
+    {
+      "name": "Rundhaugflået",
+      "latitude": 61.569971,
+      "longitude": 11.7715
+    },
+    {
+      "name": "Sakrishølen",
+      "latitude": 62.013808,
+      "longitude": 11.540263
+    },
+    {
+      "name": "Sauhølen",
+      "latitude": 62.143635,
+      "longitude": 9.901706
+    },
+    {
+      "name": "Skjerbekksvingen",
+      "latitude": 61.576424,
+      "longitude": 11.639757
+    },
+    {
+      "name": "Skålsrudvatnet",
+      "latitude": 60.552773,
+      "longitude": 8.807342
+    },
+    {
+      "name": "Skåregrunnen",
+      "latitude": 58.02028,
+      "longitude": 6.974057
+    },
+    {
+      "name": "Slåtthåen",
+      "latitude": 61.865856,
+      "longitude": 11.697645
+    },
+    {
+      "name": "Sognan",
+      "latitude": 62.157765,
+      "longitude": 10.541854
+    },
+    {
+      "name": "Sognan",
+      "latitude": 62.158961,
+      "longitude": 10.541025
+    },
+    {
+      "name": "Stilla",
+      "latitude": 60.915828,
+      "longitude": 11.528017
+    },
+    {
+      "name": "Stohølen",
+      "latitude": 62.12018,
+      "longitude": 10.158556
+    },
+    {
+      "name": "Storfloen",
+      "latitude": 62.177908,
+      "longitude": 11.077073
+    },
+    {
+      "name": "Stråmhugu",
+      "latitude": 62.287509,
+      "longitude": 10.098298
+    },
+    {
+      "name": "Svartfløyta",
+      "latitude": 60.506974,
+      "longitude": 11.717316
+    },
+    {
+      "name": "Svartholet",
+      "latitude": 60.329032,
+      "longitude": 12.447965
+    },
+    {
+      "name": "Svarthølen",
+      "latitude": 61.754115,
+      "longitude": 10.276416
+    },
+    {
+      "name": "Svarthølen",
+      "latitude": 61.843305,
+      "longitude": 10.362562
+    },
+    {
+      "name": "Svarthølen",
+      "latitude": 62.040802,
+      "longitude": 11.064971
+    },
+    {
+      "name": "Svarthølen",
+      "latitude": 62.058199,
+      "longitude": 10.089912
+    },
+    {
+      "name": "Svarthølen",
+      "latitude": 62.476843,
+      "longitude": 11.307658
+    },
+    {
+      "name": "Sveaøya",
+      "latitude": 62.994175,
+      "longitude": 8.884143
+    },
+    {
+      "name": "Sæterbergsfløyta",
+      "latitude": 60.364172,
+      "longitude": 12.432883
+    },
+    {
+      "name": "Sæterbuvika",
+      "latitude": 61.712067,
+      "longitude": 11.699884
+    },
+    {
+      "name": "Sætravikjo",
+      "latitude": 59.767212,
+      "longitude": 5.393432
+    },
+    {
+      "name": "Søndre Rena Hølen",
+      "latitude": 61.318395,
+      "longitude": 11.436339
+    },
+    {
+      "name": "Tangneshølen",
+      "latitude": 61.012371,
+      "longitude": 11.926165
+    },
+    {
+      "name": "Tarven",
+      "latitude": 61.593446,
+      "longitude": 11.624956
+    },
+    {
+      "name": "Texacobryggen",
+      "latitude": 63.44979,
+      "longitude": 10.325028
+    },
+    {
+      "name": "Treelvhølen",
+      "latitude": 62.145381,
+      "longitude": 11.950627
+    },
+    {
+      "name": "Trollvann",
+      "latitude": 59.961224,
+      "longitude": 10.808637
+    },
+    {
+      "name": "Vesle Åfloen",
+      "latitude": 60.285846,
+      "longitude": 12.178736
+    },
+    {
+      "name": "Vesledamfløyta",
+      "latitude": 60.344397,
+      "longitude": 12.47118
+    },
+    {
+      "name": "Veslstraumen",
+      "latitude": 62.371762,
+      "longitude": 10.506531
+    },
+    {
+      "name": "Vestre Torsholmsgrunne",
+      "latitude": 58.008359,
+      "longitude": 6.957285
+    },
+    {
+      "name": "Vikja lakselv",
+      "latitude": 61.088868,
+      "longitude": 6.586177
+    },
+    {
+      "name": "Viksensvando",
+      "latitude": 60.298965,
+      "longitude": 12.47147
+    },
+    {
+      "name": "Viksinsvando",
+      "latitude": 60.298671,
+      "longitude": 12.471602
+    },
+    {
+      "name": "Villfallet",
+      "latitude": 61.560676,
+      "longitude": 11.547055
+    },
+    {
+      "name": "Volden",
+      "latitude": 63.277062,
+      "longitude": 9.810472
+    },
+    {
+      "name": "Vollhåen",
+      "latitude": 62.3483,
+      "longitude": 12.039617
+    },
+    {
+      "name": "Ytterhølen",
+      "latitude": 61.849163,
+      "longitude": 10.23696
+    },
+    {
+      "name": "Åfloen",
+      "latitude": 60.286693,
+      "longitude": 12.17508
+    },
+    {
+      "name": "Åkerøyhølen",
+      "latitude": 62.317822,
+      "longitude": 10.857152
+    },
+    {
+      "name": "Åkroken",
+      "latitude": 60.51306,
+      "longitude": 11.508652
+    },
+    {
+      "name": "Åros brygge",
+      "latitude": 59.706244,
+      "longitude": 10.522347
+    },
+    {
+      "name": "Øran",
+      "latitude": 62.991025,
+      "longitude": 8.843804
+    },
+    {
+      "name": "Ørdaltjern",
+      "latitude": 59.081169,
+      "longitude": 11.556302
+    },
+    {
+      "name": "Østre Torsholmsgrunne",
+      "latitude": 58.004914,
+      "longitude": 6.95662
+    },
+    {
+      "name": "Øverhølen",
+      "latitude": 61.851449,
+      "longitude": 10.230938
+    },
+    {
+      "name": "Øvre Stohølen",
+      "latitude": 62.098547,
+      "longitude": 10.11591
+    },
+    {
+      "name": "Øvre Sørvannet",
+      "latitude": 59.080325,
+      "longitude": 11.645591
+    },
+    {
+      "name": "Øyahølet",
+      "latitude": 62.97896,
+      "longitude": 8.781333
+    }
+  ],
+  "meta": {
+    "title": "Fishing spots in Norway - Gratis nedlasting",
+    "description": "Fishing spots in Norway (Fiskeplasser i Norge), derived from OpenStreetMap POIs tagged leisure=fishing. Named features only, clipped to mainland Norway. Inneholder 180 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Fishing spots in Norway | ListBase",
+    "seo_description": "Last ned Fishing spots in Norway — 180 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 180 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

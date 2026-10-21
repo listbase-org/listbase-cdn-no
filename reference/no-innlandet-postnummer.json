@@ -1,0 +1,3120 @@
+{
+  "id": "no-innlandet-postnummer",
+  "name": "Postnummer i Innlandet",
+  "title": "Postnummer i Innlandet",
+  "description": "Alle 383 postnummer i Innlandet fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 383,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "2100",
+      "poststed": "Skarnes",
+      "kommune_id": "3415",
+      "kommune": "Sør-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2101",
+      "poststed": "Skarnes",
+      "kommune_id": "3415",
+      "kommune": "Sør-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2110",
+      "poststed": "Slåstad",
+      "kommune_id": "3415",
+      "kommune": "Sør-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2114",
+      "poststed": "Disenå",
+      "kommune_id": "3415",
+      "kommune": "Sør-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2116",
+      "poststed": "Sander",
+      "kommune_id": "3415",
+      "kommune": "Sør-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2120",
+      "poststed": "Sagstua",
+      "kommune_id": "3414",
+      "kommune": "Nord-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2121",
+      "poststed": "Sagstua",
+      "kommune_id": "3414",
+      "kommune": "Nord-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2123",
+      "poststed": "Bruvoll",
+      "kommune_id": "3414",
+      "kommune": "Nord-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2130",
+      "poststed": "Knapper",
+      "kommune_id": "3414",
+      "kommune": "Nord-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2132",
+      "poststed": "Gardvik",
+      "kommune_id": "3414",
+      "kommune": "Nord-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2133",
+      "poststed": "Gardvik",
+      "kommune_id": "3414",
+      "kommune": "Nord-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2134",
+      "poststed": "Austvatn",
+      "kommune_id": "3414",
+      "kommune": "Nord-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2201",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2202",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2203",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2204",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2205",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2206",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2207",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2208",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2209",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2210",
+      "poststed": "Granli",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2211",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2212",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2213",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2214",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2215",
+      "poststed": "Roverud",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2216",
+      "poststed": "Roverud",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2217",
+      "poststed": "Hokkåsen",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2218",
+      "poststed": "Lundersæter",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2219",
+      "poststed": "Brandval",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2220",
+      "poststed": "Åbogen",
+      "kommune_id": "3416",
+      "kommune": "Eidskog",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2223",
+      "poststed": "Galterud",
+      "kommune_id": "3415",
+      "kommune": "Sør-Odal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2224",
+      "poststed": "Austmarka",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2225",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2226",
+      "poststed": "Kongsvinger",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2227",
+      "poststed": "Austmarka",
+      "kommune_id": "3401",
+      "kommune": "Kongsvinger",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2230",
+      "poststed": "Skotterud",
+      "kommune_id": "3416",
+      "kommune": "Eidskog",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2231",
+      "poststed": "Skotterud",
+      "kommune_id": "3416",
+      "kommune": "Eidskog",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2232",
+      "poststed": "Tobøl",
+      "kommune_id": "3416",
+      "kommune": "Eidskog",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2233",
+      "poststed": "Vestmarka",
+      "kommune_id": "3416",
+      "kommune": "Eidskog",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2235",
+      "poststed": "Matrand",
+      "kommune_id": "3416",
+      "kommune": "Eidskog",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2240",
+      "poststed": "Magnor",
+      "kommune_id": "3416",
+      "kommune": "Eidskog",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2241",
+      "poststed": "Magnor",
+      "kommune_id": "3416",
+      "kommune": "Eidskog",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2251",
+      "poststed": "Grue Finnskog",
+      "kommune_id": "3417",
+      "kommune": "Grue",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2256",
+      "poststed": "Grue Finnskog",
+      "kommune_id": "3417",
+      "kommune": "Grue",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2260",
+      "poststed": "Kirkenær",
+      "kommune_id": "3417",
+      "kommune": "Grue",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2261",
+      "poststed": "Kirkenær",
+      "kommune_id": "3417",
+      "kommune": "Grue",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2264",
+      "poststed": "Grinder",
+      "kommune_id": "3417",
+      "kommune": "Grue",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2265",
+      "poststed": "Namnå",
+      "kommune_id": "3417",
+      "kommune": "Grue",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2266",
+      "poststed": "Arneberg",
+      "kommune_id": "3418",
+      "kommune": "Åsnes",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2270",
+      "poststed": "Flisa",
+      "kommune_id": "3418",
+      "kommune": "Åsnes",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2271",
+      "poststed": "Flisa",
+      "kommune_id": "3418",
+      "kommune": "Åsnes",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2280",
+      "poststed": "Gjesåsen",
+      "kommune_id": "3418",
+      "kommune": "Åsnes",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2283",
+      "poststed": "Åsnes Finnskog",
+      "kommune_id": "3418",
+      "kommune": "Åsnes",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2301",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2302",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2303",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2304",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2305",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2306",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2307",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2308",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2309",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2311",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2312",
+      "poststed": "Ottestad",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2313",
+      "poststed": "Ottestad",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2314",
+      "poststed": "Ottestad",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2315",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2316",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2317",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2318",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2319",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2320",
+      "poststed": "Furnes",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2321",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2322",
+      "poststed": "Ridabu",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2323",
+      "poststed": "Ingeberg",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2324",
+      "poststed": "Vang På Hedmarken",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2325",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2326",
+      "poststed": "Hamar",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2327",
+      "poststed": "Furnes",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2328",
+      "poststed": "Ridabu",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2329",
+      "poststed": "Vang På Hedmarken",
+      "kommune_id": "3403",
+      "kommune": "Hamar",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2330",
+      "poststed": "Vallset",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2331",
+      "poststed": "Vallset",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2332",
+      "poststed": "Åsvang",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2333",
+      "poststed": "Romedal",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2334",
+      "poststed": "Romedal",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2335",
+      "poststed": "Stange",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2336",
+      "poststed": "Stange",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2337",
+      "poststed": "Tangen",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2338",
+      "poststed": "Espa",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2339",
+      "poststed": "Tangen",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2340",
+      "poststed": "Løten",
+      "kommune_id": "3412",
+      "kommune": "Løten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2341",
+      "poststed": "Løten",
+      "kommune_id": "3412",
+      "kommune": "Løten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2344",
+      "poststed": "Ilseng",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2345",
+      "poststed": "Ådalsbruk",
+      "kommune_id": "3412",
+      "kommune": "Løten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2346",
+      "poststed": "Ilseng",
+      "kommune_id": "3413",
+      "kommune": "Stange",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2350",
+      "poststed": "Nes På Hedmarken",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2351",
+      "poststed": "Nes På Hedmarken",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2353",
+      "poststed": "Stavsjø",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2355",
+      "poststed": "Gaupen",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2360",
+      "poststed": "Rudshøgda",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2361",
+      "poststed": "Rudshøgda",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2364",
+      "poststed": "Næroset",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2365",
+      "poststed": "Åsmarka",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2372",
+      "poststed": "Brøttum",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2373",
+      "poststed": "Brøttum",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2380",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2381",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2382",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2383",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2384",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2385",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2386",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2387",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2388",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2389",
+      "poststed": "Brumunddal",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2390",
+      "poststed": "Moelv",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2391",
+      "poststed": "Moelv",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2401",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2402",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2403",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2405",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2406",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2407",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2408",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2409",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2410",
+      "poststed": "Hernes",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2411",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2412",
+      "poststed": "Sørskogbygda",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2413",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2414",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2415",
+      "poststed": "Heradsbygd",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2416",
+      "poststed": "Jømna",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2417",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2418",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2419",
+      "poststed": "Elverum",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2420",
+      "poststed": "Trysil",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2421",
+      "poststed": "Trysil",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2422",
+      "poststed": "Nybergsund",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2423",
+      "poststed": "Østby",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2424",
+      "poststed": "Østby",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2425",
+      "poststed": "Ljørdalen",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2426",
+      "poststed": "Ljørdalen",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2427",
+      "poststed": "Plassen",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2428",
+      "poststed": "Søre Osen",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2429",
+      "poststed": "Tørberget",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2430",
+      "poststed": "Jordet",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2432",
+      "poststed": "Slettås",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2434",
+      "poststed": "Braskereidfoss",
+      "kommune_id": "3419",
+      "kommune": "Våler",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2435",
+      "poststed": "Braskereidfoss",
+      "kommune_id": "3419",
+      "kommune": "Våler",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2436",
+      "poststed": "Våler i Solør",
+      "kommune_id": "3419",
+      "kommune": "Våler",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2437",
+      "poststed": "Haslemoen",
+      "kommune_id": "3419",
+      "kommune": "Våler",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2438",
+      "poststed": "Gravberget",
+      "kommune_id": "3419",
+      "kommune": "Våler",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2440",
+      "poststed": "Engerdal",
+      "kommune_id": "3425",
+      "kommune": "Engerdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2441",
+      "poststed": "Engerdal",
+      "kommune_id": "3425",
+      "kommune": "Engerdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2442",
+      "poststed": "Heradsbygd",
+      "kommune_id": "3420",
+      "kommune": "Elverum",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2443",
+      "poststed": "Drevsjø",
+      "kommune_id": "3425",
+      "kommune": "Engerdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2444",
+      "poststed": "Drevsjø",
+      "kommune_id": "3425",
+      "kommune": "Engerdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2446",
+      "poststed": "Elgå",
+      "kommune_id": "3425",
+      "kommune": "Engerdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2447",
+      "poststed": "Søre Osen",
+      "kommune_id": "3421",
+      "kommune": "Trysil",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2448",
+      "poststed": "Sømådalen",
+      "kommune_id": "3425",
+      "kommune": "Engerdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2450",
+      "poststed": "Rena",
+      "kommune_id": "3422",
+      "kommune": "Åmot",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2451",
+      "poststed": "Rena",
+      "kommune_id": "3422",
+      "kommune": "Åmot",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2460",
+      "poststed": "Osen",
+      "kommune_id": "3422",
+      "kommune": "Åmot",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2461",
+      "poststed": "Osen",
+      "kommune_id": "3422",
+      "kommune": "Åmot",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2476",
+      "poststed": "Atna",
+      "kommune_id": "3423",
+      "kommune": "Stor-Elvdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2477",
+      "poststed": "Sollia",
+      "kommune_id": "3423",
+      "kommune": "Stor-Elvdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2478",
+      "poststed": "Hanestad",
+      "kommune_id": "3424",
+      "kommune": "Rendalen",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2480",
+      "poststed": "Koppang",
+      "kommune_id": "3423",
+      "kommune": "Stor-Elvdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2481",
+      "poststed": "Koppang",
+      "kommune_id": "3423",
+      "kommune": "Stor-Elvdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2484",
+      "poststed": "Rendalen",
+      "kommune_id": "3424",
+      "kommune": "Rendalen",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2485",
+      "poststed": "Rendalen",
+      "kommune_id": "3424",
+      "kommune": "Rendalen",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2486",
+      "poststed": "Rendalen",
+      "kommune_id": "3424",
+      "kommune": "Rendalen",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2487",
+      "poststed": "Rendalen",
+      "kommune_id": "3424",
+      "kommune": "Rendalen",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2488",
+      "poststed": "Rendalen",
+      "kommune_id": "3424",
+      "kommune": "Rendalen",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2500",
+      "poststed": "Tynset",
+      "kommune_id": "3427",
+      "kommune": "Tynset",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2501",
+      "poststed": "Tynset",
+      "kommune_id": "3427",
+      "kommune": "Tynset",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2510",
+      "poststed": "Tylldalen",
+      "kommune_id": "3427",
+      "kommune": "Tynset",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2512",
+      "poststed": "Kvikne",
+      "kommune_id": "3427",
+      "kommune": "Tynset",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2540",
+      "poststed": "Tolga",
+      "kommune_id": "3426",
+      "kommune": "Tolga",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2541",
+      "poststed": "Tolga",
+      "kommune_id": "3426",
+      "kommune": "Tolga",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2542",
+      "poststed": "Vingelen",
+      "kommune_id": "3426",
+      "kommune": "Tolga",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2544",
+      "poststed": "Øversjødalen",
+      "kommune_id": "3426",
+      "kommune": "Tolga",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2550",
+      "poststed": "Os i Østerdalen",
+      "kommune_id": "3430",
+      "kommune": "Os",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2551",
+      "poststed": "Os i Østerdalen",
+      "kommune_id": "3430",
+      "kommune": "Os",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2552",
+      "poststed": "Dalsbygda",
+      "kommune_id": "3430",
+      "kommune": "Os",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2555",
+      "poststed": "Tufsingdalen",
+      "kommune_id": "3430",
+      "kommune": "Os",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2560",
+      "poststed": "Alvdal",
+      "kommune_id": "3428",
+      "kommune": "Alvdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2561",
+      "poststed": "Alvdal",
+      "kommune_id": "3428",
+      "kommune": "Alvdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2580",
+      "poststed": "Folldal",
+      "kommune_id": "3429",
+      "kommune": "Folldal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2581",
+      "poststed": "Folldal",
+      "kommune_id": "3429",
+      "kommune": "Folldal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2582",
+      "poststed": "Grimsbu",
+      "kommune_id": "3429",
+      "kommune": "Folldal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2584",
+      "poststed": "Dalholen",
+      "kommune_id": "3429",
+      "kommune": "Folldal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2601",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2602",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2603",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2604",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2605",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2606",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2607",
+      "poststed": "Vingrom",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2608",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2609",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2610",
+      "poststed": "Mesnali",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2611",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2612",
+      "poststed": "Sjusjøen",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2613",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2614",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2615",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2616",
+      "poststed": "Lismarka",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2617",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2618",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2619",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2620",
+      "poststed": "Mesnali",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2621",
+      "poststed": "Vingrom",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2622",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2623",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2624",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2625",
+      "poststed": "Fåberg",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2626",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2627",
+      "poststed": "Fåberg",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2628",
+      "poststed": "Sjusjøen",
+      "kommune_id": "3411",
+      "kommune": "Ringsaker",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2629",
+      "poststed": "Lillehammer",
+      "kommune_id": "3405",
+      "kommune": "Lillehammer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2630",
+      "poststed": "Ringebu",
+      "kommune_id": "3439",
+      "kommune": "Ringebu",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2631",
+      "poststed": "Ringebu",
+      "kommune_id": "3439",
+      "kommune": "Ringebu",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2632",
+      "poststed": "Venabygd",
+      "kommune_id": "3439",
+      "kommune": "Ringebu",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2633",
+      "poststed": "Fåvang",
+      "kommune_id": "3439",
+      "kommune": "Ringebu",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2634",
+      "poststed": "Fåvang",
+      "kommune_id": "3439",
+      "kommune": "Ringebu",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2635",
+      "poststed": "Tretten",
+      "kommune_id": "3440",
+      "kommune": "Øyer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2636",
+      "poststed": "Øyer",
+      "kommune_id": "3440",
+      "kommune": "Øyer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2637",
+      "poststed": "Øyer",
+      "kommune_id": "3440",
+      "kommune": "Øyer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2638",
+      "poststed": "Tretten",
+      "kommune_id": "3440",
+      "kommune": "Øyer",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2639",
+      "poststed": "Vinstra",
+      "kommune_id": "3436",
+      "kommune": "Nord-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2640",
+      "poststed": "Vinstra",
+      "kommune_id": "3436",
+      "kommune": "Nord-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2641",
+      "poststed": "Kvam",
+      "kommune_id": "3436",
+      "kommune": "Nord-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2642",
+      "poststed": "Kvam",
+      "kommune_id": "3436",
+      "kommune": "Nord-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2643",
+      "poststed": "Skåbu",
+      "kommune_id": "3436",
+      "kommune": "Nord-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2644",
+      "poststed": "Skåbu",
+      "kommune_id": "3436",
+      "kommune": "Nord-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2646",
+      "poststed": "Gålå",
+      "kommune_id": "3438",
+      "kommune": "Sør-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2647",
+      "poststed": "Sør-Fron",
+      "kommune_id": "3438",
+      "kommune": "Sør-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2649",
+      "poststed": "Østre Gausdal",
+      "kommune_id": "3441",
+      "kommune": "Gausdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2651",
+      "poststed": "Østre Gausdal",
+      "kommune_id": "3441",
+      "kommune": "Gausdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2652",
+      "poststed": "Svingvoll",
+      "kommune_id": "3441",
+      "kommune": "Gausdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2653",
+      "poststed": "Vestre Gausdal",
+      "kommune_id": "3441",
+      "kommune": "Gausdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2654",
+      "poststed": "Vestre Gausdal",
+      "kommune_id": "3441",
+      "kommune": "Gausdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2656",
+      "poststed": "Follebu",
+      "kommune_id": "3441",
+      "kommune": "Gausdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2657",
+      "poststed": "Svatsum",
+      "kommune_id": "3441",
+      "kommune": "Gausdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2658",
+      "poststed": "Espedalen",
+      "kommune_id": "3438",
+      "kommune": "Sør-Fron",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2659",
+      "poststed": "Dombås",
+      "kommune_id": "3431",
+      "kommune": "Dovre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2660",
+      "poststed": "Dombås",
+      "kommune_id": "3431",
+      "kommune": "Dovre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2661",
+      "poststed": "Hjerkinn",
+      "kommune_id": "3431",
+      "kommune": "Dovre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2662",
+      "poststed": "Dovre",
+      "kommune_id": "3431",
+      "kommune": "Dovre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2663",
+      "poststed": "Dovreskogen",
+      "kommune_id": "3431",
+      "kommune": "Dovre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2664",
+      "poststed": "Dovre",
+      "kommune_id": "3431",
+      "kommune": "Dovre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2665",
+      "poststed": "Lesja",
+      "kommune_id": "3432",
+      "kommune": "Lesja",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2666",
+      "poststed": "Lora",
+      "kommune_id": "3432",
+      "kommune": "Lesja",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2667",
+      "poststed": "Lesjaverk",
+      "kommune_id": "3432",
+      "kommune": "Lesja",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2668",
+      "poststed": "Lesjaskog",
+      "kommune_id": "3432",
+      "kommune": "Lesja",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2669",
+      "poststed": "Bjorli",
+      "kommune_id": "3432",
+      "kommune": "Lesja",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2670",
+      "poststed": "Otta",
+      "kommune_id": "3437",
+      "kommune": "Sel",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2671",
+      "poststed": "Lesja",
+      "kommune_id": "3432",
+      "kommune": "Lesja",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2672",
+      "poststed": "Sel",
+      "kommune_id": "3437",
+      "kommune": "Sel",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2673",
+      "poststed": "Høvringen",
+      "kommune_id": "3437",
+      "kommune": "Sel",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2674",
+      "poststed": "Mysusæter",
+      "kommune_id": "3437",
+      "kommune": "Sel",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2675",
+      "poststed": "Otta",
+      "kommune_id": "3437",
+      "kommune": "Sel",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2676",
+      "poststed": "Heidal",
+      "kommune_id": "3437",
+      "kommune": "Sel",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2677",
+      "poststed": "Nedre Heidal",
+      "kommune_id": "3437",
+      "kommune": "Sel",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2678",
+      "poststed": "Sel",
+      "kommune_id": "3437",
+      "kommune": "Sel",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2680",
+      "poststed": "Vågå",
+      "kommune_id": "3435",
+      "kommune": "Vågå",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2681",
+      "poststed": "Lalm",
+      "kommune_id": "3435",
+      "kommune": "Vågå",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2682",
+      "poststed": "Lalm",
+      "kommune_id": "3435",
+      "kommune": "Vågå",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2683",
+      "poststed": "Tessanden",
+      "kommune_id": "3435",
+      "kommune": "Vågå",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2684",
+      "poststed": "Vågå",
+      "kommune_id": "3435",
+      "kommune": "Vågå",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2685",
+      "poststed": "Garmo",
+      "kommune_id": "3434",
+      "kommune": "Lom",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2686",
+      "poststed": "Lom",
+      "kommune_id": "3434",
+      "kommune": "Lom",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2687",
+      "poststed": "Bøverdalen",
+      "kommune_id": "3434",
+      "kommune": "Lom",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2688",
+      "poststed": "Lom",
+      "kommune_id": "3434",
+      "kommune": "Lom",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2690",
+      "poststed": "Skjåk",
+      "kommune_id": "3433",
+      "kommune": "Skjåk",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2693",
+      "poststed": "Nordberg",
+      "kommune_id": "3433",
+      "kommune": "Skjåk",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2694",
+      "poststed": "Skjåk",
+      "kommune_id": "3433",
+      "kommune": "Skjåk",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2695",
+      "poststed": "Grotli",
+      "kommune_id": "3433",
+      "kommune": "Skjåk",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2711",
+      "poststed": "Gran",
+      "kommune_id": "3446",
+      "kommune": "Gran",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2712",
+      "poststed": "Brandbu",
+      "kommune_id": "3446",
+      "kommune": "Gran",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2714",
+      "poststed": "Jaren",
+      "kommune_id": "3446",
+      "kommune": "Gran",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2718",
+      "poststed": "Brandbu",
+      "kommune_id": "3446",
+      "kommune": "Gran",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2750",
+      "poststed": "Gran",
+      "kommune_id": "3446",
+      "kommune": "Gran",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2760",
+      "poststed": "Brandbu",
+      "kommune_id": "3446",
+      "kommune": "Gran",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2770",
+      "poststed": "Jaren",
+      "kommune_id": "3446",
+      "kommune": "Gran",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2801",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2802",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2803",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2804",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2805",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2806",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2807",
+      "poststed": "Hunndalen",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2808",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2810",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2811",
+      "poststed": "Hunndalen",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2812",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2815",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2816",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2817",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2818",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2819",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2820",
+      "poststed": "Nordre Toten",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2821",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2822",
+      "poststed": "Bybrua",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2825",
+      "poststed": "Gjøvik",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2827",
+      "poststed": "Hunndalen",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2830",
+      "poststed": "Raufoss",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2831",
+      "poststed": "Raufoss",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2832",
+      "poststed": "Biri",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2833",
+      "poststed": "Raufoss",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2834",
+      "poststed": "Raufoss",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2835",
+      "poststed": "Raufoss",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2836",
+      "poststed": "Biri",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2837",
+      "poststed": "Biristrand",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2838",
+      "poststed": "Snertingdal",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2839",
+      "poststed": "Øvre Snertingdal",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2840",
+      "poststed": "Reinsvoll",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2841",
+      "poststed": "Snertingdal",
+      "kommune_id": "3407",
+      "kommune": "Gjøvik",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2843",
+      "poststed": "Eina",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2844",
+      "poststed": "Kolbu",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2845",
+      "poststed": "Bøverbru",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2846",
+      "poststed": "Bøverbru",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2847",
+      "poststed": "Kolbu",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2848",
+      "poststed": "Skreia",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2849",
+      "poststed": "Kapp",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2850",
+      "poststed": "Lena",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2851",
+      "poststed": "Lena",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2853",
+      "poststed": "Reinsvoll",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2854",
+      "poststed": "Eina",
+      "kommune_id": "3443",
+      "kommune": "Vestre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2857",
+      "poststed": "Skreia",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2858",
+      "poststed": "Kapp",
+      "kommune_id": "3442",
+      "kommune": "Østre Toten",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2860",
+      "poststed": "Hov",
+      "kommune_id": "3447",
+      "kommune": "Søndre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2861",
+      "poststed": "Landåsbygda",
+      "kommune_id": "3447",
+      "kommune": "Søndre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2862",
+      "poststed": "Fluberg",
+      "kommune_id": "3447",
+      "kommune": "Søndre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2863",
+      "poststed": "Vestsida",
+      "kommune_id": "3447",
+      "kommune": "Søndre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2864",
+      "poststed": "Fall",
+      "kommune_id": "3447",
+      "kommune": "Søndre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2866",
+      "poststed": "Enger",
+      "kommune_id": "3447",
+      "kommune": "Søndre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2867",
+      "poststed": "Hov",
+      "kommune_id": "3447",
+      "kommune": "Søndre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2870",
+      "poststed": "Dokka",
+      "kommune_id": "3448",
+      "kommune": "Nordre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2879",
+      "poststed": "Odnes",
+      "kommune_id": "3447",
+      "kommune": "Søndre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2880",
+      "poststed": "Nord-Torpa",
+      "kommune_id": "3448",
+      "kommune": "Nordre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2881",
+      "poststed": "Aust-Torpa",
+      "kommune_id": "3448",
+      "kommune": "Nordre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2882",
+      "poststed": "Dokka",
+      "kommune_id": "3448",
+      "kommune": "Nordre Land",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2890",
+      "poststed": "Etnedal",
+      "kommune_id": "3450",
+      "kommune": "Etnedal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2893",
+      "poststed": "Etnedal",
+      "kommune_id": "3450",
+      "kommune": "Etnedal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2900",
+      "poststed": "Fagernes",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2901",
+      "poststed": "Fagernes",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2907",
+      "poststed": "Leira i Valdres",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2909",
+      "poststed": "Aurdal",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2910",
+      "poststed": "Aurdal",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2917",
+      "poststed": "Skrautvål",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2918",
+      "poststed": "Ulnes",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2920",
+      "poststed": "Leira i Valdres",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2923",
+      "poststed": "Tisleidalen",
+      "kommune_id": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2929",
+      "poststed": "Bagn",
+      "kommune_id": "3449",
+      "kommune": "Sør-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2930",
+      "poststed": "Bagn",
+      "kommune_id": "3449",
+      "kommune": "Sør-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2933",
+      "poststed": "Reinli",
+      "kommune_id": "3449",
+      "kommune": "Sør-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2936",
+      "poststed": "Begnadalen",
+      "kommune_id": "3449",
+      "kommune": "Sør-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2937",
+      "poststed": "Begna",
+      "kommune_id": "3449",
+      "kommune": "Sør-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2939",
+      "poststed": "Heggenes",
+      "kommune_id": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2940",
+      "poststed": "Heggenes",
+      "kommune_id": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2943",
+      "poststed": "Rogne",
+      "kommune_id": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2950",
+      "poststed": "Skammestein",
+      "kommune_id": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2952",
+      "poststed": "Beito",
+      "kommune_id": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2953",
+      "poststed": "Beitostølen",
+      "kommune_id": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2954",
+      "poststed": "Beitostølen",
+      "kommune_id": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2959",
+      "poststed": "Røn",
+      "kommune_id": "3452",
+      "kommune": "Vestre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2960",
+      "poststed": "Røn",
+      "kommune_id": "3452",
+      "kommune": "Vestre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2965",
+      "poststed": "Slidre",
+      "kommune_id": "3452",
+      "kommune": "Vestre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2966",
+      "poststed": "Slidre",
+      "kommune_id": "3452",
+      "kommune": "Vestre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2967",
+      "poststed": "Lomen",
+      "kommune_id": "3452",
+      "kommune": "Vestre Slidre",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2972",
+      "poststed": "Ryfoss",
+      "kommune_id": "3454",
+      "kommune": "Vang",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2973",
+      "poststed": "Ryfoss",
+      "kommune_id": "3454",
+      "kommune": "Vang",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2974",
+      "poststed": "Vang i Valdres",
+      "kommune_id": "3454",
+      "kommune": "Vang",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2975",
+      "poststed": "Vang i Valdres",
+      "kommune_id": "3454",
+      "kommune": "Vang",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2977",
+      "poststed": "Øye",
+      "kommune_id": "3454",
+      "kommune": "Vang",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "2985",
+      "poststed": "Tyinkrysset",
+      "kommune_id": "3454",
+      "kommune": "Vang",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "3522",
+      "poststed": "Bjoneroa",
+      "kommune_id": "3446",
+      "kommune": "Gran",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    },
+    {
+      "postnummer": "3528",
+      "poststed": "Hedalen",
+      "kommune_id": "3449",
+      "kommune": "Sør-Aurdal",
+      "fylke_id": "34",
+      "fylke": "Innlandet"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Innlandet - Gratis nedlasting",
+    "description": "Alle 383 postnummer i Innlandet fylke med poststed og kommune. Inneholder 383 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Innlandet | ListBase",
+    "seo_description": "Last ned Postnummer i Innlandet — 383 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 383 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

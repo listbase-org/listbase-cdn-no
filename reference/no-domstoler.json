@@ -1,0 +1,586 @@
+{
+  "id": "no-domstoler",
+  "name": "Courthouses in Norway",
+  "title": "Courthouses in Norway",
+  "description": "Courthouses in Norway (Domstoler i Norge), derived from OpenStreetMap POIs tagged amenity=courthouse. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 109,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agder jordskifterett Arendal",
+      "latitude": 58.464454,
+      "longitude": 8.767102
+    },
+    {
+      "name": "Agder jordskifterett Flekkefjord",
+      "latitude": 58.296241,
+      "longitude": 6.665282
+    },
+    {
+      "name": "Agder jordskifterett Kristiansand",
+      "latitude": 58.151084,
+      "longitude": 7.993677
+    },
+    {
+      "name": "Agder lagmannsrett Skien",
+      "latitude": 59.21861,
+      "longitude": 9.597703
+    },
+    {
+      "name": "Alta tinghus",
+      "latitude": 69.966463,
+      "longitude": 23.274773
+    },
+    {
+      "name": "Arendal tinghus",
+      "latitude": 58.464455,
+      "longitude": 8.76156
+    },
+    {
+      "name": "Bergen tinghus",
+      "latitude": 60.393505,
+      "longitude": 5.321434
+    },
+    {
+      "name": "Borgarting lagmannsrett",
+      "latitude": 59.744836,
+      "longitude": 10.199153
+    },
+    {
+      "name": "Borgarting lagmannsrett Oslo",
+      "latitude": 59.916815,
+      "longitude": 10.741343
+    },
+    {
+      "name": "Brekstad tinghus",
+      "latitude": 63.686114,
+      "longitude": 9.665893
+    },
+    {
+      "name": "Brønnøysund tinghus",
+      "latitude": 65.467805,
+      "longitude": 12.205573
+    },
+    {
+      "name": "Drammen Tinghus",
+      "latitude": 59.744913,
+      "longitude": 10.199223
+    },
+    {
+      "name": "Egersund tinghus",
+      "latitude": 58.451341,
+      "longitude": 6.000164
+    },
+    {
+      "name": "Eidsivating lagmannsrett Hamar",
+      "latitude": 60.793259,
+      "longitude": 11.077036
+    },
+    {
+      "name": "Eidsvoll tinghus",
+      "latitude": 60.327969,
+      "longitude": 11.251159
+    },
+    {
+      "name": "Elverum tinghus",
+      "latitude": 60.880002,
+      "longitude": 11.562477
+    },
+    {
+      "name": "Fagernes tinghus",
+      "latitude": 60.98526,
+      "longitude": 9.236626
+    },
+    {
+      "name": "Farsund tinghus",
+      "latitude": 58.092262,
+      "longitude": 6.808482
+    },
+    {
+      "name": "Finnmark jordskifterett Vadsø",
+      "latitude": 70.073806,
+      "longitude": 29.751649
+    },
+    {
+      "name": "Finnmarkskommisjonen Oslo",
+      "latitude": 59.915991,
+      "longitude": 10.741445
+    },
+    {
+      "name": "Finnmarkskommisjonen Tana Bru",
+      "latitude": 70.200064,
+      "longitude": 28.188676
+    },
+    {
+      "name": "Finnsnes tinghus",
+      "latitude": 69.229326,
+      "longitude": 17.979107
+    },
+    {
+      "name": "Fredrikstad tinghus",
+      "latitude": 59.214525,
+      "longitude": 10.938369
+    },
+    {
+      "name": "Frostating lagmannsrett Trondheim",
+      "latitude": 63.429458,
+      "longitude": 10.394881
+    },
+    {
+      "name": "Førde tinghus",
+      "latitude": 61.449763,
+      "longitude": 5.858812
+    },
+    {
+      "name": "Gjøvik tinghus",
+      "latitude": 60.796809,
+      "longitude": 10.692521
+    },
+    {
+      "name": "Gulating lagmannsrett Bergen",
+      "latitude": 60.392089,
+      "longitude": 5.327256
+    },
+    {
+      "name": "Halden tinghus",
+      "latitude": 59.119749,
+      "longitude": 11.388451
+    },
+    {
+      "name": "Hamar tinghus",
+      "latitude": 60.793331,
+      "longitude": 11.077384
+    },
+    {
+      "name": "Hammerfest tinghus",
+      "latitude": 70.66345,
+      "longitude": 23.679664
+    },
+    {
+      "name": "Harstad tinghus",
+      "latitude": 68.800773,
+      "longitude": 16.541076
+    },
+    {
+      "name": "Haugalandet og Sunnhordaland jordskifterett Leirvik",
+      "latitude": 59.779425,
+      "longitude": 5.499426
+    },
+    {
+      "name": "Haugesund tinghus",
+      "latitude": 59.41021,
+      "longitude": 5.273623
+    },
+    {
+      "name": "Helgeland jordskifterett Mosjøen",
+      "latitude": 65.839857,
+      "longitude": 13.191814
+    },
+    {
+      "name": "Hokksund tinghus",
+      "latitude": 59.768447,
+      "longitude": 9.914449
+    },
+    {
+      "name": "Hordaland jordskifterett Bergen",
+      "latitude": 60.38926,
+      "longitude": 5.334444
+    },
+    {
+      "name": "Hordaland jordskifterett Voss",
+      "latitude": 60.628408,
+      "longitude": 6.418849
+    },
+    {
+      "name": "Horten tinghus",
+      "latitude": 59.405684,
+      "longitude": 10.480263
+    },
+    {
+      "name": "Hålogaland lagmannsrett Tromsø",
+      "latitude": 69.654892,
+      "longitude": 18.964906
+    },
+    {
+      "name": "Hønefoss tinghus",
+      "latitude": 60.164634,
+      "longitude": 10.25297
+    },
+    {
+      "name": "Høyesterett",
+      "latitude": 59.914517,
+      "longitude": 10.744423
+    },
+    {
+      "name": "Kongsberg tinghus",
+      "latitude": 59.670699,
+      "longitude": 9.651673
+    },
+    {
+      "name": "Kongsvinger tinghus",
+      "latitude": 60.185798,
+      "longitude": 12.005629
+    },
+    {
+      "name": "Kristiansand tinghus",
+      "latitude": 58.147476,
+      "longitude": 7.998757
+    },
+    {
+      "name": "Kristiansund tinghus",
+      "latitude": 63.108186,
+      "longitude": 7.727408
+    },
+    {
+      "name": "Kviteseid tinghus",
+      "latitude": 59.402021,
+      "longitude": 8.494423
+    },
+    {
+      "name": "Larvik tinghus",
+      "latitude": 59.053094,
+      "longitude": 10.025668
+    },
+    {
+      "name": "Leirvik tinghus",
+      "latitude": 59.783026,
+      "longitude": 5.501297
+    },
+    {
+      "name": "Lillehammer tinghus",
+      "latitude": 61.117999,
+      "longitude": 10.46254
+    },
+    {
+      "name": "Lillestrøm tinghus",
+      "latitude": 59.955136,
+      "longitude": 11.037964
+    },
+    {
+      "name": "Lofoten og Vesterålen jordskifterett Sortland",
+      "latitude": 68.697105,
+      "longitude": 15.414451
+    },
+    {
+      "name": "Lofthus tinghus",
+      "latitude": 60.329937,
+      "longitude": 6.655449
+    },
+    {
+      "name": "Mo i Rana tinghus",
+      "latitude": 66.311052,
+      "longitude": 14.137688
+    },
+    {
+      "name": "Molde tinghus",
+      "latitude": 62.734707,
+      "longitude": 7.151679
+    },
+    {
+      "name": "Moss tinghus",
+      "latitude": 59.435708,
+      "longitude": 10.670142
+    },
+    {
+      "name": "Mysen tinghus",
+      "latitude": 59.553687,
+      "longitude": 11.324254
+    },
+    {
+      "name": "Møre og Romsdal jordskifterett Molde",
+      "latitude": 62.734779,
+      "longitude": 7.151972
+    },
+    {
+      "name": "Møre og Romsdal jordskifterett Surnadal",
+      "latitude": 62.975052,
+      "longitude": 8.725751
+    },
+    {
+      "name": "Møre og Romsdal jordskifterett Ørsta",
+      "latitude": 62.20206,
+      "longitude": 6.119529
+    },
+    {
+      "name": "Namsos tinghus",
+      "latitude": 64.465596,
+      "longitude": 11.496617
+    },
+    {
+      "name": "Narvik tinghus",
+      "latitude": 68.439567,
+      "longitude": 17.431005
+    },
+    {
+      "name": "Nesbyen tinghus",
+      "latitude": 60.568292,
+      "longitude": 9.101206
+    },
+    {
+      "name": "Nord-Troms jordskifterett Tromsø",
+      "latitude": 69.64459,
+      "longitude": 18.945041
+    },
+    {
+      "name": "Notodden tinghus",
+      "latitude": 59.557636,
+      "longitude": 9.252052
+    },
+    {
+      "name": "Ofoten og Sør-Troms jordskifterett Harstad",
+      "latitude": 68.800751,
+      "longitude": 16.540795
+    },
+    {
+      "name": "Oslo og Østre Viken jordskifterett Kongsvinger",
+      "latitude": 60.185907,
+      "longitude": 12.005682
+    },
+    {
+      "name": "Oslo og Østre Viken jordskifterett Lillestrøm",
+      "latitude": 59.958291,
+      "longitude": 11.051989
+    },
+    {
+      "name": "Oslo tinghus",
+      "latitude": 59.915613,
+      "longitude": 10.741803
+    },
+    {
+      "name": "Salten jordskifterett Bodø",
+      "latitude": 67.280496,
+      "longitude": 14.371938
+    },
+    {
+      "name": "Salten og Lofoten tingrett - Sálto ja Lufåhta diggeriektá",
+      "latitude": 67.283197,
+      "longitude": 14.373185
+    },
+    {
+      "name": "Sandnessjøen tinghus",
+      "latitude": 66.020877,
+      "longitude": 12.627567
+    },
+    {
+      "name": "Sandvika tinghus",
+      "latitude": 59.89165,
+      "longitude": 10.526887
+    },
+    {
+      "name": "Sarpsborg tinghus",
+      "latitude": 59.285115,
+      "longitude": 11.112297
+    },
+    {
+      "name": "Ski tinghus",
+      "latitude": 59.71484,
+      "longitude": 10.831604
+    },
+    {
+      "name": "Skien tinghus",
+      "latitude": 59.218485,
+      "longitude": 9.597781
+    },
+    {
+      "name": "Sogn og Fjordane jordskifterett Førde",
+      "latitude": 61.449911,
+      "longitude": 5.85993
+    },
+    {
+      "name": "Sogn og Fjordane jordskifterett Nordfjordeid",
+      "latitude": 61.908662,
+      "longitude": 5.991035
+    },
+    {
+      "name": "Sogn og Fjordane jordskifterett Sogndal",
+      "latitude": 61.232266,
+      "longitude": 7.104424
+    },
+    {
+      "name": "Sogndal tinghus",
+      "latitude": 61.232298,
+      "longitude": 7.104656
+    },
+    {
+      "name": "Sortland tinghus",
+      "latitude": 68.695136,
+      "longitude": 15.41823
+    },
+    {
+      "name": "Stavanger tinghus",
+      "latitude": 58.969386,
+      "longitude": 5.736719
+    },
+    {
+      "name": "Steinkjer tinghus",
+      "latitude": 64.007297,
+      "longitude": 11.501012
+    },
+    {
+      "name": "Svolvær tinghus",
+      "latitude": 68.232137,
+      "longitude": 14.563321
+    },
+    {
+      "name": "Sør-Rogaland jordskifterett Stavanger",
+      "latitude": 58.949597,
+      "longitude": 5.740982
+    },
+    {
+      "name": "Sør-Rogaland Tingrett",
+      "latitude": 58.853237,
+      "longitude": 5.738978
+    },
+    {
+      "name": "Tana tinghus",
+      "latitude": 70.200147,
+      "longitude": 28.188416
+    },
+    {
+      "name": "Telemark jordskifterett Kviteseid",
+      "latitude": 59.401848,
+      "longitude": 8.494834
+    },
+    {
+      "name": "Telemark jordskifterett Skien",
+      "latitude": 59.166372,
+      "longitude": 9.635161
+    },
+    {
+      "name": "Tromsø tinghus",
+      "latitude": 69.655008,
+      "longitude": 18.964891
+    },
+    {
+      "name": "Trondheim tinghus",
+      "latitude": 63.429596,
+      "longitude": 10.394823
+    },
+    {
+      "name": "Trøndelag jordskifterett Steinkjer",
+      "latitude": 64.008432,
+      "longitude": 11.501553
+    },
+    {
+      "name": "Trøndelag jordskifterett Trondheim",
+      "latitude": 63.42853,
+      "longitude": 10.393036
+    },
+    {
+      "name": "Tynset tinghus",
+      "latitude": 62.271498,
+      "longitude": 10.777858
+    },
+    {
+      "name": "Tønsberg tinghus",
+      "latitude": 59.27788,
+      "longitude": 10.405598
+    },
+    {
+      "name": "Utmarksdomstolen for Finnmark Tromsø",
+      "latitude": 69.654847,
+      "longitude": 18.965429
+    },
+    {
+      "name": "Vadsø tinghus",
+      "latitude": 70.073796,
+      "longitude": 29.751386
+    },
+    {
+      "name": "Vestfold jordskifterett Tønsberg",
+      "latitude": 59.278221,
+      "longitude": 10.40605
+    },
+    {
+      "name": "Vestre Innlandet jordskifterett Fagernes",
+      "latitude": 60.985246,
+      "longitude": 9.236862
+    },
+    {
+      "name": "Vestre Innlandet jordskifterett Lillehammer",
+      "latitude": 61.116769,
+      "longitude": 10.467041
+    },
+    {
+      "name": "Vestre Innlandet jordskifterett Vågåmo",
+      "latitude": 61.876909,
+      "longitude": 9.094255
+    },
+    {
+      "name": "Vestre Viken jordskifterett",
+      "latitude": 59.744873,
+      "longitude": 10.19919
+    },
+    {
+      "name": "Vestre Viken jordskifterett Drammen",
+      "latitude": 59.742007,
+      "longitude": 10.197788
+    },
+    {
+      "name": "Vestre Viken jordskifterett Nesbyen",
+      "latitude": 60.56822,
+      "longitude": 9.10105
+    },
+    {
+      "name": "Volda tinghus",
+      "latitude": 62.147098,
+      "longitude": 6.073872
+    },
+    {
+      "name": "Vågåmo tinghus",
+      "latitude": 61.87682,
+      "longitude": 9.094171
+    },
+    {
+      "name": "Ålesund tinghus",
+      "latitude": 62.475262,
+      "longitude": 6.153147
+    },
+    {
+      "name": "Østfold jordskifterett",
+      "latitude": 59.285102,
+      "longitude": 11.082184
+    },
+    {
+      "name": "Østre Innlandet jordskifterett Hamar",
+      "latitude": 60.796307,
+      "longitude": 11.087753
+    },
+    {
+      "name": "Østre Innlandet jordskifterett Tynset",
+      "latitude": 62.271381,
+      "longitude": 10.777972
+    }
+  ],
+  "meta": {
+    "title": "Courthouses in Norway - Gratis nedlasting",
+    "description": "Courthouses in Norway (Domstoler i Norge), derived from OpenStreetMap POIs tagged amenity=courthouse. Named features only, clipped to mainland Norway. Inneholder 109 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Courthouses in Norway | ListBase",
+    "seo_description": "Last ned Courthouses in Norway — 109 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 109 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

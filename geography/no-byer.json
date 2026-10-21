@@ -1,0 +1,5120 @@
+{
+  "id": "no-byer",
+  "name": "Norske byer og tettsteder",
+  "title": "Norske byer og tettsteder",
+  "description": "Norske byer og tettsteder med over 500 innbyggere, inkl. kommune og geografiske koordinater. Kilde GeoNames (cities500).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 633,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "alternate_names",
+      "label": "Alternate Names",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Oslo",
+      "kommune": "Oslo",
+      "population": 580000,
+      "latitude": 59.9127,
+      "longitude": 10.7461,
+      "alternate_names": "Asloa, Christiania, Kristiania, OSL, Ohoro, Osla, Oslas, Oslo, Oslo osh, Oslu, Osló, ajalo, ao si lu, asalo, aslw, awslw, osalo, oseullo, oslea, oslo, osuro, xxslo, ywslw, Òslo, Ósló, Ōhoro, Όσλο, Осла, Осло, Осло ош, Օսլո, אוסלו, أوسلو, ئوسلو, ئۆسلۆ, اسلو, اوسلو, ܐܘܣܠܘ, ओस्लो, অজলো, ওসলো, ਓਸਲੋ, ଅସଲୋ, ஒஸ்லோ, ഓസ്ലൊ, ออสโล, ཨོ་སི་ལོ།, အော့စလိုမြို့, ოსლო, ኦስሎ, オスロ, 奥斯陆, 오슬로"
+    },
+    {
+      "name": "Bergen",
+      "kommune": "Bergen",
+      "population": 213585,
+      "latitude": 60.393,
+      "longitude": 5.3242,
+      "alternate_names": "BGO, Bargen, Berga, Bergen, Bergen (Hordaland Fylke), Bergena, Bergenas, Bergn, Bernken, Birgon, Bjoergvin, Björgvin, baragena, bargana, bei er gen, beleugen, bergeni, berugen, brghn, brgn, perkan, Μπέργκεν, Берген, ברגן, برغن, برگن, बार्गन, বারগেন, பேர்கன், แบร์เกน, ბერგენი, ベルゲン, 卑爾根, 베르겐"
+    },
+    {
+      "name": "Trondheim",
+      "kommune": "Trondheim",
+      "population": 147139,
+      "latitude": 63.4305,
+      "longitude": 10.3951,
+      "alternate_names": "Kommun Trondheim, Nidaros, Nidrosia, THrandheimur, TRD, Troandin, Trondheim, Trondheimas, Trondhjem, Trondkhajm, Trondkhejm, Trongejm, Tronheima, Tronkhejm, Trontchaim, Truondheims, Truondhėims, te long he mu, teulonheim, thrx nd hem, toronhaimu, toronheimu, tronad'ehima, troneim, trwndhaym, trwndhyym, Þrándheimur, Τροντχαιμ, Τρόντχαιμ, Τρόντχαϊμ, Тронгейм, Трондхайм, Трондхејм, Тронхейм, טרונדהיים, تروندهايم, تروندهایم, ٹرونڈہائم, ট্রোনডেহিম, ทรอนด์เฮม, ტრონჰეიმი, トロンハイム, トロンヘイム, 特隆赫姆, 트론헤임"
+    },
+    {
+      "name": "Stavanger",
+      "kommune": "Stavanger",
+      "population": 121610,
+      "latitude": 58.9701,
+      "longitude": 5.7333,
+      "alternate_names": "SVG, Stafangur, Stavanger, Stavangera, Stavenger, sutavu~angeru, Ставангер, スタヴァンゲル"
+    },
+    {
+      "name": "Drammen",
+      "kommune": "Drammen",
+      "population": 90722,
+      "latitude": 59.7439,
+      "longitude": 10.2045,
+      "alternate_names": "Dramen, Dramenas, Dramens, Drammen, Kommun Drammen, Ntramen, XND, de la men, deulammen, doranmen, dram men, dramena, dramn, Ντράμεν, Драмен, Драммен, דראמן, درامن, ڈرامن, ড্রামেন, ดรัมเมน, ドランメン, 德拉门, 드람멘"
+    },
+    {
+      "name": "Fredrikstad",
+      "kommune": "Fredrikstad",
+      "population": 72760,
+      "latitude": 59.2181,
+      "longitude": 10.9298,
+      "alternate_names": "Frederikstad, Fredrikstad, XKF, furedorikusuta, Фредрикстад, フレドリクスタ"
+    },
+    {
+      "name": "Kristiansand",
+      "kommune": "Kristiansand",
+      "population": 63814,
+      "latitude": 58.1467,
+      "longitude": 7.9956,
+      "alternate_names": "Christiansand, KRS, Krisjansanna, Krisjānsanna, Kristiansand, Kristiansand S, Kristiansand Sor, Kristiansand Sør, Kristiansann, Kryscijansan, ke li si di an sang, Кристиансанд, Кристиансанн, Крысціянсан, כריסטיאנסנד, 克里斯蒂安桑"
+    },
+    {
+      "name": "Sandnes",
+      "kommune": "Sandnes",
+      "population": 63032,
+      "latitude": 58.8524,
+      "longitude": 5.7352,
+      "alternate_names": "Sandnes, Sandnes kommun"
+    },
+    {
+      "name": "Asker",
+      "kommune": "Asker",
+      "population": 60926,
+      "latitude": 59.8333,
+      "longitude": 10.4372,
+      "alternate_names": "Asker, Asker koezseg, Asker kommuna, Asker község, Askeri vald, Askeris, Askers kommun, Kommun Asker, XGU, a si ke er, asakera, aseukeleu, asuke, Аскер, আসকের, アスケー, 阿斯克尔, 아스케르"
+    },
+    {
+      "name": "Tromsø",
+      "kommune": "Tromsø",
+      "population": 52436,
+      "latitude": 69.6489,
+      "longitude": 18.9551,
+      "alternate_names": "Kommun Tromso, Kommun Tromsø, Romsa, TOS, Troms'o, Tromse, Tromsieg, Tromsjo, Tromso, Tromsoe, Tromsoe kommun, Tromsonda, Tromssa, Tromsö, Tromsö kommun, Tromsø, Tromsīeg, Trumse, Trumsė, te luo mu se, teulomsoe, thrm sex, toromuso, tromasa, tromso, trwmsa, trwmsh, trwmsw, Тромсе, Тромсьо, Тромсё, טרומסה, ترومسا, ترومسو, ٹرومسو, ट्रोम्सो, ট্রোমসা, ทรมเซอ, ტრომსე, トロムソ, 特罗姆瑟, 트롬쇠"
+    },
+    {
+      "name": "Sarpsborg",
+      "kommune": "Sarpsborg",
+      "population": 52159,
+      "latitude": 59.2839,
+      "longitude": 11.1096,
+      "alternate_names": "Kommun Sarpsborg, Sarpsborg, Sarpsborgas, Sarpsborgs kommun, Sarpsbuorgs, XKQ, sa er pu si bao, saleubseuboleugeu, sarpasaborga, sarpsbwrg, sarupusuborugu, Сарпсборг, سارپسبورگ, সার্পসবোর্গ, サルプスボルグ, 萨尔普斯堡, 사릅스보르그"
+    },
+    {
+      "name": "Skien",
+      "kommune": "Skien",
+      "population": 50595,
+      "latitude": 59.2096,
+      "longitude": 9.609,
+      "alternate_names": "Kommun Skien, SKE, Seins, Shien, Shijen, Shyen, Sienas, Skien, Skieni vald, shien, sien, skayn, skiyena, xi en, Šienas, Šėins, Шиен, Шијен, Шыен, Шієн, سکائن, স্কিয়েন, シーエン, 希恩, 시엔"
+    },
+    {
+      "name": "Ålesund",
+      "kommune": "Ålesund",
+      "population": 44096,
+      "latitude": 62.4723,
+      "longitude": 6.1549,
+      "alternate_names": "AES, Aalesund, Alasund, Alesund, Estrecio Anguilla, Kommun Alesund, Kommun Ålesund, Olesiundas, Olesun, Olesund, Olesunn, alesunda, ao lei song, ollesun, oresun, Álasund, Ålesund, Олесун, Олесунд, Олесунн, অলেসুন্ড, オーレスン, 奥勒松, 올레순"
+    },
+    {
+      "name": "Sandefjord",
+      "kommune": "Sandefjord",
+      "population": 42654,
+      "latitude": 59.1312,
+      "longitude": 10.2166,
+      "alternate_names": "Kommun Sandefjord, Sandefjord, Sandefjord kommuna, Sandefjordas, Sandefjordi vald, Sanef'or, Sannef'ord, Sannefiord, ZYS, sanadephajarda, sang de er fu de, sannepioleu, Сандефјорд, Санефьор, Саннефьорд, Саннефіорд, সানডেফজর্ড, 桑德尔福德, 산네피오르"
+    },
+    {
+      "name": "Haugesund",
+      "kommune": "Haugesund",
+      "population": 40321,
+      "latitude": 59.4138,
+      "longitude": 5.268,
+      "alternate_names": "Gaugesun, HAU, Haugesiundas, Haugesund, Khaugesun, Khaugezund, Khavesund, Khjougesunn, Kommun Haugesund, hai yu ge song, haugesun, haugesunda, he-ugesun, Гаугесун, Хавесунд, Хаугезунд, Хаугесун, Хёугесунн, হৌগেসুন্ড, ハウゲスン, 海于格松, 헤우게순"
+    },
+    {
+      "name": "Tønsberg",
+      "kommune": "Tønsberg",
+      "population": 38914,
+      "latitude": 59.2675,
+      "longitude": 10.4076,
+      "alternate_names": "Cjonsberg, Kommun Tonsberg, Kommun Tønsberg, T'onsberg, Tensberg, Tionsbergas, Tjonsberg, Toensberg, Tonsberg, Tönsberg, Tønsberg, XKW, tanasabarga, teng si bei ge, toenseubeleugeu, tonsuberugu, twnsbyrgh, Тенсберг, Тьонсберг, Тёнсберг, Цёнсберг, تونسبيرغ, ٹانسبرگ, টানসবার্গ, トンスベルグ, 滕斯贝格, 퇸스베르그"
+    },
+    {
+      "name": "Moss",
+      "kommune": "Moss",
+      "population": 34492,
+      "latitude": 59.434,
+      "longitude": 10.6577,
+      "alternate_names": "Kommun Moss, Mos, Mosas, Moss, Moss kommun, Mossi vald, XKM, mo si, mosa, moseu, mosi, mws, mws  nrwzh, Мос, Мосс, מוס, موس, موس، نروژ, মোস, მოსი, 莫斯, 모스"
+    },
+    {
+      "name": "Porsgrunn",
+      "kommune": "Porsgrunn",
+      "population": 34377,
+      "latitude": 59.1405,
+      "longitude": 9.6561,
+      "alternate_names": "Kommun Porsgrunn, Porsgrun, Porsgrund, Porsgrunn, Porsgrunni vald, Porsgrunns kommun, Posgriunas, Poshgrun, Pošgriūnas, Pushgrjon, XKP, bo shen ge lun, poleuseugeulun, porsagruna, Порсгрун, Порсгрунн, Пошгрун, Пушгрён, পোর্সগ্রুন, 波什格伦, 포르스그룬"
+    },
+    {
+      "name": "Bodø",
+      "kommune": "Bodø",
+      "population": 34073,
+      "latitude": 67.28,
+      "longitude": 14.405,
+      "alternate_names": "BOO, Bode, Bodo, Bodo vald, Bodoe, Bodö, Bodø, Bodø vald, Bodė, Bud'o, Bude, Budejju, Budjo, Budzjo, Budė, Būdē, Kommun Bodo, Kommun Bodø, bo de, boda, bodo, bodoe, bwdw, bwdw  nrwzh, Боде, Бодо, Буде, Будзё, Будьо, Будё, بودو, بودو، نروژ, بوڈو, বোডা, ボードー, 博德, 보되"
+    },
+    {
+      "name": "Arendal",
+      "kommune": "Arendal",
+      "population": 30916,
+      "latitude": 58.4615,
+      "longitude": 8.7725,
+      "alternate_names": "Arehndal, Arendal, Arendale, Arendales, Arendali vald, Arendalis, Arendals kommun, Arendalės, Kommun Arendal, XGD, a lun da er, alendal, arenadala, arendaru, arndal, Ārendāle, Арендал, Арэндал, أرندال, ارنڈل, আরেনডাল, アーレンダール, 阿伦达尔, 아렌달"
+    },
+    {
+      "name": "Hamar",
+      "kommune": "Hamar",
+      "population": 29479,
+      "latitude": 60.7945,
+      "longitude": 11.068,
+      "alternate_names": "Gamar, HMR, Hamar, Hamaras, Hamars, Hammaria, Hámar, Khamar, Kommun Hamar, ha ma er, hamaleu, hamara, hamaru, Гамар, Хамар, ہمار, হামার, ハーマル, 哈马尔, 하마르"
+    },
+    {
+      "name": "Ytrebygda",
+      "kommune": "Bergen",
+      "population": 24044,
+      "latitude": 60.305,
+      "longitude": 5.2824,
+      "alternate_names": ""
+    },
+    {
+      "name": "Larvik",
+      "kommune": "Larvik",
+      "population": 23113,
+      "latitude": 59.0533,
+      "longitude": 10.0352,
+      "alternate_names": "Kommun Larvik, Larvik, Larvikas, Larviki vald, Larviks kommun, XKK, la er wei ke, laleubikeu, larabhika, raruvu~iku, Ларвик, Ларвік, লারভিক, ラルヴィク, 拉尔维克, 라르비크"
+    },
+    {
+      "name": "Halden",
+      "kommune": "Halden",
+      "population": 21970,
+      "latitude": 59.1248,
+      "longitude": 11.3875,
+      "alternate_names": "Fredrikshald, Halden, Khalden, XKD, Халден"
+    },
+    {
+      "name": "Steinkjer",
+      "kommune": "Steinkjer",
+      "population": 20000,
+      "latitude": 64.0149,
+      "longitude": 11.4954,
+      "alternate_names": "Steinkjer, Stenkjaer"
+    },
+    {
+      "name": "Harstad",
+      "kommune": "Harstad",
+      "population": 19433,
+      "latitude": 68.7983,
+      "longitude": 16.5417,
+      "alternate_names": "EVE, HRD, Harsta, Harstad, Hárštá, Kharstad, Харстад"
+    },
+    {
+      "name": "Lillehammer",
+      "kommune": "Lillehammer",
+      "population": 19096,
+      "latitude": 61.1151,
+      "longitude": 10.4663,
+      "alternate_names": "Lelehameris, Lilechamer, Lilehameris, Lilekhamer, Lillegammer, Lillehammer, Lillehammere, Lillehammers kommun, Lillekhammer, Lėlehameris, XXL, li lei ha mo er, lillehamera, lillehammeleu, lylhamr, rirehanmeru, Λιλεχάμερ, Лилехамер, Лиллехаммер, Лілехамер, Ліллегаммер, לילהאמר, للیہیمر, ليلهامر, لیلهامر, লিল্লেহামের, リレハンメル, 利勒哈默尔, 릴레함메르"
+    },
+    {
+      "name": "Molde",
+      "kommune": "Molde",
+      "population": 18594,
+      "latitude": 62.7375,
+      "longitude": 7.1591,
+      "alternate_names": "Kommun Molde, MOL, Molde, Molde kommun, Moldė, Mole, Muolde, Muoldė, mo er de, molade, molde, morude, mwldh, Молде, Моле, مولده, مولڈے, মোলডে, モルデ, 莫尔德, 몰데"
+    },
+    {
+      "name": "Mo i Rana",
+      "kommune": "Rana",
+      "population": 17853,
+      "latitude": 66.3128,
+      "longitude": 14.1428,
+      "alternate_names": "MQN, Mo, Mo i Rana, Mu i Ran, Mu i Rana, Mu-i-Rana, mo cheng, moilana, mw ay rana, Мо и Рана, Му и Рана, Му-и-Рана, مو إي رانا, モー・イ・ラーナ, 摩城, 모이라나"
+    },
+    {
+      "name": "Kongsberg",
+      "kommune": "Kongsberg",
+      "population": 17667,
+      "latitude": 59.6686,
+      "longitude": 9.6502,
+      "alternate_names": "Kongsberg, Kongsberg kommun, XKB, Конгсберг"
+    },
+    {
+      "name": "Horten",
+      "kommune": "Horten",
+      "population": 17660,
+      "latitude": 59.4172,
+      "longitude": 10.4834,
+      "alternate_names": "Horten, Hortenas, Hortens kommun, Khorten, Khuten, Kommun Horten, holeuten, hortena, huo er teng, hwrtn, Хортен, Хутен, هورتن, হোর্টেন, 霍尔滕, 호르텐"
+    },
+    {
+      "name": "Gjøvik",
+      "kommune": "Gjøvik",
+      "population": 17596,
+      "latitude": 60.7957,
+      "longitude": 10.6915,
+      "alternate_names": "Gjoevik, Gjovik, Gjoviki vald, Gjoviks kommun, Gjövik, Gjøvik, Gjøviki vald, Gjøviks kommun, Jevik, Jjovik, Jovik, Jovikas, Kommun Gjovik, Kommun Gjøvik, gajabhika, yebikeu, yue wei ke, Јевик, Йовик, Йёвик, গজাভিক, 约维克, 예비크"
+    },
+    {
+      "name": "Askøy",
+      "kommune": "Askøy",
+      "population": 17224,
+      "latitude": 60.4,
+      "longitude": 5.1833,
+      "alternate_names": "Askjoj, Askoy, Askoy kommun, Askoy vald, Askøy, Askøy kommun, Askøy vald, Kommun Askoy, Kommun Askøy, a si ke yu, asakaya, Аскёй, আসকায়, 阿斯克于"
+    },
+    {
+      "name": "Kristiansund",
+      "kommune": "Kristiansund",
+      "population": 16785,
+      "latitude": 63.1105,
+      "longitude": 7.7279,
+      "alternate_names": "KSU, Kristiansund, Kristiansund Nord, Kristiansund kommun, Kristiansunn, Кристиансунн"
+    },
+    {
+      "name": "Narvik",
+      "kommune": "Narvik",
+      "population": 14114,
+      "latitude": 68.4384,
+      "longitude": 17.4272,
+      "alternate_names": "Kommun Narvik, NVK, Narviika, Narvik, Narvikas, Narviks kommun, Narwik, na er wei ke, naleubikeu, narbhika, naruvu~iku, nrwwyq, Νάρβικ, Нарвик, Нарвік, Նարվիկ, נרוויק, নার্ভিক, ナルヴィク, 纳尔维克, 나르비크"
+    },
+    {
+      "name": "Lillestrøm",
+      "kommune": "Lillestrøm",
+      "population": 14000,
+      "latitude": 59.956,
+      "longitude": 11.0492,
+      "alternate_names": "Lilestr'om, Lilestrem, Lilestriomas, Lillestrem, Lillestrjom, Lillestrom, Lillestrøm, li lei si te luo mu, Лилестрем, Лилестрьом, Лиллестрём, Ліллестрем, 利勒斯特罗姆"
+    },
+    {
+      "name": "Hønefoss",
+      "kommune": "Ringerike",
+      "population": 13678,
+      "latitude": 60.168,
+      "longitude": 10.2565,
+      "alternate_names": "Hionefosas, Honefoss, Hønefoss, Kh'onefos, Khenefos, Khjonefoss, he ne fu si, hoeneposeu, hwnfws, Хенефос, Хьонефос, Хёнефосс, هونفوس, 赫讷福斯, 회네포스"
+    },
+    {
+      "name": "Ski",
+      "kommune": "Nordre Follo",
+      "population": 12513,
+      "latitude": 59.7195,
+      "longitude": 10.8358,
+      "alternate_names": "Kommun Ski, Shi, Si, Ski, Ski kommun, YVS, ski, xi, Ši, Ши, স্কি, 希"
+    },
+    {
+      "name": "Elverum",
+      "kommune": "Elverum",
+      "population": 12490,
+      "latitude": 60.8819,
+      "longitude": 11.5623,
+      "alternate_names": "Ehl'verum, Elverum, Elverumi vald, Kommun Elverum, XUC, ai er wo lu mu, elabheruma, Елверум, Эльверум, এলভেরুম, 埃尔沃吕姆"
+    },
+    {
+      "name": "Askim",
+      "kommune": "Indre Østfold",
+      "population": 12482,
+      "latitude": 59.5833,
+      "longitude": 11.1629,
+      "alternate_names": "Ashim, Askim, Askimi vald, Kommun Askim, a xi mu, asim, askima, Ашим, আস্কিম, 阿希姆, 아심"
+    },
+    {
+      "name": "Jessheim",
+      "kommune": "Ullensaker",
+      "population": 12365,
+      "latitude": 60.1415,
+      "longitude": 11.1752,
+      "alternate_names": "Jeskhajm, Jesseim, Jesskhejm, Йессхейм, Йесхайм"
+    },
+    {
+      "name": "Alta",
+      "kommune": "Alta",
+      "population": 12077,
+      "latitude": 69.9689,
+      "longitude": 23.2717,
+      "alternate_names": "ALF, Alattio, Alta, Alta vald, Kommun Alta, a er ta, alta, aruta, Áltá, Алта, ألتا, التا, アルタ, 阿尔塔, 알타"
+    },
+    {
+      "name": "Stjørdalshalsen",
+      "kommune": "Stjørdal",
+      "population": 11416,
+      "latitude": 63.4681,
+      "longitude": 10.9262,
+      "alternate_names": ""
+    },
+    {
+      "name": "Drøbak",
+      "kommune": "Frogn",
+      "population": 11363,
+      "latitude": 59.6633,
+      "longitude": 10.6297,
+      "alternate_names": "Dr'obak, Drebak, Drjobak, Drobak, Drøbak, de lei ba ke, drwbak, Дребак, Дрьобак, Дрёбак, دروباك, 德勒巴克"
+    },
+    {
+      "name": "Kongsvinger",
+      "kommune": "Kongsvinger",
+      "population": 11181,
+      "latitude": 60.1905,
+      "longitude": 11.9977,
+      "alternate_names": "Kommun Kongsvinger, Kongsvinger, Kongsvingeris, XZD, kansabhinajera, kong si wen e er, kongseubing-eleu, Конгсвингер, কঙ্সভিনজের, 孔斯温厄尔, 콩스빙에르"
+    },
+    {
+      "name": "Leirvik",
+      "kommune": "Stord",
+      "population": 11028,
+      "latitude": 59.7798,
+      "longitude": 5.5005,
+      "alternate_names": "Leirvik"
+    },
+    {
+      "name": "Vennesla",
+      "kommune": "Vennesla",
+      "population": 10931,
+      "latitude": 58.2686,
+      "longitude": 7.9731,
+      "alternate_names": "Vennesla, Vennesla kommun, XXE"
+    },
+    {
+      "name": "Nesoddtangen",
+      "kommune": "Nesodden",
+      "population": 10911,
+      "latitude": 59.8624,
+      "longitude": 10.6631,
+      "alternate_names": ""
+    },
+    {
+      "name": "Mandal",
+      "kommune": "Lindesnes",
+      "population": 10143,
+      "latitude": 58.0274,
+      "longitude": 7.4534,
+      "alternate_names": "Kommun Mandal, Mandal, Mandali vald, Mandalis, Mandals kommun, man da er, manadala, mandal, mandaru, Мандал, মানডাল, マンダール, 曼达尔, 만달"
+    },
+    {
+      "name": "Mosjøen",
+      "kommune": "Vefsn",
+      "population": 9636,
+      "latitude": 65.836,
+      "longitude": 13.1908,
+      "alternate_names": "MJF, Mosjoen, Mosjøen, Mush'oen, Mushjoehn, mo she en, Мушьоен, Мушёэн, 莫舍恩"
+    },
+    {
+      "name": "Grimstad",
+      "kommune": "Grimstad",
+      "population": 9561,
+      "latitude": 58.3405,
+      "longitude": 8.5934,
+      "alternate_names": "Grimsta, Grimstad, Grimstadi vald, Kommun Grimstad, ge li mu si ta, geulimseutadeu, grimastada, gurimusutaddo, Гримста, Гримстад, গ্রিমস্টাড, グリムスタッド, 格里姆斯塔, 그림스타드"
+    },
+    {
+      "name": "Egersund",
+      "kommune": "Eigersund",
+      "population": 9502,
+      "latitude": 58.4513,
+      "longitude": 5.9997,
+      "alternate_names": "Ajersun, Egersund, Ejersund, XRD, agshn, ai ge er song, aygrswnd, Айерсун, Ејерсунд, اگشن, ایگرسوند, 埃格尔松"
+    },
+    {
+      "name": "Namsos",
+      "kommune": "Namsos",
+      "population": 9035,
+      "latitude": 64.4662,
+      "longitude": 11.4957,
+      "alternate_names": "Kommun Namsos, Namsos, Namsus, Njaarke, OSY, na mu suo si, namasosa, namsos, namsoseu, namsws, namusosu, Намсос, Намсус, نامسوس, নামসোস, ナムソス, 納姆索斯, 남소스"
+    },
+    {
+      "name": "Søgne",
+      "kommune": "Kristiansand",
+      "population": 9000,
+      "latitude": 58.0933,
+      "longitude": 7.7829,
+      "alternate_names": "Sogne, Sogne kommun, Søgne, Søgne kommun"
+    },
+    {
+      "name": "Råholt",
+      "kommune": "Eidsvoll",
+      "population": 8593,
+      "latitude": 60.2751,
+      "longitude": 11.179,
+      "alternate_names": "Raholt, Råholt"
+    },
+    {
+      "name": "Førde",
+      "kommune": "Sunnfjord",
+      "population": 8510,
+      "latitude": 61.4522,
+      "longitude": 5.8572,
+      "alternate_names": "FDE, Forde, Fords, Førde"
+    },
+    {
+      "name": "Brumunddal",
+      "kommune": "Ringsaker",
+      "population": 8441,
+      "latitude": 60.8809,
+      "longitude": 10.9395,
+      "alternate_names": "Brumunddal, Brumunddalen, ZVB"
+    },
+    {
+      "name": "Levanger",
+      "kommune": "Levanger",
+      "population": 8411,
+      "latitude": 63.7464,
+      "longitude": 11.2996,
+      "alternate_names": "Kommun Levanger, Levanger, Levangers kommun, Lievenge, XUH, lai wang e er, lebang-eleu, lebhanera, Левангер, লেভাঙের, 莱旺厄尔, 레방에르"
+    },
+    {
+      "name": "Notodden",
+      "kommune": "Notodden",
+      "population": 8306,
+      "latitude": 59.5594,
+      "longitude": 9.2585,
+      "alternate_names": "NTB, Notodden, Nutodden, Нутодден"
+    },
+    {
+      "name": "Florø",
+      "kommune": "Kinn",
+      "population": 8230,
+      "latitude": 61.5996,
+      "longitude": 5.0328,
+      "alternate_names": "FRO, Flore, Floro, Florø, Flur'o, Flurjo, Kinn, flwra  shhr, fu lu lei, Флоре, Флурьо, Флурё, فلورا، شهر, 弗盧勒"
+    },
+    {
+      "name": "Bryne",
+      "kommune": "Time",
+      "population": 8006,
+      "latitude": 58.7354,
+      "longitude": 5.6477,
+      "alternate_names": "Bryne, XOB"
+    },
+    {
+      "name": "Ås",
+      "kommune": "Ås",
+      "population": 7961,
+      "latitude": 59.6647,
+      "longitude": 10.7947,
+      "alternate_names": "Aas, As, Ås"
+    },
+    {
+      "name": "Sæveland",
+      "kommune": "Karmøy",
+      "population": 7736,
+      "latitude": 59.2667,
+      "longitude": 5.2,
+      "alternate_names": "Saeveland, Saevelandsvik, Sevland, Sæveland"
+    },
+    {
+      "name": "Verdal",
+      "kommune": "Verdal",
+      "population": 7154,
+      "latitude": 63.7933,
+      "longitude": 11.4817,
+      "alternate_names": "Vaerdalsoren, Verdalsora, Verdalsoren, Verdalsoyra, Verdalsören, Verdalsöyra, Verdalsøra, Værdalsören, XXG"
+    },
+    {
+      "name": "Oppdal",
+      "kommune": "Oppdal",
+      "population": 6976,
+      "latitude": 62.5943,
+      "longitude": 9.6912,
+      "alternate_names": "Kommun Oppdal, Opdal, Oppdal, Oppdali vald, Oppdals kommun, ao pu da er, oppadala, Опдал, Оппдал, ওপ্পডাল, 奧普達爾"
+    },
+    {
+      "name": "Hammerfest",
+      "kommune": "Hammerfest",
+      "population": 6788,
+      "latitude": 70.6631,
+      "longitude": 23.6809,
+      "alternate_names": "HFT, Hammarfeasta, Hammerfest, Hammerfest koezseg, Hammerfest község, Hammerfesti vald, Hámmárfeasta, Khamerfest, Khammerfest, Kommun Hammerfest, ham'meraphista, hamrfst, hanmerufesuto, heng mo fei si, hmrpst, Хамерфест, Хаммерфест, המרפסט, هامرفست, হাম্মেরফিস্ট, ハンメルフェスト, 亨墨菲斯"
+    },
+    {
+      "name": "Sogndal",
+      "kommune": "Sogndal",
+      "population": 6700,
+      "latitude": 61.2291,
+      "longitude": 7.0967,
+      "alternate_names": "Kommun Sogndal, SOG, Sogdal', Sogndal, Sogndalis, sognadala, song da er, Согдаль, Согндал, সোগ্নডাল, 松達爾"
+    },
+    {
+      "name": "Kopervik",
+      "kommune": "Karmøy",
+      "population": 6507,
+      "latitude": 59.2835,
+      "longitude": 5.3067,
+      "alternate_names": "Kopervik, ke po wei ke, Копервик, 科珀維克"
+    },
+    {
+      "name": "Fetsund",
+      "kommune": "Lillestrøm",
+      "population": 6441,
+      "latitude": 59.9246,
+      "longitude": 11.1571,
+      "alternate_names": ""
+    },
+    {
+      "name": "Malvik",
+      "kommune": "Malvik",
+      "population": 6419,
+      "latitude": 63.4333,
+      "longitude": 10.6833,
+      "alternate_names": "Malvik, Malvik kommun, Малвик"
+    },
+    {
+      "name": "Ørsta",
+      "kommune": "Ørsta",
+      "population": 6337,
+      "latitude": 62.1998,
+      "longitude": 6.129,
+      "alternate_names": "Ehrsta, HOV, Joshha, Kommun Orsta, Kommun Ørsta, Orsta, arsta, e shen ta, Ørsta, Йоща, Эрста, আর্স্টা, 厄什塔"
+    },
+    {
+      "name": "Holmestrand",
+      "kommune": "Holmestrand",
+      "population": 6135,
+      "latitude": 59.4876,
+      "longitude": 10.3176,
+      "alternate_names": "Holmestrand, Holmestrand kommun, XUG"
+    },
+    {
+      "name": "Indre Arna",
+      "kommune": "Bergen",
+      "population": 6117,
+      "latitude": 60.4177,
+      "longitude": 5.4709,
+      "alternate_names": "Arna, Indre Arna"
+    },
+    {
+      "name": "Lillesand",
+      "kommune": "Lillesand",
+      "population": 6081,
+      "latitude": 58.2488,
+      "longitude": 8.3778,
+      "alternate_names": "Lillesand, Lillesand kommun, Lillesann, Лиллесанн"
+    },
+    {
+      "name": "Raufoss",
+      "kommune": "Vestre Toten",
+      "population": 6052,
+      "latitude": 60.726,
+      "longitude": 10.6133,
+      "alternate_names": "ZMQ"
+    },
+    {
+      "name": "Fauske",
+      "kommune": "Fauske",
+      "population": 5953,
+      "latitude": 67.2588,
+      "longitude": 15.3918,
+      "alternate_names": "Fauske, Фауске"
+    },
+    {
+      "name": "Kløfta",
+      "kommune": "Ullensaker",
+      "population": 5942,
+      "latitude": 60.0741,
+      "longitude": 11.138,
+      "alternate_names": ""
+    },
+    {
+      "name": "Tananger",
+      "kommune": "Sola",
+      "population": 5817,
+      "latitude": 58.9362,
+      "longitude": 5.5741,
+      "alternate_names": "Tananger"
+    },
+    {
+      "name": "Sandnessjøen",
+      "kommune": "Alstahaug",
+      "population": 5778,
+      "latitude": 66.0217,
+      "longitude": 12.6316,
+      "alternate_names": "SSJ, Sandnessheen, Sandnessjoen, Sandnessjøen, Sannessh'oen, Sannesshjoehn, Санднессйоен, Санднесшеен, Саннесшьоен, Саннесшёэн"
+    },
+    {
+      "name": "Hommersåk",
+      "kommune": "Sandnes",
+      "population": 5692,
+      "latitude": 58.9256,
+      "longitude": 5.851,
+      "alternate_names": "Hommarsak, Hommarsåk, Hommersak, Hommersåk"
+    },
+    {
+      "name": "Flekkefjord",
+      "kommune": "Flekkefjord",
+      "population": 5615,
+      "latitude": 58.297,
+      "longitude": 6.6607,
+      "alternate_names": "Flekef'or, Flekkef'ord, Flekkefjord, Flekkefjords kommun, Kommun Flekkefjord, fu lai ke fei you er, furekkefiyoru, phlekkephajorda, Флекефьор, Флеккефьорд, ফ্লেক্কেফজোর্ড, フレッケフィヨール, 弗萊克菲尤爾"
+    },
+    {
+      "name": "Stavern",
+      "kommune": "Larvik",
+      "population": 5593,
+      "latitude": 59,
+      "longitude": 10.0333,
+      "alternate_names": "Fredriksvaern, Fredriksvern, Fredriksværn, Stavern"
+    },
+    {
+      "name": "Voss",
+      "kommune": "Voss",
+      "population": 5571,
+      "latitude": 60.6287,
+      "longitude": 6.4147,
+      "alternate_names": "Kommun Voss, Reino de Voss, Vos, Voss, Voss kommun, Vossavangen, Vossevangen, Vossi vald, bhosa, boseu, vu~osu, wo si, Вос, Восс, ভোস, ヴォス, 沃斯, 보스"
+    },
+    {
+      "name": "Tranby",
+      "kommune": "Lier",
+      "population": 5552,
+      "latitude": 59.8085,
+      "longitude": 10.2611,
+      "alternate_names": "Tranby"
+    },
+    {
+      "name": "Jørpeland",
+      "kommune": "Strand",
+      "population": 5537,
+      "latitude": 59.0225,
+      "longitude": 6.0408,
+      "alternate_names": "Jorpeland, Jørpeland"
+    },
+    {
+      "name": "Mysen",
+      "kommune": "Indre Østfold",
+      "population": 5516,
+      "latitude": 59.5535,
+      "longitude": 11.3258,
+      "alternate_names": "Mysen"
+    },
+    {
+      "name": "Volda",
+      "kommune": "Volda",
+      "population": 5376,
+      "latitude": 62.146,
+      "longitude": 6.0711,
+      "alternate_names": "Hallkjellsvik, Hallkjelsvik, Kommun Volda, Volda, Volda kommun, Volden, bholada, wo er da, Волда, ভোলডা, 沃爾達"
+    },
+    {
+      "name": "Odda",
+      "kommune": "Ullensvang",
+      "population": 5359,
+      "latitude": 60.0691,
+      "longitude": 6.5457,
+      "alternate_names": "Odda, Odda kommun, Odde, Одда"
+    },
+    {
+      "name": "Vestby",
+      "kommune": "Vestby",
+      "population": 5330,
+      "latitude": 59.6051,
+      "longitude": 10.7523,
+      "alternate_names": "Kommun Vestby, Vestbju, Vestby, Vestby kommun, bestaba'i, wei si te bi, Вестбю, বেস্টবাই, 韋斯特比"
+    },
+    {
+      "name": "Kragerø",
+      "kommune": "Kragerø",
+      "population": 5158,
+      "latitude": 58.8693,
+      "longitude": 9.4149,
+      "alternate_names": "Kommun Kragero, Kommun Kragerø, Krager'o, Kragerjo, Kragero, Kragero kommun, Kragero vald, Kragerø, Kragerø kommun, Kragerø vald, ke la ge lei, kragera, Крагерьо, Крагерё, ক্রাগেরা, 克拉格勒"
+    },
+    {
+      "name": "Vadsø",
+      "kommune": "Vadsø",
+      "population": 5139,
+      "latitude": 70.0735,
+      "longitude": 29.7494,
+      "alternate_names": "Cahcesuolu, VDS, Vadse, Vadso, Vadso kommun, Vadsø, Vadsø kommun, Vesisaari, Čáhcesuolu, Вадсе"
+    },
+    {
+      "name": "Ulsteinvik",
+      "kommune": "Ulstein",
+      "population": 5103,
+      "latitude": 62.3432,
+      "longitude": 5.8487,
+      "alternate_names": "Ul'stejnvik, Ulstajnvik, Ulsteinvik, Ulsteinvikas, Ulstejnvik, yu er si tai yin wei ke, Улстайнвик, Улстејнвик, Ульстейнвик, 于爾斯泰因維克"
+    },
+    {
+      "name": "Åkrehamn",
+      "kommune": "Karmøy",
+      "population": 5018,
+      "latitude": 59.2605,
+      "longitude": 5.1869,
+      "alternate_names": "Aakrehamn, Akrahamn, Akrehamn, Akrehavn, Åkrahamn, Åkrehamn"
+    },
+    {
+      "name": "Ulsteinvik weather pws station",
+      "kommune": "Møre og Romsdal",
+      "population": 5000,
+      "latitude": 62.3434,
+      "longitude": 5.8438,
+      "alternate_names": "Ulsteinvik veret, Ulsteinvik weather, ulsteinvik vaeret, ulsteinvik været"
+    },
+    {
+      "name": "Fevik",
+      "kommune": "Grimstad",
+      "population": 4989,
+      "latitude": 58.3782,
+      "longitude": 8.676,
+      "alternate_names": "Fevig, Fevik"
+    },
+    {
+      "name": "Nærbø",
+      "kommune": "Hå",
+      "population": 4975,
+      "latitude": 58.6655,
+      "longitude": 5.6379,
+      "alternate_names": "Naerbo, Narbo, Narbø, Nærbø"
+    },
+    {
+      "name": "Rotnes",
+      "kommune": "Nittedal",
+      "population": 4705,
+      "latitude": 60.0571,
+      "longitude": 10.8613,
+      "alternate_names": "Rotnes"
+    },
+    {
+      "name": "Tjøme",
+      "kommune": "Færder",
+      "population": 4663,
+      "latitude": 59.1109,
+      "longitude": 10.3933,
+      "alternate_names": "Tjome, Tjome kommun, Tjøme, Tjøme kommun"
+    },
+    {
+      "name": "Sortland",
+      "kommune": "Sortland",
+      "population": 4620,
+      "latitude": 68.6957,
+      "longitude": 15.405,
+      "alternate_names": "Kommun Sortland, Sortlan, Sortland, Sortlands kommun, Sortlann, Suorta, sortalenda, sorutoran, su te lan, Сортлан, Сортланд, Сортланн, সোর্টলেন্ড, ソルトラン, 苏特兰"
+    },
+    {
+      "name": "Melhus",
+      "kommune": "Melhus",
+      "population": 4593,
+      "latitude": 63.2856,
+      "longitude": 10.2781,
+      "alternate_names": ""
+    },
+    {
+      "name": "Risør",
+      "kommune": "Risør",
+      "population": 4475,
+      "latitude": 58.7206,
+      "longitude": 9.2342,
+      "alternate_names": "Kommun Risor, Kommun Risør, Ris'or, Risjor, Risor, Risori vald, Risors kommun, Risør, Risøri vald, Risørs kommun, li se er, risara, Рисьор, Рисёр, রিসার, 里瑟爾"
+    },
+    {
+      "name": "Brønnøysund",
+      "kommune": "Brønnøy",
+      "population": 4366,
+      "latitude": 65.4749,
+      "longitude": 12.2128,
+      "alternate_names": "BNN, Br'on'ojsun, Brjonnjojsunn, Bronno, Bronnoy, Bronnoysund, Brønnø, Brønnøy, Brønnøysund, bu lun ni, Брьоньойсун, Брённёйсунн, 布倫尼"
+    },
+    {
+      "name": "Jevnaker",
+      "kommune": "Jevnaker",
+      "population": 4308,
+      "latitude": 60.2398,
+      "longitude": 10.3871,
+      "alternate_names": ""
+    },
+    {
+      "name": "Sauda",
+      "kommune": "Sauda",
+      "population": 4290,
+      "latitude": 59.6506,
+      "longitude": 6.3541,
+      "alternate_names": "Sauda, Sauda kommun"
+    },
+    {
+      "name": "Knarvik",
+      "kommune": "Alver",
+      "population": 4265,
+      "latitude": 60.5453,
+      "longitude": 5.2821,
+      "alternate_names": "Knarrevik, Knarrvik, Knarrviki, Knarvik"
+    },
+    {
+      "name": "Svolvær",
+      "kommune": "Vågan",
+      "population": 4197,
+      "latitude": 68.2342,
+      "longitude": 14.5683,
+      "alternate_names": "SVJ, Svol'ver, Svolvaer, Svolver, Svolvær, si wo er wei er, Сволвер, Свольвер, 斯沃尔韦尔"
+    },
+    {
+      "name": "Sunndalsøra",
+      "kommune": "Sunndal",
+      "population": 4159,
+      "latitude": 62.6752,
+      "longitude": 8.5633,
+      "alternate_names": "Sundalsoren, Sundalsören, Sunndalsora, Sunndalsoyra, Sunndalsöyra, Sunndalsøra, sun da er se la, 孫達爾瑟拉"
+    },
+    {
+      "name": "Moelv",
+      "kommune": "Ringsaker",
+      "population": 4049,
+      "latitude": 60.9333,
+      "longitude": 10.7,
+      "alternate_names": "Moelv, Moelven, XUJ"
+    },
+    {
+      "name": "Hommelvik",
+      "kommune": "Malvik",
+      "population": 4000,
+      "latitude": 63.4108,
+      "longitude": 10.7942,
+      "alternate_names": ""
+    },
+    {
+      "name": "Svelvik",
+      "kommune": "Drammen",
+      "population": 3926,
+      "latitude": 59.6137,
+      "longitude": 10.4087,
+      "alternate_names": "Svelvik, Svelvik kommun, Свелвик"
+    },
+    {
+      "name": "Finnsnes",
+      "kommune": "Senja",
+      "population": 3907,
+      "latitude": 69.2296,
+      "longitude": 17.9811,
+      "alternate_names": "Finnsnes, Finsnes, fen si nei si, Финнснес, Финснес, 芬斯內斯"
+    },
+    {
+      "name": "Rakkestad",
+      "kommune": "Rakkestad",
+      "population": 3779,
+      "latitude": 59.4251,
+      "longitude": 11.3453,
+      "alternate_names": ""
+    },
+    {
+      "name": "Nordstranda",
+      "kommune": "Giske",
+      "population": 3700,
+      "latitude": 62.5138,
+      "longitude": 6.1317,
+      "alternate_names": "Nordstranda"
+    },
+    {
+      "name": "Lyngdal",
+      "kommune": "Lyngdal",
+      "population": 3671,
+      "latitude": 58.1376,
+      "longitude": 7.07,
+      "alternate_names": "Lyngdal, Lyngdal kommun"
+    },
+    {
+      "name": "Hareid",
+      "kommune": "Hareid",
+      "population": 3626,
+      "latitude": 62.3704,
+      "longitude": 6.029,
+      "alternate_names": "Hareid, Indre Hareid, Midtre Hareid, Ytre Hareid"
+    },
+    {
+      "name": "Rjukan",
+      "kommune": "Tinn",
+      "population": 3568,
+      "latitude": 59.8789,
+      "longitude": 8.5941,
+      "alternate_names": "R'jukan, Rjukan, liukan, you kan, Рьюкан, Рюкан, Рјукан, 尤坎, 리우칸"
+    },
+    {
+      "name": "Sørumsand",
+      "kommune": "Lillestrøm",
+      "population": 3563,
+      "latitude": 59.9862,
+      "longitude": 11.2415,
+      "alternate_names": ""
+    },
+    {
+      "name": "Leknes",
+      "kommune": "Vestvågøy",
+      "population": 3556,
+      "latitude": 68.1475,
+      "longitude": 13.6115,
+      "alternate_names": "LKN"
+    },
+    {
+      "name": "Røros",
+      "kommune": "Røros",
+      "population": 3496,
+      "latitude": 62.5747,
+      "longitude": 11.3842,
+      "alternate_names": "Kommun Roros, Kommun Røros, Plassje, R'oros, RRS, Reros, Rerusas, Rjorus, Roros, Roros kommun, Rorosi vald, Rorus, Røros, Røros kommun, Rørosi vald, lei luo si, rarosa, rerosu, riorusi, rrws, Рерос, Рорус, Рьорос, Рёрус, ררוס, রারোস, რიორუსი, レーロース, 勒羅斯"
+    },
+    {
+      "name": "Skui",
+      "kommune": "Bærum",
+      "population": 3487,
+      "latitude": 59.9275,
+      "longitude": 10.4475,
+      "alternate_names": ""
+    },
+    {
+      "name": "Farnes",
+      "kommune": "Årdal",
+      "population": 3465,
+      "latitude": 61.3085,
+      "longitude": 7.7969,
+      "alternate_names": "Farnes, Ovre Aardal, Ovre Ardal, Øvre Aardal, Øvre Årdal"
+    },
+    {
+      "name": "Lysaker",
+      "kommune": "Bærum",
+      "population": 3439,
+      "latitude": 59.9099,
+      "longitude": 10.6355,
+      "alternate_names": "XUI"
+    },
+    {
+      "name": "Årnes",
+      "kommune": "Nes",
+      "population": 3289,
+      "latitude": 60.1224,
+      "longitude": 11.4701,
+      "alternate_names": "Aarnes"
+    },
+    {
+      "name": "Sagvåg",
+      "kommune": "Stord",
+      "population": 3288,
+      "latitude": 59.7814,
+      "longitude": 5.39,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kirkenes",
+      "kommune": "Sør-Varanger",
+      "population": 3282,
+      "latitude": 69.7271,
+      "longitude": 30.0458,
+      "alternate_names": "Circenes, Girkonjarga, Girkonjárga, KKN, Khirkenes, Kirkenes, Kirkenesas, Kirkkoniemi, kirukenesu, kyrkns, sileukeneseu, xi er ke nei si, Κίρκενες, Ћирћенес, Киркенес, Кіркенес, Хиркенес, کیرکنس, キルケネス, 希尔克内斯, 시르케네스"
+    },
+    {
+      "name": "Skudeneshavn",
+      "kommune": "Karmøy",
+      "population": 3187,
+      "latitude": 59.1495,
+      "longitude": 5.2591,
+      "alternate_names": "Skudeneshavn, Skudeneskhavn, Skudneshavn, Скуденесхавн"
+    },
+    {
+      "name": "Flateby",
+      "kommune": "Enebakk",
+      "population": 3175,
+      "latitude": 59.8295,
+      "longitude": 11.1534,
+      "alternate_names": "Flateby"
+    },
+    {
+      "name": "Spydeberg",
+      "kommune": "Indre Østfold",
+      "population": 3166,
+      "latitude": 59.6171,
+      "longitude": 11.0856,
+      "alternate_names": ""
+    },
+    {
+      "name": "Farsund",
+      "kommune": "Farsund",
+      "population": 3151,
+      "latitude": 58.0948,
+      "longitude": 6.8047,
+      "alternate_names": ""
+    },
+    {
+      "name": "Stokmarknes",
+      "kommune": "Hadsel",
+      "population": 3119,
+      "latitude": 68.5646,
+      "longitude": 14.9108,
+      "alternate_names": "SKN, Stokkmarknes, Stokmarknes"
+    },
+    {
+      "name": "Tofte",
+      "kommune": "Asker",
+      "population": 3109,
+      "latitude": 59.5427,
+      "longitude": 10.5614,
+      "alternate_names": "Tofte, Tofte i Hurum"
+    },
+    {
+      "name": "Måløy",
+      "kommune": "Kinn",
+      "population": 3062,
+      "latitude": 61.9353,
+      "longitude": 5.1136,
+      "alternate_names": "Maaloey, Maloy, Maloya, Mol'oj, Moldo, Moldö, Molej, Moljoj, Måløy, Måløya, mo lu, Молеј, Мольой, Молёй, 莫呂"
+    },
+    {
+      "name": "Sætre",
+      "kommune": "Asker",
+      "population": 3009,
+      "latitude": 59.6813,
+      "longitude": 10.5275,
+      "alternate_names": "Saetre, Saetre i Hurum, Setre, Sætre, Sætre i Hurum"
+    },
+    {
+      "name": "Åsgårdstrand",
+      "kommune": "Horten",
+      "population": 2934,
+      "latitude": 59.3494,
+      "longitude": 10.4695,
+      "alternate_names": "Aasgaardstrand, Asgardstrand, Åsgårdstrand"
+    },
+    {
+      "name": "Vik",
+      "kommune": "Vik",
+      "population": 2899,
+      "latitude": 61.0571,
+      "longitude": 6.5781,
+      "alternate_names": "Vik, Вик"
+    },
+    {
+      "name": "Løding",
+      "kommune": "Bodø",
+      "population": 2835,
+      "latitude": 67.3006,
+      "longitude": 14.7385,
+      "alternate_names": "Loding, Løding"
+    },
+    {
+      "name": "Dokka",
+      "kommune": "Nordre Land",
+      "population": 2796,
+      "latitude": 60.835,
+      "longitude": 10.0736,
+      "alternate_names": "Dokka"
+    },
+    {
+      "name": "Røyken",
+      "kommune": "Asker",
+      "population": 2775,
+      "latitude": 59.7472,
+      "longitude": 10.3883,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vormedal",
+      "kommune": "Karmøy",
+      "population": 2774,
+      "latitude": 59.3561,
+      "longitude": 5.3196,
+      "alternate_names": "Vormedal"
+    },
+    {
+      "name": "Andenes",
+      "kommune": "Andøy",
+      "population": 2766,
+      "latitude": 69.3143,
+      "longitude": 16.1194,
+      "alternate_names": "ANX, Andenes, an de nei si, andyns, Анденес, اندینس, 安德內斯"
+    },
+    {
+      "name": "Vedavågen",
+      "kommune": "Karmøy",
+      "population": 2728,
+      "latitude": 59.2948,
+      "longitude": 5.2187,
+      "alternate_names": "Veavagen, Veavågen, Vedavagen, Vedavågen"
+    },
+    {
+      "name": "Ulefoss",
+      "kommune": "Nome",
+      "population": 2697,
+      "latitude": 59.2824,
+      "longitude": 9.2655,
+      "alternate_names": "Ulefoss"
+    },
+    {
+      "name": "Auli",
+      "kommune": "Nes",
+      "population": 2638,
+      "latitude": 60.0345,
+      "longitude": 11.3605,
+      "alternate_names": ""
+    },
+    {
+      "name": "Stokke",
+      "kommune": "Sandefjord",
+      "population": 2618,
+      "latitude": 59.2225,
+      "longitude": 10.3005,
+      "alternate_names": "Stokke, Stokke kommun"
+    },
+    {
+      "name": "Rørvik",
+      "kommune": "Nærøysund",
+      "population": 2615,
+      "latitude": 64.862,
+      "longitude": 11.2373,
+      "alternate_names": "RVK, Rjorvik, Rorvik, Rørvik, Рёрвик"
+    },
+    {
+      "name": "Skålevik",
+      "kommune": "Kristiansand",
+      "population": 2599,
+      "latitude": 58.0795,
+      "longitude": 8.016,
+      "alternate_names": "Skaalevig, Ytre Skalevik, Ytre Skålevik"
+    },
+    {
+      "name": "Rygge",
+      "kommune": "Moss",
+      "population": 2567,
+      "latitude": 59.3776,
+      "longitude": 10.7503,
+      "alternate_names": "Rjugge, Рюгге"
+    },
+    {
+      "name": "Nordfjordeid",
+      "kommune": "Stad",
+      "population": 2553,
+      "latitude": 61.9122,
+      "longitude": 5.9856,
+      "alternate_names": "Nordfjordeidet"
+    },
+    {
+      "name": "Tau",
+      "kommune": "Strand",
+      "population": 2548,
+      "latitude": 59.0648,
+      "longitude": 5.9225,
+      "alternate_names": "Tau"
+    },
+    {
+      "name": "Honningsvåg",
+      "kommune": "Nordkapp",
+      "population": 2541,
+      "latitude": 70.9821,
+      "longitude": 25.9704,
+      "alternate_names": "HVG, Honingsvogas, Honnesvahki, Honnesváhki, Honningsvaag, Honningsvag, Honningsvåg, Hönningsvaag, Khoningsvog, Khonningsvog, Sondre Honningsvaag, Sondre Honningsvag, Söndre Honningsvåg, hnyngswag, hong ning si wo ge, honingusuvu~ogu, Хонингсвог, Хоннингсвог, هنینگسواگ, ホニングスヴォーグ, 洪寧斯沃格"
+    },
+    {
+      "name": "Gol",
+      "kommune": "Gol",
+      "population": 2530,
+      "latitude": 60.7014,
+      "longitude": 8.9457,
+      "alternate_names": "GLL, Gol, Gol kommun"
+    },
+    {
+      "name": "Bø",
+      "kommune": "Midt-Telemark",
+      "population": 2522,
+      "latitude": 59.413,
+      "longitude": 9.0693,
+      "alternate_names": "Bo, Bo i Telemark, Bø, Bø i Telemark"
+    },
+    {
+      "name": "Rognan",
+      "kommune": "Saltdal",
+      "population": 2499,
+      "latitude": 67.1002,
+      "longitude": 15.3909,
+      "alternate_names": "Rognan, ZXM"
+    },
+    {
+      "name": "Stranda",
+      "kommune": "Stranda",
+      "population": 2499,
+      "latitude": 62.3086,
+      "longitude": 6.9372,
+      "alternate_names": "Stranda, Stranden"
+    },
+    {
+      "name": "Frosta",
+      "kommune": "Frosta",
+      "population": 2495,
+      "latitude": 63.5891,
+      "longitude": 10.7423,
+      "alternate_names": "Frosta, Фроста"
+    },
+    {
+      "name": "Varhaug",
+      "kommune": "Hå",
+      "population": 2484,
+      "latitude": 58.6181,
+      "longitude": 5.657,
+      "alternate_names": "Varhaug"
+    },
+    {
+      "name": "Ytre Arna",
+      "kommune": "Bergen",
+      "population": 2484,
+      "latitude": 60.4618,
+      "longitude": 5.4326,
+      "alternate_names": "Ytre Arna"
+    },
+    {
+      "name": "Kyrksæterøra",
+      "kommune": "Heim",
+      "population": 2471,
+      "latitude": 63.2906,
+      "longitude": 9.0891,
+      "alternate_names": "Kirksaeteroren, Kirksaeterören, Kyrksaeterora, Kyrkseterora, Kyrkseterøra, Kyrksæterøra"
+    },
+    {
+      "name": "Løten",
+      "kommune": "Løten",
+      "population": 2458,
+      "latitude": 60.8194,
+      "longitude": 11.3421,
+      "alternate_names": "Loiten, Loten, Löiten, Løten"
+    },
+    {
+      "name": "Vinstra",
+      "kommune": "Nord-Fron",
+      "population": 2449,
+      "latitude": 61.595,
+      "longitude": 9.7513,
+      "alternate_names": "Vinstra, XKZ"
+    },
+    {
+      "name": "Vikersund",
+      "kommune": "Modum",
+      "population": 2448,
+      "latitude": 59.9684,
+      "longitude": 9.9911,
+      "alternate_names": "Vikersund, Vikesund, vu~ikerusun, Викерсунд, ヴィケルスン"
+    },
+    {
+      "name": "Ryggebyen",
+      "kommune": "Moss",
+      "population": 2416,
+      "latitude": 59.375,
+      "longitude": 10.75,
+      "alternate_names": "Ryggebyen"
+    },
+    {
+      "name": "Stange",
+      "kommune": "Stange",
+      "population": 2416,
+      "latitude": 60.718,
+      "longitude": 11.1942,
+      "alternate_names": "Stange, Stange Stasjonsby"
+    },
+    {
+      "name": "Setermoen",
+      "kommune": "Bardu",
+      "population": 2410,
+      "latitude": 68.861,
+      "longitude": 18.3486,
+      "alternate_names": "Saetermoen, Sætermoen"
+    },
+    {
+      "name": "Fossbergom",
+      "kommune": "Lom",
+      "population": 2406,
+      "latitude": 61.8377,
+      "longitude": 8.5684,
+      "alternate_names": "Fossbergom, Lom, Loms kommun, Лом"
+    },
+    {
+      "name": "Maura",
+      "kommune": "Nannestad",
+      "population": 2400,
+      "latitude": 60.2583,
+      "longitude": 11.0319,
+      "alternate_names": "Maura"
+    },
+    {
+      "name": "Bjørnevatn",
+      "kommune": "Sør-Varanger",
+      "population": 2392,
+      "latitude": 69.6675,
+      "longitude": 29.9872,
+      "alternate_names": "Bjornevand, Bjornevatn, Bjornvandet, Björnevand, Björnvandet, Bjørnevatn, Kruuvakylae, Kruuvakylä"
+    },
+    {
+      "name": "Skjervøy",
+      "kommune": "Skjervøy",
+      "population": 2376,
+      "latitude": 70.0311,
+      "longitude": 20.9714,
+      "alternate_names": "Skjarvoy, Skjarvöy, Skjervo, Skjervoy, Skjervö, Skjervøy, Skjoervo, Skjoervø"
+    },
+    {
+      "name": "Elnesvågen",
+      "kommune": "Hustadvika",
+      "population": 2362,
+      "latitude": 62.8543,
+      "longitude": 7.1377,
+      "alternate_names": ""
+    },
+    {
+      "name": "Tynset",
+      "kommune": "Tynset",
+      "population": 2356,
+      "latitude": 62.2759,
+      "longitude": 10.7824,
+      "alternate_names": "Kommun Tynset, Tjunset, Tonset, Tynset, Tynsets kommun, Tönset, ZMX, ta'inaseta, ting se, Тюнсет, টাইনসেট, 廷瑟"
+    },
+    {
+      "name": "Billingstad",
+      "kommune": "Asker",
+      "population": 2349,
+      "latitude": 59.8755,
+      "longitude": 10.4823,
+      "alternate_names": "Billingstad"
+    },
+    {
+      "name": "Bjørkelangen",
+      "kommune": "Aurskog-Høland",
+      "population": 2346,
+      "latitude": 59.8836,
+      "longitude": 11.564,
+      "alternate_names": "Bjorkelangen, Bjørkelangen"
+    },
+    {
+      "name": "Lervik",
+      "kommune": "Fredrikstad",
+      "population": 2331,
+      "latitude": 59.2712,
+      "longitude": 10.7461,
+      "alternate_names": "Lervik"
+    },
+    {
+      "name": "Løpsmarka",
+      "kommune": "Bodø",
+      "population": 2308,
+      "latitude": 67.3134,
+      "longitude": 14.4493,
+      "alternate_names": "Laupsmarka, Lopsmarka, Lopsmarken, Löpsmarken, Løpsmarka"
+    },
+    {
+      "name": "Ål",
+      "kommune": "Ål",
+      "population": 2278,
+      "latitude": 60.6302,
+      "longitude": 8.5607,
+      "alternate_names": "Aal, Al, Ali vald, Als kommun, Kommun Al, Kommun Ål, Ol, Uolis, ala, ao er, oru, Ål, Åli vald, Åls kommun, Ол, অল, オール, 奧爾"
+    },
+    {
+      "name": "Geilo",
+      "kommune": "Hol",
+      "population": 2276,
+      "latitude": 60.5337,
+      "longitude": 8.2054,
+      "alternate_names": "Geilo, Gejlo, Gielo, Gjelo, Гейло"
+    },
+    {
+      "name": "Høyanger",
+      "kommune": "Høyanger",
+      "population": 2266,
+      "latitude": 61.2235,
+      "longitude": 6.0847,
+      "alternate_names": ""
+    },
+    {
+      "name": "Birkeland",
+      "kommune": "Birkenes",
+      "population": 2254,
+      "latitude": 58.3309,
+      "longitude": 8.2323,
+      "alternate_names": ""
+    },
+    {
+      "name": "Innbygda",
+      "kommune": "Trysil",
+      "population": 2250,
+      "latitude": 61.3148,
+      "longitude": 12.2637,
+      "alternate_names": "Trysil"
+    },
+    {
+      "name": "Lyefjell",
+      "kommune": "Time",
+      "population": 2200,
+      "latitude": 58.7354,
+      "longitude": 5.7362,
+      "alternate_names": "Lye"
+    },
+    {
+      "name": "Aursmoen",
+      "kommune": "Aurskog-Høland",
+      "population": 2173,
+      "latitude": 59.9276,
+      "longitude": 11.4428,
+      "alternate_names": "Aurskog, Urskog"
+    },
+    {
+      "name": "Skarnes",
+      "kommune": "Sør-Odal",
+      "population": 2172,
+      "latitude": 60.2539,
+      "longitude": 11.6849,
+      "alternate_names": "Skarnes, Skarnes Stasjonsby"
+    },
+    {
+      "name": "Lakselv",
+      "kommune": "Porsanger",
+      "population": 2168,
+      "latitude": 70.0513,
+      "longitude": 24.9718,
+      "alternate_names": "LKL, Lakeselv, Laksehl'v, Lakselv, Leavdnja, Lemmijoki, la ke sai er fu, laksylw, Лакселв, Лаксэльв, لاکسیلو, 拉克塞爾夫"
+    },
+    {
+      "name": "Båtsfjord",
+      "kommune": "Båtsfjord",
+      "population": 2166,
+      "latitude": 70.6343,
+      "longitude": 29.7175,
+      "alternate_names": "BJF, Bahcavuotna, Batsfjord, Batsfjordi vald, Batsfjords kommun, Botsf'ord, Báhcavuotna, Båtsfjord, Båtsfjordi vald, Båtsfjords kommun, Kommun Batsfjord, Kommun Båtsfjord, batasphajorda, bo ci fei you er, botsufiyoru, Ботсфьорд, বটস্ফজোর্ড, ボツフィヨール, 博茨菲尤爾"
+    },
+    {
+      "name": "Melbu",
+      "kommune": "Hadsel",
+      "population": 2161,
+      "latitude": 68.5025,
+      "longitude": 14.7996,
+      "alternate_names": "Melbu"
+    },
+    {
+      "name": "Sandane",
+      "kommune": "Gloppen",
+      "population": 2149,
+      "latitude": 61.7728,
+      "longitude": 6.215,
+      "alternate_names": "SDN, Sandane, Sandene, Сандане"
+    },
+    {
+      "name": "Hauge i Dalane",
+      "kommune": "Sokndal",
+      "population": 2148,
+      "latitude": 58.3436,
+      "longitude": 6.2812,
+      "alternate_names": "Hauge"
+    },
+    {
+      "name": "Brattvåg",
+      "kommune": "Ålesund",
+      "population": 2146,
+      "latitude": 62.5999,
+      "longitude": 6.4443,
+      "alternate_names": "Brattvag, Brattvåg, Bratvaag"
+    },
+    {
+      "name": "Norheimsund",
+      "kommune": "Kvam",
+      "population": 2146,
+      "latitude": 60.3709,
+      "longitude": 6.1456,
+      "alternate_names": "Nordheimsund, Norheimsund"
+    },
+    {
+      "name": "Liknes",
+      "kommune": "Kvinesdal",
+      "population": 2141,
+      "latitude": 58.3122,
+      "longitude": 6.9618,
+      "alternate_names": "Liknes"
+    },
+    {
+      "name": "Evjen",
+      "kommune": "Vestvågøy",
+      "population": 2127,
+      "latitude": 68.2667,
+      "longitude": 13.7333,
+      "alternate_names": "Evjen"
+    },
+    {
+      "name": "Rensvik",
+      "kommune": "Kristiansund",
+      "population": 2121,
+      "latitude": 63.0984,
+      "longitude": 7.8203,
+      "alternate_names": "Reinsvik, Rensvik"
+    },
+    {
+      "name": "Stryn",
+      "kommune": "Stryn",
+      "population": 2106,
+      "latitude": 61.9026,
+      "longitude": 6.7179,
+      "alternate_names": "Kommun Stryn, Nedstryn, Strjun, Stryn, Stryni vald, Stryns kommun, si te lin, strayana, Стрюн, স্ট্রয়ন, 斯特林"
+    },
+    {
+      "name": "Hov",
+      "kommune": "Søndre Land",
+      "population": 2095,
+      "latitude": 60.6987,
+      "longitude": 10.3519,
+      "alternate_names": "Hov, Hov i Land"
+    },
+    {
+      "name": "Vestnes",
+      "kommune": "Vestnes",
+      "population": 2088,
+      "latitude": 62.6254,
+      "longitude": 7.087,
+      "alternate_names": "Vestnes, Vestnes kommun"
+    },
+    {
+      "name": "Nesbyen",
+      "kommune": "Nesbyen",
+      "population": 2086,
+      "latitude": 60.5681,
+      "longitude": 9.1027,
+      "alternate_names": "Nesbyen, XUL"
+    },
+    {
+      "name": "Vardø",
+      "kommune": "Vardø",
+      "population": 2075,
+      "latitude": 70.3705,
+      "longitude": 31.1107,
+      "alternate_names": "VAW, Vard'o, Varde, Vardo, Vardø, Vardő, Varggat, Vuorea, Vuoreija, Várggát, Варде, Вардьо"
+    },
+    {
+      "name": "Årøysund",
+      "kommune": "Færder",
+      "population": 2052,
+      "latitude": 59.1832,
+      "longitude": 10.4574,
+      "alternate_names": "Aroysund, Aroysundet, Årøysund, Årøysundet"
+    },
+    {
+      "name": "Åndalsnes",
+      "kommune": "Rauma",
+      "population": 2035,
+      "latitude": 62.5675,
+      "longitude": 7.6871,
+      "alternate_names": "Anbalsnes, Andalsnes, Ondalsnes, ondarusunesu, weng da er si nei si, Åndalsnes, Ондалснес, オンダルスネス, 翁達爾斯內斯"
+    },
+    {
+      "name": "Rena",
+      "kommune": "Åmot",
+      "population": 2009,
+      "latitude": 61.1322,
+      "longitude": 11.3716,
+      "alternate_names": "Rena, XKE"
+    },
+    {
+      "name": "Hermansverk",
+      "kommune": "Sogndal",
+      "population": 2000,
+      "latitude": 61.1846,
+      "longitude": 6.8502,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kautokeino",
+      "kommune": "Kautokeino",
+      "population": 2000,
+      "latitude": 69.0125,
+      "longitude": 23.0412,
+      "alternate_names": "Guov'dagaei'dno, Guov'dagæi'dno, Guovdagaeidno, Guovdagaeino, Guovdageaidnu, Guovdageaidnu Kautokeino, Guovdageaidnu vald, Guovdageainnu suohkan, Guovdageajdnu, Guovdagæidno, Guovdagæino, Kautokeini, Kautokeino, Kautokeino kommun, Kautokeino kommuna, Kjoutukejnu, Kommun Kautokeino, Koutokeino, QKX, gu'obhadage'idanu kautake'ino, kai yu tu kai nu, kautokeino, Гуовдагеайдну, Кёутукейну, গুওভডাগেইডনু কৌটকেইনো, カウトケイノ, 凱于圖凱努"
+    },
+    {
+      "name": "Myre",
+      "kommune": "Andøy",
+      "population": 1995,
+      "latitude": 69.1059,
+      "longitude": 15.9631,
+      "alternate_names": ""
+    },
+    {
+      "name": "Myre",
+      "kommune": "Øksnes",
+      "population": 1994,
+      "latitude": 68.914,
+      "longitude": 15.0784,
+      "alternate_names": "Mjure, Мюре"
+    },
+    {
+      "name": "Fagerstrand",
+      "kommune": "Nesodden",
+      "population": 1990,
+      "latitude": 59.7375,
+      "longitude": 10.594,
+      "alternate_names": "Fagerstrand"
+    },
+    {
+      "name": "Tvedestrand",
+      "kommune": "Tvedestrand",
+      "population": 1975,
+      "latitude": 58.622,
+      "longitude": 8.9315,
+      "alternate_names": "Kommun Tvedestrand, Tvedestran, Tvedestrand, Tvedestrandi vald, Tvedestrands kommun, Tvedestrann, tabhedestranda, te wei de si te lan, Тведестран, Тведестранн, টভেডেস্ট্রান্ড, 特韋德斯特蘭"
+    },
+    {
+      "name": "Spetalen",
+      "kommune": "Kongsvinger",
+      "population": 1969,
+      "latitude": 60.1833,
+      "longitude": 11.9,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vanse",
+      "kommune": "Farsund",
+      "population": 1953,
+      "latitude": 58.0981,
+      "longitude": 6.6918,
+      "alternate_names": "Lista, Vanse"
+    },
+    {
+      "name": "Gullhaug",
+      "kommune": "Holmestrand",
+      "population": 1912,
+      "latitude": 59.5013,
+      "longitude": 10.2522,
+      "alternate_names": "Guldhaug, Gullaug, Gullhaug"
+    },
+    {
+      "name": "Kárášjohka",
+      "kommune": "Karasjok",
+      "population": 1908,
+      "latitude": 69.4719,
+      "longitude": 25.5112,
+      "alternate_names": "Karasjohka, Karasjok, Kárášjohka, QKK, Карасйок"
+    },
+    {
+      "name": "Blakstad",
+      "kommune": "Asker",
+      "population": 1898,
+      "latitude": 59.8191,
+      "longitude": 10.4645,
+      "alternate_names": "Blakkstad, Blakstad"
+    },
+    {
+      "name": "Skogn",
+      "kommune": "Levanger",
+      "population": 1884,
+      "latitude": 63.7037,
+      "longitude": 11.1926,
+      "alternate_names": "Skogn"
+    },
+    {
+      "name": "Hemsedal",
+      "kommune": "Hemsedal",
+      "population": 1876,
+      "latitude": 60.8629,
+      "longitude": 8.5534,
+      "alternate_names": "Khemsedal', Хемседаль"
+    },
+    {
+      "name": "Hauknes",
+      "kommune": "Rana",
+      "population": 1864,
+      "latitude": 66.2833,
+      "longitude": 14.0667,
+      "alternate_names": "Hauknes"
+    },
+    {
+      "name": "Skjeberg",
+      "kommune": "Sarpsborg",
+      "population": 1862,
+      "latitude": 59.2115,
+      "longitude": 11.1903,
+      "alternate_names": "Skjeberg"
+    },
+    {
+      "name": "Hylkje",
+      "kommune": "Bergen",
+      "population": 1853,
+      "latitude": 60.5103,
+      "longitude": 5.3544,
+      "alternate_names": "Hylkje"
+    },
+    {
+      "name": "Brekstad",
+      "kommune": "Ørland",
+      "population": 1835,
+      "latitude": 63.687,
+      "longitude": 9.6654,
+      "alternate_names": "Brekkstad, Brekstad, Brokstad, Брекстад"
+    },
+    {
+      "name": "Nodeland",
+      "kommune": "Kristiansand",
+      "population": 1834,
+      "latitude": 58.1552,
+      "longitude": 7.8358,
+      "alternate_names": "Naadeland, Nadeland, Nodeland, Noteland, Nådeland"
+    },
+    {
+      "name": "Selvik",
+      "kommune": "Holmestrand",
+      "population": 1829,
+      "latitude": 59.5665,
+      "longitude": 10.26,
+      "alternate_names": "Selvik"
+    },
+    {
+      "name": "Sem",
+      "kommune": "Tønsberg",
+      "population": 1827,
+      "latitude": 59.2823,
+      "longitude": 10.33,
+      "alternate_names": "Sem"
+    },
+    {
+      "name": "Lødingen",
+      "kommune": "Lødingen",
+      "population": 1808,
+      "latitude": 68.4137,
+      "longitude": 15.9963,
+      "alternate_names": "Lodingen, Loedingen, Lødingen"
+    },
+    {
+      "name": "Karlshus",
+      "kommune": "Råde",
+      "population": 1801,
+      "latitude": 59.352,
+      "longitude": 10.8723,
+      "alternate_names": "Carlshuus, Karlsbunden, Karlshus, Rade, Råde"
+    },
+    {
+      "name": "Espeland",
+      "kommune": "Bergen",
+      "population": 1793,
+      "latitude": 60.3825,
+      "longitude": 5.4657,
+      "alternate_names": "Espeland"
+    },
+    {
+      "name": "Fagernes",
+      "kommune": "Nord-Aurdal",
+      "population": 1788,
+      "latitude": 60.9858,
+      "longitude": 9.2324,
+      "alternate_names": "Coalbmi, Fagernes, Fagernesas, Fajernes, VDB, fa ge nei si, Čoalbmi, Фагернес, Фајернес, 法格內斯"
+    },
+    {
+      "name": "Vigrestad",
+      "kommune": "Hå",
+      "population": 1764,
+      "latitude": 58.571,
+      "longitude": 5.6818,
+      "alternate_names": "Vigrestad"
+    },
+    {
+      "name": "Moi",
+      "kommune": "Lund",
+      "population": 1740,
+      "latitude": 58.4567,
+      "longitude": 6.5518,
+      "alternate_names": ""
+    },
+    {
+      "name": "Rypefjord",
+      "kommune": "Hammerfest",
+      "population": 1731,
+      "latitude": 70.6413,
+      "longitude": 23.6721,
+      "alternate_names": "Rypefjord"
+    },
+    {
+      "name": "Ørje",
+      "kommune": "Marker",
+      "population": 1722,
+      "latitude": 59.4802,
+      "longitude": 11.6602,
+      "alternate_names": "Orje, Ørje"
+    },
+    {
+      "name": "Skaun",
+      "kommune": "Skaun",
+      "population": 1682,
+      "latitude": 63.2515,
+      "longitude": 10.0524,
+      "alternate_names": "Kommun Skaun, Skauan, Skaun, Skauns kommun, Skjoun, sakauna, si kai yu en, Скёун, সকৌন, 斯凱于恩"
+    },
+    {
+      "name": "Kabelvåg",
+      "kommune": "Vågan",
+      "population": 1638,
+      "latitude": 68.2107,
+      "longitude": 14.4755,
+      "alternate_names": "Kabelvaag, Kabelvag, Kabelvåg"
+    },
+    {
+      "name": "Skodje",
+      "kommune": "Ålesund",
+      "population": 1634,
+      "latitude": 62.5047,
+      "longitude": 6.6932,
+      "alternate_names": "Skodje"
+    },
+    {
+      "name": "Øystese",
+      "kommune": "Kvam",
+      "population": 1634,
+      "latitude": 60.3882,
+      "longitude": 6.1925,
+      "alternate_names": "Oysteso, Öystesö"
+    },
+    {
+      "name": "Skoppum",
+      "kommune": "Horten",
+      "population": 1633,
+      "latitude": 59.3861,
+      "longitude": 10.4108,
+      "alternate_names": "Skoppum, XUR"
+    },
+    {
+      "name": "Justvik",
+      "kommune": "Kristiansand",
+      "population": 1630,
+      "latitude": 58.1969,
+      "longitude": 8.0311,
+      "alternate_names": "Gjusvig"
+    },
+    {
+      "name": "Gravdal",
+      "kommune": "Vestvågøy",
+      "population": 1624,
+      "latitude": 68.1183,
+      "longitude": 13.5534,
+      "alternate_names": "Gravdal"
+    },
+    {
+      "name": "Frekhaug",
+      "kommune": "Alver",
+      "population": 1610,
+      "latitude": 60.5132,
+      "longitude": 5.2425,
+      "alternate_names": "Frekhaug"
+    },
+    {
+      "name": "Vatne",
+      "kommune": "Ålesund",
+      "population": 1609,
+      "latitude": 62.5583,
+      "longitude": 6.6171,
+      "alternate_names": "Vatne"
+    },
+    {
+      "name": "Otta",
+      "kommune": "Sel",
+      "population": 1602,
+      "latitude": 61.7712,
+      "longitude": 9.5353,
+      "alternate_names": "Otta, XOR"
+    },
+    {
+      "name": "Ørnes",
+      "kommune": "Meløy",
+      "population": 1538,
+      "latitude": 66.8688,
+      "longitude": 13.7058,
+      "alternate_names": "Ornes, Ørnes"
+    },
+    {
+      "name": "Årdalstangen",
+      "kommune": "Årdal",
+      "population": 1510,
+      "latitude": 61.2358,
+      "longitude": 7.7037,
+      "alternate_names": "Ardalstangen, Årdalstangen"
+    },
+    {
+      "name": "Sjølyststranda",
+      "kommune": "Oslo",
+      "population": 1500,
+      "latitude": 59.9211,
+      "longitude": 10.6802,
+      "alternate_names": ""
+    },
+    {
+      "name": "Melsomvik",
+      "kommune": "Sandefjord",
+      "population": 1498,
+      "latitude": 59.2239,
+      "longitude": 10.3362,
+      "alternate_names": "Melsomvik"
+    },
+    {
+      "name": "Grua",
+      "kommune": "Lunner",
+      "population": 1477,
+      "latitude": 60.257,
+      "longitude": 10.6622,
+      "alternate_names": "Grua"
+    },
+    {
+      "name": "Kolvereid",
+      "kommune": "Nærøysund",
+      "population": 1467,
+      "latitude": 64.8655,
+      "longitude": 11.6046,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vågåmo",
+      "kommune": "Vågå",
+      "population": 1463,
+      "latitude": 61.8751,
+      "longitude": 9.0967,
+      "alternate_names": "Vagamo, Vågåmo"
+    },
+    {
+      "name": "Borkenes",
+      "kommune": "Kvæfjord",
+      "population": 1460,
+      "latitude": 68.7726,
+      "longitude": 16.1712,
+      "alternate_names": "Borkenes"
+    },
+    {
+      "name": "Storslett",
+      "kommune": "Nordreisa",
+      "population": 1455,
+      "latitude": 69.7678,
+      "longitude": 21.0247,
+      "alternate_names": "Hansinkenttae, Hansinkenttä, Storslet, Storslett"
+    },
+    {
+      "name": "Lunde",
+      "kommune": "Nome",
+      "population": 1422,
+      "latitude": 59.2983,
+      "longitude": 9.1027,
+      "alternate_names": "Lunde, Lunde i Telemark"
+    },
+    {
+      "name": "Eike",
+      "kommune": "Karmøy",
+      "population": 1408,
+      "latitude": 59.3983,
+      "longitude": 5.3639,
+      "alternate_names": "Eike"
+    },
+    {
+      "name": "Tveit",
+      "kommune": "Kristiansand",
+      "population": 1397,
+      "latitude": 58.2337,
+      "longitude": 8.122,
+      "alternate_names": "Tveid, Tveit i Kristiansand"
+    },
+    {
+      "name": "Sande",
+      "kommune": "Holmestrand",
+      "population": 1389,
+      "latitude": 59.5868,
+      "longitude": 10.2081,
+      "alternate_names": "Kommun Sande, Sande, Sande i Vestfold, Sande kommun, Sande kommune i Vestfold, Sande vald, Sanne, sang ne, Санне, 桑訥"
+    },
+    {
+      "name": "Larkollen",
+      "kommune": "Moss",
+      "population": 1373,
+      "latitude": 59.332,
+      "longitude": 10.6669,
+      "alternate_names": "Larkollen, Laurkollen"
+    },
+    {
+      "name": "Åneby",
+      "kommune": "Nittedal",
+      "population": 1373,
+      "latitude": 60.0893,
+      "longitude": 10.87,
+      "alternate_names": "Aaneby, Aneby, Åneby"
+    },
+    {
+      "name": "Skotterud",
+      "kommune": "Eidskog",
+      "population": 1361,
+      "latitude": 59.9828,
+      "longitude": 12.1282,
+      "alternate_names": "Skotterud"
+    },
+    {
+      "name": "Herre",
+      "kommune": "Bamble",
+      "population": 1356,
+      "latitude": 59.1035,
+      "longitude": 9.5619,
+      "alternate_names": "Herre"
+    },
+    {
+      "name": "Ågotnes",
+      "kommune": "Øygarden",
+      "population": 1344,
+      "latitude": 60.4031,
+      "longitude": 5.0193,
+      "alternate_names": "Agotnes, Ågotnes"
+    },
+    {
+      "name": "Tomter",
+      "kommune": "Indre Østfold",
+      "population": 1307,
+      "latitude": 59.6591,
+      "longitude": 10.9949,
+      "alternate_names": "Tomter"
+    },
+    {
+      "name": "Hagavik",
+      "kommune": "Bjørnafjorden",
+      "population": 1305,
+      "latitude": 60.1808,
+      "longitude": 5.4015,
+      "alternate_names": "Hagavik"
+    },
+    {
+      "name": "Skreia",
+      "kommune": "Østre Toten",
+      "population": 1285,
+      "latitude": 60.6526,
+      "longitude": 10.9356,
+      "alternate_names": "Skreia"
+    },
+    {
+      "name": "Fitjar",
+      "kommune": "Fitjar",
+      "population": 1280,
+      "latitude": 59.918,
+      "longitude": 5.3167,
+      "alternate_names": "Fitjar, Fitjar kommun"
+    },
+    {
+      "name": "Strai",
+      "kommune": "Kristiansand",
+      "population": 1266,
+      "latitude": 58.1893,
+      "longitude": 7.9283,
+      "alternate_names": "Strai, Ytre Strai"
+    },
+    {
+      "name": "Vigeland",
+      "kommune": "Lindesnes",
+      "population": 1258,
+      "latitude": 58.0844,
+      "longitude": 7.305,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kirkenær",
+      "kommune": "Grue",
+      "population": 1252,
+      "latitude": 60.4579,
+      "longitude": 12.0586,
+      "alternate_names": "Kirkenaer, Kirkenaer i Solor, Kirkenær, Kirkenær i Solør"
+    },
+    {
+      "name": "Hemnesberget",
+      "kommune": "Hemnes",
+      "population": 1243,
+      "latitude": 66.2249,
+      "longitude": 13.6164,
+      "alternate_names": "Hemnesberget"
+    },
+    {
+      "name": "Barkåker",
+      "kommune": "Tønsberg",
+      "population": 1238,
+      "latitude": 59.3186,
+      "longitude": 10.3896,
+      "alternate_names": "Barkaaker, Barkaker, Barkåker"
+    },
+    {
+      "name": "Malm",
+      "kommune": "Steinkjer",
+      "population": 1230,
+      "latitude": 64.0753,
+      "longitude": 11.224,
+      "alternate_names": ""
+    },
+    {
+      "name": "Bjerkvik",
+      "kommune": "Narvik",
+      "population": 1220,
+      "latitude": 68.5492,
+      "longitude": 17.5571,
+      "alternate_names": "Bjerkvik, Bjorkvang, Bjorkvik, Bjørkvang, Bjørkvik"
+    },
+    {
+      "name": "Prestestranda",
+      "kommune": "Drangedal",
+      "population": 1215,
+      "latitude": 59.0977,
+      "longitude": 9.0587,
+      "alternate_names": "Prestestrand, Prestestranda"
+    },
+    {
+      "name": "Nesna",
+      "kommune": "Nesna",
+      "population": 1211,
+      "latitude": 66.1982,
+      "longitude": 13.0184,
+      "alternate_names": ""
+    },
+    {
+      "name": "Glomfjord",
+      "kommune": "Meløy",
+      "population": 1204,
+      "latitude": 66.8166,
+      "longitude": 13.944,
+      "alternate_names": "Glaamen, Glamfjord, Glomfjord, Glåmfjord"
+    },
+    {
+      "name": "Våler",
+      "kommune": "Våler",
+      "population": 1188,
+      "latitude": 60.6712,
+      "longitude": 11.8348,
+      "alternate_names": "Vaaler, Valbyen, Valer, Valer i Solor, Vålbyen, Våler, Våler i Solør"
+    },
+    {
+      "name": "Seljord",
+      "kommune": "Seljord",
+      "population": 1185,
+      "latitude": 59.4848,
+      "longitude": 8.6302,
+      "alternate_names": ""
+    },
+    {
+      "name": "Koppang",
+      "kommune": "Stor-Elvdal",
+      "population": 1182,
+      "latitude": 61.5722,
+      "longitude": 11.0466,
+      "alternate_names": "Koppang"
+    },
+    {
+      "name": "Leirsund",
+      "kommune": "Lillestrøm",
+      "population": 1177,
+      "latitude": 59.9968,
+      "longitude": 11.0875,
+      "alternate_names": "Leirsund"
+    },
+    {
+      "name": "Svelgen",
+      "kommune": "Bremanger",
+      "population": 1173,
+      "latitude": 61.7698,
+      "longitude": 5.2954,
+      "alternate_names": ""
+    },
+    {
+      "name": "Syfteland",
+      "kommune": "Bjørnafjorden",
+      "population": 1170,
+      "latitude": 60.238,
+      "longitude": 5.4528,
+      "alternate_names": ""
+    },
+    {
+      "name": "Dale",
+      "kommune": "Vaksdal",
+      "population": 1167,
+      "latitude": 60.5864,
+      "longitude": 5.8189,
+      "alternate_names": "Dale, Dale i Bruvik, Dalekvam"
+    },
+    {
+      "name": "Mosterhamn",
+      "kommune": "Bømlo",
+      "population": 1167,
+      "latitude": 59.6992,
+      "longitude": 5.3858,
+      "alternate_names": "Moster, Mosterham, Mosterhamn, Mosterhavn"
+    },
+    {
+      "name": "Tomra",
+      "kommune": "Vestnes",
+      "population": 1167,
+      "latitude": 62.5812,
+      "longitude": 6.9311,
+      "alternate_names": "Tomra, Tomra i Romsdal, Tomren"
+    },
+    {
+      "name": "Gaupne",
+      "kommune": "Luster",
+      "population": 1157,
+      "latitude": 61.4047,
+      "longitude": 7.2946,
+      "alternate_names": ""
+    },
+    {
+      "name": "Neskollen",
+      "kommune": "Nes",
+      "population": 1157,
+      "latitude": 60.1216,
+      "longitude": 11.3393,
+      "alternate_names": ""
+    },
+    {
+      "name": "Dombås",
+      "kommune": "Dovre",
+      "population": 1156,
+      "latitude": 62.0755,
+      "longitude": 9.1279,
+      "alternate_names": "Dombaas, Dombas, Dombås, XGP, du mu ao si, 杜姆奥斯"
+    },
+    {
+      "name": "Eide",
+      "kommune": "Hustadvika",
+      "population": 1155,
+      "latitude": 62.9173,
+      "longitude": 7.4467,
+      "alternate_names": "Eide, Eide kommun, Eide pa Nordmore, Eide på Nordmøre"
+    },
+    {
+      "name": "Straumen",
+      "kommune": "Inderøy",
+      "population": 1147,
+      "latitude": 63.8716,
+      "longitude": 11.2962,
+      "alternate_names": "Straumen, Strommen, Strömmen"
+    },
+    {
+      "name": "Reinsvoll",
+      "kommune": "Vestre Toten",
+      "population": 1145,
+      "latitude": 60.6798,
+      "longitude": 10.6218,
+      "alternate_names": "Reinsvoll"
+    },
+    {
+      "name": "Å i Åfjord",
+      "kommune": "Åfjord",
+      "population": 1145,
+      "latitude": 63.9607,
+      "longitude": 10.2247,
+      "alternate_names": "A, A i Afjord, A i Aford, Afjord, Afjord kommun, Ao, As, Å, Å i Åfjord, Å i Åford, Åfjord, Åfjord kommun, Åo"
+    },
+    {
+      "name": "Botngård",
+      "kommune": "Ørland",
+      "population": 1144,
+      "latitude": 63.7648,
+      "longitude": 9.8086,
+      "alternate_names": "Botngaard, Botngard"
+    },
+    {
+      "name": "Åros",
+      "kommune": "Asker",
+      "population": 1142,
+      "latitude": 59.7061,
+      "longitude": 10.5109,
+      "alternate_names": "Aros, Åros"
+    },
+    {
+      "name": "Ávanuorri",
+      "kommune": "Måsøy",
+      "population": 1138,
+      "latitude": 70.9963,
+      "longitude": 24.6622,
+      "alternate_names": "Avanuorri, Havosund, Havoysund, Havøsund, Havøysund, Khavesunn, Ávanuorri, Хавесунн"
+    },
+    {
+      "name": "Knappstad",
+      "kommune": "Indre Østfold",
+      "population": 1133,
+      "latitude": 59.6242,
+      "longitude": 11.0327,
+      "alternate_names": "Knappstad, Knapstad"
+    },
+    {
+      "name": "Sjøholt",
+      "kommune": "Ålesund",
+      "population": 1133,
+      "latitude": 62.4826,
+      "longitude": 6.8138,
+      "alternate_names": "Sjoholt, Sjøholt, Soholt, Söholt"
+    },
+    {
+      "name": "Rubbestadneset",
+      "kommune": "Bømlo",
+      "population": 1130,
+      "latitude": 59.8156,
+      "longitude": 5.2682,
+      "alternate_names": "Rubben, Rubbestadneset"
+    },
+    {
+      "name": "Lærdalsøyri",
+      "kommune": "Lærdal",
+      "population": 1110,
+      "latitude": 61.1,
+      "longitude": 7.4737,
+      "alternate_names": "Laerdal, Lærdal"
+    },
+    {
+      "name": "Berger",
+      "kommune": "Drammen",
+      "population": 1108,
+      "latitude": 59.5499,
+      "longitude": 10.3864,
+      "alternate_names": "Berger, Berger i Vestfold"
+    },
+    {
+      "name": "Frogner",
+      "kommune": "Lillestrøm",
+      "population": 1108,
+      "latitude": 60.0246,
+      "longitude": 11.1028,
+      "alternate_names": "Frogner"
+    },
+    {
+      "name": "Lena",
+      "kommune": "Østre Toten",
+      "population": 1092,
+      "latitude": 60.6739,
+      "longitude": 10.8132,
+      "alternate_names": "Lena"
+    },
+    {
+      "name": "Lindås",
+      "kommune": "Alver",
+      "population": 1087,
+      "latitude": 60.7364,
+      "longitude": 5.161,
+      "alternate_names": ""
+    },
+    {
+      "name": "Berlevåg",
+      "kommune": "Berlevåg",
+      "population": 1085,
+      "latitude": 70.8578,
+      "longitude": 29.0864,
+      "alternate_names": "BVG, Bearalvahki, Bearalváhki, Berlevaag, Berlevag, Berlevog, Berlevåg, Берлевог"
+    },
+    {
+      "name": "Vestbygd",
+      "kommune": "Farsund",
+      "population": 1083,
+      "latitude": 58.0999,
+      "longitude": 6.587,
+      "alternate_names": "Vestbygd, Vestbygda, Vestbygden"
+    },
+    {
+      "name": "Skoger",
+      "kommune": "Drammen",
+      "population": 1082,
+      "latitude": 59.7133,
+      "longitude": 10.2536,
+      "alternate_names": "Skoger"
+    },
+    {
+      "name": "Tysvær",
+      "kommune": "Tysvær",
+      "population": 1077,
+      "latitude": 59.332,
+      "longitude": 5.4898,
+      "alternate_names": "Kommun Tysvaer, Kommun Tysvær, Tjusver, Tysvaer, Tysvaers kommun, Tysvær, Tysværs kommun, di si wei er, ta'isabayera, Тюсвер, টাইসবায়ের, 蒂斯韋爾"
+    },
+    {
+      "name": "Naustdal",
+      "kommune": "Sunnfjord",
+      "population": 1071,
+      "latitude": 61.5111,
+      "longitude": 5.7169,
+      "alternate_names": "Naustdal, Naustdal i Sunnfjord"
+    },
+    {
+      "name": "Sandsli",
+      "kommune": "Bergen",
+      "population": 1070,
+      "latitude": 60.3032,
+      "longitude": 5.2855,
+      "alternate_names": ""
+    },
+    {
+      "name": "Lundamo",
+      "kommune": "Melhus",
+      "population": 1063,
+      "latitude": 63.1522,
+      "longitude": 10.2856,
+      "alternate_names": "Lund, Lundamo, Lunde, Lundemo"
+    },
+    {
+      "name": "Grong",
+      "kommune": "Grong",
+      "population": 1052,
+      "latitude": 64.4646,
+      "longitude": 12.316,
+      "alternate_names": "Grong, XKG"
+    },
+    {
+      "name": "Knappskog",
+      "kommune": "Øygarden",
+      "population": 1045,
+      "latitude": 60.3791,
+      "longitude": 5.056,
+      "alternate_names": "Knappskog"
+    },
+    {
+      "name": "Ask",
+      "kommune": "Gjerdrum",
+      "population": 1038,
+      "latitude": 60.0713,
+      "longitude": 11.0362,
+      "alternate_names": ""
+    },
+    {
+      "name": "Fjellfoten",
+      "kommune": "Nes",
+      "population": 1029,
+      "latitude": 60.0897,
+      "longitude": 11.4722,
+      "alternate_names": ""
+    },
+    {
+      "name": "Storebø",
+      "kommune": "Austevoll",
+      "population": 1026,
+      "latitude": 60.0949,
+      "longitude": 5.2271,
+      "alternate_names": "Storabo, Storabø, Storebo, Storebö"
+    },
+    {
+      "name": "Hvittingfoss",
+      "kommune": "Kongsberg",
+      "population": 1016,
+      "latitude": 59.4857,
+      "longitude": 10.0117,
+      "alternate_names": "Hvittingfoss, Vittingfos, Vittingfoss"
+    },
+    {
+      "name": "Hjelset",
+      "kommune": "Molde",
+      "population": 1011,
+      "latitude": 62.7805,
+      "longitude": 7.4928,
+      "alternate_names": "Hjellset, Hjelset"
+    },
+    {
+      "name": "Tingvoll",
+      "kommune": "Tingvoll",
+      "population": 1005,
+      "latitude": 62.9132,
+      "longitude": 8.2053,
+      "alternate_names": ""
+    },
+    {
+      "name": "Etne",
+      "kommune": "Etne",
+      "population": 1002,
+      "latitude": 59.6653,
+      "longitude": 5.9371,
+      "alternate_names": "Etne, Etne kommun, Etnesjoen, Etnesjøen"
+    },
+    {
+      "name": "Stamsund",
+      "kommune": "Vestvågøy",
+      "population": 999,
+      "latitude": 68.1301,
+      "longitude": 13.8493,
+      "alternate_names": "Stamsund"
+    },
+    {
+      "name": "Slevik",
+      "kommune": "Fredrikstad",
+      "population": 990,
+      "latitude": 59.1961,
+      "longitude": 10.8247,
+      "alternate_names": "Slevik"
+    },
+    {
+      "name": "Dale",
+      "kommune": "Fjaler",
+      "population": 988,
+      "latitude": 61.3635,
+      "longitude": 5.4004,
+      "alternate_names": "Dale, Dale i Sunnfjord, Fjaler"
+    },
+    {
+      "name": "Tanem",
+      "kommune": "Trondheim",
+      "population": 977,
+      "latitude": 63.3167,
+      "longitude": 10.45,
+      "alternate_names": "Tanem"
+    },
+    {
+      "name": "Kjøllefjord",
+      "kommune": "Lebesby",
+      "population": 975,
+      "latitude": 70.9457,
+      "longitude": 27.3465,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hell",
+      "kommune": "Stjørdal",
+      "population": 968,
+      "latitude": 63.4458,
+      "longitude": 10.9009,
+      "alternate_names": "Hel, Hell"
+    },
+    {
+      "name": "Magnor",
+      "kommune": "Eidskog",
+      "population": 967,
+      "latitude": 59.9509,
+      "longitude": 12.2015,
+      "alternate_names": "Magnor"
+    },
+    {
+      "name": "Meråker",
+      "kommune": "Meråker",
+      "population": 961,
+      "latitude": 63.4141,
+      "longitude": 11.743,
+      "alternate_names": "Kommun Meraker, Kommun Meråker, Maraker, Maråker, Meraaker, Meraker, Merakers kommun, Meroker, Meråker, Meråkers kommun, Muorahka, Muorahká, mei luo ke, merokora, Мерокер, মেরোকোর, 梅羅克"
+    },
+    {
+      "name": "Kjøpsvik",
+      "kommune": "Narvik",
+      "population": 960,
+      "latitude": 68.097,
+      "longitude": 16.3742,
+      "alternate_names": "Gasluokta, Gásluokta, Kjonsvik, Kjopsvik, Kjönsvik, Kjøpsvik"
+    },
+    {
+      "name": "Sveio",
+      "kommune": "Sveio",
+      "population": 960,
+      "latitude": 59.5419,
+      "longitude": 5.3518,
+      "alternate_names": "Sveio, Sveio kommun"
+    },
+    {
+      "name": "Follebu",
+      "kommune": "Gausdal",
+      "population": 959,
+      "latitude": 61.2158,
+      "longitude": 10.285,
+      "alternate_names": "Follebu"
+    },
+    {
+      "name": "Ballangen",
+      "kommune": "Narvik",
+      "population": 956,
+      "latitude": 68.3428,
+      "longitude": 16.8315,
+      "alternate_names": "Balak, Balangen, Balat, Ballangen, Ballangeni vald, Ballangens kommun, Bálat, Bálák, Kommun Ballangen, ba lang en, ballanena, barangen, Баланген, Балланген, বাল্লাঙেন, バランゲン, 巴朗恩"
+    },
+    {
+      "name": "Sand",
+      "kommune": "Nord-Odal",
+      "population": 946,
+      "latitude": 60.3922,
+      "longitude": 11.5403,
+      "alternate_names": "Nord Odalen, Nord-Odal, Sand"
+    },
+    {
+      "name": "Rosendal",
+      "kommune": "Kvinnherad",
+      "population": 945,
+      "latitude": 59.9859,
+      "longitude": 6.0116,
+      "alternate_names": "Rosendal"
+    },
+    {
+      "name": "Løkken Verk",
+      "kommune": "Orkland",
+      "population": 943,
+      "latitude": 63.1258,
+      "longitude": 9.7052,
+      "alternate_names": "Lokken, Lokken Verk, Løkken, Løkken Verk"
+    },
+    {
+      "name": "Lørenfallet",
+      "kommune": "Lillestrøm",
+      "population": 926,
+      "latitude": 60.0198,
+      "longitude": 11.23,
+      "alternate_names": "Loren, Lorenfallet, Løren, Lørenfallet"
+    },
+    {
+      "name": "Vaksdal",
+      "kommune": "Vaksdal",
+      "population": 918,
+      "latitude": 60.4768,
+      "longitude": 5.7407,
+      "alternate_names": "Vaksdal"
+    },
+    {
+      "name": "Berkåk",
+      "kommune": "Rennebu",
+      "population": 914,
+      "latitude": 62.825,
+      "longitude": 10.0118,
+      "alternate_names": "Berkaak, Berkak, Berkåk"
+    },
+    {
+      "name": "Løken",
+      "kommune": "Aurskog-Høland",
+      "population": 906,
+      "latitude": 59.7955,
+      "longitude": 11.466,
+      "alternate_names": "Loken, Loken i Holand, Løken, Løken i Høland"
+    },
+    {
+      "name": "Kil",
+      "kommune": "Kragerø",
+      "population": 901,
+      "latitude": 58.8916,
+      "longitude": 9.3008,
+      "alternate_names": "Kil"
+    },
+    {
+      "name": "Indra Haga",
+      "kommune": "Samnanger",
+      "population": 900,
+      "latitude": 60.3878,
+      "longitude": 5.7706,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kaupanger",
+      "kommune": "Sogndal",
+      "population": 892,
+      "latitude": 61.1845,
+      "longitude": 7.2425,
+      "alternate_names": "Kaupanger"
+    },
+    {
+      "name": "Eidsvåg",
+      "kommune": "Molde",
+      "population": 891,
+      "latitude": 62.7766,
+      "longitude": 8.0655,
+      "alternate_names": "Eidsvaag, Eidsvag, Eidsvåg"
+    },
+    {
+      "name": "Siljan",
+      "kommune": "Siljan",
+      "population": 891,
+      "latitude": 59.2884,
+      "longitude": 9.71,
+      "alternate_names": "Siljan"
+    },
+    {
+      "name": "Ølen",
+      "kommune": "Vindafjord",
+      "population": 891,
+      "latitude": 59.6044,
+      "longitude": 5.808,
+      "alternate_names": ""
+    },
+    {
+      "name": "Storsteinnes",
+      "kommune": "Balsfjord",
+      "population": 890,
+      "latitude": 69.2408,
+      "longitude": 19.2344,
+      "alternate_names": ""
+    },
+    {
+      "name": "Bangsund",
+      "kommune": "Namsos",
+      "population": 878,
+      "latitude": 64.3923,
+      "longitude": 11.3969,
+      "alternate_names": "ZXC"
+    },
+    {
+      "name": "Ilseng",
+      "kommune": "Stange",
+      "population": 876,
+      "latitude": 60.7757,
+      "longitude": 11.2272,
+      "alternate_names": "Ilseng"
+    },
+    {
+      "name": "Gvarv",
+      "kommune": "Midt-Telemark",
+      "population": 871,
+      "latitude": 59.3877,
+      "longitude": 9.1724,
+      "alternate_names": "Gvarv"
+    },
+    {
+      "name": "Roverud",
+      "kommune": "Kongsvinger",
+      "population": 865,
+      "latitude": 60.2534,
+      "longitude": 12.0523,
+      "alternate_names": "Roverud"
+    },
+    {
+      "name": "Segalstad",
+      "kommune": "Gausdal",
+      "population": 864,
+      "latitude": 61.2333,
+      "longitude": 10.2333,
+      "alternate_names": "Segalstad"
+    },
+    {
+      "name": "Tretten",
+      "kommune": "Øyer",
+      "population": 859,
+      "latitude": 61.3142,
+      "longitude": 10.3007,
+      "alternate_names": "Tretten"
+    },
+    {
+      "name": "Korgen",
+      "kommune": "Hemnes",
+      "population": 858,
+      "latitude": 66.0766,
+      "longitude": 13.8216,
+      "alternate_names": "Korgen"
+    },
+    {
+      "name": "Kvelde",
+      "kommune": "Larvik",
+      "population": 854,
+      "latitude": 59.1924,
+      "longitude": 9.9689,
+      "alternate_names": "Kvelde"
+    },
+    {
+      "name": "Nordkisa",
+      "kommune": "Ullensaker",
+      "population": 853,
+      "latitude": 60.1858,
+      "longitude": 11.263,
+      "alternate_names": "Nordkisa"
+    },
+    {
+      "name": "Kvam",
+      "kommune": "Nord-Fron",
+      "population": 844,
+      "latitude": 61.665,
+      "longitude": 9.6877,
+      "alternate_names": "Kvam"
+    },
+    {
+      "name": "Moen",
+      "kommune": "Målselv",
+      "population": 840,
+      "latitude": 69.1304,
+      "longitude": 18.6123,
+      "alternate_names": "Moen, Moen i Malselv, Moen i Målselv"
+    },
+    {
+      "name": "Sæbøvik",
+      "kommune": "Kvinnherad",
+      "population": 840,
+      "latitude": 59.7942,
+      "longitude": 5.7097,
+      "alternate_names": ""
+    },
+    {
+      "name": "Fjellstrand",
+      "kommune": "Nesodden",
+      "population": 832,
+      "latitude": 59.7941,
+      "longitude": 10.6069,
+      "alternate_names": "Fjeldstrand, Fjellstrand"
+    },
+    {
+      "name": "Straumen",
+      "kommune": "Sørfold",
+      "population": 827,
+      "latitude": 67.3477,
+      "longitude": 15.6049,
+      "alternate_names": ""
+    },
+    {
+      "name": "Lyngseidet",
+      "kommune": "Lyngen",
+      "population": 821,
+      "latitude": 69.5763,
+      "longitude": 20.2189,
+      "alternate_names": "Lyngseidet, Lyngsejdet"
+    },
+    {
+      "name": "Manger",
+      "kommune": "Alver",
+      "population": 814,
+      "latitude": 60.6414,
+      "longitude": 5.0414,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hof",
+      "kommune": "Åsnes",
+      "population": 809,
+      "latitude": 60.5528,
+      "longitude": 12.0219,
+      "alternate_names": ""
+    },
+    {
+      "name": "Trofors",
+      "kommune": "Grane",
+      "population": 808,
+      "latitude": 65.5333,
+      "longitude": 13.4063,
+      "alternate_names": "Trofors"
+    },
+    {
+      "name": "Dalen",
+      "kommune": "Tokke",
+      "population": 801,
+      "latitude": 59.445,
+      "longitude": 8.0049,
+      "alternate_names": "Dalen, Dalen i Telemark"
+    },
+    {
+      "name": "Tyristrand",
+      "kommune": "Ringerike",
+      "population": 795,
+      "latitude": 60.0855,
+      "longitude": 10.097,
+      "alternate_names": "Tyristrand, Tyristranden"
+    },
+    {
+      "name": "Sigerfjord",
+      "kommune": "Sortland",
+      "population": 792,
+      "latitude": 68.6437,
+      "longitude": 15.5116,
+      "alternate_names": "Haugen, Sigerfjord"
+    },
+    {
+      "name": "Stanghelle",
+      "kommune": "Vaksdal",
+      "population": 775,
+      "latitude": 60.5522,
+      "longitude": 5.7363,
+      "alternate_names": "Stanghelle"
+    },
+    {
+      "name": "Dale",
+      "kommune": "Sel",
+      "population": 773,
+      "latitude": 61.7753,
+      "longitude": 9.4945,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hallingby",
+      "kommune": "Ringerike",
+      "population": 772,
+      "latitude": 60.2714,
+      "longitude": 10.1845,
+      "alternate_names": "Hallingby"
+    },
+    {
+      "name": "Leira",
+      "kommune": "Nord-Aurdal",
+      "population": 771,
+      "latitude": 60.9701,
+      "longitude": 9.2949,
+      "alternate_names": "Leira"
+    },
+    {
+      "name": "Balestrand",
+      "kommune": "Sogndal",
+      "population": 769,
+      "latitude": 61.2096,
+      "longitude": 6.5361,
+      "alternate_names": "Balestrand, Balestrands kommun, Balestrann, Kommun Balestrand, ba lei si te lan, balestranda, Балестранн, বালেস্ট্রান্ড, 巴勒斯特蘭"
+    },
+    {
+      "name": "Bud",
+      "kommune": "Hustadvika",
+      "population": 768,
+      "latitude": 62.9071,
+      "longitude": 6.9141,
+      "alternate_names": "Bud"
+    },
+    {
+      "name": "Ballstad",
+      "kommune": "Vestvågøy",
+      "population": 758,
+      "latitude": 68.0743,
+      "longitude": 13.5451,
+      "alternate_names": "Ballstad, Balstad, Balstadt"
+    },
+    {
+      "name": "Tonstad",
+      "kommune": "Sirdal",
+      "population": 751,
+      "latitude": 58.6626,
+      "longitude": 6.7169,
+      "alternate_names": "Sirdal, Siredalen, Tonstad, Tonstead"
+    },
+    {
+      "name": "Mehamn",
+      "kommune": "Gamvik",
+      "population": 742,
+      "latitude": 71.0414,
+      "longitude": 27.8513,
+      "alternate_names": "MEH, Mehamn, Mehavn, Mekhamn, Мехамн"
+    },
+    {
+      "name": "Andselv",
+      "kommune": "Målselv",
+      "population": 741,
+      "latitude": 69.0655,
+      "longitude": 18.5155,
+      "alternate_names": "Andselva"
+    },
+    {
+      "name": "Ikornnes",
+      "kommune": "Sykkylven",
+      "population": 737,
+      "latitude": 62.3863,
+      "longitude": 6.5509,
+      "alternate_names": "Ekornnes, Ekornue, Ikornnes"
+    },
+    {
+      "name": "Langevåg",
+      "kommune": "Bømlo",
+      "population": 733,
+      "latitude": 59.6073,
+      "longitude": 5.2343,
+      "alternate_names": ""
+    },
+    {
+      "name": "Snåase",
+      "kommune": "Snåase - Snåsa",
+      "population": 733,
+      "latitude": 64.2457,
+      "longitude": 12.3778,
+      "alternate_names": "Snaase, Snaasen, Snasa, Snåase, Snåsa"
+    },
+    {
+      "name": "Aukra",
+      "kommune": "Aukra",
+      "population": 730,
+      "latitude": 62.7833,
+      "longitude": 6.9,
+      "alternate_names": "Aukra, Aukra kommun"
+    },
+    {
+      "name": "Oltedal",
+      "kommune": "Gjesdal",
+      "population": 725,
+      "latitude": 58.8286,
+      "longitude": 6.0369,
+      "alternate_names": "Oltedal, Ovre Oltedal, Övre Oltedal"
+    },
+    {
+      "name": "Søvik",
+      "kommune": "Bjørnafjorden",
+      "population": 725,
+      "latitude": 60.2161,
+      "longitude": 5.3872,
+      "alternate_names": "Sovik, Søvik"
+    },
+    {
+      "name": "Sjøvegan",
+      "kommune": "Salangen",
+      "population": 723,
+      "latitude": 68.8736,
+      "longitude": 17.8471,
+      "alternate_names": "Sjovegan, Sjøvegan"
+    },
+    {
+      "name": "Sundvollen",
+      "kommune": "Hole",
+      "population": 718,
+      "latitude": 60.0627,
+      "longitude": 10.3073,
+      "alternate_names": "Sundvolden, Sundvollen"
+    },
+    {
+      "name": "Uskedalen",
+      "kommune": "Kvinnherad",
+      "population": 717,
+      "latitude": 59.933,
+      "longitude": 5.8634,
+      "alternate_names": "Uskedal, Uskedalen"
+    },
+    {
+      "name": "Raudeberg",
+      "kommune": "Kinn",
+      "population": 715,
+      "latitude": 61.985,
+      "longitude": 5.138,
+      "alternate_names": "Raudeberg, Rodberg, Rödberg"
+    },
+    {
+      "name": "Tyssedal",
+      "kommune": "Ullensvang",
+      "population": 715,
+      "latitude": 60.1163,
+      "longitude": 6.5591,
+      "alternate_names": "Tjussedal', Tysse, Tyssedal, Tysso, Тюсседаль"
+    },
+    {
+      "name": "Vikeså",
+      "kommune": "Bjerkreim",
+      "population": 715,
+      "latitude": 58.6376,
+      "longitude": 6.0913,
+      "alternate_names": "Vigesa, Vigesaa, Vigeså, Vikesa, Vikeså"
+    },
+    {
+      "name": "Roald",
+      "kommune": "Giske",
+      "population": 708,
+      "latitude": 62.5824,
+      "longitude": 6.1246,
+      "alternate_names": "Roald"
+    },
+    {
+      "name": "Aurdal",
+      "kommune": "Nord-Aurdal",
+      "population": 702,
+      "latitude": 60.9244,
+      "longitude": 9.4149,
+      "alternate_names": "Aurdal, Aurdalsbyen"
+    },
+    {
+      "name": "Selje",
+      "kommune": "Stad",
+      "population": 694,
+      "latitude": 62.0444,
+      "longitude": 5.3474,
+      "alternate_names": "QFK"
+    },
+    {
+      "name": "Ise",
+      "kommune": "Sarpsborg",
+      "population": 691,
+      "latitude": 59.3004,
+      "longitude": 11.2205,
+      "alternate_names": "Ise"
+    },
+    {
+      "name": "Storforshei",
+      "kommune": "Rana",
+      "population": 690,
+      "latitude": 66.4048,
+      "longitude": 14.5286,
+      "alternate_names": "Storforshei, Storforsheien, Storfossen, Storfosshei"
+    },
+    {
+      "name": "Sistranda",
+      "kommune": "Frøya",
+      "population": 685,
+      "latitude": 63.7252,
+      "longitude": 8.8332,
+      "alternate_names": "Sistranda, Sistranden"
+    },
+    {
+      "name": "Alvdal",
+      "kommune": "Alvdal",
+      "population": 677,
+      "latitude": 62.1077,
+      "longitude": 10.6307,
+      "alternate_names": "Alvdal, Alvdal kommun, XJA"
+    },
+    {
+      "name": "Tomteråsen",
+      "kommune": "Nes",
+      "population": 676,
+      "latitude": 60.107,
+      "longitude": 11.3687,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ulvik",
+      "kommune": "Ulvik",
+      "population": 675,
+      "latitude": 60.5679,
+      "longitude": 6.9165,
+      "alternate_names": "Ulvik, Ulvik i Hardanger"
+    },
+    {
+      "name": "Inndyr",
+      "kommune": "Gildeskål",
+      "population": 666,
+      "latitude": 67.0335,
+      "longitude": 14.0266,
+      "alternate_names": "Indyr, Inndyr"
+    },
+    {
+      "name": "Nykirke",
+      "kommune": "Horten",
+      "population": 662,
+      "latitude": 59.4228,
+      "longitude": 10.3842,
+      "alternate_names": "Nykirke"
+    },
+    {
+      "name": "Eina",
+      "kommune": "Vestre Toten",
+      "population": 657,
+      "latitude": 60.6286,
+      "longitude": 10.5986,
+      "alternate_names": "Eina"
+    },
+    {
+      "name": "Heiås",
+      "kommune": "Indre Østfold",
+      "population": 654,
+      "latitude": 59.6997,
+      "longitude": 11.2981,
+      "alternate_names": "Bastad, Båstad, Heiaas, Heias, Heiasbyen, Heiås, Heiåsbyen"
+    },
+    {
+      "name": "Jordtveit",
+      "kommune": "Grimstad",
+      "population": 653,
+      "latitude": 58.2719,
+      "longitude": 8.5068,
+      "alternate_names": "Jordtveit, Jortveid"
+    },
+    {
+      "name": "Sesvoll",
+      "kommune": "Ullensaker",
+      "population": 653,
+      "latitude": 60.25,
+      "longitude": 11.1667,
+      "alternate_names": "Sesvold, Sesvoll"
+    },
+    {
+      "name": "Hegra",
+      "kommune": "Stjørdal",
+      "population": 649,
+      "latitude": 63.4638,
+      "longitude": 11.1152,
+      "alternate_names": "Hegra, Hegre"
+    },
+    {
+      "name": "Rindal",
+      "kommune": "Rindal",
+      "population": 649,
+      "latitude": 63.0555,
+      "longitude": 9.2115,
+      "alternate_names": "Rindal, Rindal pa Nordmore, Rindal på Nordmøre, Rindalen"
+    },
+    {
+      "name": "Rykene",
+      "kommune": "Arendal",
+      "population": 647,
+      "latitude": 58.4097,
+      "longitude": 8.6384,
+      "alternate_names": "Rygene, Rykene"
+    },
+    {
+      "name": "Tolga",
+      "kommune": "Tolga",
+      "population": 646,
+      "latitude": 62.409,
+      "longitude": 10.9988,
+      "alternate_names": "Tolga, Tolgen"
+    },
+    {
+      "name": "Hellvik",
+      "kommune": "Eigersund",
+      "population": 643,
+      "latitude": 58.4782,
+      "longitude": 5.8782,
+      "alternate_names": "Hellvik, Helvik"
+    },
+    {
+      "name": "Skjærhalden",
+      "kommune": "Hvaler",
+      "population": 642,
+      "latitude": 59.0253,
+      "longitude": 11.0368,
+      "alternate_names": "Skjaerhalden, Skjaerhallen, Skjaerholla, Skjaerhollen, Skjærhalden, Skjærhallen, Skjærholla, Skjærhollen"
+    },
+    {
+      "name": "Kviteseid",
+      "kommune": "Kviteseid",
+      "population": 640,
+      "latitude": 59.4022,
+      "longitude": 8.4927,
+      "alternate_names": ""
+    },
+    {
+      "name": "Forset",
+      "kommune": "Gausdal",
+      "population": 637,
+      "latitude": 61.2021,
+      "longitude": 10.1438,
+      "alternate_names": "Forset, Fosset"
+    },
+    {
+      "name": "Sparbu",
+      "kommune": "Steinkjer",
+      "population": 635,
+      "latitude": 63.919,
+      "longitude": 11.4329,
+      "alternate_names": "Sparbu, Sparbuen"
+    },
+    {
+      "name": "Klokkarvik",
+      "kommune": "Øygarden",
+      "population": 627,
+      "latitude": 60.2247,
+      "longitude": 5.1509,
+      "alternate_names": "Klokkarvik"
+    },
+    {
+      "name": "Os",
+      "kommune": "Os",
+      "population": 626,
+      "latitude": 62.4965,
+      "longitude": 11.2233,
+      "alternate_names": "Os, Os i Hedmark, Os i Osterdalen, Os i Østerdalen, Os im Osterdalen, Os im Østerdalen, Os w Hedmark"
+    },
+    {
+      "name": "Holme",
+      "kommune": "Bømlo",
+      "population": 623,
+      "latitude": 59.6514,
+      "longitude": 5.1614,
+      "alternate_names": "Holme"
+    },
+    {
+      "name": "Terråk",
+      "kommune": "Bindal",
+      "population": 623,
+      "latitude": 65.087,
+      "longitude": 12.3715,
+      "alternate_names": "Terraak, Terrak, Terråk"
+    },
+    {
+      "name": "Hundorp",
+      "kommune": "Sør-Fron",
+      "population": 615,
+      "latitude": 61.5552,
+      "longitude": 9.9407,
+      "alternate_names": "Hundorp"
+    },
+    {
+      "name": "Hemnes",
+      "kommune": "Aurskog-Høland",
+      "population": 613,
+      "latitude": 59.7208,
+      "longitude": 11.4552,
+      "alternate_names": "ZXR"
+    },
+    {
+      "name": "Visnes",
+      "kommune": "Karmøy",
+      "population": 609,
+      "latitude": 59.3566,
+      "longitude": 5.2381,
+      "alternate_names": "Visnes"
+    },
+    {
+      "name": "Bagn",
+      "kommune": "Sør-Aurdal",
+      "population": 607,
+      "latitude": 60.8225,
+      "longitude": 9.5521,
+      "alternate_names": "Bagn"
+    },
+    {
+      "name": "Spangereid",
+      "kommune": "Lindesnes",
+      "population": 607,
+      "latitude": 58.0463,
+      "longitude": 7.1414,
+      "alternate_names": "Spangeraj, Spangereid, Спангерай"
+    },
+    {
+      "name": "Skage",
+      "kommune": "Overhalla",
+      "population": 603,
+      "latitude": 64.4675,
+      "longitude": 11.7564,
+      "alternate_names": "Skage, Skage i Namdalen, Skaje"
+    },
+    {
+      "name": "Skånevik",
+      "kommune": "Etne",
+      "population": 603,
+      "latitude": 59.7329,
+      "longitude": 5.9376,
+      "alternate_names": "Skaanevik, Skanevik, Skånevik"
+    },
+    {
+      "name": "Evenskjer",
+      "kommune": "Tjeldsund",
+      "population": 601,
+      "latitude": 68.5828,
+      "longitude": 16.572,
+      "alternate_names": "Evenskjaer, Evenskjer, Evenskjær, Skearri, Vierva, Viervá"
+    },
+    {
+      "name": "Skjold",
+      "kommune": "Vindafjord",
+      "population": 600,
+      "latitude": 59.5027,
+      "longitude": 5.5869,
+      "alternate_names": "Skjold"
+    },
+    {
+      "name": "Aure",
+      "kommune": "Aure",
+      "population": 596,
+      "latitude": 63.2679,
+      "longitude": 8.5291,
+      "alternate_names": "Aure, Aure kommun, Ehure, Kommun Aure, ai yu lei, aure, Ауре, Эуре, ঔরে, 艾于勒"
+    },
+    {
+      "name": "Børgen",
+      "kommune": "Ullensaker",
+      "population": 593,
+      "latitude": 60.0939,
+      "longitude": 11.2129,
+      "alternate_names": "Borgen"
+    },
+    {
+      "name": "Indre Ålvik",
+      "kommune": "Kvam",
+      "population": 592,
+      "latitude": 60.4327,
+      "longitude": 6.4316,
+      "alternate_names": "Aalvik, Alvik, Ålvik"
+    },
+    {
+      "name": "Åmot",
+      "kommune": "Seljord",
+      "population": 592,
+      "latitude": 59.6333,
+      "longitude": 8.3667,
+      "alternate_names": "Amot, Åmot"
+    },
+    {
+      "name": "Beisfjord",
+      "kommune": "Narvik",
+      "population": 589,
+      "latitude": 68.3762,
+      "longitude": 17.596,
+      "alternate_names": "Beisfjord, Beisfjord i Ofoten"
+    },
+    {
+      "name": "Hovin",
+      "kommune": "Melhus",
+      "population": 588,
+      "latitude": 63.1055,
+      "longitude": 10.2238,
+      "alternate_names": "Hovin, Hovin i Gauldal"
+    },
+    {
+      "name": "Folldal",
+      "kommune": "Folldal",
+      "population": 586,
+      "latitude": 62.1325,
+      "longitude": 9.9968,
+      "alternate_names": "Foldal, Folldal"
+    },
+    {
+      "name": "Syvik",
+      "kommune": "Ålesund",
+      "population": 586,
+      "latitude": 62.55,
+      "longitude": 6.3,
+      "alternate_names": "Sovik, Soviken, Syvik, Sövik, Söviken"
+    },
+    {
+      "name": "Svarstad",
+      "kommune": "Rendalen",
+      "population": 585,
+      "latitude": 61.7,
+      "longitude": 11.2167,
+      "alternate_names": "Svarstad"
+    },
+    {
+      "name": "Sira",
+      "kommune": "Flekkefjord",
+      "population": 584,
+      "latitude": 58.4207,
+      "longitude": 6.6622,
+      "alternate_names": "Sira, Sire, XOQ"
+    },
+    {
+      "name": "Kolbu",
+      "kommune": "Østre Toten",
+      "population": 581,
+      "latitude": 60.6503,
+      "longitude": 10.7449,
+      "alternate_names": "Kolbu"
+    },
+    {
+      "name": "Haga",
+      "kommune": "Nes",
+      "population": 579,
+      "latitude": 60.0539,
+      "longitude": 11.3741,
+      "alternate_names": ""
+    },
+    {
+      "name": "Smestad",
+      "kommune": "Bærum",
+      "population": 578,
+      "latitude": 59.9333,
+      "longitude": 10.4333,
+      "alternate_names": "Smedstad, Smestad"
+    },
+    {
+      "name": "Bismoen",
+      "kommune": "Skjåk",
+      "population": 573,
+      "latitude": 61.8833,
+      "longitude": 8.2667,
+      "alternate_names": "Bismoen"
+    },
+    {
+      "name": "Åmli",
+      "kommune": "Åmli",
+      "population": 572,
+      "latitude": 58.7657,
+      "longitude": 8.4839,
+      "alternate_names": "Amli, Amli kommun, Amli vald, Kommun Amli, Kommun Åmli, Omli, amali, ao mu li, Åmli, Åmli kommun, Åmli vald, Омли, আমলি, 奧姆利"
+    },
+    {
+      "name": "Lindeberg",
+      "kommune": "Lillestrøm",
+      "population": 571,
+      "latitude": 60.0383,
+      "longitude": 11.1242,
+      "alternate_names": "Lindeberg"
+    },
+    {
+      "name": "Eidfjord",
+      "kommune": "Eidfjord",
+      "population": 569,
+      "latitude": 60.4675,
+      "longitude": 7.0719,
+      "alternate_names": "Ehjdf'ord, Eidfjord, Eidfjord i Hardanger, Eidfjords kommun, Ejdf'ord, Kommun Eidfjord, Oyfjord, ai de fei you er, idaphajorda, Öyfjord, Ейдфьорд, Эйдфьорд, ইদফজোর্ড, 埃德菲尤爾"
+    },
+    {
+      "name": "Valvatna",
+      "kommune": "Stord",
+      "population": 569,
+      "latitude": 59.7667,
+      "longitude": 5.4167,
+      "alternate_names": "Valvatna"
+    },
+    {
+      "name": "Lofthus",
+      "kommune": "Ullensvang",
+      "population": 565,
+      "latitude": 60.3326,
+      "longitude": 6.6617,
+      "alternate_names": ""
+    },
+    {
+      "name": "Strand",
+      "kommune": "Sortland",
+      "population": 564,
+      "latitude": 68.6972,
+      "longitude": 15.4495,
+      "alternate_names": "Strand"
+    },
+    {
+      "name": "Leland",
+      "kommune": "Leirfjord",
+      "population": 563,
+      "latitude": 66.0641,
+      "longitude": 12.9433,
+      "alternate_names": ""
+    },
+    {
+      "name": "Judaberg",
+      "kommune": "Stavanger",
+      "population": 560,
+      "latitude": 59.172,
+      "longitude": 5.8762,
+      "alternate_names": "Judaberg"
+    },
+    {
+      "name": "Fosser",
+      "kommune": "Aurskog-Høland",
+      "population": 557,
+      "latitude": 59.8198,
+      "longitude": 11.4866,
+      "alternate_names": "Fosser"
+    },
+    {
+      "name": "Sørland",
+      "kommune": "Værøy",
+      "population": 556,
+      "latitude": 67.6656,
+      "longitude": 12.6978,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ådalsbruk",
+      "kommune": "Løten",
+      "population": 552,
+      "latitude": 60.7965,
+      "longitude": 11.3088,
+      "alternate_names": "Aadalsbruk, Adalsbruk, Ådalsbruk"
+    },
+    {
+      "name": "Årås",
+      "kommune": "Austrheim",
+      "population": 550,
+      "latitude": 60.7774,
+      "longitude": 4.9327,
+      "alternate_names": ""
+    },
+    {
+      "name": "Giskemo",
+      "kommune": "Ålesund",
+      "population": 548,
+      "latitude": 62.4833,
+      "longitude": 6.8667,
+      "alternate_names": "Giskemo"
+    },
+    {
+      "name": "Myra",
+      "kommune": "Vegårshei",
+      "population": 544,
+      "latitude": 58.7492,
+      "longitude": 8.8625,
+      "alternate_names": ""
+    },
+    {
+      "name": "Sokna",
+      "kommune": "Ringerike",
+      "population": 543,
+      "latitude": 60.2388,
+      "longitude": 9.9281,
+      "alternate_names": "Sokna"
+    },
+    {
+      "name": "Sande",
+      "kommune": "Sunnfjord",
+      "population": 542,
+      "latitude": 61.3251,
+      "longitude": 5.7977,
+      "alternate_names": "Sande, Sande i Sunnfjord"
+    },
+    {
+      "name": "Sollsvika",
+      "kommune": "Øygarden",
+      "population": 536,
+      "latitude": 60.4361,
+      "longitude": 4.9664,
+      "alternate_names": "Sollsvika, Solsvik"
+    },
+    {
+      "name": "Sandeid",
+      "kommune": "Vindafjord",
+      "population": 534,
+      "latitude": 59.5444,
+      "longitude": 5.8623,
+      "alternate_names": "Sandeid"
+    },
+    {
+      "name": "Vikevåg",
+      "kommune": "Stavanger",
+      "population": 529,
+      "latitude": 59.0975,
+      "longitude": 5.6979,
+      "alternate_names": ""
+    },
+    {
+      "name": "Sylling",
+      "kommune": "Lier",
+      "population": 525,
+      "latitude": 59.893,
+      "longitude": 10.2911,
+      "alternate_names": "Sylling"
+    },
+    {
+      "name": "Øksfjord",
+      "kommune": "Loppa",
+      "population": 515,
+      "latitude": 70.2394,
+      "longitude": 22.3507,
+      "alternate_names": "Aksovuotna, Aksuvuodna, Akšuvuodna, Oksfjord, Ákšovuotna, Øksfjord"
+    },
+    {
+      "name": "Ginnasluokta",
+      "kommune": "Narvik",
+      "population": 514,
+      "latitude": 68.4052,
+      "longitude": 17.3083,
+      "alternate_names": "Ginnasluokta, Haakvik, Hakvik, Hakvika, Håkvik, Håkvika, Nordre Hakvika, Nordre Håkvika"
+    },
+    {
+      "name": "Lonevåg",
+      "kommune": "Osterøy",
+      "population": 513,
+      "latitude": 60.5256,
+      "longitude": 5.4956,
+      "alternate_names": "Lonevaag, Lonevag, Lonevåg"
+    },
+    {
+      "name": "Våge",
+      "kommune": "Tysnes",
+      "population": 513,
+      "latitude": 60.0435,
+      "longitude": 5.5227,
+      "alternate_names": ""
+    },
+    {
+      "name": "Larsnes",
+      "kommune": "Sande",
+      "population": 511,
+      "latitude": 62.2028,
+      "longitude": 5.5773,
+      "alternate_names": "Larnes, Larsnes"
+    },
+    {
+      "name": "Fillan",
+      "kommune": "Hitra",
+      "population": 510,
+      "latitude": 63.6064,
+      "longitude": 8.9696,
+      "alternate_names": "Fillan"
+    },
+    {
+      "name": "Langangen",
+      "kommune": "Porsgrunn",
+      "population": 505,
+      "latitude": 59.0877,
+      "longitude": 9.8046,
+      "alternate_names": "Langangen"
+    },
+    {
+      "name": "Grøa",
+      "kommune": "Sunndal",
+      "population": 502,
+      "latitude": 62.6439,
+      "longitude": 8.7247,
+      "alternate_names": "Groa, Groa pa Nordmore, Grodal, Grøa, Grøa på Nordmøre, Grødal"
+    },
+    {
+      "name": "Fedje",
+      "kommune": "Fedje",
+      "population": 480,
+      "latitude": 60.7789,
+      "longitude": 4.7149,
+      "alternate_names": "Fedje, Fedje kommun"
+    },
+    {
+      "name": "Steinshamn",
+      "kommune": "Ålesund",
+      "population": 475,
+      "latitude": 62.7839,
+      "longitude": 6.4707,
+      "alternate_names": "Steinshamn"
+    },
+    {
+      "name": "Midsund",
+      "kommune": "Molde",
+      "population": 468,
+      "latitude": 62.6739,
+      "longitude": 6.6741,
+      "alternate_names": "Midsund, Midsund kommun, Misund"
+    },
+    {
+      "name": "Prestfoss",
+      "kommune": "Sigdal",
+      "population": 465,
+      "latitude": 60.0434,
+      "longitude": 9.6352,
+      "alternate_names": "Prestfoss"
+    },
+    {
+      "name": "Skogsvågen",
+      "kommune": "Øygarden",
+      "population": 465,
+      "latitude": 60.2551,
+      "longitude": 5.1016,
+      "alternate_names": "Skogsvag, Skogsvåg"
+    },
+    {
+      "name": "Granvin",
+      "kommune": "Voss",
+      "population": 460,
+      "latitude": 60.5241,
+      "longitude": 6.7194,
+      "alternate_names": "Granvin, Granvin kommun"
+    },
+    {
+      "name": "Kinsarvik",
+      "kommune": "Ullensvang",
+      "population": 459,
+      "latitude": 60.3757,
+      "longitude": 6.7195,
+      "alternate_names": "Kinsarvik, Кинсарвик"
+    },
+    {
+      "name": "Lauvsnes",
+      "kommune": "Flatanger",
+      "population": 453,
+      "latitude": 64.5006,
+      "longitude": 10.894,
+      "alternate_names": "Lauvsnes"
+    },
+    {
+      "name": "Dovre",
+      "kommune": "Dovre",
+      "population": 439,
+      "latitude": 61.9875,
+      "longitude": 9.2556,
+      "alternate_names": ""
+    },
+    {
+      "name": "Gryllefjord",
+      "kommune": "Senja",
+      "population": 439,
+      "latitude": 69.363,
+      "longitude": 17.0528,
+      "alternate_names": ""
+    },
+    {
+      "name": "Eikelandsosen",
+      "kommune": "Bjørnafjorden",
+      "population": 434,
+      "latitude": 60.2418,
+      "longitude": 5.7443,
+      "alternate_names": ""
+    },
+    {
+      "name": "Bogen",
+      "kommune": "Evenes",
+      "population": 392,
+      "latitude": 68.5265,
+      "longitude": 16.9928,
+      "alternate_names": "Bogen, Bogen i Ofoten, Randa, Ránda"
+    },
+    {
+      "name": "Vik",
+      "kommune": "Sømna",
+      "population": 365,
+      "latitude": 65.3125,
+      "longitude": 12.1673,
+      "alternate_names": "Vik, Vik i Helgeland"
+    },
+    {
+      "name": "Fyresdal",
+      "kommune": "Fyresdal",
+      "population": 359,
+      "latitude": 59.1834,
+      "longitude": 8.0921,
+      "alternate_names": "Fyresdal, Kyrkjebygdi, Moland"
+    },
+    {
+      "name": "Hansnes",
+      "kommune": "Karlsøy",
+      "population": 342,
+      "latitude": 69.967,
+      "longitude": 19.6275,
+      "alternate_names": "Hansnes"
+    },
+    {
+      "name": "Reine",
+      "kommune": "Moskenes",
+      "population": 342,
+      "latitude": 67.9325,
+      "longitude": 13.0895,
+      "alternate_names": "Rejne, Reyne, lei ne, renu, ryyn, Рейне, Рејне, Ռեյնե, رئین, レーヌ, 雷讷"
+    },
+    {
+      "name": "Batnfjordsøra",
+      "kommune": "Gjemnes",
+      "population": 339,
+      "latitude": 62.8946,
+      "longitude": 7.6725,
+      "alternate_names": "Batnfjordsora, Batnfjordsoren, Batnfjordsören, Batnfjordsøra, Battenfjordsoren, Battenfjordsören"
+    },
+    {
+      "name": "Gjerstad",
+      "kommune": "Gjerstad",
+      "population": 339,
+      "latitude": 58.8808,
+      "longitude": 9.0186,
+      "alternate_names": ""
+    },
+    {
+      "name": "Noresund",
+      "kommune": "Krødsherad",
+      "population": 330,
+      "latitude": 60.1799,
+      "longitude": 9.6241,
+      "alternate_names": "Nore Sundet"
+    },
+    {
+      "name": "Fossby",
+      "kommune": "Aremark",
+      "population": 318,
+      "latitude": 59.2222,
+      "longitude": 11.6993,
+      "alternate_names": "Fosby, Fossby"
+    },
+    {
+      "name": "Olderdalen",
+      "kommune": "Kåfjord",
+      "population": 312,
+      "latitude": 69.6041,
+      "longitude": 20.5327,
+      "alternate_names": "Dalvesvaggi, Dálvesvággi, Olderdal, Olderdalen, Talosvankka"
+    },
+    {
+      "name": "Ranemsletta",
+      "kommune": "Overhalla",
+      "population": 307,
+      "latitude": 64.4945,
+      "longitude": 11.9491,
+      "alternate_names": "Ranemsletta"
+    },
+    {
+      "name": "Gladstad",
+      "kommune": "Vega",
+      "population": 300,
+      "latitude": 65.6768,
+      "longitude": 11.9622,
+      "alternate_names": "Gladstad"
+    },
+    {
+      "name": "Straume",
+      "kommune": "Bø",
+      "population": 291,
+      "latitude": 68.6888,
+      "longitude": 14.472,
+      "alternate_names": "Straume, Stromme, Strömme"
+    },
+    {
+      "name": "Hovden",
+      "kommune": "Bykle",
+      "population": 265,
+      "latitude": 59.5605,
+      "longitude": 7.3567,
+      "alternate_names": "Hovde, Hovden, Hovden I Setesdal"
+    },
+    {
+      "name": "Røyrvik",
+      "kommune": "Raarvihke - Røyrvik",
+      "population": 254,
+      "latitude": 64.8839,
+      "longitude": 13.5626,
+      "alternate_names": "Royrvik, Røyrvik"
+    },
+    {
+      "name": "Hardbakke",
+      "kommune": "Solund",
+      "population": 235,
+      "latitude": 61.0756,
+      "longitude": 4.8411,
+      "alternate_names": "Hardbakke"
+    },
+    {
+      "name": "Aas",
+      "kommune": "Tydal",
+      "population": 0,
+      "latitude": 63.05,
+      "longitude": 11.65,
+      "alternate_names": "Aas, As, Ås"
+    },
+    {
+      "name": "Aksdal",
+      "kommune": "Tysvær",
+      "population": 0,
+      "latitude": 59.4241,
+      "longitude": 5.4455,
+      "alternate_names": ""
+    },
+    {
+      "name": "Andebu",
+      "kommune": "Sandefjord",
+      "population": 0,
+      "latitude": 59.3059,
+      "longitude": 10.1765,
+      "alternate_names": ""
+    },
+    {
+      "name": "Askvoll",
+      "kommune": "Askvoll",
+      "population": 0,
+      "latitude": 61.3467,
+      "longitude": 5.0622,
+      "alternate_names": ""
+    },
+    {
+      "name": "Aurlandsvangen",
+      "kommune": "Aurland",
+      "population": 0,
+      "latitude": 60.9058,
+      "longitude": 7.1871,
+      "alternate_names": ""
+    },
+    {
+      "name": "Austrheim",
+      "kommune": "Austrheim",
+      "population": 0,
+      "latitude": 60.7774,
+      "longitude": 4.9323,
+      "alternate_names": ""
+    },
+    {
+      "name": "Bergset",
+      "kommune": "Rendalen",
+      "population": 0,
+      "latitude": 61.8913,
+      "longitude": 11.0777,
+      "alternate_names": "Bergset, Berset"
+    },
+    {
+      "name": "Birketveit",
+      "kommune": "Iveland",
+      "population": 0,
+      "latitude": 58.4591,
+      "longitude": 7.9169,
+      "alternate_names": ""
+    },
+    {
+      "name": "Bismo",
+      "kommune": "Skjåk",
+      "population": 0,
+      "latitude": 61.8841,
+      "longitude": 8.2667,
+      "alternate_names": ""
+    },
+    {
+      "name": "Blakstad",
+      "kommune": "Froland",
+      "population": 0,
+      "latitude": 58.5046,
+      "longitude": 8.6465,
+      "alternate_names": ""
+    },
+    {
+      "name": "Bokn",
+      "kommune": "Bokn",
+      "population": 0,
+      "latitude": 59.2306,
+      "longitude": 5.4352,
+      "alternate_names": ""
+    },
+    {
+      "name": "Borgheim",
+      "kommune": "Færder",
+      "population": 0,
+      "latitude": 59.2263,
+      "longitude": 10.4075,
+      "alternate_names": ""
+    },
+    {
+      "name": "Breivikbotn",
+      "kommune": "Hasvik",
+      "population": 0,
+      "latitude": 70.5888,
+      "longitude": 22.2871,
+      "alternate_names": "Breidvikbotn, Breivikbotn"
+    },
+    {
+      "name": "Bruflat",
+      "kommune": "Etnedal",
+      "population": 0,
+      "latitude": 60.8878,
+      "longitude": 9.6414,
+      "alternate_names": "Bruflat, Etnedalen"
+    },
+    {
+      "name": "Bruhagen",
+      "kommune": "Averøy",
+      "population": 0,
+      "latitude": 63.0526,
+      "longitude": 7.6342,
+      "alternate_names": ""
+    },
+    {
+      "name": "Brøstadbotn",
+      "kommune": "Dyrøy",
+      "population": 0,
+      "latitude": 69.0887,
+      "longitude": 17.6949,
+      "alternate_names": ""
+    },
+    {
+      "name": "Burfjord",
+      "kommune": "Kvænangen",
+      "population": 0,
+      "latitude": 69.938,
+      "longitude": 22.0521,
+      "alternate_names": "Burfjord"
+    },
+    {
+      "name": "Bygland",
+      "kommune": "Bygland",
+      "population": 0,
+      "latitude": 58.8285,
+      "longitude": 7.7962,
+      "alternate_names": ""
+    },
+    {
+      "name": "Børsa",
+      "kommune": "Skaun",
+      "population": 0,
+      "latitude": 63.3267,
+      "longitude": 10.0692,
+      "alternate_names": ""
+    },
+    {
+      "name": "Eidsvoll",
+      "kommune": "Eidsvoll",
+      "population": 0,
+      "latitude": 60.3311,
+      "longitude": 11.2626,
+      "alternate_names": "Eidsvold, Eidsvoll, Eidsvoll kommun"
+    },
+    {
+      "name": "Eivindvik",
+      "kommune": "Gulen",
+      "population": 0,
+      "latitude": 60.9813,
+      "longitude": 5.075,
+      "alternate_names": "Eivindvik, Eivinvik, Ejvindvik"
+    },
+    {
+      "name": "Elvestad",
+      "kommune": "Indre Østfold",
+      "population": 0,
+      "latitude": 59.624,
+      "longitude": 10.9508,
+      "alternate_names": ""
+    },
+    {
+      "name": "Engerdal",
+      "kommune": "Engerdal",
+      "population": 0,
+      "latitude": 61.759,
+      "longitude": 11.9594,
+      "alternate_names": "Ehngerdal, Engerdal, Engerdals kommun, Kommun Engerdal, en e da er, engeradala, Энгердал, এঙ্গেরডাল, 恩厄達爾"
+    },
+    {
+      "name": "Evje",
+      "kommune": "Evje og Hornnes",
+      "population": 0,
+      "latitude": 58.5857,
+      "longitude": 7.8036,
+      "alternate_names": "Evje"
+    },
+    {
+      "name": "Falkhytta",
+      "kommune": "Aukra",
+      "population": 0,
+      "latitude": 62.805,
+      "longitude": 6.8872,
+      "alternate_names": ""
+    },
+    {
+      "name": "Fiskå",
+      "kommune": "Vanylven",
+      "population": 0,
+      "latitude": 62.1006,
+      "longitude": 5.5579,
+      "alternate_names": ""
+    },
+    {
+      "name": "Fjerdingby",
+      "kommune": "Rælingen",
+      "population": 0,
+      "latitude": 59.9263,
+      "longitude": 11.0653,
+      "alternate_names": ""
+    },
+    {
+      "name": "Flisa",
+      "kommune": "Åsnes",
+      "population": 0,
+      "latitude": 60.6132,
+      "longitude": 12.0109,
+      "alternate_names": ""
+    },
+    {
+      "name": "Flå",
+      "kommune": "Flå",
+      "population": 0,
+      "latitude": 60.4302,
+      "longitude": 9.462,
+      "alternate_names": "Fla, Flaa, Flå"
+    },
+    {
+      "name": "Forsand",
+      "kommune": "Sandnes",
+      "population": 0,
+      "latitude": 58.9033,
+      "longitude": 6.1048,
+      "alternate_names": ""
+    },
+    {
+      "name": "Fosnavåg",
+      "kommune": "Herøy",
+      "population": 0,
+      "latitude": 62.3419,
+      "longitude": 5.634,
+      "alternate_names": "Forsnevaag, Fosnavag, Fosnavåg"
+    },
+    {
+      "name": "Gratangen",
+      "kommune": "Gratangen",
+      "population": 0,
+      "latitude": 68.65,
+      "longitude": 17.6833,
+      "alternate_names": "Gratangen"
+    },
+    {
+      "name": "Hamnvik",
+      "kommune": "Ibestad",
+      "population": 0,
+      "latitude": 68.7793,
+      "longitude": 17.1718,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hatteng",
+      "kommune": "Storfjord",
+      "population": 0,
+      "latitude": 69.2707,
+      "longitude": 19.9594,
+      "alternate_names": "Hahtta, Hatteng, Hattu, Háhtta"
+    },
+    {
+      "name": "Hattfjelldal",
+      "kommune": "Hattfjelldal",
+      "population": 0,
+      "latitude": 65.5974,
+      "longitude": 13.9879,
+      "alternate_names": "Aarporte, Arbordi, Hattfjelldal, Hattfjelldals kommun, Khattf'ell'dal, Kommun Hattfjelldal, ha te fei ye er da er, hattephajeladala, Árbordi, Хаттфьелльдал, হাট্টেফজেলডাল, 哈特菲耶爾達爾"
+    },
+    {
+      "name": "Heggenes",
+      "kommune": "Øystre Slidre",
+      "population": 0,
+      "latitude": 61.1438,
+      "longitude": 9.0694,
+      "alternate_names": ""
+    },
+    {
+      "name": "Helland",
+      "kommune": "Lindesnes",
+      "population": 0,
+      "latitude": 58.1934,
+      "longitude": 7.5243,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hjelmelandsvågen",
+      "kommune": "Hjelmeland",
+      "population": 0,
+      "latitude": 59.2369,
+      "longitude": 6.1791,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hokksund",
+      "kommune": "Øvre Eiker",
+      "population": 0,
+      "latitude": 59.7708,
+      "longitude": 9.9099,
+      "alternate_names": "Hokksund"
+    },
+    {
+      "name": "Hol",
+      "kommune": "Tjeldsund",
+      "population": 0,
+      "latitude": 68.549,
+      "longitude": 16.3922,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hol",
+      "kommune": "Hol",
+      "population": 0,
+      "latitude": 60.6151,
+      "longitude": 8.294,
+      "alternate_names": "Hol, Hols kommun, Huoles, Huolės, Khul', Kommun Hol, hola, huo er, Хуль, হোল, 霍爾"
+    },
+    {
+      "name": "Hopen",
+      "kommune": "Smøla",
+      "population": 0,
+      "latitude": 63.4654,
+      "longitude": 8.0144,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hornindal",
+      "kommune": "Volda",
+      "population": 0,
+      "latitude": 61.9692,
+      "longitude": 6.5242,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hurdal",
+      "kommune": "Hurdal",
+      "population": 0,
+      "latitude": 60.4352,
+      "longitude": 11.0671,
+      "alternate_names": ""
+    },
+    {
+      "name": "Husøya",
+      "kommune": "Træna",
+      "population": 0,
+      "latitude": 66.5016,
+      "longitude": 12.0965,
+      "alternate_names": ""
+    },
+    {
+      "name": "Hyllestad",
+      "kommune": "Hyllestad",
+      "population": 0,
+      "latitude": 61.1711,
+      "longitude": 5.296,
+      "alternate_names": "Hyllestad, Hyllestad kommun"
+    },
+    {
+      "name": "Høylandet",
+      "kommune": "Høylandet",
+      "population": 0,
+      "latitude": 64.6289,
+      "longitude": 12.3021,
+      "alternate_names": ""
+    },
+    {
+      "name": "Isdalstø",
+      "kommune": "Alver",
+      "population": 0,
+      "latitude": 60.5552,
+      "longitude": 5.2694,
+      "alternate_names": "Isdalssto, Isdalsstø, Isdalsto, Isdalstø"
+    },
+    {
+      "name": "Jaren",
+      "kommune": "Gran",
+      "population": 0,
+      "latitude": 60.3927,
+      "longitude": 10.5616,
+      "alternate_names": "Jaren"
+    },
+    {
+      "name": "Jondal",
+      "kommune": "Ullensvang",
+      "population": 0,
+      "latitude": 60.2756,
+      "longitude": 6.2523,
+      "alternate_names": "Jondal, Jondal kommun"
+    },
+    {
+      "name": "Jøa",
+      "kommune": "Namsos",
+      "population": 0,
+      "latitude": 64.6591,
+      "longitude": 11.2653,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kirkebygda",
+      "kommune": "Våler",
+      "population": 0,
+      "latitude": 59.4921,
+      "longitude": 10.8743,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kirkebygda",
+      "kommune": "Enebakk",
+      "population": 0,
+      "latitude": 59.7645,
+      "longitude": 11.1449,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kjenn",
+      "kommune": "Lørenskog",
+      "population": 0,
+      "latitude": 59.931,
+      "longitude": 10.9537,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kleppe",
+      "kommune": "Klepp",
+      "population": 0,
+      "latitude": 58.7742,
+      "longitude": 5.6294,
+      "alternate_names": ""
+    },
+    {
+      "name": "Kleppestø",
+      "kommune": "Askøy",
+      "population": 0,
+      "latitude": 60.4084,
+      "longitude": 5.2276,
+      "alternate_names": "Kleppesto, Kleppestø"
+    },
+    {
+      "name": "Klæbu",
+      "kommune": "Trondheim",
+      "population": 0,
+      "latitude": 63.2976,
+      "longitude": 10.4826,
+      "alternate_names": "Klaebu, Klaebu kommun, Klebu, Klæbu, Klæbu kommun, Kommun Klaebu, Kommun Klæbu, ke lai bi, klayebu, Клебу, ক্লায়েবু, 克萊比"
+    },
+    {
+      "name": "Kolbotn",
+      "kommune": "Nordre Follo",
+      "population": 0,
+      "latitude": 59.8106,
+      "longitude": 10.8039,
+      "alternate_names": "Kolbotn, Kollbotn"
+    },
+    {
+      "name": "Konsmo",
+      "kommune": "Lyngdal",
+      "population": 0,
+      "latitude": 58.2853,
+      "longitude": 7.356,
+      "alternate_names": "Konsmo"
+    },
+    {
+      "name": "Krokstadøra",
+      "kommune": "Orkland",
+      "population": 0,
+      "latitude": 63.401,
+      "longitude": 9.5006,
+      "alternate_names": "Krokstadora, Krokstadoren, Krokstadören, Krokstadøra"
+    },
+    {
+      "name": "Kvalsund",
+      "kommune": "Hammerfest",
+      "population": 0,
+      "latitude": 70.5027,
+      "longitude": 23.9797,
+      "alternate_names": "Falesnuorri, Fálesnuorri, Kommun Kvalsund, Kvalsund, Kvalsundi vald, Kvalsunds kommun, Kvalsunn, Rahkkeravju, Rakkeravjo, Ráhkkerávju, kabhalasunda, ke wa er song, Квалсунн, কভালসুন্ড, 克瓦爾松"
+    },
+    {
+      "name": "Kyrkjebygda",
+      "kommune": "Åseral",
+      "population": 0,
+      "latitude": 58.6152,
+      "longitude": 7.4139,
+      "alternate_names": ""
+    },
+    {
+      "name": "Lampeland",
+      "kommune": "Flesberg",
+      "population": 0,
+      "latitude": 59.8349,
+      "longitude": 9.5791,
+      "alternate_names": ""
+    },
+    {
+      "name": "Langesund",
+      "kommune": "Bamble",
+      "population": 0,
+      "latitude": 59.0007,
+      "longitude": 9.7488,
+      "alternate_names": "Langesund"
+    },
+    {
+      "name": "Langevåg",
+      "kommune": "Sula",
+      "population": 0,
+      "latitude": 62.4408,
+      "longitude": 6.1914,
+      "alternate_names": "Langevaag, Langevag, Langevåg"
+    },
+    {
+      "name": "Leinesfjorden",
+      "kommune": "Steigen",
+      "population": 0,
+      "latitude": 67.7755,
+      "longitude": 15.0154,
+      "alternate_names": ""
+    },
+    {
+      "name": "Leknes",
+      "kommune": "Leka",
+      "population": 0,
+      "latitude": 65.1,
+      "longitude": 11.7,
+      "alternate_names": "Leknes"
+    },
+    {
+      "name": "Leksvik",
+      "kommune": "Indre Fosen",
+      "population": 0,
+      "latitude": 63.6727,
+      "longitude": 10.6232,
+      "alternate_names": ""
+    },
+    {
+      "name": "Lensvik",
+      "kommune": "Orkland",
+      "population": 0,
+      "latitude": 63.5139,
+      "longitude": 9.8061,
+      "alternate_names": "Lensvik, Lensviken"
+    },
+    {
+      "name": "Lesja",
+      "kommune": "Lesja",
+      "population": 0,
+      "latitude": 62.1184,
+      "longitude": 8.8642,
+      "alternate_names": ""
+    },
+    {
+      "name": "Liabøen",
+      "kommune": "Heim",
+      "population": 0,
+      "latitude": 63.1225,
+      "longitude": 8.3159,
+      "alternate_names": ""
+    },
+    {
+      "name": "Lierbyen",
+      "kommune": "Lier",
+      "population": 0,
+      "latitude": 59.7865,
+      "longitude": 10.2445,
+      "alternate_names": ""
+    },
+    {
+      "name": "Lurøy",
+      "kommune": "Lurøy",
+      "population": 0,
+      "latitude": 66.4189,
+      "longitude": 12.8425,
+      "alternate_names": ""
+    },
+    {
+      "name": "Masfjorden",
+      "kommune": "Masfjorden",
+      "population": 0,
+      "latitude": 60.7989,
+      "longitude": 5.3042,
+      "alternate_names": "Masfjorden, Masfjorden kommun, Masfjordnes"
+    },
+    {
+      "name": "Mebonden",
+      "kommune": "Selbu",
+      "population": 0,
+      "latitude": 63.2303,
+      "longitude": 11.031,
+      "alternate_names": ""
+    },
+    {
+      "name": "Meieribyen",
+      "kommune": "Skiptvet",
+      "population": 0,
+      "latitude": 59.4745,
+      "longitude": 11.1608,
+      "alternate_names": ""
+    },
+    {
+      "name": "Meldal",
+      "kommune": "Orkland",
+      "population": 0,
+      "latitude": 63.0472,
+      "longitude": 9.7134,
+      "alternate_names": ""
+    },
+    {
+      "name": "Mjøndalen",
+      "kommune": "Drammen",
+      "population": 0,
+      "latitude": 59.7507,
+      "longitude": 10.0248,
+      "alternate_names": "Mjondalen, Mjøndalen"
+    },
+    {
+      "name": "Mo",
+      "kommune": "Modalen",
+      "population": 0,
+      "latitude": 60.8162,
+      "longitude": 5.8057,
+      "alternate_names": ""
+    },
+    {
+      "name": "Moldjord",
+      "kommune": "Beiarn",
+      "population": 0,
+      "latitude": 67.006,
+      "longitude": 14.5743,
+      "alternate_names": "Moldjord, Moldjorden"
+    },
+    {
+      "name": "Namdalseid",
+      "kommune": "Namsos",
+      "population": 0,
+      "latitude": 64.2219,
+      "longitude": 11.2232,
+      "alternate_names": ""
+    },
+    {
+      "name": "Namsskogan",
+      "kommune": "Namsskogan",
+      "population": 0,
+      "latitude": 64.9289,
+      "longitude": 13.1595,
+      "alternate_names": ""
+    },
+    {
+      "name": "Oppeid",
+      "kommune": "Hamarøy",
+      "population": 0,
+      "latitude": 68.0852,
+      "longitude": 15.6094,
+      "alternate_names": "Oppeid"
+    },
+    {
+      "name": "Orkanger",
+      "kommune": "Orkland",
+      "population": 0,
+      "latitude": 63.3067,
+      "longitude": 9.8503,
+      "alternate_names": "Orkanger, Оркангер"
+    },
+    {
+      "name": "Osøyro",
+      "kommune": "Bjørnafjorden",
+      "population": 0,
+      "latitude": 60.1838,
+      "longitude": 5.4638,
+      "alternate_names": "Oosoren, Oosøren, Osora, Osoren, Osoyri, Osøra, Osøren, Osøyri"
+    },
+    {
+      "name": "Ramberg",
+      "kommune": "Flakstad",
+      "population": 0,
+      "latitude": 68.0899,
+      "longitude": 13.2299,
+      "alternate_names": ""
+    },
+    {
+      "name": "Randaberg",
+      "kommune": "Randaberg",
+      "population": 0,
+      "latitude": 58.9995,
+      "longitude": 5.6187,
+      "alternate_names": "Randaberg, Randaberg kommun, Randaberg pa Jaeren, Randaberg på Jaeren"
+    },
+    {
+      "name": "Revetal",
+      "kommune": "Tønsberg",
+      "population": 0,
+      "latitude": 59.3724,
+      "longitude": 10.2631,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ringebu",
+      "kommune": "Ringebu",
+      "population": 0,
+      "latitude": 61.5296,
+      "longitude": 10.1389,
+      "alternate_names": "Ringebu, XUQ"
+    },
+    {
+      "name": "Rissa",
+      "kommune": "Indre Fosen",
+      "population": 0,
+      "latitude": 63.5837,
+      "longitude": 9.9599,
+      "alternate_names": "Arnset, Rissa, li sa, ris'sa, rysa, Årnset, Рисса, ريسا, রিস্সা, 里薩"
+    },
+    {
+      "name": "Roa",
+      "kommune": "Lunner",
+      "population": 0,
+      "latitude": 60.2909,
+      "longitude": 10.6159,
+      "alternate_names": ""
+    },
+    {
+      "name": "Roan",
+      "kommune": "Åfjord",
+      "population": 0,
+      "latitude": 64.1727,
+      "longitude": 10.229,
+      "alternate_names": "Kommun Roan, Roan, Roans kommun, Ruan, lu an, rwan, Руан, روان, 魯安"
+    },
+    {
+      "name": "Rollag",
+      "kommune": "Rollag",
+      "population": 0,
+      "latitude": 59.9843,
+      "longitude": 9.2964,
+      "alternate_names": "Rollag, Rollang, Rolloug"
+    },
+    {
+      "name": "Rødberg",
+      "kommune": "Nore og Uvdal",
+      "population": 0,
+      "latitude": 60.2672,
+      "longitude": 8.9472,
+      "alternate_names": ""
+    },
+    {
+      "name": "Rømskog",
+      "kommune": "Aurskog-Høland",
+      "population": 0,
+      "latitude": 59.7497,
+      "longitude": 11.8112,
+      "alternate_names": ""
+    },
+    {
+      "name": "Røst",
+      "kommune": "Røst",
+      "population": 0,
+      "latitude": 67.5175,
+      "longitude": 12.1176,
+      "alternate_names": ""
+    },
+    {
+      "name": "Sand",
+      "kommune": "Suldal",
+      "population": 0,
+      "latitude": 59.4847,
+      "longitude": 6.2511,
+      "alternate_names": ""
+    },
+    {
+      "name": "Sandvika",
+      "kommune": "Lierne",
+      "population": 0,
+      "latitude": 64.4638,
+      "longitude": 13.5913,
+      "alternate_names": "Sandviken, Sandvikja"
+    },
+    {
+      "name": "Sandvika",
+      "kommune": "Bærum",
+      "population": 0,
+      "latitude": 59.8907,
+      "longitude": 10.5277,
+      "alternate_names": "Sandvik, Sandvika, Sandviken, Sannvika, Sanvika, sang wei ka, sndwyka, Санвика, Сандвика, Саннвика, سندویکا, 桑維卡"
+    },
+    {
+      "name": "Sauland",
+      "kommune": "Hjartdal",
+      "population": 0,
+      "latitude": 59.6161,
+      "longitude": 8.9375,
+      "alternate_names": ""
+    },
+    {
+      "name": "Segalstad bru",
+      "kommune": "Gausdal",
+      "population": 0,
+      "latitude": 61.2282,
+      "longitude": 10.2226,
+      "alternate_names": ""
+    },
+    {
+      "name": "Silvalen",
+      "kommune": "Herøy",
+      "population": 0,
+      "latitude": 65.9832,
+      "longitude": 12.2886,
+      "alternate_names": ""
+    },
+    {
+      "name": "Skaland",
+      "kommune": "Senja",
+      "population": 0,
+      "latitude": 69.4446,
+      "longitude": 17.2983,
+      "alternate_names": "Skaland"
+    },
+    {
+      "name": "Skei",
+      "kommune": "Sunnfjord",
+      "population": 0,
+      "latitude": 61.5715,
+      "longitude": 6.4791,
+      "alternate_names": "Skei I Jolster, Skei I Jølster"
+    },
+    {
+      "name": "Skjønhaug",
+      "kommune": "Indre Østfold",
+      "population": 0,
+      "latitude": 59.6407,
+      "longitude": 11.3159,
+      "alternate_names": "Sjonhaug, Sjønhaug"
+    },
+    {
+      "name": "Slemmestad",
+      "kommune": "Asker",
+      "population": 0,
+      "latitude": 59.7807,
+      "longitude": 10.497,
+      "alternate_names": "Slemmestad"
+    },
+    {
+      "name": "Slidre",
+      "kommune": "Vestre Slidre",
+      "population": 0,
+      "latitude": 61.088,
+      "longitude": 8.9814,
+      "alternate_names": ""
+    },
+    {
+      "name": "Sogndalsfjøra",
+      "kommune": "Sogndal",
+      "population": 0,
+      "latitude": 61.2257,
+      "longitude": 7.1018,
+      "alternate_names": "Sogndalsfjaera, Sogndalsfjora, Sogndalsfjæra, Sogndalsfjøra"
+    },
+    {
+      "name": "Sola",
+      "kommune": "Sola",
+      "population": 0,
+      "latitude": 58.8885,
+      "longitude": 5.6528,
+      "alternate_names": "Haaland, Haland, Håland, Kommun Sola, Sola, Sola koezseg, Sola kommun, Sola község, Sola vald, Sole, sola, su la, Сола, সোলা, 蘇拉"
+    },
+    {
+      "name": "Solfjellsjøen",
+      "kommune": "Dønna",
+      "population": 0,
+      "latitude": 66.1167,
+      "longitude": 12.4833,
+      "alternate_names": "Solfjellsjoen, Solfjellsjøen"
+    },
+    {
+      "name": "Steinsdalen",
+      "kommune": "Osen",
+      "population": 0,
+      "latitude": 64.2987,
+      "longitude": 10.5128,
+      "alternate_names": ""
+    },
+    {
+      "name": "Stjørdal",
+      "kommune": "Stjørdal",
+      "population": 0,
+      "latitude": 63.468,
+      "longitude": 10.9178,
+      "alternate_names": ""
+    },
+    {
+      "name": "Stordal",
+      "kommune": "Fjord",
+      "population": 0,
+      "latitude": 62.382,
+      "longitude": 6.9863,
+      "alternate_names": "Stordal, Stordalen"
+    },
+    {
+      "name": "Straume",
+      "kommune": "Øygarden",
+      "population": 0,
+      "latitude": 60.3613,
+      "longitude": 5.122,
+      "alternate_names": ""
+    },
+    {
+      "name": "Støren",
+      "kommune": "Midtre Gauldal",
+      "population": 0,
+      "latitude": 63.0391,
+      "longitude": 10.285,
+      "alternate_names": "si te lun, 斯特倫"
+    },
+    {
+      "name": "Surnadal",
+      "kommune": "Surnadal",
+      "population": 0,
+      "latitude": 62.974,
+      "longitude": 8.7247,
+      "alternate_names": "Kommun Surnadal, Surnadal, Surnadals kommun, suranadala, xu na da er, Сурнадал, সুরনাডাল, 敘納達爾"
+    },
+    {
+      "name": "Svortland",
+      "kommune": "Bømlo",
+      "population": 0,
+      "latitude": 59.7928,
+      "longitude": 5.1723,
+      "alternate_names": "Bremnes, Svortland"
+    },
+    {
+      "name": "Sykkylven",
+      "kommune": "Sykkylven",
+      "population": 0,
+      "latitude": 62.3959,
+      "longitude": 6.5875,
+      "alternate_names": ""
+    },
+    {
+      "name": "Sørreisa",
+      "kommune": "Sørreisa",
+      "population": 0,
+      "latitude": 69.1453,
+      "longitude": 18.1529,
+      "alternate_names": "Arjesraisa, Orjjes-Raisa, Orjješ-Ráisa, Sorreisa, Sørreisa, Årjesraisa"
+    },
+    {
+      "name": "Tana bru",
+      "kommune": "Tana",
+      "population": 0,
+      "latitude": 70.1991,
+      "longitude": 28.1904,
+      "alternate_names": ""
+    },
+    {
+      "name": "Tangvall",
+      "kommune": "Kristiansand",
+      "population": 0,
+      "latitude": 58.0978,
+      "longitude": 7.8153,
+      "alternate_names": "Tangvall, Tufteland"
+    },
+    {
+      "name": "Teigebyen",
+      "kommune": "Nannestad",
+      "population": 0,
+      "latitude": 60.2207,
+      "longitude": 11.0176,
+      "alternate_names": ""
+    },
+    {
+      "name": "Tennevoll",
+      "kommune": "Lavangen",
+      "population": 0,
+      "latitude": 68.7471,
+      "longitude": 17.8062,
+      "alternate_names": ""
+    },
+    {
+      "name": "Tingvatn",
+      "kommune": "Hægebostad",
+      "population": 0,
+      "latitude": 58.3757,
+      "longitude": 7.2197,
+      "alternate_names": "Tingpatn, Tingvatn, Tingvatne"
+    },
+    {
+      "name": "Tjeldstø",
+      "kommune": "Øygarden",
+      "population": 0,
+      "latitude": 60.5962,
+      "longitude": 4.8445,
+      "alternate_names": ""
+    },
+    {
+      "name": "Treungen",
+      "kommune": "Nissedal",
+      "population": 0,
+      "latitude": 59.0206,
+      "longitude": 8.5202,
+      "alternate_names": ""
+    },
+    {
+      "name": "Trøim",
+      "kommune": "Hemsedal",
+      "population": 0,
+      "latitude": 60.8611,
+      "longitude": 8.5654,
+      "alternate_names": ""
+    },
+    {
+      "name": "Tysse",
+      "kommune": "Samnanger",
+      "population": 0,
+      "latitude": 60.374,
+      "longitude": 5.7595,
+      "alternate_names": ""
+    },
+    {
+      "name": "Uggdal",
+      "kommune": "Tysnes",
+      "population": 0,
+      "latitude": 60.004,
+      "longitude": 5.5288,
+      "alternate_names": ""
+    },
+    {
+      "name": "Utsira",
+      "kommune": "Utsira",
+      "population": 0,
+      "latitude": 59.3057,
+      "longitude": 4.8862,
+      "alternate_names": "Utsira, Utsira kommun, Utsire"
+    },
+    {
+      "name": "Valderøy",
+      "kommune": "Giske",
+      "population": 0,
+      "latitude": 62.5007,
+      "longitude": 6.1347,
+      "alternate_names": ""
+    },
+    {
+      "name": "Valldal",
+      "kommune": "Fjord",
+      "population": 0,
+      "latitude": 62.2978,
+      "longitude": 7.2637,
+      "alternate_names": "Valdal, Valldal"
+    },
+    {
+      "name": "Valle",
+      "kommune": "Valle",
+      "population": 0,
+      "latitude": 59.2126,
+      "longitude": 7.5356,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vang",
+      "kommune": "Vang",
+      "population": 0,
+      "latitude": 61.1253,
+      "longitude": 8.5729,
+      "alternate_names": "Kommun Vang, Vang, Vang i Valdres, Vangi vald, Vangs kommun, bham, fangh, wang, wng  aplnd, Ванг, فانغ, ونگ، اپلند, ভাং, 旺"
+    },
+    {
+      "name": "Vangsvika",
+      "kommune": "Senja",
+      "population": 0,
+      "latitude": 69.1706,
+      "longitude": 17.7342,
+      "alternate_names": "Vangsvik, Vangsvika"
+    },
+    {
+      "name": "Vevelstad",
+      "kommune": "Vevelstad",
+      "population": 0,
+      "latitude": 65.6978,
+      "longitude": 12.4371,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vik",
+      "kommune": "Hole",
+      "population": 0,
+      "latitude": 60.0771,
+      "longitude": 10.2791,
+      "alternate_names": ""
+    },
+    {
+      "name": "Vikøyri",
+      "kommune": "Vik",
+      "population": 0,
+      "latitude": 61.0871,
+      "longitude": 6.5791,
+      "alternate_names": "Vikora, Vikoyri, Vikøra, Vikøyri"
+    },
+    {
+      "name": "Vuonnabahta",
+      "kommune": "Nesseby",
+      "population": 0,
+      "latitude": 70.1728,
+      "longitude": 28.556,
+      "alternate_names": "Varangerboti, Varangerbotn, Vuodnabatta, Vuonnabahta, Варангерботи"
+    },
+    {
+      "name": "Vågaholmen",
+      "kommune": "Rødøy",
+      "population": 0,
+      "latitude": 66.7137,
+      "longitude": 13.2871,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ydstebøhamn",
+      "kommune": "Kvitsøy",
+      "population": 0,
+      "latitude": 59.0623,
+      "longitude": 5.4025,
+      "alternate_names": ""
+    },
+    {
+      "name": "Ålen",
+      "kommune": "Holtålen",
+      "population": 0,
+      "latitude": 62.8419,
+      "longitude": 11.3013,
+      "alternate_names": "Aalen, Alen, Ålen"
+    },
+    {
+      "name": "Ålgård",
+      "kommune": "Gjesdal",
+      "population": 0,
+      "latitude": 58.7642,
+      "longitude": 5.8525,
+      "alternate_names": "Aalgaard, Algard, Ålgård"
+    },
+    {
+      "name": "Åmot",
+      "kommune": "Vinje",
+      "population": 0,
+      "latitude": 59.5697,
+      "longitude": 7.9887,
+      "alternate_names": ""
+    },
+    {
+      "name": "Årnes",
+      "kommune": "Åfjord",
+      "population": 0,
+      "latitude": 63.9611,
+      "longitude": 10.226,
+      "alternate_names": "Aarnes, Arnes, Årnes"
+    }
+  ],
+  "meta": {
+    "title": "Norske byer og tettsteder - Gratis nedlasting",
+    "description": "Norske byer og tettsteder med over 500 innbyggere, inkl. kommune og geografiske koordinater. Kilde GeoNames (cities500). Inneholder 633 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Norske byer og tettsteder | ListBase",
+    "seo_description": "Last ned Norske byer og tettsteder — 633 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 633 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

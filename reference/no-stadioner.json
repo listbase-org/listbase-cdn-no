@@ -1,0 +1,381 @@
+{
+  "id": "no-stadioner",
+  "name": "Stadiums in Norway",
+  "title": "Stadiums in Norway",
+  "description": "Stadiums in Norway (Stadioner i Norge), derived from OpenStreetMap POIs tagged leisure=stadium. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aker Stadion",
+      "latitude": 62.733354,
+      "longitude": 7.148085
+    },
+    {
+      "name": "Aksla Stadion",
+      "latitude": 62.475984,
+      "longitude": 6.184705
+    },
+    {
+      "name": "Arna stadion",
+      "latitude": 60.453846,
+      "longitude": 5.421927
+    },
+    {
+      "name": "Aspmyra stadion",
+      "latitude": 67.276578,
+      "longitude": 14.38433
+    },
+    {
+      "name": "Atlanten stadion",
+      "latitude": 63.123927,
+      "longitude": 7.735834
+    },
+    {
+      "name": "Birkenes Skytterlag",
+      "latitude": 58.341149,
+      "longitude": 8.19432
+    },
+    {
+      "name": "Bislett stadion",
+      "latitude": 59.925075,
+      "longitude": 10.733449
+    },
+    {
+      "name": "Brann Stadion",
+      "latitude": 60.367195,
+      "longitude": 5.357113
+    },
+    {
+      "name": "Briskeby stadion",
+      "latitude": 60.795721,
+      "longitude": 11.092173
+    },
+    {
+      "name": "Bryne stadion",
+      "latitude": 58.729888,
+      "longitude": 5.65015
+    },
+    {
+      "name": "Campus Fosshaugane",
+      "latitude": 61.23198,
+      "longitude": 7.085675
+    },
+    {
+      "name": "Color Line stadion",
+      "latitude": 62.470083,
+      "longitude": 6.187218
+    },
+    {
+      "name": "Consto stadion",
+      "latitude": 59.746356,
+      "longitude": 10.01418
+    },
+    {
+      "name": "Drevtjørn ski- og tursenter",
+      "latitude": 60.58971,
+      "longitude": 6.858285
+    },
+    {
+      "name": "Fana stadion",
+      "latitude": 60.290302,
+      "longitude": 5.31943
+    },
+    {
+      "name": "Fluberg skytebane",
+      "latitude": 60.7702,
+      "longitude": 10.2961
+    },
+    {
+      "name": "Fredrikstad Stadion",
+      "latitude": 59.213124,
+      "longitude": 10.928256
+    },
+    {
+      "name": "Gjemselund",
+      "latitude": 60.194993,
+      "longitude": 11.987414
+    },
+    {
+      "name": "Gjerpenkollen hoppbakke",
+      "latitude": 59.707771,
+      "longitude": 10.224561
+    },
+    {
+      "name": "Godøy Stadion",
+      "latitude": 62.473293,
+      "longitude": 6.030962
+    },
+    {
+      "name": "Halden Stadion",
+      "latitude": 59.122484,
+      "longitude": 11.374488
+    },
+    {
+      "name": "Holmenkollbakken",
+      "latitude": 59.964417,
+      "longitude": 10.666309
+    },
+    {
+      "name": "Holt stadion",
+      "latitude": 60.181824,
+      "longitude": 12.016161
+    },
+    {
+      "name": "Intility Arena",
+      "latitude": 59.918253,
+      "longitude": 10.806118
+    },
+    {
+      "name": "Jervskogen Travbane",
+      "latitude": 63.365057,
+      "longitude": 10.745323
+    },
+    {
+      "name": "Jessheim stadion",
+      "latitude": 60.150379,
+      "longitude": 11.189871
+    },
+    {
+      "name": "Jordal amfi",
+      "latitude": 59.911193,
+      "longitude": 10.783966
+    },
+    {
+      "name": "Kjølnes stadion",
+      "latitude": 59.142493,
+      "longitude": 9.66662
+    },
+    {
+      "name": "Korlevoll skistadion",
+      "latitude": 59.88053,
+      "longitude": 6.661852
+    },
+    {
+      "name": "Krohnsminde Idrettsplass",
+      "latitude": 60.37623,
+      "longitude": 5.34108
+    },
+    {
+      "name": "Langrennstadium",
+      "latitude": 61.482354,
+      "longitude": 6.092698
+    },
+    {
+      "name": "Lerkendal Stadion",
+      "latitude": 63.412393,
+      "longitude": 10.404489
+    },
+    {
+      "name": "Lillegårdseter Skytesenter",
+      "latitude": 59.109605,
+      "longitude": 9.759783
+    },
+    {
+      "name": "Lyse Arena",
+      "latitude": 58.914635,
+      "longitude": 5.730817
+    },
+    {
+      "name": "Lysgårdsbakkene hoppanlegg",
+      "latitude": 61.125154,
+      "longitude": 10.486854
+    },
+    {
+      "name": "Marienlyst stadion",
+      "latitude": 59.734433,
+      "longitude": 10.201707
+    },
+    {
+      "name": "Melløs stadion",
+      "latitude": 59.420847,
+      "longitude": 10.671062
+    },
+    {
+      "name": "Modig Stadion",
+      "latitude": 61.070474,
+      "longitude": 6.93124
+    },
+    {
+      "name": "Molde idrettspark",
+      "latitude": 62.740301,
+      "longitude": 7.154355
+    },
+    {
+      "name": "Mosetertoppen Skistadion",
+      "latitude": 61.253124,
+      "longitude": 10.510305
+    },
+    {
+      "name": "Nadderud Stadion",
+      "latitude": 59.921089,
+      "longitude": 10.582129
+    },
+    {
+      "name": "Nammo stadion",
+      "latitude": 60.721962,
+      "longitude": 10.599005
+    },
+    {
+      "name": "Nordmøre stadion",
+      "latitude": 63.124942,
+      "longitude": 7.718355
+    },
+    {
+      "name": "Nye Ålgård stadion",
+      "latitude": 58.775538,
+      "longitude": 5.86824
+    },
+    {
+      "name": "Raufoss stadion",
+      "latitude": 60.721225,
+      "longitude": 10.602991
+    },
+    {
+      "name": "Romssa Arena",
+      "latitude": 69.648896,
+      "longitude": 18.932876
+    },
+    {
+      "name": "Skagerak Arena",
+      "latitude": 59.211435,
+      "longitude": 9.59036
+    },
+    {
+      "name": "Skibua",
+      "latitude": 66.755252,
+      "longitude": 13.801439
+    },
+    {
+      "name": "Solid Stadion",
+      "latitude": 59.786562,
+      "longitude": 5.399575
+    },
+    {
+      "name": "Sparebanken Norge Arena",
+      "latitude": 58.153716,
+      "longitude": 8.02903
+    },
+    {
+      "name": "Spjelkavik stadion",
+      "latitude": 62.463198,
+      "longitude": 6.381756
+    },
+    {
+      "name": "Stavanger svømmehall",
+      "latitude": 58.969454,
+      "longitude": 5.728529
+    },
+    {
+      "name": "Steinkjer skistadion",
+      "latitude": 64.035726,
+      "longitude": 11.497349
+    },
+    {
+      "name": "Stord Stadion",
+      "latitude": 59.774395,
+      "longitude": 5.490037
+    },
+    {
+      "name": "Storstadion",
+      "latitude": 59.132959,
+      "longitude": 10.190526
+    },
+    {
+      "name": "Stovnerbanen",
+      "latitude": 59.955329,
+      "longitude": 10.920045
+    },
+    {
+      "name": "Strømmen stadion",
+      "latitude": 59.939638,
+      "longitude": 11.003667
+    },
+    {
+      "name": "Tana Bru ishockeybane",
+      "latitude": 70.197217,
+      "longitude": 28.174295
+    },
+    {
+      "name": "Tråstad idrettsplass",
+      "latitude": 60.191633,
+      "longitude": 12.017998
+    },
+    {
+      "name": "Ullevaal Stadion",
+      "latitude": 59.949292,
+      "longitude": 10.734778
+    },
+    {
+      "name": "Unity Arena",
+      "latitude": 59.903109,
+      "longitude": 10.623773
+    },
+    {
+      "name": "Valhall stadion",
+      "latitude": 69.660103,
+      "longitude": 18.956029
+    },
+    {
+      "name": "Valle Hovin",
+      "latitude": 59.918518,
+      "longitude": 10.804392
+    },
+    {
+      "name": "Voss Ski og Tursenter",
+      "latitude": 60.6134,
+      "longitude": 6.477543
+    },
+    {
+      "name": "Voss stadion",
+      "latitude": 60.625758,
+      "longitude": 6.425721
+    },
+    {
+      "name": "Årungen rostadion",
+      "latitude": 59.691436,
+      "longitude": 10.746762
+    },
+    {
+      "name": "Øster Hus Arena",
+      "latitude": 58.861666,
+      "longitude": 5.723178
+    },
+    {
+      "name": "Øvrevoll galoppbane",
+      "latitude": 59.937914,
+      "longitude": 10.619178
+    }
+  ],
+  "meta": {
+    "title": "Stadiums in Norway - Gratis nedlasting",
+    "description": "Stadiums in Norway (Stadioner i Norge), derived from OpenStreetMap POIs tagged leisure=stadium. Named features only, clipped to mainland Norway. Inneholder 68 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Stadiums in Norway | ListBase",
+    "seo_description": "Last ned Stadiums in Norway — 68 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 68 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

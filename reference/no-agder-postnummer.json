@@ -1,0 +1,2360 @@
+{
+  "id": "no-agder-postnummer",
+  "name": "Postnummer i Agder",
+  "title": "Postnummer i Agder",
+  "description": "Alle 288 postnummer i Agder fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 288,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "4400",
+      "poststed": "Flekkefjord",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4401",
+      "poststed": "Flekkefjord",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4402",
+      "poststed": "Flekkefjord",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4403",
+      "poststed": "Flekkefjord",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4404",
+      "poststed": "Flekkefjord",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4405",
+      "poststed": "Flekkefjord",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4406",
+      "poststed": "Flekkefjord",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4407",
+      "poststed": "Flekkefjord",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4420",
+      "poststed": "Åna-Sira",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4432",
+      "poststed": "Hidrasund",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4434",
+      "poststed": "Andabeløy",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4436",
+      "poststed": "Gyland",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4438",
+      "poststed": "Sira",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4439",
+      "poststed": "Sira",
+      "kommune_id": "4207",
+      "kommune": "Flekkefjord",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4440",
+      "poststed": "Tonstad",
+      "kommune_id": "4228",
+      "kommune": "Sirdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4441",
+      "poststed": "Tonstad",
+      "kommune_id": "4228",
+      "kommune": "Sirdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4443",
+      "poststed": "Tjørhom",
+      "kommune_id": "4228",
+      "kommune": "Sirdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4473",
+      "poststed": "Kvinlog",
+      "kommune_id": "4227",
+      "kommune": "Kvinesdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4480",
+      "poststed": "Kvinesdal",
+      "kommune_id": "4227",
+      "kommune": "Kvinesdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4484",
+      "poststed": "Øyestranda",
+      "kommune_id": "4227",
+      "kommune": "Kvinesdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4485",
+      "poststed": "Feda",
+      "kommune_id": "4227",
+      "kommune": "Kvinesdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4486",
+      "poststed": "Feda",
+      "kommune_id": "4227",
+      "kommune": "Kvinesdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4490",
+      "poststed": "Kvinesdal",
+      "kommune_id": "4227",
+      "kommune": "Kvinesdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4491",
+      "poststed": "Kvinesdal",
+      "kommune_id": "4227",
+      "kommune": "Kvinesdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4492",
+      "poststed": "Kvinesdal",
+      "kommune_id": "4227",
+      "kommune": "Kvinesdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4501",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4502",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4503",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4504",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4507",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4508",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4509",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4513",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4514",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4515",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4516",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4517",
+      "poststed": "Mandal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4519",
+      "poststed": "Holum",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4520",
+      "poststed": "Lindesnes",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4521",
+      "poststed": "Lindesnes",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4522",
+      "poststed": "Lindesnes",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4523",
+      "poststed": "Lindesnes",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4524",
+      "poststed": "Lindesnes",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4525",
+      "poststed": "Konsmo",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4526",
+      "poststed": "Konsmo",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4528",
+      "poststed": "Kollungtveit",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4529",
+      "poststed": "Byremo",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4532",
+      "poststed": "Øyslebø",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4534",
+      "poststed": "Marnardal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4535",
+      "poststed": "Marnardal",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4536",
+      "poststed": "Bjelland",
+      "kommune_id": "4205",
+      "kommune": "Lindesnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4540",
+      "poststed": "Åseral",
+      "kommune_id": "4224",
+      "kommune": "Åseral",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4541",
+      "poststed": "Åseral",
+      "kommune_id": "4224",
+      "kommune": "Åseral",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4544",
+      "poststed": "Fossdal",
+      "kommune_id": "4224",
+      "kommune": "Åseral",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4550",
+      "poststed": "Farsund",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4551",
+      "poststed": "Farsund",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4552",
+      "poststed": "Farsund",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4553",
+      "poststed": "Farsund",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4554",
+      "poststed": "Farsund",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4557",
+      "poststed": "Vanse",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4558",
+      "poststed": "Vanse",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4560",
+      "poststed": "Vanse",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4563",
+      "poststed": "Borhaug",
+      "kommune_id": "4206",
+      "kommune": "Farsund",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4575",
+      "poststed": "Lyngdal",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4576",
+      "poststed": "Lyngdal",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4577",
+      "poststed": "Lyngdal",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4579",
+      "poststed": "Lyngdal",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4580",
+      "poststed": "Lyngdal",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4586",
+      "poststed": "Korshamn",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4588",
+      "poststed": "Kvås",
+      "kommune_id": "4225",
+      "kommune": "Lyngdal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4590",
+      "poststed": "Snartemo",
+      "kommune_id": "4226",
+      "kommune": "Hægebostad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4595",
+      "poststed": "Tingvatn",
+      "kommune_id": "4226",
+      "kommune": "Hægebostad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4596",
+      "poststed": "Eiken",
+      "kommune_id": "4226",
+      "kommune": "Hægebostad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4597",
+      "poststed": "Eiken",
+      "kommune_id": "4226",
+      "kommune": "Hægebostad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4604",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4605",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4606",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4608",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4609",
+      "poststed": "Kardemomme By",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4610",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4611",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4612",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4613",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4614",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4615",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4616",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4617",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4618",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4619",
+      "poststed": "Mosby",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4620",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4621",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4622",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4623",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4624",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4625",
+      "poststed": "Flekkerøy",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4626",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4628",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4629",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4630",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4631",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4632",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4633",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4634",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4635",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4636",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4637",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4638",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4639",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4640",
+      "poststed": "Søgne",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4641",
+      "poststed": "Søgne",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4642",
+      "poststed": "Søgne",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4643",
+      "poststed": "Søgne",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4644",
+      "poststed": "Søgne",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4645",
+      "poststed": "Nodeland",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4646",
+      "poststed": "Finsland",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4647",
+      "poststed": "Brennåsen",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4649",
+      "poststed": "Finsland",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4656",
+      "poststed": "Hamresanden",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4657",
+      "poststed": "Kjevik",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4658",
+      "poststed": "Tveit",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4661",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4662",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4663",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4664",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4665",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4666",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4670",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4671",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4673",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4674",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4675",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4676",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4677",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4678",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4679",
+      "poststed": "Flekkerøy",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4681",
+      "poststed": "Søgne",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4682",
+      "poststed": "Søgne",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4683",
+      "poststed": "Søgne",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4684",
+      "poststed": "Brennåsen",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4685",
+      "poststed": "Nodeland",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4686",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4687",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4688",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4689",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4691",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4693",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4694",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4695",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4696",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4697",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4698",
+      "poststed": "Kristiansand S",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4699",
+      "poststed": "Tveit",
+      "kommune_id": "4204",
+      "kommune": "Kristiansand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4700",
+      "poststed": "Vennesla",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4701",
+      "poststed": "Vennesla",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4702",
+      "poststed": "Vennesla",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4703",
+      "poststed": "Vennesla",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4705",
+      "poststed": "Øvrebø",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4706",
+      "poststed": "Vennesla",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4707",
+      "poststed": "Vennesla",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4708",
+      "poststed": "Vennesla",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4715",
+      "poststed": "Øvrebø",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4720",
+      "poststed": "Hægeland",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4721",
+      "poststed": "Hægeland",
+      "kommune_id": "4223",
+      "kommune": "Vennesla",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4724",
+      "poststed": "Iveland",
+      "kommune_id": "4218",
+      "kommune": "Iveland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4725",
+      "poststed": "Iveland",
+      "kommune_id": "4218",
+      "kommune": "Iveland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4730",
+      "poststed": "Vatnestrøm",
+      "kommune_id": "4218",
+      "kommune": "Iveland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4733",
+      "poststed": "Evje",
+      "kommune_id": "4219",
+      "kommune": "Evje og Hornnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4734",
+      "poststed": "Evje",
+      "kommune_id": "4219",
+      "kommune": "Evje og Hornnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4735",
+      "poststed": "Evje",
+      "kommune_id": "4219",
+      "kommune": "Evje og Hornnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4737",
+      "poststed": "Hornnes",
+      "kommune_id": "4219",
+      "kommune": "Evje og Hornnes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4741",
+      "poststed": "Byglandsfjord",
+      "kommune_id": "4220",
+      "kommune": "Bygland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4742",
+      "poststed": "Grendi",
+      "kommune_id": "4220",
+      "kommune": "Bygland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4744",
+      "poststed": "Bygland",
+      "kommune_id": "4220",
+      "kommune": "Bygland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4745",
+      "poststed": "Bygland",
+      "kommune_id": "4220",
+      "kommune": "Bygland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4746",
+      "poststed": "Valle",
+      "kommune_id": "4221",
+      "kommune": "Valle",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4747",
+      "poststed": "Valle",
+      "kommune_id": "4221",
+      "kommune": "Valle",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4748",
+      "poststed": "Rysstad",
+      "kommune_id": "4221",
+      "kommune": "Valle",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4749",
+      "poststed": "Rysstad",
+      "kommune_id": "4221",
+      "kommune": "Valle",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4754",
+      "poststed": "Bykle",
+      "kommune_id": "4222",
+      "kommune": "Bykle",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4755",
+      "poststed": "Hovden i Setesdal",
+      "kommune_id": "4222",
+      "kommune": "Bykle",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4756",
+      "poststed": "Hovden i Setesdal",
+      "kommune_id": "4222",
+      "kommune": "Bykle",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4760",
+      "poststed": "Birkeland",
+      "kommune_id": "4216",
+      "kommune": "Birkenes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4766",
+      "poststed": "Herefoss",
+      "kommune_id": "4216",
+      "kommune": "Birkenes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4768",
+      "poststed": "Engesland",
+      "kommune_id": "4216",
+      "kommune": "Birkenes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4770",
+      "poststed": "Høvåg",
+      "kommune_id": "4215",
+      "kommune": "Lillesand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4780",
+      "poststed": "Brekkestø",
+      "kommune_id": "4215",
+      "kommune": "Lillesand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4790",
+      "poststed": "Lillesand",
+      "kommune_id": "4215",
+      "kommune": "Lillesand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4791",
+      "poststed": "Lillesand",
+      "kommune_id": "4215",
+      "kommune": "Lillesand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4792",
+      "poststed": "Lillesand",
+      "kommune_id": "4215",
+      "kommune": "Lillesand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4793",
+      "poststed": "Høvåg",
+      "kommune_id": "4215",
+      "kommune": "Lillesand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4794",
+      "poststed": "Lillesand",
+      "kommune_id": "4215",
+      "kommune": "Lillesand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4795",
+      "poststed": "Birkeland",
+      "kommune_id": "4216",
+      "kommune": "Birkenes",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4801",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4802",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4803",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4804",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4808",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4809",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4810",
+      "poststed": "Eydehavn",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4812",
+      "poststed": "Kongshavn",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4815",
+      "poststed": "Saltrød",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4816",
+      "poststed": "Kolbjørnsvik",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4817",
+      "poststed": "His",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4818",
+      "poststed": "Færvik",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4820",
+      "poststed": "Froland",
+      "kommune_id": "4214",
+      "kommune": "Froland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4821",
+      "poststed": "Rykene",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4822",
+      "poststed": "Rykene",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4823",
+      "poststed": "Nedenes",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4824",
+      "poststed": "Bjorbekk",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4825",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4827",
+      "poststed": "Frolands Verk",
+      "kommune_id": "4214",
+      "kommune": "Froland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4828",
+      "poststed": "Mjåvatn",
+      "kommune_id": "4214",
+      "kommune": "Froland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4830",
+      "poststed": "Hynnekleiv",
+      "kommune_id": "4214",
+      "kommune": "Froland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4832",
+      "poststed": "Mykland",
+      "kommune_id": "4214",
+      "kommune": "Froland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4834",
+      "poststed": "Risdal",
+      "kommune_id": "4214",
+      "kommune": "Froland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4836",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4838",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4839",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4841",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4842",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4843",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4844",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4846",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4847",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4848",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4849",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4851",
+      "poststed": "Saltrød",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4852",
+      "poststed": "Færvik",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4853",
+      "poststed": "His",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4854",
+      "poststed": "Nedenes",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4855",
+      "poststed": "Froland",
+      "kommune_id": "4214",
+      "kommune": "Froland",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4856",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4857",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4858",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4859",
+      "poststed": "Arendal",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4862",
+      "poststed": "Eydehavn",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4863",
+      "poststed": "Nelaug",
+      "kommune_id": "4217",
+      "kommune": "Åmli",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4864",
+      "poststed": "Åmli",
+      "kommune_id": "4217",
+      "kommune": "Åmli",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4865",
+      "poststed": "Åmli",
+      "kommune_id": "4217",
+      "kommune": "Åmli",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4868",
+      "poststed": "Selåsvatn",
+      "kommune_id": "4217",
+      "kommune": "Åmli",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4869",
+      "poststed": "Dølemo",
+      "kommune_id": "4217",
+      "kommune": "Åmli",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4870",
+      "poststed": "Fevik",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4876",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4877",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4878",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4879",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4884",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4885",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4886",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4887",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4888",
+      "poststed": "Homborsund",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4889",
+      "poststed": "Fevik",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4891",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4892",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4893",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4894",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4896",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4898",
+      "poststed": "Grimstad",
+      "kommune_id": "4202",
+      "kommune": "Grimstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4900",
+      "poststed": "Tvedestrand",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4901",
+      "poststed": "Tvedestrand",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4902",
+      "poststed": "Tvedestrand",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4903",
+      "poststed": "Tvedestrand",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4904",
+      "poststed": "Tvedestrand",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4905",
+      "poststed": "Tvedestrand",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4909",
+      "poststed": "Songe",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4910",
+      "poststed": "Lyngør",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4912",
+      "poststed": "Gjeving",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4915",
+      "poststed": "Vestre Sandøya",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4916",
+      "poststed": "Borøy",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4920",
+      "poststed": "Staubø",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4921",
+      "poststed": "Staubø",
+      "kommune_id": "4203",
+      "kommune": "Arendal",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4934",
+      "poststed": "Nes Verk",
+      "kommune_id": "4213",
+      "kommune": "Tvedestrand",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4950",
+      "poststed": "Risør",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4951",
+      "poststed": "Risør",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4952",
+      "poststed": "Risør",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4953",
+      "poststed": "Risør",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4955",
+      "poststed": "Risør",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4956",
+      "poststed": "Risør",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4957",
+      "poststed": "Risør",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4971",
+      "poststed": "Sundebru",
+      "kommune_id": "4211",
+      "kommune": "Gjerstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4972",
+      "poststed": "Gjerstad",
+      "kommune_id": "4211",
+      "kommune": "Gjerstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4973",
+      "poststed": "Vegårshei",
+      "kommune_id": "4212",
+      "kommune": "Vegårshei",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4974",
+      "poststed": "Søndeled",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4980",
+      "poststed": "Gjerstad",
+      "kommune_id": "4211",
+      "kommune": "Gjerstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4985",
+      "poststed": "Vegårshei",
+      "kommune_id": "4212",
+      "kommune": "Vegårshei",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4990",
+      "poststed": "Søndeled",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4993",
+      "poststed": "Sundebru",
+      "kommune_id": "4211",
+      "kommune": "Gjerstad",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    },
+    {
+      "postnummer": "4994",
+      "poststed": "Akland",
+      "kommune_id": "4201",
+      "kommune": "Risør",
+      "fylke_id": "42",
+      "fylke": "Agder"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Agder - Gratis nedlasting",
+    "description": "Alle 288 postnummer i Agder fylke med poststed og kommune. Inneholder 288 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Agder | ListBase",
+    "seo_description": "Last ned Postnummer i Agder — 288 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 288 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

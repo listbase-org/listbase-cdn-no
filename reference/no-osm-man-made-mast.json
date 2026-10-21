@@ -1,0 +1,881 @@
+{
+  "id": "no-osm-man-made-mast",
+  "name": "Named masts in Norway",
+  "title": "Named masts in Norway",
+  "description": "Named masts in Norway, derived from OpenStreetMap POI nodes tagged man_made=mast in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 168,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Andenes",
+      "latitude": 69.327832,
+      "longitude": 16.133579
+    },
+    {
+      "name": "Andøya Space",
+      "latitude": 69.293656,
+      "longitude": 16.019127
+    },
+    {
+      "name": "Ask Kabel TV",
+      "latitude": 60.072047,
+      "longitude": 11.03328
+    },
+    {
+      "name": "Bergen Radio/Marø",
+      "latitude": 60.70788,
+      "longitude": 4.877092
+    },
+    {
+      "name": "Birkeland L",
+      "latitude": 58.304061,
+      "longitude": 8.227217
+    },
+    {
+      "name": "Bislett Stadion 1",
+      "latitude": 59.925477,
+      "longitude": 10.731818
+    },
+    {
+      "name": "Bislett Stadion 2",
+      "latitude": 59.925653,
+      "longitude": 10.732042
+    },
+    {
+      "name": "Bislett Stadion 3",
+      "latitude": 59.925923,
+      "longitude": 10.733308
+    },
+    {
+      "name": "Bislett Stadion 4",
+      "latitude": 59.925906,
+      "longitude": 10.733717
+    },
+    {
+      "name": "Bislett Stadion 5",
+      "latitude": 59.925193,
+      "longitude": 10.734587
+    },
+    {
+      "name": "Bislett Stadion 6",
+      "latitude": 59.92445,
+      "longitude": 10.7348
+    },
+    {
+      "name": "Bislett Stadion 7",
+      "latitude": 59.924174,
+      "longitude": 10.734577
+    },
+    {
+      "name": "Bislett Stadion 8",
+      "latitude": 59.924004,
+      "longitude": 10.733821
+    },
+    {
+      "name": "Bislett Stadion 9",
+      "latitude": 59.924104,
+      "longitude": 10.733264
+    },
+    {
+      "name": "Bjelkeberg",
+      "latitude": 58.416445,
+      "longitude": 8.253019
+    },
+    {
+      "name": "Bjerkreim 4",
+      "latitude": 58.583405,
+      "longitude": 5.932069
+    },
+    {
+      "name": "Bjørnøy Radio",
+      "latitude": 74.504331,
+      "longitude": 18.998198
+    },
+    {
+      "name": "Borssejohka DSF",
+      "latitude": 69.964992,
+      "longitude": 26.706793
+    },
+    {
+      "name": "Buheii målemast",
+      "latitude": 58.655778,
+      "longitude": 6.878646
+    },
+    {
+      "name": "Caltexløkka",
+      "latitude": 59.916446,
+      "longitude": 10.778674
+    },
+    {
+      "name": "Caltexløkka",
+      "latitude": 59.916606,
+      "longitude": 10.777671
+    },
+    {
+      "name": "DGPS",
+      "latitude": 64.17291,
+      "longitude": 9.404952
+    },
+    {
+      "name": "Drøbak radiolinjestasjon",
+      "latitude": 59.662957,
+      "longitude": 10.651108
+    },
+    {
+      "name": "Dælenenga",
+      "latitude": 59.925853,
+      "longitude": 10.764359
+    },
+    {
+      "name": "Dælenenga",
+      "latitude": 59.926435,
+      "longitude": 10.765292
+    },
+    {
+      "name": "Dælenenga",
+      "latitude": 59.926994,
+      "longitude": 10.76426
+    },
+    {
+      "name": "Dølamo idrettsanlegg",
+      "latitude": 58.710583,
+      "longitude": 8.34225
+    },
+    {
+      "name": "Dølamo idrettsanlegg",
+      "latitude": 58.710608,
+      "longitude": 8.340945
+    },
+    {
+      "name": "Dølamo idrettsanlegg",
+      "latitude": 58.711349,
+      "longitude": 8.3403
+    },
+    {
+      "name": "Eggjafjellet 1",
+      "latitude": 63.186385,
+      "longitude": 10.707916
+    },
+    {
+      "name": "Eggjafjellet 2",
+      "latitude": 63.162907,
+      "longitude": 10.725725
+    },
+    {
+      "name": "Eggjafjellet 3",
+      "latitude": 63.176215,
+      "longitude": 10.77349
+    },
+    {
+      "name": "Engerfjellet 1",
+      "latitude": 60.414646,
+      "longitude": 11.389461
+    },
+    {
+      "name": "Engerfjellet 2",
+      "latitude": 60.433106,
+      "longitude": 11.373883
+    },
+    {
+      "name": "Ertensøyfluene mast",
+      "latitude": 59.158425,
+      "longitude": 5.685404
+    },
+    {
+      "name": "Farsund radio",
+      "latitude": 58.071769,
+      "longitude": 6.745972
+    },
+    {
+      "name": "Flood LGT",
+      "latitude": 61.391083,
+      "longitude": 5.763397
+    },
+    {
+      "name": "Flood LGT",
+      "latitude": 61.391258,
+      "longitude": 5.764758
+    },
+    {
+      "name": "Flood light H",
+      "latitude": 60.292348,
+      "longitude": 5.224574
+    },
+    {
+      "name": "Flood light stand 10",
+      "latitude": 60.286288,
+      "longitude": 5.227038
+    },
+    {
+      "name": "Flood light stand 27",
+      "latitude": 60.289398,
+      "longitude": 5.225817
+    },
+    {
+      "name": "Florø radio",
+      "latitude": 61.280482,
+      "longitude": 4.622433
+    },
+    {
+      "name": "Florø radio",
+      "latitude": 61.597511,
+      "longitude": 4.997929
+    },
+    {
+      "name": "Florø radio",
+      "latitude": 61.597726,
+      "longitude": 4.998878
+    },
+    {
+      "name": "Fonnrya",
+      "latitude": 63.392783,
+      "longitude": 12.03275
+    },
+    {
+      "name": "Froland stadion",
+      "latitude": 58.510615,
+      "longitude": 8.630292
+    },
+    {
+      "name": "Froland stadion",
+      "latitude": 58.511054,
+      "longitude": 8.631212
+    },
+    {
+      "name": "Froland stadion",
+      "latitude": 58.511078,
+      "longitude": 8.629492
+    },
+    {
+      "name": "Froland stadion",
+      "latitude": 58.511523,
+      "longitude": 8.630413
+    },
+    {
+      "name": "GP RWY 07",
+      "latitude": 63.109554,
+      "longitude": 7.815739
+    },
+    {
+      "name": "Gullholmen",
+      "latitude": 59.435447,
+      "longitude": 10.577369
+    },
+    {
+      "name": "Hallangsodden",
+      "latitude": 59.685295,
+      "longitude": 10.611329
+    },
+    {
+      "name": "Hamnefjell",
+      "latitude": 70.670131,
+      "longitude": 29.710467
+    },
+    {
+      "name": "Havøygavlen",
+      "latitude": 71.005163,
+      "longitude": 24.597014
+    },
+    {
+      "name": "Helleheia",
+      "latitude": 58.343719,
+      "longitude": 6.429093
+    },
+    {
+      "name": "Herwighamna",
+      "latitude": 74.503788,
+      "longitude": 18.994988
+    },
+    {
+      "name": "Holmenkollbakken",
+      "latitude": 59.962934,
+      "longitude": 10.668969
+    },
+    {
+      "name": "Holmenkollbakken",
+      "latitude": 59.963522,
+      "longitude": 10.667305
+    },
+    {
+      "name": "Holmenkollbakken",
+      "latitude": 59.963882,
+      "longitude": 10.666364
+    },
+    {
+      "name": "Holmenkollbakken",
+      "latitude": 59.963995,
+      "longitude": 10.67016
+    },
+    {
+      "name": "Holmenkollbakken",
+      "latitude": 59.964429,
+      "longitude": 10.668347
+    },
+    {
+      "name": "Holmenkollbakken",
+      "latitude": 59.964665,
+      "longitude": 10.66727
+    },
+    {
+      "name": "Hopen radio",
+      "latitude": 76.509367,
+      "longitude": 25.010805
+    },
+    {
+      "name": "Ingøy kringkaster",
+      "latitude": 71.071535,
+      "longitude": 24.087272
+    },
+    {
+      "name": "Jeløy radio",
+      "latitude": 59.436444,
+      "longitude": 10.595414
+    },
+    {
+      "name": "Kinn VHF",
+      "latitude": 61.558112,
+      "longitude": 4.759771
+    },
+    {
+      "name": "Kjøllefjord vindpark",
+      "latitude": 70.908287,
+      "longitude": 27.277966
+    },
+    {
+      "name": "Kvalnes kystradio",
+      "latitude": 68.342908,
+      "longitude": 13.948071
+    },
+    {
+      "name": "Kvitfjell",
+      "latitude": 69.590159,
+      "longitude": 18.128845
+    },
+    {
+      "name": "LA2DRR",
+      "latitude": 60.728873,
+      "longitude": 10.705187
+    },
+    {
+      "name": "LA2ORR",
+      "latitude": 60.992848,
+      "longitude": 11.340176
+    },
+    {
+      "name": "Liatjørn",
+      "latitude": 58.663646,
+      "longitude": 5.91685
+    },
+    {
+      "name": "Lillesand stadion",
+      "latitude": 58.255418,
+      "longitude": 8.357326
+    },
+    {
+      "name": "Lillesand stadion",
+      "latitude": 58.255637,
+      "longitude": 8.358526
+    },
+    {
+      "name": "Lillesand stadion",
+      "latitude": 58.255987,
+      "longitude": 8.356945
+    },
+    {
+      "name": "Lillesand stadion",
+      "latitude": 58.256206,
+      "longitude": 8.358145
+    },
+    {
+      "name": "Lista Met_Mast",
+      "latitude": 58.162481,
+      "longitude": 6.691853
+    },
+    {
+      "name": "Losi radiohytte",
+      "latitude": 68.190518,
+      "longitude": 17.789285
+    },
+    {
+      "name": "Mastå",
+      "latitude": 58.923856,
+      "longitude": 5.871892
+    },
+    {
+      "name": "Mehamnhaugen",
+      "latitude": 71.036741,
+      "longitude": 27.85903
+    },
+    {
+      "name": "Måkaknuten",
+      "latitude": 58.675887,
+      "longitude": 5.922155
+    },
+    {
+      "name": "Norgesporten bru",
+      "latitude": 59.481087,
+      "longitude": 11.666401
+    },
+    {
+      "name": "Oddeheia",
+      "latitude": 58.446535,
+      "longitude": 8.283242
+    },
+    {
+      "name": "Ospøya 1",
+      "latitude": 60.109823,
+      "longitude": 5.274108
+    },
+    {
+      "name": "Ospøya 2",
+      "latitude": 60.107455,
+      "longitude": 5.27524
+    },
+    {
+      "name": "PMT-1 Raskiftet",
+      "latitude": 61.198751,
+      "longitude": 11.776428
+    },
+    {
+      "name": "PMT-2 Raskiftet",
+      "latitude": 61.155628,
+      "longitude": 11.856146
+    },
+    {
+      "name": "RWY 18 ILS",
+      "latitude": 69.688384,
+      "longitude": 18.920034
+    },
+    {
+      "name": "RWY 36 ILS",
+      "latitude": 69.674485,
+      "longitude": 18.915262
+    },
+    {
+      "name": "Radio Sotra",
+      "latitude": 60.340201,
+      "longitude": 5.094669
+    },
+    {
+      "name": "Radiomast 1",
+      "latitude": 69.661495,
+      "longitude": 30.254402
+    },
+    {
+      "name": "Radiomast 2",
+      "latitude": 69.661793,
+      "longitude": 30.255138
+    },
+    {
+      "name": "Radiomast Lonene",
+      "latitude": 67.128898,
+      "longitude": 16.162088
+    },
+    {
+      "name": "Raften VHF",
+      "latitude": 68.402812,
+      "longitude": 15.114223
+    },
+    {
+      "name": "Raggovidda vindmålermast",
+      "latitude": 70.769017,
+      "longitude": 29.084702
+    },
+    {
+      "name": "Risør Radio",
+      "latitude": 58.717474,
+      "longitude": 9.219565
+    },
+    {
+      "name": "Rogaland Radio",
+      "latitude": 58.812843,
+      "longitude": 5.66758
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.6566,
+      "longitude": 5.605756
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.656958,
+      "longitude": 5.605109
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.657444,
+      "longitude": 5.600817
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.657469,
+      "longitude": 5.604053
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.657561,
+      "longitude": 5.601695
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.657747,
+      "longitude": 5.603117
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.65795,
+      "longitude": 5.604584
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.658228,
+      "longitude": 5.603662
+    },
+    {
+      "name": "Rogaland radio",
+      "latitude": 58.658955,
+      "longitude": 5.604028
+    },
+    {
+      "name": "Rødfjellet",
+      "latitude": 69.586985,
+      "longitude": 18.219694
+    },
+    {
+      "name": "Skomakarfjellet 1",
+      "latitude": 64.216678,
+      "longitude": 10.418361
+    },
+    {
+      "name": "Songkjølen 1",
+      "latitude": 60.356186,
+      "longitude": 11.486901
+    },
+    {
+      "name": "Songkjølen 2",
+      "latitude": 60.327441,
+      "longitude": 11.540333
+    },
+    {
+      "name": "Songkjølen 4",
+      "latitude": 60.339123,
+      "longitude": 11.456041
+    },
+    {
+      "name": "Songkjølen 5",
+      "latitude": 60.342993,
+      "longitude": 11.502376
+    },
+    {
+      "name": "Stangnesterminalen",
+      "latitude": 68.780876,
+      "longitude": 16.59232
+    },
+    {
+      "name": "Stangnesterminalen",
+      "latitude": 68.780883,
+      "longitude": 16.594553
+    },
+    {
+      "name": "Stangnesterminalen",
+      "latitude": 68.780967,
+      "longitude": 16.597131
+    },
+    {
+      "name": "Stangnesterminalen",
+      "latitude": 68.781531,
+      "longitude": 16.591914
+    },
+    {
+      "name": "Stangnesterminalen",
+      "latitude": 68.781532,
+      "longitude": 16.594585
+    },
+    {
+      "name": "Stangnesterminalen",
+      "latitude": 68.781819,
+      "longitude": 16.597161
+    },
+    {
+      "name": "Stangnesterminalen",
+      "latitude": 68.782047,
+      "longitude": 16.592944
+    },
+    {
+      "name": "Stigafjellet 2",
+      "latitude": 58.663531,
+      "longitude": 5.967148
+    },
+    {
+      "name": "Storbekkfjellet",
+      "latitude": 63.395054,
+      "longitude": 12.104757
+    },
+    {
+      "name": "Svalandstårnet",
+      "latitude": 58.319481,
+      "longitude": 8.104225
+    },
+    {
+      "name": "Svendsheia",
+      "latitude": 58.082742,
+      "longitude": 7.906697
+    },
+    {
+      "name": "T20R",
+      "latitude": 58.645994,
+      "longitude": 5.775236
+    },
+    {
+      "name": "TMT-1 Raskiftet",
+      "latitude": 61.200634,
+      "longitude": 11.773616
+    },
+    {
+      "name": "TMT-2 Raskiftet",
+      "latitude": 61.198943,
+      "longitude": 11.782578
+    },
+    {
+      "name": "TMT-3 Raskiftet",
+      "latitude": 61.157512,
+      "longitude": 11.852074
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 60.076869,
+      "longitude": 10.998578
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 60.088446,
+      "longitude": 11.040418
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 60.091966,
+      "longitude": 11.025983
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 60.137268,
+      "longitude": 11.053959
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 65.831424,
+      "longitude": 13.213558
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 65.837926,
+      "longitude": 13.200593
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 65.838117,
+      "longitude": 13.189186
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 65.844744,
+      "longitude": 13.193441
+    },
+    {
+      "name": "Telenor Norge AS",
+      "latitude": 65.846084,
+      "longitude": 13.191854
+    },
+    {
+      "name": "Telenor Norge AS/Telia Norge AS",
+      "latitude": 65.818095,
+      "longitude": 13.226104
+    },
+    {
+      "name": "Telia Norge AS",
+      "latitude": 60.08573,
+      "longitude": 11.021645
+    },
+    {
+      "name": "Telia Norge AS",
+      "latitude": 65.837856,
+      "longitude": 13.198859
+    },
+    {
+      "name": "Telia Norge AS",
+      "latitude": 65.846102,
+      "longitude": 13.191858
+    },
+    {
+      "name": "TeliaSonera Norge AS",
+      "latitude": 59.985182,
+      "longitude": 11.019577
+    },
+    {
+      "name": "Titran radiolinje",
+      "latitude": 63.667493,
+      "longitude": 8.344141
+    },
+    {
+      "name": "Tjøme radio",
+      "latitude": 59.077931,
+      "longitude": 10.405558
+    },
+    {
+      "name": "Tonstad",
+      "latitude": 58.543417,
+      "longitude": 6.792408
+    },
+    {
+      "name": "Torsvåg VHF",
+      "latitude": 70.244963,
+      "longitude": 19.499864
+    },
+    {
+      "name": "Tromsø Radiolinjetårn",
+      "latitude": 69.65693,
+      "longitude": 18.92689
+    },
+    {
+      "name": "Trondenes radio",
+      "latitude": 68.834981,
+      "longitude": 16.58745
+    },
+    {
+      "name": "Tårnet",
+      "latitude": 62.193407,
+      "longitude": 6.027065
+    },
+    {
+      "name": "Ulvanutane",
+      "latitude": 58.861925,
+      "longitude": 5.766814
+    },
+    {
+      "name": "VHF COM",
+      "latitude": 62.562669,
+      "longitude": 6.115288
+    },
+    {
+      "name": "Valle Hovin",
+      "latitude": 59.918193,
+      "longitude": 10.803263
+    },
+    {
+      "name": "Valle Hovin",
+      "latitude": 59.919013,
+      "longitude": 10.804164
+    },
+    {
+      "name": "Valle Hovin",
+      "latitude": 59.920972,
+      "longitude": 10.804408
+    },
+    {
+      "name": "Valle Hovin",
+      "latitude": 59.921324,
+      "longitude": 10.805938
+    },
+    {
+      "name": "Valle Hovin",
+      "latitude": 59.921443,
+      "longitude": 10.803338
+    },
+    {
+      "name": "Valle Hovin",
+      "latitude": 59.9218,
+      "longitude": 10.804859
+    },
+    {
+      "name": "Valsneset",
+      "latitude": 63.815211,
+      "longitude": 9.619096
+    },
+    {
+      "name": "Vardåsen S OSL",
+      "latitude": 60.158035,
+      "longitude": 10.93692
+    },
+    {
+      "name": "Vardø Kystradiostasjon",
+      "latitude": 70.370821,
+      "longitude": 31.097479
+    },
+    {
+      "name": "Vikertangen",
+      "latitude": 59.032483,
+      "longitude": 10.94536
+    },
+    {
+      "name": "Vindmålemast Tonstad-2",
+      "latitude": 58.561602,
+      "longitude": 6.73722
+    },
+    {
+      "name": "Vindmåler nord",
+      "latitude": 64.762439,
+      "longitude": 11.367953
+    },
+    {
+      "name": "YV Dale",
+      "latitude": 64.900149,
+      "longitude": 10.894144
+    },
+    {
+      "name": "Åknes",
+      "latitude": 68.976444,
+      "longitude": 15.430928
+    },
+    {
+      "name": "Ørlandet radio",
+      "latitude": 63.682935,
+      "longitude": 9.590225
+    },
+    {
+      "name": "Ørlandet radiosender",
+      "latitude": 63.661402,
+      "longitude": 9.546501
+    },
+    {
+      "name": "Øsetmasta",
+      "latitude": 64.698175,
+      "longitude": 11.447622
+    },
+    {
+      "name": "№ 51-3788 \"Мур-Раякоски\"",
+      "latitude": 69.021255,
+      "longitude": 29.005231
+    }
+  ],
+  "meta": {
+    "title": "Named masts in Norway - Gratis nedlasting",
+    "description": "Named masts in Norway, derived from OpenStreetMap POI nodes tagged man_made=mast in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 168 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named masts in Norway | ListBase",
+    "seo_description": "Last ned Named masts in Norway — 168 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 168 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

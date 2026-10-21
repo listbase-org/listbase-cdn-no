@@ -1,0 +1,286 @@
+{
+  "id": "no-tv-kanaler-allmenn",
+  "name": "Norske TV-kanaler — allmennkanaler",
+  "title": "Norske TV-kanaler — allmennkanaler",
+  "description": "Norske TV-kanaler i kategorien 'general' (allmennkringkasting) fra det åpne registeret iptv-org/database. Inneholder kanalnavn, alternative navn, nettverk, eiere, kategorier, lanseringsdato og nettsted.",
+  "category": "entertainment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "channel_id",
+      "label": "Channel Id",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "alt_names",
+      "label": "Alt Names",
+      "type": "string"
+    },
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "owners",
+      "label": "Owners",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "categories",
+      "label": "Categories",
+      "type": "string"
+    },
+    {
+      "key": "is_nsfw",
+      "label": "Is Nsfw",
+      "type": "boolean"
+    },
+    {
+      "key": "launched",
+      "label": "Launched",
+      "type": "date"
+    },
+    {
+      "key": "closed",
+      "label": "Closed",
+      "type": "string"
+    },
+    {
+      "key": "replaced_by",
+      "label": "Replaced By",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "channel_id": "Frikanalen.no",
+      "name": "Frikanalen",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.frikanalen.no/"
+    },
+    {
+      "id": 2,
+      "channel_id": "NRK1.no",
+      "name": "NRK1",
+      "alt_names": "",
+      "network": "",
+      "owners": "NRK",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1960-08-20",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nrk.no/nrk1/"
+    },
+    {
+      "id": 3,
+      "channel_id": "NRK2.no",
+      "name": "NRK2",
+      "alt_names": "",
+      "network": "",
+      "owners": "NRK",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "1996-09-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nrk.no/nrk2/"
+    },
+    {
+      "id": 4,
+      "channel_id": "NRKTegnsprak.no",
+      "name": "NRK Tegnsprak",
+      "alt_names": "NRK Tegnspråk",
+      "network": "",
+      "owners": "NRK",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2001-10-01",
+      "closed": "",
+      "replaced_by": "",
+      "website": "http://www.nrk.no/hjelp/nrks-tilbud-til-horselshemmede-1.6613906"
+    },
+    {
+      "id": 5,
+      "channel_id": "ShakaalTV.no",
+      "name": "Shakaal TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://shakaalmedia.com/"
+    },
+    {
+      "id": 6,
+      "channel_id": "SunnmoreLIVE.no",
+      "name": "Sunnmore LIVE",
+      "alt_names": "Sunnmøre LIVE",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://slive.no/"
+    },
+    {
+      "id": 7,
+      "channel_id": "TV1Ost.no",
+      "name": "TV1 Ost",
+      "alt_names": "TV1 Øst",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://xn--tv1-2na.no/"
+    },
+    {
+      "id": 8,
+      "channel_id": "TVAgder.no",
+      "name": "TV Agder",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tvagder.no/"
+    },
+    {
+      "id": 9,
+      "channel_id": "TVModum.no",
+      "name": "TVModum",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://tvmodum.no/"
+    },
+    {
+      "id": 10,
+      "channel_id": "TVNord.no",
+      "name": "TV Nord",
+      "alt_names": "",
+      "network": "",
+      "owners": "Nordavis AS",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "2005-09-15",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.rikstv.no/tv-kanaler/lokal-tv/tv-nord/"
+    },
+    {
+      "id": 11,
+      "channel_id": "TVOstfold.no",
+      "name": "TV Ostfold",
+      "alt_names": "TV Østfold",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.tvoplay.no/"
+    },
+    {
+      "id": 12,
+      "channel_id": "TronderTV.no",
+      "name": "Tronder-TV",
+      "alt_names": "Trønder-TV",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.trondertv.no/"
+    },
+    {
+      "id": 13,
+      "channel_id": "VSTLNDTV.no",
+      "name": "VSTLND TV",
+      "alt_names": "",
+      "network": "",
+      "owners": "",
+      "country": "NO",
+      "categories": "general",
+      "is_nsfw": false,
+      "launched": "",
+      "closed": "",
+      "replaced_by": "",
+      "website": "https://www.vstlnd.tv/nb"
+    }
+  ],
+  "meta": {
+    "title": "Norske TV-kanaler — allmennkanaler - Gratis nedlasting",
+    "description": "Norske TV-kanaler i kategorien 'general' (allmennkringkasting) fra det åpne registeret iptv-org/database. Inneholder kanalnavn, alternative navn, nettverk, eiere, kategorier, lanseringsdato og nettsted. Inneholder 13 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Norske TV-kanaler — allmennkanaler | ListBase",
+    "seo_description": "Last ned Norske TV-kanaler — allmennkanaler — 13 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 13 poster / 13 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

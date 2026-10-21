@@ -1,0 +1,392 @@
+{
+  "id": "no-alesund-postnummer",
+  "name": "Postnummer i Ålesund",
+  "title": "Postnummer i Ålesund",
+  "description": "Alle 42 postnummer i Ålesund kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "6001",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6002",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6003",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6004",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6005",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6006",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6007",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6008",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6009",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6010",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6011",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6012",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6013",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6014",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6015",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6016",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6017",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6018",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6019",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6020",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6021",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6022",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6023",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6024",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6025",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6026",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6028",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6044",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6045",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6046",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6047",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6048",
+      "poststed": "Ålesund",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6057",
+      "poststed": "Ellingsøy",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6240",
+      "poststed": "Ørskog",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6249",
+      "poststed": "Ørskog",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6260",
+      "poststed": "Skodje",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6263",
+      "poststed": "Skodje",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6287",
+      "poststed": "Harøy",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6295",
+      "poststed": "Myklebust",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6296",
+      "poststed": "Harøy",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6297",
+      "poststed": "Sandøy",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    },
+    {
+      "postnummer": "6298",
+      "poststed": "Ona",
+      "kommune_id": "1508",
+      "kommune": "Ålesund",
+      "fylke_id": "15",
+      "fylke": "Møre og Romsdal"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Ålesund - Gratis nedlasting",
+    "description": "Alle 42 postnummer i Ålesund kommune med poststed. Inneholder 42 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Ålesund | ListBase",
+    "seo_description": "Last ned Postnummer i Ålesund — 42 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 42 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

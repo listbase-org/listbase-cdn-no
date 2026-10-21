@@ -1,0 +1,356 @@
+{
+  "id": "no-fengsler",
+  "name": "Prisons in Norway",
+  "title": "Prisons in Norway",
+  "description": "Prisons in Norway (Fengsler i Norge), derived from OpenStreetMap POIs tagged amenity=prison. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agder fengsel - Froland avdeling",
+      "latitude": 58.491558,
+      "longitude": 8.646786
+    },
+    {
+      "name": "Agder fengsel, Evje avdeling",
+      "latitude": 58.574957,
+      "longitude": 7.78403
+    },
+    {
+      "name": "Agder fengsel, Mandal avdeling",
+      "latitude": 58.026419,
+      "longitude": 7.524144
+    },
+    {
+      "name": "Agder fengsel, Solholmen overgangsbolig",
+      "latitude": 58.149115,
+      "longitude": 7.964696
+    },
+    {
+      "name": "Bastøy Fengsel",
+      "latitude": 59.380263,
+      "longitude": 10.525216
+    },
+    {
+      "name": "Bastøy fengsel",
+      "latitude": 59.380761,
+      "longitude": 10.526899
+    },
+    {
+      "name": "Bergen Fengsel",
+      "latitude": 60.499729,
+      "longitude": 5.37238
+    },
+    {
+      "name": "Bergen Fengsel avd. Osterøy",
+      "latitude": 60.467877,
+      "longitude": 5.700435
+    },
+    {
+      "name": "Bjørgvin fengsel",
+      "latitude": 60.498281,
+      "longitude": 5.378846
+    },
+    {
+      "name": "Bjørgvin fengsel, Ungdomseininga",
+      "latitude": 60.499775,
+      "longitude": 5.378091
+    },
+    {
+      "name": "Bodø Fengsel",
+      "latitude": 67.278701,
+      "longitude": 14.399979
+    },
+    {
+      "name": "Bredtveit fengsel og forvaringsanstalt, avdeling B2",
+      "latitude": 59.944937,
+      "longitude": 10.857219
+    },
+    {
+      "name": "Bredtveit fengsel og forvarningsanstalt",
+      "latitude": 59.948966,
+      "longitude": 10.859329
+    },
+    {
+      "name": "Drammen fengsel",
+      "latitude": 59.744473,
+      "longitude": 10.211695
+    },
+    {
+      "name": "Halden fengsel",
+      "latitude": 59.140077,
+      "longitude": 11.286843
+    },
+    {
+      "name": "Hamar Fengsel",
+      "latitude": 60.796207,
+      "longitude": 11.064429
+    },
+    {
+      "name": "Haugesund fengsel",
+      "latitude": 59.423022,
+      "longitude": 5.261442
+    },
+    {
+      "name": "Hedmark fengsel avd. Ilseng",
+      "latitude": 60.77942,
+      "longitude": 11.22933
+    },
+    {
+      "name": "Hedmark fengsel Bruvoll",
+      "latitude": 60.452048,
+      "longitude": 11.504987
+    },
+    {
+      "name": "Hustad fengsel",
+      "latitude": 62.967508,
+      "longitude": 7.140221
+    },
+    {
+      "name": "Ila fengsel og forvaringsanstalt",
+      "latitude": 59.95433,
+      "longitude": 10.583067
+    },
+    {
+      "name": "Indre Østfold fengsel",
+      "latitude": 59.56903,
+      "longitude": 11.329474
+    },
+    {
+      "name": "Indre Østfold fengsel, Eidsberg avdeling",
+      "latitude": 59.569005,
+      "longitude": 11.329575
+    },
+    {
+      "name": "Indre Østfold fengsel, Trøgstad avdeling",
+      "latitude": 59.617261,
+      "longitude": 11.410241
+    },
+    {
+      "name": "Innlandet: Kriminalomsorgen Innlandet - avd. lavere sikkerhet Valdres",
+      "latitude": 61.075386,
+      "longitude": 8.979825
+    },
+    {
+      "name": "Innlandet: Kriminalomsorgen Innlandet, avd. høy sikkerhet, Gjøvik",
+      "latitude": 60.796769,
+      "longitude": 10.68634
+    },
+    {
+      "name": "Kongsvinger fengsel",
+      "latitude": 60.211073,
+      "longitude": 11.986162
+    },
+    {
+      "name": "Kongsvinger Fengsel Avg. G",
+      "latitude": 60.194604,
+      "longitude": 11.999532
+    },
+    {
+      "name": "Kristiansand fengsel",
+      "latitude": 58.147301,
+      "longitude": 7.997834
+    },
+    {
+      "name": "Larvik fengsel",
+      "latitude": 59.048653,
+      "longitude": 10.037546
+    },
+    {
+      "name": "Lyderhorn overgangsbolig",
+      "latitude": 60.388669,
+      "longitude": 5.259574
+    },
+    {
+      "name": "Nordland Fengsel, avdeling høy sikkerhet Bodø",
+      "latitude": 67.285337,
+      "longitude": 14.383634
+    },
+    {
+      "name": "Nordland fengsel, avdeling høy sikkerhet Mosjøen",
+      "latitude": 65.835549,
+      "longitude": 13.192216
+    },
+    {
+      "name": "Nordland fengsel, avdeling lav sikkerhet Fauske",
+      "latitude": 67.263871,
+      "longitude": 15.396299
+    },
+    {
+      "name": "Nordland fengsel, Bodø overgangsbolig",
+      "latitude": 67.278418,
+      "longitude": 14.409281
+    },
+    {
+      "name": "Nordre Vestfold Fengsel Hof avdeling",
+      "latitude": 59.543432,
+      "longitude": 10.083199
+    },
+    {
+      "name": "Nordre Vestfold fengsel, Horten avdeling",
+      "latitude": 59.416432,
+      "longitude": 10.48579
+    },
+    {
+      "name": "Oslo fengsel",
+      "latitude": 59.909704,
+      "longitude": 10.771967
+    },
+    {
+      "name": "Oslo overgangsbolig - Gamlebyen avdeling",
+      "latitude": 59.907616,
+      "longitude": 10.768434
+    },
+    {
+      "name": "Oslo overgangsbolig - Torshov avdeling",
+      "latitude": 59.938162,
+      "longitude": 10.770781
+    },
+    {
+      "name": "Politiets utlendingsinternat",
+      "latitude": 60.207804,
+      "longitude": 11.123553
+    },
+    {
+      "name": "Ravneberget: Østfold friomsorgskontor og Ravneberget fengsel - avd. fengsel",
+      "latitude": 59.304287,
+      "longitude": 11.128849
+    },
+    {
+      "name": "Ringerike fengsel",
+      "latitude": 60.07195,
+      "longitude": 10.094334
+    },
+    {
+      "name": "Romerike fengsel - Ullersmo avdeling",
+      "latitude": 60.070332,
+      "longitude": 11.14265
+    },
+    {
+      "name": "Romerike fengsel - Ungdomsenhet øst (Eidsvoll)",
+      "latitude": 60.303246,
+      "longitude": 11.213795
+    },
+    {
+      "name": "Romerike fengsel, Kroksrud avdeling",
+      "latitude": 60.074408,
+      "longitude": 11.157716
+    },
+    {
+      "name": "Sandeid Fengsel",
+      "latitude": 59.552323,
+      "longitude": 5.828279
+    },
+    {
+      "name": "Sarpsborg fengsel",
+      "latitude": 59.289913,
+      "longitude": 11.114025
+    },
+    {
+      "name": "Sem fengsel",
+      "latitude": 59.286163,
+      "longitude": 10.334351
+    },
+    {
+      "name": "Stavanger fengsel",
+      "latitude": 58.993757,
+      "longitude": 5.65752
+    },
+    {
+      "name": "Stavanger fengsel, Auklend overgangsbolig",
+      "latitude": 58.93854,
+      "longitude": 5.724851
+    },
+    {
+      "name": "Søndre Vestfold fengsel - Berg avdeling",
+      "latitude": 59.298955,
+      "longitude": 10.401715
+    },
+    {
+      "name": "Søndre Vestfold fengsel - Larvik avdeling",
+      "latitude": 59.048714,
+      "longitude": 10.037363
+    },
+    {
+      "name": "Telemark fengsel - Skien avdeling",
+      "latitude": 59.167771,
+      "longitude": 9.603491
+    },
+    {
+      "name": "Telemark fengsel, Kragerø avdeling",
+      "latitude": 58.872685,
+      "longitude": 9.412631
+    },
+    {
+      "name": "Tromsø fengsel",
+      "latitude": 69.685379,
+      "longitude": 18.995532
+    },
+    {
+      "name": "Trondheim fengsel og forvaringsanstalt, Leira avdeling",
+      "latitude": 63.421623,
+      "longitude": 10.474874
+    },
+    {
+      "name": "Ullersmo fengsel",
+      "latitude": 60.07111,
+      "longitude": 11.14317
+    },
+    {
+      "name": "Vadsø fengsel",
+      "latitude": 70.077517,
+      "longitude": 29.770345
+    },
+    {
+      "name": "Verdal fengsel",
+      "latitude": 63.796729,
+      "longitude": 11.460921
+    },
+    {
+      "name": "Vik fengsel",
+      "latitude": 61.080926,
+      "longitude": 6.582715
+    },
+    {
+      "name": "Ålesund fengsel",
+      "latitude": 62.471813,
+      "longitude": 6.161421
+    },
+    {
+      "name": "Åna fengsel, Rødgata avdeling",
+      "latitude": 58.644712,
+      "longitude": 5.684443
+    }
+  ],
+  "meta": {
+    "title": "Prisons in Norway - Gratis nedlasting",
+    "description": "Prisons in Norway (Fengsler i Norge), derived from OpenStreetMap POIs tagged amenity=prison. Named features only, clipped to mainland Norway. Inneholder 63 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Prisons in Norway | ListBase",
+    "seo_description": "Last ned Prisons in Norway — 63 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 63 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

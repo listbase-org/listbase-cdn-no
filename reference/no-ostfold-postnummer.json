@@ -1,0 +1,1944 @@
+{
+  "id": "no-ostfold-postnummer",
+  "name": "Postnummer i Østfold",
+  "title": "Postnummer i Østfold",
+  "description": "Alle 236 postnummer i Østfold fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 236,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1501",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1502",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1503",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1504",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1506",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1508",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1509",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1510",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1511",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1512",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1513",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1514",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1515",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1516",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1517",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1518",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1519",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1520",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1521",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1522",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1523",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1524",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1525",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1526",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1528",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1529",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1530",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1531",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1532",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1533",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1534",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1535",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1536",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1537",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1538",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1539",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1560",
+      "poststed": "Larkollen",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1561",
+      "poststed": "Larkollen",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1570",
+      "poststed": "Dilling",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1580",
+      "poststed": "Rygge",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1581",
+      "poststed": "Rygge",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1590",
+      "poststed": "Rygge",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1591",
+      "poststed": "Sperrebotn",
+      "kommune_id": "3114",
+      "kommune": "Våler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1592",
+      "poststed": "Våler i Østfold",
+      "kommune_id": "3114",
+      "kommune": "Våler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1593",
+      "poststed": "Svinndal",
+      "kommune_id": "3114",
+      "kommune": "Våler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1594",
+      "poststed": "Våler i Østfold",
+      "kommune_id": "3114",
+      "kommune": "Våler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1596",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1597",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1598",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1599",
+      "poststed": "Moss",
+      "kommune_id": "3103",
+      "kommune": "Moss",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1601",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1602",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1604",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1605",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1606",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1607",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1608",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1609",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1610",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1612",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1613",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1614",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1615",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1616",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1617",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1618",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1619",
+      "poststed": "Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1620",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1621",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1622",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1623",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1624",
+      "poststed": "Gressvik",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1625",
+      "poststed": "Manstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1626",
+      "poststed": "Manstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1628",
+      "poststed": "Engelsviken",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1629",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1630",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1632",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1633",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1634",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1636",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1637",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1638",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1639",
+      "poststed": "Gamle Fredrikstad",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1640",
+      "poststed": "Råde",
+      "kommune_id": "3112",
+      "kommune": "Råde",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1641",
+      "poststed": "Råde",
+      "kommune_id": "3112",
+      "kommune": "Råde",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1642",
+      "poststed": "Saltnes",
+      "kommune_id": "3112",
+      "kommune": "Råde",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1643",
+      "poststed": "Råde",
+      "kommune_id": "3112",
+      "kommune": "Råde",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1650",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1651",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1653",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1654",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1655",
+      "poststed": "Sellebakk",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1657",
+      "poststed": "Torp",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1658",
+      "poststed": "Torp",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1659",
+      "poststed": "Torp",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1661",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1662",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1663",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1664",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1665",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1666",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1667",
+      "poststed": "Rolvsøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1670",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1671",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1672",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1673",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1675",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1676",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1678",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1679",
+      "poststed": "Kråkerøy",
+      "kommune_id": "3107",
+      "kommune": "Fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1680",
+      "poststed": "Skjærhalden",
+      "kommune_id": "3110",
+      "kommune": "Hvaler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1682",
+      "poststed": "Skjærhalden",
+      "kommune_id": "3110",
+      "kommune": "Hvaler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1683",
+      "poststed": "Vesterøy",
+      "kommune_id": "3110",
+      "kommune": "Hvaler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1684",
+      "poststed": "Vesterøy",
+      "kommune_id": "3110",
+      "kommune": "Hvaler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1690",
+      "poststed": "Herføl",
+      "kommune_id": "3110",
+      "kommune": "Hvaler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1692",
+      "poststed": "Nedgården",
+      "kommune_id": "3110",
+      "kommune": "Hvaler",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1701",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1702",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1703",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1704",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1705",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1706",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1707",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1708",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1709",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1710",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1711",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1712",
+      "poststed": "Grålum",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1713",
+      "poststed": "Grålum",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1714",
+      "poststed": "Grålum",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1715",
+      "poststed": "Yven",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1718",
+      "poststed": "Greåker",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1719",
+      "poststed": "Greåker",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1720",
+      "poststed": "Greåker",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1721",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1722",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1723",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1724",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1725",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1726",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1727",
+      "poststed": "Sarpsborg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1730",
+      "poststed": "Ise",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1733",
+      "poststed": "Hafslundsøy",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1734",
+      "poststed": "Hafslundsøy",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1735",
+      "poststed": "Varteig",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1738",
+      "poststed": "Borgenhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1739",
+      "poststed": "Borgenhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1740",
+      "poststed": "Borgenhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1742",
+      "poststed": "Klavestadhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1743",
+      "poststed": "Klavestadhaugen",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1745",
+      "poststed": "Skjeberg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1746",
+      "poststed": "Skjeberg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1747",
+      "poststed": "Skjeberg",
+      "kommune_id": "3105",
+      "kommune": "Sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1751",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1752",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1753",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1754",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1757",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1759",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1760",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1761",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1762",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1763",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1764",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1765",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1766",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1767",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1768",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1769",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1771",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1772",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1776",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1777",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1778",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1779",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1781",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1782",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1783",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1784",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1785",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1786",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1787",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1788",
+      "poststed": "Halden",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1789",
+      "poststed": "Berg i Østfold",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1790",
+      "poststed": "Tistedal",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1791",
+      "poststed": "Tistedal",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1792",
+      "poststed": "Tistedal",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1793",
+      "poststed": "Tistedal",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1794",
+      "poststed": "Sponvika",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1796",
+      "poststed": "Kornsjø",
+      "kommune_id": "3101",
+      "kommune": "Halden",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1798",
+      "poststed": "Aremark",
+      "kommune_id": "3124",
+      "kommune": "Aremark",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1799",
+      "poststed": "Aremark",
+      "kommune_id": "3124",
+      "kommune": "Aremark",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1801",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1802",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1803",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1804",
+      "poststed": "Spydeberg",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1805",
+      "poststed": "Tomter",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1806",
+      "poststed": "Skiptvet",
+      "kommune_id": "3116",
+      "kommune": "Skiptvet",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1807",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1808",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1809",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1811",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1812",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1813",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1814",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1815",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1816",
+      "poststed": "Skiptvet",
+      "kommune_id": "3116",
+      "kommune": "Skiptvet",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1820",
+      "poststed": "Spydeberg",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1821",
+      "poststed": "Spydeberg",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1823",
+      "poststed": "Knapstad",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1825",
+      "poststed": "Tomter",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1827",
+      "poststed": "Hobøl",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1828",
+      "poststed": "Hobøl",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1830",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1831",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1832",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1833",
+      "poststed": "Askim",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1850",
+      "poststed": "Mysen",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1851",
+      "poststed": "Mysen",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1852",
+      "poststed": "Mysen",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1859",
+      "poststed": "Slitu",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1860",
+      "poststed": "Trøgstad",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1861",
+      "poststed": "Trøgstad",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1866",
+      "poststed": "Båstad",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1867",
+      "poststed": "Båstad",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1870",
+      "poststed": "Ørje",
+      "kommune_id": "3122",
+      "kommune": "Marker",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1871",
+      "poststed": "Ørje",
+      "kommune_id": "3122",
+      "kommune": "Marker",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1875",
+      "poststed": "Otteid",
+      "kommune_id": "3122",
+      "kommune": "Marker",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1878",
+      "poststed": "Hærland",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1880",
+      "poststed": "Eidsberg",
+      "kommune_id": "3118",
+      "kommune": "Indre Østfold",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1890",
+      "poststed": "Rakkestad",
+      "kommune_id": "3120",
+      "kommune": "Rakkestad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1891",
+      "poststed": "Rakkestad",
+      "kommune_id": "3120",
+      "kommune": "Rakkestad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1892",
+      "poststed": "Degernes",
+      "kommune_id": "3120",
+      "kommune": "Rakkestad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1893",
+      "poststed": "Degernes",
+      "kommune_id": "3120",
+      "kommune": "Rakkestad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    },
+    {
+      "postnummer": "1894",
+      "poststed": "Rakkestad",
+      "kommune_id": "3120",
+      "kommune": "Rakkestad",
+      "fylke_id": "31",
+      "fylke": "Østfold"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Østfold - Gratis nedlasting",
+    "description": "Alle 236 postnummer i Østfold fylke med poststed og kommune. Inneholder 236 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Østfold | ListBase",
+    "seo_description": "Last ned Postnummer i Østfold — 236 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 236 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

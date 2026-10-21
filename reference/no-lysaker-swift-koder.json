@@ -1,0 +1,70 @@
+{
+  "id": "no-lysaker-swift-koder",
+  "name": "SWIFT/BIC-koder — Lysaker",
+  "title": "SWIFT/BIC-koder — Lysaker",
+  "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 4 institusjonene som kilden oppgir med byen \"LYSAKER\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ACTIVE KNOWLEDGE MODELING AS",
+      "city": "LYSAKER",
+      "branch": "",
+      "swift_code": "ACKMNOK1"
+    },
+    {
+      "bank": "NORCAP AS",
+      "city": "LYSAKER",
+      "branch": "",
+      "swift_code": "NRRCNO21"
+    },
+    {
+      "bank": "NORD POOL ASA",
+      "city": "LYSAKER",
+      "branch": "",
+      "swift_code": "NOPSNO21"
+    },
+    {
+      "bank": "SANTANDER CONSUMER BANK AS",
+      "city": "LYSAKER",
+      "branch": "",
+      "swift_code": "SAOMNO21"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Lysaker - Gratis nedlasting",
+    "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 4 institusjonene som kilden oppgir med byen \"LYSAKER\". Inneholder 4 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Lysaker | ListBase",
+    "seo_description": "Last ned SWIFT/BIC-koder — Lysaker — 4 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 4 poster / 4 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

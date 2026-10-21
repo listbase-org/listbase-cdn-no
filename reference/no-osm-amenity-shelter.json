@@ -1,0 +1,6646 @@
+{
+  "id": "no-osm-amenity-shelter",
+  "name": "Named shelters in Norway",
+  "title": "Named shelters in Norway",
+  "description": "Named shelters in Norway, derived from OpenStreetMap POI nodes tagged amenity=shelter in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1321,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Gapahuken\"",
+      "latitude": 61.594027,
+      "longitude": 9.763037
+    },
+    {
+      "name": "(ny)Balskota/Spjeltfjelldalskøta",
+      "latitude": 65.997995,
+      "longitude": 14.47759
+    },
+    {
+      "name": "100-årsbua",
+      "latitude": 68.511593,
+      "longitude": 17.788785
+    },
+    {
+      "name": "1882 Paviljongen Fagernes Hotel",
+      "latitude": 60.984856,
+      "longitude": 9.237247
+    },
+    {
+      "name": "Aashuken",
+      "latitude": 60.351711,
+      "longitude": 11.176023
+    },
+    {
+      "name": "Abborputthytta",
+      "latitude": 60.393798,
+      "longitude": 10.832478
+    },
+    {
+      "name": "Abildsø",
+      "latitude": 59.879477,
+      "longitude": 10.826257
+    },
+    {
+      "name": "Abildsø",
+      "latitude": 59.880314,
+      "longitude": 10.825833
+    },
+    {
+      "name": "Adlesi",
+      "latitude": 60.049103,
+      "longitude": 5.277532
+    },
+    {
+      "name": "Akebu",
+      "latitude": 58.525815,
+      "longitude": 6.568716
+    },
+    {
+      "name": "Aksnes-setran",
+      "latitude": 63.562485,
+      "longitude": 10.283043
+    },
+    {
+      "name": "Alfheim",
+      "latitude": 63.405257,
+      "longitude": 10.837952
+    },
+    {
+      "name": "Alfheim gapahuk",
+      "latitude": 69.6473,
+      "longitude": 18.939877
+    },
+    {
+      "name": "Allmenningsbua",
+      "latitude": 68.691057,
+      "longitude": 16.424208
+    },
+    {
+      "name": "Alléen",
+      "latitude": 59.887897,
+      "longitude": 10.814467
+    },
+    {
+      "name": "Alléen",
+      "latitude": 59.888509,
+      "longitude": 10.813918
+    },
+    {
+      "name": "Almlivollen",
+      "latitude": 63.571676,
+      "longitude": 11.486084
+    },
+    {
+      "name": "Alsvik natursenter",
+      "latitude": 58.856766,
+      "longitude": 5.857892
+    },
+    {
+      "name": "Alta rutebåtterminal",
+      "latitude": 69.976725,
+      "longitude": 23.329285
+    },
+    {
+      "name": "Altagårdskogen",
+      "latitude": 69.975866,
+      "longitude": 23.346952
+    },
+    {
+      "name": "Anes Grapahuk",
+      "latitude": 61.633588,
+      "longitude": 10.125198
+    },
+    {
+      "name": "Aokanbu",
+      "latitude": 60.45499,
+      "longitude": 7.082989
+    },
+    {
+      "name": "Appelsinhytta",
+      "latitude": 60.570518,
+      "longitude": 7.486814
+    },
+    {
+      "name": "Appelsintreet",
+      "latitude": 60.83505,
+      "longitude": 8.937079
+    },
+    {
+      "name": "Arctanderhelleren",
+      "latitude": 58.156353,
+      "longitude": 6.85662
+    },
+    {
+      "name": "Ariakoia",
+      "latitude": 60.922497,
+      "longitude": 12.137549
+    },
+    {
+      "name": "Arlistua dagsturhytte",
+      "latitude": 69.107973,
+      "longitude": 15.883563
+    },
+    {
+      "name": "Arons Hule",
+      "latitude": 60.133826,
+      "longitude": 11.917793
+    },
+    {
+      "name": "Arquebushytta",
+      "latitude": 59.624222,
+      "longitude": 5.666041
+    },
+    {
+      "name": "Asbjørnstova",
+      "latitude": 61.959456,
+      "longitude": 6.162677
+    },
+    {
+      "name": "Askerødhytta",
+      "latitude": 59.530627,
+      "longitude": 10.880308
+    },
+    {
+      "name": "Askim torg & Rådhusgata",
+      "latitude": 59.582837,
+      "longitude": 11.164755
+    },
+    {
+      "name": "Aukraskogen",
+      "latitude": 62.784887,
+      "longitude": 6.912377
+    },
+    {
+      "name": "Aurebu",
+      "latitude": 58.053461,
+      "longitude": 7.52923
+    },
+    {
+      "name": "Austdalsbu",
+      "latitude": 60.602936,
+      "longitude": 7.218052
+    },
+    {
+      "name": "Bagjestuva",
+      "latitude": 70.477326,
+      "longitude": 28.054011
+    },
+    {
+      "name": "Bakkalykkja",
+      "latitude": 61.102313,
+      "longitude": 10.487681
+    },
+    {
+      "name": "Bakkehytta",
+      "latitude": 60.180455,
+      "longitude": 7.894502
+    },
+    {
+      "name": "Bakkekleivi",
+      "latitude": 58.412038,
+      "longitude": 6.654549
+    },
+    {
+      "name": "Baklia",
+      "latitude": 60.007534,
+      "longitude": 10.2854
+    },
+    {
+      "name": "Balabu",
+      "latitude": 61.205481,
+      "longitude": 6.510934
+    },
+    {
+      "name": "Barbroshelleren",
+      "latitude": 58.191591,
+      "longitude": 6.862984
+    },
+    {
+      "name": "Barlinddalshytta",
+      "latitude": 59.645933,
+      "longitude": 9.552313
+    },
+    {
+      "name": "Barlindhuken",
+      "latitude": 59.369879,
+      "longitude": 10.039624
+    },
+    {
+      "name": "Barnehagens lavvo",
+      "latitude": 59.755916,
+      "longitude": 10.202514
+    },
+    {
+      "name": "Baugebua",
+      "latitude": 68.050836,
+      "longitude": 17.133325
+    },
+    {
+      "name": "Bendikstorpet",
+      "latitude": 60.178993,
+      "longitude": 12.24721
+    },
+    {
+      "name": "Bergbu",
+      "latitude": 70.268057,
+      "longitude": 23.472659
+    },
+    {
+      "name": "Bergenussbue",
+      "latitude": 61.65611,
+      "longitude": 8.67318
+    },
+    {
+      "name": "Bergevollen",
+      "latitude": 61.905071,
+      "longitude": 12.066157
+    },
+    {
+      "name": "Bergheim",
+      "latitude": 63.410501,
+      "longitude": 10.45758
+    },
+    {
+      "name": "Bergmoen",
+      "latitude": 60.174728,
+      "longitude": 11.140484
+    },
+    {
+      "name": "Bergsjøstølen jaktlag",
+      "latitude": 60.38428,
+      "longitude": 8.63588
+    },
+    {
+      "name": "Berntskoia",
+      "latitude": 60.854268,
+      "longitude": 12.305939
+    },
+    {
+      "name": "Berntskoia",
+      "latitude": 61.266678,
+      "longitude": 12.502629
+    },
+    {
+      "name": "Beverhuken",
+      "latitude": 59.702904,
+      "longitude": 9.624282
+    },
+    {
+      "name": "Big bus stop",
+      "latitude": 67.228232,
+      "longitude": 14.603557
+    },
+    {
+      "name": "Bigganestillien - Oaibahčannjárga",
+      "latitude": 70.131974,
+      "longitude": 28.667532
+    },
+    {
+      "name": "Bikjebu dagsturhytte",
+      "latitude": 58.228431,
+      "longitude": 7.838083
+    },
+    {
+      "name": "Bingmyrkoia",
+      "latitude": 60.659606,
+      "longitude": 11.528099
+    },
+    {
+      "name": "Birkebu",
+      "latitude": 60.296016,
+      "longitude": 5.391201
+    },
+    {
+      "name": "Birken",
+      "latitude": 60.307583,
+      "longitude": 5.373755
+    },
+    {
+      "name": "Bismo",
+      "latitude": 61.884367,
+      "longitude": 8.266485
+    },
+    {
+      "name": "Bizushytta",
+      "latitude": 69.283231,
+      "longitude": 21.129807
+    },
+    {
+      "name": "Bjødlenut",
+      "latitude": 59.482044,
+      "longitude": 6.523595
+    },
+    {
+      "name": "Bjønnebete",
+      "latitude": 59.850272,
+      "longitude": 10.951532
+    },
+    {
+      "name": "Bjønnåstangkoia",
+      "latitude": 61.024192,
+      "longitude": 11.591328
+    },
+    {
+      "name": "Bjørkbua",
+      "latitude": 66.531635,
+      "longitude": 15.003736
+    },
+    {
+      "name": "Bjørkhylla",
+      "latitude": 63.384082,
+      "longitude": 10.234789
+    },
+    {
+      "name": "Bjørklunden gapahuk",
+      "latitude": 60.747779,
+      "longitude": 10.944991
+    },
+    {
+      "name": "Bjørndalen dagsturhytte",
+      "latitude": 66.189006,
+      "longitude": 13.033682
+    },
+    {
+      "name": "Bjørnebu",
+      "latitude": 60.398413,
+      "longitude": 5.352337
+    },
+    {
+      "name": "Bjørnehiet",
+      "latitude": 58.84398,
+      "longitude": 8.784193
+    },
+    {
+      "name": "Bjørnehiet",
+      "latitude": 58.906647,
+      "longitude": 5.666118
+    },
+    {
+      "name": "Bjørnhytta",
+      "latitude": 69.458023,
+      "longitude": 29.643744
+    },
+    {
+      "name": "Bjørns plass",
+      "latitude": 65.496234,
+      "longitude": 13.361944
+    },
+    {
+      "name": "Bjøråskrokbua",
+      "latitude": 61.80806,
+      "longitude": 12.048073
+    },
+    {
+      "name": "Bjøråskroken",
+      "latitude": 61.812323,
+      "longitude": 12.044472
+    },
+    {
+      "name": "Blakkhaugbua",
+      "latitude": 62.501307,
+      "longitude": 9.52752
+    },
+    {
+      "name": "Blanktjern",
+      "latitude": 59.022565,
+      "longitude": 11.626974
+    },
+    {
+      "name": "Bleiksmarka dagsturhytte",
+      "latitude": 69.259617,
+      "longitude": 15.965949
+    },
+    {
+      "name": "Blektjernhytta gapahuk",
+      "latitude": 59.725049,
+      "longitude": 10.186926
+    },
+    {
+      "name": "Bloksberg",
+      "latitude": 60.651463,
+      "longitude": 11.37588
+    },
+    {
+      "name": "Blådalshytta",
+      "latitude": 59.931262,
+      "longitude": 6.159248
+    },
+    {
+      "name": "Blåenga",
+      "latitude": 60.65726,
+      "longitude": 11.727431
+    },
+    {
+      "name": "Blåfjellhuken",
+      "latitude": 59.270357,
+      "longitude": 9.646834
+    },
+    {
+      "name": "Blåhuken",
+      "latitude": 58.747043,
+      "longitude": 8.353126
+    },
+    {
+      "name": "Blåmyrkoia",
+      "latitude": 60.95449,
+      "longitude": 11.065884
+    },
+    {
+      "name": "Bodsberg",
+      "latitude": 63.296913,
+      "longitude": 10.272242
+    },
+    {
+      "name": "Bokkhaugen",
+      "latitude": 63.676301,
+      "longitude": 11.327849
+    },
+    {
+      "name": "Borgemarka Rasteplass",
+      "latitude": 59.155437,
+      "longitude": 9.669871
+    },
+    {
+      "name": "Borkebua",
+      "latitude": 61.568849,
+      "longitude": 10.491464
+    },
+    {
+      "name": "Botnkoia - Åpen koie",
+      "latitude": 68.262328,
+      "longitude": 14.387439
+    },
+    {
+      "name": "Brannbu",
+      "latitude": 60.292178,
+      "longitude": 12.063137
+    },
+    {
+      "name": "Brannstasjonen",
+      "latitude": 61.897204,
+      "longitude": 12.112812
+    },
+    {
+      "name": "Branntårnet",
+      "latitude": 59.670794,
+      "longitude": 9.52203
+    },
+    {
+      "name": "Brannvakthytta",
+      "latitude": 61.307797,
+      "longitude": 12.173633
+    },
+    {
+      "name": "Brannvakthytta",
+      "latitude": 61.744408,
+      "longitude": 11.269605
+    },
+    {
+      "name": "Branok",
+      "latitude": 63.598266,
+      "longitude": 11.539776
+    },
+    {
+      "name": "Bredalslibua",
+      "latitude": 62.486228,
+      "longitude": 11.387954
+    },
+    {
+      "name": "Breidalsgammen",
+      "latitude": 69.120305,
+      "longitude": 20.411017
+    },
+    {
+      "name": "Breimåsan",
+      "latitude": 59.957813,
+      "longitude": 11.256957
+    },
+    {
+      "name": "Breiskaret gapahuk",
+      "latitude": 63.878007,
+      "longitude": 9.88504
+    },
+    {
+      "name": "Brennemoen",
+      "latitude": 59.574564,
+      "longitude": 11.285381
+    },
+    {
+      "name": "Brennesvollen dagsturhytte",
+      "latitude": 63.591072,
+      "longitude": 11.429433
+    },
+    {
+      "name": "Brenningskjærheia",
+      "latitude": 58.632721,
+      "longitude": 9.07728
+    },
+    {
+      "name": "Briskebyen",
+      "latitude": 60.779777,
+      "longitude": 9.62866
+    },
+    {
+      "name": "Bristol",
+      "latitude": 60.219542,
+      "longitude": 10.518117
+    },
+    {
+      "name": "Brorbua",
+      "latitude": 69.50111,
+      "longitude": 17.620141
+    },
+    {
+      "name": "Brufjell Hostel & Parking",
+      "latitude": 58.285415,
+      "longitude": 6.423379
+    },
+    {
+      "name": "Bruskelandsheia dagsturhytte",
+      "latitude": 58.32191,
+      "longitude": 7.447285
+    },
+    {
+      "name": "Brutjernskoia",
+      "latitude": 60.447378,
+      "longitude": 12.215537
+    },
+    {
+      "name": "Brynhildsbu",
+      "latitude": 59.253034,
+      "longitude": 9.507726
+    },
+    {
+      "name": "Bråtendammen gapahuk",
+      "latitude": 60.980089,
+      "longitude": 12.22502
+    },
+    {
+      "name": "Brønnøya søndre brygge",
+      "latitude": 59.851799,
+      "longitude": 10.538277
+    },
+    {
+      "name": "Btbu",
+      "latitude": 60.391271,
+      "longitude": 5.352272
+    },
+    {
+      "name": "Buarekvelven",
+      "latitude": 59.413636,
+      "longitude": 6.668266
+    },
+    {
+      "name": "Bugøynes oppvekstsenter",
+      "latitude": 69.974396,
+      "longitude": 29.641087
+    },
+    {
+      "name": "Bukkene brusehiet",
+      "latitude": 58.892004,
+      "longitude": 5.655776
+    },
+    {
+      "name": "Busteinen",
+      "latitude": 58.119008,
+      "longitude": 7.890161
+    },
+    {
+      "name": "Busvolsætervadkoia",
+      "latitude": 60.608228,
+      "longitude": 11.525951
+    },
+    {
+      "name": "Buvollen",
+      "latitude": 63.573934,
+      "longitude": 11.510224
+    },
+    {
+      "name": "Byasætra",
+      "latitude": 63.429329,
+      "longitude": 10.222866
+    },
+    {
+      "name": "Byframveien",
+      "latitude": 59.596435,
+      "longitude": 11.124524
+    },
+    {
+      "name": "Bygdastølen Lavo",
+      "latitude": 60.26924,
+      "longitude": 5.812329
+    },
+    {
+      "name": "Byringen",
+      "latitude": 61.500439,
+      "longitude": 11.428362
+    },
+    {
+      "name": "Byscena",
+      "latitude": 66.311129,
+      "longitude": 14.133283
+    },
+    {
+      "name": "Bål & Brennvinslauget XO Krogstadelva",
+      "latitude": 59.782681,
+      "longitude": 10.002636
+    },
+    {
+      "name": "Båthussjøbua",
+      "latitude": 62.093218,
+      "longitude": 12.0162
+    },
+    {
+      "name": "Båtvikløa",
+      "latitude": 63.095507,
+      "longitude": 8.654739
+    },
+    {
+      "name": "Bæivasgiedde fjellstue",
+      "latitude": 69.20609,
+      "longitude": 24.761953
+    },
+    {
+      "name": "Bøler T",
+      "latitude": 59.88341,
+      "longitude": 10.843037
+    },
+    {
+      "name": "Bøler T",
+      "latitude": 59.883697,
+      "longitude": 10.844631
+    },
+    {
+      "name": "Bøllhaugbua",
+      "latitude": 61.267665,
+      "longitude": 9.294631
+    },
+    {
+      "name": "Børa",
+      "latitude": 62.448106,
+      "longitude": 7.784829
+    },
+    {
+      "name": "Børabu",
+      "latitude": 61.65768,
+      "longitude": 5.292433
+    },
+    {
+      "name": "Camp ølstein",
+      "latitude": 62.554873,
+      "longitude": 7.847303
+    },
+    {
+      "name": "Cecilie Thoresens veg",
+      "latitude": 63.427393,
+      "longitude": 10.438762
+    },
+    {
+      "name": "Connection point for submarine Internet cables",
+      "latitude": 78.248066,
+      "longitude": 15.538058
+    },
+    {
+      "name": "Corraskoia",
+      "latitude": 66.351063,
+      "longitude": 15.364967
+    },
+    {
+      "name": "Corraskoia (Daumannselvkoia)",
+      "latitude": 66.35111,
+      "longitude": 15.373352
+    },
+    {
+      "name": "DANO 2 Rotön - Norra Kornsjön",
+      "latitude": 58.923839,
+      "longitude": 11.660568
+    },
+    {
+      "name": "DANO 8 Trollön - Stora Le",
+      "latitude": 59.30825,
+      "longitude": 11.820282
+    },
+    {
+      "name": "DANO 8 Trollön - Stora Le",
+      "latitude": 59.308787,
+      "longitude": 11.822686
+    },
+    {
+      "name": "DANO 9 Könnemyren - Stora Le",
+      "latitude": 59.31572,
+      "longitude": 11.824181
+    },
+    {
+      "name": "Dagfinrudkoia",
+      "latitude": 60.536496,
+      "longitude": 11.408762
+    },
+    {
+      "name": "Dagstuhytte",
+      "latitude": 61.914659,
+      "longitude": 6.692889
+    },
+    {
+      "name": "Dagsturhytta",
+      "latitude": 60.636422,
+      "longitude": 6.386146
+    },
+    {
+      "name": "Dagsturhytta",
+      "latitude": 60.908697,
+      "longitude": 7.199816
+    },
+    {
+      "name": "Dagsturhytta Oppsjø Vasspark",
+      "latitude": 60.633602,
+      "longitude": 8.576007
+    },
+    {
+      "name": "Dagsturhytte Fersdalen",
+      "latitude": 63.572801,
+      "longitude": 12.000492
+    },
+    {
+      "name": "Dagsturhytte Stedjestova",
+      "latitude": 61.220842,
+      "longitude": 7.0921
+    },
+    {
+      "name": "Dalaelva gapahuk",
+      "latitude": 63.71622,
+      "longitude": 9.73638
+    },
+    {
+      "name": "Dalberghytta",
+      "latitude": 69.738999,
+      "longitude": 20.55754
+    },
+    {
+      "name": "Dambua",
+      "latitude": 60.981692,
+      "longitude": 10.849104
+    },
+    {
+      "name": "Dambua",
+      "latitude": 61.428621,
+      "longitude": 11.209629
+    },
+    {
+      "name": "Damtjønna",
+      "latitude": 62.801662,
+      "longitude": 9.890282
+    },
+    {
+      "name": "Danger",
+      "latitude": 58.999521,
+      "longitude": 5.71141
+    },
+    {
+      "name": "Danielbua",
+      "latitude": 62.371679,
+      "longitude": 8.134985
+    },
+    {
+      "name": "Dansarbakken",
+      "latitude": 60.234718,
+      "longitude": 9.523747
+    },
+    {
+      "name": "Deatnomuotki",
+      "latitude": 69.093131,
+      "longitude": 21.961529
+    },
+    {
+      "name": "Degevassbu",
+      "latitude": 58.968374,
+      "longitude": 6.737144
+    },
+    {
+      "name": "Demningen gapahuk",
+      "latitude": 63.818311,
+      "longitude": 9.997516
+    },
+    {
+      "name": "Dempa skogstue",
+      "latitude": 65.52431,
+      "longitude": 13.440552
+    },
+    {
+      "name": "Den doble gapahuken",
+      "latitude": 58.161428,
+      "longitude": 8.004148
+    },
+    {
+      "name": "Den nye Håkon VII hytte",
+      "latitude": 61.479864,
+      "longitude": 9.618042
+    },
+    {
+      "name": "Devddesgammen",
+      "latitude": 68.877448,
+      "longitude": 19.78142
+    },
+    {
+      "name": "Devdisbua",
+      "latitude": 68.868982,
+      "longitude": 19.724639
+    },
+    {
+      "name": "Digeraugkoia",
+      "latitude": 60.46247,
+      "longitude": 11.318826
+    },
+    {
+      "name": "Dinosaurplassen",
+      "latitude": 60.856685,
+      "longitude": 11.582087
+    },
+    {
+      "name": "Djupdalen gapahuk",
+      "latitude": 59.916168,
+      "longitude": 12.010166
+    },
+    {
+      "name": "Djupsjømyrkoia",
+      "latitude": 62.095367,
+      "longitude": 12.034021
+    },
+    {
+      "name": "Doarrovašbákti päiväkota",
+      "latitude": 69.294292,
+      "longitude": 25.741605
+    },
+    {
+      "name": "Dragavatnet 1, Gapahuk",
+      "latitude": 63.80282,
+      "longitude": 9.876715
+    },
+    {
+      "name": "Drammen busstasjon",
+      "latitude": 59.740547,
+      "longitude": 10.20059
+    },
+    {
+      "name": "Drangebu",
+      "latitude": 60.198547,
+      "longitude": 5.373602
+    },
+    {
+      "name": "Drengestua i Juvberget",
+      "latitude": 60.810014,
+      "longitude": 12.342996
+    },
+    {
+      "name": "Dronning Sonjas Plass",
+      "latitude": 59.800962,
+      "longitude": 5.51168
+    },
+    {
+      "name": "Dronninghytta",
+      "latitude": 69.826489,
+      "longitude": 24.643893
+    },
+    {
+      "name": "Dyrk Kaldslett",
+      "latitude": 69.602684,
+      "longitude": 18.945256
+    },
+    {
+      "name": "Dyrsnes",
+      "latitude": 58.972572,
+      "longitude": 5.676203
+    },
+    {
+      "name": "Dæliseterbrakka",
+      "latitude": 59.824353,
+      "longitude": 11.035594
+    },
+    {
+      "name": "Døsvik gapahuk",
+      "latitude": 63.742897,
+      "longitude": 9.677753
+    },
+    {
+      "name": "Eidhuken",
+      "latitude": 69.681137,
+      "longitude": 18.752674
+    },
+    {
+      "name": "Eidsveden dagsturhytte",
+      "latitude": 58.036693,
+      "longitude": 7.651577
+    },
+    {
+      "name": "Eikhaugen Gapahuk",
+      "latitude": 60.239182,
+      "longitude": 5.45389
+    },
+    {
+      "name": "Eikvelta",
+      "latitude": 60.729139,
+      "longitude": 10.512374
+    },
+    {
+      "name": "Einahytta",
+      "latitude": 60.490279,
+      "longitude": 10.754552
+    },
+    {
+      "name": "Einarhytta",
+      "latitude": 64.877294,
+      "longitude": 11.195799
+    },
+    {
+      "name": "Eisberg St Vel",
+      "latitude": 59.51526,
+      "longitude": 11.303717
+    },
+    {
+      "name": "Eivinds steinhytte",
+      "latitude": 58.953772,
+      "longitude": 8.881437
+    },
+    {
+      "name": "Eldhuset",
+      "latitude": 58.78386,
+      "longitude": 5.832343
+    },
+    {
+      "name": "Elghaugen",
+      "latitude": 60.234796,
+      "longitude": 11.030827
+    },
+    {
+      "name": "Elghytta",
+      "latitude": 59.635656,
+      "longitude": 11.189571
+    },
+    {
+      "name": "Elgshøgdbua",
+      "latitude": 63.175836,
+      "longitude": 9.913485
+    },
+    {
+      "name": "Elgtoppen",
+      "latitude": 59.961069,
+      "longitude": 10.837685
+    },
+    {
+      "name": "Ellenvasskoia",
+      "latitude": 69.133537,
+      "longitude": 28.903293
+    },
+    {
+      "name": "Ellingseterkoia",
+      "latitude": 60.258052,
+      "longitude": 10.0973
+    },
+    {
+      "name": "Elsjålæger",
+      "latitude": 60.134353,
+      "longitude": 7.707428
+    },
+    {
+      "name": "Elvenghuken gapahuk",
+      "latitude": 63.80975,
+      "longitude": 10.112292
+    },
+    {
+      "name": "Elveplassen",
+      "latitude": 58.339409,
+      "longitude": 8.222588
+    },
+    {
+      "name": "Emergency shelter Preikestolen nødbu",
+      "latitude": 58.988631,
+      "longitude": 6.175299
+    },
+    {
+      "name": "Engekoia",
+      "latitude": 60.948249,
+      "longitude": 11.55483
+    },
+    {
+      "name": "Engerkleiva",
+      "latitude": 59.934249,
+      "longitude": 11.155421
+    },
+    {
+      "name": "Eplehagen Steinva",
+      "latitude": 58.092544,
+      "longitude": 7.766726
+    },
+    {
+      "name": "Erikbu",
+      "latitude": 63.381731,
+      "longitude": 10.7357
+    },
+    {
+      "name": "Eriksbu",
+      "latitude": 58.349051,
+      "longitude": 8.241707
+    },
+    {
+      "name": "Eskedalstjønn",
+      "latitude": 58.34398,
+      "longitude": 8.217269
+    },
+    {
+      "name": "Fagnabu dagsturhytte",
+      "latitude": 59.839067,
+      "longitude": 6.096875
+    },
+    {
+      "name": "Fallebu",
+      "latitude": 62.556292,
+      "longitude": 8.0262
+    },
+    {
+      "name": "Fallet",
+      "latitude": 59.941885,
+      "longitude": 10.180687
+    },
+    {
+      "name": "Fantehellaren",
+      "latitude": 58.271963,
+      "longitude": 6.789248
+    },
+    {
+      "name": "Farmenkoia",
+      "latitude": 60.786712,
+      "longitude": 11.22859
+    },
+    {
+      "name": "Farstølbua",
+      "latitude": 58.782663,
+      "longitude": 7.303563
+    },
+    {
+      "name": "Fastdalshytta / Goalborrihytta",
+      "latitude": 69.659177,
+      "longitude": 20.223446
+    },
+    {
+      "name": "Fatkvelvbua",
+      "latitude": 61.295509,
+      "longitude": 9.387708
+    },
+    {
+      "name": "Fattig og rik",
+      "latitude": 62.420606,
+      "longitude": 7.351719
+    },
+    {
+      "name": "Fautbua",
+      "latitude": 62.406897,
+      "longitude": 12.173331
+    },
+    {
+      "name": "Ferjehuset",
+      "latitude": 58.998503,
+      "longitude": 5.782643
+    },
+    {
+      "name": "Fersdalen dagsturhytte",
+      "latitude": 63.563243,
+      "longitude": 11.929652
+    },
+    {
+      "name": "Fevikskoia",
+      "latitude": 60.168011,
+      "longitude": 10.952454
+    },
+    {
+      "name": "Filipstua",
+      "latitude": 68.218907,
+      "longitude": 14.479794
+    },
+    {
+      "name": "Finnestadtoppen",
+      "latitude": 59.410896,
+      "longitude": 11.48684
+    },
+    {
+      "name": "Finnjonsgamma",
+      "latitude": 68.726268,
+      "longitude": 16.442727
+    },
+    {
+      "name": "Finnpålstuggu",
+      "latitude": 63.323149,
+      "longitude": 10.691104
+    },
+    {
+      "name": "Fiskebekk Barnehage",
+      "latitude": 58.753688,
+      "longitude": 5.86612
+    },
+    {
+      "name": "Fiskåhøgda",
+      "latitude": 63.076429,
+      "longitude": 12.147217
+    },
+    {
+      "name": "Fjellbu",
+      "latitude": 61.284867,
+      "longitude": 8.888995
+    },
+    {
+      "name": "Fjelldokkbu",
+      "latitude": 61.246021,
+      "longitude": 9.422974
+    },
+    {
+      "name": "Fjellgården",
+      "latitude": 65.639879,
+      "longitude": 13.115872
+    },
+    {
+      "name": "Fjellsjøkoia",
+      "latitude": 60.23764,
+      "longitude": 10.77976
+    },
+    {
+      "name": "Fjergen dagsturhytte/varmestue",
+      "latitude": 63.435273,
+      "longitude": 11.916812
+    },
+    {
+      "name": "Fjordsyn",
+      "latitude": 58.256823,
+      "longitude": 6.799959
+    },
+    {
+      "name": "Fjærsæterbua",
+      "latitude": 64.304624,
+      "longitude": 11.355816
+    },
+    {
+      "name": "Fjøset",
+      "latitude": 67.271897,
+      "longitude": 13.967873
+    },
+    {
+      "name": "Fladehelleren",
+      "latitude": 58.256747,
+      "longitude": 6.805302
+    },
+    {
+      "name": "Fladen gapahuk",
+      "latitude": 58.470347,
+      "longitude": 5.944177
+    },
+    {
+      "name": "Flaggermushula",
+      "latitude": 59.917854,
+      "longitude": 11.146474
+    },
+    {
+      "name": "Flakkan fugletårn",
+      "latitude": 64.667799,
+      "longitude": 12.330629
+    },
+    {
+      "name": "Flakke loner",
+      "latitude": 58.340708,
+      "longitude": 8.195712
+    },
+    {
+      "name": "Flakkefossen",
+      "latitude": 58.33627,
+      "longitude": 8.207045
+    },
+    {
+      "name": "Flatsteinbu",
+      "latitude": 61.695817,
+      "longitude": 6.877102
+    },
+    {
+      "name": "Flautangen",
+      "latitude": 59.085869,
+      "longitude": 10.30577
+    },
+    {
+      "name": "Fleskevassbu",
+      "latitude": 62.478669,
+      "longitude": 7.974608
+    },
+    {
+      "name": "Flikkeid",
+      "latitude": 58.356793,
+      "longitude": 6.628797
+    },
+    {
+      "name": "Flotstjennet gapahuk",
+      "latitude": 60.811096,
+      "longitude": 11.852673
+    },
+    {
+      "name": "Fløtarbua",
+      "latitude": 62.53716,
+      "longitude": 11.454598
+    },
+    {
+      "name": "Fløyta (Gapahuk)",
+      "latitude": 60.261488,
+      "longitude": 11.564465
+    },
+    {
+      "name": "Fodnastølbua",
+      "latitude": 60.321024,
+      "longitude": 6.424094
+    },
+    {
+      "name": "Foldsjøhuken",
+      "latitude": 63.345549,
+      "longitude": 10.776474
+    },
+    {
+      "name": "Folkeparken",
+      "latitude": 68.794625,
+      "longitude": 16.506901
+    },
+    {
+      "name": "Fornesneset",
+      "latitude": 63.472873,
+      "longitude": 11.221151
+    },
+    {
+      "name": "Forshuken",
+      "latitude": 62.604158,
+      "longitude": 6.769943
+    },
+    {
+      "name": "Forvik",
+      "latitude": 65.712676,
+      "longitude": 12.459597
+    },
+    {
+      "name": "Fossbua",
+      "latitude": 68.746656,
+      "longitude": 19.72834
+    },
+    {
+      "name": "Fossen",
+      "latitude": 59.348746,
+      "longitude": 6.82373
+    },
+    {
+      "name": "Fossvannskoia",
+      "latitude": 59.570673,
+      "longitude": 9.52942
+    },
+    {
+      "name": "Freivatnet",
+      "latitude": 63.041019,
+      "longitude": 7.80006
+    },
+    {
+      "name": "Frelsesarmeens Speidere",
+      "latitude": 58.093287,
+      "longitude": 6.769578
+    },
+    {
+      "name": "Frem-hytta/Bruskelandsheia dagsturhytte",
+      "latitude": 58.320258,
+      "longitude": 7.44167
+    },
+    {
+      "name": "Fremhytta",
+      "latitude": 58.296316,
+      "longitude": 7.246714
+    },
+    {
+      "name": "Fremmer Håbua",
+      "latitude": 62.48183,
+      "longitude": 12.07852
+    },
+    {
+      "name": "Frognerhuken",
+      "latitude": 60.790806,
+      "longitude": 11.158863
+    },
+    {
+      "name": "Fuglereiret",
+      "latitude": 59.91782,
+      "longitude": 11.146593
+    },
+    {
+      "name": "Funnhytta",
+      "latitude": 68.443898,
+      "longitude": 17.530401
+    },
+    {
+      "name": "Furrubakken",
+      "latitude": 62.457502,
+      "longitude": 11.905945
+    },
+    {
+      "name": "Furulunden",
+      "latitude": 60.216026,
+      "longitude": 5.36109
+    },
+    {
+      "name": "Furulunden",
+      "latitude": 63.050905,
+      "longitude": 7.797082
+    },
+    {
+      "name": "Fykan",
+      "latitude": 66.792718,
+      "longitude": 13.997783
+    },
+    {
+      "name": "Føllvannskoia",
+      "latitude": 69.255423,
+      "longitude": 28.918794
+    },
+    {
+      "name": "Galtebu",
+      "latitude": 60.279954,
+      "longitude": 12.070008
+    },
+    {
+      "name": "Gamle Kjølkoia",
+      "latitude": 60.51159,
+      "longitude": 11.439343
+    },
+    {
+      "name": "Gamme",
+      "latitude": 58.088169,
+      "longitude": 7.736374
+    },
+    {
+      "name": "Gamme",
+      "latitude": 65.428673,
+      "longitude": 12.887733
+    },
+    {
+      "name": "Gamme",
+      "latitude": 70.272191,
+      "longitude": 23.599927
+    },
+    {
+      "name": "Gamme Storoksvatn",
+      "latitude": 66.938311,
+      "longitude": 15.042601
+    },
+    {
+      "name": "Gamme på Kjerkeåsen",
+      "latitude": 59.146896,
+      "longitude": 9.58587
+    },
+    {
+      "name": "Gammelhuset i Skipsfjorden",
+      "latitude": 70.16874,
+      "longitude": 19.805426
+    },
+    {
+      "name": "Gammelhytta",
+      "latitude": 66.31474,
+      "longitude": 15.35958
+    },
+    {
+      "name": "Gammen",
+      "latitude": 66.949731,
+      "longitude": 13.941614
+    },
+    {
+      "name": "Gapahauk",
+      "latitude": 68.080771,
+      "longitude": 13.155138
+    },
+    {
+      "name": "Gapahauken Foråsen",
+      "latitude": 58.898508,
+      "longitude": 6.861585
+    },
+    {
+      "name": "Gapahug ved Haugstua",
+      "latitude": 59.776999,
+      "longitude": 10.192375
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.068402,
+      "longitude": 7.972294
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.071511,
+      "longitude": 7.314996
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.090544,
+      "longitude": 7.767159
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.090845,
+      "longitude": 7.768336
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.104605,
+      "longitude": 6.745882
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.407812,
+      "longitude": 7.81697
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.819108,
+      "longitude": 5.825005
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.922451,
+      "longitude": 5.847136
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 58.97188,
+      "longitude": 11.480679
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 59.003966,
+      "longitude": 6.925978
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 59.115626,
+      "longitude": 11.696783
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 59.255933,
+      "longitude": 11.584243
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 59.546373,
+      "longitude": 7.350277
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 59.563721,
+      "longitude": 7.401584
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 59.760695,
+      "longitude": 7.335934
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.107441,
+      "longitude": 12.501483
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.123448,
+      "longitude": 12.500199
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.21722,
+      "longitude": 11.732411
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.230796,
+      "longitude": 11.46829
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.2606,
+      "longitude": 11.655736
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.266387,
+      "longitude": 11.783725
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.27369,
+      "longitude": 11.163325
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.278575,
+      "longitude": 11.706614
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.285698,
+      "longitude": 11.621059
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.329983,
+      "longitude": 11.804376
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.389185,
+      "longitude": 5.279215
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.396684,
+      "longitude": 11.263631
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.919489,
+      "longitude": 9.496627
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.931456,
+      "longitude": 9.476752
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.932015,
+      "longitude": 9.48701
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 60.937637,
+      "longitude": 11.0721
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 61.194898,
+      "longitude": 10.422986
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 61.400744,
+      "longitude": 5.797865
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 61.468318,
+      "longitude": 12.581197
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 61.501379,
+      "longitude": 9.200824
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 61.906975,
+      "longitude": 6.700762
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 62.215354,
+      "longitude": 9.577698
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 62.945107,
+      "longitude": 11.026768
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 63.363598,
+      "longitude": 8.964195
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 63.388593,
+      "longitude": 10.671132
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 63.776463,
+      "longitude": 9.614841
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 63.783147,
+      "longitude": 9.811789
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 63.85251,
+      "longitude": 9.889141
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 64.333653,
+      "longitude": 11.390947
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 64.712908,
+      "longitude": 12.802697
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 65.327334,
+      "longitude": 13.376901
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 65.47877,
+      "longitude": 12.279118
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 65.49423,
+      "longitude": 13.259635
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 65.593025,
+      "longitude": 13.94872
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 65.596562,
+      "longitude": 14.014017
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 65.64179,
+      "longitude": 13.982579
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 65.71388,
+      "longitude": 14.417143
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 66.784059,
+      "longitude": 15.468653
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 67.172539,
+      "longitude": 15.889556
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 67.783136,
+      "longitude": 15.968707
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 68.738662,
+      "longitude": 16.496087
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 69.28488,
+      "longitude": 18.002758
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 70.223205,
+      "longitude": 24.873802
+    },
+    {
+      "name": "Gapahuk 1 Kanaltangen",
+      "latitude": 59.300831,
+      "longitude": 11.6585
+    },
+    {
+      "name": "Gapahuk 2 Kanaltangen",
+      "latitude": 59.298902,
+      "longitude": 11.658881
+    },
+    {
+      "name": "Gapahuk Bjønnehola",
+      "latitude": 58.821308,
+      "longitude": 7.416303
+    },
+    {
+      "name": "Gapahuk Brandvikgårdsmyran",
+      "latitude": 63.785926,
+      "longitude": 9.697737
+    },
+    {
+      "name": "Gapahuk Damman",
+      "latitude": 63.718516,
+      "longitude": 9.63443
+    },
+    {
+      "name": "Gapahuk Fokhaugstova",
+      "latitude": 62.421886,
+      "longitude": 7.256701
+    },
+    {
+      "name": "Gapahuk Fyrisjø",
+      "latitude": 60.33218,
+      "longitude": 9.465357
+    },
+    {
+      "name": "Gapahuk Gamlestogdalen",
+      "latitude": 58.836465,
+      "longitude": 8.165449
+    },
+    {
+      "name": "Gapahuk Geitberget",
+      "latitude": 62.213015,
+      "longitude": 9.510163
+    },
+    {
+      "name": "Gapahuk Hesteheia",
+      "latitude": 58.802425,
+      "longitude": 7.49835
+    },
+    {
+      "name": "Gapahuk Jutevatnet",
+      "latitude": 62.530299,
+      "longitude": 7.021375
+    },
+    {
+      "name": "Gapahuk Karterud",
+      "latitude": 60.27963,
+      "longitude": 11.700173
+    },
+    {
+      "name": "Gapahuk Koltjønn",
+      "latitude": 58.817174,
+      "longitude": 8.192811
+    },
+    {
+      "name": "Gapahuk Langtjennet",
+      "latitude": 60.379278,
+      "longitude": 12.192748
+    },
+    {
+      "name": "Gapahuk Langvannet - ØJF",
+      "latitude": 60.108965,
+      "longitude": 11.636261
+    },
+    {
+      "name": "Gapahuk Langvatnet",
+      "latitude": 62.981109,
+      "longitude": 9.450712
+    },
+    {
+      "name": "Gapahuk Litjbudammen",
+      "latitude": 63.107537,
+      "longitude": 9.877638
+    },
+    {
+      "name": "Gapahuk Meisfartjønna",
+      "latitude": 65.318346,
+      "longitude": 13.320136
+    },
+    {
+      "name": "Gapahuk Moltemyr",
+      "latitude": 58.742582,
+      "longitude": 8.84346
+    },
+    {
+      "name": "Gapahuk Novaland",
+      "latitude": 68.614339,
+      "longitude": 17.204759
+    },
+    {
+      "name": "Gapahuk Oksdalsheia",
+      "latitude": 58.728595,
+      "longitude": 8.818934
+    },
+    {
+      "name": "Gapahuk Pellandshøla",
+      "latitude": 66.909724,
+      "longitude": 14.796152
+    },
+    {
+      "name": "Gapahuk Pust-UT",
+      "latitude": 58.824215,
+      "longitude": 8.203391
+    },
+    {
+      "name": "Gapahuk Reinstjønn",
+      "latitude": 58.831209,
+      "longitude": 7.485473
+    },
+    {
+      "name": "Gapahuk Røde Kors",
+      "latitude": 59.328499,
+      "longitude": 7.757045
+    },
+    {
+      "name": "Gapahuk Sagstusjøen - ØJFF",
+      "latitude": 60.112526,
+      "longitude": 11.570367
+    },
+    {
+      "name": "Gapahuk Selsetervatnet",
+      "latitude": 62.603217,
+      "longitude": 7.638299
+    },
+    {
+      "name": "Gapahuk Seterdalsbrua",
+      "latitude": 64.313269,
+      "longitude": 11.516102
+    },
+    {
+      "name": "Gapahuk Skogvoktergården",
+      "latitude": 66.820454,
+      "longitude": 15.378836
+    },
+    {
+      "name": "Gapahuk Speten",
+      "latitude": 64.706901,
+      "longitude": 12.774876
+    },
+    {
+      "name": "Gapahuk Store Grastjønn",
+      "latitude": 58.515175,
+      "longitude": 7.6901
+    },
+    {
+      "name": "Gapahuk Stortela",
+      "latitude": 62.565809,
+      "longitude": 8.935261
+    },
+    {
+      "name": "Gapahuk Storvatnet",
+      "latitude": 62.551612,
+      "longitude": 8.956662
+    },
+    {
+      "name": "Gapahuk Storvatnet",
+      "latitude": 63.089964,
+      "longitude": 9.344895
+    },
+    {
+      "name": "Gapahuk Straumfjord 1",
+      "latitude": 67.909144,
+      "longitude": 15.529487
+    },
+    {
+      "name": "Gapahuk Straumfjord 2",
+      "latitude": 67.910711,
+      "longitude": 15.533054
+    },
+    {
+      "name": "Gapahuk Svarteheia",
+      "latitude": 58.084296,
+      "longitude": 7.75956
+    },
+    {
+      "name": "Gapahuk Svartvatnet",
+      "latitude": 67.406142,
+      "longitude": 15.337432
+    },
+    {
+      "name": "Gapahuk Tjønnmyran",
+      "latitude": 62.794447,
+      "longitude": 8.788514
+    },
+    {
+      "name": "Gapahuk Tomtvasslia",
+      "latitude": 63.6531,
+      "longitude": 11.392602
+    },
+    {
+      "name": "Gapahuk Tverfjellet",
+      "latitude": 62.221633,
+      "longitude": 9.492513
+    },
+    {
+      "name": "Gapahuk Tøftvangen",
+      "latitude": 62.53012,
+      "longitude": 8.998893
+    },
+    {
+      "name": "Gapahuk Uffortjønn",
+      "latitude": 58.083845,
+      "longitude": 7.758241
+    },
+    {
+      "name": "Gapahuk Veten",
+      "latitude": 68.476873,
+      "longitude": 16.844841
+    },
+    {
+      "name": "Gapahuk på Husborn Friområde",
+      "latitude": 59.345932,
+      "longitude": 11.671897
+    },
+    {
+      "name": "Gapahuk på Kjerkeåsen",
+      "latitude": 59.14705,
+      "longitude": 9.585913
+    },
+    {
+      "name": "Gapahuk utskikten",
+      "latitude": 60.326315,
+      "longitude": 9.467212
+    },
+    {
+      "name": "Gapahuk v/ Tripperød Friområde",
+      "latitude": 59.1582,
+      "longitude": 11.732994
+    },
+    {
+      "name": "Gapahuk v/ Vadet",
+      "latitude": 59.129588,
+      "longitude": 11.458334
+    },
+    {
+      "name": "Gapahuk ved Breitjennet",
+      "latitude": 59.955433,
+      "longitude": 12.288614
+    },
+    {
+      "name": "Gapahuk ved Langvatnet",
+      "latitude": 60.88509,
+      "longitude": 10.257987
+    },
+    {
+      "name": "Gapahuk ved Lundsætra",
+      "latitude": 61.004522,
+      "longitude": 10.240222
+    },
+    {
+      "name": "Gapahuk ved Tjuraåa",
+      "latitude": 60.425453,
+      "longitude": 12.137055
+    },
+    {
+      "name": "Gapahuk, Bruholmen",
+      "latitude": 63.697344,
+      "longitude": 9.672642
+    },
+    {
+      "name": "Gapahuk, Freidigfeltet",
+      "latitude": 59.394119,
+      "longitude": 11.303083
+    },
+    {
+      "name": "Gapahuk, Grunnfjord",
+      "latitude": 69.987381,
+      "longitude": 19.534007
+    },
+    {
+      "name": "Gapahuk, Olavsbu",
+      "latitude": 63.773174,
+      "longitude": 9.949303
+    },
+    {
+      "name": "Gapahuk, Solkysten Barnehage",
+      "latitude": 63.885698,
+      "longitude": 9.873766
+    },
+    {
+      "name": "Gapahuk, revet",
+      "latitude": 59.903027,
+      "longitude": 10.44778
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 58.840957,
+      "longitude": 6.190271
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 59.824829,
+      "longitude": 10.310417
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 60.114907,
+      "longitude": 10.878098
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 60.677647,
+      "longitude": 6.524447
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 62.594619,
+      "longitude": 11.395371
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 63.044567,
+      "longitude": 9.193377
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 65.684192,
+      "longitude": 12.44183
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 69.689237,
+      "longitude": 18.834327
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 69.83077,
+      "longitude": 25.189958
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 70.003184,
+      "longitude": 21.234783
+    },
+    {
+      "name": "Gapahuken Bygd",
+      "latitude": 62.213603,
+      "longitude": 6.4696
+    },
+    {
+      "name": "Gapahuken Fenstad",
+      "latitude": 60.221164,
+      "longitude": 11.420792
+    },
+    {
+      "name": "Gapahuken Hawaii",
+      "latitude": 60.028889,
+      "longitude": 10.869444
+    },
+    {
+      "name": "Gapahuken Loar",
+      "latitude": 61.839357,
+      "longitude": 8.543773
+    },
+    {
+      "name": "Gapahuken i Betna",
+      "latitude": 63.108593,
+      "longitude": 8.379294
+    },
+    {
+      "name": "Gapahuken i Revdalen",
+      "latitude": 68.598124,
+      "longitude": 17.401726
+    },
+    {
+      "name": "Gapahuken i Vakkerstadlia",
+      "latitude": 68.699569,
+      "longitude": 17.127702
+    },
+    {
+      "name": "Gapahuken på Hansåsen",
+      "latitude": 63.7652,
+      "longitude": 11.374327
+    },
+    {
+      "name": "Gapahuken på Herstad",
+      "latitude": 60.805113,
+      "longitude": 10.788971
+    },
+    {
+      "name": "Gapahuken på Hundbergan",
+      "latitude": 68.863621,
+      "longitude": 17.8408
+    },
+    {
+      "name": "Gapahuken på Hundyrju",
+      "latitude": 62.092816,
+      "longitude": 9.217709
+    },
+    {
+      "name": "Gapahuken på Myklevollkollen",
+      "latitude": 68.665059,
+      "longitude": 17.075022
+    },
+    {
+      "name": "Gapahuken på Sandneset",
+      "latitude": 68.668002,
+      "longitude": 17.112187
+    },
+    {
+      "name": "Garbergsfjellet",
+      "latitude": 63.108502,
+      "longitude": 9.45191
+    },
+    {
+      "name": "Gardsmyrkoia",
+      "latitude": 60.80698,
+      "longitude": 11.490826
+    },
+    {
+      "name": "Garli stasjon",
+      "latitude": 62.890177,
+      "longitude": 10.105741
+    },
+    {
+      "name": "Garpahaugen",
+      "latitude": 58.998083,
+      "longitude": 5.79097
+    },
+    {
+      "name": "Gaukarhuken",
+      "latitude": 69.342485,
+      "longitude": 18.141401
+    },
+    {
+      "name": "Gauksomhytta",
+      "latitude": 58.530153,
+      "longitude": 6.587525
+    },
+    {
+      "name": "Gjemmeskogen",
+      "latitude": 63.123835,
+      "longitude": 7.810027
+    },
+    {
+      "name": "Gjerdbua",
+      "latitude": 62.46026,
+      "longitude": 11.914311
+    },
+    {
+      "name": "Gjerihuken",
+      "latitude": 60.121529,
+      "longitude": 10.924388
+    },
+    {
+      "name": "Gjestebu",
+      "latitude": 63.416744,
+      "longitude": 10.261652
+    },
+    {
+      "name": "Gjestgiveriet",
+      "latitude": 60.96266,
+      "longitude": 12.202352
+    },
+    {
+      "name": "Gjetsjøbua",
+      "latitude": 62.530589,
+      "longitude": 11.793736
+    },
+    {
+      "name": "Gjevlekollbua",
+      "latitude": 59.89292,
+      "longitude": 10.186715
+    },
+    {
+      "name": "Gjælentunet",
+      "latitude": 67.184161,
+      "longitude": 14.411216
+    },
+    {
+      "name": "Gjøkvassbu",
+      "latitude": 69.151263,
+      "longitude": 29.100901
+    },
+    {
+      "name": "Glimmervannshytta",
+      "latitude": 70.648837,
+      "longitude": 23.829412
+    },
+    {
+      "name": "Glomdalshytta",
+      "latitude": 66.540593,
+      "longitude": 13.867515
+    },
+    {
+      "name": "Glutterstauå",
+      "latitude": 62.519181,
+      "longitude": 7.968207
+    },
+    {
+      "name": "Gløvrebu",
+      "latitude": 60.648644,
+      "longitude": 4.786719
+    },
+    {
+      "name": "Granbekkoia",
+      "latitude": 61.391076,
+      "longitude": 12.548044
+    },
+    {
+      "name": "Granlien aktivitetsenter. Tre-lavo. Perm",
+      "latitude": 59.396707,
+      "longitude": 8.513689
+    },
+    {
+      "name": "Gransjøbekkbua",
+      "latitude": 61.581147,
+      "longitude": 11.502524
+    },
+    {
+      "name": "Grasbråtan",
+      "latitude": 60.199301,
+      "longitude": 12.330114
+    },
+    {
+      "name": "Grasfjellkoia",
+      "latitude": 66.116979,
+      "longitude": 14.433764
+    },
+    {
+      "name": "Grendahuken",
+      "latitude": 63.044987,
+      "longitude": 9.712136
+    },
+    {
+      "name": "Grevlinghuken",
+      "latitude": 59.430204,
+      "longitude": 10.73095
+    },
+    {
+      "name": "Grill",
+      "latitude": 59.591921,
+      "longitude": 11.173764
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 58.481825,
+      "longitude": 8.791235
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 58.846792,
+      "longitude": 6.281228
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 59.589396,
+      "longitude": 11.253801
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 60.79818,
+      "longitude": 8.912502
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 60.813658,
+      "longitude": 8.922475
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 60.817637,
+      "longitude": 8.928198
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 60.827162,
+      "longitude": 8.95522
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 60.835993,
+      "longitude": 8.933105
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 61.08944,
+      "longitude": 8.597925
+    },
+    {
+      "name": "Grillhytta Kostøl",
+      "latitude": 58.224416,
+      "longitude": 7.993272
+    },
+    {
+      "name": "Grillhytte",
+      "latitude": 59.566447,
+      "longitude": 11.336303
+    },
+    {
+      "name": "Grillhytte",
+      "latitude": 60.797159,
+      "longitude": 8.941357
+    },
+    {
+      "name": "Grillhytte Furuhaugmarka",
+      "latitude": 63.08407,
+      "longitude": 9.292823
+    },
+    {
+      "name": "Grillhytte Lindvikedalen",
+      "latitude": 61.938559,
+      "longitude": 6.156962
+    },
+    {
+      "name": "Grillhytte Spjelkebu",
+      "latitude": 61.923649,
+      "longitude": 6.654872
+    },
+    {
+      "name": "Grillkåte",
+      "latitude": 68.356437,
+      "longitude": 16.652058
+    },
+    {
+      "name": "Grindarasten",
+      "latitude": 60.412382,
+      "longitude": 5.337725
+    },
+    {
+      "name": "Grindbygget (Nebba)",
+      "latitude": 62.563515,
+      "longitude": 7.694652
+    },
+    {
+      "name": "Grotdalsneset",
+      "latitude": 59.463874,
+      "longitude": 6.923618
+    },
+    {
+      "name": "Grovaskarsbu",
+      "latitude": 62.290109,
+      "longitude": 7.934378
+    },
+    {
+      "name": "Grunnfør Bicycle Shelter",
+      "latitude": 68.423923,
+      "longitude": 14.563937
+    },
+    {
+      "name": "Grunnhåbua",
+      "latitude": 62.424305,
+      "longitude": 11.98995
+    },
+    {
+      "name": "Grunnvatnet",
+      "latitude": 68.79305,
+      "longitude": 16.492932
+    },
+    {
+      "name": "Grusetsætra",
+      "latitude": 60.500324,
+      "longitude": 12.31989
+    },
+    {
+      "name": "Gruvbergskoia",
+      "latitude": 60.527519,
+      "longitude": 11.447595
+    },
+    {
+      "name": "Grytilbua",
+      "latitude": 62.516457,
+      "longitude": 8.01121
+    },
+    {
+      "name": "Grådalsbua",
+      "latitude": 62.418898,
+      "longitude": 11.79175
+    },
+    {
+      "name": "Gråhøbue",
+      "latitude": 61.938753,
+      "longitude": 9.595554
+    },
+    {
+      "name": "Gråhøgdbua",
+      "latitude": 61.646308,
+      "longitude": 11.708969
+    },
+    {
+      "name": "Grønhøa dagsturhytte",
+      "latitude": 62.164893,
+      "longitude": 10.052904
+    },
+    {
+      "name": "Grønmlundveien",
+      "latitude": 59.582342,
+      "longitude": 11.188673
+    },
+    {
+      "name": "Grønnbotnhytta",
+      "latitude": 62.443366,
+      "longitude": 8.007811
+    },
+    {
+      "name": "Grønolsbue",
+      "latitude": 61.259205,
+      "longitude": 8.833323
+    },
+    {
+      "name": "Grønvatnet gapahuk",
+      "latitude": 63.738176,
+      "longitude": 9.760017
+    },
+    {
+      "name": "Grøttavassbu",
+      "latitude": 62.51064,
+      "longitude": 7.973296
+    },
+    {
+      "name": "Gubbero gapahuk",
+      "latitude": 59.967755,
+      "longitude": 10.941816
+    },
+    {
+      "name": "Gubbtjønnbua",
+      "latitude": 62.405442,
+      "longitude": 12.015825
+    },
+    {
+      "name": "Gudøyhuken",
+      "latitude": 59.402939,
+      "longitude": 10.85342
+    },
+    {
+      "name": "Gullingen dagsturhytte",
+      "latitude": 59.418601,
+      "longitude": 6.454081
+    },
+    {
+      "name": "Gunhilds gate (A)",
+      "latitude": 58.948056,
+      "longitude": 5.672872
+    },
+    {
+      "name": "Gunhilds gate (B)",
+      "latitude": 58.949319,
+      "longitude": 5.674178
+    },
+    {
+      "name": "Gunnarbui",
+      "latitude": 59.477601,
+      "longitude": 8.621507
+    },
+    {
+      "name": "Guriberget",
+      "latitude": 62.624957,
+      "longitude": 9.755743
+    },
+    {
+      "name": "Gurud",
+      "latitude": 59.58162,
+      "longitude": 11.143572
+    },
+    {
+      "name": "Gurud",
+      "latitude": 59.582136,
+      "longitude": 11.141293
+    },
+    {
+      "name": "Gurudveien",
+      "latitude": 59.58212,
+      "longitude": 11.14127
+    },
+    {
+      "name": "Gyttakvia",
+      "latitude": 61.455703,
+      "longitude": 5.914663
+    },
+    {
+      "name": "Haakon VII hytte",
+      "latitude": 61.489567,
+      "longitude": 9.57069
+    },
+    {
+      "name": "Hagahølen",
+      "latitude": 58.837897,
+      "longitude": 6.186578
+    },
+    {
+      "name": "Hagehuset",
+      "latitude": 59.918175,
+      "longitude": 10.772896
+    },
+    {
+      "name": "Hakadalsbua/Tørem gapahuk",
+      "latitude": 63.821905,
+      "longitude": 9.733862
+    },
+    {
+      "name": "Hal-Mod-huken gapahuk",
+      "latitude": 63.746452,
+      "longitude": 9.865998
+    },
+    {
+      "name": "Hammarbu",
+      "latitude": 59.024334,
+      "longitude": 6.060164
+    },
+    {
+      "name": "Hammerkoia",
+      "latitude": 61.117671,
+      "longitude": 10.522575
+    },
+    {
+      "name": "Hans-bu",
+      "latitude": 63.452791,
+      "longitude": 8.048233
+    },
+    {
+      "name": "Hansbu",
+      "latitude": 67.34607,
+      "longitude": 14.662062
+    },
+    {
+      "name": "Hansenbua",
+      "latitude": 62.360244,
+      "longitude": 9.178298
+    },
+    {
+      "name": "Harahuken",
+      "latitude": 59.656123,
+      "longitude": 10.813481
+    },
+    {
+      "name": "Haralds Plass",
+      "latitude": 60.866222,
+      "longitude": 7.118434
+    },
+    {
+      "name": "Haraldvangen",
+      "latitude": 59.955488,
+      "longitude": 10.839344
+    },
+    {
+      "name": "Harland",
+      "latitude": 61.434338,
+      "longitude": 10.660624
+    },
+    {
+      "name": "Harrbekkbua",
+      "latitude": 62.451012,
+      "longitude": 11.774455
+    },
+    {
+      "name": "Haudukhyttå",
+      "latitude": 62.545599,
+      "longitude": 8.036381
+    },
+    {
+      "name": "Havblikk",
+      "latitude": 58.065081,
+      "longitude": 6.808798
+    },
+    {
+      "name": "Havgavuobmihytta",
+      "latitude": 68.6236,
+      "longitude": 19.864039
+    },
+    {
+      "name": "Havnahuken",
+      "latitude": 59.440219,
+      "longitude": 10.756331
+    },
+    {
+      "name": "Havnås",
+      "latitude": 59.615657,
+      "longitude": 11.410732
+    },
+    {
+      "name": "Heddebu",
+      "latitude": 59.432343,
+      "longitude": 8.14037
+    },
+    {
+      "name": "Heggdalsvatnet",
+      "latitude": 62.713392,
+      "longitude": 6.86416
+    },
+    {
+      "name": "Heggedalshytta",
+      "latitude": 69.360947,
+      "longitude": 17.698594
+    },
+    {
+      "name": "Heidrun",
+      "latitude": 60.195895,
+      "longitude": 11.023338
+    },
+    {
+      "name": "Hekkfjellhytta",
+      "latitude": 58.492228,
+      "longitude": 7.20688
+    },
+    {
+      "name": "Hekttjernet gapahuk",
+      "latitude": 59.889382,
+      "longitude": 11.962392
+    },
+    {
+      "name": "Hella",
+      "latitude": 60.4115,
+      "longitude": 11.808739
+    },
+    {
+      "name": "Hellegrind",
+      "latitude": 60.434475,
+      "longitude": 5.300385
+    },
+    {
+      "name": "Hellemsbrygga gapahuk",
+      "latitude": 63.790295,
+      "longitude": 9.599607
+    },
+    {
+      "name": "Heller",
+      "latitude": 58.892726,
+      "longitude": 9.404274
+    },
+    {
+      "name": "Heller",
+      "latitude": 58.893782,
+      "longitude": 9.404789
+    },
+    {
+      "name": "Helleren",
+      "latitude": 58.363178,
+      "longitude": 8.460629
+    },
+    {
+      "name": "Hellesknatten",
+      "latitude": 59.076637,
+      "longitude": 10.260893
+    },
+    {
+      "name": "Hesttangen",
+      "latitude": 64.207826,
+      "longitude": 11.566428
+    },
+    {
+      "name": "Hissøyna friluftsområde",
+      "latitude": 60.31096,
+      "longitude": 4.935273
+    },
+    {
+      "name": "Hiåskoia",
+      "latitude": 61.126177,
+      "longitude": 12.269267
+    },
+    {
+      "name": "Hollenderhytta",
+      "latitude": 69.728929,
+      "longitude": 18.543258
+    },
+    {
+      "name": "Holmenkoia",
+      "latitude": 69.198315,
+      "longitude": 29.068842
+    },
+    {
+      "name": "Holmkoia",
+      "latitude": 60.699174,
+      "longitude": 11.568003
+    },
+    {
+      "name": "Holmtjønnsbua",
+      "latitude": 64.210411,
+      "longitude": 11.647325
+    },
+    {
+      "name": "Holt Gapahuk",
+      "latitude": 69.651276,
+      "longitude": 18.912226
+    },
+    {
+      "name": "Honsjøhytta",
+      "latitude": 60.307481,
+      "longitude": 10.995035
+    },
+    {
+      "name": "Hornsetbu",
+      "latitude": 61.742029,
+      "longitude": 11.597844
+    },
+    {
+      "name": "Hornvatnhytta",
+      "latitude": 62.496972,
+      "longitude": 7.798709
+    },
+    {
+      "name": "Hosetlia",
+      "latitude": 62.978096,
+      "longitude": 7.622475
+    },
+    {
+      "name": "Hostebua",
+      "latitude": 60.124676,
+      "longitude": 10.89884
+    },
+    {
+      "name": "Hosto-Huken",
+      "latitude": 63.193153,
+      "longitude": 9.587603
+    },
+    {
+      "name": "Hotel Excelsior",
+      "latitude": 60.361958,
+      "longitude": 12.419326
+    },
+    {
+      "name": "Hotell Kjesebu",
+      "latitude": 59.482018,
+      "longitude": 10.803838
+    },
+    {
+      "name": "Hovden",
+      "latitude": 61.808272,
+      "longitude": 11.962649
+    },
+    {
+      "name": "Hovlandsnuten",
+      "latitude": 59.667258,
+      "longitude": 6.248681
+    },
+    {
+      "name": "Hula",
+      "latitude": 58.705568,
+      "longitude": 9.159982
+    },
+    {
+      "name": "Huldrebu",
+      "latitude": 60.290672,
+      "longitude": 5.370573
+    },
+    {
+      "name": "Huldrebu gapahuk",
+      "latitude": 63.724036,
+      "longitude": 9.714777
+    },
+    {
+      "name": "Hulluslættet",
+      "latitude": 63.17187,
+      "longitude": 10.006242
+    },
+    {
+      "name": "Hundtjønna",
+      "latitude": 62.781084,
+      "longitude": 7.018375
+    },
+    {
+      "name": "Husnebbu",
+      "latitude": 62.594556,
+      "longitude": 7.945042
+    },
+    {
+      "name": "Hustveitstølen",
+      "latitude": 59.587111,
+      "longitude": 6.252084
+    },
+    {
+      "name": "Hvitsteintjenn gapahuk",
+      "latitude": 59.168253,
+      "longitude": 9.583763
+    },
+    {
+      "name": "Hytte",
+      "latitude": 61.149161,
+      "longitude": 10.7263
+    },
+    {
+      "name": "Håkonbue",
+      "latitude": 60.547412,
+      "longitude": 8.74069
+    },
+    {
+      "name": "Håkons plass",
+      "latitude": 60.424025,
+      "longitude": 11.236839
+    },
+    {
+      "name": "Håvåshytta",
+      "latitude": 59.44763,
+      "longitude": 5.367992
+    },
+    {
+      "name": "Hææl",
+      "latitude": 60.342323,
+      "longitude": 11.488689
+    },
+    {
+      "name": "Høgberget",
+      "latitude": 63.429546,
+      "longitude": 10.997594
+    },
+    {
+      "name": "Høgrondbue",
+      "latitude": 61.937931,
+      "longitude": 9.911962
+    },
+    {
+      "name": "Høljefallskoia",
+      "latitude": 61.027431,
+      "longitude": 12.297513
+    },
+    {
+      "name": "Høljefallskoia",
+      "latitude": 61.027442,
+      "longitude": 12.291292
+    },
+    {
+      "name": "Hølmyrkoia",
+      "latitude": 60.815532,
+      "longitude": 11.416167
+    },
+    {
+      "name": "Hølo",
+      "latitude": 60.419129,
+      "longitude": 4.96189
+    },
+    {
+      "name": "Hørstadvika",
+      "latitude": 61.435713,
+      "longitude": 11.201113
+    },
+    {
+      "name": "Høvasskoia",
+      "latitude": 69.208751,
+      "longitude": 28.99019
+    },
+    {
+      "name": "Idavollen",
+      "latitude": 66.326327,
+      "longitude": 14.054446
+    },
+    {
+      "name": "Ila",
+      "latitude": 63.428601,
+      "longitude": 10.367194
+    },
+    {
+      "name": "Indianerplassen",
+      "latitude": 59.67084,
+      "longitude": 10.75906
+    },
+    {
+      "name": "Infimus",
+      "latitude": 61.826708,
+      "longitude": 7.209431
+    },
+    {
+      "name": "Ingeborgkoia",
+      "latitude": 61.012523,
+      "longitude": 11.260495
+    },
+    {
+      "name": "Inner-Bredek",
+      "latitude": 66.526095,
+      "longitude": 14.90012
+    },
+    {
+      "name": "Innstrand gapahuk",
+      "latitude": 63.732214,
+      "longitude": 9.629361
+    },
+    {
+      "name": "Isakbu",
+      "latitude": 61.808732,
+      "longitude": 8.206729
+    },
+    {
+      "name": "Ivarbu",
+      "latitude": 60.96978,
+      "longitude": 9.015141
+    },
+    {
+      "name": "Jakobselet",
+      "latitude": 62.188307,
+      "longitude": 7.577815
+    },
+    {
+      "name": "Jaktbua ved Bjørndalsmyra",
+      "latitude": 61.467946,
+      "longitude": 11.436933
+    },
+    {
+      "name": "Jar kirke",
+      "latitude": 59.917549,
+      "longitude": 10.61737
+    },
+    {
+      "name": "Jar skole",
+      "latitude": 59.920786,
+      "longitude": 10.627381
+    },
+    {
+      "name": "Jensbu",
+      "latitude": 62.469907,
+      "longitude": 7.168317
+    },
+    {
+      "name": "Jenshøgda (Gapahuk)",
+      "latitude": 60.262071,
+      "longitude": 11.547579
+    },
+    {
+      "name": "Jervåga",
+      "latitude": 66.554202,
+      "longitude": 14.679033
+    },
+    {
+      "name": "Jobu",
+      "latitude": 63.419215,
+      "longitude": 10.65776
+    },
+    {
+      "name": "Jondalsstugu",
+      "latitude": 60.797227,
+      "longitude": 8.882865
+    },
+    {
+      "name": "Jordanhytta",
+      "latitude": 61.997974,
+      "longitude": 6.394112
+    },
+    {
+      "name": "Jordkjelleren",
+      "latitude": 59.239795,
+      "longitude": 10.885044
+    },
+    {
+      "name": "Jorlikoia",
+      "latitude": 62.966008,
+      "longitude": 9.821288
+    },
+    {
+      "name": "Josefkoia",
+      "latitude": 60.556255,
+      "longitude": 11.29352
+    },
+    {
+      "name": "Jutulhytta",
+      "latitude": 60.233318,
+      "longitude": 10.96686
+    },
+    {
+      "name": "Jøkulhytta",
+      "latitude": 60.552742,
+      "longitude": 7.470296
+    },
+    {
+      "name": "Jørgenhuken",
+      "latitude": 61.80927,
+      "longitude": 9.682121
+    },
+    {
+      "name": "Kaffehola",
+      "latitude": 69.411831,
+      "longitude": 19.671394
+    },
+    {
+      "name": "Kaffekokern",
+      "latitude": 60.224787,
+      "longitude": 11.526447
+    },
+    {
+      "name": "Kaffeplassen",
+      "latitude": 60.441068,
+      "longitude": 9.072019
+    },
+    {
+      "name": "Kaffikjelbua",
+      "latitude": 62.550174,
+      "longitude": 7.775686
+    },
+    {
+      "name": "Kaffikjelbua",
+      "latitude": 62.560694,
+      "longitude": 7.717794
+    },
+    {
+      "name": "Kakebu",
+      "latitude": 60.290522,
+      "longitude": 5.376597
+    },
+    {
+      "name": "Kaldvellkniben",
+      "latitude": 58.284742,
+      "longitude": 8.40729
+    },
+    {
+      "name": "Kaltbergtårnet",
+      "latitude": 62.543146,
+      "longitude": 10.386917
+    },
+    {
+      "name": "Kalvskinnet",
+      "latitude": 63.042122,
+      "longitude": 7.754769
+    },
+    {
+      "name": "Kamhaugen gapahuk",
+      "latitude": 63.772751,
+      "longitude": 9.81316
+    },
+    {
+      "name": "Kammerherrens utsikt",
+      "latitude": 59.263882,
+      "longitude": 9.470303
+    },
+    {
+      "name": "Karifjorden varmestue",
+      "latitude": 61.290157,
+      "longitude": 8.925135
+    },
+    {
+      "name": "Kariholmen",
+      "latitude": 59.911573,
+      "longitude": 11.235659
+    },
+    {
+      "name": "Karlsnessetra",
+      "latitude": 63.278281,
+      "longitude": 9.110531
+    },
+    {
+      "name": "Karsken",
+      "latitude": 63.173148,
+      "longitude": 8.99327
+    },
+    {
+      "name": "Karvekollen",
+      "latitude": 63.606415,
+      "longitude": 10.754998
+    },
+    {
+      "name": "Kaskukoju",
+      "latitude": 60.166854,
+      "longitude": 12.434
+    },
+    {
+      "name": "Kastellet",
+      "latitude": 58.132634,
+      "longitude": 7.913945
+    },
+    {
+      "name": "Kiberg",
+      "latitude": 70.285524,
+      "longitude": 30.993579
+    },
+    {
+      "name": "Kikkerhuset",
+      "latitude": 58.56896,
+      "longitude": 9.008324
+    },
+    {
+      "name": "Kikut gapahuk",
+      "latitude": 59.9383,
+      "longitude": 10.466009
+    },
+    {
+      "name": "Killingskarhedleren",
+      "latitude": 58.801688,
+      "longitude": 6.299928
+    },
+    {
+      "name": "Kinn-huken",
+      "latitude": 59.680025,
+      "longitude": 10.75069
+    },
+    {
+      "name": "Kirstenhuken Gapahuk",
+      "latitude": 68.508999,
+      "longitude": 14.800232
+    },
+    {
+      "name": "Kistafossen gapahuk",
+      "latitude": 63.047218,
+      "longitude": 11.683568
+    },
+    {
+      "name": "Kjerag nødbu",
+      "latitude": 59.041325,
+      "longitude": 6.631266
+    },
+    {
+      "name": "Kjerringfred",
+      "latitude": 59.958731,
+      "longitude": 10.944978
+    },
+    {
+      "name": "Kjerringfred",
+      "latitude": 60.571015,
+      "longitude": 10.528491
+    },
+    {
+      "name": "Kjølavatnet gapahuk",
+      "latitude": 62.884289,
+      "longitude": 7.54356
+    },
+    {
+      "name": "Kjølvollen",
+      "latitude": 62.053079,
+      "longitude": 11.99193
+    },
+    {
+      "name": "Kjøpsnes dagsturhytte",
+      "latitude": 68.124509,
+      "longitude": 16.403222
+    },
+    {
+      "name": "Klatrehuken",
+      "latitude": 69.930576,
+      "longitude": 23.195949
+    },
+    {
+      "name": "Kleberbue",
+      "latitude": 61.681717,
+      "longitude": 8.441177
+    },
+    {
+      "name": "Klokkerenghuken",
+      "latitude": 60.371769,
+      "longitude": 11.163289
+    },
+    {
+      "name": "Klubbfjelltjørnhytta",
+      "latitude": 65.760712,
+      "longitude": 13.543761
+    },
+    {
+      "name": "Klugeslåtten",
+      "latitude": 58.784165,
+      "longitude": 5.83174
+    },
+    {
+      "name": "Klukstugan",
+      "latitude": 63.287511,
+      "longitude": 11.998712
+    },
+    {
+      "name": "Knappkoia",
+      "latitude": 60.518717,
+      "longitude": 11.332558
+    },
+    {
+      "name": "Knutsbu",
+      "latitude": 59.941086,
+      "longitude": 7.240214
+    },
+    {
+      "name": "Knutsbu",
+      "latitude": 60.240654,
+      "longitude": 7.646554
+    },
+    {
+      "name": "Kobberfjellbua",
+      "latitude": 68.538615,
+      "longitude": 17.803619
+    },
+    {
+      "name": "Koia",
+      "latitude": 60.249051,
+      "longitude": 11.431834
+    },
+    {
+      "name": "Koievassbua",
+      "latitude": 68.698289,
+      "longitude": 18.959161
+    },
+    {
+      "name": "Kollsetestølen",
+      "latitude": 61.279293,
+      "longitude": 6.977599
+    },
+    {
+      "name": "Kolosvea",
+      "latitude": 60.939453,
+      "longitude": 10.786791
+    },
+    {
+      "name": "Kolvelægeret",
+      "latitude": 60.31372,
+      "longitude": 7.75963
+    },
+    {
+      "name": "Kompasset",
+      "latitude": 60.876356,
+      "longitude": 12.314198
+    },
+    {
+      "name": "Konglebu",
+      "latitude": 62.853827,
+      "longitude": 7.100879
+    },
+    {
+      "name": "Konttorpet gapahuk",
+      "latitude": 60.504573,
+      "longitude": 12.412437
+    },
+    {
+      "name": "Kota",
+      "latitude": 69.960364,
+      "longitude": 26.645385
+    },
+    {
+      "name": "Kristian Sønjus vei",
+      "latitude": 59.65329,
+      "longitude": 9.673402
+    },
+    {
+      "name": "Kristinagammen",
+      "latitude": 66.834406,
+      "longitude": 14.78805
+    },
+    {
+      "name": "Krokhølbua",
+      "latitude": 61.565216,
+      "longitude": 11.395245
+    },
+    {
+      "name": "Kroktrøbua",
+      "latitude": 62.526553,
+      "longitude": 11.493087
+    },
+    {
+      "name": "Kronebu",
+      "latitude": 60.394253,
+      "longitude": 5.349575
+    },
+    {
+      "name": "Kronebua",
+      "latitude": 58.357061,
+      "longitude": 6.308055
+    },
+    {
+      "name": "Krutvasshytta",
+      "latitude": 65.701062,
+      "longitude": 14.444003
+    },
+    {
+      "name": "Kubbetjørn",
+      "latitude": 58.874999,
+      "longitude": 5.793272
+    },
+    {
+      "name": "Kuivaniva puolilaavu",
+      "latitude": 69.336572,
+      "longitude": 25.761586
+    },
+    {
+      "name": "Kvaermannsbu",
+      "latitude": 67.315221,
+      "longitude": 14.47783
+    },
+    {
+      "name": "Kvannjota",
+      "latitude": 61.835583,
+      "longitude": 12.050624
+    },
+    {
+      "name": "Kvasshåghytta",
+      "latitude": 66.849924,
+      "longitude": 14.731224
+    },
+    {
+      "name": "Kvepsendalskoia",
+      "latitude": 66.227867,
+      "longitude": 15.148712
+    },
+    {
+      "name": "Kverndammen gapahuk",
+      "latitude": 60.4198,
+      "longitude": 12.395559
+    },
+    {
+      "name": "Kvernfjellstoggo",
+      "latitude": 63.222099,
+      "longitude": 11.415161
+    },
+    {
+      "name": "Kvernmoen",
+      "latitude": 59.135747,
+      "longitude": 11.745024
+    },
+    {
+      "name": "Kvernøyhuken",
+      "latitude": 59.42136,
+      "longitude": 10.767847
+    },
+    {
+      "name": "Kvilebua",
+      "latitude": 69.25423,
+      "longitude": 18.022946
+    },
+    {
+      "name": "Kvilehytta;Kvilabu",
+      "latitude": 60.676368,
+      "longitude": 6.399028
+    },
+    {
+      "name": "Kvitsteindalsgammen",
+      "latitude": 66.779211,
+      "longitude": 14.289703
+    },
+    {
+      "name": "Kvitsteinelvkøta",
+      "latitude": 66.602952,
+      "longitude": 15.065001
+    },
+    {
+      "name": "Kvolvbua",
+      "latitude": 62.730454,
+      "longitude": 9.638454
+    },
+    {
+      "name": "Kvåho/Sørli",
+      "latitude": 60.161602,
+      "longitude": 12.471042
+    },
+    {
+      "name": "Kålvenesheller 4",
+      "latitude": 58.191853,
+      "longitude": 6.86419
+    },
+    {
+      "name": "Kårfallslettet",
+      "latitude": 61.216783,
+      "longitude": 9.979639
+    },
+    {
+      "name": "Kåsrandin",
+      "latitude": 62.574993,
+      "longitude": 9.705132
+    },
+    {
+      "name": "Køte i Stokkalia",
+      "latitude": 66.51023,
+      "longitude": 15.291688
+    },
+    {
+      "name": "LOIF huken",
+      "latitude": 68.167324,
+      "longitude": 13.667147
+    },
+    {
+      "name": "Laavu",
+      "latitude": 70.070173,
+      "longitude": 27.60115
+    },
+    {
+      "name": "Laavu",
+      "latitude": 70.070517,
+      "longitude": 27.6029
+    },
+    {
+      "name": "Laberg",
+      "latitude": 68.861645,
+      "longitude": 17.820322
+    },
+    {
+      "name": "Laksjølia",
+      "latitude": 64.457618,
+      "longitude": 13.41261
+    },
+    {
+      "name": "Lambertseter kunstgress - Innbytterbenk",
+      "latitude": 59.872977,
+      "longitude": 10.816455
+    },
+    {
+      "name": "Landlaupe",
+      "latitude": 62.568499,
+      "longitude": 9.687289
+    },
+    {
+      "name": "Landsåsmyra",
+      "latitude": 68.768498,
+      "longitude": 16.517919
+    },
+    {
+      "name": "Langdalsbu",
+      "latitude": 62.825117,
+      "longitude": 7.416
+    },
+    {
+      "name": "Langdalstoppen",
+      "latitude": 60.269846,
+      "longitude": 11.613404
+    },
+    {
+      "name": "Langerudhjemmet",
+      "latitude": 59.869181,
+      "longitude": 10.836504
+    },
+    {
+      "name": "Langerudhjemmet",
+      "latitude": 59.869564,
+      "longitude": 10.835147
+    },
+    {
+      "name": "Langerudveien",
+      "latitude": 59.873851,
+      "longitude": 10.829433
+    },
+    {
+      "name": "Langlihuken",
+      "latitude": 67.33198,
+      "longitude": 14.610681
+    },
+    {
+      "name": "Langmyrhuken",
+      "latitude": 61.253902,
+      "longitude": 10.267577
+    },
+    {
+      "name": "Langmyrkoia",
+      "latitude": 60.382416,
+      "longitude": 12.281425
+    },
+    {
+      "name": "Langtjønnbua",
+      "latitude": 62.471596,
+      "longitude": 11.897307
+    },
+    {
+      "name": "Langvassbu",
+      "latitude": 62.374735,
+      "longitude": 7.849213
+    },
+    {
+      "name": "Langvatn dagsturhytte",
+      "latitude": 66.906748,
+      "longitude": 14.140884
+    },
+    {
+      "name": "Lappasridi",
+      "latitude": 69.668319,
+      "longitude": 22.403929
+    },
+    {
+      "name": "Larsbua",
+      "latitude": 63.035659,
+      "longitude": 7.762603
+    },
+    {
+      "name": "Lavo",
+      "latitude": 59.112769,
+      "longitude": 9.2341
+    },
+    {
+      "name": "Lavvo",
+      "latitude": 58.11712,
+      "longitude": 7.700475
+    },
+    {
+      "name": "Lavvo",
+      "latitude": 59.591792,
+      "longitude": 11.17373
+    },
+    {
+      "name": "Lavvo",
+      "latitude": 59.623524,
+      "longitude": 11.06605
+    },
+    {
+      "name": "Lavvo",
+      "latitude": 59.823534,
+      "longitude": 7.193203
+    },
+    {
+      "name": "Lavvo",
+      "latitude": 62.150611,
+      "longitude": 6.113846
+    },
+    {
+      "name": "Lavvo",
+      "latitude": 69.681825,
+      "longitude": 18.60688
+    },
+    {
+      "name": "Lavvo Rakfjorddalen",
+      "latitude": 69.808714,
+      "longitude": 18.950847
+    },
+    {
+      "name": "Lavvo'n",
+      "latitude": 59.85131,
+      "longitude": 10.819944
+    },
+    {
+      "name": "Lean-to Shelter",
+      "latitude": 61.179726,
+      "longitude": 7.01542
+    },
+    {
+      "name": "Lefdalsvatnet",
+      "latitude": 61.951218,
+      "longitude": 5.50612
+    },
+    {
+      "name": "Lekeskuret",
+      "latitude": 58.92318,
+      "longitude": 5.846833
+    },
+    {
+      "name": "Lekeskuta",
+      "latitude": 58.92323,
+      "longitude": 5.847455
+    },
+    {
+      "name": "Lengjedalsbu",
+      "latitude": 60.610017,
+      "longitude": 7.598824
+    },
+    {
+      "name": "Lerkeskogen",
+      "latitude": 63.12489,
+      "longitude": 7.792679
+    },
+    {
+      "name": "Lerkevannskoia",
+      "latitude": 69.347717,
+      "longitude": 29.113384
+    },
+    {
+      "name": "Lialy",
+      "latitude": 61.538106,
+      "longitude": 11.116597
+    },
+    {
+      "name": "Liaseterbua",
+      "latitude": 64.536992,
+      "longitude": 11.73458
+    },
+    {
+      "name": "Libergskoia",
+      "latitude": 60.367646,
+      "longitude": 11.845924
+    },
+    {
+      "name": "Liens gapahuk (Dragavatnet 2)",
+      "latitude": 63.80514,
+      "longitude": 9.855126
+    },
+    {
+      "name": "Lille Langerud",
+      "latitude": 59.875883,
+      "longitude": 10.828268
+    },
+    {
+      "name": "Lille Torungen",
+      "latitude": 58.412044,
+      "longitude": 8.791844
+    },
+    {
+      "name": "Lillebo Stadion",
+      "latitude": 61.880209,
+      "longitude": 12.148889
+    },
+    {
+      "name": "Lilleborgreiret",
+      "latitude": 59.97777,
+      "longitude": 10.802129
+    },
+    {
+      "name": "Lillebrekka dagsturhytte",
+      "latitude": 68.509061,
+      "longitude": 14.799891
+    },
+    {
+      "name": "Liløa",
+      "latitude": 58.519714,
+      "longitude": 7.666078
+    },
+    {
+      "name": "Lindeviki padlehuk",
+      "latitude": 59.404612,
+      "longitude": 8.306433
+    },
+    {
+      "name": "Linneavegen",
+      "latitude": 61.099309,
+      "longitude": 10.517677
+    },
+    {
+      "name": "Lionshytta",
+      "latitude": 69.666533,
+      "longitude": 30.056737
+    },
+    {
+      "name": "Litago",
+      "latitude": 69.528963,
+      "longitude": 17.373385
+    },
+    {
+      "name": "Litj-Gjølga gapahuk",
+      "latitude": 63.78183,
+      "longitude": 9.989773
+    },
+    {
+      "name": "Litj-Renåa",
+      "latitude": 63.15246,
+      "longitude": 10.812399
+    },
+    {
+      "name": "Litjennhuken",
+      "latitude": 58.842905,
+      "longitude": 9.267317
+    },
+    {
+      "name": "Litjrennbua",
+      "latitude": 62.441888,
+      "longitude": 11.914741
+    },
+    {
+      "name": "Litlevatnet",
+      "latitude": 62.435087,
+      "longitude": 7.322467
+    },
+    {
+      "name": "Litlsjøbua",
+      "latitude": 62.06687,
+      "longitude": 12.045064
+    },
+    {
+      "name": "Litlsjøbua",
+      "latitude": 62.074451,
+      "longitude": 12.031993
+    },
+    {
+      "name": "Ljørbua",
+      "latitude": 61.828208,
+      "longitude": 10.185002
+    },
+    {
+      "name": "Ljørbua ved Galtsrømmen",
+      "latitude": 61.894657,
+      "longitude": 11.756737
+    },
+    {
+      "name": "Ljørkoia i Svartberget",
+      "latitude": 60.914764,
+      "longitude": 12.130144
+    },
+    {
+      "name": "Ljørkoia på Tronkberget",
+      "latitude": 61.435981,
+      "longitude": 11.111865
+    },
+    {
+      "name": "Ljørkoia ved Kalvskinnsøra",
+      "latitude": 61.321632,
+      "longitude": 12.75023
+    },
+    {
+      "name": "Ljørkoia ved Sørsjøen",
+      "latitude": 61.88271,
+      "longitude": 11.981974
+    },
+    {
+      "name": "Ljørkoie Holmtjernsbekken",
+      "latitude": 60.657508,
+      "longitude": 11.491125
+    },
+    {
+      "name": "Ljøsnåvollen",
+      "latitude": 62.494317,
+      "longitude": 11.983699
+    },
+    {
+      "name": "Ljøsådalshytta",
+      "latitude": 62.623283,
+      "longitude": 7.782386
+    },
+    {
+      "name": "Loassuhytta",
+      "latitude": 69.190897,
+      "longitude": 20.98312
+    },
+    {
+      "name": "Lofsrud",
+      "latitude": 59.84455,
+      "longitude": 10.837724
+    },
+    {
+      "name": "Logn",
+      "latitude": 60.013447,
+      "longitude": 11.303332
+    },
+    {
+      "name": "Longevasshytta",
+      "latitude": 61.626657,
+      "longitude": 6.247355
+    },
+    {
+      "name": "Lordehytta",
+      "latitude": 60.606014,
+      "longitude": 7.802406
+    },
+    {
+      "name": "Losjehytta",
+      "latitude": 68.622122,
+      "longitude": 14.513032
+    },
+    {
+      "name": "Luftslottet",
+      "latitude": 65.284881,
+      "longitude": 12.185701
+    },
+    {
+      "name": "Lundesæter gapahuk",
+      "latitude": 59.845013,
+      "longitude": 5.4845
+    },
+    {
+      "name": "Lunere grillplass",
+      "latitude": 59.61636,
+      "longitude": 11.413955
+    },
+    {
+      "name": "Lunnaashytta",
+      "latitude": 59.954686,
+      "longitude": 10.102643
+    },
+    {
+      "name": "Luovdigammen/Arthurgammen",
+      "latitude": 69.284369,
+      "longitude": 22.04742
+    },
+    {
+      "name": "Lyngløe",
+      "latitude": 58.343661,
+      "longitude": 7.110215
+    },
+    {
+      "name": "Lyngrabben barnehage gapahuk",
+      "latitude": 63.766932,
+      "longitude": 9.815078
+    },
+    {
+      "name": "Lysløypa",
+      "latitude": 68.875053,
+      "longitude": 17.862727
+    },
+    {
+      "name": "Lysthus",
+      "latitude": 59.919176,
+      "longitude": 10.771078
+    },
+    {
+      "name": "Løa",
+      "latitude": 62.92637,
+      "longitude": 9.346601
+    },
+    {
+      "name": "Løno friluftsområde",
+      "latitude": 60.331368,
+      "longitude": 4.902031
+    },
+    {
+      "name": "Løvehulen",
+      "latitude": 59.943012,
+      "longitude": 10.556629
+    },
+    {
+      "name": "Løvknuten",
+      "latitude": 60.835073,
+      "longitude": 11.966724
+    },
+    {
+      "name": "Løvnesbua",
+      "latitude": 62.534881,
+      "longitude": 11.572093
+    },
+    {
+      "name": "MC-skuret",
+      "latitude": 58.897924,
+      "longitude": 5.692965
+    },
+    {
+      "name": "Madlaleiren (A)",
+      "latitude": 58.944896,
+      "longitude": 5.67034
+    },
+    {
+      "name": "Madlaleiren (B)",
+      "latitude": 58.94496,
+      "longitude": 5.670556
+    },
+    {
+      "name": "Madonna stien",
+      "latitude": 60.188791,
+      "longitude": 9.246836
+    },
+    {
+      "name": "Madsvatnet",
+      "latitude": 68.22153,
+      "longitude": 14.461218
+    },
+    {
+      "name": "Magnhildskarven",
+      "latitude": 61.790498,
+      "longitude": 11.97916
+    },
+    {
+      "name": "Mamelkroken Birdspotting",
+      "latitude": 69.041232,
+      "longitude": 15.507925
+    },
+    {
+      "name": "Marenberget",
+      "latitude": 63.595573,
+      "longitude": 10.806443
+    },
+    {
+      "name": "Marifjellhytta",
+      "latitude": 60.319066,
+      "longitude": 10.923775
+    },
+    {
+      "name": "Martin Brennodden-bua",
+      "latitude": 61.940119,
+      "longitude": 12.124903
+    },
+    {
+      "name": "Masta",
+      "latitude": 60.208415,
+      "longitude": 10.516202
+    },
+    {
+      "name": "Masteberget",
+      "latitude": 59.049777,
+      "longitude": 9.976802
+    },
+    {
+      "name": "Matkvartalet",
+      "latitude": 59.477119,
+      "longitude": 8.615652
+    },
+    {
+      "name": "Matpakke Rom",
+      "latitude": 59.569135,
+      "longitude": 7.349513
+    },
+    {
+      "name": "Matskapet",
+      "latitude": 59.178921,
+      "longitude": 10.142088
+    },
+    {
+      "name": "Maudland",
+      "latitude": 58.917542,
+      "longitude": 5.887584
+    },
+    {
+      "name": "Mebua",
+      "latitude": 62.323867,
+      "longitude": 7.870281
+    },
+    {
+      "name": "Medalsbu",
+      "latitude": 61.705376,
+      "longitude": 7.871326
+    },
+    {
+      "name": "Megårdslættet",
+      "latitude": 63.168821,
+      "longitude": 9.978838
+    },
+    {
+      "name": "Melsheihytta",
+      "latitude": 58.820644,
+      "longitude": 5.787791
+    },
+    {
+      "name": "Melvassbu",
+      "latitude": 62.952276,
+      "longitude": 7.245698
+    },
+    {
+      "name": "Melvatnet Lavvo",
+      "latitude": 63.862875,
+      "longitude": 9.96497
+    },
+    {
+      "name": "Meløygården busskur",
+      "latitude": 66.82333,
+      "longitude": 13.408301
+    },
+    {
+      "name": "Middagsbu",
+      "latitude": 62.468154,
+      "longitude": 7.449484
+    },
+    {
+      "name": "Middagsfjellhytta",
+      "latitude": 62.501942,
+      "longitude": 7.923752
+    },
+    {
+      "name": "Midterfjellhytta",
+      "latitude": 64.129215,
+      "longitude": 11.556158
+    },
+    {
+      "name": "Midtveishuken",
+      "latitude": 62.760749,
+      "longitude": 7.204518
+    },
+    {
+      "name": "Mogårdshuken gapahuk",
+      "latitude": 63.848072,
+      "longitude": 9.800304
+    },
+    {
+      "name": "Molia",
+      "latitude": 61.760854,
+      "longitude": 12.000906
+    },
+    {
+      "name": "Monte Negrohytta",
+      "latitude": 70.621137,
+      "longitude": 23.831172
+    },
+    {
+      "name": "Mosjøbergkoia",
+      "latitude": 60.822502,
+      "longitude": 11.446807
+    },
+    {
+      "name": "Mosjøkoia",
+      "latitude": 60.823342,
+      "longitude": 11.436997
+    },
+    {
+      "name": "Moskanhytta",
+      "latitude": 68.925933,
+      "longitude": 20.185563
+    },
+    {
+      "name": "Moslettbua",
+      "latitude": 61.240387,
+      "longitude": 9.962954
+    },
+    {
+      "name": "Muffehedlaren",
+      "latitude": 58.839067,
+      "longitude": 6.187449
+    },
+    {
+      "name": "Muggsjøbua",
+      "latitude": 62.43211,
+      "longitude": 12.105667
+    },
+    {
+      "name": "Munkegrind",
+      "latitude": 60.425781,
+      "longitude": 5.315089
+    },
+    {
+      "name": "Muran",
+      "latitude": 60.20971,
+      "longitude": 7.88823
+    },
+    {
+      "name": "Mururoa",
+      "latitude": 64.432752,
+      "longitude": 13.921003
+    },
+    {
+      "name": "Musikkpaviljongen",
+      "latitude": 70.66224,
+      "longitude": 23.684634
+    },
+    {
+      "name": "Mustakosken päiväkota",
+      "latitude": 69.358357,
+      "longitude": 25.814857
+    },
+    {
+      "name": "Myran gapahuk",
+      "latitude": 69.449028,
+      "longitude": 17.306763
+    },
+    {
+      "name": "Mysinghålå I",
+      "latitude": 58.525796,
+      "longitude": 6.247504
+    },
+    {
+      "name": "Mysinghålå II",
+      "latitude": 58.526052,
+      "longitude": 6.249595
+    },
+    {
+      "name": "Månvasshytta",
+      "latitude": 62.484771,
+      "longitude": 7.295067
+    },
+    {
+      "name": "Måssåbua",
+      "latitude": 62.325888,
+      "longitude": 10.395144
+    },
+    {
+      "name": "Møgedalshølen",
+      "latitude": 58.798094,
+      "longitude": 5.768963
+    },
+    {
+      "name": "Mølshuken",
+      "latitude": 63.418022,
+      "longitude": 11.414752
+    },
+    {
+      "name": "NISA",
+      "latitude": 68.874615,
+      "longitude": 17.827569
+    },
+    {
+      "name": "Nabben",
+      "latitude": 58.798662,
+      "longitude": 5.736667
+    },
+    {
+      "name": "Nakkebu",
+      "latitude": 62.506568,
+      "longitude": 6.70659
+    },
+    {
+      "name": "Nambrottjønna dagsturhytte",
+      "latitude": 65.780259,
+      "longitude": 13.345609
+    },
+    {
+      "name": "Naspehellaren",
+      "latitude": 58.305115,
+      "longitude": 7.90304
+    },
+    {
+      "name": "Naustdalskammen",
+      "latitude": 61.922334,
+      "longitude": 5.837167
+    },
+    {
+      "name": "Naustervika",
+      "latitude": 64.990257,
+      "longitude": 13.580884
+    },
+    {
+      "name": "Naustet ved Lyngen",
+      "latitude": 61.37507,
+      "longitude": 10.763596
+    },
+    {
+      "name": "Naustihytta",
+      "latitude": 69.333715,
+      "longitude": 21.954257
+    },
+    {
+      "name": "Nauståbu",
+      "latitude": 62.802423,
+      "longitude": 9.016867
+    },
+    {
+      "name": "Navarhaugkoia",
+      "latitude": 60.548123,
+      "longitude": 11.367718
+    },
+    {
+      "name": "Nedre Dambua",
+      "latitude": 61.422831,
+      "longitude": 11.205565
+    },
+    {
+      "name": "Nerlia",
+      "latitude": 63.074024,
+      "longitude": 7.865014
+    },
+    {
+      "name": "Nerlikoia",
+      "latitude": 60.89325,
+      "longitude": 11.39553
+    },
+    {
+      "name": "Nesheim Parken",
+      "latitude": 58.47586,
+      "longitude": 5.879462
+    },
+    {
+      "name": "Neverneshytta",
+      "latitude": 66.706895,
+      "longitude": 14.501073
+    },
+    {
+      "name": "Nilsmosetra",
+      "latitude": 65.829527,
+      "longitude": 13.483343
+    },
+    {
+      "name": "Nisser Hyttegrend camping",
+      "latitude": 59.119288,
+      "longitude": 8.472082
+    },
+    {
+      "name": "Nonstjønnbua",
+      "latitude": 61.300291,
+      "longitude": 9.466239
+    },
+    {
+      "name": "Noppaho vindskydd",
+      "latitude": 60.707054,
+      "longitude": 12.440528
+    },
+    {
+      "name": "Nordbua",
+      "latitude": 61.349278,
+      "longitude": 9.508755
+    },
+    {
+      "name": "Nordfurudalssetran",
+      "latitude": 64.181747,
+      "longitude": 11.050104
+    },
+    {
+      "name": "Nordgardsbui",
+      "latitude": 59.47615,
+      "longitude": 8.617669
+    },
+    {
+      "name": "Nordre Baksjøen Gapahuk",
+      "latitude": 60.487233,
+      "longitude": 12.595008
+    },
+    {
+      "name": "Nordre Kjølbergskoia",
+      "latitude": 61.038562,
+      "longitude": 12.152453
+    },
+    {
+      "name": "Nordsjökojan",
+      "latitude": 61.705272,
+      "longitude": 12.175539
+    },
+    {
+      "name": "Notstulbua",
+      "latitude": 61.438414,
+      "longitude": 9.610437
+    },
+    {
+      "name": "Nybergshytta",
+      "latitude": 60.133291,
+      "longitude": 10.97284
+    },
+    {
+      "name": "Nybu",
+      "latitude": 61.421917,
+      "longitude": 8.931099
+    },
+    {
+      "name": "Nybua",
+      "latitude": 66.331754,
+      "longitude": 14.055417
+    },
+    {
+      "name": "Nylandsvatna",
+      "latitude": 66.031357,
+      "longitude": 13.065708
+    },
+    {
+      "name": "Nysetra",
+      "latitude": 60.548144,
+      "longitude": 11.630152
+    },
+    {
+      "name": "Nævra gammelhytta",
+      "latitude": 68.5371,
+      "longitude": 17.888668
+    },
+    {
+      "name": "Nævrastua",
+      "latitude": 68.538213,
+      "longitude": 17.889004
+    },
+    {
+      "name": "Nødbu Inngripan",
+      "latitude": 63.189735,
+      "longitude": 7.645447
+    },
+    {
+      "name": "Nødbu Surtningssue",
+      "latitude": 61.53336,
+      "longitude": 8.561129
+    },
+    {
+      "name": "Nødbua",
+      "latitude": 62.484284,
+      "longitude": 7.233286
+    },
+    {
+      "name": "Nøgla",
+      "latitude": 61.541065,
+      "longitude": 8.249118
+    },
+    {
+      "name": "Nøkkhulua gapahuk",
+      "latitude": 60.440145,
+      "longitude": 12.379386
+    },
+    {
+      "name": "Nøkksætra",
+      "latitude": 68.263071,
+      "longitude": 14.503558
+    },
+    {
+      "name": "Nørsteteig Fleribrukshus",
+      "latitude": 59.624334,
+      "longitude": 8.507461
+    },
+    {
+      "name": "OL 1994 Gapahuken",
+      "latitude": 61.227083,
+      "longitude": 10.430061
+    },
+    {
+      "name": "Oallavagge",
+      "latitude": 68.293657,
+      "longitude": 17.997921
+    },
+    {
+      "name": "Oddebui",
+      "latitude": 59.476896,
+      "longitude": 8.620885
+    },
+    {
+      "name": "Oksvannskoia",
+      "latitude": 69.421924,
+      "longitude": 29.38053
+    },
+    {
+      "name": "Olaf Ellings plass",
+      "latitude": 60.496152,
+      "longitude": 9.490801
+    },
+    {
+      "name": "Olavsbu",
+      "latitude": 59.096939,
+      "longitude": 5.917879
+    },
+    {
+      "name": "Olavsbu",
+      "latitude": 60.350984,
+      "longitude": 5.328994
+    },
+    {
+      "name": "Olavsbu",
+      "latitude": 62.966538,
+      "longitude": 7.20419
+    },
+    {
+      "name": "Olskastet",
+      "latitude": 63.077891,
+      "longitude": 9.695808
+    },
+    {
+      "name": "Oppholdsrom gjestehavn/sluser",
+      "latitude": 59.147835,
+      "longitude": 11.554524
+    },
+    {
+      "name": "Opptrekkern",
+      "latitude": 60.608759,
+      "longitude": 11.638468
+    },
+    {
+      "name": "Orregrinda",
+      "latitude": 60.291724,
+      "longitude": 5.423084
+    },
+    {
+      "name": "Oseberghuken",
+      "latitude": 59.315914,
+      "longitude": 10.460953
+    },
+    {
+      "name": "Osmundshelleren",
+      "latitude": 58.181133,
+      "longitude": 6.835163
+    },
+    {
+      "name": "POT gamma",
+      "latitude": 59.140001,
+      "longitude": 9.710185
+    },
+    {
+      "name": "Paddibu",
+      "latitude": 60.276693,
+      "longitude": 5.330216
+    },
+    {
+      "name": "Padlehuk Ildverket",
+      "latitude": 59.117739,
+      "longitude": 10.461441
+    },
+    {
+      "name": "Padlehuk Ringshaug",
+      "latitude": 59.27706,
+      "longitude": 10.500465
+    },
+    {
+      "name": "Padlehuk Vestre Bramskjæra 1",
+      "latitude": 58.961683,
+      "longitude": 9.882425
+    },
+    {
+      "name": "Padlehuk Vestre Bramskjæra 2",
+      "latitude": 58.960793,
+      "longitude": 9.883048
+    },
+    {
+      "name": "Padlehuk Ølbergholmen",
+      "latitude": 59.007959,
+      "longitude": 10.131996
+    },
+    {
+      "name": "Padlehuk Østre Bolærne",
+      "latitude": 59.208318,
+      "longitude": 10.566791
+    },
+    {
+      "name": "Party telt",
+      "latitude": 59.637621,
+      "longitude": 11.1816
+    },
+    {
+      "name": "Pauseplassen",
+      "latitude": 58.455158,
+      "longitude": 8.700197
+    },
+    {
+      "name": "Perabu",
+      "latitude": 60.368467,
+      "longitude": 5.382488
+    },
+    {
+      "name": "Petterbua",
+      "latitude": 61.608095,
+      "longitude": 12.238928
+    },
+    {
+      "name": "Picnic shelter",
+      "latitude": 61.715615,
+      "longitude": 8.235956
+    },
+    {
+      "name": "Pikhåghytta",
+      "latitude": 66.559813,
+      "longitude": 13.951296
+    },
+    {
+      "name": "Pikkrøvbua",
+      "latitude": 61.782686,
+      "longitude": 12.098735
+    },
+    {
+      "name": "Pilolaporten",
+      "latitude": 69.125238,
+      "longitude": 28.816616
+    },
+    {
+      "name": "Plankebue",
+      "latitude": 61.284139,
+      "longitude": 9.327272
+    },
+    {
+      "name": "Plastarken",
+      "latitude": 63.493622,
+      "longitude": 7.979599
+    },
+    {
+      "name": "Pluto",
+      "latitude": 58.735666,
+      "longitude": 8.429558
+    },
+    {
+      "name": "Possevatnet gapahuk",
+      "latitude": 59.896355,
+      "longitude": 12.072599
+    },
+    {
+      "name": "Presthølen",
+      "latitude": 58.797174,
+      "longitude": 5.761204
+    },
+    {
+      "name": "Prestodden",
+      "latitude": 59.948768,
+      "longitude": 8.870134
+    },
+    {
+      "name": "Prestøyene",
+      "latitude": 63.286222,
+      "longitude": 11.33811
+    },
+    {
+      "name": "Puttseterkoia",
+      "latitude": 60.576572,
+      "longitude": 11.427382
+    },
+    {
+      "name": "Raentserenmehkie",
+      "latitude": 65.171268,
+      "longitude": 14.173388
+    },
+    {
+      "name": "Ragnhilds vei (A)",
+      "latitude": 58.919846,
+      "longitude": 5.869298
+    },
+    {
+      "name": "Ragnhilds vei (B)",
+      "latitude": 58.9192,
+      "longitude": 5.869945
+    },
+    {
+      "name": "Ragohytta",
+      "latitude": 67.450154,
+      "longitude": 16.067423
+    },
+    {
+      "name": "Raijabää",
+      "latitude": 69.493169,
+      "longitude": 29.37824
+    },
+    {
+      "name": "Raknehuken",
+      "latitude": 60.146467,
+      "longitude": 11.135949
+    },
+    {
+      "name": "Rallyhuken",
+      "latitude": 60.313138,
+      "longitude": 9.032996
+    },
+    {
+      "name": "Ramssjøen",
+      "latitude": 62.816575,
+      "longitude": 9.804204
+    },
+    {
+      "name": "Randalskåta",
+      "latitude": 66.427594,
+      "longitude": 15.311812
+    },
+    {
+      "name": "Ranserbua",
+      "latitude": 65.183082,
+      "longitude": 14.229826
+    },
+    {
+      "name": "Rapp dagsturhytte",
+      "latitude": 63.638689,
+      "longitude": 10.927398
+    },
+    {
+      "name": "Rapphytta",
+      "latitude": 63.633054,
+      "longitude": 10.914261
+    },
+    {
+      "name": "Rasten gapahuk",
+      "latitude": 59.880289,
+      "longitude": 10.437845
+    },
+    {
+      "name": "Raubua",
+      "latitude": 60.644699,
+      "longitude": 11.529141
+    },
+    {
+      "name": "Raudfjelldalskoia",
+      "latitude": 66.559037,
+      "longitude": 15.132115
+    },
+    {
+      "name": "Raudvolbua",
+      "latitude": 61.74096,
+      "longitude": 11.572285
+    },
+    {
+      "name": "Ravnegrind",
+      "latitude": 60.370677,
+      "longitude": 5.374597
+    },
+    {
+      "name": "Regnbua",
+      "latitude": 60.289021,
+      "longitude": 5.35739
+    },
+    {
+      "name": "Regnhytten",
+      "latitude": 60.397487,
+      "longitude": 5.346564
+    },
+    {
+      "name": "Reinbukkelvhytta",
+      "latitude": 69.865522,
+      "longitude": 23.859713
+    },
+    {
+      "name": "Reinfjellhytta",
+      "latitude": 66.286699,
+      "longitude": 14.397299
+    },
+    {
+      "name": "Reinhagen",
+      "latitude": 66.839375,
+      "longitude": 14.702059
+    },
+    {
+      "name": "Reiulf Steen",
+      "latitude": 62.311949,
+      "longitude": 6.327258
+    },
+    {
+      "name": "Reknesparken Musikkpaviljong",
+      "latitude": 62.738078,
+      "longitude": 7.148267
+    },
+    {
+      "name": "Remtjønnbua",
+      "latitude": 62.708951,
+      "longitude": 9.593958
+    },
+    {
+      "name": "Renndamsbua",
+      "latitude": 60.582784,
+      "longitude": 11.509375
+    },
+    {
+      "name": "Reva (open shelter)",
+      "latitude": 62.348244,
+      "longitude": 12.244136
+    },
+    {
+      "name": "Revbua",
+      "latitude": 62.349361,
+      "longitude": 12.240733
+    },
+    {
+      "name": "Revebua",
+      "latitude": 69.724446,
+      "longitude": 30.887143
+    },
+    {
+      "name": "Revehiet",
+      "latitude": 59.917765,
+      "longitude": 11.146518
+    },
+    {
+      "name": "Revehiet",
+      "latitude": 60.234794,
+      "longitude": 11.030954
+    },
+    {
+      "name": "Revhiet",
+      "latitude": 62.415118,
+      "longitude": 11.769347
+    },
+    {
+      "name": "Ringkolltoppen",
+      "latitude": 60.165929,
+      "longitude": 10.400331
+    },
+    {
+      "name": "Risbekken Gapahuk",
+      "latitude": 60.766628,
+      "longitude": 12.308327
+    },
+    {
+      "name": "Riska gamle kirke",
+      "latitude": 58.926207,
+      "longitude": 5.85153
+    },
+    {
+      "name": "Roastkoja",
+      "latitude": 62.341844,
+      "longitude": 12.075846
+    },
+    {
+      "name": "Rogerbua",
+      "latitude": 66.330453,
+      "longitude": 14.073098
+    },
+    {
+      "name": "Rognlihaughytta",
+      "latitude": 60.702253,
+      "longitude": 10.518634
+    },
+    {
+      "name": "Rognåsplass",
+      "latitude": 59.759056,
+      "longitude": 10.33636
+    },
+    {
+      "name": "Rogogjerdsvora",
+      "latitude": 62.898116,
+      "longitude": 9.680401
+    },
+    {
+      "name": "Rogsjøen gapahuk",
+      "latitude": 60.757351,
+      "longitude": 12.184621
+    },
+    {
+      "name": "Roligheden gapahukleir",
+      "latitude": 58.083249,
+      "longitude": 7.88626
+    },
+    {
+      "name": "Romletunet",
+      "latitude": 59.590047,
+      "longitude": 11.125815
+    },
+    {
+      "name": "Romsvighelleren",
+      "latitude": 58.072787,
+      "longitude": 7.915835
+    },
+    {
+      "name": "Ronkanåsen",
+      "latitude": 61.125841,
+      "longitude": 12.23671
+    },
+    {
+      "name": "Ronkanåsen",
+      "latitude": 61.671813,
+      "longitude": 11.129019
+    },
+    {
+      "name": "Roren",
+      "latitude": 71.113193,
+      "longitude": 27.644046
+    },
+    {
+      "name": "Rosvollhaugen",
+      "latitude": 63.307436,
+      "longitude": 8.011939
+    },
+    {
+      "name": "Rotneblikk gapahuk",
+      "latitude": 60.475802,
+      "longitude": 12.351757
+    },
+    {
+      "name": "Rubensplass",
+      "latitude": 59.271411,
+      "longitude": 9.68451
+    },
+    {
+      "name": "Rullebu",
+      "latitude": 69.400288,
+      "longitude": 20.052906
+    },
+    {
+      "name": "Rundvannshytta",
+      "latitude": 70.634745,
+      "longitude": 23.78932
+    },
+    {
+      "name": "Rágesluobbalat",
+      "latitude": 69.476713,
+      "longitude": 24.190891
+    },
+    {
+      "name": "Rågammen",
+      "latitude": 68.777708,
+      "longitude": 16.201467
+    },
+    {
+      "name": "Råsokhøgda",
+      "latitude": 59.901949,
+      "longitude": 11.20129
+    },
+    {
+      "name": "Råstugu",
+      "latitude": 60.145735,
+      "longitude": 7.792318
+    },
+    {
+      "name": "Ræyskatten",
+      "latitude": 58.764909,
+      "longitude": 5.828144
+    },
+    {
+      "name": "Røde Kors hytta",
+      "latitude": 70.015889,
+      "longitude": 22.231878
+    },
+    {
+      "name": "Røde Kors hytta",
+      "latitude": 70.023551,
+      "longitude": 22.823913
+    },
+    {
+      "name": "Røggjen",
+      "latitude": 60.685129,
+      "longitude": 9.23046
+    },
+    {
+      "name": "Rønningsodden",
+      "latitude": 61.818487,
+      "longitude": 12.064263
+    },
+    {
+      "name": "Røosbua",
+      "latitude": 62.358193,
+      "longitude": 11.982021
+    },
+    {
+      "name": "Rørneshytta",
+      "latitude": 69.563398,
+      "longitude": 20.137389
+    },
+    {
+      "name": "Røskdal",
+      "latitude": 61.803445,
+      "longitude": 12.018554
+    },
+    {
+      "name": "Røssvollen",
+      "latitude": 63.337228,
+      "longitude": 10.947178
+    },
+    {
+      "name": "Røvarhytta",
+      "latitude": 62.613207,
+      "longitude": 6.759632
+    },
+    {
+      "name": "Røverhulen",
+      "latitude": 61.261494,
+      "longitude": 9.721126
+    },
+    {
+      "name": "Røverhålå",
+      "latitude": 58.560225,
+      "longitude": 6.368786
+    },
+    {
+      "name": "Røyslimoen Messenlivegen",
+      "latitude": 61.100753,
+      "longitude": 10.506831
+    },
+    {
+      "name": "Sagdalen Gapahuk",
+      "latitude": 59.937096,
+      "longitude": 12.12288
+    },
+    {
+      "name": "Salangen grunnskole",
+      "latitude": 68.874124,
+      "longitude": 17.838505
+    },
+    {
+      "name": "Salsås",
+      "latitude": 59.040803,
+      "longitude": 9.966974
+    },
+    {
+      "name": "Samtjernsbua",
+      "latitude": 61.504136,
+      "longitude": 10.639779
+    },
+    {
+      "name": "Sandbankan",
+      "latitude": 62.732323,
+      "longitude": 10.063061
+    },
+    {
+      "name": "Sandbekk Mølle Gapahuk",
+      "latitude": 59.280067,
+      "longitude": 11.464681
+    },
+    {
+      "name": "Sandbekkbu",
+      "latitude": 61.427215,
+      "longitude": 8.855844
+    },
+    {
+      "name": "Sandbu",
+      "latitude": 61.810113,
+      "longitude": 11.526911
+    },
+    {
+      "name": "Sandnessjøen bussterminal",
+      "latitude": 66.022938,
+      "longitude": 12.637026
+    },
+    {
+      "name": "Sandsletta Dagsturhytte",
+      "latitude": 59.455383,
+      "longitude": 10.360754
+    },
+    {
+      "name": "Sandstøl gapahuk",
+      "latitude": 58.550081,
+      "longitude": 6.605481
+    },
+    {
+      "name": "Sandtjønnbua",
+      "latitude": 64.304251,
+      "longitude": 11.862345
+    },
+    {
+      "name": "Sarveshytta",
+      "latitude": 70.067988,
+      "longitude": 23.596863
+    },
+    {
+      "name": "Saubue",
+      "latitude": 61.678001,
+      "longitude": 8.777933
+    },
+    {
+      "name": "Saufonnhytta",
+      "latitude": 62.506266,
+      "longitude": 7.934657
+    },
+    {
+      "name": "Schølberghytta",
+      "latitude": 63.437651,
+      "longitude": 10.313735
+    },
+    {
+      "name": "Scouts camp",
+      "latitude": 69.70908,
+      "longitude": 18.907919
+    },
+    {
+      "name": "Selbukåten",
+      "latitude": 63.328552,
+      "longitude": 11.027655
+    },
+    {
+      "name": "Seljebakken",
+      "latitude": 69.402923,
+      "longitude": 18.231418
+    },
+    {
+      "name": "Sheltet",
+      "latitude": 63.819649,
+      "longitude": 11.00082
+    },
+    {
+      "name": "Sherpahytta",
+      "latitude": 58.132369,
+      "longitude": 7.072028
+    },
+    {
+      "name": "Sieimahytta",
+      "latitude": 69.403059,
+      "longitude": 21.715961
+    },
+    {
+      "name": "Sigridbui",
+      "latitude": 59.476206,
+      "longitude": 8.618165
+    },
+    {
+      "name": "Sikringsbu, Fivla",
+      "latitude": 61.496144,
+      "longitude": 7.356763
+    },
+    {
+      "name": "Siljuknatthytta",
+      "latitude": 59.259215,
+      "longitude": 9.497715
+    },
+    {
+      "name": "Silstadhaugen",
+      "latitude": 70.113614,
+      "longitude": 29.672044
+    },
+    {
+      "name": "Sirijordburet",
+      "latitude": 65.547048,
+      "longitude": 13.160808
+    },
+    {
+      "name": "Sirnes",
+      "latitude": 58.404233,
+      "longitude": 6.625439
+    },
+    {
+      "name": "Sirnesmoen",
+      "latitude": 58.407841,
+      "longitude": 6.640129
+    },
+    {
+      "name": "Sjetnebuin",
+      "latitude": 63.500628,
+      "longitude": 11.213904
+    },
+    {
+      "name": "Sjøbolhytta",
+      "latitude": 62.40825,
+      "longitude": 7.432601
+    },
+    {
+      "name": "Sjøkoia",
+      "latitude": 61.002288,
+      "longitude": 11.30282
+    },
+    {
+      "name": "Sjølskothaugen lavo",
+      "latitude": 60.265765,
+      "longitude": 5.815787
+    },
+    {
+      "name": "Sjøsiden senter",
+      "latitude": 65.839201,
+      "longitude": 13.191104
+    },
+    {
+      "name": "Sjøvegan sentrum",
+      "latitude": 68.873854,
+      "longitude": 17.835816
+    },
+    {
+      "name": "Skadbergsvågen",
+      "latitude": 58.471843,
+      "longitude": 5.914818
+    },
+    {
+      "name": "Skagastølsbu",
+      "latitude": 61.455776,
+      "longitude": 7.859713
+    },
+    {
+      "name": "Skaldbakken gapahuk",
+      "latitude": 63.713433,
+      "longitude": 9.776522
+    },
+    {
+      "name": "Skalphølet",
+      "latitude": 62.368953,
+      "longitude": 12.070678
+    },
+    {
+      "name": "Skansgårdsætra",
+      "latitude": 60.166765,
+      "longitude": 12.236086
+    },
+    {
+      "name": "Skaraly",
+      "latitude": 61.405959,
+      "longitude": 5.653887
+    },
+    {
+      "name": "Skardalshellaren",
+      "latitude": 58.263399,
+      "longitude": 6.837985
+    },
+    {
+      "name": "Skarhuken",
+      "latitude": 62.645934,
+      "longitude": 6.780763
+    },
+    {
+      "name": "Skarpberget gapahuk",
+      "latitude": 60.551982,
+      "longitude": 12.22348
+    },
+    {
+      "name": "Skarstadheia",
+      "latitude": 58.110658,
+      "longitude": 7.409811
+    },
+    {
+      "name": "Skaufjellhuken",
+      "latitude": 59.546518,
+      "longitude": 10.537123
+    },
+    {
+      "name": "Skihytta - Rørneshytta",
+      "latitude": 69.561032,
+      "longitude": 20.183076
+    },
+    {
+      "name": "Skihytta Mikkelsberget",
+      "latitude": 60.472408,
+      "longitude": 11.834542
+    },
+    {
+      "name": "Skinfloren",
+      "latitude": 60.268804,
+      "longitude": 5.299767
+    },
+    {
+      "name": "Skjelbua",
+      "latitude": 61.394842,
+      "longitude": 10.667335
+    },
+    {
+      "name": "Skjeldbrua",
+      "latitude": 64.488574,
+      "longitude": 13.410915
+    },
+    {
+      "name": "Skjephaugplassen",
+      "latitude": 59.779212,
+      "longitude": 5.467226
+    },
+    {
+      "name": "Skjervekoia",
+      "latitude": 60.727714,
+      "longitude": 11.538247
+    },
+    {
+      "name": "Skjærviken Lokalsamfunn Natur-SFO",
+      "latitude": 59.222122,
+      "longitude": 11.048394
+    },
+    {
+      "name": "Skoghytta",
+      "latitude": 66.518586,
+      "longitude": 14.352351
+    },
+    {
+      "name": "Skoglia",
+      "latitude": 59.597108,
+      "longitude": 11.190795
+    },
+    {
+      "name": "Skogselskapet",
+      "latitude": 59.716274,
+      "longitude": 10.169243
+    },
+    {
+      "name": "Skogstjereplassen",
+      "latitude": 60.231533,
+      "longitude": 11.03083
+    },
+    {
+      "name": "Skogtunet",
+      "latitude": 59.477983,
+      "longitude": 8.619626
+    },
+    {
+      "name": "Skorovashøtta",
+      "latitude": 64.642226,
+      "longitude": 13.112593
+    },
+    {
+      "name": "Skredderhytta",
+      "latitude": 58.301569,
+      "longitude": 6.654966
+    },
+    {
+      "name": "Skruvdalsbua",
+      "latitude": 61.213513,
+      "longitude": 9.540951
+    },
+    {
+      "name": "Skuret",
+      "latitude": 58.926593,
+      "longitude": 5.846141
+    },
+    {
+      "name": "Skyttarbudalen",
+      "latitude": 60.313271,
+      "longitude": 7.836732
+    },
+    {
+      "name": "Skyvælkgamma",
+      "latitude": 61.734187,
+      "longitude": 10.435898
+    },
+    {
+      "name": "Skålsjön vindskydd",
+      "latitude": 60.071258,
+      "longitude": 12.489611
+    },
+    {
+      "name": "Slee",
+      "latitude": 60.191609,
+      "longitude": 10.308963
+    },
+    {
+      "name": "Slettebakken",
+      "latitude": 68.85704,
+      "longitude": 17.823558
+    },
+    {
+      "name": "Slettflybotten",
+      "latitude": 62.393665,
+      "longitude": 7.823019
+    },
+    {
+      "name": "Sletthellkoia",
+      "latitude": 60.82737,
+      "longitude": 11.454867
+    },
+    {
+      "name": "Slettmoen",
+      "latitude": 59.911673,
+      "longitude": 12.056819
+    },
+    {
+      "name": "Slippen",
+      "latitude": 70.625509,
+      "longitude": 29.694361
+    },
+    {
+      "name": "Slitu Sykkel Rast",
+      "latitude": 59.578519,
+      "longitude": 11.272607
+    },
+    {
+      "name": "Slottet",
+      "latitude": 68.599072,
+      "longitude": 17.831176
+    },
+    {
+      "name": "Slottet på Ravnsjøholmen",
+      "latitude": 59.400815,
+      "longitude": 11.000428
+    },
+    {
+      "name": "Sluskesstua",
+      "latitude": 59.588578,
+      "longitude": 11.106513
+    },
+    {
+      "name": "Smalberget",
+      "latitude": 60.926555,
+      "longitude": 12.210404
+    },
+    {
+      "name": "Smalmyrkoia",
+      "latitude": 60.855243,
+      "longitude": 11.458407
+    },
+    {
+      "name": "Smedberg",
+      "latitude": 59.884278,
+      "longitude": 10.818511
+    },
+    {
+      "name": "Smedberg",
+      "latitude": 59.884861,
+      "longitude": 10.817807
+    },
+    {
+      "name": "Smith-hytta",
+      "latitude": 61.832012,
+      "longitude": 8.50498
+    },
+    {
+      "name": "Smoldalsbua",
+      "latitude": 61.437356,
+      "longitude": 12.476829
+    },
+    {
+      "name": "Smoldalsbua (Gjerdingskoia)",
+      "latitude": 61.471975,
+      "longitude": 12.45761
+    },
+    {
+      "name": "Småholhytta",
+      "latitude": 62.437427,
+      "longitude": 7.586915
+    },
+    {
+      "name": "Småsætra",
+      "latitude": 60.819077,
+      "longitude": 11.470368
+    },
+    {
+      "name": "Småttisen gapahuk",
+      "latitude": 63.855544,
+      "longitude": 9.750383
+    },
+    {
+      "name": "Snauryggen",
+      "latitude": 65.647567,
+      "longitude": 13.889081
+    },
+    {
+      "name": "Sogsti skoles uteskoleplass",
+      "latitude": 59.648896,
+      "longitude": 10.653601
+    },
+    {
+      "name": "Solandsvegen",
+      "latitude": 58.337268,
+      "longitude": 6.646921
+    },
+    {
+      "name": "Solbergvika",
+      "latitude": 60.734268,
+      "longitude": 11.609718
+    },
+    {
+      "name": "Solumsmoseteren",
+      "latitude": 64.538513,
+      "longitude": 12.761781
+    },
+    {
+      "name": "Solåsen",
+      "latitude": 59.056356,
+      "longitude": 10.218306
+    },
+    {
+      "name": "Sommerrohuken",
+      "latitude": 63.127719,
+      "longitude": 7.815361
+    },
+    {
+      "name": "Sortbrysttjern koia",
+      "latitude": 69.159607,
+      "longitude": 28.977349
+    },
+    {
+      "name": "Sparebank Narvik hytta",
+      "latitude": 68.107798,
+      "longitude": 16.352999
+    },
+    {
+      "name": "Speidermarka",
+      "latitude": 58.967323,
+      "longitude": 5.655176
+    },
+    {
+      "name": "Spigil'n",
+      "latitude": 63.445231,
+      "longitude": 11.002949
+    },
+    {
+      "name": "Spjeltfjelldalskøta",
+      "latitude": 65.9988,
+      "longitude": 14.476939
+    },
+    {
+      "name": "Sprikltjønnbua",
+      "latitude": 62.754558,
+      "longitude": 9.115233
+    },
+    {
+      "name": "Spritfritt",
+      "latitude": 60.854386,
+      "longitude": 12.306934
+    },
+    {
+      "name": "Stallen",
+      "latitude": 62.60655,
+      "longitude": 7.887241
+    },
+    {
+      "name": "Startsletta Gapahuk",
+      "latitude": 68.793687,
+      "longitude": 16.501158
+    },
+    {
+      "name": "Staupådalsbua",
+      "latitude": 66.735132,
+      "longitude": 14.575145
+    },
+    {
+      "name": "Stavassætra",
+      "latitude": 65.506328,
+      "longitude": 13.236408
+    },
+    {
+      "name": "Stealli",
+      "latitude": 69.779261,
+      "longitude": 21.059763
+    },
+    {
+      "name": "Stegamyrkoia",
+      "latitude": 60.714776,
+      "longitude": 11.570856
+    },
+    {
+      "name": "Stego-Grinda",
+      "latitude": 60.287815,
+      "longitude": 5.411171
+    },
+    {
+      "name": "Steinbu",
+      "latitude": 66.829248,
+      "longitude": 15.022302
+    },
+    {
+      "name": "Steinbu i Veslådalen",
+      "latitude": 61.432584,
+      "longitude": 8.440319
+    },
+    {
+      "name": "Steinbua",
+      "latitude": 66.007218,
+      "longitude": 14.099917
+    },
+    {
+      "name": "Steinbua i Vesterheim",
+      "latitude": 61.291838,
+      "longitude": 9.362507
+    },
+    {
+      "name": "Steinbua, Tosenfjellet",
+      "latitude": 65.306592,
+      "longitude": 13.142604
+    },
+    {
+      "name": "Steinbuhytta",
+      "latitude": 59.813151,
+      "longitude": 11.781107
+    },
+    {
+      "name": "Steinbøhytta",
+      "latitude": 69.627223,
+      "longitude": 18.999703
+    },
+    {
+      "name": "Steindalen skihytte",
+      "latitude": 69.385116,
+      "longitude": 20.001579
+    },
+    {
+      "name": "Steinhytta",
+      "latitude": 61.350778,
+      "longitude": 10.089597
+    },
+    {
+      "name": "Steinhytta",
+      "latitude": 61.401247,
+      "longitude": 10.719862
+    },
+    {
+      "name": "Steinhøtta",
+      "latitude": 63.270754,
+      "longitude": 8.836196
+    },
+    {
+      "name": "Steinkilehytta",
+      "latitude": 59.500637,
+      "longitude": 6.966699
+    },
+    {
+      "name": "Steinstua",
+      "latitude": 66.686191,
+      "longitude": 15.042832
+    },
+    {
+      "name": "Steintjernkoia",
+      "latitude": 61,
+      "longitude": 12.055865
+    },
+    {
+      "name": "Steinvassbu",
+      "latitude": 63.433531,
+      "longitude": 9.649021
+    },
+    {
+      "name": "Steinvik gapahuk",
+      "latitude": 63.775981,
+      "longitude": 9.694376
+    },
+    {
+      "name": "Stentjennlia",
+      "latitude": 63.309038,
+      "longitude": 11.245268
+    },
+    {
+      "name": "Stigen-Fesburet",
+      "latitude": 61.421993,
+      "longitude": 12.443811
+    },
+    {
+      "name": "Stigningshelleren",
+      "latitude": 58.210834,
+      "longitude": 6.822858
+    },
+    {
+      "name": "Stohpojohka",
+      "latitude": 70.601887,
+      "longitude": 25.070249
+    },
+    {
+      "name": "Stokkvikbua",
+      "latitude": 68.107144,
+      "longitude": 13.104333
+    },
+    {
+      "name": "Stor Rostahytta",
+      "latitude": 68.828929,
+      "longitude": 20.283556
+    },
+    {
+      "name": "Storfjellhytta",
+      "latitude": 70.69055,
+      "longitude": 23.671108
+    },
+    {
+      "name": "Storgråberget",
+      "latitude": 60.585529,
+      "longitude": 12.394044
+    },
+    {
+      "name": "Storheia",
+      "latitude": 62.978584,
+      "longitude": 7.405515
+    },
+    {
+      "name": "Storhilleren",
+      "latitude": 61.503066,
+      "longitude": 8.103563
+    },
+    {
+      "name": "Storholtkoia",
+      "latitude": 60.707303,
+      "longitude": 11.478935
+    },
+    {
+      "name": "Storjordfjellkoia",
+      "latitude": 66.820665,
+      "longitude": 15.422837
+    },
+    {
+      "name": "Storlihelleren",
+      "latitude": 58.47875,
+      "longitude": 6.150962
+    },
+    {
+      "name": "Stormdalsgården",
+      "latitude": 66.511574,
+      "longitude": 14.762862
+    },
+    {
+      "name": "Stormyrhytta",
+      "latitude": 62.638649,
+      "longitude": 6.252209
+    },
+    {
+      "name": "Storskogvasshytta",
+      "latitude": 67.457069,
+      "longitude": 15.912316
+    },
+    {
+      "name": "Storsteinbua",
+      "latitude": 62.394132,
+      "longitude": 9.287222
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.468586,
+      "longitude": 19.53861
+    },
+    {
+      "name": "Storsteinsdalhelleren",
+      "latitude": 58.208816,
+      "longitude": 6.610242
+    },
+    {
+      "name": "Storstua",
+      "latitude": 63.415642,
+      "longitude": 10.26322
+    },
+    {
+      "name": "Storvigelen",
+      "latitude": 62.548567,
+      "longitude": 12.049251
+    },
+    {
+      "name": "Storåsen Skolefritidsordning",
+      "latitude": 60.465713,
+      "longitude": 5.333511
+    },
+    {
+      "name": "Stovegolvet",
+      "latitude": 59.853522,
+      "longitude": 5.469575
+    },
+    {
+      "name": "Strompdalen",
+      "latitude": 65.441133,
+      "longitude": 12.822435
+    },
+    {
+      "name": "Stuavikjo Gapahuk",
+      "latitude": 59.791427,
+      "longitude": 5.474232
+    },
+    {
+      "name": "Stugardsbue",
+      "latitude": 61.005072,
+      "longitude": 8.907474
+    },
+    {
+      "name": "Stuor Kärpel rastskydd",
+      "latitude": 68.333556,
+      "longitude": 18.126658
+    },
+    {
+      "name": "Stuoroaivi",
+      "latitude": 69.459446,
+      "longitude": 23.502555
+    },
+    {
+      "name": "Stuåhuken",
+      "latitude": 63.045796,
+      "longitude": 7.833155
+    },
+    {
+      "name": "Styggemannshytta",
+      "latitude": 59.520636,
+      "longitude": 9.643543
+    },
+    {
+      "name": "Stággonjunni",
+      "latitude": 68.570371,
+      "longitude": 18.596138
+    },
+    {
+      "name": "Svartfjellhytta",
+      "latitude": 70.584401,
+      "longitude": 23.859978
+    },
+    {
+      "name": "Svarthammar",
+      "latitude": 61.774712,
+      "longitude": 12.026856
+    },
+    {
+      "name": "Svarthiller",
+      "latitude": 61.336874,
+      "longitude": 7.301575
+    },
+    {
+      "name": "Svarttjennkoia",
+      "latitude": 60.825469,
+      "longitude": 11.470256
+    },
+    {
+      "name": "Svarttjødnlavoen",
+      "latitude": 60.63877,
+      "longitude": 8.284817
+    },
+    {
+      "name": "Svartåsen",
+      "latitude": 63.288813,
+      "longitude": 11.298126
+    },
+    {
+      "name": "Sveggesundet",
+      "latitude": 63.10359,
+      "longitude": 7.595245
+    },
+    {
+      "name": "Sveins plass",
+      "latitude": 59.354684,
+      "longitude": 10.203391
+    },
+    {
+      "name": "Svennbysætra",
+      "latitude": 60.626436,
+      "longitude": 11.679252
+    },
+    {
+      "name": "Svenskebrakka",
+      "latitude": 60.676857,
+      "longitude": 11.657774
+    },
+    {
+      "name": "Sverkjedammen",
+      "latitude": 60.64452,
+      "longitude": 11.541473
+    },
+    {
+      "name": "Sverres fiskeplass",
+      "latitude": 60.84468,
+      "longitude": 11.423898
+    },
+    {
+      "name": "Svingen",
+      "latitude": 60.193063,
+      "longitude": 10.305584
+    },
+    {
+      "name": "Svælhøgdbua",
+      "latitude": 61.539989,
+      "longitude": 10.468496
+    },
+    {
+      "name": "Synno",
+      "latitude": 60.956571,
+      "longitude": 9.06864
+    },
+    {
+      "name": "Sæltjønnslæger",
+      "latitude": 60.34058,
+      "longitude": 7.9286
+    },
+    {
+      "name": "Sølvtjernhytta",
+      "latitude": 60.248265,
+      "longitude": 10.764253
+    },
+    {
+      "name": "Søndagsmyrkoia",
+      "latitude": 61.06488,
+      "longitude": 12.197976
+    },
+    {
+      "name": "Søndre Grasbergsætra",
+      "latitude": 61.171765,
+      "longitude": 11.745447
+    },
+    {
+      "name": "Søndre Truber",
+      "latitude": 59.070641,
+      "longitude": 10.312702
+    },
+    {
+      "name": "Sørengamma",
+      "latitude": 67.454387,
+      "longitude": 15.940861
+    },
+    {
+      "name": "Sørengammen",
+      "latitude": 67.455158,
+      "longitude": 15.939413
+    },
+    {
+      "name": "Sørensbua",
+      "latitude": 60.555505,
+      "longitude": 11.460038
+    },
+    {
+      "name": "Tangjotkoia",
+      "latitude": 61.650016,
+      "longitude": 11.78234
+    },
+    {
+      "name": "Tapptjerndalsbua",
+      "latitude": 61.173896,
+      "longitude": 9.582817
+    },
+    {
+      "name": "Taskedalshytta",
+      "latitude": 62.412524,
+      "longitude": 7.379745
+    },
+    {
+      "name": "Tekna",
+      "latitude": 61.575866,
+      "longitude": 11.063118
+    },
+    {
+      "name": "Teksdalhuken gapahuk",
+      "latitude": 63.830687,
+      "longitude": 9.924587
+    },
+    {
+      "name": "Terje Vigen-stua",
+      "latitude": 58.303613,
+      "longitude": 8.55664
+    },
+    {
+      "name": "Ternhaugen",
+      "latitude": 60.135706,
+      "longitude": 5.383884
+    },
+    {
+      "name": "Texas Bar",
+      "latitude": 79.614144,
+      "longitude": 12.698575
+    },
+    {
+      "name": "Tinden gapahuk",
+      "latitude": 63.67632,
+      "longitude": 9.396752
+    },
+    {
+      "name": "Tindevatn",
+      "latitude": 62.459404,
+      "longitude": 7.417
+    },
+    {
+      "name": "Tinn-ly",
+      "latitude": 70.12464,
+      "longitude": 22.966698
+    },
+    {
+      "name": "Tiriltunga",
+      "latitude": 61.103334,
+      "longitude": 10.50736
+    },
+    {
+      "name": "Tisluan",
+      "latitude": 63.298223,
+      "longitude": 10.273132
+    },
+    {
+      "name": "Titrebue",
+      "latitude": 61.336313,
+      "longitude": 9.078748
+    },
+    {
+      "name": "Tiuråsen",
+      "latitude": 63.05431,
+      "longitude": 9.267382
+    },
+    {
+      "name": "Tjennhuken",
+      "latitude": 59.068824,
+      "longitude": 8.68058
+    },
+    {
+      "name": "Tjortedal",
+      "latitude": 58.052356,
+      "longitude": 7.481778
+    },
+    {
+      "name": "Tjueklo",
+      "latitude": 59.299551,
+      "longitude": 11.12454
+    },
+    {
+      "name": "Tjuvheller",
+      "latitude": 58.801373,
+      "longitude": 9.214232
+    },
+    {
+      "name": "Tjønnemyra",
+      "latitude": 59.197049,
+      "longitude": 10.197077
+    },
+    {
+      "name": "Tollefsrud",
+      "latitude": 60.64705,
+      "longitude": 9.782593
+    },
+    {
+      "name": "Tollefsrud",
+      "latitude": 60.647728,
+      "longitude": 9.781221
+    },
+    {
+      "name": "Tomlebu",
+      "latitude": 60.290458,
+      "longitude": 5.353004
+    },
+    {
+      "name": "Toppen av Hekseveggen",
+      "latitude": 61.858999,
+      "longitude": 5.257493
+    },
+    {
+      "name": "Torget Vest",
+      "latitude": 60.494742,
+      "longitude": 9.51006
+    },
+    {
+      "name": "Tortenkøta",
+      "latitude": 66.328259,
+      "longitude": 13.304595
+    },
+    {
+      "name": "Torvbu",
+      "latitude": 62.632062,
+      "longitude": 7.579579
+    },
+    {
+      "name": "Torvløa",
+      "latitude": 62.504015,
+      "longitude": 6.374692
+    },
+    {
+      "name": "Torvmyra",
+      "latitude": 63.682791,
+      "longitude": 11.019744
+    },
+    {
+      "name": "Torvmyrbua",
+      "latitude": 62.547637,
+      "longitude": 11.484534
+    },
+    {
+      "name": "Trastadgammen",
+      "latitude": 68.784122,
+      "longitude": 16.151282
+    },
+    {
+      "name": "Trettrota",
+      "latitude": 60.699043,
+      "longitude": 10.566225
+    },
+    {
+      "name": "Tripperud inn",
+      "latitude": 60.185896,
+      "longitude": 10.853642
+    },
+    {
+      "name": "Trollbu",
+      "latitude": 60.285067,
+      "longitude": 5.364087
+    },
+    {
+      "name": "Trollbua",
+      "latitude": 62.205292,
+      "longitude": 7.937278
+    },
+    {
+      "name": "Trollfoten",
+      "latitude": 62.742167,
+      "longitude": 9.757434
+    },
+    {
+      "name": "Trollskogen gapahuk",
+      "latitude": 63.71488,
+      "longitude": 9.666203
+    },
+    {
+      "name": "Trollskogen gapahuk",
+      "latitude": 63.846732,
+      "longitude": 9.741346
+    },
+    {
+      "name": "Trollslottet",
+      "latitude": 63.41576,
+      "longitude": 10.261612
+    },
+    {
+      "name": "Trolltoppen",
+      "latitude": 58.714981,
+      "longitude": 9.207272
+    },
+    {
+      "name": "Trondsbu",
+      "latitude": 60.900377,
+      "longitude": 11.483831
+    },
+    {
+      "name": "Trongebu (Gautefall Turlag)",
+      "latitude": 59.125319,
+      "longitude": 8.682298
+    },
+    {
+      "name": "Truisku",
+      "latitude": 69.775583,
+      "longitude": 20.942617
+    },
+    {
+      "name": "Trøllhuken",
+      "latitude": 60.467687,
+      "longitude": 11.120617
+    },
+    {
+      "name": "Tufteparken",
+      "latitude": 68.795094,
+      "longitude": 16.503788
+    },
+    {
+      "name": "Turbohuken",
+      "latitude": 69.696634,
+      "longitude": 18.980916
+    },
+    {
+      "name": "Turf Hut",
+      "latitude": 69.606142,
+      "longitude": 20.60585
+    },
+    {
+      "name": "Turken",
+      "latitude": 60.89784,
+      "longitude": 7.219538
+    },
+    {
+      "name": "Tussegrendfjellet gapahuk",
+      "latitude": 63.735964,
+      "longitude": 9.867825
+    },
+    {
+      "name": "Tussehuken",
+      "latitude": 69.693873,
+      "longitude": 18.857241
+    },
+    {
+      "name": "Tusseplassen",
+      "latitude": 60.833772,
+      "longitude": 10.357995
+    },
+    {
+      "name": "Tussheimbue",
+      "latitude": 62.129835,
+      "longitude": 8.880198
+    },
+    {
+      "name": "Tveiter Natur Barnehage",
+      "latitude": 59.860017,
+      "longitude": 10.409484
+    },
+    {
+      "name": "Tverliskaret",
+      "latitude": 62.271369,
+      "longitude": 5.590108
+    },
+    {
+      "name": "Tvillingbru padlehuk",
+      "latitude": 59.505724,
+      "longitude": 10.298649
+    },
+    {
+      "name": "Tvitjørn",
+      "latitude": 58.507967,
+      "longitude": 5.848101
+    },
+    {
+      "name": "Tyholmen ferjeleie",
+      "latitude": 58.457543,
+      "longitude": 8.767314
+    },
+    {
+      "name": "Tylldalsbua",
+      "latitude": 62.087724,
+      "longitude": 10.770877
+    },
+    {
+      "name": "Tyrishølt",
+      "latitude": 60.894561,
+      "longitude": 8.986344
+    },
+    {
+      "name": "Tyskerhytta",
+      "latitude": 63.276109,
+      "longitude": 9.090344
+    },
+    {
+      "name": "Tyttebæra",
+      "latitude": 63.27801,
+      "longitude": 9.892342
+    },
+    {
+      "name": "Tyvenhytta",
+      "latitude": 70.640015,
+      "longitude": 23.699204
+    },
+    {
+      "name": "Tårnkoie Målervannet",
+      "latitude": 60.61747,
+      "longitude": 11.541812
+    },
+    {
+      "name": "Tømtevja",
+      "latitude": 59.629599,
+      "longitude": 11.150672
+    },
+    {
+      "name": "Tønna",
+      "latitude": 65.009052,
+      "longitude": 12.315848
+    },
+    {
+      "name": "Ubrukelig grillhus",
+      "latitude": 66.871275,
+      "longitude": 13.705099
+    },
+    {
+      "name": "Uglebu",
+      "latitude": 58.379616,
+      "longitude": 8.587537
+    },
+    {
+      "name": "Ullinshov gapahuk",
+      "latitude": 60.763959,
+      "longitude": 10.933137
+    },
+    {
+      "name": "Ulsetmyra gapahuk",
+      "latitude": 63.683371,
+      "longitude": 9.637183
+    },
+    {
+      "name": "Ulstadtjønnhytta",
+      "latitude": 63.550875,
+      "longitude": 11.436053
+    },
+    {
+      "name": "Ulvelilægeret",
+      "latitude": 60.292668,
+      "longitude": 8.160906
+    },
+    {
+      "name": "Ulven torg",
+      "latitude": 59.925688,
+      "longitude": 10.811771
+    },
+    {
+      "name": "Umskardtjønna",
+      "latitude": 66.186948,
+      "longitude": 14.562954
+    },
+    {
+      "name": "Unterstand",
+      "latitude": 60.818511,
+      "longitude": 11.006624
+    },
+    {
+      "name": "Uteliggerhytta",
+      "latitude": 59.956841,
+      "longitude": 10.809277
+    },
+    {
+      "name": "Utleirabua",
+      "latitude": 63.395182,
+      "longitude": 10.452654
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 58.167321,
+      "longitude": 7.86423
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 61.921439,
+      "longitude": 5.981696
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 63.060525,
+      "longitude": 7.81817
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 68.793365,
+      "longitude": 16.488921
+    },
+    {
+      "name": "Uværshula",
+      "latitude": 68.576602,
+      "longitude": 14.645811
+    },
+    {
+      "name": "Uværshula Bø",
+      "latitude": 68.604958,
+      "longitude": 14.51292
+    },
+    {
+      "name": "Vadsø harbour wind shelter",
+      "latitude": 70.073543,
+      "longitude": 29.738222
+    },
+    {
+      "name": "Vaggashytta",
+      "latitude": 69.813574,
+      "longitude": 20.239012
+    },
+    {
+      "name": "Vakthuset",
+      "latitude": 58.019845,
+      "longitude": 7.005254
+    },
+    {
+      "name": "Valentinlyst",
+      "latitude": 63.424517,
+      "longitude": 10.440202
+    },
+    {
+      "name": "Vallebu",
+      "latitude": 60.291318,
+      "longitude": 5.3705
+    },
+    {
+      "name": "Valsøya gapahuk",
+      "latitude": 63.863831,
+      "longitude": 9.737206
+    },
+    {
+      "name": "Vannfjordhytta",
+      "latitude": 71.02918,
+      "longitude": 25.587654
+    },
+    {
+      "name": "Vannfjordhytta",
+      "latitude": 71.035327,
+      "longitude": 25.565824
+    },
+    {
+      "name": "Vardebu",
+      "latitude": 59.479711,
+      "longitude": 11.547615
+    },
+    {
+      "name": "Vardebua",
+      "latitude": 61.689358,
+      "longitude": 11.357385
+    },
+    {
+      "name": "Vardehytta",
+      "latitude": 58.477858,
+      "longitude": 8.52984
+    },
+    {
+      "name": "Varden",
+      "latitude": 63.299006,
+      "longitude": 9.803825
+    },
+    {
+      "name": "Varden Lavo",
+      "latitude": 59.171926,
+      "longitude": 11.062259
+    },
+    {
+      "name": "Vardenhytta",
+      "latitude": 69.643823,
+      "longitude": 30.048234
+    },
+    {
+      "name": "Vardeplatået gapahuk",
+      "latitude": 63.797585,
+      "longitude": 9.73807
+    },
+    {
+      "name": "Vardfjellkåta",
+      "latitude": 66.273299,
+      "longitude": 15.264167
+    },
+    {
+      "name": "Vardåsbua",
+      "latitude": 60.984256,
+      "longitude": 10.729746
+    },
+    {
+      "name": "Varghaugen gapahuk",
+      "latitude": 63.881074,
+      "longitude": 9.858277
+    },
+    {
+      "name": "Varghiet",
+      "latitude": 63.417315,
+      "longitude": 11.467874
+    },
+    {
+      "name": "Varmebua på Kjølen",
+      "latitude": 69.733825,
+      "longitude": 18.78763
+    },
+    {
+      "name": "Varmestue",
+      "latitude": 60.824174,
+      "longitude": 8.973949
+    },
+    {
+      "name": "Varto gapahuk",
+      "latitude": 69.337627,
+      "longitude": 18.554919
+    },
+    {
+      "name": "Vartohytta",
+      "latitude": 69.623767,
+      "longitude": 20.265072
+    },
+    {
+      "name": "Varåsmyrhelleren",
+      "latitude": 58.035635,
+      "longitude": 7.011766
+    },
+    {
+      "name": "Vassbotnan",
+      "latitude": 65.402355,
+      "longitude": 12.263086
+    },
+    {
+      "name": "Vassbrunagammen",
+      "latitude": 69.277513,
+      "longitude": 18.391227
+    },
+    {
+      "name": "Vassdalsbu",
+      "latitude": 62.01825,
+      "longitude": 5.689101
+    },
+    {
+      "name": "Vassendebua",
+      "latitude": 60.300418,
+      "longitude": 6.380192
+    },
+    {
+      "name": "Vassfarkoia",
+      "latitude": 60.496266,
+      "longitude": 9.468165
+    },
+    {
+      "name": "Vasskoia",
+      "latitude": 60.921413,
+      "longitude": 12.212517
+    },
+    {
+      "name": "Vasskoia",
+      "latitude": 61.170212,
+      "longitude": 12.07537
+    },
+    {
+      "name": "Veemsbua",
+      "latitude": 61.355211,
+      "longitude": 10.738147
+    },
+    {
+      "name": "Vegarhovdlægret",
+      "latitude": 60.157689,
+      "longitude": 7.854668
+    },
+    {
+      "name": "Veldehytta",
+      "latitude": 59.576663,
+      "longitude": 5.659979
+    },
+    {
+      "name": "Velskardbua",
+      "latitude": 63.133124,
+      "longitude": 11.528066
+    },
+    {
+      "name": "Venelibu",
+      "latitude": 59.301571,
+      "longitude": 8.574723
+    },
+    {
+      "name": "Venjesdalsbu",
+      "latitude": 62.536646,
+      "longitude": 7.82838
+    },
+    {
+      "name": "Vennskapshyttå",
+      "latitude": 59.012163,
+      "longitude": 5.737021
+    },
+    {
+      "name": "Ventebu",
+      "latitude": 68.76374,
+      "longitude": 19.720239
+    },
+    {
+      "name": "Venterom spor 2-3",
+      "latitude": 63.436445,
+      "longitude": 10.39792
+    },
+    {
+      "name": "Venterom spor 4-5",
+      "latitude": 63.436588,
+      "longitude": 10.397864
+    },
+    {
+      "name": "Verdalen",
+      "latitude": 66.37863,
+      "longitude": 15.197909
+    },
+    {
+      "name": "Veresstua",
+      "latitude": 63.783816,
+      "longitude": 12.385036
+    },
+    {
+      "name": "Veslegransjøkoia",
+      "latitude": 60.65013,
+      "longitude": 11.577369
+    },
+    {
+      "name": "Veslkjølbua",
+      "latitude": 61.80895,
+      "longitude": 12.050068
+    },
+    {
+      "name": "Veslnesbua",
+      "latitude": 68.76123,
+      "longitude": 19.712751
+    },
+    {
+      "name": "Vesterheimsbua",
+      "latitude": 61.291028,
+      "longitude": 9.362287
+    },
+    {
+      "name": "Vestkoia",
+      "latitude": 69.41574,
+      "longitude": 29.246377
+    },
+    {
+      "name": "Vetabua",
+      "latitude": 62.828778,
+      "longitude": 7.883614
+    },
+    {
+      "name": "Vetfjellhytta",
+      "latitude": 67.703787,
+      "longitude": 15.049316
+    },
+    {
+      "name": "Veøystua",
+      "latitude": 62.66721,
+      "longitude": 7.425799
+    },
+    {
+      "name": "Vierbu",
+      "latitude": 61.412271,
+      "longitude": 8.919858
+    },
+    {
+      "name": "Vigre 4H gapahuk",
+      "latitude": 58.632455,
+      "longitude": 5.60472
+    },
+    {
+      "name": "Vikagutane",
+      "latitude": 62.458576,
+      "longitude": 6.393775
+    },
+    {
+      "name": "Vikestølen",
+      "latitude": 59.597209,
+      "longitude": 5.662808
+    },
+    {
+      "name": "Vikseterplassen villmarksleir",
+      "latitude": 62.438523,
+      "longitude": 8.614065
+    },
+    {
+      "name": "Vikstjernkoia",
+      "latitude": 59.758631,
+      "longitude": 11.02618
+    },
+    {
+      "name": "Vilberg barnehage grillstua",
+      "latitude": 60.332334,
+      "longitude": 11.257581
+    },
+    {
+      "name": "Villmarksleir",
+      "latitude": 61.738838,
+      "longitude": 9.751103
+    },
+    {
+      "name": "Vindskjermen Mofjellet",
+      "latitude": 66.285382,
+      "longitude": 14.184212
+    },
+    {
+      "name": "Vindskydd",
+      "latitude": 60.821369,
+      "longitude": 12.047695
+    },
+    {
+      "name": "Volkammen",
+      "latitude": 63.887972,
+      "longitude": 11.224514
+    },
+    {
+      "name": "Volslåttan",
+      "latitude": 61.852321,
+      "longitude": 11.917477
+    },
+    {
+      "name": "Vormeli",
+      "latitude": 61.444117,
+      "longitude": 7.997104
+    },
+    {
+      "name": "Vuggabua",
+      "latitude": 63.114643,
+      "longitude": 7.711846
+    },
+    {
+      "name": "Vuomatakka",
+      "latitude": 69.347597,
+      "longitude": 21.87563
+    },
+    {
+      "name": "Várdánčohkka",
+      "latitude": 70.769455,
+      "longitude": 25.290277
+    },
+    {
+      "name": "Vågåskjiftet",
+      "latitude": 63.431654,
+      "longitude": 11.03068
+    },
+    {
+      "name": "Vår",
+      "latitude": 62.62367,
+      "longitude": 7.827129
+    },
+    {
+      "name": "Våttakammen",
+      "latitude": 63.886082,
+      "longitude": 11.233832
+    },
+    {
+      "name": "Waiting room for bus",
+      "latitude": 58.316465,
+      "longitude": 6.962332
+    },
+    {
+      "name": "Wangsvika",
+      "latitude": 63.435566,
+      "longitude": 10.285372
+    },
+    {
+      "name": "Worsleyhamnahytta",
+      "latitude": 79.692446,
+      "longitude": 13.607188
+    },
+    {
+      "name": "Yndlingsplassen",
+      "latitude": 63.392544,
+      "longitude": 10.451908
+    },
+    {
+      "name": "Yter Håbua",
+      "latitude": 62.463761,
+      "longitude": 12.117681
+    },
+    {
+      "name": "Ytre Gyarhavn gapahuk",
+      "latitude": 58.465828,
+      "longitude": 5.883727
+    },
+    {
+      "name": "Zulu",
+      "latitude": 58.800513,
+      "longitude": 5.705386
+    },
+    {
+      "name": "a fishermen's hut",
+      "latitude": 59.042947,
+      "longitude": 9.141076
+    },
+    {
+      "name": "gammelt melke hus",
+      "latitude": 61.917244,
+      "longitude": 5.13535
+    },
+    {
+      "name": "gapahuk",
+      "latitude": 59.22835,
+      "longitude": 9.513712
+    },
+    {
+      "name": "gapahuk",
+      "latitude": 63.711504,
+      "longitude": 9.762513
+    },
+    {
+      "name": "gapahuk ved Omdalsmyr",
+      "latitude": 59.229537,
+      "longitude": 9.512127
+    },
+    {
+      "name": "https://photos.app.goo.gl/iW5crVkwJdksRXX97",
+      "latitude": 59.917797,
+      "longitude": 11.146408
+    },
+    {
+      "name": "lavvo",
+      "latitude": 59.587076,
+      "longitude": 11.159973
+    },
+    {
+      "name": "ottersbo, borgen gapahuk",
+      "latitude": 63.709311,
+      "longitude": 9.766367
+    },
+    {
+      "name": "st.hansholet gapahuk",
+      "latitude": 63.722504,
+      "longitude": 9.772606
+    },
+    {
+      "name": "viewpoint shelter",
+      "latitude": 69.52148,
+      "longitude": 17.428716
+    },
+    {
+      "name": "Ánnešjohka ødestue",
+      "latitude": 69.545297,
+      "longitude": 24.659244
+    },
+    {
+      "name": "Ådlandsbua",
+      "latitude": 60.383287,
+      "longitude": 5.449628
+    },
+    {
+      "name": "Ådnabu",
+      "latitude": 60.397568,
+      "longitude": 5.482924
+    },
+    {
+      "name": "Ålgård KFUK KFUM",
+      "latitude": 58.786646,
+      "longitude": 5.977554
+    },
+    {
+      "name": "Ånderbu",
+      "latitude": 69.215352,
+      "longitude": 17.330198
+    },
+    {
+      "name": "Åndergammen",
+      "latitude": 69.215314,
+      "longitude": 17.303123
+    },
+    {
+      "name": "Åpen brakke",
+      "latitude": 60.143084,
+      "longitude": 12.498458
+    },
+    {
+      "name": "Åpen bu",
+      "latitude": 65.454393,
+      "longitude": 14.189754
+    },
+    {
+      "name": "Århovdbua",
+      "latitude": 62.060291,
+      "longitude": 11.746888
+    },
+    {
+      "name": "Årøhuken",
+      "latitude": 62.760199,
+      "longitude": 7.290916
+    },
+    {
+      "name": "Åsenkrakken",
+      "latitude": 60.333482,
+      "longitude": 10.504991
+    },
+    {
+      "name": "Åsveien Borettslag",
+      "latitude": 58.861848,
+      "longitude": 5.758129
+    },
+    {
+      "name": "Åvellhuken",
+      "latitude": 60.78242,
+      "longitude": 10.09727
+    },
+    {
+      "name": "Ødegården padlehuk",
+      "latitude": 59.015174,
+      "longitude": 9.84914
+    },
+    {
+      "name": "Øitangen",
+      "latitude": 58.881765,
+      "longitude": 9.610377
+    },
+    {
+      "name": "Ølsnøshytta",
+      "latitude": 62.634332,
+      "longitude": 7.62813
+    },
+    {
+      "name": "Ørin gapahuk",
+      "latitude": 63.855999,
+      "longitude": 9.881338
+    },
+    {
+      "name": "Ørnereiret",
+      "latitude": 58.245246,
+      "longitude": 7.195199
+    },
+    {
+      "name": "Øspebu",
+      "latitude": 62.505846,
+      "longitude": 7.250983
+    },
+    {
+      "name": "Øvre Fjellmyr",
+      "latitude": 69.458333,
+      "longitude": 18.256892
+    },
+    {
+      "name": "Øvre Flisfallet Gapahuk",
+      "latitude": 60.800678,
+      "longitude": 12.303997
+    }
+  ],
+  "meta": {
+    "title": "Named shelters in Norway - Gratis nedlasting",
+    "description": "Named shelters in Norway, derived from OpenStreetMap POI nodes tagged amenity=shelter in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 1321 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named shelters in Norway | ListBase",
+    "seo_description": "Last ned Named shelters in Norway — 1321 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 1321 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

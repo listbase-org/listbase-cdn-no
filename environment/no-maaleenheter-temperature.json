@@ -1,0 +1,116 @@
+{
+  "id": "no-maaleenheter-temperature",
+  "name": "Maaleenheter: temperature (5)",
+  "title": "Maaleenheter: temperature (5)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'temperature'.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "temperature-celsius",
+      "kategori": "temperature",
+      "navn": "grader celsius",
+      "moenster_en": "{0} grad celsius",
+      "moenster_flere": "{0} grader celsius",
+      "kort_moenster": "{0} °C",
+      "smal_moenster": "{0} °C"
+    },
+    {
+      "id": 2,
+      "unit_code": "temperature-fahrenheit",
+      "kategori": "temperature",
+      "navn": "grader fahrenheit",
+      "moenster_en": "{0} grad fahrenheit",
+      "moenster_flere": "{0} grader fahrenheit",
+      "kort_moenster": "{0} °F",
+      "smal_moenster": "{0}°F"
+    },
+    {
+      "id": 3,
+      "unit_code": "temperature-generic",
+      "kategori": "temperature",
+      "navn": "grader",
+      "moenster_en": "{0} grad",
+      "moenster_flere": "{0} grader",
+      "kort_moenster": "{0}°",
+      "smal_moenster": "{0}°"
+    },
+    {
+      "id": 4,
+      "unit_code": "temperature-kelvin",
+      "kategori": "temperature",
+      "navn": "kelvin",
+      "moenster_en": "{0} kelvin",
+      "moenster_flere": "{0} kelvin",
+      "kort_moenster": "{0} K",
+      "smal_moenster": "{0}K"
+    },
+    {
+      "id": 5,
+      "unit_code": "temperature-rankine",
+      "kategori": "temperature",
+      "navn": "°R",
+      "moenster_en": "",
+      "moenster_flere": "{0} °R",
+      "kort_moenster": "{0} °R",
+      "smal_moenster": "{0} °R"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: temperature (5) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'temperature'. Inneholder 5 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: temperature (5) | ListBase",
+    "seo_description": "Last ned Maaleenheter: temperature (5) — 5 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 5 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

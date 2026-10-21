@@ -1,0 +1,79 @@
+{
+  "id": "no-lysaker-banker",
+  "name": "Banker i Lysaker — SWIFT/BIC-koder",
+  "title": "Banker i Lysaker — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC codes for banks and financial institutions in NO located in the city the source records verbatim as \"LYSAKER\" (4 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 7,
+      "bank": "ACTIVE KNOWLEDGE MODELING AS",
+      "city": "LYSAKER",
+      "branch": "",
+      "swift_code": "ACKMNOK1"
+    },
+    {
+      "id": 184,
+      "bank": "NORCAP AS",
+      "city": "LYSAKER",
+      "branch": "",
+      "swift_code": "NRRCNO21"
+    },
+    {
+      "id": 185,
+      "bank": "NORD POOL ASA",
+      "city": "LYSAKER",
+      "branch": "",
+      "swift_code": "NOPSNO21"
+    },
+    {
+      "id": 253,
+      "bank": "SANTANDER CONSUMER BANK AS",
+      "city": "LYSAKER",
+      "branch": "",
+      "swift_code": "SAOMNO21"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Lysaker — SWIFT/BIC-koder - Gratis nedlasting",
+    "description": "SWIFT/BIC codes for banks and financial institutions in NO located in the city the source records verbatim as \"LYSAKER\" (4 institutions). Inneholder 4 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Lysaker — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Last ned Banker i Lysaker — SWIFT/BIC-koder — 4 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 4 poster / 5 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

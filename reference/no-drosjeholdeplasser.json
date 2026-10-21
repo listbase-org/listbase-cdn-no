@@ -1,0 +1,601 @@
+{
+  "id": "no-drosjeholdeplasser",
+  "name": "Taxi stands in Norway",
+  "title": "Taxi stands in Norway",
+  "description": "Taxi stands in Norway (Drosjeholdeplasser i Norge), derived from OpenStreetMap POIs tagged amenity=taxi. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Adamstuen",
+      "latitude": 59.925709,
+      "longitude": 10.730505
+    },
+    {
+      "name": "Adamstuen",
+      "latitude": 59.932866,
+      "longitude": 10.735048
+    },
+    {
+      "name": "Aker Brygge",
+      "latitude": 59.910921,
+      "longitude": 10.728013
+    },
+    {
+      "name": "Andøy Taxi",
+      "latitude": 69.32103,
+      "longitude": 16.119241
+    },
+    {
+      "name": "Arkaden",
+      "latitude": 59.912184,
+      "longitude": 10.749009
+    },
+    {
+      "name": "Askimbyen Skole Taxi",
+      "latitude": 59.584949,
+      "longitude": 11.154422
+    },
+    {
+      "name": "Atlantic",
+      "latitude": 58.968203,
+      "longitude": 5.730963
+    },
+    {
+      "name": "Bamble taxi",
+      "latitude": 59.043862,
+      "longitude": 9.692662
+    },
+    {
+      "name": "Bergen Taxi Kleppestø",
+      "latitude": 60.41053,
+      "longitude": 5.227597
+    },
+    {
+      "name": "Bjerkvik drosjeholdeplass",
+      "latitude": 68.550276,
+      "longitude": 17.553225
+    },
+    {
+      "name": "Bjørnsletta",
+      "latitude": 59.926692,
+      "longitude": 10.642519
+    },
+    {
+      "name": "Bodø lufthavn taxiholdeplass",
+      "latitude": 67.272873,
+      "longitude": 14.367451
+    },
+    {
+      "name": "Bossekop",
+      "latitude": 69.961002,
+      "longitude": 23.231503
+    },
+    {
+      "name": "Bragernes torg",
+      "latitude": 59.743434,
+      "longitude": 10.203989
+    },
+    {
+      "name": "Bremnes Taxi",
+      "latitude": 59.793378,
+      "longitude": 5.17457
+    },
+    {
+      "name": "Bygdøy",
+      "latitude": 59.907578,
+      "longitude": 10.687358
+    },
+    {
+      "name": "Byporten",
+      "latitude": 59.911805,
+      "longitude": 10.75306
+    },
+    {
+      "name": "Båtsfjord drosjesentral DA",
+      "latitude": 70.636669,
+      "longitude": 29.725728
+    },
+    {
+      "name": "Color Line Larvik",
+      "latitude": 59.040522,
+      "longitude": 10.048238
+    },
+    {
+      "name": "Drosje Sentralstasjonen",
+      "latitude": 63.436017,
+      "longitude": 10.399247
+    },
+    {
+      "name": "Drosjehlp Royal Garden",
+      "latitude": 63.433962,
+      "longitude": 10.404748
+    },
+    {
+      "name": "Filipstad",
+      "latitude": 59.90959,
+      "longitude": 10.722616
+    },
+    {
+      "name": "Flatøy Terminal",
+      "latitude": 60.531646,
+      "longitude": 5.256067
+    },
+    {
+      "name": "Flytogterminalen",
+      "latitude": 59.909936,
+      "longitude": 10.752826
+    },
+    {
+      "name": "Frederik Stangs gate",
+      "latitude": 59.918922,
+      "longitude": 10.709136
+    },
+    {
+      "name": "Gran Taxisentral",
+      "latitude": 60.420183,
+      "longitude": 10.50623
+    },
+    {
+      "name": "Halden Taxi",
+      "latitude": 59.119371,
+      "longitude": 11.387216
+    },
+    {
+      "name": "Haua Taxi",
+      "latitude": 58.342864,
+      "longitude": 6.293102
+    },
+    {
+      "name": "Haugerud",
+      "latitude": 59.922385,
+      "longitude": 10.855215
+    },
+    {
+      "name": "Hauketo stasjon",
+      "latitude": 59.845593,
+      "longitude": 10.80332
+    },
+    {
+      "name": "Holmenkollen",
+      "latitude": 59.961805,
+      "longitude": 10.667032
+    },
+    {
+      "name": "Holmestrand stasjon",
+      "latitude": 59.492394,
+      "longitude": 10.31173
+    },
+    {
+      "name": "Homansbyen",
+      "latitude": 59.922047,
+      "longitude": 10.726412
+    },
+    {
+      "name": "Hommelvik taxiholdeplass",
+      "latitude": 63.411602,
+      "longitude": 10.795721
+    },
+    {
+      "name": "Horten og Borre Taxi",
+      "latitude": 59.415393,
+      "longitude": 10.486318
+    },
+    {
+      "name": "Hovseter",
+      "latitude": 59.946466,
+      "longitude": 10.654982
+    },
+    {
+      "name": "Hundholmen plass taxiholdeplass",
+      "latitude": 67.284313,
+      "longitude": 14.377405
+    },
+    {
+      "name": "Høvik stasjon",
+      "latitude": 59.901237,
+      "longitude": 10.584323
+    },
+    {
+      "name": "Ila / Kingos gate",
+      "latitude": 59.928667,
+      "longitude": 10.750991
+    },
+    {
+      "name": "Industrigata / Bogstadveien",
+      "latitude": 59.926562,
+      "longitude": 10.720717
+    },
+    {
+      "name": "Karasjok Drosjesentral",
+      "latitude": 69.471503,
+      "longitude": 25.511972
+    },
+    {
+      "name": "Kirkenes Taxi AS",
+      "latitude": 69.728081,
+      "longitude": 30.04613
+    },
+    {
+      "name": "Kleppestø Terminal",
+      "latitude": 60.406977,
+      "longitude": 5.227222
+    },
+    {
+      "name": "Kragerø Taxisentral",
+      "latitude": 58.869902,
+      "longitude": 9.414763
+    },
+    {
+      "name": "Lakselv Lufthavn",
+      "latitude": 70.065846,
+      "longitude": 24.982768
+    },
+    {
+      "name": "Lakselv Taxi",
+      "latitude": 70.053309,
+      "longitude": 24.963842
+    },
+    {
+      "name": "Lambertseter drosjeholdeplass",
+      "latitude": 59.873748,
+      "longitude": 10.811329
+    },
+    {
+      "name": "Landmannstorget",
+      "latitude": 59.208937,
+      "longitude": 9.609431
+    },
+    {
+      "name": "Larvik Taxi",
+      "latitude": 59.050376,
+      "longitude": 10.030578
+    },
+    {
+      "name": "Legevakten",
+      "latitude": 59.917928,
+      "longitude": 10.759186
+    },
+    {
+      "name": "Leirvik taxi",
+      "latitude": 59.779772,
+      "longitude": 5.499737
+    },
+    {
+      "name": "Lietorvet",
+      "latitude": 59.211297,
+      "longitude": 9.605517
+    },
+    {
+      "name": "Liknes Sentrum",
+      "latitude": 58.316586,
+      "longitude": 6.962434
+    },
+    {
+      "name": "Lister Taxi",
+      "latitude": 58.096563,
+      "longitude": 6.692079
+    },
+    {
+      "name": "Lyngdal Drosjesentral",
+      "latitude": 58.138115,
+      "longitude": 7.07225
+    },
+    {
+      "name": "Majorstuen",
+      "latitude": 59.930057,
+      "longitude": 10.715241
+    },
+    {
+      "name": "Mosjøen Taxi",
+      "latitude": 65.838828,
+      "longitude": 13.188075
+    },
+    {
+      "name": "Myreng",
+      "latitude": 69.659995,
+      "longitude": 18.949325
+    },
+    {
+      "name": "Mysen taxi",
+      "latitude": 59.552317,
+      "longitude": 11.324047
+    },
+    {
+      "name": "Nesoddtangen",
+      "latitude": 59.8705,
+      "longitude": 10.656919
+    },
+    {
+      "name": "Nybrua / Legevakten",
+      "latitude": 59.917077,
+      "longitude": 10.758751
+    },
+    {
+      "name": "Odda Taxilag",
+      "latitude": 60.069851,
+      "longitude": 6.546244
+    },
+    {
+      "name": "Olav Vs gate",
+      "latitude": 59.913086,
+      "longitude": 10.732279
+    },
+    {
+      "name": "Plaza hotell",
+      "latitude": 59.912512,
+      "longitude": 10.755434
+    },
+    {
+      "name": "Porsgrunnt taxi",
+      "latitude": 59.140392,
+      "longitude": 9.658348
+    },
+    {
+      "name": "Posten",
+      "latitude": 58.969134,
+      "longitude": 5.730151
+    },
+    {
+      "name": "Rakkestad Taxi",
+      "latitude": 59.427849,
+      "longitude": 11.339429
+    },
+    {
+      "name": "Riddervolds plass",
+      "latitude": 59.919202,
+      "longitude": 10.719464
+    },
+    {
+      "name": "Rikshospitalet / Gaustad",
+      "latitude": 59.947932,
+      "longitude": 10.714545
+    },
+    {
+      "name": "Rådhusplassen",
+      "latitude": 60.19099,
+      "longitude": 11.998482
+    },
+    {
+      "name": "Røa",
+      "latitude": 59.947199,
+      "longitude": 10.643126
+    },
+    {
+      "name": "Rønvikkrysset",
+      "latitude": 67.291031,
+      "longitude": 14.419101
+    },
+    {
+      "name": "Salangen Drosjesentral",
+      "latitude": 68.875367,
+      "longitude": 17.835178
+    },
+    {
+      "name": "SAS-hotellet / Holbergs gate",
+      "latitude": 59.918308,
+      "longitude": 10.733183
+    },
+    {
+      "name": "Sauda Taxi",
+      "latitude": 59.647353,
+      "longitude": 6.352774
+    },
+    {
+      "name": "Sauherad Taxi",
+      "latitude": 59.38928,
+      "longitude": 9.178428
+    },
+    {
+      "name": "Setermoen drosjeholdeplass",
+      "latitude": 68.861212,
+      "longitude": 18.349422
+    },
+    {
+      "name": "Smestad",
+      "latitude": 59.937809,
+      "longitude": 10.684824
+    },
+    {
+      "name": "Snippen holdeplass",
+      "latitude": 67.284643,
+      "longitude": 14.40087
+    },
+    {
+      "name": "Solbakk terminal",
+      "latitude": 59.036149,
+      "longitude": 5.935429
+    },
+    {
+      "name": "Sollerud",
+      "latitude": 59.912999,
+      "longitude": 10.641749
+    },
+    {
+      "name": "Solli plass",
+      "latitude": 59.914802,
+      "longitude": 10.719461
+    },
+    {
+      "name": "St. Hanshaugen",
+      "latitude": 59.924501,
+      "longitude": 10.740194
+    },
+    {
+      "name": "Stjørdal Taxi",
+      "latitude": 63.469169,
+      "longitude": 10.913741
+    },
+    {
+      "name": "Stord taxi",
+      "latitude": 59.780375,
+      "longitude": 5.501743
+    },
+    {
+      "name": "Stryn Taxisentral AS",
+      "latitude": 61.903411,
+      "longitude": 6.716584
+    },
+    {
+      "name": "Studenterlunden",
+      "latitude": 59.915195,
+      "longitude": 10.734233
+    },
+    {
+      "name": "Suhms gate",
+      "latitude": 59.932146,
+      "longitude": 10.722442
+    },
+    {
+      "name": "Sørkjosen Lufthavn",
+      "latitude": 69.785153,
+      "longitude": 20.957866
+    },
+    {
+      "name": "Taxi",
+      "latitude": 58.097671,
+      "longitude": 7.813666
+    },
+    {
+      "name": "Taxi",
+      "latitude": 59.938012,
+      "longitude": 10.752484
+    },
+    {
+      "name": "Taxi",
+      "latitude": 60.164969,
+      "longitude": 10.257389
+    },
+    {
+      "name": "Taxi",
+      "latitude": 61.595187,
+      "longitude": 9.747875
+    },
+    {
+      "name": "TAXI Ankomst",
+      "latitude": 59.272596,
+      "longitude": 10.417832
+    },
+    {
+      "name": "TAXI Avreise",
+      "latitude": 59.271999,
+      "longitude": 10.417284
+    },
+    {
+      "name": "Taxi Midt-Norge",
+      "latitude": 63.744435,
+      "longitude": 11.29962
+    },
+    {
+      "name": "Taxi Stand",
+      "latitude": 68.146213,
+      "longitude": 13.607553
+    },
+    {
+      "name": "Taxi Sør Lillesand",
+      "latitude": 58.247566,
+      "longitude": 8.377455
+    },
+    {
+      "name": "Taxiholdeplass",
+      "latitude": 60.072062,
+      "longitude": 11.035125
+    },
+    {
+      "name": "Tvedestrand taxi",
+      "latitude": 58.62631,
+      "longitude": 8.925595
+    },
+    {
+      "name": "Tynset Taxi",
+      "latitude": 62.274809,
+      "longitude": 10.776777
+    },
+    {
+      "name": "Tønsberg Taxi",
+      "latitude": 59.269473,
+      "longitude": 10.409039
+    },
+    {
+      "name": "Vardø Drosjesentral",
+      "latitude": 70.370778,
+      "longitude": 31.104016
+    },
+    {
+      "name": "Verdal skysstasjon",
+      "latitude": 63.791145,
+      "longitude": 11.484819
+    },
+    {
+      "name": "Vestfold Taxi, Holdeplass Holmestrand",
+      "latitude": 59.487881,
+      "longitude": 10.318886
+    },
+    {
+      "name": "Vinderen",
+      "latitude": 59.943126,
+      "longitude": 10.703875
+    },
+    {
+      "name": "Volda Taxi",
+      "latitude": 62.145351,
+      "longitude": 6.071141
+    },
+    {
+      "name": "Voss Taxi",
+      "latitude": 60.628244,
+      "longitude": 6.421972
+    },
+    {
+      "name": "Youngstorget",
+      "latitude": 59.914663,
+      "longitude": 10.749757
+    },
+    {
+      "name": "Ål taxisentral",
+      "latitude": 60.628972,
+      "longitude": 8.56272
+    },
+    {
+      "name": "Ørland Taxi",
+      "latitude": 63.686322,
+      "longitude": 9.667141
+    },
+    {
+      "name": "Ørsta Taxi",
+      "latitude": 62.197488,
+      "longitude": 6.126914
+    }
+  ],
+  "meta": {
+    "title": "Taxi stands in Norway - Gratis nedlasting",
+    "description": "Taxi stands in Norway (Drosjeholdeplasser i Norge), derived from OpenStreetMap POIs tagged amenity=taxi. Named features only, clipped to mainland Norway. Inneholder 112 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Taxi stands in Norway | ListBase",
+    "seo_description": "Last ned Taxi stands in Norway — 112 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 112 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

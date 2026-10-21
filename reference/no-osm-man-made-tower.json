@@ -1,0 +1,1806 @@
+{
+  "id": "no-osm-man-made-tower",
+  "name": "Named towers in Norway",
+  "title": "Named towers in Norway",
+  "description": "Named towers in Norway, derived from OpenStreetMap POI nodes tagged man_made=tower in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 353,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "- Teletårnet i Leirvik",
+      "latitude": 59.781619,
+      "longitude": 5.500963
+    },
+    {
+      "name": "Air traffic control tower",
+      "latitude": 62.650813,
+      "longitude": 9.855496
+    },
+    {
+      "name": "Aksla",
+      "latitude": 62.476211,
+      "longitude": 6.178996
+    },
+    {
+      "name": "Andenes kontrolltårn",
+      "latitude": 69.293607,
+      "longitude": 16.125068
+    },
+    {
+      "name": "Andfjell",
+      "latitude": 66.425891,
+      "longitude": 15.216682
+    },
+    {
+      "name": "Andsfjellet",
+      "latitude": 69.127806,
+      "longitude": 18.517556
+    },
+    {
+      "name": "Andøya-Decca",
+      "latitude": 69.145818,
+      "longitude": 16.02964
+    },
+    {
+      "name": "Badebrygge",
+      "latitude": 63.390613,
+      "longitude": 10.47714
+    },
+    {
+      "name": "Bangsberget",
+      "latitude": 60.845725,
+      "longitude": 10.896076
+    },
+    {
+      "name": "Barskarhaugen",
+      "latitude": 63.215902,
+      "longitude": 8.07328
+    },
+    {
+      "name": "Berkåk 2",
+      "latitude": 62.835706,
+      "longitude": 10.053453
+    },
+    {
+      "name": "Berlevågfjell",
+      "latitude": 70.862836,
+      "longitude": 29.075969
+    },
+    {
+      "name": "Bertesknapen Radaren",
+      "latitude": 58.631044,
+      "longitude": 7.912614
+    },
+    {
+      "name": "Bitihorn",
+      "latitude": 61.2944,
+      "longitude": 8.799083
+    },
+    {
+      "name": "Bjørnlihaugen",
+      "latitude": 62.698042,
+      "longitude": 7.509625
+    },
+    {
+      "name": "Bjørnsundhøgda",
+      "latitude": 69.480051,
+      "longitude": 30.08714
+    },
+    {
+      "name": "Blåengstårnet",
+      "latitude": 60.657081,
+      "longitude": 11.727476
+    },
+    {
+      "name": "Blåtårnet",
+      "latitude": 59.906501,
+      "longitude": 10.736239
+    },
+    {
+      "name": "Bodo TACAN",
+      "latitude": 67.266247,
+      "longitude": 14.361772
+    },
+    {
+      "name": "Bodø Rådhustårn",
+      "latitude": 67.283134,
+      "longitude": 14.382463
+    },
+    {
+      "name": "Bodø domkirketårn",
+      "latitude": 67.282387,
+      "longitude": 14.380712
+    },
+    {
+      "name": "Bodø kontrolltårn",
+      "latitude": 67.27278,
+      "longitude": 14.363183
+    },
+    {
+      "name": "Brandsøyåsen",
+      "latitude": 61.603755,
+      "longitude": 5.103739
+    },
+    {
+      "name": "Brannfjell",
+      "latitude": 59.88755,
+      "longitude": 10.792669
+    },
+    {
+      "name": "Branntårn Solhomfjell",
+      "latitude": 58.948542,
+      "longitude": 8.781161
+    },
+    {
+      "name": "Branntårnet",
+      "latitude": 59.716131,
+      "longitude": 11.756091
+    },
+    {
+      "name": "Bratten",
+      "latitude": 58.990918,
+      "longitude": 10.043224
+    },
+    {
+      "name": "Bratthagen RL",
+      "latitude": 59.021057,
+      "longitude": 9.947248
+    },
+    {
+      "name": "Brenna",
+      "latitude": 70.504522,
+      "longitude": 25.738983
+    },
+    {
+      "name": "Brevikbrua",
+      "latitude": 59.048128,
+      "longitude": 9.693725
+    },
+    {
+      "name": "Brevikbrua",
+      "latitude": 59.050549,
+      "longitude": 9.694509
+    },
+    {
+      "name": "Bronane",
+      "latitude": 59.221984,
+      "longitude": 8.977644
+    },
+    {
+      "name": "Brønnøysund",
+      "latitude": 65.474411,
+      "longitude": 12.212518
+    },
+    {
+      "name": "Bygdøy kirke",
+      "latitude": 59.906114,
+      "longitude": 10.678386
+    },
+    {
+      "name": "Bøler",
+      "latitude": 59.728928,
+      "longitude": 10.705382
+    },
+    {
+      "name": "Bømlabrua 1",
+      "latitude": 59.73664,
+      "longitude": 5.372163
+    },
+    {
+      "name": "Bømlabrua 2",
+      "latitude": 59.737228,
+      "longitude": 5.382344
+    },
+    {
+      "name": "Cold box",
+      "latitude": 70.68465,
+      "longitude": 23.591764
+    },
+    {
+      "name": "Control Tower",
+      "latitude": 69.05926,
+      "longitude": 18.541549
+    },
+    {
+      "name": "Dalskarshorn",
+      "latitude": 62.129329,
+      "longitude": 5.280166
+    },
+    {
+      "name": "Dolstadåsen",
+      "latitude": 65.857028,
+      "longitude": 13.225091
+    },
+    {
+      "name": "Dolsveden",
+      "latitude": 58.135765,
+      "longitude": 8.133602
+    },
+    {
+      "name": "Domen",
+      "latitude": 70.334615,
+      "longitude": 31.034665
+    },
+    {
+      "name": "Domen",
+      "latitude": 70.336426,
+      "longitude": 31.032686
+    },
+    {
+      "name": "Dugurdmålfjellet",
+      "latitude": 64.442296,
+      "longitude": 11.562813
+    },
+    {
+      "name": "ENFG AFIS Tower",
+      "latitude": 61.008991,
+      "longitude": 9.291925
+    },
+    {
+      "name": "Eirefjell",
+      "latitude": 59.489697,
+      "longitude": 8.090134
+    },
+    {
+      "name": "Eiscat UHF",
+      "latitude": 69.586497,
+      "longitude": 19.22594
+    },
+    {
+      "name": "Eiscat VHF",
+      "latitude": 69.586724,
+      "longitude": 19.221424
+    },
+    {
+      "name": "Elgheia",
+      "latitude": 59.883526,
+      "longitude": 11.468806
+    },
+    {
+      "name": "Elgtårn",
+      "latitude": 62.522356,
+      "longitude": 11.440378
+    },
+    {
+      "name": "Engelandsodden stupetårn",
+      "latitude": 60.806937,
+      "longitude": 10.687448
+    },
+    {
+      "name": "Engeset",
+      "latitude": 60.72905,
+      "longitude": 8.857915
+    },
+    {
+      "name": "Evenes (Radom)",
+      "latitude": 68.47556,
+      "longitude": 16.750861
+    },
+    {
+      "name": "Fakkel",
+      "latitude": 60.549405,
+      "longitude": 4.883181
+    },
+    {
+      "name": "Falkhetta",
+      "latitude": 64.879391,
+      "longitude": 11.225744
+    },
+    {
+      "name": "Farrisbrua",
+      "latitude": 59.056343,
+      "longitude": 10.010074
+    },
+    {
+      "name": "Farstad",
+      "latitude": 62.982838,
+      "longitude": 7.199905
+    },
+    {
+      "name": "Farsund",
+      "latitude": 58.092815,
+      "longitude": 6.792607
+    },
+    {
+      "name": "Fedje trafikksentral",
+      "latitude": 60.780051,
+      "longitude": 4.697587
+    },
+    {
+      "name": "Fennefossknipa",
+      "latitude": 58.588774,
+      "longitude": 7.775595
+    },
+    {
+      "name": "Fillheia",
+      "latitude": 63.61337,
+      "longitude": 8.976951
+    },
+    {
+      "name": "Fitjar",
+      "latitude": 59.913185,
+      "longitude": 5.312271
+    },
+    {
+      "name": "Fjellhvil",
+      "latitude": 60.220934,
+      "longitude": 9.570617
+    },
+    {
+      "name": "Fjæreheia",
+      "latitude": 58.378315,
+      "longitude": 8.589392
+    },
+    {
+      "name": "Flerfaslaboratoriet",
+      "latitude": 63.353856,
+      "longitude": 10.427411
+    },
+    {
+      "name": "Flesland kontrolltårn",
+      "latitude": 60.292305,
+      "longitude": 5.22507
+    },
+    {
+      "name": "Floråsen RL",
+      "latitude": 58.155282,
+      "longitude": 6.705068
+    },
+    {
+      "name": "Fløyheia",
+      "latitude": 58.463538,
+      "longitude": 8.76667
+    },
+    {
+      "name": "Folda 1",
+      "latitude": 64.955584,
+      "longitude": 12.187235
+    },
+    {
+      "name": "Folda 2",
+      "latitude": 64.954431,
+      "longitude": 12.183346
+    },
+    {
+      "name": "Foracs Galta",
+      "latitude": 59.141009,
+      "longitude": 5.602573
+    },
+    {
+      "name": "Forbordsfjell",
+      "latitude": 63.526921,
+      "longitude": 10.887306
+    },
+    {
+      "name": "Fuglestasjon",
+      "latitude": 58.883146,
+      "longitude": 9.612861
+    },
+    {
+      "name": "Fugletårn",
+      "latitude": 59.890647,
+      "longitude": 10.597925
+    },
+    {
+      "name": "Føskekollen",
+      "latitude": 59.487331,
+      "longitude": 9.906064
+    },
+    {
+      "name": "Gardermoen kontrolltårn",
+      "latitude": 60.192932,
+      "longitude": 11.097868
+    },
+    {
+      "name": "Gausta hovedsender",
+      "latitude": 59.850937,
+      "longitude": 8.655417
+    },
+    {
+      "name": "Gaustatoppen",
+      "latitude": 59.447543,
+      "longitude": 9.07471
+    },
+    {
+      "name": "Gjeltheia",
+      "latitude": 64.261293,
+      "longitude": 10.533128
+    },
+    {
+      "name": "Globus II",
+      "latitude": 70.367176,
+      "longitude": 31.127891
+    },
+    {
+      "name": "Glåpen",
+      "latitude": 67.885556,
+      "longitude": 13.022446
+    },
+    {
+      "name": "Gløtvola",
+      "latitude": 61.852975,
+      "longitude": 11.873403
+    },
+    {
+      "name": "Gravarhøgda",
+      "latitude": 60.432951,
+      "longitude": 8.424546
+    },
+    {
+      "name": "Gravodden",
+      "latitude": 74.506801,
+      "longitude": 18.981593
+    },
+    {
+      "name": "Grefsen kirke",
+      "latitude": 59.954226,
+      "longitude": 10.778909
+    },
+    {
+      "name": "Grenlandsbrua/Frierfjord",
+      "latitude": 59.054525,
+      "longitude": 9.67528
+    },
+    {
+      "name": "Grenseberget",
+      "latitude": 69.026037,
+      "longitude": 29.018571
+    },
+    {
+      "name": "Grenseberget gml.",
+      "latitude": 69.02641,
+      "longitude": 29.017932
+    },
+    {
+      "name": "Grimo",
+      "latitude": 60.40606,
+      "longitude": 6.635961
+    },
+    {
+      "name": "Grisvågøy",
+      "latitude": 63.310742,
+      "longitude": 8.455092
+    },
+    {
+      "name": "Grorud kirke",
+      "latitude": 59.9577,
+      "longitude": 10.884386
+    },
+    {
+      "name": "Gråkallen RL",
+      "latitude": 63.421108,
+      "longitude": 10.260369
+    },
+    {
+      "name": "Gålå-tårnet",
+      "latitude": 61.513859,
+      "longitude": 9.794657
+    },
+    {
+      "name": "Hafjell værradar",
+      "latitude": 61.231799,
+      "longitude": 10.5273
+    },
+    {
+      "name": "Hagelsund bru 1",
+      "latitude": 60.542778,
+      "longitude": 5.271077
+    },
+    {
+      "name": "Hagelsund bru 2",
+      "latitude": 60.543672,
+      "longitude": 5.275251
+    },
+    {
+      "name": "Hammerfest kontrolltårn",
+      "latitude": 70.680122,
+      "longitude": 23.675731
+    },
+    {
+      "name": "Hammerfjell",
+      "latitude": 70.691058,
+      "longitude": 23.671458
+    },
+    {
+      "name": "Hamnbuktfjellet",
+      "latitude": 70.093446,
+      "longitude": 25.058858
+    },
+    {
+      "name": "Hauglandfjell",
+      "latitude": 59.678613,
+      "longitude": 11.169998
+    },
+    {
+      "name": "Haukåsen radar",
+      "latitude": 59.90399,
+      "longitude": 10.89716
+    },
+    {
+      "name": "Heiberg",
+      "latitude": 58.767592,
+      "longitude": 9.105796
+    },
+    {
+      "name": "Helgehornet",
+      "latitude": 62.189805,
+      "longitude": 6.002261
+    },
+    {
+      "name": "Hell",
+      "latitude": 63.440507,
+      "longitude": 10.908897
+    },
+    {
+      "name": "Hestmannen",
+      "latitude": 66.530436,
+      "longitude": 12.820402
+    },
+    {
+      "name": "Hilleknuten",
+      "latitude": 58.979657,
+      "longitude": 6.96813
+    },
+    {
+      "name": "Himmelfallet",
+      "latitude": 59.341666,
+      "longitude": 9.911013
+    },
+    {
+      "name": "Hisøy vanntårn",
+      "latitude": 58.447161,
+      "longitude": 8.754925
+    },
+    {
+      "name": "Hjellsåstårnet",
+      "latitude": 59.693045,
+      "longitude": 10.954615
+    },
+    {
+      "name": "Holmenkollen",
+      "latitude": 59.964912,
+      "longitude": 10.664646
+    },
+    {
+      "name": "Holmenkollen kapell",
+      "latitude": 59.965652,
+      "longitude": 10.672473
+    },
+    {
+      "name": "Honningsvågfjellet hovedsender",
+      "latitude": 70.984564,
+      "longitude": 25.899981
+    },
+    {
+      "name": "Horta",
+      "latitude": 61.332001,
+      "longitude": 11.094165
+    },
+    {
+      "name": "Horva",
+      "latitude": 66.015864,
+      "longitude": 12.821576
+    },
+    {
+      "name": "Hovassfjell",
+      "latitude": 58.995025,
+      "longitude": 7.734772
+    },
+    {
+      "name": "Hovde",
+      "latitude": 62.53454,
+      "longitude": 7.479612
+    },
+    {
+      "name": "Hovdefjell",
+      "latitude": 58.703506,
+      "longitude": 8.658376
+    },
+    {
+      "name": "Hovåsen",
+      "latitude": 59.796968,
+      "longitude": 5.514985
+    },
+    {
+      "name": "Hummelfjell",
+      "latitude": 62.430014,
+      "longitude": 11.27425
+    },
+    {
+      "name": "Huseheia",
+      "latitude": 58.024293,
+      "longitude": 7.579255
+    },
+    {
+      "name": "Hvittingen",
+      "latitude": 59.546468,
+      "longitude": 10.196356
+    },
+    {
+      "name": "Håfjell",
+      "latitude": 68.334958,
+      "longitude": 16.646075
+    },
+    {
+      "name": "Høgenhei",
+      "latitude": 59.043337,
+      "longitude": 9.676647
+    },
+    {
+      "name": "Høybuktmoen",
+      "latitude": 69.710535,
+      "longitude": 29.8692
+    },
+    {
+      "name": "Høykorset",
+      "latitude": 60.478166,
+      "longitude": 10.601822
+    },
+    {
+      "name": "Høyt & Lavt Hemsedal",
+      "latitude": 60.862315,
+      "longitude": 8.556796
+    },
+    {
+      "name": "Ishavstønne",
+      "latitude": 62.471862,
+      "longitude": 6.1565
+    },
+    {
+      "name": "Iškoras",
+      "latitude": 69.299973,
+      "longitude": 25.349282
+    },
+    {
+      "name": "Jakttårn",
+      "latitude": 59.979171,
+      "longitude": 5.944555
+    },
+    {
+      "name": "Jerkum",
+      "latitude": 70.401416,
+      "longitude": 26.7164
+    },
+    {
+      "name": "Jomfruland gamle fyrtårn",
+      "latitude": 58.864951,
+      "longitude": 9.596078
+    },
+    {
+      "name": "Jomfrutårnet",
+      "latitude": 59.906239,
+      "longitude": 10.736559
+    },
+    {
+      "name": "KSAT Grimstad ground station",
+      "latitude": 58.334564,
+      "longitude": 8.576772
+    },
+    {
+      "name": "Kampen kirke",
+      "latitude": 59.911904,
+      "longitude": 10.781643
+    },
+    {
+      "name": "Kappfjell",
+      "latitude": 65.31404,
+      "longitude": 13.448911
+    },
+    {
+      "name": "Karlebotn",
+      "latitude": 70.096605,
+      "longitude": 28.621922
+    },
+    {
+      "name": "Kautokeino",
+      "latitude": 69.012697,
+      "longitude": 23.04322
+    },
+    {
+      "name": "Kinn",
+      "latitude": 61.560203,
+      "longitude": 4.763729
+    },
+    {
+      "name": "Kirkenes - Decca",
+      "latitude": 69.68891,
+      "longitude": 30.052887
+    },
+    {
+      "name": "Kirkenes lufthavn Høybuktmoen",
+      "latitude": 69.72405,
+      "longitude": 29.892
+    },
+    {
+      "name": "Kirketårn",
+      "latitude": 67.294833,
+      "longitude": 14.416553
+    },
+    {
+      "name": "Kjerringa KIN",
+      "latitude": 62.192688,
+      "longitude": 5.123631
+    },
+    {
+      "name": "Kjerringhøgda branntårn",
+      "latitude": 59.799755,
+      "longitude": 11.008376
+    },
+    {
+      "name": "Klemetsrud kapell",
+      "latitude": 59.830669,
+      "longitude": 10.848995
+    },
+    {
+      "name": "Klokketårnet",
+      "latitude": 60.148481,
+      "longitude": 11.456936
+    },
+    {
+      "name": "Klokketårnet",
+      "latitude": 60.366388,
+      "longitude": 10.530352
+    },
+    {
+      "name": "Knuktårnet",
+      "latitude": 60.564012,
+      "longitude": 11.366522
+    },
+    {
+      "name": "Kobbfoss",
+      "latitude": 69.32489,
+      "longitude": 29.550818
+    },
+    {
+      "name": "Kolsås Bærum",
+      "latitude": 59.918889,
+      "longitude": 10.516077
+    },
+    {
+      "name": "Kongen",
+      "latitude": 59.675145,
+      "longitude": 10.606841
+    },
+    {
+      "name": "Kongsberg hovedsender",
+      "latitude": 59.670985,
+      "longitude": 9.521986
+    },
+    {
+      "name": "Kongsli",
+      "latitude": 61.579827,
+      "longitude": 9.676782
+    },
+    {
+      "name": "Korpeberget",
+      "latitude": 61.109411,
+      "longitude": 10.411712
+    },
+    {
+      "name": "Kristiansand",
+      "latitude": 58.134696,
+      "longitude": 8.005797
+    },
+    {
+      "name": "Kunna",
+      "latitude": 66.936826,
+      "longitude": 13.56492
+    },
+    {
+      "name": "Kvalsundbrua",
+      "latitude": 70.510376,
+      "longitude": 23.953449
+    },
+    {
+      "name": "Kvalsundbrua",
+      "latitude": 70.514919,
+      "longitude": 23.94892
+    },
+    {
+      "name": "Kvitbergfjell",
+      "latitude": 69.564864,
+      "longitude": 18.548317
+    },
+    {
+      "name": "LA2G Norsk Radio Relæ Liga lokalforening",
+      "latitude": 60.149789,
+      "longitude": 11.165141
+    },
+    {
+      "name": "Langnes",
+      "latitude": 69.015542,
+      "longitude": 15.112226
+    },
+    {
+      "name": "Langnes kontrolltårn",
+      "latitude": 69.683324,
+      "longitude": 18.909434
+    },
+    {
+      "name": "Lauvhøgda",
+      "latitude": 60.686861,
+      "longitude": 10.534149
+    },
+    {
+      "name": "Leveld",
+      "latitude": 60.69527,
+      "longitude": 8.539504
+    },
+    {
+      "name": "Lian kirke",
+      "latitude": 59.846225,
+      "longitude": 10.784209
+    },
+    {
+      "name": "Lifjell radar",
+      "latitude": 58.920087,
+      "longitude": 5.790366
+    },
+    {
+      "name": "Lifjellsmasten",
+      "latitude": 58.920251,
+      "longitude": 5.789925
+    },
+    {
+      "name": "Linderudkollen",
+      "latitude": 59.97072,
+      "longitude": 10.818386
+    },
+    {
+      "name": "Lisbethnuten",
+      "latitude": 60.713786,
+      "longitude": 8.968239
+    },
+    {
+      "name": "Litlefonni",
+      "latitude": 63.379919,
+      "longitude": 8.715181
+    },
+    {
+      "name": "Lokkaren 1",
+      "latitude": 64.507164,
+      "longitude": 11.440553
+    },
+    {
+      "name": "Lokkaren 2",
+      "latitude": 64.506946,
+      "longitude": 11.445183
+    },
+    {
+      "name": "Lorsta Bø",
+      "latitude": 68.635042,
+      "longitude": 14.463056
+    },
+    {
+      "name": "Lyngen",
+      "latitude": 69.571593,
+      "longitude": 20.431901
+    },
+    {
+      "name": "Lysefjord",
+      "latitude": 58.922253,
+      "longitude": 6.100704
+    },
+    {
+      "name": "Lysefjord",
+      "latitude": 58.925245,
+      "longitude": 6.095506
+    },
+    {
+      "name": "Lønahorgi hovedsender",
+      "latitude": 60.694016,
+      "longitude": 6.414202
+    },
+    {
+      "name": "Mast;Trippestad",
+      "latitude": 59.593506,
+      "longitude": 11.195507
+    },
+    {
+      "name": "Mefjell",
+      "latitude": 70.01005,
+      "longitude": 22.10051
+    },
+    {
+      "name": "Melhus",
+      "latitude": 63.261027,
+      "longitude": 10.357493
+    },
+    {
+      "name": "Merket",
+      "latitude": 69.306394,
+      "longitude": 16.077278
+    },
+    {
+      "name": "Midtpunktet",
+      "latitude": 74.485947,
+      "longitude": 19.03966
+    },
+    {
+      "name": "Mikkalfjell",
+      "latitude": 70.038795,
+      "longitude": 22.103054
+    },
+    {
+      "name": "Mistberget",
+      "latitude": 60.376421,
+      "longitude": 11.158114
+    },
+    {
+      "name": "Mofjell Decca",
+      "latitude": 66.290484,
+      "longitude": 14.148293
+    },
+    {
+      "name": "Molde",
+      "latitude": 62.737951,
+      "longitude": 7.16558
+    },
+    {
+      "name": "Moldeheia",
+      "latitude": 62.752961,
+      "longitude": 7.132706
+    },
+    {
+      "name": "Mosjøen kontrolltårn",
+      "latitude": 65.784384,
+      "longitude": 13.216953
+    },
+    {
+      "name": "Munken",
+      "latitude": 64.853769,
+      "longitude": 11.205553
+    },
+    {
+      "name": "Munks tårn",
+      "latitude": 59.905854,
+      "longitude": 10.736614
+    },
+    {
+      "name": "NASA Wallops Flight Facility",
+      "latitude": 78.926119,
+      "longitude": 11.925674
+    },
+    {
+      "name": "Namsos flytårn",
+      "latitude": 64.472944,
+      "longitude": 11.570308
+    },
+    {
+      "name": "National Oilwell test tower",
+      "latitude": 58.898783,
+      "longitude": 5.701295
+    },
+    {
+      "name": "Nerlandsøy",
+      "latitude": 62.349989,
+      "longitude": 5.557071
+    },
+    {
+      "name": "Nerlandsøy",
+      "latitude": 62.352719,
+      "longitude": 5.585796
+    },
+    {
+      "name": "Nexanstårnet",
+      "latitude": 59.118752,
+      "longitude": 11.33012
+    },
+    {
+      "name": "Nordbykollen",
+      "latitude": 59.719131,
+      "longitude": 10.245672
+    },
+    {
+      "name": "Nordpunktet",
+      "latitude": 74.501244,
+      "longitude": 19.104354
+    },
+    {
+      "name": "Notodden flyplass Tuven",
+      "latitude": 59.565534,
+      "longitude": 9.218064
+    },
+    {
+      "name": "Nye Nexanstårnet",
+      "latitude": 59.118551,
+      "longitude": 11.324508
+    },
+    {
+      "name": "Nærøysund 1",
+      "latitude": 64.85153,
+      "longitude": 11.216204
+    },
+    {
+      "name": "Nærøysund 2",
+      "latitude": 64.849519,
+      "longitude": 11.221156
+    },
+    {
+      "name": "Observasjonstårn Tyrifjorden",
+      "latitude": 60.127386,
+      "longitude": 10.156648
+    },
+    {
+      "name": "Oksen",
+      "latitude": 70.965167,
+      "longitude": 27.351859
+    },
+    {
+      "name": "Olhovd",
+      "latitude": 60.028322,
+      "longitude": 9.616478
+    },
+    {
+      "name": "Ormatofjell",
+      "latitude": 58.80875,
+      "longitude": 6.061611
+    },
+    {
+      "name": "Ormøya kirke",
+      "latitude": 59.87677,
+      "longitude": 10.762349
+    },
+    {
+      "name": "Oslo Domkirke",
+      "latitude": 59.912638,
+      "longitude": 10.746494
+    },
+    {
+      "name": "Prestneset stupetårn",
+      "latitude": 58.829412,
+      "longitude": 7.791896
+    },
+    {
+      "name": "Pyttane",
+      "latitude": 60.317104,
+      "longitude": 5.116495
+    },
+    {
+      "name": "Radar Berlevåg",
+      "latitude": 70.510649,
+      "longitude": 29.01837
+    },
+    {
+      "name": "Radar Bugøynesfjell",
+      "latitude": 69.944833,
+      "longitude": 29.452811
+    },
+    {
+      "name": "Radar Bømlo",
+      "latitude": 59.853701,
+      "longitude": 5.08961
+    },
+    {
+      "name": "Radar Hasvik",
+      "latitude": 70.605139,
+      "longitude": 22.442964
+    },
+    {
+      "name": "Radar Rissa",
+      "latitude": 63.690501,
+      "longitude": 10.203905
+    },
+    {
+      "name": "Radar Røst",
+      "latitude": 67.530433,
+      "longitude": 12.098976
+    },
+    {
+      "name": "Radar Stad",
+      "latitude": 62.187085,
+      "longitude": 5.127451
+    },
+    {
+      "name": "Radar Sømna",
+      "latitude": 65.219855,
+      "longitude": 11.992521
+    },
+    {
+      "name": "Radar Vardefjell",
+      "latitude": 70.150897,
+      "longitude": 23.481305
+    },
+    {
+      "name": "Radarstasjon Kihlåsen",
+      "latitude": 59.205248,
+      "longitude": 10.280758
+    },
+    {
+      "name": "Radarstasjon Pyttane",
+      "latitude": 60.31928,
+      "longitude": 5.115555
+    },
+    {
+      "name": "Ramfjell RL",
+      "latitude": 63.516883,
+      "longitude": 8.96634
+    },
+    {
+      "name": "Ramnan",
+      "latitude": 69.278417,
+      "longitude": 16.007765
+    },
+    {
+      "name": "Ramnesfjell",
+      "latitude": 68.469904,
+      "longitude": 16.559025
+    },
+    {
+      "name": "Ramsdalsheia",
+      "latitude": 61.56928,
+      "longitude": 5.722579
+    },
+    {
+      "name": "Randøy",
+      "latitude": 59.217825,
+      "longitude": 6.098913
+    },
+    {
+      "name": "Randøy",
+      "latitude": 59.219031,
+      "longitude": 6.096261
+    },
+    {
+      "name": "Ranvikheia",
+      "latitude": 58.713885,
+      "longitude": 9.207815
+    },
+    {
+      "name": "Reinen",
+      "latitude": 69.466951,
+      "longitude": 17.705966
+    },
+    {
+      "name": "Rigg/Skiddebane",
+      "latitude": 58.899217,
+      "longitude": 5.695317
+    },
+    {
+      "name": "Riksheim telefonsentral",
+      "latitude": 62.344391,
+      "longitude": 6.575631
+    },
+    {
+      "name": "Rinnleiret fugletårn",
+      "latitude": 63.777712,
+      "longitude": 11.438659
+    },
+    {
+      "name": "Ris kirke",
+      "latitude": 59.947623,
+      "longitude": 10.70158
+    },
+    {
+      "name": "Risdalstårnet",
+      "latitude": 59.707743,
+      "longitude": 10.193864
+    },
+    {
+      "name": "Risøyhamn",
+      "latitude": 68.992872,
+      "longitude": 15.641567
+    },
+    {
+      "name": "Romeriketårnet",
+      "latitude": 59.906936,
+      "longitude": 10.736067
+    },
+    {
+      "name": "Rubbestadfjell",
+      "latitude": 69.176952,
+      "longitude": 17.802495
+    },
+    {
+      "name": "Runddelen",
+      "latitude": 59.928344,
+      "longitude": 11.639313
+    },
+    {
+      "name": "Rundemanen",
+      "latitude": 60.413273,
+      "longitude": 5.366506
+    },
+    {
+      "name": "Rygge flytårn",
+      "latitude": 59.377619,
+      "longitude": 10.773437
+    },
+    {
+      "name": "Rågrendi",
+      "latitude": 60.274541,
+      "longitude": 8.954671
+    },
+    {
+      "name": "Rødtangen klokketårn",
+      "latitude": 59.524855,
+      "longitude": 10.421865
+    },
+    {
+      "name": "Røverkollen telesenter",
+      "latitude": 59.979887,
+      "longitude": 10.896087
+    },
+    {
+      "name": "Sagene kirke",
+      "latitude": 59.937636,
+      "longitude": 10.75311
+    },
+    {
+      "name": "Salhus bru",
+      "latitude": 60.520122,
+      "longitude": 5.27309
+    },
+    {
+      "name": "Samaåsen",
+      "latitude": 68.809536,
+      "longitude": 16.525714
+    },
+    {
+      "name": "Sandefjord",
+      "latitude": 59.12391,
+      "longitude": 10.241064
+    },
+    {
+      "name": "Sandefjord lufthavn Torp",
+      "latitude": 59.183212,
+      "longitude": 10.252031
+    },
+    {
+      "name": "Sangernuten",
+      "latitude": 60.548585,
+      "longitude": 8.425477
+    },
+    {
+      "name": "Seljordstårnet",
+      "latitude": 59.483956,
+      "longitude": 8.648326
+    },
+    {
+      "name": "Siribekken",
+      "latitude": 69.701061,
+      "longitude": 25.224332
+    },
+    {
+      "name": "Skalten",
+      "latitude": 62.894036,
+      "longitude": 7.118184
+    },
+    {
+      "name": "Skaret RL",
+      "latitude": 62.475578,
+      "longitude": 6.163589
+    },
+    {
+      "name": "Skarnsund bru 1",
+      "latitude": 63.842328,
+      "longitude": 11.071436
+    },
+    {
+      "name": "Skarnsund bru 2",
+      "latitude": 63.84455,
+      "longitude": 11.080964
+    },
+    {
+      "name": "Skeikampen",
+      "latitude": 61.350803,
+      "longitude": 10.088426
+    },
+    {
+      "name": "Skibmannsheia",
+      "latitude": 58.023825,
+      "longitude": 7.061667
+    },
+    {
+      "name": "Skinnsnesheia",
+      "latitude": 58.026826,
+      "longitude": 7.482813
+    },
+    {
+      "name": "Slottsåsen utsiktstårn",
+      "latitude": 59.654593,
+      "longitude": 11.086741
+    },
+    {
+      "name": "Smaalenene bru",
+      "latitude": 59.592744,
+      "longitude": 11.092739
+    },
+    {
+      "name": "Sofienberg kirke",
+      "latitude": 59.922272,
+      "longitude": 10.765938
+    },
+    {
+      "name": "Solbergåsen",
+      "latitude": 59.761243,
+      "longitude": 10.045062
+    },
+    {
+      "name": "Solobservatoriet",
+      "latitude": 60.20999,
+      "longitude": 10.751306
+    },
+    {
+      "name": "Sprinklerfjell",
+      "latitude": 59.2208,
+      "longitude": 10.870302
+    },
+    {
+      "name": "St. Olavs kirke",
+      "latitude": 59.918294,
+      "longitude": 10.744134
+    },
+    {
+      "name": "Stavanger bybru",
+      "latitude": 58.974839,
+      "longitude": 5.747195
+    },
+    {
+      "name": "Steinsfjell",
+      "latitude": 59.422868,
+      "longitude": 5.329074
+    },
+    {
+      "name": "Stifjell",
+      "latitude": 70.170217,
+      "longitude": 23.492528
+    },
+    {
+      "name": "Stikkvannskollen",
+      "latitude": 59.630689,
+      "longitude": 10.524481
+    },
+    {
+      "name": "Stokmarknes kontrolltårn",
+      "latitude": 68.57954,
+      "longitude": 15.031146
+    },
+    {
+      "name": "Stor-Kjølen Radar",
+      "latitude": 69.733722,
+      "longitude": 18.787253
+    },
+    {
+      "name": "Stordabrua-1",
+      "latitude": 59.744955,
+      "longitude": 5.401807
+    },
+    {
+      "name": "Stordabrua-2",
+      "latitude": 59.750874,
+      "longitude": 5.404525
+    },
+    {
+      "name": "Store Skjellingshovde skogbranntårn",
+      "latitude": 60.731155,
+      "longitude": 10.028282
+    },
+    {
+      "name": "Storehaugfjellet",
+      "latitude": 61.173447,
+      "longitude": 7.119656
+    },
+    {
+      "name": "Storestø",
+      "latitude": 58.292026,
+      "longitude": 6.620902
+    },
+    {
+      "name": "Storhovda TV/FM",
+      "latitude": 60.90932,
+      "longitude": 7.29525
+    },
+    {
+      "name": "Storhø",
+      "latitude": 62.701945,
+      "longitude": 10.238719
+    },
+    {
+      "name": "Storåsen",
+      "latitude": 61.592373,
+      "longitude": 5.026227
+    },
+    {
+      "name": "Straume fugletårn",
+      "latitude": 68.687616,
+      "longitude": 14.475131
+    },
+    {
+      "name": "Strengen",
+      "latitude": 62.926206,
+      "longitude": 8.551006
+    },
+    {
+      "name": "Stuorra Jeahkir",
+      "latitude": 70.293471,
+      "longitude": 24.949825
+    },
+    {
+      "name": "Sulusåsen/Stretalia",
+      "latitude": 59.680734,
+      "longitude": 9.669387
+    },
+    {
+      "name": "Sundhellerskarvet",
+      "latitude": 60.720678,
+      "longitude": 7.635442
+    },
+    {
+      "name": "Svartaksla",
+      "latitude": 69.710321,
+      "longitude": 30.123873
+    },
+    {
+      "name": "Søgne",
+      "latitude": 58.129496,
+      "longitude": 7.740423
+    },
+    {
+      "name": "Søndre Langåra klokketårn",
+      "latitude": 59.760437,
+      "longitude": 10.564472
+    },
+    {
+      "name": "Sørkedalen kapell",
+      "latitude": 60.015592,
+      "longitude": 10.616495
+    },
+    {
+      "name": "T-160",
+      "latitude": 60.809,
+      "longitude": 5.035987
+    },
+    {
+      "name": "TWR",
+      "latitude": 58.886643,
+      "longitude": 5.630838
+    },
+    {
+      "name": "TWR",
+      "latitude": 59.344852,
+      "longitude": 5.21579
+    },
+    {
+      "name": "TWR",
+      "latitude": 62.577199,
+      "longitude": 11.352241
+    },
+    {
+      "name": "TWR",
+      "latitude": 70.064215,
+      "longitude": 29.839929
+    },
+    {
+      "name": "TWR",
+      "latitude": 70.870031,
+      "longitude": 29.030238
+    },
+    {
+      "name": "Tarva",
+      "latitude": 63.789277,
+      "longitude": 9.386364
+    },
+    {
+      "name": "Telenor Monserud jordstasjon",
+      "latitude": 60.143852,
+      "longitude": 10.235421
+    },
+    {
+      "name": "Tifjell",
+      "latitude": 63.088764,
+      "longitude": 9.379894
+    },
+    {
+      "name": "Tihaugen",
+      "latitude": 64.869987,
+      "longitude": 13.21828
+    },
+    {
+      "name": "Tonsen kirke",
+      "latitude": 59.942785,
+      "longitude": 10.804827
+    },
+    {
+      "name": "Torneberget",
+      "latitude": 60.297914,
+      "longitude": 5.362747
+    },
+    {
+      "name": "Torskefjell",
+      "latitude": 70.575161,
+      "longitude": 23.991633
+    },
+    {
+      "name": "Torsvarden",
+      "latitude": 70.096662,
+      "longitude": 29.820093
+    },
+    {
+      "name": "Toåsen",
+      "latitude": 59.823283,
+      "longitude": 10.650175
+    },
+    {
+      "name": "Trollhetta",
+      "latitude": 71.046298,
+      "longitude": 28.115041
+    },
+    {
+      "name": "Trolltind hovedsender",
+      "latitude": 70.075045,
+      "longitude": 20.431308
+    },
+    {
+      "name": "Tromsø universitet",
+      "latitude": 69.582023,
+      "longitude": 19.221235
+    },
+    {
+      "name": "Tromøybrua N",
+      "latitude": 58.472165,
+      "longitude": 8.822159
+    },
+    {
+      "name": "Tromøybrua S",
+      "latitude": 58.470117,
+      "longitude": 8.823351
+    },
+    {
+      "name": "Tryvannstårnet",
+      "latitude": 59.988635,
+      "longitude": 10.668133
+    },
+    {
+      "name": "Træna",
+      "latitude": 66.500833,
+      "longitude": 12.043727
+    },
+    {
+      "name": "Tusenfryd space",
+      "latitude": 59.746317,
+      "longitude": 10.774972
+    },
+    {
+      "name": "Tusten",
+      "latitude": 62.778691,
+      "longitude": 7.248692
+    },
+    {
+      "name": "Tvsender",
+      "latitude": 67.831864,
+      "longitude": 15.007172
+    },
+    {
+      "name": "Tårnet",
+      "latitude": 58.187256,
+      "longitude": 8.140221
+    },
+    {
+      "name": "Tårnet",
+      "latitude": 59.791176,
+      "longitude": 5.421691
+    },
+    {
+      "name": "Tårnet",
+      "latitude": 60.212597,
+      "longitude": 5.365431
+    },
+    {
+      "name": "Tøffingtårnet",
+      "latitude": 64.746515,
+      "longitude": 12.851376
+    },
+    {
+      "name": "Tønsberg telehus",
+      "latitude": 59.268877,
+      "longitude": 10.411298
+    },
+    {
+      "name": "Tønsnesvarden",
+      "latitude": 69.718169,
+      "longitude": 19.129153
+    },
+    {
+      "name": "Tørraasen",
+      "latitude": 61.277435,
+      "longitude": 11.552378
+    },
+    {
+      "name": "Ullern kirke",
+      "latitude": 59.925681,
+      "longitude": 10.654694
+    },
+    {
+      "name": "Ullrigg",
+      "latitude": 58.933476,
+      "longitude": 5.707507
+    },
+    {
+      "name": "Ulvegreina",
+      "latitude": 61.109862,
+      "longitude": 4.930094
+    },
+    {
+      "name": "Untuned Bell 2010-2020",
+      "latitude": 59.910795,
+      "longitude": 10.732679
+    },
+    {
+      "name": "VOR",
+      "latitude": 69.977494,
+      "longitude": 23.371723
+    },
+    {
+      "name": "VOR/DME",
+      "latitude": 62.55216,
+      "longitude": 6.034481
+    },
+    {
+      "name": "Vakttårnet",
+      "latitude": 59.59188,
+      "longitude": 11.174603
+    },
+    {
+      "name": "Varberg",
+      "latitude": 58.446604,
+      "longitude": 5.993609
+    },
+    {
+      "name": "Varden",
+      "latitude": 63.116,
+      "longitude": 7.712304
+    },
+    {
+      "name": "Vardheia",
+      "latitude": 63.537181,
+      "longitude": 9.959961
+    },
+    {
+      "name": "Varingskollen",
+      "latitude": 60.09316,
+      "longitude": 10.836813
+    },
+    {
+      "name": "Vega Radom",
+      "latitude": 65.657347,
+      "longitude": 11.829818
+    },
+    {
+      "name": "Vegardhovde",
+      "latitude": 60.054989,
+      "longitude": 8.373475
+    },
+    {
+      "name": "Verp",
+      "latitude": 59.867412,
+      "longitude": 9.931277
+    },
+    {
+      "name": "Vestre Aker kirke",
+      "latitude": 59.936674,
+      "longitude": 10.72898
+    },
+    {
+      "name": "Vetan",
+      "latitude": 59.176645,
+      "longitude": 10.427891
+    },
+    {
+      "name": "Viktjernåsen",
+      "latitude": 59.704761,
+      "longitude": 11.362636
+    },
+    {
+      "name": "Voksenkollen",
+      "latitude": 59.9748,
+      "longitude": 10.658215
+    },
+    {
+      "name": "Voreknuten",
+      "latitude": 58.356694,
+      "longitude": 6.503296
+    },
+    {
+      "name": "Vålerenga kirke",
+      "latitude": 59.906686,
+      "longitude": 10.787727
+    },
+    {
+      "name": "Vårberget",
+      "latitude": 70.365835,
+      "longitude": 31.128497
+    },
+    {
+      "name": "Værnes flytårn",
+      "latitude": 63.452791,
+      "longitude": 10.917748
+    },
+    {
+      "name": "Værradar Trolltinden",
+      "latitude": 69.241383,
+      "longitude": 16.00286
+    },
+    {
+      "name": "Værøy(radom)",
+      "latitude": 67.662892,
+      "longitude": 12.62582
+    },
+    {
+      "name": "Vætahaugen",
+      "latitude": 62.716175,
+      "longitude": 8.4953
+    },
+    {
+      "name": "Ypsilon",
+      "latitude": 59.744547,
+      "longitude": 10.195497
+    },
+    {
+      "name": "Ålfjell",
+      "latitude": 61.018942,
+      "longitude": 8.974838
+    },
+    {
+      "name": "Ålmenberget",
+      "latitude": 62.568719,
+      "longitude": 9.710812
+    },
+    {
+      "name": "Ørland TWR",
+      "latitude": 63.704702,
+      "longitude": 9.609907
+    },
+    {
+      "name": "Ørskogfjell",
+      "latitude": 62.516092,
+      "longitude": 6.872648
+    },
+    {
+      "name": "Øyenskavlen",
+      "latitude": 64.284694,
+      "longitude": 11.093181
+    },
+    {
+      "name": "пункт прием-передачи спутникового сигнала и базовая станция сотоваой связи Мегаофн",
+      "latitude": 78.061918,
+      "longitude": 14.240402
+    },
+    {
+      "name": "№ 51-999",
+      "latitude": 69.021124,
+      "longitude": 29.005156
+    }
+  ],
+  "meta": {
+    "title": "Named towers in Norway - Gratis nedlasting",
+    "description": "Named towers in Norway, derived from OpenStreetMap POI nodes tagged man_made=tower in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 353 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named towers in Norway | ListBase",
+    "seo_description": "Last ned Named towers in Norway — 353 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 353 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

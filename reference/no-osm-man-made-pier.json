@@ -1,0 +1,1756 @@
+{
+  "id": "no-osm-man-made-pier",
+  "name": "Named piers in Norway",
+  "title": "Named piers in Norway",
+  "description": "Named piers in Norway, derived from OpenStreetMap POI nodes tagged man_made=pier in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 343,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "(100-123)",
+      "latitude": 58.994505,
+      "longitude": 9.856081
+    },
+    {
+      "name": "(300-301)",
+      "latitude": 58.993903,
+      "longitude": 9.858015
+    },
+    {
+      "name": "(400-419)",
+      "latitude": 58.994116,
+      "longitude": 9.858453
+    },
+    {
+      "name": "(420-435)",
+      "latitude": 58.994663,
+      "longitude": 9.858637
+    },
+    {
+      "name": "(437-461)",
+      "latitude": 58.995276,
+      "longitude": 9.858313
+    },
+    {
+      "name": "(462-473)",
+      "latitude": 58.995695,
+      "longitude": 9.857611
+    },
+    {
+      "name": "(474-479)",
+      "latitude": 58.995641,
+      "longitude": 9.856806
+    },
+    {
+      "name": "(480-484)",
+      "latitude": 58.995529,
+      "longitude": 9.85658
+    },
+    {
+      "name": "(700-721)",
+      "latitude": 58.993139,
+      "longitude": 9.855629
+    },
+    {
+      "name": "(800-824)",
+      "latitude": 58.993694,
+      "longitude": 9.855899
+    },
+    {
+      "name": "100-bryggen",
+      "latitude": 61.105823,
+      "longitude": 10.447564
+    },
+    {
+      "name": "12,5'er brygga",
+      "latitude": 58.722482,
+      "longitude": 9.241194
+    },
+    {
+      "name": "200-bryggen",
+      "latitude": 61.104584,
+      "longitude": 10.447538
+    },
+    {
+      "name": "300-bryggen",
+      "latitude": 61.104894,
+      "longitude": 10.447145
+    },
+    {
+      "name": "400-bryggen",
+      "latitude": 61.105244,
+      "longitude": 10.447131
+    },
+    {
+      "name": "A",
+      "latitude": 59.103796,
+      "longitude": 10.228463
+    },
+    {
+      "name": "A",
+      "latitude": 59.838003,
+      "longitude": 10.476421
+    },
+    {
+      "name": "A-brygga",
+      "latitude": 59.243918,
+      "longitude": 10.448445
+    },
+    {
+      "name": "Akkerhaugen brygge",
+      "latitude": 59.392215,
+      "longitude": 9.254789
+    },
+    {
+      "name": "Aldersjøen",
+      "latitude": 66.401319,
+      "longitude": 13.118214
+    },
+    {
+      "name": "Allmenningskaia",
+      "latitude": 63.978561,
+      "longitude": 9.071025
+    },
+    {
+      "name": "Almennings- og ferjekai",
+      "latitude": 58.993853,
+      "longitude": 9.856932
+    },
+    {
+      "name": "Alværn Brygge",
+      "latitude": 59.818616,
+      "longitude": 10.617807
+    },
+    {
+      "name": "Alværnbukta",
+      "latitude": 59.82106,
+      "longitude": 10.620099
+    },
+    {
+      "name": "Amundsenbrygga",
+      "latitude": 59.265955,
+      "longitude": 11.081092
+    },
+    {
+      "name": "Andøy",
+      "latitude": 68.966397,
+      "longitude": 15.625582
+    },
+    {
+      "name": "Asker Helsesportlag",
+      "latitude": 59.808915,
+      "longitude": 10.360554
+    },
+    {
+      "name": "B",
+      "latitude": 59.103782,
+      "longitude": 10.227645
+    },
+    {
+      "name": "B",
+      "latitude": 59.837771,
+      "longitude": 10.475696
+    },
+    {
+      "name": "B-brygga",
+      "latitude": 59.243536,
+      "longitude": 10.448255
+    },
+    {
+      "name": "B1",
+      "latitude": 59.397141,
+      "longitude": 10.482617
+    },
+    {
+      "name": "B2",
+      "latitude": 59.397695,
+      "longitude": 10.481621
+    },
+    {
+      "name": "B3",
+      "latitude": 59.397908,
+      "longitude": 10.482157
+    },
+    {
+      "name": "B4",
+      "latitude": 59.397734,
+      "longitude": 10.482861
+    },
+    {
+      "name": "B5",
+      "latitude": 59.398025,
+      "longitude": 10.482859
+    },
+    {
+      "name": "B6",
+      "latitude": 59.397728,
+      "longitude": 10.483786
+    },
+    {
+      "name": "Barentsburg Ferry Pier",
+      "latitude": 78.063875,
+      "longitude": 14.20079
+    },
+    {
+      "name": "Barne Flytebrygga",
+      "latitude": 59.176021,
+      "longitude": 10.820623
+    },
+    {
+      "name": "Bekhuskaien",
+      "latitude": 58.972226,
+      "longitude": 5.744754
+    },
+    {
+      "name": "Bekhuskaien",
+      "latitude": 58.972767,
+      "longitude": 5.74474
+    },
+    {
+      "name": "Bekkarfjord",
+      "latitude": 70.589545,
+      "longitude": 27.229957
+    },
+    {
+      "name": "Bevøya",
+      "latitude": 59.509982,
+      "longitude": 10.64213
+    },
+    {
+      "name": "Blylaget brygge",
+      "latitude": 59.779226,
+      "longitude": 10.709656
+    },
+    {
+      "name": "Bogen",
+      "latitude": 68.525139,
+      "longitude": 17.000078
+    },
+    {
+      "name": "Bomansvik brygge",
+      "latitude": 59.79139,
+      "longitude": 10.705853
+    },
+    {
+      "name": "Borgstein flytebrygge",
+      "latitude": 62.334715,
+      "longitude": 5.851474
+    },
+    {
+      "name": "Borgstein flytebrygge2",
+      "latitude": 62.33386,
+      "longitude": 5.854267
+    },
+    {
+      "name": "Bradbenken",
+      "latitude": 60.398167,
+      "longitude": 5.319383
+    },
+    {
+      "name": "Brandal Marina Flytebrygge",
+      "latitude": 62.401373,
+      "longitude": 6.009891
+    },
+    {
+      "name": "Brandal Marina Flytebrygge2",
+      "latitude": 62.40038,
+      "longitude": 6.010748
+    },
+    {
+      "name": "Brekstad hurtigbåtkai",
+      "latitude": 63.686097,
+      "longitude": 9.667802
+    },
+    {
+      "name": "Brevik Brygge",
+      "latitude": 59.752092,
+      "longitude": 10.716018
+    },
+    {
+      "name": "Broen",
+      "latitude": 59.907836,
+      "longitude": 10.696849
+    },
+    {
+      "name": "Brygge",
+      "latitude": 59.638723,
+      "longitude": 11.160971
+    },
+    {
+      "name": "Brygge",
+      "latitude": 62.311041,
+      "longitude": 10.517683
+    },
+    {
+      "name": "Brygge 1",
+      "latitude": 59.908185,
+      "longitude": 10.695697
+    },
+    {
+      "name": "Brygge 1",
+      "latitude": 59.910564,
+      "longitude": 10.70339
+    },
+    {
+      "name": "Brygge 1",
+      "latitude": 60.954634,
+      "longitude": 10.629028
+    },
+    {
+      "name": "Brygge 2",
+      "latitude": 59.910776,
+      "longitude": 10.702907
+    },
+    {
+      "name": "Brygge 2",
+      "latitude": 60.954603,
+      "longitude": 10.629802
+    },
+    {
+      "name": "Brygge 3",
+      "latitude": 59.911024,
+      "longitude": 10.702407
+    },
+    {
+      "name": "Brygge 3",
+      "latitude": 69.650532,
+      "longitude": 18.968734
+    },
+    {
+      "name": "Brygge 4",
+      "latitude": 59.911335,
+      "longitude": 10.70212
+    },
+    {
+      "name": "Brygge 4",
+      "latitude": 69.650329,
+      "longitude": 18.967816
+    },
+    {
+      "name": "Brygge 5",
+      "latitude": 59.911595,
+      "longitude": 10.701654
+    },
+    {
+      "name": "Brygge 6",
+      "latitude": 59.911865,
+      "longitude": 10.701245
+    },
+    {
+      "name": "Brygge 7",
+      "latitude": 59.91214,
+      "longitude": 10.700838
+    },
+    {
+      "name": "Brygge 8",
+      "latitude": 59.912416,
+      "longitude": 10.700413
+    },
+    {
+      "name": "Brygge 9",
+      "latitude": 59.912657,
+      "longitude": 10.699958
+    },
+    {
+      "name": "Brygge A",
+      "latitude": 59.909715,
+      "longitude": 10.695492
+    },
+    {
+      "name": "Brygge A",
+      "latitude": 62.468689,
+      "longitude": 6.20445
+    },
+    {
+      "name": "Brygge B",
+      "latitude": 59.908524,
+      "longitude": 10.696132
+    },
+    {
+      "name": "Brygge B",
+      "latitude": 62.469117,
+      "longitude": 6.204268
+    },
+    {
+      "name": "Brygge C",
+      "latitude": 59.908898,
+      "longitude": 10.696384
+    },
+    {
+      "name": "Brygge C",
+      "latitude": 62.469433,
+      "longitude": 6.204523
+    },
+    {
+      "name": "Brygge D",
+      "latitude": 59.909681,
+      "longitude": 10.696711
+    },
+    {
+      "name": "Brygge D",
+      "latitude": 62.46971,
+      "longitude": 6.2049
+    },
+    {
+      "name": "Brygge E",
+      "latitude": 59.90999,
+      "longitude": 10.696823
+    },
+    {
+      "name": "Brygge F",
+      "latitude": 59.910429,
+      "longitude": 10.696899
+    },
+    {
+      "name": "Brygge G",
+      "latitude": 59.9108,
+      "longitude": 10.696775
+    },
+    {
+      "name": "Brygge H",
+      "latitude": 59.911115,
+      "longitude": 10.696663
+    },
+    {
+      "name": "Brygge I",
+      "latitude": 59.911494,
+      "longitude": 10.696187
+    },
+    {
+      "name": "Brygge J",
+      "latitude": 59.908814,
+      "longitude": 10.69818
+    },
+    {
+      "name": "Brygge K",
+      "latitude": 59.908762,
+      "longitude": 10.698678
+    },
+    {
+      "name": "Brygge X",
+      "latitude": 59.909327,
+      "longitude": 10.696511
+    },
+    {
+      "name": "BryggeParken",
+      "latitude": 58.297746,
+      "longitude": 6.646913
+    },
+    {
+      "name": "Budokka",
+      "latitude": 58.034133,
+      "longitude": 7.444764
+    },
+    {
+      "name": "Butikkaia",
+      "latitude": 67.277632,
+      "longitude": 14.008494
+    },
+    {
+      "name": "Butikkbrygga",
+      "latitude": 58.632909,
+      "longitude": 9.128012
+    },
+    {
+      "name": "Bymarkå",
+      "latitude": 58.931124,
+      "longitude": 5.7898
+    },
+    {
+      "name": "Bølgebryteren",
+      "latitude": 58.932666,
+      "longitude": 5.849437
+    },
+    {
+      "name": "C",
+      "latitude": 59.104087,
+      "longitude": 10.227823
+    },
+    {
+      "name": "C",
+      "latitude": 59.837548,
+      "longitude": 10.475055
+    },
+    {
+      "name": "D",
+      "latitude": 59.104389,
+      "longitude": 10.227626
+    },
+    {
+      "name": "D",
+      "latitude": 59.837342,
+      "longitude": 10.474442
+    },
+    {
+      "name": "Dampskipsbrygga",
+      "latitude": 58.341299,
+      "longitude": 8.596413
+    },
+    {
+      "name": "Den Gode Nabo",
+      "latitude": 63.427927,
+      "longitude": 10.401986
+    },
+    {
+      "name": "Dokkeskjærskaien",
+      "latitude": 60.388228,
+      "longitude": 5.310098
+    },
+    {
+      "name": "Driv Holmestrand marina",
+      "latitude": 59.489209,
+      "longitude": 10.318337
+    },
+    {
+      "name": "Dronningen",
+      "latitude": 59.908131,
+      "longitude": 10.697866
+    },
+    {
+      "name": "Dyno-havna",
+      "latitude": 59.711048,
+      "longitude": 10.352676
+    },
+    {
+      "name": "Dypvannskai",
+      "latitude": 59.413793,
+      "longitude": 10.492697
+    },
+    {
+      "name": "E",
+      "latitude": 59.83715,
+      "longitude": 10.473869
+    },
+    {
+      "name": "Einarsvika",
+      "latitude": 58.646417,
+      "longitude": 9.130002
+    },
+    {
+      "name": "Eresfjord Gjestehavn",
+      "latitude": 62.69032,
+      "longitude": 8.120163
+    },
+    {
+      "name": "F",
+      "latitude": 59.836859,
+      "longitude": 10.473391
+    },
+    {
+      "name": "Fagerstrand brygge",
+      "latitude": 59.735263,
+      "longitude": 10.584785
+    },
+    {
+      "name": "Fjellstrand brygge",
+      "latitude": 59.794069,
+      "longitude": 10.606515
+    },
+    {
+      "name": "Fjord Safari",
+      "latitude": 60.862544,
+      "longitude": 7.114327
+    },
+    {
+      "name": "Fjordvangen brygge",
+      "latitude": 59.8299,
+      "longitude": 10.695961
+    },
+    {
+      "name": "Florø Gjestebrygge",
+      "latitude": 61.600882,
+      "longitude": 5.03061
+    },
+    {
+      "name": "Flytebrygga",
+      "latitude": 59.176438,
+      "longitude": 10.817883
+    },
+    {
+      "name": "Flytebrygge",
+      "latitude": 62.826869,
+      "longitude": 7.122906
+    },
+    {
+      "name": "Flytebrygge (500-586)",
+      "latitude": 58.99537,
+      "longitude": 9.857481
+    },
+    {
+      "name": "Flytebrygge 2 (600-644)",
+      "latitude": 58.995286,
+      "longitude": 9.856993
+    },
+    {
+      "name": "Flåbygd brygge",
+      "latitude": 59.322754,
+      "longitude": 8.99561
+    },
+    {
+      "name": "Flåtan",
+      "latitude": 59.893594,
+      "longitude": 12.117214
+    },
+    {
+      "name": "Fossesjøen",
+      "latitude": 60.531997,
+      "longitude": 5.247862
+    },
+    {
+      "name": "Fyllingsbrygge",
+      "latitude": 66.868011,
+      "longitude": 13.702331
+    },
+    {
+      "name": "Fyrkaia",
+      "latitude": 62.893739,
+      "longitude": 6.821206
+    },
+    {
+      "name": "G",
+      "latitude": 59.836782,
+      "longitude": 10.472682
+    },
+    {
+      "name": "Gamlekaien",
+      "latitude": 60.157913,
+      "longitude": 5.668709
+    },
+    {
+      "name": "Gammel molo nord (485-491)",
+      "latitude": 58.995368,
+      "longitude": 9.856295
+    },
+    {
+      "name": "Gammel molo sør (124-147)",
+      "latitude": 58.994659,
+      "longitude": 9.85658
+    },
+    {
+      "name": "Gammel molo sør (200-225)",
+      "latitude": 58.994368,
+      "longitude": 9.856844
+    },
+    {
+      "name": "Gammelkaia",
+      "latitude": 67.276893,
+      "longitude": 14.006434
+    },
+    {
+      "name": "Gammelkaia",
+      "latitude": 78.226821,
+      "longitude": 15.625399
+    },
+    {
+      "name": "Geilevika",
+      "latitude": 62.465807,
+      "longitude": 6.017719
+    },
+    {
+      "name": "Gjestebrygga",
+      "latitude": 58.719263,
+      "longitude": 9.240219
+    },
+    {
+      "name": "Gjestebrygge",
+      "latitude": 58.62136,
+      "longitude": 8.932585
+    },
+    {
+      "name": "Gjestebrygge",
+      "latitude": 60.214398,
+      "longitude": 5.370363
+    },
+    {
+      "name": "Gjestebrygge",
+      "latitude": 60.552953,
+      "longitude": 5.737219
+    },
+    {
+      "name": "Gjestebrygge",
+      "latitude": 66.868323,
+      "longitude": 13.702287
+    },
+    {
+      "name": "Gjestebrygge Dragsund",
+      "latitude": 59.707407,
+      "longitude": 10.556773
+    },
+    {
+      "name": "Gjestebrygge Dragsund",
+      "latitude": 59.707567,
+      "longitude": 10.554336
+    },
+    {
+      "name": "Gjestekaien",
+      "latitude": 60.466525,
+      "longitude": 7.06673
+    },
+    {
+      "name": "Grindøya brygge",
+      "latitude": 59.688621,
+      "longitude": 11.120226
+    },
+    {
+      "name": "Gyldenløve Kajakklubb",
+      "latitude": 59.736426,
+      "longitude": 10.213365
+    },
+    {
+      "name": "Gåserumpa gjestebrygge",
+      "latitude": 59.518417,
+      "longitude": 10.326936
+    },
+    {
+      "name": "H",
+      "latitude": 59.836721,
+      "longitude": 10.471955
+    },
+    {
+      "name": "Harstad Gjestehavn",
+      "latitude": 68.802224,
+      "longitude": 16.545845
+    },
+    {
+      "name": "Hasselvika hurtigbåtkai",
+      "latitude": 63.63319,
+      "longitude": 9.827776
+    },
+    {
+      "name": "Haukeliseter fjellstue",
+      "latitude": 59.823723,
+      "longitude": 7.192654
+    },
+    {
+      "name": "Heenkaia",
+      "latitude": 67.035778,
+      "longitude": 14.024586
+    },
+    {
+      "name": "Hella",
+      "latitude": 59.492432,
+      "longitude": 10.317326
+    },
+    {
+      "name": "Hellvik brygge",
+      "latitude": 59.8447,
+      "longitude": 10.692151
+    },
+    {
+      "name": "Hetlandskaien",
+      "latitude": 58.947944,
+      "longitude": 5.750798
+    },
+    {
+      "name": "Holbergskaien",
+      "latitude": 60.396869,
+      "longitude": 5.317197
+    },
+    {
+      "name": "Holmen",
+      "latitude": 66.571478,
+      "longitude": 12.628747
+    },
+    {
+      "name": "Hompabryggå",
+      "latitude": 59.006352,
+      "longitude": 5.719467
+    },
+    {
+      "name": "Hongsand handel gjestebrygge",
+      "latitude": 64.146283,
+      "longitude": 10.159879
+    },
+    {
+      "name": "Honnørbrygga",
+      "latitude": 59.910694,
+      "longitude": 10.732545
+    },
+    {
+      "name": "Honnørbrygga",
+      "latitude": 62.736439,
+      "longitude": 7.159943
+    },
+    {
+      "name": "Honørbrygga",
+      "latitude": 59.413432,
+      "longitude": 10.487944
+    },
+    {
+      "name": "Hoppetårn",
+      "latitude": 59.184979,
+      "longitude": 11.185677
+    },
+    {
+      "name": "Hovinsholm Brygge",
+      "latitude": 60.717713,
+      "longitude": 11.017875
+    },
+    {
+      "name": "J",
+      "latitude": 59.836513,
+      "longitude": 10.47077
+    },
+    {
+      "name": "Jr. bryggen",
+      "latitude": 61.106039,
+      "longitude": 10.44751
+    },
+    {
+      "name": "Jørpeland Kai",
+      "latitude": 59.017507,
+      "longitude": 6.042592
+    },
+    {
+      "name": "K",
+      "latitude": 59.836206,
+      "longitude": 10.471028
+    },
+    {
+      "name": "Kai 1",
+      "latitude": 63.104258,
+      "longitude": 7.768525
+    },
+    {
+      "name": "Kai 1",
+      "latitude": 63.43809,
+      "longitude": 10.397284
+    },
+    {
+      "name": "Kai 10/11",
+      "latitude": 69.65048,
+      "longitude": 18.96139
+    },
+    {
+      "name": "Kai 2",
+      "latitude": 63.104983,
+      "longitude": 7.76858
+    },
+    {
+      "name": "Kai 2",
+      "latitude": 63.438357,
+      "longitude": 10.396747
+    },
+    {
+      "name": "Kai 3",
+      "latitude": 63.105974,
+      "longitude": 7.772865
+    },
+    {
+      "name": "Kai 4",
+      "latitude": 63.103905,
+      "longitude": 7.774828
+    },
+    {
+      "name": "Kai 5",
+      "latitude": 63.10382,
+      "longitude": 7.777352
+    },
+    {
+      "name": "Kai 6 vest",
+      "latitude": 63.104009,
+      "longitude": 7.780257
+    },
+    {
+      "name": "Kai 68, Turistskipskaia",
+      "latitude": 63.440778,
+      "longitude": 10.399001
+    },
+    {
+      "name": "Kai 7",
+      "latitude": 63.104321,
+      "longitude": 7.784816
+    },
+    {
+      "name": "Kai 8",
+      "latitude": 63.104629,
+      "longitude": 7.79125
+    },
+    {
+      "name": "Kai 8 øst",
+      "latitude": 63.103983,
+      "longitude": 7.782081
+    },
+    {
+      "name": "Kajakbrygga",
+      "latitude": 59.806882,
+      "longitude": 10.804544
+    },
+    {
+      "name": "Kanobrygge",
+      "latitude": 59.293958,
+      "longitude": 9.055492
+    },
+    {
+      "name": "Kastellet sjøbad",
+      "latitude": 58.717183,
+      "longitude": 9.240382
+    },
+    {
+      "name": "Kavringstrand brygge",
+      "latitude": 59.846067,
+      "longitude": 10.646443
+    },
+    {
+      "name": "Kayak pier",
+      "latitude": 59.199859,
+      "longitude": 9.598322
+    },
+    {
+      "name": "Kilebrygga",
+      "latitude": 59.154278,
+      "longitude": 11.038278
+    },
+    {
+      "name": "Kjeldbotn",
+      "latitude": 68.455276,
+      "longitude": 16.693799
+    },
+    {
+      "name": "Kjernesbrygge",
+      "latitude": 59.750422,
+      "longitude": 10.724339
+    },
+    {
+      "name": "Kraftlagskaia",
+      "latitude": 63.849928,
+      "longitude": 8.63426
+    },
+    {
+      "name": "Kyststien",
+      "latitude": 59.891249,
+      "longitude": 10.533394
+    },
+    {
+      "name": "Kyststien",
+      "latitude": 59.892146,
+      "longitude": 10.538
+    },
+    {
+      "name": "Kyststien Strandvegen",
+      "latitude": 60.183945,
+      "longitude": 5.470119
+    },
+    {
+      "name": "L",
+      "latitude": 59.835884,
+      "longitude": 10.471762
+    },
+    {
+      "name": "Landstad brygge",
+      "latitude": 59.321144,
+      "longitude": 9.003169
+    },
+    {
+      "name": "Langfjordnes",
+      "latitude": 70.71569,
+      "longitude": 28.075744
+    },
+    {
+      "name": "Leknesferjekai",
+      "latitude": 62.205651,
+      "longitude": 6.53397
+    },
+    {
+      "name": "Lekterane",
+      "latitude": 59.075566,
+      "longitude": 9.692614
+    },
+    {
+      "name": "Lektern",
+      "latitude": 59.909608,
+      "longitude": 10.727818
+    },
+    {
+      "name": "Lensvik hurtigbåtkai",
+      "latitude": 63.505022,
+      "longitude": 9.830623
+    },
+    {
+      "name": "Longyearbyen Main Pier",
+      "latitude": 78.229186,
+      "longitude": 15.60087
+    },
+    {
+      "name": "Lundbrygga",
+      "latitude": 68.876143,
+      "longitude": 17.830725
+    },
+    {
+      "name": "Luxusbrygga (334-351 | 304-332)",
+      "latitude": 58.994206,
+      "longitude": 9.858004
+    },
+    {
+      "name": "M",
+      "latitude": 59.835524,
+      "longitude": 10.471864
+    },
+    {
+      "name": "Malmøya brygge",
+      "latitude": 59.868755,
+      "longitude": 10.762536
+    },
+    {
+      "name": "Meiland kai",
+      "latitude": 70.009376,
+      "longitude": 21.259522
+    },
+    {
+      "name": "Midtbrygga Kløkstad Fritidshavn",
+      "latitude": 67.380536,
+      "longitude": 14.613021
+    },
+    {
+      "name": "Milionfiskbrygga",
+      "latitude": 68.874991,
+      "longitude": 17.832203
+    },
+    {
+      "name": "Mindalen badeplass",
+      "latitude": 58.722497,
+      "longitude": 9.199231
+    },
+    {
+      "name": "Mo Gjestehavn",
+      "latitude": 60.813823,
+      "longitude": 5.802373
+    },
+    {
+      "name": "Mobryggja",
+      "latitude": 60.814239,
+      "longitude": 5.802416
+    },
+    {
+      "name": "Molo",
+      "latitude": 59.220209,
+      "longitude": 10.969569
+    },
+    {
+      "name": "Moloen",
+      "latitude": 59.723138,
+      "longitude": 10.519284
+    },
+    {
+      "name": "Munkebryggen",
+      "latitude": 60.397352,
+      "longitude": 5.316084
+    },
+    {
+      "name": "Måløy hurtigbåtkai",
+      "latitude": 61.933333,
+      "longitude": 5.114025
+    },
+    {
+      "name": "N.N.",
+      "latitude": 71.101365,
+      "longitude": 25.377687
+    },
+    {
+      "name": "NATO-kaia",
+      "latitude": 68.883314,
+      "longitude": 17.820422
+    },
+    {
+      "name": "NRPK",
+      "latitude": 59.87351,
+      "longitude": 10.85904
+    },
+    {
+      "name": "NTNU Nyhavna Dock",
+      "latitude": 63.441315,
+      "longitude": 10.419759
+    },
+    {
+      "name": "Namsos hurtigbåtkai",
+      "latitude": 64.464442,
+      "longitude": 11.490879
+    },
+    {
+      "name": "Nebba brygge",
+      "latitude": 59.758354,
+      "longitude": 10.726015
+    },
+    {
+      "name": "Ninas kai",
+      "latitude": 60.307021,
+      "longitude": 5.374919
+    },
+    {
+      "name": "Nordlandskaia",
+      "latitude": 63.110769,
+      "longitude": 7.744284
+    },
+    {
+      "name": "Nordre Jarlsberg Brygge (NJB)",
+      "latitude": 59.560977,
+      "longitude": 10.268412
+    },
+    {
+      "name": "Nordstrand brygge",
+      "latitude": 59.786898,
+      "longitude": 10.597476
+    },
+    {
+      "name": "Nyekaien",
+      "latitude": 60.158161,
+      "longitude": 5.672443
+    },
+    {
+      "name": "Odden",
+      "latitude": 59.140735,
+      "longitude": 10.450489
+    },
+    {
+      "name": "Ommen Brygge",
+      "latitude": 59.80364,
+      "longitude": 10.606711
+    },
+    {
+      "name": "Oterstranda pier",
+      "latitude": 66.950093,
+      "longitude": 13.913642
+    },
+    {
+      "name": "P",
+      "latitude": 59.835884,
+      "longitude": 10.475558
+    },
+    {
+      "name": "Panengen Brygge",
+      "latitude": 60.652307,
+      "longitude": 11.00704
+    },
+    {
+      "name": "Pir 1",
+      "latitude": 58.929728,
+      "longitude": 5.850486
+    },
+    {
+      "name": "Pir 1",
+      "latitude": 59.262413,
+      "longitude": 10.41404
+    },
+    {
+      "name": "Pir 10",
+      "latitude": 59.263799,
+      "longitude": 10.408413
+    },
+    {
+      "name": "Pir 11",
+      "latitude": 59.263854,
+      "longitude": 10.407937
+    },
+    {
+      "name": "Pir 12",
+      "latitude": 59.263612,
+      "longitude": 10.407833
+    },
+    {
+      "name": "Pir 2",
+      "latitude": 58.930006,
+      "longitude": 5.850397
+    },
+    {
+      "name": "Pir 2",
+      "latitude": 59.262597,
+      "longitude": 10.413326
+    },
+    {
+      "name": "Pir 3",
+      "latitude": 58.930299,
+      "longitude": 5.850301
+    },
+    {
+      "name": "Pir 3",
+      "latitude": 59.262781,
+      "longitude": 10.41263
+    },
+    {
+      "name": "Pir 4",
+      "latitude": 58.93058,
+      "longitude": 5.850187
+    },
+    {
+      "name": "Pir 4",
+      "latitude": 59.262993,
+      "longitude": 10.411928
+    },
+    {
+      "name": "Pir 5",
+      "latitude": 58.930944,
+      "longitude": 5.85001
+    },
+    {
+      "name": "Pir 5",
+      "latitude": 59.263111,
+      "longitude": 10.411289
+    },
+    {
+      "name": "Pir 6",
+      "latitude": 58.931251,
+      "longitude": 5.849881
+    },
+    {
+      "name": "Pir 6",
+      "latitude": 59.263221,
+      "longitude": 10.41078
+    },
+    {
+      "name": "Pir 7",
+      "latitude": 58.931619,
+      "longitude": 5.849797
+    },
+    {
+      "name": "Pir 7",
+      "latitude": 59.263425,
+      "longitude": 10.410123
+    },
+    {
+      "name": "Pir 8",
+      "latitude": 58.931895,
+      "longitude": 5.849732
+    },
+    {
+      "name": "Pir 8",
+      "latitude": 59.26354,
+      "longitude": 10.409577
+    },
+    {
+      "name": "Pir 9",
+      "latitude": 58.932278,
+      "longitude": 5.849648
+    },
+    {
+      "name": "Pir 9",
+      "latitude": 59.263715,
+      "longitude": 10.409018
+    },
+    {
+      "name": "Pleymkaia",
+      "latitude": 69.972421,
+      "longitude": 29.642719
+    },
+    {
+      "name": "Postbryggjo Tunes",
+      "latitude": 60.435867,
+      "longitude": 5.50001
+    },
+    {
+      "name": "Pyramiden",
+      "latitude": 78.65518,
+      "longitude": 16.380738
+    },
+    {
+      "name": "Q",
+      "latitude": 59.836139,
+      "longitude": 10.476081
+    },
+    {
+      "name": "R",
+      "latitude": 59.836366,
+      "longitude": 10.476668
+    },
+    {
+      "name": "Redningsselskapet",
+      "latitude": 69.651725,
+      "longitude": 18.962121
+    },
+    {
+      "name": "Rekefjord Gjestehavn, Malmkaien",
+      "latitude": 58.338995,
+      "longitude": 6.260646
+    },
+    {
+      "name": "Reknes Gjestehavn",
+      "latitude": 62.733132,
+      "longitude": 7.152199
+    },
+    {
+      "name": "Reknes Gjestehavn",
+      "latitude": 62.73344,
+      "longitude": 7.151318
+    },
+    {
+      "name": "Rib pier",
+      "latitude": 78.228036,
+      "longitude": 15.60778
+    },
+    {
+      "name": "Rigmorbrygga",
+      "latitude": 59.888388,
+      "longitude": 10.527656
+    },
+    {
+      "name": "Ringen brygge",
+      "latitude": 58.570811,
+      "longitude": 8.997343
+    },
+    {
+      "name": "Ringnes",
+      "latitude": 60.25887,
+      "longitude": 9.634571
+    },
+    {
+      "name": "Risør Motorbåtforening",
+      "latitude": 58.725274,
+      "longitude": 9.259358
+    },
+    {
+      "name": "Rombaksbotn",
+      "latitude": 68.418768,
+      "longitude": 17.897462
+    },
+    {
+      "name": "Romerbrygga",
+      "latitude": 59.889976,
+      "longitude": 10.706608
+    },
+    {
+      "name": "Rommetveit Båtlag",
+      "latitude": 59.798763,
+      "longitude": 5.536128
+    },
+    {
+      "name": "Rommetveit Båtlag",
+      "latitude": 59.799714,
+      "longitude": 5.535186
+    },
+    {
+      "name": "Rudstrand brygge",
+      "latitude": 59.802388,
+      "longitude": 10.704781
+    },
+    {
+      "name": "Ryggefjord kai",
+      "latitude": 70.872406,
+      "longitude": 24.938115
+    },
+    {
+      "name": "Rådhusbrygge 1",
+      "latitude": 59.909896,
+      "longitude": 10.733688
+    },
+    {
+      "name": "Rådhusbrygge 2",
+      "latitude": 59.90997,
+      "longitude": 10.732791
+    },
+    {
+      "name": "Rådhusbrygge 3",
+      "latitude": 59.91022,
+      "longitude": 10.731381
+    },
+    {
+      "name": "Rådhusbrygge 4",
+      "latitude": 59.91049,
+      "longitude": 10.730431
+    },
+    {
+      "name": "Rødtangen A-brygge",
+      "latitude": 59.530638,
+      "longitude": 10.413579
+    },
+    {
+      "name": "Rødtangen Nordbrygge",
+      "latitude": 59.532697,
+      "longitude": 10.414318
+    },
+    {
+      "name": "Rødtangen brygge",
+      "latitude": 59.531382,
+      "longitude": 10.413408
+    },
+    {
+      "name": "Rødtangen brygge",
+      "latitude": 59.531751,
+      "longitude": 10.414726
+    },
+    {
+      "name": "S",
+      "latitude": 59.836652,
+      "longitude": 10.477232
+    },
+    {
+      "name": "Sandbakken Marina",
+      "latitude": 63.486565,
+      "longitude": 9.998358
+    },
+    {
+      "name": "Sandum brygge",
+      "latitude": 58.34218,
+      "longitude": 8.638053
+    },
+    {
+      "name": "Schibstedbrygga",
+      "latitude": 59.155935,
+      "longitude": 11.03405
+    },
+    {
+      "name": "Shetlands-Larsens brygge",
+      "latitude": 60.395512,
+      "longitude": 5.324229
+    },
+    {
+      "name": "Silda Gjestebrygge",
+      "latitude": 62.012047,
+      "longitude": 5.201957
+    },
+    {
+      "name": "Sirevåg",
+      "latitude": 58.504616,
+      "longitude": 5.788304
+    },
+    {
+      "name": "Sirevåg",
+      "latitude": 58.505545,
+      "longitude": 5.785139
+    },
+    {
+      "name": "Sjøbadpiren",
+      "latitude": 62.736447,
+      "longitude": 7.162903
+    },
+    {
+      "name": "Sjøloftet gjestebrygge",
+      "latitude": 59.054488,
+      "longitude": 9.701306
+    },
+    {
+      "name": "Skansenmoloen",
+      "latitude": 63.432752,
+      "longitude": 10.37866
+    },
+    {
+      "name": "Skjåstad",
+      "latitude": 66.400531,
+      "longitude": 13.148178
+    },
+    {
+      "name": "Skjørshammer brygge",
+      "latitude": 59.486084,
+      "longitude": 11.241595
+    },
+    {
+      "name": "Skolebryggå",
+      "latitude": 58.993742,
+      "longitude": 5.753757
+    },
+    {
+      "name": "Slupsura",
+      "latitude": 57.981054,
+      "longitude": 7.536866
+    },
+    {
+      "name": "Snilstveitøy kai",
+      "latitude": 59.981622,
+      "longitude": 5.956302
+    },
+    {
+      "name": "Snøhvitkaia",
+      "latitude": 69.978238,
+      "longitude": 23.329649
+    },
+    {
+      "name": "St. Olavs pir",
+      "latitude": 63.4362,
+      "longitude": 10.391435
+    },
+    {
+      "name": "Stakabukta",
+      "latitude": 59.722141,
+      "longitude": 10.721513
+    },
+    {
+      "name": "Steinkaia",
+      "latitude": 66.818519,
+      "longitude": 13.416335
+    },
+    {
+      "name": "Storsand",
+      "latitude": 59.642925,
+      "longitude": 10.605508
+    },
+    {
+      "name": "Strandtorget fergeleie",
+      "latitude": 69.646814,
+      "longitude": 18.956007
+    },
+    {
+      "name": "Strandveien",
+      "latitude": 71.062162,
+      "longitude": 28.262451
+    },
+    {
+      "name": "Strandvik Marina",
+      "latitude": 60.149084,
+      "longitude": 5.643228
+    },
+    {
+      "name": "Strusshamn",
+      "latitude": 60.403041,
+      "longitude": 5.191044
+    },
+    {
+      "name": "Stupeanlegget",
+      "latitude": 60.792966,
+      "longitude": 11.05992
+    },
+    {
+      "name": "Stupebrett",
+      "latitude": 69.941883,
+      "longitude": 23.210151
+    },
+    {
+      "name": "Stupetårnet",
+      "latitude": 60.792923,
+      "longitude": 11.059953
+    },
+    {
+      "name": "Støllevik",
+      "latitude": 58.337405,
+      "longitude": 6.256347
+    },
+    {
+      "name": "Sundbrygga",
+      "latitude": 59.670222,
+      "longitude": 10.622662
+    },
+    {
+      "name": "Sundt-bryggen",
+      "latitude": 59.908365,
+      "longitude": 10.698945
+    },
+    {
+      "name": "Svaberg",
+      "latitude": 59.749186,
+      "longitude": 10.512944
+    },
+    {
+      "name": "Søndre Flaskebekk brygge",
+      "latitude": 59.856659,
+      "longitude": 10.649896
+    },
+    {
+      "name": "Sørenga Sjøbad",
+      "latitude": 59.900927,
+      "longitude": 10.750863
+    },
+    {
+      "name": "T",
+      "latitude": 59.836787,
+      "longitude": 10.478037
+    },
+    {
+      "name": "Tangenbrygga",
+      "latitude": 60.123635,
+      "longitude": 10.353018
+    },
+    {
+      "name": "Tautra",
+      "latitude": 63.580895,
+      "longitude": 10.628936
+    },
+    {
+      "name": "Tender pier",
+      "latitude": 78.22941,
+      "longitude": 15.595699
+    },
+    {
+      "name": "Tenderbrygge",
+      "latitude": 62.568606,
+      "longitude": 7.688706
+    },
+    {
+      "name": "Tingvalla-utstikkeren",
+      "latitude": 59.908517,
+      "longitude": 10.725908
+    },
+    {
+      "name": "Tistedalen Brygge",
+      "latitude": 59.125379,
+      "longitude": 11.450163
+    },
+    {
+      "name": "Turistkaia",
+      "latitude": 78.228055,
+      "longitude": 15.610667
+    },
+    {
+      "name": "Tyskerbrygga",
+      "latitude": 58.05263,
+      "longitude": 7.849988
+    },
+    {
+      "name": "Tøndergård Båthavnlag",
+      "latitude": 62.738263,
+      "longitude": 7.207842
+    },
+    {
+      "name": "Tøndergård Båthavnlag",
+      "latitude": 62.739106,
+      "longitude": 7.210242
+    },
+    {
+      "name": "Tøndergård Båthavnlag",
+      "latitude": 62.739115,
+      "longitude": 7.206615
+    },
+    {
+      "name": "Tøndergård Båthavnlag",
+      "latitude": 62.739183,
+      "longitude": 7.21264
+    },
+    {
+      "name": "Tøndergård Båthavnlag",
+      "latitude": 62.739394,
+      "longitude": 7.211484
+    },
+    {
+      "name": "Tøndergård Båthavnlag",
+      "latitude": 62.73942,
+      "longitude": 7.208045
+    },
+    {
+      "name": "U",
+      "latitude": 59.835695,
+      "longitude": 10.479336
+    },
+    {
+      "name": "Utøykaia",
+      "latitude": 60.022717,
+      "longitude": 10.262046
+    },
+    {
+      "name": "V",
+      "latitude": 59.835456,
+      "longitude": 10.47879
+    },
+    {
+      "name": "Valle båtforening",
+      "latitude": 58.931021,
+      "longitude": 9.562016
+    },
+    {
+      "name": "Valle båthavn",
+      "latitude": 58.929971,
+      "longitude": 9.561283
+    },
+    {
+      "name": "Vestre torgpiren",
+      "latitude": 62.736278,
+      "longitude": 7.158692
+    },
+    {
+      "name": "Vikedal Kai",
+      "latitude": 59.496741,
+      "longitude": 5.893153
+    },
+    {
+      "name": "Vinterstøbrygga",
+      "latitude": 58.645614,
+      "longitude": 9.124309
+    },
+    {
+      "name": "Vågebrygga",
+      "latitude": 58.227294,
+      "longitude": 6.558618
+    },
+    {
+      "name": "W",
+      "latitude": 59.835237,
+      "longitude": 10.478304
+    },
+    {
+      "name": "X",
+      "latitude": 59.835012,
+      "longitude": 10.47779
+    },
+    {
+      "name": "Y",
+      "latitude": 59.834827,
+      "longitude": 10.477367
+    },
+    {
+      "name": "berth with terminal for coal loading",
+      "latitude": 78.062197,
+      "longitude": 14.202452
+    },
+    {
+      "name": "komodeskuffa 1",
+      "latitude": 57.981434,
+      "longitude": 7.536342
+    },
+    {
+      "name": "linkspan",
+      "latitude": 60.862735,
+      "longitude": 7.114125
+    },
+    {
+      "name": "småbåthavna",
+      "latitude": 67.283272,
+      "longitude": 14.367728
+    },
+    {
+      "name": "småbåthavna",
+      "latitude": 67.283929,
+      "longitude": 14.365041
+    },
+    {
+      "name": "Ådnøyparken",
+      "latitude": 59.052136,
+      "longitude": 5.405589
+    },
+    {
+      "name": "Ølen",
+      "latitude": 59.67153,
+      "longitude": 5.736155
+    },
+    {
+      "name": "Østfold Modellbåtklubb treningsplass ØMBK",
+      "latitude": 59.417853,
+      "longitude": 10.994258
+    },
+    {
+      "name": "Østre Vallesverd",
+      "latitude": 58.214804,
+      "longitude": 8.280343
+    },
+    {
+      "name": "Østre torgpiren",
+      "latitude": 62.736614,
+      "longitude": 7.16032
+    }
+  ],
+  "meta": {
+    "title": "Named piers in Norway - Gratis nedlasting",
+    "description": "Named piers in Norway, derived from OpenStreetMap POI nodes tagged man_made=pier in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 343 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named piers in Norway | ListBase",
+    "seo_description": "Last ned Named piers in Norway — 343 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 343 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "id": "no-kilder",
+  "name": "Springs in Norway",
+  "title": "Springs in Norway",
+  "description": "Springs in Norway (Kilder i Norge), derived from OpenStreetMap POIs tagged natural=spring. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bjellkjelda",
+      "latitude": 61.28092,
+      "longitude": 11.981725
+    },
+    {
+      "name": "Bjørkkjelda",
+      "latitude": 61.176009,
+      "longitude": 11.93926
+    },
+    {
+      "name": "Bjørns kilde",
+      "latitude": 61.561964,
+      "longitude": 11.163941
+    },
+    {
+      "name": "Bjørnstadkilda",
+      "latitude": 60.712596,
+      "longitude": 12.381456
+    },
+    {
+      "name": "Blankkjelda",
+      "latitude": 61.297663,
+      "longitude": 11.993694
+    },
+    {
+      "name": "Bubbelen",
+      "latitude": 69.993929,
+      "longitude": 22.347142
+    },
+    {
+      "name": "Bubekkbotninga",
+      "latitude": 61.47692,
+      "longitude": 12.021404
+    },
+    {
+      "name": "Bubekkbøtninga",
+      "latitude": 61.481776,
+      "longitude": 12.030653
+    },
+    {
+      "name": "Didrikskjelda",
+      "latitude": 61.219453,
+      "longitude": 10.816729
+    },
+    {
+      "name": "Doktorkjelda",
+      "latitude": 60.659791,
+      "longitude": 12.240557
+    },
+    {
+      "name": "Dølkjøylla",
+      "latitude": 61.201975,
+      "longitude": 10.422372
+    },
+    {
+      "name": "Elgkjelda",
+      "latitude": 60.693856,
+      "longitude": 12.276008
+    },
+    {
+      "name": "Flissæterkjelda",
+      "latitude": 60.831472,
+      "longitude": 12.307495
+    },
+    {
+      "name": "Groom-brønnen",
+      "latitude": 58.970183,
+      "longitude": 5.72866
+    },
+    {
+      "name": "Grønkjelda",
+      "latitude": 61.246127,
+      "longitude": 12.170075
+    },
+    {
+      "name": "Gullikjelda",
+      "latitude": 60.894765,
+      "longitude": 12.253129
+    },
+    {
+      "name": "Hanstanskjelda",
+      "latitude": 61.283903,
+      "longitude": 12.001154
+    },
+    {
+      "name": "Hedemarkingskjelda",
+      "latitude": 60.825696,
+      "longitude": 12.288312
+    },
+    {
+      "name": "Hestkilda",
+      "latitude": 68.420773,
+      "longitude": 16.730902
+    },
+    {
+      "name": "Hopakjelda",
+      "latitude": 61.265854,
+      "longitude": 7.160336
+    },
+    {
+      "name": "Ilhøla",
+      "latitude": 60.396973,
+      "longitude": 11.582731
+    },
+    {
+      "name": "Jennys kilde",
+      "latitude": 59.761556,
+      "longitude": 10.193363
+    },
+    {
+      "name": "Jutultønna",
+      "latitude": 59.760061,
+      "longitude": 10.191171
+    },
+    {
+      "name": "Kaldvassåra",
+      "latitude": 62.608694,
+      "longitude": 11.151311
+    },
+    {
+      "name": "Kilden",
+      "latitude": 59.81867,
+      "longitude": 10.662072
+    },
+    {
+      "name": "Kilden",
+      "latitude": 60.32628,
+      "longitude": 11.24266
+    },
+    {
+      "name": "Kjelda",
+      "latitude": 61.215753,
+      "longitude": 12.173493
+    },
+    {
+      "name": "Kjelda oppå åsen",
+      "latitude": 61.198111,
+      "longitude": 12.759248
+    },
+    {
+      "name": "Kjelda under åsen",
+      "latitude": 61.197589,
+      "longitude": 12.756474
+    },
+    {
+      "name": "Kjeldmyrkjella",
+      "latitude": 60.877582,
+      "longitude": 12.046878
+    },
+    {
+      "name": "Kjøllan",
+      "latitude": 62.322142,
+      "longitude": 11.584274
+    },
+    {
+      "name": "Lamkjelda",
+      "latitude": 61.273807,
+      "longitude": 12.344772
+    },
+    {
+      "name": "Langrøstkjølla",
+      "latitude": 62.244765,
+      "longitude": 11.806149
+    },
+    {
+      "name": "Lonkans kjelder",
+      "latitude": 60.304446,
+      "longitude": 12.225366
+    },
+    {
+      "name": "Medisinkjelda",
+      "latitude": 61.559499,
+      "longitude": 12.11636
+    },
+    {
+      "name": "Merrakjelda",
+      "latitude": 61.197172,
+      "longitude": 12.27228
+    },
+    {
+      "name": "Mosekjelda",
+      "latitude": 61.285287,
+      "longitude": 11.982967
+    },
+    {
+      "name": "Normannskjelda",
+      "latitude": 60.607847,
+      "longitude": 12.131759
+    },
+    {
+      "name": "Olavsbrønnen",
+      "latitude": 60.058665,
+      "longitude": 10.346137
+    },
+    {
+      "name": "Olavskeia",
+      "latitude": 60.424307,
+      "longitude": 11.708084
+    },
+    {
+      "name": "Olavskilden",
+      "latitude": 60.009276,
+      "longitude": 10.376641
+    },
+    {
+      "name": "Olavskilden",
+      "latitude": 60.606627,
+      "longitude": 12.302337
+    },
+    {
+      "name": "Olavskjelda",
+      "latitude": 59.383058,
+      "longitude": 5.238594
+    },
+    {
+      "name": "Olavskjelda",
+      "latitude": 59.703133,
+      "longitude": 5.383157
+    },
+    {
+      "name": "Olavskjelda",
+      "latitude": 61.280582,
+      "longitude": 7.169135
+    },
+    {
+      "name": "Olderkjeldkoia",
+      "latitude": 61.334249,
+      "longitude": 12.017057
+    },
+    {
+      "name": "Olekjelda",
+      "latitude": 61.206931,
+      "longitude": 12.242292
+    },
+    {
+      "name": "Oppkomstådra",
+      "latitude": 69.658806,
+      "longitude": 19.579642
+    },
+    {
+      "name": "Pilterudsila",
+      "latitude": 60.297981,
+      "longitude": 11.764209
+    },
+    {
+      "name": "Pipekvila",
+      "latitude": 59.777894,
+      "longitude": 10.76536
+    },
+    {
+      "name": "Rognesteinolla",
+      "latitude": 60.163673,
+      "longitude": 10.362854
+    },
+    {
+      "name": "Rognkjelda",
+      "latitude": 61.558349,
+      "longitude": 12.13127
+    },
+    {
+      "name": "Sagbekkbørte",
+      "latitude": 61.772298,
+      "longitude": 11.999248
+    },
+    {
+      "name": "Saukjølla",
+      "latitude": 61.561923,
+      "longitude": 10.740912
+    },
+    {
+      "name": "Seidi",
+      "latitude": 70.62552,
+      "longitude": 25.336866
+    },
+    {
+      "name": "Simensølla",
+      "latitude": 59.977095,
+      "longitude": 10.438566
+    },
+    {
+      "name": "Skjeftkjelda",
+      "latitude": 61.281365,
+      "longitude": 11.99447
+    },
+    {
+      "name": "Small spring",
+      "latitude": 61.425395,
+      "longitude": 9.184347
+    },
+    {
+      "name": "Småblestkjeldene",
+      "latitude": 61.24022,
+      "longitude": 12.585357
+    },
+    {
+      "name": "St. Olavskilden",
+      "latitude": 61.052811,
+      "longitude": 10.471057
+    },
+    {
+      "name": "Steinbekken",
+      "latitude": 60.243921,
+      "longitude": 11.640564
+    },
+    {
+      "name": "Steinkjelda",
+      "latitude": 60.691549,
+      "longitude": 12.26684
+    },
+    {
+      "name": "Storkjølda",
+      "latitude": 62.551054,
+      "longitude": 11.472904
+    },
+    {
+      "name": "Svart-Larskjeldene",
+      "latitude": 61.293776,
+      "longitude": 12.614156
+    },
+    {
+      "name": "Svælabruolla",
+      "latitude": 60.517742,
+      "longitude": 10.456458
+    },
+    {
+      "name": "Tandbergolla",
+      "latitude": 60.165699,
+      "longitude": 10.359005
+    },
+    {
+      "name": "Trollkjelda",
+      "latitude": 60.848783,
+      "longitude": 12.290958
+    },
+    {
+      "name": "vannkilde",
+      "latitude": 62.454057,
+      "longitude": 9.67514
+    },
+    {
+      "name": "Vanntroa",
+      "latitude": 60.25141,
+      "longitude": 10.507617
+    },
+    {
+      "name": "Vassholet",
+      "latitude": 62.104061,
+      "longitude": 9.126342
+    },
+    {
+      "name": "Vasstrone",
+      "latitude": 61.141278,
+      "longitude": 8.725558
+    }
+  ],
+  "meta": {
+    "title": "Springs in Norway - Gratis nedlasting",
+    "description": "Springs in Norway (Kilder i Norge), derived from OpenStreetMap POIs tagged natural=spring. Named features only, clipped to mainland Norway. Inneholder 71 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Springs in Norway | ListBase",
+    "seo_description": "Last ned Springs in Norway — 71 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 71 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

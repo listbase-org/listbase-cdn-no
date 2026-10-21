@@ -1,0 +1,225 @@
+{
+  "id": "no-vestfold-osm-museer",
+  "name": "Museer i Vestfold – OpenStreetMap (14 museums in Vestfold, OSM)",
+  "title": "Museer i Vestfold – OpenStreetMap (14 museums in Vestfold, OSM)",
+  "description": "Museer i fylket Vestfold fra OpenStreetMap — delmengde av no-osm-museer, 14 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Gokstad Kystlag",
+      "name_en": "",
+      "city": "Sandefjord",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Sandefjord",
+      "avstand_km": 1.326,
+      "latitude": 59.122627,
+      "longitude": 10.232757,
+      "website": ""
+    },
+    {
+      "name": "Gulli skolemuseum",
+      "name_en": "",
+      "city": "Andebu",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Andebu",
+      "avstand_km": 2.711,
+      "latitude": 59.281668,
+      "longitude": 10.171314,
+      "website": ""
+    },
+    {
+      "name": "Haugar kunstmuseum",
+      "name_en": "",
+      "city": "Tønsberg",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Tønsberg",
+      "avstand_km": 0.252,
+      "latitude": 59.267674,
+      "longitude": 10.412022,
+      "website": ""
+    },
+    {
+      "name": "Herregården",
+      "name_en": "",
+      "city": "Larvik",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Larvik",
+      "avstand_km": 0.457,
+      "latitude": 59.049413,
+      "longitude": 10.037774,
+      "website": ""
+    },
+    {
+      "name": "Hvalfangstmuseet",
+      "name_en": "",
+      "city": "Sandefjord",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Sandefjord",
+      "avstand_km": 0.614,
+      "latitude": 59.131012,
+      "longitude": 10.227361,
+      "website": ""
+    },
+    {
+      "name": "Kystkultursenteret",
+      "name_en": "",
+      "city": "Tønsberg",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Tønsberg",
+      "avstand_km": 0.755,
+      "latitude": 59.261076,
+      "longitude": 10.411919,
+      "website": "http://www.loggenkystlag.no/documents/kystkultursenteret.php"
+    },
+    {
+      "name": "Kystmuseum",
+      "name_en": "",
+      "city": "Tjøme",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Tjøme",
+      "avstand_km": 4.736,
+      "latitude": 59.080267,
+      "longitude": 10.450917,
+      "website": ""
+    },
+    {
+      "name": "Larvik Sjøfartsmuseum",
+      "name_en": "",
+      "city": "Larvik",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Larvik",
+      "avstand_km": 0.598,
+      "latitude": 59.047934,
+      "longitude": 10.034496,
+      "website": ""
+    },
+    {
+      "name": "Marinemuseet",
+      "name_en": "",
+      "city": "Horten",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Horten",
+      "avstand_km": 0.938,
+      "latitude": 59.425427,
+      "longitude": 10.487025,
+      "website": ""
+    },
+    {
+      "name": "Midgard historisk senter",
+      "name_en": "",
+      "city": "Åsgårdstrand",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Skoppum",
+      "avstand_km": 3.164,
+      "latitude": 59.384881,
+      "longitude": 10.466629,
+      "website": ""
+    },
+    {
+      "name": "Munchs hus",
+      "name_en": "",
+      "city": "Åsgårdstrand",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Åsgårdstrand",
+      "avstand_km": 0.319,
+      "latitude": 59.352069,
+      "longitude": 10.467459,
+      "website": "http://www.munchshus.no"
+    },
+    {
+      "name": "Osebergmuseet",
+      "name_en": "",
+      "city": "Tønsberg",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Tønsberg",
+      "avstand_km": 0.659,
+      "latitude": 59.273401,
+      "longitude": 10.406566,
+      "website": ""
+    },
+    {
+      "name": "Preus Fotomuseum",
+      "name_en": "",
+      "city": "Horten",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Horten",
+      "avstand_km": 0.976,
+      "latitude": 59.42574,
+      "longitude": 10.487416,
+      "website": "www.preusmuseum.no"
+    },
+    {
+      "name": "Tønsberg Sjøfartshistoriske Musem",
+      "name_en": "",
+      "city": "Tønsberg",
+      "fylke": "Vestfold",
+      "naermeste_sted": "Tønsberg",
+      "avstand_km": 0.186,
+      "latitude": 59.267158,
+      "longitude": 10.404401,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Vestfold – OpenStreetMap (14 museums in Vestfold, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Vestfold fra OpenStreetMap — delmengde av no-osm-museer, 14 poster. Inneholder 14 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Vestfold – OpenStreetMap (14 museums in Vestfold, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Vestfold – OpenStreetMap (14 museums in Vestfold, OSM) — 14 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 14 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

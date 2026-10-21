@@ -1,0 +1,566 @@
+{
+  "id": "no-kunsthandler",
+  "name": "Art shops in Norway",
+  "title": "Art shops in Norway",
+  "description": "Art shops in Norway (Kunsthandler i Norge), derived from OpenStreetMap POIs tagged shop=art. Named features only, clipped to mainland Norway.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Art of Oslo",
+      "latitude": 59.908749,
+      "longitude": 10.767499
+    },
+    {
+      "name": "Artgate",
+      "latitude": 59.928502,
+      "longitude": 10.781054
+    },
+    {
+      "name": "Arti design",
+      "latitude": 62.735399,
+      "longitude": 7.155128
+    },
+    {
+      "name": "Atelier Midtun",
+      "latitude": 60.815149,
+      "longitude": 5.802004
+    },
+    {
+      "name": "Atelier Måken",
+      "latitude": 63.111038,
+      "longitude": 7.731808
+    },
+    {
+      "name": "Atelier Skakke",
+      "latitude": 63.429026,
+      "longitude": 10.39161
+    },
+    {
+      "name": "Bakklandet Ramme & Kunst",
+      "latitude": 63.429571,
+      "longitude": 10.398694
+    },
+    {
+      "name": "Berit Blindheim malerier",
+      "latitude": 59.13258,
+      "longitude": 10.225563
+    },
+    {
+      "name": "Bo-glass",
+      "latitude": 59.929706,
+      "longitude": 10.720772
+    },
+    {
+      "name": "Bryggerhuset",
+      "latitude": 58.194814,
+      "longitude": 8.347097
+    },
+    {
+      "name": "Bunadsaum",
+      "latitude": 63.873474,
+      "longitude": 11.291456
+    },
+    {
+      "name": "Dalalåven Atelier",
+      "latitude": 63.053928,
+      "longitude": 9.212949
+    },
+    {
+      "name": "Det Gyldne Galleri",
+      "latitude": 59.269981,
+      "longitude": 10.409125
+    },
+    {
+      "name": "Du verden!",
+      "latitude": 62.57495,
+      "longitude": 11.384808
+    },
+    {
+      "name": "Dáidda",
+      "latitude": 59.927708,
+      "longitude": 10.758959
+    },
+    {
+      "name": "Edel Design",
+      "latitude": 60.800591,
+      "longitude": 10.919892
+    },
+    {
+      "name": "ELLE-VILLA",
+      "latitude": 60.719003,
+      "longitude": 11.351679
+    },
+    {
+      "name": "Firingan kalligrafi",
+      "latitude": 59.423788,
+      "longitude": 8.782215
+    },
+    {
+      "name": "Folk Er Folk Huset",
+      "latitude": 59.910691,
+      "longitude": 10.767282
+    },
+    {
+      "name": "Galleri 69 grader Nord",
+      "latitude": 59.92536,
+      "longitude": 10.757026
+    },
+    {
+      "name": "Galleri A",
+      "latitude": 59.926676,
+      "longitude": 10.723261
+    },
+    {
+      "name": "Galleri Amare",
+      "latitude": 58.965776,
+      "longitude": 5.73195
+    },
+    {
+      "name": "Galleri Bi-Z",
+      "latitude": 58.145883,
+      "longitude": 7.99835
+    },
+    {
+      "name": "Galleri Empati",
+      "latitude": 63.71642,
+      "longitude": 9.697188
+    },
+    {
+      "name": "Galleri Fineart",
+      "latitude": 59.909885,
+      "longitude": 10.722617
+    },
+    {
+      "name": "Galleri Fryd",
+      "latitude": 66.309346,
+      "longitude": 14.136989
+    },
+    {
+      "name": "Galleri Gnuttu",
+      "latitude": 62.574009,
+      "longitude": 11.388233
+    },
+    {
+      "name": "Galleri Graff AS",
+      "latitude": 59.582513,
+      "longitude": 11.161791
+    },
+    {
+      "name": "Galleri Granholmen",
+      "latitude": 59.08954,
+      "longitude": 10.218205
+    },
+    {
+      "name": "Galleri Gunne",
+      "latitude": 59.201802,
+      "longitude": 10.95023
+    },
+    {
+      "name": "Galleri Heiaklubben",
+      "latitude": 59.926903,
+      "longitude": 10.771952
+    },
+    {
+      "name": "Galleri Hilsen",
+      "latitude": 60.987627,
+      "longitude": 9.238358
+    },
+    {
+      "name": "Galleri Knapstad",
+      "latitude": 58.144998,
+      "longitude": 7.993024
+    },
+    {
+      "name": "Galleri Kraft",
+      "latitude": 59.437266,
+      "longitude": 10.665008
+    },
+    {
+      "name": "Galleri Kristina Wilhelmina",
+      "latitude": 59.588517,
+      "longitude": 5.15031
+    },
+    {
+      "name": "Galleri Lilje",
+      "latitude": 63.400212,
+      "longitude": 10.350658
+    },
+    {
+      "name": "Galleri M",
+      "latitude": 59.126466,
+      "longitude": 10.213847
+    },
+    {
+      "name": "Galleri Nord",
+      "latitude": 69.648882,
+      "longitude": 18.959408
+    },
+    {
+      "name": "Galleri Nordhopø",
+      "latitude": 63.460063,
+      "longitude": 8.029574
+    },
+    {
+      "name": "Galleri OKAI",
+      "latitude": 63.744977,
+      "longitude": 11.297338
+    },
+    {
+      "name": "Galleri Ola Strand",
+      "latitude": 68.212331,
+      "longitude": 14.372014
+    },
+    {
+      "name": "Galleri Ramfjord",
+      "latitude": 59.922884,
+      "longitude": 10.737532
+    },
+    {
+      "name": "Galleri Samvirke",
+      "latitude": 59.325131,
+      "longitude": 8.482335
+    },
+    {
+      "name": "Galleri Skattkammeret",
+      "latitude": 59.634346,
+      "longitude": 7.800685
+    },
+    {
+      "name": "Galleri Slåen",
+      "latitude": 62.194433,
+      "longitude": 9.699774
+    },
+    {
+      "name": "Galleri SOS - galleri og rammeverksted",
+      "latitude": 65.837386,
+      "longitude": 13.188509
+    },
+    {
+      "name": "Galleri Stian",
+      "latitude": 58.341728,
+      "longitude": 8.592722
+    },
+    {
+      "name": "Galleri Telemark",
+      "latitude": 59.414566,
+      "longitude": 9.060065
+    },
+    {
+      "name": "Galleri Vera",
+      "latitude": 59.650686,
+      "longitude": 10.636266
+    },
+    {
+      "name": "Galleri Verftet",
+      "latitude": 59.154655,
+      "longitude": 10.433848
+    },
+    {
+      "name": "Galleri Vidar",
+      "latitude": 58.341862,
+      "longitude": 8.594607
+    },
+    {
+      "name": "GalleriButikken",
+      "latitude": 59.283923,
+      "longitude": 9.265368
+    },
+    {
+      "name": "Galleriet",
+      "latitude": 63.429693,
+      "longitude": 10.398193
+    },
+    {
+      "name": "Galleriet Østenfor solen",
+      "latitude": 71.048917,
+      "longitude": 25.90597
+    },
+    {
+      "name": "GalleriShop, Nina von Hirsch Design As",
+      "latitude": 60.393814,
+      "longitude": 5.327763
+    },
+    {
+      "name": "Gunvor Hegge",
+      "latitude": 61.17437,
+      "longitude": 8.994175
+    },
+    {
+      "name": "Hardanger Kulturgalleri",
+      "latitude": 60.355529,
+      "longitude": 6.360426
+    },
+    {
+      "name": "Haukaas Emaljeverksted",
+      "latitude": 61.217789,
+      "longitude": 6.553027
+    },
+    {
+      "name": "Hell Art Studio",
+      "latitude": 63.445978,
+      "longitude": 10.898806
+    },
+    {
+      "name": "Hett Glass",
+      "latitude": 61.118594,
+      "longitude": 10.455818
+    },
+    {
+      "name": "Hillesøy husflidslag",
+      "latitude": 69.633143,
+      "longitude": 18.010734
+    },
+    {
+      "name": "Hopland Art",
+      "latitude": 59.662092,
+      "longitude": 10.793173
+    },
+    {
+      "name": "Hos Lind",
+      "latitude": 58.02756,
+      "longitude": 7.45105
+    },
+    {
+      "name": "Hovden Kunsthandel",
+      "latitude": 59.56036,
+      "longitude": 7.357223
+    },
+    {
+      "name": "Høvda Sylv og Tre",
+      "latitude": 61.170554,
+      "longitude": 8.914292
+    },
+    {
+      "name": "Keramiker Kristin Antonsen",
+      "latitude": 58.02509,
+      "longitude": 7.457738
+    },
+    {
+      "name": "Keramikkverksted Witteveen",
+      "latitude": 60.687042,
+      "longitude": 8.320364
+    },
+    {
+      "name": "Krane Kunstgalleri",
+      "latitude": 69.647905,
+      "longitude": 18.955602
+    },
+    {
+      "name": "Kunztfabrikken",
+      "latitude": 60.794987,
+      "longitude": 10.688954
+    },
+    {
+      "name": "Maerz Contemporary",
+      "latitude": 62.736952,
+      "longitude": 7.156358
+    },
+    {
+      "name": "Mandal Brukskunst",
+      "latitude": 58.02797,
+      "longitude": 7.45577
+    },
+    {
+      "name": "Mariakrypten Atelier & Galleri",
+      "latitude": 60.399176,
+      "longitude": 5.324159
+    },
+    {
+      "name": "Meieriet",
+      "latitude": 59.80575,
+      "longitude": 5.174949
+    },
+    {
+      "name": "Mohn Kunsthandel",
+      "latitude": 60.393534,
+      "longitude": 5.329492
+    },
+    {
+      "name": "Moss | Kunst | Ramme",
+      "latitude": 59.436988,
+      "longitude": 10.667352
+    },
+    {
+      "name": "Myren Grafikk",
+      "latitude": 58.133078,
+      "longitude": 7.968253
+    },
+    {
+      "name": "Nicolay Aamodt",
+      "latitude": 59.948742,
+      "longitude": 10.664558
+    },
+    {
+      "name": "Nyksund galleri",
+      "latitude": 68.995291,
+      "longitude": 15.009419
+    },
+    {
+      "name": "Nøstetangen glass",
+      "latitude": 59.774415,
+      "longitude": 9.913935
+    },
+    {
+      "name": "Nøtterøy kunstforum",
+      "latitude": 59.235894,
+      "longitude": 10.448387
+    },
+    {
+      "name": "Olsen Galleri",
+      "latitude": 58.461772,
+      "longitude": 8.765681
+    },
+    {
+      "name": "Omattgjort",
+      "latitude": 60.533984,
+      "longitude": 8.206968
+    },
+    {
+      "name": "Othilies keramikk",
+      "latitude": 58.196503,
+      "longitude": 8.349099
+    },
+    {
+      "name": "Profil Glassdesign",
+      "latitude": 69.530231,
+      "longitude": 18.309725
+    },
+    {
+      "name": "Purenkel Galleri",
+      "latitude": 59.923359,
+      "longitude": 10.756335
+    },
+    {
+      "name": "Pushwagner Gallery",
+      "latitude": 59.906857,
+      "longitude": 10.720435
+    },
+    {
+      "name": "Randesund Lysstøperi og Gaveloft",
+      "latitude": 58.131121,
+      "longitude": 8.100492
+    },
+    {
+      "name": "Røros Kunstkafé",
+      "latitude": 62.574987,
+      "longitude": 11.384869
+    },
+    {
+      "name": "Seraphina",
+      "latitude": 59.914647,
+      "longitude": 10.768543
+    },
+    {
+      "name": "Siggeruds Galleri",
+      "latitude": 67.283163,
+      "longitude": 14.379282
+    },
+    {
+      "name": "Smykkeskrinet",
+      "latitude": 59.742718,
+      "longitude": 10.195333
+    },
+    {
+      "name": "Smykkeverksted Totto Eide",
+      "latitude": 58.024894,
+      "longitude": 7.457921
+    },
+    {
+      "name": "Sommarøy kunstbruk",
+      "latitude": 69.632753,
+      "longitude": 18.015305
+    },
+    {
+      "name": "Speil og Ramme",
+      "latitude": 60.396788,
+      "longitude": 5.32714
+    },
+    {
+      "name": "Stallen Rammer & Kunst",
+      "latitude": 59.131889,
+      "longitude": 10.222963
+    },
+    {
+      "name": "Stine Eide",
+      "latitude": 60.628788,
+      "longitude": 6.420184
+    },
+    {
+      "name": "Studio Håndkraft",
+      "latitude": 59.913096,
+      "longitude": 10.7807
+    },
+    {
+      "name": "Surna kunst & håndverk",
+      "latitude": 62.970153,
+      "longitude": 8.659369
+    },
+    {
+      "name": "Såpeloftet",
+      "latitude": 58.08402,
+      "longitude": 7.809557
+    },
+    {
+      "name": "Tinn Håndverkssenter",
+      "latitude": 59.987168,
+      "longitude": 8.735596
+    },
+    {
+      "name": "Too many prints. Art shop",
+      "latitude": 59.925966,
+      "longitude": 10.714489
+    },
+    {
+      "name": "Torso",
+      "latitude": 59.923089,
+      "longitude": 10.751778
+    },
+    {
+      "name": "Totenvika Galleri og Kulturkafe",
+      "latitude": 60.64309,
+      "longitude": 10.988246
+    },
+    {
+      "name": "Valdres Keramikkateliér",
+      "latitude": 61.144341,
+      "longitude": 9.069006
+    },
+    {
+      "name": "ViDa Glass",
+      "latitude": 59.424052,
+      "longitude": 10.609101
+    }
+  ],
+  "meta": {
+    "title": "Art shops in Norway - Gratis nedlasting",
+    "description": "Art shops in Norway (Kunsthandler i Norge), derived from OpenStreetMap POIs tagged shop=art. Named features only, clipped to mainland Norway. Inneholder 105 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Art shops in Norway | ListBase",
+    "seo_description": "Last ned Art shops in Norway — 105 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 105 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

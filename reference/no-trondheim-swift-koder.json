@@ -1,0 +1,94 @@
+{
+  "id": "no-trondheim-swift-koder",
+  "name": "SWIFT/BIC-koder — Trondheim",
+  "title": "SWIFT/BIC-koder — Trondheim",
+  "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 8 institusjonene som kilden oppgir med byen \"TRONDHEIM\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "ALLEGRO FINANS ASA",
+      "city": "TRONDHEIM",
+      "branch": "",
+      "swift_code": "ALNSNO21"
+    },
+    {
+      "bank": "ARCTIC ENERGY PARTNERS AS",
+      "city": "TRONDHEIM",
+      "branch": "",
+      "swift_code": "ARETNO21"
+    },
+    {
+      "bank": "BNBANK ASA",
+      "city": "TRONDHEIM",
+      "branch": "",
+      "swift_code": "KBNONO22"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "TRONDHEIM",
+      "branch": "(CLS SERVICES)",
+      "swift_code": "DABANO22CLS"
+    },
+    {
+      "bank": "DANSKE BANK A/S",
+      "city": "TRONDHEIM",
+      "branch": "",
+      "swift_code": "DABANO22"
+    },
+    {
+      "bank": "FORTE FONDSFORVALTNING AS",
+      "city": "TRONDHEIM",
+      "branch": "",
+      "swift_code": "FFONNO21"
+    },
+    {
+      "bank": "KLP BANKEN AS",
+      "city": "TRONDHEIM",
+      "branch": "",
+      "swift_code": "KLPKNO21"
+    },
+    {
+      "bank": "SPAREBANK 1 SMN",
+      "city": "TRONDHEIM",
+      "branch": "",
+      "swift_code": "SPTRNO22"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Trondheim - Gratis nedlasting",
+    "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 8 institusjonene som kilden oppgir med byen \"TRONDHEIM\". Inneholder 8 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Trondheim | ListBase",
+    "seo_description": "Last ned SWIFT/BIC-koder — Trondheim — 8 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 8 poster / 4 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

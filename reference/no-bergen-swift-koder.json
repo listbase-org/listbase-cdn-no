@@ -1,0 +1,136 @@
+{
+  "id": "no-bergen-swift-koder",
+  "name": "SWIFT/BIC-koder — Bergen",
+  "title": "SWIFT/BIC-koder — Bergen",
+  "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 15 institusjonene som kilden oppgir med byen \"BERGEN\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "BB BANK ASA",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "BNSSNOB1"
+    },
+    {
+      "bank": "BERGEN BUNKERS AS",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "BEBNNOB1"
+    },
+    {
+      "bank": "BERGEN CAPITAL MANAGEMENT AS",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "BCMMNOB1"
+    },
+    {
+      "bank": "BERGEN ENERGI MARKETS AS",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "BEEKNOB1"
+    },
+    {
+      "bank": "BERGEN FONDSMEGLERFORRETNING A/S",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "BEFONOB1"
+    },
+    {
+      "bank": "BOREA NOTERTE MANAGEMENT AS",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "BONMNOB1"
+    },
+    {
+      "bank": "DNB MARKETS, A BUSINESS UNIT OF DNB BANK ASA, OSLO",
+      "city": "BERGEN",
+      "branch": "(CLS NOSTRO AGENT CONTROL BRANCH)",
+      "swift_code": "DNBANOKXCLS"
+    },
+    {
+      "bank": "EUROPEAN COMMODITY MANAGEMENT AS",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "EUCGNOB1"
+    },
+    {
+      "bank": "FANA SPAREBANK",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "FANANOB1"
+    },
+    {
+      "bank": "FISH POOL ASA",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "FSPANOB1"
+    },
+    {
+      "bank": "HOLBERG FONDSFORVALTNING AS",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "HOLFNOB1"
+    },
+    {
+      "bank": "ICAP ENERGY AS",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "ICAENOB1"
+    },
+    {
+      "bank": "NORNE SECURITIES AS",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "NSSVNOB1"
+    },
+    {
+      "bank": "SBANKEN ASA",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "SKIANOBB"
+    },
+    {
+      "bank": "SPAREBANKEN VEST",
+      "city": "BERGEN",
+      "branch": "",
+      "swift_code": "SPAVNOBB"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Bergen - Gratis nedlasting",
+    "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 15 institusjonene som kilden oppgir med byen \"BERGEN\". Inneholder 15 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Bergen | ListBase",
+    "seo_description": "Last ned SWIFT/BIC-koder — Bergen — 15 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 15 poster / 4 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

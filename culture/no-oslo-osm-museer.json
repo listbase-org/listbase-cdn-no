@@ -1,0 +1,302 @@
+{
+  "id": "no-oslo-osm-museer",
+  "name": "Museer i Oslo – OpenStreetMap (21 museums in Oslo, OSM)",
+  "title": "Museer i Oslo – OpenStreetMap (21 museums in Oslo, OSM)",
+  "description": "Museer i fylket Oslo fra OpenStreetMap — delmengde av no-osm-museer, 21 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "22. juli-senteret",
+      "name_en": "",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.309,
+      "latitude": 59.915479,
+      "longitude": 10.74602,
+      "website": ""
+    },
+    {
+      "name": "Astrup Fearnley Museet",
+      "name_en": "Astrup Fearnley Museum",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 1.492,
+      "latitude": 59.906925,
+      "longitude": 10.721938,
+      "website": ""
+    },
+    {
+      "name": "Bymuseet",
+      "name_en": "Oslo City Museum",
+      "city": "Sjølyststranda",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 1.291,
+      "latitude": 59.923972,
+      "longitude": 10.702639,
+      "website": "http://en.wikipedia.org/wiki/Oslo_City_Museum"
+    },
+    {
+      "name": "Det internasjonale barnekunstmuseet",
+      "name_en": "The International Museum of Children's Art",
+      "city": "Sjølyststranda",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 2.385,
+      "latitude": 59.935739,
+      "longitude": 10.711497,
+      "website": ""
+    },
+    {
+      "name": "Emanuel Vigelands Museum",
+      "name_en": "",
+      "city": "Sjølyststranda",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 2.983,
+      "latitude": 59.947263,
+      "longitude": 10.692069,
+      "website": "http://www.emanuelvigeland.museum.no/"
+    },
+    {
+      "name": "Gamle Museet Konferanse og Selskapslokaler",
+      "name_en": "",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.529,
+      "latitude": 59.908039,
+      "longitude": 10.74418,
+      "website": ""
+    },
+    {
+      "name": "Kunstindustrimuseet",
+      "name_en": "The Museum of Decorative Arts and Design",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.65,
+      "latitude": 59.918317,
+      "longitude": 10.742891,
+      "website": "http://nasjonalmuseet.no/"
+    },
+    {
+      "name": "Museet for samtidskunst",
+      "name_en": "The Museum of Contemporary Art",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.535,
+      "latitude": 59.908581,
+      "longitude": 10.741153,
+      "website": "http://nasjonalmuseet.no/"
+    },
+    {
+      "name": "Nasjonalmuseet - arkitektur",
+      "name_en": "The National Museum – Architecture",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.55,
+      "latitude": 59.908716,
+      "longitude": 10.74024,
+      "website": "http://nasjonalmuseet.no/"
+    },
+    {
+      "name": "Norges hjemmefrontmuseum",
+      "name_en": "Norway's Resistance Museum",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.786,
+      "latitude": 59.907886,
+      "longitude": 10.735788,
+      "website": "http://www.mil.no/felles/nhm/"
+    },
+    {
+      "name": "Norsk Folkemuseum",
+      "name_en": "Norwegian Folk Museum",
+      "city": "Sjølyststranda",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 1.557,
+      "latitude": 59.907488,
+      "longitude": 10.686715,
+      "website": "http://www.norskfolke.museum.no/"
+    },
+    {
+      "name": "Norsk Maritimt Museum",
+      "name_en": "Norwegian Maritime Museum",
+      "city": "Sjølyststranda",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 2.277,
+      "latitude": 59.902833,
+      "longitude": 10.698662,
+      "website": "ww.marmuseum.no"
+    },
+    {
+      "name": "Norsk Teknisk Museum",
+      "name_en": "",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 6.322,
+      "latitude": 59.96653,
+      "longitude": 10.782626,
+      "website": "http://www.tekniskmuseum.no"
+    },
+    {
+      "name": "Ofice for Contemporary Art Norway",
+      "name_en": "",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.896,
+      "latitude": 59.919633,
+      "longitude": 10.75428,
+      "website": ""
+    },
+    {
+      "name": "Oscarshall",
+      "name_en": "Oscarshall palace",
+      "city": "Sjølyststranda",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 1.384,
+      "latitude": 59.910264,
+      "longitude": 10.692407,
+      "website": "http://www.kongehuset.no/c79771/seksjonstekst/vis.html?tid=79776"
+    },
+    {
+      "name": "Popsenteret",
+      "name_en": "",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 1.145,
+      "latitude": 59.919777,
+      "longitude": 10.761033,
+      "website": "http://www.popsenteret.no/"
+    },
+    {
+      "name": "Ski Museum",
+      "name_en": "",
+      "city": "Sjølyststranda",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 4.901,
+      "latitude": 59.964656,
+      "longitude": 10.666742,
+      "website": ""
+    },
+    {
+      "name": "Sporveismuseet",
+      "name_en": "The Tramway Museum",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 2.307,
+      "latitude": 59.931288,
+      "longitude": 10.716274,
+      "website": "http://www.sporveismuseet.no/"
+    },
+    {
+      "name": "TypoGraphic",
+      "name_en": "",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.566,
+      "latitude": 59.911912,
+      "longitude": 10.736072,
+      "website": ""
+    },
+    {
+      "name": "Vigeland-museet",
+      "name_en": "The Vigeland Museum",
+      "city": "Sjølyststranda",
+      "fylke": "Oslo",
+      "naermeste_sted": "Sjølyststranda",
+      "avstand_km": 1.145,
+      "latitude": 59.922816,
+      "longitude": 10.700466,
+      "website": "www.vigeland.museum.no"
+    },
+    {
+      "name": "om; Interkulturelt museum",
+      "name_en": "",
+      "city": "Oslo",
+      "fylke": "Oslo",
+      "naermeste_sted": "Oslo",
+      "avstand_km": 0.962,
+      "latitude": 59.913039,
+      "longitude": 10.763341,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Oslo – OpenStreetMap (21 museums in Oslo, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Oslo fra OpenStreetMap — delmengde av no-osm-museer, 21 poster. Inneholder 21 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Oslo – OpenStreetMap (21 museums in Oslo, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Oslo – OpenStreetMap (21 museums in Oslo, OSM) — 21 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 21 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

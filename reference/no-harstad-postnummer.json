@@ -1,0 +1,328 @@
+{
+  "id": "no-harstad-postnummer",
+  "name": "Postnummer i Harstad",
+  "title": "Postnummer i Harstad",
+  "description": "Alle 34 postnummer i Harstad kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "9402",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9403",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9404",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9405",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9406",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9407",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9408",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9409",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9411",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9414",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9415",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9416",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9419",
+      "poststed": "Sørvik",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9420",
+      "poststed": "Lundenes",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9423",
+      "poststed": "Grøtavær",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9424",
+      "poststed": "Kjøtta",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9425",
+      "poststed": "Sandsøy",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9426",
+      "poststed": "Bjarkøy",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9427",
+      "poststed": "Meløyvær",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9430",
+      "poststed": "Sandtorg",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9479",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9480",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9481",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9482",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9483",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9484",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9485",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9486",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9487",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9488",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9489",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9496",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9497",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    },
+    {
+      "postnummer": "9498",
+      "poststed": "Harstad",
+      "kommune_id": "5503",
+      "kommune": "Harstad",
+      "fylke_id": "55",
+      "fylke": "Troms"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Harstad - Gratis nedlasting",
+    "description": "Alle 34 postnummer i Harstad kommune med poststed. Inneholder 34 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Harstad | ListBase",
+    "seo_description": "Last ned Postnummer i Harstad — 34 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 34 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

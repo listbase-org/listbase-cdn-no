@@ -1,0 +1,106 @@
+{
+  "id": "no-maaleenheter-frequency",
+  "name": "Maaleenheter: frequency (4)",
+  "title": "Maaleenheter: frequency (4)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'frequency'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "frequency-gigahertz",
+      "kategori": "frequency",
+      "navn": "gigahertz",
+      "moenster_en": "{0} gigahertz",
+      "moenster_flere": "{0} gigahertz",
+      "kort_moenster": "{0} GHz",
+      "smal_moenster": "{0} GHz"
+    },
+    {
+      "id": 2,
+      "unit_code": "frequency-hertz",
+      "kategori": "frequency",
+      "navn": "hertz",
+      "moenster_en": "{0} hertz",
+      "moenster_flere": "{0} hertz",
+      "kort_moenster": "{0} Hz",
+      "smal_moenster": "{0} Hz"
+    },
+    {
+      "id": 3,
+      "unit_code": "frequency-kilohertz",
+      "kategori": "frequency",
+      "navn": "kilohertz",
+      "moenster_en": "{0} kilohertz",
+      "moenster_flere": "{0} kilohertz",
+      "kort_moenster": "{0} kHz",
+      "smal_moenster": "{0} kHz"
+    },
+    {
+      "id": 4,
+      "unit_code": "frequency-megahertz",
+      "kategori": "frequency",
+      "navn": "megahertz",
+      "moenster_en": "{0} megahertz",
+      "moenster_flere": "{0} megahertz",
+      "kort_moenster": "{0} MHz",
+      "smal_moenster": "{0} MHz"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: frequency (4) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'frequency'. Inneholder 4 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: frequency (4) | ListBase",
+    "seo_description": "Last ned Maaleenheter: frequency (4) — 4 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 4 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "id": "no-baerum-postnummer",
+  "name": "Postnummer i Bærum",
+  "title": "Postnummer i Bærum",
+  "description": "Alle 63 postnummer i Bærum kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1300",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1301",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1302",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1303",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1304",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1305",
+      "poststed": "Haslum",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1306",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1307",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1308",
+      "poststed": "Jar",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1309",
+      "poststed": "Rud",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1311",
+      "poststed": "Høvikodden",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1312",
+      "poststed": "Slependen",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1313",
+      "poststed": "Vøyenenga",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1314",
+      "poststed": "Vøyenenga",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1316",
+      "poststed": "Eiksmarka",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1317",
+      "poststed": "Bærums Verk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1318",
+      "poststed": "Bekkestua",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1319",
+      "poststed": "Bekkestua",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1321",
+      "poststed": "Stabekk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1322",
+      "poststed": "Høvik",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1323",
+      "poststed": "Høvik",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1324",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1325",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1326",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1327",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1328",
+      "poststed": "Høvik",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1329",
+      "poststed": "Lommedalen",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1330",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1331",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1332",
+      "poststed": "Østerås",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1333",
+      "poststed": "Kolsås",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1334",
+      "poststed": "Rykkinn",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1335",
+      "poststed": "Snarøya",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1336",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1337",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1338",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1339",
+      "poststed": "Vøyenenga",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1340",
+      "poststed": "Skui",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1341",
+      "poststed": "Slependen",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1342",
+      "poststed": "Gjettum",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1344",
+      "poststed": "Haslum",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1346",
+      "poststed": "Gjettum",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1348",
+      "poststed": "Rykkinn",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1349",
+      "poststed": "Rykkinn",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1350",
+      "poststed": "Lommedalen",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1351",
+      "poststed": "Rud",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1352",
+      "poststed": "Kolsås",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1353",
+      "poststed": "Bærums Verk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1354",
+      "poststed": "Bærums Verk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1356",
+      "poststed": "Bekkestua",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1357",
+      "poststed": "Bekkestua",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1358",
+      "poststed": "Jar",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1359",
+      "poststed": "Eiksmarka",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1360",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1361",
+      "poststed": "Østerås",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1362",
+      "poststed": "Hosle",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1363",
+      "poststed": "Høvik",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1364",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1365",
+      "poststed": "Blommenholm",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1366",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1367",
+      "poststed": "Snarøya",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1368",
+      "poststed": "Stabekk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1369",
+      "poststed": "Stabekk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Bærum - Gratis nedlasting",
+    "description": "Alle 63 postnummer i Bærum kommune med poststed. Inneholder 63 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Bærum | ListBase",
+    "seo_description": "Last ned Postnummer i Bærum — 63 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 63 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

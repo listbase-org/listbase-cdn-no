@@ -1,0 +1,3271 @@
+{
+  "id": "no-osm-shop-trade",
+  "name": "Named trade/builders merchants in Norway",
+  "title": "Named trade/builders merchants in Norway",
+  "description": "Named trade/builders merchants in Norway, derived from OpenStreetMap POI nodes tagged shop=trade in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 646,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ahlsell",
+      "latitude": 59.415012,
+      "longitude": 10.689124
+    },
+    {
+      "name": "Ahlsell",
+      "latitude": 59.906517,
+      "longitude": 10.498023
+    },
+    {
+      "name": "Ahlsell Oslo Brobekk",
+      "latitude": 59.934968,
+      "longitude": 10.832272
+    },
+    {
+      "name": "BA servicesenter",
+      "latitude": 59.413944,
+      "longitude": 10.693076
+    },
+    {
+      "name": "BJ Fritid",
+      "latitude": 69.967455,
+      "longitude": 23.272144
+    },
+    {
+      "name": "Bjerkreim Trelast",
+      "latitude": 58.352234,
+      "longitude": 6.26966
+    },
+    {
+      "name": "Brewshop",
+      "latitude": 63.403334,
+      "longitude": 10.400695
+    },
+    {
+      "name": "Brødrene Dahl",
+      "latitude": 59.418531,
+      "longitude": 10.700655
+    },
+    {
+      "name": "Bygg Torget",
+      "latitude": 68.914743,
+      "longitude": 15.099418
+    },
+    {
+      "name": "Bygger'n",
+      "latitude": 63.415794,
+      "longitude": 10.808839
+    },
+    {
+      "name": "Bygger'n Alta",
+      "latitude": 69.967469,
+      "longitude": 23.375534
+    },
+    {
+      "name": "Bygger'n Alvdal",
+      "latitude": 62.096669,
+      "longitude": 10.655081
+    },
+    {
+      "name": "Bygger'n Aukra",
+      "latitude": 62.806024,
+      "longitude": 6.890161
+    },
+    {
+      "name": "Bygger'n Aurskog",
+      "latitude": 59.917169,
+      "longitude": 11.504229
+    },
+    {
+      "name": "Bygger'n Austevoll",
+      "latitude": 60.016855,
+      "longitude": 5.217921
+    },
+    {
+      "name": "Bygger'n Bindalsbygg",
+      "latitude": 65.088739,
+      "longitude": 12.37489
+    },
+    {
+      "name": "Bygger'n Bjerkvik",
+      "latitude": 68.55755,
+      "longitude": 17.561488
+    },
+    {
+      "name": "Bygger'n Bodø",
+      "latitude": 67.296116,
+      "longitude": 14.403979
+    },
+    {
+      "name": "Bygger'n Boligservice",
+      "latitude": 68.082484,
+      "longitude": 15.608986
+    },
+    {
+      "name": "Bygger'n Brønnøysund",
+      "latitude": 65.488129,
+      "longitude": 12.228507
+    },
+    {
+      "name": "Bygger'n Bygningslageret",
+      "latitude": 59.247781,
+      "longitude": 11.183002
+    },
+    {
+      "name": "Bygger'n Dalholen",
+      "latitude": 62.173992,
+      "longitude": 9.816854
+    },
+    {
+      "name": "Bygger'n Drammen",
+      "latitude": 59.691753,
+      "longitude": 10.246707
+    },
+    {
+      "name": "Bygger'n Eid",
+      "latitude": 61.910753,
+      "longitude": 6.007013
+    },
+    {
+      "name": "Bygger'n Eidet",
+      "latitude": 68.729741,
+      "longitude": 14.598743
+    },
+    {
+      "name": "Bygger'n Eidfjord",
+      "latitude": 60.461781,
+      "longitude": 7.078123
+    },
+    {
+      "name": "Bygger'n Evje",
+      "latitude": 58.582175,
+      "longitude": 7.793351
+    },
+    {
+      "name": "Bygger'n Fauskanger",
+      "latitude": 60.439589,
+      "longitude": 5.182702
+    },
+    {
+      "name": "Bygger'n Fauske",
+      "latitude": 67.270374,
+      "longitude": 15.382788
+    },
+    {
+      "name": "Bygger'n Frøya",
+      "latitude": 63.729804,
+      "longitude": 8.828896
+    },
+    {
+      "name": "Bygger'n Fåvang",
+      "latitude": 61.455907,
+      "longitude": 10.196721
+    },
+    {
+      "name": "Bygger'n Førde",
+      "latitude": 61.452723,
+      "longitude": 5.829087
+    },
+    {
+      "name": "Bygger'n Hareid",
+      "latitude": 62.368371,
+      "longitude": 6.032629
+    },
+    {
+      "name": "Bygger'n Harstad",
+      "latitude": 68.783008,
+      "longitude": 16.549812
+    },
+    {
+      "name": "Bygger'n Haslestad",
+      "latitude": 59.51212,
+      "longitude": 10.084855
+    },
+    {
+      "name": "Bygger'n Heidal",
+      "latitude": 61.75919,
+      "longitude": 9.286874
+    },
+    {
+      "name": "Bygger'n Heimdal",
+      "latitude": 63.338129,
+      "longitude": 10.351879
+    },
+    {
+      "name": "Bygger'n Hemnes",
+      "latitude": 59.721151,
+      "longitude": 11.428778
+    },
+    {
+      "name": "Bygger'n Hitra",
+      "latitude": 63.599798,
+      "longitude": 8.972905
+    },
+    {
+      "name": "Bygger'n Hvaler",
+      "latitude": 59.098951,
+      "longitude": 10.91168
+    },
+    {
+      "name": "Bygger'n Jondal",
+      "latitude": 60.254813,
+      "longitude": 6.203345
+    },
+    {
+      "name": "Bygger'n K.J. Karlsen",
+      "latitude": 66.317573,
+      "longitude": 14.150128
+    },
+    {
+      "name": "Bygger'n Karasjok",
+      "latitude": 69.466808,
+      "longitude": 25.507742
+    },
+    {
+      "name": "Bygger'n Karmøy",
+      "latitude": 59.288057,
+      "longitude": 5.290105
+    },
+    {
+      "name": "Bygger'n Kristiansund",
+      "latitude": 63.113827,
+      "longitude": 7.790272
+    },
+    {
+      "name": "Bygger'n Lade",
+      "latitude": 63.447362,
+      "longitude": 10.443601
+    },
+    {
+      "name": "Bygger'n Lakselv",
+      "latitude": 70.041704,
+      "longitude": 24.978153
+    },
+    {
+      "name": "Bygger'n Lervik",
+      "latitude": 63.295181,
+      "longitude": 9.089958
+    },
+    {
+      "name": "Bygger'n Lom",
+      "latitude": 61.836391,
+      "longitude": 8.568199
+    },
+    {
+      "name": "Bygger'n Malm",
+      "latitude": 64.065314,
+      "longitude": 11.220585
+    },
+    {
+      "name": "Bygger'n Meldal",
+      "latitude": 63.092549,
+      "longitude": 9.59075
+    },
+    {
+      "name": "Bygger'n Moi",
+      "latitude": 58.461873,
+      "longitude": 6.545206
+    },
+    {
+      "name": "Bygger'n Mosjøen",
+      "latitude": 65.832451,
+      "longitude": 13.20845
+    },
+    {
+      "name": "Bygger'n Namsenbygg",
+      "latitude": 64.462431,
+      "longitude": 11.503481
+    },
+    {
+      "name": "Bygger'n Odalen",
+      "latitude": 60.251325,
+      "longitude": 11.677875
+    },
+    {
+      "name": "Bygger'n Onstad",
+      "latitude": 59.431647,
+      "longitude": 10.678872
+    },
+    {
+      "name": "Bygger'n Oppdal",
+      "latitude": 62.596477,
+      "longitude": 9.701512
+    },
+    {
+      "name": "Bygger'n Orkdal",
+      "latitude": 63.298125,
+      "longitude": 9.83124
+    },
+    {
+      "name": "Bygger'n Os (Østerdalen)",
+      "latitude": 62.496836,
+      "longitude": 11.226431
+    },
+    {
+      "name": "Bygger'n Os Vest",
+      "latitude": 60.201772,
+      "longitude": 5.44699
+    },
+    {
+      "name": "Bygger'n Otta",
+      "latitude": 61.780682,
+      "longitude": 9.541659
+    },
+    {
+      "name": "Bygger'n Ramberg",
+      "latitude": 68.089428,
+      "longitude": 13.22836
+    },
+    {
+      "name": "Bygger'n Reipå",
+      "latitude": 66.908267,
+      "longitude": 13.638885
+    },
+    {
+      "name": "Bygger'n Rindal",
+      "latitude": 63.048114,
+      "longitude": 9.212502
+    },
+    {
+      "name": "Bygger'n Rognan",
+      "latitude": 67.091356,
+      "longitude": 15.381014
+    },
+    {
+      "name": "Bygger'n Rådal",
+      "latitude": 60.286961,
+      "longitude": 5.326121
+    },
+    {
+      "name": "Bygger'n Røyrvik",
+      "latitude": 64.886373,
+      "longitude": 13.55917
+    },
+    {
+      "name": "Bygger'n Salingstrand",
+      "latitude": 59.057456,
+      "longitude": 9.688025
+    },
+    {
+      "name": "Bygger'n Sandane",
+      "latitude": 61.782763,
+      "longitude": 6.20559
+    },
+    {
+      "name": "Bygger'n Selje",
+      "latitude": 62.045326,
+      "longitude": 5.343637
+    },
+    {
+      "name": "Bygger'n Skjåk",
+      "latitude": 61.886584,
+      "longitude": 8.257426
+    },
+    {
+      "name": "Bygger'n Smøla",
+      "latitude": 63.460836,
+      "longitude": 8.012233
+    },
+    {
+      "name": "Bygger'n Stavset",
+      "latitude": 63.38802,
+      "longitude": 10.327446
+    },
+    {
+      "name": "Bygger'n Steigen",
+      "latitude": 67.907229,
+      "longitude": 15.183843
+    },
+    {
+      "name": "Bygger'n Steinkjer",
+      "latitude": 64.012054,
+      "longitude": 11.485349
+    },
+    {
+      "name": "Bygger'n Stevnebø",
+      "latitude": 60.69977,
+      "longitude": 4.924365
+    },
+    {
+      "name": "Bygger'n Stjern",
+      "latitude": 63.958327,
+      "longitude": 10.180473
+    },
+    {
+      "name": "Bygger'n Stokmarknes",
+      "latitude": 68.55718,
+      "longitude": 14.941142
+    },
+    {
+      "name": "Bygger'n Stord",
+      "latitude": 59.759085,
+      "longitude": 5.45125
+    },
+    {
+      "name": "Bygger'n Straume",
+      "latitude": 60.353723,
+      "longitude": 5.126257
+    },
+    {
+      "name": "Bygger'n Sunndal",
+      "latitude": 62.671472,
+      "longitude": 8.547925
+    },
+    {
+      "name": "Bygger'n Sømna",
+      "latitude": 65.3406,
+      "longitude": 12.215912
+    },
+    {
+      "name": "Bygger'n Sør-Fron",
+      "latitude": 61.556301,
+      "longitude": 9.938303
+    },
+    {
+      "name": "Bygger'n Teigen",
+      "latitude": 59.862381,
+      "longitude": 5.758148
+    },
+    {
+      "name": "Bygger'n Trebygg",
+      "latitude": 68.238705,
+      "longitude": 14.574256
+    },
+    {
+      "name": "Bygger'n Treungen",
+      "latitude": 59.01535,
+      "longitude": 8.52131
+    },
+    {
+      "name": "Bygger'n Tromsø",
+      "latitude": 69.676682,
+      "longitude": 18.921016
+    },
+    {
+      "name": "Bygger'n Vadsø",
+      "latitude": 70.081671,
+      "longitude": 29.714824
+    },
+    {
+      "name": "Bygger'n Veggli",
+      "latitude": 60.039148,
+      "longitude": 9.168034
+    },
+    {
+      "name": "Bygger'n Vegårshei",
+      "latitude": 58.746901,
+      "longitude": 8.863187
+    },
+    {
+      "name": "Bygger'n Verdal",
+      "latitude": 63.787812,
+      "longitude": 11.455669
+    },
+    {
+      "name": "Bygger'n Vigra",
+      "latitude": 62.555135,
+      "longitude": 6.074524
+    },
+    {
+      "name": "Bygger'n Vingelen",
+      "latitude": 62.414259,
+      "longitude": 10.867837
+    },
+    {
+      "name": "Bygger'n Vågå",
+      "latitude": 61.874585,
+      "longitude": 9.105948
+    },
+    {
+      "name": "Bygger'n Ålesund",
+      "latitude": 62.469805,
+      "longitude": 6.36278
+    },
+    {
+      "name": "Bygger'n Åndalsnes",
+      "latitude": 62.562081,
+      "longitude": 7.676486
+    },
+    {
+      "name": "Bygger'n Årdal",
+      "latitude": 61.309745,
+      "longitude": 7.784885
+    },
+    {
+      "name": "Bygger'n Ørsta",
+      "latitude": 62.189142,
+      "longitude": 6.105408
+    },
+    {
+      "name": "Bygger'n Øye",
+      "latitude": 61.175299,
+      "longitude": 8.394189
+    },
+    {
+      "name": "Bygger'n Øye",
+      "latitude": 61.181054,
+      "longitude": 8.390334
+    },
+    {
+      "name": "Byggfag Hommelvik",
+      "latitude": 63.413283,
+      "longitude": 10.807293
+    },
+    {
+      "name": "Byggmakker",
+      "latitude": 70.631695,
+      "longitude": 29.714035
+    },
+    {
+      "name": "Byggmakker Askim",
+      "latitude": 59.585364,
+      "longitude": 11.165202
+    },
+    {
+      "name": "Byggmakker Berkåk",
+      "latitude": 62.832473,
+      "longitude": 10.014286
+    },
+    {
+      "name": "Byggmakker Bjugn",
+      "latitude": 63.762738,
+      "longitude": 9.803896
+    },
+    {
+      "name": "Byggmakker Bodø",
+      "latitude": 67.274299,
+      "longitude": 14.397046
+    },
+    {
+      "name": "Byggmakker Båtsfjord",
+      "latitude": 70.631708,
+      "longitude": 29.714405
+    },
+    {
+      "name": "Byggmakker Bø",
+      "latitude": 59.412296,
+      "longitude": 9.080329
+    },
+    {
+      "name": "Byggmakker Degernes",
+      "latitude": 59.354351,
+      "longitude": 11.421092
+    },
+    {
+      "name": "Byggmakker Dokka",
+      "latitude": 60.834397,
+      "longitude": 10.050284
+    },
+    {
+      "name": "Byggmakker Drammen",
+      "latitude": 59.753044,
+      "longitude": 10.127793
+    },
+    {
+      "name": "Byggmakker Eiker",
+      "latitude": 59.763691,
+      "longitude": 9.915045
+    },
+    {
+      "name": "Byggmakker Elverum",
+      "latitude": 60.894334,
+      "longitude": 11.583727
+    },
+    {
+      "name": "Byggmakker Fauske",
+      "latitude": 67.270044,
+      "longitude": 15.395558
+    },
+    {
+      "name": "Byggmakker Førde",
+      "latitude": 61.438139,
+      "longitude": 5.895726
+    },
+    {
+      "name": "Byggmakker Gjøvik",
+      "latitude": 60.781096,
+      "longitude": 10.691736
+    },
+    {
+      "name": "Byggmakker Gråmyra",
+      "latitude": 63.718049,
+      "longitude": 11.232872
+    },
+    {
+      "name": "Byggmakker Hamar (Furnes)",
+      "latitude": 60.832131,
+      "longitude": 11.072164
+    },
+    {
+      "name": "Byggmakker Hvaler",
+      "latitude": 59.035998,
+      "longitude": 11.014438
+    },
+    {
+      "name": "Byggmakker Hønefoss",
+      "latitude": 60.224007,
+      "longitude": 10.244024
+    },
+    {
+      "name": "Byggmakker Jørpeland",
+      "latitude": 59.011511,
+      "longitude": 6.051326
+    },
+    {
+      "name": "Byggmakker Kolvereid",
+      "latitude": 64.866878,
+      "longitude": 11.585691
+    },
+    {
+      "name": "Byggmakker Kongsberg",
+      "latitude": 59.637226,
+      "longitude": 9.661856
+    },
+    {
+      "name": "Byggmakker Laksevåg",
+      "latitude": 60.390265,
+      "longitude": 5.268705
+    },
+    {
+      "name": "Byggmakker Langangen",
+      "latitude": 59.087826,
+      "longitude": 9.80187
+    },
+    {
+      "name": "Byggmakker Larvik",
+      "latitude": 59.045412,
+      "longitude": 10.062688
+    },
+    {
+      "name": "Byggmakker Leangen",
+      "latitude": 63.427247,
+      "longitude": 10.470737
+    },
+    {
+      "name": "Byggmakker Leira",
+      "latitude": 60.969988,
+      "longitude": 9.29402
+    },
+    {
+      "name": "Byggmakker Leknes",
+      "latitude": 68.143047,
+      "longitude": 13.620048
+    },
+    {
+      "name": "Byggmakker Levanger",
+      "latitude": 63.748372,
+      "longitude": 11.307656
+    },
+    {
+      "name": "Byggmakker Lillehammer",
+      "latitude": 61.134228,
+      "longitude": 10.440914
+    },
+    {
+      "name": "Byggmakker Lillestrøm",
+      "latitude": 59.950199,
+      "longitude": 11.069062
+    },
+    {
+      "name": "Byggmakker Mo i Rana",
+      "latitude": 66.303505,
+      "longitude": 14.135649
+    },
+    {
+      "name": "Byggmakker Mosjøen",
+      "latitude": 65.851623,
+      "longitude": 13.194473
+    },
+    {
+      "name": "Byggmakker Moss",
+      "latitude": 59.416378,
+      "longitude": 10.672535
+    },
+    {
+      "name": "Byggmakker Namsos",
+      "latitude": 64.464753,
+      "longitude": 11.501139
+    },
+    {
+      "name": "Byggmakker Oppdal",
+      "latitude": 62.587456,
+      "longitude": 9.687451
+    },
+    {
+      "name": "Byggmakker Oslo, Brobekk",
+      "latitude": 59.931576,
+      "longitude": 10.827973
+    },
+    {
+      "name": "Byggmakker Overhalla",
+      "latitude": 64.505521,
+      "longitude": 12.013159
+    },
+    {
+      "name": "Byggmakker Raufoss",
+      "latitude": 60.723459,
+      "longitude": 10.615856
+    },
+    {
+      "name": "Byggmakker Ringsaker (Næroset)",
+      "latitude": 60.981636,
+      "longitude": 10.784843
+    },
+    {
+      "name": "Byggmakker Rissa",
+      "latitude": 63.598216,
+      "longitude": 10.000812
+    },
+    {
+      "name": "Byggmakker Røros",
+      "latitude": 62.568738,
+      "longitude": 11.384047
+    },
+    {
+      "name": "Byggmakker Rørvik",
+      "latitude": 64.859246,
+      "longitude": 11.231146
+    },
+    {
+      "name": "Byggmakker Seljord",
+      "latitude": 59.480102,
+      "longitude": 8.626618
+    },
+    {
+      "name": "Byggmakker Skui",
+      "latitude": 59.929507,
+      "longitude": 10.443838
+    },
+    {
+      "name": "Byggmakker Stavanger",
+      "latitude": 58.932449,
+      "longitude": 5.748908
+    },
+    {
+      "name": "Byggmakker Steinkjer",
+      "latitude": 64.022078,
+      "longitude": 11.485091
+    },
+    {
+      "name": "Byggmakker Stjørdal",
+      "latitude": 63.472071,
+      "longitude": 10.912178
+    },
+    {
+      "name": "Byggmakker Støren",
+      "latitude": 63.032341,
+      "longitude": 10.293764
+    },
+    {
+      "name": "Byggmakker Sunndalsøra",
+      "latitude": 62.667679,
+      "longitude": 8.533902
+    },
+    {
+      "name": "Byggmakker Surnadal",
+      "latitude": 62.983589,
+      "longitude": 8.655397
+    },
+    {
+      "name": "Byggmakker Svolvær",
+      "latitude": 68.232323,
+      "longitude": 14.535281
+    },
+    {
+      "name": "Byggmakker Tana",
+      "latitude": 70.200827,
+      "longitude": 28.173442
+    },
+    {
+      "name": "Byggmakker Tiller",
+      "latitude": 63.368942,
+      "longitude": 10.37751
+    },
+    {
+      "name": "Byggmakker Tynset",
+      "latitude": 62.278331,
+      "longitude": 10.800126
+    },
+    {
+      "name": "Byggmakker Verdal",
+      "latitude": 63.78863,
+      "longitude": 11.454785
+    },
+    {
+      "name": "Byggmakker Vågsbygd",
+      "latitude": 58.110717,
+      "longitude": 7.949694
+    },
+    {
+      "name": "Byggmakker Ørland",
+      "latitude": 63.695027,
+      "longitude": 9.665906
+    },
+    {
+      "name": "Byggmakker Øydegard",
+      "latitude": 63.010932,
+      "longitude": 7.974065
+    },
+    {
+      "name": "Byggmax",
+      "latitude": 58.972739,
+      "longitude": 9.524199
+    },
+    {
+      "name": "Byggmax Abildsø",
+      "latitude": 59.872173,
+      "longitude": 10.828167
+    },
+    {
+      "name": "Byggmax Arendal",
+      "latitude": 58.466288,
+      "longitude": 8.716579
+    },
+    {
+      "name": "Byggmax Askim",
+      "latitude": 59.58609,
+      "longitude": 11.168184
+    },
+    {
+      "name": "Byggmax Askøy",
+      "latitude": 60.426409,
+      "longitude": 5.194932
+    },
+    {
+      "name": "Byggmax Bergen Midtun",
+      "latitude": 60.320997,
+      "longitude": 5.371612
+    },
+    {
+      "name": "Byggmax Bergen Nordås",
+      "latitude": 60.308203,
+      "longitude": 5.327107
+    },
+    {
+      "name": "Byggmax Bergen Åsane",
+      "latitude": 60.464384,
+      "longitude": 5.346179
+    },
+    {
+      "name": "Byggmax Bryne",
+      "latitude": 58.719914,
+      "longitude": 5.642041
+    },
+    {
+      "name": "Byggmax Bærum",
+      "latitude": 59.909971,
+      "longitude": 10.470951
+    },
+    {
+      "name": "Byggmax Drammen",
+      "latitude": 59.690691,
+      "longitude": 10.245804
+    },
+    {
+      "name": "Byggmax Drøbak",
+      "latitude": 59.690667,
+      "longitude": 10.657189
+    },
+    {
+      "name": "Byggmax Fredrikstad",
+      "latitude": 59.246067,
+      "longitude": 10.986449
+    },
+    {
+      "name": "Byggmax Gjøvik",
+      "latitude": 60.778596,
+      "longitude": 10.638395
+    },
+    {
+      "name": "Byggmax Grimstad",
+      "latitude": 58.343605,
+      "longitude": 8.558246
+    },
+    {
+      "name": "Byggmax Halden",
+      "latitude": 59.122125,
+      "longitude": 11.299563
+    },
+    {
+      "name": "Byggmax Hamar",
+      "latitude": 60.842866,
+      "longitude": 11.043704
+    },
+    {
+      "name": "Byggmax Haugenstua",
+      "latitude": 59.957153,
+      "longitude": 10.905272
+    },
+    {
+      "name": "Byggmax Karihaugen",
+      "latitude": 59.938471,
+      "longitude": 10.927342
+    },
+    {
+      "name": "Byggmax Karmøy",
+      "latitude": 59.289051,
+      "longitude": 5.290288
+    },
+    {
+      "name": "Byggmax Kongsberg",
+      "latitude": 59.688218,
+      "longitude": 9.633914
+    },
+    {
+      "name": "Byggmax Kongsvinger",
+      "latitude": 60.173071,
+      "longitude": 12.023235
+    },
+    {
+      "name": "Byggmax Kristiansand",
+      "latitude": 58.171529,
+      "longitude": 8.130831
+    },
+    {
+      "name": "Byggmax Kristiansund",
+      "latitude": 63.119038,
+      "longitude": 7.82248
+    },
+    {
+      "name": "Byggmax Krokstad Senter",
+      "latitude": 59.758213,
+      "longitude": 9.991059
+    },
+    {
+      "name": "Byggmax Larvik",
+      "latitude": 59.041511,
+      "longitude": 10.059035
+    },
+    {
+      "name": "Byggmax Lillehammer",
+      "latitude": 61.134066,
+      "longitude": 10.428254
+    },
+    {
+      "name": "Byggmax Sandefjord",
+      "latitude": 59.133833,
+      "longitude": 10.178817
+    },
+    {
+      "name": "Byggmax Sarpsborg",
+      "latitude": 59.268486,
+      "longitude": 11.161985
+    },
+    {
+      "name": "Byggmax Skien",
+      "latitude": 59.172814,
+      "longitude": 9.617313
+    },
+    {
+      "name": "Byggmax Slemmestad",
+      "latitude": 59.774808,
+      "longitude": 10.484413
+    },
+    {
+      "name": "Byggmax Stavanger",
+      "latitude": 58.945398,
+      "longitude": 5.728025
+    },
+    {
+      "name": "Byggmax Stord",
+      "latitude": 59.764047,
+      "longitude": 5.464852
+    },
+    {
+      "name": "Byggmax Trondheim-Lade",
+      "latitude": 63.440535,
+      "longitude": 10.458528
+    },
+    {
+      "name": "Byggmax Trondheim-Tiller",
+      "latitude": 63.363754,
+      "longitude": 10.377863
+    },
+    {
+      "name": "Byggmax Tønsberg",
+      "latitude": 59.287163,
+      "longitude": 10.337487
+    },
+    {
+      "name": "Byggmax Ullensaker-Kløfta",
+      "latitude": 60.083215,
+      "longitude": 11.147497
+    },
+    {
+      "name": "Byggmax Vestby",
+      "latitude": 59.619946,
+      "longitude": 10.738969
+    },
+    {
+      "name": "Byggmax Ålesund",
+      "latitude": 62.437272,
+      "longitude": 6.363475
+    },
+    {
+      "name": "Byggtorget A G Vigemyr",
+      "latitude": 58.168892,
+      "longitude": 7.551454
+    },
+    {
+      "name": "Byggtorget Agnar Skåtun",
+      "latitude": 60.165311,
+      "longitude": 5.593118
+    },
+    {
+      "name": "Byggtorget Andersland Bygg",
+      "latitude": 60.013403,
+      "longitude": 5.511948
+    },
+    {
+      "name": "Byggtorget Arendal",
+      "latitude": 58.475413,
+      "longitude": 8.817014
+    },
+    {
+      "name": "Byggtorget Aune Byggvare",
+      "latitude": 63.754036,
+      "longitude": 10.128333
+    },
+    {
+      "name": "Byggtorget Bergan Bygg",
+      "latitude": 60.517791,
+      "longitude": 5.51924
+    },
+    {
+      "name": "Byggtorget Birkenes Byggsenter",
+      "latitude": 58.306387,
+      "longitude": 8.255041
+    },
+    {
+      "name": "Byggtorget Bo-Teknikk",
+      "latitude": 67.037222,
+      "longitude": 14.031719
+    },
+    {
+      "name": "Byggtorget Bredesen Opset",
+      "latitude": 60.455476,
+      "longitude": 12.06296
+    },
+    {
+      "name": "Byggtorget Brødrene Sønnerheim",
+      "latitude": 60.898919,
+      "longitude": 7.20889
+    },
+    {
+      "name": "Byggtorget Byggbua",
+      "latitude": 61.902373,
+      "longitude": 12.000357
+    },
+    {
+      "name": "Byggtorget Byggevarehuset Tennhaugen",
+      "latitude": 63.40386,
+      "longitude": 8.711012
+    },
+    {
+      "name": "Byggtorget Byggevaren Byrkjelo",
+      "latitude": 61.733309,
+      "longitude": 6.506262
+    },
+    {
+      "name": "Byggtorget Byggmester Knut Høivaag",
+      "latitude": 68.079612,
+      "longitude": 15.61417
+    },
+    {
+      "name": "Byggtorget Byggmester Tommy Jensen",
+      "latitude": 62.56111,
+      "longitude": 7.67692
+    },
+    {
+      "name": "Byggtorget Byggpartner",
+      "latitude": 61.696549,
+      "longitude": 11.215953
+    },
+    {
+      "name": "Byggtorget Dale Byggsenter",
+      "latitude": 61.366815,
+      "longitude": 5.404307
+    },
+    {
+      "name": "Byggtorget Dale Trelast",
+      "latitude": 60.583627,
+      "longitude": 5.798538
+    },
+    {
+      "name": "Byggtorget Digernes",
+      "latitude": 62.496038,
+      "longitude": 6.610803
+    },
+    {
+      "name": "Byggtorget Dombås Treimpregnering",
+      "latitude": 62.087935,
+      "longitude": 9.108781
+    },
+    {
+      "name": "Byggtorget Drangedal Byggsenter",
+      "latitude": 59.10295,
+      "longitude": 8.892074
+    },
+    {
+      "name": "Byggtorget E. Flåten",
+      "latitude": 70.240316,
+      "longitude": 22.347027
+    },
+    {
+      "name": "Byggtorget Eide Bygg",
+      "latitude": 69.67583,
+      "longitude": 18.746261
+    },
+    {
+      "name": "Byggtorget Eide Byggservice",
+      "latitude": 62.910447,
+      "longitude": 7.426187
+    },
+    {
+      "name": "Byggtorget Engan Bygg og Tre",
+      "latitude": 67.969238,
+      "longitude": 15.924249
+    },
+    {
+      "name": "Byggtorget Fillan",
+      "latitude": 63.600891,
+      "longitude": 8.975934
+    },
+    {
+      "name": "Byggtorget Finnøy",
+      "latitude": 59.177586,
+      "longitude": 5.844897
+    },
+    {
+      "name": "Byggtorget Flesberg Jern og Bygg",
+      "latitude": 59.861703,
+      "longitude": 9.429163
+    },
+    {
+      "name": "Byggtorget Florø",
+      "latitude": 61.601133,
+      "longitude": 5.047313
+    },
+    {
+      "name": "Byggtorget Fosheim Sag",
+      "latitude": 61.030475,
+      "longitude": 9.051485
+    },
+    {
+      "name": "Byggtorget Frøya",
+      "latitude": 63.724118,
+      "longitude": 8.837445
+    },
+    {
+      "name": "Byggtorget Fuhr Bygg",
+      "latitude": 61.400251,
+      "longitude": 7.296986
+    },
+    {
+      "name": "Byggtorget Fyresdal Sag og Bygg",
+      "latitude": 59.203578,
+      "longitude": 8.081285
+    },
+    {
+      "name": "Byggtorget GG Bygg",
+      "latitude": 62.093288,
+      "longitude": 5.745585
+    },
+    {
+      "name": "Byggtorget Halsnøy Trelast",
+      "latitude": 59.796598,
+      "longitude": 5.738408
+    },
+    {
+      "name": "Byggtorget Hardanger Byggsenter",
+      "latitude": 60.371858,
+      "longitude": 6.153015
+    },
+    {
+      "name": "Byggtorget Havøysund",
+      "latitude": 70.995393,
+      "longitude": 24.668923
+    },
+    {
+      "name": "Byggtorget Hell Sagbruk & Høvleri",
+      "latitude": 63.445241,
+      "longitude": 10.897618
+    },
+    {
+      "name": "Byggtorget Herøy",
+      "latitude": 62.325405,
+      "longitude": 5.67295
+    },
+    {
+      "name": "Byggtorget Holmestrand",
+      "latitude": 59.474838,
+      "longitude": 10.322383
+    },
+    {
+      "name": "Byggtorget Kaare Ødegaard",
+      "latitude": 60.856628,
+      "longitude": 10.831232
+    },
+    {
+      "name": "Byggtorget Kaland Trelast",
+      "latitude": 60.790618,
+      "longitude": 5.015022
+    },
+    {
+      "name": "Byggtorget Kanstad Trelast",
+      "latitude": 68.417673,
+      "longitude": 15.993101
+    },
+    {
+      "name": "Byggtorget Karmøy",
+      "latitude": 59.254608,
+      "longitude": 5.18474
+    },
+    {
+      "name": "Byggtorget Kjeminor",
+      "latitude": 64.490266,
+      "longitude": 10.896583
+    },
+    {
+      "name": "Byggtorget Kjøpsvik Trelast",
+      "latitude": 68.09262,
+      "longitude": 16.363285
+    },
+    {
+      "name": "Byggtorget Knarrlagsund Byggvare",
+      "latitude": 63.665097,
+      "longitude": 9.076467
+    },
+    {
+      "name": "Byggtorget Konsvikbygg",
+      "latitude": 66.497534,
+      "longitude": 13.102031
+    },
+    {
+      "name": "Byggtorget Kristiansund",
+      "latitude": 63.111298,
+      "longitude": 7.79727
+    },
+    {
+      "name": "Byggtorget Krokstadelva",
+      "latitude": 59.756675,
+      "longitude": 10.028838
+    },
+    {
+      "name": "Byggtorget Kviknehytta",
+      "latitude": 62.555829,
+      "longitude": 10.334809
+    },
+    {
+      "name": "Byggtorget Kålås Bygg",
+      "latitude": 60.613434,
+      "longitude": 5.403422
+    },
+    {
+      "name": "Byggtorget Leksvik Innkjøpslag",
+      "latitude": 63.667918,
+      "longitude": 10.617681
+    },
+    {
+      "name": "Byggtorget Lio Sag & Treforedling",
+      "latitude": 60.007565,
+      "longitude": 5.99027
+    },
+    {
+      "name": "Byggtorget Lio Sag & Treforedling Husnes",
+      "latitude": 59.877417,
+      "longitude": 5.775641
+    },
+    {
+      "name": "Byggtorget Lofoten",
+      "latitude": 68.131163,
+      "longitude": 13.571092
+    },
+    {
+      "name": "Byggtorget Løddesøl Sagbruk & Høvleri",
+      "latitude": 58.446445,
+      "longitude": 8.609842
+    },
+    {
+      "name": "Byggtorget Manndalen Bygg",
+      "latitude": 69.542289,
+      "longitude": 20.537817
+    },
+    {
+      "name": "Byggtorget Martin Lid Trelast",
+      "latitude": 60.634205,
+      "longitude": 6.465739
+    },
+    {
+      "name": "Byggtorget Material og Maling",
+      "latitude": 69.960916,
+      "longitude": 19.617225
+    },
+    {
+      "name": "Byggtorget Materialhandelen",
+      "latitude": 69.940283,
+      "longitude": 22.044835
+    },
+    {
+      "name": "Byggtorget Mathisen & Mathisen",
+      "latitude": 68.44684,
+      "longitude": 17.452699
+    },
+    {
+      "name": "Byggtorget Mosheim Sag",
+      "latitude": 65.495502,
+      "longitude": 12.261274
+    },
+    {
+      "name": "Byggtorget Mosvik",
+      "latitude": 63.820728,
+      "longitude": 10.99458
+    },
+    {
+      "name": "Byggtorget Nedrevåg",
+      "latitude": 60.365738,
+      "longitude": 6.739173
+    },
+    {
+      "name": "Byggtorget Nesna",
+      "latitude": 66.199882,
+      "longitude": 13.009475
+    },
+    {
+      "name": "Byggtorget Nydal Byggevarer",
+      "latitude": 60.294854,
+      "longitude": 5.383024
+    },
+    {
+      "name": "Byggtorget Odde Sagbruk",
+      "latitude": 58.576076,
+      "longitude": 7.782786
+    },
+    {
+      "name": "Byggtorget Odde Sagbruk Valle",
+      "latitude": 59.218194,
+      "longitude": 7.534836
+    },
+    {
+      "name": "Byggtorget Reknes Byggjevarer",
+      "latitude": 60.837405,
+      "longitude": 5.337478
+    },
+    {
+      "name": "Byggtorget Ring Bygg",
+      "latitude": 60.081549,
+      "longitude": 10.264694
+    },
+    {
+      "name": "Byggtorget Rognan",
+      "latitude": 67.089004,
+      "longitude": 15.376776
+    },
+    {
+      "name": "Byggtorget Rolf Maridal",
+      "latitude": 63.119218,
+      "longitude": 8.308356
+    },
+    {
+      "name": "Byggtorget Rugtvedt",
+      "latitude": 59.043637,
+      "longitude": 9.672081
+    },
+    {
+      "name": "Byggtorget Røst",
+      "latitude": 67.506502,
+      "longitude": 12.064258
+    },
+    {
+      "name": "Byggtorget Sandve Trelast",
+      "latitude": 59.155613,
+      "longitude": 5.241744
+    },
+    {
+      "name": "Byggtorget Selva Bygg",
+      "latitude": 63.615151,
+      "longitude": 9.725815
+    },
+    {
+      "name": "Byggtorget Sjøvegan Byggevare",
+      "latitude": 68.870351,
+      "longitude": 17.858551
+    },
+    {
+      "name": "Byggtorget Skeie Bygg",
+      "latitude": 64.969848,
+      "longitude": 12.157352
+    },
+    {
+      "name": "Byggtorget Skjervøy Byggeservice",
+      "latitude": 70.018286,
+      "longitude": 20.972969
+    },
+    {
+      "name": "Byggtorget Smølabygg",
+      "latitude": 63.462117,
+      "longitude": 8.096502
+    },
+    {
+      "name": "Byggtorget Snarum Bygg",
+      "latitude": 59.986924,
+      "longitude": 9.974436
+    },
+    {
+      "name": "Byggtorget Sola",
+      "latitude": 58.898029,
+      "longitude": 5.64744
+    },
+    {
+      "name": "Byggtorget Sotra Bygg og Boligfornying",
+      "latitude": 60.358609,
+      "longitude": 5.118962
+    },
+    {
+      "name": "Byggtorget Storbukt Bygg",
+      "latitude": 70.998871,
+      "longitude": 25.966817
+    },
+    {
+      "name": "Byggtorget Strandtorget Vardø",
+      "latitude": 70.372192,
+      "longitude": 31.109833
+    },
+    {
+      "name": "Byggtorget Stryn Trelast",
+      "latitude": 61.904308,
+      "longitude": 6.70306
+    },
+    {
+      "name": "Byggtorget Svensby Snekkerservice",
+      "latitude": 69.837437,
+      "longitude": 20.042079
+    },
+    {
+      "name": "Byggtorget T.M Slungård Sag & Høvleri",
+      "latitude": 63.428171,
+      "longitude": 11.772623
+    },
+    {
+      "name": "Byggtorget Toten",
+      "latitude": 60.670605,
+      "longitude": 10.811847
+    },
+    {
+      "name": "Byggtorget Trelasten Elverum",
+      "latitude": 61.16621,
+      "longitude": 11.348011
+    },
+    {
+      "name": "Byggtorget Tungesvik Bygg",
+      "latitude": 59.738785,
+      "longitude": 5.911339
+    },
+    {
+      "name": "Byggtorget Tuv Trelasthandel",
+      "latitude": 67.210824,
+      "longitude": 14.615023
+    },
+    {
+      "name": "Byggtorget Valldal Høvleri",
+      "latitude": 62.332816,
+      "longitude": 7.367188
+    },
+    {
+      "name": "Byggtorget Vesterålen Byggeservice",
+      "latitude": 68.571243,
+      "longitude": 14.945486
+    },
+    {
+      "name": "Byggtorget Vika",
+      "latitude": 66.321083,
+      "longitude": 14.195954
+    },
+    {
+      "name": "Byggtorget Værøy",
+      "latitude": 67.660235,
+      "longitude": 12.693639
+    },
+    {
+      "name": "Byggtorget Ytrehus Sag",
+      "latitude": 61.736597,
+      "longitude": 5.201802
+    },
+    {
+      "name": "Byggtorget Ågotnes",
+      "latitude": 60.405414,
+      "longitude": 5.002321
+    },
+    {
+      "name": "Byggtorget Østmoen Sag",
+      "latitude": 60.431188,
+      "longitude": 11.638644
+    },
+    {
+      "name": "Byggtorget Øvrebø Kassefabrikk",
+      "latitude": 58.294685,
+      "longitude": 7.835212
+    },
+    {
+      "name": "Byggvell",
+      "latitude": 58.085531,
+      "longitude": 6.79006
+    },
+    {
+      "name": "Carlsen Fritzøe Alnabru Proffsenter",
+      "latitude": 59.934841,
+      "longitude": 10.864482
+    },
+    {
+      "name": "Carlsen Fritzøe Arendal",
+      "latitude": 58.467924,
+      "longitude": 8.722576
+    },
+    {
+      "name": "Carlsen Fritzøe Bamble Havna",
+      "latitude": 59.02209,
+      "longitude": 9.71868
+    },
+    {
+      "name": "Carlsen Fritzøe Fredrikstad Saxegård",
+      "latitude": 59.254465,
+      "longitude": 10.992177
+    },
+    {
+      "name": "Carlsen Fritzøe Fredrikstad Østsiden",
+      "latitude": 59.20505,
+      "longitude": 10.972126
+    },
+    {
+      "name": "Carlsen Fritzøe Jessheim Proffsenter",
+      "latitude": 60.150651,
+      "longitude": 11.182733
+    },
+    {
+      "name": "Carlsen Fritzøe Kragerø",
+      "latitude": 58.872668,
+      "longitude": 9.366192
+    },
+    {
+      "name": "Carlsen Fritzøe Mandal Proffsenter",
+      "latitude": 58.026609,
+      "longitude": 7.514767
+    },
+    {
+      "name": "Carlsen Fritzøe Notodden Bjarnason",
+      "latitude": 59.564877,
+      "longitude": 9.221792
+    },
+    {
+      "name": "Carlsen Fritzøe PreTak",
+      "latitude": 59.01842,
+      "longitude": 10.02231
+    },
+    {
+      "name": "Carlsen Fritzøe Rjukan",
+      "latitude": 59.880193,
+      "longitude": 8.663793
+    },
+    {
+      "name": "Carlsen Fritzøe Råde",
+      "latitude": 59.351248,
+      "longitude": 10.87653
+    },
+    {
+      "name": "Carlsen Fritzøe Sandefjord Carlsen",
+      "latitude": 59.16277,
+      "longitude": 10.199388
+    },
+    {
+      "name": "Carlsen Fritzøe Sarpsborg",
+      "latitude": 59.286021,
+      "longitude": 11.085069
+    },
+    {
+      "name": "Carlsen Fritzøe Skien Aasland",
+      "latitude": 59.173345,
+      "longitude": 9.625932
+    },
+    {
+      "name": "Carlsen Fritzøe Stavern",
+      "latitude": 59.003222,
+      "longitude": 10.043383
+    },
+    {
+      "name": "Carlsen Fritzøe Søgne Proffsenter",
+      "latitude": 58.091308,
+      "longitude": 7.818793
+    },
+    {
+      "name": "Carlsen Fritzøe Sørlandsparken Eftevaag",
+      "latitude": 58.170137,
+      "longitude": 8.124915
+    },
+    {
+      "name": "Carlsen Fritzøe Tønsberg Proffsenter",
+      "latitude": 59.277447,
+      "longitude": 10.399878
+    },
+    {
+      "name": "Etman",
+      "latitude": 58.945059,
+      "longitude": 5.726223
+    },
+    {
+      "name": "Flisekompaniet Steinkjer",
+      "latitude": 64.022558,
+      "longitude": 11.487008
+    },
+    {
+      "name": "Gausdal Landhandleri",
+      "latitude": 60.887578,
+      "longitude": 11.524017
+    },
+    {
+      "name": "Gausdal Landhandleri Bagn",
+      "latitude": 60.821761,
+      "longitude": 9.550474
+    },
+    {
+      "name": "Granitt og Betongvare AS",
+      "latitude": 59.93398,
+      "longitude": 10.86321
+    },
+    {
+      "name": "Gulbjørnrud Byggmarked AS",
+      "latitude": 59.751466,
+      "longitude": 10.646066
+    },
+    {
+      "name": "HMH Cement & Flis",
+      "latitude": 59.415262,
+      "longitude": 10.676136
+    },
+    {
+      "name": "Heidenreich",
+      "latitude": 59.418983,
+      "longitude": 10.671234
+    },
+    {
+      "name": "Heidenreich",
+      "latitude": 59.441525,
+      "longitude": 10.703628
+    },
+    {
+      "name": "Holter sag",
+      "latitude": 60.138973,
+      "longitude": 11.018104
+    },
+    {
+      "name": "Horeca service AS",
+      "latitude": 59.420177,
+      "longitude": 10.699286
+    },
+    {
+      "name": "Johs E. Øvsthus AS",
+      "latitude": 60.656362,
+      "longitude": 6.436654
+    },
+    {
+      "name": "Kjos Sag & Høvleri",
+      "latitude": 60.237453,
+      "longitude": 9.889569
+    },
+    {
+      "name": "Klepsvik & Sønn AS",
+      "latitude": 60.1762,
+      "longitude": 5.110812
+    },
+    {
+      "name": "Kolsås Rør",
+      "latitude": 59.90811,
+      "longitude": 10.490661
+    },
+    {
+      "name": "Maxbo",
+      "latitude": 59.726861,
+      "longitude": 10.782387
+    },
+    {
+      "name": "Maxbo Alna Stormarked",
+      "latitude": 59.926139,
+      "longitude": 10.846975
+    },
+    {
+      "name": "Maxbo Asker",
+      "latitude": 59.828529,
+      "longitude": 10.433105
+    },
+    {
+      "name": "Maxbo Bjørkelangen (Skansen)",
+      "latitude": 59.893005,
+      "longitude": 11.559358
+    },
+    {
+      "name": "Maxbo Brumunddal",
+      "latitude": 60.887045,
+      "longitude": 10.934109
+    },
+    {
+      "name": "Maxbo Bærums Verk",
+      "latitude": 59.94413,
+      "longitude": 10.507126
+    },
+    {
+      "name": "Maxbo Digernes (Ålesund)",
+      "latitude": 62.49197,
+      "longitude": 6.610418
+    },
+    {
+      "name": "Maxbo Dokka",
+      "latitude": 60.831446,
+      "longitude": 10.069796
+    },
+    {
+      "name": "Maxbo Elverum",
+      "latitude": 60.883795,
+      "longitude": 11.551913
+    },
+    {
+      "name": "Maxbo Etnedal",
+      "latitude": 60.937504,
+      "longitude": 9.62981
+    },
+    {
+      "name": "Maxbo Flå",
+      "latitude": 60.429682,
+      "longitude": 9.456011
+    },
+    {
+      "name": "Maxbo Fredrikstad (Rybom)",
+      "latitude": 59.210817,
+      "longitude": 10.957413
+    },
+    {
+      "name": "Maxbo Fredrikstad Stormarked",
+      "latitude": 59.233126,
+      "longitude": 10.907852
+    },
+    {
+      "name": "Maxbo Geilo",
+      "latitude": 60.526975,
+      "longitude": 8.215229
+    },
+    {
+      "name": "Maxbo Gol",
+      "latitude": 60.698863,
+      "longitude": 8.933887
+    },
+    {
+      "name": "Maxbo Gran",
+      "latitude": 60.352467,
+      "longitude": 10.575797
+    },
+    {
+      "name": "Maxbo Hamar Stormarked",
+      "latitude": 60.798661,
+      "longitude": 11.116248
+    },
+    {
+      "name": "Maxbo Harestua",
+      "latitude": 60.204479,
+      "longitude": 10.715359
+    },
+    {
+      "name": "Maxbo Hemsedal",
+      "latitude": 60.849314,
+      "longitude": 8.616129
+    },
+    {
+      "name": "Maxbo Hokksund (I. O. Haugen)",
+      "latitude": 59.769031,
+      "longitude": 9.897532
+    },
+    {
+      "name": "Maxbo Holmen",
+      "latitude": 59.853702,
+      "longitude": 10.480257
+    },
+    {
+      "name": "Maxbo Horten",
+      "latitude": 59.40215,
+      "longitude": 10.460545
+    },
+    {
+      "name": "Maxbo Hurum (Torstvedt)",
+      "latitude": 59.558441,
+      "longitude": 10.468567
+    },
+    {
+      "name": "Maxbo Hvam Stormarked",
+      "latitude": 59.977979,
+      "longitude": 10.990471
+    },
+    {
+      "name": "Maxbo Hønefoss",
+      "latitude": 60.152733,
+      "longitude": 10.250958
+    },
+    {
+      "name": "Maxbo Karihaugen",
+      "latitude": 59.936169,
+      "longitude": 10.929825
+    },
+    {
+      "name": "Maxbo Kløfta",
+      "latitude": 60.081546,
+      "longitude": 11.147792
+    },
+    {
+      "name": "Maxbo Knapstad",
+      "latitude": 59.619582,
+      "longitude": 11.029837
+    },
+    {
+      "name": "Maxbo Kongsvinger",
+      "latitude": 60.189715,
+      "longitude": 12.026334
+    },
+    {
+      "name": "Maxbo Kragerø",
+      "latitude": 58.869641,
+      "longitude": 9.416474
+    },
+    {
+      "name": "Maxbo Kristiansund",
+      "latitude": 63.110581,
+      "longitude": 7.793121
+    },
+    {
+      "name": "Maxbo Lier Stormarked",
+      "latitude": 59.755483,
+      "longitude": 10.263822
+    },
+    {
+      "name": "Maxbo Lillehammer",
+      "latitude": 61.147416,
+      "longitude": 10.41734
+    },
+    {
+      "name": "Maxbo Lillestrøm (Ødeby)",
+      "latitude": 59.944525,
+      "longitude": 11.07048
+    },
+    {
+      "name": "Maxbo Mandal",
+      "latitude": 58.01959,
+      "longitude": 7.466532
+    },
+    {
+      "name": "Maxbo Mysen (Torper)",
+      "latitude": 59.553317,
+      "longitude": 11.338647
+    },
+    {
+      "name": "Maxbo Nesbyen (Hallingdal)",
+      "latitude": 60.561673,
+      "longitude": 9.113241
+    },
+    {
+      "name": "Maxbo Nittedal",
+      "latitude": 60.051667,
+      "longitude": 10.883686
+    },
+    {
+      "name": "Maxbo Notodden",
+      "latitude": 59.561093,
+      "longitude": 9.230696
+    },
+    {
+      "name": "Maxbo Nøtterøy",
+      "latitude": 59.239594,
+      "longitude": 10.453253
+    },
+    {
+      "name": "Maxbo Ole Deviks vei",
+      "latitude": 59.919636,
+      "longitude": 10.830522
+    },
+    {
+      "name": "Maxbo Proff Bergen",
+      "latitude": 60.379135,
+      "longitude": 5.207205
+    },
+    {
+      "name": "Maxbo Proff Mjøsa",
+      "latitude": 60.783158,
+      "longitude": 10.677814
+    },
+    {
+      "name": "Maxbo Proff Oslo (Fossum)",
+      "latitude": 59.963226,
+      "longitude": 10.617878
+    },
+    {
+      "name": "Maxbo Proff Stavanger",
+      "latitude": 58.894126,
+      "longitude": 5.741888
+    },
+    {
+      "name": "Maxbo Proff Trondheim",
+      "latitude": 63.387266,
+      "longitude": 10.404481
+    },
+    {
+      "name": "Maxbo Rjukan",
+      "latitude": 59.880231,
+      "longitude": 8.668002
+    },
+    {
+      "name": "Maxbo Sandefjord",
+      "latitude": 59.129553,
+      "longitude": 10.244644
+    },
+    {
+      "name": "Maxbo Sarpsborg",
+      "latitude": 59.283672,
+      "longitude": 11.120421
+    },
+    {
+      "name": "Maxbo Sinsen",
+      "latitude": 59.937563,
+      "longitude": 10.782613
+    },
+    {
+      "name": "Maxbo Skien",
+      "latitude": 59.179806,
+      "longitude": 9.608674
+    },
+    {
+      "name": "Maxbo Slemmestad",
+      "latitude": 59.783942,
+      "longitude": 10.483932
+    },
+    {
+      "name": "Maxbo Stokke",
+      "latitude": 59.226503,
+      "longitude": 10.288937
+    },
+    {
+      "name": "Maxbo Sykkylven (Idébygg)",
+      "latitude": 62.401017,
+      "longitude": 6.580139
+    },
+    {
+      "name": "Maxbo Sørumsand",
+      "latitude": 59.981296,
+      "longitude": 11.240503
+    },
+    {
+      "name": "Maxbo Tjøme",
+      "latitude": 59.120349,
+      "longitude": 10.398984
+    },
+    {
+      "name": "Maxbo Trysil",
+      "latitude": 61.301055,
+      "longitude": 12.263725
+    },
+    {
+      "name": "Maxbo Trøgstad (Torper)",
+      "latitude": 59.632175,
+      "longitude": 11.318911
+    },
+    {
+      "name": "Maxbo Tynset",
+      "latitude": 62.276414,
+      "longitude": 10.784465
+    },
+    {
+      "name": "Maxbo Tønsberg Stormarked (Ilebrekke)",
+      "latitude": 59.292321,
+      "longitude": 10.473259
+    },
+    {
+      "name": "Maxbo Valdres (Fagernes)",
+      "latitude": 60.994943,
+      "longitude": 9.21653
+    },
+    {
+      "name": "Maxbo Vestby",
+      "latitude": 59.617857,
+      "longitude": 10.738864
+    },
+    {
+      "name": "Maxbo Vækerø Stormarked",
+      "latitude": 59.916367,
+      "longitude": 10.658698
+    },
+    {
+      "name": "Maxbo Ålesund",
+      "latitude": 62.470228,
+      "longitude": 6.142037
+    },
+    {
+      "name": "Maxbo Åmot",
+      "latitude": 59.913914,
+      "longitude": 9.949313
+    },
+    {
+      "name": "Mestergruppen",
+      "latitude": 63.353693,
+      "longitude": 10.359228
+    },
+    {
+      "name": "Modena",
+      "latitude": 58.176048,
+      "longitude": 8.135897
+    },
+    {
+      "name": "Monter Stabekk",
+      "latitude": 59.906717,
+      "longitude": 10.603664
+    },
+    {
+      "name": "Montér",
+      "latitude": 61.592819,
+      "longitude": 9.726976
+    },
+    {
+      "name": "Montér Almenningsbutikken",
+      "latitude": 60.407055,
+      "longitude": 10.534383
+    },
+    {
+      "name": "Montér Andenes",
+      "latitude": 69.30972,
+      "longitude": 16.093483
+    },
+    {
+      "name": "Montér Andersen Kaupanger",
+      "latitude": 61.192602,
+      "longitude": 7.224807
+    },
+    {
+      "name": "Montér Andersen Lærdal",
+      "latitude": 61.100189,
+      "longitude": 7.4759
+    },
+    {
+      "name": "Montér Andersen Årdal",
+      "latitude": 61.306737,
+      "longitude": 7.809958
+    },
+    {
+      "name": "Montér Asker",
+      "latitude": 59.820062,
+      "longitude": 10.440961
+    },
+    {
+      "name": "Montér Askøy",
+      "latitude": 60.412214,
+      "longitude": 5.235243
+    },
+    {
+      "name": "Montér Bloch",
+      "latitude": 70.653024,
+      "longitude": 23.662636
+    },
+    {
+      "name": "Montér Brattvåg",
+      "latitude": 62.606946,
+      "longitude": 6.436655
+    },
+    {
+      "name": "Montér Brekstad",
+      "latitude": 63.695289,
+      "longitude": 9.664486
+    },
+    {
+      "name": "Montér Brumunddal",
+      "latitude": 60.884829,
+      "longitude": 10.946152
+    },
+    {
+      "name": "Montér Bryne",
+      "latitude": 58.720604,
+      "longitude": 5.653821
+    },
+    {
+      "name": "Montér Bygg-Gros",
+      "latitude": 65.49142,
+      "longitude": 12.242671
+    },
+    {
+      "name": "Montér Båstad",
+      "latitude": 59.703621,
+      "longitude": 11.300641
+    },
+    {
+      "name": "Montér Bømlo",
+      "latitude": 59.751214,
+      "longitude": 5.245663
+    },
+    {
+      "name": "Montér Dønna",
+      "latitude": 66.108924,
+      "longitude": 12.487114
+    },
+    {
+      "name": "Montér Egersund",
+      "latitude": 58.438947,
+      "longitude": 6.010034
+    },
+    {
+      "name": "Montér Eidsvoll",
+      "latitude": 60.257887,
+      "longitude": 11.184848
+    },
+    {
+      "name": "Montér Eidsvåg",
+      "latitude": 62.77658,
+      "longitude": 8.070796
+    },
+    {
+      "name": "Montér Elverum",
+      "latitude": 60.887522,
+      "longitude": 11.520982
+    },
+    {
+      "name": "Montér Etne",
+      "latitude": 59.663827,
+      "longitude": 5.941015
+    },
+    {
+      "name": "Montér Evje",
+      "latitude": 58.58183,
+      "longitude": 7.794732
+    },
+    {
+      "name": "Montér Farsund",
+      "latitude": 58.084868,
+      "longitude": 6.786819
+    },
+    {
+      "name": "Montér Finnsnes",
+      "latitude": 69.235482,
+      "longitude": 17.972812
+    },
+    {
+      "name": "Montér Flekkefjord",
+      "latitude": 58.282956,
+      "longitude": 6.640896
+    },
+    {
+      "name": "Montér Flisa",
+      "latitude": 60.593802,
+      "longitude": 12.024782
+    },
+    {
+      "name": "Montér Geilo",
+      "latitude": 60.529578,
+      "longitude": 8.216724
+    },
+    {
+      "name": "Montér Gjøvik",
+      "latitude": 60.782489,
+      "longitude": 10.691673
+    },
+    {
+      "name": "Montér Gol",
+      "latitude": 60.698334,
+      "longitude": 8.937314
+    },
+    {
+      "name": "Montér Grimstad",
+      "latitude": 58.338295,
+      "longitude": 8.552414
+    },
+    {
+      "name": "Montér Gulskogen",
+      "latitude": 59.747092,
+      "longitude": 10.147806
+    },
+    {
+      "name": "Montér Hadsel",
+      "latitude": 68.571772,
+      "longitude": 14.949481
+    },
+    {
+      "name": "Montér Halden",
+      "latitude": 59.121694,
+      "longitude": 11.376216
+    },
+    {
+      "name": "Montér Hamar",
+      "latitude": 60.79569,
+      "longitude": 11.101095
+    },
+    {
+      "name": "Montér Harstad",
+      "latitude": 68.793034,
+      "longitude": 16.544129
+    },
+    {
+      "name": "Montér Hatlestrand",
+      "latitude": 60.064281,
+      "longitude": 5.92323
+    },
+    {
+      "name": "Montér Hemsedal",
+      "latitude": 60.842222,
+      "longitude": 8.622446
+    },
+    {
+      "name": "Montér Hensmoen",
+      "latitude": 60.221117,
+      "longitude": 10.248116
+    },
+    {
+      "name": "Montér Herøy",
+      "latitude": 65.98636,
+      "longitude": 12.296417
+    },
+    {
+      "name": "Montér Holmestrand",
+      "latitude": 59.475381,
+      "longitude": 10.319349
+    },
+    {
+      "name": "Montér Hommelstø Trelast Vega",
+      "latitude": 65.674298,
+      "longitude": 11.967065
+    },
+    {
+      "name": "Montér Hommelstø Trelast Velfjord",
+      "latitude": 65.403017,
+      "longitude": 12.550466
+    },
+    {
+      "name": "Montér Horten",
+      "latitude": 59.420401,
+      "longitude": 10.457502
+    },
+    {
+      "name": "Montér Hovden",
+      "latitude": 59.557529,
+      "longitude": 7.356648
+    },
+    {
+      "name": "Montér Hurdal",
+      "latitude": 60.432897,
+      "longitude": 11.065384
+    },
+    {
+      "name": "Montér Hurum",
+      "latitude": 59.671701,
+      "longitude": 10.523349
+    },
+    {
+      "name": "Montér Hønefoss",
+      "latitude": 60.188025,
+      "longitude": 10.25198
+    },
+    {
+      "name": "Montér Jessheim",
+      "latitude": 60.150477,
+      "longitude": 11.185533
+    },
+    {
+      "name": "Montér Karmøy",
+      "latitude": 59.279455,
+      "longitude": 5.242625
+    },
+    {
+      "name": "Montér Kirkenes",
+      "latitude": 69.727729,
+      "longitude": 30.062536
+    },
+    {
+      "name": "Montér Klett",
+      "latitude": 63.3256,
+      "longitude": 10.321985
+    },
+    {
+      "name": "Montér Knarvik",
+      "latitude": 60.543242,
+      "longitude": 5.290756
+    },
+    {
+      "name": "Montér Kongsberg",
+      "latitude": 59.676812,
+      "longitude": 9.641796
+    },
+    {
+      "name": "Montér Kongsvinger",
+      "latitude": 60.203131,
+      "longitude": 11.974072
+    },
+    {
+      "name": "Montér Kragerø",
+      "latitude": 58.874979,
+      "longitude": 9.364306
+    },
+    {
+      "name": "Montér Kvam",
+      "latitude": 60.36948,
+      "longitude": 6.128178
+    },
+    {
+      "name": "Montér Kvinesdal",
+      "latitude": 58.322121,
+      "longitude": 6.967596
+    },
+    {
+      "name": "Montér Kvinnherad",
+      "latitude": 59.780529,
+      "longitude": 5.731216
+    },
+    {
+      "name": "Montér Kvismo",
+      "latitude": 61.141916,
+      "longitude": 8.790458
+    },
+    {
+      "name": "Montér Larvik",
+      "latitude": 59.043813,
+      "longitude": 10.059851
+    },
+    {
+      "name": "Montér Lier",
+      "latitude": 59.80585,
+      "longitude": 10.293949
+    },
+    {
+      "name": "Montér Lillehammer",
+      "latitude": 61.115428,
+      "longitude": 10.449815
+    },
+    {
+      "name": "Montér Lillesand",
+      "latitude": 58.267573,
+      "longitude": 8.398306
+    },
+    {
+      "name": "Montér Lillestrøm",
+      "latitude": 59.948319,
+      "longitude": 11.073065
+    },
+    {
+      "name": "Montér Lindesnes",
+      "latitude": 58.078426,
+      "longitude": 7.311413
+    },
+    {
+      "name": "Montér Lofoten",
+      "latitude": 68.134651,
+      "longitude": 13.609386
+    },
+    {
+      "name": "Montér Lovund",
+      "latitude": 66.368754,
+      "longitude": 12.377677
+    },
+    {
+      "name": "Montér Lurøy",
+      "latitude": 66.392737,
+      "longitude": 12.827786
+    },
+    {
+      "name": "Montér Lyngdal",
+      "latitude": 58.136058,
+      "longitude": 7.041134
+    },
+    {
+      "name": "Montér Mandal",
+      "latitude": 58.02055,
+      "longitude": 7.468555
+    },
+    {
+      "name": "Montér Minde",
+      "latitude": 60.362892,
+      "longitude": 5.343976
+    },
+    {
+      "name": "Montér Mo i Rana",
+      "latitude": 66.317368,
+      "longitude": 14.148174
+    },
+    {
+      "name": "Montér Molde",
+      "latitude": 62.736888,
+      "longitude": 7.183924
+    },
+    {
+      "name": "Montér Narvik",
+      "latitude": 68.409751,
+      "longitude": 17.425286
+    },
+    {
+      "name": "Montér Nesbyen",
+      "latitude": 60.558319,
+      "longitude": 9.127706
+    },
+    {
+      "name": "Montér Nordkapp",
+      "latitude": 70.988745,
+      "longitude": 25.966262
+    },
+    {
+      "name": "Montér Nærbø",
+      "latitude": 58.663441,
+      "longitude": 5.637823
+    },
+    {
+      "name": "Montér Næstby",
+      "latitude": 65.864812,
+      "longitude": 13.192051
+    },
+    {
+      "name": "Montér Odda",
+      "latitude": 60.094253,
+      "longitude": 6.530874
+    },
+    {
+      "name": "Montér Orring",
+      "latitude": 59.833224,
+      "longitude": 10.839133
+    },
+    {
+      "name": "Montér Os Byggsenter",
+      "latitude": 60.203238,
+      "longitude": 5.44708
+    },
+    {
+      "name": "Montér Porsgrunn",
+      "latitude": 59.124108,
+      "longitude": 9.705479
+    },
+    {
+      "name": "Montér Rakkestad",
+      "latitude": 59.425134,
+      "longitude": 11.338744
+    },
+    {
+      "name": "Montér Randaberg",
+      "latitude": 58.992416,
+      "longitude": 5.644956
+    },
+    {
+      "name": "Montér Randesund",
+      "latitude": 58.139991,
+      "longitude": 8.063539
+    },
+    {
+      "name": "Montér Rauma",
+      "latitude": 62.567758,
+      "longitude": 7.683391
+    },
+    {
+      "name": "Montér Rena",
+      "latitude": 61.131626,
+      "longitude": 11.367361
+    },
+    {
+      "name": "Montér Revetal",
+      "latitude": 59.369348,
+      "longitude": 10.264453
+    },
+    {
+      "name": "Montér Risør",
+      "latitude": 58.717163,
+      "longitude": 9.211517
+    },
+    {
+      "name": "Montér Røros",
+      "latitude": 62.566542,
+      "longitude": 11.380317
+    },
+    {
+      "name": "Montér Røsand",
+      "latitude": 63.068341,
+      "longitude": 7.648512
+    },
+    {
+      "name": "Montér Sauda",
+      "latitude": 59.648161,
+      "longitude": 6.347591
+    },
+    {
+      "name": "Montér Skien",
+      "latitude": 59.176905,
+      "longitude": 9.611013
+    },
+    {
+      "name": "Montér Solhaug Halsa",
+      "latitude": 66.729015,
+      "longitude": 13.576151
+    },
+    {
+      "name": "Montér Solhaug Ørnes",
+      "latitude": 66.855786,
+      "longitude": 13.722664
+    },
+    {
+      "name": "Montér Sortland",
+      "latitude": 68.68243,
+      "longitude": 15.400503
+    },
+    {
+      "name": "Montér Stange",
+      "latitude": 60.71513,
+      "longitude": 11.21083
+    },
+    {
+      "name": "Montér Stavanger",
+      "latitude": 58.947995,
+      "longitude": 5.744458
+    },
+    {
+      "name": "Montér Stord",
+      "latitude": 59.760356,
+      "longitude": 5.441298
+    },
+    {
+      "name": "Montér Storefoss",
+      "latitude": 61.128982,
+      "longitude": 9.085374
+    },
+    {
+      "name": "Montér Storkaas",
+      "latitude": 59.40414,
+      "longitude": 9.135985
+    },
+    {
+      "name": "Montér Stormarked Forus",
+      "latitude": 58.89579,
+      "longitude": 5.707065
+    },
+    {
+      "name": "Montér Stormarked Haugesund",
+      "latitude": 59.383495,
+      "longitude": 5.31312
+    },
+    {
+      "name": "Montér Stormarked Østfoldhallen",
+      "latitude": 59.249142,
+      "longitude": 10.993101
+    },
+    {
+      "name": "Montér Storslett",
+      "latitude": 69.76842,
+      "longitude": 21.005755
+    },
+    {
+      "name": "Montér Storsteinnes",
+      "latitude": 69.242451,
+      "longitude": 19.240016
+    },
+    {
+      "name": "Montér Suldal",
+      "latitude": 59.48096,
+      "longitude": 6.272974
+    },
+    {
+      "name": "Montér Svelvik",
+      "latitude": 59.593887,
+      "longitude": 10.400085
+    },
+    {
+      "name": "Montér Søgne",
+      "latitude": 58.091873,
+      "longitude": 7.81794
+    },
+    {
+      "name": "Montér Sørlandsparken",
+      "latitude": 58.175312,
+      "longitude": 8.137914
+    },
+    {
+      "name": "Montér Sørra",
+      "latitude": 66.022958,
+      "longitude": 12.642695
+    },
+    {
+      "name": "Montér Tana",
+      "latitude": 70.201023,
+      "longitude": 28.172927
+    },
+    {
+      "name": "Montér Tromsdalen",
+      "latitude": 69.639131,
+      "longitude": 18.969454
+    },
+    {
+      "name": "Montér Tromsø",
+      "latitude": 69.676918,
+      "longitude": 18.928642
+    },
+    {
+      "name": "Montér Trysil",
+      "latitude": 61.29904,
+      "longitude": 12.269288
+    },
+    {
+      "name": "Montér Tvedestrand",
+      "latitude": 58.62595,
+      "longitude": 8.91416
+    },
+    {
+      "name": "Montér Tønsberg",
+      "latitude": 59.261731,
+      "longitude": 10.425521
+    },
+    {
+      "name": "Montér Ulefoss",
+      "latitude": 59.2896,
+      "longitude": 9.252945
+    },
+    {
+      "name": "Montér Vanse",
+      "latitude": 58.090688,
+      "longitude": 6.697204
+    },
+    {
+      "name": "Montér Vennesla",
+      "latitude": 58.291579,
+      "longitude": 7.978291
+    },
+    {
+      "name": "Montér Verdal",
+      "latitude": 63.784394,
+      "longitude": 11.459144
+    },
+    {
+      "name": "Montér Vestby",
+      "latitude": 59.605124,
+      "longitude": 10.75258
+    },
+    {
+      "name": "Montér Vollen",
+      "latitude": 59.796605,
+      "longitude": 10.48817
+    },
+    {
+      "name": "Montér Voss",
+      "latitude": 60.788167,
+      "longitude": 6.509819
+    },
+    {
+      "name": "Montér Vågsbygd",
+      "latitude": 58.124918,
+      "longitude": 7.968601
+    },
+    {
+      "name": "Montér Vøyenenga",
+      "latitude": 59.913953,
+      "longitude": 10.46995
+    },
+    {
+      "name": "Montér Ål",
+      "latitude": 60.631063,
+      "longitude": 8.565449
+    },
+    {
+      "name": "Montér Åsane",
+      "latitude": 60.484942,
+      "longitude": 5.37855
+    },
+    {
+      "name": "Montér Øksnes",
+      "latitude": 68.909634,
+      "longitude": 15.082012
+    },
+    {
+      "name": "Montér Ørsta",
+      "latitude": 62.188465,
+      "longitude": 6.097446
+    },
+    {
+      "name": "Montér Østlyngen",
+      "latitude": 69.976083,
+      "longitude": 23.317524
+    },
+    {
+      "name": "Montér Øygarden",
+      "latitude": 60.499224,
+      "longitude": 4.924162
+    },
+    {
+      "name": "Norsk Vindsperre AS",
+      "latitude": 59.116536,
+      "longitude": 11.299469
+    },
+    {
+      "name": "OBS Bygg",
+      "latitude": 63.354049,
+      "longitude": 10.374042
+    },
+    {
+      "name": "Optimera",
+      "latitude": 59.954056,
+      "longitude": 10.898943
+    },
+    {
+      "name": "Parketthuset",
+      "latitude": 59.944845,
+      "longitude": 10.872279
+    },
+    {
+      "name": "Preveda Gastroline",
+      "latitude": 59.42032,
+      "longitude": 10.673166
+    },
+    {
+      "name": "Reolbørsen AS",
+      "latitude": 58.137631,
+      "longitude": 7.036518
+    },
+    {
+      "name": "Ski Bygg AS Askim",
+      "latitude": 59.577817,
+      "longitude": 11.191385
+    },
+    {
+      "name": "Smith Stål",
+      "latitude": 58.886081,
+      "longitude": 5.701282
+    },
+    {
+      "name": "Smith Stål Bergen",
+      "latitude": 60.343281,
+      "longitude": 5.12865
+    },
+    {
+      "name": "Smith Stål Harstad",
+      "latitude": 68.782606,
+      "longitude": 16.54924
+    },
+    {
+      "name": "Smith Stål Holmestrand",
+      "latitude": 59.473078,
+      "longitude": 10.319063
+    },
+    {
+      "name": "Smith Stål Kristiansund",
+      "latitude": 63.113702,
+      "longitude": 7.790401
+    },
+    {
+      "name": "Smith Stål Scancoil",
+      "latitude": 59.415004,
+      "longitude": 10.490574
+    },
+    {
+      "name": "Smith Stål Stavanger",
+      "latitude": 58.869644,
+      "longitude": 5.745147
+    },
+    {
+      "name": "Smith Stål Tromsø",
+      "latitude": 69.707171,
+      "longitude": 19.019239
+    },
+    {
+      "name": "Smith Stål Trondheim",
+      "latitude": 63.432863,
+      "longitude": 10.365032
+    },
+    {
+      "name": "Smith Stål Ålesund",
+      "latitude": 62.473786,
+      "longitude": 6.355261
+    },
+    {
+      "name": "Sonepar",
+      "latitude": 60.377355,
+      "longitude": 5.337376
+    },
+    {
+      "name": "TESS",
+      "latitude": 58.086148,
+      "longitude": 6.791662
+    },
+    {
+      "name": "TESS Trondheim, Fossegrenda",
+      "latitude": 63.387555,
+      "longitude": 10.407274
+    },
+    {
+      "name": "Taksenteret",
+      "latitude": 62.469776,
+      "longitude": 6.208035
+    },
+    {
+      "name": "Tangen trelast",
+      "latitude": 59.82658,
+      "longitude": 10.68018
+    },
+    {
+      "name": "Tess",
+      "latitude": 61.592269,
+      "longitude": 9.732123
+    },
+    {
+      "name": "Tools Alna",
+      "latitude": 59.92012,
+      "longitude": 10.82329
+    },
+    {
+      "name": "VVPARTS",
+      "latitude": 59.404688,
+      "longitude": 10.694925
+    },
+    {
+      "name": "Würth",
+      "latitude": 59.418819,
+      "longitude": 10.701039
+    },
+    {
+      "name": "XL-Bygg Arna",
+      "latitude": 60.432593,
+      "longitude": 5.462251
+    },
+    {
+      "name": "XL-Bygg Arnulf Hansen",
+      "latitude": 66.710205,
+      "longitude": 13.278994
+    },
+    {
+      "name": "XL-Bygg Austevoll",
+      "latitude": 60.071323,
+      "longitude": 5.244745
+    },
+    {
+      "name": "XL-Bygg Berge Sag",
+      "latitude": 59.599435,
+      "longitude": 5.753213
+    },
+    {
+      "name": "XL-Bygg Bernhard Olsen",
+      "latitude": 66.322364,
+      "longitude": 14.198736
+    },
+    {
+      "name": "XL-Bygg Bjorli",
+      "latitude": 62.256299,
+      "longitude": 8.212276
+    },
+    {
+      "name": "XL-Bygg Bjørnør Roan",
+      "latitude": 64.191474,
+      "longitude": 10.416375
+    },
+    {
+      "name": "XL-Bygg Bjørnør Stoksund",
+      "latitude": 64.0384,
+      "longitude": 10.054334
+    },
+    {
+      "name": "XL-Bygg Byggekompaniet",
+      "latitude": 70.051015,
+      "longitude": 24.955558
+    },
+    {
+      "name": "XL-Bygg Dale Malo Eide",
+      "latitude": 62.897766,
+      "longitude": 7.414484
+    },
+    {
+      "name": "XL-Bygg Dale Malo Elnesvågen",
+      "latitude": 62.855329,
+      "longitude": 7.188881
+    },
+    {
+      "name": "XL-Bygg Dale Malo Molde",
+      "latitude": 62.746114,
+      "longitude": 7.215671
+    },
+    {
+      "name": "XL-Bygg Dale Malo Vestnes",
+      "latitude": 62.574468,
+      "longitude": 7.116102
+    },
+    {
+      "name": "XL-Bygg Eggedal Sag Eggedal",
+      "latitude": 60.23809,
+      "longitude": 9.359197
+    },
+    {
+      "name": "XL-Bygg Eggedal Sag Mjøndalen",
+      "latitude": 59.751555,
+      "longitude": 10.01567
+    },
+    {
+      "name": "XL-Bygg Eggedal Sag Noresund",
+      "latitude": 60.185369,
+      "longitude": 9.613062
+    },
+    {
+      "name": "XL-Bygg Eggedal Sag Sigdal",
+      "latitude": 60.045425,
+      "longitude": 9.628503
+    },
+    {
+      "name": "XL-Bygg Eggedal Sag Vikersund",
+      "latitude": 59.958885,
+      "longitude": 9.998672
+    },
+    {
+      "name": "XL-Bygg Eidsvoll",
+      "latitude": 60.330036,
+      "longitude": 11.320631
+    },
+    {
+      "name": "XL-Bygg Farsund Bygg",
+      "latitude": 61.445621,
+      "longitude": 5.889858
+    },
+    {
+      "name": "XL-Bygg Finnøy",
+      "latitude": 59.166458,
+      "longitude": 5.808879
+    },
+    {
+      "name": "XL-Bygg Flekkefjord",
+      "latitude": 58.299456,
+      "longitude": 6.677378
+    },
+    {
+      "name": "XL-Bygg Florø",
+      "latitude": 61.599133,
+      "longitude": 5.045159
+    },
+    {
+      "name": "XL-Bygg Frekhaug",
+      "latitude": 60.511245,
+      "longitude": 5.22424
+    },
+    {
+      "name": "XL-Bygg Gisholt & Finne Kjørbekk",
+      "latitude": 59.17254,
+      "longitude": 9.623209
+    },
+    {
+      "name": "XL-Bygg Gisholt & Finne Porsgrunn",
+      "latitude": 59.144764,
+      "longitude": 9.641002
+    },
+    {
+      "name": "XL-Bygg Grimstad",
+      "latitude": 58.342842,
+      "longitude": 8.556703
+    },
+    {
+      "name": "XL-Bygg Gunnar T. Strøm Lade",
+      "latitude": 63.442153,
+      "longitude": 10.452689
+    },
+    {
+      "name": "XL-Bygg Gunnar T. Strøm Skogn",
+      "latitude": 63.702407,
+      "longitude": 11.192728
+    },
+    {
+      "name": "XL-Bygg Gvarv",
+      "latitude": 59.383141,
+      "longitude": 9.167952
+    },
+    {
+      "name": "XL-Bygg Halden",
+      "latitude": 59.119967,
+      "longitude": 11.305748
+    },
+    {
+      "name": "XL-Bygg Haukeli",
+      "latitude": 59.737844,
+      "longitude": 7.572396
+    },
+    {
+      "name": "XL-Bygg Hellvik",
+      "latitude": 58.48007,
+      "longitude": 5.869281
+    },
+    {
+      "name": "XL-Bygg Hillevåg",
+      "latitude": 58.941897,
+      "longitude": 5.749052
+    },
+    {
+      "name": "XL-Bygg Hundere",
+      "latitude": 61.229038,
+      "longitude": 7.125708
+    },
+    {
+      "name": "XL-Bygg Høyanger",
+      "latitude": 61.214686,
+      "longitude": 6.075797
+    },
+    {
+      "name": "XL-Bygg Karmøy",
+      "latitude": 59.290875,
+      "longitude": 5.291218
+    },
+    {
+      "name": "XL-Bygg Klepp",
+      "latitude": 58.773792,
+      "longitude": 5.632384
+    },
+    {
+      "name": "XL-Bygg Knatterudfjellet Fjeldberg",
+      "latitude": 59.221468,
+      "longitude": 10.920008
+    },
+    {
+      "name": "XL-Bygg Knatterudfjellet Moss",
+      "latitude": 59.419906,
+      "longitude": 10.672238
+    },
+    {
+      "name": "XL-Bygg Knatterudfjellet Sarpsborg",
+      "latitude": 59.269081,
+      "longitude": 11.169729
+    },
+    {
+      "name": "XL-Bygg Knatterudfjellet Spydeberg",
+      "latitude": 59.61737,
+      "longitude": 11.054175
+    },
+    {
+      "name": "XL-Bygg Knatterudfjellet Torp",
+      "latitude": 59.234029,
+      "longitude": 11.001868
+    },
+    {
+      "name": "XL-Bygg Koppang",
+      "latitude": 61.575756,
+      "longitude": 11.006556
+    },
+    {
+      "name": "XL-Bygg Kr. Steinsbø",
+      "latitude": 59.798281,
+      "longitude": 5.207835
+    },
+    {
+      "name": "XL-Bygg Kristiansand",
+      "latitude": 58.175557,
+      "longitude": 8.140062
+    },
+    {
+      "name": "XL-Bygg Kulkompaniet",
+      "latitude": 59.733746,
+      "longitude": 10.218312
+    },
+    {
+      "name": "XL-Bygg Kvam",
+      "latitude": 60.387624,
+      "longitude": 6.197235
+    },
+    {
+      "name": "XL-Bygg Kvæfjord",
+      "latitude": 68.772284,
+      "longitude": 16.167955
+    },
+    {
+      "name": "XL-Bygg Kåre Abelsen",
+      "latitude": 67.275084,
+      "longitude": 14.397016
+    },
+    {
+      "name": "XL-Bygg Laksevåg",
+      "latitude": 60.389761,
+      "longitude": 5.289788
+    },
+    {
+      "name": "XL-Bygg Lesja",
+      "latitude": 62.118109,
+      "longitude": 8.867183
+    },
+    {
+      "name": "XL-Bygg Lindesnes",
+      "latitude": 58.07876,
+      "longitude": 7.304933
+    },
+    {
+      "name": "XL-Bygg Lofoten",
+      "latitude": 68.144211,
+      "longitude": 13.616133
+    },
+    {
+      "name": "XL-Bygg Maløy",
+      "latitude": 61.920687,
+      "longitude": 5.153838
+    },
+    {
+      "name": "XL-Bygg Mathisen & Co",
+      "latitude": 69.976654,
+      "longitude": 23.334103
+    },
+    {
+      "name": "XL-Bygg Midttømme",
+      "latitude": 63.108419,
+      "longitude": 10.236256
+    },
+    {
+      "name": "XL-Bygg Myre",
+      "latitude": 68.915229,
+      "longitude": 15.101266
+    },
+    {
+      "name": "XL-Bygg Nidelven Bruk",
+      "latitude": 58.430663,
+      "longitude": 8.70995
+    },
+    {
+      "name": "XL-Bygg Nysted",
+      "latitude": 69.238772,
+      "longitude": 19.236217
+    },
+    {
+      "name": "XL-Bygg Nærbø",
+      "latitude": 58.669697,
+      "longitude": 5.645083
+    },
+    {
+      "name": "XL-Bygg Osterøy",
+      "latitude": 60.50538,
+      "longitude": 5.471674
+    },
+    {
+      "name": "XL-Bygg Roald",
+      "latitude": 62.532354,
+      "longitude": 6.123986
+    },
+    {
+      "name": "XL-Bygg Ryfylke",
+      "latitude": 59.0994,
+      "longitude": 5.941791
+    },
+    {
+      "name": "XL-Bygg Røyrvik Bygg & Betong Vik",
+      "latitude": 61.091065,
+      "longitude": 6.590451
+    },
+    {
+      "name": "XL-Bygg Røyrvik Bygg & betong Balestrand",
+      "latitude": 61.213773,
+      "longitude": 6.508216
+    },
+    {
+      "name": "XL-Bygg Sauda",
+      "latitude": 59.645348,
+      "longitude": 6.336756
+    },
+    {
+      "name": "XL-Bygg Selbu",
+      "latitude": 63.276607,
+      "longitude": 11.077651
+    },
+    {
+      "name": "XL-Bygg Skjærran Byggevare",
+      "latitude": 68.584028,
+      "longitude": 16.560236
+    },
+    {
+      "name": "XL-Bygg Smørgrav Sag",
+      "latitude": 59.735517,
+      "longitude": 9.884741
+    },
+    {
+      "name": "XL-Bygg Sortland",
+      "latitude": 68.705058,
+      "longitude": 15.395917
+    },
+    {
+      "name": "XL-Bygg Stavseng",
+      "latitude": 62.481329,
+      "longitude": 6.800252
+    },
+    {
+      "name": "XL-Bygg Søgne",
+      "latitude": 58.097788,
+      "longitude": 7.721038
+    },
+    {
+      "name": "XL-Bygg Sølvberg",
+      "latitude": 61.900993,
+      "longitude": 6.71422
+    },
+    {
+      "name": "XL-Bygg Toten Tre Hov",
+      "latitude": 60.702027,
+      "longitude": 10.350843
+    },
+    {
+      "name": "XL-Bygg Toten Tre Kolbu",
+      "latitude": 60.633254,
+      "longitude": 10.73026
+    },
+    {
+      "name": "XL-Bygg Tuddal Byggevarer Sauland",
+      "latitude": 59.611604,
+      "longitude": 9.005981
+    },
+    {
+      "name": "XL-Bygg Tuddal Byggevarer Tuddal",
+      "latitude": 59.754484,
+      "longitude": 8.793377
+    },
+    {
+      "name": "XL-Bygg Tverberg & Sønner",
+      "latitude": 60.634632,
+      "longitude": 6.45565
+    },
+    {
+      "name": "XL-Bygg Uvdal Trelast",
+      "latitude": 60.261061,
+      "longitude": 8.832681
+    },
+    {
+      "name": "XL-Bygg Valvatne",
+      "latitude": 59.764054,
+      "longitude": 5.466032
+    },
+    {
+      "name": "XL-Bygg Vinje Sag",
+      "latitude": 59.569223,
+      "longitude": 8.00003
+    },
+    {
+      "name": "XL-Bygg Åsane",
+      "latitude": 60.483904,
+      "longitude": 5.297047
+    },
+    {
+      "name": "Øverland & Co",
+      "latitude": 62.73931,
+      "longitude": 7.20413
+    }
+  ],
+  "meta": {
+    "title": "Named trade/builders merchants in Norway - Gratis nedlasting",
+    "description": "Named trade/builders merchants in Norway, derived from OpenStreetMap POI nodes tagged shop=trade in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 646 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named trade/builders merchants in Norway | ListBase",
+    "seo_description": "Last ned Named trade/builders merchants in Norway — 646 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 646 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

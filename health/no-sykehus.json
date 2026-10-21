@@ -1,0 +1,736 @@
+{
+  "id": "no-sykehus",
+  "name": "Sykehus i Norge",
+  "title": "Sykehus i Norge",
+  "description": "Sykehus i Norge (hospitals), hentet fra OpenStreetMap-punkter (amenity=hospital). Navn, breddegrad og lengdegrad (WGS84).",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 139,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Administrasjon, Luftambulanse",
+      "latitude": 58.953308,
+      "longitude": 5.734676
+    },
+    {
+      "name": "Ahus Gardermoen",
+      "latitude": 60.165546,
+      "longitude": 11.16395
+    },
+    {
+      "name": "Aker sykehus",
+      "latitude": 59.93881,
+      "longitude": 10.794382
+    },
+    {
+      "name": "Akershus universitetssykehus",
+      "latitude": 59.931913,
+      "longitude": 10.995014
+    },
+    {
+      "name": "Akershus universitetssykehus Kongsvinger",
+      "latitude": 60.194604,
+      "longitude": 11.994032
+    },
+    {
+      "name": "Akuttsenter",
+      "latitude": 59.272377,
+      "longitude": 10.419913
+    },
+    {
+      "name": "Aleris sykehus",
+      "latitude": 58.957056,
+      "longitude": 5.740827
+    },
+    {
+      "name": "Alta helsesenter",
+      "latitude": 69.968269,
+      "longitude": 23.276081
+    },
+    {
+      "name": "Ambulansesentral Stavanger",
+      "latitude": 58.950439,
+      "longitude": 5.741746
+    },
+    {
+      "name": "Andebu legesenter",
+      "latitude": 59.307324,
+      "longitude": 10.18499
+    },
+    {
+      "name": "B5 (Tromsø kommunale legevakt)",
+      "latitude": 69.683817,
+      "longitude": 18.984235
+    },
+    {
+      "name": "Barneavdelingen",
+      "latitude": 59.272481,
+      "longitude": 10.420108
+    },
+    {
+      "name": "Betanien hospital",
+      "latitude": 59.209224,
+      "longitude": 9.596063
+    },
+    {
+      "name": "Betanien sykehus",
+      "latitude": 60.363076,
+      "longitude": 5.29143
+    },
+    {
+      "name": "Bjønnessåsen sykehjem",
+      "latitude": 59.214713,
+      "longitude": 10.426495
+    },
+    {
+      "name": "Blakstad sykehus",
+      "latitude": 59.82134,
+      "longitude": 10.474548
+    },
+    {
+      "name": "Brystsenter",
+      "latitude": 59.271488,
+      "longitude": 10.418897
+    },
+    {
+      "name": "BUPA døgn",
+      "latitude": 59.271639,
+      "longitude": 10.42066
+    },
+    {
+      "name": "BUPA intensiv poliklinikk",
+      "latitude": 59.271857,
+      "longitude": 10.420341
+    },
+    {
+      "name": "Bærum sykehus",
+      "latitude": 59.898768,
+      "longitude": 10.510864
+    },
+    {
+      "name": "Diakonhjemmet sykehus",
+      "latitude": 59.935833,
+      "longitude": 10.705911
+    },
+    {
+      "name": "Diakonhjemmet sykehus Vinderen",
+      "latitude": 59.941674,
+      "longitude": 10.711845
+    },
+    {
+      "name": "DPS Molde - Knausensenteret",
+      "latitude": 62.7435,
+      "longitude": 7.211257
+    },
+    {
+      "name": "Drammen sykehus",
+      "latitude": 59.742235,
+      "longitude": 10.23583
+    },
+    {
+      "name": "Edwin Ruuds hospital",
+      "latitude": 59.573098,
+      "longitude": 11.287253
+    },
+    {
+      "name": "Eigersund poliklinikk",
+      "latitude": 58.4656,
+      "longitude": 6.017861
+    },
+    {
+      "name": "Eiksåsen sykehjem",
+      "latitude": 59.941336,
+      "longitude": 10.611647
+    },
+    {
+      "name": "Finnmarkssykehuset, Klinikk Alta",
+      "latitude": 69.968748,
+      "longitude": 23.27615
+    },
+    {
+      "name": "Furukollen Psykiatriske Senter",
+      "latitude": 60.114712,
+      "longitude": 11.49705
+    },
+    {
+      "name": "Førde sentralsjukehus",
+      "latitude": 61.456913,
+      "longitude": 5.888256
+    },
+    {
+      "name": "Gaustad sykehus",
+      "latitude": 59.949952,
+      "longitude": 10.719519
+    },
+    {
+      "name": "Giske ambulansestasjon",
+      "latitude": 62.527602,
+      "longitude": 6.117866
+    },
+    {
+      "name": "Glittreklinikken",
+      "latitude": 60.112469,
+      "longitude": 10.878756
+    },
+    {
+      "name": "Halden sykehus",
+      "latitude": 59.129222,
+      "longitude": 11.375992
+    },
+    {
+      "name": "Hammerfest sykehus",
+      "latitude": 70.671972,
+      "longitude": 23.652527
+    },
+    {
+      "name": "Hammerfest sykehus",
+      "latitude": 70.673144,
+      "longitude": 23.671715
+    },
+    {
+      "name": "Haraldsplass diakonale sykehus",
+      "latitude": 60.378606,
+      "longitude": 5.362036
+    },
+    {
+      "name": "Harstad sykehus",
+      "latitude": 68.796247,
+      "longitude": 16.525143
+    },
+    {
+      "name": "Haugesund sykehus",
+      "latitude": 59.409284,
+      "longitude": 5.278347
+    },
+    {
+      "name": "Haukeland Universitetssjukehus",
+      "latitude": 60.374135,
+      "longitude": 5.359182
+    },
+    {
+      "name": "Helgelandssykehuset Mo i Rana",
+      "latitude": 66.325799,
+      "longitude": 14.186357
+    },
+    {
+      "name": "Helgelandssykehuset Sandnessjøen",
+      "latitude": 66.018224,
+      "longitude": 12.618595
+    },
+    {
+      "name": "Herøy helsesenter",
+      "latitude": 65.981582,
+      "longitude": 12.288392
+    },
+    {
+      "name": "Hjemmetjeneste sentral",
+      "latitude": 59.26634,
+      "longitude": 10.423596
+    },
+    {
+      "name": "Hospital - Больница",
+      "latitude": 78.061554,
+      "longitude": 14.217392
+    },
+    {
+      "name": "hospital bahagia",
+      "latitude": 60.215081,
+      "longitude": 8.226467
+    },
+    {
+      "name": "Kirkenes sykehus",
+      "latitude": 69.707079,
+      "longitude": 30.034674
+    },
+    {
+      "name": "Kjelleparken",
+      "latitude": 59.284851,
+      "longitude": 10.397639
+    },
+    {
+      "name": "Kolsås sykehjem",
+      "latitude": 59.914667,
+      "longitude": 10.507969
+    },
+    {
+      "name": "Kongsberg sykehus",
+      "latitude": 59.670471,
+      "longitude": 9.656543
+    },
+    {
+      "name": "Kongsgårdheimen",
+      "latitude": 58.159563,
+      "longitude": 8.023995
+    },
+    {
+      "name": "Kragerø sykehus",
+      "latitude": 58.879279,
+      "longitude": 9.405551
+    },
+    {
+      "name": "Kysthospitalet",
+      "latitude": 58.987022,
+      "longitude": 10.031621
+    },
+    {
+      "name": "Kysthospitalet",
+      "latitude": 58.988297,
+      "longitude": 10.029489
+    },
+    {
+      "name": "Kysthospitalet i Hagavik",
+      "latitude": 60.179837,
+      "longitude": 5.394863
+    },
+    {
+      "name": "Legevakt - Emergency room entry",
+      "latitude": 69.68371,
+      "longitude": 18.984814
+    },
+    {
+      "name": "Legevakten i Oslo",
+      "latitude": 59.939272,
+      "longitude": 10.791628
+    },
+    {
+      "name": "Linde DPS",
+      "latitude": 59.255514,
+      "longitude": 10.423061
+    },
+    {
+      "name": "Longyearbyen sykehus",
+      "latitude": 78.220011,
+      "longitude": 15.644894
+    },
+    {
+      "name": "Lovisenberg diakonale sykehus",
+      "latitude": 59.930962,
+      "longitude": 10.743735
+    },
+    {
+      "name": "Lovisenberg Rehabilitering AS",
+      "latitude": 60.165715,
+      "longitude": 11.16525
+    },
+    {
+      "name": "Lærdal sjukehus",
+      "latitude": 61.102103,
+      "longitude": 7.519191
+    },
+    {
+      "name": "Martina Hansens hospital",
+      "latitude": 59.897883,
+      "longitude": 10.507992
+    },
+    {
+      "name": "Mosjøen sykehus",
+      "latitude": 65.83096,
+      "longitude": 13.211679
+    },
+    {
+      "name": "Mosseregionens legevakt",
+      "latitude": 59.446187,
+      "longitude": 10.697024
+    },
+    {
+      "name": "Narvik sykehus",
+      "latitude": 68.441963,
+      "longitude": 17.412931
+    },
+    {
+      "name": "Nittedal legevakt",
+      "latitude": 60.043293,
+      "longitude": 10.8813
+    },
+    {
+      "name": "Nordfjord sjukehus",
+      "latitude": 61.916129,
+      "longitude": 5.978128
+    },
+    {
+      "name": "Nordhordland Legevakt",
+      "latitude": 60.546399,
+      "longitude": 5.291313
+    },
+    {
+      "name": "Nordlandssykehuset - Nordlánda s​kihp​​​pijviesso",
+      "latitude": 67.282885,
+      "longitude": 14.397636
+    },
+    {
+      "name": "Nordlandssykehuset Lofoten",
+      "latitude": 68.119711,
+      "longitude": 13.536953
+    },
+    {
+      "name": "Nye UNN Narvik",
+      "latitude": 68.44742,
+      "longitude": 17.465247
+    },
+    {
+      "name": "Nøtterøy helsesenter",
+      "latitude": 59.240341,
+      "longitude": 10.3966
+    },
+    {
+      "name": "Odda sjukehus",
+      "latitude": 60.058701,
+      "longitude": 6.549794
+    },
+    {
+      "name": "Psykiatrisk sykehusavdeling",
+      "latitude": 59.272554,
+      "longitude": 10.42083
+    },
+    {
+      "name": "Psykose døgnpost, DPS Nord",
+      "latitude": 59.255057,
+      "longitude": 10.423847
+    },
+    {
+      "name": "Radiumhospitalet",
+      "latitude": 59.930771,
+      "longitude": 10.662374
+    },
+    {
+      "name": "ReHabiliteringsklinikken",
+      "latitude": 60.308245,
+      "longitude": 5.321769
+    },
+    {
+      "name": "Reinsvoll sykehus",
+      "latitude": 60.681969,
+      "longitude": 10.645896
+    },
+    {
+      "name": "Rikshospitalet",
+      "latitude": 59.948749,
+      "longitude": 10.714218
+    },
+    {
+      "name": "Ringerike Sykehus HF",
+      "latitude": 60.148087,
+      "longitude": 10.255456
+    },
+    {
+      "name": "Rønvik sykehus",
+      "latitude": 67.28616,
+      "longitude": 14.436541
+    },
+    {
+      "name": "Røros sykehus",
+      "latitude": 62.576936,
+      "longitude": 11.378604
+    },
+    {
+      "name": "Sanderud sykehus",
+      "latitude": 60.781449,
+      "longitude": 11.159013
+    },
+    {
+      "name": "Sandnessjøen sykehus",
+      "latitude": 66.018203,
+      "longitude": 12.61807
+    },
+    {
+      "name": "Sem bo- og servicesenter",
+      "latitude": 59.283526,
+      "longitude": 10.32776
+    },
+    {
+      "name": "Sjukehuset Nordmøre og Romsdal Hjelset",
+      "latitude": 62.781166,
+      "longitude": 7.513438
+    },
+    {
+      "name": "Sjukehuset Nordmøre og Romsdal Kristiansund",
+      "latitude": 63.108308,
+      "longitude": 7.724437
+    },
+    {
+      "name": "Smidsrød helsehus",
+      "latitude": 59.237856,
+      "longitude": 10.424677
+    },
+    {
+      "name": "Sola DPS",
+      "latitude": 58.887865,
+      "longitude": 5.654424
+    },
+    {
+      "name": "Spesialsykehuset for epilepsi (SSE)",
+      "latitude": 59.907478,
+      "longitude": 10.540198
+    },
+    {
+      "name": "St. Olavs hospital",
+      "latitude": 63.420009,
+      "longitude": 10.386688
+    },
+    {
+      "name": "St. Olavs, avdeling Orkdal",
+      "latitude": 63.292712,
+      "longitude": 9.84535
+    },
+    {
+      "name": "Stavanger Universitetssjukehus",
+      "latitude": 58.952258,
+      "longitude": 5.733501
+    },
+    {
+      "name": "Stokmarknes sykehus",
+      "latitude": 68.560012,
+      "longitude": 14.910167
+    },
+    {
+      "name": "Stord sjukehus",
+      "latitude": 59.792706,
+      "longitude": 5.512016
+    },
+    {
+      "name": "Sunnås sykehus",
+      "latitude": 59.835454,
+      "longitude": 10.640773
+    },
+    {
+      "name": "Sykehuset i Vestfold, DPS nord",
+      "latitude": 59.25552,
+      "longitude": 10.424751
+    },
+    {
+      "name": "Sykehuset i Vestfold, DPS sør",
+      "latitude": 59.050379,
+      "longitude": 10.040953
+    },
+    {
+      "name": "Sykehuset i Vestfold, DPS sør",
+      "latitude": 59.132856,
+      "longitude": 10.236512
+    },
+    {
+      "name": "Sykehuset i Vestfold, Granli",
+      "latitude": 59.291087,
+      "longitude": 10.304254
+    },
+    {
+      "name": "Sykehuset i Vestfold, Larvik",
+      "latitude": 59.053208,
+      "longitude": 10.035515
+    },
+    {
+      "name": "Sykehuset i Vestfold, Tønsberg",
+      "latitude": 59.272223,
+      "longitude": 10.41874
+    },
+    {
+      "name": "Sykehuset Innlandet Hamar",
+      "latitude": 60.798341,
+      "longitude": 11.07157
+    },
+    {
+      "name": "Sykehuset Innlandet HF Brumunddal",
+      "latitude": 60.883132,
+      "longitude": 10.948029
+    },
+    {
+      "name": "Sykehuset Innlandet HF Elverum",
+      "latitude": 60.877023,
+      "longitude": 11.572265
+    },
+    {
+      "name": "Sykehuset Innlandet HF Gjøvik",
+      "latitude": 60.80319,
+      "longitude": 10.679841
+    },
+    {
+      "name": "Sykehuset Innlandet HF Lillehammer",
+      "latitude": 61.112501,
+      "longitude": 10.473743
+    },
+    {
+      "name": "Sykehuset Levanger",
+      "latitude": 63.741931,
+      "longitude": 11.290078
+    },
+    {
+      "name": "Sykehuset Namsos",
+      "latitude": 64.470425,
+      "longitude": 11.504675
+    },
+    {
+      "name": "Sykehuset Telemark - Notodden",
+      "latitude": 59.566225,
+      "longitude": 9.255086
+    },
+    {
+      "name": "Sykehuset Telemark - seksjon for sykelig overvekt",
+      "latitude": 59.418963,
+      "longitude": 9.325391
+    },
+    {
+      "name": "Sykehuset Telemark, Porsgrunn",
+      "latitude": 59.131057,
+      "longitude": 9.655337
+    },
+    {
+      "name": "Sykehuset Telemark, Skien",
+      "latitude": 59.192138,
+      "longitude": 9.5913
+    },
+    {
+      "name": "Sykehuset Østfold Kalnes",
+      "latitude": 59.317804,
+      "longitude": 11.024329
+    },
+    {
+      "name": "Sykehuset Østfold Moss",
+      "latitude": 59.44704,
+      "longitude": 10.696507
+    },
+    {
+      "name": "Sørlandet Sykehus",
+      "latitude": 58.298534,
+      "longitude": 6.665859
+    },
+    {
+      "name": "Sørlandet Sykehus Arendal",
+      "latitude": 58.467055,
+      "longitude": 8.75451
+    },
+    {
+      "name": "Sørlandet sykehus Kristiansand",
+      "latitude": 58.164428,
+      "longitude": 7.981268
+    },
+    {
+      "name": "Tana Helsesenter",
+      "latitude": 70.198946,
+      "longitude": 28.174225
+    },
+    {
+      "name": "Troms Militære Sykehus",
+      "latitude": 68.85323,
+      "longitude": 18.380513
+    },
+    {
+      "name": "Trondheimsklinkken",
+      "latitude": 63.423187,
+      "longitude": 10.389906
+    },
+    {
+      "name": "Træleborg sykehjem",
+      "latitude": 59.265427,
+      "longitude": 10.423392
+    },
+    {
+      "name": "Tynset DPS",
+      "latitude": 62.269696,
+      "longitude": 10.7762
+    },
+    {
+      "name": "Ullevål Plastikkirurgi",
+      "latitude": 59.949933,
+      "longitude": 10.73517
+    },
+    {
+      "name": "Ullevål sykehus",
+      "latitude": 59.938735,
+      "longitude": 10.738267
+    },
+    {
+      "name": "Universitetssykehuset Nord-Norge",
+      "latitude": 69.683467,
+      "longitude": 18.981525
+    },
+    {
+      "name": "UNN avd. Åsgård",
+      "latitude": 69.6591,
+      "longitude": 18.914325
+    },
+    {
+      "name": "Valen Sjukehus",
+      "latitude": 59.830137,
+      "longitude": 5.791621
+    },
+    {
+      "name": "Vigør rehabiliteringssykehus",
+      "latitude": 69.664834,
+      "longitude": 18.951274
+    },
+    {
+      "name": "Volda Sjukehus",
+      "latitude": 62.149463,
+      "longitude": 6.089862
+    },
+    {
+      "name": "Volvat",
+      "latitude": 61.113968,
+      "longitude": 10.449687
+    },
+    {
+      "name": "Volvat Ulriksdal",
+      "latitude": 60.377946,
+      "longitude": 5.360474
+    },
+    {
+      "name": "Voss sjukehus",
+      "latitude": 60.633266,
+      "longitude": 6.420708
+    },
+    {
+      "name": "Ålesund sjukehus",
+      "latitude": 62.463701,
+      "longitude": 6.31212
+    },
+    {
+      "name": "Åsgård sykehus",
+      "latitude": 69.659323,
+      "longitude": 18.914161
+    },
+    {
+      "name": "ØHD sengepost",
+      "latitude": 59.284596,
+      "longitude": 10.397068
+    },
+    {
+      "name": "Ørje kursted",
+      "latitude": 59.474517,
+      "longitude": 11.645994
+    },
+    {
+      "name": "Østmarka psykiatriske sykehus",
+      "latitude": 63.453114,
+      "longitude": 10.452281
+    }
+  ],
+  "meta": {
+    "title": "Sykehus i Norge - Gratis nedlasting",
+    "description": "Sykehus i Norge (hospitals), hentet fra OpenStreetMap-punkter (amenity=hospital). Navn, breddegrad og lengdegrad (WGS84). Inneholder 139 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Sykehus i Norge | ListBase",
+    "seo_description": "Last ned Sykehus i Norge — 139 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 139 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

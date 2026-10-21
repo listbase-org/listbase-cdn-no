@@ -1,0 +1,560 @@
+{
+  "id": "no-bodo-postnummer",
+  "name": "Postnummer i Bodø",
+  "title": "Postnummer i Bodø",
+  "description": "Alle 63 postnummer i Bodø kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 63,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "8001",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8002",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8003",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8004",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8005",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8006",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8007",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8008",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8009",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8010",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8011",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8012",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8013",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8014",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8015",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8016",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8019",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8020",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8021",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8022",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8023",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8025",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8026",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8027",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8028",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8029",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8030",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8031",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8037",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8038",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8041",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8047",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8048",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8049",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8050",
+      "poststed": "Tverlandet",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8056",
+      "poststed": "Saltstraumen",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8057",
+      "poststed": "Saltstraumen",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8058",
+      "poststed": "Tverlandet",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8070",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8071",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8072",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8073",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8074",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8075",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8076",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8079",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8084",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8085",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8086",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8087",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8088",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8089",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8091",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8092",
+      "poststed": "Bodø",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8093",
+      "poststed": "Kjerringøy",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8095",
+      "poststed": "Helligvær",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8096",
+      "poststed": "Bliksvær",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8097",
+      "poststed": "Givær",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8098",
+      "poststed": "Landegode",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8100",
+      "poststed": "Misvær",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8102",
+      "poststed": "Skjerstad",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8103",
+      "poststed": "Breivik i Salten",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    },
+    {
+      "postnummer": "8108",
+      "poststed": "Misvær",
+      "kommune_id": "1804",
+      "kommune": "Bodø",
+      "fylke_id": "18",
+      "fylke": "Nordland"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Bodø - Gratis nedlasting",
+    "description": "Alle 63 postnummer i Bodø kommune med poststed. Inneholder 63 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Bodø | ListBase",
+    "seo_description": "Last ned Postnummer i Bodø — 63 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 63 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

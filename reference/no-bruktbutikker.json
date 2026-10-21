@@ -1,0 +1,786 @@
+{
+  "id": "no-bruktbutikker",
+  "name": "Second-hand shops in Norway",
+  "title": "Second-hand shops in Norway",
+  "description": "Second-hand shops in Norway (Bruktbutikker i Norge), derived from OpenStreetMap POIs tagged shop=second_hand. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 149,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "ABC Gjenbruk",
+      "latitude": 60.353869,
+      "longitude": 5.273977
+    },
+    {
+      "name": "ABC kontor",
+      "latitude": 60.338919,
+      "longitude": 5.246073
+    },
+    {
+      "name": "Almars Bruktbutikk",
+      "latitude": 63.528379,
+      "longitude": 8.38089
+    },
+    {
+      "name": "Antikkvarehuset",
+      "latitude": 59.927952,
+      "longitude": 10.756452
+    },
+    {
+      "name": "Astrid Nytt & Brukt",
+      "latitude": 59.299439,
+      "longitude": 11.217477
+    },
+    {
+      "name": "ASVO-torget",
+      "latitude": 59.663841,
+      "longitude": 9.647551
+    },
+    {
+      "name": "Bagn Bruktbutikk",
+      "latitude": 60.824187,
+      "longitude": 9.544537
+    },
+    {
+      "name": "BarneSkatter Askim",
+      "latitude": 59.582735,
+      "longitude": 11.162233
+    },
+    {
+      "name": "Barneskatter Askim",
+      "latitude": 59.583563,
+      "longitude": 11.162949
+    },
+    {
+      "name": "BarneSkatter Bærum",
+      "latitude": 59.90821,
+      "longitude": 10.476822
+    },
+    {
+      "name": "BarneSkatter Drammen",
+      "latitude": 59.753542,
+      "longitude": 10.145528
+    },
+    {
+      "name": "BarneSkatter Sarpsborg",
+      "latitude": 59.283405,
+      "longitude": 11.107276
+    },
+    {
+      "name": "BarneSkatter Ski",
+      "latitude": 59.720308,
+      "longitude": 10.836067
+    },
+    {
+      "name": "Birken Brukt",
+      "latitude": 59.927459,
+      "longitude": 10.759291
+    },
+    {
+      "name": "Blått og brukt i Bjerregaardsgate",
+      "latitude": 59.923921,
+      "longitude": 10.743017
+    },
+    {
+      "name": "Bra brukt",
+      "latitude": 59.835451,
+      "longitude": 10.436102
+    },
+    {
+      "name": "Brocante",
+      "latitude": 59.921635,
+      "longitude": 10.738634
+    },
+    {
+      "name": "BrukaNes",
+      "latitude": 60.130931,
+      "longitude": 11.481771
+    },
+    {
+      "name": "BrukOm",
+      "latitude": 63.439604,
+      "longitude": 10.415511
+    },
+    {
+      "name": "Brukt & litt nytt",
+      "latitude": 59.890619,
+      "longitude": 10.525841
+    },
+    {
+      "name": "Brukt&Bra",
+      "latitude": 60.042563,
+      "longitude": 9.154075
+    },
+    {
+      "name": "Brukt'n",
+      "latitude": 60.633051,
+      "longitude": 6.479898
+    },
+    {
+      "name": "Bruktbutikk",
+      "latitude": 65.474142,
+      "longitude": 12.210362
+    },
+    {
+      "name": "Bruktbutikk",
+      "latitude": 65.969154,
+      "longitude": 12.284284
+    },
+    {
+      "name": "Bruktbutikk med Guts",
+      "latitude": 59.741311,
+      "longitude": 10.215255
+    },
+    {
+      "name": "Bruktbutikken HÅP",
+      "latitude": 58.770038,
+      "longitude": 5.629431
+    },
+    {
+      "name": "Bruktbuå",
+      "latitude": 58.883742,
+      "longitude": 5.696326
+    },
+    {
+      "name": "Bruktelektronikk AS",
+      "latitude": 60.301945,
+      "longitude": 5.28792
+    },
+    {
+      "name": "Brukthandel",
+      "latitude": 69.010122,
+      "longitude": 23.036977
+    },
+    {
+      "name": "brukthandel",
+      "latitude": 70.633485,
+      "longitude": 29.712915
+    },
+    {
+      "name": "Brukthandelen",
+      "latitude": 59.927159,
+      "longitude": 10.716174
+    },
+    {
+      "name": "Brukthandleriet Sirkulus",
+      "latitude": 63.430838,
+      "longitude": 10.402612
+    },
+    {
+      "name": "Brutikken",
+      "latitude": 70.978939,
+      "longitude": 25.976665
+    },
+    {
+      "name": "Bytebua",
+      "latitude": 60.628462,
+      "longitude": 6.421801
+    },
+    {
+      "name": "Bærekraftig Gjenbruk Ulven",
+      "latitude": 59.925422,
+      "longitude": 10.811594
+    },
+    {
+      "name": "Carlbergvegen bruktmarked",
+      "latitude": 59.414762,
+      "longitude": 10.680565
+    },
+    {
+      "name": "CRUX bruktbutikk",
+      "latitude": 59.772283,
+      "longitude": 9.909081
+    },
+    {
+      "name": "Delta gjenbruk",
+      "latitude": 59.58771,
+      "longitude": 11.135105
+    },
+    {
+      "name": "Det Gule Hus",
+      "latitude": 59.413948,
+      "longitude": 9.063145
+    },
+    {
+      "name": "Det Gule Hus",
+      "latitude": 59.650269,
+      "longitude": 6.354167
+    },
+    {
+      "name": "Det Norske Misjonsselskap",
+      "latitude": 63.43111,
+      "longitude": 10.3963
+    },
+    {
+      "name": "Divert",
+      "latitude": 60.398322,
+      "longitude": 5.32646
+    },
+    {
+      "name": "Drammen hvitevarer",
+      "latitude": 59.735089,
+      "longitude": 10.213117
+    },
+    {
+      "name": "episode",
+      "latitude": 59.921519,
+      "longitude": 10.757126
+    },
+    {
+      "name": "Evangeliesenteret Bruktbutikk Halden",
+      "latitude": 59.116676,
+      "longitude": 11.391213
+    },
+    {
+      "name": "Farsund Antikk & gjenbruk",
+      "latitude": 58.097155,
+      "longitude": 6.692024
+    },
+    {
+      "name": "Fasvo Bruktmarked",
+      "latitude": 59.232172,
+      "longitude": 10.910993
+    },
+    {
+      "name": "Fretex Moholt",
+      "latitude": 63.410078,
+      "longitude": 10.439562
+    },
+    {
+      "name": "Frivillig",
+      "latitude": 60.252776,
+      "longitude": 11.680794
+    },
+    {
+      "name": "Fræna kjøp, salg og utleie",
+      "latitude": 62.853529,
+      "longitude": 7.203825
+    },
+    {
+      "name": "Future Bruktbutikken",
+      "latitude": 60.187467,
+      "longitude": 12.000525
+    },
+    {
+      "name": "Gabel Antikviteter",
+      "latitude": 59.917003,
+      "longitude": 10.710808
+    },
+    {
+      "name": "Galleri Normisjon Aksdal",
+      "latitude": 59.42192,
+      "longitude": 5.44615
+    },
+    {
+      "name": "Galleri Normisjon Bergen",
+      "latitude": 60.372514,
+      "longitude": 5.344738
+    },
+    {
+      "name": "Gamle danske",
+      "latitude": 59.934385,
+      "longitude": 10.75452
+    },
+    {
+      "name": "Ganske fint brukthandel",
+      "latitude": 59.912571,
+      "longitude": 10.852139
+    },
+    {
+      "name": "Ganske fint brukthandel",
+      "latitude": 60.170407,
+      "longitude": 10.258109
+    },
+    {
+      "name": "Gatas Brukt og Antikk",
+      "latitude": 59.483624,
+      "longitude": 6.251137
+    },
+    {
+      "name": "GGRetro",
+      "latitude": 59.906966,
+      "longitude": 10.776637
+    },
+    {
+      "name": "Gjenbruken Askøy",
+      "latitude": 60.419895,
+      "longitude": 5.21541
+    },
+    {
+      "name": "Gjenbruken Bergen",
+      "latitude": 60.470403,
+      "longitude": 5.334695
+    },
+    {
+      "name": "Gjenbruken Halden",
+      "latitude": 59.121017,
+      "longitude": 11.375004
+    },
+    {
+      "name": "Gjenbruken Klepp;NLM Gjennbruk",
+      "latitude": 58.772832,
+      "longitude": 5.630121
+    },
+    {
+      "name": "Gjenbruken Stord",
+      "latitude": 59.763835,
+      "longitude": 5.458843
+    },
+    {
+      "name": "Gjenbruken Trondheim",
+      "latitude": 63.434851,
+      "longitude": 10.399809
+    },
+    {
+      "name": "Gjenbruket",
+      "latitude": 59.213465,
+      "longitude": 10.136045
+    },
+    {
+      "name": "Gjenbruksbutikk",
+      "latitude": 63.4299,
+      "longitude": 10.392096
+    },
+    {
+      "name": "Gjenbruksbutikken",
+      "latitude": 58.850089,
+      "longitude": 5.733852
+    },
+    {
+      "name": "Gjenbruksbutikken",
+      "latitude": 59.918257,
+      "longitude": 10.734876
+    },
+    {
+      "name": "Gjenbruksbutikken Finnsnes",
+      "latitude": 69.230055,
+      "longitude": 17.988993
+    },
+    {
+      "name": "Grønne Saker",
+      "latitude": 60.842516,
+      "longitude": 11.085276
+    },
+    {
+      "name": "Handover",
+      "latitude": 59.921023,
+      "longitude": 10.756745
+    },
+    {
+      "name": "Heim ombruksbu - Liabø",
+      "latitude": 63.116264,
+      "longitude": 8.319816
+    },
+    {
+      "name": "Håp",
+      "latitude": 59.615788,
+      "longitude": 11.078173
+    },
+    {
+      "name": "Høyvekta brukthandel",
+      "latitude": 59.419596,
+      "longitude": 10.683164
+    },
+    {
+      "name": "Jessen Brukt og Nytt",
+      "latitude": 67.285425,
+      "longitude": 14.38992
+    },
+    {
+      "name": "Juggel & Juveler",
+      "latitude": 59.557966,
+      "longitude": 9.255087
+    },
+    {
+      "name": "Karusell Second Hand",
+      "latitude": 59.437483,
+      "longitude": 10.666243
+    },
+    {
+      "name": "Kirkens Gjenbruksbutikk Notodden",
+      "latitude": 59.561906,
+      "longitude": 9.262619
+    },
+    {
+      "name": "Kirppis Molde",
+      "latitude": 62.739165,
+      "longitude": 7.176872
+    },
+    {
+      "name": "Kiwanis",
+      "latitude": 59.739961,
+      "longitude": 10.600036
+    },
+    {
+      "name": "Lilletorvet antikk",
+      "latitude": 58.868594,
+      "longitude": 9.413236
+    },
+    {
+      "name": "Lindesnes Skattekammer",
+      "latitude": 58.083263,
+      "longitude": 7.304616
+    },
+    {
+      "name": "Loppeliten",
+      "latitude": 60.349859,
+      "longitude": 5.276697
+    },
+    {
+      "name": "Loppemarked",
+      "latitude": 60.28729,
+      "longitude": 11.195516
+    },
+    {
+      "name": "Loppo",
+      "latitude": 59.216618,
+      "longitude": 10.926036
+    },
+    {
+      "name": "M&E Second Hand",
+      "latitude": 59.925112,
+      "longitude": 10.794977
+    },
+    {
+      "name": "Make brukthandel",
+      "latitude": 62.73732,
+      "longitude": 7.156608
+    },
+    {
+      "name": "Mamilla Gjenbruk Bergen",
+      "latitude": 60.37518,
+      "longitude": 5.33921
+    },
+    {
+      "name": "Marita Brukthandel",
+      "latitude": 59.751516,
+      "longitude": 10.029863
+    },
+    {
+      "name": "Melkespannet kalkmaling & redesign",
+      "latitude": 60.842461,
+      "longitude": 11.085255
+    },
+    {
+      "name": "Merkatå brukthandel",
+      "latitude": 59.906881,
+      "longitude": 10.777144
+    },
+    {
+      "name": "Miljømarkedet",
+      "latitude": 60.385534,
+      "longitude": 5.318289
+    },
+    {
+      "name": "Modus Gjenbruksbutikk",
+      "latitude": 59.832898,
+      "longitude": 10.444946
+    },
+    {
+      "name": "Møteplassen Brukthandel",
+      "latitude": 62.088434,
+      "longitude": 5.73691
+    },
+    {
+      "name": "NLM Gjenbruk",
+      "latitude": 60.286485,
+      "longitude": 11.170463
+    },
+    {
+      "name": "NLM Gjenbruk",
+      "latitude": 62.853941,
+      "longitude": 7.161455
+    },
+    {
+      "name": "Nlm Gjenbruk Bergen",
+      "latitude": 60.362588,
+      "longitude": 5.454787
+    },
+    {
+      "name": "NLM Gjenbruk Sandefjord",
+      "latitude": 59.135328,
+      "longitude": 10.20823
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 58.139982,
+      "longitude": 7.072613
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 58.342159,
+      "longitude": 8.593299
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 58.461972,
+      "longitude": 8.762965
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 58.584987,
+      "longitude": 7.801665
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 58.885267,
+      "longitude": 5.647459
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 59.065574,
+      "longitude": 5.919947
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 59.19985,
+      "longitude": 9.590545
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 59.626256,
+      "longitude": 9.625438
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 59.713984,
+      "longitude": 10.835391
+    },
+    {
+      "name": "NMS Gjenbruk",
+      "latitude": 64.466755,
+      "longitude": 11.49364
+    },
+    {
+      "name": "NMS Gjenbruk Myrvåg",
+      "latitude": 62.277143,
+      "longitude": 5.805874
+    },
+    {
+      "name": "NMS Gjenbruk Nordfjord",
+      "latitude": 61.906462,
+      "longitude": 5.989633
+    },
+    {
+      "name": "NMS Gjenbruk Åsane",
+      "latitude": 60.465801,
+      "longitude": 5.322705
+    },
+    {
+      "name": "Notodden gjenbruk",
+      "latitude": 59.599989,
+      "longitude": 9.108579
+    },
+    {
+      "name": "Nygårdsgaten Brukthandel",
+      "latitude": 60.387236,
+      "longitude": 5.328811
+    },
+    {
+      "name": "Nytt, brukt og Antikk",
+      "latitude": 64.01342,
+      "longitude": 11.498113
+    },
+    {
+      "name": "Oasen Bruktbutikk",
+      "latitude": 59.913092,
+      "longitude": 10.780991
+    },
+    {
+      "name": "Omatt",
+      "latitude": 59.401688,
+      "longitude": 8.490978
+    },
+    {
+      "name": "Omgjøras bruktbutikk",
+      "latitude": 60.231741,
+      "longitude": 11.194044
+    },
+    {
+      "name": "Omigjen",
+      "latitude": 59.835806,
+      "longitude": 10.433751
+    },
+    {
+      "name": "Othilies Bruktbutikk",
+      "latitude": 60.186273,
+      "longitude": 12.003167
+    },
+    {
+      "name": "OverskuddsFabrikken",
+      "latitude": 60.186102,
+      "longitude": 12.003928
+    },
+    {
+      "name": "Postludium vintage",
+      "latitude": 69.652823,
+      "longitude": 18.960307
+    },
+    {
+      "name": "R:Elsk",
+      "latitude": 58.87829,
+      "longitude": 5.726271
+    },
+    {
+      "name": "REBELL Remiks Bærekraftsenter",
+      "latitude": 69.66912,
+      "longitude": 18.919822
+    },
+    {
+      "name": "Rotsund Bruktbutikk",
+      "latitude": 69.788363,
+      "longitude": 20.639426
+    },
+    {
+      "name": "Røde Kors Bruktbutikk",
+      "latitude": 59.292874,
+      "longitude": 11.060897
+    },
+    {
+      "name": "Røde kors bruktbutikk",
+      "latitude": 67.762915,
+      "longitude": 15.149798
+    },
+    {
+      "name": "Sande Bruktbutikken",
+      "latitude": 59.587409,
+      "longitude": 10.210971
+    },
+    {
+      "name": "Schau Design",
+      "latitude": 60.395866,
+      "longitude": 5.328841
+    },
+    {
+      "name": "Skafferiet",
+      "latitude": 59.123336,
+      "longitude": 11.388971
+    },
+    {
+      "name": "Skrotkisten",
+      "latitude": 60.474346,
+      "longitude": 5.343182
+    },
+    {
+      "name": "Soria Moria",
+      "latitude": 70.66781,
+      "longitude": 23.69874
+    },
+    {
+      "name": "Stas",
+      "latitude": 64.017834,
+      "longitude": 11.493673
+    },
+    {
+      "name": "Stas AS",
+      "latitude": 64.021891,
+      "longitude": 11.488486
+    },
+    {
+      "name": "Svendsens Brukthandel",
+      "latitude": 59.667402,
+      "longitude": 9.670601
+    },
+    {
+      "name": "Tante Blå Gjenbruk",
+      "latitude": 59.213054,
+      "longitude": 10.936016
+    },
+    {
+      "name": "Transit",
+      "latitude": 63.43464,
+      "longitude": 10.396637
+    },
+    {
+      "name": "Transit",
+      "latitude": 63.434911,
+      "longitude": 10.401706
+    },
+    {
+      "name": "Travellers Gjenbruk",
+      "latitude": 58.079178,
+      "longitude": 6.768701
+    },
+    {
+      "name": "Tretten Brukt og Loppis",
+      "latitude": 61.314656,
+      "longitude": 10.300024
+    },
+    {
+      "name": "Unik",
+      "latitude": 58.58721,
+      "longitude": 7.806537
+    },
+    {
+      "name": "Upscale",
+      "latitude": 61.777776,
+      "longitude": 6.214918
+    },
+    {
+      "name": "Valle Bruktbutikk",
+      "latitude": 59.096461,
+      "longitude": 7.528781
+    },
+    {
+      "name": "Viklunds Brukthandel",
+      "latitude": 59.929293,
+      "longitude": 10.732567
+    },
+    {
+      "name": "Yellow",
+      "latitude": 60.164183,
+      "longitude": 10.256712
+    },
+    {
+      "name": "Å.I.F. Gjenbruksbutikk",
+      "latitude": 62.562766,
+      "longitude": 7.688875
+    },
+    {
+      "name": "Åpta bruktbutikk",
+      "latitude": 58.187272,
+      "longitude": 6.79481
+    },
+    {
+      "name": "Øksnes Brukthandel",
+      "latitude": 68.956556,
+      "longitude": 15.161291
+    },
+    {
+      "name": "Østlandet Brukt & Antikk",
+      "latitude": 59.283536,
+      "longitude": 10.333469
+    }
+  ],
+  "meta": {
+    "title": "Second-hand shops in Norway - Gratis nedlasting",
+    "description": "Second-hand shops in Norway (Bruktbutikker i Norge), derived from OpenStreetMap POIs tagged shop=second_hand. Named features only, clipped to mainland Norway. Inneholder 149 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Second-hand shops in Norway | ListBase",
+    "seo_description": "Last ned Second-hand shops in Norway — 149 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 149 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

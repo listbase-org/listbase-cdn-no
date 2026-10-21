@@ -1,0 +1,216 @@
+{
+  "id": "no-maaleenheter-duration",
+  "name": "Maaleenheter: duration (15)",
+  "title": "Maaleenheter: duration (15)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'duration'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "duration-century",
+      "kategori": "duration",
+      "navn": "århundrer",
+      "moenster_en": "{0} århundre",
+      "moenster_flere": "{0} århundrer",
+      "kort_moenster": "{0} årh.",
+      "smal_moenster": "{0} årh."
+    },
+    {
+      "id": 2,
+      "unit_code": "duration-day",
+      "kategori": "duration",
+      "navn": "døgn",
+      "moenster_en": "{0} døgn",
+      "moenster_flere": "{0} døgn",
+      "kort_moenster": "{0} d",
+      "smal_moenster": "{0}d"
+    },
+    {
+      "id": 3,
+      "unit_code": "duration-decade",
+      "kategori": "duration",
+      "navn": "tiår",
+      "moenster_en": "{0} tiår",
+      "moenster_flere": "{0} tiår",
+      "kort_moenster": "{0} tiår",
+      "smal_moenster": "{0} tiår"
+    },
+    {
+      "id": 4,
+      "unit_code": "duration-fortnight",
+      "kategori": "duration",
+      "navn": "fortnight",
+      "moenster_en": "",
+      "moenster_flere": "{0} fw",
+      "kort_moenster": "{0} fw",
+      "smal_moenster": "{0} fw"
+    },
+    {
+      "id": 5,
+      "unit_code": "duration-hour",
+      "kategori": "duration",
+      "navn": "timer",
+      "moenster_en": "{0} time",
+      "moenster_flere": "{0} timer",
+      "kort_moenster": "{0} t",
+      "smal_moenster": "{0}t"
+    },
+    {
+      "id": 6,
+      "unit_code": "duration-microsecond",
+      "kategori": "duration",
+      "navn": "mikrosekunder",
+      "moenster_en": "{0} mikrosekund",
+      "moenster_flere": "{0} mikrosekunder",
+      "kort_moenster": "{0} μs",
+      "smal_moenster": "{0}μs"
+    },
+    {
+      "id": 7,
+      "unit_code": "duration-millisecond",
+      "kategori": "duration",
+      "navn": "millisekunder",
+      "moenster_en": "{0} millisekund",
+      "moenster_flere": "{0} millisekunder",
+      "kort_moenster": "{0} ms",
+      "smal_moenster": "{0}ms"
+    },
+    {
+      "id": 8,
+      "unit_code": "duration-minute",
+      "kategori": "duration",
+      "navn": "minutter",
+      "moenster_en": "{0} minutt",
+      "moenster_flere": "{0} minutter",
+      "kort_moenster": "{0} min",
+      "smal_moenster": "{0}m"
+    },
+    {
+      "id": 9,
+      "unit_code": "duration-month",
+      "kategori": "duration",
+      "navn": "måneder",
+      "moenster_en": "{0} måned",
+      "moenster_flere": "{0} måneder",
+      "kort_moenster": "{0} md.",
+      "smal_moenster": "{0} m"
+    },
+    {
+      "id": 10,
+      "unit_code": "duration-nanosecond",
+      "kategori": "duration",
+      "navn": "nanosekunder",
+      "moenster_en": "{0} nanosekund",
+      "moenster_flere": "{0} nanosekunder",
+      "kort_moenster": "{0} ns",
+      "smal_moenster": "{0}ns"
+    },
+    {
+      "id": 11,
+      "unit_code": "duration-night",
+      "kategori": "duration",
+      "navn": "netter",
+      "moenster_en": "{0} natt",
+      "moenster_flere": "{0} netter",
+      "kort_moenster": "{0} netter",
+      "smal_moenster": "{0} netter"
+    },
+    {
+      "id": 12,
+      "unit_code": "duration-quarter",
+      "kategori": "duration",
+      "navn": "kvartal",
+      "moenster_en": "{0} kvartal",
+      "moenster_flere": "{0} kvartaler",
+      "kort_moenster": "{0} kvt",
+      "smal_moenster": "{0} kv"
+    },
+    {
+      "id": 13,
+      "unit_code": "duration-second",
+      "kategori": "duration",
+      "navn": "sekunder",
+      "moenster_en": "{0} sekund",
+      "moenster_flere": "{0} sekunder",
+      "kort_moenster": "{0} sek",
+      "smal_moenster": "{0}s"
+    },
+    {
+      "id": 14,
+      "unit_code": "duration-week",
+      "kategori": "duration",
+      "navn": "uker",
+      "moenster_en": "{0} uke",
+      "moenster_flere": "{0} uker",
+      "kort_moenster": "{0} u",
+      "smal_moenster": "{0}u"
+    },
+    {
+      "id": 15,
+      "unit_code": "duration-year",
+      "kategori": "duration",
+      "navn": "år",
+      "moenster_en": "{0} år",
+      "moenster_flere": "{0} år",
+      "kort_moenster": "{0} år",
+      "smal_moenster": "{0}å"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: duration (15) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'duration'. Inneholder 15 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: duration (15) | ListBase",
+    "seo_description": "Last ned Maaleenheter: duration (15) — 15 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 15 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

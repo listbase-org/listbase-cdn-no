@@ -1,0 +1,3651 @@
+{
+  "id": "no-osm-man-made-bridge",
+  "name": "Named bridges in Norway",
+  "title": "Named bridges in Norway",
+  "description": "Named bridges in Norway, derived from OpenStreetMap POI nodes tagged man_made=bridge in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 722,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A",
+      "latitude": 59.870806,
+      "longitude": 10.657369
+    },
+    {
+      "name": "Akrobaten",
+      "latitude": 59.909519,
+      "longitude": 10.759627
+    },
+    {
+      "name": "Alversundbrua",
+      "latitude": 60.571024,
+      "longitude": 5.228576
+    },
+    {
+      "name": "Alvim bru",
+      "latitude": 59.274229,
+      "longitude": 11.087058
+    },
+    {
+      "name": "Andelva bru",
+      "latitude": 60.28577,
+      "longitude": 11.135417
+    },
+    {
+      "name": "Ankerbrua",
+      "latitude": 59.91826,
+      "longitude": 10.756303
+    },
+    {
+      "name": "Anne Holsens bru",
+      "latitude": 59.922469,
+      "longitude": 10.752758
+    },
+    {
+      "name": "Arteid bru",
+      "latitude": 60.047956,
+      "longitude": 11.133618
+    },
+    {
+      "name": "Askøybrua",
+      "latitude": 60.393314,
+      "longitude": 5.217051
+    },
+    {
+      "name": "Askøybrua",
+      "latitude": 60.393751,
+      "longitude": 5.216661
+    },
+    {
+      "name": "Asper bru",
+      "latitude": 59.672329,
+      "longitude": 10.889382
+    },
+    {
+      "name": "Aursundbrua",
+      "latitude": 63.273724,
+      "longitude": 8.500166
+    },
+    {
+      "name": "Auten bru",
+      "latitude": 59.570074,
+      "longitude": 11.173284
+    },
+    {
+      "name": "B",
+      "latitude": 59.870899,
+      "longitude": 10.657129
+    },
+    {
+      "name": "Bakke bru",
+      "latitude": 63.43271,
+      "longitude": 10.405483
+    },
+    {
+      "name": "Beierbrua",
+      "latitude": 59.930966,
+      "longitude": 10.75726
+    },
+    {
+      "name": "Beisfjordbrua",
+      "latitude": 68.407621,
+      "longitude": 17.422505
+    },
+    {
+      "name": "Beitstadsundbrua",
+      "latitude": 64.096004,
+      "longitude": 11.334898
+    },
+    {
+      "name": "Beitstadsundbrua",
+      "latitude": 64.096169,
+      "longitude": 11.333456
+    },
+    {
+      "name": "Bentsebrua",
+      "latitude": 59.936669,
+      "longitude": 10.761282
+    },
+    {
+      "name": "Bergsøysundbrua",
+      "latitude": 62.986622,
+      "longitude": 7.874153
+    },
+    {
+      "name": "Bernes",
+      "latitude": 60.602432,
+      "longitude": 5.516797
+    },
+    {
+      "name": "Bingsfoss bru",
+      "latitude": 59.989822,
+      "longitude": 11.264232
+    },
+    {
+      "name": "Bjøra bru",
+      "latitude": 64.504491,
+      "longitude": 11.993626
+    },
+    {
+      "name": "Bjørndalsbrua",
+      "latitude": 63.370668,
+      "longitude": 10.367588
+    },
+    {
+      "name": "Bjørnegård bru",
+      "latitude": 59.893118,
+      "longitude": 10.510374
+    },
+    {
+      "name": "Bjørnetangen bru",
+      "latitude": 59.989531,
+      "longitude": 9.904465
+    },
+    {
+      "name": "Blakkesrud bru",
+      "latitude": 60.322209,
+      "longitude": 11.172742
+    },
+    {
+      "name": "Boecks bru",
+      "latitude": 59.667632,
+      "longitude": 9.644519
+    },
+    {
+      "name": "Boknasundbrua",
+      "latitude": 59.222841,
+      "longitude": 5.458495
+    },
+    {
+      "name": "Bolsøybrua",
+      "latitude": 62.730706,
+      "longitude": 7.356053
+    },
+    {
+      "name": "Bommestad bru",
+      "latitude": 59.087709,
+      "longitude": 10.068143
+    },
+    {
+      "name": "Bommestadbrua vest",
+      "latitude": 59.088407,
+      "longitude": 10.067878
+    },
+    {
+      "name": "Bommestadbrua øst",
+      "latitude": 59.088335,
+      "longitude": 10.068228
+    },
+    {
+      "name": "Borgen bru",
+      "latitude": 59.950456,
+      "longitude": 11.100429
+    },
+    {
+      "name": "Borgen gangbru",
+      "latitude": 59.950329,
+      "longitude": 11.100259
+    },
+    {
+      "name": "Borgund Bru",
+      "latitude": 62.47024,
+      "longitude": 6.240841
+    },
+    {
+      "name": "Botnen",
+      "latitude": 60.472833,
+      "longitude": 5.655304
+    },
+    {
+      "name": "Botngårdsbrua",
+      "latitude": 63.763942,
+      "longitude": 9.808399
+    },
+    {
+      "name": "Brandval bru",
+      "latitude": 60.319492,
+      "longitude": 12.009966
+    },
+    {
+      "name": "Branes bru",
+      "latitude": 63.732102,
+      "longitude": 11.296325
+    },
+    {
+      "name": "Bratsbergveibrua",
+      "latitude": 63.401507,
+      "longitude": 10.401766
+    },
+    {
+      "name": "Bratsbergveien Rampe",
+      "latitude": 63.401263,
+      "longitude": 10.402677
+    },
+    {
+      "name": "Brattfoss bru vest",
+      "latitude": 59.534966,
+      "longitude": 10.180823
+    },
+    {
+      "name": "Brattfoss bru øst",
+      "latitude": 59.535138,
+      "longitude": 10.180973
+    },
+    {
+      "name": "Brennelv bru",
+      "latitude": 70.054486,
+      "longitude": 25.031602
+    },
+    {
+      "name": "Brennerivika bru",
+      "latitude": 60.922739,
+      "longitude": 10.692261
+    },
+    {
+      "name": "Breviksbrua",
+      "latitude": 59.049267,
+      "longitude": 9.694066
+    },
+    {
+      "name": "Brigde",
+      "latitude": 63.433812,
+      "longitude": 11.028949
+    },
+    {
+      "name": "Brofoss bro",
+      "latitude": 61.117228,
+      "longitude": 10.460999
+    },
+    {
+      "name": "Bru 1",
+      "latitude": 59.86316,
+      "longitude": 10.847657
+    },
+    {
+      "name": "Bru Nr.1008",
+      "latitude": 60.132943,
+      "longitude": 11.080271
+    },
+    {
+      "name": "Bru nr. 02-1364",
+      "latitude": 60.165004,
+      "longitude": 11.159119
+    },
+    {
+      "name": "Bru nr. 04 - 1622",
+      "latitude": 61.106978,
+      "longitude": 11.972968
+    },
+    {
+      "name": "Bru over Ravnkloløpet",
+      "latitude": 63.435564,
+      "longitude": 10.392508
+    },
+    {
+      "name": "Brunlaug bro",
+      "latitude": 61.165958,
+      "longitude": 10.398337
+    },
+    {
+      "name": "Brusvebrua",
+      "latitude": 63.743059,
+      "longitude": 11.298958
+    },
+    {
+      "name": "Brusvebrua",
+      "latitude": 63.743472,
+      "longitude": 11.298119
+    },
+    {
+      "name": "Bryggerivegen",
+      "latitude": 59.289513,
+      "longitude": 11.112894
+    },
+    {
+      "name": "Bryn bro",
+      "latitude": 59.908303,
+      "longitude": 10.818164
+    },
+    {
+      "name": "Bryn bru",
+      "latitude": 59.908022,
+      "longitude": 10.816634
+    },
+    {
+      "name": "Brønnøysund bru",
+      "latitude": 65.464348,
+      "longitude": 12.190363
+    },
+    {
+      "name": "Budorvegen overgangsbru",
+      "latitude": 60.833896,
+      "longitude": 11.29451
+    },
+    {
+      "name": "Bullbrekka",
+      "latitude": 60.510808,
+      "longitude": 5.436091
+    },
+    {
+      "name": "Burulla bru",
+      "latitude": 59.95782,
+      "longitude": 10.87341
+    },
+    {
+      "name": "Busmoen bru",
+      "latitude": 61.116759,
+      "longitude": 10.445936
+    },
+    {
+      "name": "Buøybroa",
+      "latitude": 58.501914,
+      "longitude": 8.887307
+    },
+    {
+      "name": "Bybrua",
+      "latitude": 59.741222,
+      "longitude": 10.202779
+    },
+    {
+      "name": "Byrbrua",
+      "latitude": 61.598338,
+      "longitude": 9.741056
+    },
+    {
+      "name": "Bækken bru",
+      "latitude": 60.161868,
+      "longitude": 10.715789
+    },
+    {
+      "name": "Bømlabrua",
+      "latitude": 59.737298,
+      "longitude": 5.38344
+    },
+    {
+      "name": "Bømlabrua",
+      "latitude": 59.737338,
+      "longitude": 5.38438
+    },
+    {
+      "name": "Børøybrua",
+      "latitude": 68.567091,
+      "longitude": 14.91856
+    },
+    {
+      "name": "C",
+      "latitude": 59.87103,
+      "longitude": 10.657062
+    },
+    {
+      "name": "Carlberg-undergangen",
+      "latitude": 59.401826,
+      "longitude": 10.67028
+    },
+    {
+      "name": "Ceciliebrua",
+      "latitude": 63.419779,
+      "longitude": 10.383771
+    },
+    {
+      "name": "City Syd-brua",
+      "latitude": 63.362847,
+      "longitude": 10.375515
+    },
+    {
+      "name": "Collets bru",
+      "latitude": 61.120898,
+      "longitude": 10.492495
+    },
+    {
+      "name": "Dalan bru",
+      "latitude": 58.080525,
+      "longitude": 7.594153
+    },
+    {
+      "name": "Daleråsen bru",
+      "latitude": 59.745606,
+      "longitude": 10.065222
+    },
+    {
+      "name": "Dalgårdbrua",
+      "latitude": 63.395277,
+      "longitude": 10.351578
+    },
+    {
+      "name": "Dam",
+      "latitude": 60.044713,
+      "longitude": 11.852802
+    },
+    {
+      "name": "Djupfjordbrua",
+      "latitude": 67.913314,
+      "longitude": 13.076972
+    },
+    {
+      "name": "Doknesevja bru",
+      "latitude": 60.348635,
+      "longitude": 11.245642
+    },
+    {
+      "name": "Dolmsundbrua",
+      "latitude": 63.641997,
+      "longitude": 8.823834
+    },
+    {
+      "name": "Dolstad Gangbru",
+      "latitude": 65.843124,
+      "longitude": 13.203536
+    },
+    {
+      "name": "Dorrbrua",
+      "latitude": 60.40293,
+      "longitude": 11.236412
+    },
+    {
+      "name": "Dragsundbrua",
+      "latitude": 62.282172,
+      "longitude": 5.831236
+    },
+    {
+      "name": "Drammensbrua",
+      "latitude": 59.7363,
+      "longitude": 10.220358
+    },
+    {
+      "name": "Dyrlandsbru",
+      "latitude": 59.600958,
+      "longitude": 8.448295
+    },
+    {
+      "name": "Dyvekes bru",
+      "latitude": 59.905143,
+      "longitude": 10.769848
+    },
+    {
+      "name": "Dønfors bru",
+      "latitude": 65.965751,
+      "longitude": 13.422294
+    },
+    {
+      "name": "Eidsbrua",
+      "latitude": 60.652829,
+      "longitude": 11.835876
+    },
+    {
+      "name": "Eidsvollbrua",
+      "latitude": 60.325857,
+      "longitude": 11.259554
+    },
+    {
+      "name": "Eigerøy bru",
+      "latitude": 58.461192,
+      "longitude": 5.977706
+    },
+    {
+      "name": "Einangsundet bru",
+      "latitude": 61.072909,
+      "longitude": 8.990841
+    },
+    {
+      "name": "Ekenessundet bru",
+      "latitude": 59.233506,
+      "longitude": 10.437982
+    },
+    {
+      "name": "Ekkerbrua",
+      "latitude": 63.31737,
+      "longitude": 10.296858
+    },
+    {
+      "name": "Ekornrud bru",
+      "latitude": 59.789954,
+      "longitude": 10.799766
+    },
+    {
+      "name": "Ekornrud gangbru",
+      "latitude": 59.789839,
+      "longitude": 10.799709
+    },
+    {
+      "name": "Elgeseter bru",
+      "latitude": 63.423903,
+      "longitude": 10.394071
+    },
+    {
+      "name": "Eljestraumen bru",
+      "latitude": 58.413757,
+      "longitude": 6.332532
+    },
+    {
+      "name": "Elvebakken bru",
+      "latitude": 59.919405,
+      "longitude": 10.754534
+    },
+    {
+      "name": "Elvebråten bru",
+      "latitude": 59.898972,
+      "longitude": 10.496593
+    },
+    {
+      "name": "Elverum bru",
+      "latitude": 60.881187,
+      "longitude": 11.546749
+    },
+    {
+      "name": "Engbrua",
+      "latitude": 60.788599,
+      "longitude": 10.66661
+    },
+    {
+      "name": "Engøysundbrua",
+      "latitude": 68.168225,
+      "longitude": 14.222048
+    },
+    {
+      "name": "Erdalselv bru",
+      "latitude": 70.505009,
+      "longitude": 24.259437
+    },
+    {
+      "name": "Erfjord bru",
+      "latitude": 59.354737,
+      "longitude": 6.230892
+    },
+    {
+      "name": "Farrisbrua",
+      "latitude": 59.056825,
+      "longitude": 10.011557
+    },
+    {
+      "name": "Farøy bru",
+      "latitude": 58.095846,
+      "longitude": 6.806607
+    },
+    {
+      "name": "Februene",
+      "latitude": 59.827959,
+      "longitude": 10.895123
+    },
+    {
+      "name": "Fetsund bru",
+      "latitude": 59.928386,
+      "longitude": 11.170206
+    },
+    {
+      "name": "Fetsund nye bru",
+      "latitude": 59.923901,
+      "longitude": 11.162542
+    },
+    {
+      "name": "Fiborg",
+      "latitude": 63.707444,
+      "longitude": 11.160864
+    },
+    {
+      "name": "Finna",
+      "latitude": 61.119306,
+      "longitude": 10.477168
+    },
+    {
+      "name": "Finnemyrbekk bru",
+      "latitude": 59.614798,
+      "longitude": 9.464582
+    },
+    {
+      "name": "Fiskevollen bru",
+      "latitude": 59.841228,
+      "longitude": 10.77733
+    },
+    {
+      "name": "Fitje",
+      "latitude": 60.533315,
+      "longitude": 5.539276
+    },
+    {
+      "name": "Fitjestokken",
+      "latitude": 60.528686,
+      "longitude": 5.530674
+    },
+    {
+      "name": "Fjell-Leet bru",
+      "latitude": 60.305072,
+      "longitude": 11.141161
+    },
+    {
+      "name": "Fjellbrua",
+      "latitude": 62.753637,
+      "longitude": 7.171495
+    },
+    {
+      "name": "Flata",
+      "latitude": 59.571949,
+      "longitude": 9.625085
+    },
+    {
+      "name": "Flatevad",
+      "latitude": 60.515058,
+      "longitude": 5.524792
+    },
+    {
+      "name": "Flatvoll bru",
+      "latitude": 69.408163,
+      "longitude": 19.643506
+    },
+    {
+      "name": "Flåbrua",
+      "latitude": 62.094513,
+      "longitude": 7.222064
+    },
+    {
+      "name": "Fokså bru",
+      "latitude": 62.112318,
+      "longitude": 9.290154
+    },
+    {
+      "name": "Foldfjord bru",
+      "latitude": 63.260212,
+      "longitude": 8.384139
+    },
+    {
+      "name": "Forra bru",
+      "latitude": 63.4615,
+      "longitude": 11.18432
+    },
+    {
+      "name": "Forsmobrua",
+      "latitude": 65.890547,
+      "longitude": 13.261026
+    },
+    {
+      "name": "Forvebrua",
+      "latitude": 63.265686,
+      "longitude": 9.800783
+    },
+    {
+      "name": "Fossbrua",
+      "latitude": 62.738112,
+      "longitude": 7.164195
+    },
+    {
+      "name": "Fosseberget bru",
+      "latitude": 59.429571,
+      "longitude": 11.002261
+    },
+    {
+      "name": "Fossum bru",
+      "latitude": 59.603095,
+      "longitude": 11.102142
+    },
+    {
+      "name": "Fotlandsvåg",
+      "latitude": 60.590072,
+      "longitude": 5.524677
+    },
+    {
+      "name": "Framnes Bru",
+      "latitude": 60.882123,
+      "longitude": 10.896046
+    },
+    {
+      "name": "Fredrikstadbrua",
+      "latitude": 59.209536,
+      "longitude": 10.962698
+    },
+    {
+      "name": "Fuglset overgangsbru",
+      "latitude": 60.816725,
+      "longitude": 11.285484
+    },
+    {
+      "name": "Funkelia GS-bru",
+      "latitude": 59.653831,
+      "longitude": 9.637522
+    },
+    {
+      "name": "Fylkesgrensen bro",
+      "latitude": 59.639476,
+      "longitude": 10.939642
+    },
+    {
+      "name": "Fåbru",
+      "latitude": 59.918205,
+      "longitude": 10.630414
+    },
+    {
+      "name": "Gamle Fossum bru",
+      "latitude": 59.601605,
+      "longitude": 11.099294
+    },
+    {
+      "name": "Gamle Grunge bru",
+      "latitude": 59.698778,
+      "longitude": 7.813806
+    },
+    {
+      "name": "Gamle Nygårdsbroen",
+      "latitude": 60.380237,
+      "longitude": 5.334716
+    },
+    {
+      "name": "Gamle Omsund bru",
+      "latitude": 63.105452,
+      "longitude": 7.822359
+    },
+    {
+      "name": "Gamle Slattum bru",
+      "latitude": 60.007388,
+      "longitude": 10.931248
+    },
+    {
+      "name": "Gamle Svinesundsbrua",
+      "latitude": 59.096916,
+      "longitude": 11.271163
+    },
+    {
+      "name": "Gamle Tveten bro",
+      "latitude": 59.911409,
+      "longitude": 10.824888
+    },
+    {
+      "name": "Gamle vollan Bru",
+      "latitude": 62.569688,
+      "longitude": 10.308179
+    },
+    {
+      "name": "Gamlebrua",
+      "latitude": 59.662654,
+      "longitude": 9.652251
+    },
+    {
+      "name": "Geitabru",
+      "latitude": 59.904052,
+      "longitude": 10.766969
+    },
+    {
+      "name": "Gimsøystraumbrua",
+      "latitude": 68.263003,
+      "longitude": 14.246279
+    },
+    {
+      "name": "Giskebrua",
+      "latitude": 62.508162,
+      "longitude": 6.07688
+    },
+    {
+      "name": "Giskebrua",
+      "latitude": 62.508306,
+      "longitude": 6.075723
+    },
+    {
+      "name": "Gjellestad",
+      "latitude": 59.571995,
+      "longitude": 11.153213
+    },
+    {
+      "name": "Gjerstadelva bru",
+      "latitude": 58.884998,
+      "longitude": 9.031163
+    },
+    {
+      "name": "Gloppe bru",
+      "latitude": 59.043573,
+      "longitude": 10.06506
+    },
+    {
+      "name": "Glåmbrua",
+      "latitude": 60.882595,
+      "longitude": 11.557331
+    },
+    {
+      "name": "Gomabrua",
+      "latitude": 63.118398,
+      "longitude": 7.748533
+    },
+    {
+      "name": "Gorsabrua",
+      "latitude": 69.400825,
+      "longitude": 20.981577
+    },
+    {
+      "name": "Gosen bru",
+      "latitude": 59.740007,
+      "longitude": 10.145726
+    },
+    {
+      "name": "Granrudmoen Bru",
+      "latitude": 61.240878,
+      "longitude": 10.430402
+    },
+    {
+      "name": "Grenlandsbrua",
+      "latitude": 59.05098,
+      "longitude": 9.676242
+    },
+    {
+      "name": "Grette",
+      "latitude": 59.49239,
+      "longitude": 9.921936
+    },
+    {
+      "name": "Grettefoss bru",
+      "latitude": 59.791865,
+      "longitude": 9.57596
+    },
+    {
+      "name": "Grimtjenndammen",
+      "latitude": 60.065971,
+      "longitude": 11.994982
+    },
+    {
+      "name": "Grinienga bru",
+      "latitude": 59.901369,
+      "longitude": 10.494915
+    },
+    {
+      "name": "Grinna bru",
+      "latitude": 59.600678,
+      "longitude": 11.063278
+    },
+    {
+      "name": "Grorudbrua",
+      "latitude": 59.958704,
+      "longitude": 10.876155
+    },
+    {
+      "name": "Grunge bru",
+      "latitude": 59.697077,
+      "longitude": 7.814913
+    },
+    {
+      "name": "Gråelvbrua",
+      "latitude": 63.477688,
+      "longitude": 10.901519
+    },
+    {
+      "name": "Grøtebrua",
+      "latitude": 59.277267,
+      "longitude": 11.136488
+    },
+    {
+      "name": "Grünerbrua",
+      "latitude": 59.921146,
+      "longitude": 10.753921
+    },
+    {
+      "name": "Gulebrua",
+      "latitude": 59.273149,
+      "longitude": 11.140143
+    },
+    {
+      "name": "Gulhagen bro",
+      "latitude": 61.228336,
+      "longitude": 10.428594
+    },
+    {
+      "name": "Gullhaug bru",
+      "latitude": 59.949838,
+      "longitude": 10.764954
+    },
+    {
+      "name": "Gulsvik Bro 1905.",
+      "latitude": 60.38631,
+      "longitude": 9.578168
+    },
+    {
+      "name": "Gundesølina bru",
+      "latitude": 59.684227,
+      "longitude": 10.245129
+    },
+    {
+      "name": "Gunnarsrød bru",
+      "latitude": 59.107016,
+      "longitude": 9.812266
+    },
+    {
+      "name": "Gustkiste",
+      "latitude": 59.621625,
+      "longitude": 9.631692
+    },
+    {
+      "name": "Hadselbrua",
+      "latitude": 68.572633,
+      "longitude": 14.99363
+    },
+    {
+      "name": "Hallevannetbrua",
+      "latitude": 59.067832,
+      "longitude": 9.922677
+    },
+    {
+      "name": "Halsan bru",
+      "latitude": 63.731548,
+      "longitude": 11.290401
+    },
+    {
+      "name": "Halsan bru",
+      "latitude": 63.732752,
+      "longitude": 11.289514
+    },
+    {
+      "name": "Hammerdalen bru",
+      "latitude": 59.055475,
+      "longitude": 10.011089
+    },
+    {
+      "name": "Hammeren bru",
+      "latitude": 59.994214,
+      "longitude": 10.753031
+    },
+    {
+      "name": "Hanesund",
+      "latitude": 58.109924,
+      "longitude": 6.760793
+    },
+    {
+      "name": "Hanskemakerbrua",
+      "latitude": 63.788309,
+      "longitude": 11.48259
+    },
+    {
+      "name": "Harpe bru",
+      "latitude": 61.568468,
+      "longitude": 9.87384
+    },
+    {
+      "name": "Hartveit Nordre",
+      "latitude": 60.490478,
+      "longitude": 5.549605
+    },
+    {
+      "name": "Hartveit Sør",
+      "latitude": 60.487676,
+      "longitude": 5.553001
+    },
+    {
+      "name": "Hattelvbrua",
+      "latitude": 66.017364,
+      "longitude": 13.454267
+    },
+    {
+      "name": "Hatterelv bru",
+      "latitude": 70.45785,
+      "longitude": 24.739305
+    },
+    {
+      "name": "Haugastugu bru",
+      "latitude": 61.60317,
+      "longitude": 9.713572
+    },
+    {
+      "name": "Hauge Sør",
+      "latitude": 60.502304,
+      "longitude": 5.475658
+    },
+    {
+      "name": "Haugsfoss bru",
+      "latitude": 60.837128,
+      "longitude": 11.603936
+    },
+    {
+      "name": "Haugvik",
+      "latitude": 60.507361,
+      "longitude": 5.489159
+    },
+    {
+      "name": "Hausmanns bru",
+      "latitude": 59.9152,
+      "longitude": 10.759919
+    },
+    {
+      "name": "Hedrumvegen bru vest",
+      "latitude": 59.090224,
+      "longitude": 10.072586
+    },
+    {
+      "name": "Hedrumvegen bru øst",
+      "latitude": 59.090103,
+      "longitude": 10.072726
+    },
+    {
+      "name": "Heggedalsbrua",
+      "latitude": 59.785522,
+      "longitude": 10.430219
+    },
+    {
+      "name": "Hegle bru",
+      "latitude": 63.73877,
+      "longitude": 11.33883
+    },
+    {
+      "name": "Heia Øvre bru",
+      "latitude": 59.623155,
+      "longitude": 9.473462
+    },
+    {
+      "name": "Helgebekk bru",
+      "latitude": 59.631654,
+      "longitude": 9.514797
+    },
+    {
+      "name": "Helgelandsbrua",
+      "latitude": 66.037192,
+      "longitude": 12.720283
+    },
+    {
+      "name": "Hell bru",
+      "latitude": 63.446278,
+      "longitude": 10.910911
+    },
+    {
+      "name": "Hellebrua",
+      "latitude": 62.470813,
+      "longitude": 6.151618
+    },
+    {
+      "name": "Hellefossbrue",
+      "latitude": 60.869198,
+      "longitude": 9.707913
+    },
+    {
+      "name": "Hemnskjelbrua",
+      "latitude": 63.497099,
+      "longitude": 9.16923
+    },
+    {
+      "name": "Henningsværbrua",
+      "latitude": 68.15921,
+      "longitude": 14.213656
+    },
+    {
+      "name": "Herregårdsbrua",
+      "latitude": 59.117569,
+      "longitude": 9.714208
+    },
+    {
+      "name": "Herøybrua",
+      "latitude": 62.319458,
+      "longitude": 5.720777
+    },
+    {
+      "name": "Hillestad",
+      "latitude": 59.593371,
+      "longitude": 9.663526
+    },
+    {
+      "name": "Hillesøybrua",
+      "latitude": 69.636334,
+      "longitude": 18.000961
+    },
+    {
+      "name": "Hinnå steinkvelvbru",
+      "latitude": 63.356996,
+      "longitude": 7.942608
+    },
+    {
+      "name": "Hobølelva bru",
+      "latitude": 59.627995,
+      "longitude": 10.956291
+    },
+    {
+      "name": "Hokksund Bru/undergang",
+      "latitude": 59.770638,
+      "longitude": 9.904641
+    },
+    {
+      "name": "Hokksund bru",
+      "latitude": 59.773531,
+      "longitude": 9.909982
+    },
+    {
+      "name": "Hole bru",
+      "latitude": 62.094779,
+      "longitude": 7.226661
+    },
+    {
+      "name": "Holmen bru",
+      "latitude": 63.779354,
+      "longitude": 11.764246
+    },
+    {
+      "name": "Holmen bru",
+      "latitude": 70.031295,
+      "longitude": 24.93593
+    },
+    {
+      "name": "Holmenbrua",
+      "latitude": 59.739545,
+      "longitude": 10.219426
+    },
+    {
+      "name": "Holmgangen",
+      "latitude": 63.752135,
+      "longitude": 11.299801
+    },
+    {
+      "name": "Holt bru",
+      "latitude": 59.621983,
+      "longitude": 10.997864
+    },
+    {
+      "name": "Holte viadukt",
+      "latitude": 63.683821,
+      "longitude": 11.135819
+    },
+    {
+      "name": "Hondyrju bru",
+      "latitude": 62.093093,
+      "longitude": 9.219122
+    },
+    {
+      "name": "Hopsbro",
+      "latitude": 60.328939,
+      "longitude": 5.34552
+    },
+    {
+      "name": "Hopsbro Bybane",
+      "latitude": 60.327326,
+      "longitude": 5.346706
+    },
+    {
+      "name": "Hotran bru",
+      "latitude": 63.703558,
+      "longitude": 11.155942
+    },
+    {
+      "name": "Hov bru",
+      "latitude": 69.653598,
+      "longitude": 19.573797
+    },
+    {
+      "name": "Husværsundet Bru",
+      "latitude": 65.906707,
+      "longitude": 12.128561
+    },
+    {
+      "name": "Hvittingfoss",
+      "latitude": 59.478084,
+      "longitude": 10.00609
+    },
+    {
+      "name": "Hvittingsrud bru vest",
+      "latitude": 59.540518,
+      "longitude": 10.17731
+    },
+    {
+      "name": "Hvittingsrud bru øst",
+      "latitude": 59.540525,
+      "longitude": 10.17761
+    },
+    {
+      "name": "Håkøybrua",
+      "latitude": 69.663262,
+      "longitude": 18.761107
+    },
+    {
+      "name": "Hålogalandsbrua - Holgolátrovvi",
+      "latitude": 68.455049,
+      "longitude": 17.481011
+    },
+    {
+      "name": "Håpnesbrua",
+      "latitude": 64.931249,
+      "longitude": 13.161446
+    },
+    {
+      "name": "Hårstadbrua",
+      "latitude": 63.346576,
+      "longitude": 10.369745
+    },
+    {
+      "name": "Høgskolebrua",
+      "latitude": 63.420402,
+      "longitude": 10.404839
+    },
+    {
+      "name": "Hølen bru",
+      "latitude": 59.539183,
+      "longitude": 10.726359
+    },
+    {
+      "name": "Hølendalen jernbanebru",
+      "latitude": 59.539088,
+      "longitude": 10.727299
+    },
+    {
+      "name": "Hølingstad bru",
+      "latitude": 60.813199,
+      "longitude": 11.308081
+    },
+    {
+      "name": "Høse Bru",
+      "latitude": 59.480992,
+      "longitude": 6.259386
+    },
+    {
+      "name": "Imarsundbrua",
+      "latitude": 63.22739,
+      "longitude": 8.237135
+    },
+    {
+      "name": "Ingedal viadukt",
+      "latitude": 59.180097,
+      "longitude": 11.212617
+    },
+    {
+      "name": "Jaren bru",
+      "latitude": 59.618825,
+      "longitude": 11.005481
+    },
+    {
+      "name": "Jerusalem bru",
+      "latitude": 59.939408,
+      "longitude": 10.76682
+    },
+    {
+      "name": "Jessheimbrua",
+      "latitude": 60.141313,
+      "longitude": 11.176809
+    },
+    {
+      "name": "Julsruddalsevja bru",
+      "latitude": 60.370777,
+      "longitude": 11.243657
+    },
+    {
+      "name": "Jøl bru",
+      "latitude": 61.936109,
+      "longitude": 7.245155
+    },
+    {
+      "name": "Jørn",
+      "latitude": 60.454022,
+      "longitude": 5.52891
+    },
+    {
+      "name": "Kaldåbrua",
+      "latitude": 65.988939,
+      "longitude": 13.44649
+    },
+    {
+      "name": "Kallerud bru",
+      "latitude": 60.787386,
+      "longitude": 10.668268
+    },
+    {
+      "name": "Kalvebakken bru",
+      "latitude": 69.558227,
+      "longitude": 19.074137
+    },
+    {
+      "name": "Kalvebakken bru",
+      "latitude": 69.558441,
+      "longitude": 19.072881
+    },
+    {
+      "name": "Kanalbrua",
+      "latitude": 59.260838,
+      "longitude": 10.415819
+    },
+    {
+      "name": "Kanalbrua",
+      "latitude": 59.27745,
+      "longitude": 11.130415
+    },
+    {
+      "name": "Kanalbrua",
+      "latitude": 59.43379,
+      "longitude": 10.652519
+    },
+    {
+      "name": "Kilandsbru",
+      "latitude": 59.0034,
+      "longitude": 8.286862
+    },
+    {
+      "name": "Kirkebroen",
+      "latitude": 61.31534,
+      "longitude": 12.257956
+    },
+    {
+      "name": "Kirkebrua",
+      "latitude": 59.593141,
+      "longitude": 11.069792
+    },
+    {
+      "name": "Kjelsrudvegen overgangsbru",
+      "latitude": 60.83117,
+      "longitude": 11.293044
+    },
+    {
+      "name": "Kjørstad",
+      "latitude": 59.593638,
+      "longitude": 9.743103
+    },
+    {
+      "name": "Kleggerud bru",
+      "latitude": 60.222665,
+      "longitude": 10.384032
+    },
+    {
+      "name": "Klettnebrua",
+      "latitude": 63.321985,
+      "longitude": 10.312026
+    },
+    {
+      "name": "Klevastaul bru",
+      "latitude": 59.632934,
+      "longitude": 7.801276
+    },
+    {
+      "name": "Klevlandsbekk",
+      "latitude": 58.113353,
+      "longitude": 6.683189
+    },
+    {
+      "name": "Klypvegen bru",
+      "latitude": 60.228327,
+      "longitude": 10.704755
+    },
+    {
+      "name": "Kløvstad",
+      "latitude": 59.59936,
+      "longitude": 9.672676
+    },
+    {
+      "name": "Knapfoss bru",
+      "latitude": 60.836567,
+      "longitude": 11.60835
+    },
+    {
+      "name": "Kobbervoll bru",
+      "latitude": 59.629388,
+      "longitude": 9.558736
+    },
+    {
+      "name": "Kobbøl bru",
+      "latitude": 59.49612,
+      "longitude": 10.838218
+    },
+    {
+      "name": "Kollkloppen",
+      "latitude": 59.961836,
+      "longitude": 10.723997
+    },
+    {
+      "name": "Kolomoen bru",
+      "latitude": 60.70278,
+      "longitude": 11.272052
+    },
+    {
+      "name": "Kolsrud Bro",
+      "latitude": 59.977443,
+      "longitude": 9.755893
+    },
+    {
+      "name": "Kongsberg bru",
+      "latitude": 59.649085,
+      "longitude": 9.650589
+    },
+    {
+      "name": "Kongshavn bru",
+      "latitude": 59.894634,
+      "longitude": 10.756686
+    },
+    {
+      "name": "Krapfossbrua",
+      "latitude": 59.431987,
+      "longitude": 10.680644
+    },
+    {
+      "name": "Kringastemma",
+      "latitude": 60.509702,
+      "longitude": 5.440358
+    },
+    {
+      "name": "Kristoffer Aamots bro",
+      "latitude": 59.946605,
+      "longitude": 10.765029
+    },
+    {
+      "name": "Kroksund bru",
+      "latitude": 60.063695,
+      "longitude": 10.300145
+    },
+    {
+      "name": "Kroppanbrua",
+      "latitude": 63.393286,
+      "longitude": 10.386689
+    },
+    {
+      "name": "Krossbybrua",
+      "latitude": 59.585437,
+      "longitude": 11.117455
+    },
+    {
+      "name": "Krossengbrua",
+      "latitude": 59.464429,
+      "longitude": 10.833312
+    },
+    {
+      "name": "Kuba bru",
+      "latitude": 59.92408,
+      "longitude": 10.752991
+    },
+    {
+      "name": "Kubbholmleibrua",
+      "latitude": 68.078448,
+      "longitude": 13.194531
+    },
+    {
+      "name": "Kubrua",
+      "latitude": 61.132665,
+      "longitude": 10.532351
+    },
+    {
+      "name": "Kullhusdal bru",
+      "latitude": 59.63219,
+      "longitude": 9.523775
+    },
+    {
+      "name": "Kvalholsbrua",
+      "latitude": 63.518297,
+      "longitude": 8.315184
+    },
+    {
+      "name": "Kvalsundbrua",
+      "latitude": 70.511383,
+      "longitude": 23.95295
+    },
+    {
+      "name": "Kvalsundelv bru",
+      "latitude": 70.50238,
+      "longitude": 23.982787
+    },
+    {
+      "name": "Kveldrobrua",
+      "latitude": 62.74304,
+      "longitude": 7.168937
+    },
+    {
+      "name": "Kvenna bru",
+      "latitude": 59.62468,
+      "longitude": 9.610117
+    },
+    {
+      "name": "Kvernbrua",
+      "latitude": 63.673318,
+      "longitude": 11.993985
+    },
+    {
+      "name": "Kvernsrud",
+      "latitude": 59.511482,
+      "longitude": 9.826352
+    },
+    {
+      "name": "Kveøybrua",
+      "latitude": 68.737611,
+      "longitude": 16.197567
+    },
+    {
+      "name": "Kvisldalen bru",
+      "latitude": 60.307561,
+      "longitude": 11.219963
+    },
+    {
+      "name": "Kvithammarbrua",
+      "latitude": 63.490253,
+      "longitude": 10.88487
+    },
+    {
+      "name": "Kvivsbrua",
+      "latitude": 61.986899,
+      "longitude": 6.513895
+    },
+    {
+      "name": "Kystadbrua",
+      "latitude": 63.388182,
+      "longitude": 10.336372
+    },
+    {
+      "name": "Kåkernbrua",
+      "latitude": 68.018401,
+      "longitude": 13.179958
+    },
+    {
+      "name": "Kårdal bru",
+      "latitude": 60.752247,
+      "longitude": 7.107475
+    },
+    {
+      "name": "Lagerå bru",
+      "latitude": 60.826275,
+      "longitude": 11.233863
+    },
+    {
+      "name": "Lakselv bru",
+      "latitude": 70.065282,
+      "longitude": 24.928826
+    },
+    {
+      "name": "Lakselvbrua - Luossvuomjohrovvi",
+      "latitude": 68.529012,
+      "longitude": 15.751707
+    },
+    {
+      "name": "Landfalløybrua",
+      "latitude": 59.748245,
+      "longitude": 10.164001
+    },
+    {
+      "name": "Langebrua",
+      "latitude": 60.629009,
+      "longitude": 6.428516
+    },
+    {
+      "name": "Langestrand bru",
+      "latitude": 59.050672,
+      "longitude": 10.021426
+    },
+    {
+      "name": "Langset bru",
+      "latitude": 60.398114,
+      "longitude": 11.232703
+    },
+    {
+      "name": "Langum bru",
+      "latitude": 59.743662,
+      "longitude": 10.114448
+    },
+    {
+      "name": "Langåsdammen bru",
+      "latitude": 63.711087,
+      "longitude": 11.349781
+    },
+    {
+      "name": "Lavkkavann bru",
+      "latitude": 69.756077,
+      "longitude": 25.213965
+    },
+    {
+      "name": "Leinstrandbrua",
+      "latitude": 63.321325,
+      "longitude": 10.307612
+    },
+    {
+      "name": "Leistad bru",
+      "latitude": 63.42255,
+      "longitude": 10.630922
+    },
+    {
+      "name": "Leistadbrua",
+      "latitude": 63.422525,
+      "longitude": 10.630526
+    },
+    {
+      "name": "Leistadåsebrua",
+      "latitude": 63.426614,
+      "longitude": 10.649887
+    },
+    {
+      "name": "Leknesferjekai",
+      "latitude": 62.205739,
+      "longitude": 6.534423
+    },
+    {
+      "name": "Lepsøybrua",
+      "latitude": 62.593293,
+      "longitude": 6.257189
+    },
+    {
+      "name": "Lesundbrua",
+      "latitude": 63.333558,
+      "longitude": 8.456808
+    },
+    {
+      "name": "Levanger bru",
+      "latitude": 63.749726,
+      "longitude": 11.30541
+    },
+    {
+      "name": "Levangerelva bru",
+      "latitude": 63.732447,
+      "longitude": 11.306095
+    },
+    {
+      "name": "Lier bru",
+      "latitude": 59.788802,
+      "longitude": 10.243157
+    },
+    {
+      "name": "Liland II",
+      "latitude": 60.631149,
+      "longitude": 6.275843
+    },
+    {
+      "name": "Lilandsbrua",
+      "latitude": 60.630766,
+      "longitude": 6.275726
+    },
+    {
+      "name": "Lillehammer bru",
+      "latitude": 61.111184,
+      "longitude": 10.443255
+    },
+    {
+      "name": "Lillestrømbrua",
+      "latitude": 59.949897,
+      "longitude": 11.045268
+    },
+    {
+      "name": "Lindem",
+      "latitude": 59.544971,
+      "longitude": 9.796344
+    },
+    {
+      "name": "Litjsundbrua",
+      "latitude": 63.230038,
+      "longitude": 8.256268
+    },
+    {
+      "name": "Lja bru",
+      "latitude": 59.848964,
+      "longitude": 10.804365
+    },
+    {
+      "name": "Ljansbrua",
+      "latitude": 59.838247,
+      "longitude": 10.779329
+    },
+    {
+      "name": "Loftås",
+      "latitude": 60.51479,
+      "longitude": 5.44314
+    },
+    {
+      "name": "Lomoen bru",
+      "latitude": 61.593091,
+      "longitude": 9.723913
+    },
+    {
+      "name": "Lone",
+      "latitude": 60.511383,
+      "longitude": 5.519878
+    },
+    {
+      "name": "Lonevåg",
+      "latitude": 60.527616,
+      "longitude": 5.492575
+    },
+    {
+      "name": "Lunde bru",
+      "latitude": 60.86573,
+      "longitude": 9.710846
+    },
+    {
+      "name": "Luostejohka bru",
+      "latitude": 69.828881,
+      "longitude": 25.145234
+    },
+    {
+      "name": "Lyabrua",
+      "latitude": 63.454071,
+      "longitude": 8.336392
+    },
+    {
+      "name": "Lysaker bru",
+      "latitude": 59.91327,
+      "longitude": 10.640724
+    },
+    {
+      "name": "Lysemyr bru",
+      "latitude": 59.6201,
+      "longitude": 9.657123
+    },
+    {
+      "name": "Lågendalsvegen bru vest",
+      "latitude": 59.08738,
+      "longitude": 10.064646
+    },
+    {
+      "name": "Lågendalsvegen bru øst",
+      "latitude": 59.087202,
+      "longitude": 10.064675
+    },
+    {
+      "name": "Løkedalen bru",
+      "latitude": 59.075912,
+      "longitude": 8.028455
+    },
+    {
+      "name": "Madsjøbrua",
+      "latitude": 63.425702,
+      "longitude": 10.475968
+    },
+    {
+      "name": "Madsvågbrua",
+      "latitude": 63.762497,
+      "longitude": 8.80979
+    },
+    {
+      "name": "Magnor bru",
+      "latitude": 59.950588,
+      "longitude": 12.199852
+    },
+    {
+      "name": "Marlo bru",
+      "latitude": 61.878455,
+      "longitude": 8.390009
+    },
+    {
+      "name": "Meløybrua",
+      "latitude": 63.123791,
+      "longitude": 7.759444
+    },
+    {
+      "name": "Mesna rampebru",
+      "latitude": 61.116772,
+      "longitude": 10.446362
+    },
+    {
+      "name": "Mesna-bro",
+      "latitude": 61.117414,
+      "longitude": 10.464588
+    },
+    {
+      "name": "Mesnadalen bru",
+      "latitude": 61.115274,
+      "longitude": 10.452579
+    },
+    {
+      "name": "Mestad",
+      "latitude": 60.675635,
+      "longitude": 6.097032
+    },
+    {
+      "name": "Minnesund bru",
+      "latitude": 60.399293,
+      "longitude": 11.232519
+    },
+    {
+      "name": "Minnesund jernbanebru",
+      "latitude": 60.39797,
+      "longitude": 11.235181
+    },
+    {
+      "name": "Minnevika bru",
+      "latitude": 60.39583,
+      "longitude": 11.237816
+    },
+    {
+      "name": "Mjosundbrua",
+      "latitude": 63.250089,
+      "longitude": 8.48108
+    },
+    {
+      "name": "Mjøndalen bru",
+      "latitude": 59.753271,
+      "longitude": 10.007382
+    },
+    {
+      "name": "Mjøndalslokket bru",
+      "latitude": 59.751568,
+      "longitude": 10.02793
+    },
+    {
+      "name": "Mjøsbrua",
+      "latitude": 60.927571,
+      "longitude": 10.678
+    },
+    {
+      "name": "Mjøsundbrua",
+      "latitude": 68.888534,
+      "longitude": 17.46032
+    },
+    {
+      "name": "Moen bru",
+      "latitude": 59.570608,
+      "longitude": 11.163963
+    },
+    {
+      "name": "Moen bru",
+      "latitude": 59.62662,
+      "longitude": 9.475254
+    },
+    {
+      "name": "Mofjellbekken bru øst",
+      "latitude": 59.470523,
+      "longitude": 10.299544
+    },
+    {
+      "name": "Moholtbrua",
+      "latitude": 63.409164,
+      "longitude": 10.441437
+    },
+    {
+      "name": "Moi bru",
+      "latitude": 58.45653,
+      "longitude": 6.551251
+    },
+    {
+      "name": "Molingbrua",
+      "latitude": 62.695009,
+      "longitude": 11.476309
+    },
+    {
+      "name": "Mollebrua",
+      "latitude": 59.605048,
+      "longitude": 11.050286
+    },
+    {
+      "name": "Mork bru",
+      "latitude": 60.314708,
+      "longitude": 11.236408
+    },
+    {
+      "name": "Moselva bru",
+      "latitude": 60.227639,
+      "longitude": 10.406643
+    },
+    {
+      "name": "Myking",
+      "latitude": 60.551121,
+      "longitude": 5.545278
+    },
+    {
+      "name": "Myntbrua",
+      "latitude": 59.665837,
+      "longitude": 9.652879
+    },
+    {
+      "name": "Myrås bru",
+      "latitude": 59.740702,
+      "longitude": 10.779839
+    },
+    {
+      "name": "Måløybrua",
+      "latitude": 61.929118,
+      "longitude": 5.119014
+    },
+    {
+      "name": "Mæle",
+      "latitude": 60.479011,
+      "longitude": 5.538864
+    },
+    {
+      "name": "Mølla bru",
+      "latitude": 59.930084,
+      "longitude": 10.757012
+    },
+    {
+      "name": "Mølleparken bru",
+      "latitude": 59.929513,
+      "longitude": 10.756228
+    },
+    {
+      "name": "Mørk",
+      "latitude": 59.594565,
+      "longitude": 9.725195
+    },
+    {
+      "name": "Nardo Vestre",
+      "latitude": 63.407294,
+      "longitude": 10.421604
+    },
+    {
+      "name": "Nardo Østre",
+      "latitude": 63.407484,
+      "longitude": 10.422376
+    },
+    {
+      "name": "Narverud bru",
+      "latitude": 59.742924,
+      "longitude": 10.097696
+    },
+    {
+      "name": "Natterud bru vest",
+      "latitude": 59.523226,
+      "longitude": 10.19081
+    },
+    {
+      "name": "Natterud bru øst",
+      "latitude": 59.523416,
+      "longitude": 10.190999
+    },
+    {
+      "name": "Naustdal bru",
+      "latitude": 61.505774,
+      "longitude": 5.720108
+    },
+    {
+      "name": "Nedre Eiker bru",
+      "latitude": 59.75393,
+      "longitude": 10.031332
+    },
+    {
+      "name": "Nessa bru",
+      "latitude": 60.302763,
+      "longitude": 11.206358
+    },
+    {
+      "name": "Nessundet Bru",
+      "latitude": 60.757293,
+      "longitude": 10.944635
+    },
+    {
+      "name": "Nipa bru",
+      "latitude": 59.307708,
+      "longitude": 11.150093
+    },
+    {
+      "name": "Nitelva bru",
+      "latitude": 59.957191,
+      "longitude": 11.028568
+    },
+    {
+      "name": "Nonnekloppen",
+      "latitude": 60.384199,
+      "longitude": 5.338899
+    },
+    {
+      "name": "Norcem bru",
+      "latitude": 59.125958,
+      "longitude": 9.678484
+    },
+    {
+      "name": "Nordby bru",
+      "latitude": 59.489954,
+      "longitude": 10.923178
+    },
+    {
+      "name": "Nordbyveien bru",
+      "latitude": 59.720587,
+      "longitude": 10.834848
+    },
+    {
+      "name": "Norddalsbrua",
+      "latitude": 68.42809,
+      "longitude": 17.999512
+    },
+    {
+      "name": "Nordelv bru",
+      "latitude": 59.649705,
+      "longitude": 6.357384
+    },
+    {
+      "name": "Nordenga bru",
+      "latitude": 59.909065,
+      "longitude": 10.763122
+    },
+    {
+      "name": "Nordsund bru",
+      "latitude": 58.095416,
+      "longitude": 6.812334
+    },
+    {
+      "name": "Nore Straumsund bru",
+      "latitude": 60.587835,
+      "longitude": 4.853442
+    },
+    {
+      "name": "Nybru",
+      "latitude": 61.482987,
+      "longitude": 10.885344
+    },
+    {
+      "name": "Nybrua",
+      "latitude": 59.667544,
+      "longitude": 9.649312
+    },
+    {
+      "name": "Nybrua",
+      "latitude": 59.9178,
+      "longitude": 10.759186
+    },
+    {
+      "name": "Nybrua",
+      "latitude": 60.882767,
+      "longitude": 11.556073
+    },
+    {
+      "name": "Nydalsbrua",
+      "latitude": 59.953358,
+      "longitude": 10.763524
+    },
+    {
+      "name": "Nydalsbrua",
+      "latitude": 63.397587,
+      "longitude": 10.388513
+    },
+    {
+      "name": "Nye Dyrland bru",
+      "latitude": 59.600761,
+      "longitude": 8.448511
+    },
+    {
+      "name": "Nye Mofjellbekken bru vest",
+      "latitude": 59.470351,
+      "longitude": 10.2996
+    },
+    {
+      "name": "Nye Nygårdsbro II",
+      "latitude": 60.380252,
+      "longitude": 5.334052
+    },
+    {
+      "name": "Nye Rånåsfoss bru",
+      "latitude": 60.034362,
+      "longitude": 11.335241
+    },
+    {
+      "name": "Nye Varoddbrua",
+      "latitude": 58.16143,
+      "longitude": 8.055652
+    },
+    {
+      "name": "Nygårdsbroen",
+      "latitude": 60.380329,
+      "longitude": 5.33524
+    },
+    {
+      "name": "Nygårdselv bru",
+      "latitude": 68.459617,
+      "longitude": 17.699951
+    },
+    {
+      "name": "Nylandsbrua",
+      "latitude": 59.912066,
+      "longitude": 10.75784
+    },
+    {
+      "name": "Nypefoss bro",
+      "latitude": 59.937953,
+      "longitude": 10.426174
+    },
+    {
+      "name": "Nøkkeland bru",
+      "latitude": 59.470465,
+      "longitude": 10.700781
+    },
+    {
+      "name": "Nøklegård bru",
+      "latitude": 59.431968,
+      "longitude": 10.363655
+    },
+    {
+      "name": "Nørvasund Bru",
+      "latitude": 62.470198,
+      "longitude": 6.243117
+    },
+    {
+      "name": "Oda Kroghs bru",
+      "latitude": 59.906439,
+      "longitude": 10.75483
+    },
+    {
+      "name": "Olderfjord bru",
+      "latitude": 70.472617,
+      "longitude": 25.073069
+    },
+    {
+      "name": "Olsnes",
+      "latitude": 60.490421,
+      "longitude": 5.669525
+    },
+    {
+      "name": "Ommangsvollen overgangsbru",
+      "latitude": 60.802008,
+      "longitude": 11.290692
+    },
+    {
+      "name": "Omsundbrua",
+      "latitude": 63.105669,
+      "longitude": 7.821251
+    },
+    {
+      "name": "Ore",
+      "latitude": 58.107915,
+      "longitude": 6.642868
+    },
+    {
+      "name": "Orkla bru",
+      "latitude": 62.725035,
+      "longitude": 9.997027
+    },
+    {
+      "name": "Ormerud bru",
+      "latitude": 59.613451,
+      "longitude": 11.018713
+    },
+    {
+      "name": "Ormsundbrua",
+      "latitude": 59.879425,
+      "longitude": 10.764714
+    },
+    {
+      "name": "Osanpollen bru",
+      "latitude": 68.236266,
+      "longitude": 14.547553
+    },
+    {
+      "name": "Osenbrui",
+      "latitude": 61.227809,
+      "longitude": 7.104259
+    },
+    {
+      "name": "Osterøybrua",
+      "latitude": 60.424983,
+      "longitude": 5.536616
+    },
+    {
+      "name": "Otermoen bru",
+      "latitude": 69.820088,
+      "longitude": 25.156997
+    },
+    {
+      "name": "Parkbrua",
+      "latitude": 61.5965,
+      "longitude": 9.732652
+    },
+    {
+      "name": "Parkodden bru",
+      "latitude": 59.950661,
+      "longitude": 11.008846
+    },
+    {
+      "name": "Patterød bru",
+      "latitude": 59.44533,
+      "longitude": 10.701232
+    },
+    {
+      "name": "Paulertjønnbrua",
+      "latitude": 59.064315,
+      "longitude": 9.940398
+    },
+    {
+      "name": "Pirbrua",
+      "latitude": 63.437843,
+      "longitude": 10.409778
+    },
+    {
+      "name": "Prestbekk",
+      "latitude": 58.156659,
+      "longitude": 6.803908
+    },
+    {
+      "name": "Prestmyra bru",
+      "latitude": 60.895973,
+      "longitude": 11.5844
+    },
+    {
+      "name": "Prestvatn",
+      "latitude": 58.100357,
+      "longitude": 6.697122
+    },
+    {
+      "name": "Puddefjordsbroen",
+      "latitude": 60.383646,
+      "longitude": 5.316466
+    },
+    {
+      "name": "Raknes",
+      "latitude": 60.554121,
+      "longitude": 5.424018
+    },
+    {
+      "name": "Rampestreken",
+      "latitude": 62.560765,
+      "longitude": 7.712572
+    },
+    {
+      "name": "Ramsdalen bru",
+      "latitude": 58.070785,
+      "longitude": 7.566313
+    },
+    {
+      "name": "Randklev jernbanebru",
+      "latitude": 61.51902,
+      "longitude": 10.14265
+    },
+    {
+      "name": "Randselva bru",
+      "latitude": 60.218611,
+      "longitude": 10.362342
+    },
+    {
+      "name": "Ranembrua",
+      "latitude": 64.491325,
+      "longitude": 11.951012
+    },
+    {
+      "name": "Reitaplassbrua",
+      "latitude": 62.750332,
+      "longitude": 7.261072
+    },
+    {
+      "name": "Rekve bru",
+      "latitude": 60.628549,
+      "longitude": 6.314872
+    },
+    {
+      "name": "Rensviksundbrua",
+      "latitude": 63.102222,
+      "longitude": 7.820369
+    },
+    {
+      "name": "Repparfjordbrua",
+      "latitude": 70.445235,
+      "longitude": 24.331725
+    },
+    {
+      "name": "Repparfjordelv bru",
+      "latitude": 70.444981,
+      "longitude": 24.333168
+    },
+    {
+      "name": "Reppebrua",
+      "latitude": 63.422609,
+      "longitude": 10.540516
+    },
+    {
+      "name": "Revheim",
+      "latitude": 60.509111,
+      "longitude": 5.50191
+    },
+    {
+      "name": "Ringdal bru vest",
+      "latitude": 59.114429,
+      "longitude": 10.119785
+    },
+    {
+      "name": "Ringdal bru øst",
+      "latitude": 59.114308,
+      "longitude": 10.119979
+    },
+    {
+      "name": "Ringdalskogen bru",
+      "latitude": 59.110953,
+      "longitude": 10.112394
+    },
+    {
+      "name": "Riste I",
+      "latitude": 61.131449,
+      "longitude": 8.851309
+    },
+    {
+      "name": "Riste bru",
+      "latitude": 61.13182,
+      "longitude": 8.851695
+    },
+    {
+      "name": "Risøy bru",
+      "latitude": 59.410752,
+      "longitude": 5.268904
+    },
+    {
+      "name": "Rogstadbakken bru",
+      "latitude": 59.663148,
+      "longitude": 9.642445
+    },
+    {
+      "name": "Rolland",
+      "latitude": 60.472658,
+      "longitude": 5.528746
+    },
+    {
+      "name": "Rolvsøysund bro",
+      "latitude": 59.269419,
+      "longitude": 11.02432
+    },
+    {
+      "name": "Rombaksbrua",
+      "latitude": 68.441486,
+      "longitude": 17.705196
+    },
+    {
+      "name": "Rongesundet bru",
+      "latitude": 60.49685,
+      "longitude": 4.932032
+    },
+    {
+      "name": "Rosnabrua",
+      "latitude": 66.981996,
+      "longitude": 15.830123
+    },
+    {
+      "name": "Rostenbrua",
+      "latitude": 63.362951,
+      "longitude": 10.374416
+    },
+    {
+      "name": "Rostengangbrua",
+      "latitude": 63.36319,
+      "longitude": 10.376544
+    },
+    {
+      "name": "Rotvollbrua",
+      "latitude": 63.431275,
+      "longitude": 10.489004
+    },
+    {
+      "name": "Rotvollhaugbrua",
+      "latitude": 63.431944,
+      "longitude": 10.473898
+    },
+    {
+      "name": "Rotvollkryssbrua nord",
+      "latitude": 63.430918,
+      "longitude": 10.487542
+    },
+    {
+      "name": "Rotvollkryssbrua sør",
+      "latitude": 63.430554,
+      "longitude": 10.486641
+    },
+    {
+      "name": "Rullestol bru",
+      "latitude": 59.583163,
+      "longitude": 11.164365
+    },
+    {
+      "name": "Rullestolrampe",
+      "latitude": 59.589274,
+      "longitude": 11.178703
+    },
+    {
+      "name": "Rundebrua",
+      "latitude": 62.380128,
+      "longitude": 5.627614
+    },
+    {
+      "name": "Russelv bru",
+      "latitude": 70.617918,
+      "longitude": 24.69272
+    },
+    {
+      "name": "Ruså bru",
+      "latitude": 59.626082,
+      "longitude": 7.804539
+    },
+    {
+      "name": "Rådhusbrua",
+      "latitude": 59.433888,
+      "longitude": 10.654876
+    },
+    {
+      "name": "Rånåsfoss Bru",
+      "latitude": 60.030989,
+      "longitude": 11.328308
+    },
+    {
+      "name": "Rælingsbrua",
+      "latitude": 59.952279,
+      "longitude": 11.037487
+    },
+    {
+      "name": "Rødbrua",
+      "latitude": 69.649255,
+      "longitude": 19.007129
+    },
+    {
+      "name": "Rødbølbrua vest",
+      "latitude": 59.102432,
+      "longitude": 10.098119
+    },
+    {
+      "name": "Rødbølbrua øst",
+      "latitude": 59.102288,
+      "longitude": 10.098254
+    },
+    {
+      "name": "Rødsund bru",
+      "latitude": 59.460339,
+      "longitude": 10.766088
+    },
+    {
+      "name": "Røe bru",
+      "latitude": 63.791721,
+      "longitude": 11.811885
+    },
+    {
+      "name": "Røssøystraumbrua",
+      "latitude": 68.084688,
+      "longitude": 13.187576
+    },
+    {
+      "name": "Saggrenda bru",
+      "latitude": 59.622736,
+      "longitude": 9.611663
+    },
+    {
+      "name": "Sagvollen",
+      "latitude": 59.558308,
+      "longitude": 9.634214
+    },
+    {
+      "name": "Sandafossbrua",
+      "latitude": 61.32325,
+      "longitude": 5.776907
+    },
+    {
+      "name": "Sandbakkbrua",
+      "latitude": 63.338878,
+      "longitude": 10.361775
+    },
+    {
+      "name": "Sandfærhusbrua",
+      "latitude": 63.448621,
+      "longitude": 10.902458
+    },
+    {
+      "name": "Sandhornøy bru",
+      "latitude": 67.062511,
+      "longitude": 14.247113
+    },
+    {
+      "name": "Sandmo bru",
+      "latitude": 64.461225,
+      "longitude": 12.065185
+    },
+    {
+      "name": "Sandmoen bru",
+      "latitude": 63.333562,
+      "longitude": 10.356437
+    },
+    {
+      "name": "Sandnessundbrua",
+      "latitude": 69.691345,
+      "longitude": 18.900614
+    },
+    {
+      "name": "Sandsfjordbrua",
+      "latitude": 59.408966,
+      "longitude": 6.125011
+    },
+    {
+      "name": "Sandsli Viadukt",
+      "latitude": 60.295828,
+      "longitude": 5.283815
+    },
+    {
+      "name": "Sandved bru",
+      "latitude": 58.840632,
+      "longitude": 5.72492
+    },
+    {
+      "name": "Sanner bro",
+      "latitude": 59.995686,
+      "longitude": 10.78895
+    },
+    {
+      "name": "Sannerbrua",
+      "latitude": 59.928258,
+      "longitude": 10.755162
+    },
+    {
+      "name": "Sannesundbroen",
+      "latitude": 59.272937,
+      "longitude": 11.092404
+    },
+    {
+      "name": "Sarpebrua",
+      "latitude": 59.276638,
+      "longitude": 11.132079
+    },
+    {
+      "name": "Saupstadbrua",
+      "latitude": 63.364106,
+      "longitude": 10.364636
+    },
+    {
+      "name": "Seierstadbrua vest",
+      "latitude": 59.096804,
+      "longitude": 10.087554
+    },
+    {
+      "name": "Seierstadbrua øst",
+      "latitude": 59.096845,
+      "longitude": 10.088179
+    },
+    {
+      "name": "Sem bro",
+      "latitude": 59.851719,
+      "longitude": 10.421746
+    },
+    {
+      "name": "Seming",
+      "latitude": 59.602982,
+      "longitude": 9.791223
+    },
+    {
+      "name": "Sentervegbrua",
+      "latitude": 63.360463,
+      "longitude": 10.374042
+    },
+    {
+      "name": "Sevaldstad I",
+      "latitude": 60.701383,
+      "longitude": 6.113739
+    },
+    {
+      "name": "Sevaldstad II",
+      "latitude": 60.703837,
+      "longitude": 6.116552
+    },
+    {
+      "name": "Skaftå",
+      "latitude": 60.45657,
+      "longitude": 5.620926
+    },
+    {
+      "name": "Skaidielv bru",
+      "latitude": 70.430172,
+      "longitude": 24.500705
+    },
+    {
+      "name": "Skamsar bru",
+      "latitude": 61.890885,
+      "longitude": 8.251816
+    },
+    {
+      "name": "Skansen bru",
+      "latitude": 63.431681,
+      "longitude": 10.379663
+    },
+    {
+      "name": "Skarnsundbrua",
+      "latitude": 63.842737,
+      "longitude": 11.073196
+    },
+    {
+      "name": "Skarnsundbrua",
+      "latitude": 63.843033,
+      "longitude": 11.074457
+    },
+    {
+      "name": "Skarvøy bru",
+      "latitude": 58.030669,
+      "longitude": 7.468714
+    },
+    {
+      "name": "Skaug bro",
+      "latitude": 59.635087,
+      "longitude": 10.945129
+    },
+    {
+      "name": "Skibrua",
+      "latitude": 69.680447,
+      "longitude": 18.958542
+    },
+    {
+      "name": "Skillingsmyrbrua",
+      "latitude": 59.076837,
+      "longitude": 9.864636
+    },
+    {
+      "name": "Skinsnes bru",
+      "latitude": 58.029928,
+      "longitude": 7.474502
+    },
+    {
+      "name": "Skittenelv bru",
+      "latitude": 69.777699,
+      "longitude": 19.385328
+    },
+    {
+      "name": "Skjeggestad bru vest",
+      "latitude": 59.471444,
+      "longitude": 10.292894
+    },
+    {
+      "name": "Skjeggestad bru øst",
+      "latitude": 59.471584,
+      "longitude": 10.293048
+    },
+    {
+      "name": "Skjelnan bru",
+      "latitude": 69.696561,
+      "longitude": 19.08135
+    },
+    {
+      "name": "Skjoldastraumen",
+      "latitude": 59.429604,
+      "longitude": 5.62334
+    },
+    {
+      "name": "Skjoldastraumen II",
+      "latitude": 59.429022,
+      "longitude": 5.623277
+    },
+    {
+      "name": "Skjolden bru",
+      "latitude": 59.578866,
+      "longitude": 11.135724
+    },
+    {
+      "name": "Skjomenbrua",
+      "latitude": 68.371024,
+      "longitude": 17.243795
+    },
+    {
+      "name": "Skjøtøybrua",
+      "latitude": 63.463415,
+      "longitude": 8.00143
+    },
+    {
+      "name": "Skomakerbrua",
+      "latitude": 63.117647,
+      "longitude": 7.74941
+    },
+    {
+      "name": "Skomakerkulverten nord",
+      "latitude": 63.117777,
+      "longitude": 7.748797
+    },
+    {
+      "name": "Skomsøyvågbrua",
+      "latitude": 63.391672,
+      "longitude": 7.822005
+    },
+    {
+      "name": "Skorpabrua",
+      "latitude": 63.12614,
+      "longitude": 7.760883
+    },
+    {
+      "name": "Skotselv bru",
+      "latitude": 59.84313,
+      "longitude": 9.897801
+    },
+    {
+      "name": "Skuggen Bru",
+      "latitude": 62.470004,
+      "longitude": 6.241833
+    },
+    {
+      "name": "Skyttenbrua",
+      "latitude": 59.86075,
+      "longitude": 10.912074
+    },
+    {
+      "name": "Skåran bru",
+      "latitude": 58.029983,
+      "longitude": 7.468498
+    },
+    {
+      "name": "Skøyen bru",
+      "latitude": 59.608854,
+      "longitude": 11.029902
+    },
+    {
+      "name": "Slattum bru",
+      "latitude": 60.007666,
+      "longitude": 10.931391
+    },
+    {
+      "name": "Sluppen Viadukt",
+      "latitude": 63.399996,
+      "longitude": 10.394815
+    },
+    {
+      "name": "Sluppenbrua",
+      "latitude": 63.395655,
+      "longitude": 10.386746
+    },
+    {
+      "name": "Smalsundbrua",
+      "latitude": 63.260914,
+      "longitude": 8.49912
+    },
+    {
+      "name": "Smed",
+      "latitude": 60.454053,
+      "longitude": 5.529526
+    },
+    {
+      "name": "Småland",
+      "latitude": 60.514942,
+      "longitude": 5.445259
+    },
+    {
+      "name": "Smålenene bru",
+      "latitude": 59.59286,
+      "longitude": 11.091856
+    },
+    {
+      "name": "Småpudden",
+      "latitude": 60.380814,
+      "longitude": 5.325167
+    },
+    {
+      "name": "Smørfjord bru",
+      "latitude": 70.501388,
+      "longitude": 25.039976
+    },
+    {
+      "name": "Sognleia",
+      "latitude": 63.988832,
+      "longitude": 11.545212
+    },
+    {
+      "name": "Solbjørg",
+      "latitude": 60.503906,
+      "longitude": 5.538199
+    },
+    {
+      "name": "Soleimsundbrua",
+      "latitude": 63.20787,
+      "longitude": 8.160981
+    },
+    {
+      "name": "Solemdalbrua",
+      "latitude": 62.736837,
+      "longitude": 7.164135
+    },
+    {
+      "name": "Solum bru",
+      "latitude": 59.468579,
+      "longitude": 10.314585
+    },
+    {
+      "name": "Solumbrua",
+      "latitude": 59.073942,
+      "longitude": 9.874595
+    },
+    {
+      "name": "Solveien bru",
+      "latitude": 59.86867,
+      "longitude": 10.788749
+    },
+    {
+      "name": "Sonsveien bru",
+      "latitude": 59.516629,
+      "longitude": 10.724937
+    },
+    {
+      "name": "Spikerbukta bru",
+      "latitude": 59.270539,
+      "longitude": 11.089551
+    },
+    {
+      "name": "Spildra bru",
+      "latitude": 66.860009,
+      "longitude": 13.725242
+    },
+    {
+      "name": "Sprang bru",
+      "latitude": 63.708624,
+      "longitude": 11.350355
+    },
+    {
+      "name": "Spydebergbrua",
+      "latitude": 59.598573,
+      "longitude": 11.072321
+    },
+    {
+      "name": "St Olavs bru",
+      "latitude": 63.657327,
+      "longitude": 12.156078
+    },
+    {
+      "name": "St Olavs bru",
+      "latitude": 63.657862,
+      "longitude": 12.152127
+    },
+    {
+      "name": "St. Mariegate bru",
+      "latitude": 59.278563,
+      "longitude": 11.129315
+    },
+    {
+      "name": "Stabburselv bru",
+      "latitude": 70.181904,
+      "longitude": 24.908221
+    },
+    {
+      "name": "Stampe bru",
+      "latitude": 61.118669,
+      "longitude": 10.474562
+    },
+    {
+      "name": "Stangebrua",
+      "latitude": 60.787893,
+      "longitude": 11.097843
+    },
+    {
+      "name": "Stasjonsbrua",
+      "latitude": 63.788814,
+      "longitude": 11.48501
+    },
+    {
+      "name": "Stasjonsveien bru",
+      "latitude": 59.94819,
+      "longitude": 11.003587
+    },
+    {
+      "name": "Statsrådvegen",
+      "latitude": 60.275028,
+      "longitude": 11.150123
+    },
+    {
+      "name": "Stavnebrua",
+      "latitude": 63.412538,
+      "longitude": 10.395397
+    },
+    {
+      "name": "Steinbruna",
+      "latitude": 58.111348,
+      "longitude": 6.764531
+    },
+    {
+      "name": "Stene bru",
+      "latitude": 63.748542,
+      "longitude": 11.729885
+    },
+    {
+      "name": "Stensby bru",
+      "latitude": 60.818065,
+      "longitude": 11.302096
+    },
+    {
+      "name": "Stokkanbrua",
+      "latitude": 63.410101,
+      "longitude": 10.47605
+    },
+    {
+      "name": "Stokke",
+      "latitude": 60.453524,
+      "longitude": 5.511901
+    },
+    {
+      "name": "Stokko",
+      "latitude": 60.447712,
+      "longitude": 5.61122
+    },
+    {
+      "name": "Storbrua",
+      "latitude": 61.158012,
+      "longitude": 10.39241
+    },
+    {
+      "name": "Store Skallelv bru",
+      "latitude": 70.185831,
+      "longitude": 30.328515
+    },
+    {
+      "name": "Storebog bru",
+      "latitude": 59.428082,
+      "longitude": 10.706323
+    },
+    {
+      "name": "Storebro",
+      "latitude": 59.438936,
+      "longitude": 10.669506
+    },
+    {
+      "name": "Storegrova I",
+      "latitude": 60.743908,
+      "longitude": 6.14212
+    },
+    {
+      "name": "Storo bru",
+      "latitude": 59.945259,
+      "longitude": 10.778457
+    },
+    {
+      "name": "Storøya broen",
+      "latitude": 60.052233,
+      "longitude": 10.275413
+    },
+    {
+      "name": "Strand stoppested",
+      "latitude": 59.904793,
+      "longitude": 10.596273
+    },
+    {
+      "name": "Strandbrua",
+      "latitude": 59.746611,
+      "longitude": 10.240176
+    },
+    {
+      "name": "Strandgatebrua",
+      "latitude": 62.737612,
+      "longitude": 7.164153
+    },
+    {
+      "name": "Strandheim bru",
+      "latitude": 60.400114,
+      "longitude": 11.237162
+    },
+    {
+      "name": "Strandtorget bru",
+      "latitude": 61.116454,
+      "longitude": 10.445972
+    },
+    {
+      "name": "Straumanbrua",
+      "latitude": 65.970206,
+      "longitude": 13.42726
+    },
+    {
+      "name": "Straumen",
+      "latitude": 58.114947,
+      "longitude": 6.747157
+    },
+    {
+      "name": "Straumen Bru",
+      "latitude": 70.618046,
+      "longitude": 29.689674
+    },
+    {
+      "name": "Straumen bru",
+      "latitude": 68.736441,
+      "longitude": 16.245381
+    },
+    {
+      "name": "Strindvegen bru",
+      "latitude": 63.412952,
+      "longitude": 10.408148
+    },
+    {
+      "name": "Stryken bru",
+      "latitude": 60.024692,
+      "longitude": 9.848892
+    },
+    {
+      "name": "Strømmen bru",
+      "latitude": 70.618019,
+      "longitude": 29.689421
+    },
+    {
+      "name": "Strømsøbrua",
+      "latitude": 59.736787,
+      "longitude": 10.214568
+    },
+    {
+      "name": "Styggedal brua",
+      "latitude": 59.345014,
+      "longitude": 11.263193
+    },
+    {
+      "name": "Sundbrua",
+      "latitude": 60.328076,
+      "longitude": 11.255261
+    },
+    {
+      "name": "Sundbrua",
+      "latitude": 63.746328,
+      "longitude": 11.293636
+    },
+    {
+      "name": "Sundgården bru",
+      "latitude": 61.15258,
+      "longitude": 10.404036
+    },
+    {
+      "name": "Sundklakkstraumen bru",
+      "latitude": 68.268259,
+      "longitude": 14.154948
+    },
+    {
+      "name": "Superbbrua",
+      "latitude": 62.73672,
+      "longitude": 7.164126
+    },
+    {
+      "name": "Svenådalen bru",
+      "latitude": 60.233337,
+      "longitude": 10.427941
+    },
+    {
+      "name": "Svinesundsbrua",
+      "latitude": 59.092482,
+      "longitude": 11.252326
+    },
+    {
+      "name": "Svingbrua",
+      "latitude": 63.4319,
+      "longitude": 10.378658
+    },
+    {
+      "name": "Svingbrua",
+      "latitude": 63.432245,
+      "longitude": 10.379768
+    },
+    {
+      "name": "Svinøybrua",
+      "latitude": 68.235452,
+      "longitude": 14.577974
+    },
+    {
+      "name": "Svinøybrua",
+      "latitude": 68.235771,
+      "longitude": 14.57682
+    },
+    {
+      "name": "Sykkylvsbrua",
+      "latitude": 62.384189,
+      "longitude": 6.563803
+    },
+    {
+      "name": "Sámi šaldi / Saamen silta / Samelandsbrua",
+      "latitude": 69.91085,
+      "longitude": 27.031904
+    },
+    {
+      "name": "Såkibrua",
+      "latitude": 67.046988,
+      "longitude": 15.988986
+    },
+    {
+      "name": "Sælid bru",
+      "latitude": 60.805061,
+      "longitude": 11.110851
+    },
+    {
+      "name": "Søeng gangbru",
+      "latitude": 59.568936,
+      "longitude": 11.167995
+    },
+    {
+      "name": "Søndre Imsa bru",
+      "latitude": 61.461261,
+      "longitude": 11.026033
+    },
+    {
+      "name": "Sørbråtabrua",
+      "latitude": 60.01739,
+      "longitude": 10.786107
+    },
+    {
+      "name": "Sørdalen bru I",
+      "latitude": 68.515943,
+      "longitude": 15.743139
+    },
+    {
+      "name": "Sørdalen bru II",
+      "latitude": 68.510533,
+      "longitude": 15.733839
+    },
+    {
+      "name": "Sørdalen bru III",
+      "latitude": 68.506872,
+      "longitude": 15.721428
+    },
+    {
+      "name": "Sørdalen bru IV",
+      "latitude": 68.502436,
+      "longitude": 15.709388
+    },
+    {
+      "name": "Søre Straumsundet bru",
+      "latitude": 60.581789,
+      "longitude": 4.862347
+    },
+    {
+      "name": "Sørenga bru",
+      "latitude": 59.901243,
+      "longitude": 10.760603
+    },
+    {
+      "name": "Sørenga bru",
+      "latitude": 59.901626,
+      "longitude": 10.761814
+    },
+    {
+      "name": "Sørsundbrua",
+      "latitude": 63.106439,
+      "longitude": 7.724754
+    },
+    {
+      "name": "Søyla",
+      "latitude": 60.510068,
+      "longitude": 5.657492
+    },
+    {
+      "name": "Tana Bru",
+      "latitude": 70.19827,
+      "longitude": 28.198949
+    },
+    {
+      "name": "Tangen bru",
+      "latitude": 59.722195,
+      "longitude": 11.055298
+    },
+    {
+      "name": "Tangerud bru",
+      "latitude": 59.948329,
+      "longitude": 10.947144
+    },
+    {
+      "name": "Tansøy bru",
+      "latitude": 61.499861,
+      "longitude": 4.966993
+    },
+    {
+      "name": "Teistholmbrua",
+      "latitude": 63.119721,
+      "longitude": 7.747403
+    },
+    {
+      "name": "Thorbjørnsrød bru",
+      "latitude": 59.433408,
+      "longitude": 10.70523
+    },
+    {
+      "name": "Tillerkryssbrua",
+      "latitude": 63.360343,
+      "longitude": 10.372512
+    },
+    {
+      "name": "Tindbrua",
+      "latitude": 63.787636,
+      "longitude": 11.476806
+    },
+    {
+      "name": "Tinnå bru",
+      "latitude": 59.55885,
+      "longitude": 9.254107
+    },
+    {
+      "name": "Tjedstøstraumen bru",
+      "latitude": 60.590569,
+      "longitude": 4.847783
+    },
+    {
+      "name": "Tolgens bro 1888",
+      "latitude": 62.411023,
+      "longitude": 10.993154
+    },
+    {
+      "name": "Tonstad bru",
+      "latitude": 63.370406,
+      "longitude": 10.379632
+    },
+    {
+      "name": "Torsetsundbrua",
+      "latitude": 63.316392,
+      "longitude": 8.604739
+    },
+    {
+      "name": "Torsetsundbrua",
+      "latitude": 63.317003,
+      "longitude": 8.604263
+    },
+    {
+      "name": "Trappebrua",
+      "latitude": 60.426172,
+      "longitude": 7.251565
+    },
+    {
+      "name": "Treschows bru",
+      "latitude": 59.941122,
+      "longitude": 10.768361
+    },
+    {
+      "name": "Trettenbrua",
+      "latitude": 61.312438,
+      "longitude": 10.300476
+    },
+    {
+      "name": "Trollelva bru",
+      "latitude": 58.887907,
+      "longitude": 9.059083
+    },
+    {
+      "name": "Tromsøbrua",
+      "latitude": 69.650521,
+      "longitude": 18.980432
+    },
+    {
+      "name": "Tromøybrua",
+      "latitude": 58.470834,
+      "longitude": 8.822813
+    },
+    {
+      "name": "Trulse overgangsbru",
+      "latitude": 59.083731,
+      "longitude": 10.057686
+    },
+    {
+      "name": "Tuve Bro 1906",
+      "latitude": 60.386057,
+      "longitude": 9.580725
+    },
+    {
+      "name": "Tveitabrua",
+      "latitude": 60.50408,
+      "longitude": 5.505119
+    },
+    {
+      "name": "Tverlandsbrua",
+      "latitude": 67.30487,
+      "longitude": 14.720101
+    },
+    {
+      "name": "Tverrusselv bru",
+      "latitude": 70.548579,
+      "longitude": 24.880613
+    },
+    {
+      "name": "Tverrveien bru",
+      "latitude": 59.787672,
+      "longitude": 10.799998
+    },
+    {
+      "name": "Tvetenbrua",
+      "latitude": 59.912215,
+      "longitude": 10.826718
+    },
+    {
+      "name": "Tyssebotn",
+      "latitude": 60.618587,
+      "longitude": 5.586764
+    },
+    {
+      "name": "Tønset bru",
+      "latitude": 60.826634,
+      "longitude": 11.29253
+    },
+    {
+      "name": "Tønsvik bru",
+      "latitude": 69.740467,
+      "longitude": 19.167028
+    },
+    {
+      "name": "Ulvedal",
+      "latitude": 60.056956,
+      "longitude": 11.042691
+    },
+    {
+      "name": "Ulvsundet bru",
+      "latitude": 60.518014,
+      "longitude": 4.902473
+    },
+    {
+      "name": "Ulvøybrua",
+      "latitude": 59.87263,
+      "longitude": 10.77766
+    },
+    {
+      "name": "Unnelsrudlina bru",
+      "latitude": 59.668896,
+      "longitude": 10.239339
+    },
+    {
+      "name": "Ustvedt bru",
+      "latitude": 59.709581,
+      "longitude": 10.872356
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 59.78582,
+      "longitude": 10.438974
+    },
+    {
+      "name": "Vadsøya bru",
+      "latitude": 70.069098,
+      "longitude": 29.749883
+    },
+    {
+      "name": "Vaggesteinbrua",
+      "latitude": 60.024977,
+      "longitude": 10.78221
+    },
+    {
+      "name": "Valaskjold bru",
+      "latitude": 59.289558,
+      "longitude": 11.10351
+    },
+    {
+      "name": "Valestrandsfossen",
+      "latitude": 60.505189,
+      "longitude": 5.429408
+    },
+    {
+      "name": "Valle bru",
+      "latitude": 59.924126,
+      "longitude": 10.806702
+    },
+    {
+      "name": "Vassdal",
+      "latitude": 60.51785,
+      "longitude": 5.646703
+    },
+    {
+      "name": "Vassenden",
+      "latitude": 60.647086,
+      "longitude": 5.999489
+    },
+    {
+      "name": "Vassøyferjå",
+      "latitude": 58.973921,
+      "longitude": 5.747416
+    },
+    {
+      "name": "Vaterholmen bru",
+      "latitude": 63.709553,
+      "longitude": 11.876975
+    },
+    {
+      "name": "Vaterlands bru",
+      "latitude": 59.913459,
+      "longitude": 10.758087
+    },
+    {
+      "name": "Vaulbrua",
+      "latitude": 60.632768,
+      "longitude": 5.631657
+    },
+    {
+      "name": "Vegsundbrua",
+      "latitude": 62.432608,
+      "longitude": 6.356725
+    },
+    {
+      "name": "Vennskapsbrua",
+      "latitude": 62.411766,
+      "longitude": 10.990075
+    },
+    {
+      "name": "Verdalsbrua",
+      "latitude": 63.803441,
+      "longitude": 11.4591
+    },
+    {
+      "name": "Verftsbrua",
+      "latitude": 63.435268,
+      "longitude": 10.407194
+    },
+    {
+      "name": "Verpet bru",
+      "latitude": 59.62458,
+      "longitude": 10.733848
+    },
+    {
+      "name": "Veset",
+      "latitude": 60.469605,
+      "longitude": 5.536244
+    },
+    {
+      "name": "Vestby bro",
+      "latitude": 59.724487,
+      "longitude": 11.041837
+    },
+    {
+      "name": "Vesteng bru",
+      "latitude": 59.570545,
+      "longitude": 11.166585
+    },
+    {
+      "name": "Vestlivegen Bru",
+      "latitude": 59.803009,
+      "longitude": 5.511035
+    },
+    {
+      "name": "Vestre Hobekkbrua",
+      "latitude": 59.070337,
+      "longitude": 9.901254
+    },
+    {
+      "name": "Vestre Jakobselv bru",
+      "latitude": 70.112218,
+      "longitude": 29.329412
+    },
+    {
+      "name": "Vettastraumen bru",
+      "latitude": 63.637789,
+      "longitude": 8.781765
+    },
+    {
+      "name": "Vevleelv",
+      "latitude": 60.507847,
+      "longitude": 5.498808
+    },
+    {
+      "name": "Viadukta (Øvre Vågen)",
+      "latitude": 63.122553,
+      "longitude": 7.727488
+    },
+    {
+      "name": "Villelibrua",
+      "latitude": 60.180377,
+      "longitude": 5.451734
+    },
+    {
+      "name": "Vines bru",
+      "latitude": 59.532573,
+      "longitude": 10.749372
+    },
+    {
+      "name": "Vingnes bru",
+      "latitude": 61.10509,
+      "longitude": 10.442266
+    },
+    {
+      "name": "Vingnesbrua",
+      "latitude": 61.107682,
+      "longitude": 10.455322
+    },
+    {
+      "name": "Vingnesbrua",
+      "latitude": 61.107878,
+      "longitude": 10.456639
+    },
+    {
+      "name": "Vinje bru",
+      "latitude": 59.621522,
+      "longitude": 7.820875
+    },
+    {
+      "name": "Vinstra bru",
+      "latitude": 61.588111,
+      "longitude": 9.740254
+    },
+    {
+      "name": "Vinterveibrua",
+      "latitude": 63.356504,
+      "longitude": 10.37156
+    },
+    {
+      "name": "Vollan bru",
+      "latitude": 69.219155,
+      "longitude": 19.558147
+    },
+    {
+      "name": "Vollane",
+      "latitude": 59.463208,
+      "longitude": 9.842109
+    },
+    {
+      "name": "Vormsundbrua",
+      "latitude": 60.154166,
+      "longitude": 11.417335
+    },
+    {
+      "name": "Vågen bru",
+      "latitude": 60.551525,
+      "longitude": 5.73445
+    },
+    {
+      "name": "Vårsetervegen bru",
+      "latitude": 61.100607,
+      "longitude": 10.506883
+    },
+    {
+      "name": "Værnes bru",
+      "latitude": 63.451498,
+      "longitude": 10.908662
+    },
+    {
+      "name": "Vøringsfoss bru",
+      "latitude": 60.424247,
+      "longitude": 7.250701
+    },
+    {
+      "name": "Vøyenbrua",
+      "latitude": 59.933313,
+      "longitude": 10.757368
+    },
+    {
+      "name": "Ypsilon",
+      "latitude": 59.744595,
+      "longitude": 10.195468
+    },
+    {
+      "name": "Zinoberbrua",
+      "latitude": 59.984464,
+      "longitude": 10.621558
+    },
+    {
+      "name": "Ålborgvegen bru",
+      "latitude": 60.316327,
+      "longitude": 11.240064
+    },
+    {
+      "name": "Åmodt bru",
+      "latitude": 59.92629,
+      "longitude": 10.752961
+    },
+    {
+      "name": "Åmot bru",
+      "latitude": 60.018605,
+      "longitude": 10.615845
+    },
+    {
+      "name": "Ånestad bru",
+      "latitude": 60.846045,
+      "longitude": 11.359385
+    },
+    {
+      "name": "Ånestad g-s bru",
+      "latitude": 60.846134,
+      "longitude": 11.359334
+    },
+    {
+      "name": "Ånestad overgangsbru",
+      "latitude": 60.848808,
+      "longitude": 11.370107
+    },
+    {
+      "name": "Årgård bru",
+      "latitude": 64.274516,
+      "longitude": 11.193276
+    },
+    {
+      "name": "Årnes Bru",
+      "latitude": 60.123708,
+      "longitude": 11.458692
+    },
+    {
+      "name": "Årvollbrua",
+      "latitude": 59.414777,
+      "longitude": 10.700864
+    },
+    {
+      "name": "Årøbrua",
+      "latitude": 62.748088,
+      "longitude": 7.260685
+    },
+    {
+      "name": "Årødalsbrua",
+      "latitude": 62.761553,
+      "longitude": 7.27459
+    },
+    {
+      "name": "Øhre bru",
+      "latitude": 59.236496,
+      "longitude": 10.437172
+    },
+    {
+      "name": "Ønna bru",
+      "latitude": 59.111208,
+      "longitude": 9.799638
+    },
+    {
+      "name": "Ørbrua",
+      "latitude": 63.790912,
+      "longitude": 11.475211
+    },
+    {
+      "name": "Østensjøbrua",
+      "latitude": 59.880994,
+      "longitude": 10.831615
+    },
+    {
+      "name": "Østli bru",
+      "latitude": 59.786569,
+      "longitude": 10.804322
+    },
+    {
+      "name": "Østmarksportalen",
+      "latitude": 59.864825,
+      "longitude": 10.845503
+    },
+    {
+      "name": "Østnesbrua",
+      "latitude": 63.77561,
+      "longitude": 11.730509
+    },
+    {
+      "name": "Østre Hobekkbrua",
+      "latitude": 59.068981,
+      "longitude": 9.912981
+    },
+    {
+      "name": "Øvre Sund bru",
+      "latitude": 59.745292,
+      "longitude": 10.190676
+    },
+    {
+      "name": "Øvre Vrangen bro",
+      "latitude": 59.42997,
+      "longitude": 10.710843
+    },
+    {
+      "name": "Øvre bru",
+      "latitude": 62.738737,
+      "longitude": 7.166349
+    },
+    {
+      "name": "Øye bru",
+      "latitude": 62.97918,
+      "longitude": 8.721297
+    },
+    {
+      "name": "Øyer Bru",
+      "latitude": 61.261934,
+      "longitude": 10.410498
+    }
+  ],
+  "meta": {
+    "title": "Named bridges in Norway - Gratis nedlasting",
+    "description": "Named bridges in Norway, derived from OpenStreetMap POI nodes tagged man_made=bridge in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 722 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named bridges in Norway | ListBase",
+    "seo_description": "Last ned Named bridges in Norway — 722 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 722 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

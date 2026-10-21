@@ -1,0 +1,106 @@
+{
+  "id": "no-maaleenheter-force",
+  "name": "Maaleenheter: force (4)",
+  "title": "Maaleenheter: force (4)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'force'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "force-kilogram-force",
+      "kategori": "force",
+      "navn": "kilopond",
+      "moenster_en": "{0} kilopond",
+      "moenster_flere": "{0} kilopond",
+      "kort_moenster": "{0} kp",
+      "smal_moenster": "{0} kp"
+    },
+    {
+      "id": 2,
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "kategori": "force",
+      "navn": "kWh per 100 km",
+      "moenster_en": "{0} kWh per 100 km",
+      "moenster_flere": "{0} kWh per 100 km",
+      "kort_moenster": "{0} kWh/100 km",
+      "smal_moenster": "{0}kWh/100km"
+    },
+    {
+      "id": 3,
+      "unit_code": "force-newton",
+      "kategori": "force",
+      "navn": "newton",
+      "moenster_en": "{0} newton",
+      "moenster_flere": "{0} newton",
+      "kort_moenster": "{0} N",
+      "smal_moenster": "{0}N"
+    },
+    {
+      "id": 4,
+      "unit_code": "force-pound-force",
+      "kategori": "force",
+      "navn": "pound-force",
+      "moenster_en": "{0} pound-force",
+      "moenster_flere": "{0} pound-force",
+      "kort_moenster": "{0} lbf",
+      "smal_moenster": "{0}lbf"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: force (4) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'force'. Inneholder 4 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: force (4) | ListBase",
+    "seo_description": "Last ned Maaleenheter: force (4) — 4 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 4 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

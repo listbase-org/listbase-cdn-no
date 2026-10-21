@@ -1,0 +1,106 @@
+{
+  "id": "no-maaleenheter-light",
+  "name": "Maaleenheter: light (4)",
+  "title": "Maaleenheter: light (4)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'light'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "light-candela",
+      "kategori": "light",
+      "navn": "candela",
+      "moenster_en": "{0} candela",
+      "moenster_flere": "{0} candela",
+      "kort_moenster": "{0} cd",
+      "smal_moenster": "{0} cd"
+    },
+    {
+      "id": 2,
+      "unit_code": "light-lumen",
+      "kategori": "light",
+      "navn": "lumen",
+      "moenster_en": "{0} lumen",
+      "moenster_flere": "{0} lumen",
+      "kort_moenster": "{0} lm",
+      "smal_moenster": "{0}lm"
+    },
+    {
+      "id": 3,
+      "unit_code": "light-lux",
+      "kategori": "light",
+      "navn": "lux",
+      "moenster_en": "{0} lux",
+      "moenster_flere": "{0} lux",
+      "kort_moenster": "{0} lx",
+      "smal_moenster": "{0}lx"
+    },
+    {
+      "id": 4,
+      "unit_code": "light-solar-luminosity",
+      "kategori": "light",
+      "navn": "solluminositet",
+      "moenster_en": "",
+      "moenster_flere": "{0} L☉",
+      "kort_moenster": "{0} L☉",
+      "smal_moenster": "{0}L☉"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: light (4) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'light'. Inneholder 4 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: light (4) | ListBase",
+    "seo_description": "Last ned Maaleenheter: light (4) — 4 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 4 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,5120 @@
+{
+  "id": "no-oslo-postnummer",
+  "name": "Postnummer i Oslo",
+  "title": "Postnummer i Oslo",
+  "description": "Alle 633 postnummer i Oslo kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 633,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "0001",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0010",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0015",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0018",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0021",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0024",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0026",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0028",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0030",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0032",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0033",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0034",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0037",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0040",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0045",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0046",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0047",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0048",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0050",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0055",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0101",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0102",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0103",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0104",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0105",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0106",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0107",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0109",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0110",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0111",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0112",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0113",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0114",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0115",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0116",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0117",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0118",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0119",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0120",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0121",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0122",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0123",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0124",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0125",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0129",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0130",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0131",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0132",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0133",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0134",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0135",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0136",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0138",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0139",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0140",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0150",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0151",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0152",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0153",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0154",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0155",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0157",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0158",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0159",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0160",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0161",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0162",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0164",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0165",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0166",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0167",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0168",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0169",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0170",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0171",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0172",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0173",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0174",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0175",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0176",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0177",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0178",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0179",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0180",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0181",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0182",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0183",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0184",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0185",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0186",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0187",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0188",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0190",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0191",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0192",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0193",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0194",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0195",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0196",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0198",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0201",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0202",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0203",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0204",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0207",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0208",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0211",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0212",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0213",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0214",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0215",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0216",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0217",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0218",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0230",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0240",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0244",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0247",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0250",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0251",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0252",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0253",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0254",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0255",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0256",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0257",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0258",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0259",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0260",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0262",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0263",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0264",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0265",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0266",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0267",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0268",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0270",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0271",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0272",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0273",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0274",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0275",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0276",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0277",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0278",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0279",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0280",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0281",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0282",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0283",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0284",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0286",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0287",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0301",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0302",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0303",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0304",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0305",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0306",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0307",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0308",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0309",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0311",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0313",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0314",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0315",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0316",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0317",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0318",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0319",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0323",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0330",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0340",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0349",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0350",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0351",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0352",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0353",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0354",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0355",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0356",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0357",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0358",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0359",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0360",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0361",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0362",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0363",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0364",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0365",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0366",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0367",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0368",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0369",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0370",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0371",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0372",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0373",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0374",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0375",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0376",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0377",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0378",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0379",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0380",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0381",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0382",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0383",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0401",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0402",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0403",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0404",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0405",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0406",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0409",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0410",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0411",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0412",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0413",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0415",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0421",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0422",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0423",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0424",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0440",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0441",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0442",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0445",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0450",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0451",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0452",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0454",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0455",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0456",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0457",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0458",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0459",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0460",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0461",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0462",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0463",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0464",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0465",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0467",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0468",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0469",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0470",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0472",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0473",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0474",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0475",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0476",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0477",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0478",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0479",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0480",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0481",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0482",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0483",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0484",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0485",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0486",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0487",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0488",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0489",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0490",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0491",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0492",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0493",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0494",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0495",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0496",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0501",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0502",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0503",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0504",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0505",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0506",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0507",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0508",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0509",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0510",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0511",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0512",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0513",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0515",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0516",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0517",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0518",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0520",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0540",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0550",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0551",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0552",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0553",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0554",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0555",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0556",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0557",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0558",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0559",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0560",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0561",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0562",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0563",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0564",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0565",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0566",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0567",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0568",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0569",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0570",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0571",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0572",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0573",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0574",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0575",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0576",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0577",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0578",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0579",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0580",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0581",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0582",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0583",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0584",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0585",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0586",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0587",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0588",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0589",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0590",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0591",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0592",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0593",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0594",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0595",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0596",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0597",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0598",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0601",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0602",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0603",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0604",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0605",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0606",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0607",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0608",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0609",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0611",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0612",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0613",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0614",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0615",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0616",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0617",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0618",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0619",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0620",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0621",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0622",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0623",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0624",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0626",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0650",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0651",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0652",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0653",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0654",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0655",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0656",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0657",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0658",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0659",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0660",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0661",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0662",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0663",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0664",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0665",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0666",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0667",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0668",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0669",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0670",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0671",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0672",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0673",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0674",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0675",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0676",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0677",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0678",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0679",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0680",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0681",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0682",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0683",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0684",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0685",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0686",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0687",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0688",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0689",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0690",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0691",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0692",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0693",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0694",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0701",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0702",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0705",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0710",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0712",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0750",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0751",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0752",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0753",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0754",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0755",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0756",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0757",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0758",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0760",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0763",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0764",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0765",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0766",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0767",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0768",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0770",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0771",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0772",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0773",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0774",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0775",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0776",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0777",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0778",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0779",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0781",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0782",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0783",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0784",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0785",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0786",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0787",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0788",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0789",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0790",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0791",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0801",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0805",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0806",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0807",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0840",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0850",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0851",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0852",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0853",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0854",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0855",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0856",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0857",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0858",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0860",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0861",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0862",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0863",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0864",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0870",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0871",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0872",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0873",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0874",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0875",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0876",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0877",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0880",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0881",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0882",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0883",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0884",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0890",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0891",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0901",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0902",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0903",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0904",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0905",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0907",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0908",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0913",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0914",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0915",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0950",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0951",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0952",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0953",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0954",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0955",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0956",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0957",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0958",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0959",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0960",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0962",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0963",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0964",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0968",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0969",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0970",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0971",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0972",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0973",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0975",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0976",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0977",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0978",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0979",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0980",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0981",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0982",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0983",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0984",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0985",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0986",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0987",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "0988",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1001",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1003",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1005",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1006",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1007",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1008",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1009",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1011",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1051",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1052",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1053",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1054",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1055",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1056",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1061",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1062",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1063",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1064",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1065",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1067",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1068",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1069",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1071",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1081",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1083",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1084",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1086",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1087",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1088",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1089",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1101",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1102",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1108",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1109",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1112",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1150",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1151",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1152",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1153",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1154",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1155",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1156",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1157",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1158",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1160",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1161",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1162",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1163",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1164",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1165",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1166",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1167",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1168",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1169",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1170",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1172",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1176",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1177",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1178",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1179",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1181",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1182",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1184",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1185",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1187",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1188",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1189",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1201",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1203",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1204",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1205",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1207",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1214",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1215",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1250",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1251",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1252",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1253",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1254",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1255",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1256",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1257",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1258",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1259",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1262",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1263",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1266",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1270",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1271",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1272",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1273",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1274",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1275",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1278",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1279",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1281",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1283",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1284",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1285",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1286",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1290",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1291",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1294",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    },
+    {
+      "postnummer": "1295",
+      "poststed": "Oslo",
+      "kommune_id": "0301",
+      "kommune": "Oslo",
+      "fylke_id": "03",
+      "fylke": "Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Oslo - Gratis nedlasting",
+    "description": "Alle 633 postnummer i Oslo kommune med poststed. Inneholder 633 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Oslo | ListBase",
+    "seo_description": "Last ned Postnummer i Oslo — 633 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 633 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

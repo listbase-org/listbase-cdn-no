@@ -1,0 +1,400 @@
+{
+  "id": "no-porsgrunn-postnummer",
+  "name": "Postnummer i Porsgrunn",
+  "title": "Postnummer i Porsgrunn",
+  "description": "Alle 43 postnummer i Porsgrunn kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 43,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "3901",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3902",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3903",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3904",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3905",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3906",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3910",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3911",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3912",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3913",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3914",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3915",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3916",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3917",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3918",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3919",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3920",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3921",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3922",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3924",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3925",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3928",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3929",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3930",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3931",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3933",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3936",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3937",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3939",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3940",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3941",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3942",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3943",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3944",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3946",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3947",
+      "poststed": "Langangen",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3948",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3949",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3950",
+      "poststed": "Brevik",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3991",
+      "poststed": "Brevik",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3996",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3997",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    },
+    {
+      "postnummer": "3998",
+      "poststed": "Porsgrunn",
+      "kommune_id": "4001",
+      "kommune": "Porsgrunn",
+      "fylke_id": "40",
+      "fylke": "Telemark"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Porsgrunn - Gratis nedlasting",
+    "description": "Alle 43 postnummer i Porsgrunn kommune med poststed. Inneholder 43 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Porsgrunn | ListBase",
+    "seo_description": "Last ned Postnummer i Porsgrunn — 43 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 43 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "id": "no-kraftverk-batterilagring",
+  "name": "Batterilagringsanlegg i Norge",
+  "title": "Batterilagringsanlegg i Norge",
+  "description": "Batterilagringsanlegg i Norge (6 anlegg) fra powerplantmatching (PyPSA): navn, teknologi, installert effekt (MW), driftsstart, koordinater og lagringsegenskaper. Delmengde av no-kraftverk filtrert på fueltype == \"Battery\".",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "fueltype",
+      "label": "Fueltype",
+      "type": "string"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "type": "string"
+    },
+    {
+      "key": "set",
+      "label": "Set",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "capacity_mw",
+      "label": "Capacity Mw",
+      "type": "number"
+    },
+    {
+      "key": "efficiency",
+      "label": "Efficiency",
+      "type": "string"
+    },
+    {
+      "key": "date_in",
+      "label": "Date In",
+      "type": "string"
+    },
+    {
+      "key": "date_retrofit",
+      "label": "Date Retrofit",
+      "type": "string"
+    },
+    {
+      "key": "date_out",
+      "label": "Date Out",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "duration_h",
+      "label": "Duration H",
+      "type": "string"
+    },
+    {
+      "key": "volume_mm3",
+      "label": "Volume Mm3",
+      "type": "string"
+    },
+    {
+      "key": "dam_height_m",
+      "label": "Dam Height M",
+      "type": "string"
+    },
+    {
+      "key": "storage_capacity_mwh",
+      "label": "Storage Capacity Mwh",
+      "type": "number"
+    },
+    {
+      "key": "eic",
+      "label": "Eic",
+      "type": "string"
+    },
+    {
+      "key": "project_ids",
+      "label": "Project Ids",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 25617,
+      "name": "Campus Evenstad",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Norway",
+      "capacity_mw": 0.12,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 60.78,
+      "lon": 11.37,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 0.2,
+      "eic": "",
+      "project_ids": "EESI: EESI-61498"
+    },
+    {
+      "id": 25794,
+      "name": "Kai Mf Ampere Charging",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Norway",
+      "capacity_mw": 1.2,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 60.929101,
+      "lon": 6.107887,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 0.35,
+      "eic": "",
+      "project_ids": "EESI: EESI-64470"
+    },
+    {
+      "id": 25795,
+      "name": "Kai Mf Ampere Charging",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Norway",
+      "capacity_mw": 1.2,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.8,
+      "lon": 10.61,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 0.35,
+      "eic": "",
+      "project_ids": "EESI: EESI-63630"
+    },
+    {
+      "id": 25926,
+      "name": "Powerdock",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Norway",
+      "capacity_mw": 2.4,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 60.929101,
+      "lon": 6.107887,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 1.4,
+      "eic": "",
+      "project_ids": "EESI: EESI-61226"
+    },
+    {
+      "id": 25944,
+      "name": "Rema Vagle",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Norway",
+      "capacity_mw": 0.2,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 58.81,
+      "lon": 5.72,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 0.46,
+      "eic": "",
+      "project_ids": "EESI: EESI-61977"
+    },
+    {
+      "id": 25986,
+      "name": "Skagerak Energilab",
+      "fueltype": "Battery",
+      "technology": "Li",
+      "set": "Store",
+      "country": "Norway",
+      "capacity_mw": 0.8,
+      "efficiency": "",
+      "date_in": "",
+      "date_retrofit": "",
+      "date_out": "",
+      "lat": 59.21,
+      "lon": 9.59,
+      "duration_h": "",
+      "volume_mm3": "",
+      "dam_height_m": "",
+      "storage_capacity_mwh": 1,
+      "eic": "",
+      "project_ids": "EESI: EESI-62887"
+    }
+  ],
+  "meta": {
+    "title": "Batterilagringsanlegg i Norge - Gratis nedlasting",
+    "description": "Batterilagringsanlegg i Norge (6 anlegg) fra powerplantmatching (PyPSA): navn, teknologi, installert effekt (MW), driftsstart, koordinater og lagringsegenskaper. Delmengde av no-kraftverk filtrert på fueltype == \"Battery\". Inneholder 6 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Batterilagringsanlegg i Norge | ListBase",
+    "seo_description": "Last ned Batterilagringsanlegg i Norge — 6 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 6 poster / 19 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

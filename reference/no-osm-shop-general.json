@@ -1,0 +1,1451 @@
+{
+  "id": "no-osm-shop-general",
+  "name": "Named general stores in Norway",
+  "title": "Named general stores in Norway",
+  "description": "Named general stores in Norway, derived from OpenStreetMap POI nodes tagged shop=general in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 282,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alquds Palestinabutikken",
+      "latitude": 59.924488,
+      "longitude": 10.757348
+    },
+    {
+      "name": "Båtsfjord Rør AS",
+      "latitude": 70.636391,
+      "longitude": 29.724506
+    },
+    {
+      "name": "Elisabeth's Parfymeri",
+      "latitude": 70.637865,
+      "longitude": 29.726526
+    },
+    {
+      "name": "Europris",
+      "latitude": 59.232555,
+      "longitude": 10.904963
+    },
+    {
+      "name": "Europris",
+      "latitude": 59.811148,
+      "longitude": 10.305904
+    },
+    {
+      "name": "Europris",
+      "latitude": 59.914755,
+      "longitude": 10.788576
+    },
+    {
+      "name": "Europris",
+      "latitude": 61.593225,
+      "longitude": 9.727813
+    },
+    {
+      "name": "Europris",
+      "latitude": 63.415218,
+      "longitude": 10.807348
+    },
+    {
+      "name": "Europris Alta",
+      "latitude": 69.976079,
+      "longitude": 23.324691
+    },
+    {
+      "name": "Europris Andenes",
+      "latitude": 69.310537,
+      "longitude": 16.098865
+    },
+    {
+      "name": "Europris Askim",
+      "latitude": 59.585142,
+      "longitude": 11.166417
+    },
+    {
+      "name": "Europris Averøy",
+      "latitude": 63.052549,
+      "longitude": 7.629425
+    },
+    {
+      "name": "Europris Bardufoss",
+      "latitude": 69.095218,
+      "longitude": 18.597311
+    },
+    {
+      "name": "Europris Begby",
+      "latitude": 59.208336,
+      "longitude": 10.990743
+    },
+    {
+      "name": "Europris Bekkestua",
+      "latitude": 59.918196,
+      "longitude": 10.58662
+    },
+    {
+      "name": "Europris Billingstad",
+      "latitude": 59.876972,
+      "longitude": 10.50034
+    },
+    {
+      "name": "Europris Bjugn",
+      "latitude": 63.765252,
+      "longitude": 9.812033
+    },
+    {
+      "name": "Europris Bjørkelangen",
+      "latitude": 59.890909,
+      "longitude": 11.56003
+    },
+    {
+      "name": "Europris Bodø",
+      "latitude": 67.277967,
+      "longitude": 14.419632
+    },
+    {
+      "name": "Europris Bogafjell",
+      "latitude": 58.820811,
+      "longitude": 5.753465
+    },
+    {
+      "name": "Europris Bondi",
+      "latitude": 59.818869,
+      "longitude": 10.441446
+    },
+    {
+      "name": "Europris Brandbu",
+      "latitude": 60.422454,
+      "longitude": 10.504755
+    },
+    {
+      "name": "Europris Brekstad",
+      "latitude": 63.692308,
+      "longitude": 9.661507
+    },
+    {
+      "name": "Europris Brennåsen",
+      "latitude": 58.138653,
+      "longitude": 7.855466
+    },
+    {
+      "name": "Europris Brokelandsheia",
+      "latitude": 58.824336,
+      "longitude": 9.074355
+    },
+    {
+      "name": "Europris Brumunddal",
+      "latitude": 60.885792,
+      "longitude": 10.946032
+    },
+    {
+      "name": "Europris Bryn",
+      "latitude": 59.912281,
+      "longitude": 10.825028
+    },
+    {
+      "name": "Europris Bryne",
+      "latitude": 58.734948,
+      "longitude": 5.652642
+    },
+    {
+      "name": "Europris Brønnøysund",
+      "latitude": 65.491857,
+      "longitude": 12.241545
+    },
+    {
+      "name": "Europris Bø",
+      "latitude": 59.411263,
+      "longitude": 9.076021
+    },
+    {
+      "name": "Europris Bømlo",
+      "latitude": 59.7968,
+      "longitude": 5.188241
+    },
+    {
+      "name": "Europris City",
+      "latitude": 59.931391,
+      "longitude": 10.7908
+    },
+    {
+      "name": "Europris Dale",
+      "latitude": 61.357572,
+      "longitude": 5.398292
+    },
+    {
+      "name": "Europris Digernes",
+      "latitude": 62.492915,
+      "longitude": 6.608723
+    },
+    {
+      "name": "Europris Dokka",
+      "latitude": 60.836299,
+      "longitude": 10.068767
+    },
+    {
+      "name": "Europris Drøbak",
+      "latitude": 59.675642,
+      "longitude": 10.6603
+    },
+    {
+      "name": "Europris Egersund",
+      "latitude": 58.440599,
+      "longitude": 6.007334
+    },
+    {
+      "name": "Europris Eidsvoll",
+      "latitude": 60.331379,
+      "longitude": 11.265167
+    },
+    {
+      "name": "Europris Eidsvåg",
+      "latitude": 62.775624,
+      "longitude": 8.062231
+    },
+    {
+      "name": "Europris Eiker",
+      "latitude": 59.761343,
+      "longitude": 9.903795
+    },
+    {
+      "name": "Europris Elnesvågen",
+      "latitude": 62.854203,
+      "longitude": 7.161103
+    },
+    {
+      "name": "Europris Enebakk",
+      "latitude": 59.723965,
+      "longitude": 11.050112
+    },
+    {
+      "name": "Europris Evje",
+      "latitude": 58.580602,
+      "longitude": 7.786433
+    },
+    {
+      "name": "Europris Farsund",
+      "latitude": 58.098105,
+      "longitude": 6.770652
+    },
+    {
+      "name": "Europris Fauske",
+      "latitude": 67.268463,
+      "longitude": 15.39644
+    },
+    {
+      "name": "Europris Finnsnes",
+      "latitude": 69.22896,
+      "longitude": 17.987832
+    },
+    {
+      "name": "Europris Flekkefjord",
+      "latitude": 58.29005,
+      "longitude": 6.660511
+    },
+    {
+      "name": "Europris Flisa",
+      "latitude": 60.612345,
+      "longitude": 12.00591
+    },
+    {
+      "name": "Europris Florø",
+      "latitude": 61.600914,
+      "longitude": 5.044074
+    },
+    {
+      "name": "Europris Flå",
+      "latitude": 60.430141,
+      "longitude": 9.460918
+    },
+    {
+      "name": "Europris Forus",
+      "latitude": 58.895565,
+      "longitude": 5.699117
+    },
+    {
+      "name": "Europris Fredrikstad",
+      "latitude": 59.244959,
+      "longitude": 10.984453
+    },
+    {
+      "name": "Europris Frøya",
+      "latitude": 63.704538,
+      "longitude": 8.818856
+    },
+    {
+      "name": "Europris Furuset",
+      "latitude": 59.942335,
+      "longitude": 10.89767
+    },
+    {
+      "name": "Europris Fyllingsdalen",
+      "latitude": 60.350807,
+      "longitude": 5.277738
+    },
+    {
+      "name": "Europris Førde",
+      "latitude": 61.456711,
+      "longitude": 5.844181
+    },
+    {
+      "name": "Europris Ganddal",
+      "latitude": 58.820365,
+      "longitude": 5.712528
+    },
+    {
+      "name": "Europris Gausdal",
+      "latitude": 61.225849,
+      "longitude": 10.222901
+    },
+    {
+      "name": "Europris Geilo",
+      "latitude": 60.533588,
+      "longitude": 8.20665
+    },
+    {
+      "name": "Europris Giske",
+      "latitude": 62.528734,
+      "longitude": 6.116136
+    },
+    {
+      "name": "Europris Gjøvik",
+      "latitude": 60.785607,
+      "longitude": 10.670355
+    },
+    {
+      "name": "Europris Gol",
+      "latitude": 60.700444,
+      "longitude": 8.950173
+    },
+    {
+      "name": "Europris Gran",
+      "latitude": 60.354004,
+      "longitude": 10.576375
+    },
+    {
+      "name": "Europris Grasmyr",
+      "latitude": 59.030321,
+      "longitude": 9.704067
+    },
+    {
+      "name": "Europris Grenland",
+      "latitude": 59.195192,
+      "longitude": 9.597069
+    },
+    {
+      "name": "Europris Grimstad",
+      "latitude": 58.342586,
+      "longitude": 8.554165
+    },
+    {
+      "name": "Europris Grini Pluss",
+      "latitude": 59.94561,
+      "longitude": 10.59776
+    },
+    {
+      "name": "Europris Grong",
+      "latitude": 64.464173,
+      "longitude": 12.306277
+    },
+    {
+      "name": "Europris Grorud",
+      "latitude": 59.960653,
+      "longitude": 10.8817
+    },
+    {
+      "name": "Europris Halden",
+      "latitude": 59.120818,
+      "longitude": 11.377034
+    },
+    {
+      "name": "Europris Hammerfest",
+      "latitude": 70.678145,
+      "longitude": 23.668733
+    },
+    {
+      "name": "Europris Harstad",
+      "latitude": 68.790133,
+      "longitude": 16.542451
+    },
+    {
+      "name": "Europris Hitra",
+      "latitude": 63.600306,
+      "longitude": 8.978678
+    },
+    {
+      "name": "Europris Holmestrand",
+      "latitude": 59.473669,
+      "longitude": 10.317182
+    },
+    {
+      "name": "Europris Horten",
+      "latitude": 59.407373,
+      "longitude": 10.484749
+    },
+    {
+      "name": "Europris Hov",
+      "latitude": 60.69589,
+      "longitude": 10.353412
+    },
+    {
+      "name": "Europris Hunstad",
+      "latitude": 67.280904,
+      "longitude": 14.543501
+    },
+    {
+      "name": "Europris Husnes",
+      "latitude": 59.862566,
+      "longitude": 5.760725
+    },
+    {
+      "name": "Europris Hønefoss",
+      "latitude": 60.145986,
+      "longitude": 10.253249
+    },
+    {
+      "name": "Europris Indre Arna",
+      "latitude": 60.433747,
+      "longitude": 5.461948
+    },
+    {
+      "name": "Europris Iseveien",
+      "latitude": 59.268886,
+      "longitude": 11.159763
+    },
+    {
+      "name": "Europris Jessheim",
+      "latitude": 60.142243,
+      "longitude": 11.180362
+    },
+    {
+      "name": "Europris Jevnaker",
+      "latitude": 60.229168,
+      "longitude": 10.354629
+    },
+    {
+      "name": "Europris Juvik",
+      "latitude": 60.426782,
+      "longitude": 5.193503
+    },
+    {
+      "name": "Europris Jørpeland/Strand",
+      "latitude": 59.020557,
+      "longitude": 6.039967
+    },
+    {
+      "name": "Europris Karmøy",
+      "latitude": 59.293422,
+      "longitude": 5.288365
+    },
+    {
+      "name": "Europris Kilen Tønsberg",
+      "latitude": 59.275445,
+      "longitude": 10.431141
+    },
+    {
+      "name": "Europris Kirkeby",
+      "latitude": 60.783846,
+      "longitude": 10.691578
+    },
+    {
+      "name": "Europris Kirkenes",
+      "latitude": 69.725612,
+      "longitude": 30.068063
+    },
+    {
+      "name": "Europris Kirkenær",
+      "latitude": 60.457429,
+      "longitude": 12.056355
+    },
+    {
+      "name": "Europris Kjørbekk",
+      "latitude": 59.172297,
+      "longitude": 9.614644
+    },
+    {
+      "name": "Europris Klepp",
+      "latitude": 58.77592,
+      "longitude": 5.629165
+    },
+    {
+      "name": "Europris Kløfta",
+      "latitude": 60.072578,
+      "longitude": 11.13591
+    },
+    {
+      "name": "Europris Knarvik",
+      "latitude": 60.547897,
+      "longitude": 5.287095
+    },
+    {
+      "name": "Europris Kokstad",
+      "latitude": 60.294509,
+      "longitude": 5.253386
+    },
+    {
+      "name": "Europris Kolvereid",
+      "latitude": 64.864499,
+      "longitude": 11.597339
+    },
+    {
+      "name": "Europris Kongsberg",
+      "latitude": 59.668691,
+      "longitude": 9.653902
+    },
+    {
+      "name": "Europris Kongsvinger",
+      "latitude": 60.19225,
+      "longitude": 12.002493
+    },
+    {
+      "name": "Europris Konnerud",
+      "latitude": 59.717596,
+      "longitude": 10.14982
+    },
+    {
+      "name": "Europris Kragerø",
+      "latitude": 58.872832,
+      "longitude": 9.368908
+    },
+    {
+      "name": "Europris Kristiansund",
+      "latitude": 63.109637,
+      "longitude": 7.799769
+    },
+    {
+      "name": "Europris Kråkerøy",
+      "latitude": 59.212994,
+      "longitude": 10.92726
+    },
+    {
+      "name": "Europris Krøgenes",
+      "latitude": 58.47447,
+      "longitude": 8.816161
+    },
+    {
+      "name": "Europris Kvala",
+      "latitude": 59.437792,
+      "longitude": 5.268386
+    },
+    {
+      "name": "Europris Kvinesdal",
+      "latitude": 58.320586,
+      "longitude": 6.963302
+    },
+    {
+      "name": "Europris Kyrksæterøra",
+      "latitude": 63.293773,
+      "longitude": 9.085496
+    },
+    {
+      "name": "Europris Lade",
+      "latitude": 63.440526,
+      "longitude": 10.462642
+    },
+    {
+      "name": "Europris Lakselv",
+      "latitude": 70.053092,
+      "longitude": 24.955507
+    },
+    {
+      "name": "Europris Laksevåg",
+      "latitude": 60.389546,
+      "longitude": 5.287376
+    },
+    {
+      "name": "Europris Lambertseter",
+      "latitude": 59.874552,
+      "longitude": 10.811794
+    },
+    {
+      "name": "Europris Langevåg",
+      "latitude": 62.437605,
+      "longitude": 6.235726
+    },
+    {
+      "name": "Europris Langnes",
+      "latitude": 69.67541,
+      "longitude": 18.928659
+    },
+    {
+      "name": "Europris Leira",
+      "latitude": 60.972185,
+      "longitude": 9.28617
+    },
+    {
+      "name": "Europris Leknes",
+      "latitude": 68.146836,
+      "longitude": 13.606358
+    },
+    {
+      "name": "Europris Lena",
+      "latitude": 60.674987,
+      "longitude": 10.811343
+    },
+    {
+      "name": "Europris Levanger",
+      "latitude": 63.73391,
+      "longitude": 11.281324
+    },
+    {
+      "name": "Europris Lierstranda",
+      "latitude": 59.750126,
+      "longitude": 10.249389
+    },
+    {
+      "name": "Europris Liertoppen",
+      "latitude": 59.811178,
+      "longitude": 10.305832
+    },
+    {
+      "name": "Europris Lillehammer Strandparken",
+      "latitude": 61.11453,
+      "longitude": 10.452585
+    },
+    {
+      "name": "Europris Lillehammer nord",
+      "latitude": 61.129936,
+      "longitude": 10.446417
+    },
+    {
+      "name": "Europris Lillesand",
+      "latitude": 58.260824,
+      "longitude": 8.394333
+    },
+    {
+      "name": "Europris Lillestrøm",
+      "latitude": 59.947454,
+      "longitude": 11.071153
+    },
+    {
+      "name": "Europris Lindeberg",
+      "latitude": 59.935784,
+      "longitude": 10.887109
+    },
+    {
+      "name": "Europris Lom",
+      "latitude": 61.840688,
+      "longitude": 8.57451
+    },
+    {
+      "name": "Europris Lonevåg",
+      "latitude": 60.524838,
+      "longitude": 5.497156
+    },
+    {
+      "name": "Europris Lund",
+      "latitude": 58.152905,
+      "longitude": 8.026448
+    },
+    {
+      "name": "Europris Lura",
+      "latitude": 58.87356,
+      "longitude": 5.72479
+    },
+    {
+      "name": "Europris Lørenskog",
+      "latitude": 59.927,
+      "longitude": 10.961492
+    },
+    {
+      "name": "Europris Løten",
+      "latitude": 60.819993,
+      "longitude": 11.341889
+    },
+    {
+      "name": "Europris Madla",
+      "latitude": 58.952006,
+      "longitude": 5.65706
+    },
+    {
+      "name": "Europris Mandal",
+      "latitude": 58.024361,
+      "longitude": 7.466377
+    },
+    {
+      "name": "Europris Midtun",
+      "latitude": 60.322165,
+      "longitude": 5.364105
+    },
+    {
+      "name": "Europris Mjøndalen",
+      "latitude": 59.747271,
+      "longitude": 10.025907
+    },
+    {
+      "name": "Europris Mo i Rana",
+      "latitude": 66.304063,
+      "longitude": 14.132709
+    },
+    {
+      "name": "Europris Moelv",
+      "latitude": 60.929786,
+      "longitude": 10.702262
+    },
+    {
+      "name": "Europris Molde",
+      "latitude": 62.737988,
+      "longitude": 7.184983
+    },
+    {
+      "name": "Europris Mortensrud",
+      "latitude": 59.848966,
+      "longitude": 10.830672
+    },
+    {
+      "name": "Europris Moss Pluss",
+      "latitude": 59.415193,
+      "longitude": 10.67689
+    },
+    {
+      "name": "Europris Mysen",
+      "latitude": 59.552021,
+      "longitude": 11.34194
+    },
+    {
+      "name": "Europris Måløy",
+      "latitude": 61.921762,
+      "longitude": 5.154852
+    },
+    {
+      "name": "Europris Namsos",
+      "latitude": 64.46493,
+      "longitude": 11.507231
+    },
+    {
+      "name": "Europris Nannestad",
+      "latitude": 60.220335,
+      "longitude": 11.015092
+    },
+    {
+      "name": "Europris Nanset",
+      "latitude": 59.080828,
+      "longitude": 10.062643
+    },
+    {
+      "name": "Europris Narvik",
+      "latitude": 68.406737,
+      "longitude": 17.416738
+    },
+    {
+      "name": "Europris Nedenes",
+      "latitude": 58.417908,
+      "longitude": 8.701313
+    },
+    {
+      "name": "Europris Nordfjordeid",
+      "latitude": 61.90466,
+      "longitude": 5.996878
+    },
+    {
+      "name": "Europris Norheimsund",
+      "latitude": 60.372311,
+      "longitude": 6.137507
+    },
+    {
+      "name": "Europris Notodden",
+      "latitude": 59.566056,
+      "longitude": 9.216212
+    },
+    {
+      "name": "Europris Nærbø",
+      "latitude": 58.664871,
+      "longitude": 5.636831
+    },
+    {
+      "name": "Europris Nøtterøy",
+      "latitude": 59.26386,
+      "longitude": 10.39323
+    },
+    {
+      "name": "Europris Odda",
+      "latitude": 60.069639,
+      "longitude": 6.551973
+    },
+    {
+      "name": "Europris Oppdal",
+      "latitude": 62.595979,
+      "longitude": 9.702788
+    },
+    {
+      "name": "Europris Orkanger",
+      "latitude": 63.305273,
+      "longitude": 9.838837
+    },
+    {
+      "name": "Europris Os",
+      "latitude": 60.201677,
+      "longitude": 5.456922
+    },
+    {
+      "name": "Europris Otta",
+      "latitude": 61.771213,
+      "longitude": 9.543389
+    },
+    {
+      "name": "Europris Ottestad",
+      "latitude": 60.768537,
+      "longitude": 11.130733
+    },
+    {
+      "name": "Europris Pindsle",
+      "latitude": 59.141397,
+      "longitude": 10.179714
+    },
+    {
+      "name": "Europris Porsgrunn",
+      "latitude": 59.140436,
+      "longitude": 9.638571
+    },
+    {
+      "name": "Europris Prinsdal",
+      "latitude": 59.824937,
+      "longitude": 10.808793
+    },
+    {
+      "name": "Europris Raglamyr Pluss",
+      "latitude": 59.397168,
+      "longitude": 5.333396
+    },
+    {
+      "name": "Europris Rakkestad",
+      "latitude": 59.419145,
+      "longitude": 11.34635
+    },
+    {
+      "name": "Europris Randaberg",
+      "latitude": 58.995297,
+      "longitude": 5.637499
+    },
+    {
+      "name": "Europris Raufoss",
+      "latitude": 60.729051,
+      "longitude": 10.614623
+    },
+    {
+      "name": "Europris Reknes",
+      "latitude": 62.734009,
+      "longitude": 7.13944
+    },
+    {
+      "name": "Europris Rena",
+      "latitude": 61.13277,
+      "longitude": 11.369441
+    },
+    {
+      "name": "Europris Revetal",
+      "latitude": 59.369699,
+      "longitude": 10.264425
+    },
+    {
+      "name": "Europris Ringebu",
+      "latitude": 61.530093,
+      "longitude": 10.145627
+    },
+    {
+      "name": "Europris Rissa",
+      "latitude": 63.584161,
+      "longitude": 9.956415
+    },
+    {
+      "name": "Europris Risør",
+      "latitude": 58.715462,
+      "longitude": 9.178641
+    },
+    {
+      "name": "Europris Rjukan",
+      "latitude": 59.877012,
+      "longitude": 8.587782
+    },
+    {
+      "name": "Europris Roa",
+      "latitude": 60.287137,
+      "longitude": 10.625548
+    },
+    {
+      "name": "Europris Rykkinn",
+      "latitude": 59.923752,
+      "longitude": 10.485241
+    },
+    {
+      "name": "Europris Råde",
+      "latitude": 59.356589,
+      "longitude": 10.847116
+    },
+    {
+      "name": "Europris Råholt",
+      "latitude": 60.28657,
+      "longitude": 11.169707
+    },
+    {
+      "name": "Europris Rælingen",
+      "latitude": 59.946707,
+      "longitude": 11.030807
+    },
+    {
+      "name": "Europris Røros",
+      "latitude": 62.573816,
+      "longitude": 11.379382
+    },
+    {
+      "name": "Europris Sand",
+      "latitude": 60.392648,
+      "longitude": 11.54213
+    },
+    {
+      "name": "Europris Sandane",
+      "latitude": 61.775408,
+      "longitude": 6.213601
+    },
+    {
+      "name": "Europris Sande i Vestfold",
+      "latitude": 59.584112,
+      "longitude": 10.209746
+    },
+    {
+      "name": "Europris Sandefjord",
+      "latitude": 59.139771,
+      "longitude": 10.238698
+    },
+    {
+      "name": "Europris Sandnes",
+      "latitude": 58.848623,
+      "longitude": 5.740633
+    },
+    {
+      "name": "Europris Sandnessjøen",
+      "latitude": 66.017371,
+      "longitude": 12.64133
+    },
+    {
+      "name": "Europris Sandsli",
+      "latitude": 60.305577,
+      "longitude": 5.282079
+    },
+    {
+      "name": "Europris Sandvika",
+      "latitude": 59.887116,
+      "longitude": 10.518515
+    },
+    {
+      "name": "Europris Sarpsborg",
+      "latitude": 59.287059,
+      "longitude": 11.080747
+    },
+    {
+      "name": "Europris Sauda",
+      "latitude": 59.648352,
+      "longitude": 6.350659
+    },
+    {
+      "name": "Europris Seljord",
+      "latitude": 59.480855,
+      "longitude": 8.63016
+    },
+    {
+      "name": "Europris Sellebakk",
+      "latitude": 59.223805,
+      "longitude": 10.990964
+    },
+    {
+      "name": "Europris Sem",
+      "latitude": 59.282651,
+      "longitude": 10.331586
+    },
+    {
+      "name": "Europris Skedsmo",
+      "latitude": 60.0051,
+      "longitude": 11.033298
+    },
+    {
+      "name": "Europris Ski",
+      "latitude": 59.713892,
+      "longitude": 10.834122
+    },
+    {
+      "name": "Europris Skien",
+      "latitude": 59.213064,
+      "longitude": 9.586566
+    },
+    {
+      "name": "Europris Skiptvet",
+      "latitude": 59.471859,
+      "longitude": 11.162446
+    },
+    {
+      "name": "Europris Skotterud",
+      "latitude": 59.986661,
+      "longitude": 12.121782
+    },
+    {
+      "name": "Europris Skreppestad",
+      "latitude": 59.044864,
+      "longitude": 10.077017
+    },
+    {
+      "name": "Europris Slemmestad",
+      "latitude": 59.785933,
+      "longitude": 10.489558
+    },
+    {
+      "name": "Europris Sogndal",
+      "latitude": 61.191697,
+      "longitude": 7.220293
+    },
+    {
+      "name": "Europris Sola",
+      "latitude": 58.884238,
+      "longitude": 5.6523
+    },
+    {
+      "name": "Europris Sortland",
+      "latitude": 68.690746,
+      "longitude": 15.418755
+    },
+    {
+      "name": "Europris Sotra",
+      "latitude": 60.359783,
+      "longitude": 5.124614
+    },
+    {
+      "name": "Europris Spydeberg",
+      "latitude": 59.619327,
+      "longitude": 11.078969
+    },
+    {
+      "name": "Europris Stange",
+      "latitude": 60.721448,
+      "longitude": 11.197316
+    },
+    {
+      "name": "Europris Steinkjer",
+      "latitude": 64.009989,
+      "longitude": 11.490309
+    },
+    {
+      "name": "Europris Stjørdal",
+      "latitude": 63.467877,
+      "longitude": 10.928218
+    },
+    {
+      "name": "Europris Stoa",
+      "latitude": 58.464852,
+      "longitude": 8.712861
+    },
+    {
+      "name": "Europris Stokke",
+      "latitude": 59.221362,
+      "longitude": 10.301513
+    },
+    {
+      "name": "Europris Stokmarknes",
+      "latitude": 68.557903,
+      "longitude": 14.941056
+    },
+    {
+      "name": "Europris Stord",
+      "latitude": 59.763513,
+      "longitude": 5.461054
+    },
+    {
+      "name": "Europris Storhamar",
+      "latitude": 60.804142,
+      "longitude": 11.044958
+    },
+    {
+      "name": "Europris Stovner",
+      "latitude": 59.961376,
+      "longitude": 10.925251
+    },
+    {
+      "name": "Europris Stranda",
+      "latitude": 62.307428,
+      "longitude": 6.948563
+    },
+    {
+      "name": "Europris Strusshamn",
+      "latitude": 60.40667,
+      "longitude": 5.194638
+    },
+    {
+      "name": "Europris Stryn",
+      "latitude": 61.902559,
+      "longitude": 6.709487
+    },
+    {
+      "name": "Europris Stryn",
+      "latitude": 61.904658,
+      "longitude": 6.703035
+    },
+    {
+      "name": "Europris Strømmen",
+      "latitude": 59.947893,
+      "longitude": 11.007098
+    },
+    {
+      "name": "Europris Strømsø",
+      "latitude": 59.73454,
+      "longitude": 10.206523
+    },
+    {
+      "name": "Europris Støperigaten Stavanger",
+      "latitude": 58.970148,
+      "longitude": 5.753399
+    },
+    {
+      "name": "Europris Støren",
+      "latitude": 63.041684,
+      "longitude": 10.288255
+    },
+    {
+      "name": "Europris Sunndalsøra",
+      "latitude": 62.67374,
+      "longitude": 8.56407
+    },
+    {
+      "name": "Europris Surnadal",
+      "latitude": 62.969663,
+      "longitude": 8.712977
+    },
+    {
+      "name": "Europris Sveberg",
+      "latitude": 63.421015,
+      "longitude": 10.755517
+    },
+    {
+      "name": "Europris Svinesundsparken",
+      "latitude": 59.130796,
+      "longitude": 11.274312
+    },
+    {
+      "name": "Europris Svolvær",
+      "latitude": 68.230486,
+      "longitude": 14.560963
+    },
+    {
+      "name": "Europris Sykkylven",
+      "latitude": 62.380009,
+      "longitude": 6.57343
+    },
+    {
+      "name": "Europris Sørkjosen",
+      "latitude": 69.7863,
+      "longitude": 20.951046
+    },
+    {
+      "name": "Europris Sørlandsparken Pluss",
+      "latitude": 58.17951,
+      "longitude": 8.126467
+    },
+    {
+      "name": "Europris Sørumsand",
+      "latitude": 59.98612,
+      "longitude": 11.248297
+    },
+    {
+      "name": "Europris Tasta",
+      "latitude": 58.984576,
+      "longitude": 5.691083
+    },
+    {
+      "name": "Europris Tiller Pluss",
+      "latitude": 63.356723,
+      "longitude": 10.373918
+    },
+    {
+      "name": "Europris Tromsdalen",
+      "latitude": 69.639998,
+      "longitude": 18.970683
+    },
+    {
+      "name": "Europris Trysil",
+      "latitude": 61.300491,
+      "longitude": 12.264308
+    },
+    {
+      "name": "Europris Tvedestrand",
+      "latitude": 58.6271,
+      "longitude": 8.919438
+    },
+    {
+      "name": "Europris Tynset",
+      "latitude": 62.276951,
+      "longitude": 10.78023
+    },
+    {
+      "name": "Europris Ulsteinvik",
+      "latitude": 62.339301,
+      "longitude": 5.851304
+    },
+    {
+      "name": "Europris Vadsø",
+      "latitude": 70.080086,
+      "longitude": 29.718495
+    },
+    {
+      "name": "Europris Vatne",
+      "latitude": 62.544293,
+      "longitude": 6.592599
+    },
+    {
+      "name": "Europris Vennesla",
+      "latitude": 58.27136,
+      "longitude": 7.97193
+    },
+    {
+      "name": "Europris Verdal",
+      "latitude": 63.794562,
+      "longitude": 11.480536
+    },
+    {
+      "name": "Europris Vestby",
+      "latitude": 59.607702,
+      "longitude": 10.743116
+    },
+    {
+      "name": "Europris Vestkanten",
+      "latitude": 60.363058,
+      "longitude": 5.235151
+    },
+    {
+      "name": "Europris Vikersund",
+      "latitude": 59.965149,
+      "longitude": 9.993612
+    },
+    {
+      "name": "Europris Vinterbro",
+      "latitude": 59.738939,
+      "longitude": 10.766628
+    },
+    {
+      "name": "Europris Volda",
+      "latitude": 62.145488,
+      "longitude": 6.075271
+    },
+    {
+      "name": "Europris Vollebekk",
+      "latitude": 59.936541,
+      "longitude": 10.82642
+    },
+    {
+      "name": "Europris Vormsund",
+      "latitude": 60.151155,
+      "longitude": 11.410487
+    },
+    {
+      "name": "Europris Voss",
+      "latitude": 60.635587,
+      "longitude": 6.458408
+    },
+    {
+      "name": "Europris Vågsbygd",
+      "latitude": 58.131285,
+      "longitude": 7.966321
+    },
+    {
+      "name": "Europris Xhibition City",
+      "latitude": 60.392535,
+      "longitude": 5.32598
+    },
+    {
+      "name": "Europris Ågotnes",
+      "latitude": 60.403456,
+      "longitude": 5.001525
+    },
+    {
+      "name": "Europris Ålesund Pluss",
+      "latitude": 62.470652,
+      "longitude": 6.353666
+    },
+    {
+      "name": "Europris Ålgård",
+      "latitude": 58.76645,
+      "longitude": 5.862285
+    },
+    {
+      "name": "Europris Åndalsnes",
+      "latitude": 62.561615,
+      "longitude": 7.678191
+    },
+    {
+      "name": "Europris Årdal",
+      "latitude": 61.310703,
+      "longitude": 7.814461
+    },
+    {
+      "name": "Europris Årnes",
+      "latitude": 60.118649,
+      "longitude": 11.46198
+    },
+    {
+      "name": "Europris Ås",
+      "latitude": 59.664402,
+      "longitude": 10.793052
+    },
+    {
+      "name": "Europris Åsane Pluss",
+      "latitude": 60.46904,
+      "longitude": 5.339432
+    },
+    {
+      "name": "Europris Åsen",
+      "latitude": 58.943196,
+      "longitude": 5.72924
+    },
+    {
+      "name": "Europris Åssiden Pluss",
+      "latitude": 59.753317,
+      "longitude": 10.131273
+    },
+    {
+      "name": "Europris Ølensvåg",
+      "latitude": 59.596768,
+      "longitude": 5.740686
+    },
+    {
+      "name": "Europris Ørnes",
+      "latitude": 66.855196,
+      "longitude": 13.721516
+    },
+    {
+      "name": "Europris Ørsta",
+      "latitude": 62.202398,
+      "longitude": 6.118067
+    },
+    {
+      "name": "Fredheim Gårdsutsalg",
+      "latitude": 60.714789,
+      "longitude": 11.12613
+    },
+    {
+      "name": "Hadeland landhandel",
+      "latitude": 60.357871,
+      "longitude": 10.57123
+    },
+    {
+      "name": "Holdbart",
+      "latitude": 63.107531,
+      "longitude": 7.792078
+    },
+    {
+      "name": "Holmsens Magasin",
+      "latitude": 59.946905,
+      "longitude": 10.924288
+    },
+    {
+      "name": "Kamille",
+      "latitude": 60.401614,
+      "longitude": 5.728788
+    },
+    {
+      "name": "Karin´s",
+      "latitude": 59.985487,
+      "longitude": 12.122895
+    },
+    {
+      "name": "Lindesnes Hytteservice AS",
+      "latitude": 58.039676,
+      "longitude": 7.150195
+    },
+    {
+      "name": "Nille",
+      "latitude": 59.913411,
+      "longitude": 10.73281
+    },
+    {
+      "name": "Nille",
+      "latitude": 59.945074,
+      "longitude": 10.80895
+    },
+    {
+      "name": "Nille",
+      "latitude": 60.472576,
+      "longitude": 5.332552
+    },
+    {
+      "name": "Nille",
+      "latitude": 60.547597,
+      "longitude": 5.285628
+    },
+    {
+      "name": "Nille",
+      "latitude": 63.432105,
+      "longitude": 10.39778
+    },
+    {
+      "name": "Normal",
+      "latitude": 59.603602,
+      "longitude": 10.742135
+    },
+    {
+      "name": "Normal",
+      "latitude": 60.628461,
+      "longitude": 6.434314
+    },
+    {
+      "name": "Numisma Mynthandel",
+      "latitude": 59.911334,
+      "longitude": 10.743203
+    },
+    {
+      "name": "Outpost Garn Butikk",
+      "latitude": 68.875185,
+      "longitude": 17.837153
+    },
+    {
+      "name": "Price Farsund Handelshus",
+      "latitude": 58.095921,
+      "longitude": 6.795184
+    },
+    {
+      "name": "Soloppgangen helse & miljø",
+      "latitude": 62.575094,
+      "longitude": 11.384758
+    },
+    {
+      "name": "Søsterene Grene",
+      "latitude": 63.361651,
+      "longitude": 10.37647
+    },
+    {
+      "name": "Thansen",
+      "latitude": 59.892089,
+      "longitude": 11.561429
+    },
+    {
+      "name": "europris",
+      "latitude": 67.101571,
+      "longitude": 15.411113
+    }
+  ],
+  "meta": {
+    "title": "Named general stores in Norway - Gratis nedlasting",
+    "description": "Named general stores in Norway, derived from OpenStreetMap POI nodes tagged shop=general in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 282 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named general stores in Norway | ListBase",
+    "seo_description": "Last ned Named general stores in Norway — 282 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 282 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

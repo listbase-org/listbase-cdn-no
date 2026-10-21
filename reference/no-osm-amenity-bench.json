@@ -1,0 +1,896 @@
+{
+  "id": "no-osm-amenity-bench",
+  "name": "Named benches in Norway",
+  "title": "Named benches in Norway",
+  "description": "Named benches in Norway, derived from OpenStreetMap POI nodes tagged amenity=bench in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 171,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "3 UKERS PLASSEN",
+      "latitude": 69.271173,
+      "longitude": 16.025469
+    },
+    {
+      "name": "60 Års-gave til  Arild Martinsen",
+      "latitude": 59.757523,
+      "longitude": 10.193985
+    },
+    {
+      "name": "AS Kistefos Træsliberi",
+      "latitude": 60.220531,
+      "longitude": 10.367122
+    },
+    {
+      "name": "Anders & Berit 100 ÅR",
+      "latitude": 59.537823,
+      "longitude": 9.578282
+    },
+    {
+      "name": "Appelsinkræggen",
+      "latitude": 62.307911,
+      "longitude": 10.77266
+    },
+    {
+      "name": "Arnte",
+      "latitude": 63.31496,
+      "longitude": 9.853744
+    },
+    {
+      "name": "Ask vel",
+      "latitude": 60.067224,
+      "longitude": 11.03916
+    },
+    {
+      "name": "Ask vel",
+      "latitude": 60.068617,
+      "longitude": 11.037939
+    },
+    {
+      "name": "Ask vel",
+      "latitude": 60.069542,
+      "longitude": 11.037123
+    },
+    {
+      "name": "Asker kommune",
+      "latitude": 59.856982,
+      "longitude": 10.408981
+    },
+    {
+      "name": "Bankje met prachtig uitzicht",
+      "latitude": 61.806403,
+      "longitude": 9.707065
+    },
+    {
+      "name": "Bellingsbank",
+      "latitude": 60.531133,
+      "longitude": 12.083881
+    },
+    {
+      "name": "Benk",
+      "latitude": 58.710615,
+      "longitude": 9.223198
+    },
+    {
+      "name": "Benk",
+      "latitude": 58.969336,
+      "longitude": 11.480759
+    },
+    {
+      "name": "Benk",
+      "latitude": 59.224774,
+      "longitude": 10.953972
+    },
+    {
+      "name": "Benk",
+      "latitude": 59.409314,
+      "longitude": 10.668367
+    },
+    {
+      "name": "Benk",
+      "latitude": 59.931971,
+      "longitude": 10.754921
+    },
+    {
+      "name": "Benken",
+      "latitude": 60.295162,
+      "longitude": 5.301467
+    },
+    {
+      "name": "Benken for slitne syklister",
+      "latitude": 58.677727,
+      "longitude": 9.071633
+    },
+    {
+      "name": "Berit sin",
+      "latitude": 59.619942,
+      "longitude": 11.092068
+    },
+    {
+      "name": "Bienvenue",
+      "latitude": 59.930764,
+      "longitude": 10.961228
+    },
+    {
+      "name": "Biodden",
+      "latitude": 58.343003,
+      "longitude": 8.60019
+    },
+    {
+      "name": "Bjertingstadlunden",
+      "latitude": 60.647138,
+      "longitude": 11.343969
+    },
+    {
+      "name": "Bjørnestien",
+      "latitude": 63.403717,
+      "longitude": 10.320824
+    },
+    {
+      "name": "Bodil og Bjørns Benk",
+      "latitude": 59.763726,
+      "longitude": 10.195634
+    },
+    {
+      "name": "Brit's benk",
+      "latitude": 59.760109,
+      "longitude": 10.191123
+    },
+    {
+      "name": "Buråsibenken",
+      "latitude": 61.205273,
+      "longitude": 6.497847
+    },
+    {
+      "name": "Bydalshytta",
+      "latitude": 69.982081,
+      "longitude": 22.742934
+    },
+    {
+      "name": "Dene krakken er en gave fra Sigrid og Harald Medalen",
+      "latitude": 60.334064,
+      "longitude": 9.179154
+    },
+    {
+      "name": "DnB",
+      "latitude": 61.809132,
+      "longitude": 7.710331
+    },
+    {
+      "name": "Dronngingstolen",
+      "latitude": 62.091466,
+      "longitude": 7.222131
+    },
+    {
+      "name": "Egil O. Laastads benk",
+      "latitude": 60.213293,
+      "longitude": 5.369809
+    },
+    {
+      "name": "Eldrerådet",
+      "latitude": 60.708456,
+      "longitude": 8.961068
+    },
+    {
+      "name": "Eldrerådet",
+      "latitude": 60.713444,
+      "longitude": 8.949291
+    },
+    {
+      "name": "Elgholtet",
+      "latitude": 60.951136,
+      "longitude": 11.296419
+    },
+    {
+      "name": "En moders bøn",
+      "latitude": 60.213172,
+      "longitude": 5.368908
+    },
+    {
+      "name": "Ferjeliet",
+      "latitude": 59.888191,
+      "longitude": 11.172996
+    },
+    {
+      "name": "Fløyenbenken",
+      "latitude": 60.289181,
+      "longitude": 5.354169
+    },
+    {
+      "name": "Fontene",
+      "latitude": 60.881826,
+      "longitude": 11.562716
+    },
+    {
+      "name": "Giant chair",
+      "latitude": 59.887803,
+      "longitude": 10.528995
+    },
+    {
+      "name": "Gitt av Aksdal Senter",
+      "latitude": 59.420625,
+      "longitude": 5.435245
+    },
+    {
+      "name": "Gitt av Dag Halvorsen",
+      "latitude": 59.421575,
+      "longitude": 5.435602
+    },
+    {
+      "name": "Gitt av LHL Tysvær og Bokn",
+      "latitude": 59.419604,
+      "longitude": 5.43484
+    },
+    {
+      "name": "Gitt av LHL Tysvær og Bokn",
+      "latitude": 59.420212,
+      "longitude": 5.441322
+    },
+    {
+      "name": "Gitt av MENY Aksdal",
+      "latitude": 59.419272,
+      "longitude": 5.439396
+    },
+    {
+      "name": "Gitt av Tor Olsen",
+      "latitude": 59.419334,
+      "longitude": 5.444008
+    },
+    {
+      "name": "Grong Sparebank",
+      "latitude": 64.66187,
+      "longitude": 11.273855
+    },
+    {
+      "name": "Gårdsbenken",
+      "latitude": 63.365319,
+      "longitude": 10.346691
+    },
+    {
+      "name": "Hagebenken",
+      "latitude": 63.364992,
+      "longitude": 10.348809
+    },
+    {
+      "name": "Hannan velforening",
+      "latitude": 59.424176,
+      "longitude": 10.701485
+    },
+    {
+      "name": "Haugaland Caravan Senter",
+      "latitude": 59.419247,
+      "longitude": 5.439395
+    },
+    {
+      "name": "Helges Plass",
+      "latitude": 63.365691,
+      "longitude": 10.349934
+    },
+    {
+      "name": "Helges minnebenk",
+      "latitude": 58.993909,
+      "longitude": 9.85805
+    },
+    {
+      "name": "Hvermannsrau",
+      "latitude": 58.093329,
+      "longitude": 7.651504
+    },
+    {
+      "name": "Hvilebenk",
+      "latitude": 59.663625,
+      "longitude": 9.650279
+    },
+    {
+      "name": "Hvilebenken",
+      "latitude": 63.364124,
+      "longitude": 10.347667
+    },
+    {
+      "name": "Hvilekrakk",
+      "latitude": 59.213589,
+      "longitude": 10.903287
+    },
+    {
+      "name": "Håndbåggåkleiva",
+      "latitude": 63.428724,
+      "longitude": 11.041466
+    },
+    {
+      "name": "Høyheimsvik",
+      "latitude": 61.400239,
+      "longitude": 7.397053
+    },
+    {
+      "name": "I ensomme stunde",
+      "latitude": 60.213254,
+      "longitude": 5.361885
+    },
+    {
+      "name": "Ingers benk",
+      "latitude": 59.667182,
+      "longitude": 9.571778
+    },
+    {
+      "name": "Ivar og Inger Frøiland sin benk",
+      "latitude": 59.760601,
+      "longitude": 10.192964
+    },
+    {
+      "name": "JAN KÅRES PLASS",
+      "latitude": 69.270898,
+      "longitude": 16.024179
+    },
+    {
+      "name": "Ja Benken",
+      "latitude": 59.584285,
+      "longitude": 11.162826
+    },
+    {
+      "name": "Ja-benken",
+      "latitude": 60.215207,
+      "longitude": 5.364599
+    },
+    {
+      "name": "Ja-benken",
+      "latitude": 60.681377,
+      "longitude": 7.605724
+    },
+    {
+      "name": "Ja/nei-benken",
+      "latitude": 59.146878,
+      "longitude": 5.266831
+    },
+    {
+      "name": "Jessheim Rotaryklubb 2008",
+      "latitude": 60.155904,
+      "longitude": 11.158288
+    },
+    {
+      "name": "Johns Plass",
+      "latitude": 62.874767,
+      "longitude": 7.377077
+    },
+    {
+      "name": "Juletrebenken",
+      "latitude": 58.134222,
+      "longitude": 7.089538
+    },
+    {
+      "name": "Kirkebenken",
+      "latitude": 58.926138,
+      "longitude": 5.850948
+    },
+    {
+      "name": "Kiwi",
+      "latitude": 61.242513,
+      "longitude": 8.920548
+    },
+    {
+      "name": "Kjærlighetsbenken",
+      "latitude": 58.911395,
+      "longitude": 5.873094
+    },
+    {
+      "name": "Kumoen Panorama",
+      "latitude": 65.555591,
+      "longitude": 13.387497
+    },
+    {
+      "name": "Kvilebenken",
+      "latitude": 62.68914,
+      "longitude": 9.973788
+    },
+    {
+      "name": "Kvilejohan",
+      "latitude": 60.284759,
+      "longitude": 5.361219
+    },
+    {
+      "name": "LHL Med støtte fra Extra Stiftelsen",
+      "latitude": 59.419073,
+      "longitude": 5.43639
+    },
+    {
+      "name": "LHL Med støtte fra Extra Stiftelsen",
+      "latitude": 59.419919,
+      "longitude": 5.439543
+    },
+    {
+      "name": "LHL Med støtte fra Extra Stiftelsen",
+      "latitude": 59.421233,
+      "longitude": 5.441973
+    },
+    {
+      "name": "LHL Med støtte fra Extra Stiftelsen",
+      "latitude": 59.422728,
+      "longitude": 5.438597
+    },
+    {
+      "name": "Linné-benken",
+      "latitude": 59.918883,
+      "longitude": 10.772275
+    },
+    {
+      "name": "Lions club Sørum",
+      "latitude": 60.022287,
+      "longitude": 11.115093
+    },
+    {
+      "name": "Loddbekken",
+      "latitude": 63.280816,
+      "longitude": 10.328561
+    },
+    {
+      "name": "Lunner Historielag",
+      "latitude": 60.257014,
+      "longitude": 10.666205
+    },
+    {
+      "name": "Lygarbenken",
+      "latitude": 63.117931,
+      "longitude": 7.706447
+    },
+    {
+      "name": "Løkentunet 2020",
+      "latitude": 59.579167,
+      "longitude": 11.17179
+    },
+    {
+      "name": "Madam Holts benk",
+      "latitude": 58.717787,
+      "longitude": 9.239151
+    },
+    {
+      "name": "Mariusbenken",
+      "latitude": 63.490788,
+      "longitude": 10.956452
+    },
+    {
+      "name": "Minnebenken",
+      "latitude": 58.933226,
+      "longitude": 5.839467
+    },
+    {
+      "name": "Mitt lille Alhambra",
+      "latitude": 60.210926,
+      "longitude": 5.368157
+    },
+    {
+      "name": "New Zealand",
+      "latitude": 58.939568,
+      "longitude": 5.702738
+    },
+    {
+      "name": "Nils Nonas Minnebenk",
+      "latitude": 60.552799,
+      "longitude": 5.506702
+    },
+    {
+      "name": "Nils Willikinsen",
+      "latitude": 64.667158,
+      "longitude": 11.225169
+    },
+    {
+      "name": "Nyt utsikten!",
+      "latitude": 59.887679,
+      "longitude": 11.175493
+    },
+    {
+      "name": "Nøttebenken",
+      "latitude": 59.789461,
+      "longitude": 10.602631
+    },
+    {
+      "name": "Olav Duun-Stiftinga i Namdalen",
+      "latitude": 64.663155,
+      "longitude": 11.265371
+    },
+    {
+      "name": "Oleana",
+      "latitude": 60.211772,
+      "longitude": 5.366352
+    },
+    {
+      "name": "PUTTES PLASS",
+      "latitude": 69.267666,
+      "longitude": 16.016671
+    },
+    {
+      "name": "Pappas ølebenk",
+      "latitude": 58.079782,
+      "longitude": 7.820366
+    },
+    {
+      "name": "Pensjonistbenken Veidholmen videnskapsakademi",
+      "latitude": 63.518037,
+      "longitude": 7.955384
+    },
+    {
+      "name": "Pers benk",
+      "latitude": 59.864043,
+      "longitude": 10.424007
+    },
+    {
+      "name": "Picnicbenk",
+      "latitude": 59.580614,
+      "longitude": 11.101996
+    },
+    {
+      "name": "Pilspiss skulpturen",
+      "latitude": 63.062682,
+      "longitude": 7.481345
+    },
+    {
+      "name": "Prekestolen",
+      "latitude": 58.134225,
+      "longitude": 7.090714
+    },
+    {
+      "name": "På solen jeg ser",
+      "latitude": 60.212579,
+      "longitude": 5.365475
+    },
+    {
+      "name": "ROY ARNES PLASS",
+      "latitude": 69.268278,
+      "longitude": 16.018819
+    },
+    {
+      "name": "Reservert for beboere Kirkegata 14",
+      "latitude": 59.585662,
+      "longitude": 11.160802
+    },
+    {
+      "name": "Ringen 1",
+      "latitude": 58.925967,
+      "longitude": 5.851679
+    },
+    {
+      "name": "Ringen 2",
+      "latitude": 58.926126,
+      "longitude": 5.851637
+    },
+    {
+      "name": "Robolevegen Vel",
+      "latitude": 60.704797,
+      "longitude": 8.961821
+    },
+    {
+      "name": "Romance",
+      "latitude": 60.210981,
+      "longitude": 5.367405
+    },
+    {
+      "name": "Rosenbergtunet",
+      "latitude": 59.925252,
+      "longitude": 11.158444
+    },
+    {
+      "name": "Rotarybenken",
+      "latitude": 59.580745,
+      "longitude": 10.810243
+    },
+    {
+      "name": "Rytterbenken",
+      "latitude": 59.754842,
+      "longitude": 10.812151
+    },
+    {
+      "name": "Røyret",
+      "latitude": 58.918985,
+      "longitude": 5.872433
+    },
+    {
+      "name": "SKULPTUR STOPP",
+      "latitude": 61.759903,
+      "longitude": 9.075875
+    },
+    {
+      "name": "SOO-dhowaada Welcome",
+      "latitude": 59.930132,
+      "longitude": 10.961915
+    },
+    {
+      "name": "Samnanger-Bjørnafjorden",
+      "latitude": 60.322361,
+      "longitude": 5.704253
+    },
+    {
+      "name": "Sandumbenken",
+      "latitude": 59.438471,
+      "longitude": 9.801464
+    },
+    {
+      "name": "Sara",
+      "latitude": 60.214582,
+      "longitude": 5.360176
+    },
+    {
+      "name": "Signes benk",
+      "latitude": 63.47997,
+      "longitude": 11.148399
+    },
+    {
+      "name": "Sinus Jotron",
+      "latitude": 59.113118,
+      "longitude": 10.110684
+    },
+    {
+      "name": "Sittebenk",
+      "latitude": 59.260278,
+      "longitude": 10.956345
+    },
+    {
+      "name": "Sittebenk",
+      "latitude": 59.423808,
+      "longitude": 10.495794
+    },
+    {
+      "name": "Sittebenk",
+      "latitude": 59.635461,
+      "longitude": 11.141111
+    },
+    {
+      "name": "Sittebenk måneformet",
+      "latitude": 60.191561,
+      "longitude": 11.996308
+    },
+    {
+      "name": "Sittebenker",
+      "latitude": 59.282214,
+      "longitude": 11.108023
+    },
+    {
+      "name": "Sitzbank",
+      "latitude": 59.297155,
+      "longitude": 11.061936
+    },
+    {
+      "name": "Sitzbank inkl. Tisch",
+      "latitude": 59.929851,
+      "longitude": 12.111101
+    },
+    {
+      "name": "Sitzbank inkl. Tisch",
+      "latitude": 59.936437,
+      "longitude": 12.108906
+    },
+    {
+      "name": "Sitzbank inkl. Tisch",
+      "latitude": 59.957687,
+      "longitude": 12.100061
+    },
+    {
+      "name": "Sitzbank, Kongsvinger festning (Glåmlia) 22, Kongsvinger",
+      "latitude": 60.199199,
+      "longitude": 12.01136
+    },
+    {
+      "name": "Skedsmokorset Kvinne og Familielag",
+      "latitude": 59.993664,
+      "longitude": 11.044678
+    },
+    {
+      "name": "Skolebenken",
+      "latitude": 63.364435,
+      "longitude": 10.34995
+    },
+    {
+      "name": "Skrelistolen på Stiheia",
+      "latitude": 58.164091,
+      "longitude": 6.886899
+    },
+    {
+      "name": "Slemdal",
+      "latitude": 59.950707,
+      "longitude": 10.710905
+    },
+    {
+      "name": "Slottet",
+      "latitude": 60.277248,
+      "longitude": 5.999737
+    },
+    {
+      "name": "Smibenken",
+      "latitude": 63.364855,
+      "longitude": 10.349137
+    },
+    {
+      "name": "Snurrumyra",
+      "latitude": 63.28428,
+      "longitude": 10.324643
+    },
+    {
+      "name": "Snurrumyra",
+      "latitude": 63.28441,
+      "longitude": 10.325993
+    },
+    {
+      "name": "Sogndal Bygdekvlnnelag",
+      "latitude": 61.352135,
+      "longitude": 6.913258
+    },
+    {
+      "name": "Stabben",
+      "latitude": 63.663555,
+      "longitude": 8.311146
+    },
+    {
+      "name": "Stenbenken",
+      "latitude": 59.143895,
+      "longitude": 11.090443
+    },
+    {
+      "name": "Stiboltkrysset",
+      "latitude": 59.763973,
+      "longitude": 10.179923
+    },
+    {
+      "name": "Stubby chair",
+      "latitude": 59.013577,
+      "longitude": 6.425912
+    },
+    {
+      "name": "Stuvikleite",
+      "latitude": 59.345506,
+      "longitude": 5.854211
+    },
+    {
+      "name": "Søndagsmøteplassen",
+      "latitude": 60.629971,
+      "longitude": 5.717746
+    },
+    {
+      "name": "TORES PLASS",
+      "latitude": 69.265818,
+      "longitude": 16.013821
+    },
+    {
+      "name": "Ta den en pust i bakken på Blhlikrakken!",
+      "latitude": 60.044981,
+      "longitude": 10.314497
+    },
+    {
+      "name": "Tenkebenk",
+      "latitude": 59.693508,
+      "longitude": 10.826766
+    },
+    {
+      "name": "Tenkebenk",
+      "latitude": 61.114393,
+      "longitude": 10.467096
+    },
+    {
+      "name": "Therese Thornes benk",
+      "latitude": 59.762576,
+      "longitude": 10.196047
+    },
+    {
+      "name": "Tobias Tonum's benk",
+      "latitude": 59.758679,
+      "longitude": 10.193445
+    },
+    {
+      "name": "Tore's Glede",
+      "latitude": 60.284336,
+      "longitude": 5.359614
+    },
+    {
+      "name": "Tors benk",
+      "latitude": 59.861965,
+      "longitude": 10.836272
+    },
+    {
+      "name": "Tungsteinen",
+      "latitude": 58.916248,
+      "longitude": 6.258908
+    },
+    {
+      "name": "Tusenårsbenken",
+      "latitude": 63.364298,
+      "longitude": 10.345625
+    },
+    {
+      "name": "Tysvær Kommune",
+      "latitude": 59.419729,
+      "longitude": 5.442608
+    },
+    {
+      "name": "Tysvær Kommune",
+      "latitude": 59.421936,
+      "longitude": 5.44115
+    },
+    {
+      "name": "Tysvær Kommune",
+      "latitude": 59.42256,
+      "longitude": 5.434891
+    },
+    {
+      "name": "Tysvær Revmatikerforening",
+      "latitude": 59.421296,
+      "longitude": 5.43548
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 62.873457,
+      "longitude": 7.381441
+    },
+    {
+      "name": "Varden",
+      "latitude": 61.884413,
+      "longitude": 8.20728
+    },
+    {
+      "name": "Vennebenk",
+      "latitude": 59.259467,
+      "longitude": 10.359608
+    },
+    {
+      "name": "Vennebenk",
+      "latitude": 59.92992,
+      "longitude": 10.473711
+    },
+    {
+      "name": "Vennebenk",
+      "latitude": 61.403379,
+      "longitude": 7.292016
+    },
+    {
+      "name": "Veteranbenk",
+      "latitude": 59.583273,
+      "longitude": 11.165095
+    },
+    {
+      "name": "Vilspel i lio",
+      "latitude": 60.208691,
+      "longitude": 5.366286
+    },
+    {
+      "name": "Willy's plass",
+      "latitude": 59.827682,
+      "longitude": 9.386649
+    },
+    {
+      "name": "Wrieds benk",
+      "latitude": 59.758911,
+      "longitude": 10.19864
+    },
+    {
+      "name": "Ørebekk vest",
+      "latitude": 59.232637,
+      "longitude": 10.905706
+    }
+  ],
+  "meta": {
+    "title": "Named benches in Norway - Gratis nedlasting",
+    "description": "Named benches in Norway, derived from OpenStreetMap POI nodes tagged amenity=bench in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 171 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named benches in Norway | ListBase",
+    "seo_description": "Last ned Named benches in Norway — 171 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 171 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

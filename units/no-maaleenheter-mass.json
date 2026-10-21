@@ -1,0 +1,236 @@
+{
+  "id": "no-maaleenheter-mass",
+  "name": "Maaleenheter: mass (17)",
+  "title": "Maaleenheter: mass (17)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'mass'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "mass-carat",
+      "kategori": "mass",
+      "navn": "karat",
+      "moenster_en": "{0} karat",
+      "moenster_flere": "{0} karat",
+      "kort_moenster": "{0} c",
+      "smal_moenster": "{0} c"
+    },
+    {
+      "id": 2,
+      "unit_code": "mass-dalton",
+      "kategori": "mass",
+      "navn": "dalton",
+      "moenster_en": "{0} dalton",
+      "moenster_flere": "{0} dalton",
+      "kort_moenster": "{0} Da",
+      "smal_moenster": "{0} Da"
+    },
+    {
+      "id": 3,
+      "unit_code": "mass-earth-mass",
+      "kategori": "mass",
+      "navn": "jordmasser",
+      "moenster_en": "{0} jordmasse",
+      "moenster_flere": "{0} jordmasser",
+      "kort_moenster": "{0} M⊕",
+      "smal_moenster": "{0} M⊕"
+    },
+    {
+      "id": 4,
+      "unit_code": "mass-fun",
+      "kategori": "mass",
+      "navn": "fun [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} fun [JP]",
+      "kort_moenster": "{0} fun [JP]",
+      "smal_moenster": "{0} fun [JP]"
+    },
+    {
+      "id": 5,
+      "unit_code": "mass-grain",
+      "kategori": "mass",
+      "navn": "grain",
+      "moenster_en": "",
+      "moenster_flere": "{0} grain",
+      "kort_moenster": "{0} grain",
+      "smal_moenster": "{0} grain"
+    },
+    {
+      "id": 6,
+      "unit_code": "mass-gram",
+      "kategori": "mass",
+      "navn": "gram",
+      "moenster_en": "{0} gram",
+      "moenster_flere": "{0} gram",
+      "kort_moenster": "{0} g",
+      "smal_moenster": "{0}g"
+    },
+    {
+      "id": 7,
+      "unit_code": "mass-kilogram",
+      "kategori": "mass",
+      "navn": "kilogram",
+      "moenster_en": "{0} kilogram",
+      "moenster_flere": "{0} kilogram",
+      "kort_moenster": "{0} kg",
+      "smal_moenster": "{0}kg"
+    },
+    {
+      "id": 8,
+      "unit_code": "mass-microgram",
+      "kategori": "mass",
+      "navn": "mikrogram",
+      "moenster_en": "{0} mikrogram",
+      "moenster_flere": "{0} mikrogram",
+      "kort_moenster": "{0} μg",
+      "smal_moenster": "{0}μg"
+    },
+    {
+      "id": 9,
+      "unit_code": "mass-milligram",
+      "kategori": "mass",
+      "navn": "milligram",
+      "moenster_en": "{0} milligram",
+      "moenster_flere": "{0} milligram",
+      "kort_moenster": "{0} mg",
+      "smal_moenster": "{0}mg"
+    },
+    {
+      "id": 10,
+      "unit_code": "mass-ounce",
+      "kategori": "mass",
+      "navn": "unser",
+      "moenster_en": "{0} unse",
+      "moenster_flere": "{0} unser",
+      "kort_moenster": "{0} unser",
+      "smal_moenster": "{0}oz"
+    },
+    {
+      "id": 11,
+      "unit_code": "mass-ounce-troy",
+      "kategori": "mass",
+      "navn": "troy ounce",
+      "moenster_en": "{0} troy ounce",
+      "moenster_flere": "{0} troy ounce",
+      "kort_moenster": "{0} oz tr",
+      "smal_moenster": "{0} oz tr"
+    },
+    {
+      "id": 12,
+      "unit_code": "mass-pound",
+      "kategori": "mass",
+      "navn": "pund",
+      "moenster_en": "{0} pund",
+      "moenster_flere": "{0} pund",
+      "kort_moenster": "{0} pund",
+      "smal_moenster": "{0} pund"
+    },
+    {
+      "id": 13,
+      "unit_code": "mass-slug",
+      "kategori": "mass",
+      "navn": "slug",
+      "moenster_en": "",
+      "moenster_flere": "{0} slug",
+      "kort_moenster": "{0} slug",
+      "smal_moenster": "{0} slug"
+    },
+    {
+      "id": 14,
+      "unit_code": "mass-solar-mass",
+      "kategori": "mass",
+      "navn": "solmasser",
+      "moenster_en": "{0} solmasse",
+      "moenster_flere": "{0} solmasser",
+      "kort_moenster": "{0} M☉",
+      "smal_moenster": "{0} M☉"
+    },
+    {
+      "id": 15,
+      "unit_code": "mass-stone",
+      "kategori": "mass",
+      "navn": "stone",
+      "moenster_en": "{0} stone",
+      "moenster_flere": "{0} stone",
+      "kort_moenster": "{0} st",
+      "smal_moenster": "{0} st"
+    },
+    {
+      "id": 16,
+      "unit_code": "mass-ton",
+      "kategori": "mass",
+      "navn": "amerikanske tonn",
+      "moenster_en": "{0} amerikansk tonn",
+      "moenster_flere": "{0} amerikanske tonn",
+      "kort_moenster": "{0} am. tonn",
+      "smal_moenster": "{0} am. tn."
+    },
+    {
+      "id": 17,
+      "unit_code": "mass-tonne",
+      "kategori": "mass",
+      "navn": "tonn",
+      "moenster_en": "{0} tonn",
+      "moenster_flere": "{0} tonn",
+      "kort_moenster": "{0} t",
+      "smal_moenster": "{0}t"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: mass (17) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'mass'. Inneholder 17 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: mass (17) | ListBase",
+    "seo_description": "Last ned Maaleenheter: mass (17) — 17 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 17 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

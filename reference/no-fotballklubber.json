@@ -1,0 +1,223 @@
+{
+  "id": "no-fotballklubber",
+  "name": "Norske fotballklubber",
+  "title": "Norske fotballklubber",
+  "description": "Football clubs in NO with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "stadium",
+      "label": "Stadium",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Vålerenga Fotball",
+      "founded": 1913,
+      "stadium": "Intility Arena",
+      "city": "Oslo",
+      "aliases": "Vålerenga | Vålerenga IF, Vålerengen IF"
+    },
+    {
+      "name": "KFUM-Kameratene Oslo",
+      "founded": 1939,
+      "stadium": "KFUM Oslo",
+      "city": "Oslo",
+      "aliases": "KFUM | KFUM Oslo, Skeid | Skeid FK, Skeid Oslo    # champs (1): 1967/68, Lyn | Lyn 1896 FK | FK Lyn     # champs (4): 1969/70 1966...1963 (3), Lyn Fotball | Lyn 1896 Fotballklubb, FC Lyn Oslo"
+    },
+    {
+      "name": "Frigg Oslo FK",
+      "founded": 1904,
+      "aliases": "Frigg Oslo Fotballklubb"
+    },
+    {
+      "name": "Rosenborg BK",
+      "founded": 1917,
+      "stadium": "Lerkendal Stadion",
+      "city": "Trondheim",
+      "aliases": "Rosenborg | Rosenborg Ballklub, Rosenborg Trondheim, Ranheim Fotball | Ranheim IL, Moss Fotballklubb    # champs (1): 1988/89, Moss"
+    },
+    {
+      "name": "Molde FK",
+      "founded": 1911,
+      "stadium": "Aker Stadion",
+      "city": "Molde",
+      "aliases": "Molde, Molde Fotballklubb"
+    },
+    {
+      "name": "Tromsø IL",
+      "founded": 1920,
+      "stadium": "Alfheim Stadion",
+      "city": "Tromsø",
+      "aliases": "Tromsø | Tromsø Idrettslag"
+    },
+    {
+      "name": "Aalesunds FK",
+      "founded": 1914,
+      "stadium": "Color Line Stadion",
+      "city": "Ålesund",
+      "aliases": "Aalesund | Aalesunds Fotballklubb"
+    },
+    {
+      "name": "SK Brann",
+      "founded": 1908,
+      "stadium": "Brann Stadion",
+      "city": "Bergen",
+      "aliases": "Brann | SK Brann Bergen, Sportsklubben Brann"
+    },
+    {
+      "name": "Strømsgodset IF",
+      "founded": 1907,
+      "stadium": "Marienlyst Stadion",
+      "city": "Drammen",
+      "aliases": "Strømsgodset, Strømsgodset Idrettsforening, Strømsgodset Toppfotball"
+    },
+    {
+      "name": "Fredrikstad FK",
+      "founded": 1903,
+      "stadium": "Fredrikstad Stadion",
+      "city": "Fredrikstad",
+      "aliases": "Fredrikstad | Fredrikstad Fotballklubb"
+    },
+    {
+      "name": "Lillestrøm SK",
+      "founded": 1917,
+      "stadium": "Åråsen",
+      "city": "Lillestrøm",
+      "aliases": "Lillestrøm, Lillestrøm Sportsklubb"
+    },
+    {
+      "name": "Viking FK",
+      "founded": 1899,
+      "stadium": "SR-Bank Arena",
+      "city": "Stavanger",
+      "aliases": "Viking | Viking Fotballklubb | Viking Stavanger"
+    },
+    {
+      "name": "Odds BK",
+      "founded": 1894,
+      "stadium": "Skagerak Arena",
+      "city": "Skien",
+      "aliases": "Odd | Odds Ballklubb, Odd Grenland"
+    },
+    {
+      "name": "Sandefjord",
+      "founded": 1998,
+      "stadium": "Release Arena",
+      "city": "Sandefjord",
+      "aliases": "Sandefjord Fotball, Sandnes"
+    },
+    {
+      "name": "Sarpsborg 08",
+      "founded": 2008,
+      "stadium": "Sarpsborg Stadion",
+      "city": "Sarpsborg",
+      "aliases": "Sarpsborg | Sarpsborg 08 FF | Sarpsborg 08 Fotballforening, Sarpsborg FK, Sogndal Fotball | Sogndal IL"
+    },
+    {
+      "name": "Stabæk",
+      "founded": 1912,
+      "stadium": "Nadderud Stadion",
+      "city": "Bærum",
+      "aliases": "Stabæk Fotball | Stabæk IF, Start | Idrettsklubben Start"
+    },
+    {
+      "name": "Kristiansund BK",
+      "founded": 2003,
+      "stadium": "Kristiansund Stadion",
+      "city": "Kristiansund",
+      "aliases": "Kristiansund | Kristiansund Ballklubb"
+    },
+    {
+      "name": "Mjøndalen IF",
+      "founded": 1910,
+      "stadium": "Consto Arena",
+      "city": "Mjøndalen",
+      "aliases": "Mjøndalen, Mjøndalen Idrettsforening"
+    },
+    {
+      "name": "Bodø/Glimt",
+      "founded": 1916,
+      "stadium": "Aspmyra Stadion",
+      "city": "Bodø",
+      "aliases": "FK Bodø/Glimt | Fotballklubben Bodø/Glimt"
+    },
+    {
+      "name": "FK Haugesund",
+      "founded": 1993,
+      "stadium": "Haugesund Stadion",
+      "city": "Haugesund",
+      "aliases": "Haugesund | Fotballklubben Haugesund"
+    },
+    {
+      "name": "SK Haugar",
+      "founded": 1939,
+      "aliases": "Haugur Haugesund, Sportsklubben Haugar, Hønefoss | Hønefoss Ballklubb"
+    },
+    {
+      "name": "FK Jerv",
+      "founded": 1921,
+      "stadium": "J.J. Ugland Stadion - Levermyr",
+      "city": "Grimstad",
+      "aliases": "Jerv, Fotballklubben Jerv, Ull/Kisa | Ullensaker/Kisa"
+    },
+    {
+      "name": "IL Hødd",
+      "founded": 1919,
+      "aliases": "Hødd | Idrettslaget Hødd, IL Hødd Fotball"
+    },
+    {
+      "name": "Hamarkameratene",
+      "founded": 1918,
+      "stadium": "Briskeby Arena",
+      "city": "Hamar",
+      "aliases": "HamKam | Ham-Kam, Hamarkameratene Fotball, HamKam Fotball"
+    },
+    {
+      "name": "Kongsvinger IL",
+      "founded": 1892,
+      "aliases": "Kongsvinger, Kongsvinger IL Fot | Kongsvinger IL Toppfotball, Nest-Sotra, Notodden, Raufoss, Strømmen, Tromsdalen, Aasane Fotball [de]     ## Å => Aa"
+    },
+    {
+      "name": "Bryne FK",
+      "founded": 1926,
+      "aliases": "Bryne Fotballklubb, Bryne, Egersund, Egersunds Idrettsklubb, EIK, Levanger, Levanger Fotballklubb"
+    }
+  ],
+  "meta": {
+    "title": "Norske fotballklubber - Gratis nedlasting",
+    "description": "Football clubs in NO with founding year, stadium, city Inneholder 26 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Norske fotballklubber | ListBase",
+    "seo_description": "Last ned Norske fotballklubber — 26 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 26 poster / 5 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,721 @@
+{
+  "id": "no-veterinaerer",
+  "name": "Veterinærer i Norge",
+  "title": "Veterinærer i Norge",
+  "description": "Veterinærklinikker i Norge (OSM amenity=veterinary).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 136,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A-Vet Smådyrklinikk",
+      "latitude": 59.072729,
+      "longitude": 10.054892
+    },
+    {
+      "name": "Aalesund Dyreklinikk AS",
+      "latitude": 62.467104,
+      "longitude": 6.362364
+    },
+    {
+      "name": "ABC Dyreklinikk Muusøya",
+      "latitude": 59.75088,
+      "longitude": 10.154898
+    },
+    {
+      "name": "Alfa Kragerø Smådyrpraksis",
+      "latitude": 58.869139,
+      "longitude": 9.412528
+    },
+    {
+      "name": "AllVet Komsa dyreklinikk",
+      "latitude": 69.972863,
+      "longitude": 23.370159
+    },
+    {
+      "name": "AniCura",
+      "latitude": 59.922258,
+      "longitude": 10.761005
+    },
+    {
+      "name": "AniCura",
+      "latitude": 69.660167,
+      "longitude": 18.96681
+    },
+    {
+      "name": "AniCura Dyreklinikk Drammen",
+      "latitude": 59.765549,
+      "longitude": 10.250321
+    },
+    {
+      "name": "AniCura Dyreklinikk Majorstuen",
+      "latitude": 59.926146,
+      "longitude": 10.724921
+    },
+    {
+      "name": "AniCura Dyreklinikk Rising",
+      "latitude": 59.22564,
+      "longitude": 9.602471
+    },
+    {
+      "name": "AniCura Dyreklinikk Skien",
+      "latitude": 59.207498,
+      "longitude": 9.567047
+    },
+    {
+      "name": "AniCura Dyreklinikk Sørlandet",
+      "latitude": 58.183104,
+      "longitude": 8.152066
+    },
+    {
+      "name": "AniCura Dyreklinikken Sotra",
+      "latitude": 60.358669,
+      "longitude": 5.127375
+    },
+    {
+      "name": "AniCura Dyresykehus",
+      "latitude": 59.933937,
+      "longitude": 10.676198
+    },
+    {
+      "name": "AniCura Dyresykehuset Bergen Sør",
+      "latitude": 60.306605,
+      "longitude": 5.321951
+    },
+    {
+      "name": "AniCura Fana Dyreklinikk",
+      "latitude": 60.336194,
+      "longitude": 5.350584
+    },
+    {
+      "name": "AniCura Jeløy dyresykehus",
+      "latitude": 59.417941,
+      "longitude": 10.683873
+    },
+    {
+      "name": "AniCura Råholt Dyreklinikk",
+      "latitude": 60.285734,
+      "longitude": 11.171079
+    },
+    {
+      "name": "Arken Dyreklinikk",
+      "latitude": 58.775856,
+      "longitude": 5.836591
+    },
+    {
+      "name": "Asker Dyreklinikk",
+      "latitude": 59.858987,
+      "longitude": 10.462337
+    },
+    {
+      "name": "Bergen katteklinikk",
+      "latitude": 60.390597,
+      "longitude": 5.313087
+    },
+    {
+      "name": "Borg dyreklinikk",
+      "latitude": 59.272694,
+      "longitude": 11.134753
+    },
+    {
+      "name": "Borge Veterinærkontor",
+      "latitude": 59.228677,
+      "longitude": 10.993363
+    },
+    {
+      "name": "Distriktsveterinær Hemnes",
+      "latitude": 66.076185,
+      "longitude": 13.813337
+    },
+    {
+      "name": "Dr Dyregod Anja H. Skog",
+      "latitude": 58.089462,
+      "longitude": 6.69931
+    },
+    {
+      "name": "Dyredoktoren, Høie & Vatne as",
+      "latitude": 58.866989,
+      "longitude": 5.686599
+    },
+    {
+      "name": "Dyrego´ Veterinær Aud Fredriksen",
+      "latitude": 69.767507,
+      "longitude": 21.013702
+    },
+    {
+      "name": "Dyreklinikken",
+      "latitude": 61.226798,
+      "longitude": 7.099561
+    },
+    {
+      "name": "Dyreklinikken Bergen Vest",
+      "latitude": 60.364031,
+      "longitude": 5.246618
+    },
+    {
+      "name": "Dyreklinikken Fagerstrand",
+      "latitude": 59.746925,
+      "longitude": 10.612432
+    },
+    {
+      "name": "Dyreklinikken Hafrsfjord bru",
+      "latitude": 58.961197,
+      "longitude": 5.610158
+    },
+    {
+      "name": "Dyreklinikken Nordic Vet",
+      "latitude": 59.120803,
+      "longitude": 11.310433
+    },
+    {
+      "name": "Dyreklnikken Nesodden",
+      "latitude": 59.856376,
+      "longitude": 10.660269
+    },
+    {
+      "name": "Dyrenes venn",
+      "latitude": 59.95521,
+      "longitude": 11.047029
+    },
+    {
+      "name": "Dyrenesvenn Sinsen Dyreklinikk",
+      "latitude": 59.932652,
+      "longitude": 10.7781
+    },
+    {
+      "name": "Dyresykehuset – hest",
+      "latitude": 59.66727,
+      "longitude": 10.761315
+    },
+    {
+      "name": "Dyresykehuset – smådyr",
+      "latitude": 59.667497,
+      "longitude": 10.762531
+    },
+    {
+      "name": "Dyrlege",
+      "latitude": 70.200159,
+      "longitude": 28.182231
+    },
+    {
+      "name": "Dyrlege abrehamsens smådyrklinikk",
+      "latitude": 58.977471,
+      "longitude": 5.704074
+    },
+    {
+      "name": "Dyrlege Blom",
+      "latitude": 59.933168,
+      "longitude": 10.767094
+    },
+    {
+      "name": "Dyrlege Jannicke Dahl",
+      "latitude": 60.104615,
+      "longitude": 11.084473
+    },
+    {
+      "name": "Dyrlege Marita Hvål",
+      "latitude": 59.474437,
+      "longitude": 10.030428
+    },
+    {
+      "name": "Dyrlegen på Ålgård",
+      "latitude": 58.766923,
+      "longitude": 5.863081
+    },
+    {
+      "name": "Dyrlegene",
+      "latitude": 67.28992,
+      "longitude": 14.567968
+    },
+    {
+      "name": "Empet",
+      "latitude": 63.110531,
+      "longitude": 7.778274
+    },
+    {
+      "name": "EMPET Halden dyreklinikk",
+      "latitude": 59.122297,
+      "longitude": 11.390542
+    },
+    {
+      "name": "EMPET Lillestrøm Dyreklinikk",
+      "latitude": 59.956995,
+      "longitude": 11.024927
+    },
+    {
+      "name": "Empet Moss",
+      "latitude": 59.421408,
+      "longitude": 10.677019
+    },
+    {
+      "name": "EMPET Nydalen",
+      "latitude": 59.952136,
+      "longitude": 10.770732
+    },
+    {
+      "name": "EMPET Stabekk Dyreklinikk",
+      "latitude": 59.90865,
+      "longitude": 10.605586
+    },
+    {
+      "name": "Empet Ullevål Dyreklinikk",
+      "latitude": 59.940103,
+      "longitude": 10.729036
+    },
+    {
+      "name": "Evidensia Bodø",
+      "latitude": 67.273727,
+      "longitude": 14.448948
+    },
+    {
+      "name": "Evidensia Dyreklinikk",
+      "latitude": 60.198442,
+      "longitude": 11.00539
+    },
+    {
+      "name": "Evidensia Eiker dyreklinikk",
+      "latitude": 59.758017,
+      "longitude": 9.992867
+    },
+    {
+      "name": "Evidensia Gjerdrum Dyreklinikk",
+      "latitude": 60.069963,
+      "longitude": 11.037515
+    },
+    {
+      "name": "Evidensia Groruddalen Dyreklinikk",
+      "latitude": 59.961789,
+      "longitude": 10.923727
+    },
+    {
+      "name": "Evidensia Moss Dyreklinikk",
+      "latitude": 59.445722,
+      "longitude": 10.682082
+    },
+    {
+      "name": "Evidensia Orkdal dyresenter",
+      "latitude": 63.297723,
+      "longitude": 9.853111
+    },
+    {
+      "name": "Evidensia Rogaland Dyresykehus",
+      "latitude": 58.744843,
+      "longitude": 5.635629
+    },
+    {
+      "name": "Evidensia Strømsø Dyreklinikk",
+      "latitude": 59.731701,
+      "longitude": 10.218785
+    },
+    {
+      "name": "Evidensia Åssiden dyreklinikk AS",
+      "latitude": 59.750754,
+      "longitude": 10.161578
+    },
+    {
+      "name": "Fagernes veterinærkontor",
+      "latitude": 60.985408,
+      "longitude": 9.229731
+    },
+    {
+      "name": "Follo dyreklinikk",
+      "latitude": 59.718501,
+      "longitude": 10.842342
+    },
+    {
+      "name": "Fornebu dyreklinikk AS",
+      "latitude": 59.90152,
+      "longitude": 10.623479
+    },
+    {
+      "name": "Fredrikstad Dyrehospital",
+      "latitude": 59.223816,
+      "longitude": 10.953233
+    },
+    {
+      "name": "Frogner dyeklinikk",
+      "latitude": 59.917649,
+      "longitude": 10.712346
+    },
+    {
+      "name": "Gården Dyreklinikk",
+      "latitude": 60.351336,
+      "longitude": 5.34854
+    },
+    {
+      "name": "Hafrsfjord Smådyrklinikk",
+      "latitude": 58.949971,
+      "longitude": 5.645847
+    },
+    {
+      "name": "Hamar Dyreklinikk AS",
+      "latitude": 60.797056,
+      "longitude": 11.088569
+    },
+    {
+      "name": "Hammerfest Staller Dyreklinikk",
+      "latitude": 70.684258,
+      "longitude": 23.694004
+    },
+    {
+      "name": "Haugaland Dyreklinikk",
+      "latitude": 59.311091,
+      "longitude": 5.287237
+    },
+    {
+      "name": "Hedemarken dyreklinikk",
+      "latitude": 60.834181,
+      "longitude": 11.053465
+    },
+    {
+      "name": "Hege's Hundesalong",
+      "latitude": 59.282033,
+      "longitude": 10.363343
+    },
+    {
+      "name": "Helgeland Dyreklinikk",
+      "latitude": 65.862159,
+      "longitude": 13.193113
+    },
+    {
+      "name": "Hesteklinikken Bergen",
+      "latitude": 60.487985,
+      "longitude": 5.383672
+    },
+    {
+      "name": "Hinna Dyreklinikk",
+      "latitude": 58.909486,
+      "longitude": 5.728525
+    },
+    {
+      "name": "Holmestrand Dyreklinikk",
+      "latitude": 59.489222,
+      "longitude": 10.296417
+    },
+    {
+      "name": "Holstad Veterinærkontor",
+      "latitude": 59.688814,
+      "longitude": 10.813975
+    },
+    {
+      "name": "Hornindal Veterinærkontor",
+      "latitude": 61.967191,
+      "longitude": 6.526317
+    },
+    {
+      "name": "Horten Dyreklinikk AS",
+      "latitude": 59.426562,
+      "longitude": 10.458639
+    },
+    {
+      "name": "Inderøy Dyreklinikk",
+      "latitude": 63.874635,
+      "longitude": 11.290327
+    },
+    {
+      "name": "Jessheim dyreklinikk",
+      "latitude": 60.141326,
+      "longitude": 11.179063
+    },
+    {
+      "name": "Kolbotn Dyreklinikk",
+      "latitude": 59.794735,
+      "longitude": 10.822032
+    },
+    {
+      "name": "Kristiansand Dyreklinikk",
+      "latitude": 58.15703,
+      "longitude": 7.999705
+    },
+    {
+      "name": "Lakselv Dyreklinikk",
+      "latitude": 70.053134,
+      "longitude": 24.970583
+    },
+    {
+      "name": "Liertoppen Dyreklinikk",
+      "latitude": 59.811403,
+      "longitude": 10.30552
+    },
+    {
+      "name": "Lillehammer dyreklinikk",
+      "latitude": 61.124678,
+      "longitude": 10.456345
+    },
+    {
+      "name": "Lisaklinikken",
+      "latitude": 59.92158,
+      "longitude": 10.761395
+    },
+    {
+      "name": "Maridalsveien Smådyrklinikk",
+      "latitude": 59.947378,
+      "longitude": 10.759781
+    },
+    {
+      "name": "Minde Dyreklinikk",
+      "latitude": 60.364256,
+      "longitude": 5.346272
+    },
+    {
+      "name": "Nesodden Dyreklinikk",
+      "latitude": 59.850588,
+      "longitude": 10.656728
+    },
+    {
+      "name": "Nittedal dyreklinikk",
+      "latitude": 60.009574,
+      "longitude": 10.921604
+    },
+    {
+      "name": "Nordtroms Veterinærkontor",
+      "latitude": 69.784656,
+      "longitude": 20.951387
+    },
+    {
+      "name": "Nøtterøy Dyreklinikk",
+      "latitude": 59.114998,
+      "longitude": 10.392471
+    },
+    {
+      "name": "Nøtterøy dyreklinikk",
+      "latitude": 59.252227,
+      "longitude": 10.411953
+    },
+    {
+      "name": "Oonasin dyreklinikk",
+      "latitude": 60.717737,
+      "longitude": 11.190662
+    },
+    {
+      "name": "Oppdal dyreklinikk AS",
+      "latitude": 62.593685,
+      "longitude": 9.686775
+    },
+    {
+      "name": "Osterøy Veterinærklinikk",
+      "latitude": 60.505558,
+      "longitude": 5.430158
+    },
+    {
+      "name": "O’ptimum Dyrehospital",
+      "latitude": 59.842507,
+      "longitude": 10.429362
+    },
+    {
+      "name": "Petrus",
+      "latitude": 59.923356,
+      "longitude": 10.756505
+    },
+    {
+      "name": "Petrus",
+      "latitude": 59.927059,
+      "longitude": 10.712772
+    },
+    {
+      "name": "Randesund Dyreklinikk",
+      "latitude": 58.14477,
+      "longitude": 8.073018
+    },
+    {
+      "name": "Robust Fysioterapi",
+      "latitude": 59.908076,
+      "longitude": 10.601669
+    },
+    {
+      "name": "Røros Dyreklinikk",
+      "latitude": 62.574258,
+      "longitude": 11.37616
+    },
+    {
+      "name": "Salangen Dyreklinikk",
+      "latitude": 68.876924,
+      "longitude": 17.832081
+    },
+    {
+      "name": "Sentrum dyreklinikk",
+      "latitude": 61.118064,
+      "longitude": 10.458099
+    },
+    {
+      "name": "Skedsmo Dyreklinikk",
+      "latitude": 59.981297,
+      "longitude": 11.0453
+    },
+    {
+      "name": "Skjønhaug dyreklinikk",
+      "latitude": 59.641096,
+      "longitude": 11.316158
+    },
+    {
+      "name": "Smådyrklinikken",
+      "latitude": 59.754286,
+      "longitude": 10.844511
+    },
+    {
+      "name": "Smådyrklinikken Nittedal",
+      "latitude": 60.049837,
+      "longitude": 10.882996
+    },
+    {
+      "name": "Smådyrklinikken Ørsta",
+      "latitude": 62.194205,
+      "longitude": 6.123442
+    },
+    {
+      "name": "Stjørdal Dyreklinikk",
+      "latitude": 63.469875,
+      "longitude": 10.924756
+    },
+    {
+      "name": "Stord dyreklinikk AS",
+      "latitude": 59.782068,
+      "longitude": 5.498421
+    },
+    {
+      "name": "Strinda Dyreklinikk",
+      "latitude": 63.40783,
+      "longitude": 10.397403
+    },
+    {
+      "name": "Svelvik Dyrlegekontor",
+      "latitude": 59.611362,
+      "longitude": 10.407647
+    },
+    {
+      "name": "Sørlandets Dyreklinikk avdeling Farsund",
+      "latitude": 58.094371,
+      "longitude": 6.780326
+    },
+    {
+      "name": "Sørum og Fet veterinærkontor",
+      "latitude": 59.985559,
+      "longitude": 11.25082
+    },
+    {
+      "name": "Tertnes Dyreklinikk",
+      "latitude": 60.458423,
+      "longitude": 5.289152
+    },
+    {
+      "name": "Tromsdalen Dyreklinikk",
+      "latitude": 69.644511,
+      "longitude": 18.999548
+    },
+    {
+      "name": "Tønsberg Dyreklinikk",
+      "latitude": 59.271416,
+      "longitude": 10.360145
+    },
+    {
+      "name": "Vestfold dyrehospital",
+      "latitude": 59.261297,
+      "longitude": 10.422888
+    },
+    {
+      "name": "Vestmar dyreklinikk",
+      "latitude": 58.896137,
+      "longitude": 9.283019
+    },
+    {
+      "name": "vetBerven",
+      "latitude": 58.121722,
+      "longitude": 6.599233
+    },
+    {
+      "name": "Veterinor",
+      "latitude": 70.663527,
+      "longitude": 23.688308
+    },
+    {
+      "name": "Veterinær Rannveig Boman",
+      "latitude": 59.190212,
+      "longitude": 10.979088
+    },
+    {
+      "name": "Veterinær Sandve",
+      "latitude": 63.41463,
+      "longitude": 8.150804
+    },
+    {
+      "name": "VeteriNærDeg",
+      "latitude": 59.908483,
+      "longitude": 10.47802
+    },
+    {
+      "name": "Veterinærene Nedre Hallingdal",
+      "latitude": 60.70231,
+      "longitude": 8.938605
+    },
+    {
+      "name": "Veterinærklinikk Hanne Kure",
+      "latitude": 59.379903,
+      "longitude": 10.754454
+    },
+    {
+      "name": "Veterinærkontoret i Lyngdal",
+      "latitude": 58.139611,
+      "longitude": 7.072736
+    },
+    {
+      "name": "Veterinærsenteret Midt-Troms",
+      "latitude": 68.872678,
+      "longitude": 17.850516
+    },
+    {
+      "name": "Veterinærvakta I Ål og Hol",
+      "latitude": 60.631203,
+      "longitude": 8.563142
+    },
+    {
+      "name": "Vetrinærvakta Fron AS",
+      "latitude": 61.596577,
+      "longitude": 9.743196
+    },
+    {
+      "name": "Vets 4 Pets",
+      "latitude": 59.794286,
+      "longitude": 10.446931
+    },
+    {
+      "name": "Åndal Smådyrklinikk",
+      "latitude": 62.738753,
+      "longitude": 7.164062
+    },
+    {
+      "name": "Ås Dyreklinikk",
+      "latitude": 59.669417,
+      "longitude": 10.795948
+    }
+  ],
+  "meta": {
+    "title": "Veterinærer i Norge - Gratis nedlasting",
+    "description": "Veterinærklinikker i Norge (OSM amenity=veterinary). Inneholder 136 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Veterinærer i Norge | ListBase",
+    "seo_description": "Last ned Veterinærer i Norge — 136 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 136 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "id": "no-ostfold-kommuner",
+  "name": "Kommuner i Østfold",
+  "title": "Kommuner i Østfold",
+  "description": "Alle 12 kommuner i Østfold fylke (2025) med befolkning, areal, målform og adresse til kommunens nettside.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_no",
+      "label": "Name No",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "fylke_slug",
+      "label": "Fylke Slug",
+      "type": "string"
+    },
+    {
+      "key": "adm_center",
+      "label": "Adm Center",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "area_km2",
+      "label": "Area Km2",
+      "type": "number"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    },
+    {
+      "key": "num_postnummer",
+      "label": "Num Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "alternative_navn",
+      "label": "Alternative Navn",
+      "type": "string"
+    },
+    {
+      "key": "tidligere_fylker",
+      "label": "Tidligere Fylker",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "3101",
+      "name": "Halden",
+      "name_no": "Halden",
+      "slug": "halden",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Halden",
+      "population": 31935,
+      "area_km2": 642.48,
+      "language": "Bokmål",
+      "url": "www.halden.kommune.no",
+      "num_postnummer": 37,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3103",
+      "name": "Moss",
+      "name_no": "Moss",
+      "slug": "moss",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Moss",
+      "population": 52051,
+      "area_km2": 137.77,
+      "language": "Nøytral",
+      "url": "www.moss.kommune.no",
+      "num_postnummer": 46,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3105",
+      "name": "Sarpsborg",
+      "name_no": "Sarpsborg",
+      "slug": "sarpsborg",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Sarpsborg",
+      "population": 59771,
+      "area_km2": 405.6,
+      "language": "Bokmål",
+      "url": "www.sarpsborg.kommune.no",
+      "num_postnummer": 37,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3107",
+      "name": "Fredrikstad",
+      "name_no": "Fredrikstad",
+      "slug": "fredrikstad",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Fredrikstad",
+      "population": 85230,
+      "area_km2": 292.55,
+      "language": "Bokmål",
+      "url": "www.fredrikstad.kommune.no",
+      "num_postnummer": 57,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3110",
+      "name": "Hvaler",
+      "name_no": "Hvaler",
+      "slug": "hvaler",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Skjærhalden",
+      "population": 4787,
+      "area_km2": 90.11,
+      "language": "Bokmål",
+      "url": "www.hvaler.kommune.no",
+      "num_postnummer": 6,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3112",
+      "name": "Råde",
+      "name_no": "Råde",
+      "slug": "rade",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Karlshus",
+      "population": 7883,
+      "area_km2": 118.76,
+      "language": "Bokmål",
+      "url": "www.rade.kommune.no",
+      "num_postnummer": 4,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3114",
+      "name": "Våler",
+      "name_no": "Våler",
+      "slug": "valer-ostfold",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Kirkebygden",
+      "population": 6145,
+      "area_km2": 256.95,
+      "language": "Bokmål",
+      "url": "www.valer-of.kommune.no",
+      "num_postnummer": 4,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3116",
+      "name": "Skiptvet",
+      "name_no": "Skiptvet",
+      "slug": "skiptvet",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Meieribyen",
+      "population": 3919,
+      "area_km2": 101.2,
+      "language": "Bokmål",
+      "url": "www.skiptvet.kommune.no",
+      "num_postnummer": 2,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3118",
+      "name": "Indre Østfold",
+      "name_no": "Indre Østfold",
+      "slug": "indre-ostfold",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Askim",
+      "population": 47006,
+      "area_km2": 791.76,
+      "language": "Bokmål",
+      "url": "www.io.kommune.no",
+      "num_postnummer": 33,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3120",
+      "name": "Rakkestad",
+      "name_no": "Rakkestad",
+      "slug": "rakkestad",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Rakkestad",
+      "population": 8420,
+      "area_km2": 434.87,
+      "language": "Bokmål",
+      "url": "www.rakkestad.kommune.no",
+      "num_postnummer": 5,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3122",
+      "name": "Marker",
+      "name_no": "Marker",
+      "slug": "marker",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Ørje",
+      "population": 3658,
+      "area_km2": 412.9,
+      "language": "Bokmål",
+      "url": "www.marker.kommune.no",
+      "num_postnummer": 3,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    },
+    {
+      "id": "3124",
+      "name": "Aremark",
+      "name_no": "Aremark",
+      "slug": "aremark",
+      "fylke_id": "31",
+      "fylke": "Østfold",
+      "fylke_slug": "ostfold",
+      "adm_center": "Fossby",
+      "population": 1347,
+      "area_km2": 319.26,
+      "language": "Bokmål",
+      "url": "www.aremark.kommune.no",
+      "num_postnummer": 2,
+      "alternative_navn": "",
+      "tidligere_fylker": "Viken"
+    }
+  ],
+  "meta": {
+    "title": "Kommuner i Østfold - Gratis nedlasting",
+    "description": "Alle 12 kommuner i Østfold fylke (2025) med befolkning, areal, målform og adresse til kommunens nettside. Inneholder 12 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Kommuner i Østfold | ListBase",
+    "seo_description": "Last ned Kommuner i Østfold — 12 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 12 poster / 15 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

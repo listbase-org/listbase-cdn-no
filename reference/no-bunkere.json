@@ -1,0 +1,806 @@
+{
+  "id": "no-bunkere",
+  "name": "Military bunkers in Norway",
+  "title": "Military bunkers in Norway",
+  "description": "Military bunkers in Norway (Bunkere i Norge), derived from OpenStreetMap POIs tagged military=bunker. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 153,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Turned over\" bunker",
+      "latitude": 60.57484,
+      "longitude": 4.953259
+    },
+    {
+      "name": "1",
+      "latitude": 67.20594,
+      "longitude": 14.373581
+    },
+    {
+      "name": "10,5 cm SKC/32",
+      "latitude": 68.824458,
+      "longitude": 16.563307
+    },
+    {
+      "name": "160",
+      "latitude": 60.194105,
+      "longitude": 10.293998
+    },
+    {
+      "name": "161",
+      "latitude": 60.194191,
+      "longitude": 10.294439
+    },
+    {
+      "name": "2",
+      "latitude": 67.205647,
+      "longitude": 14.372338
+    },
+    {
+      "name": "3",
+      "latitude": 67.204987,
+      "longitude": 14.369942
+    },
+    {
+      "name": "607",
+      "latitude": 59.148733,
+      "longitude": 5.198791
+    },
+    {
+      "name": "622",
+      "latitude": 63.707652,
+      "longitude": 9.72448
+    },
+    {
+      "name": "631",
+      "latitude": 63.707859,
+      "longitude": 9.72464
+    },
+    {
+      "name": "632",
+      "latitude": 68.824581,
+      "longitude": 16.563263
+    },
+    {
+      "name": "AA gun placement",
+      "latitude": 58.301774,
+      "longitude": 6.327878
+    },
+    {
+      "name": "ammunisjonsbunker",
+      "latitude": 59.156387,
+      "longitude": 5.291374
+    },
+    {
+      "name": "ammunisjonsbunker",
+      "latitude": 59.489928,
+      "longitude": 5.241502
+    },
+    {
+      "name": "ammunisjonsbunker",
+      "latitude": 61.761953,
+      "longitude": 5.096437
+    },
+    {
+      "name": "Barnas fort",
+      "latitude": 62.469403,
+      "longitude": 6.093304
+    },
+    {
+      "name": "Batteri Tivoli",
+      "latitude": 59.42465,
+      "longitude": 10.493586
+    },
+    {
+      "name": "Bjørnebo",
+      "latitude": 59.933648,
+      "longitude": 10.677763
+    },
+    {
+      "name": "Blåbæråsen alarmplass",
+      "latitude": 59.428588,
+      "longitude": 10.678763
+    },
+    {
+      "name": "Blåsthaugen",
+      "latitude": 58.066437,
+      "longitude": 7.996505
+    },
+    {
+      "name": "Bodil",
+      "latitude": 59.085473,
+      "longitude": 5.580182
+    },
+    {
+      "name": "Bodø flyklubb",
+      "latitude": 67.269732,
+      "longitude": 14.346739
+    },
+    {
+      "name": "Brattåsen",
+      "latitude": 58.06459,
+      "longitude": 7.986377
+    },
+    {
+      "name": "Bunker #2 på Nesåsen",
+      "latitude": 59.915019,
+      "longitude": 10.976378
+    },
+    {
+      "name": "Bunker 1 vest - Ormsund leir",
+      "latitude": 59.879789,
+      "longitude": 10.768375
+    },
+    {
+      "name": "Bunker 2 øst - Ormsund leir",
+      "latitude": 59.879995,
+      "longitude": 10.769581
+    },
+    {
+      "name": "Bunker Sort",
+      "latitude": 59.885664,
+      "longitude": 10.606103
+    },
+    {
+      "name": "Bunkeren på Skjerpehaugen",
+      "latitude": 59.906645,
+      "longitude": 10.611417
+    },
+    {
+      "name": "Bunkerne #1 på Nesåsen",
+      "latitude": 59.91467,
+      "longitude": 10.977257
+    },
+    {
+      "name": "Bunkerne #3 på Nesåsen",
+      "latitude": 59.914736,
+      "longitude": 10.975771
+    },
+    {
+      "name": "Bøkfjord torpedobatteri",
+      "latitude": 69.812848,
+      "longitude": 30.156313
+    },
+    {
+      "name": "Den tyske Jagerflyger-kommandoens bunker",
+      "latitude": 59.911692,
+      "longitude": 10.634469
+    },
+    {
+      "name": "Donner Felix",
+      "latitude": 60.326202,
+      "longitude": 5.082576
+    },
+    {
+      "name": "Dora 1",
+      "latitude": 63.439503,
+      "longitude": 10.421053
+    },
+    {
+      "name": "Dora 2",
+      "latitude": 63.440493,
+      "longitude": 10.416553
+    },
+    {
+      "name": "Elton orografstasjon",
+      "latitude": 59.617117,
+      "longitude": 10.597421
+    },
+    {
+      "name": "Fjellanlegg",
+      "latitude": 58.043953,
+      "longitude": 7.147535
+    },
+    {
+      "name": "Freya",
+      "latitude": 58.853874,
+      "longitude": 5.552071
+    },
+    {
+      "name": "Fyringsbunkeren",
+      "latitude": 63.439453,
+      "longitude": 10.418665
+    },
+    {
+      "name": "Generator bunker",
+      "latitude": 58.649795,
+      "longitude": 5.628666
+    },
+    {
+      "name": "generator bunker",
+      "latitude": 58.654043,
+      "longitude": 5.62309
+    },
+    {
+      "name": "Geværgalleriet",
+      "latitude": 59.607944,
+      "longitude": 11.117591
+    },
+    {
+      "name": "Grefsenkollen Alarmplass",
+      "latitude": 59.953149,
+      "longitude": 10.798264
+    },
+    {
+      "name": "gun emplacement",
+      "latitude": 61.919209,
+      "longitude": 5.12471
+    },
+    {
+      "name": "gun placement",
+      "latitude": 61.919282,
+      "longitude": 5.12576
+    },
+    {
+      "name": "Havnefortet",
+      "latitude": 59.676103,
+      "longitude": 10.607146
+    },
+    {
+      "name": "Hortenstangen batteri",
+      "latitude": 59.418072,
+      "longitude": 10.496226
+    },
+    {
+      "name": "Hovedbatteriet",
+      "latitude": 59.673015,
+      "longitude": 10.60789
+    },
+    {
+      "name": "Hovedsikte",
+      "latitude": 63.451516,
+      "longitude": 10.382874
+    },
+    {
+      "name": "Husvikbatteriet",
+      "latitude": 59.673244,
+      "longitude": 10.620287
+    },
+    {
+      "name": "HV Bunkeren",
+      "latitude": 59.902331,
+      "longitude": 10.614817
+    },
+    {
+      "name": "Høyfjellet",
+      "latitude": 58.073673,
+      "longitude": 7.996946
+    },
+    {
+      "name": "Høyfjellet Kommandoplass",
+      "latitude": 58.072568,
+      "longitude": 7.996478
+    },
+    {
+      "name": "Inngang B",
+      "latitude": 60.326029,
+      "longitude": 5.082808
+    },
+    {
+      "name": "Inngang C",
+      "latitude": 60.327641,
+      "longitude": 5.082925
+    },
+    {
+      "name": "Inngang Vest",
+      "latitude": 60.325805,
+      "longitude": 5.080474
+    },
+    {
+      "name": "K1",
+      "latitude": 58.091841,
+      "longitude": 7.966211
+    },
+    {
+      "name": "K1",
+      "latitude": 59.087055,
+      "longitude": 5.576415
+    },
+    {
+      "name": "K2",
+      "latitude": 59.086671,
+      "longitude": 5.576626
+    },
+    {
+      "name": "K3",
+      "latitude": 58.092961,
+      "longitude": 7.970376
+    },
+    {
+      "name": "K3",
+      "latitude": 59.085289,
+      "longitude": 5.577036
+    },
+    {
+      "name": "K4",
+      "latitude": 58.094334,
+      "longitude": 7.968623
+    },
+    {
+      "name": "K4",
+      "latitude": 59.084587,
+      "longitude": 5.579927
+    },
+    {
+      "name": "Kanon 1",
+      "latitude": 59.073554,
+      "longitude": 10.410676
+    },
+    {
+      "name": "Kanon 2",
+      "latitude": 59.073711,
+      "longitude": 10.413138
+    },
+    {
+      "name": "Kanon 3",
+      "latitude": 59.072554,
+      "longitude": 10.414201
+    },
+    {
+      "name": "Kanon 4",
+      "latitude": 59.073991,
+      "longitude": 10.414829
+    },
+    {
+      "name": "Kanonen",
+      "latitude": 58.087152,
+      "longitude": 8.007248
+    },
+    {
+      "name": "Kanonen",
+      "latitude": 58.088633,
+      "longitude": 8.007612
+    },
+    {
+      "name": "Kanonstilling",
+      "latitude": 58.043573,
+      "longitude": 7.145817
+    },
+    {
+      "name": "Kanonstilling Krageviga",
+      "latitude": 58.087167,
+      "longitude": 8.007241
+    },
+    {
+      "name": "kanontårn",
+      "latitude": 59.145622,
+      "longitude": 5.26992
+    },
+    {
+      "name": "kanontårn",
+      "latitude": 59.145668,
+      "longitude": 5.270993
+    },
+    {
+      "name": "Kanontårn",
+      "latitude": 60.570175,
+      "longitude": 4.957508
+    },
+    {
+      "name": "Knickebein",
+      "latitude": 58.770251,
+      "longitude": 5.620077
+    },
+    {
+      "name": "Kommandobunker",
+      "latitude": 58.035916,
+      "longitude": 7.214217
+    },
+    {
+      "name": "kommandobunker",
+      "latitude": 59.145375,
+      "longitude": 5.270189
+    },
+    {
+      "name": "kommandobunker",
+      "latitude": 59.149169,
+      "longitude": 5.197307
+    },
+    {
+      "name": "kommandobunker",
+      "latitude": 59.280134,
+      "longitude": 5.261973
+    },
+    {
+      "name": "Kommandobunker",
+      "latitude": 60.32732,
+      "longitude": 5.082151
+    },
+    {
+      "name": "Kommandobunker",
+      "latitude": 62.475158,
+      "longitude": 6.165729
+    },
+    {
+      "name": "kommandobunker",
+      "latitude": 62.908093,
+      "longitude": 6.905819
+    },
+    {
+      "name": "Kommandoplass Fugleredet",
+      "latitude": 59.678702,
+      "longitude": 10.608393
+    },
+    {
+      "name": "Kopås Batteriet",
+      "latitude": 59.672617,
+      "longitude": 10.62313
+    },
+    {
+      "name": "Kruttmagasinet",
+      "latitude": 59.202993,
+      "longitude": 10.946956
+    },
+    {
+      "name": "Langenes brogalleri",
+      "latitude": 59.609163,
+      "longitude": 11.117463
+    },
+    {
+      "name": "Lasarettsal",
+      "latitude": 58.04637,
+      "longitude": 6.976441
+    },
+    {
+      "name": "Likollen (Søndre fort, Ørjefortene)",
+      "latitude": 59.469629,
+      "longitude": 11.65025
+    },
+    {
+      "name": "Litlevikar",
+      "latitude": 68.447592,
+      "longitude": 17.412257
+    },
+    {
+      "name": "Lorelei",
+      "latitude": 60.835136,
+      "longitude": 6.682925
+    },
+    {
+      "name": "Luftvernkanon",
+      "latitude": 63.45102,
+      "longitude": 10.382233
+    },
+    {
+      "name": "Lyskasterstandplass",
+      "latitude": 59.678056,
+      "longitude": 10.608331
+    },
+    {
+      "name": "Lyskasterstilling - Prestholmen",
+      "latitude": 60.606757,
+      "longitude": 4.934322
+    },
+    {
+      "name": "Lytta",
+      "latitude": 63.122052,
+      "longitude": 7.720258
+    },
+    {
+      "name": "M19",
+      "latitude": 60.321509,
+      "longitude": 5.083374
+    },
+    {
+      "name": "M19",
+      "latitude": 60.324419,
+      "longitude": 5.087701
+    },
+    {
+      "name": "M19",
+      "latitude": 60.32645,
+      "longitude": 5.08226
+    },
+    {
+      "name": "M197?",
+      "latitude": 67.967971,
+      "longitude": 14.957631
+    },
+    {
+      "name": "M263",
+      "latitude": 58.653782,
+      "longitude": 5.621014
+    },
+    {
+      "name": "Maxa Moritz",
+      "latitude": 63.292803,
+      "longitude": 9.044436
+    },
+    {
+      "name": "Møringa Batteri",
+      "latitude": 59.433777,
+      "longitude": 10.495995
+    },
+    {
+      "name": "Møvik fort",
+      "latitude": 58.090723,
+      "longitude": 7.968287
+    },
+    {
+      "name": "Nesset batteri",
+      "latitude": 59.667415,
+      "longitude": 10.597001
+    },
+    {
+      "name": "Observasjons/kommandoplass",
+      "latitude": 59.63211,
+      "longitude": 11.346556
+    },
+    {
+      "name": "Observasjons/kommandoplass",
+      "latitude": 59.632314,
+      "longitude": 11.345052
+    },
+    {
+      "name": "observasjonsbunker",
+      "latitude": 60.171542,
+      "longitude": 5.434228
+    },
+    {
+      "name": "Observasjonspost",
+      "latitude": 61.88002,
+      "longitude": 5.211425
+    },
+    {
+      "name": "Old German Bunker",
+      "latitude": 67.286124,
+      "longitude": 14.395692
+    },
+    {
+      "name": "PAK-bunker",
+      "latitude": 62.586044,
+      "longitude": 6.112904
+    },
+    {
+      "name": "Quislingtunnelen",
+      "latitude": 59.900004,
+      "longitude": 10.535683
+    },
+    {
+      "name": "R636",
+      "latitude": 58.724571,
+      "longitude": 9.240235
+    },
+    {
+      "name": "Radarbunker",
+      "latitude": 63.114721,
+      "longitude": 7.697325
+    },
+    {
+      "name": "Randi",
+      "latitude": 59.085494,
+      "longitude": 5.581484
+    },
+    {
+      "name": "Rutledal torpedobatteri",
+      "latitude": 61.077242,
+      "longitude": 5.209633
+    },
+    {
+      "name": "S384",
+      "latitude": 68.830153,
+      "longitude": 16.573134
+    },
+    {
+      "name": "S384",
+      "latitude": 68.832006,
+      "longitude": 16.57556
+    },
+    {
+      "name": "S446",
+      "latitude": 63.715152,
+      "longitude": 9.673221
+    },
+    {
+      "name": "S446",
+      "latitude": 68.83491,
+      "longitude": 16.58744
+    },
+    {
+      "name": "sambandsbunker",
+      "latitude": 59.201743,
+      "longitude": 5.17168
+    },
+    {
+      "name": "sambandsbunker",
+      "latitude": 61.762367,
+      "longitude": 5.096583
+    },
+    {
+      "name": "Sambandsbunkeren",
+      "latitude": 60.400177,
+      "longitude": 5.318009
+    },
+    {
+      "name": "Sanitetsbunker",
+      "latitude": 60.323102,
+      "longitude": 5.082668
+    },
+    {
+      "name": "Sentralanlegget",
+      "latitude": 60.080051,
+      "longitude": 10.340867
+    },
+    {
+      "name": "Signalstasjonen",
+      "latitude": 69.455238,
+      "longitude": 18.138577
+    },
+    {
+      "name": "Siktetårn for torpedobatteri",
+      "latitude": 59.677279,
+      "longitude": 10.607819
+    },
+    {
+      "name": "Stabben fort",
+      "latitude": 63.663629,
+      "longitude": 8.311357
+    },
+    {
+      "name": "Stellung Sauerampfer, Freya radar",
+      "latitude": 59.68076,
+      "longitude": 9.669109
+    },
+    {
+      "name": "Stellung Sauerampfer, radar Würzburg 1,",
+      "latitude": 59.67442,
+      "longitude": 9.699305
+    },
+    {
+      "name": "Stellung Sauerampfer, Würzburg radar 2",
+      "latitude": 59.672853,
+      "longitude": 9.700949
+    },
+    {
+      "name": "Stensvik bunker",
+      "latitude": 59.180774,
+      "longitude": 10.857237
+    },
+    {
+      "name": "Stjernås orografstasjon",
+      "latitude": 59.574738,
+      "longitude": 10.652086
+    },
+    {
+      "name": "Sundland Batteri Bunker #1",
+      "latitude": 63.405193,
+      "longitude": 10.40561
+    },
+    {
+      "name": "Søndre batteri",
+      "latitude": 59.672412,
+      "longitude": 10.60799
+    },
+    {
+      "name": "Torpedobatteri",
+      "latitude": 61.899183,
+      "longitude": 5.193682
+    },
+    {
+      "name": "Torpedobatterie \"Hjeltne\"",
+      "latitude": 60.576585,
+      "longitude": 4.941933
+    },
+    {
+      "name": "tunellanlegg",
+      "latitude": 60.310599,
+      "longitude": 5.327473
+    },
+    {
+      "name": "Tyskerhøla",
+      "latitude": 59.206815,
+      "longitude": 11.135199
+    },
+    {
+      "name": "Ubåtbunkeren \"Bruno\"",
+      "latitude": 60.390985,
+      "longitude": 5.286698
+    },
+    {
+      "name": "Utsiktspost",
+      "latitude": 61.273493,
+      "longitude": 4.95255
+    },
+    {
+      "name": "vanntank",
+      "latitude": 62.908243,
+      "longitude": 6.908557
+    },
+    {
+      "name": "Varatua",
+      "latitude": 58.528628,
+      "longitude": 5.776697
+    },
+    {
+      "name": "Vestre batteri",
+      "latitude": 59.300888,
+      "longitude": 11.100464
+    },
+    {
+      "name": "Vestre Strandbatteri",
+      "latitude": 59.673037,
+      "longitude": 10.605453
+    },
+    {
+      "name": "Vidsyn",
+      "latitude": 58.229711,
+      "longitude": 6.539019
+    },
+    {
+      "name": "Vålerenga bunker",
+      "latitude": 59.907652,
+      "longitude": 10.788673
+    },
+    {
+      "name": "Våpenhula",
+      "latitude": 59.331839,
+      "longitude": 10.763922
+    },
+    {
+      "name": "WR",
+      "latitude": 59.151888,
+      "longitude": 5.203013
+    },
+    {
+      "name": "WR 1",
+      "latitude": 59.996162,
+      "longitude": 5.080346
+    },
+    {
+      "name": "WR 2",
+      "latitude": 59.993962,
+      "longitude": 5.079047
+    },
+    {
+      "name": "WW2 German pillbox",
+      "latitude": 59.918544,
+      "longitude": 10.715569
+    },
+    {
+      "name": "Ørjekollen (nordre fort, Ørjefortene)",
+      "latitude": 59.479151,
+      "longitude": 11.647334
+    },
+    {
+      "name": "Østre strandbatteri",
+      "latitude": 59.673771,
+      "longitude": 10.609082
+    },
+    {
+      "name": "Øvre toppbatteri",
+      "latitude": 59.683839,
+      "longitude": 10.590042
+    }
+  ],
+  "meta": {
+    "title": "Military bunkers in Norway - Gratis nedlasting",
+    "description": "Military bunkers in Norway (Bunkere i Norge), derived from OpenStreetMap POIs tagged military=bunker. Named features only, clipped to mainland Norway. Inneholder 153 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Military bunkers in Norway | ListBase",
+    "seo_description": "Last ned Military bunkers in Norway — 153 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 153 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

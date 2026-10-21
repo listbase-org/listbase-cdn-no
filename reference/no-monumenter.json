@@ -1,0 +1,971 @@
+{
+  "id": "no-monumenter",
+  "name": "Monuments in Norway",
+  "title": "Monuments in Norway",
+  "description": "Monuments in Norway (Monumenter i Norge), derived from OpenStreetMap POIs tagged historic=monument. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 186,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Hvalen\"",
+      "latitude": 68.915059,
+      "longitude": 15.0933
+    },
+    {
+      "name": "1880 Ritmester Henrik Andreas Brock",
+      "latitude": 60.241514,
+      "longitude": 11.106213
+    },
+    {
+      "name": "19",
+      "latitude": 60.342937,
+      "longitude": 5.473024
+    },
+    {
+      "name": "20",
+      "latitude": 60.340857,
+      "longitude": 5.471673
+    },
+    {
+      "name": "22",
+      "latitude": 60.33743,
+      "longitude": 5.472357
+    },
+    {
+      "name": "22. juli monument Melbu",
+      "latitude": 68.502491,
+      "longitude": 14.798251
+    },
+    {
+      "name": "24",
+      "latitude": 60.334931,
+      "longitude": 5.470826
+    },
+    {
+      "name": "A. O. Vinje",
+      "latitude": 59.215988,
+      "longitude": 9.610616
+    },
+    {
+      "name": "Admiral Cornelius Cruys",
+      "latitude": 58.971912,
+      "longitude": 5.735628
+    },
+    {
+      "name": "Airship “Norge” Landing Site",
+      "latitude": 59.89534,
+      "longitude": 10.781731
+    },
+    {
+      "name": "Amtmann Aubert Skoneprest Svedrup. 1858",
+      "latitude": 61.209277,
+      "longitude": 6.539067
+    },
+    {
+      "name": "Ankeret",
+      "latitude": 68.439141,
+      "longitude": 17.428646
+    },
+    {
+      "name": "Asbjørn Kloster",
+      "latitude": 58.964691,
+      "longitude": 5.728271
+    },
+    {
+      "name": "Aukrust-monumentet",
+      "latitude": 62.108946,
+      "longitude": 10.629848
+    },
+    {
+      "name": "Ballspillgruppe",
+      "latitude": 59.286841,
+      "longitude": 11.100547
+    },
+    {
+      "name": "Bautaen",
+      "latitude": 63.105683,
+      "longitude": 7.740947
+    },
+    {
+      "name": "Benjamin Sewell",
+      "latitude": 59.199962,
+      "longitude": 9.61025
+    },
+    {
+      "name": "Binderssteinen",
+      "latitude": 59.920428,
+      "longitude": 11.532783
+    },
+    {
+      "name": "Borregaardsmonumentet",
+      "latitude": 59.276977,
+      "longitude": 11.130837
+    },
+    {
+      "name": "Brutt lenke",
+      "latitude": 58.970536,
+      "longitude": 5.593943
+    },
+    {
+      "name": "Bræinlunden",
+      "latitude": 63.111305,
+      "longitude": 7.725009
+    },
+    {
+      "name": "Byskogenbomba",
+      "latitude": 63.108525,
+      "longitude": 7.819768
+    },
+    {
+      "name": "Cannon",
+      "latitude": 58.462367,
+      "longitude": 8.765436
+    },
+    {
+      "name": "Cay-Cay Tren-Tren",
+      "latitude": 59.937933,
+      "longitude": 10.75115
+    },
+    {
+      "name": "Christian August-monumentet",
+      "latitude": 59.901987,
+      "longitude": 10.666818
+    },
+    {
+      "name": "CQ",
+      "latitude": 60.366961,
+      "longitude": 5.522489
+    },
+    {
+      "name": "CR",
+      "latitude": 60.366055,
+      "longitude": 5.520314
+    },
+    {
+      "name": "CS",
+      "latitude": 60.363874,
+      "longitude": 5.517939
+    },
+    {
+      "name": "CT",
+      "latitude": 60.362527,
+      "longitude": 5.515077
+    },
+    {
+      "name": "CV",
+      "latitude": 60.360773,
+      "longitude": 5.507398
+    },
+    {
+      "name": "CW",
+      "latitude": 60.359192,
+      "longitude": 5.50525
+    },
+    {
+      "name": "CX",
+      "latitude": 60.357552,
+      "longitude": 5.501604
+    },
+    {
+      "name": "CY",
+      "latitude": 60.357446,
+      "longitude": 5.499304
+    },
+    {
+      "name": "CZ",
+      "latitude": 60.357268,
+      "longitude": 5.498163
+    },
+    {
+      "name": "cÅ",
+      "latitude": 60.354009,
+      "longitude": 5.496487
+    },
+    {
+      "name": "CÆ",
+      "latitude": 60.3556,
+      "longitude": 5.497362
+    },
+    {
+      "name": "cØ",
+      "latitude": 60.354906,
+      "longitude": 5.494122
+    },
+    {
+      "name": "DA",
+      "latitude": 60.352977,
+      "longitude": 5.49352
+    },
+    {
+      "name": "Dager og Netter - Sarkis (1998)",
+      "latitude": 68.568599,
+      "longitude": 14.919313
+    },
+    {
+      "name": "DB",
+      "latitude": 60.349927,
+      "longitude": 5.48994
+    },
+    {
+      "name": "DC",
+      "latitude": 60.347854,
+      "longitude": 5.484978
+    },
+    {
+      "name": "DD",
+      "latitude": 60.3474,
+      "longitude": 5.481231
+    },
+    {
+      "name": "DE",
+      "latitude": 60.346013,
+      "longitude": 5.477029
+    },
+    {
+      "name": "DF",
+      "latitude": 60.344005,
+      "longitude": 5.475539
+    },
+    {
+      "name": "Donsbautaen",
+      "latitude": 59.892428,
+      "longitude": 10.882957
+    },
+    {
+      "name": "EA",
+      "latitude": 60.341341,
+      "longitude": 5.475155
+    },
+    {
+      "name": "EB",
+      "latitude": 60.33892,
+      "longitude": 5.472363
+    },
+    {
+      "name": "EC",
+      "latitude": 60.338003,
+      "longitude": 5.471741
+    },
+    {
+      "name": "ED",
+      "latitude": 60.33163,
+      "longitude": 5.467871
+    },
+    {
+      "name": "Edvard Munch",
+      "latitude": 58.864505,
+      "longitude": 9.407096
+    },
+    {
+      "name": "EE",
+      "latitude": 60.336157,
+      "longitude": 5.463748
+    },
+    {
+      "name": "EF",
+      "latitude": 60.331595,
+      "longitude": 5.455052
+    },
+    {
+      "name": "Egil Ullserks bauta",
+      "latitude": 63.023881,
+      "longitude": 7.803364
+    },
+    {
+      "name": "Einar Tambarskjelve",
+      "latitude": 63.283016,
+      "longitude": 10.258705
+    },
+    {
+      "name": "Erling Sjalgsson",
+      "latitude": 58.888877,
+      "longitude": 5.646152
+    },
+    {
+      "name": "Erling Skjalgsson",
+      "latitude": 58.96469,
+      "longitude": 5.733044
+    },
+    {
+      "name": "Ettertanken",
+      "latitude": 67.502312,
+      "longitude": 12.080712
+    },
+    {
+      "name": "Ferdinand 1",
+      "latitude": 69.294873,
+      "longitude": 16.030829
+    },
+    {
+      "name": "Fire frosker",
+      "latitude": 59.848862,
+      "longitude": 10.669565
+    },
+    {
+      "name": "Fiskarbautaen",
+      "latitude": 65.977979,
+      "longitude": 12.275682
+    },
+    {
+      "name": "Fiskerbautaen",
+      "latitude": 68.500531,
+      "longitude": 14.79776
+    },
+    {
+      "name": "Fiskerkona",
+      "latitude": 68.142392,
+      "longitude": 13.530404
+    },
+    {
+      "name": "Fløtermonumentet",
+      "latitude": 59.204273,
+      "longitude": 9.608363
+    },
+    {
+      "name": "Fr. H. Behrens",
+      "latitude": 69.726682,
+      "longitude": 30.040919
+    },
+    {
+      "name": "Franklin D Roosevelt",
+      "latitude": 59.91029,
+      "longitude": 10.734908
+    },
+    {
+      "name": "Fredet furu",
+      "latitude": 59.441583,
+      "longitude": 9.826071
+    },
+    {
+      "name": "Fredsmonumentet",
+      "latitude": 58.961161,
+      "longitude": 5.710651
+    },
+    {
+      "name": "Fredsmonumentet",
+      "latitude": 59.931633,
+      "longitude": 12.242812
+    },
+    {
+      "name": "Fritz Huitfelt",
+      "latitude": 59.98906,
+      "longitude": 10.667896
+    },
+    {
+      "name": "Fylkesmann Christensen",
+      "latitude": 60.862736,
+      "longitude": 7.11372
+    },
+    {
+      "name": "Ganger-Rolv",
+      "latitude": 62.576915,
+      "longitude": 6.118544
+    },
+    {
+      "name": "Georg Fjellberg",
+      "latitude": 59.378062,
+      "longitude": 6.447131
+    },
+    {
+      "name": "Giset-støtta",
+      "latitude": 62.515342,
+      "longitude": 11.415976
+    },
+    {
+      "name": "Grimetjørn",
+      "latitude": 58.292051,
+      "longitude": 6.640362
+    },
+    {
+      "name": "Grunnlovsbautaen",
+      "latitude": 60.288497,
+      "longitude": 5.35787
+    },
+    {
+      "name": "Heftye-bautaen",
+      "latitude": 59.95968,
+      "longitude": 10.684827
+    },
+    {
+      "name": "Heiagjengen",
+      "latitude": 66.310776,
+      "longitude": 14.137066
+    },
+    {
+      "name": "helleristninger",
+      "latitude": 59.241902,
+      "longitude": 10.419824
+    },
+    {
+      "name": "Henrik Ibsen",
+      "latitude": 59.208396,
+      "longitude": 9.61121
+    },
+    {
+      "name": "Hjalmar Johansen",
+      "latitude": 59.209723,
+      "longitude": 9.597303
+    },
+    {
+      "name": "Honndalsrokken",
+      "latitude": 62.018538,
+      "longitude": 6.68139
+    },
+    {
+      "name": "Ikaros",
+      "latitude": 59.207947,
+      "longitude": 9.6045
+    },
+    {
+      "name": "Innvandrermonumentet",
+      "latitude": 70.075318,
+      "longitude": 29.747645
+    },
+    {
+      "name": "Inskripsjoner",
+      "latitude": 67.274638,
+      "longitude": 13.976638
+    },
+    {
+      "name": "Internasjonale operasjoner i fredens tjeneste",
+      "latitude": 59.66701,
+      "longitude": 9.645661
+    },
+    {
+      "name": "J.A. Budde 1811-1906",
+      "latitude": 58.847579,
+      "longitude": 5.729776
+    },
+    {
+      "name": "Jo Gjende",
+      "latitude": 61.7577,
+      "longitude": 9.291566
+    },
+    {
+      "name": "Johan Christoffer Vogelius",
+      "latitude": 59.847778,
+      "longitude": 10.44072
+    },
+    {
+      "name": "Johan Sverdrup",
+      "latitude": 59.912452,
+      "longitude": 10.740101
+    },
+    {
+      "name": "Jønnbu parkering",
+      "latitude": 59.477147,
+      "longitude": 9.010503
+    },
+    {
+      "name": "Kalles Landeberg Plass",
+      "latitude": 59.401959,
+      "longitude": 8.492141
+    },
+    {
+      "name": "Kaplan turbine",
+      "latitude": 58.663643,
+      "longitude": 6.710297
+    },
+    {
+      "name": "King Olav V",
+      "latitude": 59.834995,
+      "longitude": 10.435364
+    },
+    {
+      "name": "Klinghåmmår'n",
+      "latitude": 63.157701,
+      "longitude": 9.726125
+    },
+    {
+      "name": "KNM Brask",
+      "latitude": 60.345887,
+      "longitude": 5.224334
+    },
+    {
+      "name": "Knut Møyen",
+      "latitude": 60.024708,
+      "longitude": 10.65891
+    },
+    {
+      "name": "Kong Olav V Minnemonument",
+      "latitude": 59.207019,
+      "longitude": 10.794694
+    },
+    {
+      "name": "Kongesteinen",
+      "latitude": 63.111964,
+      "longitude": 7.726028
+    },
+    {
+      "name": "Krohgstøtten",
+      "latitude": 59.91729,
+      "longitude": 10.759289
+    },
+    {
+      "name": "Kronprins Fredriks stoll minnestein",
+      "latitude": 59.639541,
+      "longitude": 9.596699
+    },
+    {
+      "name": "Laksevigsteinen",
+      "latitude": 58.071136,
+      "longitude": 7.967299
+    },
+    {
+      "name": "Landfalløybrua vippebrudelen",
+      "latitude": 59.748652,
+      "longitude": 10.163749
+    },
+    {
+      "name": "Leif Tronstad",
+      "latitude": 59.892901,
+      "longitude": 10.522727
+    },
+    {
+      "name": "Liten pike 10 år",
+      "latitude": 59.811186,
+      "longitude": 10.79778
+    },
+    {
+      "name": "Mariakirken",
+      "latitude": 59.903467,
+      "longitude": 10.76175
+    },
+    {
+      "name": "Martinius Urdal",
+      "latitude": 59.229617,
+      "longitude": 10.946813
+    },
+    {
+      "name": "Meridianstøtten",
+      "latitude": 70.669991,
+      "longitude": 23.663434
+    },
+    {
+      "name": "Midlertidig Minnesmerke",
+      "latitude": 59.915571,
+      "longitude": 10.745078
+    },
+    {
+      "name": "Mikrofonen",
+      "latitude": 59.55749,
+      "longitude": 9.255512
+    },
+    {
+      "name": "Mil-Org. D 13",
+      "latitude": 59.915141,
+      "longitude": 10.700124
+    },
+    {
+      "name": "Mine",
+      "latitude": 59.607204,
+      "longitude": 10.411073
+    },
+    {
+      "name": "Minebøssa",
+      "latitude": 63.111556,
+      "longitude": 7.733659
+    },
+    {
+      "name": "Minne om Gregor Sverdrups",
+      "latitude": 60.186724,
+      "longitude": 11.173573
+    },
+    {
+      "name": "Minnelund",
+      "latitude": 59.93275,
+      "longitude": 10.85329
+    },
+    {
+      "name": "Minnesmerke",
+      "latitude": 63.242806,
+      "longitude": 11.926827
+    },
+    {
+      "name": "Minnesmerke etter slag ved Alvøen",
+      "latitude": 60.394955,
+      "longitude": 5.328318
+    },
+    {
+      "name": "Minnesmerke over Ingeborg Ellingsæter",
+      "latitude": 63.084194,
+      "longitude": 7.738853
+    },
+    {
+      "name": "Minnesmerke over Kristen Fostervold",
+      "latitude": 63.11128,
+      "longitude": 7.76921
+    },
+    {
+      "name": "Minnestein Halvor K. Grave",
+      "latitude": 59.422384,
+      "longitude": 8.89646
+    },
+    {
+      "name": "Minnesteinen ved Bø Kyrkje",
+      "latitude": 59.411013,
+      "longitude": 9.054483
+    },
+    {
+      "name": "Monument to the victims of the Brattholm Tragedy",
+      "latitude": 69.680162,
+      "longitude": 18.966766
+    },
+    {
+      "name": "Musikkforeningens Paviljong",
+      "latitude": 69.354474,
+      "longitude": 18.076286
+    },
+    {
+      "name": "Møllemonumentet",
+      "latitude": 60.124868,
+      "longitude": 10.358994
+    },
+    {
+      "name": "Nasjonalmonumentet for krigens ofre 1940-45",
+      "latitude": 59.906088,
+      "longitude": 10.738731
+    },
+    {
+      "name": "Nesjarmonumentet",
+      "latitude": 58.994235,
+      "longitude": 9.85601
+    },
+    {
+      "name": "Niels Henrik Abel",
+      "latitude": 59.915564,
+      "longitude": 10.731216
+    },
+    {
+      "name": "Nord-Rana Bondelag 1897-1997",
+      "latitude": 66.310763,
+      "longitude": 14.136339
+    },
+    {
+      "name": "Nordkleiva",
+      "latitude": 60.053358,
+      "longitude": 10.332382
+    },
+    {
+      "name": "Nygårdsvollen",
+      "latitude": 63.386991,
+      "longitude": 10.796498
+    },
+    {
+      "name": "Ode til lyset",
+      "latitude": 59.224088,
+      "longitude": 11.107363
+    },
+    {
+      "name": "Olaf Olafsen",
+      "latitude": 60.319352,
+      "longitude": 6.652595
+    },
+    {
+      "name": "Olaf V",
+      "latitude": 60.942421,
+      "longitude": 4.954008
+    },
+    {
+      "name": "Oslos geografiske midtpunkt - Pyramide",
+      "latitude": 59.980989,
+      "longitude": 10.739485
+    },
+    {
+      "name": "Otto Sverdrup",
+      "latitude": 65.087915,
+      "longitude": 12.376926
+    },
+    {
+      "name": "Overlege Alex Cappelen",
+      "latitude": 58.964103,
+      "longitude": 5.729255
+    },
+    {
+      "name": "Peder Balke-statue",
+      "latitude": 60.744415,
+      "longitude": 10.957939
+    },
+    {
+      "name": "Peer Gynt og Mor Aase",
+      "latitude": 59.207821,
+      "longitude": 9.604706
+    },
+    {
+      "name": "Peter Lie - Elen Lie",
+      "latitude": 63.457085,
+      "longitude": 10.448396
+    },
+    {
+      "name": "Pilegrimsleden ⌘ 639 km til Nidaros",
+      "latitude": 59.923367,
+      "longitude": 10.746624
+    },
+    {
+      "name": "Polarkreis-Statue",
+      "latitude": 66.552525,
+      "longitude": 15.311699
+    },
+    {
+      "name": "Polarkreis-Statue",
+      "latitude": 66.552579,
+      "longitude": 15.307883
+    },
+    {
+      "name": "Polarsirkelen 1937",
+      "latitude": 66.552433,
+      "longitude": 15.320827
+    },
+    {
+      "name": "Polarsirkelen 1990",
+      "latitude": 66.552419,
+      "longitude": 15.322271
+    },
+    {
+      "name": "Propell",
+      "latitude": 59.732528,
+      "longitude": 10.222351
+    },
+    {
+      "name": "Putnaklanten",
+      "latitude": 60.945981,
+      "longitude": 8.467701
+    },
+    {
+      "name": "Reidar Kvammen",
+      "latitude": 58.965449,
+      "longitude": 5.712845
+    },
+    {
+      "name": "Reinsdyrskulptur",
+      "latitude": 63.747081,
+      "longitude": 11.297897
+    },
+    {
+      "name": "Retterstedet på Akershus festning",
+      "latitude": 59.907677,
+      "longitude": 10.736158
+    },
+    {
+      "name": "Richard With",
+      "latitude": 69.648317,
+      "longitude": 18.957148
+    },
+    {
+      "name": "Roald Amundsen",
+      "latitude": 59.20618,
+      "longitude": 10.951269
+    },
+    {
+      "name": "Rosslandsguden",
+      "latitude": 58.364097,
+      "longitude": 6.282647
+    },
+    {
+      "name": "Rottejomfruen",
+      "latitude": 59.202469,
+      "longitude": 9.604788
+    },
+    {
+      "name": "Russerleiren",
+      "latitude": 59.322009,
+      "longitude": 10.065467
+    },
+    {
+      "name": "Sagasøyla",
+      "latitude": 61.703546,
+      "longitude": 8.285467
+    },
+    {
+      "name": "Sandors plass",
+      "latitude": 58.796351,
+      "longitude": 5.798643
+    },
+    {
+      "name": "Selshevneren",
+      "latitude": 68.983039,
+      "longitude": 16.557071
+    },
+    {
+      "name": "Sigurd Rinde",
+      "latitude": 58.893934,
+      "longitude": 9.339297
+    },
+    {
+      "name": "Sigval Bergesen",
+      "latitude": 58.968843,
+      "longitude": 5.729727
+    },
+    {
+      "name": "Sjømannskolen Anker",
+      "latitude": 58.45719,
+      "longitude": 8.763025
+    },
+    {
+      "name": "Soluret",
+      "latitude": 59.744772,
+      "longitude": 9.732949
+    },
+    {
+      "name": "Sovjetiske Krigsfanger",
+      "latitude": 66.503857,
+      "longitude": 14.983529
+    },
+    {
+      "name": "Statue of Liberty Replica",
+      "latitude": 59.352873,
+      "longitude": 5.219222
+    },
+    {
+      "name": "Steilneset Minnested",
+      "latitude": 70.368806,
+      "longitude": 31.093308
+    },
+    {
+      "name": "Stiftsstøtta",
+      "latitude": 61.160273,
+      "longitude": 8.073408
+    },
+    {
+      "name": "Sverre O. Løberg",
+      "latitude": 59.207253,
+      "longitude": 9.610479
+    },
+    {
+      "name": "Theodor Caspari",
+      "latitude": 61.417578,
+      "longitude": 9.346058
+    },
+    {
+      "name": "Thorvald Stoltenberg",
+      "latitude": 69.725947,
+      "longitude": 30.045657
+    },
+    {
+      "name": "Til minne om jugoslaviske krigsfanger 1940-45",
+      "latitude": 69.46818,
+      "longitude": 25.527441
+    },
+    {
+      "name": "Tordenskiold",
+      "latitude": 59.91057,
+      "longitude": 10.73434
+    },
+    {
+      "name": "Tore Hund-bautaen",
+      "latitude": 68.996139,
+      "longitude": 16.538646
+    },
+    {
+      "name": "Torgscenen",
+      "latitude": 63.304816,
+      "longitude": 9.849967
+    },
+    {
+      "name": "Trinigon 3",
+      "latitude": 68.43734,
+      "longitude": 17.425168
+    },
+    {
+      "name": "Troll",
+      "latitude": 59.665771,
+      "longitude": 9.642122
+    },
+    {
+      "name": "Tusenårsplassen",
+      "latitude": 58.65144,
+      "longitude": 5.56985
+    },
+    {
+      "name": "Utvanderminnesmerket",
+      "latitude": 58.977669,
+      "longitude": 5.719536
+    },
+    {
+      "name": "Utøya monument",
+      "latitude": 59.268555,
+      "longitude": 10.403773
+    },
+    {
+      "name": "Varden for Per Skjervagen",
+      "latitude": 62.498525,
+      "longitude": 11.432666
+    },
+    {
+      "name": "Vesle Daniel - Jakob Sande",
+      "latitude": 61.363046,
+      "longitude": 5.398774
+    },
+    {
+      "name": "Vigsteinen",
+      "latitude": 60.211609,
+      "longitude": 11.076038
+    },
+    {
+      "name": "Vindenes hus",
+      "latitude": 66.029354,
+      "longitude": 12.697916
+    },
+    {
+      "name": "Viseadmiral Thore Horve",
+      "latitude": 58.973926,
+      "longitude": 5.725363
+    },
+    {
+      "name": "Værstekællen",
+      "latitude": 59.212215,
+      "longitude": 10.933473
+    },
+    {
+      "name": "Walk of Fame",
+      "latitude": 60.391851,
+      "longitude": 5.315034
+    },
+    {
+      "name": "Whale tails",
+      "latitude": 68.571073,
+      "longitude": 14.925787
+    },
+    {
+      "name": "WWII monument",
+      "latitude": 58.971789,
+      "longitude": 5.735066
+    },
+    {
+      "name": "Åkrehamn By",
+      "latitude": 59.260926,
+      "longitude": 5.185866
+    }
+  ],
+  "meta": {
+    "title": "Monuments in Norway - Gratis nedlasting",
+    "description": "Monuments in Norway (Monumenter i Norge), derived from OpenStreetMap POIs tagged historic=monument. Named features only, clipped to mainland Norway. Inneholder 186 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Monuments in Norway | ListBase",
+    "seo_description": "Last ned Monuments in Norway — 186 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 186 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

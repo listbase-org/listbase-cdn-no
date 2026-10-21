@@ -1,0 +1,3171 @@
+{
+  "id": "no-osm-natural-stone",
+  "name": "Named stones and boulders in Norway",
+  "title": "Named stones and boulders in Norway",
+  "description": "Named stones and boulders in Norway, derived from OpenStreetMap POI nodes tagged natural=stone in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 626,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "+",
+      "latitude": 60.983062,
+      "longitude": 9.221659
+    },
+    {
+      "name": "013",
+      "latitude": 59.994382,
+      "longitude": 10.600482
+    },
+    {
+      "name": "014",
+      "latitude": 59.994366,
+      "longitude": 10.600637
+    },
+    {
+      "name": "016",
+      "latitude": 59.992753,
+      "longitude": 10.602049
+    },
+    {
+      "name": "017",
+      "latitude": 59.990124,
+      "longitude": 10.60405
+    },
+    {
+      "name": "018",
+      "latitude": 59.990042,
+      "longitude": 10.604254
+    },
+    {
+      "name": "019",
+      "latitude": 59.989793,
+      "longitude": 10.60453
+    },
+    {
+      "name": "020",
+      "latitude": 59.989713,
+      "longitude": 10.604533
+    },
+    {
+      "name": "021",
+      "latitude": 59.989717,
+      "longitude": 10.604599
+    },
+    {
+      "name": "022",
+      "latitude": 59.989638,
+      "longitude": 10.604588
+    },
+    {
+      "name": "023",
+      "latitude": 59.989696,
+      "longitude": 10.604448
+    },
+    {
+      "name": "024",
+      "latitude": 59.989706,
+      "longitude": 10.604413
+    },
+    {
+      "name": "025",
+      "latitude": 59.989704,
+      "longitude": 10.604396
+    },
+    {
+      "name": "026",
+      "latitude": 59.989691,
+      "longitude": 10.604358
+    },
+    {
+      "name": "027",
+      "latitude": 59.989381,
+      "longitude": 10.604565
+    },
+    {
+      "name": "028",
+      "latitude": 59.989397,
+      "longitude": 10.604727
+    },
+    {
+      "name": "029",
+      "latitude": 59.989296,
+      "longitude": 10.604583
+    },
+    {
+      "name": "030",
+      "latitude": 59.989282,
+      "longitude": 10.604558
+    },
+    {
+      "name": "031",
+      "latitude": 59.989079,
+      "longitude": 10.604628
+    },
+    {
+      "name": "032",
+      "latitude": 59.989129,
+      "longitude": 10.604897
+    },
+    {
+      "name": "033",
+      "latitude": 59.989249,
+      "longitude": 10.605111
+    },
+    {
+      "name": "034",
+      "latitude": 59.989256,
+      "longitude": 10.60512
+    },
+    {
+      "name": "035",
+      "latitude": 59.989414,
+      "longitude": 10.605469
+    },
+    {
+      "name": "036",
+      "latitude": 59.988951,
+      "longitude": 10.604833
+    },
+    {
+      "name": "037",
+      "latitude": 59.988816,
+      "longitude": 10.604973
+    },
+    {
+      "name": "038",
+      "latitude": 59.988806,
+      "longitude": 10.604997
+    },
+    {
+      "name": "039",
+      "latitude": 59.988501,
+      "longitude": 10.605124
+    },
+    {
+      "name": "040",
+      "latitude": 59.988344,
+      "longitude": 10.605286
+    },
+    {
+      "name": "111 Åsen",
+      "latitude": 59.583234,
+      "longitude": 9.647808
+    },
+    {
+      "name": "70-steinen",
+      "latitude": 63.416047,
+      "longitude": 7.840954
+    },
+    {
+      "name": "Abborstenen",
+      "latitude": 61.366011,
+      "longitude": 12.336788
+    },
+    {
+      "name": "Almasteidn",
+      "latitude": 60.021615,
+      "longitude": 5.673634
+    },
+    {
+      "name": "Almsteinan",
+      "latitude": 64.347769,
+      "longitude": 10.511434
+    },
+    {
+      "name": "Altersteinen",
+      "latitude": 61.219602,
+      "longitude": 12.078412
+    },
+    {
+      "name": "Altersteinen",
+      "latitude": 66.941908,
+      "longitude": 14.796
+    },
+    {
+      "name": "Alvasteinen",
+      "latitude": 58.954748,
+      "longitude": 5.651727
+    },
+    {
+      "name": "Anne-Lottasteinen",
+      "latitude": 66.961419,
+      "longitude": 14.153003
+    },
+    {
+      "name": "Aresteinen",
+      "latitude": 60.97817,
+      "longitude": 5.269199
+    },
+    {
+      "name": "Arnestein",
+      "latitude": 60.418095,
+      "longitude": 11.736808
+    },
+    {
+      "name": "Augegneis",
+      "latitude": 59.846849,
+      "longitude": 6.341045
+    },
+    {
+      "name": "Aursåskjærka",
+      "latitude": 60.327775,
+      "longitude": 12.219616
+    },
+    {
+      "name": "Badesteinen",
+      "latitude": 70.036131,
+      "longitude": 20.608319
+    },
+    {
+      "name": "Barbrosteinen",
+      "latitude": 59.359828,
+      "longitude": 9.151065
+    },
+    {
+      "name": "Bautaen",
+      "latitude": 60.461969,
+      "longitude": 12.127197
+    },
+    {
+      "name": "Bergulfsten",
+      "latitude": 61.548066,
+      "longitude": 12.075964
+    },
+    {
+      "name": "Bernhusskjæret",
+      "latitude": 59.425431,
+      "longitude": 11.651241
+    },
+    {
+      "name": "Bertelsteinen",
+      "latitude": 69.76801,
+      "longitude": 19.221963
+    },
+    {
+      "name": "Bjønnan",
+      "latitude": 62.268903,
+      "longitude": 11.712166
+    },
+    {
+      "name": "Bjønneskallen",
+      "latitude": 59.808453,
+      "longitude": 10.954467
+    },
+    {
+      "name": "Bjønnesteinen",
+      "latitude": 59.866642,
+      "longitude": 10.894028
+    },
+    {
+      "name": "Bjønnstein",
+      "latitude": 60.510094,
+      "longitude": 12.192794
+    },
+    {
+      "name": "Bjønnsten",
+      "latitude": 62.251378,
+      "longitude": 10.408593
+    },
+    {
+      "name": "Bjørnestein",
+      "latitude": 59.487164,
+      "longitude": 9.838608
+    },
+    {
+      "name": "Bjørnestein",
+      "latitude": 59.812839,
+      "longitude": 10.670209
+    },
+    {
+      "name": "Bjørnsteinen",
+      "latitude": 66.578219,
+      "longitude": 13.216206
+    },
+    {
+      "name": "Bjørnsteinen",
+      "latitude": 67.027286,
+      "longitude": 14.117958
+    },
+    {
+      "name": "Bjørnsteinen",
+      "latitude": 69.795033,
+      "longitude": 19.189138
+    },
+    {
+      "name": "Blikeskjeret",
+      "latitude": 59.04647,
+      "longitude": 7.566718
+    },
+    {
+      "name": "Blokktjennssteinen",
+      "latitude": 60.32398,
+      "longitude": 11.551408
+    },
+    {
+      "name": "Blå kvarts",
+      "latitude": 59.846877,
+      "longitude": 6.341171
+    },
+    {
+      "name": "Blåsteinen",
+      "latitude": 70.051016,
+      "longitude": 19.922313
+    },
+    {
+      "name": "Bodnegeađgi",
+      "latitude": 69.442581,
+      "longitude": 25.244681
+    },
+    {
+      "name": "Bohkegeađgi",
+      "latitude": 69.418906,
+      "longitude": 25.157221
+    },
+    {
+      "name": "Bonesteinen",
+      "latitude": 69.363281,
+      "longitude": 16.94195
+    },
+    {
+      "name": "Botnskjæret",
+      "latitude": 69.427182,
+      "longitude": 17.49376
+    },
+    {
+      "name": "Bottelsteinen",
+      "latitude": 68.86512,
+      "longitude": 17.862548
+    },
+    {
+      "name": "Brekkafjell",
+      "latitude": 58.828646,
+      "longitude": 5.786855
+    },
+    {
+      "name": "Breksje",
+      "latitude": 59.846786,
+      "longitude": 6.340793
+    },
+    {
+      "name": "Brennevinskjæret",
+      "latitude": 59.151736,
+      "longitude": 11.719133
+    },
+    {
+      "name": "Brurknappen",
+      "latitude": 66.553233,
+      "longitude": 12.81345
+    },
+    {
+      "name": "Brursteinen",
+      "latitude": 60.834547,
+      "longitude": 12.26936
+    },
+    {
+      "name": "Bryggsteinen",
+      "latitude": 68.461791,
+      "longitude": 15.017073
+    },
+    {
+      "name": "Buhellaren",
+      "latitude": 58.322647,
+      "longitude": 6.331164
+    },
+    {
+      "name": "Bukkeristeinen",
+      "latitude": 68.896433,
+      "longitude": 17.457683
+    },
+    {
+      "name": "Bukkestein",
+      "latitude": 61.173111,
+      "longitude": 8.182306
+    },
+    {
+      "name": "Bukkesteinen",
+      "latitude": 69.771341,
+      "longitude": 19.243533
+    },
+    {
+      "name": "Bukksteinen",
+      "latitude": 66.528475,
+      "longitude": 12.806097
+    },
+    {
+      "name": "Bustein",
+      "latitude": 61.114033,
+      "longitude": 10.102986
+    },
+    {
+      "name": "Bålesteinen",
+      "latitude": 60.310319,
+      "longitude": 5.088759
+    },
+    {
+      "name": "Bårehella",
+      "latitude": 61.121154,
+      "longitude": 5.092463
+    },
+    {
+      "name": "Børesteinen",
+      "latitude": 60.899078,
+      "longitude": 7.305114
+    },
+    {
+      "name": "Børresteinen",
+      "latitude": 62.309765,
+      "longitude": 6.339571
+    },
+    {
+      "name": "Carl Otto Løvenskiold",
+      "latitude": 60.076788,
+      "longitude": 10.655232
+    },
+    {
+      "name": "Cordieritt",
+      "latitude": 59.846839,
+      "longitude": 6.341145
+    },
+    {
+      "name": "Cudriosteinen",
+      "latitude": 59.845333,
+      "longitude": 10.957074
+    },
+    {
+      "name": "Damsteinan",
+      "latitude": 67.0557,
+      "longitude": 13.782056
+    },
+    {
+      "name": "Deadjageađgi",
+      "latitude": 69.442542,
+      "longitude": 25.316002
+    },
+    {
+      "name": "Degersteinen",
+      "latitude": 58.712826,
+      "longitude": 5.57542
+    },
+    {
+      "name": "Den hvite presten",
+      "latitude": 58.850896,
+      "longitude": 5.549119
+    },
+    {
+      "name": "Den kløyvde stein",
+      "latitude": 60.452816,
+      "longitude": 11.716639
+    },
+    {
+      "name": "Den kløyvde stein",
+      "latitude": 60.476771,
+      "longitude": 11.494484
+    },
+    {
+      "name": "Draugsteinen",
+      "latitude": 69.27934,
+      "longitude": 18.681332
+    },
+    {
+      "name": "Dreggen",
+      "latitude": 69.557085,
+      "longitude": 20.387686
+    },
+    {
+      "name": "Dugurdsteinen",
+      "latitude": 61.05518,
+      "longitude": 9.263904
+    },
+    {
+      "name": "Dyrstein",
+      "latitude": 66.59842,
+      "longitude": 13.327659
+    },
+    {
+      "name": "Dølsteinen",
+      "latitude": 61.080353,
+      "longitude": 10.078717
+    },
+    {
+      "name": "Eggesteinen",
+      "latitude": 69.709972,
+      "longitude": 19.675513
+    },
+    {
+      "name": "Elgsteinen",
+      "latitude": 60.325237,
+      "longitude": 11.865431
+    },
+    {
+      "name": "Eliassteinen",
+      "latitude": 62.778155,
+      "longitude": 6.644409
+    },
+    {
+      "name": "Elvesteinan",
+      "latitude": 69.943536,
+      "longitude": 18.832831
+    },
+    {
+      "name": "Enkeltsteinen",
+      "latitude": 68.729587,
+      "longitude": 16.905112
+    },
+    {
+      "name": "Falkfangerstenan",
+      "latitude": 62.46942,
+      "longitude": 11.588268
+    },
+    {
+      "name": "Fandens spillebord",
+      "latitude": 58.289506,
+      "longitude": 6.353208
+    },
+    {
+      "name": "Fangsteinen",
+      "latitude": 69.287927,
+      "longitude": 18.646259
+    },
+    {
+      "name": "Fantahedlaren",
+      "latitude": 61.285018,
+      "longitude": 7.174263
+    },
+    {
+      "name": "Fantsteinen",
+      "latitude": 62.381464,
+      "longitude": 11.45844
+    },
+    {
+      "name": "Fantura",
+      "latitude": 58.639151,
+      "longitude": 9.001501
+    },
+    {
+      "name": "Farstadsteinen",
+      "latitude": 63.440127,
+      "longitude": 10.344195
+    },
+    {
+      "name": "Fellesteinen",
+      "latitude": 60.710901,
+      "longitude": 6.73706
+    },
+    {
+      "name": "Feskarkjerringa",
+      "latitude": 63.51646,
+      "longitude": 8.277033
+    },
+    {
+      "name": "Filosofisteinen",
+      "latitude": 59.887245,
+      "longitude": 10.554576
+    },
+    {
+      "name": "Finnkjerka",
+      "latitude": 69.483058,
+      "longitude": 19.722078
+    },
+    {
+      "name": "Finnstein",
+      "latitude": 60.362748,
+      "longitude": 11.7762
+    },
+    {
+      "name": "Finnsteinan",
+      "latitude": 66.303617,
+      "longitude": 13.126833
+    },
+    {
+      "name": "Finnsteinan",
+      "latitude": 66.758264,
+      "longitude": 13.866808
+    },
+    {
+      "name": "Finnsteinen",
+      "latitude": 66.606144,
+      "longitude": 13.482058
+    },
+    {
+      "name": "Finnsteinen",
+      "latitude": 66.910222,
+      "longitude": 13.791119
+    },
+    {
+      "name": "Finnsteinen",
+      "latitude": 68.48255,
+      "longitude": 16.503303
+    },
+    {
+      "name": "Fiskballen",
+      "latitude": 63.368028,
+      "longitude": 7.79274
+    },
+    {
+      "name": "Fiskerstein",
+      "latitude": 60.531405,
+      "longitude": 12.190693
+    },
+    {
+      "name": "Fiskersteinen",
+      "latitude": 58.081633,
+      "longitude": 7.514397
+    },
+    {
+      "name": "Fjølungsteinen",
+      "latitude": 60.227358,
+      "longitude": 11.984863
+    },
+    {
+      "name": "Flaskforet",
+      "latitude": 68.329007,
+      "longitude": 14.766014
+    },
+    {
+      "name": "Flisekleivsteinen",
+      "latitude": 58.226166,
+      "longitude": 6.860845
+    },
+    {
+      "name": "Flyktningesteinen",
+      "latitude": 60.506986,
+      "longitude": 12.434615
+    },
+    {
+      "name": "Flynnersteinen",
+      "latitude": 68.45875,
+      "longitude": 15.028522
+    },
+    {
+      "name": "Flågåsten",
+      "latitude": 61.023305,
+      "longitude": 10.809174
+    },
+    {
+      "name": "Flåklypa",
+      "latitude": 69.758592,
+      "longitude": 18.602273
+    },
+    {
+      "name": "Folda Kvartsitt",
+      "latitude": 59.846895,
+      "longitude": 6.341268
+    },
+    {
+      "name": "Fonnastein",
+      "latitude": 62.69617,
+      "longitude": 8.559264
+    },
+    {
+      "name": "Fossesteinen - Karvosenkivi",
+      "latitude": 69.359214,
+      "longitude": 20.266918
+    },
+    {
+      "name": "Friarsteinen",
+      "latitude": 69.583497,
+      "longitude": 19.69062
+    },
+    {
+      "name": "Fuglakammen",
+      "latitude": 60.641411,
+      "longitude": 5.632458
+    },
+    {
+      "name": "Fállegeađgi",
+      "latitude": 69.823097,
+      "longitude": 23.888421
+    },
+    {
+      "name": "Gabrielsteidn",
+      "latitude": 59.454001,
+      "longitude": 6.633882
+    },
+    {
+      "name": "Gallernebben",
+      "latitude": 66.590675,
+      "longitude": 13.218186
+    },
+    {
+      "name": "Gammelsteinåfaret",
+      "latitude": 66.765208,
+      "longitude": 14.586439
+    },
+    {
+      "name": "Gammelvollstenen",
+      "latitude": 62.304021,
+      "longitude": 11.689721
+    },
+    {
+      "name": "Gamsteinen",
+      "latitude": 69.521907,
+      "longitude": 17.68903
+    },
+    {
+      "name": "Gaupesteinen",
+      "latitude": 59.704975,
+      "longitude": 10.98965
+    },
+    {
+      "name": "Geitsteinen",
+      "latitude": 60.824411,
+      "longitude": 12.295431
+    },
+    {
+      "name": "Geitsteinen",
+      "latitude": 66.820967,
+      "longitude": 13.804481
+    },
+    {
+      "name": "Geitsteinen",
+      "latitude": 68.696477,
+      "longitude": 15.967803
+    },
+    {
+      "name": "Gjertrudsteinen",
+      "latitude": 59.014944,
+      "longitude": 6.289387
+    },
+    {
+      "name": "Gjetarsteinen",
+      "latitude": 69.631772,
+      "longitude": 19.03093
+    },
+    {
+      "name": "Gjetstenen",
+      "latitude": 62.471717,
+      "longitude": 11.294642
+    },
+    {
+      "name": "Glitastein",
+      "latitude": 60.957611,
+      "longitude": 7.093136
+    },
+    {
+      "name": "Gloppesteinen",
+      "latitude": 58.175561,
+      "longitude": 6.658057
+    },
+    {
+      "name": "Gneis",
+      "latitude": 59.846856,
+      "longitude": 6.341072
+    },
+    {
+      "name": "Goen",
+      "latitude": 58.15463,
+      "longitude": 6.919163
+    },
+    {
+      "name": "Gonilsteinen",
+      "latitude": 58.117333,
+      "longitude": 7.466864
+    },
+    {
+      "name": "Grautskjær",
+      "latitude": 58.678765,
+      "longitude": 9.041978
+    },
+    {
+      "name": "Gravåskjørka",
+      "latitude": 61.350058,
+      "longitude": 10.450103
+    },
+    {
+      "name": "Greinkjerka",
+      "latitude": 60.612467,
+      "longitude": 12.4095
+    },
+    {
+      "name": "Gråbensten",
+      "latitude": 61.479984,
+      "longitude": 12.183217
+    },
+    {
+      "name": "Gråbenstenen",
+      "latitude": 62.665351,
+      "longitude": 11.366588
+    },
+    {
+      "name": "Grågampen",
+      "latitude": 60.439636,
+      "longitude": 10.672736
+    },
+    {
+      "name": "Gråhesten",
+      "latitude": 60.32996,
+      "longitude": 12.270383
+    },
+    {
+      "name": "Gråhesten",
+      "latitude": 60.564072,
+      "longitude": 12.201855
+    },
+    {
+      "name": "Gråpurka",
+      "latitude": 61.356181,
+      "longitude": 10.075444
+    },
+    {
+      "name": "Gråsteinen",
+      "latitude": 69.957389,
+      "longitude": 20.237451
+    },
+    {
+      "name": "Grødalandstemmen",
+      "latitude": 58.632669,
+      "longitude": 5.604741
+    },
+    {
+      "name": "Grøtstenen",
+      "latitude": 62.199949,
+      "longitude": 11.819657
+    },
+    {
+      "name": "Gubbeskallen",
+      "latitude": 60.131085,
+      "longitude": 11.793577
+    },
+    {
+      "name": "Gulesteinen",
+      "latitude": 58.198364,
+      "longitude": 6.697375
+    },
+    {
+      "name": "Gullringsteinen",
+      "latitude": 58.088119,
+      "longitude": 7.413284
+    },
+    {
+      "name": "Gunderstenen",
+      "latitude": 61.405921,
+      "longitude": 12.257229
+    },
+    {
+      "name": "Gunhildsteinen",
+      "latitude": 68.91498,
+      "longitude": 17.449872
+    },
+    {
+      "name": "Guristenan",
+      "latitude": 62.484763,
+      "longitude": 11.550519
+    },
+    {
+      "name": "Gygresteinen",
+      "latitude": 61.033641,
+      "longitude": 6.634711
+    },
+    {
+      "name": "Gåsesteinen",
+      "latitude": 58.06903,
+      "longitude": 7.213054
+    },
+    {
+      "name": "Gørputtbekken",
+      "latitude": 60.331705,
+      "longitude": 11.869523
+    },
+    {
+      "name": "Hagbardsteinen",
+      "latitude": 58.173405,
+      "longitude": 6.686026
+    },
+    {
+      "name": "Halllingsteinen",
+      "latitude": 61.025458,
+      "longitude": 8.63151
+    },
+    {
+      "name": "Halvmilstenen",
+      "latitude": 61.389966,
+      "longitude": 12.326619
+    },
+    {
+      "name": "Halvorsteinen",
+      "latitude": 61.176543,
+      "longitude": 10.46474
+    },
+    {
+      "name": "Halvroddsteinen",
+      "latitude": 62.104612,
+      "longitude": 6.901008
+    },
+    {
+      "name": "Halvvegessteinen",
+      "latitude": 61.025863,
+      "longitude": 12.071778
+    },
+    {
+      "name": "Hammersteinan",
+      "latitude": 57.979939,
+      "longitude": 7.539639
+    },
+    {
+      "name": "Hans Bø-steinen",
+      "latitude": 61.258042,
+      "longitude": 9.868486
+    },
+    {
+      "name": "Harasteinen",
+      "latitude": 60.150294,
+      "longitude": 10.82882
+    },
+    {
+      "name": "Harrsteinen",
+      "latitude": 60.890638,
+      "longitude": 12.169354
+    },
+    {
+      "name": "Harrstenen",
+      "latitude": 61.48524,
+      "longitude": 11.288498
+    },
+    {
+      "name": "Hattesteinen",
+      "latitude": 58.418644,
+      "longitude": 6.505675
+    },
+    {
+      "name": "Hattesteinen",
+      "latitude": 70.151855,
+      "longitude": 19.917038
+    },
+    {
+      "name": "Havsteinen",
+      "latitude": 66.646039,
+      "longitude": 13.281744
+    },
+    {
+      "name": "Helftasteinen",
+      "latitude": 60.69136,
+      "longitude": 6.726598
+    },
+    {
+      "name": "Helgesteinen",
+      "latitude": 66.957669,
+      "longitude": 13.783028
+    },
+    {
+      "name": "Hella",
+      "latitude": 61.564796,
+      "longitude": 12.062671
+    },
+    {
+      "name": "Hella",
+      "latitude": 68.667963,
+      "longitude": 14.967356
+    },
+    {
+      "name": "Hella",
+      "latitude": 69.199307,
+      "longitude": 16.936871
+    },
+    {
+      "name": "Hellbergheller",
+      "latitude": 60.024497,
+      "longitude": 10.459155
+    },
+    {
+      "name": "Helleholmsteinen",
+      "latitude": 58.96684,
+      "longitude": 9.867609
+    },
+    {
+      "name": "Hellerasten",
+      "latitude": 59.806154,
+      "longitude": 10.824722
+    },
+    {
+      "name": "Hendrikkasteinen",
+      "latitude": 69.618318,
+      "longitude": 18.263281
+    },
+    {
+      "name": "Hengestein",
+      "latitude": 60.502806,
+      "longitude": 12.322922
+    },
+    {
+      "name": "Henriksteinen",
+      "latitude": 60.44886,
+      "longitude": 12.222452
+    },
+    {
+      "name": "Henriksteinen",
+      "latitude": 68.780933,
+      "longitude": 17.670399
+    },
+    {
+      "name": "Hestasteidn",
+      "latitude": 60.02078,
+      "longitude": 5.673844
+    },
+    {
+      "name": "Hesten og mannen",
+      "latitude": 68.730292,
+      "longitude": 16.908147
+    },
+    {
+      "name": "Hestesteinen",
+      "latitude": 69.94005,
+      "longitude": 19.812653
+    },
+    {
+      "name": "Hettesteinen",
+      "latitude": 59.429547,
+      "longitude": 7.910097
+    },
+    {
+      "name": "Holendersteinen",
+      "latitude": 58.006699,
+      "longitude": 6.997709
+    },
+    {
+      "name": "Hollsten",
+      "latitude": 61.24273,
+      "longitude": 12.120116
+    },
+    {
+      "name": "Holsonskjeret",
+      "latitude": 58.390741,
+      "longitude": 6.59122
+    },
+    {
+      "name": "Hoppesteinen",
+      "latitude": 63.440303,
+      "longitude": 10.341053
+    },
+    {
+      "name": "Huldersætra",
+      "latitude": 61.373219,
+      "longitude": 10.005058
+    },
+    {
+      "name": "Hulebakksteinen",
+      "latitude": 60.97295,
+      "longitude": 8.658778
+    },
+    {
+      "name": "Hundesteinen",
+      "latitude": 58.115546,
+      "longitude": 6.693043
+    },
+    {
+      "name": "Hundsteinen",
+      "latitude": 69.483916,
+      "longitude": 19.236295
+    },
+    {
+      "name": "Hvilarsteinen",
+      "latitude": 60.261242,
+      "longitude": 12.281408
+    },
+    {
+      "name": "Hvilarsteinen",
+      "latitude": 60.470905,
+      "longitude": 12.497222
+    },
+    {
+      "name": "Hvilestein",
+      "latitude": 60.425771,
+      "longitude": 9.818143
+    },
+    {
+      "name": "Hvilesteinen",
+      "latitude": 60.320616,
+      "longitude": 12.244281
+    },
+    {
+      "name": "Hvilesteinen",
+      "latitude": 60.448335,
+      "longitude": 12.20853
+    },
+    {
+      "name": "Hysesteinen",
+      "latitude": 69.354603,
+      "longitude": 17.135445
+    },
+    {
+      "name": "Hysesteinen",
+      "latitude": 69.358513,
+      "longitude": 17.136948
+    },
+    {
+      "name": "Hysesteinen",
+      "latitude": 69.427394,
+      "longitude": 17.427828
+    },
+    {
+      "name": "Hyssteinen",
+      "latitude": 68.771973,
+      "longitude": 15.907326
+    },
+    {
+      "name": "Hyttstenen",
+      "latitude": 62.308204,
+      "longitude": 11.755054
+    },
+    {
+      "name": "Hávgalásis",
+      "latitude": 69.380097,
+      "longitude": 25.822321
+    },
+    {
+      "name": "Høgdesteinen",
+      "latitude": 60.372583,
+      "longitude": 7.542128
+    },
+    {
+      "name": "Høykastbolten",
+      "latitude": 60.047699,
+      "longitude": 10.602719
+    },
+    {
+      "name": "Høyvold",
+      "latitude": 59.579804,
+      "longitude": 11.180004
+    },
+    {
+      "name": "Indre Pålsteinan",
+      "latitude": 69.362803,
+      "longitude": 17.0945
+    },
+    {
+      "name": "Ingeborgsten",
+      "latitude": 61.183732,
+      "longitude": 11.799669
+    },
+    {
+      "name": "Innersteinen",
+      "latitude": 69.587489,
+      "longitude": 19.946897
+    },
+    {
+      "name": "Innskipersteinen",
+      "latitude": 69.121706,
+      "longitude": 16.906995
+    },
+    {
+      "name": "Jakobsteinen",
+      "latitude": 60.492253,
+      "longitude": 5.578461
+    },
+    {
+      "name": "Jekteseglet - Jávttaborjjas",
+      "latitude": 69.704652,
+      "longitude": 19.671766
+    },
+    {
+      "name": "Jekteviksteinen",
+      "latitude": 69.542847,
+      "longitude": 18.734397
+    },
+    {
+      "name": "Jervstenen",
+      "latitude": 62.324064,
+      "longitude": 11.591183
+    },
+    {
+      "name": "Johannessteinen",
+      "latitude": 66.958042,
+      "longitude": 14.149189
+    },
+    {
+      "name": "Josteinen",
+      "latitude": 62.958142,
+      "longitude": 8.541702
+    },
+    {
+      "name": "Juldagssteinen",
+      "latitude": 69.35565,
+      "longitude": 17.021885
+    },
+    {
+      "name": "Julekveldssten",
+      "latitude": 61.566994,
+      "longitude": 12.060862
+    },
+    {
+      "name": "Jutulsteinen",
+      "latitude": 61.392969,
+      "longitude": 10.463608
+    },
+    {
+      "name": "Jørnsteinen",
+      "latitude": 67.082931,
+      "longitude": 14.407244
+    },
+    {
+      "name": "Jøtulsteinen",
+      "latitude": 60.73256,
+      "longitude": 11.696072
+    },
+    {
+      "name": "Kallhellaren",
+      "latitude": 67.073817,
+      "longitude": 14.535731
+    },
+    {
+      "name": "Kaprerasteinen",
+      "latitude": 69.533572,
+      "longitude": 17.383794
+    },
+    {
+      "name": "Karisteinen",
+      "latitude": 58.972982,
+      "longitude": 9.887331
+    },
+    {
+      "name": "Karisteinen",
+      "latitude": 69.560612,
+      "longitude": 17.589188
+    },
+    {
+      "name": "Kastesteinen",
+      "latitude": 59.958999,
+      "longitude": 10.822022
+    },
+    {
+      "name": "Kastesteinene",
+      "latitude": 60.217764,
+      "longitude": 10.531818
+    },
+    {
+      "name": "Kattsteinen",
+      "latitude": 61.355522,
+      "longitude": 10.44555
+    },
+    {
+      "name": "Kelvesteinadn",
+      "latitude": 61.152958,
+      "longitude": 8.613658
+    },
+    {
+      "name": "Killingstenen",
+      "latitude": 61.385241,
+      "longitude": 12.264735
+    },
+    {
+      "name": "Kinna",
+      "latitude": 58.209489,
+      "longitude": 6.722342
+    },
+    {
+      "name": "Kirkesteinen",
+      "latitude": 57.990061,
+      "longitude": 7.591461
+    },
+    {
+      "name": "Kirkesteinen",
+      "latitude": 60.135451,
+      "longitude": 10.757996
+    },
+    {
+      "name": "Kirkesteinen",
+      "latitude": 60.75624,
+      "longitude": 11.919562
+    },
+    {
+      "name": "Kirkesteinen",
+      "latitude": 66.519858,
+      "longitude": 13.719956
+    },
+    {
+      "name": "Kirkesten",
+      "latitude": 60.164521,
+      "longitude": 12.205106
+    },
+    {
+      "name": "Kjeddingkjepten",
+      "latitude": 58.366217,
+      "longitude": 7.101717
+    },
+    {
+      "name": "Kjelasteinen",
+      "latitude": 59.173127,
+      "longitude": 5.236097
+    },
+    {
+      "name": "Kjempesteien",
+      "latitude": 59.002231,
+      "longitude": 5.789932
+    },
+    {
+      "name": "Kjerksteinen",
+      "latitude": 66.7698,
+      "longitude": 14.552964
+    },
+    {
+      "name": "Kjerringa",
+      "latitude": 57.989297,
+      "longitude": 7.541347
+    },
+    {
+      "name": "Kjerringa",
+      "latitude": 69.777017,
+      "longitude": 19.719553
+    },
+    {
+      "name": "Kjerringa og Grautdallen",
+      "latitude": 62.556718,
+      "longitude": 11.606488
+    },
+    {
+      "name": "Kjerringsteinen",
+      "latitude": 58.045422,
+      "longitude": 7.209644
+    },
+    {
+      "name": "Kjerstadrøysa",
+      "latitude": 60.018561,
+      "longitude": 12.25835
+    },
+    {
+      "name": "Kjonestein",
+      "latitude": 59.859796,
+      "longitude": 11.082691
+    },
+    {
+      "name": "Kjonstein",
+      "latitude": 60.440333,
+      "longitude": 11.404881
+    },
+    {
+      "name": "Kjøttsteinen",
+      "latitude": 67.847794,
+      "longitude": 12.848167
+    },
+    {
+      "name": "Klagsteinen",
+      "latitude": 58.944172,
+      "longitude": 5.632806
+    },
+    {
+      "name": "Klarasteinan",
+      "latitude": 69.181942,
+      "longitude": 16.095136
+    },
+    {
+      "name": "Klauvsteinen",
+      "latitude": 58.959695,
+      "longitude": 5.70081
+    },
+    {
+      "name": "Kleivsteinan",
+      "latitude": 66.982353,
+      "longitude": 13.754025
+    },
+    {
+      "name": "Klininggrautstein",
+      "latitude": 61.301747,
+      "longitude": 10.096392
+    },
+    {
+      "name": "Klokkesteinen",
+      "latitude": 62.531097,
+      "longitude": 7.146464
+    },
+    {
+      "name": "Kloppstein",
+      "latitude": 58.957992,
+      "longitude": 5.626742
+    },
+    {
+      "name": "Klovsteinan",
+      "latitude": 58.454589,
+      "longitude": 6.517237
+    },
+    {
+      "name": "Klovsteinen",
+      "latitude": 63.480395,
+      "longitude": 8.289024
+    },
+    {
+      "name": "Klovsteinene",
+      "latitude": 60.872828,
+      "longitude": 5.116876
+    },
+    {
+      "name": "Klubbsteinen",
+      "latitude": 68.827423,
+      "longitude": 14.928469
+    },
+    {
+      "name": "Kløftsteinen",
+      "latitude": 66.902222,
+      "longitude": 13.713617
+    },
+    {
+      "name": "Klømbersteinen",
+      "latitude": 67.077417,
+      "longitude": 14.577122
+    },
+    {
+      "name": "Kløvensteinan",
+      "latitude": 66.982422,
+      "longitude": 13.881439
+    },
+    {
+      "name": "Kløvsteinen",
+      "latitude": 60.134636,
+      "longitude": 10.757242
+    },
+    {
+      "name": "Kløvsteinen",
+      "latitude": 60.337487,
+      "longitude": 11.773165
+    },
+    {
+      "name": "Kløvsteinen",
+      "latitude": 60.358585,
+      "longitude": 11.587099
+    },
+    {
+      "name": "Kløvstenen",
+      "latitude": 62.433638,
+      "longitude": 11.60662
+    },
+    {
+      "name": "Knutmannssteinen",
+      "latitude": 58.973708,
+      "longitude": 5.70121
+    },
+    {
+      "name": "Kobbesteinan",
+      "latitude": 68.78285,
+      "longitude": 17.77853
+    },
+    {
+      "name": "Kobbesteinan",
+      "latitude": 69.35796,
+      "longitude": 17.10364
+    },
+    {
+      "name": "Kobbesteinan",
+      "latitude": 69.499767,
+      "longitude": 17.664536
+    },
+    {
+      "name": "Kobbesteinane",
+      "latitude": 62.489955,
+      "longitude": 5.961025
+    },
+    {
+      "name": "Kobbesteinen",
+      "latitude": 62.623706,
+      "longitude": 7.084815
+    },
+    {
+      "name": "Kobbesteinen",
+      "latitude": 69.206289,
+      "longitude": 17.936733
+    },
+    {
+      "name": "Kobbesteinen",
+      "latitude": 69.237917,
+      "longitude": 15.859747
+    },
+    {
+      "name": "Kobbesteinen",
+      "latitude": 69.304387,
+      "longitude": 17.989554
+    },
+    {
+      "name": "Kobbesteinen",
+      "latitude": 69.426311,
+      "longitude": 17.496886
+    },
+    {
+      "name": "Kobbesteinen",
+      "latitude": 69.458803,
+      "longitude": 17.827223
+    },
+    {
+      "name": "Kobbesteinen",
+      "latitude": 69.525734,
+      "longitude": 17.678859
+    },
+    {
+      "name": "Kobbesteinen",
+      "latitude": 70.031688,
+      "longitude": 18.69901
+    },
+    {
+      "name": "Kobbhella",
+      "latitude": 69.296423,
+      "longitude": 16.965519
+    },
+    {
+      "name": "Kobbsteinan",
+      "latitude": 66.908761,
+      "longitude": 13.602311
+    },
+    {
+      "name": "Kobbsteinan",
+      "latitude": 68.419369,
+      "longitude": 15.386906
+    },
+    {
+      "name": "Kobbsteinen",
+      "latitude": 64.495042,
+      "longitude": 10.793547
+    },
+    {
+      "name": "Kobbsteinen",
+      "latitude": 67.246546,
+      "longitude": 15.445464
+    },
+    {
+      "name": "Kompa",
+      "latitude": 58.177316,
+      "longitude": 6.703106
+    },
+    {
+      "name": "Kongen",
+      "latitude": 61.095653,
+      "longitude": 10.705672
+    },
+    {
+      "name": "Konglmerat",
+      "latitude": 59.846576,
+      "longitude": 6.340532
+    },
+    {
+      "name": "Konglomerat",
+      "latitude": 59.846811,
+      "longitude": 6.340931
+    },
+    {
+      "name": "Kongshella",
+      "latitude": 60.978369,
+      "longitude": 7.216436
+    },
+    {
+      "name": "Kongsteinen",
+      "latitude": 59.058409,
+      "longitude": 5.918879
+    },
+    {
+      "name": "Korkhanssteinen",
+      "latitude": 60.488648,
+      "longitude": 12.302441
+    },
+    {
+      "name": "Krogsteinen",
+      "latitude": 58.178634,
+      "longitude": 6.714441
+    },
+    {
+      "name": "Kråksteinen",
+      "latitude": 66.489064,
+      "longitude": 12.945642
+    },
+    {
+      "name": "Kråkstua",
+      "latitude": 66.508597,
+      "longitude": 13.299392
+    },
+    {
+      "name": "Kufisksteinen",
+      "latitude": 68.576477,
+      "longitude": 15.283116
+    },
+    {
+      "name": "Kvalbaken",
+      "latitude": 68.578148,
+      "longitude": 14.725475
+    },
+    {
+      "name": "Kvernsteinen",
+      "latitude": 69.770314,
+      "longitude": 19.579483
+    },
+    {
+      "name": "Kvesmesteinen",
+      "latitude": 69.789252,
+      "longitude": 19.497781
+    },
+    {
+      "name": "Kvilarstein",
+      "latitude": 61.119525,
+      "longitude": 8.623256
+    },
+    {
+      "name": "Kvilesteinen",
+      "latitude": 58.269869,
+      "longitude": 6.743516
+    },
+    {
+      "name": "Kvilesteinen",
+      "latitude": 60.377358,
+      "longitude": 10.34385
+    },
+    {
+      "name": "Kvilsten",
+      "latitude": 61.342855,
+      "longitude": 12.190127
+    },
+    {
+      "name": "Kvilstena",
+      "latitude": 61.500422,
+      "longitude": 12.128151
+    },
+    {
+      "name": "Kvilstenan",
+      "latitude": 62.713293,
+      "longitude": 10.752899
+    },
+    {
+      "name": "Kvilstenen",
+      "latitude": 61.449107,
+      "longitude": 12.498187
+    },
+    {
+      "name": "Kvisten",
+      "latitude": 61.123581,
+      "longitude": 8.612867
+    },
+    {
+      "name": "Kvitsteinan",
+      "latitude": 69.924944,
+      "longitude": 20.668072
+    },
+    {
+      "name": "Kvitsteinen",
+      "latitude": 62.543229,
+      "longitude": 10.261922
+    },
+    {
+      "name": "Kvitsteinen",
+      "latitude": 69.86548,
+      "longitude": 19.408082
+    },
+    {
+      "name": "Kyrkja",
+      "latitude": 61.207936,
+      "longitude": 8.30525
+    },
+    {
+      "name": "Kyrkja",
+      "latitude": 62.639043,
+      "longitude": 6.705938
+    },
+    {
+      "name": "Kyrkjestein",
+      "latitude": 62.098359,
+      "longitude": 10.082505
+    },
+    {
+      "name": "Labradorit",
+      "latitude": 59.846887,
+      "longitude": 6.341224
+    },
+    {
+      "name": "Lagmannssteinen",
+      "latitude": 58.057353,
+      "longitude": 7.504931
+    },
+    {
+      "name": "Laksesteinen",
+      "latitude": 69.529538,
+      "longitude": 17.397292
+    },
+    {
+      "name": "Langstein",
+      "latitude": 62.009765,
+      "longitude": 10.003245
+    },
+    {
+      "name": "Lappsteinen",
+      "latitude": 66.920739,
+      "longitude": 13.848197
+    },
+    {
+      "name": "Lappsteinen",
+      "latitude": 66.925961,
+      "longitude": 15.007181
+    },
+    {
+      "name": "Larssteinen",
+      "latitude": 66.472631,
+      "longitude": 13.496194
+    },
+    {
+      "name": "Larssten",
+      "latitude": 61.498015,
+      "longitude": 12.160759
+    },
+    {
+      "name": "Lasarusstenen",
+      "latitude": 61.584305,
+      "longitude": 12.135675
+    },
+    {
+      "name": "Leiasteinen",
+      "latitude": 69.891852,
+      "longitude": 18.690677
+    },
+    {
+      "name": "Leiknessteinan",
+      "latitude": 69.363822,
+      "longitude": 16.90604
+    },
+    {
+      "name": "Leirsteinen",
+      "latitude": 62.311948,
+      "longitude": 6.318904
+    },
+    {
+      "name": "Lemmstein",
+      "latitude": 66.559506,
+      "longitude": 13.538406
+    },
+    {
+      "name": "Lengnskjørkja",
+      "latitude": 61.372097,
+      "longitude": 9.972326
+    },
+    {
+      "name": "Leuchsteinen",
+      "latitude": 60.015833,
+      "longitude": 10.490135
+    },
+    {
+      "name": "Ligsteinen",
+      "latitude": 58.086912,
+      "longitude": 6.893663
+    },
+    {
+      "name": "Likkista",
+      "latitude": 59.788976,
+      "longitude": 10.628791
+    },
+    {
+      "name": "Liksteinen",
+      "latitude": 58.281684,
+      "longitude": 6.818718
+    },
+    {
+      "name": "Lillefingerstein",
+      "latitude": 60.437033,
+      "longitude": 11.419159
+    },
+    {
+      "name": "Lindbergskjerka",
+      "latitude": 60.814423,
+      "longitude": 12.2605
+    },
+    {
+      "name": "Linhella",
+      "latitude": 60.983631,
+      "longitude": 7.042825
+    },
+    {
+      "name": "Listeinen",
+      "latitude": 70.208085,
+      "longitude": 19.749078
+    },
+    {
+      "name": "Loddesteinen",
+      "latitude": 69.288647,
+      "longitude": 19.960719
+    },
+    {
+      "name": "Lomsteinen",
+      "latitude": 66.823178,
+      "longitude": 13.815161
+    },
+    {
+      "name": "Lundeskjær",
+      "latitude": 58.829529,
+      "longitude": 7.77866
+    },
+    {
+      "name": "Løkenstein",
+      "latitude": 61.188503,
+      "longitude": 8.531031
+    },
+    {
+      "name": "Løysteinen",
+      "latitude": 68.144165,
+      "longitude": 13.311313
+    },
+    {
+      "name": "Magasinsteinen",
+      "latitude": 69.815047,
+      "longitude": 19.655661
+    },
+    {
+      "name": "Mannstenen",
+      "latitude": 62.427517,
+      "longitude": 10.999333
+    },
+    {
+      "name": "Marekirka",
+      "latitude": 58.079924,
+      "longitude": 6.626235
+    },
+    {
+      "name": "Margretesteinen",
+      "latitude": 69.999456,
+      "longitude": 21.068761
+    },
+    {
+      "name": "Maurpadden",
+      "latitude": 69.75871,
+      "longitude": 18.60169
+    },
+    {
+      "name": "Mavn-Eriksteinen",
+      "latitude": 69.568677,
+      "longitude": 20.523224
+    },
+    {
+      "name": "Meddagsstenan",
+      "latitude": 62.49714,
+      "longitude": 11.474613
+    },
+    {
+      "name": "Mekkersteinen - Meahkirgeargi",
+      "latitude": 69.592085,
+      "longitude": 19.740414
+    },
+    {
+      "name": "Mella-Pålsteinan",
+      "latitude": 69.3633,
+      "longitude": 17.090712
+    },
+    {
+      "name": "Merlid",
+      "latitude": 60.015771,
+      "longitude": 11.210366
+    },
+    {
+      "name": "Middagssteinen",
+      "latitude": 59.777517,
+      "longitude": 11.090332
+    },
+    {
+      "name": "Midtskogsteinen",
+      "latitude": 60.004781,
+      "longitude": 10.383984
+    },
+    {
+      "name": "Midtskogsteinen",
+      "latitude": 60.012734,
+      "longitude": 10.378523
+    },
+    {
+      "name": "Mikkjelsteinen",
+      "latitude": 69.55992,
+      "longitude": 17.479267
+    },
+    {
+      "name": "Mobilblokken",
+      "latitude": 58.964197,
+      "longitude": 6.326646
+    },
+    {
+      "name": "Moskjæret",
+      "latitude": 68.65699,
+      "longitude": 14.908178
+    },
+    {
+      "name": "Munken",
+      "latitude": 58.964372,
+      "longitude": 9.870902
+    },
+    {
+      "name": "Mylonitt",
+      "latitude": 59.846882,
+      "longitude": 6.341192
+    },
+    {
+      "name": "Myrsetkjerringa",
+      "latitude": 60.477633,
+      "longitude": 6.142323
+    },
+    {
+      "name": "Myrstein",
+      "latitude": 70.270337,
+      "longitude": 21.805941
+    },
+    {
+      "name": "Måkesteinen",
+      "latitude": 58.788454,
+      "longitude": 8.207373
+    },
+    {
+      "name": "Månesteinen",
+      "latitude": 59.147273,
+      "longitude": 5.265208
+    },
+    {
+      "name": "Måssåhaugstenen",
+      "latitude": 62.702753,
+      "longitude": 9.164149
+    },
+    {
+      "name": "Mønestadsteinen",
+      "latitude": 58.043877,
+      "longitude": 7.095282
+    },
+    {
+      "name": "Møsbrømsteinen",
+      "latitude": 66.418981,
+      "longitude": 12.901942
+    },
+    {
+      "name": "Møysteinen",
+      "latitude": 68.853894,
+      "longitude": 17.451238
+    },
+    {
+      "name": "Namnstena",
+      "latitude": 61.339355,
+      "longitude": 12.135721
+    },
+    {
+      "name": "Navnesten",
+      "latitude": 62.211004,
+      "longitude": 10.528156
+    },
+    {
+      "name": "Neverlaet",
+      "latitude": 63.276599,
+      "longitude": 8.008282
+    },
+    {
+      "name": "Neversteinen",
+      "latitude": 66.758819,
+      "longitude": 13.83655
+    },
+    {
+      "name": "Nordjordsten",
+      "latitude": 62.337801,
+      "longitude": 10.663505
+    },
+    {
+      "name": "Normalsteinen",
+      "latitude": 69.75828,
+      "longitude": 18.603942
+    },
+    {
+      "name": "Novesteinan",
+      "latitude": 69.924717,
+      "longitude": 20.820267
+    },
+    {
+      "name": "Oddresteinen",
+      "latitude": 58.211848,
+      "longitude": 6.595488
+    },
+    {
+      "name": "Offersteinen",
+      "latitude": 60.161265,
+      "longitude": 10.376868
+    },
+    {
+      "name": "Offerstenen",
+      "latitude": 61.049144,
+      "longitude": 11.312597
+    },
+    {
+      "name": "Oksa",
+      "latitude": 61.859081,
+      "longitude": 10.200443
+    },
+    {
+      "name": "Oksporten",
+      "latitude": 66.953175,
+      "longitude": 14.139322
+    },
+    {
+      "name": "Ol Hansa-steinen",
+      "latitude": 69.236627,
+      "longitude": 16.922498
+    },
+    {
+      "name": "Ol Torsa-steinen",
+      "latitude": 69.141701,
+      "longitude": 17.01213
+    },
+    {
+      "name": "Oppvarmingssteinen",
+      "latitude": 63.440303,
+      "longitude": 10.341503
+    },
+    {
+      "name": "Orresteinan",
+      "latitude": 58.412317,
+      "longitude": 6.053933
+    },
+    {
+      "name": "Orresteinen",
+      "latitude": 58.263933,
+      "longitude": 6.83011
+    },
+    {
+      "name": "Ostesteinan",
+      "latitude": 66.810622,
+      "longitude": 14.773772
+    },
+    {
+      "name": "Otersteinen",
+      "latitude": 63.380528,
+      "longitude": 9.45591
+    },
+    {
+      "name": "Otersteinen",
+      "latitude": 66.758308,
+      "longitude": 13.802839
+    },
+    {
+      "name": "Otersteinen",
+      "latitude": 67.094481,
+      "longitude": 14.391372
+    },
+    {
+      "name": "P-Vakten",
+      "latitude": 69.758265,
+      "longitude": 18.60909
+    },
+    {
+      "name": "Per Dalen",
+      "latitude": 61.398061,
+      "longitude": 9.610517
+    },
+    {
+      "name": "Per Jensa-steinen",
+      "latitude": 68.949976,
+      "longitude": 17.470611
+    },
+    {
+      "name": "Per-Elsa-steinen",
+      "latitude": 68.302639,
+      "longitude": 17.336924
+    },
+    {
+      "name": "Persteinen",
+      "latitude": 69.576773,
+      "longitude": 17.543378
+    },
+    {
+      "name": "Piggelsteinen",
+      "latitude": 69.508314,
+      "longitude": 17.491403
+    },
+    {
+      "name": "Piggsteinen",
+      "latitude": 69.19937,
+      "longitude": 19.664835
+    },
+    {
+      "name": "Pikenstein",
+      "latitude": 70.131559,
+      "longitude": 20.381389
+    },
+    {
+      "name": "Piksteinen",
+      "latitude": 69.797386,
+      "longitude": 19.56868
+    },
+    {
+      "name": "Prestefrua",
+      "latitude": 58.33814,
+      "longitude": 7.161727
+    },
+    {
+      "name": "Prinsen",
+      "latitude": 61.348054,
+      "longitude": 12.166671
+    },
+    {
+      "name": "Prosteinen",
+      "latitude": 58.758613,
+      "longitude": 5.748364
+    },
+    {
+      "name": "Pukstein",
+      "latitude": 60.52446,
+      "longitude": 12.114417
+    },
+    {
+      "name": "Pyropitt",
+      "latitude": 59.846789,
+      "longitude": 6.340825
+    },
+    {
+      "name": "Ranågstakken",
+      "latitude": 66.650658,
+      "longitude": 13.582719
+    },
+    {
+      "name": "Raudstein",
+      "latitude": 62.336975,
+      "longitude": 9.985319
+    },
+    {
+      "name": "Raudsteinen",
+      "latitude": 63.719303,
+      "longitude": 10.848617
+    },
+    {
+      "name": "Rausteinan",
+      "latitude": 66.969869,
+      "longitude": 13.919128
+    },
+    {
+      "name": "Reiulf Steen",
+      "latitude": 62.311952,
+      "longitude": 6.327182
+    },
+    {
+      "name": "Resen",
+      "latitude": 67.082019,
+      "longitude": 14.423511
+    },
+    {
+      "name": "Reverudsteinen",
+      "latitude": 60.049059,
+      "longitude": 10.370007
+    },
+    {
+      "name": "Rikardsteinan",
+      "latitude": 64.738227,
+      "longitude": 11.128777
+    },
+    {
+      "name": "Risesteinen - Jiehtanasgeađgi",
+      "latitude": 69.405855,
+      "longitude": 19.498495
+    },
+    {
+      "name": "Rissteinen",
+      "latitude": 68.952435,
+      "longitude": 17.470367
+    },
+    {
+      "name": "Rissteinen",
+      "latitude": 69.596458,
+      "longitude": 19.706158
+    },
+    {
+      "name": "Rock Cache",
+      "latitude": 62.103692,
+      "longitude": 9.256775
+    },
+    {
+      "name": "Rognsteinen",
+      "latitude": 69.480164,
+      "longitude": 17.380303
+    },
+    {
+      "name": "Rokken",
+      "latitude": 58.302119,
+      "longitude": 7.244108
+    },
+    {
+      "name": "Rugga",
+      "latitude": 61.220553,
+      "longitude": 10.517547
+    },
+    {
+      "name": "Ruggestein",
+      "latitude": 60.271574,
+      "longitude": 11.413259
+    },
+    {
+      "name": "Ruggesteinen",
+      "latitude": 58.324014,
+      "longitude": 6.325297
+    },
+    {
+      "name": "Ruggesteinen",
+      "latitude": 58.779783,
+      "longitude": 5.61758
+    },
+    {
+      "name": "Ruggesteinen",
+      "latitude": 59.647037,
+      "longitude": 9.689101
+    },
+    {
+      "name": "Rundsteinen",
+      "latitude": 68.458689,
+      "longitude": 15.045712
+    },
+    {
+      "name": "Rødhesten",
+      "latitude": 66.760058,
+      "longitude": 14.599914
+    },
+    {
+      "name": "Salesten",
+      "latitude": 59.409666,
+      "longitude": 11.654891
+    },
+    {
+      "name": "Sangarsteinen",
+      "latitude": 68.864949,
+      "longitude": 17.833432
+    },
+    {
+      "name": "Sappørsteinen",
+      "latitude": 60.162217,
+      "longitude": 10.361273
+    },
+    {
+      "name": "Sarasteinen - Sárageađgi",
+      "latitude": 69.474707,
+      "longitude": 19.249689
+    },
+    {
+      "name": "Sarpesteinen",
+      "latitude": 58.182321,
+      "longitude": 6.82892
+    },
+    {
+      "name": "Sausteinen",
+      "latitude": 60.377163,
+      "longitude": 12.297367
+    },
+    {
+      "name": "Seisteinen",
+      "latitude": 66.195271,
+      "longitude": 13.622196
+    },
+    {
+      "name": "Sieidi",
+      "latitude": 68.940678,
+      "longitude": 23.104104
+    },
+    {
+      "name": "Siktebord  Batteriets",
+      "latitude": 59.301152,
+      "longitude": 11.100664
+    },
+    {
+      "name": "Siktebord  Batteriets",
+      "latitude": 59.598343,
+      "longitude": 11.08041
+    },
+    {
+      "name": "Siktebord  Batteriets",
+      "latitude": 59.610138,
+      "longitude": 11.117507
+    },
+    {
+      "name": "Sildstenen",
+      "latitude": 62.599703,
+      "longitude": 11.394869
+    },
+    {
+      "name": "Siristeinen",
+      "latitude": 63.994,
+      "longitude": 10.824763
+    },
+    {
+      "name": "Sisselrotsteinen",
+      "latitude": 60.774807,
+      "longitude": 12.299577
+    },
+    {
+      "name": "Sjuguttsteinen",
+      "latitude": 61.216438,
+      "longitude": 10.828874
+    },
+    {
+      "name": "Sjælsteinan",
+      "latitude": 61.21135,
+      "longitude": 9.813717
+    },
+    {
+      "name": "Skansesteinen",
+      "latitude": 59.93443,
+      "longitude": 10.911906
+    },
+    {
+      "name": "Skarkasteinen",
+      "latitude": 58.825658,
+      "longitude": 6.454074
+    },
+    {
+      "name": "Skarperøs steinen",
+      "latitude": 58.987642,
+      "longitude": 6.923594
+    },
+    {
+      "name": "Skarvesteinan - Skárfagearggit",
+      "latitude": 69.679306,
+      "longitude": 19.661626
+    },
+    {
+      "name": "Skarvesteinane",
+      "latitude": 62.498636,
+      "longitude": 6.033655
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 62.355108,
+      "longitude": 6.407911
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 69.195532,
+      "longitude": 19.092413
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 69.207643,
+      "longitude": 16.896749
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 69.480036,
+      "longitude": 17.636272
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 69.483858,
+      "longitude": 17.367947
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 69.532003,
+      "longitude": 17.381782
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 69.546108,
+      "longitude": 17.653322
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 69.585984,
+      "longitude": 19.694552
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 69.997002,
+      "longitude": 20.722619
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 70.084169,
+      "longitude": 20.365388
+    },
+    {
+      "name": "Skarvesteinen",
+      "latitude": 70.22653,
+      "longitude": 19.761753
+    },
+    {
+      "name": "Skarvsteinan",
+      "latitude": 67.482564,
+      "longitude": 12.028156
+    },
+    {
+      "name": "Skarvsteinen",
+      "latitude": 67.930817,
+      "longitude": 16.442137
+    },
+    {
+      "name": "Skarvsteinen",
+      "latitude": 68.470557,
+      "longitude": 15.52416
+    },
+    {
+      "name": "Skarvsteinen",
+      "latitude": 68.635777,
+      "longitude": 14.427867
+    },
+    {
+      "name": "Skarvsteinen",
+      "latitude": 69.265118,
+      "longitude": 17.04103
+    },
+    {
+      "name": "Skarvsteinen",
+      "latitude": 71.003203,
+      "longitude": 24.579663
+    },
+    {
+      "name": "Skiftstein",
+      "latitude": 60.407084,
+      "longitude": 11.633195
+    },
+    {
+      "name": "Skiftstein",
+      "latitude": 60.408882,
+      "longitude": 11.51042
+    },
+    {
+      "name": "Skilpadda",
+      "latitude": 58.120648,
+      "longitude": 7.06973
+    },
+    {
+      "name": "Skinnfellsteinan",
+      "latitude": 58.103908,
+      "longitude": 7.470433
+    },
+    {
+      "name": "Skipet",
+      "latitude": 69.411688,
+      "longitude": 19.52505
+    },
+    {
+      "name": "Skipssteinen",
+      "latitude": 68.955165,
+      "longitude": 17.483157
+    },
+    {
+      "name": "Skjellsteinen",
+      "latitude": 68.901512,
+      "longitude": 17.48977
+    },
+    {
+      "name": "Skjellsteinen",
+      "latitude": 69.690004,
+      "longitude": 19.772246
+    },
+    {
+      "name": "Skjæresteinen",
+      "latitude": 69.36475,
+      "longitude": 20.024314
+    },
+    {
+      "name": "Skjæret",
+      "latitude": 59.450242,
+      "longitude": 11.658833
+    },
+    {
+      "name": "Skomakerstein",
+      "latitude": 60.476892,
+      "longitude": 10.030492
+    },
+    {
+      "name": "Skomakersteinen",
+      "latitude": 62.691546,
+      "longitude": 9.026815
+    },
+    {
+      "name": "Skomstein",
+      "latitude": 59.204533,
+      "longitude": 7.544144
+    },
+    {
+      "name": "Skottesteinen",
+      "latitude": 58.091147,
+      "longitude": 6.801156
+    },
+    {
+      "name": "Skredsteinen",
+      "latitude": 69.794206,
+      "longitude": 19.729084
+    },
+    {
+      "name": "Skrefsrudsteinen",
+      "latitude": 58.967737,
+      "longitude": 5.740931
+    },
+    {
+      "name": "Skriversteinen",
+      "latitude": 60.163736,
+      "longitude": 10.378361
+    },
+    {
+      "name": "Skudesteinen",
+      "latitude": 58.135051,
+      "longitude": 6.903461
+    },
+    {
+      "name": "Skyttesteinen",
+      "latitude": 66.988769,
+      "longitude": 13.870578
+    },
+    {
+      "name": "Skåkåsstenen",
+      "latitude": 62.742529,
+      "longitude": 11.074741
+    },
+    {
+      "name": "Sledasteinen.",
+      "latitude": 60.647307,
+      "longitude": 6.540957
+    },
+    {
+      "name": "Smugeren i Stompefjellet",
+      "latitude": 58.12788,
+      "longitude": 6.70737
+    },
+    {
+      "name": "Smørrullen",
+      "latitude": 60.144564,
+      "longitude": 12.365766
+    },
+    {
+      "name": "Smørstein",
+      "latitude": 60.509733,
+      "longitude": 10.438797
+    },
+    {
+      "name": "Smørsteinen",
+      "latitude": 57.967589,
+      "longitude": 7.565311
+    },
+    {
+      "name": "Smørsteinen",
+      "latitude": 68.573422,
+      "longitude": 15.324364
+    },
+    {
+      "name": "Smørstykket",
+      "latitude": 58.989345,
+      "longitude": 5.788837
+    },
+    {
+      "name": "Snarstein",
+      "latitude": 70.031211,
+      "longitude": 20.750164
+    },
+    {
+      "name": "Snålsteinen",
+      "latitude": 66.74165,
+      "longitude": 14.870706
+    },
+    {
+      "name": "Sotstein",
+      "latitude": 61.169586,
+      "longitude": 8.374364
+    },
+    {
+      "name": "Spellmannssteinen",
+      "latitude": 68.675814,
+      "longitude": 15.342082
+    },
+    {
+      "name": "Spjodesteinen",
+      "latitude": 58.555317,
+      "longitude": 6.618225
+    },
+    {
+      "name": "Spjutsteinen",
+      "latitude": 66.793178,
+      "longitude": 13.525617
+    },
+    {
+      "name": "Splitt",
+      "latitude": 69.758502,
+      "longitude": 18.600887
+    },
+    {
+      "name": "Stakksteinen - Stáhkkágeargi",
+      "latitude": 69.62105,
+      "longitude": 19.711047
+    },
+    {
+      "name": "Stavasteinen",
+      "latitude": 60.103184,
+      "longitude": 6.280074
+    },
+    {
+      "name": "Steinan",
+      "latitude": 66.770378,
+      "longitude": 14.589067
+    },
+    {
+      "name": "Steinan",
+      "latitude": 70.178927,
+      "longitude": 19.25714
+    },
+    {
+      "name": "Steinen",
+      "latitude": 59.868627,
+      "longitude": 5.499966
+    },
+    {
+      "name": "Steinen",
+      "latitude": 59.913424,
+      "longitude": 10.836176
+    },
+    {
+      "name": "Steinen",
+      "latitude": 67.071772,
+      "longitude": 14.547556
+    },
+    {
+      "name": "Steinen",
+      "latitude": 68.683915,
+      "longitude": 15.945142
+    },
+    {
+      "name": "Steinen",
+      "latitude": 70.187544,
+      "longitude": 20.449875
+    },
+    {
+      "name": "Steinen",
+      "latitude": 71.002659,
+      "longitude": 25.020693
+    },
+    {
+      "name": "Steinen på Grotholmen",
+      "latitude": 57.996423,
+      "longitude": 6.996923
+    },
+    {
+      "name": "Steinkjerringa",
+      "latitude": 66.88435,
+      "longitude": 13.793483
+    },
+    {
+      "name": "Steinløfitjane",
+      "latitude": 60.505044,
+      "longitude": 5.535483
+    },
+    {
+      "name": "Stor-Stein",
+      "latitude": 60.726665,
+      "longitude": 12.232232
+    },
+    {
+      "name": "Store Steinen",
+      "latitude": 61.475136,
+      "longitude": 9.476436
+    },
+    {
+      "name": "Store Sten",
+      "latitude": 61.612786,
+      "longitude": 11.147468
+    },
+    {
+      "name": "Store Sten",
+      "latitude": 61.637537,
+      "longitude": 11.16528
+    },
+    {
+      "name": "Store stein",
+      "latitude": 60.48171,
+      "longitude": 9.895682
+    },
+    {
+      "name": "Storesteinen",
+      "latitude": 60.724743,
+      "longitude": 6.909655
+    },
+    {
+      "name": "Storstein",
+      "latitude": 61.118169,
+      "longitude": 8.520482
+    },
+    {
+      "name": "Storstein",
+      "latitude": 61.332539,
+      "longitude": 10.431803
+    },
+    {
+      "name": "Storstein",
+      "latitude": 61.354642,
+      "longitude": 10.543581
+    },
+    {
+      "name": "Storstein",
+      "latitude": 63.507841,
+      "longitude": 9.396667
+    },
+    {
+      "name": "Storstein",
+      "latitude": 70.617774,
+      "longitude": 27.707154
+    },
+    {
+      "name": "Storstein",
+      "latitude": 70.798064,
+      "longitude": 27.734072
+    },
+    {
+      "name": "Storsteinan",
+      "latitude": 66.521908,
+      "longitude": 13.267775
+    },
+    {
+      "name": "Storsteinan",
+      "latitude": 67.030894,
+      "longitude": 14.036428
+    },
+    {
+      "name": "Storsteinan",
+      "latitude": 70.055797,
+      "longitude": 20.413428
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 61.143149,
+      "longitude": 12.089666
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 61.179516,
+      "longitude": 12.323818
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 62.251649,
+      "longitude": 11.063469
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 62.538112,
+      "longitude": 7.912421
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 63.871502,
+      "longitude": 8.554988
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 66.400622,
+      "longitude": 14.021419
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 66.822948,
+      "longitude": 13.411839
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 66.982964,
+      "longitude": 13.819869
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 67.044878,
+      "longitude": 14.460242
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.169921,
+      "longitude": 20.015617
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.291728,
+      "longitude": 18.635347
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.494694,
+      "longitude": 18.995902
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.52724,
+      "longitude": 19.237077
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.563003,
+      "longitude": 19.650982
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.571742,
+      "longitude": 17.557506
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.79656,
+      "longitude": 19.060568
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 69.94459,
+      "longitude": 18.827014
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 70.054794,
+      "longitude": 20.96735
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 70.176391,
+      "longitude": 19.255944
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 71.070581,
+      "longitude": 24.035269
+    },
+    {
+      "name": "Storsten",
+      "latitude": 61.18234,
+      "longitude": 12.316731
+    },
+    {
+      "name": "Storsten",
+      "latitude": 61.299089,
+      "longitude": 12.228187
+    },
+    {
+      "name": "Storsten",
+      "latitude": 61.544703,
+      "longitude": 12.093487
+    },
+    {
+      "name": "Storsten",
+      "latitude": 62.239886,
+      "longitude": 10.820763
+    },
+    {
+      "name": "Storstenen",
+      "latitude": 61.383868,
+      "longitude": 12.271522
+    },
+    {
+      "name": "Storstenen",
+      "latitude": 62.245958,
+      "longitude": 11.413193
+    },
+    {
+      "name": "Storstenen",
+      "latitude": 62.427562,
+      "longitude": 11.198209
+    },
+    {
+      "name": "Storstenen",
+      "latitude": 62.531814,
+      "longitude": 11.523468
+    },
+    {
+      "name": "Storstenen",
+      "latitude": 62.613461,
+      "longitude": 11.406421
+    },
+    {
+      "name": "Storstenen",
+      "latitude": 62.661518,
+      "longitude": 11.27797
+    },
+    {
+      "name": "Straumsteinen",
+      "latitude": 68.31641,
+      "longitude": 14.41384
+    },
+    {
+      "name": "Straumvassbotn",
+      "latitude": 67.329636,
+      "longitude": 15.693948
+    },
+    {
+      "name": "Straumvassbotn (Nordlandsbrisen)",
+      "latitude": 67.338172,
+      "longitude": 15.638307
+    },
+    {
+      "name": "Studasteinen",
+      "latitude": 59.283155,
+      "longitude": 6.203775
+    },
+    {
+      "name": "Stuorageađgi",
+      "latitude": 69.469336,
+      "longitude": 25.504252
+    },
+    {
+      "name": "Stusteinen",
+      "latitude": 66.999514,
+      "longitude": 13.998917
+    },
+    {
+      "name": "Stáhhkogállu",
+      "latitude": 69.392239,
+      "longitude": 19.419918
+    },
+    {
+      "name": "Sukkerbiten",
+      "latitude": 66.832946,
+      "longitude": 13.422993
+    },
+    {
+      "name": "Svarthellaren",
+      "latitude": 66.519742,
+      "longitude": 13.160483
+    },
+    {
+      "name": "Svartsteinan",
+      "latitude": 69.547849,
+      "longitude": 17.66799
+    },
+    {
+      "name": "Svartsteinen",
+      "latitude": 61.357485,
+      "longitude": 10.835513
+    },
+    {
+      "name": "Svartstenen",
+      "latitude": 62.449518,
+      "longitude": 11.687157
+    },
+    {
+      "name": "Sámegirku",
+      "latitude": 69.741762,
+      "longitude": 19.694919
+    },
+    {
+      "name": "Søylandssteinen",
+      "latitude": 58.847792,
+      "longitude": 6.520116
+    },
+    {
+      "name": "Tavelsteinen",
+      "latitude": 63.393784,
+      "longitude": 8.183581
+    },
+    {
+      "name": "Teistesteinen",
+      "latitude": 69.54308,
+      "longitude": 17.657446
+    },
+    {
+      "name": "Tennhella",
+      "latitude": 68.644309,
+      "longitude": 14.946994
+    },
+    {
+      "name": "Tennsteinen",
+      "latitude": 68.618745,
+      "longitude": 15.718701
+    },
+    {
+      "name": "Teppstein",
+      "latitude": 70.178011,
+      "longitude": 20.800061
+    },
+    {
+      "name": "Teppsteinan",
+      "latitude": 70.177059,
+      "longitude": 20.798858
+    },
+    {
+      "name": "Terningsteinen",
+      "latitude": 63.979637,
+      "longitude": 9.091125
+    },
+    {
+      "name": "Thulitt fra Trøndelag",
+      "latitude": 59.919883,
+      "longitude": 10.771655
+    },
+    {
+      "name": "Timeglaset",
+      "latitude": 60.549946,
+      "longitude": 6.331741
+    },
+    {
+      "name": "Tingsteinan",
+      "latitude": 66.538781,
+      "longitude": 13.646572
+    },
+    {
+      "name": "Tiursteinen",
+      "latitude": 69.441411,
+      "longitude": 19.667823
+    },
+    {
+      "name": "Tomlingen",
+      "latitude": 58.533178,
+      "longitude": 6.629122
+    },
+    {
+      "name": "Torjus-helleren",
+      "latitude": 58.142854,
+      "longitude": 7.28772
+    },
+    {
+      "name": "Torsteinen",
+      "latitude": 58.122669,
+      "longitude": 6.625657
+    },
+    {
+      "name": "Torsteinen",
+      "latitude": 58.256229,
+      "longitude": 6.96905
+    },
+    {
+      "name": "Trollhesten",
+      "latitude": 68.628206,
+      "longitude": 14.57865
+    },
+    {
+      "name": "Trollskipet",
+      "latitude": 60.335366,
+      "longitude": 11.578141
+    },
+    {
+      "name": "Trollstein",
+      "latitude": 64.612918,
+      "longitude": 11.034755
+    },
+    {
+      "name": "Trollsteinen",
+      "latitude": 63.379536,
+      "longitude": 10.180412
+    },
+    {
+      "name": "Trommesteinen",
+      "latitude": 61.03465,
+      "longitude": 4.735351
+    },
+    {
+      "name": "Trongasteinen",
+      "latitude": 58.829292,
+      "longitude": 6.069976
+    },
+    {
+      "name": "Trøkastein",
+      "latitude": 61.192969,
+      "longitude": 8.524636
+    },
+    {
+      "name": "Trøllstein",
+      "latitude": 61.173319,
+      "longitude": 8.365514
+    },
+    {
+      "name": "Tusenmetersteinen",
+      "latitude": 60.314691,
+      "longitude": 12.251428
+    },
+    {
+      "name": "Tyskstenen",
+      "latitude": 62.728277,
+      "longitude": 11.149122
+    },
+    {
+      "name": "Uksevømbe",
+      "latitude": 60.613639,
+      "longitude": 8.397856
+    },
+    {
+      "name": "Valsteinen",
+      "latitude": 69.204376,
+      "longitude": 17.929436
+    },
+    {
+      "name": "Vanen",
+      "latitude": 58.129979,
+      "longitude": 6.598175
+    },
+    {
+      "name": "Veggesteinen",
+      "latitude": 69.682272,
+      "longitude": 18.11155
+    },
+    {
+      "name": "Versstein",
+      "latitude": 61.169831,
+      "longitude": 8.372133
+    },
+    {
+      "name": "Vollsteinen",
+      "latitude": 69.760408,
+      "longitude": 19.653489
+    },
+    {
+      "name": "Vågneskjerringa",
+      "latitude": 69.772042,
+      "longitude": 19.250762
+    },
+    {
+      "name": "Ytre Pålsteinan",
+      "latitude": 69.363974,
+      "longitude": 17.087434
+    },
+    {
+      "name": "Yttersteinen",
+      "latitude": 69.591885,
+      "longitude": 19.925428
+    },
+    {
+      "name": "ho Margrete",
+      "latitude": 66.947381,
+      "longitude": 14.9255
+    },
+    {
+      "name": "Åssteinan",
+      "latitude": 61.328578,
+      "longitude": 9.878317
+    },
+    {
+      "name": "Åssteinane",
+      "latitude": 58.900937,
+      "longitude": 6.248847
+    },
+    {
+      "name": "Ømbjørgstein",
+      "latitude": 61.369647,
+      "longitude": 9.745556
+    },
+    {
+      "name": "Ørddersten",
+      "latitude": 60.601964,
+      "longitude": 11.509151
+    },
+    {
+      "name": "Ørnsteinen",
+      "latitude": 68.885916,
+      "longitude": 15.631253
+    },
+    {
+      "name": "Ørsiske gård",
+      "latitude": 60.082911,
+      "longitude": 10.813036
+    },
+    {
+      "name": "Øverhallen",
+      "latitude": 67.074531,
+      "longitude": 14.536067
+    },
+    {
+      "name": "Øvre Stonsby",
+      "latitude": 60.19343,
+      "longitude": 11.262806
+    }
+  ],
+  "meta": {
+    "title": "Named stones and boulders in Norway - Gratis nedlasting",
+    "description": "Named stones and boulders in Norway, derived from OpenStreetMap POI nodes tagged natural=stone in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 626 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named stones and boulders in Norway | ListBase",
+    "seo_description": "Last ned Named stones and boulders in Norway — 626 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 626 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

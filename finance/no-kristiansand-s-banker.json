@@ -1,0 +1,79 @@
+{
+  "id": "no-kristiansand-s-banker",
+  "name": "Banker i Kristiansand S — SWIFT/BIC-koder",
+  "title": "Banker i Kristiansand S — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC codes for banks and financial institutions in NO located in the city the source records verbatim as \"KRISTIANSAND S\" (4 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 228,
+      "bank": "ORION ANALYSE AS",
+      "city": "KRISTIANSAND S",
+      "branch": "",
+      "swift_code": "ORIONO21"
+    },
+    {
+      "id": 297,
+      "bank": "SPAREBANK 1 SR-BANK ASA",
+      "city": "KRISTIANSAND S",
+      "branch": "",
+      "swift_code": "SPRONO22KRS"
+    },
+    {
+      "id": 312,
+      "bank": "SPAREBANKEN SOR (FORMERLY SPAREBANKEN PLUSS)",
+      "city": "KRISTIANSAND S",
+      "branch": "",
+      "swift_code": "SPSONO22"
+    },
+    {
+      "id": 320,
+      "bank": "SPARESKILLINGSBANKEN KRISTIANSAND S",
+      "city": "KRISTIANSAND S",
+      "branch": "",
+      "swift_code": "SPSKNO21"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Kristiansand S — SWIFT/BIC-koder - Gratis nedlasting",
+    "description": "SWIFT/BIC codes for banks and financial institutions in NO located in the city the source records verbatim as \"KRISTIANSAND S\" (4 institutions). Inneholder 4 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Kristiansand S — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Last ned Banker i Kristiansand S — SWIFT/BIC-koder — 4 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 4 poster / 5 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "id": "no-rogaland-osm-museer",
+  "name": "Museer i Rogaland – OpenStreetMap (18 museums in Rogaland, OSM)",
+  "title": "Museer i Rogaland – OpenStreetMap (18 museums in Rogaland, OSM)",
+  "description": "Museer i fylket Rogaland fra OpenStreetMap — delmengde av no-osm-museer, 18 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Arquebus krigshistorisk museum",
+      "name_en": "",
+      "city": "Eike",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Eike",
+      "avstand_km": 2.984,
+      "latitude": 59.423171,
+      "longitude": 5.383697,
+      "website": ""
+    },
+    {
+      "name": "Dalane Folkemuseum",
+      "name_en": "",
+      "city": "Egersund",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Egersund",
+      "avstand_km": 2.725,
+      "latitude": 58.472654,
+      "longitude": 6.022692,
+      "website": ""
+    },
+    {
+      "name": "Fjøløy Fort",
+      "name_en": "",
+      "city": "Randaberg",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Vikevåg",
+      "avstand_km": 7.053,
+      "latitude": 59.087049,
+      "longitude": 5.576095,
+      "website": ""
+    },
+    {
+      "name": "Fogdahuset",
+      "name_en": "",
+      "city": "Sandnes",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Sandnes",
+      "avstand_km": 1.036,
+      "latitude": 58.854368,
+      "longitude": 5.752808,
+      "website": ""
+    },
+    {
+      "name": "Jærmuseet / Vitengarden",
+      "name_en": "",
+      "city": "Nærbø",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Nærbø",
+      "avstand_km": 1.214,
+      "latitude": 58.65509,
+      "longitude": 5.631588,
+      "website": ""
+    },
+    {
+      "name": "Kystkultursamlingen",
+      "name_en": "",
+      "city": "Tananger",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Tananger",
+      "avstand_km": 0.512,
+      "latitude": 58.932982,
+      "longitude": 5.580475,
+      "website": ""
+    },
+    {
+      "name": "Mælandsgården",
+      "name_en": "",
+      "city": "Skudeneshavn",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Skudeneshavn",
+      "avstand_km": 0.228,
+      "latitude": 59.147828,
+      "longitude": 5.26142,
+      "website": ""
+    },
+    {
+      "name": "Nordvegen Historiesenter",
+      "name_en": "",
+      "city": "Vormedal",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Vormedal",
+      "avstand_km": 1.557,
+      "latitude": 59.354724,
+      "longitude": 5.292256,
+      "website": ""
+    },
+    {
+      "name": "Norsk Barnemuseum",
+      "name_en": "The Norwegian Childrens Museum",
+      "city": "Stavanger",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Stavanger",
+      "avstand_km": 0.586,
+      "latitude": 58.964835,
+      "longitude": 5.733049,
+      "website": ""
+    },
+    {
+      "name": "Norsk Hermetikkmuseum",
+      "name_en": "The Norwegian Canning Museum",
+      "city": "Stavanger",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Stavanger",
+      "avstand_km": 0.524,
+      "latitude": 58.972442,
+      "longitude": 5.725357,
+      "website": ""
+    },
+    {
+      "name": "Reidar Berge Museet",
+      "name_en": "",
+      "city": "Stavanger",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Stavanger",
+      "avstand_km": 0.322,
+      "latitude": 58.971185,
+      "longitude": 5.738516,
+      "website": ""
+    },
+    {
+      "name": "Ryfylkemuseet",
+      "name_en": "The Ryfylke Museum",
+      "city": "Sand",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Sand",
+      "avstand_km": 0.177,
+      "latitude": 59.48516,
+      "longitude": 6.248099,
+      "website": "http://www.ryfylkemuseet.no"
+    },
+    {
+      "name": "Speidermuseet",
+      "name_en": "",
+      "city": "Sola",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Sola",
+      "avstand_km": 2.73,
+      "latitude": 58.912021,
+      "longitude": 5.666426,
+      "website": ""
+    },
+    {
+      "name": "Stavanger Sjøfartsmuseum",
+      "name_en": "Stavanger Maritime Museum",
+      "city": "Stavanger",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Stavanger",
+      "avstand_km": 0.258,
+      "latitude": 58.970322,
+      "longitude": 5.728811,
+      "website": ""
+    },
+    {
+      "name": "TS Museet",
+      "name_en": "",
+      "city": "Sola",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Sola",
+      "avstand_km": 6.414,
+      "latitude": 58.842204,
+      "longitude": 5.586254,
+      "website": ""
+    },
+    {
+      "name": "Tinghaug",
+      "name_en": "",
+      "city": "Sauda",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Sauda",
+      "avstand_km": 2.149,
+      "latitude": 59.647842,
+      "longitude": 6.316238,
+      "website": ""
+    },
+    {
+      "name": "Vistnes skole",
+      "name_en": "",
+      "city": "Randaberg",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Randaberg",
+      "avstand_km": 2.318,
+      "latitude": 58.989162,
+      "longitude": 5.583549,
+      "website": ""
+    },
+    {
+      "name": "Vistnestunet",
+      "name_en": "",
+      "city": "Randaberg",
+      "fylke": "Rogaland",
+      "naermeste_sted": "Randaberg",
+      "avstand_km": 2.978,
+      "latitude": 58.98493,
+      "longitude": 5.575073,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Rogaland – OpenStreetMap (18 museums in Rogaland, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Rogaland fra OpenStreetMap — delmengde av no-osm-museer, 18 poster. Inneholder 18 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Rogaland – OpenStreetMap (18 museums in Rogaland, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Rogaland – OpenStreetMap (18 museums in Rogaland, OSM) — 18 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 18 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

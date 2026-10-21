@@ -1,0 +1,5446 @@
+{
+  "id": "no-osm-amenity-ferry-terminal",
+  "name": "Named ferry terminals in Norway",
+  "title": "Named ferry terminals in Norway",
+  "description": "Named ferry terminals in Norway, derived from OpenStreetMap POI nodes tagged amenity=ferry_terminal in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1081,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abelnes",
+      "latitude": 58.238346,
+      "longitude": 6.653827
+    },
+    {
+      "name": "Abelvær",
+      "latitude": 64.732783,
+      "longitude": 11.182776
+    },
+    {
+      "name": "Agnesodden",
+      "latitude": 67.068486,
+      "longitude": 14.483016
+    },
+    {
+      "name": "Aker brygge",
+      "latitude": 59.910102,
+      "longitude": 10.730158
+    },
+    {
+      "name": "Aker brygge",
+      "latitude": 59.910138,
+      "longitude": 10.728729
+    },
+    {
+      "name": "Aker brygge",
+      "latitude": 59.910664,
+      "longitude": 10.729719
+    },
+    {
+      "name": "Akkarfjord Johs Kvalsvik kai",
+      "latitude": 70.79198,
+      "longitude": 23.413382
+    },
+    {
+      "name": "Akkerhaugen brygge",
+      "latitude": 59.392224,
+      "longitude": 9.254949
+    },
+    {
+      "name": "Aldra hurtigbåtkai",
+      "latitude": 66.400461,
+      "longitude": 13.118264
+    },
+    {
+      "name": "Alta hurtigbåtterminal",
+      "latitude": 69.978136,
+      "longitude": 23.330058
+    },
+    {
+      "name": "Alta rutebåtterminal",
+      "latitude": 69.976905,
+      "longitude": 23.328314
+    },
+    {
+      "name": "Altneset",
+      "latitude": 70.331977,
+      "longitude": 23.055355
+    },
+    {
+      "name": "Alvøy",
+      "latitude": 60.351796,
+      "longitude": 5.185667
+    },
+    {
+      "name": "Anda ferjekai",
+      "latitude": 61.846509,
+      "longitude": 6.08188
+    },
+    {
+      "name": "Andabeløy",
+      "latitude": 58.233151,
+      "longitude": 6.668044
+    },
+    {
+      "name": "Anddalsvåg",
+      "latitude": 65.578155,
+      "longitude": 12.391967
+    },
+    {
+      "name": "Andenes",
+      "latitude": 69.326807,
+      "longitude": 16.134016
+    },
+    {
+      "name": "Arasvika",
+      "latitude": 63.165469,
+      "longitude": 8.435363
+    },
+    {
+      "name": "Arendal Pollen",
+      "latitude": 58.459081,
+      "longitude": 8.768542
+    },
+    {
+      "name": "Arendal Tyholmen",
+      "latitude": 58.457571,
+      "longitude": 8.767466
+    },
+    {
+      "name": "Arnøyhamn kai",
+      "latitude": 70.052915,
+      "longitude": 20.636322
+    },
+    {
+      "name": "Arsvågen",
+      "latitude": 59.170678,
+      "longitude": 5.453815
+    },
+    {
+      "name": "Askje",
+      "latitude": 59.061538,
+      "longitude": 5.701963
+    },
+    {
+      "name": "Askrova kai",
+      "latitude": 61.50009,
+      "longitude": 4.967427
+    },
+    {
+      "name": "Askvoll",
+      "latitude": 61.345261,
+      "longitude": 5.064396
+    },
+    {
+      "name": "Askvoll",
+      "latitude": 61.345499,
+      "longitude": 5.06551
+    },
+    {
+      "name": "Aspond",
+      "latitude": 59.726704,
+      "longitude": 10.577321
+    },
+    {
+      "name": "Atlungstad",
+      "latitude": 60.758528,
+      "longitude": 11.07669
+    },
+    {
+      "name": "Auglandsbukta",
+      "latitude": 58.121014,
+      "longitude": 7.963508
+    },
+    {
+      "name": "Aukra",
+      "latitude": 62.78049,
+      "longitude": 6.917453
+    },
+    {
+      "name": "Aurland",
+      "latitude": 60.906768,
+      "longitude": 7.1862
+    },
+    {
+      "name": "Aursletta hurtigbåtkai",
+      "latitude": 65.632986,
+      "longitude": 12.747917
+    },
+    {
+      "name": "Austbø ferjekai",
+      "latitude": 65.931868,
+      "longitude": 12.324528
+    },
+    {
+      "name": "Austefjorden",
+      "latitude": 60.178221,
+      "longitude": 5.094024
+    },
+    {
+      "name": "Austringen hurtigbåtkai",
+      "latitude": 68.803123,
+      "longitude": 14.839938
+    },
+    {
+      "name": "Avløp kai",
+      "latitude": 61.15385,
+      "longitude": 4.812811
+    },
+    {
+      "name": "Bakken ferjekai",
+      "latitude": 59.013209,
+      "longitude": 6.290594
+    },
+    {
+      "name": "Balestrand",
+      "latitude": 61.210112,
+      "longitude": 6.53798
+    },
+    {
+      "name": "Ballstadgutt",
+      "latitude": 68.067732,
+      "longitude": 13.536266
+    },
+    {
+      "name": "Bandaksli",
+      "latitude": 59.407865,
+      "longitude": 8.188969
+    },
+    {
+      "name": "Barekstad kai",
+      "latitude": 61.667989,
+      "longitude": 4.885569
+    },
+    {
+      "name": "Barkestad hurtigbåtkai",
+      "latitude": 68.816441,
+      "longitude": 14.8014
+    },
+    {
+      "name": "Barmen",
+      "latitude": 61.997867,
+      "longitude": 5.289994
+    },
+    {
+      "name": "Barmsund",
+      "latitude": 61.983989,
+      "longitude": 5.287413
+    },
+    {
+      "name": "Batalden kai",
+      "latitude": 61.637899,
+      "longitude": 4.813014
+    },
+    {
+      "name": "Beffen - Bradbenken",
+      "latitude": 60.39805,
+      "longitude": 5.320584
+    },
+    {
+      "name": "Beffen - Nykirkekaien",
+      "latitude": 60.397307,
+      "longitude": 5.314942
+    },
+    {
+      "name": "Bekkjarvik",
+      "latitude": 60.007922,
+      "longitude": 5.202894
+    },
+    {
+      "name": "Bellvik ferjekai",
+      "latitude": 69.786728,
+      "longitude": 18.762961
+    },
+    {
+      "name": "Bergen",
+      "latitude": 60.39166,
+      "longitude": 5.306569
+    },
+    {
+      "name": "Bergen port Jekteviksterminalen",
+      "latitude": 60.392259,
+      "longitude": 5.310438
+    },
+    {
+      "name": "Bergholmen",
+      "latitude": 59.675656,
+      "longitude": 10.584609
+    },
+    {
+      "name": "Bergsfjord ferjekai",
+      "latitude": 70.25185,
+      "longitude": 21.784493
+    },
+    {
+      "name": "Bergsfjord hurtigbåtkai",
+      "latitude": 70.25242,
+      "longitude": 21.783728
+    },
+    {
+      "name": "Berlevåg Hurtigrutekai",
+      "latitude": 70.857553,
+      "longitude": 29.113972
+    },
+    {
+      "name": "Bessaker hurtigbåtkai",
+      "latitude": 64.247764,
+      "longitude": 10.319978
+    },
+    {
+      "name": "Bia kai",
+      "latitude": 70.317757,
+      "longitude": 22.891392
+    },
+    {
+      "name": "Bindalseidet hurtigbåtkai",
+      "latitude": 65.132023,
+      "longitude": 12.263114
+    },
+    {
+      "name": "Bjarkøy hurtigbåtkai",
+      "latitude": 68.998915,
+      "longitude": 16.538031
+    },
+    {
+      "name": "Bjelkarøy",
+      "latitude": 60.241586,
+      "longitude": 5.221384
+    },
+    {
+      "name": "Bjørkøya",
+      "latitude": 59.031713,
+      "longitude": 9.74819
+    },
+    {
+      "name": "Bjørn ferjekai",
+      "latitude": 66.082357,
+      "longitude": 12.586007
+    },
+    {
+      "name": "Bjørn hurtigbåtkai",
+      "latitude": 66.08241,
+      "longitude": 12.586365
+    },
+    {
+      "name": "Bjørnerå ferjekai",
+      "latitude": 68.882083,
+      "longitude": 16.50372
+    },
+    {
+      "name": "Bleikøya",
+      "latitude": 59.889053,
+      "longitude": 10.734895
+    },
+    {
+      "name": "Bliksvær hurtigbåtkai",
+      "latitude": 67.277991,
+      "longitude": 14.009383
+    },
+    {
+      "name": "Bodø",
+      "latitude": 67.288357,
+      "longitude": 14.393689
+    },
+    {
+      "name": "Bodø ferjekai",
+      "latitude": 67.288349,
+      "longitude": 14.394146
+    },
+    {
+      "name": "Bodø sentrumsterminalen kai",
+      "latitude": 67.284326,
+      "longitude": 14.372321
+    },
+    {
+      "name": "Bognes",
+      "latitude": 68.223998,
+      "longitude": 16.072811
+    },
+    {
+      "name": "Bognes",
+      "latitude": 68.224971,
+      "longitude": 16.075949
+    },
+    {
+      "name": "Bogsund hurtigbåtkai",
+      "latitude": 59.325466,
+      "longitude": 6.187481
+    },
+    {
+      "name": "Bogøy hurtigbåtkai",
+      "latitude": 67.899884,
+      "longitude": 15.189609
+    },
+    {
+      "name": "Bogøyvær kai",
+      "latitude": 63.871897,
+      "longitude": 8.55119
+    },
+    {
+      "name": "Bolga ferjekai",
+      "latitude": 66.805143,
+      "longitude": 13.235734
+    },
+    {
+      "name": "Bolga hurtigbåtkai",
+      "latitude": 66.805006,
+      "longitude": 13.236978
+    },
+    {
+      "name": "Borgundøy",
+      "latitude": 59.731145,
+      "longitude": 5.695064
+    },
+    {
+      "name": "Borøya",
+      "latitude": 58.05539,
+      "longitude": 7.771372
+    },
+    {
+      "name": "Borøya",
+      "latitude": 59.876658,
+      "longitude": 10.548685
+    },
+    {
+      "name": "Botnen",
+      "latitude": 60.470122,
+      "longitude": 6.213803
+    },
+    {
+      "name": "Botnhamn ferjekai",
+      "latitude": 69.506936,
+      "longitude": 17.908731
+    },
+    {
+      "name": "Bragdøya",
+      "latitude": 58.120684,
+      "longitude": 7.983468
+    },
+    {
+      "name": "Brasøy ferjekai",
+      "latitude": 65.914188,
+      "longitude": 12.182901
+    },
+    {
+      "name": "BrasøyFK hurtigbåtkai",
+      "latitude": 65.914032,
+      "longitude": 12.183149
+    },
+    {
+      "name": "Bratteli ferjekai",
+      "latitude": 59.011863,
+      "longitude": 6.26312
+    },
+    {
+      "name": "Brattfjord hurtigbåtkai",
+      "latitude": 67.68633,
+      "longitude": 15.239678
+    },
+    {
+      "name": "Brattvåg",
+      "latitude": 62.607838,
+      "longitude": 6.448632
+    },
+    {
+      "name": "Breistein Ferjekai",
+      "latitude": 60.490337,
+      "longitude": 5.399801
+    },
+    {
+      "name": "Breivikeidet ferjekai",
+      "latitude": 69.669922,
+      "longitude": 19.651182
+    },
+    {
+      "name": "Brekkhus fergeleie",
+      "latitude": 59.19769,
+      "longitude": 10.943835
+    },
+    {
+      "name": "Brekstad ferjekai",
+      "latitude": 63.687765,
+      "longitude": 9.669478
+    },
+    {
+      "name": "Brekstad hurtigbåtkai",
+      "latitude": 63.686097,
+      "longitude": 9.667799
+    },
+    {
+      "name": "Brennesvik",
+      "latitude": 66.207636,
+      "longitude": 13.574413
+    },
+    {
+      "name": "Brennsund hurtigbåtkai",
+      "latitude": 67.667653,
+      "longitude": 14.757932
+    },
+    {
+      "name": "Brensholmen ferjekai",
+      "latitude": 69.607847,
+      "longitude": 18.031857
+    },
+    {
+      "name": "Brevik ferjekai",
+      "latitude": 59.051191,
+      "longitude": 9.697427
+    },
+    {
+      "name": "Brimse hurtigbåtkai",
+      "latitude": 59.086127,
+      "longitude": 5.797257
+    },
+    {
+      "name": "Bromnes ferjekai",
+      "latitude": 70.077479,
+      "longitude": 18.983615
+    },
+    {
+      "name": "Brottøy ferjekai",
+      "latitude": 68.477489,
+      "longitude": 15.156724
+    },
+    {
+      "name": "Brottøy hurtigbåtkai",
+      "latitude": 68.477422,
+      "longitude": 15.156462
+    },
+    {
+      "name": "Brønnøya N",
+      "latitude": 59.867142,
+      "longitude": 10.547617
+    },
+    {
+      "name": "Brønnøya S",
+      "latitude": 59.851711,
+      "longitude": 10.538379
+    },
+    {
+      "name": "Brønnøya Ø",
+      "latitude": 59.86298,
+      "longitude": 10.555771
+    },
+    {
+      "name": "Brønnøysund hurtigbåtkai",
+      "latitude": 65.475014,
+      "longitude": 12.210016
+    },
+    {
+      "name": "Brønnøysund kystrutekai",
+      "latitude": 65.475727,
+      "longitude": 12.210708
+    },
+    {
+      "name": "Brøstadbotn hurtigbåtkai",
+      "latitude": 69.072027,
+      "longitude": 17.657666
+    },
+    {
+      "name": "Buavåg",
+      "latitude": 59.598152,
+      "longitude": 5.318295
+    },
+    {
+      "name": "Buena kai",
+      "latitude": 60.218102,
+      "longitude": 5.383025
+    },
+    {
+      "name": "Burfjord kai",
+      "latitude": 69.941,
+      "longitude": 22.043776
+    },
+    {
+      "name": "Buskøy kai",
+      "latitude": 61.211818,
+      "longitude": 4.860318
+    },
+    {
+      "name": "Buvika",
+      "latitude": 62.12799,
+      "longitude": 11.713017
+    },
+    {
+      "name": "Bygdin brygge",
+      "latitude": 61.328263,
+      "longitude": 8.794843
+    },
+    {
+      "name": "Bygdøynes",
+      "latitude": 59.90427,
+      "longitude": 10.701072
+    },
+    {
+      "name": "Byre hurtigbåtkai",
+      "latitude": 59.159124,
+      "longitude": 5.969839
+    },
+    {
+      "name": "Bærø",
+      "latitude": 58.873785,
+      "longitude": 9.439968
+    },
+    {
+      "name": "Bærøyvågen hurtigbåtkai",
+      "latitude": 65.869271,
+      "longitude": 12.618459
+    },
+    {
+      "name": "Bønå hurtigbåtkai",
+      "latitude": 65.644575,
+      "longitude": 12.753716
+    },
+    {
+      "name": "Børgefjellfoten",
+      "latitude": 65.027502,
+      "longitude": 13.739912
+    },
+    {
+      "name": "Børøy",
+      "latitude": 68.839877,
+      "longitude": 14.839893
+    },
+    {
+      "name": "Cicignon",
+      "latitude": 59.206119,
+      "longitude": 10.95196
+    },
+    {
+      "name": "Color Line",
+      "latitude": 58.144554,
+      "longitude": 7.989336
+    },
+    {
+      "name": "Color Line Terminal",
+      "latitude": 59.908716,
+      "longitude": 10.710006
+    },
+    {
+      "name": "Cruisekajen",
+      "latitude": 60.468046,
+      "longitude": 7.067011
+    },
+    {
+      "name": "Dagsvik",
+      "latitude": 66.020644,
+      "longitude": 12.940657
+    },
+    {
+      "name": "Dalen bryggje",
+      "latitude": 59.444764,
+      "longitude": 8.024717
+    },
+    {
+      "name": "Daløy",
+      "latitude": 61.052587,
+      "longitude": 4.738535
+    },
+    {
+      "name": "Dampskipsbrygga",
+      "latitude": 58.106923,
+      "longitude": 8.112288
+    },
+    {
+      "name": "Dampskipskaia",
+      "latitude": 58.997,
+      "longitude": 10.040799
+    },
+    {
+      "name": "Digermulen",
+      "latitude": 68.316184,
+      "longitude": 14.989377
+    },
+    {
+      "name": "Drag ferjekai",
+      "latitude": 68.04802,
+      "longitude": 16.07989
+    },
+    {
+      "name": "Drag hurtigbåtkai",
+      "latitude": 68.047133,
+      "longitude": 16.078593
+    },
+    {
+      "name": "Dragsvik",
+      "latitude": 61.214517,
+      "longitude": 6.566911
+    },
+    {
+      "name": "Dronningen",
+      "latitude": 59.907378,
+      "longitude": 10.696375
+    },
+    {
+      "name": "Dryna",
+      "latitude": 62.639725,
+      "longitude": 6.523074
+    },
+    {
+      "name": "Drøbak",
+      "latitude": 59.660984,
+      "longitude": 10.627731
+    },
+    {
+      "name": "Drøbak",
+      "latitude": 59.670126,
+      "longitude": 10.622855
+    },
+    {
+      "name": "Duesund",
+      "latitude": 60.807582,
+      "longitude": 5.308451
+    },
+    {
+      "name": "Dybfest",
+      "latitude": 63.78084,
+      "longitude": 9.577574
+    },
+    {
+      "name": "Dyrøy",
+      "latitude": 63.799273,
+      "longitude": 8.681276
+    },
+    {
+      "name": "Edøy",
+      "latitude": 63.28633,
+      "longitude": 8.137429
+    },
+    {
+      "name": "Eggesvik Hurtigbåtkai",
+      "latitude": 67.090141,
+      "longitude": 14.42275
+    },
+    {
+      "name": "Eidesvik kai",
+      "latitude": 59.595156,
+      "longitude": 5.185194
+    },
+    {
+      "name": "Eidsbugarden brygge",
+      "latitude": 61.375337,
+      "longitude": 8.300288
+    },
+    {
+      "name": "Eidsdal",
+      "latitude": 62.262893,
+      "longitude": 7.171633
+    },
+    {
+      "name": "Eidshaug",
+      "latitude": 64.932243,
+      "longitude": 11.464087
+    },
+    {
+      "name": "Eidssund ferjekai",
+      "latitude": 59.234965,
+      "longitude": 5.938367
+    },
+    {
+      "name": "Eidssund hurtigbåtkai",
+      "latitude": 59.234753,
+      "longitude": 5.938018
+    },
+    {
+      "name": "Eidsvoll",
+      "latitude": 60.329898,
+      "longitude": 11.250438
+    },
+    {
+      "name": "Eivindvik",
+      "latitude": 60.979384,
+      "longitude": 5.077696
+    },
+    {
+      "name": "Elgå",
+      "latitude": 62.16728,
+      "longitude": 11.939411
+    },
+    {
+      "name": "Engelsviken",
+      "latitude": 59.252713,
+      "longitude": 10.735824
+    },
+    {
+      "name": "Engenes kai",
+      "latitude": 68.925942,
+      "longitude": 17.125577
+    },
+    {
+      "name": "Engø",
+      "latitude": 59.147481,
+      "longitude": 10.318354
+    },
+    {
+      "name": "Espevær kai",
+      "latitude": 59.590781,
+      "longitude": 5.154751
+    },
+    {
+      "name": "Evjua",
+      "latitude": 60.645091,
+      "longitude": 11.046457
+    },
+    {
+      "name": "Excursion to Trollfjord",
+      "latitude": 68.231988,
+      "longitude": 14.566372
+    },
+    {
+      "name": "Fagerstrand",
+      "latitude": 59.73393,
+      "longitude": 10.586504
+    },
+    {
+      "name": "Fanøy kai",
+      "latitude": 61.620425,
+      "longitude": 4.817828
+    },
+    {
+      "name": "Fedje",
+      "latitude": 60.782343,
+      "longitude": 4.714294
+    },
+    {
+      "name": "Femris hurtigbåtkai",
+      "latitude": 67.056569,
+      "longitude": 13.953815
+    },
+    {
+      "name": "Femundshytta",
+      "latitude": 62.312035,
+      "longitude": 11.919507
+    },
+    {
+      "name": "Ferjeterminal Revet",
+      "latitude": 59.040659,
+      "longitude": 10.047324
+    },
+    {
+      "name": "Festvåg",
+      "latitude": 67.438708,
+      "longitude": 14.762205
+    },
+    {
+      "name": "Festøya",
+      "latitude": 62.374791,
+      "longitude": 6.332306
+    },
+    {
+      "name": "Festøya",
+      "latitude": 62.375234,
+      "longitude": 6.331169
+    },
+    {
+      "name": "Feøy hurtigbåtkai",
+      "latitude": 59.378216,
+      "longitude": 5.160321
+    },
+    {
+      "name": "Findabotnen kai",
+      "latitude": 61.03828,
+      "longitude": 6.268553
+    },
+    {
+      "name": "Finden",
+      "latitude": 61.048053,
+      "longitude": 6.306932
+    },
+    {
+      "name": "Finnkroken hurtigbåtkai",
+      "latitude": 69.834147,
+      "longitude": 19.43606
+    },
+    {
+      "name": "Finnsnes kai",
+      "latitude": 69.229097,
+      "longitude": 17.974283
+    },
+    {
+      "name": "Finnvik",
+      "latitude": 68.3084,
+      "longitude": 14.93685
+    },
+    {
+      "name": "Finnvåg hurtigbåtkai",
+      "latitude": 68.80503,
+      "longitude": 14.775337
+    },
+    {
+      "name": "Finnøya",
+      "latitude": 62.804127,
+      "longitude": 6.508956
+    },
+    {
+      "name": "Fiskebrygga, Lille Arøya",
+      "latitude": 59.016216,
+      "longitude": 9.785377
+    },
+    {
+      "name": "Fiskebøl",
+      "latitude": 68.430931,
+      "longitude": 14.824471
+    },
+    {
+      "name": "Fiskepirterminalen",
+      "latitude": 58.97256,
+      "longitude": 5.739587
+    },
+    {
+      "name": "Fiskepirterminalen (1)",
+      "latitude": 58.972005,
+      "longitude": 5.738535
+    },
+    {
+      "name": "Fiskepirterminalen (2)",
+      "latitude": 58.971955,
+      "longitude": 5.738826
+    },
+    {
+      "name": "Fiskepirterminalen (3)",
+      "latitude": 58.972186,
+      "longitude": 5.739362
+    },
+    {
+      "name": "Fiskepirterminalen (5)",
+      "latitude": 58.972841,
+      "longitude": 5.739751
+    },
+    {
+      "name": "Fiskepirterminalen (6)",
+      "latitude": 58.972978,
+      "longitude": 5.7402
+    },
+    {
+      "name": "Fiskepirterminalen (7)",
+      "latitude": 58.972313,
+      "longitude": 5.740218
+    },
+    {
+      "name": "Fiskepirterminalen (8)",
+      "latitude": 58.971975,
+      "longitude": 5.740352
+    },
+    {
+      "name": "Fister hurtigbåtkai",
+      "latitude": 59.178571,
+      "longitude": 6.064203
+    },
+    {
+      "name": "Fjelbergøy",
+      "latitude": 59.738197,
+      "longitude": 5.707982
+    },
+    {
+      "name": "Fjellstrand",
+      "latitude": 59.794212,
+      "longitude": 10.606428
+    },
+    {
+      "name": "Fjone",
+      "latitude": 59.176591,
+      "longitude": 8.481704
+    },
+    {
+      "name": "Fjord Line",
+      "latitude": 58.144531,
+      "longitude": 7.989549
+    },
+    {
+      "name": "Fjågesund brygge",
+      "latitude": 59.304385,
+      "longitude": 8.701041
+    },
+    {
+      "name": "Fjølvika",
+      "latitude": 65.015244,
+      "longitude": 11.709919
+    },
+    {
+      "name": "Fjørtofta",
+      "latitude": 62.710232,
+      "longitude": 6.422787
+    },
+    {
+      "name": "Flakk",
+      "latitude": 63.451204,
+      "longitude": 10.201714
+    },
+    {
+      "name": "Flakstadvåg hurtigbåtkai",
+      "latitude": 69.18917,
+      "longitude": 17.039523
+    },
+    {
+      "name": "Flaskebekk",
+      "latitude": 59.860644,
+      "longitude": 10.65288
+    },
+    {
+      "name": "Flesland kai",
+      "latitude": 60.292027,
+      "longitude": 5.205267
+    },
+    {
+      "name": "Flesnes ferjekai",
+      "latitude": 68.673584,
+      "longitude": 15.916358
+    },
+    {
+      "name": "Florø",
+      "latitude": 61.601361,
+      "longitude": 5.028889
+    },
+    {
+      "name": "Florø",
+      "latitude": 61.601487,
+      "longitude": 5.027663
+    },
+    {
+      "name": "Florø",
+      "latitude": 61.60174,
+      "longitude": 5.02946
+    },
+    {
+      "name": "Flostad hurtigbåtkai",
+      "latitude": 65.96909,
+      "longitude": 12.286581
+    },
+    {
+      "name": "Flåm - Gudvangen ferry berth",
+      "latitude": 60.862741,
+      "longitude": 7.114276
+    },
+    {
+      "name": "Flåten fergeleie",
+      "latitude": 69.938189,
+      "longitude": 20.91978
+    },
+    {
+      "name": "Flørli ferjekai",
+      "latitude": 59.015266,
+      "longitude": 6.431332
+    },
+    {
+      "name": "Fodnes",
+      "latitude": 61.148697,
+      "longitude": 7.383171
+    },
+    {
+      "name": "Fogn ferjekai",
+      "latitude": 59.137352,
+      "longitude": 5.900331
+    },
+    {
+      "name": "Fogn hurtigbåtkai",
+      "latitude": 59.137559,
+      "longitude": 5.899963
+    },
+    {
+      "name": "Foldøy ferjekai",
+      "latitude": 59.339039,
+      "longitude": 5.961919
+    },
+    {
+      "name": "Foldøy hurtigbåtkai",
+      "latitude": 59.338915,
+      "longitude": 5.962348
+    },
+    {
+      "name": "Folkestad",
+      "latitude": 62.119924,
+      "longitude": 6.033189
+    },
+    {
+      "name": "Foreneset hurtigbåtkai",
+      "latitude": 59.332704,
+      "longitude": 6.099818
+    },
+    {
+      "name": "Fornebu",
+      "latitude": 59.893707,
+      "longitude": 10.634102
+    },
+    {
+      "name": "Forsand ferjekai",
+      "latitude": 58.901558,
+      "longitude": 6.088223
+    },
+    {
+      "name": "Forsfjord",
+      "latitude": 67.939794,
+      "longitude": 12.981955
+    },
+    {
+      "name": "Forvik ferjekai",
+      "latitude": 65.712867,
+      "longitude": 12.459165
+    },
+    {
+      "name": "Forvik hurtigbåtkai",
+      "latitude": 65.714468,
+      "longitude": 12.46074
+    },
+    {
+      "name": "Forøy",
+      "latitude": 66.738552,
+      "longitude": 13.513743
+    },
+    {
+      "name": "Frambrygga, Stokkøya",
+      "latitude": 58.999053,
+      "longitude": 9.806521
+    },
+    {
+      "name": "Frekhaug kai",
+      "latitude": 60.517816,
+      "longitude": 5.248784
+    },
+    {
+      "name": "Frønningen ferjekai",
+      "latitude": 61.107786,
+      "longitude": 7.079492
+    },
+    {
+      "name": "Fure",
+      "latitude": 61.298103,
+      "longitude": 5.085683
+    },
+    {
+      "name": "Furneset ferjekai",
+      "latitude": 62.651803,
+      "longitude": 7.085078
+    },
+    {
+      "name": "Furuholmen brygge",
+      "latitude": 58.860033,
+      "longitude": 9.404814
+    },
+    {
+      "name": "Føresvik snøggbåtkai",
+      "latitude": 59.23265,
+      "longitude": 5.439942
+    },
+    {
+      "name": "Gamlebyen",
+      "latitude": 59.205341,
+      "longitude": 10.953647
+    },
+    {
+      "name": "Gammle Sagvåg Ferjekai",
+      "latitude": 59.774811,
+      "longitude": 5.383831
+    },
+    {
+      "name": "Gardsøya kai Vega",
+      "latitude": 65.712977,
+      "longitude": 11.919505
+    },
+    {
+      "name": "Garpaskjær ferjekai",
+      "latitude": 59.412144,
+      "longitude": 5.255689
+    },
+    {
+      "name": "Garten",
+      "latitude": 63.645103,
+      "longitude": 9.521255
+    },
+    {
+      "name": "Geiranger",
+      "latitude": 62.103051,
+      "longitude": 7.200927
+    },
+    {
+      "name": "Geiranger",
+      "latitude": 62.103647,
+      "longitude": 7.202612
+    },
+    {
+      "name": "Geiranger hurtigbåtkai",
+      "latitude": 62.102266,
+      "longitude": 7.204589
+    },
+    {
+      "name": "Geisnes",
+      "latitude": 64.816163,
+      "longitude": 11.625445
+    },
+    {
+      "name": "Geithus kai",
+      "latitude": 61.069892,
+      "longitude": 6.37614
+    },
+    {
+      "name": "Givær hurtigbåtkai",
+      "latitude": 67.305525,
+      "longitude": 13.724113
+    },
+    {
+      "name": "Gjendebu",
+      "latitude": 61.45278,
+      "longitude": 8.496531
+    },
+    {
+      "name": "Gjendesheim",
+      "latitude": 61.494973,
+      "longitude": 8.809027
+    },
+    {
+      "name": "Gjerdinga",
+      "latitude": 64.945083,
+      "longitude": 11.449656
+    },
+    {
+      "name": "Gjermundshamn",
+      "latitude": 60.061866,
+      "longitude": 5.920249
+    },
+    {
+      "name": "Gjersvikgrenda hurtigbåtkai",
+      "latitude": 66.532922,
+      "longitude": 13.030695
+    },
+    {
+      "name": "Gjervik",
+      "latitude": 61.348312,
+      "longitude": 5.016042
+    },
+    {
+      "name": "Gjerøy ferjekai",
+      "latitude": 66.614439,
+      "longitude": 12.991668
+    },
+    {
+      "name": "Gjerøy hurtigbåtkai",
+      "latitude": 66.614626,
+      "longitude": 12.992031
+    },
+    {
+      "name": "Gjæsingen",
+      "latitude": 63.925171,
+      "longitude": 8.897937
+    },
+    {
+      "name": "Gjøvik",
+      "latitude": 60.797934,
+      "longitude": 10.699991
+    },
+    {
+      "name": "Gomalandet",
+      "latitude": 63.115084,
+      "longitude": 7.745354
+    },
+    {
+      "name": "Gravningsund",
+      "latitude": 59.024165,
+      "longitude": 11.099936
+    },
+    {
+      "name": "Gressholmen",
+      "latitude": 59.884507,
+      "longitude": 10.724741
+    },
+    {
+      "name": "Gressholmen",
+      "latitude": 59.886454,
+      "longitude": 10.725357
+    },
+    {
+      "name": "Gressvik",
+      "latitude": 59.214715,
+      "longitude": 10.91114
+    },
+    {
+      "name": "Grip",
+      "latitude": 63.218322,
+      "longitude": 7.594291
+    },
+    {
+      "name": "Gryllefjord",
+      "latitude": 69.363468,
+      "longitude": 17.052899
+    },
+    {
+      "name": "Grytåga hurtigbåtkai",
+      "latitude": 65.802388,
+      "longitude": 12.724899
+    },
+    {
+      "name": "Grødset hurtigbåtkai",
+      "latitude": 68.793131,
+      "longitude": 14.865407
+    },
+    {
+      "name": "Grønnøy hurtigbåtkai",
+      "latitude": 66.794113,
+      "longitude": 13.452098
+    },
+    {
+      "name": "Grønvika",
+      "latitude": 65.952149,
+      "longitude": 12.903111
+    },
+    {
+      "name": "Gudvangen",
+      "latitude": 60.881448,
+      "longitude": 6.841442
+    },
+    {
+      "name": "Guldsmedenga",
+      "latitude": 58.451642,
+      "longitude": 8.755431
+    },
+    {
+      "name": "Gunnarnes",
+      "latitude": 70.992228,
+      "longitude": 24.12902
+    },
+    {
+      "name": "Gunnarnes kai",
+      "latitude": 70.99223,
+      "longitude": 24.129855
+    },
+    {
+      "name": "Gutvik",
+      "latitude": 65.084509,
+      "longitude": 11.829069
+    },
+    {
+      "name": "Gåsvær kai",
+      "latitude": 61.176897,
+      "longitude": 4.695331
+    },
+    {
+      "name": "Hagefjord brygge",
+      "latitude": 58.584336,
+      "longitude": 9.026055
+    },
+    {
+      "name": "Hakkstabben",
+      "latitude": 70.278432,
+      "longitude": 23.120993
+    },
+    {
+      "name": "Haldorsnes",
+      "latitude": 61.054749,
+      "longitude": 4.717305
+    },
+    {
+      "name": "Haldorsneset FK",
+      "latitude": 61.052673,
+      "longitude": 4.738621
+    },
+    {
+      "name": "Halhjem",
+      "latitude": 60.145585,
+      "longitude": 5.426423
+    },
+    {
+      "name": "Halne",
+      "latitude": 60.416863,
+      "longitude": 7.685949
+    },
+    {
+      "name": "Halsa ferjekai",
+      "latitude": 63.068325,
+      "longitude": 8.22699
+    },
+    {
+      "name": "Halsnøy ferjekai",
+      "latitude": 59.204787,
+      "longitude": 5.925299
+    },
+    {
+      "name": "Halsnøy hurtigbåtkai",
+      "latitude": 59.205101,
+      "longitude": 5.925133
+    },
+    {
+      "name": "Halten kai",
+      "latitude": 64.171878,
+      "longitude": 9.408233
+    },
+    {
+      "name": "Hamar",
+      "latitude": 60.792414,
+      "longitude": 11.067728
+    },
+    {
+      "name": "Hammerfest havn kai 2",
+      "latitude": 70.664367,
+      "longitude": 23.684206
+    },
+    {
+      "name": "Hammerfest havn kai 3",
+      "latitude": 70.664308,
+      "longitude": 23.68362
+    },
+    {
+      "name": "Hammerfest havn kai 4",
+      "latitude": 70.664051,
+      "longitude": 23.68304
+    },
+    {
+      "name": "Hammerfest havn kai 5",
+      "latitude": 70.66346,
+      "longitude": 23.685722
+    },
+    {
+      "name": "Hammerfest havn kai 6",
+      "latitude": 70.663519,
+      "longitude": 23.686847
+    },
+    {
+      "name": "Hammerfest havn kai 7",
+      "latitude": 70.664277,
+      "longitude": 23.686414
+    },
+    {
+      "name": "Hamnsund hurtigbåtkai",
+      "latitude": 62.534492,
+      "longitude": 6.266821
+    },
+    {
+      "name": "Hanasand",
+      "latitude": 59.117981,
+      "longitude": 5.767666
+    },
+    {
+      "name": "Handnesøy",
+      "latitude": 66.228801,
+      "longitude": 12.918874
+    },
+    {
+      "name": "Hankø Seilerkro",
+      "latitude": 59.212637,
+      "longitude": 10.782865
+    },
+    {
+      "name": "Hankø Yacht Club",
+      "latitude": 59.211577,
+      "longitude": 10.786827
+    },
+    {
+      "name": "Hansnes ferjekai",
+      "latitude": 69.965925,
+      "longitude": 19.629864
+    },
+    {
+      "name": "Hanøy ferjekai",
+      "latitude": 68.470963,
+      "longitude": 15.186367
+    },
+    {
+      "name": "Haramsøya",
+      "latitude": 62.637333,
+      "longitude": 6.276077
+    },
+    {
+      "name": "Harangsfjord hurtigbåtkai",
+      "latitude": 65.250892,
+      "longitude": 12.308413
+    },
+    {
+      "name": "Hardbakke",
+      "latitude": 61.074125,
+      "longitude": 4.836396
+    },
+    {
+      "name": "Hareholmen",
+      "latitude": 59.855431,
+      "longitude": 10.555712
+    },
+    {
+      "name": "Hareid ferjekai",
+      "latitude": 62.370325,
+      "longitude": 6.030881
+    },
+    {
+      "name": "Hareid hurtigbåtkai",
+      "latitude": 62.370942,
+      "longitude": 6.031354
+    },
+    {
+      "name": "Harstad hurtigbåtkai",
+      "latitude": 68.801067,
+      "longitude": 16.546684
+    },
+    {
+      "name": "Harstad kystrutekai",
+      "latitude": 68.798791,
+      "longitude": 16.548092
+    },
+    {
+      "name": "Harøya",
+      "latitude": 62.726202,
+      "longitude": 6.458295
+    },
+    {
+      "name": "Hasselvika / Hysnes",
+      "latitude": 63.63341,
+      "longitude": 9.827765
+    },
+    {
+      "name": "Hasvik fergekai",
+      "latitude": 70.483665,
+      "longitude": 22.161648
+    },
+    {
+      "name": "Hasvik hurtigbåtkai",
+      "latitude": 70.483199,
+      "longitude": 22.163097
+    },
+    {
+      "name": "Hattarvågen",
+      "latitude": 59.349251,
+      "longitude": 5.629627
+    },
+    {
+      "name": "Hatvik",
+      "latitude": 60.208566,
+      "longitude": 5.537237
+    },
+    {
+      "name": "Haugen",
+      "latitude": 62.296528,
+      "longitude": 11.955242
+    },
+    {
+      "name": "Haugesund hurtigbåtkai",
+      "latitude": 59.411636,
+      "longitude": 5.268354
+    },
+    {
+      "name": "Haven",
+      "latitude": 58.58918,
+      "longitude": 9.036072
+    },
+    {
+      "name": "Havnnes ferjekai",
+      "latitude": 69.790624,
+      "longitude": 20.591676
+    },
+    {
+      "name": "Havøysund",
+      "latitude": 70.994498,
+      "longitude": 24.676196
+    },
+    {
+      "name": "Havøysund",
+      "latitude": 70.995198,
+      "longitude": 24.687565
+    },
+    {
+      "name": "Havøysund kystrutekai",
+      "latitude": 70.994921,
+      "longitude": 24.687065
+    },
+    {
+      "name": "Hebnes ferjekai",
+      "latitude": 59.353574,
+      "longitude": 5.961633
+    },
+    {
+      "name": "Hebnes hurtigbåtkai",
+      "latitude": 59.353398,
+      "longitude": 5.962035
+    },
+    {
+      "name": "Helgenes hurtigbåtkai",
+      "latitude": 68.503089,
+      "longitude": 15.240076
+    },
+    {
+      "name": "Helgeroa",
+      "latitude": 58.994033,
+      "longitude": 9.857534
+    },
+    {
+      "name": "Helgøy ferjekai",
+      "latitude": 59.228638,
+      "longitude": 5.854096
+    },
+    {
+      "name": "Helgøy hurtigbåtkai",
+      "latitude": 59.228822,
+      "longitude": 5.854598
+    },
+    {
+      "name": "Helgøya",
+      "latitude": 58.050666,
+      "longitude": 7.844559
+    },
+    {
+      "name": "Hella",
+      "latitude": 61.207368,
+      "longitude": 6.597523
+    },
+    {
+      "name": "Hellefjord kai",
+      "latitude": 70.715714,
+      "longitude": 23.291958
+    },
+    {
+      "name": "Hellemobotn hurtigbåtkai",
+      "latitude": 67.81661,
+      "longitude": 16.517595
+    },
+    {
+      "name": "Hellesylt",
+      "latitude": 62.087443,
+      "longitude": 6.870407
+    },
+    {
+      "name": "Hellesøy båtkai",
+      "latitude": 60.66192,
+      "longitude": 4.790157
+    },
+    {
+      "name": "Hellesøy ferjekai",
+      "latitude": 58.985012,
+      "longitude": 5.821697
+    },
+    {
+      "name": "Helligvær hurtigbåtkai",
+      "latitude": 67.406498,
+      "longitude": 13.902282
+    },
+    {
+      "name": "Helnessund hurtigbåtkai",
+      "latitude": 67.732972,
+      "longitude": 14.772864
+    },
+    {
+      "name": "Hemnesberget",
+      "latitude": 66.223962,
+      "longitude": 13.601783
+    },
+    {
+      "name": "Heng hurtigbåtkai",
+      "latitude": 59.026139,
+      "longitude": 5.895715
+    },
+    {
+      "name": "Hennset",
+      "latitude": 63.136596,
+      "longitude": 8.436418
+    },
+    {
+      "name": "Hepsøy hurtigbåtkai",
+      "latitude": 64.323555,
+      "longitude": 10.387883
+    },
+    {
+      "name": "Herbernveien",
+      "latitude": 59.900304,
+      "longitude": 10.69466
+    },
+    {
+      "name": "Herføl",
+      "latitude": 59.001996,
+      "longitude": 11.056832
+    },
+    {
+      "name": "Hernar båtkai",
+      "latitude": 60.686988,
+      "longitude": 4.744219
+    },
+    {
+      "name": "Hersvik kai",
+      "latitude": 61.173555,
+      "longitude": 4.894807
+    },
+    {
+      "name": "Herøy ferjekai",
+      "latitude": 65.968242,
+      "longitude": 12.287432
+    },
+    {
+      "name": "Herøy ferjekai",
+      "latitude": 65.968838,
+      "longitude": 12.286655
+    },
+    {
+      "name": "Hestmona hurtigbåtkai",
+      "latitude": 66.519646,
+      "longitude": 12.832069
+    },
+    {
+      "name": "Hestneset",
+      "latitude": 66.230804,
+      "longitude": 13.580124
+    },
+    {
+      "name": "Hestøya ferjekai",
+      "latitude": 65.472279,
+      "longitude": 12.197571
+    },
+    {
+      "name": "Hildring hurtigbåtkai",
+      "latitude": 65.104873,
+      "longitude": 12.332693
+    },
+    {
+      "name": "Hille kai",
+      "latitude": 60.976862,
+      "longitude": 4.82295
+    },
+    {
+      "name": "Hisarøy",
+      "latitude": 60.997328,
+      "longitude": 5.017235
+    },
+    {
+      "name": "Hjellebrygga",
+      "latitude": 59.204413,
+      "longitude": 9.606879
+    },
+    {
+      "name": "Hjellestad ferjekai",
+      "latitude": 60.256164,
+      "longitude": 5.240287
+    },
+    {
+      "name": "Hjelmeland ferjekai",
+      "latitude": 59.234432,
+      "longitude": 6.165557
+    },
+    {
+      "name": "Hjelmeland hurtigbåtkai",
+      "latitude": 59.234367,
+      "longitude": 6.164433
+    },
+    {
+      "name": "Hjertøya",
+      "latitude": 62.717315,
+      "longitude": 7.169632
+    },
+    {
+      "name": "Hodnanes",
+      "latitude": 59.88959,
+      "longitude": 5.557962
+    },
+    {
+      "name": "Hoelsbrygga",
+      "latitude": 60.760548,
+      "longitude": 10.902496
+    },
+    {
+      "name": "Hofles",
+      "latitude": 64.82745,
+      "longitude": 11.612637
+    },
+    {
+      "name": "Hogga sluser",
+      "latitude": 59.303236,
+      "longitude": 9.042644
+    },
+    {
+      "name": "Hokstad",
+      "latitude": 63.798189,
+      "longitude": 11.168142
+    },
+    {
+      "name": "Hollingsholmen",
+      "latitude": 62.776811,
+      "longitude": 6.97311
+    },
+    {
+      "name": "Holm",
+      "latitude": 65.182496,
+      "longitude": 12.113236
+    },
+    {
+      "name": "Holmen hurtigbåtkai",
+      "latitude": 66.543058,
+      "longitude": 12.159548
+    },
+    {
+      "name": "Hommersåk ferjekai",
+      "latitude": 58.930369,
+      "longitude": 5.848122
+    },
+    {
+      "name": "Honningsvåg kystrutekai",
+      "latitude": 70.98091,
+      "longitude": 25.968988
+    },
+    {
+      "name": "Horn ferjekai",
+      "latitude": 60.522574,
+      "longitude": 10.341573
+    },
+    {
+      "name": "Horn ferjekai",
+      "latitude": 65.583631,
+      "longitude": 12.302422
+    },
+    {
+      "name": "Hornøya sør",
+      "latitude": 70.384593,
+      "longitude": 31.155404
+    },
+    {
+      "name": "Hornøya vest",
+      "latitude": 70.386979,
+      "longitude": 31.148853
+    },
+    {
+      "name": "Horsdal ferjekai",
+      "latitude": 67.091271,
+      "longitude": 14.049239
+    },
+    {
+      "name": "Horten",
+      "latitude": 59.412143,
+      "longitude": 10.48938
+    },
+    {
+      "name": "Hovedøya",
+      "latitude": 59.898899,
+      "longitude": 10.730682
+    },
+    {
+      "name": "Hufthamar ferjekai",
+      "latitude": 60.122696,
+      "longitude": 5.20128
+    },
+    {
+      "name": "Hufthammar",
+      "latitude": 60.123038,
+      "longitude": 5.20071
+    },
+    {
+      "name": "Hulløyhamn hurtigbåtkai",
+      "latitude": 68.06014,
+      "longitude": 16.324121
+    },
+    {
+      "name": "Hundeidvika",
+      "latitude": 62.371654,
+      "longitude": 6.42421
+    },
+    {
+      "name": "Hundåla ferjekai",
+      "latitude": 65.925328,
+      "longitude": 12.960015
+    },
+    {
+      "name": "Hurtgiruten Florø",
+      "latitude": 61.601806,
+      "longitude": 5.025677
+    },
+    {
+      "name": "Hurtigruten Bodø",
+      "latitude": 67.289097,
+      "longitude": 14.395468
+    },
+    {
+      "name": "Hurtigruten Båtsfjord",
+      "latitude": 70.630023,
+      "longitude": 29.72661
+    },
+    {
+      "name": "Hurtigruten Finnsnes",
+      "latitude": 69.229042,
+      "longitude": 17.973329
+    },
+    {
+      "name": "Hurtigruten Hammerfest",
+      "latitude": 70.668044,
+      "longitude": 23.664308
+    },
+    {
+      "name": "Hurtigruten Kirkenes",
+      "latitude": 69.728894,
+      "longitude": 30.072336
+    },
+    {
+      "name": "Hurtigruten Kjøllefjord",
+      "latitude": 70.949159,
+      "longitude": 27.336224
+    },
+    {
+      "name": "Hurtigruten Måløy",
+      "latitude": 61.939241,
+      "longitude": 5.122217
+    },
+    {
+      "name": "Hurtigruten Rørvik",
+      "latitude": 64.860407,
+      "longitude": 11.239098
+    },
+    {
+      "name": "Hurtigruten Stokmarknes",
+      "latitude": 68.571014,
+      "longitude": 14.911725
+    },
+    {
+      "name": "Hurtigruten Trondheim",
+      "latitude": 63.442971,
+      "longitude": 10.407088
+    },
+    {
+      "name": "Hurtigruten Vadsø",
+      "latitude": 70.070895,
+      "longitude": 29.73638
+    },
+    {
+      "name": "Hurtigruten Vardø",
+      "latitude": 70.374591,
+      "longitude": 31.104407
+    },
+    {
+      "name": "Husavik",
+      "latitude": 60.017127,
+      "longitude": 5.279399
+    },
+    {
+      "name": "Husevågøy",
+      "latitude": 61.902719,
+      "longitude": 5.113761
+    },
+    {
+      "name": "Husvika hurtigbåtkai",
+      "latitude": 65.825457,
+      "longitude": 12.66439
+    },
+    {
+      "name": "Husøy",
+      "latitude": 60.99417,
+      "longitude": 4.608802
+    },
+    {
+      "name": "Hysværøyan hurtigbåtkai",
+      "latitude": 65.756945,
+      "longitude": 11.726388
+    },
+    {
+      "name": "Håheller ferjekai",
+      "latitude": 59.040278,
+      "longitude": 6.513748
+    },
+    {
+      "name": "Håøya øst",
+      "latitude": 59.702058,
+      "longitude": 10.568274
+    },
+    {
+      "name": "Høllen brygge",
+      "latitude": 58.076959,
+      "longitude": 7.808828
+    },
+    {
+      "name": "Høyanger",
+      "latitude": 61.217033,
+      "longitude": 6.069211
+    },
+    {
+      "name": "Høyerholmen",
+      "latitude": 59.851181,
+      "longitude": 10.554584
+    },
+    {
+      "name": "Igerøy ferjekai",
+      "latitude": 65.677405,
+      "longitude": 12.131528
+    },
+    {
+      "name": "Ildjernet",
+      "latitude": 59.843638,
+      "longitude": 10.641366
+    },
+    {
+      "name": "Indre Kvarøy ferjekai",
+      "latitude": 66.487447,
+      "longitude": 12.966529
+    },
+    {
+      "name": "Indre Kvarøy hurtigbåtkai",
+      "latitude": 66.488956,
+      "longitude": 12.966497
+    },
+    {
+      "name": "Indrevær",
+      "latitude": 61.007484,
+      "longitude": 4.609848
+    },
+    {
+      "name": "Indrøy kai",
+      "latitude": 61.107364,
+      "longitude": 4.726992
+    },
+    {
+      "name": "Ingelsfjord hurtigbåtkai",
+      "latitude": 68.472011,
+      "longitude": 15.302114
+    },
+    {
+      "name": "Ingøy kai",
+      "latitude": 71.084287,
+      "longitude": 24.062339
+    },
+    {
+      "name": "Inndyr hurtigbåtkai",
+      "latitude": 67.034735,
+      "longitude": 14.022966
+    },
+    {
+      "name": "Innlandet",
+      "latitude": 63.107926,
+      "longitude": 7.737724
+    },
+    {
+      "name": "Isane ferjekai",
+      "latitude": 61.881175,
+      "longitude": 5.715145
+    },
+    {
+      "name": "Isegran",
+      "latitude": 59.203905,
+      "longitude": 10.94572
+    },
+    {
+      "name": "Isnestoften kai",
+      "latitude": 70.138752,
+      "longitude": 22.98741
+    },
+    {
+      "name": "Jektavik",
+      "latitude": 59.886217,
+      "longitude": 5.521452
+    },
+    {
+      "name": "Jektvik ferjekai",
+      "latitude": 66.624269,
+      "longitude": 13.28515
+    },
+    {
+      "name": "Jektvik hurtigbåtkai",
+      "latitude": 66.626604,
+      "longitude": 13.292948
+    },
+    {
+      "name": "Jelsa ferjekai",
+      "latitude": 59.335467,
+      "longitude": 6.034342
+    },
+    {
+      "name": "Jelsa hurtigbåtkai",
+      "latitude": 59.33522,
+      "longitude": 6.03442
+    },
+    {
+      "name": "Jonasvollen",
+      "latitude": 62.231327,
+      "longitude": 11.87533
+    },
+    {
+      "name": "Jondal ferjekai",
+      "latitude": 60.275707,
+      "longitude": 6.251281
+    },
+    {
+      "name": "Judaberg",
+      "latitude": 59.171611,
+      "longitude": 5.876798
+    },
+    {
+      "name": "Judaberg ferjekai",
+      "latitude": 59.170164,
+      "longitude": 5.877684
+    },
+    {
+      "name": "Judaberg hurtigbåtkai",
+      "latitude": 59.170316,
+      "longitude": 5.877521
+    },
+    {
+      "name": "Jøa",
+      "latitude": 64.637751,
+      "longitude": 11.346219
+    },
+    {
+      "name": "Jørpeland Ferjeleie",
+      "latitude": 59.017304,
+      "longitude": 6.042556
+    },
+    {
+      "name": "Kadettangen",
+      "latitude": 59.888384,
+      "longitude": 10.527604
+    },
+    {
+      "name": "Kaljord ferjekai",
+      "latitude": 68.522326,
+      "longitude": 15.279972
+    },
+    {
+      "name": "Kalleli ferjekai",
+      "latitude": 59.008916,
+      "longitude": 6.39369
+    },
+    {
+      "name": "Kalvøy ferjekai",
+      "latitude": 58.976663,
+      "longitude": 5.827394
+    },
+    {
+      "name": "Kanestraum ferjekai",
+      "latitude": 63.053254,
+      "longitude": 8.125238
+    },
+    {
+      "name": "Kapelløya",
+      "latitude": 58.049973,
+      "longitude": 7.841359
+    },
+    {
+      "name": "Kapp",
+      "latitude": 60.718391,
+      "longitude": 10.860468
+    },
+    {
+      "name": "Karlsøy ferjekai",
+      "latitude": 70.001718,
+      "longitude": 19.887756
+    },
+    {
+      "name": "Kaupanger",
+      "latitude": 61.182897,
+      "longitude": 7.25041
+    },
+    {
+      "name": "Kiel - Oslo - Kiel",
+      "latitude": 59.909828,
+      "longitude": 10.708791
+    },
+    {
+      "name": "Kilboghamn ferjekai",
+      "latitude": 66.489158,
+      "longitude": 13.227665
+    },
+    {
+      "name": "Kilboghamn hurtigbåtkai",
+      "latitude": 66.4889,
+      "longitude": 13.227546
+    },
+    {
+      "name": "Kilvågen hurtigbåtkai",
+      "latitude": 65.702671,
+      "longitude": 12.590113
+    },
+    {
+      "name": "Kilvær hurtigbåtkai",
+      "latitude": 65.801005,
+      "longitude": 11.985628
+    },
+    {
+      "name": "Kinn",
+      "latitude": 61.561668,
+      "longitude": 4.772894
+    },
+    {
+      "name": "Kinsarvik",
+      "latitude": 60.376058,
+      "longitude": 6.71914
+    },
+    {
+      "name": "Kirkefjord hurtigbåtkai",
+      "latitude": 67.992304,
+      "longitude": 13.0155
+    },
+    {
+      "name": "Kirkeholmen",
+      "latitude": 58.860237,
+      "longitude": 9.391281
+    },
+    {
+      "name": "Kirklandet",
+      "latitude": 63.111685,
+      "longitude": 7.733583
+    },
+    {
+      "name": "Kjeldal sluse",
+      "latitude": 59.292207,
+      "longitude": 9.051521
+    },
+    {
+      "name": "Kjelling Hurtigbåtkai",
+      "latitude": 67.074192,
+      "longitude": 14.34072
+    },
+    {
+      "name": "Kjerringholmen",
+      "latitude": 70.575729,
+      "longitude": 23.573256
+    },
+    {
+      "name": "Kjerrvika hurtigbåtkai",
+      "latitude": 68.009742,
+      "longitude": 16.330405
+    },
+    {
+      "name": "Kjøpsvik ferjekai",
+      "latitude": 68.093031,
+      "longitude": 16.357302
+    },
+    {
+      "name": "Kjøpsvik hurtigbåtkai",
+      "latitude": 68.093502,
+      "longitude": 16.359632
+    },
+    {
+      "name": "Kjørsvikbugen",
+      "latitude": 63.41292,
+      "longitude": 8.724219
+    },
+    {
+      "name": "Kjøtta",
+      "latitude": 68.875171,
+      "longitude": 16.694435
+    },
+    {
+      "name": "Kleppestø Båtkai",
+      "latitude": 60.406654,
+      "longitude": 5.227198
+    },
+    {
+      "name": "Klippfiskmuseet",
+      "latitude": 63.115517,
+      "longitude": 7.738696
+    },
+    {
+      "name": "Klokkarvik",
+      "latitude": 60.223315,
+      "longitude": 5.157799
+    },
+    {
+      "name": "Klokkerholmen brygge",
+      "latitude": 59.060396,
+      "longitude": 9.738188
+    },
+    {
+      "name": "Knarvik kai",
+      "latitude": 60.541727,
+      "longitude": 5.286934
+    },
+    {
+      "name": "Kolbjørnsvik",
+      "latitude": 58.452459,
+      "longitude": 8.768816
+    },
+    {
+      "name": "Kongshavn brygge",
+      "latitude": 58.115847,
+      "longitude": 8.113495
+    },
+    {
+      "name": "Kongshus kai",
+      "latitude": 70.143405,
+      "longitude": 23.273058
+    },
+    {
+      "name": "Koparneset",
+      "latitude": 62.169741,
+      "longitude": 5.643676
+    },
+    {
+      "name": "Kopervik snøggbåtkai",
+      "latitude": 59.284573,
+      "longitude": 5.313248
+    },
+    {
+      "name": "Korsfjord ferjekai",
+      "latitude": 70.246401,
+      "longitude": 23.394046
+    },
+    {
+      "name": "Kragerø",
+      "latitude": 58.870366,
+      "longitude": 9.416118
+    },
+    {
+      "name": "Krakhella",
+      "latitude": 61.129205,
+      "longitude": 5.018837
+    },
+    {
+      "name": "Krakhella Ferjekai",
+      "latitude": 61.129098,
+      "longitude": 5.019059
+    },
+    {
+      "name": "Krakhella kai",
+      "latitude": 61.128943,
+      "longitude": 5.019499
+    },
+    {
+      "name": "Krakøysund kai",
+      "latitude": 61.177541,
+      "longitude": 4.867896
+    },
+    {
+      "name": "Kristiansand",
+      "latitude": 58.144067,
+      "longitude": 7.985279
+    },
+    {
+      "name": "Kristiansund",
+      "latitude": 63.11148,
+      "longitude": 7.733655
+    },
+    {
+      "name": "Kristiansund",
+      "latitude": 63.113853,
+      "longitude": 7.735677
+    },
+    {
+      "name": "Kristiansund",
+      "latitude": 63.114796,
+      "longitude": 7.736805
+    },
+    {
+      "name": "Krokeide",
+      "latitude": 60.224005,
+      "longitude": 5.29106
+    },
+    {
+      "name": "Krøttøy hurtigbåtkai",
+      "latitude": 69.050514,
+      "longitude": 16.536983
+    },
+    {
+      "name": "Kvalfjord kai",
+      "latitude": 70.318389,
+      "longitude": 22.871723
+    },
+    {
+      "name": "Kvalsund sentrum",
+      "latitude": 70.505939,
+      "longitude": 23.979702
+    },
+    {
+      "name": "Kvamsøya",
+      "latitude": 62.197824,
+      "longitude": 5.420052
+    },
+    {
+      "name": "Kvanndal",
+      "latitude": 60.471321,
+      "longitude": 6.612
+    },
+    {
+      "name": "Kvanndal",
+      "latitude": 60.471811,
+      "longitude": 6.612337
+    },
+    {
+      "name": "Kvanne",
+      "latitude": 62.888434,
+      "longitude": 8.53134
+    },
+    {
+      "name": "Kveitevik hurtigbåtkai",
+      "latitude": 59.376953,
+      "longitude": 5.22353
+    },
+    {
+      "name": "Kvellandstrand",
+      "latitude": 58.241749,
+      "longitude": 6.631343
+    },
+    {
+      "name": "Kviteseid brygge",
+      "latitude": 59.401231,
+      "longitude": 8.489149
+    },
+    {
+      "name": "Kvitsøy ferjekai",
+      "latitude": 59.057527,
+      "longitude": 5.41767
+    },
+    {
+      "name": "Kvitsøy hurtigbåtkai",
+      "latitude": 59.05753,
+      "longitude": 5.418225
+    },
+    {
+      "name": "Kystruten Skjervøy",
+      "latitude": 70.03514,
+      "longitude": 20.982757
+    },
+    {
+      "name": "Kårhamn kai",
+      "latitude": 70.546457,
+      "longitude": 23.158191
+    },
+    {
+      "name": "Landfjordhamn kai",
+      "latitude": 70.140948,
+      "longitude": 21.855641
+    },
+    {
+      "name": "Langesund",
+      "latitude": 59.001426,
+      "longitude": 9.750032
+    },
+    {
+      "name": "Langesund",
+      "latitude": 59.005772,
+      "longitude": 9.748137
+    },
+    {
+      "name": "Langesund Ferry Terminal",
+      "latitude": 59.006812,
+      "longitude": 9.746924
+    },
+    {
+      "name": "Langevåg",
+      "latitude": 62.444596,
+      "longitude": 6.188996
+    },
+    {
+      "name": "Langevåg ferjekai",
+      "latitude": 59.608078,
+      "longitude": 5.236486
+    },
+    {
+      "name": "Langstrand kai",
+      "latitude": 70.686332,
+      "longitude": 23.178062
+    },
+    {
+      "name": "Langåra",
+      "latitude": 59.852745,
+      "longitude": 10.543798
+    },
+    {
+      "name": "Langøy",
+      "latitude": 58.90246,
+      "longitude": 9.488033
+    },
+    {
+      "name": "Langøy ferjekai",
+      "latitude": 59.002855,
+      "longitude": 5.772508
+    },
+    {
+      "name": "Langøy hurtigbåtkai",
+      "latitude": 65.892669,
+      "longitude": 11.989968
+    },
+    {
+      "name": "Langøy hurtigbåtkai",
+      "latitude": 68.814679,
+      "longitude": 14.906349
+    },
+    {
+      "name": "Langøya",
+      "latitude": 59.489739,
+      "longitude": 10.324195
+    },
+    {
+      "name": "Langøya hovedgård",
+      "latitude": 59.004278,
+      "longitude": 9.753589
+    },
+    {
+      "name": "Langøyene",
+      "latitude": 59.871462,
+      "longitude": 10.725524
+    },
+    {
+      "name": "Larsnes",
+      "latitude": 62.206845,
+      "longitude": 5.56897
+    },
+    {
+      "name": "Larvik",
+      "latitude": 59.041606,
+      "longitude": 10.044766
+    },
+    {
+      "name": "Lauer",
+      "latitude": 59.011469,
+      "longitude": 11.017295
+    },
+    {
+      "name": "Lauksundskaret ferjekai",
+      "latitude": 70.078812,
+      "longitude": 20.777033
+    },
+    {
+      "name": "Laukvik kai",
+      "latitude": 69.839799,
+      "longitude": 18.667185
+    },
+    {
+      "name": "Launes",
+      "latitude": 58.236434,
+      "longitude": 6.612147
+    },
+    {
+      "name": "Lauvstad",
+      "latitude": 62.164734,
+      "longitude": 5.942521
+    },
+    {
+      "name": "Lauvvik ferjekai",
+      "latitude": 58.89425,
+      "longitude": 6.055517
+    },
+    {
+      "name": "Lavik",
+      "latitude": 61.104496,
+      "longitude": 5.508037
+    },
+    {
+      "name": "Lavik",
+      "latitude": 61.104785,
+      "longitude": 5.506834
+    },
+    {
+      "name": "Leikanger Ferjekai",
+      "latitude": 61.182795,
+      "longitude": 6.797649
+    },
+    {
+      "name": "Leirgulen",
+      "latitude": 61.861534,
+      "longitude": 5.310007
+    },
+    {
+      "name": "Leirvik Hurtigbåtterminal",
+      "latitude": 59.780445,
+      "longitude": 5.502043
+    },
+    {
+      "name": "Leirvika",
+      "latitude": 66.193394,
+      "longitude": 13.49718
+    },
+    {
+      "name": "Leirvåg",
+      "latitude": 60.814823,
+      "longitude": 5.004797
+    },
+    {
+      "name": "Lekneset",
+      "latitude": 62.205686,
+      "longitude": 6.534293
+    },
+    {
+      "name": "Leksa",
+      "latitude": 63.587352,
+      "longitude": 9.399246
+    },
+    {
+      "name": "Lensvik",
+      "latitude": 63.505002,
+      "longitude": 9.830556
+    },
+    {
+      "name": "Lepsøya",
+      "latitude": 62.616804,
+      "longitude": 6.220835
+    },
+    {
+      "name": "Lerøy",
+      "latitude": 60.232604,
+      "longitude": 5.169863
+    },
+    {
+      "name": "Levang",
+      "latitude": 66.153129,
+      "longitude": 13.078599
+    },
+    {
+      "name": "Levanger ferjeleie",
+      "latitude": 63.749374,
+      "longitude": 11.299231
+    },
+    {
+      "name": "Liabygda ferjekai",
+      "latitude": 62.308315,
+      "longitude": 7.005745
+    },
+    {
+      "name": "Lille Danmark",
+      "latitude": 58.730377,
+      "longitude": 9.261927
+    },
+    {
+      "name": "Lille Færøy",
+      "latitude": 61.203463,
+      "longitude": 4.830529
+    },
+    {
+      "name": "Lille Herbern",
+      "latitude": 59.899785,
+      "longitude": 10.694156
+    },
+    {
+      "name": "Lille Lerresfjord",
+      "latitude": 70.318814,
+      "longitude": 23.501946
+    },
+    {
+      "name": "Lillebukt kai",
+      "latitude": 70.262736,
+      "longitude": 22.625901
+    },
+    {
+      "name": "Lillehammer",
+      "latitude": 61.102765,
+      "longitude": 10.443257
+    },
+    {
+      "name": "Lindteigen, Store Arøya",
+      "latitude": 59.007018,
+      "longitude": 9.801016
+    },
+    {
+      "name": "Lindøy ferjekai",
+      "latitude": 58.992087,
+      "longitude": 5.807165
+    },
+    {
+      "name": "Lindøya vest",
+      "latitude": 59.89011,
+      "longitude": 10.706498
+    },
+    {
+      "name": "Lindøya øst",
+      "latitude": 59.890574,
+      "longitude": 10.719618
+    },
+    {
+      "name": "Linge",
+      "latitude": 62.284234,
+      "longitude": 7.186992
+    },
+    {
+      "name": "Lisleby",
+      "latitude": 59.231147,
+      "longitude": 10.987754
+    },
+    {
+      "name": "Litle Færøy",
+      "latitude": 61.111326,
+      "longitude": 4.791168
+    },
+    {
+      "name": "Litle Kvernøyna kai",
+      "latitude": 60.958982,
+      "longitude": 4.813699
+    },
+    {
+      "name": "Lomsøya ferjekai",
+      "latitude": 63.849534,
+      "longitude": 8.500768
+    },
+    {
+      "name": "Lonkan ferjekai",
+      "latitude": 68.51939,
+      "longitude": 15.254271
+    },
+    {
+      "name": "Lonkan hurtigbåtkai",
+      "latitude": 68.519425,
+      "longitude": 15.253847
+    },
+    {
+      "name": "Loppa Havn KF",
+      "latitude": 70.237912,
+      "longitude": 22.349651
+    },
+    {
+      "name": "Loppa kai",
+      "latitude": 70.344819,
+      "longitude": 21.452638
+    },
+    {
+      "name": "Losna",
+      "latitude": 61.117523,
+      "longitude": 5.092759
+    },
+    {
+      "name": "Losvik kai",
+      "latitude": 66.656475,
+      "longitude": 13.077549
+    },
+    {
+      "name": "Lote",
+      "latitude": 61.864038,
+      "longitude": 6.079489
+    },
+    {
+      "name": "Lotre kai",
+      "latitude": 70.682605,
+      "longitude": 23.143309
+    },
+    {
+      "name": "Lovund ferjekai",
+      "latitude": 66.368897,
+      "longitude": 12.370455
+    },
+    {
+      "name": "Lovund hurtigbåtkai",
+      "latitude": 66.369123,
+      "longitude": 12.370527
+    },
+    {
+      "name": "Lund",
+      "latitude": 64.76833,
+      "longitude": 11.623632
+    },
+    {
+      "name": "Lunde",
+      "latitude": 59.300716,
+      "longitude": 9.089209
+    },
+    {
+      "name": "Lunde sluse",
+      "latitude": 59.300487,
+      "longitude": 9.088348
+    },
+    {
+      "name": "Lundhamn kai",
+      "latitude": 70.701022,
+      "longitude": 23.243458
+    },
+    {
+      "name": "Lygra",
+      "latitude": 60.688607,
+      "longitude": 5.116747
+    },
+    {
+      "name": "Lyngseidet ferjekai",
+      "latitude": 69.577123,
+      "longitude": 20.224001
+    },
+    {
+      "name": "Lyngøy båtkai",
+      "latitude": 60.666833,
+      "longitude": 4.74757
+    },
+    {
+      "name": "Lysaker",
+      "latitude": 59.911354,
+      "longitude": 10.641646
+    },
+    {
+      "name": "Lysebotn ferjekai",
+      "latitude": 59.054689,
+      "longitude": 6.645261
+    },
+    {
+      "name": "Lysnes kai",
+      "latitude": 69.445628,
+      "longitude": 17.996083
+    },
+    {
+      "name": "Lysøen",
+      "latitude": 60.213018,
+      "longitude": 5.36971
+    },
+    {
+      "name": "Lågøy kai",
+      "latitude": 61.138362,
+      "longitude": 4.792159
+    },
+    {
+      "name": "Lågøya",
+      "latitude": 59.736765,
+      "longitude": 10.568079
+    },
+    {
+      "name": "Lårdal brygge",
+      "latitude": 59.424239,
+      "longitude": 8.188024
+    },
+    {
+      "name": "Lærdal",
+      "latitude": 61.100893,
+      "longitude": 7.462841
+    },
+    {
+      "name": "Lødingen",
+      "latitude": 68.420202,
+      "longitude": 15.994447
+    },
+    {
+      "name": "Løfallstrand",
+      "latitude": 60.016752,
+      "longitude": 5.997861
+    },
+    {
+      "name": "Løkta ferjekai",
+      "latitude": 66.141926,
+      "longitude": 12.697333
+    },
+    {
+      "name": "Løkta hurtigbåtkai",
+      "latitude": 66.141996,
+      "longitude": 12.696867
+    },
+    {
+      "name": "Løveid",
+      "latitude": 59.211512,
+      "longitude": 9.522409
+    },
+    {
+      "name": "M/K Ørsdølen II, Odlandstø",
+      "latitude": 58.59624,
+      "longitude": 6.124262
+    },
+    {
+      "name": "MS Brekke",
+      "latitude": 59.148061,
+      "longitude": 11.558068
+    },
+    {
+      "name": "MS Øisang",
+      "latitude": 58.755954,
+      "longitude": 9.258562
+    },
+    {
+      "name": "Magerholm",
+      "latitude": 62.432165,
+      "longitude": 6.497064
+    },
+    {
+      "name": "Makø",
+      "latitude": 59.044629,
+      "longitude": 11.111627
+    },
+    {
+      "name": "Malkenes kai",
+      "latitude": 60.076838,
+      "longitude": 5.687074
+    },
+    {
+      "name": "Malmøykalven",
+      "latitude": 59.865953,
+      "longitude": 10.746106
+    },
+    {
+      "name": "Mannheller",
+      "latitude": 61.160207,
+      "longitude": 7.336789
+    },
+    {
+      "name": "Mariagården ferjekai",
+      "latitude": 70.056578,
+      "longitude": 19.032055
+    },
+    {
+      "name": "Marvik hurtigbåtkai",
+      "latitude": 59.410625,
+      "longitude": 6.082945
+    },
+    {
+      "name": "Masfjordnes",
+      "latitude": 60.800947,
+      "longitude": 5.304457
+    },
+    {
+      "name": "Matre",
+      "latitude": 59.795346,
+      "longitude": 5.962875
+    },
+    {
+      "name": "Mausund ferjekai",
+      "latitude": 63.869148,
+      "longitude": 8.661981
+    },
+    {
+      "name": "Mekjarvik ferjekai",
+      "latitude": 59.023745,
+      "longitude": 5.613673
+    },
+    {
+      "name": "Mekjarvik hurtigbåtkai",
+      "latitude": 59.023881,
+      "longitude": 5.614181
+    },
+    {
+      "name": "Melbu",
+      "latitude": 68.498645,
+      "longitude": 14.801161
+    },
+    {
+      "name": "Melfjordbotn hurtigbåtkai",
+      "latitude": 66.522021,
+      "longitude": 13.665881
+    },
+    {
+      "name": "Melkeplassen, Lille Arøya",
+      "latitude": 59.010949,
+      "longitude": 9.792537
+    },
+    {
+      "name": "Melkvikan",
+      "latitude": 63.115216,
+      "longitude": 7.755643
+    },
+    {
+      "name": "Mellom Bolæren, Kongshavnsund",
+      "latitude": 59.208669,
+      "longitude": 10.561491
+    },
+    {
+      "name": "Meløysund ferjekai",
+      "latitude": 66.831075,
+      "longitude": 13.555069
+    },
+    {
+      "name": "Meløysund hurtigbåtkai",
+      "latitude": 66.831257,
+      "longitude": 13.554912
+    },
+    {
+      "name": "Memurubu",
+      "latitude": 61.490468,
+      "longitude": 8.633979
+    },
+    {
+      "name": "Merdø",
+      "latitude": 58.426353,
+      "longitude": 8.802084
+    },
+    {
+      "name": "Mesøy hurtigbåtkai",
+      "latitude": 66.852457,
+      "longitude": 13.678554
+    },
+    {
+      "name": "Mevær hurtigbåtkai Fleinvær",
+      "latitude": 67.171038,
+      "longitude": 13.775242
+    },
+    {
+      "name": "Mikkelsby kai",
+      "latitude": 70.137373,
+      "longitude": 23.327272
+    },
+    {
+      "name": "Mindland ferjekai",
+      "latitude": 65.807131,
+      "longitude": 12.495094
+    },
+    {
+      "name": "Mindland hurtigbåtkai",
+      "latitude": 65.807379,
+      "longitude": 12.495138
+    },
+    {
+      "name": "Misten",
+      "latitude": 67.452712,
+      "longitude": 14.729876
+    },
+    {
+      "name": "Mjånes",
+      "latitude": 61.000165,
+      "longitude": 5.029767
+    },
+    {
+      "name": "Mjølvik kai",
+      "latitude": 70.032747,
+      "longitude": 18.565396
+    },
+    {
+      "name": "Mjømna",
+      "latitude": 60.918253,
+      "longitude": 4.901276
+    },
+    {
+      "name": "Moelv",
+      "latitude": 60.924302,
+      "longitude": 10.684837
+    },
+    {
+      "name": "Mogen",
+      "latitude": 60.018469,
+      "longitude": 7.903289
+    },
+    {
+      "name": "Molde",
+      "latitude": 62.734857,
+      "longitude": 7.157072
+    },
+    {
+      "name": "Molde",
+      "latitude": 62.736319,
+      "longitude": 7.160017
+    },
+    {
+      "name": "Molde",
+      "latitude": 62.736894,
+      "longitude": 7.167501
+    },
+    {
+      "name": "Molde ferjekai",
+      "latitude": 62.736887,
+      "longitude": 7.169112
+    },
+    {
+      "name": "Monsøya",
+      "latitude": 58.053144,
+      "longitude": 7.84085
+    },
+    {
+      "name": "Mordalsvågen",
+      "latitude": 62.728844,
+      "longitude": 6.985862
+    },
+    {
+      "name": "Mortavika",
+      "latitude": 59.137496,
+      "longitude": 5.588536
+    },
+    {
+      "name": "Mortavika vest",
+      "latitude": 59.137614,
+      "longitude": 5.587785
+    },
+    {
+      "name": "Mosjøen ferjekai",
+      "latitude": 65.850459,
+      "longitude": 13.190793
+    },
+    {
+      "name": "Moskenes",
+      "latitude": 67.899833,
+      "longitude": 13.043803
+    },
+    {
+      "name": "Moskenes Fergekai",
+      "latitude": 67.899856,
+      "longitude": 13.044012
+    },
+    {
+      "name": "Moss",
+      "latitude": 59.429437,
+      "longitude": 10.654248
+    },
+    {
+      "name": "Mosterhamn snøggbåtkai",
+      "latitude": 59.698805,
+      "longitude": 5.38863
+    },
+    {
+      "name": "Munch Bjørvika",
+      "latitude": 59.905698,
+      "longitude": 10.753608
+    },
+    {
+      "name": "Munkholmen",
+      "latitude": 63.451132,
+      "longitude": 10.385498
+    },
+    {
+      "name": "Musken hurtigbåtkai",
+      "latitude": 67.893439,
+      "longitude": 16.21512
+    },
+    {
+      "name": "Musvær kai",
+      "latitude": 69.875803,
+      "longitude": 18.577399
+    },
+    {
+      "name": "Myken hurtigbåtkai",
+      "latitude": 66.761163,
+      "longitude": 12.47724
+    },
+    {
+      "name": "Myre hurtigbåtkai",
+      "latitude": 68.913841,
+      "longitude": 15.067804
+    },
+    {
+      "name": "Måløy ferjekai",
+      "latitude": 61.938054,
+      "longitude": 5.118981
+    },
+    {
+      "name": "Måløy hurtigbåtkai",
+      "latitude": 61.933201,
+      "longitude": 5.114801
+    },
+    {
+      "name": "Måløy kystrutekai",
+      "latitude": 61.939186,
+      "longitude": 5.12218
+    },
+    {
+      "name": "Måren",
+      "latitude": 61.149134,
+      "longitude": 6.075011
+    },
+    {
+      "name": "Måsøy",
+      "latitude": 71.005568,
+      "longitude": 25.01511
+    },
+    {
+      "name": "Måsøy hurtigbåtkai",
+      "latitude": 65.907699,
+      "longitude": 12.045554
+    },
+    {
+      "name": "Mæl brygge",
+      "latitude": 59.930235,
+      "longitude": 8.812336
+    },
+    {
+      "name": "Nakkholmen",
+      "latitude": 59.890756,
+      "longitude": 10.696915
+    },
+    {
+      "name": "Namsos",
+      "latitude": 64.464443,
+      "longitude": 11.490931
+    },
+    {
+      "name": "Namsvatnet",
+      "latitude": 64.990638,
+      "longitude": 13.581423
+    },
+    {
+      "name": "Nedgården Søndre Sandøy",
+      "latitude": 59.016838,
+      "longitude": 11.063898
+    },
+    {
+      "name": "Nedstrand ferjekai",
+      "latitude": 59.34518,
+      "longitude": 5.857582
+    },
+    {
+      "name": "Nedstrand hurtigbåtkai",
+      "latitude": 59.344924,
+      "longitude": 5.858011
+    },
+    {
+      "name": "Nervei kai",
+      "latitude": 70.667002,
+      "longitude": 27.853715
+    },
+    {
+      "name": "Nes",
+      "latitude": 60.761559,
+      "longitude": 10.942484
+    },
+    {
+      "name": "Nesheim hurtigbåtkai",
+      "latitude": 59.260087,
+      "longitude": 5.884401
+    },
+    {
+      "name": "Nesna",
+      "latitude": 66.200235,
+      "longitude": 13.007926
+    },
+    {
+      "name": "Nesna ferjekai",
+      "latitude": 66.200718,
+      "longitude": 13.011311
+    },
+    {
+      "name": "Nesna ferjekai båt",
+      "latitude": 66.200698,
+      "longitude": 13.011019
+    },
+    {
+      "name": "Nesna hurtigbåtkai",
+      "latitude": 66.200459,
+      "longitude": 13.008158
+    },
+    {
+      "name": "Nesoddtangen",
+      "latitude": 59.870923,
+      "longitude": 10.657166
+    },
+    {
+      "name": "Nessa",
+      "latitude": 59.151531,
+      "longitude": 6.10139
+    },
+    {
+      "name": "Nesvik ferjekai",
+      "latitude": 59.261538,
+      "longitude": 6.159253
+    },
+    {
+      "name": "Nesvik hurtigbåtkai",
+      "latitude": 59.261752,
+      "longitude": 6.159678
+    },
+    {
+      "name": "Nevervik hurtigbåtkai",
+      "latitude": 68.123312,
+      "longitude": 16.110379
+    },
+    {
+      "name": "Nikkeby",
+      "latitude": 70.073661,
+      "longitude": 20.815673
+    },
+    {
+      "name": "Nikkeby ferjekai",
+      "latitude": 70.074017,
+      "longitude": 20.815366
+    },
+    {
+      "name": "Nord-Hidle ferjekai",
+      "latitude": 59.24104,
+      "longitude": 5.886446
+    },
+    {
+      "name": "Nord-Hidle hurtigbåtkai",
+      "latitude": 59.241334,
+      "longitude": 5.886565
+    },
+    {
+      "name": "Nord-Lenangen",
+      "latitude": 69.909281,
+      "longitude": 20.163471
+    },
+    {
+      "name": "Nordeide",
+      "latitude": 61.172496,
+      "longitude": 5.985424
+    },
+    {
+      "name": "Nordeide",
+      "latitude": 61.173304,
+      "longitude": 5.986441
+    },
+    {
+      "name": "Nordfugløy hurtigbåtkai",
+      "latitude": 67.075787,
+      "longitude": 13.8572
+    },
+    {
+      "name": "Nordhuglo",
+      "latitude": 59.866874,
+      "longitude": 5.563682
+    },
+    {
+      "name": "Nordkynterminalen Hurtigruten Mehamn",
+      "latitude": 71.041408,
+      "longitude": 27.843034
+    },
+    {
+      "name": "Nordlandet",
+      "latitude": 63.110953,
+      "longitude": 7.744119
+    },
+    {
+      "name": "Nordnesøy ferjekai",
+      "latitude": 66.594501,
+      "longitude": 12.659624
+    },
+    {
+      "name": "Nordnesøy hurtigbåtkai",
+      "latitude": 66.595059,
+      "longitude": 12.66062
+    },
+    {
+      "name": "Nordre Sandøy",
+      "latitude": 59.028026,
+      "longitude": 11.094641
+    },
+    {
+      "name": "Nordskot hurtigbåtkai",
+      "latitude": 67.835152,
+      "longitude": 14.788354
+    },
+    {
+      "name": "Nordsolvær hurtigbåtkai",
+      "latitude": 66.369873,
+      "longitude": 12.626642
+    },
+    {
+      "name": "Nordøyane",
+      "latitude": 60.952024,
+      "longitude": 4.80883
+    },
+    {
+      "name": "Nordøysund båtkai",
+      "latitude": 60.714963,
+      "longitude": 4.729053
+    },
+    {
+      "name": "Norodden",
+      "latitude": 58.454321,
+      "longitude": 8.764288
+    },
+    {
+      "name": "Norsjø Ferieland",
+      "latitude": 59.38731,
+      "longitude": 9.262233
+    },
+    {
+      "name": "North Sea Terminal",
+      "latitude": 59.066329,
+      "longitude": 9.699645
+    },
+    {
+      "name": "Notøy",
+      "latitude": 60.991016,
+      "longitude": 4.590649
+    },
+    {
+      "name": "Nusfjord",
+      "latitude": 68.034368,
+      "longitude": 13.349358
+    },
+    {
+      "name": "Nuvsvåg kai",
+      "latitude": 70.263549,
+      "longitude": 22.105882
+    },
+    {
+      "name": "Nyvoll ferjekai",
+      "latitude": 70.226703,
+      "longitude": 23.380802
+    },
+    {
+      "name": "Nåra",
+      "latitude": 61.019048,
+      "longitude": 4.741298
+    },
+    {
+      "name": "Nærøy kai",
+      "latitude": 61.628952,
+      "longitude": 4.955408
+    },
+    {
+      "name": "Oanes",
+      "latitude": 58.905892,
+      "longitude": 6.075435
+    },
+    {
+      "name": "Oddekalv kai",
+      "latitude": 61.123558,
+      "longitude": 4.732716
+    },
+    {
+      "name": "Oldeide",
+      "latitude": 61.879324,
+      "longitude": 5.078094
+    },
+    {
+      "name": "Olderdalen ferjekai",
+      "latitude": 69.601664,
+      "longitude": 20.532289
+    },
+    {
+      "name": "Ommen",
+      "latitude": 59.80365,
+      "longitude": 10.606661
+    },
+    {
+      "name": "Ona",
+      "latitude": 62.863842,
+      "longitude": 6.544633
+    },
+    {
+      "name": "Onøy ferjekai",
+      "latitude": 66.39307,
+      "longitude": 12.824825
+    },
+    {
+      "name": "Onøy hurtigbåtkai",
+      "latitude": 66.393107,
+      "longitude": 12.824344
+    },
+    {
+      "name": "Oppedal",
+      "latitude": 61.05457,
+      "longitude": 5.507086
+    },
+    {
+      "name": "Oppedal ferjekai",
+      "latitude": 61.05479,
+      "longitude": 5.504075
+    },
+    {
+      "name": "Orelva",
+      "latitude": 65.034482,
+      "longitude": 13.84461
+    },
+    {
+      "name": "Ornes",
+      "latitude": 61.299382,
+      "longitude": 7.312571
+    },
+    {
+      "name": "Orta",
+      "latitude": 62.786318,
+      "longitude": 6.653765
+    },
+    {
+      "name": "Ortnevik kai",
+      "latitude": 61.113165,
+      "longitude": 6.132723
+    },
+    {
+      "name": "Oscarsborg",
+      "latitude": 59.674323,
+      "longitude": 10.604213
+    },
+    {
+      "name": "Oscarsborg",
+      "latitude": 59.676265,
+      "longitude": 10.607076
+    },
+    {
+      "name": "Oslo Ferry Terminal",
+      "latitude": 59.902474,
+      "longitude": 10.743621
+    },
+    {
+      "name": "Oslo Vippetangen",
+      "latitude": 59.903698,
+      "longitude": 10.743741
+    },
+    {
+      "name": "Ostøya",
+      "latitude": 59.867836,
+      "longitude": 10.556736
+    },
+    {
+      "name": "Osøyro",
+      "latitude": 60.183255,
+      "longitude": 5.469219
+    },
+    {
+      "name": "Otterskred kai",
+      "latitude": 61.045454,
+      "longitude": 6.402195
+    },
+    {
+      "name": "Pollen kai",
+      "latitude": 70.339182,
+      "longitude": 22.824359
+    },
+    {
+      "name": "Prostneset havneterminal",
+      "latitude": 69.646869,
+      "longitude": 18.959048
+    },
+    {
+      "name": "Raggsteindalen",
+      "latitude": 60.672114,
+      "longitude": 7.846154
+    },
+    {
+      "name": "Ramsøy hurtigbåtkai",
+      "latitude": 64.328365,
+      "longitude": 10.415552
+    },
+    {
+      "name": "Ramsøyaunet hurtigbåtkai",
+      "latitude": 64.34053,
+      "longitude": 10.417034
+    },
+    {
+      "name": "Ranavik ferjekai",
+      "latitude": 59.813373,
+      "longitude": 5.655989
+    },
+    {
+      "name": "Ranavik hurtigbåtkai",
+      "latitude": 59.812939,
+      "longitude": 5.656705
+    },
+    {
+      "name": "Randøya vest",
+      "latitude": 58.105414,
+      "longitude": 8.111264
+    },
+    {
+      "name": "Randøya øst",
+      "latitude": 58.106075,
+      "longitude": 8.11897
+    },
+    {
+      "name": "Ravnkloa",
+      "latitude": 63.434219,
+      "longitude": 10.392882
+    },
+    {
+      "name": "Reine hurtigbåtkai",
+      "latitude": 67.935468,
+      "longitude": 13.094794
+    },
+    {
+      "name": "Reinfjord",
+      "latitude": 70.101051,
+      "longitude": 21.599702
+    },
+    {
+      "name": "Reinskard ferjekai",
+      "latitude": 69.934864,
+      "longitude": 19.599478
+    },
+    {
+      "name": "Reksteren",
+      "latitude": 60.037693,
+      "longitude": 5.43649
+    },
+    {
+      "name": "Rendal hurtigbåtkai",
+      "latitude": 66.803266,
+      "longitude": 13.764381
+    },
+    {
+      "name": "Revesand",
+      "latitude": 58.436777,
+      "longitude": 8.800167
+    },
+    {
+      "name": "Revlingen",
+      "latitude": 62.224236,
+      "longitude": 11.949497
+    },
+    {
+      "name": "Revsnes ferjekai",
+      "latitude": 68.678515,
+      "longitude": 16.046913
+    },
+    {
+      "name": "Revsneshamn",
+      "latitude": 70.685,
+      "longitude": 24.349034
+    },
+    {
+      "name": "Ringholmen kai",
+      "latitude": 63.203553,
+      "longitude": 7.958907
+    },
+    {
+      "name": "Risavika Utenriksterminal",
+      "latitude": 58.920878,
+      "longitude": 5.582491
+    },
+    {
+      "name": "Risør",
+      "latitude": 58.720153,
+      "longitude": 9.238283
+    },
+    {
+      "name": "Risør",
+      "latitude": 58.720643,
+      "longitude": 9.235947
+    },
+    {
+      "name": "Risøy kai",
+      "latitude": 69.973058,
+      "longitude": 18.528488
+    },
+    {
+      "name": "Risøyhamn",
+      "latitude": 68.967767,
+      "longitude": 15.641225
+    },
+    {
+      "name": "Roan kai",
+      "latitude": 64.177856,
+      "longitude": 10.214443
+    },
+    {
+      "name": "Rognaldsvåg",
+      "latitude": 61.565069,
+      "longitude": 4.790039
+    },
+    {
+      "name": "Ropeid hurtigbåtkai",
+      "latitude": 59.4847,
+      "longitude": 6.21422
+    },
+    {
+      "name": "Rosendal kai",
+      "latitude": 59.986757,
+      "longitude": 6.006639
+    },
+    {
+      "name": "Rosenvik ferjekai",
+      "latitude": 58.953586,
+      "longitude": 5.851844
+    },
+    {
+      "name": "Rostad hurtigbåtkai",
+      "latitude": 67.962159,
+      "longitude": 13.044938
+    },
+    {
+      "name": "Rotsund ferjekai",
+      "latitude": 69.784744,
+      "longitude": 20.616631
+    },
+    {
+      "name": "Russøy",
+      "latitude": 61.632566,
+      "longitude": 4.837021
+    },
+    {
+      "name": "Rutledal ferjekai",
+      "latitude": 61.074362,
+      "longitude": 5.18933
+    },
+    {
+      "name": "Rykkjem",
+      "latitude": 62.878996,
+      "longitude": 8.486996
+    },
+    {
+      "name": "Rysjedalsvika ferjekai",
+      "latitude": 61.114056,
+      "longitude": 5.282989
+    },
+    {
+      "name": "Rysjedalsvika hurtigbåtkai",
+      "latitude": 61.114244,
+      "longitude": 5.283345
+    },
+    {
+      "name": "Rådhusbryggen",
+      "latitude": 59.91073,
+      "longitude": 10.731477
+    },
+    {
+      "name": "Røa",
+      "latitude": 62.358566,
+      "longitude": 11.9816
+    },
+    {
+      "name": "Rødøy ferjekai",
+      "latitude": 66.655556,
+      "longitude": 13.074535
+    },
+    {
+      "name": "Rødøy hurtigbåtkai",
+      "latitude": 66.656166,
+      "longitude": 13.066168
+    },
+    {
+      "name": "Rørvik",
+      "latitude": 63.509215,
+      "longitude": 10.139865
+    },
+    {
+      "name": "Rørvik",
+      "latitude": 64.861426,
+      "longitude": 11.24082
+    },
+    {
+      "name": "Rørøy hurtigbåtkai",
+      "latitude": 65.655146,
+      "longitude": 12.01626
+    },
+    {
+      "name": "Røst",
+      "latitude": 67.504884,
+      "longitude": 12.071225
+    },
+    {
+      "name": "Røvær hurtigbåtkai",
+      "latitude": 59.439423,
+      "longitude": 5.091623
+    },
+    {
+      "name": "Røytvoll hurtigbåtkai",
+      "latitude": 65.201599,
+      "longitude": 12.244579
+    },
+    {
+      "name": "Salt brygge",
+      "latitude": 59.906635,
+      "longitude": 10.747215
+    },
+    {
+      "name": "Saltskår kai",
+      "latitude": 61.194614,
+      "longitude": 4.807892
+    },
+    {
+      "name": "Sand hurtigbåtkai",
+      "latitude": 59.484379,
+      "longitude": 6.250465
+    },
+    {
+      "name": "Sandanger hurtigbåtkai",
+      "latitude": 59.198225,
+      "longitude": 6.057986
+    },
+    {
+      "name": "Sandefjord",
+      "latitude": 59.126408,
+      "longitude": 10.227319
+    },
+    {
+      "name": "Sandeid hurtigbåtkai",
+      "latitude": 59.541784,
+      "longitude": 5.867425
+    },
+    {
+      "name": "Sanden båtkai",
+      "latitude": 60.701429,
+      "longitude": 4.746633
+    },
+    {
+      "name": "Sandland kai",
+      "latitude": 70.266667,
+      "longitude": 21.608141
+    },
+    {
+      "name": "Sandneshamn kai",
+      "latitude": 69.628549,
+      "longitude": 18.177526
+    },
+    {
+      "name": "Sandnessjøen ferjekai",
+      "latitude": 66.024137,
+      "longitude": 12.641969
+    },
+    {
+      "name": "Sandnessjøen hurtigbåtkai",
+      "latitude": 66.022855,
+      "longitude": 12.633915
+    },
+    {
+      "name": "Sandnessjøen kystrutekai",
+      "latitude": 66.024523,
+      "longitude": 12.639756
+    },
+    {
+      "name": "Sandstad",
+      "latitude": 63.517525,
+      "longitude": 9.113246
+    },
+    {
+      "name": "Sandsøy",
+      "latitude": 68.941995,
+      "longitude": 16.672745
+    },
+    {
+      "name": "Sandsøy hurtigbåtkai",
+      "latitude": 68.941527,
+      "longitude": 16.672203
+    },
+    {
+      "name": "Sandvik hurtigbåtkai",
+      "latitude": 66.811266,
+      "longitude": 13.704465
+    },
+    {
+      "name": "Sandvika",
+      "latitude": 63.233253,
+      "longitude": 8.132215
+    },
+    {
+      "name": "Sandviksberget hurtigbåtkai",
+      "latitude": 64.328516,
+      "longitude": 10.445215
+    },
+    {
+      "name": "Sandvikvåg",
+      "latitude": 59.968432,
+      "longitude": 5.334572
+    },
+    {
+      "name": "Sandvikvåg",
+      "latitude": 59.968477,
+      "longitude": 5.333671
+    },
+    {
+      "name": "Sandvær hurtigbåtkai",
+      "latitude": 65.895132,
+      "longitude": 11.996504
+    },
+    {
+      "name": "Sandø hurtigbåtkai",
+      "latitude": 66.520536,
+      "longitude": 12.147536
+    },
+    {
+      "name": "Sandøy kai",
+      "latitude": 61.291648,
+      "longitude": 4.594862
+    },
+    {
+      "name": "Sandøya",
+      "latitude": 62.82029,
+      "longitude": 6.574845
+    },
+    {
+      "name": "Sandøya brygge",
+      "latitude": 59.045953,
+      "longitude": 9.728734
+    },
+    {
+      "name": "Sanna hurtigbåtkai",
+      "latitude": 66.507705,
+      "longitude": 12.061431
+    },
+    {
+      "name": "Sauda hurtigbåtkai",
+      "latitude": 59.646985,
+      "longitude": 6.350826
+    },
+    {
+      "name": "Sauren ferjekai",
+      "latitude": 65.476998,
+      "longitude": 12.134425
+    },
+    {
+      "name": "Sauøy",
+      "latitude": 63.998281,
+      "longitude": 9.17774
+    },
+    {
+      "name": "Segelvik kai",
+      "latitude": 70.206713,
+      "longitude": 21.21386
+    },
+    {
+      "name": "Seierstad",
+      "latitude": 64.637559,
+      "longitude": 11.346208
+    },
+    {
+      "name": "Seivika",
+      "latitude": 63.111829,
+      "longitude": 7.870283
+    },
+    {
+      "name": "Sekken",
+      "latitude": 62.675066,
+      "longitude": 7.303929
+    },
+    {
+      "name": "Sekken ferjekai",
+      "latitude": 62.675331,
+      "longitude": 7.30295
+    },
+    {
+      "name": "Selje",
+      "latitude": 62.045166,
+      "longitude": 5.342528
+    },
+    {
+      "name": "Sellebakk",
+      "latitude": 59.23033,
+      "longitude": 10.989604
+    },
+    {
+      "name": "Selsøyvik ferjekai",
+      "latitude": 66.579615,
+      "longitude": 12.981044
+    },
+    {
+      "name": "Selsøyvik hurtigbåtkai",
+      "latitude": 66.574316,
+      "longitude": 12.978401
+    },
+    {
+      "name": "Selvåg kai",
+      "latitude": 61.570707,
+      "longitude": 4.877231
+    },
+    {
+      "name": "Selvær ferjekai",
+      "latitude": 66.584048,
+      "longitude": 12.220798
+    },
+    {
+      "name": "Selvær hurtigbåtkai",
+      "latitude": 66.58489,
+      "longitude": 12.223936
+    },
+    {
+      "name": "Sentrum",
+      "latitude": 59.213,
+      "longitude": 10.93431
+    },
+    {
+      "name": "Sigerland hurtigbåtkai",
+      "latitude": 68.783586,
+      "longitude": 14.894809
+    },
+    {
+      "name": "Siktesøya",
+      "latitude": 59.029917,
+      "longitude": 9.764919
+    },
+    {
+      "name": "Sjølvik ferjekai",
+      "latitude": 58.939549,
+      "longitude": 5.850179
+    },
+    {
+      "name": "Sjøstrand",
+      "latitude": 59.797454,
+      "longitude": 10.498312
+    },
+    {
+      "name": "Sjøstrand",
+      "latitude": 59.851689,
+      "longitude": 10.648999
+    },
+    {
+      "name": "Skagehola",
+      "latitude": 62.110605,
+      "longitude": 7.118361
+    },
+    {
+      "name": "Skarberget",
+      "latitude": 68.232571,
+      "longitude": 16.234957
+    },
+    {
+      "name": "Skarpøya",
+      "latitude": 58.05362,
+      "longitude": 7.821395
+    },
+    {
+      "name": "Skaupa",
+      "latitude": 60.347592,
+      "longitude": 7.821068
+    },
+    {
+      "name": "Skavnakk kai",
+      "latitude": 70.232479,
+      "longitude": 21.422699
+    },
+    {
+      "name": "Skei",
+      "latitude": 65.087027,
+      "longitude": 11.737384
+    },
+    {
+      "name": "Skei",
+      "latitude": 65.087814,
+      "longitude": 11.738117
+    },
+    {
+      "name": "Skibladnerbrygga, Tingnes",
+      "latitude": 60.761025,
+      "longitude": 10.941193
+    },
+    {
+      "name": "Skilsø",
+      "latitude": 58.459523,
+      "longitude": 8.780913
+    },
+    {
+      "name": "Skinnarbu",
+      "latitude": 59.816944,
+      "longitude": 8.313045
+    },
+    {
+      "name": "Skipavik ferjekai",
+      "latitude": 59.253056,
+      "longitude": 6.095313
+    },
+    {
+      "name": "Skipavik hurtigbåtkai",
+      "latitude": 59.253161,
+      "longitude": 6.096126
+    },
+    {
+      "name": "Skipnes hurtigbåtkai",
+      "latitude": 68.827437,
+      "longitude": 14.754086
+    },
+    {
+      "name": "Skippernes kai",
+      "latitude": 70.732861,
+      "longitude": 23.357425
+    },
+    {
+      "name": "Skjellfjord hurtigbåtkai",
+      "latitude": 68.783933,
+      "longitude": 14.947158
+    },
+    {
+      "name": "Skjelten",
+      "latitude": 62.592278,
+      "longitude": 6.281129
+    },
+    {
+      "name": "Skjerjehamn",
+      "latitude": 60.943807,
+      "longitude": 4.953491
+    },
+    {
+      "name": "Skjersholmane",
+      "latitude": 59.74963,
+      "longitude": 5.466061
+    },
+    {
+      "name": "Skjervøy kai",
+      "latitude": 70.035314,
+      "longitude": 20.981222
+    },
+    {
+      "name": "Skjervøy kai",
+      "latitude": 70.035479,
+      "longitude": 20.983892
+    },
+    {
+      "name": "Skjærhalden",
+      "latitude": 59.02465,
+      "longitude": 11.037425
+    },
+    {
+      "name": "Skjærvøy hurtigbåtkai",
+      "latitude": 64.294789,
+      "longitude": 10.295172
+    },
+    {
+      "name": "Skogsholmen hurtigbåtkai",
+      "latitude": 65.815132,
+      "longitude": 12.041732
+    },
+    {
+      "name": "Skolten",
+      "latitude": 60.401307,
+      "longitude": 5.313421
+    },
+    {
+      "name": "Skorpeide kai",
+      "latitude": 61.591046,
+      "longitude": 4.872622
+    },
+    {
+      "name": "Skotnes hurtigbåtkai",
+      "latitude": 65.227103,
+      "longitude": 12.39469
+    },
+    {
+      "name": "Skrolsvik hurtigbåtkai",
+      "latitude": 69.064965,
+      "longitude": 16.815835
+    },
+    {
+      "name": "Skrova ferjekai",
+      "latitude": 68.167055,
+      "longitude": 14.662702
+    },
+    {
+      "name": "Skrova hurtigbåtkai",
+      "latitude": 68.166795,
+      "longitude": 14.66211
+    },
+    {
+      "name": "Skutvik ferjekai",
+      "latitude": 68.015133,
+      "longitude": 15.336343
+    },
+    {
+      "name": "Skutvik hurtigbåtkai",
+      "latitude": 68.015362,
+      "longitude": 15.33739
+    },
+    {
+      "name": "Skålebøl",
+      "latitude": 68.781698,
+      "longitude": 14.792361
+    },
+    {
+      "name": "Skålvær hurtigbåtkai",
+      "latitude": 65.86442,
+      "longitude": 12.178297
+    },
+    {
+      "name": "Skånevik",
+      "latitude": 59.733428,
+      "longitude": 5.932643
+    },
+    {
+      "name": "Skåningsbukt ferjekai",
+      "latitude": 70.053507,
+      "longitude": 19.853172
+    },
+    {
+      "name": "Skår",
+      "latitude": 62.179209,
+      "longitude": 6.533685
+    },
+    {
+      "name": "Skåtøybrygga",
+      "latitude": 58.862116,
+      "longitude": 9.478857
+    },
+    {
+      "name": "Skåtøyroa",
+      "latitude": 58.860102,
+      "longitude": 9.441352
+    },
+    {
+      "name": "Slemmestad",
+      "latitude": 59.783109,
+      "longitude": 10.501517
+    },
+    {
+      "name": "Sleneset ferjekai",
+      "latitude": 66.360488,
+      "longitude": 12.607813
+    },
+    {
+      "name": "Sleneset hurtigbåtkai",
+      "latitude": 66.361678,
+      "longitude": 12.611704
+    },
+    {
+      "name": "Slettnes kai",
+      "latitude": 70.631585,
+      "longitude": 23.12898
+    },
+    {
+      "name": "Sløvåg",
+      "latitude": 60.8567,
+      "longitude": 5.06396
+    },
+    {
+      "name": "Smertu",
+      "latitude": 59.204573,
+      "longitude": 10.941129
+    },
+    {
+      "name": "Smietangen, Langesund",
+      "latitude": 59.002743,
+      "longitude": 9.749898
+    },
+    {
+      "name": "Smines hurtigbåtkai",
+      "latitude": 68.864461,
+      "longitude": 14.978844
+    },
+    {
+      "name": "Småge",
+      "latitude": 62.806549,
+      "longitude": 6.76726
+    },
+    {
+      "name": "Smørhamn",
+      "latitude": 61.77854,
+      "longitude": 4.946877
+    },
+    {
+      "name": "Smørhamn ferjekai",
+      "latitude": 61.779283,
+      "longitude": 4.94725
+    },
+    {
+      "name": "Smørhamn kai",
+      "latitude": 61.779467,
+      "longitude": 4.94742
+    },
+    {
+      "name": "Sogndal",
+      "latitude": 61.229528,
+      "longitude": 7.104504
+    },
+    {
+      "name": "Solavågen",
+      "latitude": 62.413722,
+      "longitude": 6.328531
+    },
+    {
+      "name": "Solfjellsjøen",
+      "latitude": 66.109068,
+      "longitude": 12.484728
+    },
+    {
+      "name": "Solholmen",
+      "latitude": 62.719415,
+      "longitude": 6.937515
+    },
+    {
+      "name": "Sollibotn",
+      "latitude": 60.986235,
+      "longitude": 5.035696
+    },
+    {
+      "name": "Solvorn",
+      "latitude": 61.301349,
+      "longitude": 7.248707
+    },
+    {
+      "name": "Sommarøy kai",
+      "latitude": 69.633628,
+      "longitude": 17.997706
+    },
+    {
+      "name": "Sommerset hurtigbåtkai",
+      "latitude": 68.482733,
+      "longitude": 15.254608
+    },
+    {
+      "name": "Songesand ferjekai",
+      "latitude": 59.016228,
+      "longitude": 6.32332
+    },
+    {
+      "name": "Sortland Hurtigrutekai",
+      "latitude": 68.698534,
+      "longitude": 15.420557
+    },
+    {
+      "name": "Spildra",
+      "latitude": 69.995481,
+      "longitude": 21.681186
+    },
+    {
+      "name": "Spjotsodd brygge",
+      "latitude": 59.36319,
+      "longitude": 8.525132
+    },
+    {
+      "name": "Stabbestad",
+      "latitude": 58.850894,
+      "longitude": 9.405511
+    },
+    {
+      "name": "Stamsund",
+      "latitude": 68.121073,
+      "longitude": 13.840713
+    },
+    {
+      "name": "Standal",
+      "latitude": 62.266271,
+      "longitude": 6.423191
+    },
+    {
+      "name": "Stangholmen",
+      "latitude": 58.709705,
+      "longitude": 9.24239
+    },
+    {
+      "name": "Stangnes ferjekai",
+      "latitude": 68.776912,
+      "longitude": 16.590971
+    },
+    {
+      "name": "Stavang",
+      "latitude": 61.535106,
+      "longitude": 5.180409
+    },
+    {
+      "name": "Stavanger",
+      "latitude": 58.919887,
+      "longitude": 5.583592
+    },
+    {
+      "name": "Stavanger hurtigbåtterminal",
+      "latitude": 58.972208,
+      "longitude": 5.73956
+    },
+    {
+      "name": "Steinsstø",
+      "latitude": 60.393108,
+      "longitude": 6.281522
+    },
+    {
+      "name": "Steinsvika",
+      "latitude": 59.352471,
+      "longitude": 5.613803
+    },
+    {
+      "name": "Steinsøy ferjekai",
+      "latitude": 58.986889,
+      "longitude": 5.752507
+    },
+    {
+      "name": "Stevnebø kai",
+      "latitude": 60.976519,
+      "longitude": 4.997642
+    },
+    {
+      "name": "Stokkasjøen ferjekai",
+      "latitude": 65.758794,
+      "longitude": 12.556935
+    },
+    {
+      "name": "Stokkasjøen hurtigbåtkai",
+      "latitude": 65.759071,
+      "longitude": 12.55674
+    },
+    {
+      "name": "Stokkevåg kai",
+      "latitude": 61.098696,
+      "longitude": 4.785208
+    },
+    {
+      "name": "Stokkvågen ferjekai",
+      "latitude": 66.339377,
+      "longitude": 13.002386
+    },
+    {
+      "name": "Stokkvågen hurtigbåtkai",
+      "latitude": 66.339219,
+      "longitude": 13.003363
+    },
+    {
+      "name": "Stokmarknes hurtigbåtkai",
+      "latitude": 68.567289,
+      "longitude": 14.914717
+    },
+    {
+      "name": "Store Kalvøy",
+      "latitude": 62.526883,
+      "longitude": 6.204179
+    },
+    {
+      "name": "Store Kalvøy hurtigbåtkai",
+      "latitude": 62.527292,
+      "longitude": 6.204847
+    },
+    {
+      "name": "Storekorsnes",
+      "latitude": 70.215447,
+      "longitude": 23.191956
+    },
+    {
+      "name": "Storelva",
+      "latitude": 65.051174,
+      "longitude": 13.798605
+    },
+    {
+      "name": "Storfosna",
+      "latitude": 63.65887,
+      "longitude": 9.436658
+    },
+    {
+      "name": "Stornes ferjekai",
+      "latitude": 68.852161,
+      "longitude": 16.490987
+    },
+    {
+      "name": "Storselsøy ferjekai",
+      "latitude": 66.559398,
+      "longitude": 12.838905
+    },
+    {
+      "name": "Storseløy hurtigbåtkai",
+      "latitude": 66.559783,
+      "longitude": 12.836849
+    },
+    {
+      "name": "Storstein ferjekai",
+      "latitude": 70.031803,
+      "longitude": 20.845375
+    },
+    {
+      "name": "Storvika",
+      "latitude": 65.002273,
+      "longitude": 13.817335
+    },
+    {
+      "name": "Storå hurtigbåtkai",
+      "latitude": 68.073972,
+      "longitude": 16.387441
+    },
+    {
+      "name": "Storå hurtigbåtkai",
+      "latitude": 68.465824,
+      "longitude": 15.260421
+    },
+    {
+      "name": "Strand kai",
+      "latitude": 61.141726,
+      "longitude": 4.829647
+    },
+    {
+      "name": "Stranda ferjekai",
+      "latitude": 62.309102,
+      "longitude": 6.94943
+    },
+    {
+      "name": "Strandkaiterminalen båtkai",
+      "latitude": 60.39533,
+      "longitude": 5.321874
+    },
+    {
+      "name": "Strandkaiterminalen, båt Askøy",
+      "latitude": 60.395616,
+      "longitude": 5.320726
+    },
+    {
+      "name": "Strandterminalen",
+      "latitude": 60.395225,
+      "longitude": 5.321987
+    },
+    {
+      "name": "Strömstad-Sandefjord",
+      "latitude": 58.933458,
+      "longitude": 11.169688
+    },
+    {
+      "name": "Strømsnes Akkarfjord",
+      "latitude": 70.601881,
+      "longitude": 23.61822
+    },
+    {
+      "name": "Stuvland hurtigbåtkai",
+      "latitude": 66.436169,
+      "longitude": 13.05191
+    },
+    {
+      "name": "Styvi kai",
+      "latitude": 60.942644,
+      "longitude": 6.9348
+    },
+    {
+      "name": "Stårheim ferjekai",
+      "latitude": 61.91394,
+      "longitude": 5.72437
+    },
+    {
+      "name": "Stølsvik ferjekai",
+      "latitude": 58.959325,
+      "longitude": 5.864312
+    },
+    {
+      "name": "Støtt ferjekai",
+      "latitude": 66.927089,
+      "longitude": 13.436794
+    },
+    {
+      "name": "Støtt hurtigbåtkai",
+      "latitude": 66.92611,
+      "longitude": 13.434234
+    },
+    {
+      "name": "Sula hurtigbåtkai",
+      "latitude": 63.84581,
+      "longitude": 8.460431
+    },
+    {
+      "name": "Sulesund",
+      "latitude": 62.394991,
+      "longitude": 6.164245
+    },
+    {
+      "name": "Sulesund",
+      "latitude": 62.395005,
+      "longitude": 6.16713
+    },
+    {
+      "name": "Sulo båtkai",
+      "latitude": 60.711879,
+      "longitude": 4.735653
+    },
+    {
+      "name": "Sund ferjekai",
+      "latitude": 67.072645,
+      "longitude": 14.064964
+    },
+    {
+      "name": "Sunde",
+      "latitude": 59.831882,
+      "longitude": 5.717987
+    },
+    {
+      "name": "Sundsodden",
+      "latitude": 59.177985,
+      "longitude": 8.489202
+    },
+    {
+      "name": "Sundøy hurtigbåtkai",
+      "latitude": 66.579579,
+      "longitude": 12.93402
+    },
+    {
+      "name": "Svanøybukt",
+      "latitude": 61.497549,
+      "longitude": 5.127161
+    },
+    {
+      "name": "Svartemyr ferjekai",
+      "latitude": 61.119382,
+      "longitude": 5.815857
+    },
+    {
+      "name": "Svelvik",
+      "latitude": 59.615824,
+      "longitude": 10.410355
+    },
+    {
+      "name": "Svend Haugs Gate",
+      "latitude": 59.734529,
+      "longitude": 10.226724
+    },
+    {
+      "name": "Svensby ferjekai",
+      "latitude": 69.663269,
+      "longitude": 19.808928
+    },
+    {
+      "name": "Svensvika, Siktesøya",
+      "latitude": 59.017783,
+      "longitude": 9.774739
+    },
+    {
+      "name": "Svolvær",
+      "latitude": 68.230742,
+      "longitude": 14.566539
+    },
+    {
+      "name": "Svolvær ferjekai",
+      "latitude": 68.23458,
+      "longitude": 14.551867
+    },
+    {
+      "name": "Svolvær hurtigbåtkai",
+      "latitude": 68.231441,
+      "longitude": 14.566725
+    },
+    {
+      "name": "Sydnes",
+      "latitude": 59.733271,
+      "longitude": 5.737591
+    },
+    {
+      "name": "Sykkylven",
+      "latitude": 62.410222,
+      "longitude": 6.547398
+    },
+    {
+      "name": "Sylvarnes kai",
+      "latitude": 61.095205,
+      "longitude": 6.29685
+    },
+    {
+      "name": "Synnervika",
+      "latitude": 62.414436,
+      "longitude": 11.885399
+    },
+    {
+      "name": "Syregarden",
+      "latitude": 60.696289,
+      "longitude": 7.884277
+    },
+    {
+      "name": "Sæbø",
+      "latitude": 62.211075,
+      "longitude": 6.476174
+    },
+    {
+      "name": "Sætervika",
+      "latitude": 64.394393,
+      "longitude": 10.481645
+    },
+    {
+      "name": "Sætre",
+      "latitude": 59.682868,
+      "longitude": 10.530106
+    },
+    {
+      "name": "Sævrøy",
+      "latitude": 60.788544,
+      "longitude": 4.83047
+    },
+    {
+      "name": "Sølsnes ferjekai",
+      "latitude": 62.684797,
+      "longitude": 7.464529
+    },
+    {
+      "name": "Søndre Langåra",
+      "latitude": 59.753427,
+      "longitude": 10.564751
+    },
+    {
+      "name": "Søndre Nekkøy kai",
+      "latitude": 61.57902,
+      "longitude": 4.931293
+    },
+    {
+      "name": "Sør Gjæslingan",
+      "latitude": 64.742104,
+      "longitude": 10.7763
+    },
+    {
+      "name": "Sør-Bokn hurtigbåtkai",
+      "latitude": 59.161888,
+      "longitude": 5.946761
+    },
+    {
+      "name": "Sør-Hidle hurtigbåtkai",
+      "latitude": 59.047498,
+      "longitude": 5.827882
+    },
+    {
+      "name": "Sør-Tverrfjord ferjekai",
+      "latitude": 70.218989,
+      "longitude": 21.717414
+    },
+    {
+      "name": "Sør-Tverrfjord hurtigbåtkai",
+      "latitude": 70.218619,
+      "longitude": 21.717101
+    },
+    {
+      "name": "Sørarnøy ferjekai",
+      "latitude": 67.136786,
+      "longitude": 13.97894
+    },
+    {
+      "name": "Sørarnøy hurtigbåtkai",
+      "latitude": 67.134129,
+      "longitude": 13.971757
+    },
+    {
+      "name": "Sørburøy",
+      "latitude": 63.978018,
+      "longitude": 9.088397
+    },
+    {
+      "name": "Sørfjorden ferjekai",
+      "latitude": 66.506551,
+      "longitude": 13.302094
+    },
+    {
+      "name": "Sørfjorden hurtigbåtkai",
+      "latitude": 66.506159,
+      "longitude": 13.305165
+    },
+    {
+      "name": "Sørfugløy hurtigbåtkai",
+      "latitude": 67.051546,
+      "longitude": 13.776254
+    },
+    {
+      "name": "Sørlandegode hurtigbåtkai",
+      "latitude": 67.38927,
+      "longitude": 14.244077
+    },
+    {
+      "name": "Sørnes ferjekai",
+      "latitude": 65.971623,
+      "longitude": 12.852662
+    },
+    {
+      "name": "Sørnesøy hurtigbåtkai",
+      "latitude": 66.571693,
+      "longitude": 12.627075
+    },
+    {
+      "name": "Sørrollnes ferjekai",
+      "latitude": 68.726392,
+      "longitude": 16.851336
+    },
+    {
+      "name": "Sørvær hurtigbåtkai Fleinvær",
+      "latitude": 67.161782,
+      "longitude": 13.766508
+    },
+    {
+      "name": "Søvik ferjekai",
+      "latitude": 65.926882,
+      "longitude": 12.435078
+    },
+    {
+      "name": "Talgje hurtigbåtkai",
+      "latitude": 59.104704,
+      "longitude": 5.858898
+    },
+    {
+      "name": "Tangane",
+      "latitude": 58.884363,
+      "longitude": 9.519533
+    },
+    {
+      "name": "Tangen",
+      "latitude": 59.15344,
+      "longitude": 10.337695
+    },
+    {
+      "name": "Tangen ferjekai",
+      "latitude": 60.512673,
+      "longitude": 10.336809
+    },
+    {
+      "name": "Tangenes kai",
+      "latitude": 61.091033,
+      "longitude": 4.742025
+    },
+    {
+      "name": "Tarva",
+      "latitude": 63.796071,
+      "longitude": 9.42779
+    },
+    {
+      "name": "Tau ferjekai",
+      "latitude": 59.064994,
+      "longitude": 5.908301
+    },
+    {
+      "name": "Tau hurtigbåtkai",
+      "latitude": 59.065281,
+      "longitude": 5.908326
+    },
+    {
+      "name": "Teksmona hurtigbåtkai",
+      "latitude": 66.883189,
+      "longitude": 13.635066
+    },
+    {
+      "name": "Telnes hurtigbåtkai",
+      "latitude": 66.565527,
+      "longitude": 13.191392
+    },
+    {
+      "name": "Tennskjer hurtigbåtkai",
+      "latitude": 69.47786,
+      "longitude": 18.303996
+    },
+    {
+      "name": "Tenvik",
+      "latitude": 59.174463,
+      "longitude": 10.364926
+    },
+    {
+      "name": "Terråk hurtigbåtkai",
+      "latitude": 65.09013,
+      "longitude": 12.372769
+    },
+    {
+      "name": "Tinden hurtigbåtkai",
+      "latitude": 68.84095,
+      "longitude": 14.75582
+    },
+    {
+      "name": "Tinnoset brygge",
+      "latitude": 59.725397,
+      "longitude": 9.026933
+    },
+    {
+      "name": "Tjøtta ferjekai",
+      "latitude": 65.821739,
+      "longitude": 12.430203
+    },
+    {
+      "name": "Tjøtta hurtigbåtkai",
+      "latitude": 65.822069,
+      "longitude": 12.430841
+    },
+    {
+      "name": "Tomma",
+      "latitude": 66.23472,
+      "longitude": 12.8572
+    },
+    {
+      "name": "Tonnes ferjekai",
+      "latitude": 66.511825,
+      "longitude": 13.007981
+    },
+    {
+      "name": "Tonnes hurtigbåtkai",
+      "latitude": 66.511032,
+      "longitude": 13.005699
+    },
+    {
+      "name": "Torfinnsbu turisthytte",
+      "latitude": 61.355859,
+      "longitude": 8.595375
+    },
+    {
+      "name": "Torghatten Nord AS",
+      "latitude": 67.288506,
+      "longitude": 14.395816
+    },
+    {
+      "name": "Torvik",
+      "latitude": 62.336661,
+      "longitude": 5.728189
+    },
+    {
+      "name": "Trandal ferjekai",
+      "latitude": 62.260835,
+      "longitude": 6.500545
+    },
+    {
+      "name": "Trio AS",
+      "latitude": 62.470464,
+      "longitude": 6.244094
+    },
+    {
+      "name": "Tro ferjekai",
+      "latitude": 65.796678,
+      "longitude": 12.526282
+    },
+    {
+      "name": "Tro hurtigbåtkai",
+      "latitude": 65.796904,
+      "longitude": 12.526608
+    },
+    {
+      "name": "Trollfjorden",
+      "latitude": 68.362899,
+      "longitude": 14.931389
+    },
+    {
+      "name": "Tromsø Hurtigruten",
+      "latitude": 69.646544,
+      "longitude": 18.960288
+    },
+    {
+      "name": "Tromsø Prostneset hurtigbåtkai",
+      "latitude": 69.646339,
+      "longitude": 18.957528
+    },
+    {
+      "name": "Trondheim",
+      "latitude": 63.438198,
+      "longitude": 10.396357
+    },
+    {
+      "name": "Trondheim hurtigbåtterminal",
+      "latitude": 63.437877,
+      "longitude": 10.396763
+    },
+    {
+      "name": "Træna ferjekai",
+      "latitude": 66.501662,
+      "longitude": 12.102495
+    },
+    {
+      "name": "Træna hurtigbåtkai",
+      "latitude": 66.501388,
+      "longitude": 12.102494
+    },
+    {
+      "name": "Tunnstad hurtigbåtkai",
+      "latitude": 68.873701,
+      "longitude": 14.909514
+    },
+    {
+      "name": "Tunsøy ferjekai",
+      "latitude": 58.984301,
+      "longitude": 5.81775
+    },
+    {
+      "name": "Tussøy",
+      "latitude": 69.64696,
+      "longitude": 18.139699
+    },
+    {
+      "name": "Tverrfjord",
+      "latitude": 70.230139,
+      "longitude": 22.268188
+    },
+    {
+      "name": "Tvervik snuplass",
+      "latitude": 67.044082,
+      "longitude": 14.573592
+    },
+    {
+      "name": "Tåjebukta",
+      "latitude": 59.69804,
+      "longitude": 10.557453
+    },
+    {
+      "name": "Tårnbrygga",
+      "latitude": 58.866085,
+      "longitude": 9.589165
+    },
+    {
+      "name": "Tåtøy brygge",
+      "latitude": 58.858182,
+      "longitude": 9.399418
+    },
+    {
+      "name": "Tømmervåg",
+      "latitude": 63.153099,
+      "longitude": 7.95485
+    },
+    {
+      "name": "Tørvikbygd",
+      "latitude": 60.300769,
+      "longitude": 6.171906
+    },
+    {
+      "name": "Uløybukt ferjekai",
+      "latitude": 69.855654,
+      "longitude": 20.69566
+    },
+    {
+      "name": "Undredal",
+      "latitude": 60.951559,
+      "longitude": 7.10602
+    },
+    {
+      "name": "Uskakalven ferjekai",
+      "latitude": 58.961556,
+      "longitude": 5.844131
+    },
+    {
+      "name": "Usken ferjekai",
+      "latitude": 58.940975,
+      "longitude": 5.83611
+    },
+    {
+      "name": "Utbjoa ferjekai",
+      "latitude": 59.678505,
+      "longitude": 5.615193
+    },
+    {
+      "name": "Utbjoa hurtigbåtkai",
+      "latitude": 59.678386,
+      "longitude": 5.615704
+    },
+    {
+      "name": "Utne",
+      "latitude": 60.42409,
+      "longitude": 6.621755
+    },
+    {
+      "name": "Utsira nord ferjekai",
+      "latitude": 59.311985,
+      "longitude": 4.884793
+    },
+    {
+      "name": "Utsira sør ferjekai",
+      "latitude": 59.297369,
+      "longitude": 4.893095
+    },
+    {
+      "name": "Utvær",
+      "latitude": 61.0359,
+      "longitude": 4.511518
+    },
+    {
+      "name": "Utåker",
+      "latitude": 59.783328,
+      "longitude": 5.904434
+    },
+    {
+      "name": "Utøya",
+      "latitude": 60.02396,
+      "longitude": 10.251258
+    },
+    {
+      "name": "Utøykaia",
+      "latitude": 60.022722,
+      "longitude": 10.262023
+    },
+    {
+      "name": "Valanhamn",
+      "latitude": 69.964663,
+      "longitude": 21.523959
+    },
+    {
+      "name": "Valderøya",
+      "latitude": 62.495884,
+      "longitude": 6.128573
+    },
+    {
+      "name": "Valderøya hurtigbåtkai",
+      "latitude": 62.495775,
+      "longitude": 6.12907
+    },
+    {
+      "name": "Valestrand ferjekai",
+      "latitude": 60.504966,
+      "longitude": 5.426922
+    },
+    {
+      "name": "Valevåg",
+      "latitude": 59.700381,
+      "longitude": 5.470087
+    },
+    {
+      "name": "Valset",
+      "latitude": 63.638901,
+      "longitude": 9.687914
+    },
+    {
+      "name": "Valøy hurtigbåtkai",
+      "latitude": 66.86679,
+      "longitude": 13.68769
+    },
+    {
+      "name": "Vandve",
+      "latitude": 66.163779,
+      "longitude": 12.349153
+    },
+    {
+      "name": "Vangsnes",
+      "latitude": 61.175119,
+      "longitude": 6.637552
+    },
+    {
+      "name": "Vannvåg kai",
+      "latitude": 70.072465,
+      "longitude": 19.99205
+    },
+    {
+      "name": "Vanvikan",
+      "latitude": 63.553291,
+      "longitude": 10.223395
+    },
+    {
+      "name": "Varaldsøy",
+      "latitude": 60.086933,
+      "longitude": 5.973025
+    },
+    {
+      "name": "Vardetangen",
+      "latitude": 60.802855,
+      "longitude": 4.951115
+    },
+    {
+      "name": "Vassdalsvik ferjekai",
+      "latitude": 66.80671,
+      "longitude": 13.588719
+    },
+    {
+      "name": "Vassøy",
+      "latitude": 60.965269,
+      "longitude": 4.965104
+    },
+    {
+      "name": "Vassøy ferjekai",
+      "latitude": 58.998356,
+      "longitude": 5.782378
+    },
+    {
+      "name": "Vassøy hurtigbåtkai",
+      "latitude": 58.998485,
+      "longitude": 5.782264
+    },
+    {
+      "name": "Vaterland fergeleie",
+      "latitude": 59.199041,
+      "longitude": 10.946699
+    },
+    {
+      "name": "Veiesundet",
+      "latitude": 61.564935,
+      "longitude": 5.057702
+    },
+    {
+      "name": "Vengsøy ferjekai",
+      "latitude": 69.837003,
+      "longitude": 18.58746
+    },
+    {
+      "name": "Venjaneset ferjekai",
+      "latitude": 60.205592,
+      "longitude": 5.593449
+    },
+    {
+      "name": "Vennesund",
+      "latitude": 65.216008,
+      "longitude": 12.040733
+    },
+    {
+      "name": "Verftet",
+      "latitude": 58.051662,
+      "longitude": 7.835045
+    },
+    {
+      "name": "Verket",
+      "latitude": 59.613002,
+      "longitude": 10.413041
+    },
+    {
+      "name": "Verket ferjekai",
+      "latitude": 59.612588,
+      "longitude": 10.412832
+    },
+    {
+      "name": "Vestgården",
+      "latitude": 59.164954,
+      "longitude": 10.343388
+    },
+    {
+      "name": "Vestnes hurtigbåtkai",
+      "latitude": 62.624135,
+      "longitude": 7.095803
+    },
+    {
+      "name": "Vestre Bolæren, Jensesund",
+      "latitude": 59.214422,
+      "longitude": 10.536126
+    },
+    {
+      "name": "Vestre Brygge",
+      "latitude": 59.049632,
+      "longitude": 10.027923
+    },
+    {
+      "name": "Vestre Gumøy",
+      "latitude": 58.874862,
+      "longitude": 9.491252
+    },
+    {
+      "name": "Vetlesand kai",
+      "latitude": 61.104688,
+      "longitude": 6.212511
+    },
+    {
+      "name": "Vevling kai",
+      "latitude": 61.620078,
+      "longitude": 4.843753
+    },
+    {
+      "name": "Vibrandsøy hurtigbåtkai",
+      "latitude": 59.412725,
+      "longitude": 5.252696
+    },
+    {
+      "name": "Vik kai",
+      "latitude": 61.088846,
+      "longitude": 6.580359
+    },
+    {
+      "name": "Vikane",
+      "latitude": 59.215171,
+      "longitude": 10.789612
+    },
+    {
+      "name": "Vikdal ferjekai",
+      "latitude": 65.887932,
+      "longitude": 13.096061
+    },
+    {
+      "name": "Vikedal hurtigbåtkai",
+      "latitude": 59.496663,
+      "longitude": 5.893474
+    },
+    {
+      "name": "Vikholmen ferjekai",
+      "latitude": 66.203881,
+      "longitude": 12.967167
+    },
+    {
+      "name": "Vikran kai",
+      "latitude": 69.545026,
+      "longitude": 18.768369
+    },
+    {
+      "name": "Villevik kai",
+      "latitude": 61.635918,
+      "longitude": 5.000772
+    },
+    {
+      "name": "Vindstad hurtigbåtkai",
+      "latitude": 67.957207,
+      "longitude": 13.005343
+    },
+    {
+      "name": "Vippetangen",
+      "latitude": 59.901838,
+      "longitude": 10.740832
+    },
+    {
+      "name": "Visten hurtigbåtkai",
+      "latitude": 65.651349,
+      "longitude": 12.642821
+    },
+    {
+      "name": "Visthus hurtigbåtkai",
+      "latitude": 65.717316,
+      "longitude": 12.60428
+    },
+    {
+      "name": "Vokkøy hurtigbåtkai",
+      "latitude": 67.429203,
+      "longitude": 13.981084
+    },
+    {
+      "name": "Voksa",
+      "latitude": 62.21522,
+      "longitude": 5.474986
+    },
+    {
+      "name": "Volda ferjekai",
+      "latitude": 62.144724,
+      "longitude": 6.063689
+    },
+    {
+      "name": "Vollen",
+      "latitude": 59.807434,
+      "longitude": 10.489451
+    },
+    {
+      "name": "Vollevik kai",
+      "latitude": 61.084176,
+      "longitude": 6.315128
+    },
+    {
+      "name": "Vormestrand hurtigbåtkai",
+      "latitude": 59.416895,
+      "longitude": 5.920298
+    },
+    {
+      "name": "Vorterøy",
+      "latitude": 69.973501,
+      "longitude": 20.667338
+    },
+    {
+      "name": "Våg hurtigbåtkai",
+      "latitude": 67.12301,
+      "longitude": 14.045845
+    },
+    {
+      "name": "Vågaholmen hurtigbåtkai",
+      "latitude": 66.710302,
+      "longitude": 13.28022
+    },
+    {
+      "name": "Våge ferjekai",
+      "latitude": 60.04682,
+      "longitude": 5.524267
+    },
+    {
+      "name": "Våge hurtigbåtkai",
+      "latitude": 60.046411,
+      "longitude": 5.524179
+    },
+    {
+      "name": "Vågsodden ferjekai",
+      "latitude": 65.721698,
+      "longitude": 12.451381
+    },
+    {
+      "name": "Vågsodden hurtigbåtkai",
+      "latitude": 65.721802,
+      "longitude": 12.450998
+    },
+    {
+      "name": "Værlandet",
+      "latitude": 61.304025,
+      "longitude": 4.740081
+    },
+    {
+      "name": "Værnes",
+      "latitude": 63.580704,
+      "longitude": 9.509568
+    },
+    {
+      "name": "Værste",
+      "latitude": 59.214111,
+      "longitude": 10.929979
+    },
+    {
+      "name": "Værøy",
+      "latitude": 67.652648,
+      "longitude": 12.711015
+    },
+    {
+      "name": "Ylvingen ferjekai",
+      "latitude": 65.644555,
+      "longitude": 12.173687
+    },
+    {
+      "name": "Ylvingen hurtigbåtkai",
+      "latitude": 65.638163,
+      "longitude": 12.159359
+    },
+    {
+      "name": "Ådnøy ferjekai",
+      "latitude": 58.91754,
+      "longitude": 5.989979
+    },
+    {
+      "name": "Åfarnes ferjekai",
+      "latitude": 62.663895,
+      "longitude": 7.505058
+    },
+    {
+      "name": "Ågskaret",
+      "latitude": 66.720166,
+      "longitude": 13.476295
+    },
+    {
+      "name": "Ålekilene",
+      "latitude": 59.2072,
+      "longitude": 10.894739
+    },
+    {
+      "name": "Ålesund",
+      "latitude": 62.475646,
+      "longitude": 6.152676
+    },
+    {
+      "name": "Ålesund Skanskekaia",
+      "latitude": 62.474793,
+      "longitude": 6.153443
+    },
+    {
+      "name": "Ålesund hurtigbåtkai Langevåg",
+      "latitude": 62.470037,
+      "longitude": 6.154538
+    },
+    {
+      "name": "Ålesund hurtigbåtkai Skateflukaia",
+      "latitude": 62.474553,
+      "longitude": 6.154194
+    },
+    {
+      "name": "Ålvora",
+      "latitude": 61.574872,
+      "longitude": 5.152557
+    },
+    {
+      "name": "Ånderkleiva kai",
+      "latitude": 68.921407,
+      "longitude": 17.145825
+    },
+    {
+      "name": "Ånnøy",
+      "latitude": 61.595369,
+      "longitude": 4.925173
+    },
+    {
+      "name": "Åram",
+      "latitude": 62.198308,
+      "longitude": 5.495968
+    },
+    {
+      "name": "Årsnes",
+      "latitude": 60.054374,
+      "longitude": 6.020031
+    },
+    {
+      "name": "Årvika",
+      "latitude": 62.191383,
+      "longitude": 5.634734
+    },
+    {
+      "name": "Åsvik brygge",
+      "latitude": 58.859239,
+      "longitude": 9.573688
+    },
+    {
+      "name": "Øksfjord ferjekai",
+      "latitude": 70.233214,
+      "longitude": 22.35762
+    },
+    {
+      "name": "Øksfjord hurtigbåtkai",
+      "latitude": 70.238493,
+      "longitude": 22.347753
+    },
+    {
+      "name": "Øksfjord trafikkai - for hurtigrute",
+      "latitude": 70.237888,
+      "longitude": 22.34925
+    },
+    {
+      "name": "Øksnes hurtigbåtkai",
+      "latitude": 68.877486,
+      "longitude": 14.974652
+    },
+    {
+      "name": "Øksningøy hurtigbåtkai",
+      "latitude": 65.114944,
+      "longitude": 12.389924
+    },
+    {
+      "name": "Ølen",
+      "latitude": 59.606241,
+      "longitude": 5.807144
+    },
+    {
+      "name": "Ølesund hurtigbåtkai",
+      "latitude": 59.223578,
+      "longitude": 6.101094
+    },
+    {
+      "name": "Ølhammeren",
+      "latitude": 64.636413,
+      "longitude": 11.360213
+    },
+    {
+      "name": "Ørnes ferjekai",
+      "latitude": 66.867471,
+      "longitude": 13.703971
+    },
+    {
+      "name": "Ørnes hurtigbåtkai",
+      "latitude": 66.868571,
+      "longitude": 13.702076
+    },
+    {
+      "name": "Ørnes kystrutekai",
+      "latitude": 66.869003,
+      "longitude": 13.703041
+    },
+    {
+      "name": "Østhusvik hurtigbåtkai",
+      "latitude": 59.091387,
+      "longitude": 5.779164
+    },
+    {
+      "name": "Østre Bolæren, Hovedkai",
+      "latitude": 59.20098,
+      "longitude": 10.568553
+    },
+    {
+      "name": "Østre Bolæren, Kongshavnsund",
+      "latitude": 59.208091,
+      "longitude": 10.56198
+    },
+    {
+      "name": "Øyen hurtigbåtkai",
+      "latitude": 65.11718,
+      "longitude": 12.42025
+    },
+    {
+      "name": "Øynes",
+      "latitude": 67.074952,
+      "longitude": 14.525236
+    },
+    {
+      "name": "Øysang",
+      "latitude": 58.751156,
+      "longitude": 9.259441
+    }
+  ],
+  "meta": {
+    "title": "Named ferry terminals in Norway - Gratis nedlasting",
+    "description": "Named ferry terminals in Norway, derived from OpenStreetMap POI nodes tagged amenity=ferry_terminal in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 1081 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named ferry terminals in Norway | ListBase",
+    "seo_description": "Last ned Named ferry terminals in Norway — 1081 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 1081 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

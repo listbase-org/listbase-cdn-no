@@ -1,0 +1,491 @@
+{
+  "id": "no-moteller",
+  "name": "Motels in Norway",
+  "title": "Motels in Norway",
+  "description": "Motels in Norway (Moteller i Norge), derived from OpenStreetMap POIs tagged tourism=motel. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "33",
+      "latitude": 58.01926,
+      "longitude": 7.440882
+    },
+    {
+      "name": "39",
+      "latitude": 58.019065,
+      "longitude": 7.440743
+    },
+    {
+      "name": "40",
+      "latitude": 58.019171,
+      "longitude": 7.440405
+    },
+    {
+      "name": "Aasheim Rorbuer",
+      "latitude": 59.79486,
+      "longitude": 5.264551
+    },
+    {
+      "name": "AkerTun Innkvartering",
+      "latitude": 63.79286,
+      "longitude": 11.443673
+    },
+    {
+      "name": "Aldersund Motell & Camping",
+      "latitude": 66.386008,
+      "longitude": 13.112475
+    },
+    {
+      "name": "Bellevue Bed & Breakfast",
+      "latitude": 60.809662,
+      "longitude": 11.057722
+    },
+    {
+      "name": "Bimbo Kro og Motell",
+      "latitude": 66.325423,
+      "longitude": 14.196704
+    },
+    {
+      "name": "Bjørkheim Kro & Motell",
+      "latitude": 60.402285,
+      "longitude": 5.728959
+    },
+    {
+      "name": "Boligutleie Bedder.no",
+      "latitude": 60.137621,
+      "longitude": 11.10772
+    },
+    {
+      "name": "Botn Skysstasjon",
+      "latitude": 59.769523,
+      "longitude": 7.410207
+    },
+    {
+      "name": "Brønnøysund overnatting",
+      "latitude": 65.46563,
+      "longitude": 12.201562
+    },
+    {
+      "name": "Campotel Fauske",
+      "latitude": 67.24554,
+      "longitude": 15.3364
+    },
+    {
+      "name": "Centrum Overnatting",
+      "latitude": 70.074634,
+      "longitude": 29.752083
+    },
+    {
+      "name": "Corner hotell",
+      "latitude": 65.474375,
+      "longitude": 12.211792
+    },
+    {
+      "name": "Den Hvite Rein",
+      "latitude": 69.472646,
+      "longitude": 25.498537
+    },
+    {
+      "name": "Dokka Motell",
+      "latitude": 60.834981,
+      "longitude": 10.074117
+    },
+    {
+      "name": "Dombåstun motel",
+      "latitude": 62.073922,
+      "longitude": 9.11861
+    },
+    {
+      "name": "Dovre motell",
+      "latitude": 62.012973,
+      "longitude": 9.206135
+    },
+    {
+      "name": "DS Ekspidisjonen",
+      "latitude": 61.364939,
+      "longitude": 5.398283
+    },
+    {
+      "name": "Evje Park Apartments",
+      "latitude": 58.578946,
+      "longitude": 7.787866
+    },
+    {
+      "name": "Fabel Motell",
+      "latitude": 61.363753,
+      "longitude": 5.3994
+    },
+    {
+      "name": "Finnskogen kro og motell",
+      "latitude": 60.417782,
+      "longitude": 12.401822
+    },
+    {
+      "name": "Fleischer's Motell",
+      "latitude": 60.627869,
+      "longitude": 6.405288
+    },
+    {
+      "name": "Fossegården motel",
+      "latitude": 61.221456,
+      "longitude": 10.446172
+    },
+    {
+      "name": "Frich's Alvdal",
+      "latitude": 62.114234,
+      "longitude": 10.617081
+    },
+    {
+      "name": "Frich's Motel & Spiseri",
+      "latitude": 62.220916,
+      "longitude": 9.544441
+    },
+    {
+      "name": "Frich’s Motel & Spiseri",
+      "latitude": 60.912175,
+      "longitude": 10.812512
+    },
+    {
+      "name": "Go Rafting Sjoa",
+      "latitude": 61.709292,
+      "longitude": 9.430349
+    },
+    {
+      "name": "Haukeli Hotell & Restaurant",
+      "latitude": 59.735202,
+      "longitude": 7.552891
+    },
+    {
+      "name": "Hemsedal Cafe",
+      "latitude": 60.862723,
+      "longitude": 8.553645
+    },
+    {
+      "name": "Hemsetunet",
+      "latitude": 60.863527,
+      "longitude": 8.550812
+    },
+    {
+      "name": "Hjelle motell",
+      "latitude": 61.914602,
+      "longitude": 7.111608
+    },
+    {
+      "name": "Holms - Motell, Restaurant og Business Senter",
+      "latitude": 59.105964,
+      "longitude": 10.113109
+    },
+    {
+      "name": "Hula",
+      "latitude": 59.932114,
+      "longitude": 10.948717
+    },
+    {
+      "name": "Hvasser motell",
+      "latitude": 59.080884,
+      "longitude": 10.448492
+    },
+    {
+      "name": "Høland Gaardsmotell",
+      "latitude": 59.801645,
+      "longitude": 11.445595
+    },
+    {
+      "name": "Knapstad motell",
+      "latitude": 59.62087,
+      "longitude": 11.032197
+    },
+    {
+      "name": "Kongsberg Aktivitetspark",
+      "latitude": 59.597371,
+      "longitude": 9.664571
+    },
+    {
+      "name": "Krøderen Kro & Motell",
+      "latitude": 60.166094,
+      "longitude": 9.705979
+    },
+    {
+      "name": "Kvål gjesteheim",
+      "latitude": 63.229619,
+      "longitude": 10.282593
+    },
+    {
+      "name": "Langenuen Motell & Camping",
+      "latitude": 59.900682,
+      "longitude": 5.508436
+    },
+    {
+      "name": "Laura",
+      "latitude": 62.906623,
+      "longitude": 6.905401
+    },
+    {
+      "name": "Lura Turistheim",
+      "latitude": 58.872408,
+      "longitude": 5.736032
+    },
+    {
+      "name": "Mefjord brygge",
+      "latitude": 69.519129,
+      "longitude": 17.439046
+    },
+    {
+      "name": "Melhus motell",
+      "latitude": 63.263856,
+      "longitude": 10.288827
+    },
+    {
+      "name": "Motell Holms Lier Sør",
+      "latitude": 59.766082,
+      "longitude": 10.258699
+    },
+    {
+      "name": "Motell Nor Kro",
+      "latitude": 60.487974,
+      "longitude": 9.191315
+    },
+    {
+      "name": "Motell Svinesundparken",
+      "latitude": 59.129171,
+      "longitude": 11.272197
+    },
+    {
+      "name": "Myklegard Motel",
+      "latitude": 60.849453,
+      "longitude": 11.366831
+    },
+    {
+      "name": "Namsskogan hotell",
+      "latitude": 64.742173,
+      "longitude": 12.843209
+    },
+    {
+      "name": "Nordmeland Gårdshotell",
+      "latitude": 64.29088,
+      "longitude": 10.54691
+    },
+    {
+      "name": "Nordskot Brygge",
+      "latitude": 67.835029,
+      "longitude": 14.785956
+    },
+    {
+      "name": "Offersøy Feriesenter",
+      "latitude": 68.309703,
+      "longitude": 15.641428
+    },
+    {
+      "name": "Oppdalsporten",
+      "latitude": 62.656979,
+      "longitude": 9.882097
+    },
+    {
+      "name": "Oslo Airport Motel",
+      "latitude": 60.382721,
+      "longitude": 11.193412
+    },
+    {
+      "name": "Pension",
+      "latitude": 62.783598,
+      "longitude": 6.470703
+    },
+    {
+      "name": "Polar Spot Camp",
+      "latitude": 67.06289,
+      "longitude": 14.257425
+    },
+    {
+      "name": "Porsanger Vertshus",
+      "latitude": 70.051666,
+      "longitude": 24.967818
+    },
+    {
+      "name": "På taket",
+      "latitude": 69.792649,
+      "longitude": 20.93849
+    },
+    {
+      "name": "Rogers Kro",
+      "latitude": 68.097095,
+      "longitude": 16.378394
+    },
+    {
+      "name": "Rosendal Motell",
+      "latitude": 59.982656,
+      "longitude": 6.012906
+    },
+    {
+      "name": "Runde miljøsenter",
+      "latitude": 62.398744,
+      "longitude": 5.660897
+    },
+    {
+      "name": "Rykan Hytteby",
+      "latitude": 59.878743,
+      "longitude": 8.605719
+    },
+    {
+      "name": "Rådhusplassen Overnatting",
+      "latitude": 66.418848,
+      "longitude": 12.84247
+    },
+    {
+      "name": "Sauda Fjord Camping",
+      "latitude": 59.64056,
+      "longitude": 6.309629
+    },
+    {
+      "name": "Selva Kro og Motell",
+      "latitude": 63.614665,
+      "longitude": 9.714011
+    },
+    {
+      "name": "Sentrumsgården Motell",
+      "latitude": 68.085126,
+      "longitude": 15.611399
+    },
+    {
+      "name": "Shellkroa",
+      "latitude": 65.864293,
+      "longitude": 13.193908
+    },
+    {
+      "name": "Skagi Senja Hotel & Lodge",
+      "latitude": 69.445014,
+      "longitude": 17.29835
+    },
+    {
+      "name": "Skaidicenteret",
+      "latitude": 70.431778,
+      "longitude": 24.503811
+    },
+    {
+      "name": "Snåsakroa",
+      "latitude": 64.25369,
+      "longitude": 12.215777
+    },
+    {
+      "name": "Solvang Ferietun",
+      "latitude": 61.174168,
+      "longitude": 6.638098
+    },
+    {
+      "name": "Solvik hytter",
+      "latitude": 59.024165,
+      "longitude": 5.979068
+    },
+    {
+      "name": "Sortland Camping og Motell",
+      "latitude": 68.702745,
+      "longitude": 15.391958
+    },
+    {
+      "name": "Stay hotel Management",
+      "latitude": 69.721261,
+      "longitude": 30.067832
+    },
+    {
+      "name": "Stor-Elvdal hotell",
+      "latitude": 61.57121,
+      "longitude": 11.050272
+    },
+    {
+      "name": "Storebaug hotell & kro",
+      "latitude": 59.42449,
+      "longitude": 10.706188
+    },
+    {
+      "name": "Strandgaten gjestegiveri",
+      "latitude": 59.410008,
+      "longitude": 5.272388
+    },
+    {
+      "name": "Sápmi Motell",
+      "latitude": 69.470368,
+      "longitude": 25.527688
+    },
+    {
+      "name": "Sørkil Fjordcamping",
+      "latitude": 68.13321,
+      "longitude": 15.896222
+    },
+    {
+      "name": "Terrassen Kro og Motell",
+      "latitude": 59.112136,
+      "longitude": 11.27618
+    },
+    {
+      "name": "Torp Hotel",
+      "latitude": 59.17837,
+      "longitude": 10.207539
+    },
+    {
+      "name": "Uvdal Høyfjell og Hyttesenter",
+      "latitude": 60.327179,
+      "longitude": 8.506155
+    },
+    {
+      "name": "Valdresporten Motel",
+      "latitude": 60.585009,
+      "longitude": 9.986074
+    },
+    {
+      "name": "Vardø Motell",
+      "latitude": 70.374588,
+      "longitude": 31.094463
+    },
+    {
+      "name": "Vega kro og motell",
+      "latitude": 65.677301,
+      "longitude": 11.961054
+    },
+    {
+      "name": "Vertshuset Sinclair",
+      "latitude": 61.665846,
+      "longitude": 9.701057
+    },
+    {
+      "name": "Vesterland Feriepark",
+      "latitude": 61.204978,
+      "longitude": 7.199985
+    },
+    {
+      "name": "Vikedal Kro og Motell As",
+      "latitude": 59.498616,
+      "longitude": 5.902565
+    }
+  ],
+  "meta": {
+    "title": "Motels in Norway - Gratis nedlasting",
+    "description": "Motels in Norway (Moteller i Norge), derived from OpenStreetMap POIs tagged tourism=motel. Named features only, clipped to mainland Norway. Inneholder 90 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Motels in Norway | ListBase",
+    "seo_description": "Last ned Motels in Norway — 90 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 90 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

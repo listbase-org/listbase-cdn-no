@@ -1,0 +1,976 @@
+{
+  "id": "no-rasteplasser",
+  "name": "Picnic sites in Norway",
+  "title": "Picnic sites in Norway",
+  "description": "Picnic sites in Norway (Rasteplasser i Norge), derived from OpenStreetMap POIs tagged tourism=picnic_site. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 187,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Badeplass hvamsetra",
+      "latitude": 60.102637,
+      "longitude": 11.318452
+    },
+    {
+      "name": "Badeplass med benk",
+      "latitude": 60.098496,
+      "longitude": 11.320291
+    },
+    {
+      "name": "Ballesvikskaret",
+      "latitude": 69.366279,
+      "longitude": 17.110536
+    },
+    {
+      "name": "Ballfjellet",
+      "latitude": 63.170417,
+      "longitude": 10.470853
+    },
+    {
+      "name": "Bausje",
+      "latitude": 58.09061,
+      "longitude": 6.612444
+    },
+    {
+      "name": "Benkane",
+      "latitude": 62.476793,
+      "longitude": 6.020898
+    },
+    {
+      "name": "Bergsøysundbrua",
+      "latitude": 62.989393,
+      "longitude": 7.882284
+    },
+    {
+      "name": "Bestemor",
+      "latitude": 58.020253,
+      "longitude": 7.448402
+    },
+    {
+      "name": "Bier og Norsk Landbruk",
+      "latitude": 60.740989,
+      "longitude": 10.967201
+    },
+    {
+      "name": "Bjørkåselva rasteplass",
+      "latitude": 65.651134,
+      "longitude": 14.106439
+    },
+    {
+      "name": "Bjørnemarken",
+      "latitude": 60.287921,
+      "longitude": 5.357455
+    },
+    {
+      "name": "Bjøråa",
+      "latitude": 61.667599,
+      "longitude": 10.885118
+    },
+    {
+      "name": "Blåbærskogen",
+      "latitude": 63.391016,
+      "longitude": 10.449444
+    },
+    {
+      "name": "Bokkedalen",
+      "latitude": 60.305785,
+      "longitude": 11.346201
+    },
+    {
+      "name": "Bord",
+      "latitude": 59.931851,
+      "longitude": 10.755298
+    },
+    {
+      "name": "Botnan",
+      "latitude": 58.330815,
+      "longitude": 6.975187
+    },
+    {
+      "name": "Budalsvika",
+      "latitude": 59.052073,
+      "longitude": 11.73723
+    },
+    {
+      "name": "Byasætra",
+      "latitude": 63.429241,
+      "longitude": 10.223433
+    },
+    {
+      "name": "Bålplassen",
+      "latitude": 62.696045,
+      "longitude": 9.142814
+    },
+    {
+      "name": "Bøyaøyri",
+      "latitude": 61.420001,
+      "longitude": 6.753949
+    },
+    {
+      "name": "Camp site",
+      "latitude": 60.822454,
+      "longitude": 9.133201
+    },
+    {
+      "name": "Carl Fredrik Hellevang-Larsens plass",
+      "latitude": 63.052864,
+      "longitude": 7.632366
+    },
+    {
+      "name": "Dampen",
+      "latitude": 63.330335,
+      "longitude": 8.078973
+    },
+    {
+      "name": "Damtjenn",
+      "latitude": 60.101115,
+      "longitude": 12.093191
+    },
+    {
+      "name": "Dreiers minne",
+      "latitude": 63.432959,
+      "longitude": 10.298539
+    },
+    {
+      "name": "Dølihuken",
+      "latitude": 60.251638,
+      "longitude": 10.987526
+    },
+    {
+      "name": "Dørvika",
+      "latitude": 58.948773,
+      "longitude": 6.144238
+    },
+    {
+      "name": "Eafossen",
+      "latitude": 62.859312,
+      "longitude": 11.212821
+    },
+    {
+      "name": "Einarskrakken",
+      "latitude": 60.332104,
+      "longitude": 10.492769
+    },
+    {
+      "name": "Emmerhaugen",
+      "latitude": 62.815661,
+      "longitude": 6.874144
+    },
+    {
+      "name": "Erikkaplassen",
+      "latitude": 63.044976,
+      "longitude": 9.711905
+    },
+    {
+      "name": "Etnedal",
+      "latitude": 60.977235,
+      "longitude": 9.586762
+    },
+    {
+      "name": "Fauskodammen Kulturpark",
+      "latitude": 60.323096,
+      "longitude": 8.812931
+    },
+    {
+      "name": "Fosstemmen",
+      "latitude": 59.286819,
+      "longitude": 6.185267
+    },
+    {
+      "name": "Freidigtunet",
+      "latitude": 69.627961,
+      "longitude": 19.047118
+    },
+    {
+      "name": "Furustrand Recreation Park",
+      "latitude": 61.139924,
+      "longitude": 9.068206
+    },
+    {
+      "name": "Gammelbrua rastplass",
+      "latitude": 62.415411,
+      "longitude": 11.019435
+    },
+    {
+      "name": "Gammelskogen",
+      "latitude": 63.39246,
+      "longitude": 10.456302
+    },
+    {
+      "name": "Gapahuk",
+      "latitude": 64.156653,
+      "longitude": 11.011774
+    },
+    {
+      "name": "Gapahuk i Landåsen",
+      "latitude": 59.779167,
+      "longitude": 5.467288
+    },
+    {
+      "name": "Gapahuken",
+      "latitude": 58.924605,
+      "longitude": 5.871129
+    },
+    {
+      "name": "Gjemnessundbrua",
+      "latitude": 62.975168,
+      "longitude": 7.786501
+    },
+    {
+      "name": "Gjølevatnet",
+      "latitude": 62.428576,
+      "longitude": 6.251295
+    },
+    {
+      "name": "Grill",
+      "latitude": 67.221188,
+      "longitude": 14.615566
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 60.763449,
+      "longitude": 9.175805
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 64.436347,
+      "longitude": 12.36502
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 66.96307,
+      "longitude": 13.824494
+    },
+    {
+      "name": "Grillhytta",
+      "latitude": 71.029974,
+      "longitude": 27.871243
+    },
+    {
+      "name": "Grillområde",
+      "latitude": 59.89054,
+      "longitude": 10.633818
+    },
+    {
+      "name": "Grindavatnet",
+      "latitude": 58.896293,
+      "longitude": 5.873479
+    },
+    {
+      "name": "Grythuken",
+      "latitude": 62.706058,
+      "longitude": 9.78409
+    },
+    {
+      "name": "Gylland",
+      "latitude": 63.092386,
+      "longitude": 10.245535
+    },
+    {
+      "name": "Halvkvila",
+      "latitude": 60.286084,
+      "longitude": 5.368408
+    },
+    {
+      "name": "Hansbakkfjæra",
+      "latitude": 63.431345,
+      "longitude": 10.545896
+    },
+    {
+      "name": "Haraldsvangen",
+      "latitude": 61.130927,
+      "longitude": 10.869892
+    },
+    {
+      "name": "Havfrua",
+      "latitude": 63.781836,
+      "longitude": 11.43804
+    },
+    {
+      "name": "Heisetra",
+      "latitude": 59.271746,
+      "longitude": 10.015057
+    },
+    {
+      "name": "Heksagon",
+      "latitude": 62.586742,
+      "longitude": 9.343619
+    },
+    {
+      "name": "Hellern",
+      "latitude": 66.493334,
+      "longitude": 13.344289
+    },
+    {
+      "name": "Hjarthola",
+      "latitude": 63.061984,
+      "longitude": 7.837411
+    },
+    {
+      "name": "Hola",
+      "latitude": 62.994808,
+      "longitude": 7.166297
+    },
+    {
+      "name": "Holemark",
+      "latitude": 60.645177,
+      "longitude": 6.057295
+    },
+    {
+      "name": "Holstvollen",
+      "latitude": 63.446939,
+      "longitude": 10.279893
+    },
+    {
+      "name": "Hunsrasta",
+      "latitude": 61.427867,
+      "longitude": 5.846798
+    },
+    {
+      "name": "Huskebråtan",
+      "latitude": 60.314677,
+      "longitude": 11.264145
+    },
+    {
+      "name": "Hvamsetra",
+      "latitude": 60.096814,
+      "longitude": 11.321495
+    },
+    {
+      "name": "Hålandsvannet Håland",
+      "latitude": 58.977178,
+      "longitude": 5.630098
+    },
+    {
+      "name": "Hålandsvannet Leikvoll",
+      "latitude": 58.976182,
+      "longitude": 5.639263
+    },
+    {
+      "name": "Håndbåggåkleiva",
+      "latitude": 63.428743,
+      "longitude": 11.041536
+    },
+    {
+      "name": "Høgåsen",
+      "latitude": 59.724757,
+      "longitude": 10.35022
+    },
+    {
+      "name": "Indianerplassen",
+      "latitude": 63.393069,
+      "longitude": 10.451417
+    },
+    {
+      "name": "Indre Gyarhavn",
+      "latitude": 58.467303,
+      "longitude": 5.883911
+    },
+    {
+      "name": "Juditslund",
+      "latitude": 60.290307,
+      "longitude": 5.371299
+    },
+    {
+      "name": "Jærmannsburet",
+      "latitude": 62.818581,
+      "longitude": 6.932855
+    },
+    {
+      "name": "K4 Camp Patrol dyvision",
+      "latitude": 60.190247,
+      "longitude": 11.216346
+    },
+    {
+      "name": "Kilen",
+      "latitude": 58.269713,
+      "longitude": 6.471728
+    },
+    {
+      "name": "Kletten",
+      "latitude": 60.289926,
+      "longitude": 5.359259
+    },
+    {
+      "name": "Klungersvik",
+      "latitude": 59.408964,
+      "longitude": 5.234206
+    },
+    {
+      "name": "kommodeskuffa",
+      "latitude": 57.980604,
+      "longitude": 7.5368
+    },
+    {
+      "name": "Kosevika friområde",
+      "latitude": 58.075984,
+      "longitude": 7.847044
+    },
+    {
+      "name": "Kotvika",
+      "latitude": 65.689719,
+      "longitude": 14.384271
+    },
+    {
+      "name": "Krigsvollbekken",
+      "latitude": 62.738987,
+      "longitude": 10.655917
+    },
+    {
+      "name": "Krokatbekkbue",
+      "latitude": 61.854144,
+      "longitude": 9.762883
+    },
+    {
+      "name": "Krokodilleskogen",
+      "latitude": 63.395948,
+      "longitude": 10.44937
+    },
+    {
+      "name": "Krokåttbekken",
+      "latitude": 63.374595,
+      "longitude": 10.82046
+    },
+    {
+      "name": "Kubbetjørn",
+      "latitude": 58.874915,
+      "longitude": 5.793177
+    },
+    {
+      "name": "Kuplassen",
+      "latitude": 63.388655,
+      "longitude": 10.444966
+    },
+    {
+      "name": "Kvannflatløa",
+      "latitude": 62.696775,
+      "longitude": 9.123788
+    },
+    {
+      "name": "Kvennåsen",
+      "latitude": 62.507015,
+      "longitude": 11.2182
+    },
+    {
+      "name": "Kvernbenken",
+      "latitude": 63.116495,
+      "longitude": 7.806183
+    },
+    {
+      "name": "Kvilbekken",
+      "latitude": 63.6424,
+      "longitude": 12.154856
+    },
+    {
+      "name": "Kyststien",
+      "latitude": 62.913698,
+      "longitude": 6.926574
+    },
+    {
+      "name": "Langøy",
+      "latitude": 59.007018,
+      "longitude": 5.769135
+    },
+    {
+      "name": "Lathari",
+      "latitude": 69.982206,
+      "longitude": 23.453596
+    },
+    {
+      "name": "Lauvesetra",
+      "latitude": 59.137891,
+      "longitude": 10.012629
+    },
+    {
+      "name": "Leirsjøen",
+      "latitude": 60.277334,
+      "longitude": 10.818395
+    },
+    {
+      "name": "Lensmannsvangen",
+      "latitude": 60.360411,
+      "longitude": 11.152188
+    },
+    {
+      "name": "Lerøys plass",
+      "latitude": 63.116768,
+      "longitude": 7.797445
+    },
+    {
+      "name": "Litjfossen",
+      "latitude": 62.669286,
+      "longitude": 10.152151
+    },
+    {
+      "name": "Lyngnes",
+      "latitude": 58.807386,
+      "longitude": 7.790337
+    },
+    {
+      "name": "Magrethes Minden",
+      "latitude": 63.597586,
+      "longitude": 8.725892
+    },
+    {
+      "name": "Marahålå",
+      "latitude": 58.921729,
+      "longitude": 5.907079
+    },
+    {
+      "name": "Maryland",
+      "latitude": 59.707529,
+      "longitude": 6.538483
+    },
+    {
+      "name": "Masjørgengruva",
+      "latitude": 60.010746,
+      "longitude": 10.89407
+    },
+    {
+      "name": "Maurplassen",
+      "latitude": 63.391413,
+      "longitude": 10.45205
+    },
+    {
+      "name": "Midtfjordsplassen",
+      "latitude": 58.06424,
+      "longitude": 7.105727
+    },
+    {
+      "name": "Mosaviki",
+      "latitude": 61.294738,
+      "longitude": 7.258239
+    },
+    {
+      "name": "Murane",
+      "latitude": 58.065444,
+      "longitude": 7.994364
+    },
+    {
+      "name": "Mustakoski",
+      "latitude": 69.358391,
+      "longitude": 25.814186
+    },
+    {
+      "name": "Nedre Kongleplassen",
+      "latitude": 63.392249,
+      "longitude": 10.443114
+    },
+    {
+      "name": "Nessmoen",
+      "latitude": 62.949336,
+      "longitude": 10.76277
+    },
+    {
+      "name": "Nodhagen",
+      "latitude": 58.921094,
+      "longitude": 5.9671
+    },
+    {
+      "name": "Nordre Merkeshaugen",
+      "latitude": 60.789608,
+      "longitude": 4.872423
+    },
+    {
+      "name": "Nordtun",
+      "latitude": 63.755221,
+      "longitude": 11.388524
+    },
+    {
+      "name": "Nudiststranja",
+      "latitude": 64.0195,
+      "longitude": 11.357487
+    },
+    {
+      "name": "Ole Einars Plass",
+      "latitude": 59.925982,
+      "longitude": 9.84391
+    },
+    {
+      "name": "Orrabenken",
+      "latitude": 61.207866,
+      "longitude": 6.516557
+    },
+    {
+      "name": "Osterfloten",
+      "latitude": 59.413729,
+      "longitude": 6.117276
+    },
+    {
+      "name": "Paradis",
+      "latitude": 61.332833,
+      "longitude": 10.068544
+    },
+    {
+      "name": "Parkbenker",
+      "latitude": 67.278621,
+      "longitude": 14.397077
+    },
+    {
+      "name": "Picnic site with beach",
+      "latitude": 59.995717,
+      "longitude": 10.043615
+    },
+    {
+      "name": "Picnic table",
+      "latitude": 60.811019,
+      "longitude": 10.625422
+    },
+    {
+      "name": "picnic_table",
+      "latitude": 59.840416,
+      "longitude": 10.384051
+    },
+    {
+      "name": "Piknikplen",
+      "latitude": 59.919365,
+      "longitude": 10.770056
+    },
+    {
+      "name": "Prinsesseskogen",
+      "latitude": 63.395423,
+      "longitude": 10.451895
+    },
+    {
+      "name": "Ramnfløya",
+      "latitude": 68.793933,
+      "longitude": 16.572111
+    },
+    {
+      "name": "Randsetfjellet",
+      "latitude": 62.631158,
+      "longitude": 7.440194
+    },
+    {
+      "name": "Rasmusplassen",
+      "latitude": 59.427028,
+      "longitude": 5.311822
+    },
+    {
+      "name": "Rasteplass",
+      "latitude": 59.04219,
+      "longitude": 10.964843
+    },
+    {
+      "name": "Rasteplass",
+      "latitude": 63.709398,
+      "longitude": 9.720866
+    },
+    {
+      "name": "rastplats",
+      "latitude": 63.750484,
+      "longitude": 11.689754
+    },
+    {
+      "name": "Ridderhaugane",
+      "latitude": 62.839842,
+      "longitude": 6.920832
+    },
+    {
+      "name": "Ridderhaugane",
+      "latitude": 62.841992,
+      "longitude": 6.917794
+    },
+    {
+      "name": "Ridderhaugane",
+      "latitude": 62.845633,
+      "longitude": 6.913983
+    },
+    {
+      "name": "Ridderhaugane",
+      "latitude": 62.846973,
+      "longitude": 6.911701
+    },
+    {
+      "name": "Rostad Kaia",
+      "latitude": 63.841065,
+      "longitude": 11.149276
+    },
+    {
+      "name": "Ruseberget",
+      "latitude": 59.467176,
+      "longitude": 10.357648
+    },
+    {
+      "name": "Rødstøl's Plass",
+      "latitude": 62.618374,
+      "longitude": 6.669267
+    },
+    {
+      "name": "Sekkeviken",
+      "latitude": 60.288128,
+      "longitude": 5.361965
+    },
+    {
+      "name": "Setsdemma",
+      "latitude": 62.632259,
+      "longitude": 6.185934
+    },
+    {
+      "name": "Sjonglør",
+      "latitude": 63.445359,
+      "longitude": 10.440523
+    },
+    {
+      "name": "Sjøbadet",
+      "latitude": 58.864682,
+      "longitude": 5.754715
+    },
+    {
+      "name": "Skadbergvågen",
+      "latitude": 58.470919,
+      "longitude": 5.913745
+    },
+    {
+      "name": "Skadbergvågen Øst",
+      "latitude": 58.47051,
+      "longitude": 5.915314
+    },
+    {
+      "name": "Skjephaugen",
+      "latitude": 59.775717,
+      "longitude": 5.454965
+    },
+    {
+      "name": "Skjærgårdsparken Lister, Haugelandstrand",
+      "latitude": 58.249204,
+      "longitude": 6.787418
+    },
+    {
+      "name": "Skjærgårdsparken Lister, Tangen",
+      "latitude": 58.228985,
+      "longitude": 6.766814
+    },
+    {
+      "name": "Skjærgårdsparken Paradisbukta",
+      "latitude": 58.076905,
+      "longitude": 6.819912
+    },
+    {
+      "name": "Skulestranda",
+      "latitude": 62.904472,
+      "longitude": 6.919488
+    },
+    {
+      "name": "Slådalsvegen",
+      "latitude": 61.935684,
+      "longitude": 9.002363
+    },
+    {
+      "name": "Smilehålå",
+      "latitude": 58.917866,
+      "longitude": 5.511293
+    },
+    {
+      "name": "Sofienbergparken",
+      "latitude": 59.923136,
+      "longitude": 10.762936
+    },
+    {
+      "name": "Speiderhytta Uppåsen",
+      "latitude": 59.588111,
+      "longitude": 9.208779
+    },
+    {
+      "name": "Steinberget",
+      "latitude": 58.915964,
+      "longitude": 5.867091
+    },
+    {
+      "name": "Steinbord",
+      "latitude": 59.873181,
+      "longitude": 6.653651
+    },
+    {
+      "name": "Stone Table and Benches",
+      "latitude": 64.004283,
+      "longitude": 12.156755
+    },
+    {
+      "name": "Storsteinen",
+      "latitude": 63.38777,
+      "longitude": 10.44355
+    },
+    {
+      "name": "Storvika",
+      "latitude": 66.960654,
+      "longitude": 13.803098
+    },
+    {
+      "name": "Straumsdalen",
+      "latitude": 62.309591,
+      "longitude": 6.673272
+    },
+    {
+      "name": "Stuekaien",
+      "latitude": 60.287694,
+      "longitude": 5.358407
+    },
+    {
+      "name": "Stuperen",
+      "latitude": 60.288356,
+      "longitude": 5.361012
+    },
+    {
+      "name": "Svalåsen rasteplass",
+      "latitude": 61.984848,
+      "longitude": 11.7388
+    },
+    {
+      "name": "Synnerdalen",
+      "latitude": 62.715669,
+      "longitude": 10.722269
+    },
+    {
+      "name": "Tanken",
+      "latitude": 59.006369,
+      "longitude": 5.768461
+    },
+    {
+      "name": "Tessungdalen",
+      "latitude": 60.107486,
+      "longitude": 8.740176
+    },
+    {
+      "name": "Tolvstein syd",
+      "latitude": 60.109965,
+      "longitude": 11.33428
+    },
+    {
+      "name": "Tomterdalen Jernstøperi",
+      "latitude": 59.654951,
+      "longitude": 11.002819
+    },
+    {
+      "name": "Tussebo",
+      "latitude": 61.208219,
+      "longitude": 9.163074
+    },
+    {
+      "name": "Tvedestrand",
+      "latitude": 58.626501,
+      "longitude": 8.924599
+    },
+    {
+      "name": "Utebadet Drammensbadet",
+      "latitude": 59.735491,
+      "longitude": 10.19943
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 60.722506,
+      "longitude": 10.558851
+    },
+    {
+      "name": "Utsikten",
+      "latitude": 63.391717,
+      "longitude": 10.448084
+    },
+    {
+      "name": "Valtjern Kiosk",
+      "latitude": 60.944925,
+      "longitude": 8.981693
+    },
+    {
+      "name": "Vandringshavn",
+      "latitude": 58.415581,
+      "longitude": 5.979706
+    },
+    {
+      "name": "Vanninga",
+      "latitude": 59.130344,
+      "longitude": 11.488012
+    },
+    {
+      "name": "Varmestue",
+      "latitude": 61.470242,
+      "longitude": 10.137513
+    },
+    {
+      "name": "Vedstubben",
+      "latitude": 63.39221,
+      "longitude": 10.446447
+    },
+    {
+      "name": "Velplassen",
+      "latitude": 59.769434,
+      "longitude": 9.929008
+    },
+    {
+      "name": "Veslbekkbua",
+      "latitude": 62.702905,
+      "longitude": 9.107936
+    },
+    {
+      "name": "Ytre Gyarhavn",
+      "latitude": 58.465931,
+      "longitude": 5.884032
+    },
+    {
+      "name": "§ Havna Rasteplass",
+      "latitude": 59.778161,
+      "longitude": 5.502305
+    },
+    {
+      "name": "Ålgård",
+      "latitude": 58.771014,
+      "longitude": 5.845464
+    },
+    {
+      "name": "Åsenkrakken",
+      "latitude": 60.33333,
+      "longitude": 10.505126
+    },
+    {
+      "name": "Åsveien Borettslag",
+      "latitude": 58.861801,
+      "longitude": 5.758103
+    },
+    {
+      "name": "Øvre Teiatjønna",
+      "latitude": 63.199455,
+      "longitude": 10.505722
+    },
+    {
+      "name": "Øvre Utsikten",
+      "latitude": 63.392403,
+      "longitude": 10.448756
+    },
+    {
+      "name": "Øyangen",
+      "latitude": 63.466931,
+      "longitude": 9.711248
+    }
+  ],
+  "meta": {
+    "title": "Picnic sites in Norway - Gratis nedlasting",
+    "description": "Picnic sites in Norway (Rasteplasser i Norge), derived from OpenStreetMap POIs tagged tourism=picnic_site. Named features only, clipped to mainland Norway. Inneholder 187 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Picnic sites in Norway | ListBase",
+    "seo_description": "Last ned Picnic sites in Norway — 187 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 187 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

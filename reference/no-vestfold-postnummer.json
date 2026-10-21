@@ -1,0 +1,1608 @@
+{
+  "id": "no-vestfold-postnummer",
+  "name": "Postnummer i Vestfold",
+  "title": "Postnummer i Vestfold",
+  "description": "Alle 194 postnummer i Vestfold fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 194,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "3070",
+      "poststed": "Sande i Vestfold",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3071",
+      "poststed": "Sande i Vestfold",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3072",
+      "poststed": "Sande i Vestfold",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3073",
+      "poststed": "Sande i Vestfold",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3074",
+      "poststed": "Sande i Vestfold",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3076",
+      "poststed": "Sande i Vestfold",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3077",
+      "poststed": "Sande i Vestfold",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3080",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3081",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3082",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3083",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3084",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3085",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3086",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3087",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3088",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3089",
+      "poststed": "Holmestrand",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3090",
+      "poststed": "Hof",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3091",
+      "poststed": "Hof",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3092",
+      "poststed": "Sundbyfoss",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3095",
+      "poststed": "Eidsfoss",
+      "kommune_id": "3903",
+      "kommune": "Holmestrand",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3101",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3103",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3104",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3105",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3106",
+      "poststed": "Nøtterøy",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3107",
+      "poststed": "Sem",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3108",
+      "poststed": "Vear",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3109",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3110",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3111",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3112",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3113",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3114",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3115",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3116",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3117",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3118",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3119",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3120",
+      "poststed": "Nøtterøy",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3121",
+      "poststed": "Nøtterøy",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3122",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3123",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3124",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3125",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3126",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3127",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3128",
+      "poststed": "Nøtterøy",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3129",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3131",
+      "poststed": "Husøysund",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3132",
+      "poststed": "Husøysund",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3133",
+      "poststed": "Duken",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3134",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3135",
+      "poststed": "Torød",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3137",
+      "poststed": "Torød",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3138",
+      "poststed": "Skallestad",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3139",
+      "poststed": "Skallestad",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3140",
+      "poststed": "Nøtterøy",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3141",
+      "poststed": "Kjøpmannskjær",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3142",
+      "poststed": "Vestskogen",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3143",
+      "poststed": "Kjøpmannskjær",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3144",
+      "poststed": "Veierland",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3145",
+      "poststed": "Tjøme",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3148",
+      "poststed": "Hvasser",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3150",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3151",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3152",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3153",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3154",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3156",
+      "poststed": "Melsomvik",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3157",
+      "poststed": "Barkåker",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3158",
+      "poststed": "Andebu",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3159",
+      "poststed": "Melsomvik",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3160",
+      "poststed": "Stokke",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3161",
+      "poststed": "Stokke",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3162",
+      "poststed": "Andebu",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3163",
+      "poststed": "Nøtterøy",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3164",
+      "poststed": "Revetal",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3165",
+      "poststed": "Tjøme",
+      "kommune_id": "3911",
+      "kommune": "Færder",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3166",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3167",
+      "poststed": "Åsgårdstrand",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3170",
+      "poststed": "Sem",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3171",
+      "poststed": "Sem",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3172",
+      "poststed": "Vear",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3173",
+      "poststed": "Vear",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3174",
+      "poststed": "Revetal",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3175",
+      "poststed": "Ramnes",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3176",
+      "poststed": "Undrumsdal",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3177",
+      "poststed": "Våle",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3178",
+      "poststed": "Våle",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3179",
+      "poststed": "Åsgårdstrand",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3180",
+      "poststed": "Nykirke",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3181",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3182",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3183",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3184",
+      "poststed": "Borre",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3185",
+      "poststed": "Skoppum",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3186",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3187",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3188",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3189",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3191",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3192",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3193",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3194",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3195",
+      "poststed": "Skoppum",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3196",
+      "poststed": "Horten",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3197",
+      "poststed": "Nykirke",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3199",
+      "poststed": "Borre",
+      "kommune_id": "3901",
+      "kommune": "Horten",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3201",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3202",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3203",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3204",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3205",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3206",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3207",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3208",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3209",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3210",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3211",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3212",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3213",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3214",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3215",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3216",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3217",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3218",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3219",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3220",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3221",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3222",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3223",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3224",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3225",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3226",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3227",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3228",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3229",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3230",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3231",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3232",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3233",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3234",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3235",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3236",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3237",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3238",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3239",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3240",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3241",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3242",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3243",
+      "poststed": "Kodal",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3244",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3245",
+      "poststed": "Kodal",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3246",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3247",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3248",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3249",
+      "poststed": "Sandefjord",
+      "kommune_id": "3907",
+      "kommune": "Sandefjord",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3251",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3252",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3253",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3254",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3255",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3256",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3257",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3258",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3259",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3260",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3261",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3262",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3263",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3264",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3265",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3267",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3268",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3269",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3270",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3271",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3274",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3275",
+      "poststed": "Svarstad",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3276",
+      "poststed": "Svarstad",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3277",
+      "poststed": "Steinsholt",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3280",
+      "poststed": "Tjodalyng",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3281",
+      "poststed": "Tjodalyng",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3282",
+      "poststed": "Kvelde",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3284",
+      "poststed": "Kvelde",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3285",
+      "poststed": "Larvik",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3290",
+      "poststed": "Stavern",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3291",
+      "poststed": "Stavern",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3292",
+      "poststed": "Stavern",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3294",
+      "poststed": "Stavern",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3295",
+      "poststed": "Helgeroa",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3296",
+      "poststed": "Nevlunghavn",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3297",
+      "poststed": "Helgeroa",
+      "kommune_id": "3909",
+      "kommune": "Larvik",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Vestfold - Gratis nedlasting",
+    "description": "Alle 194 postnummer i Vestfold fylke med poststed og kommune. Inneholder 194 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Vestfold | ListBase",
+    "seo_description": "Last ned Postnummer i Vestfold — 194 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 194 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

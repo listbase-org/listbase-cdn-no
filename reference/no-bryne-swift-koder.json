@@ -1,0 +1,64 @@
+{
+  "id": "no-bryne-swift-koder",
+  "name": "SWIFT/BIC-koder — Bryne",
+  "title": "SWIFT/BIC-koder — Bryne",
+  "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 3 institusjonene som kilden oppgir med byen \"BRYNE\".",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bank": "JAEREN SPAREBANK",
+      "city": "BRYNE",
+      "branch": "",
+      "swift_code": "KLEPNO21"
+    },
+    {
+      "bank": "PARETO PPN AS",
+      "city": "BRYNE",
+      "branch": "",
+      "swift_code": "PAPNNO21"
+    },
+    {
+      "bank": "SPAREBANK 1 SR-BANK ASA",
+      "city": "BRYNE",
+      "branch": "",
+      "swift_code": "SPRONO22BNE"
+    }
+  ],
+  "meta": {
+    "title": "SWIFT/BIC-koder — Bryne - Gratis nedlasting",
+    "description": "SWIFT/BIC-koder for banker og finansinstitusjoner i Norge. Hver post angir institusjonens navn, by, eventuelt kontor samt SWIFT/BIC-koden. Kilde: PeterNotenboom/SwiftCodes (MIT). Denne delmengden omfatter de 3 institusjonene som kilden oppgir med byen \"BRYNE\". Inneholder 3 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "SWIFT/BIC-koder — Bryne | ListBase",
+    "seo_description": "Last ned SWIFT/BIC-koder — Bryne — 3 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 3 poster / 4 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

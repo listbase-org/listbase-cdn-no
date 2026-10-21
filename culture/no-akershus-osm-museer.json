@@ -1,0 +1,236 @@
+{
+  "id": "no-akershus-osm-museer",
+  "name": "Museer i Akershus – OpenStreetMap (15 museums in Akershus, OSM)",
+  "title": "Museer i Akershus – OpenStreetMap (15 museums in Akershus, OSM)",
+  "description": "Museer i fylket Akershus fra OpenStreetMap — delmengde av no-osm-museer, 15 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Cementmuseet",
+      "name_en": "",
+      "city": "Slemmestad",
+      "fylke": "Akershus",
+      "naermeste_sted": "Slemmestad",
+      "avstand_km": 0.108,
+      "latitude": 59.781674,
+      "longitude": 10.496998,
+      "website": ""
+    },
+    {
+      "name": "Enebakk bygdetun",
+      "name_en": "",
+      "city": "Kirkebygda",
+      "fylke": "Akershus",
+      "naermeste_sted": "Kirkebygda",
+      "avstand_km": 0.538,
+      "latitude": 59.761146,
+      "longitude": 11.151814,
+      "website": ""
+    },
+    {
+      "name": "Fetsund Lensemuseum",
+      "name_en": "",
+      "city": "Fetsund",
+      "fylke": "Akershus",
+      "naermeste_sted": "Fetsund",
+      "avstand_km": 0.34,
+      "latitude": 59.922025,
+      "longitude": 11.153824,
+      "website": "http://mia.no/fetsundlenser"
+    },
+    {
+      "name": "Follo museum",
+      "name_en": "",
+      "city": "Drøbak",
+      "fylke": "Akershus",
+      "naermeste_sted": "Drøbak",
+      "avstand_km": 1.228,
+      "latitude": 59.672046,
+      "longitude": 10.643039,
+      "website": ""
+    },
+    {
+      "name": "Geologisenteret",
+      "name_en": "",
+      "city": "Slemmestad",
+      "fylke": "Akershus",
+      "naermeste_sted": "Slemmestad",
+      "avstand_km": 0.101,
+      "latitude": 59.781607,
+      "longitude": 10.496917,
+      "website": ""
+    },
+    {
+      "name": "Grenselosmuseet",
+      "name_en": "",
+      "city": "Rømskog",
+      "fylke": "Akershus",
+      "naermeste_sted": "Rømskog",
+      "avstand_km": 16.162,
+      "latitude": 59.891912,
+      "longitude": 11.870976,
+      "website": ""
+    },
+    {
+      "name": "Gullverket museum",
+      "name_en": "",
+      "city": "Eidsvoll",
+      "fylke": "Akershus",
+      "naermeste_sted": "Eidsvoll",
+      "avstand_km": 8.354,
+      "latitude": 60.388894,
+      "longitude": 11.359673,
+      "website": ""
+    },
+    {
+      "name": "Kistefos-Museet,",
+      "name_en": "",
+      "city": "Jevnaker",
+      "fylke": "Akershus",
+      "naermeste_sted": "Jevnaker",
+      "avstand_km": 2.178,
+      "latitude": 60.222297,
+      "longitude": 10.369385,
+      "website": ""
+    },
+    {
+      "name": "Kunstsalen",
+      "name_en": "",
+      "city": "Kjenn",
+      "fylke": "Akershus",
+      "naermeste_sted": "Kjenn",
+      "avstand_km": 0.583,
+      "latitude": 59.927985,
+      "longitude": 10.96225,
+      "website": ""
+    },
+    {
+      "name": "Lommedalsbanen",
+      "name_en": "",
+      "city": "Skui",
+      "fylke": "Akershus",
+      "naermeste_sted": "Smestad",
+      "avstand_km": 6.091,
+      "latitude": 59.981917,
+      "longitude": 10.483696,
+      "website": ""
+    },
+    {
+      "name": "Mjøssamlingene",
+      "name_en": "",
+      "city": "Eidsvoll",
+      "fylke": "Akershus",
+      "naermeste_sted": "Eidsvoll",
+      "avstand_km": 7.477,
+      "latitude": 60.396832,
+      "longitude": 11.233962,
+      "website": "http://www.mjossamlingene.no/"
+    },
+    {
+      "name": "SAS museet",
+      "name_en": "",
+      "city": "Teigebyen",
+      "fylke": "Akershus",
+      "naermeste_sted": "Teigebyen",
+      "avstand_km": 3.789,
+      "latitude": 60.202262,
+      "longitude": 11.075273,
+      "website": ""
+    },
+    {
+      "name": "Selvikvillaen",
+      "name_en": "",
+      "city": "Slemmestad",
+      "fylke": "Akershus",
+      "naermeste_sted": "Blakstad",
+      "avstand_km": 2.073,
+      "latitude": 59.806744,
+      "longitude": 10.492271,
+      "website": ""
+    },
+    {
+      "name": "Strandsitterhuset",
+      "name_en": "",
+      "city": "Billingstad",
+      "fylke": "Akershus",
+      "naermeste_sted": "Blakstad",
+      "avstand_km": 3.476,
+      "latitude": 59.839581,
+      "longitude": 10.511494,
+      "website": ""
+    },
+    {
+      "name": "Urskog fort",
+      "name_en": "",
+      "city": "Bjørkelangen",
+      "fylke": "Akershus",
+      "naermeste_sted": "Aursmoen",
+      "avstand_km": 5.432,
+      "latitude": 59.934077,
+      "longitude": 11.539443,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Akershus – OpenStreetMap (15 museums in Akershus, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Akershus fra OpenStreetMap — delmengde av no-osm-museer, 15 poster. Inneholder 15 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Akershus – OpenStreetMap (15 museums in Akershus, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Akershus – OpenStreetMap (15 museums in Akershus, OSM) — 15 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 15 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

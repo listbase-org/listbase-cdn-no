@@ -1,0 +1,196 @@
+{
+  "id": "no-maaleenheter-area",
+  "name": "Maaleenheter: area (13)",
+  "title": "Maaleenheter: area (13)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'area'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "area-acre",
+      "kategori": "area",
+      "navn": "acre",
+      "moenster_en": "{0} acre",
+      "moenster_flere": "{0} acre",
+      "kort_moenster": "{0} ac",
+      "smal_moenster": "{0} ac"
+    },
+    {
+      "id": 2,
+      "unit_code": "area-bu-jp",
+      "kategori": "area",
+      "navn": "bu [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} bu [JP]",
+      "kort_moenster": "{0} bu [JP]",
+      "smal_moenster": "{0} bu [JP]"
+    },
+    {
+      "id": 3,
+      "unit_code": "area-cho",
+      "kategori": "area",
+      "navn": "cho [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} cho [JP]",
+      "kort_moenster": "{0} cho [JP]",
+      "smal_moenster": "{0} cho [JP]"
+    },
+    {
+      "id": 4,
+      "unit_code": "area-dunam",
+      "kategori": "area",
+      "navn": "dunam",
+      "moenster_en": "",
+      "moenster_flere": "{0} dunam",
+      "kort_moenster": "{0} dunam",
+      "smal_moenster": "{0} dunam"
+    },
+    {
+      "id": 5,
+      "unit_code": "area-hectare",
+      "kategori": "area",
+      "navn": "hektar",
+      "moenster_en": "{0} hektar",
+      "moenster_flere": "{0} hektar",
+      "kort_moenster": "{0} ha",
+      "smal_moenster": "{0}ha"
+    },
+    {
+      "id": 6,
+      "unit_code": "area-se-jp",
+      "kategori": "area",
+      "navn": "se [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} se [JP]",
+      "kort_moenster": "{0} se [JP]",
+      "smal_moenster": "{0} se [JP]"
+    },
+    {
+      "id": 7,
+      "unit_code": "area-square-centimeter",
+      "kategori": "area",
+      "navn": "kvadratcentimeter",
+      "moenster_en": "{0} kvadratcentimeter",
+      "moenster_flere": "{0} kvadratcentimeter",
+      "kort_moenster": "{0} cm²",
+      "smal_moenster": "{0}cm²"
+    },
+    {
+      "id": 8,
+      "unit_code": "area-square-foot",
+      "kategori": "area",
+      "navn": "kvadratfot",
+      "moenster_en": "{0} kvadratfot",
+      "moenster_flere": "{0} kvadratfot",
+      "kort_moenster": "{0} fot²",
+      "smal_moenster": "{0}fot²"
+    },
+    {
+      "id": 9,
+      "unit_code": "area-square-inch",
+      "kategori": "area",
+      "navn": "kvadrattommer",
+      "moenster_en": "{0} kvadrattomme",
+      "moenster_flere": "{0} kvadrattommer",
+      "kort_moenster": "{0} tommer²",
+      "smal_moenster": "{0} in²"
+    },
+    {
+      "id": 10,
+      "unit_code": "area-square-kilometer",
+      "kategori": "area",
+      "navn": "kvadratkilometer",
+      "moenster_en": "{0} kvadratkilometer",
+      "moenster_flere": "{0} kvadratkilometer",
+      "kort_moenster": "{0} km²",
+      "smal_moenster": "{0}km²"
+    },
+    {
+      "id": 11,
+      "unit_code": "area-square-meter",
+      "kategori": "area",
+      "navn": "kvadratmeter",
+      "moenster_en": "{0} kvadratmeter",
+      "moenster_flere": "{0} kvadratmeter",
+      "kort_moenster": "{0} m²",
+      "smal_moenster": "{0}m²"
+    },
+    {
+      "id": 12,
+      "unit_code": "area-square-mile",
+      "kategori": "area",
+      "navn": "kvadratmile",
+      "moenster_en": "{0} kvadratmile",
+      "moenster_flere": "{0} kvadratmile",
+      "kort_moenster": "{0} miles²",
+      "smal_moenster": "{0}mi²"
+    },
+    {
+      "id": 13,
+      "unit_code": "area-square-yard",
+      "kategori": "area",
+      "navn": "kvadratyard",
+      "moenster_en": "{0} kvadratyard",
+      "moenster_flere": "{0} kvadratyard",
+      "kort_moenster": "{0} yd²",
+      "smal_moenster": "{0} yd²"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: area (13) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'area'. Inneholder 13 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: area (13) | ListBase",
+    "seo_description": "Last ned Maaleenheter: area (13) — 13 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 13 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

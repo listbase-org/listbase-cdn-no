@@ -1,0 +1,5846 @@
+{
+  "id": "no-osm-tourism-museum",
+  "name": "Named museums in Norway",
+  "title": "Named museums in Norway",
+  "description": "Named museums in Norway, derived from OpenStreetMap POI nodes tagged tourism=museum in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1161,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Brødrene af Sand\"",
+      "latitude": 59.485016,
+      "longitude": 6.247774
+    },
+    {
+      "name": "22. juli-senteret",
+      "latitude": 59.915948,
+      "longitude": 10.74274
+    },
+    {
+      "name": "Aamodtgården",
+      "latitude": 60.197832,
+      "longitude": 12.010404
+    },
+    {
+      "name": "AbelSenteret i Gjerstad",
+      "latitude": 58.823193,
+      "longitude": 9.073497
+    },
+    {
+      "name": "Adolfkanon",
+      "latitude": 68.834167,
+      "longitude": 16.584152
+    },
+    {
+      "name": "Agatunet",
+      "latitude": 60.300236,
+      "longitude": 6.602567
+    },
+    {
+      "name": "Aker Stord industrimuseum",
+      "latitude": 59.766339,
+      "longitude": 5.496557
+    },
+    {
+      "name": "Allmannajuvet",
+      "latitude": 59.652611,
+      "longitude": 6.468582
+    },
+    {
+      "name": "Alta Museum Verdensarvsenter for bergkunst",
+      "latitude": 69.947393,
+      "longitude": 23.186298
+    },
+    {
+      "name": "Aluminiummuseet",
+      "latitude": 59.487318,
+      "longitude": 10.319925
+    },
+    {
+      "name": "Alvøen hovedbygning",
+      "latitude": 60.352293,
+      "longitude": 5.19026
+    },
+    {
+      "name": "Amtskontoret",
+      "latitude": 61.186413,
+      "longitude": 6.836361
+    },
+    {
+      "name": "Anders Svor museum",
+      "latitude": 61.965229,
+      "longitude": 6.523486
+    },
+    {
+      "name": "Andersgrotta",
+      "latitude": 69.726932,
+      "longitude": 30.0496
+    },
+    {
+      "name": "Andreas Bøe-samlinga",
+      "latitude": 58.736623,
+      "longitude": 5.64193
+    },
+    {
+      "name": "Andøymuseet",
+      "latitude": 69.323274,
+      "longitude": 16.117265
+    },
+    {
+      "name": "Angelstad gård (Østre Angelstad)",
+      "latitude": 58.646362,
+      "longitude": 8.921736
+    },
+    {
+      "name": "Apartment No 9",
+      "latitude": 58.097997,
+      "longitude": 6.693154
+    },
+    {
+      "name": "Arbeidermuseet",
+      "latitude": 59.930892,
+      "longitude": 10.75576
+    },
+    {
+      "name": "Arkeologisk museum",
+      "latitude": 58.96337,
+      "longitude": 5.730129
+    },
+    {
+      "name": "Arquebus krigshistorisk museum",
+      "latitude": 59.423284,
+      "longitude": 5.383498
+    },
+    {
+      "name": "Arran Lulesamisk senter / Árran Julevsáme guovdásj",
+      "latitude": 68.04785,
+      "longitude": 16.082965
+    },
+    {
+      "name": "Asker museum",
+      "latitude": 59.85295,
+      "longitude": 10.454638
+    },
+    {
+      "name": "Askim museum",
+      "latitude": 59.591572,
+      "longitude": 11.174993
+    },
+    {
+      "name": "Astrup Fearnley Museet",
+      "latitude": 59.906925,
+      "longitude": 10.721938
+    },
+    {
+      "name": "Astruptunet",
+      "latitude": 61.511745,
+      "longitude": 6.304456
+    },
+    {
+      "name": "Atlungstad Brenneri",
+      "latitude": 60.75908,
+      "longitude": 11.079722
+    },
+    {
+      "name": "Aukrustsenteret",
+      "latitude": 62.11358,
+      "longitude": 10.621958
+    },
+    {
+      "name": "Aulestad",
+      "latitude": 61.220208,
+      "longitude": 10.271637
+    },
+    {
+      "name": "Auli møllle",
+      "latitude": 60.10998,
+      "longitude": 11.549592
+    },
+    {
+      "name": "Aur prestegård",
+      "latitude": 59.926196,
+      "longitude": 11.451766
+    },
+    {
+      "name": "Aursfjordsaga",
+      "latitude": 69.279612,
+      "longitude": 18.716475
+    },
+    {
+      "name": "Aurskog-Høland bygdetun",
+      "latitude": 59.723081,
+      "longitude": 11.452415
+    },
+    {
+      "name": "Austad gård",
+      "latitude": 59.729988,
+      "longitude": 10.205809
+    },
+    {
+      "name": "Austmarka bygdetun",
+      "latitude": 60.10394,
+      "longitude": 12.317387
+    },
+    {
+      "name": "Austrumdal gardsmuseum",
+      "latitude": 58.708589,
+      "longitude": 6.325551
+    },
+    {
+      "name": "Austrått Fort",
+      "latitude": 63.70834,
+      "longitude": 9.722044
+    },
+    {
+      "name": "Austråttborgen",
+      "latitude": 63.70392,
+      "longitude": 9.743261
+    },
+    {
+      "name": "Avistegnernes hus",
+      "latitude": 59.663664,
+      "longitude": 10.630896
+    },
+    {
+      "name": "Baadehuset",
+      "latitude": 59.59132,
+      "longitude": 5.157768
+    },
+    {
+      "name": "Baas-saga",
+      "latitude": 58.710031,
+      "longitude": 8.280762
+    },
+    {
+      "name": "Bagn bygdesamling",
+      "latitude": 60.783231,
+      "longitude": 9.599304
+    },
+    {
+      "name": "Bagnsbergatn gård",
+      "latitude": 60.831013,
+      "longitude": 9.554315
+    },
+    {
+      "name": "Bakken husmannsplass",
+      "latitude": 59.108502,
+      "longitude": 5.715652
+    },
+    {
+      "name": "Ballangen museum",
+      "latitude": 68.328591,
+      "longitude": 16.793011
+    },
+    {
+      "name": "Ballastbrygga industrihistoriske senter",
+      "latitude": 58.023713,
+      "longitude": 7.456038
+    },
+    {
+      "name": "Ballstad Væreiermuseum",
+      "latitude": 68.071233,
+      "longitude": 13.540472
+    },
+    {
+      "name": "Bamble Kystmuseum",
+      "latitude": 59.001288,
+      "longitude": 9.74968
+    },
+    {
+      "name": "Bardu bygdetun",
+      "latitude": 68.809415,
+      "longitude": 18.183423
+    },
+    {
+      "name": "Bastion 5",
+      "latitude": 59.20167,
+      "longitude": 10.949785
+    },
+    {
+      "name": "Bautahaugen samlinger",
+      "latitude": 60.599832,
+      "longitude": 9.743332
+    },
+    {
+      "name": "Bedehuset Bethel",
+      "latitude": 59.171418,
+      "longitude": 5.874895
+    },
+    {
+      "name": "Beiarn bygdetun",
+      "latitude": 67.010774,
+      "longitude": 14.572067
+    },
+    {
+      "name": "Berg Museum",
+      "latitude": 58.885046,
+      "longitude": 9.382921
+    },
+    {
+      "name": "Bergen Kunsthall Project",
+      "latitude": 60.389712,
+      "longitude": 5.326523
+    },
+    {
+      "name": "Bergen Lepramuseum",
+      "latitude": 60.391436,
+      "longitude": 5.332622
+    },
+    {
+      "name": "Bergen Sjøfartsmuseum",
+      "latitude": 60.386937,
+      "longitude": 5.319182
+    },
+    {
+      "name": "Bergen skolemuseum",
+      "latitude": 60.394333,
+      "longitude": 5.330618
+    },
+    {
+      "name": "Bergenhus Festningsmuseum",
+      "latitude": 60.399777,
+      "longitude": 5.321448
+    },
+    {
+      "name": "Bergens Tekniske Museum",
+      "latitude": 60.383841,
+      "longitude": 5.320933
+    },
+    {
+      "name": "Berger museum",
+      "latitude": 59.54423,
+      "longitude": 10.373983
+    },
+    {
+      "name": "Bergh-brygga",
+      "latitude": 66.062919,
+      "longitude": 12.95545
+    },
+    {
+      "name": "Bergtatt Opplevelser",
+      "latitude": 62.897186,
+      "longitude": 7.358484
+    },
+    {
+      "name": "Berlevåg havnemuseum",
+      "latitude": 70.85802,
+      "longitude": 29.100342
+    },
+    {
+      "name": "Besøkssenter nasjalpark Femundsmarka Gutulia",
+      "latitude": 62.165467,
+      "longitude": 11.944052
+    },
+    {
+      "name": "Besøkssenter våtmark Jæren",
+      "latitude": 58.544103,
+      "longitude": 5.681845
+    },
+    {
+      "name": "Besøkssenter våtmark Jæren",
+      "latitude": 58.740774,
+      "longitude": 5.517116
+    },
+    {
+      "name": "Besøkssenter våtmark Jæren",
+      "latitude": 58.956066,
+      "longitude": 5.70198
+    },
+    {
+      "name": "Besøkssenter våtmark Lista",
+      "latitude": 58.109357,
+      "longitude": 6.567147
+    },
+    {
+      "name": "Besøkssenter våtmark Ørland",
+      "latitude": 63.685532,
+      "longitude": 9.665783
+    },
+    {
+      "name": "BibMus Rennesøy",
+      "latitude": 59.097095,
+      "longitude": 5.697476
+    },
+    {
+      "name": "Bietilæanlegget",
+      "latitude": 70.077477,
+      "longitude": 29.721329
+    },
+    {
+      "name": "Bilstadhuset",
+      "latitude": 58.449986,
+      "longitude": 5.996985
+    },
+    {
+      "name": "Bindal bygdetun",
+      "latitude": 65.098345,
+      "longitude": 12.410029
+    },
+    {
+      "name": "Bindal museum",
+      "latitude": 65.089301,
+      "longitude": 12.374585
+    },
+    {
+      "name": "Bjerka Bygdetun",
+      "latitude": 66.145335,
+      "longitude": 13.832585
+    },
+    {
+      "name": "Bjerkebæk",
+      "latitude": 61.122459,
+      "longitude": 10.468576
+    },
+    {
+      "name": "Bjugn Bygdatun Mølnargården",
+      "latitude": 63.768552,
+      "longitude": 9.754538
+    },
+    {
+      "name": "Bjørgan prestegård",
+      "latitude": 62.579657,
+      "longitude": 10.304571
+    },
+    {
+      "name": "Bjørklund gård",
+      "latitude": 69.460462,
+      "longitude": 30.070634
+    },
+    {
+      "name": "Bjørn West-museet",
+      "latitude": 60.87641,
+      "longitude": 5.584845
+    },
+    {
+      "name": "Blodveimuseet",
+      "latitude": 67.10124,
+      "longitude": 15.426642
+    },
+    {
+      "name": "Blokken",
+      "latitude": 68.601775,
+      "longitude": 15.382342
+    },
+    {
+      "name": "Blokkodden Villmarksmuseum",
+      "latitude": 61.88345,
+      "longitude": 12.022588
+    },
+    {
+      "name": "Bodø Krigshistoriske museum",
+      "latitude": 67.27814,
+      "longitude": 14.411133
+    },
+    {
+      "name": "Bodøsjøen friluftsmuseum",
+      "latitude": 67.268423,
+      "longitude": 14.427912
+    },
+    {
+      "name": "Bogstad gård",
+      "latitude": 59.972492,
+      "longitude": 10.627069
+    },
+    {
+      "name": "Bogstad gård museum",
+      "latitude": 59.971618,
+      "longitude": 10.626218
+    },
+    {
+      "name": "Bok & Blueshuset",
+      "latitude": 59.556094,
+      "longitude": 9.254334
+    },
+    {
+      "name": "Bokn bygdemuseum",
+      "latitude": 59.214092,
+      "longitude": 5.442161
+    },
+    {
+      "name": "Bomsholmen Fløtingsmuseum",
+      "latitude": 58.42481,
+      "longitude": 8.702294
+    },
+    {
+      "name": "Borgarsyssel museum",
+      "latitude": 59.278836,
+      "longitude": 11.123638
+    },
+    {
+      "name": "Borgarsyssel museum",
+      "latitude": 59.279311,
+      "longitude": 11.12268
+    },
+    {
+      "name": "Borgund stavkyrkje",
+      "latitude": 61.047208,
+      "longitude": 7.8123
+    },
+    {
+      "name": "Borgund stavkyrkje museum",
+      "latitude": 61.048258,
+      "longitude": 7.813979
+    },
+    {
+      "name": "Botanisk hage",
+      "latitude": 59.917676,
+      "longitude": 10.770105
+    },
+    {
+      "name": "Bragdøya Kystkultursenter",
+      "latitude": 58.12022,
+      "longitude": 7.98365
+    },
+    {
+      "name": "Brannmuseet",
+      "latitude": 60.392524,
+      "longitude": 5.32702
+    },
+    {
+      "name": "Brannmuseet i Oslo",
+      "latitude": 59.911658,
+      "longitude": 10.767002
+    },
+    {
+      "name": "Bredalsholmen dokk og fartøyvernsenter",
+      "latitude": 58.110804,
+      "longitude": 7.989897
+    },
+    {
+      "name": "Bredek fjellgård",
+      "latitude": 66.522931,
+      "longitude": 14.883749
+    },
+    {
+      "name": "Breheimsenteret",
+      "latitude": 61.651348,
+      "longitude": 7.275404
+    },
+    {
+      "name": "Breidablikk",
+      "latitude": 58.965628,
+      "longitude": 5.72221
+    },
+    {
+      "name": "Bremnes fort",
+      "latitude": 67.321407,
+      "longitude": 14.461528
+    },
+    {
+      "name": "Brevik bymuseum",
+      "latitude": 59.053291,
+      "longitude": 9.701344
+    },
+    {
+      "name": "Brudavolltunet",
+      "latitude": 62.188469,
+      "longitude": 6.192336
+    },
+    {
+      "name": "Brunsvikens reperbane",
+      "latitude": 63.121945,
+      "longitude": 7.714964
+    },
+    {
+      "name": "Brusve gård",
+      "latitude": 63.742492,
+      "longitude": 11.299567
+    },
+    {
+      "name": "Bryggens museum",
+      "latitude": 60.398357,
+      "longitude": 5.3228
+    },
+    {
+      "name": "Bryggeutstillinga",
+      "latitude": 63.76289,
+      "longitude": 10.070329
+    },
+    {
+      "name": "Bryne Mølle",
+      "latitude": 58.736512,
+      "longitude": 5.642139
+    },
+    {
+      "name": "Buekorpsmuseet",
+      "latitude": 60.394742,
+      "longitude": 5.319768
+    },
+    {
+      "name": "Bullahuset",
+      "latitude": 60.509535,
+      "longitude": 5.436266
+    },
+    {
+      "name": "Bureisingsmuseet Høgheim",
+      "latitude": 63.4301,
+      "longitude": 8.037545
+    },
+    {
+      "name": "By- og sjøfartsmuseet",
+      "latitude": 58.341735,
+      "longitude": 8.600717
+    },
+    {
+      "name": "Bygata på Romsdalsmuseet",
+      "latitude": 62.739541,
+      "longitude": 7.149344
+    },
+    {
+      "name": "Bygde- og bysamlinga i Molde",
+      "latitude": 62.738954,
+      "longitude": 7.146882
+    },
+    {
+      "name": "Bygdetunet Rød",
+      "latitude": 59.944377,
+      "longitude": 5.894714
+    },
+    {
+      "name": "Bygdetunet Utro",
+      "latitude": 64.188858,
+      "longitude": 10.200563
+    },
+    {
+      "name": "Bygdø kongsgård",
+      "latitude": 59.911361,
+      "longitude": 10.680341
+    },
+    {
+      "name": "Bygland Museum",
+      "latitude": 58.828076,
+      "longitude": 7.795353
+    },
+    {
+      "name": "Bymuseet",
+      "latitude": 59.923918,
+      "longitude": 10.703014
+    },
+    {
+      "name": "Båtsfjord Museum",
+      "latitude": 70.639274,
+      "longitude": 29.728253
+    },
+    {
+      "name": "Bø bygdemuseum",
+      "latitude": 68.617719,
+      "longitude": 14.439259
+    },
+    {
+      "name": "Bø museum",
+      "latitude": 59.429687,
+      "longitude": 9.046586
+    },
+    {
+      "name": "Carsten Ankers lysthus",
+      "latitude": 60.541777,
+      "longitude": 11.166102
+    },
+    {
+      "name": "Ceavccageađge / Mortensnes kulturminneområde",
+      "latitude": 70.127796,
+      "longitude": 29.039426
+    },
+    {
+      "name": "Cementmuseet",
+      "latitude": 59.781674,
+      "longitude": 10.496998
+    },
+    {
+      "name": "Chateauet",
+      "latitude": 62.736679,
+      "longitude": 7.15068
+    },
+    {
+      "name": "Cleng Peerson gård",
+      "latitude": 59.368007,
+      "longitude": 5.566728
+    },
+    {
+      "name": "Cooper-huset",
+      "latitude": 61.209661,
+      "longitude": 6.53792
+    },
+    {
+      "name": "Dagali museum",
+      "latitude": 60.415629,
+      "longitude": 8.45335
+    },
+    {
+      "name": "Dalane folkemuseum",
+      "latitude": 58.472668,
+      "longitude": 6.02273
+    },
+    {
+      "name": "Dale-Gudbrands gard",
+      "latitude": 61.548402,
+      "longitude": 9.965922
+    },
+    {
+      "name": "Dalsfjord fyrmuseum",
+      "latitude": 62.112766,
+      "longitude": 5.938814
+    },
+    {
+      "name": "Damsgård hovedgård",
+      "latitude": 60.383259,
+      "longitude": 5.302113
+    },
+    {
+      "name": "Davvi álbmogiid dálážiid musea / Samtidsmuseet for nordlige folk",
+      "latitude": 69.525473,
+      "longitude": 20.529417
+    },
+    {
+      "name": "De Heibergske Samlinger",
+      "latitude": 61.206878,
+      "longitude": 7.188427
+    },
+    {
+      "name": "De kulturhistoriske samlinger (Universitetsmuseet – Kulturhistorie)",
+      "latitude": 60.386854,
+      "longitude": 5.320141
+    },
+    {
+      "name": "De naturhistoriske samlinger (Universitetsmuseet – Naturhistorie)",
+      "latitude": 60.387604,
+      "longitude": 5.321558
+    },
+    {
+      "name": "Deanu musea / Tana museum",
+      "latitude": 70.072397,
+      "longitude": 28.005184
+    },
+    {
+      "name": "Derikhuset",
+      "latitude": 59.16487,
+      "longitude": 5.273702
+    },
+    {
+      "name": "Det Kongelige Norske Videnskabers Selskab",
+      "latitude": 63.429121,
+      "longitude": 10.386986
+    },
+    {
+      "name": "Det Røde Hus",
+      "latitude": 60.402182,
+      "longitude": 5.189178
+    },
+    {
+      "name": "Det gamle posthuset - Barnevandrersenter",
+      "latitude": 58.284605,
+      "longitude": 7.355826
+    },
+    {
+      "name": "Det internasjonale barnekunstmuseet",
+      "latitude": 59.935755,
+      "longitude": 10.711526
+    },
+    {
+      "name": "Det jødiske museum",
+      "latitude": 63.426404,
+      "longitude": 10.392998
+    },
+    {
+      "name": "Devold museum",
+      "latitude": 62.440201,
+      "longitude": 6.187935
+    },
+    {
+      "name": "Dikemark psykiatriske sykehusmuseum",
+      "latitude": 59.80957,
+      "longitude": 10.37015
+    },
+    {
+      "name": "Dokken fjellgard",
+      "latitude": 60.659613,
+      "longitude": 8.025177
+    },
+    {
+      "name": "Dokken friluftsmuseum",
+      "latitude": 59.416432,
+      "longitude": 5.259865
+    },
+    {
+      "name": "Donjon Kristiansten",
+      "latitude": 63.426856,
+      "longitude": 10.410552
+    },
+    {
+      "name": "Drammens museum",
+      "latitude": 59.738097,
+      "longitude": 10.197178
+    },
+    {
+      "name": "Dronning Sonjas kunststall",
+      "latitude": 59.916218,
+      "longitude": 10.723451
+    },
+    {
+      "name": "Drøbak båtforening Maritime samlinger",
+      "latitude": 59.663516,
+      "longitude": 10.628407
+    },
+    {
+      "name": "DuVerden sjøfartsmuseum og vitensenter",
+      "latitude": 59.136649,
+      "longitude": 9.637258
+    },
+    {
+      "name": "Dukkehjem museum",
+      "latitude": 60.714339,
+      "longitude": 10.841732
+    },
+    {
+      "name": "Dølmotunet",
+      "latitude": 62.41021,
+      "longitude": 10.999681
+    },
+    {
+      "name": "Dølven Skule",
+      "latitude": 60.783799,
+      "longitude": 9.601179
+    },
+    {
+      "name": "Edvard Grieg Museum Troldhaugen",
+      "latitude": 60.319623,
+      "longitude": 5.329455
+    },
+    {
+      "name": "Edvards Hus",
+      "latitude": 58.182178,
+      "longitude": 8.142145
+    },
+    {
+      "name": "Egersund Fayancemuseum",
+      "latitude": 58.452873,
+      "longitude": 6.00461
+    },
+    {
+      "name": "Egge museum",
+      "latitude": 64.022291,
+      "longitude": 11.465539
+    },
+    {
+      "name": "Eggedal Mølle anno 1912",
+      "latitude": 60.230447,
+      "longitude": 9.361352
+    },
+    {
+      "name": "Eidsfos hovedgård",
+      "latitude": 59.594284,
+      "longitude": 10.042828
+    },
+    {
+      "name": "Eidsfoss jernverksmuseum",
+      "latitude": 59.594881,
+      "longitude": 10.038943
+    },
+    {
+      "name": "Eidskog museum",
+      "latitude": 59.914421,
+      "longitude": 11.984849
+    },
+    {
+      "name": "Eidsvoll 1814",
+      "latitude": 60.301304,
+      "longitude": 11.171417
+    },
+    {
+      "name": "Eidsvoll bygdetun",
+      "latitude": 60.334307,
+      "longitude": 11.196285
+    },
+    {
+      "name": "Eight amcars Club 1977",
+      "latitude": 60.027335,
+      "longitude": 11.179837
+    },
+    {
+      "name": "Eikaasgalleriet",
+      "latitude": 61.529782,
+      "longitude": 6.231545
+    },
+    {
+      "name": "Eiker Arkiv",
+      "latitude": 59.766984,
+      "longitude": 10.078722
+    },
+    {
+      "name": "Eiktunet",
+      "latitude": 60.805119,
+      "longitude": 10.645599
+    },
+    {
+      "name": "Einbustugu",
+      "latitude": 62.07439,
+      "longitude": 9.116376
+    },
+    {
+      "name": "Ekebergparken",
+      "latitude": 59.898596,
+      "longitude": 10.759581
+    },
+    {
+      "name": "Eldhuset",
+      "latitude": 59.783371,
+      "longitude": 5.501407
+    },
+    {
+      "name": "Eldhuset på Jamtjord",
+      "latitude": 66.07003,
+      "longitude": 13.960342
+    },
+    {
+      "name": "Eliasbrygga",
+      "latitude": 65.707207,
+      "longitude": 11.934487
+    },
+    {
+      "name": "Elingaard Herregård",
+      "latitude": 59.252202,
+      "longitude": 10.802605
+    },
+    {
+      "name": "Elvarheim museum",
+      "latitude": 58.770241,
+      "longitude": 8.4834
+    },
+    {
+      "name": "Emanuel Vigelands museum",
+      "latitude": 59.94711,
+      "longitude": 10.692635
+    },
+    {
+      "name": "Emilies hus (Museum)",
+      "latitude": 63.748811,
+      "longitude": 11.301556
+    },
+    {
+      "name": "En dikters bolig",
+      "latitude": 59.985718,
+      "longitude": 12.124125
+    },
+    {
+      "name": "Enebakk bygdetun",
+      "latitude": 59.761146,
+      "longitude": 11.151814
+    },
+    {
+      "name": "Engehavehuset",
+      "latitude": 58.469518,
+      "longitude": 8.760144
+    },
+    {
+      "name": "Engøyholmen Kystkultursenter",
+      "latitude": 58.981509,
+      "longitude": 5.742921
+    },
+    {
+      "name": "Ergansenteret",
+      "latitude": 62.908588,
+      "longitude": 6.907867
+    },
+    {
+      "name": "Esbensengården",
+      "latitude": 70.074747,
+      "longitude": 29.767604
+    },
+    {
+      "name": "Espeland fangeleir",
+      "latitude": 60.375486,
+      "longitude": 5.476218
+    },
+    {
+      "name": "Espevær hummerpark",
+      "latitude": 59.585921,
+      "longitude": 5.143118
+    },
+    {
+      "name": "Eva Bull Holtes museum",
+      "latitude": 59.645523,
+      "longitude": 8.357181
+    },
+    {
+      "name": "Eventyrmuseet Villa Fridheim",
+      "latitude": 60.167677,
+      "longitude": 9.631035
+    },
+    {
+      "name": "Evje Mineralsti",
+      "latitude": 58.598043,
+      "longitude": 7.856119
+    },
+    {
+      "name": "Evje og Hornnes Mineralmuseum",
+      "latitude": 58.58296,
+      "longitude": 7.778904
+    },
+    {
+      "name": "Evjemoen Forsvarsmuseum",
+      "latitude": 58.569997,
+      "longitude": 7.783913
+    },
+    {
+      "name": "Evjemoen forsvarsmuseum",
+      "latitude": 58.573127,
+      "longitude": 7.780865
+    },
+    {
+      "name": "Evju bygdetun",
+      "latitude": 59.410436,
+      "longitude": 9.162939
+    },
+    {
+      "name": "Eydehavnmuseet",
+      "latitude": 58.500547,
+      "longitude": 8.864607
+    },
+    {
+      "name": "Fagerheimsamlinga",
+      "latitude": 59.651187,
+      "longitude": 6.357185
+    },
+    {
+      "name": "Fagerlia skulemuseum",
+      "latitude": 62.888011,
+      "longitude": 7.975787
+    },
+    {
+      "name": "Falstadsenteret",
+      "latitude": 63.691556,
+      "longitude": 11.041449
+    },
+    {
+      "name": "Fantoft stavkirke",
+      "latitude": 60.33933,
+      "longitude": 5.353381
+    },
+    {
+      "name": "Fauske bygdetun",
+      "latitude": 67.257006,
+      "longitude": 15.380749
+    },
+    {
+      "name": "Fedrenes Minne museum",
+      "latitude": 58.211789,
+      "longitude": 6.581968
+    },
+    {
+      "name": "Feiring jernverk",
+      "latitude": 60.539511,
+      "longitude": 11.162806
+    },
+    {
+      "name": "Fetsund Lensemuseum",
+      "latitude": 59.921582,
+      "longitude": 11.152893
+    },
+    {
+      "name": "Finnetunet",
+      "latitude": 60.415836,
+      "longitude": 12.39917
+    },
+    {
+      "name": "Finnmarksbiblioteket",
+      "latitude": 70.076202,
+      "longitude": 29.755952
+    },
+    {
+      "name": "Finnøy bygdemuseum",
+      "latitude": 59.174377,
+      "longitude": 5.872874
+    },
+    {
+      "name": "Fiskeri- og sjøfartsmuseet Sogndalsstrand",
+      "latitude": 58.32264,
+      "longitude": 6.285287
+    },
+    {
+      "name": "Fiskerimuseet",
+      "latitude": 62.473644,
+      "longitude": 6.148917
+    },
+    {
+      "name": "Fiskerimuseet Hjertøya",
+      "latitude": 62.716952,
+      "longitude": 7.168851
+    },
+    {
+      "name": "Fiskeværet Sør-Gjæslingan",
+      "latitude": 64.742446,
+      "longitude": 10.773955
+    },
+    {
+      "name": "Fjell festning",
+      "latitude": 60.32555,
+      "longitude": 5.083709
+    },
+    {
+      "name": "Fjellvær gårdsmuseum",
+      "latitude": 63.634701,
+      "longitude": 9.151682
+    },
+    {
+      "name": "Fjordmuseet",
+      "latitude": 69.241035,
+      "longitude": 19.23769
+    },
+    {
+      "name": "Fjotland bygdemuseum",
+      "latitude": 58.522784,
+      "longitude": 6.988708
+    },
+    {
+      "name": "Fjølstadtrøa Museum",
+      "latitude": 63.413128,
+      "longitude": 10.652016
+    },
+    {
+      "name": "Fjøløy Fort",
+      "latitude": 59.087049,
+      "longitude": 5.576095
+    },
+    {
+      "name": "Flekkefjord museum",
+      "latitude": 58.29816,
+      "longitude": 6.661765
+    },
+    {
+      "name": "Flyhistorisk museum Sola",
+      "latitude": 58.897766,
+      "longitude": 5.631401
+    },
+    {
+      "name": "Flåmsbanamuseet",
+      "latitude": 60.862657,
+      "longitude": 7.113258
+    },
+    {
+      "name": "Flørli krafstasjon",
+      "latitude": 59.014576,
+      "longitude": 6.429201
+    },
+    {
+      "name": "Fogdahuset",
+      "latitude": 58.854368,
+      "longitude": 5.752808
+    },
+    {
+      "name": "Folgefonngata 9",
+      "latitude": 60.06779,
+      "longitude": 6.544361
+    },
+    {
+      "name": "Folgefonnsenteret",
+      "latitude": 59.986766,
+      "longitude": 6.007282
+    },
+    {
+      "name": "Folkemusikksenteret i Buskerud",
+      "latitude": 60.04367,
+      "longitude": 9.640922
+    },
+    {
+      "name": "Folkenborg Museum",
+      "latitude": 59.54482,
+      "longitude": 11.305186
+    },
+    {
+      "name": "Folkenborg museum",
+      "latitude": 59.544842,
+      "longitude": 11.306691
+    },
+    {
+      "name": "Folldal Bygdetun",
+      "latitude": 62.10034,
+      "longitude": 9.961755
+    },
+    {
+      "name": "Folldal gruver",
+      "latitude": 62.140793,
+      "longitude": 9.994007
+    },
+    {
+      "name": "Follo museum",
+      "latitude": 59.672011,
+      "longitude": 10.643
+    },
+    {
+      "name": "Fornebu Bilmuseum",
+      "latitude": 59.901058,
+      "longitude": 10.624018
+    },
+    {
+      "name": "Forsand bygdemuseum",
+      "latitude": 58.899292,
+      "longitude": 6.096452
+    },
+    {
+      "name": "Forsvarets flysamling Gardermoen",
+      "latitude": 60.189094,
+      "longitude": 11.070205
+    },
+    {
+      "name": "Forsvarsmuseet",
+      "latitude": 59.904458,
+      "longitude": 10.740948
+    },
+    {
+      "name": "Fosnes bygdemuseum",
+      "latitude": 64.651427,
+      "longitude": 11.264762
+    },
+    {
+      "name": "Fossesholm herregård",
+      "latitude": 59.728127,
+      "longitude": 9.866605
+    },
+    {
+      "name": "Fossheim Steinsenter",
+      "latitude": 61.83897,
+      "longitude": 8.574468
+    },
+    {
+      "name": "Fossmotunet",
+      "latitude": 69.045142,
+      "longitude": 18.595285
+    },
+    {
+      "name": "Fotballmuseet",
+      "latitude": 59.212588,
+      "longitude": 10.928778
+    },
+    {
+      "name": "Fotland bygdemølle",
+      "latitude": 58.715146,
+      "longitude": 5.707639
+    },
+    {
+      "name": "Fotland kraftstasjon",
+      "latitude": 58.715337,
+      "longitude": 5.705123
+    },
+    {
+      "name": "Fotograf T. Dahl's hus",
+      "latitude": 58.597667,
+      "longitude": 6.731602
+    },
+    {
+      "name": "Framhuset;Frammuseet",
+      "latitude": 59.903252,
+      "longitude": 10.699254
+    },
+    {
+      "name": "Fredmoen",
+      "latitude": 63.963678,
+      "longitude": 10.238683
+    },
+    {
+      "name": "Fredrikstad Museum",
+      "latitude": 59.201931,
+      "longitude": 10.95204
+    },
+    {
+      "name": "Fridtun, 1845",
+      "latitude": 59.603115,
+      "longitude": 5.208859
+    },
+    {
+      "name": "Friluftshuset Orre",
+      "latitude": 58.740736,
+      "longitude": 5.517192
+    },
+    {
+      "name": "Friluftsmuseet",
+      "latitude": 59.546224,
+      "longitude": 11.172292
+    },
+    {
+      "name": "Friluftsmuseet",
+      "latitude": 59.755414,
+      "longitude": 10.20291
+    },
+    {
+      "name": "Friluftsmuseet",
+      "latitude": 59.756213,
+      "longitude": 10.200946
+    },
+    {
+      "name": "Frolands Verk Kultursenter",
+      "latitude": 58.5008,
+      "longitude": 8.582049
+    },
+    {
+      "name": "Frosta bygdemuseum",
+      "latitude": 63.56783,
+      "longitude": 10.70369
+    },
+    {
+      "name": "Fuglensodden Friluftsmuseum",
+      "latitude": 70.667337,
+      "longitude": 23.656928
+    },
+    {
+      "name": "Funnefoss industriarbeidermuseum",
+      "latitude": 60.16933,
+      "longitude": 11.525462
+    },
+    {
+      "name": "Futastova",
+      "latitude": 59.783307,
+      "longitude": 5.501095
+    },
+    {
+      "name": "Fygle museum",
+      "latitude": 68.144743,
+      "longitude": 13.646424
+    },
+    {
+      "name": "Fyresdal bygdemuseum, Øyskogen",
+      "latitude": 59.182802,
+      "longitude": 8.091053
+    },
+    {
+      "name": "Galleri N. Bergslien",
+      "latitude": 60.467592,
+      "longitude": 7.068598
+    },
+    {
+      "name": "Gamle Bergen",
+      "latitude": 60.417943,
+      "longitude": 5.311142
+    },
+    {
+      "name": "Gamle Hvam",
+      "latitude": 60.101859,
+      "longitude": 11.384619
+    },
+    {
+      "name": "Gamle Kvernes bygdemuseum",
+      "latitude": 63.008449,
+      "longitude": 7.709132
+    },
+    {
+      "name": "Gamlebyen Modelljernbanesenter",
+      "latitude": 59.202978,
+      "longitude": 10.955546
+    },
+    {
+      "name": "Gamlehaugen",
+      "latitude": 60.34291,
+      "longitude": 5.336747
+    },
+    {
+      "name": "Gammelbua",
+      "latitude": 62.876786,
+      "longitude": 9.839406
+    },
+    {
+      "name": "Gammelbutikken",
+      "latitude": 69.065062,
+      "longitude": 16.817314
+    },
+    {
+      "name": "Gammelgruva",
+      "latitude": 63.121967,
+      "longitude": 9.701454
+    },
+    {
+      "name": "Gammelgården",
+      "latitude": 62.925641,
+      "longitude": 11.144762
+    },
+    {
+      "name": "Gammelskolen",
+      "latitude": 66.063064,
+      "longitude": 12.937437
+    },
+    {
+      "name": "Gamslett fiskarbondegård",
+      "latitude": 69.668363,
+      "longitude": 19.804714
+    },
+    {
+      "name": "Gamvik museum",
+      "latitude": 71.058087,
+      "longitude": 28.250111
+    },
+    {
+      "name": "Garborgheimen",
+      "latitude": 58.687266,
+      "longitude": 5.703592
+    },
+    {
+      "name": "Garborgsenteret",
+      "latitude": 58.73379,
+      "longitude": 5.650315
+    },
+    {
+      "name": "Gaula Natursenter",
+      "latitude": 63.036176,
+      "longitude": 10.293444
+    },
+    {
+      "name": "Geitbåtmuseet",
+      "latitude": 63.121034,
+      "longitude": 8.57149
+    },
+    {
+      "name": "Geologisenteret",
+      "latitude": 59.782333,
+      "longitude": 10.493083
+    },
+    {
+      "name": "Geologisk museum",
+      "latitude": 59.919908,
+      "longitude": 10.772289
+    },
+    {
+      "name": "Geologivandring",
+      "latitude": 69.678666,
+      "longitude": 18.970522
+    },
+    {
+      "name": "Gestapomuseet",
+      "latitude": 60.392821,
+      "longitude": 5.320932
+    },
+    {
+      "name": "Gildeskål prestegård",
+      "latitude": 67.05973,
+      "longitude": 14.046285
+    },
+    {
+      "name": "Gimle gård",
+      "latitude": 58.158507,
+      "longitude": 8.003111
+    },
+    {
+      "name": "Gjenreisningsmuseet",
+      "latitude": 70.662338,
+      "longitude": 23.677976
+    },
+    {
+      "name": "Gjerdetunet",
+      "latitude": 60.128765,
+      "longitude": 6.320582
+    },
+    {
+      "name": "Gjerstadhuset",
+      "latitude": 64.245659,
+      "longitude": 12.362456
+    },
+    {
+      "name": "Gjestheim",
+      "latitude": 61.2294,
+      "longitude": 7.103005
+    },
+    {
+      "name": "Gjøvik gård",
+      "latitude": 60.793187,
+      "longitude": 10.691703
+    },
+    {
+      "name": "Gladstad prestegård",
+      "latitude": 65.675202,
+      "longitude": 11.958994
+    },
+    {
+      "name": "Glasshytta",
+      "latitude": 59.202879,
+      "longitude": 10.95797
+    },
+    {
+      "name": "Glomdalsmuseet",
+      "latitude": 60.874815,
+      "longitude": 11.552723
+    },
+    {
+      "name": "Glomdalsmuseet",
+      "latitude": 60.876003,
+      "longitude": 11.553081
+    },
+    {
+      "name": "Glomfjord Industrimuseums",
+      "latitude": 66.815466,
+      "longitude": 13.944977
+    },
+    {
+      "name": "Godøy Kystmuseum",
+      "latitude": 62.469001,
+      "longitude": 6.016467
+    },
+    {
+      "name": "Gokstad Kystlag",
+      "latitude": 59.122649,
+      "longitude": 10.23265
+    },
+    {
+      "name": "Gol bygdemuseum",
+      "latitude": 60.702236,
+      "longitude": 8.908254
+    },
+    {
+      "name": "Granby gård",
+      "latitude": 63.273573,
+      "longitude": 11.078115
+    },
+    {
+      "name": "Grande Landhandelmuseum",
+      "latitude": 63.671876,
+      "longitude": 10.622542
+    },
+    {
+      "name": "Grane bygdetun",
+      "latitude": 65.530956,
+      "longitude": 13.417867
+    },
+    {
+      "name": "Granvin bygdemuseum",
+      "latitude": 60.524437,
+      "longitude": 6.721858
+    },
+    {
+      "name": "Grasham museum",
+      "latitude": 58.302266,
+      "longitude": 8.231592
+    },
+    {
+      "name": "Grenselosmuseet",
+      "latitude": 59.891912,
+      "longitude": 11.870976
+    },
+    {
+      "name": "Grimdalstunet",
+      "latitude": 59.407988,
+      "longitude": 7.950964
+    },
+    {
+      "name": "Grimsbu BP-stasjon",
+      "latitude": 62.155819,
+      "longitude": 10.173146
+    },
+    {
+      "name": "Grimstad sykkelmuseum",
+      "latitude": 58.34023,
+      "longitude": 8.593666
+    },
+    {
+      "name": "Grini museum",
+      "latitude": 59.95579,
+      "longitude": 10.584701
+    },
+    {
+      "name": "Grong bygdamuseum",
+      "latitude": 64.467061,
+      "longitude": 12.21919
+    },
+    {
+      "name": "Gruetunet",
+      "latitude": 60.453332,
+      "longitude": 12.074983
+    },
+    {
+      "name": "Gruvemuseet på Litlabø",
+      "latitude": 59.790822,
+      "longitude": 5.421673
+    },
+    {
+      "name": "Grytøy bygdetun",
+      "latitude": 68.877505,
+      "longitude": 16.564842
+    },
+    {
+      "name": "Grødaland",
+      "latitude": 58.63584,
+      "longitude": 5.598955
+    },
+    {
+      "name": "Grønsvik kystfort",
+      "latitude": 66.349474,
+      "longitude": 13.001275
+    },
+    {
+      "name": "Gudbrandsdal Krigsminnesamling",
+      "latitude": 61.664946,
+      "longitude": 9.695785
+    },
+    {
+      "name": "Gulden kunstverk",
+      "latitude": 59.759633,
+      "longitude": 9.970363
+    },
+    {
+      "name": "Gulli skolemuseum",
+      "latitude": 59.281668,
+      "longitude": 10.171314
+    },
+    {
+      "name": "Gullverket museum",
+      "latitude": 60.389153,
+      "longitude": 11.359972
+    },
+    {
+      "name": "Gulskogen gård",
+      "latitude": 59.746137,
+      "longitude": 10.165398
+    },
+    {
+      "name": "Guovdageainnu gilišillju / Kautokeino bygdetun",
+      "latitude": 69.008556,
+      "longitude": 23.048632
+    },
+    {
+      "name": "Gurisentret",
+      "latitude": 63.286602,
+      "longitude": 8.134229
+    },
+    {
+      "name": "Gårdsmuseum",
+      "latitude": 69.353026,
+      "longitude": 18.069964
+    },
+    {
+      "name": "HV-brakka",
+      "latitude": 58.724626,
+      "longitude": 9.238216
+    },
+    {
+      "name": "Hadeland Folkemuseum",
+      "latitude": 60.395659,
+      "longitude": 10.511546
+    },
+    {
+      "name": "Hadelands Bergverksmuseum",
+      "latitude": 60.252595,
+      "longitude": 10.654752
+    },
+    {
+      "name": "Hagan",
+      "latitude": 60.256961,
+      "longitude": 9.359055
+    },
+    {
+      "name": "Halden museum",
+      "latitude": 59.123664,
+      "longitude": 11.388806
+    },
+    {
+      "name": "Haldenvassdragets Kanalmuseum",
+      "latitude": 59.481088,
+      "longitude": 11.651665
+    },
+    {
+      "name": "Halling og Krødsheradtunet",
+      "latitude": 59.75774,
+      "longitude": 10.19524
+    },
+    {
+      "name": "Hallingdal folkemuseum",
+      "latitude": 60.56619,
+      "longitude": 9.091062
+    },
+    {
+      "name": "Halsnøy kloster",
+      "latitude": 59.796979,
+      "longitude": 5.655455
+    },
+    {
+      "name": "Hamarøy Krigsminnesmuseum",
+      "latitude": 67.968128,
+      "longitude": 15.928993
+    },
+    {
+      "name": "Hamarøy bygdetun",
+      "latitude": 68.084936,
+      "longitude": 15.615364
+    },
+    {
+      "name": "Hamsunsenteret",
+      "latitude": 68.081846,
+      "longitude": 15.640377
+    },
+    {
+      "name": "Handelshuset Patrick Volckmar",
+      "latitude": 63.121849,
+      "longitude": 7.729902
+    },
+    {
+      "name": "Handelshuset Zahl",
+      "latitude": 66.199305,
+      "longitude": 13.009772
+    },
+    {
+      "name": "Handverksfabrikken",
+      "latitude": 58.391061,
+      "longitude": 6.805774
+    },
+    {
+      "name": "Hannah Ryggen-senteret",
+      "latitude": 63.685346,
+      "longitude": 9.666705
+    },
+    {
+      "name": "Hans Nielsen Hauges minde",
+      "latitude": 59.245969,
+      "longitude": 10.999307
+    },
+    {
+      "name": "Hanseatisk museum",
+      "latitude": 60.39594,
+      "longitude": 5.32593
+    },
+    {
+      "name": "Hardanger Akvasenter",
+      "latitude": 60.394684,
+      "longitude": 6.273348
+    },
+    {
+      "name": "Hardanger Fartøyvernsenter",
+      "latitude": 60.366124,
+      "longitude": 6.147963
+    },
+    {
+      "name": "Hardanger Folk Museum",
+      "latitude": 60.425742,
+      "longitude": 6.6193
+    },
+    {
+      "name": "Hardanger Folkemuseum",
+      "latitude": 60.42614,
+      "longitude": 6.618259
+    },
+    {
+      "name": "Hardangervidda nasjonalparksenter",
+      "latitude": 59.815332,
+      "longitude": 8.309301
+    },
+    {
+      "name": "Hatlandsløo",
+      "latitude": 59.783426,
+      "longitude": 5.501545
+    },
+    {
+      "name": "Haugar kunstmuseum",
+      "latitude": 59.267661,
+      "longitude": 10.412069
+    },
+    {
+      "name": "Hauketo skysstasjon",
+      "latitude": 59.847708,
+      "longitude": 10.805145
+    },
+    {
+      "name": "Havlandet",
+      "latitude": 63.425415,
+      "longitude": 7.851472
+    },
+    {
+      "name": "Havnnes Museum",
+      "latitude": 69.787722,
+      "longitude": 20.56882
+    },
+    {
+      "name": "Havråtunet",
+      "latitude": 60.439409,
+      "longitude": 5.575699
+    },
+    {
+      "name": "Heddal Bygdetun",
+      "latitude": 59.578799,
+      "longitude": 9.182013
+    },
+    {
+      "name": "Hedmarksmuseet",
+      "latitude": 60.795608,
+      "longitude": 11.034686
+    },
+    {
+      "name": "Heimnaustet",
+      "latitude": 63.219084,
+      "longitude": 7.592477
+    },
+    {
+      "name": "Hella friluftsmuseum",
+      "latitude": 69.558797,
+      "longitude": 18.723244
+    },
+    {
+      "name": "Helleren",
+      "latitude": 58.327976,
+      "longitude": 6.351613
+    },
+    {
+      "name": "Helleren kraftstasjon",
+      "latitude": 68.6567,
+      "longitude": 17.210175
+    },
+    {
+      "name": "Hemmestad brygge",
+      "latitude": 68.724796,
+      "longitude": 16.053807
+    },
+    {
+      "name": "Hemsedal bygdetun",
+      "latitude": 60.847391,
+      "longitude": 8.630326
+    },
+    {
+      "name": "Henie Onstad kunstsenter",
+      "latitude": 59.888702,
+      "longitude": 10.553085
+    },
+    {
+      "name": "Henrik Ibsen museum",
+      "latitude": 59.239616,
+      "longitude": 9.577662
+    },
+    {
+      "name": "Herand Kulturhistoriske Senter",
+      "latitude": 60.343047,
+      "longitude": 6.381332
+    },
+    {
+      "name": "Herdla museum",
+      "latitude": 60.575984,
+      "longitude": 4.949299
+    },
+    {
+      "name": "Herlandsfossen kraftverk",
+      "latitude": 60.582277,
+      "longitude": 5.542812
+    },
+    {
+      "name": "Hernestangen bygdemuseum",
+      "latitude": 59.691105,
+      "longitude": 10.396249
+    },
+    {
+      "name": "Herregården",
+      "latitude": 59.049603,
+      "longitude": 10.037535
+    },
+    {
+      "name": "Hervoll mølle",
+      "latitude": 58.137045,
+      "longitude": 6.626177
+    },
+    {
+      "name": "Herøy Kystmuseum",
+      "latitude": 62.313378,
+      "longitude": 5.681811
+    },
+    {
+      "name": "Herøy bygdesamling",
+      "latitude": 65.9741,
+      "longitude": 12.280271
+    },
+    {
+      "name": "Hesthaghuset",
+      "latitude": 58.469445,
+      "longitude": 8.759943
+    },
+    {
+      "name": "Hesthammer skule",
+      "latitude": 59.287834,
+      "longitude": 5.533883
+    },
+    {
+      "name": "Hetland skolemuseum",
+      "latitude": 58.104331,
+      "longitude": 6.695226
+    },
+    {
+      "name": "Hillesvåg Ullvarefabrikk",
+      "latitude": 60.583656,
+      "longitude": 5.365532
+    },
+    {
+      "name": "Hiltahuset",
+      "latitude": 59.438093,
+      "longitude": 5.089192
+    },
+    {
+      "name": "Historica historiske samlinger, Rakkestad",
+      "latitude": 59.379617,
+      "longitude": 11.307519
+    },
+    {
+      "name": "Historielagets Museum",
+      "latitude": 58.087456,
+      "longitude": 8.00055
+    },
+    {
+      "name": "Historisk museum",
+      "latitude": 59.916772,
+      "longitude": 10.735484
+    },
+    {
+      "name": "Hjelmeland bygdemuseum",
+      "latitude": 59.237066,
+      "longitude": 6.179522
+    },
+    {
+      "name": "Hjemmefrontmuseet, Rakkestad",
+      "latitude": 59.427361,
+      "longitude": 11.346306
+    },
+    {
+      "name": "Hjerleid Bygningshistorisk park",
+      "latitude": 61.958223,
+      "longitude": 9.278316
+    },
+    {
+      "name": "Hofsøy bygdemuseum",
+      "latitude": 69.038769,
+      "longitude": 17.051825
+    },
+    {
+      "name": "Hol bygdemuseum",
+      "latitude": 60.59703,
+      "longitude": 8.34798
+    },
+    {
+      "name": "Holmarka besøksgård",
+      "latitude": 62.741442,
+      "longitude": 7.14708
+    },
+    {
+      "name": "Holmenes sjøsamiske gård",
+      "latitude": 69.481361,
+      "longitude": 20.856382
+    },
+    {
+      "name": "Holmestrand museum",
+      "latitude": 59.491143,
+      "longitude": 10.314437
+    },
+    {
+      "name": "Holmsbu billedgalleri",
+      "latitude": 59.552007,
+      "longitude": 10.423715
+    },
+    {
+      "name": "Holt skolemuseum",
+      "latitude": 58.612371,
+      "longitude": 8.867517
+    },
+    {
+      "name": "Hordamuseet",
+      "latitude": 60.270079,
+      "longitude": 5.326533
+    },
+    {
+      "name": "Horg bygdatun",
+      "latitude": 63.111407,
+      "longitude": 10.237796
+    },
+    {
+      "name": "Horten bilmuseum",
+      "latitude": 59.405631,
+      "longitude": 10.4806
+    },
+    {
+      "name": "Hosanger Treskoverkstad",
+      "latitude": 60.575283,
+      "longitude": 5.477173
+    },
+    {
+      "name": "Hotellmuseum",
+      "latitude": 65.835234,
+      "longitude": 13.191072
+    },
+    {
+      "name": "Hovden Jernvinnemuseum",
+      "latitude": 59.55299,
+      "longitude": 7.362014
+    },
+    {
+      "name": "Hufthamartunet",
+      "latitude": 60.120037,
+      "longitude": 5.205214
+    },
+    {
+      "name": "Huldreheimen",
+      "latitude": 59.354975,
+      "longitude": 7.34114
+    },
+    {
+      "name": "Hummermuseet",
+      "latitude": 59.058867,
+      "longitude": 5.399156
+    },
+    {
+      "name": "Hurdal bygdetun",
+      "latitude": 60.48853,
+      "longitude": 11.017052
+    },
+    {
+      "name": "Hurtigrutemuseet",
+      "latitude": 68.569173,
+      "longitude": 14.91261
+    },
+    {
+      "name": "Husantunet",
+      "latitude": 62.121302,
+      "longitude": 10.628439
+    },
+    {
+      "name": "Husmannsplassen Kjelvik",
+      "latitude": 67.566237,
+      "longitude": 15.803606
+    },
+    {
+      "name": "Husmannsplassen Treo",
+      "latitude": 59.987305,
+      "longitude": 6.030855
+    },
+    {
+      "name": "Hvalbåten «Southern Actor»",
+      "latitude": 59.126485,
+      "longitude": 10.229786
+    },
+    {
+      "name": "Hvalfangstmuseet",
+      "latitude": 59.131047,
+      "longitude": 10.227504
+    },
+    {
+      "name": "Hvasser Kystmuseum",
+      "latitude": 59.08023,
+      "longitude": 10.450805
+    },
+    {
+      "name": "Hå gamle prestegard",
+      "latitude": 58.667029,
+      "longitude": 5.551279
+    },
+    {
+      "name": "Håkonshallen",
+      "latitude": 60.399618,
+      "longitude": 5.317612
+    },
+    {
+      "name": "Hålandstunet",
+      "latitude": 59.352547,
+      "longitude": 6.236041
+    },
+    {
+      "name": "Hægebostad bygdemuseum",
+      "latitude": 58.395063,
+      "longitude": 7.23171
+    },
+    {
+      "name": "Hægeland bygdemuseum",
+      "latitude": 58.376694,
+      "longitude": 7.758262
+    },
+    {
+      "name": "Høgtun kultursenter",
+      "latitude": 58.172031,
+      "longitude": 7.558216
+    },
+    {
+      "name": "Høvåg Museum",
+      "latitude": 58.158822,
+      "longitude": 8.184161
+    },
+    {
+      "name": "Høyanger Industristadsmuseet",
+      "latitude": 61.219703,
+      "longitude": 6.072209
+    },
+    {
+      "name": "Høyviksalen",
+      "latitude": 61.208978,
+      "longitude": 6.538464
+    },
+    {
+      "name": "Ibsen-museet",
+      "latitude": 58.342167,
+      "longitude": 8.59457
+    },
+    {
+      "name": "Ibsenmuseet",
+      "latitude": 59.915092,
+      "longitude": 10.727059
+    },
+    {
+      "name": "Ida & Lyra Museet",
+      "latitude": 70.214325,
+      "longitude": 23.200212
+    },
+    {
+      "name": "Inderøy Bygdemuseum",
+      "latitude": 63.875162,
+      "longitude": 11.271863
+    },
+    {
+      "name": "Industriarbeidarmuseet i Sauda",
+      "latitude": 59.650482,
+      "longitude": 6.363841
+    },
+    {
+      "name": "Ingebrigt Vik museum",
+      "latitude": 60.388061,
+      "longitude": 6.202252
+    },
+    {
+      "name": "Interkulturelt museum",
+      "latitude": 59.913048,
+      "longitude": 10.763251
+    },
+    {
+      "name": "Isbjørnklubben",
+      "latitude": 70.663759,
+      "longitude": 23.690014
+    },
+    {
+      "name": "Ishavsmuseet «Aarvak»",
+      "latitude": 62.399437,
+      "longitude": 6.011865
+    },
+    {
+      "name": "Ivar Aasen-tunet",
+      "latitude": 62.179331,
+      "longitude": 6.059978
+    },
+    {
+      "name": "Iveland Kommunes Mineralsamling",
+      "latitude": 58.455187,
+      "longitude": 7.91707
+    },
+    {
+      "name": "Iveland og Vegusdal Bygdemuseum",
+      "latitude": 58.468507,
+      "longitude": 8.056245
+    },
+    {
+      "name": "Jacobsenbrygga",
+      "latitude": 65.836893,
+      "longitude": 13.187585
+    },
+    {
+      "name": "Jansløkka skolemuseum",
+      "latitude": 59.849183,
+      "longitude": 10.442791
+    },
+    {
+      "name": "Jektefartsmuseet",
+      "latitude": 67.268142,
+      "longitude": 14.42646
+    },
+    {
+      "name": "Jelsa skulemuseum",
+      "latitude": 59.337485,
+      "longitude": 6.02703
+    },
+    {
+      "name": "Jennestad Handelssted",
+      "latitude": 68.751029,
+      "longitude": 15.309259
+    },
+    {
+      "name": "Jensbakken gårdsmuseum",
+      "latitude": 60.845065,
+      "longitude": 11.039544
+    },
+    {
+      "name": "Jern- og Kanalutstilling",
+      "latitude": 59.281698,
+      "longitude": 9.255347
+    },
+    {
+      "name": "Jernaldergarden på Ullandhaug",
+      "latitude": 58.941466,
+      "longitude": 5.693924
+    },
+    {
+      "name": "Jernverket Eidsfoss",
+      "latitude": 59.595303,
+      "longitude": 10.0375
+    },
+    {
+      "name": "Jonegarden på Hustveit",
+      "latitude": 59.56975,
+      "longitude": 6.265535
+    },
+    {
+      "name": "Jortveit Gårdsmuseum - Homborsund",
+      "latitude": 58.272779,
+      "longitude": 8.50912
+    },
+    {
+      "name": "Jostedalsbreen Nasjonalparksenter",
+      "latitude": 61.911085,
+      "longitude": 7.049177
+    },
+    {
+      "name": "Jugendstilsenteret",
+      "latitude": 62.471107,
+      "longitude": 6.150875
+    },
+    {
+      "name": "Justismuseet",
+      "latitude": 63.429855,
+      "longitude": 10.378358
+    },
+    {
+      "name": "Jutulheimen bygdamuseum",
+      "latitude": 61.874688,
+      "longitude": 9.08575
+    },
+    {
+      "name": "Jáhkovuona mearrasámi musea / Kokelv sjøsamiske museum",
+      "latitude": 70.611108,
+      "longitude": 24.634065
+    },
+    {
+      "name": "Jærmuseet / Vitengarden",
+      "latitude": 58.655051,
+      "longitude": 5.631322
+    },
+    {
+      "name": "Jødisk museum",
+      "latitude": 59.916307,
+      "longitude": 10.755454
+    },
+    {
+      "name": "Jølstramuseet",
+      "latitude": 61.49177,
+      "longitude": 6.107876
+    },
+    {
+      "name": "Jønnevald rutebilanlegg",
+      "latitude": 59.271189,
+      "longitude": 9.56808
+    },
+    {
+      "name": "Jøssingfjord Vitenmuseum",
+      "latitude": 58.328857,
+      "longitude": 6.354856
+    },
+    {
+      "name": "KNM Narvik",
+      "latitude": 59.424929,
+      "longitude": 10.485091
+    },
+    {
+      "name": "KUBEN",
+      "latitude": 58.470189,
+      "longitude": 8.759659
+    },
+    {
+      "name": "Kanonmuseet",
+      "latitude": 58.090853,
+      "longitude": 7.968248
+    },
+    {
+      "name": "Kanontårnet",
+      "latitude": 60.325323,
+      "longitude": 5.081904
+    },
+    {
+      "name": "Kaperdalen samemuseum",
+      "latitude": 69.245254,
+      "longitude": 17.506096
+    },
+    {
+      "name": "Karmsund folkemuseum",
+      "latitude": 59.41353,
+      "longitude": 5.270238
+    },
+    {
+      "name": "Karmøy Fiskerimuseum",
+      "latitude": 59.288812,
+      "longitude": 5.242412
+    },
+    {
+      "name": "Kastellet kultursenter",
+      "latitude": 58.275063,
+      "longitude": 8.522933
+    },
+    {
+      "name": "Kauffeldtgården",
+      "latitude": 60.795256,
+      "longitude": 10.691882
+    },
+    {
+      "name": "Kaupang Midgardsenteret",
+      "latitude": 59.035181,
+      "longitude": 10.106511
+    },
+    {
+      "name": "Kaviar Factory",
+      "latitude": 68.155278,
+      "longitude": 14.201296
+    },
+    {
+      "name": "Kirsten Flagstadmuseet",
+      "latitude": 60.796034,
+      "longitude": 11.068805
+    },
+    {
+      "name": "Kistefosmuseet",
+      "latitude": 60.222397,
+      "longitude": 10.369057
+    },
+    {
+      "name": "Kittelsenhuset",
+      "latitude": 58.868597,
+      "longitude": 9.411776
+    },
+    {
+      "name": "Kittilbu Utmarksmuseum",
+      "latitude": 61.173632,
+      "longitude": 9.962474
+    },
+    {
+      "name": "Kjeldsenbruket",
+      "latitude": 70.070337,
+      "longitude": 30.097915
+    },
+    {
+      "name": "Kjerratmuseet",
+      "latitude": 60.124546,
+      "longitude": 10.360968
+    },
+    {
+      "name": "Kjerringøy handlessted",
+      "latitude": 67.519038,
+      "longitude": 14.754664
+    },
+    {
+      "name": "Kjøpsvik museum",
+      "latitude": 68.095473,
+      "longitude": 16.370225
+    },
+    {
+      "name": "Klepp bygdemuseum",
+      "latitude": 58.770572,
+      "longitude": 5.622772
+    },
+    {
+      "name": "Klevfoss Industrimuseum",
+      "latitude": 60.786436,
+      "longitude": 11.311948
+    },
+    {
+      "name": "Klimapark 2469",
+      "latitude": 61.672835,
+      "longitude": 8.370879
+    },
+    {
+      "name": "Klokkargarden",
+      "latitude": 61.360653,
+      "longitude": 5.39732
+    },
+    {
+      "name": "Klokkebua",
+      "latitude": 58.470072,
+      "longitude": 8.760867
+    },
+    {
+      "name": "Klokkergården",
+      "latitude": 66.199201,
+      "longitude": 13.015707
+    },
+    {
+      "name": "Klokkergården bygdetun",
+      "latitude": 58.150379,
+      "longitude": 7.089117
+    },
+    {
+      "name": "Klovastovo",
+      "latitude": 59.783059,
+      "longitude": 5.500447
+    },
+    {
+      "name": "Kløckers Hus - Arendal Bymuseum",
+      "latitude": 58.458852,
+      "longitude": 8.767495
+    },
+    {
+      "name": "Knaben Gruvemuseum",
+      "latitude": 58.66163,
+      "longitude": 7.074742
+    },
+    {
+      "name": "Knudaheio",
+      "latitude": 58.679673,
+      "longitude": 5.789298
+    },
+    {
+      "name": "Knut Hamsuns barndomshjem",
+      "latitude": 68.10333,
+      "longitude": 15.513513
+    },
+    {
+      "name": "Knut Hamsuns dikterstue",
+      "latitude": 58.304022,
+      "longitude": 8.510568
+    },
+    {
+      "name": "Knutsensmia",
+      "latitude": 59.748796,
+      "longitude": 10.007787
+    },
+    {
+      "name": "Kolbeinstveit",
+      "latitude": 59.505529,
+      "longitude": 6.566113
+    },
+    {
+      "name": "Kon-Tiki Museet",
+      "latitude": 59.903499,
+      "longitude": 10.698011
+    },
+    {
+      "name": "Konfeksjonsmuseet",
+      "latitude": 62.580316,
+      "longitude": 7.750447
+    },
+    {
+      "name": "Kongsvinger Festnings Museum",
+      "latitude": 60.199074,
+      "longitude": 12.012579
+    },
+    {
+      "name": "Kongsvinger festning",
+      "latitude": 60.199428,
+      "longitude": 12.011784
+    },
+    {
+      "name": "Kongsvinger museum",
+      "latitude": 60.197643,
+      "longitude": 12.012037
+    },
+    {
+      "name": "Kongsvoldtunet",
+      "latitude": 69.026012,
+      "longitude": 19.531141
+    },
+    {
+      "name": "Konnerudgruvene",
+      "latitude": 59.734578,
+      "longitude": 10.125695
+    },
+    {
+      "name": "Konstali gårdsmuseum",
+      "latitude": 58.457823,
+      "longitude": 6.65978
+    },
+    {
+      "name": "Kontorbrakke",
+      "latitude": 66.352528,
+      "longitude": 13.000745
+    },
+    {
+      "name": "Korsnes museum",
+      "latitude": 68.253949,
+      "longitude": 16.062008
+    },
+    {
+      "name": "Kraft- og Skredsenteret",
+      "latitude": 62.226428,
+      "longitude": 7.422165
+    },
+    {
+      "name": "Kraftmuseet",
+      "latitude": 60.119329,
+      "longitude": 6.556699
+    },
+    {
+      "name": "Krambua",
+      "latitude": 59.783855,
+      "longitude": 5.500916
+    },
+    {
+      "name": "Krambuvika bygdemuseum",
+      "latitude": 68.777967,
+      "longitude": 17.790123
+    },
+    {
+      "name": "Kramvigbrygga",
+      "latitude": 69.144844,
+      "longitude": 18.133634
+    },
+    {
+      "name": "Kreftforeningens Vitensenter",
+      "latitude": 59.909817,
+      "longitude": 10.741857
+    },
+    {
+      "name": "Krigshistorisk museum",
+      "latitude": 58.87233,
+      "longitude": 5.661773
+    },
+    {
+      "name": "Kristian Otterskreds motorsamling",
+      "latitude": 61.089503,
+      "longitude": 6.585002
+    },
+    {
+      "name": "Kristiansand museum",
+      "latitude": 58.16201,
+      "longitude": 8.030161
+    },
+    {
+      "name": "Kristiansund museum, friluftsavdelingen",
+      "latitude": 63.124548,
+      "longitude": 7.733259
+    },
+    {
+      "name": "Kristinahuset",
+      "latitude": 58.786042,
+      "longitude": 5.643323
+    },
+    {
+      "name": "Krossens Havremølle",
+      "latitude": 58.851101,
+      "longitude": 5.730875
+    },
+    {
+      "name": "Kråksundet sjøbruksmuseum",
+      "latitude": 63.156895,
+      "longitude": 7.938858
+    },
+    {
+      "name": "Krøderbanen",
+      "latitude": 59.96898,
+      "longitude": 9.997967
+    },
+    {
+      "name": "Krøderbanen",
+      "latitude": 60.127579,
+      "longitude": 9.780062
+    },
+    {
+      "name": "Kulleseid Telegrafstation",
+      "latitude": 59.73912,
+      "longitude": 5.231562
+    },
+    {
+      "name": "Kulturgården Bjerkem",
+      "latitude": 63.978509,
+      "longitude": 11.636801
+    },
+    {
+      "name": "Kulturhistorisk museum",
+      "latitude": 59.91703,
+      "longitude": 10.734607
+    },
+    {
+      "name": "Kunstarena Torbjørnsbu Gruver",
+      "latitude": 58.468824,
+      "longitude": 8.751024
+    },
+    {
+      "name": "Kunstbanken",
+      "latitude": 60.792554,
+      "longitude": 11.077795
+    },
+    {
+      "name": "Kunstmuseet Kube",
+      "latitude": 62.470891,
+      "longitude": 6.150916
+    },
+    {
+      "name": "Kunstmuseet Nord-Trøndelag",
+      "latitude": 64.468076,
+      "longitude": 11.503023
+    },
+    {
+      "name": "Kunstnerhuset Messen",
+      "latitude": 60.43026,
+      "longitude": 6.432202
+    },
+    {
+      "name": "Kuråsfossen kraftstasjon",
+      "latitude": 62.672205,
+      "longitude": 11.454032
+    },
+    {
+      "name": "Kurøen bygdetun",
+      "latitude": 59.7194,
+      "longitude": 11.833891
+    },
+    {
+      "name": "Kvalvik fort",
+      "latitude": 63.099425,
+      "longitude": 7.896293
+    },
+    {
+      "name": "Kvam bygdemuseum, Borgstova",
+      "latitude": 60.350044,
+      "longitude": 6.172974
+    },
+    {
+      "name": "Kvam bygdemuseum, Storeteigen",
+      "latitude": 60.379166,
+      "longitude": 6.201433
+    },
+    {
+      "name": "Kvednahola kvernhusanlegg",
+      "latitude": 59.464305,
+      "longitude": 6.411317
+    },
+    {
+      "name": "Kveitemuseet",
+      "latitude": 69.0649,
+      "longitude": 16.816408
+    },
+    {
+      "name": "Kvekerhuset",
+      "latitude": 59.431756,
+      "longitude": 5.56398
+    },
+    {
+      "name": "Kverna i Frøylandsbekken",
+      "latitude": 58.921311,
+      "longitude": 5.856131
+    },
+    {
+      "name": "Kvernhusanlegg Fuglestad",
+      "latitude": 58.556345,
+      "longitude": 5.787045
+    },
+    {
+      "name": "Kvernsteinsparken",
+      "latitude": 61.165166,
+      "longitude": 5.301625
+    },
+    {
+      "name": "Kvikne Nasjonalparksenter",
+      "latitude": 62.56934,
+      "longitude": 10.304192
+    },
+    {
+      "name": "Kvinnemuseet",
+      "latitude": 60.198093,
+      "longitude": 12.004494
+    },
+    {
+      "name": "Kviteseid Bygdetun",
+      "latitude": 59.355068,
+      "longitude": 8.521765
+    },
+    {
+      "name": "Kvæfjord bygdetun",
+      "latitude": 68.770701,
+      "longitude": 16.179245
+    },
+    {
+      "name": "Kvæstad vadmålsstampe",
+      "latitude": 59.45304,
+      "longitude": 6.3857
+    },
+    {
+      "name": "Kystens arv",
+      "latitude": 63.495672,
+      "longitude": 10.013273
+    },
+    {
+      "name": "Kystkultursamlingen i Tananger",
+      "latitude": 58.932755,
+      "longitude": 5.580388
+    },
+    {
+      "name": "Kystkultursenteret",
+      "latitude": 59.261076,
+      "longitude": 10.411919
+    },
+    {
+      "name": "Kystkultursenteret Norveg",
+      "latitude": 64.859646,
+      "longitude": 11.234024
+    },
+    {
+      "name": "Kystmuseet",
+      "latitude": 61.588699,
+      "longitude": 5.042495
+    },
+    {
+      "name": "Kystmuseet",
+      "latitude": 63.606693,
+      "longitude": 8.968749
+    },
+    {
+      "name": "Kystmuseet Bakkasund",
+      "latitude": 60.12998,
+      "longitude": 5.091471
+    },
+    {
+      "name": "Kystmuseet i Øygarden",
+      "latitude": 60.567029,
+      "longitude": 4.86431
+    },
+    {
+      "name": "Kystmuséet",
+      "latitude": 59.093931,
+      "longitude": 10.920901
+    },
+    {
+      "name": "Kystsamlingen",
+      "latitude": 59.58362,
+      "longitude": 10.437127
+    },
+    {
+      "name": "Labahågården",
+      "latitude": 69.701867,
+      "longitude": 29.222063
+    },
+    {
+      "name": "Ladegården",
+      "latitude": 59.906154,
+      "longitude": 10.767614
+    },
+    {
+      "name": "Laksevåg Kulturhistoriske Forening",
+      "latitude": 60.3849,
+      "longitude": 5.302053
+    },
+    {
+      "name": "Lalumsvangen setermuseum",
+      "latitude": 60.533397,
+      "longitude": 11.397087
+    },
+    {
+      "name": "Landa Stabburet",
+      "latitude": 59.783286,
+      "longitude": 5.500503
+    },
+    {
+      "name": "Landbruksmagasinet på Tveit",
+      "latitude": 59.345573,
+      "longitude": 5.79373
+    },
+    {
+      "name": "Landbruksmuseet for Møre og Romsdal",
+      "latitude": 62.624066,
+      "longitude": 7.165351
+    },
+    {
+      "name": "Lands museum",
+      "latitude": 60.836711,
+      "longitude": 10.078025
+    },
+    {
+      "name": "Langbygningen",
+      "latitude": 59.82827,
+      "longitude": 10.768052
+    },
+    {
+      "name": "Langedragsetra",
+      "latitude": 59.757402,
+      "longitude": 10.200592
+    },
+    {
+      "name": "Langsæ gård",
+      "latitude": 58.469855,
+      "longitude": 8.759151
+    },
+    {
+      "name": "Larvik museum",
+      "latitude": 59.051153,
+      "longitude": 10.018357
+    },
+    {
+      "name": "Larvik sjøfartsmuseum",
+      "latitude": 59.047993,
+      "longitude": 10.034403
+    },
+    {
+      "name": "Lassigården",
+      "latitude": 69.972952,
+      "longitude": 29.644558
+    },
+    {
+      "name": "Laudal museum",
+      "latitude": 58.247314,
+      "longitude": 7.498302
+    },
+    {
+      "name": "Lauvlia",
+      "latitude": 60.061707,
+      "longitude": 9.505157
+    },
+    {
+      "name": "Ledaal",
+      "latitude": 58.967152,
+      "longitude": 5.719904
+    },
+    {
+      "name": "Leka bygdemuseum",
+      "latitude": 65.093122,
+      "longitude": 11.729652
+    },
+    {
+      "name": "Lenvik Bygdemuseum",
+      "latitude": 69.3463,
+      "longitude": 18.108
+    },
+    {
+      "name": "Lesja bygdetun",
+      "latitude": 62.113644,
+      "longitude": 8.852917
+    },
+    {
+      "name": "Levanger fotomuseum",
+      "latitude": 63.744374,
+      "longitude": 11.293709
+    },
+    {
+      "name": "Lier Bygdetun",
+      "latitude": 59.799101,
+      "longitude": 10.257911
+    },
+    {
+      "name": "Lillehammer Kunstmuseum",
+      "latitude": 61.115504,
+      "longitude": 10.464254
+    },
+    {
+      "name": "Lillehegge",
+      "latitude": 65.42593,
+      "longitude": 12.539083
+    },
+    {
+      "name": "Lillesand By- og Sjøfartsmuseum",
+      "latitude": 58.249665,
+      "longitude": 8.379222
+    },
+    {
+      "name": "Lilletopp",
+      "latitude": 60.12478,
+      "longitude": 6.564695
+    },
+    {
+      "name": "Limagarden",
+      "latitude": 58.770423,
+      "longitude": 5.888122
+    },
+    {
+      "name": "Linderud gård",
+      "latitude": 59.941903,
+      "longitude": 10.833947
+    },
+    {
+      "name": "Lindesnes Kystkultursenter",
+      "latitude": 58.037721,
+      "longitude": 7.106046
+    },
+    {
+      "name": "Lindesnes bygdemuseum, Kulturtorvet",
+      "latitude": 58.084029,
+      "longitude": 7.302636
+    },
+    {
+      "name": "Lindås sogelag",
+      "latitude": 60.547973,
+      "longitude": 5.288484
+    },
+    {
+      "name": "Lislestog",
+      "latitude": 59.352395,
+      "longitude": 7.343653
+    },
+    {
+      "name": "Lista Museum",
+      "latitude": 58.100241,
+      "longitude": 6.688483
+    },
+    {
+      "name": "Lista Naturmuseum",
+      "latitude": 58.094587,
+      "longitude": 6.600093
+    },
+    {
+      "name": "Lista museum Friluftstunet",
+      "latitude": 58.100774,
+      "longitude": 6.688895
+    },
+    {
+      "name": "Lister Utvandrermuseum i Kvinesdal",
+      "latitude": 58.311867,
+      "longitude": 6.962571
+    },
+    {
+      "name": "Listeskøyta kystkultursenter",
+      "latitude": 58.097221,
+      "longitude": 6.588029
+    },
+    {
+      "name": "Litunet museumsgård",
+      "latitude": 59.534354,
+      "longitude": 6.430862
+    },
+    {
+      "name": "Lofotakvariet",
+      "latitude": 68.207497,
+      "longitude": 14.448935
+    },
+    {
+      "name": "Lofoten Krigsminnemuseum",
+      "latitude": 68.231156,
+      "longitude": 14.564825
+    },
+    {
+      "name": "Lofoten Leketøymuseum",
+      "latitude": 67.941302,
+      "longitude": 13.11138
+    },
+    {
+      "name": "Lofoten tørrfiskmuseum",
+      "latitude": 67.88227,
+      "longitude": 12.984149
+    },
+    {
+      "name": "Lofotmuseet",
+      "latitude": 68.206616,
+      "longitude": 14.453603
+    },
+    {
+      "name": "Lofotodden nasjonalpark",
+      "latitude": 67.932202,
+      "longitude": 13.087668
+    },
+    {
+      "name": "Lofotr Viking Museum",
+      "latitude": 68.244219,
+      "longitude": 13.757639
+    },
+    {
+      "name": "Lokalhistorisk samling",
+      "latitude": 58.098688,
+      "longitude": 6.694626
+    },
+    {
+      "name": "Lokalhistorisk senter",
+      "latitude": 59.423928,
+      "longitude": 10.487886
+    },
+    {
+      "name": "Lom bygdamuseum",
+      "latitude": 61.836549,
+      "longitude": 8.559994
+    },
+    {
+      "name": "Lommedalsbanen",
+      "latitude": 59.981917,
+      "longitude": 10.483696
+    },
+    {
+      "name": "Luftkampmuseet",
+      "latitude": 61.485026,
+      "longitude": 5.625844
+    },
+    {
+      "name": "Lund bygdemuseum og kulturbank",
+      "latitude": 58.448697,
+      "longitude": 6.552698
+    },
+    {
+      "name": "Lundbrygga",
+      "latitude": 68.876215,
+      "longitude": 17.832211
+    },
+    {
+      "name": "Lyngheisenteret",
+      "latitude": 60.695287,
+      "longitude": 5.108394
+    },
+    {
+      "name": "Lyngørfjorden kystkultursenter",
+      "latitude": 58.645372,
+      "longitude": 9.12219
+    },
+    {
+      "name": "Lystslottet Oscarshall",
+      "latitude": 59.910212,
+      "longitude": 10.692331
+    },
+    {
+      "name": "Lågdalsmuseet",
+      "latitude": 59.666666,
+      "longitude": 9.657346
+    },
+    {
+      "name": "Lærdal post- og telemuseum",
+      "latitude": 61.09714,
+      "longitude": 7.482013
+    },
+    {
+      "name": "Løiten Brænderi",
+      "latitude": 60.826542,
+      "longitude": 11.305499
+    },
+    {
+      "name": "Løp gård",
+      "latitude": 67.326958,
+      "longitude": 14.489735
+    },
+    {
+      "name": "Lørenskog bygdemuseum",
+      "latitude": 59.920216,
+      "longitude": 10.958089
+    },
+    {
+      "name": "Løvikremma kystgard",
+      "latitude": 62.838752,
+      "longitude": 6.847304
+    },
+    {
+      "name": "M/S Polstjerna",
+      "latitude": 69.643892,
+      "longitude": 18.951058
+    },
+    {
+      "name": "M314 Alta",
+      "latitude": 59.90912,
+      "longitude": 10.734326
+    },
+    {
+      "name": "Made On Sandøya",
+      "latitude": 58.593165,
+      "longitude": 9.054691
+    },
+    {
+      "name": "Magerøya Museum",
+      "latitude": 63.449908,
+      "longitude": 8.98805
+    },
+    {
+      "name": "Magne Sandøy",
+      "latitude": 63.685687,
+      "longitude": 9.66674
+    },
+    {
+      "name": "Mammuthus",
+      "latitude": 60.880858,
+      "longitude": 11.174141
+    },
+    {
+      "name": "Mandal museum",
+      "latitude": 58.026726,
+      "longitude": 7.452489
+    },
+    {
+      "name": "Marcelius Førlands kunstmuseum",
+      "latitude": 58.306464,
+      "longitude": 6.969072
+    },
+    {
+      "name": "Margaretastova",
+      "latitude": 61.109603,
+      "longitude": 8.035735
+    },
+    {
+      "name": "Marinemuseet",
+      "latitude": 59.42543,
+      "longitude": 10.486802
+    },
+    {
+      "name": "Marit Annys Vevstogo",
+      "latitude": 61.125692,
+      "longitude": 8.949388
+    },
+    {
+      "name": "Massnes Villmarksmuseum",
+      "latitude": 61.100833,
+      "longitude": 5.653775
+    },
+    {
+      "name": "Maursund gård",
+      "latitude": 69.926205,
+      "longitude": 20.85843
+    },
+    {
+      "name": "Meierimuseet",
+      "latitude": 59.665034,
+      "longitude": 10.772009
+    },
+    {
+      "name": "Mellem Vaerftet",
+      "latitude": 63.119038,
+      "longitude": 7.729251
+    },
+    {
+      "name": "Mellemværftet",
+      "latitude": 63.119375,
+      "longitude": 7.729417
+    },
+    {
+      "name": "Meløy bygdemuseum",
+      "latitude": 66.920475,
+      "longitude": 13.622658
+    },
+    {
+      "name": "Merdøgaard skjærgårdsmuseum",
+      "latitude": 58.426106,
+      "longitude": 8.805292
+    },
+    {
+      "name": "Meråker industrimuseum",
+      "latitude": 63.397701,
+      "longitude": 11.841109
+    },
+    {
+      "name": "Middelaldermuseet Borgundkaupangen",
+      "latitude": 62.465887,
+      "longitude": 6.238226
+    },
+    {
+      "name": "Middelalderutstilling",
+      "latitude": 63.428355,
+      "longitude": 10.386085
+    },
+    {
+      "name": "Midgard vikingsenter",
+      "latitude": 59.385031,
+      "longitude": 10.466733
+    },
+    {
+      "name": "Midt-Troms barnemuseum",
+      "latitude": 69.228497,
+      "longitude": 17.975948
+    },
+    {
+      "name": "Migrasjonsmuseet",
+      "latitude": 60.787806,
+      "longitude": 11.122122
+    },
+    {
+      "name": "Mimreståvå",
+      "latitude": 59.483539,
+      "longitude": 6.250979
+    },
+    {
+      "name": "Mineralmuseum",
+      "latitude": 68.809798,
+      "longitude": 18.183916
+    },
+    {
+      "name": "Minne kultursenter",
+      "latitude": 58.618143,
+      "longitude": 7.414817
+    },
+    {
+      "name": "Minnetun",
+      "latitude": 65.388619,
+      "longitude": 12.614273
+    },
+    {
+      "name": "Misjonsmuseet",
+      "latitude": 58.97195,
+      "longitude": 5.71251
+    },
+    {
+      "name": "Mjålandsstova",
+      "latitude": 58.171031,
+      "longitude": 7.559698
+    },
+    {
+      "name": "Mjøsas ark",
+      "latitude": 60.71772,
+      "longitude": 10.858521
+    },
+    {
+      "name": "Mjøssamlingene",
+      "latitude": 60.396832,
+      "longitude": 11.233962
+    },
+    {
+      "name": "Moss by- og industrimuseum",
+      "latitude": 59.438404,
+      "longitude": 10.668316
+    },
+    {
+      "name": "Mostadmark Jernverk",
+      "latitude": 63.35095,
+      "longitude": 10.772435
+    },
+    {
+      "name": "Mosvik Bygdemuseum",
+      "latitude": 63.820876,
+      "longitude": 10.999221
+    },
+    {
+      "name": "Motor Museum",
+      "latitude": 59.295608,
+      "longitude": 11.40951
+    },
+    {
+      "name": "Motormuseet",
+      "latitude": 59.122794,
+      "longitude": 10.232832
+    },
+    {
+      "name": "Munch-senteret",
+      "latitude": 60.786642,
+      "longitude": 11.313877
+    },
+    {
+      "name": "Munchmuseet",
+      "latitude": 59.905773,
+      "longitude": 10.755439
+    },
+    {
+      "name": "Munchs Ekely",
+      "latitude": 59.929242,
+      "longitude": 10.670243
+    },
+    {
+      "name": "Munchs hus",
+      "latitude": 59.352115,
+      "longitude": 10.467314
+    },
+    {
+      "name": "Museet",
+      "latitude": 59.938669,
+      "longitude": 10.740729
+    },
+    {
+      "name": "Museet",
+      "latitude": 59.951931,
+      "longitude": 10.723437
+    },
+    {
+      "name": "Museet",
+      "latitude": 78.925465,
+      "longitude": 11.930247
+    },
+    {
+      "name": "Museet Gamle Vossebanen",
+      "latitude": 60.446726,
+      "longitude": 5.470119
+    },
+    {
+      "name": "Museet Lysøen",
+      "latitude": 60.210982,
+      "longitude": 5.368924
+    },
+    {
+      "name": "Museet i Erkebispegården",
+      "latitude": 63.426063,
+      "longitude": 10.396743
+    },
+    {
+      "name": "Museumsfabrikken Strømmen",
+      "latitude": 59.948455,
+      "longitude": 11.01186
+    },
+    {
+      "name": "Museumsfjøset på Rekstern",
+      "latitude": 64.022629,
+      "longitude": 9.898807
+    },
+    {
+      "name": "Museumsgården Ørpetveit",
+      "latitude": 59.397759,
+      "longitude": 5.336356
+    },
+    {
+      "name": "Museumshytta",
+      "latitude": 78.925204,
+      "longitude": 11.927924
+    },
+    {
+      "name": "Museumssenteret Ramsmoen",
+      "latitude": 62.2731,
+      "longitude": 10.773513
+    },
+    {
+      "name": "Mustad Bedriftsmuseum",
+      "latitude": 60.789605,
+      "longitude": 10.673649
+    },
+    {
+      "name": "Myhre torvstrømuseum",
+      "latitude": 58.293218,
+      "longitude": 8.252642
+    },
+    {
+      "name": "Myklestogo",
+      "latitude": 59.56347,
+      "longitude": 8.569751
+    },
+    {
+      "name": "Myllarheimen",
+      "latitude": 59.775408,
+      "longitude": 7.72751
+    },
+    {
+      "name": "Måbødalen Kulturlandskapsmuseum",
+      "latitude": 60.417231,
+      "longitude": 7.200592
+    },
+    {
+      "name": "Måsøy museum",
+      "latitude": 70.996122,
+      "longitude": 24.657645
+    },
+    {
+      "name": "Mælandsgården",
+      "latitude": 59.147938,
+      "longitude": 5.260548
+    },
+    {
+      "name": "Møbelmuseet",
+      "latitude": 62.390878,
+      "longitude": 6.584004
+    },
+    {
+      "name": "Møllebua",
+      "latitude": 59.78668,
+      "longitude": 5.509762
+    },
+    {
+      "name": "Mølstertunet",
+      "latitude": 60.633439,
+      "longitude": 6.412667
+    },
+    {
+      "name": "N.H.Lerums Saftfabrik",
+      "latitude": 61.423685,
+      "longitude": 7.493207
+    },
+    {
+      "name": "NTNU Vitenskapsmuseet",
+      "latitude": 63.429032,
+      "longitude": 10.386559
+    },
+    {
+      "name": "Namdalen gård",
+      "latitude": 69.556798,
+      "longitude": 29.977556
+    },
+    {
+      "name": "Namdalsmuseet",
+      "latitude": 64.469231,
+      "longitude": 11.521539
+    },
+    {
+      "name": "Nannestad bygdemuseum",
+      "latitude": 60.218982,
+      "longitude": 11.014497
+    },
+    {
+      "name": "Narnte teglverk",
+      "latitude": 59.22144,
+      "longitude": 10.977982
+    },
+    {
+      "name": "Narvik Museum",
+      "latitude": 68.431635,
+      "longitude": 17.42527
+    },
+    {
+      "name": "Narvik krigsmuseum",
+      "latitude": 68.437776,
+      "longitude": 17.425375
+    },
+    {
+      "name": "Nasjonalmuseet",
+      "latitude": 59.911675,
+      "longitude": 10.728966
+    },
+    {
+      "name": "Nasjonalmuseet - Arkitektur",
+      "latitude": 59.908759,
+      "longitude": 10.740227
+    },
+    {
+      "name": "Naturhistorisk museum",
+      "latitude": 59.919783,
+      "longitude": 10.771714
+    },
+    {
+      "name": "Naturmuseum og botanisk hage Universitetet i Agder",
+      "latitude": 58.158973,
+      "longitude": 8.003637
+    },
+    {
+      "name": "Naustanstua",
+      "latitude": 63.967789,
+      "longitude": 10.223042
+    },
+    {
+      "name": "Nedstrand bygdemuseum",
+      "latitude": 59.346243,
+      "longitude": 5.860364
+    },
+    {
+      "name": "Nekton visningssenter",
+      "latitude": 63.460136,
+      "longitude": 8.012617
+    },
+    {
+      "name": "Nerdrum Museum",
+      "latitude": 59.012777,
+      "longitude": 10.03366
+    },
+    {
+      "name": "Nerheimstunet",
+      "latitude": 59.601138,
+      "longitude": 5.804453
+    },
+    {
+      "name": "Nerskog’s museet",
+      "latitude": 62.785789,
+      "longitude": 9.622479
+    },
+    {
+      "name": "Nes Lensemuseum",
+      "latitude": 59.486845,
+      "longitude": 11.23027
+    },
+    {
+      "name": "Nes Lensemuseum",
+      "latitude": 59.486956,
+      "longitude": 11.231193
+    },
+    {
+      "name": "Nes Lensemuseum",
+      "latitude": 59.488223,
+      "longitude": 11.234679
+    },
+    {
+      "name": "Nesheimstunet",
+      "latitude": 60.697689,
+      "longitude": 6.490322
+    },
+    {
+      "name": "Nesset prestegard",
+      "latitude": 62.754996,
+      "longitude": 8.029513
+    },
+    {
+      "name": "Nistovetunet",
+      "latitude": 59.937914,
+      "longitude": 6.001367
+    },
+    {
+      "name": "Nobels Fredssenter",
+      "latitude": 59.911612,
+      "longitude": 10.7304
+    },
+    {
+      "name": "Nord-Troms museum",
+      "latitude": 69.767127,
+      "longitude": 21.01656
+    },
+    {
+      "name": "Nordberg Fort",
+      "latitude": 58.130775,
+      "longitude": 6.620954
+    },
+    {
+      "name": "Nordenfjeldske Kunstindustrimuseum",
+      "latitude": 63.428672,
+      "longitude": 10.396767
+    },
+    {
+      "name": "Nordfjord folkemuseum",
+      "latitude": 61.772791,
+      "longitude": 6.220866
+    },
+    {
+      "name": "Nordisk bibelmuseum",
+      "latitude": 59.910326,
+      "longitude": 10.740945
+    },
+    {
+      "name": "Nordkapphallen",
+      "latitude": 71.169811,
+      "longitude": 25.783951
+    },
+    {
+      "name": "Nordkappmuseet",
+      "latitude": 70.981406,
+      "longitude": 25.970096
+    },
+    {
+      "name": "Nordlandsmuseet",
+      "latitude": 67.281861,
+      "longitude": 14.382329
+    },
+    {
+      "name": "Nordmøre museum",
+      "latitude": 63.109072,
+      "longitude": 7.731098
+    },
+    {
+      "name": "Nordnorsk båtmuseum",
+      "latitude": 68.669824,
+      "longitude": 17.679278
+    },
+    {
+      "name": "Nordnorsk fartøyvernsenter",
+      "latitude": 68.681179,
+      "longitude": 17.465657
+    },
+    {
+      "name": "Nordnorsk kunstmuseum",
+      "latitude": 69.648326,
+      "longitude": 18.959557
+    },
+    {
+      "name": "Nordsjøfartmuseet",
+      "latitude": 60.25443,
+      "longitude": 4.989112
+    },
+    {
+      "name": "Nordvegen Historiesenter",
+      "latitude": 59.354726,
+      "longitude": 5.292251
+    },
+    {
+      "name": "Nordvika gamle handelssted",
+      "latitude": 66.120913,
+      "longitude": 12.503091
+    },
+    {
+      "name": "Nore og Uvdal Bygdetun",
+      "latitude": 60.26531,
+      "longitude": 8.834071
+    },
+    {
+      "name": "Norges Fiskerimuseum",
+      "latitude": 60.407944,
+      "longitude": 5.322068
+    },
+    {
+      "name": "Norges Olympiske museum",
+      "latitude": 61.111668,
+      "longitude": 10.478092
+    },
+    {
+      "name": "Norges Postmuseum",
+      "latitude": 61.113143,
+      "longitude": 10.478758
+    },
+    {
+      "name": "Norges hjemmefrontmuseum",
+      "latitude": 59.907803,
+      "longitude": 10.735762
+    },
+    {
+      "name": "Norsk Barnemuseum",
+      "latitude": 58.964871,
+      "longitude": 5.732971
+    },
+    {
+      "name": "Norsk Bergverksmuseum",
+      "latitude": 59.666107,
+      "longitude": 9.650569
+    },
+    {
+      "name": "Norsk Bergverksmuseum - Sakkerhusene",
+      "latitude": 59.629241,
+      "longitude": 9.598243
+    },
+    {
+      "name": "Norsk Bremuseum",
+      "latitude": 61.423383,
+      "longitude": 6.762842
+    },
+    {
+      "name": "Norsk Døvemuseum",
+      "latitude": 63.42732,
+      "longitude": 10.391401
+    },
+    {
+      "name": "Norsk Farmasihistorisk Museum",
+      "latitude": 59.90597,
+      "longitude": 10.686892
+    },
+    {
+      "name": "Norsk Fiskeindustrimuseum",
+      "latitude": 68.495171,
+      "longitude": 14.806803
+    },
+    {
+      "name": "Norsk Fiskeværsmuseum",
+      "latitude": 67.881355,
+      "longitude": 12.982083
+    },
+    {
+      "name": "Norsk Fjellsenter",
+      "latitude": 61.837986,
+      "longitude": 8.565659
+    },
+    {
+      "name": "Norsk Fjellsprengningsmuseum",
+      "latitude": 61.226186,
+      "longitude": 10.425792
+    },
+    {
+      "name": "Norsk Fjordsenter",
+      "latitude": 62.095603,
+      "longitude": 7.209808
+    },
+    {
+      "name": "Norsk Folkemuseum",
+      "latitude": 59.906901,
+      "longitude": 10.68314
+    },
+    {
+      "name": "Norsk Hagebruksmuseum",
+      "latitude": 58.354586,
+      "longitude": 8.575025
+    },
+    {
+      "name": "Norsk Handverk Institutt",
+      "latitude": 61.112505,
+      "longitude": 10.479014
+    },
+    {
+      "name": "Norsk Havbrukssenter",
+      "latitude": 65.470631,
+      "longitude": 12.134815
+    },
+    {
+      "name": "Norsk Hermetikkmuseum",
+      "latitude": 58.972401,
+      "longitude": 5.725168
+    },
+    {
+      "name": "Norsk Industriarbeidermuseum Vemork",
+      "latitude": 59.870928,
+      "longitude": 8.492644
+    },
+    {
+      "name": "Norsk Industriarbeidermuseum Vemork",
+      "latitude": 59.871201,
+      "longitude": 8.49141
+    },
+    {
+      "name": "Norsk Kjøretøyhistorisk museum",
+      "latitude": 61.225002,
+      "longitude": 10.431567
+    },
+    {
+      "name": "Norsk Luftfartsmuseum",
+      "latitude": 67.276253,
+      "longitude": 14.413496
+    },
+    {
+      "name": "Norsk Maritimt Museum",
+      "latitude": 59.902833,
+      "longitude": 10.698662
+    },
+    {
+      "name": "Norsk Motormuseum",
+      "latitude": 59.733238,
+      "longitude": 5.939485
+    },
+    {
+      "name": "Norsk Natursenter Hardanger",
+      "latitude": 60.42321,
+      "longitude": 7.134738
+    },
+    {
+      "name": "Norsk Oljemuseum",
+      "latitude": 58.973675,
+      "longitude": 5.734829
+    },
+    {
+      "name": "Norsk Radio og Fjernsynsmuseum",
+      "latitude": 63.240967,
+      "longitude": 10.828408
+    },
+    {
+      "name": "Norsk Reiselivsmuseum",
+      "latitude": 61.209479,
+      "longitude": 6.538663
+    },
+    {
+      "name": "Norsk Sagbruksmuseum",
+      "latitude": 64.448502,
+      "longitude": 11.51315
+    },
+    {
+      "name": "Norsk Skogmuseum",
+      "latitude": 60.870088,
+      "longitude": 11.559982
+    },
+    {
+      "name": "Norsk Teknisk Museum",
+      "latitude": 59.966958,
+      "longitude": 10.783502
+    },
+    {
+      "name": "Norsk Telemuseum",
+      "latitude": 68.40949,
+      "longitude": 15.992197
+    },
+    {
+      "name": "Norsk Telemuseum Sørvågen",
+      "latitude": 67.891016,
+      "longitude": 13.025291
+    },
+    {
+      "name": "Norsk Tindesenter",
+      "latitude": 62.567868,
+      "longitude": 7.690209
+    },
+    {
+      "name": "Norsk Vassdragsmuseum",
+      "latitude": 59.618033,
+      "longitude": 9.667587
+    },
+    {
+      "name": "Norsk Vegmuseum Labro",
+      "latitude": 59.618892,
+      "longitude": 9.671379
+    },
+    {
+      "name": "Norsk Villakssenter",
+      "latitude": 58.264355,
+      "longitude": 7.191789
+    },
+    {
+      "name": "Norsk grafisk museum",
+      "latitude": 58.972236,
+      "longitude": 5.724697
+    },
+    {
+      "name": "Norsk jernbanemuseum",
+      "latitude": 60.798501,
+      "longitude": 11.030575
+    },
+    {
+      "name": "Norsk jernbanemuseum",
+      "latitude": 60.8005,
+      "longitude": 11.027119
+    },
+    {
+      "name": "Norsk klippfiskmuseum",
+      "latitude": 63.115426,
+      "longitude": 7.738985
+    },
+    {
+      "name": "Norsk motorhistorisk museum",
+      "latitude": 60.717989,
+      "longitude": 11.207469
+    },
+    {
+      "name": "Norsk myrmuseum",
+      "latitude": 63.419891,
+      "longitude": 8.059724
+    },
+    {
+      "name": "Norsk skieventyr",
+      "latitude": 59.477755,
+      "longitude": 8.418667
+    },
+    {
+      "name": "Norsk skogfinsk museum",
+      "latitude": 60.416592,
+      "longitude": 12.396598
+    },
+    {
+      "name": "Norsk transporthistorisk museum",
+      "latitude": 59.634295,
+      "longitude": 11.318932
+    },
+    {
+      "name": "Norsk tryllemuseum",
+      "latitude": 59.911203,
+      "longitude": 10.719953
+    },
+    {
+      "name": "Norsk vegmuseum",
+      "latitude": 61.227244,
+      "longitude": 10.429034
+    },
+    {
+      "name": "Norske Grisefigurmuseum",
+      "latitude": 60.542175,
+      "longitude": 10.12039
+    },
+    {
+      "name": "North Pole Expedition Museum",
+      "latitude": 78.223319,
+      "longitude": 15.653519
+    },
+    {
+      "name": "Numedalslågens Fløtningsmuseum",
+      "latitude": 59.620746,
+      "longitude": 9.667072
+    },
+    {
+      "name": "Numedalstunet Friluftsmuseet",
+      "latitude": 59.756539,
+      "longitude": 10.199618
+    },
+    {
+      "name": "Nygaardsvoldsmuseet",
+      "latitude": 63.407944,
+      "longitude": 10.799573
+    },
+    {
+      "name": "Næs Jernverksmuseum",
+      "latitude": 58.630245,
+      "longitude": 8.854229
+    },
+    {
+      "name": "Nøstetangen norsk glassmuseum",
+      "latitude": 59.774058,
+      "longitude": 9.913688
+    },
+    {
+      "name": "O. B. Hansens Trykkerisamling",
+      "latitude": 59.66342,
+      "longitude": 10.628402
+    },
+    {
+      "name": "Odalstunet",
+      "latitude": 60.266481,
+      "longitude": 11.679948
+    },
+    {
+      "name": "Odda Vitensenter",
+      "latitude": 60.067892,
+      "longitude": 6.547193
+    },
+    {
+      "name": "Oddentunet",
+      "latitude": 62.436421,
+      "longitude": 11.408748
+    },
+    {
+      "name": "Odderøya Museumshavn",
+      "latitude": 58.140522,
+      "longitude": 8.000292
+    },
+    {
+      "name": "Oladalens Venner",
+      "latitude": 65.837127,
+      "longitude": 13.210981
+    },
+    {
+      "name": "Olav H. Hauge-senteret",
+      "latitude": 60.567159,
+      "longitude": 6.918682
+    },
+    {
+      "name": "Olav og Emma Duuns hus «Fjellvang»",
+      "latitude": 59.503995,
+      "longitude": 10.295515
+    },
+    {
+      "name": "Olavsgruva",
+      "latitude": 62.631044,
+      "longitude": 11.562907
+    },
+    {
+      "name": "Ole Kjærbus Krigshistoriske samlinger",
+      "latitude": 59.658716,
+      "longitude": 11.00124
+    },
+    {
+      "name": "Ole Ottesastua",
+      "latitude": 68.993537,
+      "longitude": 16.52603
+    },
+    {
+      "name": "Ole Soleims minne",
+      "latitude": 63.334426,
+      "longitude": 8.061036
+    },
+    {
+      "name": "Oleana Économusée",
+      "latitude": 60.460688,
+      "longitude": 5.438254
+    },
+    {
+      "name": "Orala",
+      "latitude": 60.203173,
+      "longitude": 12.435003
+    },
+    {
+      "name": "Orkdal bygdetun",
+      "latitude": 63.169684,
+      "longitude": 9.717323
+    },
+    {
+      "name": "Orkla industrimuseum",
+      "latitude": 63.124921,
+      "longitude": 9.705183
+    },
+    {
+      "name": "Oscarsborg festningsmuseum",
+      "latitude": 59.673493,
+      "longitude": 10.607664
+    },
+    {
+      "name": "Oslo skolemuseum",
+      "latitude": 59.918287,
+      "longitude": 10.749915
+    },
+    {
+      "name": "Oslofjordmuseet",
+      "latitude": 59.807034,
+      "longitude": 10.491015
+    },
+    {
+      "name": "Osterøy Museum",
+      "latitude": 60.502482,
+      "longitude": 5.544869
+    },
+    {
+      "name": "Otnesbrygga",
+      "latitude": 63.136964,
+      "longitude": 8.49722
+    },
+    {
+      "name": "Otta bergverkssenter",
+      "latitude": 61.772162,
+      "longitude": 9.539108
+    },
+    {
+      "name": "Palmehuset",
+      "latitude": 59.917774,
+      "longitude": 10.771315
+    },
+    {
+      "name": "Paradox Museum",
+      "latitude": 59.914342,
+      "longitude": 10.739218
+    },
+    {
+      "name": "Partisanmuseet",
+      "latitude": 70.287829,
+      "longitude": 30.99447
+    },
+    {
+      "name": "Peder Balke-senteret",
+      "latitude": 60.705926,
+      "longitude": 10.895463
+    },
+    {
+      "name": "Permanenten",
+      "latitude": 60.390779,
+      "longitude": 5.323718
+    },
+    {
+      "name": "Perspektivet Folkeparken",
+      "latitude": 69.636599,
+      "longitude": 18.90584
+    },
+    {
+      "name": "Perspektivet museum",
+      "latitude": 69.652332,
+      "longitude": 18.95925
+    },
+    {
+      "name": "Petter Dass kapell",
+      "latitude": 66.502718,
+      "longitude": 12.081829
+    },
+    {
+      "name": "Petter Dass-museet",
+      "latitude": 65.894368,
+      "longitude": 12.396512
+    },
+    {
+      "name": "Petter Dyrkorn-samlinga",
+      "latitude": 62.68986,
+      "longitude": 6.39126
+    },
+    {
+      "name": "Pitesamisk senter",
+      "latitude": 67.013017,
+      "longitude": 14.568349
+    },
+    {
+      "name": "Playmobil museum",
+      "latitude": 58.869489,
+      "longitude": 9.41285
+    },
+    {
+      "name": "Pleymkaia",
+      "latitude": 69.97254,
+      "longitude": 29.642585
+    },
+    {
+      "name": "PoMo",
+      "latitude": 63.43212,
+      "longitude": 10.399086
+    },
+    {
+      "name": "Polarmuseet",
+      "latitude": 69.652207,
+      "longitude": 18.963317
+    },
+    {
+      "name": "Politimestergården",
+      "latitude": 65.844613,
+      "longitude": 13.206235
+    },
+    {
+      "name": "Pomormuseet",
+      "latitude": 70.371123,
+      "longitude": 31.105056
+    },
+    {
+      "name": "Popsenteret",
+      "latitude": 59.919777,
+      "longitude": 10.761033
+    },
+    {
+      "name": "Porselensmuseet",
+      "latitude": 59.140818,
+      "longitude": 9.639159
+    },
+    {
+      "name": "Porsgrunn bymuseum & prestegårdshagen",
+      "latitude": 59.137202,
+      "longitude": 9.638361
+    },
+    {
+      "name": "Porsmyr bygdetun",
+      "latitude": 58.151398,
+      "longitude": 7.830017
+    },
+    {
+      "name": "Portåsen",
+      "latitude": 59.730248,
+      "longitude": 9.98788
+    },
+    {
+      "name": "Pressemuseet Fjeld-Ljom",
+      "latitude": 62.573985,
+      "longitude": 11.387024
+    },
+    {
+      "name": "Prestegårdsfjøset",
+      "latitude": 63.678897,
+      "longitude": 10.633459
+    },
+    {
+      "name": "Prestegårdslåna",
+      "latitude": 63.272904,
+      "longitude": 10.292756
+    },
+    {
+      "name": "Prestelvkaia",
+      "latitude": 70.07657,
+      "longitude": 29.725189
+    },
+    {
+      "name": "Preus Fotomuseum",
+      "latitude": 59.425806,
+      "longitude": 10.487285
+    },
+    {
+      "name": "Prøysenhuset",
+      "latitude": 60.912094,
+      "longitude": 10.791317
+    },
+    {
+      "name": "Prøysenstua",
+      "latitude": 60.912757,
+      "longitude": 10.792072
+    },
+    {
+      "name": "Radiomuseet",
+      "latitude": 60.448636,
+      "longitude": 5.216736
+    },
+    {
+      "name": "Rakkestad bygdetun",
+      "latitude": 59.429792,
+      "longitude": 11.347801
+    },
+    {
+      "name": "Rallarmuseet",
+      "latitude": 60.60162,
+      "longitude": 7.505858
+    },
+    {
+      "name": "Rana museum",
+      "latitude": 66.313115,
+      "longitude": 14.130045
+    },
+    {
+      "name": "Rangnes gamle skole",
+      "latitude": 63.328591,
+      "longitude": 8.05114
+    },
+    {
+      "name": "Ranheim bydelsmuseum",
+      "latitude": 63.428081,
+      "longitude": 10.53458
+    },
+    {
+      "name": "Ranheimbrygga",
+      "latitude": 66.22383,
+      "longitude": 13.602648
+    },
+    {
+      "name": "Ratvollen",
+      "latitude": 62.71676,
+      "longitude": 11.342472
+    },
+    {
+      "name": "Rauland kunstmuseum",
+      "latitude": 59.695068,
+      "longitude": 8.052533
+    },
+    {
+      "name": "Ravenheart Hardanger",
+      "latitude": 60.464813,
+      "longitude": 7.06999
+    },
+    {
+      "name": "Reidar Berge-museet",
+      "latitude": 58.971181,
+      "longitude": 5.738453
+    },
+    {
+      "name": "Reidvin-tunet",
+      "latitude": 59.508225,
+      "longitude": 10.192993
+    },
+    {
+      "name": "Reins kloster",
+      "latitude": 63.564801,
+      "longitude": 9.921883
+    },
+    {
+      "name": "Rendalen Bygdemuseum",
+      "latitude": 61.884721,
+      "longitude": 11.080833
+    },
+    {
+      "name": "Rennebu Bygdetun",
+      "latitude": 62.887516,
+      "longitude": 9.821536
+    },
+    {
+      "name": "Revtangen ornitologiske stasjon",
+      "latitude": 58.761879,
+      "longitude": 5.508268
+    },
+    {
+      "name": "Riddersalen",
+      "latitude": 59.98754,
+      "longitude": 6.02259
+    },
+    {
+      "name": "Riksregalieutstillingen",
+      "latitude": 63.4263,
+      "longitude": 10.395319
+    },
+    {
+      "name": "Rindal bygdemuseum",
+      "latitude": 63.058169,
+      "longitude": 9.21422
+    },
+    {
+      "name": "Rindal skimuseum",
+      "latitude": 63.058008,
+      "longitude": 9.214547
+    },
+    {
+      "name": "Ringebu prestegard",
+      "latitude": 61.511327,
+      "longitude": 10.173085
+    },
+    {
+      "name": "Ringerikes museum",
+      "latitude": 60.13189,
+      "longitude": 10.26845
+    },
+    {
+      "name": "Ringve Musikkmuseum",
+      "latitude": 63.447429,
+      "longitude": 10.454054
+    },
+    {
+      "name": "Risbakken gårdsmuseum",
+      "latitude": 65.693245,
+      "longitude": 11.926153
+    },
+    {
+      "name": "Riska histore- og museumslag",
+      "latitude": 58.926094,
+      "longitude": 5.853087
+    },
+    {
+      "name": "Risør Kystkultursenter",
+      "latitude": 58.72664,
+      "longitude": 9.071191
+    },
+    {
+      "name": "Risør Museum",
+      "latitude": 58.721643,
+      "longitude": 9.230519
+    },
+    {
+      "name": "Risøyhamn bygdetun",
+      "latitude": 68.970994,
+      "longitude": 15.640794
+    },
+    {
+      "name": "Roald Amundsens fødested",
+      "latitude": 59.264448,
+      "longitude": 11.079934
+    },
+    {
+      "name": "Roald Amundsens hjem",
+      "latitude": 59.786175,
+      "longitude": 10.733949
+    },
+    {
+      "name": "Rock City",
+      "latitude": 64.468821,
+      "longitude": 11.487231
+    },
+    {
+      "name": "Rockheim",
+      "latitude": 63.438707,
+      "longitude": 10.401627
+    },
+    {
+      "name": "Roenland",
+      "latitude": 60.285819,
+      "longitude": 10.405792
+    },
+    {
+      "name": "Rognlisaga",
+      "latitude": 60.486332,
+      "longitude": 10.982694
+    },
+    {
+      "name": "Rolf Nesch museum",
+      "latitude": 60.629746,
+      "longitude": 8.561901
+    },
+    {
+      "name": "Rolf Riise radiomuseum",
+      "latitude": 60.876269,
+      "longitude": 10.954236
+    },
+    {
+      "name": "Romsdalsmuseet - Krona",
+      "latitude": 62.739683,
+      "longitude": 7.150809
+    },
+    {
+      "name": "Roparneset",
+      "latitude": 66.815315,
+      "longitude": 15.402172
+    },
+    {
+      "name": "Rosenkrantztårnet",
+      "latitude": 60.399056,
+      "longitude": 5.318303
+    },
+    {
+      "name": "Roseslottet",
+      "latitude": 59.979776,
+      "longitude": 10.676192
+    },
+    {
+      "name": "Rosvoll prestegard",
+      "latitude": 63.307867,
+      "longitude": 8.015992
+    },
+    {
+      "name": "Runde miljøsenter",
+      "latitude": 62.399025,
+      "longitude": 5.66026
+    },
+    {
+      "name": "Rustkammeret",
+      "latitude": 63.425805,
+      "longitude": 10.395287
+    },
+    {
+      "name": "Ryfylkemuseet",
+      "latitude": 59.485128,
+      "longitude": 6.248073
+    },
+    {
+      "name": "Rygge museum og historielag",
+      "latitude": 59.377825,
+      "longitude": 10.725386
+    },
+    {
+      "name": "Rygnestadtunet",
+      "latitude": 59.262967,
+      "longitude": 7.489567
+    },
+    {
+      "name": "Råde forsvarsmuseum",
+      "latitude": 59.35284,
+      "longitude": 10.867503
+    },
+    {
+      "name": "Rånåsfoss kraftstasjon",
+      "latitude": 60.027312,
+      "longitude": 11.324184
+    },
+    {
+      "name": "Rælingen bygdetun",
+      "latitude": 59.920377,
+      "longitude": 11.081823
+    },
+    {
+      "name": "Rød herregård",
+      "latitude": 59.122855,
+      "longitude": 11.368927
+    },
+    {
+      "name": "Rørosmuseet Bygningsvernsenteret",
+      "latitude": 62.576519,
+      "longitude": 11.390343
+    },
+    {
+      "name": "Rørosmuseet Smelthytta",
+      "latitude": 62.577185,
+      "longitude": 11.39125
+    },
+    {
+      "name": "Røvær Havbrukssenter",
+      "latitude": 59.438604,
+      "longitude": 5.091291
+    },
+    {
+      "name": "Røykstova på Laupland",
+      "latitude": 59.185701,
+      "longitude": 5.445209
+    },
+    {
+      "name": "Røynevarden husmannsplass",
+      "latitude": 59.601258,
+      "longitude": 6.760423
+    },
+    {
+      "name": "SAS-museet",
+      "latitude": 60.202357,
+      "longitude": 11.075278
+    },
+    {
+      "name": "SDS Hansteen",
+      "latitude": 63.434449,
+      "longitude": 10.406737
+    },
+    {
+      "name": "Saa'mi mu'zei / Skoltesamisk museum",
+      "latitude": 69.69955,
+      "longitude": 29.377808
+    },
+    {
+      "name": "Saemien Sijte",
+      "latitude": 64.247422,
+      "longitude": 12.358751
+    },
+    {
+      "name": "Saga Siglar hallen",
+      "latitude": 63.029641,
+      "longitude": 7.396313
+    },
+    {
+      "name": "Sagastad",
+      "latitude": 61.910026,
+      "longitude": 5.981711
+    },
+    {
+      "name": "Sagelva Vasskraftsenter",
+      "latitude": 62.277444,
+      "longitude": 8.120259
+    },
+    {
+      "name": "Salangen bygdetun",
+      "latitude": 68.876799,
+      "longitude": 18.059701
+    },
+    {
+      "name": "Salangsverket",
+      "latitude": 68.908929,
+      "longitude": 17.719026
+    },
+    {
+      "name": "Salmon Center Bodø",
+      "latitude": 67.285138,
+      "longitude": 14.381368
+    },
+    {
+      "name": "Salmon Center Molde",
+      "latitude": 62.737344,
+      "longitude": 7.159674
+    },
+    {
+      "name": "Saltdal bygdetun",
+      "latitude": 67.101021,
+      "longitude": 15.428091
+    },
+    {
+      "name": "Salteriet Galleri",
+      "latitude": 68.034602,
+      "longitude": 13.349277
+    },
+    {
+      "name": "Saltstraumen museum",
+      "latitude": 67.233788,
+      "longitude": 14.629081
+    },
+    {
+      "name": "Sambandsbrakke",
+      "latitude": 66.35192,
+      "longitude": 13.001659
+    },
+    {
+      "name": "Sandbekk mølle",
+      "latitude": 59.2797,
+      "longitude": 11.464853
+    },
+    {
+      "name": "Sande gamle prestegård",
+      "latitude": 59.592356,
+      "longitude": 10.20811
+    },
+    {
+      "name": "Sanden museum",
+      "latitude": 63.517936,
+      "longitude": 7.953445
+    },
+    {
+      "name": "Sandnessjøen krigsminnesamling",
+      "latitude": 66.016624,
+      "longitude": 12.620603
+    },
+    {
+      "name": "Sandtorg bygdetun",
+      "latitude": 68.683353,
+      "longitude": 16.529056
+    },
+    {
+      "name": "Sanitetsbunker",
+      "latitude": 60.325143,
+      "longitude": 5.088995
+    },
+    {
+      "name": "Sanitetsbunkeren",
+      "latitude": 61.598262,
+      "longitude": 5.025367
+    },
+    {
+      "name": "Sannidal bygdetun",
+      "latitude": 58.893735,
+      "longitude": 9.260772
+    },
+    {
+      "name": "Saviomusea / Saviomuseet",
+      "latitude": 69.71662,
+      "longitude": 30.04331
+    },
+    {
+      "name": "Scandinavian Collage Museum",
+      "latitude": 62.815693,
+      "longitude": 10.034904
+    },
+    {
+      "name": "Schøtstuene",
+      "latitude": 60.398454,
+      "longitude": 5.323727
+    },
+    {
+      "name": "Sekken bygdetun",
+      "latitude": 62.652232,
+      "longitude": 7.337437
+    },
+    {
+      "name": "Selbu Bygdemuseum",
+      "latitude": 63.216239,
+      "longitude": 11.040583
+    },
+    {
+      "name": "Seløystova",
+      "latitude": 59.948579,
+      "longitude": 5.628177
+    },
+    {
+      "name": "Senjehesten kystforsvarsmuseum",
+      "latitude": 69.057154,
+      "longitude": 16.795757
+    },
+    {
+      "name": "Senter for studier av Holocaust og livssynsminoriteter",
+      "latitude": 59.898946,
+      "longitude": 10.67814
+    },
+    {
+      "name": "Setesdalsbanen - Grovane stasjon",
+      "latitude": 58.29514,
+      "longitude": 7.980517
+    },
+    {
+      "name": "Setesdalsbanen - Røyknes stasjon",
+      "latitude": 58.343406,
+      "longitude": 7.900524
+    },
+    {
+      "name": "Setesdalsmuseet - Rysstad",
+      "latitude": 59.094889,
+      "longitude": 7.527066
+    },
+    {
+      "name": "Shellstasjonen",
+      "latitude": 65.839105,
+      "longitude": 13.187824
+    },
+    {
+      "name": "Sigdal museum",
+      "latitude": 60.043141,
+      "longitude": 9.638508
+    },
+    {
+      "name": "Sigurd Nomes skulptursamling",
+      "latitude": 58.172261,
+      "longitude": 7.557871
+    },
+    {
+      "name": "Siljustøl museum",
+      "latitude": 60.294023,
+      "longitude": 5.308103
+    },
+    {
+      "name": "Singerheimen",
+      "latitude": 61.832442,
+      "longitude": 6.813032
+    },
+    {
+      "name": "Sirdal fjellmuseum",
+      "latitude": 58.941639,
+      "longitude": 6.917775
+    },
+    {
+      "name": "Sivert Aarflot-museet",
+      "latitude": 62.162069,
+      "longitude": 6.031839
+    },
+    {
+      "name": "Sjøboden",
+      "latitude": 59.746727,
+      "longitude": 10.168504
+    },
+    {
+      "name": "Sjøbruksmuseum",
+      "latitude": 59.034826,
+      "longitude": 5.586606
+    },
+    {
+      "name": "Sjøfartsmuseet",
+      "latitude": 59.137229,
+      "longitude": 9.638412
+    },
+    {
+      "name": "Sjøfartsmuseet i Aust-Agder",
+      "latitude": 58.341973,
+      "longitude": 8.601674
+    },
+    {
+      "name": "Sjøhuset i Bergevik",
+      "latitude": 58.905441,
+      "longitude": 6.098624
+    },
+    {
+      "name": "Sjøhuset til Mikal L. Klovning",
+      "latitude": 59.298593,
+      "longitude": 4.891973
+    },
+    {
+      "name": "Sjølingstad Uldvarefabrik",
+      "latitude": 58.069294,
+      "longitude": 7.389094
+    },
+    {
+      "name": "Sjømennenes minnehall",
+      "latitude": 58.991233,
+      "longitude": 10.036917
+    },
+    {
+      "name": "Skaaluren skipsbyggjarmuseum",
+      "latitude": 59.986684,
+      "longitude": 6.007553
+    },
+    {
+      "name": "Skaftnes gård",
+      "latitude": 68.10776,
+      "longitude": 13.7251
+    },
+    {
+      "name": "Skandinavisk Motorsykkel Center",
+      "latitude": 59.936017,
+      "longitude": 12.220981
+    },
+    {
+      "name": "Skedsmo bygdemuseum",
+      "latitude": 60.001196,
+      "longitude": 11.034415
+    },
+    {
+      "name": "Skibotn markedsplass",
+      "latitude": 69.393523,
+      "longitude": 20.268586
+    },
+    {
+      "name": "Skifjøset",
+      "latitude": 63.980712,
+      "longitude": 10.415787
+    },
+    {
+      "name": "Skimuseet",
+      "latitude": 59.964611,
+      "longitude": 10.666613
+    },
+    {
+      "name": "Skinnarlandsamlinga",
+      "latitude": 59.694885,
+      "longitude": 8.05014
+    },
+    {
+      "name": "Skiptvet bygdemuseum",
+      "latitude": 59.477472,
+      "longitude": 11.162527
+    },
+    {
+      "name": "Skjærstad Sildoljefabrikk",
+      "latitude": 68.847011,
+      "longitude": 16.281441
+    },
+    {
+      "name": "Skolemuseum",
+      "latitude": 61.924554,
+      "longitude": 5.884609
+    },
+    {
+      "name": "Skonnerten Anna Rogde",
+      "latitude": 68.787443,
+      "longitude": 16.553034
+    },
+    {
+      "name": "Skreddarhaugen",
+      "latitude": 63.260598,
+      "longitude": 10.064312
+    },
+    {
+      "name": "Skredhaugen",
+      "latitude": 60.349645,
+      "longitude": 6.663116
+    },
+    {
+      "name": "Skrivergården",
+      "latitude": 60.712073,
+      "longitude": 10.87447
+    },
+    {
+      "name": "Skulestova",
+      "latitude": 59.783702,
+      "longitude": 5.501235
+    },
+    {
+      "name": "Skøytemuseet",
+      "latitude": 59.927723,
+      "longitude": 10.709451
+    },
+    {
+      "name": "Sleggveien",
+      "latitude": 62.575797,
+      "longitude": 11.391139
+    },
+    {
+      "name": "Slettebøsmia",
+      "latitude": 59.276797,
+      "longitude": 5.525735
+    },
+    {
+      "name": "Slettedalen stølsbu",
+      "latitude": 59.719898,
+      "longitude": 6.478691
+    },
+    {
+      "name": "Slottsfjellsmuseet",
+      "latitude": 59.273664,
+      "longitude": 10.40595
+    },
+    {
+      "name": "Smio",
+      "latitude": 59.78319,
+      "longitude": 5.500368
+    },
+    {
+      "name": "Småflaskemuseet",
+      "latitude": 59.909641,
+      "longitude": 10.743402
+    },
+    {
+      "name": "Sofus Madsen Skulpturmuseum",
+      "latitude": 60.364644,
+      "longitude": 5.371039
+    },
+    {
+      "name": "Sogn Fjordmuseum",
+      "latitude": 61.183674,
+      "longitude": 7.246514
+    },
+    {
+      "name": "Sogn og Fjordane Kunstmuseum",
+      "latitude": 61.451947,
+      "longitude": 5.856559
+    },
+    {
+      "name": "Solberggruva",
+      "latitude": 58.618692,
+      "longitude": 8.869551
+    },
+    {
+      "name": "Solbraa setermuseum",
+      "latitude": 61.4907,
+      "longitude": 9.754855
+    },
+    {
+      "name": "Solhålå",
+      "latitude": 59.291549,
+      "longitude": 5.237489
+    },
+    {
+      "name": "Son Kystkultursenteret",
+      "latitude": 59.524332,
+      "longitude": 10.687376
+    },
+    {
+      "name": "Sondre Norheim",
+      "latitude": 59.491386,
+      "longitude": 8.387183
+    },
+    {
+      "name": "Sortland museum",
+      "latitude": 68.697112,
+      "longitude": 15.417289
+    },
+    {
+      "name": "Spaceship Aurora",
+      "latitude": 69.295615,
+      "longitude": 16.03033
+    },
+    {
+      "name": "Speidermuseet",
+      "latitude": 58.911925,
+      "longitude": 5.666525
+    },
+    {
+      "name": "Sporveismuseet",
+      "latitude": 59.931273,
+      "longitude": 10.716363
+    },
+    {
+      "name": "Sporveismuseet",
+      "latitude": 63.397835,
+      "longitude": 10.35841
+    },
+    {
+      "name": "Sputnik-museet",
+      "latitude": 59.107208,
+      "longitude": 8.886714
+    },
+    {
+      "name": "Stabburet",
+      "latitude": 58.170912,
+      "longitude": 7.559694
+    },
+    {
+      "name": "Stalheim folkemuseum",
+      "latitude": 60.834768,
+      "longitude": 6.679354
+    },
+    {
+      "name": "Stallgården",
+      "latitude": 60.299134,
+      "longitude": 11.172028
+    },
+    {
+      "name": "Stavanger Museum",
+      "latitude": 58.964595,
+      "longitude": 5.733041
+    },
+    {
+      "name": "Stavanger kunstmuseum",
+      "latitude": 58.954824,
+      "longitude": 5.703499
+    },
+    {
+      "name": "Stavanger maritime museum",
+      "latitude": 58.970511,
+      "longitude": 5.728661
+    },
+    {
+      "name": "Stavkirkemuseum",
+      "latitude": 61.120676,
+      "longitude": 9.058516
+    },
+    {
+      "name": "Stavkyrkjesenteret i Lom",
+      "latitude": 61.838835,
+      "longitude": 8.565921
+    },
+    {
+      "name": "Steigen bygdetun",
+      "latitude": 67.923353,
+      "longitude": 15.016803
+    },
+    {
+      "name": "Stein skole",
+      "latitude": 60.135999,
+      "longitude": 11.373739
+    },
+    {
+      "name": "Steinberg friluftsmuseum",
+      "latitude": 60.702898,
+      "longitude": 10.748847
+    },
+    {
+      "name": "Steinhoggermuseet",
+      "latitude": 59.958897,
+      "longitude": 10.88235
+    },
+    {
+      "name": "Steinhuset",
+      "latitude": 60.368369,
+      "longitude": 10.524133
+    },
+    {
+      "name": "Steinsland klyngetun",
+      "latitude": 68.615255,
+      "longitude": 16.580008
+    },
+    {
+      "name": "Stenberg Friluftsmuseum",
+      "latitude": 60.702845,
+      "longitude": 10.751627
+    },
+    {
+      "name": "Stend stasjon",
+      "latitude": 60.274408,
+      "longitude": 5.334025
+    },
+    {
+      "name": "Stenneset friluftsmuseum",
+      "latitude": 66.328938,
+      "longitude": 14.094404
+    },
+    {
+      "name": "Stiftelsen Arkivet",
+      "latitude": 58.14467,
+      "longitude": 7.981537
+    },
+    {
+      "name": "Stiftelsen Haugesjøen",
+      "latitude": 59.413617,
+      "longitude": 5.263099
+    },
+    {
+      "name": "Stiftsgården",
+      "latitude": 63.431567,
+      "longitude": 10.39525
+    },
+    {
+      "name": "Stikladstadir",
+      "latitude": 63.798588,
+      "longitude": 11.565828
+    },
+    {
+      "name": "Stiklestad Nasjonale Kultursenter",
+      "latitude": 63.795933,
+      "longitude": 11.562824
+    },
+    {
+      "name": "Stiklestad nasjonale kultursenter",
+      "latitude": 63.796546,
+      "longitude": 11.564117
+    },
+    {
+      "name": "Stjørdal museum Værnes",
+      "latitude": 63.454018,
+      "longitude": 10.957408
+    },
+    {
+      "name": "Stokke bygdetun",
+      "latitude": 59.222711,
+      "longitude": 10.286942
+    },
+    {
+      "name": "Stolmastovo",
+      "latitude": 59.783387,
+      "longitude": 5.500672
+    },
+    {
+      "name": "Storbekkøya museumsseter",
+      "latitude": 62.796331,
+      "longitude": 10.624765
+    },
+    {
+      "name": "Stord maritime museum",
+      "latitude": 59.781641,
+      "longitude": 5.503804
+    },
+    {
+      "name": "Storhaugen dagbruddområde",
+      "latitude": 68.935374,
+      "longitude": 17.86532
+    },
+    {
+      "name": "Strand skoleinternat",
+      "latitude": 69.524838,
+      "longitude": 29.978652
+    },
+    {
+      "name": "Strandsitterhuset",
+      "latitude": 59.839581,
+      "longitude": 10.511494
+    },
+    {
+      "name": "Straumen gård",
+      "latitude": 69.5641,
+      "longitude": 18.671535
+    },
+    {
+      "name": "Strømsfoss mølle",
+      "latitude": 59.301787,
+      "longitude": 11.658859
+    },
+    {
+      "name": "Strømsør fjellgård",
+      "latitude": 68.696349,
+      "longitude": 18.691142
+    },
+    {
+      "name": "Styrerboligen",
+      "latitude": 58.17193,
+      "longitude": 7.558899
+    },
+    {
+      "name": "Støa",
+      "latitude": 59.552744,
+      "longitude": 10.419926
+    },
+    {
+      "name": "Støa kanal",
+      "latitude": 61.253984,
+      "longitude": 12.814819
+    },
+    {
+      "name": "Sula Fiskeværsmuseum",
+      "latitude": 63.84531,
+      "longitude": 8.455723
+    },
+    {
+      "name": "Sulitjelma Gruvemuseum",
+      "latitude": 67.121115,
+      "longitude": 16.097142
+    },
+    {
+      "name": "Sund fiskerimuseum",
+      "latitude": 68.004967,
+      "longitude": 13.207073
+    },
+    {
+      "name": "Sunndal bygdemuseum",
+      "latitude": 62.651305,
+      "longitude": 8.689934
+    },
+    {
+      "name": "Sunnfjord museum",
+      "latitude": 61.438871,
+      "longitude": 5.972374
+    },
+    {
+      "name": "Sunnhordland museum",
+      "latitude": 59.783764,
+      "longitude": 5.500525
+    },
+    {
+      "name": "Sunnhordlandstunet",
+      "latitude": 59.783843,
+      "longitude": 5.500366
+    },
+    {
+      "name": "Sunnmøre museum",
+      "latitude": 62.468914,
+      "longitude": 6.236241
+    },
+    {
+      "name": "Svalbard Museum",
+      "latitude": 78.222378,
+      "longitude": 15.652313
+    },
+    {
+      "name": "Sveindal museum",
+      "latitude": 58.483187,
+      "longitude": 7.452163
+    },
+    {
+      "name": "Svelvik museum",
+      "latitude": 59.613837,
+      "longitude": 10.408095
+    },
+    {
+      "name": "Sverresborg Trøndelag Folkemuseum",
+      "latitude": 63.419368,
+      "longitude": 10.358443
+    },
+    {
+      "name": "Svinviks arboret",
+      "latitude": 62.852983,
+      "longitude": 8.630883
+    },
+    {
+      "name": "Svullrya gamle skole",
+      "latitude": 60.415963,
+      "longitude": 12.409143
+    },
+    {
+      "name": "Sykkylven Naturmuseum",
+      "latitude": 62.390966,
+      "longitude": 6.584021
+    },
+    {
+      "name": "Sámiid Vuorká-Dávvirat / De Samiske Samlinger",
+      "latitude": 69.473417,
+      "longitude": 25.52009
+    },
+    {
+      "name": "Sážža / Senja natur- og kultursenter",
+      "latitude": 69.211106,
+      "longitude": 17.617747
+    },
+    {
+      "name": "Sæbøtunet",
+      "latitude": 59.662197,
+      "longitude": 5.928545
+    },
+    {
+      "name": "Søgne gamle prestegård",
+      "latitude": 58.090859,
+      "longitude": 7.839899
+    },
+    {
+      "name": "Sømna bygdetun",
+      "latitude": 65.312239,
+      "longitude": 12.164334
+    },
+    {
+      "name": "Sønsteby Natur og Kultursenter",
+      "latitude": 59.653396,
+      "longitude": 10.386441
+    },
+    {
+      "name": "Sør-Varanger museum",
+      "latitude": 69.716886,
+      "longitude": 30.043513
+    },
+    {
+      "name": "Sørlistua Fløtermuseum",
+      "latitude": 61.240743,
+      "longitude": 11.817148
+    },
+    {
+      "name": "TS Museet",
+      "latitude": 58.842213,
+      "longitude": 5.586042
+    },
+    {
+      "name": "Tafjord 1 kraftverk",
+      "latitude": 62.226426,
+      "longitude": 7.42142
+    },
+    {
+      "name": "Tegneseriemuseet",
+      "latitude": 60.417155,
+      "longitude": 10.509951
+    },
+    {
+      "name": "Teigen bygdemuseum",
+      "latitude": 62.908553,
+      "longitude": 7.777724
+    },
+    {
+      "name": "Tekstilindustrimuseet",
+      "latitude": 60.507846,
+      "longitude": 5.271287
+    },
+    {
+      "name": "Telegrafen",
+      "latitude": 78.92312,
+      "longitude": 11.932905
+    },
+    {
+      "name": "Telemark Kunstmuseum - Verdensarvsenteret",
+      "latitude": 59.567482,
+      "longitude": 9.261997
+    },
+    {
+      "name": "Telemark museum",
+      "latitude": 59.208937,
+      "longitude": 9.614224
+    },
+    {
+      "name": "Telemuseet",
+      "latitude": 59.966898,
+      "longitude": 10.784137
+    },
+    {
+      "name": "Tellevik kystfort",
+      "latitude": 60.518747,
+      "longitude": 5.275714
+    },
+    {
+      "name": "Thamspaviljongen",
+      "latitude": 63.299915,
+      "longitude": 9.845709
+    },
+    {
+      "name": "The Thai Museum at Nordkapp",
+      "latitude": 71.170477,
+      "longitude": 25.78449
+    },
+    {
+      "name": "The Viking Planet",
+      "latitude": 59.91328,
+      "longitude": 10.734048
+    },
+    {
+      "name": "Thetamuseet",
+      "latitude": 60.397619,
+      "longitude": 5.324131
+    },
+    {
+      "name": "Time bygdemuseum",
+      "latitude": 58.682081,
+      "longitude": 5.775486
+    },
+    {
+      "name": "Tinden",
+      "latitude": 68.841301,
+      "longitude": 14.755485
+    },
+    {
+      "name": "Tinghaug",
+      "latitude": 59.647842,
+      "longitude": 6.316238
+    },
+    {
+      "name": "Tingvatn fornminnepark",
+      "latitude": 58.393752,
+      "longitude": 7.230311
+    },
+    {
+      "name": "Tingvoll museum",
+      "latitude": 62.92471,
+      "longitude": 8.186406
+    },
+    {
+      "name": "Tingvoll Økopark",
+      "latitude": 62.914034,
+      "longitude": 8.18471
+    },
+    {
+      "name": "Tinn museum",
+      "latitude": 59.881422,
+      "longitude": 8.648526
+    },
+    {
+      "name": "Tinnveden",
+      "latitude": 63.715737,
+      "longitude": 9.568047
+    },
+    {
+      "name": "Tirpitz Museum",
+      "latitude": 69.93061,
+      "longitude": 23.016285
+    },
+    {
+      "name": "Tjeldsund museum",
+      "latitude": 68.544411,
+      "longitude": 16.40674
+    },
+    {
+      "name": "Toftes gave",
+      "latitude": 60.753719,
+      "longitude": 10.949339
+    },
+    {
+      "name": "Tollboden på Nedstrand",
+      "latitude": 59.345367,
+      "longitude": 5.857853
+    },
+    {
+      "name": "Tonjer fyr",
+      "latitude": 59.423987,
+      "longitude": 5.240513
+    },
+    {
+      "name": "Trandamperi",
+      "latitude": 67.881166,
+      "longitude": 12.983385
+    },
+    {
+      "name": "Trandamperi",
+      "latitude": 68.033984,
+      "longitude": 13.349788
+    },
+    {
+      "name": "Trastad samlinger",
+      "latitude": 68.782709,
+      "longitude": 16.136162
+    },
+    {
+      "name": "Tresfjord museum",
+      "latitude": 62.51658,
+      "longitude": 7.137465
+    },
+    {
+      "name": "Troll Museum",
+      "latitude": 60.39905,
+      "longitude": 5.32159
+    },
+    {
+      "name": "Trollull fellesmagasin",
+      "latitude": 59.55298,
+      "longitude": 11.32162
+    },
+    {
+      "name": "Troms Forsvarsmuseum",
+      "latitude": 68.858132,
+      "longitude": 18.349595
+    },
+    {
+      "name": "Tromsø Forsvarsmuseum",
+      "latitude": 69.610484,
+      "longitude": 18.940693
+    },
+    {
+      "name": "Tromsø museum",
+      "latitude": 69.634951,
+      "longitude": 18.91211
+    },
+    {
+      "name": "Trondenes historiske senter",
+      "latitude": 68.820328,
+      "longitude": 16.559025
+    },
+    {
+      "name": "Trondheim Kunstmuseum Bispegata",
+      "latitude": 63.42728,
+      "longitude": 10.394597
+    },
+    {
+      "name": "Trondheim kunstmuseum Gråmølna",
+      "latitude": 63.43517,
+      "longitude": 10.41518
+    },
+    {
+      "name": "Trondhjems Sjøfartsmuseum",
+      "latitude": 63.434503,
+      "longitude": 10.405261
+    },
+    {
+      "name": "Trysil bydetun",
+      "latitude": 61.317089,
+      "longitude": 12.26881
+    },
+    {
+      "name": "Trysil/Engerdal museum",
+      "latitude": 61.315103,
+      "longitude": 12.262426
+    },
+    {
+      "name": "Træna bygdemuseum",
+      "latitude": 66.500643,
+      "longitude": 12.096876
+    },
+    {
+      "name": "Trøgstad bygdemuseum",
+      "latitude": 59.634963,
+      "longitude": 11.314827
+    },
+    {
+      "name": "Tungenes fyr",
+      "latitude": 59.035688,
+      "longitude": 5.5816
+    },
+    {
+      "name": "Tuomainengården",
+      "latitude": 70.075215,
+      "longitude": 29.769558
+    },
+    {
+      "name": "Tvedestrand museum - Forvaltergården",
+      "latitude": 58.622376,
+      "longitude": 8.930439
+    },
+    {
+      "name": "Tveitetunet",
+      "latitude": 59.192661,
+      "longitude": 7.529141
+    },
+    {
+      "name": "Tylldalen bygdetun",
+      "latitude": 62.143273,
+      "longitude": 10.80368
+    },
+    {
+      "name": "Tynset bygdemuseum",
+      "latitude": 62.277863,
+      "longitude": 10.794249
+    },
+    {
+      "name": "Tyssedal Hotel",
+      "latitude": 60.116155,
+      "longitude": 6.556731
+    },
+    {
+      "name": "Tyssedal kraftverk",
+      "latitude": 60.121692,
+      "longitude": 6.555865
+    },
+    {
+      "name": "Tønsberg Sjøfartshistoriske Senter",
+      "latitude": 59.267256,
+      "longitude": 10.404564
+    },
+    {
+      "name": "Tørfoss kvengård",
+      "latitude": 69.660659,
+      "longitude": 21.282708
+    },
+    {
+      "name": "Ulefos hovedgård",
+      "latitude": 59.287001,
+      "longitude": 9.247374
+    },
+    {
+      "name": "Ullensaker museum",
+      "latitude": 60.191131,
+      "longitude": 11.069869
+    },
+    {
+      "name": "Universitetsmuseet i Bergen",
+      "latitude": 60.387705,
+      "longitude": 5.321563
+    },
+    {
+      "name": "Urskog fort",
+      "latitude": 59.933945,
+      "longitude": 11.539604
+    },
+    {
+      "name": "Urskog-Hølandsbanen",
+      "latitude": 59.986276,
+      "longitude": 11.243674
+    },
+    {
+      "name": "Uthaugsgården",
+      "latitude": 63.725509,
+      "longitude": 9.596235
+    },
+    {
+      "name": "Utladalen Naturhus",
+      "latitude": 61.348519,
+      "longitude": 7.879688
+    },
+    {
+      "name": "Utstein kloster",
+      "latitude": 59.103116,
+      "longitude": 5.590649
+    },
+    {
+      "name": "Uvdal stavkirke",
+      "latitude": 60.265141,
+      "longitude": 8.834775
+    },
+    {
+      "name": "Vadsø Museum",
+      "latitude": 70.077765,
+      "longitude": 29.749624
+    },
+    {
+      "name": "Vadsøya naturpark",
+      "latitude": 70.066433,
+      "longitude": 29.760917
+    },
+    {
+      "name": "Valborgsamlinga",
+      "latitude": 62.034842,
+      "longitude": 5.523352
+    },
+    {
+      "name": "Valdres folkemuseum",
+      "latitude": 60.980807,
+      "longitude": 9.230838
+    },
+    {
+      "name": "Vallø industrimuseum",
+      "latitude": 59.261088,
+      "longitude": 10.493045
+    },
+    {
+      "name": "Vannbruksmuseum",
+      "latitude": 61.850874,
+      "longitude": 10.234831
+    },
+    {
+      "name": "Varanger samiske museum",
+      "latitude": 70.172413,
+      "longitude": 28.557952
+    },
+    {
+      "name": "Varden sjøredningsmuseum",
+      "latitude": 58.531734,
+      "longitude": 5.773564
+    },
+    {
+      "name": "Vardø museum",
+      "latitude": 70.369176,
+      "longitude": 31.112997
+    },
+    {
+      "name": "Vardø museum",
+      "latitude": 70.375969,
+      "longitude": 31.087415
+    },
+    {
+      "name": "Vardøhus festning",
+      "latitude": 70.372137,
+      "longitude": 31.095346
+    },
+    {
+      "name": "Vefsn bygdetun",
+      "latitude": 65.843894,
+      "longitude": 13.205548
+    },
+    {
+      "name": "Vega Verdensarvsenter",
+      "latitude": 65.713828,
+      "longitude": 11.914254
+    },
+    {
+      "name": "Veggja poståpneri",
+      "latitude": 58.150549,
+      "longitude": 7.089108
+    },
+    {
+      "name": "Vegstein gamle\nhandelssted",
+      "latitude": 65.686053,
+      "longitude": 12.026368
+    },
+    {
+      "name": "Vegårshei bygdetun",
+      "latitude": 58.745899,
+      "longitude": 8.949104
+    },
+    {
+      "name": "Veien Kulturminnepark",
+      "latitude": 60.170161,
+      "longitude": 10.227027
+    },
+    {
+      "name": "Velfjord bygdemuseum",
+      "latitude": 65.406968,
+      "longitude": 12.552054
+    },
+    {
+      "name": "Vennesla skole- og bygdemuseum",
+      "latitude": 58.275205,
+      "longitude": 7.967214
+    },
+    {
+      "name": "Vest-Telemark museum, Eidsborg",
+      "latitude": 59.466108,
+      "longitude": 8.019716
+    },
+    {
+      "name": "Vesterålsmuseet",
+      "latitude": 68.503961,
+      "longitude": 14.799664
+    },
+    {
+      "name": "Vestfoldarkivet",
+      "latitude": 59.133235,
+      "longitude": 10.175442
+    },
+    {
+      "name": "Vestfoldtunet",
+      "latitude": 59.273103,
+      "longitude": 10.404075
+    },
+    {
+      "name": "Vestlandske Skolemuseum",
+      "latitude": 58.943884,
+      "longitude": 5.745398
+    },
+    {
+      "name": "Vestlandske sætermuseum",
+      "latitude": 60.25603,
+      "longitude": 5.361502
+    },
+    {
+      "name": "Vestnorsk utvandringssenter, Museumssenteret i Hordaland",
+      "latitude": 60.684421,
+      "longitude": 5.049321
+    },
+    {
+      "name": "Vestre Sorken gårdmuseum",
+      "latitude": 61.972196,
+      "longitude": 11.938778
+    },
+    {
+      "name": "Veteran bensinstasjon",
+      "latitude": 60.38555,
+      "longitude": 5.331994
+    },
+    {
+      "name": "Veteranbilgarasje",
+      "latitude": 62.096746,
+      "longitude": 7.210163
+    },
+    {
+      "name": "Vevelstad bygdetun",
+      "latitude": 65.708011,
+      "longitude": 12.453103
+    },
+    {
+      "name": "Veøya prestegard og middelalderkirke",
+      "latitude": 62.674818,
+      "longitude": 7.427272
+    },
+    {
+      "name": "Vigatunet",
+      "latitude": 59.209729,
+      "longitude": 6.115777
+    },
+    {
+      "name": "Vigeland Hus",
+      "latitude": 58.027983,
+      "longitude": 7.449547
+    },
+    {
+      "name": "Vigelandmuseet",
+      "latitude": 59.92292,
+      "longitude": 10.700069
+    },
+    {
+      "name": "Vikingskipshuset",
+      "latitude": 59.904847,
+      "longitude": 10.684648
+    },
+    {
+      "name": "Viktoriahuset",
+      "latitude": 59.917509,
+      "longitude": 10.771518
+    },
+    {
+      "name": "VilVite",
+      "latitude": 60.381618,
+      "longitude": 5.329555
+    },
+    {
+      "name": "Villa Furulund",
+      "latitude": 59.926421,
+      "longitude": 10.780022
+    },
+    {
+      "name": "Villa Stenersen",
+      "latitude": 59.939262,
+      "longitude": 10.698699
+    },
+    {
+      "name": "Vindafjordmuseet",
+      "latitude": 59.502155,
+      "longitude": 5.923049
+    },
+    {
+      "name": "Vinje biletgalleri",
+      "latitude": 59.648801,
+      "longitude": 7.79033
+    },
+    {
+      "name": "Vinjestoga",
+      "latitude": 59.621677,
+      "longitude": 7.831763
+    },
+    {
+      "name": "Visnes Gruvemuseum",
+      "latitude": 59.352521,
+      "longitude": 5.221429
+    },
+    {
+      "name": "Visningsenter havbruk",
+      "latitude": 63.286753,
+      "longitude": 8.134023
+    },
+    {
+      "name": "Vistnes skole",
+      "latitude": 58.989162,
+      "longitude": 5.583549
+    },
+    {
+      "name": "Vistnestunet",
+      "latitude": 58.984933,
+      "longitude": 5.574995
+    },
+    {
+      "name": "Vitenfabrikken",
+      "latitude": 58.851467,
+      "longitude": 5.730977
+    },
+    {
+      "name": "Vitensenteret",
+      "latitude": 63.430104,
+      "longitude": 10.400893
+    },
+    {
+      "name": "Vitensenteret Innlandet",
+      "latitude": 60.792877,
+      "longitude": 10.688988
+    },
+    {
+      "name": "Vitensenteret Sørlandet",
+      "latitude": 58.459651,
+      "longitude": 8.773097
+    },
+    {
+      "name": "Vognhallen",
+      "latitude": 60.183433,
+      "longitude": 5.468315
+    },
+    {
+      "name": "Volda bygdetun",
+      "latitude": 62.135583,
+      "longitude": 6.07777
+    },
+    {
+      "name": "Vollahaugen",
+      "latitude": 63.49622,
+      "longitude": 9.137636
+    },
+    {
+      "name": "Vollan Gård",
+      "latitude": 62.569604,
+      "longitude": 10.303534
+    },
+    {
+      "name": "Vollen Kystkultursenter",
+      "latitude": 59.806744,
+      "longitude": 10.492255
+    },
+    {
+      "name": "Vonheim",
+      "latitude": 64.249583,
+      "longitude": 12.363764
+    },
+    {
+      "name": "Vorlandssaga",
+      "latitude": 59.624813,
+      "longitude": 5.24448
+    },
+    {
+      "name": "Voss folkemuseum",
+      "latitude": 60.633623,
+      "longitude": 6.411412
+    },
+    {
+      "name": "Vrådal Slusemuseum",
+      "latitude": 59.317656,
+      "longitude": 8.469351
+    },
+    {
+      "name": "Várdobáiki muséum",
+      "latitude": 68.58319,
+      "longitude": 16.573184
+    },
+    {
+      "name": "Våle prestegård",
+      "latitude": 59.425592,
+      "longitude": 10.270966
+    },
+    {
+      "name": "WWII Museum",
+      "latitude": 68.410283,
+      "longitude": 15.988931
+    },
+    {
+      "name": "Waldehuset",
+      "latitude": 62.472421,
+      "longitude": 6.167062
+    },
+    {
+      "name": "Wangbrygga",
+      "latitude": 66.217283,
+      "longitude": 13.381455
+    },
+    {
+      "name": "Wehrmacht bunkeren",
+      "latitude": 59.913747,
+      "longitude": 10.720284
+    },
+    {
+      "name": "WildPhoto Travel",
+      "latitude": 78.220756,
+      "longitude": 15.641569
+    },
+    {
+      "name": "Ytre Arna museum",
+      "latitude": 60.460441,
+      "longitude": 5.438241
+    },
+    {
+      "name": "Ytste Skotet museumsgard",
+      "latitude": 62.414518,
+      "longitude": 6.894524
+    },
+    {
+      "name": "Ytterøy bygdetun",
+      "latitude": 63.775657,
+      "longitude": 11.090013
+    },
+    {
+      "name": "Z museum",
+      "latitude": 59.011269,
+      "longitude": 8.523487
+    },
+    {
+      "name": "Zoologisk museum",
+      "latitude": 59.919799,
+      "longitude": 10.771068
+    },
+    {
+      "name": "Ådalsbruk motormuseum",
+      "latitude": 60.793517,
+      "longitude": 11.309147
+    },
+    {
+      "name": "Ål Stavkyrkjemuseum",
+      "latitude": 60.627926,
+      "longitude": 8.553641
+    },
+    {
+      "name": "Ål bygdemuseum",
+      "latitude": 60.629759,
+      "longitude": 8.539697
+    },
+    {
+      "name": "Ålen bygdemuseum",
+      "latitude": 62.836044,
+      "longitude": 11.288855
+    },
+    {
+      "name": "Ålesund museum",
+      "latitude": 62.471608,
+      "longitude": 6.156963
+    },
+    {
+      "name": "Åmdals Verk gruver",
+      "latitude": 59.371119,
+      "longitude": 8.033019
+    },
+    {
+      "name": "Årskog museum",
+      "latitude": 59.937391,
+      "longitude": 5.335909
+    },
+    {
+      "name": "Åsen Museum og Historielag",
+      "latitude": 63.612459,
+      "longitude": 11.057764
+    },
+    {
+      "name": "Åsen bygdemuseum",
+      "latitude": 62.939399,
+      "longitude": 8.69594
+    },
+    {
+      "name": "Ægir havbruksutstilling",
+      "latitude": 63.517614,
+      "longitude": 9.111771
+    },
+    {
+      "name": "Øksnes museum",
+      "latitude": 68.901588,
+      "longitude": 15.282623
+    },
+    {
+      "name": "Ørje Gamle veistasjon",
+      "latitude": 59.471041,
+      "longitude": 11.659464
+    },
+    {
+      "name": "Ørnes gamle handelssted",
+      "latitude": 66.868361,
+      "longitude": 13.704786
+    },
+    {
+      "name": "Østbysaga",
+      "latitude": 64.036097,
+      "longitude": 11.476716
+    },
+    {
+      "name": "Østhasselstrand Redningsstasjon",
+      "latitude": 58.071961,
+      "longitude": 6.647963
+    },
+    {
+      "name": "Øye mølle",
+      "latitude": 58.289538,
+      "longitude": 6.905341
+    },
+    {
+      "name": "Øyfjell bygdemuseum",
+      "latitude": 59.566995,
+      "longitude": 8.18495
+    },
+    {
+      "name": "Øystad kvernhusanlegg",
+      "latitude": 59.516355,
+      "longitude": 6.635068
+    }
+  ],
+  "meta": {
+    "title": "Named museums in Norway - Gratis nedlasting",
+    "description": "Named museums in Norway, derived from OpenStreetMap POI nodes tagged tourism=museum in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 1161 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named museums in Norway | ListBase",
+    "seo_description": "Last ned Named museums in Norway — 1161 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 1161 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,3176 @@
+{
+  "id": "no-osm-office-company",
+  "name": "Named company offices in Norway",
+  "title": "Named company offices in Norway",
+  "description": "Named company offices in Norway, derived from OpenStreetMap POI nodes tagged office=company in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 627,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1X Technologies",
+      "latitude": 59.438706,
+      "longitude": 10.66454
+    },
+    {
+      "name": "A.B Tjenester",
+      "latitude": 60.720794,
+      "longitude": 10.612755
+    },
+    {
+      "name": "AB Lab AS",
+      "latitude": 59.818543,
+      "longitude": 10.275685
+    },
+    {
+      "name": "ABB AS",
+      "latitude": 62.334656,
+      "longitude": 5.85471
+    },
+    {
+      "name": "ABB AS Stord",
+      "latitude": 59.77878,
+      "longitude": 5.501008
+    },
+    {
+      "name": "ABG Payment Systems AS",
+      "latitude": 59.67589,
+      "longitude": 10.373647
+    },
+    {
+      "name": "ABG Payment Systems AS",
+      "latitude": 59.722844,
+      "longitude": 10.259116
+    },
+    {
+      "name": "ABG Performance",
+      "latitude": 59.73288,
+      "longitude": 10.214018
+    },
+    {
+      "name": "AGR",
+      "latitude": 60.346998,
+      "longitude": 5.135196
+    },
+    {
+      "name": "APC",
+      "latitude": 60.347182,
+      "longitude": 5.135039
+    },
+    {
+      "name": "AS Saudefaldene",
+      "latitude": 59.647635,
+      "longitude": 6.349575
+    },
+    {
+      "name": "ASCO Norge AS",
+      "latitude": 58.103297,
+      "longitude": 6.631322
+    },
+    {
+      "name": "AVCO",
+      "latitude": 59.739158,
+      "longitude": 10.202681
+    },
+    {
+      "name": "Aas & Høiland AS Entreprenørforretning",
+      "latitude": 58.136653,
+      "longitude": 7.036164
+    },
+    {
+      "name": "Aass Pilotbryggeriet",
+      "latitude": 59.742379,
+      "longitude": 10.209755
+    },
+    {
+      "name": "Aberia",
+      "latitude": 59.412303,
+      "longitude": 10.687342
+    },
+    {
+      "name": "Accenture",
+      "latitude": 59.895368,
+      "longitude": 10.626391
+    },
+    {
+      "name": "Aclima AS",
+      "latitude": 60.114591,
+      "longitude": 9.799954
+    },
+    {
+      "name": "Acos",
+      "latitude": 60.347171,
+      "longitude": 5.134971
+    },
+    {
+      "name": "Adecco Group Norway HQ",
+      "latitude": 59.920464,
+      "longitude": 10.682115
+    },
+    {
+      "name": "Administrasjonsbygget",
+      "latitude": 63.395228,
+      "longitude": 10.426092
+    },
+    {
+      "name": "Agder Grossisten AS",
+      "latitude": 58.239423,
+      "longitude": 8.30378
+    },
+    {
+      "name": "Agder Olje AS",
+      "latitude": 58.108303,
+      "longitude": 6.630603
+    },
+    {
+      "name": "Agile Konsult",
+      "latitude": 60.346866,
+      "longitude": 5.135308
+    },
+    {
+      "name": "Ahlsell",
+      "latitude": 58.138689,
+      "longitude": 7.03905
+    },
+    {
+      "name": "Aker Solutions",
+      "latitude": 59.902329,
+      "longitude": 10.627763
+    },
+    {
+      "name": "Aker Solutions",
+      "latitude": 63.10761,
+      "longitude": 7.783357
+    },
+    {
+      "name": "Aker Solutions",
+      "latitude": 63.433965,
+      "longitude": 10.471122
+    },
+    {
+      "name": "AktiMed",
+      "latitude": 59.483641,
+      "longitude": 6.250032
+    },
+    {
+      "name": "Aktiv Veidrift AS",
+      "latitude": 59.694303,
+      "longitude": 10.244695
+    },
+    {
+      "name": "Anova boliger",
+      "latitude": 59.412174,
+      "longitude": 10.686588
+    },
+    {
+      "name": "AnsuR Technologies AS",
+      "latitude": 59.895594,
+      "longitude": 10.628241
+    },
+    {
+      "name": "Anticimex Bergen",
+      "latitude": 60.385973,
+      "longitude": 5.304981
+    },
+    {
+      "name": "Apotek1 gruppen AS",
+      "latitude": 59.922075,
+      "longitude": 10.953524
+    },
+    {
+      "name": "Aptomar AS",
+      "latitude": 63.442058,
+      "longitude": 10.429174
+    },
+    {
+      "name": "Arbeidslivsressurs",
+      "latitude": 59.76608,
+      "longitude": 10.250483
+    },
+    {
+      "name": "Arcos avd. Bodø",
+      "latitude": 67.273558,
+      "longitude": 14.350262
+    },
+    {
+      "name": "Arkitekt Giskegjerde",
+      "latitude": 60.346987,
+      "longitude": 5.135128
+    },
+    {
+      "name": "Arrangøren Trine Landøy",
+      "latitude": 58.137789,
+      "longitude": 7.072264
+    },
+    {
+      "name": "Art Lux",
+      "latitude": 60.166215,
+      "longitude": 10.256348
+    },
+    {
+      "name": "Asplan Viak AS",
+      "latitude": 59.886636,
+      "longitude": 10.5267
+    },
+    {
+      "name": "Assist Air",
+      "latitude": 59.893721,
+      "longitude": 10.633103
+    },
+    {
+      "name": "Assist it AS",
+      "latitude": 58.896813,
+      "longitude": 5.680688
+    },
+    {
+      "name": "Atea AS, Avdeling Drammen",
+      "latitude": 59.739584,
+      "longitude": 10.199744
+    },
+    {
+      "name": "Atea AS, Avdeling Drammen",
+      "latitude": 59.743399,
+      "longitude": 10.191011
+    },
+    {
+      "name": "Aurora Management AS",
+      "latitude": 58.09446,
+      "longitude": 6.804912
+    },
+    {
+      "name": "Autoline",
+      "latitude": 68.773111,
+      "longitude": 16.171393
+    },
+    {
+      "name": "Avantas",
+      "latitude": 63.432366,
+      "longitude": 10.393567
+    },
+    {
+      "name": "Avavi",
+      "latitude": 59.450055,
+      "longitude": 10.739845
+    },
+    {
+      "name": "Axess",
+      "latitude": 60.347129,
+      "longitude": 5.135007
+    },
+    {
+      "name": "BASF Sandefjord",
+      "latitude": 59.110752,
+      "longitude": 10.231842
+    },
+    {
+      "name": "BB Moss",
+      "latitude": 59.454814,
+      "longitude": 10.699588
+    },
+    {
+      "name": "BCC media",
+      "latitude": 59.442412,
+      "longitude": 10.696451
+    },
+    {
+      "name": "BDO",
+      "latitude": 59.744028,
+      "longitude": 10.203209
+    },
+    {
+      "name": "BEF Bygg Entrepenør Ivar Näs As",
+      "latitude": 62.574242,
+      "longitude": 11.376385
+    },
+    {
+      "name": "BF maskin",
+      "latitude": 59.379161,
+      "longitude": 10.757614
+    },
+    {
+      "name": "BKK AS",
+      "latitude": 60.378716,
+      "longitude": 5.33487
+    },
+    {
+      "name": "Bain & Company",
+      "latitude": 59.9128,
+      "longitude": 10.732773
+    },
+    {
+      "name": "Bane NOR",
+      "latitude": 60.789338,
+      "longitude": 11.091501
+    },
+    {
+      "name": "Bauta maritime",
+      "latitude": 62.61477,
+      "longitude": 6.956507
+    },
+    {
+      "name": "Bed.Sys.",
+      "latitude": 69.678074,
+      "longitude": 18.982503
+    },
+    {
+      "name": "Begravelsesbyrået Ola Engeseth AS",
+      "latitude": 59.93717,
+      "longitude": 10.991821
+    },
+    {
+      "name": "Bendiksen Entreprenør AS",
+      "latitude": 65.487823,
+      "longitude": 12.24083
+    },
+    {
+      "name": "Bergen Basecamp",
+      "latitude": 60.397221,
+      "longitude": 5.324873
+    },
+    {
+      "name": "Bergen Taxi",
+      "latitude": 60.291726,
+      "longitude": 5.259727
+    },
+    {
+      "name": "Best Global Logistics",
+      "latitude": 59.45033,
+      "longitude": 10.74199
+    },
+    {
+      "name": "Bewi Food AS avd Båtsfjord",
+      "latitude": 70.627445,
+      "longitude": 29.705923
+    },
+    {
+      "name": "Bikefactory",
+      "latitude": 59.419408,
+      "longitude": 10.703536
+    },
+    {
+      "name": "Bilutstyr & Rekvisita",
+      "latitude": 60.277545,
+      "longitude": 11.178217
+    },
+    {
+      "name": "BirdSafari AS",
+      "latitude": 71.099677,
+      "longitude": 25.38772
+    },
+    {
+      "name": "Bjørn Myhra & sønn entreprenør",
+      "latitude": 59.378985,
+      "longitude": 10.758208
+    },
+    {
+      "name": "Bjørvika Apartments",
+      "latitude": 59.910416,
+      "longitude": 10.760325
+    },
+    {
+      "name": "Blostrupmoen Medical Equipment AS",
+      "latitude": 63.432431,
+      "longitude": 10.384253
+    },
+    {
+      "name": "Blue Analytics",
+      "latitude": 60.382551,
+      "longitude": 5.324789
+    },
+    {
+      "name": "Bluedays AS",
+      "latitude": 58.89044,
+      "longitude": 5.703515
+    },
+    {
+      "name": "Blåkläder",
+      "latitude": 59.441048,
+      "longitude": 10.704207
+    },
+    {
+      "name": "Boreal",
+      "latitude": 63.434478,
+      "longitude": 10.395076
+    },
+    {
+      "name": "Boston Consulting Group",
+      "latitude": 59.916561,
+      "longitude": 10.722492
+    },
+    {
+      "name": "Bouvet",
+      "latitude": 59.930369,
+      "longitude": 10.711401
+    },
+    {
+      "name": "Br. Kristiansen Auksjon",
+      "latitude": 60.685581,
+      "longitude": 10.61573
+    },
+    {
+      "name": "Br. Thorkildsen",
+      "latitude": 58.099742,
+      "longitude": 6.723751
+    },
+    {
+      "name": "Brakar AS",
+      "latitude": 59.739317,
+      "longitude": 10.202641
+    },
+    {
+      "name": "Brandl",
+      "latitude": 59.917878,
+      "longitude": 10.711708
+    },
+    {
+      "name": "Bring",
+      "latitude": 69.682466,
+      "longitude": 19.000777
+    },
+    {
+      "name": "Brix Dekor AS",
+      "latitude": 59.803833,
+      "longitude": 10.294108
+    },
+    {
+      "name": "Brunvoll Mar-El AS",
+      "latitude": 59.445691,
+      "longitude": 8.015158
+    },
+    {
+      "name": "Bryn byggklima AS",
+      "latitude": 59.43825,
+      "longitude": 10.699025
+    },
+    {
+      "name": "Brødr Olsen Mur & Bygg AS",
+      "latitude": 59.150315,
+      "longitude": 5.26004
+    },
+    {
+      "name": "Brødrene Dahl",
+      "latitude": 60.147087,
+      "longitude": 11.183592
+    },
+    {
+      "name": "Brødrene Formo",
+      "latitude": 61.847993,
+      "longitude": 8.960653
+    },
+    {
+      "name": "Brøvigs Rederi",
+      "latitude": 58.089514,
+      "longitude": 6.80579
+    },
+    {
+      "name": "ButikkDesign Norge AS",
+      "latitude": 59.440484,
+      "longitude": 10.70015
+    },
+    {
+      "name": "Byen vår Drammen",
+      "latitude": 59.745601,
+      "longitude": 10.204209
+    },
+    {
+      "name": "Byggmester Ulf Johannessen",
+      "latitude": 59.417463,
+      "longitude": 10.669105
+    },
+    {
+      "name": "Båtsfjord Industriservice AS",
+      "latitude": 70.626783,
+      "longitude": 29.694378
+    },
+    {
+      "name": "Bøk",
+      "latitude": 59.951028,
+      "longitude": 10.753067
+    },
+    {
+      "name": "Bønner i byen AS",
+      "latitude": 67.274633,
+      "longitude": 14.453368
+    },
+    {
+      "name": "C NET AS",
+      "latitude": 70.638187,
+      "longitude": 29.731478
+    },
+    {
+      "name": "Cargill",
+      "latitude": 69.237338,
+      "longitude": 19.358933
+    },
+    {
+      "name": "Cargo Transport AS",
+      "latitude": 59.938502,
+      "longitude": 12.216091
+    },
+    {
+      "name": "Celerway AS",
+      "latitude": 59.914889,
+      "longitude": 10.637607
+    },
+    {
+      "name": "Certex Norge AS",
+      "latitude": 63.432259,
+      "longitude": 10.383385
+    },
+    {
+      "name": "City Self Storage",
+      "latitude": 59.953092,
+      "longitude": 10.909069
+    },
+    {
+      "name": "Clockwork",
+      "latitude": 59.930095,
+      "longitude": 10.756061
+    },
+    {
+      "name": "Cloud Connection",
+      "latitude": 59.742276,
+      "longitude": 10.230208
+    },
+    {
+      "name": "Cloud Explorers AS",
+      "latitude": 59.91961,
+      "longitude": 10.732207
+    },
+    {
+      "name": "Crecon AS",
+      "latitude": 59.81852,
+      "longitude": 10.2757
+    },
+    {
+      "name": "DB Schenker",
+      "latitude": 69.682124,
+      "longitude": 18.998582
+    },
+    {
+      "name": "DKM Services",
+      "latitude": 59.290999,
+      "longitude": 5.291521
+    },
+    {
+      "name": "DOGA",
+      "latitude": 59.918393,
+      "longitude": 10.75347
+    },
+    {
+      "name": "DXC Technology Norge AS, avd. Bergen",
+      "latitude": 60.351336,
+      "longitude": 5.289149
+    },
+    {
+      "name": "Data Design System AS",
+      "latitude": 58.787453,
+      "longitude": 5.70454
+    },
+    {
+      "name": "Datadrift Vest",
+      "latitude": 60.347034,
+      "longitude": 5.135088
+    },
+    {
+      "name": "Datakompetanse",
+      "latitude": 60.346815,
+      "longitude": 5.135275
+    },
+    {
+      "name": "Datek",
+      "latitude": 59.416762,
+      "longitude": 10.701573
+    },
+    {
+      "name": "Deep Sea Mooring",
+      "latitude": 60.346903,
+      "longitude": 5.135199
+    },
+    {
+      "name": "DeepOcean",
+      "latitude": 59.414032,
+      "longitude": 5.274147
+    },
+    {
+      "name": "Definit",
+      "latitude": 60.369832,
+      "longitude": 5.341172
+    },
+    {
+      "name": "Deloitte",
+      "latitude": 58.341832,
+      "longitude": 8.59534
+    },
+    {
+      "name": "Deloitte avdeling Lyngdal",
+      "latitude": 58.137554,
+      "longitude": 7.06811
+    },
+    {
+      "name": "Devold Consulting AS",
+      "latitude": 60.456626,
+      "longitude": 5.290716
+    },
+    {
+      "name": "Dia Dia Norge AS",
+      "latitude": 59.734521,
+      "longitude": 10.215713
+    },
+    {
+      "name": "Dicks vei 10B",
+      "latitude": 59.908686,
+      "longitude": 10.637412
+    },
+    {
+      "name": "Digiflow Østfold AS",
+      "latitude": 59.211527,
+      "longitude": 10.937438
+    },
+    {
+      "name": "Dima Media AS",
+      "latitude": 60.344668,
+      "longitude": 5.273599
+    },
+    {
+      "name": "Dragefossen",
+      "latitude": 67.102077,
+      "longitude": 15.395705
+    },
+    {
+      "name": "Drammen Fjernvarme",
+      "latitude": 59.740808,
+      "longitude": 10.229552
+    },
+    {
+      "name": "Drammen og omegn rideklubb",
+      "latitude": 59.772426,
+      "longitude": 10.247848
+    },
+    {
+      "name": "Ducatel",
+      "latitude": 59.692775,
+      "longitude": 10.246642
+    },
+    {
+      "name": "EAB engineering AS",
+      "latitude": 60.788243,
+      "longitude": 10.678174
+    },
+    {
+      "name": "EGGS Design",
+      "latitude": 63.43047,
+      "longitude": 10.407407
+    },
+    {
+      "name": "EVR Norge",
+      "latitude": 59.443542,
+      "longitude": 10.683178
+    },
+    {
+      "name": "EVRY avd Brumunddal",
+      "latitude": 60.878361,
+      "longitude": 10.933179
+    },
+    {
+      "name": "Effee",
+      "latitude": 62.470588,
+      "longitude": 6.234516
+    },
+    {
+      "name": "Eide stein",
+      "latitude": 62.923634,
+      "longitude": 7.453776
+    },
+    {
+      "name": "Eik senter",
+      "latitude": 65.306115,
+      "longitude": 12.166933
+    },
+    {
+      "name": "Einar Øgrey Farsund AS",
+      "latitude": 58.080371,
+      "longitude": 6.767793
+    },
+    {
+      "name": "Ekeri",
+      "latitude": 60.708355,
+      "longitude": 10.604886
+    },
+    {
+      "name": "Elektroskandia",
+      "latitude": 59.774494,
+      "longitude": 10.854124
+    },
+    {
+      "name": "Elisas springbrett",
+      "latitude": 58.095421,
+      "longitude": 6.795995
+    },
+    {
+      "name": "Elkraft AS",
+      "latitude": 59.929441,
+      "longitude": 10.947939
+    },
+    {
+      "name": "Elopak ASA - Corporate Offices",
+      "latitude": 59.747411,
+      "longitude": 10.337067
+    },
+    {
+      "name": "Elopak ASA - Market Unit Norway",
+      "latitude": 59.747251,
+      "longitude": 10.336961
+    },
+    {
+      "name": "Elskap",
+      "latitude": 60.679006,
+      "longitude": 10.618566
+    },
+    {
+      "name": "Elteam AS",
+      "latitude": 63.435966,
+      "longitude": 10.463414
+    },
+    {
+      "name": "Eltel Networks",
+      "latitude": 59.420608,
+      "longitude": 10.673447
+    },
+    {
+      "name": "Eltel Networks AS",
+      "latitude": 58.138033,
+      "longitude": 7.03555
+    },
+    {
+      "name": "Energihuset AS",
+      "latitude": 59.748273,
+      "longitude": 10.183125
+    },
+    {
+      "name": "Energirådhuset",
+      "latitude": 59.938527,
+      "longitude": 12.21548
+    },
+    {
+      "name": "Energy Quantified AS",
+      "latitude": 59.921159,
+      "longitude": 10.736016
+    },
+    {
+      "name": "Eniro Norge AS",
+      "latitude": 59.866365,
+      "longitude": 10.842417
+    },
+    {
+      "name": "Entreprenør Odd Steinar Hansen",
+      "latitude": 60.710659,
+      "longitude": 10.601945
+    },
+    {
+      "name": "Entur kundesenter",
+      "latitude": 61.126489,
+      "longitude": 10.453643
+    },
+    {
+      "name": "Equinor",
+      "latitude": 59.895896,
+      "longitude": 10.630029
+    },
+    {
+      "name": "Equinor ASA",
+      "latitude": 58.892775,
+      "longitude": 5.719
+    },
+    {
+      "name": "Equinor ASA, avd. kontor Bergen",
+      "latitude": 60.297718,
+      "longitude": 5.285547
+    },
+    {
+      "name": "Equinor Njord drift",
+      "latitude": 63.107641,
+      "longitude": 7.783888
+    },
+    {
+      "name": "Equinor forsyningsbase",
+      "latitude": 63.107679,
+      "longitude": 7.783909
+    },
+    {
+      "name": "Etac",
+      "latitude": 59.451134,
+      "longitude": 10.739313
+    },
+    {
+      "name": "Etterforsker1 AS",
+      "latitude": 59.135955,
+      "longitude": 10.233152
+    },
+    {
+      "name": "Etto bygg AS",
+      "latitude": 63.435947,
+      "longitude": 10.463649
+    },
+    {
+      "name": "Eufemia Kontor",
+      "latitude": 59.9065,
+      "longitude": 10.761043
+    },
+    {
+      "name": "Eurosko",
+      "latitude": 59.440191,
+      "longitude": 10.702141
+    },
+    {
+      "name": "Everyday AS",
+      "latitude": 59.744469,
+      "longitude": 10.205691
+    },
+    {
+      "name": "Expandia Moduler AS",
+      "latitude": 59.704395,
+      "longitude": 9.774552
+    },
+    {
+      "name": "FIJOY Games AS",
+      "latitude": 60.000926,
+      "longitude": 10.927868
+    },
+    {
+      "name": "FINN.no",
+      "latitude": 59.913716,
+      "longitude": 10.744045
+    },
+    {
+      "name": "Fagelektro",
+      "latitude": 58.615043,
+      "longitude": 8.905873
+    },
+    {
+      "name": "Fagforbundet Møre og Romsdal",
+      "latitude": 62.736533,
+      "longitude": 7.181904
+    },
+    {
+      "name": "Familiehytta",
+      "latitude": 59.961976,
+      "longitude": 10.917117
+    },
+    {
+      "name": "Farsund Fortøyningsselskap FFS",
+      "latitude": 58.093987,
+      "longitude": 6.805045
+    },
+    {
+      "name": "Fasadeentreprenøren Coating Service AS",
+      "latitude": 58.109313,
+      "longitude": 6.637568
+    },
+    {
+      "name": "Felgen Maskin",
+      "latitude": 60.679461,
+      "longitude": 10.620005
+    },
+    {
+      "name": "Ferdig Montert",
+      "latitude": 63.431356,
+      "longitude": 10.385101
+    },
+    {
+      "name": "Fire Fighting Systems",
+      "latitude": 59.415402,
+      "longitude": 10.699658
+    },
+    {
+      "name": "Fjellbygg",
+      "latitude": 58.136221,
+      "longitude": 7.042553
+    },
+    {
+      "name": "FleetCom AS",
+      "latitude": 59.8185,
+      "longitude": 10.275636
+    },
+    {
+      "name": "Flodin Datasystemer as",
+      "latitude": 59.210189,
+      "longitude": 10.950096
+    },
+    {
+      "name": "Flykjøkkenet AS",
+      "latitude": 58.11506,
+      "longitude": 6.607144
+    },
+    {
+      "name": "Foodora",
+      "latitude": 59.918937,
+      "longitude": 10.762517
+    },
+    {
+      "name": "Forkbeard Technologies AS",
+      "latitude": 59.913302,
+      "longitude": 10.643605
+    },
+    {
+      "name": "Formuesforvaltning",
+      "latitude": 59.745574,
+      "longitude": 10.199452
+    },
+    {
+      "name": "Foss AS Fiberoptisk Systemsalg",
+      "latitude": 59.714311,
+      "longitude": 10.235698
+    },
+    {
+      "name": "Frankrikehus",
+      "latitude": 60.346844,
+      "longitude": 5.135152
+    },
+    {
+      "name": "Freia",
+      "latitude": 59.925579,
+      "longitude": 10.765958
+    },
+    {
+      "name": "Fritzøe Skoger",
+      "latitude": 59.267905,
+      "longitude": 9.704188
+    },
+    {
+      "name": "G4S Lister",
+      "latitude": 58.112086,
+      "longitude": 6.612642
+    },
+    {
+      "name": "GHV Montasje AS",
+      "latitude": 58.13922,
+      "longitude": 7.034404
+    },
+    {
+      "name": "GKN Aerospace",
+      "latitude": 59.655798,
+      "longitude": 9.642067
+    },
+    {
+      "name": "GREP Grenland AS",
+      "latitude": 59.125306,
+      "longitude": 9.690857
+    },
+    {
+      "name": "Gard",
+      "latitude": 58.456097,
+      "longitude": 8.756753
+    },
+    {
+      "name": "Garmin",
+      "latitude": 59.440931,
+      "longitude": 10.704256
+    },
+    {
+      "name": "Geitmyra matkultursenter for barn",
+      "latitude": 58.138546,
+      "longitude": 8.000878
+    },
+    {
+      "name": "Geoprosjekt",
+      "latitude": 61.08839,
+      "longitude": 6.58007
+    },
+    {
+      "name": "Gkitrevannverket",
+      "latitude": 59.689804,
+      "longitude": 10.243508
+    },
+    {
+      "name": "Glassverket",
+      "latitude": 59.721897,
+      "longitude": 10.264005
+    },
+    {
+      "name": "Global Concept Mitco",
+      "latitude": 59.420118,
+      "longitude": 10.699219
+    },
+    {
+      "name": "Gløde",
+      "latitude": 60.512584,
+      "longitude": 5.22661
+    },
+    {
+      "name": "Grane Innkjøpslag",
+      "latitude": 65.537496,
+      "longitude": 13.384461
+    },
+    {
+      "name": "Grane Regnskapslag",
+      "latitude": 65.537443,
+      "longitude": 13.384344
+    },
+    {
+      "name": "Green Mountain Data Centre",
+      "latitude": 59.068564,
+      "longitude": 5.758247
+    },
+    {
+      "name": "Greenstep",
+      "latitude": 59.439608,
+      "longitude": 10.666319
+    },
+    {
+      "name": "Greenyard Kleven Maritime",
+      "latitude": 62.323245,
+      "longitude": 5.840654
+    },
+    {
+      "name": "Gudbrandsdal Energi",
+      "latitude": 61.597526,
+      "longitude": 9.741624
+    },
+    {
+      "name": "HA-MS",
+      "latitude": 59.766478,
+      "longitude": 10.061876
+    },
+    {
+      "name": "HENT",
+      "latitude": 67.284773,
+      "longitude": 14.378546
+    },
+    {
+      "name": "Hafslund",
+      "latitude": 59.924743,
+      "longitude": 10.674048
+    },
+    {
+      "name": "Hafslund",
+      "latitude": 61.132352,
+      "longitude": 10.442834
+    },
+    {
+      "name": "Halalmarked",
+      "latitude": 59.459876,
+      "longitude": 10.688915
+    },
+    {
+      "name": "Hamax AS",
+      "latitude": 59.442753,
+      "longitude": 10.697264
+    },
+    {
+      "name": "Hamre elektronikk AS",
+      "latitude": 59.254702,
+      "longitude": 11.013579
+    },
+    {
+      "name": "Harbakk AS",
+      "latitude": 58.112145,
+      "longitude": 6.612447
+    },
+    {
+      "name": "Haugen vva",
+      "latitude": 60.369765,
+      "longitude": 5.341126
+    },
+    {
+      "name": "Heidenreich",
+      "latitude": 68.229452,
+      "longitude": 14.557266
+    },
+    {
+      "name": "Heitmann Marin",
+      "latitude": 59.676567,
+      "longitude": 10.622941
+    },
+    {
+      "name": "Hello Fresh",
+      "latitude": 59.449667,
+      "longitude": 10.743272
+    },
+    {
+      "name": "Helse Nord IKT",
+      "latitude": 69.666077,
+      "longitude": 18.969033
+    },
+    {
+      "name": "Helse Sør-Øst",
+      "latitude": 60.794025,
+      "longitude": 11.079631
+    },
+    {
+      "name": "Hexagon Purus Head Office",
+      "latitude": 59.912935,
+      "longitude": 10.731003
+    },
+    {
+      "name": "Hitachi Energy Norway AS",
+      "latitude": 59.719878,
+      "longitude": 10.23258
+    },
+    {
+      "name": "Hoi!",
+      "latitude": 59.90781,
+      "longitude": 10.771827
+    },
+    {
+      "name": "Holmgren AS",
+      "latitude": 60.200556,
+      "longitude": 11.333171
+    },
+    {
+      "name": "Hordaland Bygg og Eiendom",
+      "latitude": 60.358454,
+      "longitude": 5.127553
+    },
+    {
+      "name": "Hornkvern Film&Foto",
+      "latitude": 60.870492,
+      "longitude": 11.56776
+    },
+    {
+      "name": "House of Math",
+      "latitude": 59.916534,
+      "longitude": 10.712357
+    },
+    {
+      "name": "Hubexo",
+      "latitude": 59.440668,
+      "longitude": 10.666906
+    },
+    {
+      "name": "Hurtigruten",
+      "latitude": 68.429166,
+      "longitude": 17.425742
+    },
+    {
+      "name": "Hydroclean",
+      "latitude": 59.460245,
+      "longitude": 10.687908
+    },
+    {
+      "name": "Hytorc",
+      "latitude": 58.897054,
+      "longitude": 5.689244
+    },
+    {
+      "name": "Hyttesystemer AS",
+      "latitude": 59.282562,
+      "longitude": 10.415294
+    },
+    {
+      "name": "Håkerud Johansen Transport",
+      "latitude": 60.709354,
+      "longitude": 10.604247
+    },
+    {
+      "name": "Hæhre Entreprenør E6 Kvithammer Åsen",
+      "latitude": 63.490845,
+      "longitude": 10.874963
+    },
+    {
+      "name": "Höegh eiendom Moss",
+      "latitude": 59.439835,
+      "longitude": 10.665513
+    },
+    {
+      "name": "IDG-Tools - Magnor",
+      "latitude": 59.935525,
+      "longitude": 12.22221
+    },
+    {
+      "name": "IGAIDI",
+      "latitude": 59.739202,
+      "longitude": 10.202739
+    },
+    {
+      "name": "IKM Cleandrill AS",
+      "latitude": 60.346948,
+      "longitude": 5.135161
+    },
+    {
+      "name": "IMES-Kontor",
+      "latitude": 69.647192,
+      "longitude": 18.980931
+    },
+    {
+      "name": "IPRO AS",
+      "latitude": 60.247526,
+      "longitude": 11.026815
+    },
+    {
+      "name": "ISS Facilities Services AS",
+      "latitude": 58.13782,
+      "longitude": 7.072265
+    },
+    {
+      "name": "ISS facility services",
+      "latitude": 69.677889,
+      "longitude": 18.983062
+    },
+    {
+      "name": "Inspecta",
+      "latitude": 60.347089,
+      "longitude": 5.135118
+    },
+    {
+      "name": "Instech",
+      "latitude": 60.378204,
+      "longitude": 5.33475
+    },
+    {
+      "name": "Instict Menswear",
+      "latitude": 60.347044,
+      "longitude": 5.135156
+    },
+    {
+      "name": "Iron Mountain (Recall), Vestby",
+      "latitude": 59.580638,
+      "longitude": 10.737207
+    },
+    {
+      "name": "Istad",
+      "latitude": 62.746318,
+      "longitude": 7.220072
+    },
+    {
+      "name": "Ivar Tanum AS",
+      "latitude": 59.692845,
+      "longitude": 10.246447
+    },
+    {
+      "name": "JET Bramo",
+      "latitude": 59.818752,
+      "longitude": 10.327987
+    },
+    {
+      "name": "Jan Olaf Olsen Transport og Spedisjon",
+      "latitude": 59.934837,
+      "longitude": 12.224312
+    },
+    {
+      "name": "Jernia",
+      "latitude": 59.729365,
+      "longitude": 10.780275
+    },
+    {
+      "name": "Jessheim Minilager og kontorutleie",
+      "latitude": 60.164124,
+      "longitude": 11.139403
+    },
+    {
+      "name": "Jobbnorge",
+      "latitude": 67.286202,
+      "longitude": 14.39444
+    },
+    {
+      "name": "Joh. Syvertsen & sønner AS",
+      "latitude": 59.445556,
+      "longitude": 10.681955
+    },
+    {
+      "name": "Joma Trading",
+      "latitude": 59.254995,
+      "longitude": 11.013659
+    },
+    {
+      "name": "Jotron AS",
+      "latitude": 59.113209,
+      "longitude": 10.110669
+    },
+    {
+      "name": "Jørn Glad Norge AS",
+      "latitude": 59.471124,
+      "longitude": 10.687919
+    },
+    {
+      "name": "K. Bull AS",
+      "latitude": 59.690233,
+      "longitude": 10.245342
+    },
+    {
+      "name": "K.A.Rasmussen",
+      "latitude": 60.801282,
+      "longitude": 11.028534
+    },
+    {
+      "name": "KB elektro AS",
+      "latitude": 60.769752,
+      "longitude": 11.129306
+    },
+    {
+      "name": "KGS Systemer",
+      "latitude": 69.680895,
+      "longitude": 18.987129
+    },
+    {
+      "name": "Kaefer Construction",
+      "latitude": 59.437556,
+      "longitude": 10.698567
+    },
+    {
+      "name": "Karlsen Anlegg",
+      "latitude": 58.100349,
+      "longitude": 6.665413
+    },
+    {
+      "name": "Kimen Såvarelaboratoriet AS",
+      "latitude": 59.661647,
+      "longitude": 10.793723
+    },
+    {
+      "name": "Kimpo Norge AS",
+      "latitude": 59.461109,
+      "longitude": 10.687281
+    },
+    {
+      "name": "Kinnarps Moss",
+      "latitude": 59.440825,
+      "longitude": 10.704322
+    },
+    {
+      "name": "Kinsarvik breiband",
+      "latitude": 60.385132,
+      "longitude": 6.691873
+    },
+    {
+      "name": "Kjeldsberg Eiendomsforvaltning",
+      "latitude": 63.399325,
+      "longitude": 10.396305
+    },
+    {
+      "name": "Klovnen Abby",
+      "latitude": 59.9269,
+      "longitude": 10.749427
+    },
+    {
+      "name": "Komplett.no",
+      "latitude": 59.174745,
+      "longitude": 10.219545
+    },
+    {
+      "name": "Kongsberg Aerospace and Defence",
+      "latitude": 59.656274,
+      "longitude": 9.645007
+    },
+    {
+      "name": "Kongsberg Defence & Aerospace AS",
+      "latitude": 59.443699,
+      "longitude": 10.683593
+    },
+    {
+      "name": "Kongsberg Gruppen ASA",
+      "latitude": 59.656331,
+      "longitude": 9.644974
+    },
+    {
+      "name": "Kongsberg Maritime",
+      "latitude": 59.651778,
+      "longitude": 9.65125
+    },
+    {
+      "name": "Kontorhuset",
+      "latitude": 59.739308,
+      "longitude": 10.202759
+    },
+    {
+      "name": "Kraftia/Midtnett",
+      "latitude": 59.831717,
+      "longitude": 9.582512
+    },
+    {
+      "name": "Kran og Industri Service",
+      "latitude": 59.689492,
+      "longitude": 10.243569
+    },
+    {
+      "name": "Kremmerhuset Ting og Sånt",
+      "latitude": 63.432203,
+      "longitude": 10.387665
+    },
+    {
+      "name": "Kris & Kjells Møbelsnekkeri AS",
+      "latitude": 59.919133,
+      "longitude": 10.461998
+    },
+    {
+      "name": "Krohne",
+      "latitude": 59.405886,
+      "longitude": 10.698017
+    },
+    {
+      "name": "Kruse Smith Entreprenør Avdeling Lyngdal",
+      "latitude": 58.137012,
+      "longitude": 7.069449
+    },
+    {
+      "name": "Kréatif",
+      "latitude": 59.420412,
+      "longitude": 10.673298
+    },
+    {
+      "name": "KulturIT",
+      "latitude": 61.130792,
+      "longitude": 10.449374
+    },
+    {
+      "name": "Kvalitetskontroll",
+      "latitude": 60.489439,
+      "longitude": 4.944841
+    },
+    {
+      "name": "Kverneland Energi AS",
+      "latitude": 58.781979,
+      "longitude": 5.700748
+    },
+    {
+      "name": "Kvikk Installasjon AS",
+      "latitude": 59.93783,
+      "longitude": 10.822302
+    },
+    {
+      "name": "Kymar",
+      "latitude": 59.44152,
+      "longitude": 10.70004
+    },
+    {
+      "name": "Køhn Tech A/S",
+      "latitude": 60.067257,
+      "longitude": 10.322556
+    },
+    {
+      "name": "LKAB Norge AS",
+      "latitude": 68.43433,
+      "longitude": 17.416277
+    },
+    {
+      "name": "LMG Marin",
+      "latitude": 60.377111,
+      "longitude": 5.336939
+    },
+    {
+      "name": "LO senteret",
+      "latitude": 60.170719,
+      "longitude": 10.258801
+    },
+    {
+      "name": "LRN Transport",
+      "latitude": 60.710139,
+      "longitude": 10.603491
+    },
+    {
+      "name": "Laboremus Group",
+      "latitude": 59.951053,
+      "longitude": 10.752994
+    },
+    {
+      "name": "Lan-X AS",
+      "latitude": 58.882148,
+      "longitude": 5.740798
+    },
+    {
+      "name": "Langset",
+      "latitude": 62.767721,
+      "longitude": 7.274428
+    },
+    {
+      "name": "Larsen transport",
+      "latitude": 63.689251,
+      "longitude": 9.889556
+    },
+    {
+      "name": "Larsnes",
+      "latitude": 62.203255,
+      "longitude": 5.573149
+    },
+    {
+      "name": "Leidar (NO)",
+      "latitude": 59.907939,
+      "longitude": 10.742429
+    },
+    {
+      "name": "Lian",
+      "latitude": 63.294531,
+      "longitude": 9.083754
+    },
+    {
+      "name": "Lias",
+      "latitude": 68.228924,
+      "longitude": 14.556553
+    },
+    {
+      "name": "Lier Blikk AS",
+      "latitude": 59.748798,
+      "longitude": 10.242602
+    },
+    {
+      "name": "Lier Grønt AS",
+      "latitude": 59.77111,
+      "longitude": 10.258421
+    },
+    {
+      "name": "Lifetec AS",
+      "latitude": 59.916362,
+      "longitude": 10.588204
+    },
+    {
+      "name": "Lingo Access",
+      "latitude": 60.346975,
+      "longitude": 5.13504
+    },
+    {
+      "name": "Lista Bygg",
+      "latitude": 58.089199,
+      "longitude": 6.700374
+    },
+    {
+      "name": "Lista Hangar Eiendom AS",
+      "latitude": 58.112047,
+      "longitude": 6.612714
+    },
+    {
+      "name": "Lista Miljøservice AS",
+      "latitude": 58.1166,
+      "longitude": 6.608851
+    },
+    {
+      "name": "Lister Muskelterapi",
+      "latitude": 58.094706,
+      "longitude": 6.803374
+    },
+    {
+      "name": "Lundevågen Eiendom",
+      "latitude": 58.080498,
+      "longitude": 6.767883
+    },
+    {
+      "name": "Luostejok Kraftlag",
+      "latitude": 70.052629,
+      "longitude": 24.962201
+    },
+    {
+      "name": "Lyngdal Offshore & Marine AS",
+      "latitude": 58.138311,
+      "longitude": 7.035552
+    },
+    {
+      "name": "MBL avd Lillestrand",
+      "latitude": 58.194885,
+      "longitude": 8.347495
+    },
+    {
+      "name": "MHWirth",
+      "latitude": 58.13542,
+      "longitude": 7.037795
+    },
+    {
+      "name": "ML-senteret",
+      "latitude": 63.693608,
+      "longitude": 11.035455
+    },
+    {
+      "name": "MO Transport AS",
+      "latitude": 58.138379,
+      "longitude": 7.035482
+    },
+    {
+      "name": "Machina AS",
+      "latitude": 60.396386,
+      "longitude": 5.324955
+    },
+    {
+      "name": "Magic North",
+      "latitude": 67.283252,
+      "longitude": 14.380786
+    },
+    {
+      "name": "Malejo AS",
+      "latitude": 63.284979,
+      "longitude": 10.276836
+    },
+    {
+      "name": "Mare Safety AS",
+      "latitude": 62.33478,
+      "longitude": 5.855252
+    },
+    {
+      "name": "Marealis AS",
+      "latitude": 69.680712,
+      "longitude": 18.98728
+    },
+    {
+      "name": "Maritim Sveiseservice AS",
+      "latitude": 69.681236,
+      "longitude": 18.996572
+    },
+    {
+      "name": "Maroff Crewing",
+      "latitude": 60.346825,
+      "longitude": 5.135343
+    },
+    {
+      "name": "Max resultat",
+      "latitude": 60.358415,
+      "longitude": 5.127653
+    },
+    {
+      "name": "Mechanical Support AS",
+      "latitude": 59.418628,
+      "longitude": 10.699013
+    },
+    {
+      "name": "Medialøven AS",
+      "latitude": 59.940478,
+      "longitude": 10.50137
+    },
+    {
+      "name": "Mediehuset Tek AS",
+      "latitude": 59.9136,
+      "longitude": 10.742116
+    },
+    {
+      "name": "Meditek Medisinsk Utstyr",
+      "latitude": 58.153821,
+      "longitude": 8.030346
+    },
+    {
+      "name": "Medon Scandinavia",
+      "latitude": 59.818534,
+      "longitude": 10.27565
+    },
+    {
+      "name": "Merkesystem AS",
+      "latitude": 60.443625,
+      "longitude": 5.293881
+    },
+    {
+      "name": "Metallhuset Bergsøe AS",
+      "latitude": 59.819667,
+      "longitude": 10.32656
+    },
+    {
+      "name": "Micronova",
+      "latitude": 59.418826,
+      "longitude": 10.671302
+    },
+    {
+      "name": "Mills AS",
+      "latitude": 59.724202,
+      "longitude": 10.229177
+    },
+    {
+      "name": "Mine office",
+      "latitude": 78.656874,
+      "longitude": 16.316855
+    },
+    {
+      "name": "Miniekspress",
+      "latitude": 70.063483,
+      "longitude": 24.981193
+    },
+    {
+      "name": "Moderne hytter",
+      "latitude": 59.739188,
+      "longitude": 10.202598
+    },
+    {
+      "name": "Modulveger",
+      "latitude": 59.728507,
+      "longitude": 10.247089
+    },
+    {
+      "name": "Modus Design AS",
+      "latitude": 59.90975,
+      "longitude": 10.720252
+    },
+    {
+      "name": "Morten maskin AS",
+      "latitude": 59.438101,
+      "longitude": 10.698093
+    },
+    {
+      "name": "Moss Taxi",
+      "latitude": 59.437091,
+      "longitude": 10.663748
+    },
+    {
+      "name": "Multiconsult",
+      "latitude": 63.397691,
+      "longitude": 10.39704
+    },
+    {
+      "name": "Multifix Stavanger",
+      "latitude": 58.941095,
+      "longitude": 5.581648
+    },
+    {
+      "name": "Mvh",
+      "latitude": 59.909972,
+      "longitude": 10.740968
+    },
+    {
+      "name": "Mørenett Hovedkontor",
+      "latitude": 62.277025,
+      "longitude": 5.80874
+    },
+    {
+      "name": "NC-Spectrum AS",
+      "latitude": 59.401757,
+      "longitude": 8.492589
+    },
+    {
+      "name": "NIRAS Norge AS",
+      "latitude": 59.916508,
+      "longitude": 10.807269
+    },
+    {
+      "name": "NKT AS",
+      "latitude": 59.72724,
+      "longitude": 10.251097
+    },
+    {
+      "name": "NT Regnskap AS",
+      "latitude": 59.9291,
+      "longitude": 10.944851
+    },
+    {
+      "name": "NYG",
+      "latitude": 59.751799,
+      "longitude": 10.009963
+    },
+    {
+      "name": "Naboen",
+      "latitude": 60.346891,
+      "longitude": 5.135112
+    },
+    {
+      "name": "Nakkenauto",
+      "latitude": 62.50254,
+      "longitude": 6.693463
+    },
+    {
+      "name": "Nasjonalgjerde AS",
+      "latitude": 59.454935,
+      "longitude": 10.699682
+    },
+    {
+      "name": "Netlight Consulting",
+      "latitude": 59.913089,
+      "longitude": 10.742217
+    },
+    {
+      "name": "Nexans Norway AS",
+      "latitude": 59.312172,
+      "longitude": 5.312529
+    },
+    {
+      "name": "Nextron",
+      "latitude": 59.948223,
+      "longitude": 10.774138
+    },
+    {
+      "name": "Nidelven Næringspark AS​",
+      "latitude": 63.353404,
+      "longitude": 10.434047
+    },
+    {
+      "name": "NoA Ignite",
+      "latitude": 59.911555,
+      "longitude": 10.73825
+    },
+    {
+      "name": "Nobina",
+      "latitude": 59.952577,
+      "longitude": 10.88958
+    },
+    {
+      "name": "Nogva Heimdal Propulsion",
+      "latitude": 62.772509,
+      "longitude": 7.281521
+    },
+    {
+      "name": "Nor Kapital",
+      "latitude": 60.346856,
+      "longitude": 5.135239
+    },
+    {
+      "name": "NorSea Vestbase AS",
+      "latitude": 63.106684,
+      "longitude": 7.777625
+    },
+    {
+      "name": "Norconsult",
+      "latitude": 59.88698,
+      "longitude": 10.52652
+    },
+    {
+      "name": "Nordic Last of Buss",
+      "latitude": 68.228478,
+      "longitude": 14.555892
+    },
+    {
+      "name": "Nordic Semiconductor",
+      "latitude": 63.42105,
+      "longitude": 10.437184
+    },
+    {
+      "name": "Nordic Semiconductor ASA",
+      "latitude": 59.921057,
+      "longitude": 10.688874
+    },
+    {
+      "name": "Nordisk Design",
+      "latitude": 59.454861,
+      "longitude": 10.699621
+    },
+    {
+      "name": "Nordisk Testsenter AS",
+      "latitude": 58.112088,
+      "longitude": 6.612572
+    },
+    {
+      "name": "Norengros",
+      "latitude": 60.148476,
+      "longitude": 11.184254
+    },
+    {
+      "name": "Norengros Drammen",
+      "latitude": 59.697807,
+      "longitude": 10.245645
+    },
+    {
+      "name": "Norges Geotekniske Institutt",
+      "latitude": 59.95214,
+      "longitude": 10.767159
+    },
+    {
+      "name": "Norges Samemisjon",
+      "latitude": 63.432563,
+      "longitude": 10.38495
+    },
+    {
+      "name": "Norges Vinduet",
+      "latitude": 65.537547,
+      "longitude": 13.382238
+    },
+    {
+      "name": "Norkart",
+      "latitude": 63.414157,
+      "longitude": 10.397965
+    },
+    {
+      "name": "Norline Design Tvedestrand",
+      "latitude": 58.614542,
+      "longitude": 8.905618
+    },
+    {
+      "name": "Norshore",
+      "latitude": 60.347159,
+      "longitude": 5.134883
+    },
+    {
+      "name": "Norsk Gummi AS",
+      "latitude": 59.7216,
+      "longitude": 10.264561
+    },
+    {
+      "name": "Norsk Helsenett - Tromsø",
+      "latitude": 69.670401,
+      "longitude": 18.973946
+    },
+    {
+      "name": "Norsk Landbruksrådgiving",
+      "latitude": 65.537436,
+      "longitude": 13.384529
+    },
+    {
+      "name": "Norsk Musikkforlag",
+      "latitude": 59.902207,
+      "longitude": 10.783575
+    },
+    {
+      "name": "Norsk Scania AS avdeling Bardufoss",
+      "latitude": 69.097068,
+      "longitude": 18.606358
+    },
+    {
+      "name": "Norsk Språkservice Language Services",
+      "latitude": 59.938961,
+      "longitude": 10.775328
+    },
+    {
+      "name": "Norsk gjennvinning",
+      "latitude": 59.727081,
+      "longitude": 10.249444
+    },
+    {
+      "name": "Norsk kjelkontroll AS",
+      "latitude": 60.347079,
+      "longitude": 5.135049
+    },
+    {
+      "name": "Norsk miljøservice AS",
+      "latitude": 59.692699,
+      "longitude": 10.246478
+    },
+    {
+      "name": "Norsk vannteknologi AS",
+      "latitude": 59.436199,
+      "longitude": 10.701271
+    },
+    {
+      "name": "Norske Konsertarrangører",
+      "latitude": 59.913109,
+      "longitude": 10.749147
+    },
+    {
+      "name": "Norske Shell",
+      "latitude": 63.107685,
+      "longitude": 7.783354
+    },
+    {
+      "name": "Norwegian Air Shuttle",
+      "latitude": 59.906309,
+      "longitude": 10.628105
+    },
+    {
+      "name": "Norwegian Hull Club",
+      "latitude": 60.378626,
+      "longitude": 5.334996
+    },
+    {
+      "name": "Nye Sider AS",
+      "latitude": 68.79688,
+      "longitude": 16.47022
+    },
+    {
+      "name": "OPAK Bergen",
+      "latitude": 60.376966,
+      "longitude": 5.337106
+    },
+    {
+      "name": "Obas NTI",
+      "latitude": 59.69127,
+      "longitude": 10.24352
+    },
+    {
+      "name": "Oceaneering AS",
+      "latitude": 58.887799,
+      "longitude": 5.699423
+    },
+    {
+      "name": "Oda",
+      "latitude": 59.914562,
+      "longitude": 10.777242
+    },
+    {
+      "name": "Odfjell Drilling",
+      "latitude": 60.34714,
+      "longitude": 5.135075
+    },
+    {
+      "name": "Odin",
+      "latitude": 60.347067,
+      "longitude": 5.134962
+    },
+    {
+      "name": "Odland HMS Tjenester",
+      "latitude": 59.388476,
+      "longitude": 5.297363
+    },
+    {
+      "name": "Omega",
+      "latitude": 63.107622,
+      "longitude": 7.783531
+    },
+    {
+      "name": "Omega 365 Design",
+      "latitude": 59.597778,
+      "longitude": 5.743034
+    },
+    {
+      "name": "Omni plus",
+      "latitude": 62.471932,
+      "longitude": 6.225992
+    },
+    {
+      "name": "OneCo Technologies AS",
+      "latitude": 58.883159,
+      "longitude": 5.691925
+    },
+    {
+      "name": "Onninen Express",
+      "latitude": 59.737726,
+      "longitude": 10.224914
+    },
+    {
+      "name": "Optio",
+      "latitude": 59.928676,
+      "longitude": 10.800334
+    },
+    {
+      "name": "Option AS",
+      "latitude": 58.978944,
+      "longitude": 5.720433
+    },
+    {
+      "name": "Oshaug Metall",
+      "latitude": 62.736818,
+      "longitude": 7.179122
+    },
+    {
+      "name": "Oslo Seafood & Cargo Center AS",
+      "latitude": 60.179944,
+      "longitude": 11.077437
+    },
+    {
+      "name": "Otera Infra AS",
+      "latitude": 58.138542,
+      "longitude": 7.038581
+    },
+    {
+      "name": "Overlanding Senja",
+      "latitude": 69.260826,
+      "longitude": 17.619042
+    },
+    {
+      "name": "PLAATO Technologies",
+      "latitude": 59.920156,
+      "longitude": 10.753025
+    },
+    {
+      "name": "PQX Media",
+      "latitude": 59.443381,
+      "longitude": 10.68284
+    },
+    {
+      "name": "Palantir",
+      "latitude": 59.760351,
+      "longitude": 5.444592
+    },
+    {
+      "name": "Panel Bygg",
+      "latitude": 59.735072,
+      "longitude": 10.215802
+    },
+    {
+      "name": "Parallell",
+      "latitude": 59.926335,
+      "longitude": 10.722333
+    },
+    {
+      "name": "Pema solskjerming AS",
+      "latitude": 59.406391,
+      "longitude": 10.697942
+    },
+    {
+      "name": "Piscada AS",
+      "latitude": 63.432614,
+      "longitude": 10.470958
+    },
+    {
+      "name": "Planckfilm",
+      "latitude": 58.967365,
+      "longitude": 5.752467
+    },
+    {
+      "name": "Planktonc AS",
+      "latitude": 63.442696,
+      "longitude": 10.34837
+    },
+    {
+      "name": "Plantasjen",
+      "latitude": 59.45115,
+      "longitude": 10.738267
+    },
+    {
+      "name": "Plateful",
+      "latitude": 59.440489,
+      "longitude": 10.700614
+    },
+    {
+      "name": "Pol betong AS",
+      "latitude": 59.407355,
+      "longitude": 10.697123
+    },
+    {
+      "name": "Politiets sikkerhetstjeneste",
+      "latitude": 59.947079,
+      "longitude": 10.767565
+    },
+    {
+      "name": "Polygon",
+      "latitude": 59.462744,
+      "longitude": 10.690605
+    },
+    {
+      "name": "Port-office",
+      "latitude": 78.655623,
+      "longitude": 16.37893
+    },
+    {
+      "name": "Portalen Drammen",
+      "latitude": 59.743301,
+      "longitude": 10.191123
+    },
+    {
+      "name": "Posten Bring Home Delivery Norge AS avd. Drammen",
+      "latitude": 59.727606,
+      "longitude": 10.250163
+    },
+    {
+      "name": "Posten Bring Varebil AS avd. Drammen",
+      "latitude": 59.727614,
+      "longitude": 10.250199
+    },
+    {
+      "name": "Proact IT Norge",
+      "latitude": 60.347281,
+      "longitude": 5.275752
+    },
+    {
+      "name": "Proff Oppussing",
+      "latitude": 59.922813,
+      "longitude": 10.773832
+    },
+    {
+      "name": "Protek Norge AS",
+      "latitude": 59.461019,
+      "longitude": 10.687262
+    },
+    {
+      "name": "Q-railing",
+      "latitude": 59.695742,
+      "longitude": 10.251022
+    },
+    {
+      "name": "Q43",
+      "latitude": 58.137258,
+      "longitude": 7.040732
+    },
+    {
+      "name": "Quesnay",
+      "latitude": 59.951041,
+      "longitude": 10.753029
+    },
+    {
+      "name": "Quipd",
+      "latitude": 59.442539,
+      "longitude": 10.696609
+    },
+    {
+      "name": "REMA 1000 Region Nordre Østland",
+      "latitude": 60.801487,
+      "longitude": 11.035337
+    },
+    {
+      "name": "Rada engineering & consulting",
+      "latitude": 60.369716,
+      "longitude": 5.341143
+    },
+    {
+      "name": "Railway AS",
+      "latitude": 59.922754,
+      "longitude": 10.751062
+    },
+    {
+      "name": "Rank Nr. 1",
+      "latitude": 58.153864,
+      "longitude": 8.030293
+    },
+    {
+      "name": "Raufoss Tak & Blikk",
+      "latitude": 60.708724,
+      "longitude": 10.600444
+    },
+    {
+      "name": "Recover",
+      "latitude": 58.137804,
+      "longitude": 7.034833
+    },
+    {
+      "name": "Recover",
+      "latitude": 59.442423,
+      "longitude": 10.701419
+    },
+    {
+      "name": "Recover",
+      "latitude": 59.917104,
+      "longitude": 10.755642
+    },
+    {
+      "name": "Rederiet Stenersen AS",
+      "latitude": 60.376408,
+      "longitude": 5.335918
+    },
+    {
+      "name": "Reinertsen AS",
+      "latitude": 63.442425,
+      "longitude": 10.404167
+    },
+    {
+      "name": "Ren Røros AS",
+      "latitude": 62.570402,
+      "longitude": 11.386806
+    },
+    {
+      "name": "Ren Røros Digital AS",
+      "latitude": 62.570537,
+      "longitude": 11.386679
+    },
+    {
+      "name": "Ren Røros El-Service",
+      "latitude": 62.570333,
+      "longitude": 11.386948
+    },
+    {
+      "name": "Ren Røros Strøm AS",
+      "latitude": 62.570391,
+      "longitude": 11.38691
+    },
+    {
+      "name": "Rendra AS",
+      "latitude": 59.927867,
+      "longitude": 10.805329
+    },
+    {
+      "name": "Renico",
+      "latitude": 59.228914,
+      "longitude": 10.91092
+    },
+    {
+      "name": "Renseteknikk AS",
+      "latitude": 58.101409,
+      "longitude": 6.702076
+    },
+    {
+      "name": "Rep-tech",
+      "latitude": 59.417856,
+      "longitude": 10.669986
+    },
+    {
+      "name": "ResQ",
+      "latitude": 58.91637,
+      "longitude": 5.585839
+    },
+    {
+      "name": "Response Retail AS",
+      "latitude": 63.435947,
+      "longitude": 10.404367
+    },
+    {
+      "name": "Revisorgruppen",
+      "latitude": 60.346803,
+      "longitude": 5.135188
+    },
+    {
+      "name": "Ridel Taxi",
+      "latitude": 58.127998,
+      "longitude": 7.94437
+    },
+    {
+      "name": "Ringerike Liftutleie",
+      "latitude": 60.722548,
+      "longitude": 10.61562
+    },
+    {
+      "name": "RisCo AS",
+      "latitude": 69.680787,
+      "longitude": 18.986649
+    },
+    {
+      "name": "Roald Madsen AS",
+      "latitude": 69.708852,
+      "longitude": 19.017979
+    },
+    {
+      "name": "Rogaland redning AS",
+      "latitude": 58.896719,
+      "longitude": 5.680417
+    },
+    {
+      "name": "Rom for flere",
+      "latitude": 60.37003,
+      "longitude": 5.341418
+    },
+    {
+      "name": "Rottefella",
+      "latitude": 59.764488,
+      "longitude": 10.257536
+    },
+    {
+      "name": "Ruta Entreprenør AS",
+      "latitude": 63.371892,
+      "longitude": 10.338563
+    },
+    {
+      "name": "Ruter AS",
+      "latitude": 59.912544,
+      "longitude": 10.7487
+    },
+    {
+      "name": "Ryde",
+      "latitude": 63.431226,
+      "longitude": 10.40291
+    },
+    {
+      "name": "Rystad Energy",
+      "latitude": 59.914842,
+      "longitude": 10.743167
+    },
+    {
+      "name": "Røros E-verk nett AS",
+      "latitude": 62.57051,
+      "longitude": 11.383069
+    },
+    {
+      "name": "SELECT Sport Norge AS",
+      "latitude": 59.434203,
+      "longitude": 10.669421
+    },
+    {
+      "name": "SET Elektro",
+      "latitude": 59.733449,
+      "longitude": 10.209656
+    },
+    {
+      "name": "SG Armturen",
+      "latitude": 58.240615,
+      "longitude": 8.306998
+    },
+    {
+      "name": "SWECO Norge AS",
+      "latitude": 59.73767,
+      "longitude": 10.203454
+    },
+    {
+      "name": "Safran Sensing Technologies Norway AS",
+      "latitude": 59.380251,
+      "longitude": 10.405086
+    },
+    {
+      "name": "Safran Sensing Technologies Norway AS",
+      "latitude": 59.423598,
+      "longitude": 10.452393
+    },
+    {
+      "name": "SalMar Follafoss",
+      "latitude": 63.983482,
+      "longitude": 11.108455
+    },
+    {
+      "name": "SalMar Langstein",
+      "latitude": 63.547212,
+      "longitude": 10.902072
+    },
+    {
+      "name": "SalMar Tjuin",
+      "latitude": 64.075918,
+      "longitude": 11.25265
+    },
+    {
+      "name": "Salmar Dåfjord",
+      "latitude": 69.993383,
+      "longitude": 19.390017
+    },
+    {
+      "name": "Salmon Evolution",
+      "latitude": 62.854444,
+      "longitude": 7.163037
+    },
+    {
+      "name": "Salthammer",
+      "latitude": 62.610958,
+      "longitude": 7.098313
+    },
+    {
+      "name": "Salto Systems Norge",
+      "latitude": 59.416338,
+      "longitude": 10.67004
+    },
+    {
+      "name": "Sanofi",
+      "latitude": 59.911426,
+      "longitude": 10.63015
+    },
+    {
+      "name": "Scalagruppen",
+      "latitude": 58.341827,
+      "longitude": 8.595959
+    },
+    {
+      "name": "ScanReach",
+      "latitude": 60.365449,
+      "longitude": 5.121354
+    },
+    {
+      "name": "Schuchmann",
+      "latitude": 59.695837,
+      "longitude": 10.25083
+    },
+    {
+      "name": "Scout Drone Inspection",
+      "latitude": 63.396881,
+      "longitude": 10.401817
+    },
+    {
+      "name": "Seaweed Energy Solutions AS",
+      "latitude": 63.442882,
+      "longitude": 10.348145
+    },
+    {
+      "name": "Secure Practice",
+      "latitude": 63.44097,
+      "longitude": 10.403092
+    },
+    {
+      "name": "Securitas",
+      "latitude": 67.284745,
+      "longitude": 14.378937
+    },
+    {
+      "name": "Sedicon AS",
+      "latitude": 63.399102,
+      "longitude": 10.397016
+    },
+    {
+      "name": "Semcon Norge AS",
+      "latitude": 59.67739,
+      "longitude": 9.641438
+    },
+    {
+      "name": "ServicePartner1",
+      "latitude": 58.13923,
+      "longitude": 7.034758
+    },
+    {
+      "name": "Sevan SSP",
+      "latitude": 60.377159,
+      "longitude": 5.336883
+    },
+    {
+      "name": "Sharp Bergen",
+      "latitude": 60.485087,
+      "longitude": 5.385021
+    },
+    {
+      "name": "Siemens Energy",
+      "latitude": 59.656095,
+      "longitude": 9.642838
+    },
+    {
+      "name": "Signal Analysis Lab",
+      "latitude": 58.335695,
+      "longitude": 8.57776
+    },
+    {
+      "name": "Sigum Fagerberg",
+      "latitude": 59.417318,
+      "longitude": 10.700667
+    },
+    {
+      "name": "Sixty",
+      "latitude": 60.396882,
+      "longitude": 5.315163
+    },
+    {
+      "name": "Skagerak Energi",
+      "latitude": 59.282566,
+      "longitude": 10.430115
+    },
+    {
+      "name": "Skanska Anleggskontor",
+      "latitude": 58.071357,
+      "longitude": 6.786327
+    },
+    {
+      "name": "Smart Organisering & Design",
+      "latitude": 59.927453,
+      "longitude": 10.715873
+    },
+    {
+      "name": "Smuss Studio",
+      "latitude": 59.920809,
+      "longitude": 10.762528
+    },
+    {
+      "name": "Smøla oppdrettsservice",
+      "latitude": 63.426059,
+      "longitude": 7.84646
+    },
+    {
+      "name": "Snusbonden AS",
+      "latitude": 63.40905,
+      "longitude": 10.147992
+    },
+    {
+      "name": "Socap",
+      "latitude": 60.346958,
+      "longitude": 5.13523
+    },
+    {
+      "name": "Sodexo",
+      "latitude": 59.91626,
+      "longitude": 10.637911
+    },
+    {
+      "name": "Software Innovation AS",
+      "latitude": 59.89422,
+      "longitude": 10.628068
+    },
+    {
+      "name": "Sognekraft",
+      "latitude": 61.085753,
+      "longitude": 6.580289
+    },
+    {
+      "name": "Solar",
+      "latitude": 60.169611,
+      "longitude": 11.149643
+    },
+    {
+      "name": "Solvr",
+      "latitude": 59.951017,
+      "longitude": 10.753102
+    },
+    {
+      "name": "Sonitor Technologies AS",
+      "latitude": 59.913423,
+      "longitude": 10.644045
+    },
+    {
+      "name": "Stadion AS",
+      "latitude": 59.43964,
+      "longitude": 10.698211
+    },
+    {
+      "name": "Stadler Service Norway",
+      "latitude": 59.904224,
+      "longitude": 10.774857
+    },
+    {
+      "name": "Standard Agency",
+      "latitude": 59.916468,
+      "longitude": 10.793473
+    },
+    {
+      "name": "Star Security AS",
+      "latitude": 59.915321,
+      "longitude": 10.737739
+    },
+    {
+      "name": "Statkraft AS",
+      "latitude": 59.647669,
+      "longitude": 6.348786
+    },
+    {
+      "name": "Statnett Transport",
+      "latitude": 59.738211,
+      "longitude": 10.228057
+    },
+    {
+      "name": "Stave Transport AS",
+      "latitude": 58.135747,
+      "longitude": 7.040225
+    },
+    {
+      "name": "Stena Recycling AS",
+      "latitude": 59.121296,
+      "longitude": 9.569084
+    },
+    {
+      "name": "Stjerneskifer",
+      "latitude": 63.687911,
+      "longitude": 9.891253
+    },
+    {
+      "name": "Storebrand",
+      "latitude": 59.911305,
+      "longitude": 10.629693
+    },
+    {
+      "name": "Storvik",
+      "latitude": 63.107589,
+      "longitude": 7.783799
+    },
+    {
+      "name": "Storyteller Recording",
+      "latitude": 58.786125,
+      "longitude": 5.604244
+    },
+    {
+      "name": "Stylistene",
+      "latitude": 59.418584,
+      "longitude": 10.670776
+    },
+    {
+      "name": "Ståle Richardsen AS",
+      "latitude": 69.508105,
+      "longitude": 17.901819
+    },
+    {
+      "name": "Stålesen Mek. Verksted",
+      "latitude": 58.092654,
+      "longitude": 6.696195
+    },
+    {
+      "name": "Suldal Transport",
+      "latitude": 59.48034,
+      "longitude": 6.271456
+    },
+    {
+      "name": "Svelvik Produkter AS",
+      "latitude": 59.609752,
+      "longitude": 10.408248
+    },
+    {
+      "name": "Sweco Trondheim",
+      "latitude": 63.399198,
+      "longitude": 10.396728
+    },
+    {
+      "name": "Sør-Bygg",
+      "latitude": 58.097583,
+      "longitude": 6.689866
+    },
+    {
+      "name": "Sør-Trøndelag SV",
+      "latitude": 63.433196,
+      "longitude": 10.401583
+    },
+    {
+      "name": "Sørlandets Liftutleie AS",
+      "latitude": 58.110656,
+      "longitude": 6.623022
+    },
+    {
+      "name": "TEKNObad",
+      "latitude": 58.612752,
+      "longitude": 8.90123
+    },
+    {
+      "name": "TET Digital",
+      "latitude": 59.912743,
+      "longitude": 10.748481
+    },
+    {
+      "name": "TINE Meieri Vik",
+      "latitude": 61.086416,
+      "longitude": 6.581232
+    },
+    {
+      "name": "TRUCKTEK AS",
+      "latitude": 65.494407,
+      "longitude": 12.226577
+    },
+    {
+      "name": "TV 2",
+      "latitude": 59.908081,
+      "longitude": 10.755073
+    },
+    {
+      "name": "Tax Return",
+      "latitude": 59.449362,
+      "longitude": 10.696298
+    },
+    {
+      "name": "Tece Norge",
+      "latitude": 60.369823,
+      "longitude": 5.341039
+    },
+    {
+      "name": "TechnipFMC",
+      "latitude": 58.89901,
+      "longitude": 5.698393
+    },
+    {
+      "name": "TechnipFMC Kongsberg",
+      "latitude": 59.652715,
+      "longitude": 9.643373
+    },
+    {
+      "name": "TechnipFMC Lysaker",
+      "latitude": 59.908976,
+      "longitude": 10.622519
+    },
+    {
+      "name": "Tele Scan AS",
+      "latitude": 59.418523,
+      "longitude": 10.699004
+    },
+    {
+      "name": "Telenor Capture AS",
+      "latitude": 63.43829,
+      "longitude": 10.400944
+    },
+    {
+      "name": "Terob AS",
+      "latitude": 59.45617,
+      "longitude": 10.699207
+    },
+    {
+      "name": "The Qt Company",
+      "latitude": 59.948105,
+      "longitude": 10.769503
+    },
+    {
+      "name": "Time And Date",
+      "latitude": 58.894197,
+      "longitude": 5.707146
+    },
+    {
+      "name": "Tinde Hytter",
+      "latitude": 61.528951,
+      "longitude": 10.147034
+    },
+    {
+      "name": "Tine Rådgiving",
+      "latitude": 59.669299,
+      "longitude": 10.795045
+    },
+    {
+      "name": "Top camp",
+      "latitude": 59.962618,
+      "longitude": 10.642197
+    },
+    {
+      "name": "Torp IT",
+      "latitude": 59.173738,
+      "longitude": 10.217361
+    },
+    {
+      "name": "Toten Service Senter",
+      "latitude": 60.709853,
+      "longitude": 10.606657
+    },
+    {
+      "name": "Tothe Invest AS",
+      "latitude": 59.40745,
+      "longitude": 10.696839
+    },
+    {
+      "name": "Toyota Kreditbank",
+      "latitude": 59.724324,
+      "longitude": 10.25695
+    },
+    {
+      "name": "Toyota Norge",
+      "latitude": 59.723904,
+      "longitude": 10.257667
+    },
+    {
+      "name": "Triangel AS",
+      "latitude": 62.748294,
+      "longitude": 7.252836
+    },
+    {
+      "name": "Triangel Security AS",
+      "latitude": 62.736403,
+      "longitude": 7.182362
+    },
+    {
+      "name": "Trias",
+      "latitude": 58.094538,
+      "longitude": 6.804901
+    },
+    {
+      "name": "Trigonor",
+      "latitude": 59.441385,
+      "longitude": 10.698783
+    },
+    {
+      "name": "Tripletex AS",
+      "latitude": 59.921017,
+      "longitude": 10.677378
+    },
+    {
+      "name": "Tvedestrand Distribusjonsservice",
+      "latitude": 58.614086,
+      "longitude": 8.905076
+    },
+    {
+      "name": "Tysnes Kraftlag",
+      "latitude": 60.046529,
+      "longitude": 5.522443
+    },
+    {
+      "name": "Ullensaker Røde Kors",
+      "latitude": 60.152513,
+      "longitude": 11.122497
+    },
+    {
+      "name": "Ulpianus AS",
+      "latitude": 60.346913,
+      "longitude": 5.135268
+    },
+    {
+      "name": "Unfold",
+      "latitude": 59.919162,
+      "longitude": 10.754628
+    },
+    {
+      "name": "Uni Micro",
+      "latitude": 60.377509,
+      "longitude": 5.332878
+    },
+    {
+      "name": "Uni Micro",
+      "latitude": 60.814515,
+      "longitude": 5.803261
+    },
+    {
+      "name": "Uninett Sigma AS",
+      "latitude": 63.415844,
+      "longitude": 10.394879
+    },
+    {
+      "name": "Unipos",
+      "latitude": 60.346936,
+      "longitude": 5.135074
+    },
+    {
+      "name": "Unit4 Kristiansand",
+      "latitude": 58.153479,
+      "longitude": 8.001838
+    },
+    {
+      "name": "Uno-X Mobility",
+      "latitude": 59.915054,
+      "longitude": 10.787558
+    },
+    {
+      "name": "UpM Norge AS",
+      "latitude": 59.420166,
+      "longitude": 10.699486
+    },
+    {
+      "name": "Uponor",
+      "latitude": 59.437755,
+      "longitude": 10.703784
+    },
+    {
+      "name": "Utviklerne AS",
+      "latitude": 58.166362,
+      "longitude": 8.040497
+    },
+    {
+      "name": "Vard",
+      "latitude": 62.584382,
+      "longitude": 6.93213
+    },
+    {
+      "name": "Variant AS",
+      "latitude": 63.430745,
+      "longitude": 10.389668
+    },
+    {
+      "name": "Varme & Miljø",
+      "latitude": 58.138743,
+      "longitude": 7.034726
+    },
+    {
+      "name": "Vassbakk & Stol",
+      "latitude": 59.29051,
+      "longitude": 5.288313
+    },
+    {
+      "name": "Vegmerking Vest",
+      "latitude": 60.291478,
+      "longitude": 5.213458
+    },
+    {
+      "name": "Veidekke",
+      "latitude": 59.667857,
+      "longitude": 10.794801
+    },
+    {
+      "name": "Veidekke",
+      "latitude": 59.698055,
+      "longitude": 10.248798
+    },
+    {
+      "name": "Veidekke Bygg Trøndelag",
+      "latitude": 63.399166,
+      "longitude": 10.397002
+    },
+    {
+      "name": "Veien Tilbake AS / Road Safety",
+      "latitude": 59.737949,
+      "longitude": 10.203364
+    },
+    {
+      "name": "Veksthuset Røros AS",
+      "latitude": 62.57427,
+      "longitude": 11.376605
+    },
+    {
+      "name": "Vema interiør AS",
+      "latitude": 59.626405,
+      "longitude": 11.006135
+    },
+    {
+      "name": "Venturos",
+      "latitude": 58.094514,
+      "longitude": 6.804902
+    },
+    {
+      "name": "Vest Kontakt AS",
+      "latitude": 59.254572,
+      "longitude": 5.181837
+    },
+    {
+      "name": "Vestbygg",
+      "latitude": 58.097041,
+      "longitude": 6.687381
+    },
+    {
+      "name": "Vestlandsforsking",
+      "latitude": 61.231921,
+      "longitude": 7.087208
+    },
+    {
+      "name": "Via Egencia",
+      "latitude": 67.284691,
+      "longitude": 14.378991
+    },
+    {
+      "name": "Vik Samyrkjelag",
+      "latitude": 61.088145,
+      "longitude": 6.580593
+    },
+    {
+      "name": "Vika Vaktsentral GSS AS",
+      "latitude": 59.912722,
+      "longitude": 10.72762
+    },
+    {
+      "name": "Viken kompetanse",
+      "latitude": 59.440254,
+      "longitude": 10.694953
+    },
+    {
+      "name": "Viking",
+      "latitude": 59.928064,
+      "longitude": 10.841929
+    },
+    {
+      "name": "Visolit Norway AS",
+      "latitude": 59.830167,
+      "longitude": 10.412942
+    },
+    {
+      "name": "Vivaldi Technologies AS",
+      "latitude": 59.930213,
+      "longitude": 10.756699
+    },
+    {
+      "name": "Vizrt",
+      "latitude": 60.385728,
+      "longitude": 5.332838
+    },
+    {
+      "name": "Volt Power Analytics",
+      "latitude": 58.460307,
+      "longitude": 8.767266
+    },
+    {
+      "name": "Voss Bilberging a/s",
+      "latitude": 60.637733,
+      "longitude": 6.524137
+    },
+    {
+      "name": "Voss Energi",
+      "latitude": 60.635268,
+      "longitude": 6.453604
+    },
+    {
+      "name": "Vy",
+      "latitude": 59.909746,
+      "longitude": 10.763389
+    },
+    {
+      "name": "Vy",
+      "latitude": 59.911122,
+      "longitude": 10.753593
+    },
+    {
+      "name": "Vy buss avd Moss",
+      "latitude": 59.442735,
+      "longitude": 10.701995
+    },
+    {
+      "name": "Vår Energi ASA",
+      "latitude": 58.886552,
+      "longitude": 5.697617
+    },
+    {
+      "name": "Weatherford Laboratories",
+      "latitude": 63.442742,
+      "longitude": 10.428442
+    },
+    {
+      "name": "Webstep Trondheim",
+      "latitude": 63.433262,
+      "longitude": 10.403575
+    },
+    {
+      "name": "Welltec",
+      "latitude": 58.92048,
+      "longitude": 5.604468
+    },
+    {
+      "name": "Wingboot",
+      "latitude": 58.094481,
+      "longitude": 6.804909
+    },
+    {
+      "name": "Wish AS",
+      "latitude": 59.931246,
+      "longitude": 10.682533
+    },
+    {
+      "name": "Wittusen & Jensen",
+      "latitude": 59.951173,
+      "longitude": 10.850745
+    },
+    {
+      "name": "Worley Rosenberg",
+      "latitude": 58.988242,
+      "longitude": 5.725104
+    },
+    {
+      "name": "Wärtsilä",
+      "latitude": 59.760413,
+      "longitude": 5.444536
+    },
+    {
+      "name": "Xllnc Norway AS",
+      "latitude": 59.172837,
+      "longitude": 10.216344
+    },
+    {
+      "name": "Xpro",
+      "latitude": 63.10768,
+      "longitude": 7.783671
+    },
+    {
+      "name": "Xtravaganza",
+      "latitude": 67.286077,
+      "longitude": 14.392667
+    },
+    {
+      "name": "YM Consult AS",
+      "latitude": 59.927841,
+      "longitude": 10.805721
+    },
+    {
+      "name": "YSST Bømlo",
+      "latitude": 59.79809,
+      "longitude": 5.20261
+    },
+    {
+      "name": "Ytterstad Fiskeriselskap AS",
+      "latitude": 68.418839,
+      "longitude": 15.993277
+    },
+    {
+      "name": "aibel",
+      "latitude": 59.409143,
+      "longitude": 5.266292
+    },
+    {
+      "name": "by north",
+      "latitude": 67.284786,
+      "longitude": 14.378701
+    },
+    {
+      "name": "erling sande",
+      "latitude": 59.692133,
+      "longitude": 10.24365
+    },
+    {
+      "name": "goodtech",
+      "latitude": 59.437796,
+      "longitude": 10.698541
+    },
+    {
+      "name": "gosh! bepe",
+      "latitude": 59.443512,
+      "longitude": 10.698667
+    },
+    {
+      "name": "iQU AS",
+      "latitude": 60.255411,
+      "longitude": 11.682801
+    },
+    {
+      "name": "ispirix",
+      "latitude": 60.347117,
+      "longitude": 5.134919
+    },
+    {
+      "name": "itslearning",
+      "latitude": 60.378081,
+      "longitude": 5.330621
+    },
+    {
+      "name": "live2learn",
+      "latitude": 60.346776,
+      "longitude": 5.135214
+    },
+    {
+      "name": "non dos",
+      "latitude": 59.931734,
+      "longitude": 10.725228
+    },
+    {
+      "name": "posten",
+      "latitude": 69.682584,
+      "longitude": 19.001228
+    },
+    {
+      "name": "uWork",
+      "latitude": 59.929194,
+      "longitude": 10.741495
+    },
+    {
+      "name": "Älsvbyhus",
+      "latitude": 59.412602,
+      "longitude": 10.687913
+    },
+    {
+      "name": "ØSTO",
+      "latitude": 60.784908,
+      "longitude": 11.116122
+    }
+  ],
+  "meta": {
+    "title": "Named company offices in Norway - Gratis nedlasting",
+    "description": "Named company offices in Norway, derived from OpenStreetMap POI nodes tagged office=company in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 627 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named company offices in Norway | ListBase",
+    "seo_description": "Last ned Named company offices in Norway — 627 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 627 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

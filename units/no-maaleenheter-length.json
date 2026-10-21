@@ -1,0 +1,376 @@
+{
+  "id": "no-maaleenheter-length",
+  "name": "Maaleenheter: length (31)",
+  "title": "Maaleenheter: length (31)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'length'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "length-astronomical-unit",
+      "kategori": "length",
+      "navn": "astronomiske enheter",
+      "moenster_en": "{0} astronomisk enhet",
+      "moenster_flere": "{0} astronomiske enheter",
+      "kort_moenster": "{0} AU",
+      "smal_moenster": "{0}AU"
+    },
+    {
+      "id": 2,
+      "unit_code": "length-centimeter",
+      "kategori": "length",
+      "navn": "centimeter",
+      "moenster_en": "{0} centimeter",
+      "moenster_flere": "{0} centimeter",
+      "kort_moenster": "{0} cm",
+      "smal_moenster": "{0}cm"
+    },
+    {
+      "id": 3,
+      "unit_code": "length-chain",
+      "kategori": "length",
+      "navn": "chain",
+      "moenster_en": "",
+      "moenster_flere": "{0} chain",
+      "kort_moenster": "{0} chain",
+      "smal_moenster": "{0} chain"
+    },
+    {
+      "id": 4,
+      "unit_code": "length-decimeter",
+      "kategori": "length",
+      "navn": "desimeter",
+      "moenster_en": "{0} desimeter",
+      "moenster_flere": "{0} desimeter",
+      "kort_moenster": "{0} dm",
+      "smal_moenster": "{0}dm"
+    },
+    {
+      "id": 5,
+      "unit_code": "length-earth-radius",
+      "kategori": "length",
+      "navn": "jordradius",
+      "moenster_en": "{0} jordradius",
+      "moenster_flere": "{0} jordradier",
+      "kort_moenster": "{0} R⊕",
+      "smal_moenster": "{0}R⊕"
+    },
+    {
+      "id": 6,
+      "unit_code": "length-fathom",
+      "kategori": "length",
+      "navn": "favner",
+      "moenster_en": "{0} favn",
+      "moenster_flere": "{0} favner",
+      "kort_moenster": "{0} fm",
+      "smal_moenster": "{0} fm"
+    },
+    {
+      "id": 7,
+      "unit_code": "length-foot",
+      "kategori": "length",
+      "navn": "fot",
+      "moenster_en": "{0} fot",
+      "moenster_flere": "{0} fot",
+      "kort_moenster": "{0} fot",
+      "smal_moenster": "{0}ft"
+    },
+    {
+      "id": 8,
+      "unit_code": "length-furlong",
+      "kategori": "length",
+      "navn": "furlong",
+      "moenster_en": "{0} furlong",
+      "moenster_flere": "{0} furlong",
+      "kort_moenster": "{0} fur",
+      "smal_moenster": "{0} fur"
+    },
+    {
+      "id": 9,
+      "unit_code": "length-inch",
+      "kategori": "length",
+      "navn": "tommer",
+      "moenster_en": "{0} tomme",
+      "moenster_flere": "{0} tommer",
+      "kort_moenster": "{0} tommer",
+      "smal_moenster": "{0}″"
+    },
+    {
+      "id": 10,
+      "unit_code": "length-jo-jp",
+      "kategori": "length",
+      "navn": "jo [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} jo [JP]",
+      "kort_moenster": "{0} jo [JP]",
+      "smal_moenster": "{0} jo [JP]"
+    },
+    {
+      "id": 11,
+      "unit_code": "length-ken",
+      "kategori": "length",
+      "navn": "ken [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} ken [JP]",
+      "kort_moenster": "{0} ken [JP]",
+      "smal_moenster": "{0} ken [JP]"
+    },
+    {
+      "id": 12,
+      "unit_code": "length-kilometer",
+      "kategori": "length",
+      "navn": "kilometer",
+      "moenster_en": "{0} kilometer",
+      "moenster_flere": "{0} kilometer",
+      "kort_moenster": "{0} km",
+      "smal_moenster": "{0}km"
+    },
+    {
+      "id": 13,
+      "unit_code": "length-light-year",
+      "kategori": "length",
+      "navn": "lysår",
+      "moenster_en": "{0} lysår",
+      "moenster_flere": "{0} lysår",
+      "kort_moenster": "{0} ly",
+      "smal_moenster": "{0}ly"
+    },
+    {
+      "id": 14,
+      "unit_code": "length-meter",
+      "kategori": "length",
+      "navn": "meter",
+      "moenster_en": "{0} meter",
+      "moenster_flere": "{0} meter",
+      "kort_moenster": "{0} m",
+      "smal_moenster": "{0}m"
+    },
+    {
+      "id": 15,
+      "unit_code": "length-micrometer",
+      "kategori": "length",
+      "navn": "mikrometer",
+      "moenster_en": "{0} mikrometer",
+      "moenster_flere": "{0} mikrometer",
+      "kort_moenster": "{0} μm",
+      "smal_moenster": "{0}μm"
+    },
+    {
+      "id": 16,
+      "unit_code": "length-mile",
+      "kategori": "length",
+      "navn": "miles",
+      "moenster_en": "{0} mile",
+      "moenster_flere": "{0} miles",
+      "kort_moenster": "{0} miles",
+      "smal_moenster": "{0}mi"
+    },
+    {
+      "id": 17,
+      "unit_code": "length-mile-scandinavian",
+      "kategori": "length",
+      "navn": "mil",
+      "moenster_en": "{0} mil",
+      "moenster_flere": "{0} mil",
+      "kort_moenster": "{0} mil",
+      "smal_moenster": "{0}mil"
+    },
+    {
+      "id": 18,
+      "unit_code": "length-millimeter",
+      "kategori": "length",
+      "navn": "millimeter",
+      "moenster_en": "{0} millimeter",
+      "moenster_flere": "{0} millimeter",
+      "kort_moenster": "{0} mm",
+      "smal_moenster": "{0}mm"
+    },
+    {
+      "id": 19,
+      "unit_code": "length-nanometer",
+      "kategori": "length",
+      "navn": "nanometer",
+      "moenster_en": "{0} nanometer",
+      "moenster_flere": "{0} nanometer",
+      "kort_moenster": "{0} nm",
+      "smal_moenster": "{0}nm"
+    },
+    {
+      "id": 20,
+      "unit_code": "length-nautical-mile",
+      "kategori": "length",
+      "navn": "nautiske mil",
+      "moenster_en": "{0} nautisk mil",
+      "moenster_flere": "{0} nautiske mil",
+      "kort_moenster": "{0} nmi",
+      "smal_moenster": "{0}nmi"
+    },
+    {
+      "id": 21,
+      "unit_code": "length-parsec",
+      "kategori": "length",
+      "navn": "parsec",
+      "moenster_en": "{0} parsec",
+      "moenster_flere": "{0} parsec",
+      "kort_moenster": "{0} pc",
+      "smal_moenster": "{0}pc"
+    },
+    {
+      "id": 22,
+      "unit_code": "length-picometer",
+      "kategori": "length",
+      "navn": "pikometer",
+      "moenster_en": "{0} pikometer",
+      "moenster_flere": "{0} pikometer",
+      "kort_moenster": "{0} pm",
+      "smal_moenster": "{0}pm"
+    },
+    {
+      "id": 23,
+      "unit_code": "length-point",
+      "kategori": "length",
+      "navn": "typografiske punkter",
+      "moenster_en": "{0} typografisk punkt",
+      "moenster_flere": "{0} typografiske punkter",
+      "kort_moenster": "{0} pt",
+      "smal_moenster": "{0}pt"
+    },
+    {
+      "id": 24,
+      "unit_code": "length-ri-jp",
+      "kategori": "length",
+      "navn": "ri [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} ri [JP]",
+      "kort_moenster": "{0} ri [JP]",
+      "smal_moenster": "{0} ri [JP]"
+    },
+    {
+      "id": 25,
+      "unit_code": "length-rin",
+      "kategori": "length",
+      "navn": "rin [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} rin [JP]",
+      "kort_moenster": "{0} rin [JP]",
+      "smal_moenster": "{0} rin [JP]"
+    },
+    {
+      "id": 26,
+      "unit_code": "length-rod",
+      "kategori": "length",
+      "navn": "rod",
+      "moenster_en": "",
+      "moenster_flere": "{0} rod",
+      "kort_moenster": "{0} rod",
+      "smal_moenster": "{0} rod"
+    },
+    {
+      "id": 27,
+      "unit_code": "length-shaku-cloth",
+      "kategori": "length",
+      "navn": "shaku [cloth, JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} shaku [cloth, JP]",
+      "kort_moenster": "{0} shaku [cloth, JP]",
+      "smal_moenster": "{0} shaku [cloth, JP]"
+    },
+    {
+      "id": 28,
+      "unit_code": "length-shaku-length",
+      "kategori": "length",
+      "navn": "shaku [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} shaku [JP]",
+      "kort_moenster": "{0} shaku [JP]",
+      "smal_moenster": "{0} shaku [JP]"
+    },
+    {
+      "id": 29,
+      "unit_code": "length-solar-radius",
+      "kategori": "length",
+      "navn": "solradier",
+      "moenster_en": "{0} solradius",
+      "moenster_flere": "{0} solradier",
+      "kort_moenster": "{0} R☉",
+      "smal_moenster": "{0} R☉"
+    },
+    {
+      "id": 30,
+      "unit_code": "length-sun",
+      "kategori": "length",
+      "navn": "sun [JP]",
+      "moenster_en": "",
+      "moenster_flere": "{0} sun [JP]",
+      "kort_moenster": "{0} sun [JP]",
+      "smal_moenster": "{0} sun [JP]"
+    },
+    {
+      "id": 31,
+      "unit_code": "length-yard",
+      "kategori": "length",
+      "navn": "yard",
+      "moenster_en": "{0} yard",
+      "moenster_flere": "{0} yard",
+      "kort_moenster": "{0} yard",
+      "smal_moenster": "{0}yd"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: length (31) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'length'. Inneholder 31 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: length (31) | ListBase",
+    "seo_description": "Last ned Maaleenheter: length (31) — 31 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 31 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

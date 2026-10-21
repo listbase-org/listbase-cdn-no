@@ -1,0 +1,211 @@
+{
+  "id": "no-verdensarv-unesco",
+  "name": "Verdensarv i Norge",
+  "title": "Verdensarv i Norge",
+  "description": "Liste over UNESCOs verdensarvsteder i Norge",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bryggen",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(iii)",
+      "region": "Europe and North America",
+      "states": "Norway",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 60.39722,
+      "longitude": 5.32306,
+      "short_description": "Bryggen, the old wharf of Bergen, is a reminder of the town’s importance as part of the Hanseatic League’s trading empire from the 14th to the mid-16th century. Many fires, the last in 1955, have ravaged the characteristic wooden houses of Bryggen. Its rebuilding has traditionally followed old patterns and methods, thus leaving its main structure preserved, which is a relic of an ancient wooden urban structure once common in Northern Europe. Today, some 62 buildings remain of this former townscape.",
+      "id_number": 59,
+      "url": "https://whc.unesco.org/en/list/59"
+    },
+    {
+      "name": "Urnes Stave Church",
+      "category": "Cultural",
+      "date_inscribed": 1979,
+      "criteria": "(i)(ii)(iii)",
+      "region": "Europe and North America",
+      "states": "Norway",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 61.3,
+      "longitude": 7.33333,
+      "short_description": "The wooden church of Urnes (the stavkirke ) stands in the natural setting of Sogn og Fjordane. It was built in the 12th and 13th centuries and is an outstanding example of traditional Scandinavian wooden architecture. It brings together traces of Celtic art, Viking traditions and Romanesque spatial structures.",
+      "id_number": 58,
+      "url": "https://whc.unesco.org/en/list/58"
+    },
+    {
+      "name": "Røros Mining Town and the Circumference",
+      "category": "Cultural",
+      "date_inscribed": 1980,
+      "criteria": "(iii)(iv)(v)",
+      "region": "Europe and North America",
+      "states": "Norway",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 62.573889,
+      "longitude": 11.385556,
+      "short_description": "Røros Mining Town and the Circumference is linked to the copper mines, established in the 17th century and exploited for 333 years until 1977. The site comprises the Town and its industrial-rural cultural landscapes; Femundshytta, a smelter with its associated area; and the Winter Transport Route. Completely rebuilt after its destruction by Swedish troops in 1679, Røros contains about 2000 wooden one- and two-storey houses and a smelting house. Many of these buildings have preserved their blackened wooden façades, giving the town a medieval appearance. Surrounded by a buffer zone, coincident with the area of privileges (the Circumference) granted to the mining enterprise by the Danish-Norwegian Crown (1646), the property illustrates the establishment and flourishing of a lasting culture based on copper mining in a remote region with a harsh climate.",
+      "id_number": 55,
+      "url": "https://whc.unesco.org/en/list/55"
+    },
+    {
+      "name": "Rock Art of Alta",
+      "category": "Cultural",
+      "date_inscribed": 1985,
+      "criteria": "(iii)",
+      "region": "Europe and North America",
+      "states": "Norway",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 69.95,
+      "longitude": 23.18333,
+      "short_description": "This group of petroglyphs in the Alta Fjord, near the Arctic Circle, bears the traces of a settlement dating from c. 4200 to 500 B.C. The thousands of paintings and engravings add to our understanding of the environment and human activities on the fringes of the Far North in prehistoric times.",
+      "id_number": 352,
+      "url": "https://whc.unesco.org/en/list/352"
+    },
+    {
+      "name": "Vegaøyan – The Vega Archipelago",
+      "category": "Cultural",
+      "date_inscribed": 2004,
+      "criteria": "(v)",
+      "region": "Europe and North America",
+      "states": "Norway",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 65.61667,
+      "longitude": 11.75,
+      "short_description": "A cluster of dozens of islands centred on Vega, just south of the Arctic Circle, forms a cultural landscape of 107,294 ha, of which 6,881 ha is land. The islands bear testimony to a distinctive frugal way of life based on fishing and the harvesting of the down of eider ducks, in an inhospitable environment. There are fishing villages, quays, warehouses, eider houses (built for eider ducks to nest in), farming landscapes, lighthouses and beacons. There is evidence of human settlement from the Stone Age onwards. By the 9th century, the islands had become an important centre for the supply of down, which appears to have accounted for around a third of the islanders’ income. The Vega Archipelago reflects the way fishermen/farmers have, over the past 1,500 years, maintained a sustainable living and the contribution of women to eiderdown harvesting.",
+      "id_number": 1143,
+      "url": "https://whc.unesco.org/en/list/1143"
+    },
+    {
+      "name": "Struve Geodetic Arc",
+      "category": "Cultural",
+      "date_inscribed": 2005,
+      "criteria": "(ii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Belarus, Estonia, Finland, Latvia, Lithuania, Norway, Republic of Moldova, Russian Federation, Sweden, Ukraine",
+      "transboundary": true,
+      "danger": false,
+      "latitude": 59.057778,
+      "longitude": 26.337778,
+      "short_description": "The Struve Arc is a chain of survey triangulations stretching from Hammerfest in Norway to the Black Sea, through 10 countries and over 2,820 km. These are points of a survey, carried out between 1816 and 1855 by the astronomer Friedrich Georg Wilhelm Struve, which represented the first accurate measuring of a long segment of a meridian. This helped to establish the exact size and shape of the planet and marked an important step in the development of earth sciences and topographic mapping. It is an extraordinary example of scientific collaboration among scientists from different countries, and of collaboration between monarchs for a scientific cause. The original arc consisted of 258 main triangles with 265 main station points. The listed site includes 34 of the original station points, with different markings, i.e. a drilled hole in rock, iron cross, cairns, or built obelisks.",
+      "id_number": 1187,
+      "url": "https://whc.unesco.org/en/list/1187"
+    },
+    {
+      "name": "West Norwegian Fjords – Geirangerfjord and Nærøyfjord",
+      "category": "Natural",
+      "date_inscribed": 2005,
+      "criteria": "(vii)(viii)",
+      "region": "Europe and North America",
+      "states": "Norway",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 62.11667,
+      "longitude": 7.16667,
+      "short_description": "Situated in south-western Norway, north-east of Bergen, Geirangerfjord and Nærøyfjord, set 120 km from one another, are part of the west Norwegian fjord landscape, which stretches from Stavanger in the south to Andalsnes, 500 km to the north-east. The two fjords, among the world’s longest and deepest, are considered as archetypical fjord landscapes and among the most scenically outstanding anywhere. Their exceptional natural beauty is derived from their narrow and steep-sided crystalline rock walls that rise up to 1,400 m from the Norwegian Sea and extend 500 m below sea level. The sheer walls of the fjords have numerous waterfalls while free-flowing rivers cross their deciduous and coniferous forests to glacial lakes, glaciers and rugged mountains. The landscape features a range of supporting natural phenomena, both terrestrial and marine, such as submarine moraines and marine mammals.",
+      "id_number": 1195,
+      "url": "https://whc.unesco.org/en/list/1195"
+    },
+    {
+      "name": "Rjukan-Notodden Industrial Heritage Site",
+      "category": "Cultural",
+      "date_inscribed": 2015,
+      "criteria": "(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Norway",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 59.878611,
+      "longitude": 8.593611,
+      "short_description": "Located in a dramatic landscape of mountains, waterfalls and river valleys, the site comprises hydroelectric power plants, transmission lines, factories, transport systems and towns. The complex was established by the Norsk-Hydro Company to manufacture artificial fertilizer from nitrogen in the air. It was built to meet the Western world’s growing demand for agricultural production in the early 20 th century. The company towns of Rjukan and Notodden show workers’ accommodation and social institutions linked by rail and ferry to ports where the fertilizer was loaded. The Rjukan-Notodden site manifests an exceptional combination of industrial assets and themes associated to the natural landscape. It stands out as an example of a new global industry in the early 20 th century.",
+      "id_number": 1486,
+      "url": "https://whc.unesco.org/en/list/1486"
+    }
+  ],
+  "meta": {
+    "title": "Verdensarv i Norge - Gratis nedlasting",
+    "description": "Liste over UNESCOs verdensarvsteder i Norge Inneholder 8 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Verdensarv i Norge | ListBase",
+    "seo_description": "Last ned Verdensarv i Norge — 8 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 8 poster / 13 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "id": "no-troms-byer",
+  "name": "Byer og steder i Troms (Cities and places in Troms county, Norway)",
+  "title": "Byer og steder i Troms (Cities and places in Troms county, Norway)",
+  "description": "Byer og steder i fylket Troms i Noreg (18 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Troms county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79062,
+      "name": "Balsfjord",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.24024000",
+      "longitude": "19.22653000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79064,
+      "name": "Bardu",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "68.86058000",
+      "longitude": "18.35052000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79107,
+      "name": "Dyrøy",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.09154000",
+      "longitude": "17.69094000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79188,
+      "name": "Gratangen",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "68.69273000",
+      "longitude": "17.53186000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79208,
+      "name": "Harstad",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "68.79896000",
+      "longitude": "16.52930000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79250,
+      "name": "Ibestad",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "68.77866000",
+      "longitude": "17.17661000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79266,
+      "name": "Karlsøy",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.96185000",
+      "longitude": "19.61811000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79296,
+      "name": "Kvæfjord",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "68.77201000",
+      "longitude": "16.17294000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79297,
+      "name": "Kvænangen",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.93890000",
+      "longitude": "22.04935000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79306,
+      "name": "Lavangen",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "68.74722000",
+      "longitude": "17.80558000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79338,
+      "name": "Lyngen",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.57621000",
+      "longitude": "20.21702000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79379,
+      "name": "Målselv",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.12389000",
+      "longitude": "18.61498000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79409,
+      "name": "Nordreisa",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.76825000",
+      "longitude": "21.02569000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79474,
+      "name": "Salangen",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "68.87669000",
+      "longitude": "17.83375000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79511,
+      "name": "Skjervøy",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "70.03379000",
+      "longitude": "20.97365000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79551,
+      "name": "Storfjord",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.26860000",
+      "longitude": "19.96089000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79585,
+      "name": "Sørreisa",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.14697000",
+      "longitude": "18.15629000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79608,
+      "name": "Tromsø",
+      "county": "Troms",
+      "county_iso3166_2": "NO-55",
+      "latitude": "69.64961000",
+      "longitude": "18.95702000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Troms (Cities and places in Troms county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Troms i Noreg (18 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Troms county, Norway. Inneholder 18 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Troms (Cities and places in Troms county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Troms (Cities and places in Troms county, Norway) — 18 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 18 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

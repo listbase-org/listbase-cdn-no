@@ -1,0 +1,3891 @@
+{
+  "id": "no-brannstasjoner",
+  "name": "Brannstasjoner i Norge",
+  "title": "Brannstasjoner i Norge",
+  "description": "Brannstasjoner i Norge, hentet fra OpenStreetMap-punkter (amenity=fire_station). Navn, breddegrad og lengdegrad (WGS84).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 770,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abelvær brannstasjon",
+      "latitude": 64.729585,
+      "longitude": 11.181172
+    },
+    {
+      "name": "Aksdal brannstasjon",
+      "latitude": 59.421483,
+      "longitude": 5.44834
+    },
+    {
+      "name": "Alta sentrum brannstasjon",
+      "latitude": 69.975904,
+      "longitude": 23.293468
+    },
+    {
+      "name": "Alvdal brannstasjon",
+      "latitude": 62.113592,
+      "longitude": 10.616404
+    },
+    {
+      "name": "Andabeløy branndepot",
+      "latitude": 58.231544,
+      "longitude": 6.673307
+    },
+    {
+      "name": "Andenes brannstasjon",
+      "latitude": 69.309831,
+      "longitude": 16.096153
+    },
+    {
+      "name": "Angvik brannstasjon",
+      "latitude": 62.889511,
+      "longitude": 8.087537
+    },
+    {
+      "name": "Aremark brannstasjon",
+      "latitude": 59.226408,
+      "longitude": 11.696877
+    },
+    {
+      "name": "Arendal brannstasjon",
+      "latitude": 58.460502,
+      "longitude": 8.723526
+    },
+    {
+      "name": "Arna brannstasjon",
+      "latitude": 60.429036,
+      "longitude": 5.469481
+    },
+    {
+      "name": "Asker brannstasjon",
+      "latitude": 59.829532,
+      "longitude": 10.439247
+    },
+    {
+      "name": "Askim brannstasjon",
+      "latitude": 59.587854,
+      "longitude": 11.165508
+    },
+    {
+      "name": "Askrova branndepot",
+      "latitude": 61.509694,
+      "longitude": 4.944603
+    },
+    {
+      "name": "Askvoll brannstasjon",
+      "latitude": 61.345215,
+      "longitude": 5.06356
+    },
+    {
+      "name": "Atløy branndepot",
+      "latitude": 61.327898,
+      "longitude": 5.03039
+    },
+    {
+      "name": "Aurland brannstasjon",
+      "latitude": 60.904202,
+      "longitude": 7.183744
+    },
+    {
+      "name": "Austafjord branndepot",
+      "latitude": 64.916396,
+      "longitude": 10.939276
+    },
+    {
+      "name": "Austbygde brannstasjon",
+      "latitude": 59.989695,
+      "longitude": 8.815083
+    },
+    {
+      "name": "Austbø branndepot",
+      "latitude": 65.933346,
+      "longitude": 12.352519
+    },
+    {
+      "name": "Austmarka brannstasjon",
+      "latitude": 60.103269,
+      "longitude": 12.316774
+    },
+    {
+      "name": "Bagn brannstasjon",
+      "latitude": 60.824276,
+      "longitude": 9.545595
+    },
+    {
+      "name": "Balestrand brannstasjon",
+      "latitude": 61.209513,
+      "longitude": 6.529297
+    },
+    {
+      "name": "Ballangen brannstasjon",
+      "latitude": 68.341363,
+      "longitude": 16.835124
+    },
+    {
+      "name": "Bardal branndepot",
+      "latitude": 66.213793,
+      "longitude": 13.373613
+    },
+    {
+      "name": "Bardufoss flystasjon",
+      "latitude": 69.060139,
+      "longitude": 18.532021
+    },
+    {
+      "name": "Batalden branndepot",
+      "latitude": 61.620355,
+      "longitude": 4.817601
+    },
+    {
+      "name": "Batnfjordsøra brannstasjon",
+      "latitude": 62.89402,
+      "longitude": 7.68161
+    },
+    {
+      "name": "Begna brannstasjon",
+      "latitude": 60.643538,
+      "longitude": 9.881639
+    },
+    {
+      "name": "Bekkestua brannstasjon",
+      "latitude": 59.917657,
+      "longitude": 10.585562
+    },
+    {
+      "name": "Bergen hovedbrannstasjon",
+      "latitude": 60.384477,
+      "longitude": 5.337413
+    },
+    {
+      "name": "Bergset brannstasjon",
+      "latitude": 61.889919,
+      "longitude": 11.076685
+    },
+    {
+      "name": "Bergsfjord branndepot",
+      "latitude": 70.249824,
+      "longitude": 21.792271
+    },
+    {
+      "name": "Berkåk brannstasjon",
+      "latitude": 62.827562,
+      "longitude": 10.009753
+    },
+    {
+      "name": "Berle branndepot",
+      "latitude": 61.835313,
+      "longitude": 5.122422
+    },
+    {
+      "name": "Berlevåg brannstasjon",
+      "latitude": 70.85804,
+      "longitude": 29.084717
+    },
+    {
+      "name": "Bessaker brannstasjon",
+      "latitude": 64.243358,
+      "longitude": 10.322498
+    },
+    {
+      "name": "Bindalseidet brannstasjon",
+      "latitude": 65.127717,
+      "longitude": 12.218149
+    },
+    {
+      "name": "Birkeland brannstasjon",
+      "latitude": 58.334837,
+      "longitude": 8.220658
+    },
+    {
+      "name": "Birkeland brannstasjon",
+      "latitude": 58.371674,
+      "longitude": 7.22161
+    },
+    {
+      "name": "Birketveit brannstasjon",
+      "latitude": 58.462188,
+      "longitude": 7.913232
+    },
+    {
+      "name": "Birtavarre branndepot",
+      "latitude": 69.493127,
+      "longitude": 20.835631
+    },
+    {
+      "name": "Bismo brannstasjon",
+      "latitude": 61.881811,
+      "longitude": 8.267462
+    },
+    {
+      "name": "Bjarkøy brannstasjon",
+      "latitude": 68.997504,
+      "longitude": 16.554981
+    },
+    {
+      "name": "Bjelland branndepot",
+      "latitude": 58.384449,
+      "longitude": 7.52816
+    },
+    {
+      "name": "Bjerkvik brannstasjon",
+      "latitude": 68.552151,
+      "longitude": 17.546204
+    },
+    {
+      "name": "Bjoneroa brannstasjon",
+      "latitude": 60.515102,
+      "longitude": 10.296548
+    },
+    {
+      "name": "Bjordal branndepot",
+      "latitude": 61.071748,
+      "longitude": 5.802075
+    },
+    {
+      "name": "Bjølvefossen brannstasjon",
+      "latitude": 60.430808,
+      "longitude": 6.430633
+    },
+    {
+      "name": "Bjørkelangen brannstasjon",
+      "latitude": 59.887005,
+      "longitude": 11.563679
+    },
+    {
+      "name": "Bodø brannstasjon",
+      "latitude": 67.275379,
+      "longitude": 14.424523
+    },
+    {
+      "name": "Bogen brannstasjon",
+      "latitude": 68.525776,
+      "longitude": 16.992024
+    },
+    {
+      "name": "Bokneberg brannstasjon",
+      "latitude": 59.223281,
+      "longitude": 5.4406
+    },
+    {
+      "name": "Bolga brannstasjon",
+      "latitude": 66.804075,
+      "longitude": 13.2344
+    },
+    {
+      "name": "Borkenes brannstasjon",
+      "latitude": 68.771032,
+      "longitude": 16.17455
+    },
+    {
+      "name": "Botngård brannstasjon",
+      "latitude": 63.765676,
+      "longitude": 9.812691
+    },
+    {
+      "name": "Botnhamn brannstasjon",
+      "latitude": 69.509336,
+      "longitude": 17.900167
+    },
+    {
+      "name": "Brandbu brannstasjon",
+      "latitude": 60.419764,
+      "longitude": 10.507191
+    },
+    {
+      "name": "Brandstation",
+      "latitude": 59.578714,
+      "longitude": 9.182528
+    },
+    {
+      "name": "Brannstasjon Sokndal",
+      "latitude": 58.351447,
+      "longitude": 6.270142
+    },
+    {
+      "name": "Brannstasjon Vest",
+      "latitude": 60.201207,
+      "longitude": 11.075979
+    },
+    {
+      "name": "Brannstasjon Øst",
+      "latitude": 60.190167,
+      "longitude": 11.108172
+    },
+    {
+      "name": "Bratland brannstasjon",
+      "latitude": 66.388214,
+      "longitude": 13.119809
+    },
+    {
+      "name": "Brattvåg brannstasjon",
+      "latitude": 62.605042,
+      "longitude": 6.440357
+    },
+    {
+      "name": "Breivikbotn branndepot",
+      "latitude": 70.588628,
+      "longitude": 22.286213
+    },
+    {
+      "name": "Brekke brannstasjon",
+      "latitude": 61.014335,
+      "longitude": 5.462042
+    },
+    {
+      "name": "Bremanger brannstasjon",
+      "latitude": 61.838435,
+      "longitude": 4.992162
+    },
+    {
+      "name": "Bremnes brannstasjon",
+      "latitude": 59.794185,
+      "longitude": 5.179637
+    },
+    {
+      "name": "Brevik brannstasjon",
+      "latitude": 59.054729,
+      "longitude": 9.699834
+    },
+    {
+      "name": "Briskeby brannstasjon",
+      "latitude": 59.922519,
+      "longitude": 10.71676
+    },
+    {
+      "name": "Bruflat brannstasjon",
+      "latitude": 60.886275,
+      "longitude": 9.64113
+    },
+    {
+      "name": "Bruhagen brannstasjon",
+      "latitude": 63.046526,
+      "longitude": 7.660623
+    },
+    {
+      "name": "Brumunddal brannstasjon",
+      "latitude": 60.887189,
+      "longitude": 10.936352
+    },
+    {
+      "name": "Bruvik brannstasjon",
+      "latitude": 60.480083,
+      "longitude": 5.679793
+    },
+    {
+      "name": "Bryn brannstasjon",
+      "latitude": 59.912339,
+      "longitude": 10.814187
+    },
+    {
+      "name": "Bryne brannstasjon",
+      "latitude": 58.735839,
+      "longitude": 5.654974
+    },
+    {
+      "name": "Brønnøysund brannstasjon",
+      "latitude": 65.461642,
+      "longitude": 12.212867
+    },
+    {
+      "name": "Brøstadbotn brannstasjon",
+      "latitude": 69.09139,
+      "longitude": 17.690067
+    },
+    {
+      "name": "Bud brannstasjon",
+      "latitude": 62.906427,
+      "longitude": 6.918851
+    },
+    {
+      "name": "Budal brannstasjon",
+      "latitude": 62.8837,
+      "longitude": 10.482136
+    },
+    {
+      "name": "Bugøynes Brannstasjon",
+      "latitude": 69.970562,
+      "longitude": 29.637299
+    },
+    {
+      "name": "Burfjord brannstasjon",
+      "latitude": 69.939348,
+      "longitude": 22.043534
+    },
+    {
+      "name": "Bygland brannstasjon",
+      "latitude": 58.831536,
+      "longitude": 7.79777
+    },
+    {
+      "name": "Byglandsfjord brannstasjon",
+      "latitude": 58.669069,
+      "longitude": 7.803252
+    },
+    {
+      "name": "Bygstad branndepot",
+      "latitude": 61.375169,
+      "longitude": 5.640809
+    },
+    {
+      "name": "Bykle brannstasjon",
+      "latitude": 59.356552,
+      "longitude": 7.364317
+    },
+    {
+      "name": "Byremo brannstasjon",
+      "latitude": 58.417198,
+      "longitude": 7.392093
+    },
+    {
+      "name": "Byrkjelo brannstasjon",
+      "latitude": 61.737116,
+      "longitude": 6.509107
+    },
+    {
+      "name": "Byrknes brannstasjon",
+      "latitude": 60.897702,
+      "longitude": 4.837723
+    },
+    {
+      "name": "Båtsfjord brannstasjon",
+      "latitude": 70.635089,
+      "longitude": 29.720838
+    },
+    {
+      "name": "Bø brannstasjon",
+      "latitude": 59.363032,
+      "longitude": 5.275474
+    },
+    {
+      "name": "Bø brannstasjon",
+      "latitude": 59.410212,
+      "longitude": 9.085468
+    },
+    {
+      "name": "Børsa brannstasjon",
+      "latitude": 63.324146,
+      "longitude": 10.069984
+    },
+    {
+      "name": "Dale brannstasjon",
+      "latitude": 61.35653,
+      "longitude": 5.400889
+    },
+    {
+      "name": "Dalekvam brannstasjon",
+      "latitude": 60.590415,
+      "longitude": 5.82245
+    },
+    {
+      "name": "Dalen brannstasjon",
+      "latitude": 59.445771,
+      "longitude": 7.993066
+    },
+    {
+      "name": "Dalsneset brannstasjon",
+      "latitude": 60.55247,
+      "longitude": 4.870195
+    },
+    {
+      "name": "Dalsøyra brannstasjon",
+      "latitude": 60.93167,
+      "longitude": 5.147396
+    },
+    {
+      "name": "Davik brannstasjon",
+      "latitude": 61.888318,
+      "longitude": 5.540797
+    },
+    {
+      "name": "Dokka brannstasjon",
+      "latitude": 60.840931,
+      "longitude": 10.054436
+    },
+    {
+      "name": "Dombås brannstasjon",
+      "latitude": 62.070241,
+      "longitude": 9.12238
+    },
+    {
+      "name": "Drag branndepot",
+      "latitude": 68.04768,
+      "longitude": 16.082677
+    },
+    {
+      "name": "Drammen brannstasjon",
+      "latitude": 59.736593,
+      "longitude": 10.204618
+    },
+    {
+      "name": "Drangedal brannstasjon",
+      "latitude": 59.102233,
+      "longitude": 9.062011
+    },
+    {
+      "name": "Duesund brannstasjon",
+      "latitude": 60.821159,
+      "longitude": 5.310649
+    },
+    {
+      "name": "Dun brannstasjon",
+      "latitude": 64.659453,
+      "longitude": 11.265989
+    },
+    {
+      "name": "Dverberg branndepot",
+      "latitude": 69.106398,
+      "longitude": 15.961445
+    },
+    {
+      "name": "Dyfjord branndepot",
+      "latitude": 70.899642,
+      "longitude": 27.22511
+    },
+    {
+      "name": "Edland brannstasjon",
+      "latitude": 59.737343,
+      "longitude": 7.569746
+    },
+    {
+      "name": "Efjord brannstasjon",
+      "latitude": 59.34579,
+      "longitude": 6.203592
+    },
+    {
+      "name": "Eggedal brannstasjon",
+      "latitude": 60.247194,
+      "longitude": 9.33349
+    },
+    {
+      "name": "Eide brannstasjon",
+      "latitude": 62.910637,
+      "longitude": 7.421173
+    },
+    {
+      "name": "Eidsdal brannstasjon",
+      "latitude": 62.26128,
+      "longitude": 7.174284
+    },
+    {
+      "name": "Eidskog beredskapssenter",
+      "latitude": 60.00039,
+      "longitude": 12.121421
+    },
+    {
+      "name": "Eidsvoll brannstasjon",
+      "latitude": 60.327756,
+      "longitude": 11.222099
+    },
+    {
+      "name": "Eidsvåg brannstasjon",
+      "latitude": 62.775318,
+      "longitude": 8.060295
+    },
+    {
+      "name": "Eigersund brannstasjon",
+      "latitude": 58.460268,
+      "longitude": 5.981721
+    },
+    {
+      "name": "Eikefjord brannstasjon",
+      "latitude": 61.587833,
+      "longitude": 5.460805
+    },
+    {
+      "name": "Eikelandsosen brannstasjon",
+      "latitude": 60.243027,
+      "longitude": 5.764514
+    },
+    {
+      "name": "Eikesdal branndepot",
+      "latitude": 62.474119,
+      "longitude": 8.173769
+    },
+    {
+      "name": "Eivindvik brannstasjon",
+      "latitude": 60.981136,
+      "longitude": 5.07168
+    },
+    {
+      "name": "Ekornes branndepot",
+      "latitude": 62.385915,
+      "longitude": 6.556363
+    },
+    {
+      "name": "Elverum brannstasjon",
+      "latitude": 60.876368,
+      "longitude": 11.575347
+    },
+    {
+      "name": "Enebakk brannstasjon",
+      "latitude": 59.762673,
+      "longitude": 11.137811
+    },
+    {
+      "name": "Engavågen brannstasjon",
+      "latitude": 66.777435,
+      "longitude": 13.536963
+    },
+    {
+      "name": "Enge brannstasjon",
+      "latitude": 63.124831,
+      "longitude": 8.558043
+    },
+    {
+      "name": "Engenes brannstasjon",
+      "latitude": 68.925122,
+      "longitude": 17.121728
+    },
+    {
+      "name": "Engerdal brannstasjon",
+      "latitude": 61.878659,
+      "longitude": 12.028782
+    },
+    {
+      "name": "Eresfjord brannstasjon",
+      "latitude": 62.664717,
+      "longitude": 8.129043
+    },
+    {
+      "name": "Espevær brannstasjon",
+      "latitude": 59.590408,
+      "longitude": 5.150845
+    },
+    {
+      "name": "Etne brannstasjon",
+      "latitude": 59.668535,
+      "longitude": 5.943701
+    },
+    {
+      "name": "Evanger brannstasjon",
+      "latitude": 60.648806,
+      "longitude": 6.114991
+    },
+    {
+      "name": "Evenskjer brannstasjon",
+      "latitude": 68.583705,
+      "longitude": 16.566456
+    },
+    {
+      "name": "Evje brannstasjon",
+      "latitude": 58.578929,
+      "longitude": 7.784076
+    },
+    {
+      "name": "Fagernes brannstasjon",
+      "latitude": 60.989892,
+      "longitude": 9.222716
+    },
+    {
+      "name": "Falkhytten brannstasjon",
+      "latitude": 62.805239,
+      "longitude": 6.888619
+    },
+    {
+      "name": "Farsund brannstasjon",
+      "latitude": 58.085497,
+      "longitude": 6.787448
+    },
+    {
+      "name": "Fauske brannstasjon",
+      "latitude": 67.257457,
+      "longitude": 15.385596
+    },
+    {
+      "name": "Feios branndepot",
+      "latitude": 61.149004,
+      "longitude": 6.754395
+    },
+    {
+      "name": "Feiring brannstasjon",
+      "latitude": 60.488051,
+      "longitude": 11.156363
+    },
+    {
+      "name": "Felle branndepot",
+      "latitude": 58.903313,
+      "longitude": 8.745408
+    },
+    {
+      "name": "Fet brannstasjon",
+      "latitude": 59.942492,
+      "longitude": 11.130487
+    },
+    {
+      "name": "Fillan brannstasjon",
+      "latitude": 63.600156,
+      "longitude": 8.968756
+    },
+    {
+      "name": "Finnsnes brannstasjon",
+      "latitude": 69.230577,
+      "longitude": 18.00108
+    },
+    {
+      "name": "Finsland brannstasjon",
+      "latitude": 58.271519,
+      "longitude": 7.652356
+    },
+    {
+      "name": "Fire Brigade",
+      "latitude": 59.380848,
+      "longitude": 10.788508
+    },
+    {
+      "name": "Fiskå brannstasjon",
+      "latitude": 62.098292,
+      "longitude": 5.553269
+    },
+    {
+      "name": "Fjellberg brannstasjon",
+      "latitude": 59.726647,
+      "longitude": 5.687343
+    },
+    {
+      "name": "Fjellhamar brannstasjon",
+      "latitude": 59.933283,
+      "longitude": 10.984994
+    },
+    {
+      "name": "Fjone branndepot",
+      "latitude": 59.154233,
+      "longitude": 8.451129
+    },
+    {
+      "name": "Fjordgard brannstasjon",
+      "latitude": 69.506389,
+      "longitude": 17.629648
+    },
+    {
+      "name": "Fjærland branndepot",
+      "latitude": 61.403844,
+      "longitude": 6.740661
+    },
+    {
+      "name": "Fjørtoft brannstasjon",
+      "latitude": 62.700452,
+      "longitude": 6.366938
+    },
+    {
+      "name": "Flakkstad-Våg branndepot",
+      "latitude": 69.191666,
+      "longitude": 17.042279
+    },
+    {
+      "name": "Flateby brannstasjon",
+      "latitude": 59.819594,
+      "longitude": 11.156155
+    },
+    {
+      "name": "Flatøy brannstasjon",
+      "latitude": 60.535711,
+      "longitude": 5.255609
+    },
+    {
+      "name": "Flekkefjord brannstasjon",
+      "latitude": 58.297709,
+      "longitude": 6.663337
+    },
+    {
+      "name": "Flemsøy/Skuløy brannstasjon",
+      "latitude": 62.672011,
+      "longitude": 6.266618
+    },
+    {
+      "name": "Flesnes branndepot",
+      "latitude": 68.670874,
+      "longitude": 15.913199
+    },
+    {
+      "name": "Flisa brannstasjon",
+      "latitude": 60.613464,
+      "longitude": 12.020106
+    },
+    {
+      "name": "Florø brannstasjon",
+      "latitude": 61.600308,
+      "longitude": 5.037782
+    },
+    {
+      "name": "Flyplassvakten",
+      "latitude": 58.885529,
+      "longitude": 5.631555
+    },
+    {
+      "name": "Flå brannstasjon",
+      "latitude": 60.43028,
+      "longitude": 9.472455
+    },
+    {
+      "name": "Folldal brannstasjon",
+      "latitude": 62.137098,
+      "longitude": 9.988321
+    },
+    {
+      "name": "Follo Brannvesen Kompetansesenter",
+      "latitude": 59.716334,
+      "longitude": 10.854676
+    },
+    {
+      "name": "Fonnes brannstasjon",
+      "latitude": 60.802885,
+      "longitude": 4.996271
+    },
+    {
+      "name": "Fornebu brannstasjon",
+      "latitude": 59.899761,
+      "longitude": 10.623012
+    },
+    {
+      "name": "Forsand brannstasjon",
+      "latitude": 58.898814,
+      "longitude": 6.09771
+    },
+    {
+      "name": "Fosnavåg brannstasjon",
+      "latitude": 62.326402,
+      "longitude": 5.645996
+    },
+    {
+      "name": "Fossbergom brannstasjon",
+      "latitude": 61.842388,
+      "longitude": 8.573556
+    },
+    {
+      "name": "Fotlandsvåg brannstasjon",
+      "latitude": 60.595736,
+      "longitude": 5.509262
+    },
+    {
+      "name": "Framfjorden branndepot",
+      "latitude": 61.006072,
+      "longitude": 6.412739
+    },
+    {
+      "name": "Fredrikstad brannstasjon",
+      "latitude": 59.210168,
+      "longitude": 10.944826
+    },
+    {
+      "name": "Fresvik branndepot",
+      "latitude": 61.072487,
+      "longitude": 6.928338
+    },
+    {
+      "name": "Fresvik branndepot",
+      "latitude": 67.932033,
+      "longitude": 13.088088
+    },
+    {
+      "name": "Froland brannstasjon",
+      "latitude": 58.513477,
+      "longitude": 8.625684
+    },
+    {
+      "name": "Frosta brannstasjon",
+      "latitude": 63.588662,
+      "longitude": 10.738157
+    },
+    {
+      "name": "Frønningen branndepot",
+      "latitude": 61.110702,
+      "longitude": 7.070337
+    },
+    {
+      "name": "Furuflaten brannstasjon",
+      "latitude": 69.441164,
+      "longitude": 20.157899
+    },
+    {
+      "name": "Fåvang brannstasjon",
+      "latitude": 61.453211,
+      "longitude": 10.194648
+    },
+    {
+      "name": "Førde brannstasjon",
+      "latitude": 59.607185,
+      "longitude": 5.469806
+    },
+    {
+      "name": "Førde sentrum brannstasjon",
+      "latitude": 61.456571,
+      "longitude": 5.838995
+    },
+    {
+      "name": "Gaupne brannstasjon",
+      "latitude": 61.399086,
+      "longitude": 7.28732
+    },
+    {
+      "name": "Geilo brannstasjon",
+      "latitude": 60.529028,
+      "longitude": 8.210024
+    },
+    {
+      "name": "Geiranger brannstasjon",
+      "latitude": 62.103253,
+      "longitude": 7.20484
+    },
+    {
+      "name": "Geithus brannstasjon",
+      "latitude": 59.94384,
+      "longitude": 9.972305
+    },
+    {
+      "name": "Gibostad brannstasjon",
+      "latitude": 69.354462,
+      "longitude": 18.076758
+    },
+    {
+      "name": "Gilja brannstasjon",
+      "latitude": 58.806526,
+      "longitude": 6.254648
+    },
+    {
+      "name": "Gjerstad brannstasjon",
+      "latitude": 58.87308,
+      "longitude": 9.011885
+    },
+    {
+      "name": "Gjerøy branndepot",
+      "latitude": 66.616863,
+      "longitude": 13.013159
+    },
+    {
+      "name": "Gjesvær branndepot",
+      "latitude": 71.097503,
+      "longitude": 25.377792
+    },
+    {
+      "name": "Gjettum brannstasjon",
+      "latitude": 59.906148,
+      "longitude": 10.512492
+    },
+    {
+      "name": "Gjøvik brannstasjon",
+      "latitude": 60.78609,
+      "longitude": 10.660717
+    },
+    {
+      "name": "Gladstad brannstasjon",
+      "latitude": 65.673456,
+      "longitude": 11.963283
+    },
+    {
+      "name": "Glomfjord brannstasjon",
+      "latitude": 66.817214,
+      "longitude": 13.939784
+    },
+    {
+      "name": "Godøy brannstasjon",
+      "latitude": 62.472389,
+      "longitude": 6.037151
+    },
+    {
+      "name": "Gol brannstasjon",
+      "latitude": 60.697956,
+      "longitude": 8.938415
+    },
+    {
+      "name": "Gran brannstasjon",
+      "latitude": 60.357603,
+      "longitude": 10.570329
+    },
+    {
+      "name": "Gransherad branndepot",
+      "latitude": 59.690704,
+      "longitude": 9.039923
+    },
+    {
+      "name": "Granvin brannstasjon",
+      "latitude": 60.525328,
+      "longitude": 6.727039
+    },
+    {
+      "name": "Gratangsbotn brannstasjon",
+      "latitude": 68.672412,
+      "longitude": 17.698576
+    },
+    {
+      "name": "Grenland brann og redning, Bamble brannstasjon",
+      "latitude": 59.032994,
+      "longitude": 9.706554
+    },
+    {
+      "name": "Grenland brann og redning, Bamble brannstasjon",
+      "latitude": 59.033562,
+      "longitude": 9.706586
+    },
+    {
+      "name": "Grimo brannstasjon",
+      "latitude": 60.390848,
+      "longitude": 6.64963
+    },
+    {
+      "name": "Grimstad brannstasjon",
+      "latitude": 58.345768,
+      "longitude": 8.598385
+    },
+    {
+      "name": "Grindaheim brannstasjon",
+      "latitude": 61.128383,
+      "longitude": 8.587241
+    },
+    {
+      "name": "Grip branndepot",
+      "latitude": 63.2196,
+      "longitude": 7.592737
+    },
+    {
+      "name": "Grong brannstasjon",
+      "latitude": 64.457091,
+      "longitude": 12.338064
+    },
+    {
+      "name": "Grorud brannstasjon",
+      "latitude": 59.962755,
+      "longitude": 10.911515
+    },
+    {
+      "name": "Grovfjord brannstasjon",
+      "latitude": 68.677039,
+      "longitude": 17.125845
+    },
+    {
+      "name": "Gryllefjord brannstasjon",
+      "latitude": 69.363124,
+      "longitude": 17.053889
+    },
+    {
+      "name": "Grøtavær branndepot",
+      "latitude": 68.963419,
+      "longitude": 16.262128
+    },
+    {
+      "name": "Gudvangen brannstasjon",
+      "latitude": 60.857186,
+      "longitude": 6.778939
+    },
+    {
+      "name": "Gullknapp",
+      "latitude": 58.51526,
+      "longitude": 8.704405
+    },
+    {
+      "name": "Gutvik branndepot",
+      "latitude": 65.082386,
+      "longitude": 11.836047
+    },
+    {
+      "name": "Gvarv brannstasjon",
+      "latitude": 59.388875,
+      "longitude": 9.180092
+    },
+    {
+      "name": "Gåsbakken brannstasjon",
+      "latitude": 63.113795,
+      "longitude": 9.987089
+    },
+    {
+      "name": "Haakonsvern brannstasjon",
+      "latitude": 60.340273,
+      "longitude": 5.222839
+    },
+    {
+      "name": "Hadnesøya branndepot",
+      "latitude": 66.229262,
+      "longitude": 12.952206
+    },
+    {
+      "name": "Hafslo brannstasjon",
+      "latitude": 61.316539,
+      "longitude": 7.208014
+    },
+    {
+      "name": "Halden brannstasjon",
+      "latitude": 59.126249,
+      "longitude": 11.351357
+    },
+    {
+      "name": "Halsa brannstasjon",
+      "latitude": 66.742777,
+      "longitude": 13.547915
+    },
+    {
+      "name": "Halsnøy brannstasjon",
+      "latitude": 59.792721,
+      "longitude": 5.705052
+    },
+    {
+      "name": "Hamar brannstasjon",
+      "latitude": 60.79398,
+      "longitude": 11.100342
+    },
+    {
+      "name": "Hammerfest Brann og Redning",
+      "latitude": 70.678496,
+      "longitude": 23.674969
+    },
+    {
+      "name": "Hamnvik brannstasjon",
+      "latitude": 68.77236,
+      "longitude": 17.169051
+    },
+    {
+      "name": "Hansnes brannstasjon",
+      "latitude": 69.961698,
+      "longitude": 19.619103
+    },
+    {
+      "name": "Haramsøy brannstasjon",
+      "latitude": 62.638743,
+      "longitude": 6.271887
+    },
+    {
+      "name": "Harangfjord branndepot",
+      "latitude": 65.250968,
+      "longitude": 12.307945
+    },
+    {
+      "name": "Hardbakke brannstasjon",
+      "latitude": 61.07091,
+      "longitude": 4.840495
+    },
+    {
+      "name": "Hareid brannstasjon",
+      "latitude": 62.368253,
+      "longitude": 6.014622
+    },
+    {
+      "name": "Harstad brannstasjon",
+      "latitude": 68.78201,
+      "longitude": 16.55097
+    },
+    {
+      "name": "Hasvik branndepot",
+      "latitude": 70.486451,
+      "longitude": 22.149072
+    },
+    {
+      "name": "Hatteng brannstasjon",
+      "latitude": 69.267861,
+      "longitude": 19.96
+    },
+    {
+      "name": "Hattfjelldal brannstasjon",
+      "latitude": 65.597883,
+      "longitude": 13.98988
+    },
+    {
+      "name": "Hauge brannstasjon",
+      "latitude": 59.105596,
+      "longitude": 10.875371
+    },
+    {
+      "name": "Haugesund brannstasjon",
+      "latitude": 59.404293,
+      "longitude": 5.292871
+    },
+    {
+      "name": "Haugland brannstasjon",
+      "latitude": 60.445477,
+      "longitude": 5.169904
+    },
+    {
+      "name": "Havna brannstasjon",
+      "latitude": 59.902123,
+      "longitude": 10.743513
+    },
+    {
+      "name": "Havøysund brannstasjon",
+      "latitude": 70.996864,
+      "longitude": 24.661117
+    },
+    {
+      "name": "Hedalen brannstasjon",
+      "latitude": 60.620214,
+      "longitude": 9.71989
+    },
+    {
+      "name": "Heggenes brannstasjon",
+      "latitude": 61.143368,
+      "longitude": 9.071554
+    },
+    {
+      "name": "Heidal brannstasjon",
+      "latitude": 61.759186,
+      "longitude": 9.286554
+    },
+    {
+      "name": "Helland brannstasjon",
+      "latitude": 62.616768,
+      "longitude": 7.072006
+    },
+    {
+      "name": "Hellesylt brannstasjon",
+      "latitude": 62.083957,
+      "longitude": 6.869172
+    },
+    {
+      "name": "Hemnesberget brannstasjon",
+      "latitude": 66.227725,
+      "longitude": 13.629504
+    },
+    {
+      "name": "Hennes, Innlandet branndepot",
+      "latitude": 68.531775,
+      "longitude": 15.223781
+    },
+    {
+      "name": "Henningsvær Brannstasjon",
+      "latitude": 68.151052,
+      "longitude": 14.198613
+    },
+    {
+      "name": "Herre brannstasjon",
+      "latitude": 59.101978,
+      "longitude": 9.567686
+    },
+    {
+      "name": "Hidra branndepot",
+      "latitude": 58.211399,
+      "longitude": 6.582133
+    },
+    {
+      "name": "Hjelmeland brannstasjon",
+      "latitude": 59.236097,
+      "longitude": 6.180782
+    },
+    {
+      "name": "Hjelset brannstasjon",
+      "latitude": 62.788223,
+      "longitude": 7.541159
+    },
+    {
+      "name": "Hjønnevåg branndepot",
+      "latitude": 61.037716,
+      "longitude": 4.658165
+    },
+    {
+      "name": "Hokksund brannstasjon",
+      "latitude": 59.769963,
+      "longitude": 9.898698
+    },
+    {
+      "name": "Hol brannstasjon",
+      "latitude": 60.614794,
+      "longitude": 8.29781
+    },
+    {
+      "name": "Hommelstø brannstasjon",
+      "latitude": 65.409068,
+      "longitude": 12.546884
+    },
+    {
+      "name": "Hommelvik brannstasjon",
+      "latitude": 63.412255,
+      "longitude": 10.803867
+    },
+    {
+      "name": "Honningsvåg brannstasjon",
+      "latitude": 70.97811,
+      "longitude": 25.973356
+    },
+    {
+      "name": "Hornindal brannstasjon",
+      "latitude": 61.971881,
+      "longitude": 6.515815
+    },
+    {
+      "name": "Hov brannstasjon",
+      "latitude": 60.690176,
+      "longitude": 10.358013
+    },
+    {
+      "name": "Hovden branndepot",
+      "latitude": 61.667649,
+      "longitude": 4.885643
+    },
+    {
+      "name": "Hovden brannstasjon",
+      "latitude": 59.553449,
+      "longitude": 7.363922
+    },
+    {
+      "name": "Hovin branndepot",
+      "latitude": 59.846486,
+      "longitude": 9.018545
+    },
+    {
+      "name": "Hovland brannstasjon",
+      "latitude": 59.303047,
+      "longitude": 4.891664
+    },
+    {
+      "name": "Hugla branndepot",
+      "latitude": 66.20318,
+      "longitude": 12.967974
+    },
+    {
+      "name": "Hundorp brannstasjon",
+      "latitude": 61.567995,
+      "longitude": 9.918735
+    },
+    {
+      "name": "Hurdal brannstasjon",
+      "latitude": 60.434394,
+      "longitude": 11.06862
+    },
+    {
+      "name": "Husnes brannstasjon",
+      "latitude": 59.864115,
+      "longitude": 5.748052
+    },
+    {
+      "name": "Husøy brannstasjon",
+      "latitude": 69.543757,
+      "longitude": 17.660145
+    },
+    {
+      "name": "Hyen brannstasjon",
+      "latitude": 61.738602,
+      "longitude": 5.913649
+    },
+    {
+      "name": "Hyllestad brannstasjon",
+      "latitude": 61.167324,
+      "longitude": 5.298181
+    },
+    {
+      "name": "Hægeland brannstasjon",
+      "latitude": 58.382171,
+      "longitude": 7.749451
+    },
+    {
+      "name": "Høle brannstasjon",
+      "latitude": 58.894927,
+      "longitude": 6.017905
+    },
+    {
+      "name": "Hønefoss brannstasjon",
+      "latitude": 60.153275,
+      "longitude": 10.252753
+    },
+    {
+      "name": "Høyanger brannstasjon",
+      "latitude": 61.217224,
+      "longitude": 6.069857
+    },
+    {
+      "name": "Høylandet brannstasjon",
+      "latitude": 64.624524,
+      "longitude": 12.293704
+    },
+    {
+      "name": "Ikjefjord branndepot",
+      "latitude": 61.057946,
+      "longitude": 5.655985
+    },
+    {
+      "name": "Inderøy brannstasjon",
+      "latitude": 63.873096,
+      "longitude": 11.290096
+    },
+    {
+      "name": "Ingøy branndepot",
+      "latitude": 71.082843,
+      "longitude": 24.054738
+    },
+    {
+      "name": "Inndyr brannstasjon",
+      "latitude": 67.032981,
+      "longitude": 14.028453
+    },
+    {
+      "name": "Innhavet brannstasjon",
+      "latitude": 67.969339,
+      "longitude": 15.924107
+    },
+    {
+      "name": "Innsmøla brannstasjon",
+      "latitude": 63.333912,
+      "longitude": 8.070096
+    },
+    {
+      "name": "Jektvik branndepot",
+      "latitude": 66.625519,
+      "longitude": 13.291972
+    },
+    {
+      "name": "Jelsa brannstasjon",
+      "latitude": 59.337475,
+      "longitude": 6.034874
+    },
+    {
+      "name": "Jessheim brannstasjon",
+      "latitude": 60.147957,
+      "longitude": 11.182818
+    },
+    {
+      "name": "Jevnaker brannstasjon",
+      "latitude": 60.240285,
+      "longitude": 10.385646
+    },
+    {
+      "name": "Jomfruland branndepot",
+      "latitude": 58.864435,
+      "longitude": 9.594322
+    },
+    {
+      "name": "Jondal brannstasjon",
+      "latitude": 60.285337,
+      "longitude": 6.246597
+    },
+    {
+      "name": "Judaberg brannstasjon",
+      "latitude": 59.173905,
+      "longitude": 5.87627
+    },
+    {
+      "name": "Jørpeland brannstasjon",
+      "latitude": 59.021169,
+      "longitude": 6.030999
+    },
+    {
+      "name": "Jøsenfjord branndepot",
+      "latitude": 59.328247,
+      "longitude": 6.452343
+    },
+    {
+      "name": "Jøssund branndepot",
+      "latitude": 64.368007,
+      "longitude": 10.820635
+    },
+    {
+      "name": "Kalvedalen brannstasjon",
+      "latitude": 60.77808,
+      "longitude": 4.71755
+    },
+    {
+      "name": "Kalvåg brannstasjon",
+      "latitude": 61.766523,
+      "longitude": 4.876168
+    },
+    {
+      "name": "Karasjok brannstasjon",
+      "latitude": 69.472194,
+      "longitude": 25.526232
+    },
+    {
+      "name": "Kastellet brannstasjon",
+      "latitude": 59.872972,
+      "longitude": 10.79074
+    },
+    {
+      "name": "Kautokeino brannstasjon",
+      "latitude": 69.021385,
+      "longitude": 23.048091
+    },
+    {
+      "name": "Kiberg brannstasjon",
+      "latitude": 70.285334,
+      "longitude": 30.994963
+    },
+    {
+      "name": "Kilen branndepot",
+      "latitude": 59.327116,
+      "longitude": 8.816089
+    },
+    {
+      "name": "Kirkenes brannstasjon",
+      "latitude": 69.728266,
+      "longitude": 30.057522
+    },
+    {
+      "name": "Kirkenær brannstasjon",
+      "latitude": 60.457921,
+      "longitude": 12.060644
+    },
+    {
+      "name": "Kjerringøy brannstasjon",
+      "latitude": 67.520504,
+      "longitude": 14.7643
+    },
+    {
+      "name": "Kjøllefjord brannstasjon",
+      "latitude": 70.945356,
+      "longitude": 27.350985
+    },
+    {
+      "name": "Kjøpsvik brannstasjon",
+      "latitude": 68.096899,
+      "longitude": 16.373891
+    },
+    {
+      "name": "Kjøpsvik Brannstasjon",
+      "latitude": 68.097922,
+      "longitude": 16.376021
+    },
+    {
+      "name": "Kleive brannstasjon",
+      "latitude": 62.800973,
+      "longitude": 7.663805
+    },
+    {
+      "name": "Knaplund brannstasjon",
+      "latitude": 67.234068,
+      "longitude": 14.631102
+    },
+    {
+      "name": "Knarvik brannstasjon",
+      "latitude": 60.560152,
+      "longitude": 5.254084
+    },
+    {
+      "name": "Kokelv branndepot",
+      "latitude": 70.612082,
+      "longitude": 24.642635
+    },
+    {
+      "name": "Kolvereid brannstasjon",
+      "latitude": 64.874431,
+      "longitude": 11.596146
+    },
+    {
+      "name": "Komagfjord branndepot",
+      "latitude": 70.259631,
+      "longitude": 23.417336
+    },
+    {
+      "name": "Kongsberg brannstasjon",
+      "latitude": 59.624274,
+      "longitude": 9.637905
+    },
+    {
+      "name": "Kongsvinger Brannstasjon",
+      "latitude": 60.19745,
+      "longitude": 11.998233
+    },
+    {
+      "name": "Konsmo brannstasjon",
+      "latitude": 58.284086,
+      "longitude": 7.353988
+    },
+    {
+      "name": "Kopervik brannstasjon",
+      "latitude": 59.280607,
+      "longitude": 5.300168
+    },
+    {
+      "name": "Kopstad brannstasjon",
+      "latitude": 59.424692,
+      "longitude": 10.374098
+    },
+    {
+      "name": "Korgen brannstasjon",
+      "latitude": 66.069668,
+      "longitude": 13.822552
+    },
+    {
+      "name": "Korsegården brannstasjon",
+      "latitude": 59.660066,
+      "longitude": 10.725658
+    },
+    {
+      "name": "Korsvegen brannstasjon",
+      "latitude": 63.165605,
+      "longitude": 10.106887
+    },
+    {
+      "name": "Kragerø brannstasjon",
+      "latitude": 58.871769,
+      "longitude": 9.41348
+    },
+    {
+      "name": "Kristiansand brannstasjon",
+      "latitude": 58.155738,
+      "longitude": 7.999435
+    },
+    {
+      "name": "Kristiansund brannstasjon",
+      "latitude": 63.116283,
+      "longitude": 7.750508
+    },
+    {
+      "name": "Krokstadøra brannstasjon",
+      "latitude": 63.400273,
+      "longitude": 9.498369
+    },
+    {
+      "name": "Kunes branndepot",
+      "latitude": 70.34652,
+      "longitude": 26.504668
+    },
+    {
+      "name": "Kvalfjord branndepot",
+      "latitude": 70.317718,
+      "longitude": 22.867877
+    },
+    {
+      "name": "Kvalsund brannstasjon",
+      "latitude": 70.500472,
+      "longitude": 23.977232
+    },
+    {
+      "name": "Kvammen branndepot",
+      "latitude": 61.458848,
+      "longitude": 5.416156
+    },
+    {
+      "name": "Kvamsøy brannstasjon",
+      "latitude": 62.197642,
+      "longitude": 5.4196
+    },
+    {
+      "name": "Kvanne brannstasjon",
+      "latitude": 62.889946,
+      "longitude": 8.527742
+    },
+    {
+      "name": "Kvenvær brannstasjon",
+      "latitude": 63.535016,
+      "longitude": 8.400633
+    },
+    {
+      "name": "Kvernevik brannstasjon",
+      "latitude": 58.974764,
+      "longitude": 5.614373
+    },
+    {
+      "name": "Kveøy branndepot",
+      "latitude": 68.753256,
+      "longitude": 16.165106
+    },
+    {
+      "name": "Kvikne branndepot",
+      "latitude": 62.564563,
+      "longitude": 10.324908
+    },
+    {
+      "name": "Kvina brannstasjon",
+      "latitude": 66.467953,
+      "longitude": 13.163
+    },
+    {
+      "name": "Kvinesdal brannstasjon",
+      "latitude": 58.323614,
+      "longitude": 6.968461
+    },
+    {
+      "name": "Kvinlog brannstasjon",
+      "latitude": 58.520521,
+      "longitude": 6.935372
+    },
+    {
+      "name": "Kviteseid brannstasjon",
+      "latitude": 59.410113,
+      "longitude": 8.468548
+    },
+    {
+      "name": "Kvitsøy brannstasjon",
+      "latitude": 59.062631,
+      "longitude": 5.414013
+    },
+    {
+      "name": "Kyrkjebygda branndepot",
+      "latitude": 59.163699,
+      "longitude": 8.499871
+    },
+    {
+      "name": "Kyrkseterøra brannstasjon",
+      "latitude": 63.29501,
+      "longitude": 9.060604
+    },
+    {
+      "name": "Lakselv brannstasjon",
+      "latitude": 70.053152,
+      "longitude": 24.96788
+    },
+    {
+      "name": "Laksevåg brannstasjon",
+      "latitude": 60.353202,
+      "longitude": 5.244325
+    },
+    {
+      "name": "Lampeland brannstasjon",
+      "latitude": 59.832236,
+      "longitude": 9.583177
+    },
+    {
+      "name": "Langesund brannstasjon",
+      "latitude": 59.024962,
+      "longitude": 9.711838
+    },
+    {
+      "name": "Langevåg brannstasjon",
+      "latitude": 59.601779,
+      "longitude": 5.2075
+    },
+    {
+      "name": "Langevåg brannstasjon",
+      "latitude": 62.440344,
+      "longitude": 6.200154
+    },
+    {
+      "name": "Langfjordbotn branndepot",
+      "latitude": 70.032023,
+      "longitude": 22.281335
+    },
+    {
+      "name": "Langøy brannstasjon",
+      "latitude": 63.064189,
+      "longitude": 7.499362
+    },
+    {
+      "name": "Larsnes brannstasjon",
+      "latitude": 62.207853,
+      "longitude": 5.567715
+    },
+    {
+      "name": "Larvik brannstasjon",
+      "latitude": 59.057463,
+      "longitude": 10.066977
+    },
+    {
+      "name": "Lauvsnes brannstasjon",
+      "latitude": 64.497597,
+      "longitude": 10.91323
+    },
+    {
+      "name": "Lavik branndepot",
+      "latitude": 61.108045,
+      "longitude": 5.493772
+    },
+    {
+      "name": "Lebesby brannstasjon",
+      "latitude": 70.57397,
+      "longitude": 26.998134
+    },
+    {
+      "name": "Leikanger brannstasjon",
+      "latitude": 61.184317,
+      "longitude": 6.854935
+    },
+    {
+      "name": "Leikanger brannstasjon",
+      "latitude": 62.119006,
+      "longitude": 5.317073
+    },
+    {
+      "name": "Leinesfjord brannstasjon",
+      "latitude": 67.795388,
+      "longitude": 15.051027
+    },
+    {
+      "name": "Leirin Lufthavn brannstasjon",
+      "latitude": 61.00804,
+      "longitude": 9.292831
+    },
+    {
+      "name": "Leka brannstasjon",
+      "latitude": 65.091812,
+      "longitude": 11.705141
+    },
+    {
+      "name": "Leknes brannstasjon",
+      "latitude": 68.153937,
+      "longitude": 13.614896
+    },
+    {
+      "name": "Leksvik brannstasjon",
+      "latitude": 63.668129,
+      "longitude": 10.616811
+    },
+    {
+      "name": "Leland brannstasjon",
+      "latitude": 66.064093,
+      "longitude": 12.933573
+    },
+    {
+      "name": "Lena brannstasjon",
+      "latitude": 60.678161,
+      "longitude": 10.80838
+    },
+    {
+      "name": "Lenangen brannstasjon",
+      "latitude": 69.901726,
+      "longitude": 20.176466
+    },
+    {
+      "name": "Lensmannskontoret i Fræna",
+      "latitude": 62.854793,
+      "longitude": 7.133455
+    },
+    {
+      "name": "Lensvik brannstasjon",
+      "latitude": 63.501568,
+      "longitude": 9.830045
+    },
+    {
+      "name": "Lepsøy brannstasjon",
+      "latitude": 62.611813,
+      "longitude": 6.217082
+    },
+    {
+      "name": "Lesjaskog brannstasjon",
+      "latitude": 62.23127,
+      "longitude": 8.368342
+    },
+    {
+      "name": "Levanger brannstasjon",
+      "latitude": 63.738634,
+      "longitude": 11.282073
+    },
+    {
+      "name": "Liabø brannstasjon",
+      "latitude": 63.119969,
+      "longitude": 8.351958
+    },
+    {
+      "name": "Lillehammer brannstasjon",
+      "latitude": 61.118848,
+      "longitude": 10.465919
+    },
+    {
+      "name": "Lillesand brannstasjon",
+      "latitude": 58.259763,
+      "longitude": 8.384414
+    },
+    {
+      "name": "Lindås brannstasjon",
+      "latitude": 60.740653,
+      "longitude": 5.234402
+    },
+    {
+      "name": "Lista brannstasjon",
+      "latitude": 58.097112,
+      "longitude": 6.689043
+    },
+    {
+      "name": "Lofoten Brann- og Redningsvesen",
+      "latitude": 68.150961,
+      "longitude": 13.62189
+    },
+    {
+      "name": "Lofthus brannstasjon",
+      "latitude": 60.320755,
+      "longitude": 6.653934
+    },
+    {
+      "name": "Lovund brannstasjon",
+      "latitude": 66.365176,
+      "longitude": 12.356944
+    },
+    {
+      "name": "Lufthavna brannstasjon",
+      "latitude": 70.680079,
+      "longitude": 23.675659
+    },
+    {
+      "name": "Lundamo brannstasjon",
+      "latitude": 63.153459,
+      "longitude": 10.293678
+    },
+    {
+      "name": "Lunde brannstasjon",
+      "latitude": 58.096269,
+      "longitude": 7.780229
+    },
+    {
+      "name": "Lunde brannstasjon",
+      "latitude": 59.301096,
+      "longitude": 9.100999
+    },
+    {
+      "name": "Lundenes brannstasjon",
+      "latitude": 68.880076,
+      "longitude": 16.570994
+    },
+    {
+      "name": "Lurøy brannstasjon",
+      "latitude": 66.399704,
+      "longitude": 12.86353
+    },
+    {
+      "name": "Luster brannstasjon",
+      "latitude": 61.438958,
+      "longitude": 7.451496
+    },
+    {
+      "name": "Lyngdal brannstasjon",
+      "latitude": 58.141421,
+      "longitude": 7.058749
+    },
+    {
+      "name": "Lyngseidet brannstasjon",
+      "latitude": 69.574702,
+      "longitude": 20.18845
+    },
+    {
+      "name": "Lysebotn brannstasjon",
+      "latitude": 59.054593,
+      "longitude": 6.647538
+    },
+    {
+      "name": "Lysøysundet brannstasjon",
+      "latitude": 63.884719,
+      "longitude": 9.870309
+    },
+    {
+      "name": "Lægreid brannstasjon",
+      "latitude": 60.463023,
+      "longitude": 7.064159
+    },
+    {
+      "name": "Lærdalsøyri brannstasjon",
+      "latitude": 61.097149,
+      "longitude": 7.493685
+    },
+    {
+      "name": "Lødingen brannstasjon",
+      "latitude": 68.410032,
+      "longitude": 15.990126
+    },
+    {
+      "name": "Løken brannstasjon",
+      "latitude": 59.793723,
+      "longitude": 11.462059
+    },
+    {
+      "name": "Løkvoll brannstasjon",
+      "latitude": 69.542475,
+      "longitude": 20.536387
+    },
+    {
+      "name": "Løten brannstasjon",
+      "latitude": 60.815226,
+      "longitude": 11.34079
+    },
+    {
+      "name": "Malm brannstasjon",
+      "latitude": 64.065809,
+      "longitude": 11.220542
+    },
+    {
+      "name": "Mandal brannstasjon",
+      "latitude": 58.028961,
+      "longitude": 7.445664
+    },
+    {
+      "name": "Manger brannstasjon",
+      "latitude": 60.63955,
+      "longitude": 5.047109
+    },
+    {
+      "name": "Marienlyst brannstasjon",
+      "latitude": 59.9333,
+      "longitude": 10.720471
+    },
+    {
+      "name": "Marnardal brannstasjon",
+      "latitude": 58.220303,
+      "longitude": 7.509988
+    },
+    {
+      "name": "Marvik brannstasjon",
+      "latitude": 59.424611,
+      "longitude": 6.040412
+    },
+    {
+      "name": "Masi branndepot",
+      "latitude": 69.44861,
+      "longitude": 23.674419
+    },
+    {
+      "name": "Mastrevik brannstasjon",
+      "latitude": 60.784407,
+      "longitude": 4.931363
+    },
+    {
+      "name": "Matre brannstasjon",
+      "latitude": 60.874859,
+      "longitude": 5.59051
+    },
+    {
+      "name": "Mausundvær branndepot",
+      "latitude": 63.86462,
+      "longitude": 8.653544
+    },
+    {
+      "name": "Mebonden brannstasjon",
+      "latitude": 63.217306,
+      "longitude": 11.037998
+    },
+    {
+      "name": "Medby Brannstasjon",
+      "latitude": 69.280518,
+      "longitude": 17.072528
+    },
+    {
+      "name": "Mehamn brannstasjon",
+      "latitude": 71.037964,
+      "longitude": 27.852272
+    },
+    {
+      "name": "Melbu brannstasjon",
+      "latitude": 68.499117,
+      "longitude": 14.787789
+    },
+    {
+      "name": "Meldal brannstasjon",
+      "latitude": 63.044966,
+      "longitude": 9.713594
+    },
+    {
+      "name": "Melhus brannstasjon",
+      "latitude": 63.284923,
+      "longitude": 10.288463
+    },
+    {
+      "name": "Meløy brannstasjon",
+      "latitude": 66.822936,
+      "longitude": 13.411357
+    },
+    {
+      "name": "Meråker brannstasjon",
+      "latitude": 63.42307,
+      "longitude": 11.733893
+    },
+    {
+      "name": "Mesnali brannstasjon",
+      "latitude": 61.102983,
+      "longitude": 10.698936
+    },
+    {
+      "name": "Midsund brannstasjon",
+      "latitude": 62.688462,
+      "longitude": 6.672067
+    },
+    {
+      "name": "Mindland branndepot",
+      "latitude": 65.785321,
+      "longitude": 12.45604
+    },
+    {
+      "name": "Misvær brannstasjon",
+      "latitude": 67.115923,
+      "longitude": 15.00318
+    },
+    {
+      "name": "Mjøndalen brannstasjon",
+      "latitude": 59.750939,
+      "longitude": 10.027245
+    },
+    {
+      "name": "Mo brannstasjon",
+      "latitude": 60.817778,
+      "longitude": 5.817692
+    },
+    {
+      "name": "Mo brannstasjon",
+      "latitude": 66.312784,
+      "longitude": 14.149075
+    },
+    {
+      "name": "Moelv brannstasjon",
+      "latitude": 60.931128,
+      "longitude": 10.701938
+    },
+    {
+      "name": "Moi brannstasjon",
+      "latitude": 58.458744,
+      "longitude": 6.548354
+    },
+    {
+      "name": "Moland brannstasjon",
+      "latitude": 58.499671,
+      "longitude": 8.869089
+    },
+    {
+      "name": "Moland brannstasjon",
+      "latitude": 59.201551,
+      "longitude": 8.085334
+    },
+    {
+      "name": "Molde brannstasjon",
+      "latitude": 62.737773,
+      "longitude": 7.19157
+    },
+    {
+      "name": "Moldjord brannstasjon",
+      "latitude": 67.01241,
+      "longitude": 14.577489
+    },
+    {
+      "name": "Mosjøen brannstasjon",
+      "latitude": 65.837445,
+      "longitude": 13.197273
+    },
+    {
+      "name": "Moskenes Kommune",
+      "latitude": 67.88949,
+      "longitude": 13.017352
+    },
+    {
+      "name": "Moss brannstasjon",
+      "latitude": 59.442375,
+      "longitude": 10.683173
+    },
+    {
+      "name": "Moster brannstasjon",
+      "latitude": 59.702176,
+      "longitude": 5.375722
+    },
+    {
+      "name": "Myken branndepot",
+      "latitude": 66.76114,
+      "longitude": 12.478967
+    },
+    {
+      "name": "Myra brannstasjon",
+      "latitude": 58.750384,
+      "longitude": 8.873588
+    },
+    {
+      "name": "Myrvåg brannstasjon",
+      "latitude": 62.280432,
+      "longitude": 5.820247
+    },
+    {
+      "name": "Mysen brannstasjon",
+      "latitude": 59.548888,
+      "longitude": 11.337428
+    },
+    {
+      "name": "Måløy brannstasjon",
+      "latitude": 61.935294,
+      "longitude": 5.111676
+    },
+    {
+      "name": "Måndalen brannstasjon",
+      "latitude": 62.526513,
+      "longitude": 7.429432
+    },
+    {
+      "name": "Måsøy branndepot",
+      "latitude": 71.005911,
+      "longitude": 25.007318
+    },
+    {
+      "name": "Namdalseid brannstasjon",
+      "latitude": 64.228966,
+      "longitude": 11.212524
+    },
+    {
+      "name": "Namsos brannstasjon",
+      "latitude": 64.468482,
+      "longitude": 11.507282
+    },
+    {
+      "name": "Namsskogan brannstasjon",
+      "latitude": 64.928686,
+      "longitude": 13.162262
+    },
+    {
+      "name": "Narbuvoll branndepot",
+      "latitude": 62.350524,
+      "longitude": 11.467337
+    },
+    {
+      "name": "Narvik Brannstasjon",
+      "latitude": 68.446641,
+      "longitude": 17.4543
+    },
+    {
+      "name": "Narvik hovedbrannstasjon",
+      "latitude": 68.440006,
+      "longitude": 17.428508
+    },
+    {
+      "name": "Narvik hovedbrannstasjon",
+      "latitude": 68.440146,
+      "longitude": 17.429801
+    },
+    {
+      "name": "Naustdal brannstasjon",
+      "latitude": 61.507508,
+      "longitude": 5.717656
+    },
+    {
+      "name": "Nedstrand brannstasjon",
+      "latitude": 59.349776,
+      "longitude": 5.792962
+    },
+    {
+      "name": "Nervei branndepot",
+      "latitude": 70.665932,
+      "longitude": 27.845992
+    },
+    {
+      "name": "Nes Brannstasjon",
+      "latitude": 60.565001,
+      "longitude": 9.983459
+    },
+    {
+      "name": "Nes brannstasjon",
+      "latitude": 60.571584,
+      "longitude": 9.097566
+    },
+    {
+      "name": "Nes brannstasjon",
+      "latitude": 60.792255,
+      "longitude": 10.875662
+    },
+    {
+      "name": "Nesflaten brannstasjon",
+      "latitude": 59.651296,
+      "longitude": 6.808845
+    },
+    {
+      "name": "Nesna brannstasjon",
+      "latitude": 66.200021,
+      "longitude": 13.01849
+    },
+    {
+      "name": "Nord-Statland branndepot",
+      "latitude": 64.495636,
+      "longitude": 11.148052
+    },
+    {
+      "name": "Nordalsfjord branndepot",
+      "latitude": 61.657452,
+      "longitude": 5.501638
+    },
+    {
+      "name": "Nordfjordeid brannstasjon",
+      "latitude": 61.902604,
+      "longitude": 5.999137
+    },
+    {
+      "name": "Nordli brannstasjon",
+      "latitude": 64.463853,
+      "longitude": 13.593999
+    },
+    {
+      "name": "Nordskag brannstasjon",
+      "latitude": 63.702776,
+      "longitude": 8.56506
+    },
+    {
+      "name": "Nordvernes branndepot",
+      "latitude": 66.673805,
+      "longitude": 13.22764
+    },
+    {
+      "name": "Noresund brannstasjon",
+      "latitude": 60.180662,
+      "longitude": 9.621799
+    },
+    {
+      "name": "Norheimsund brannstasjon",
+      "latitude": 60.370653,
+      "longitude": 6.144569
+    },
+    {
+      "name": "Notodden brannstasjon",
+      "latitude": 59.564161,
+      "longitude": 9.221021
+    },
+    {
+      "name": "Nuorgamin paloasema",
+      "latitude": 70.081966,
+      "longitude": 27.871441
+    },
+    {
+      "name": "Nuvsvåg branndepot",
+      "latitude": 70.277291,
+      "longitude": 22.137554
+    },
+    {
+      "name": "Nygårdsjøen brannstasjon",
+      "latitude": 67.101101,
+      "longitude": 14.304549
+    },
+    {
+      "name": "Nyvoll branndepot",
+      "latitude": 70.226165,
+      "longitude": 23.384476
+    },
+    {
+      "name": "Nærbø brannstasjon",
+      "latitude": 58.66445,
+      "longitude": 5.63995
+    },
+    {
+      "name": "Nøtterøy brannstasjon",
+      "latitude": 59.223652,
+      "longitude": 10.408539
+    },
+    {
+      "name": "Odda brannstasjon",
+      "latitude": 60.066702,
+      "longitude": 6.546685
+    },
+    {
+      "name": "Olden brannstasjon",
+      "latitude": 61.841538,
+      "longitude": 6.811605
+    },
+    {
+      "name": "Olderdalen brannstasjon",
+      "latitude": 69.604065,
+      "longitude": 20.534707
+    },
+    {
+      "name": "Olstad brannstasjon",
+      "latitude": 61.290349,
+      "longitude": 9.972419
+    },
+    {
+      "name": "Oltedal brannstasjon",
+      "latitude": 58.831311,
+      "longitude": 6.045412
+    },
+    {
+      "name": "Oma brannstasjon",
+      "latitude": 60.216158,
+      "longitude": 5.971315
+    },
+    {
+      "name": "Ona branndepot",
+      "latitude": 62.861171,
+      "longitude": 6.546165
+    },
+    {
+      "name": "Oppdal brannstasjon",
+      "latitude": 62.592841,
+      "longitude": 9.683397
+    },
+    {
+      "name": "Oppegård brannstasjon",
+      "latitude": 59.795145,
+      "longitude": 10.823574
+    },
+    {
+      "name": "Oppeid brannstasjon",
+      "latitude": 68.084341,
+      "longitude": 15.609718
+    },
+    {
+      "name": "Orkdal brannstasjon",
+      "latitude": 63.306666,
+      "longitude": 9.853599
+    },
+    {
+      "name": "Ortnevik branndepot",
+      "latitude": 61.108492,
+      "longitude": 6.1321
+    },
+    {
+      "name": "Os brannstasjon",
+      "latitude": 60.181972,
+      "longitude": 5.452251
+    },
+    {
+      "name": "Os brannstasjon",
+      "latitude": 62.497235,
+      "longitude": 11.222483
+    },
+    {
+      "name": "Osen brannstasjon",
+      "latitude": 64.29602,
+      "longitude": 10.512391
+    },
+    {
+      "name": "Osterøy brannstasjon",
+      "latitude": 60.504863,
+      "longitude": 5.469815
+    },
+    {
+      "name": "Otta brannstasjon",
+      "latitude": 61.772626,
+      "longitude": 9.533268
+    },
+    {
+      "name": "Overhalla brannstasjon",
+      "latitude": 64.498563,
+      "longitude": 11.949224
+    },
+    {
+      "name": "Porsgrunn brannstasjon",
+      "latitude": 59.122206,
+      "longitude": 9.629312
+    },
+    {
+      "name": "Prestfoss brannstasjon",
+      "latitude": 60.040609,
+      "longitude": 9.640869
+    },
+    {
+      "name": "Rakkestad brannstasjon",
+      "latitude": 59.428374,
+      "longitude": 11.343559
+    },
+    {
+      "name": "Ramberg brannstasjon",
+      "latitude": 68.092855,
+      "longitude": 13.233348
+    },
+    {
+      "name": "Ramsund brannstasjon",
+      "latitude": 68.496902,
+      "longitude": 16.507606
+    },
+    {
+      "name": "Ranheim brannstasjon",
+      "latitude": 63.426613,
+      "longitude": 10.515401
+    },
+    {
+      "name": "Rauland brannstasjon",
+      "latitude": 59.691684,
+      "longitude": 8.064169
+    },
+    {
+      "name": "Reinfjord branndepot",
+      "latitude": 70.102216,
+      "longitude": 21.599132
+    },
+    {
+      "name": "Repvåg branndepot",
+      "latitude": 70.741474,
+      "longitude": 25.663094
+    },
+    {
+      "name": "Rindal brannstasjon",
+      "latitude": 63.056897,
+      "longitude": 9.214403
+    },
+    {
+      "name": "Riska brannstasjon",
+      "latitude": 58.925748,
+      "longitude": 5.849041
+    },
+    {
+      "name": "Rissa brannstasjon",
+      "latitude": 63.581939,
+      "longitude": 9.950282
+    },
+    {
+      "name": "Risør brannstasjon",
+      "latitude": 58.71831,
+      "longitude": 9.210418
+    },
+    {
+      "name": "Risøyhamn brannstasjon",
+      "latitude": 68.972439,
+      "longitude": 15.636305
+    },
+    {
+      "name": "Rjukan brannstasjon",
+      "latitude": 59.879878,
+      "longitude": 8.665651
+    },
+    {
+      "name": "Roa brannstasjon",
+      "latitude": 60.293831,
+      "longitude": 10.605825
+    },
+    {
+      "name": "Roan brannstasjon",
+      "latitude": 64.172698,
+      "longitude": 10.223974
+    },
+    {
+      "name": "Rognaldsvåg branndepot",
+      "latitude": 61.564647,
+      "longitude": 4.791081
+    },
+    {
+      "name": "Rognan brannstasjon",
+      "latitude": 67.094688,
+      "longitude": 15.401335
+    },
+    {
+      "name": "Rolvsøy branndepot",
+      "latitude": 70.99847,
+      "longitude": 24.112515
+    },
+    {
+      "name": "Rosendal brannstasjon",
+      "latitude": 59.98701,
+      "longitude": 6.016747
+    },
+    {
+      "name": "Rossfjordstraumen brannstasjon",
+      "latitude": 69.366578,
+      "longitude": 18.326788
+    },
+    {
+      "name": "Rugsund branndepot",
+      "latitude": 61.87179,
+      "longitude": 5.312871
+    },
+    {
+      "name": "Ryfoss brannstasjon",
+      "latitude": 61.136707,
+      "longitude": 8.824262
+    },
+    {
+      "name": "Rygge brannstasjon",
+      "latitude": 59.394337,
+      "longitude": 10.732252
+    },
+    {
+      "name": "Rådstua brannstasjon",
+      "latitude": 60.043535,
+      "longitude": 10.881101
+    },
+    {
+      "name": "Rødberg brannstasjon",
+      "latitude": 60.267806,
+      "longitude": 8.950639
+    },
+    {
+      "name": "Rødøy brannstasjon",
+      "latitude": 66.65906,
+      "longitude": 13.077371
+    },
+    {
+      "name": "Røldal brannstasjon",
+      "latitude": 59.829157,
+      "longitude": 6.817321
+    },
+    {
+      "name": "Røn brannstasjon",
+      "latitude": 61.032014,
+      "longitude": 9.053648
+    },
+    {
+      "name": "Rørvik brannstasjon",
+      "latitude": 64.876793,
+      "longitude": 11.234832
+    },
+    {
+      "name": "Røst brannstasjon",
+      "latitude": 67.526115,
+      "longitude": 12.108525
+    },
+    {
+      "name": "Røvika brannstasjon",
+      "latitude": 62.731922,
+      "longitude": 7.4216
+    },
+    {
+      "name": "Røvær branndepot",
+      "latitude": 59.438704,
+      "longitude": 5.091035
+    },
+    {
+      "name": "Røyken brannstasjon",
+      "latitude": 59.740427,
+      "longitude": 10.413146
+    },
+    {
+      "name": "Røyrvik brannstasjon",
+      "latitude": 64.883306,
+      "longitude": 13.563149
+    },
+    {
+      "name": "Sagene brannstasjon",
+      "latitude": 59.938575,
+      "longitude": 10.767626
+    },
+    {
+      "name": "Salsbruket brannstasjon",
+      "latitude": 64.80043,
+      "longitude": 11.864638
+    },
+    {
+      "name": "Salsnes brannstasjon",
+      "latitude": 64.698155,
+      "longitude": 11.448846
+    },
+    {
+      "name": "Sand brannstasjon",
+      "latitude": 59.481974,
+      "longitude": 6.271137
+    },
+    {
+      "name": "Sand brannstasjon",
+      "latitude": 60.392142,
+      "longitude": 11.541691
+    },
+    {
+      "name": "Sandane brannstasjon",
+      "latitude": 61.768848,
+      "longitude": 6.228352
+    },
+    {
+      "name": "Sande brannstasjon",
+      "latitude": 59.584751,
+      "longitude": 10.208021
+    },
+    {
+      "name": "Sande brannstasjon",
+      "latitude": 61.321752,
+      "longitude": 5.782026
+    },
+    {
+      "name": "Sandefjord brannstasjon",
+      "latitude": 59.132214,
+      "longitude": 10.214797
+    },
+    {
+      "name": "Sandeid brannstasjon",
+      "latitude": 59.543327,
+      "longitude": 5.86541
+    },
+    {
+      "name": "Sandmoen brannstasjon",
+      "latitude": 63.334705,
+      "longitude": 10.370189
+    },
+    {
+      "name": "Sandnes brannstasjon",
+      "latitude": 58.856467,
+      "longitude": 5.707295
+    },
+    {
+      "name": "Sandnes brannstasjon",
+      "latitude": 60.792118,
+      "longitude": 5.296159
+    },
+    {
+      "name": "Sandnessjøen brannstasjon",
+      "latitude": 66.023471,
+      "longitude": 12.641844
+    },
+    {
+      "name": "Sandstad brannstasjon",
+      "latitude": 63.536845,
+      "longitude": 9.138657
+    },
+    {
+      "name": "Sandsøy branndepot",
+      "latitude": 68.95273,
+      "longitude": 16.658822
+    },
+    {
+      "name": "Sandsøy brannstasjon",
+      "latitude": 62.245863,
+      "longitude": 5.47094
+    },
+    {
+      "name": "Sandviken brannstasjon",
+      "latitude": 60.406014,
+      "longitude": 5.324117
+    },
+    {
+      "name": "Sandøy branndepot",
+      "latitude": 62.819177,
+      "longitude": 6.583165
+    },
+    {
+      "name": "Sandøya brannstasjon",
+      "latitude": 59.050186,
+      "longitude": 9.729038
+    },
+    {
+      "name": "Sarpsborg brannstasjon",
+      "latitude": 59.285403,
+      "longitude": 11.113422
+    },
+    {
+      "name": "Sauda brannstasjon",
+      "latitude": 59.651143,
+      "longitude": 6.353423
+    },
+    {
+      "name": "Sausvatn brannstasjon",
+      "latitude": 65.70196,
+      "longitude": 12.441441
+    },
+    {
+      "name": "Segalstad bru brannstasjon",
+      "latitude": 61.225688,
+      "longitude": 10.216818
+    },
+    {
+      "name": "Sekken branndepot",
+      "latitude": 62.652458,
+      "longitude": 7.33806
+    },
+    {
+      "name": "Selje brannstasjon",
+      "latitude": 62.047758,
+      "longitude": 5.352608
+    },
+    {
+      "name": "Seljord brannstasjon",
+      "latitude": 59.483754,
+      "longitude": 8.627714
+    },
+    {
+      "name": "Selsøyvik branndepot",
+      "latitude": 66.568249,
+      "longitude": 13.000981
+    },
+    {
+      "name": "Selva brannstasjon",
+      "latitude": 63.616472,
+      "longitude": 9.711745
+    },
+    {
+      "name": "Senjahopen brannstasjon",
+      "latitude": 69.495491,
+      "longitude": 17.50364
+    },
+    {
+      "name": "Sentrum brannstasjon",
+      "latitude": 59.906805,
+      "longitude": 10.745241
+    },
+    {
+      "name": "Sentrum brannstasjon",
+      "latitude": 63.437935,
+      "longitude": 10.412178
+    },
+    {
+      "name": "Setermoen brannstasjon",
+      "latitude": 68.86017,
+      "longitude": 18.354515
+    },
+    {
+      "name": "Silvalen brannstasjon",
+      "latitude": 65.983535,
+      "longitude": 12.295337
+    },
+    {
+      "name": "Singsås brannstasjon",
+      "latitude": 62.953249,
+      "longitude": 10.744692
+    },
+    {
+      "name": "Sistranda brannstasjon",
+      "latitude": 63.737922,
+      "longitude": 8.836175
+    },
+    {
+      "name": "Sjøholt brannstasjon",
+      "latitude": 62.482774,
+      "longitude": 6.833589
+    },
+    {
+      "name": "Sjøvegan brannstasjon",
+      "latitude": 68.871949,
+      "longitude": 17.846659
+    },
+    {
+      "name": "Skaland brannstasjon",
+      "latitude": 69.444464,
+      "longitude": 17.299378
+    },
+    {
+      "name": "Skansen brannstasjon",
+      "latitude": 60.397209,
+      "longitude": 5.330279
+    },
+    {
+      "name": "Skarnes brannstasjon",
+      "latitude": 60.245173,
+      "longitude": 11.676399
+    },
+    {
+      "name": "Skarsvåg branndepot",
+      "latitude": 71.111494,
+      "longitude": 25.826569
+    },
+    {
+      "name": "Skedsmo brannstasjon",
+      "latitude": 59.996913,
+      "longitude": 11.045431
+    },
+    {
+      "name": "Skei brannstasjon",
+      "latitude": 61.580574,
+      "longitude": 6.493083
+    },
+    {
+      "name": "Ski brannstasjon",
+      "latitude": 59.715663,
+      "longitude": 10.853319
+    },
+    {
+      "name": "Skibotn brannstasjon",
+      "latitude": 69.384908,
+      "longitude": 20.280298
+    },
+    {
+      "name": "Skien brannstasjon",
+      "latitude": 59.199843,
+      "longitude": 9.586281
+    },
+    {
+      "name": "Skiptvet brannstasjon",
+      "latitude": 59.473863,
+      "longitude": 11.159614
+    },
+    {
+      "name": "Skjervøy brannstasjon",
+      "latitude": 70.028808,
+      "longitude": 20.978141
+    },
+    {
+      "name": "Skjold brannstasjon",
+      "latitude": 59.504717,
+      "longitude": 5.594407
+    },
+    {
+      "name": "Skjånes branndepot",
+      "latitude": 70.798813,
+      "longitude": 28.093867
+    },
+    {
+      "name": "Skjærhallen brannstasjon",
+      "latitude": 59.034249,
+      "longitude": 11.019557
+    },
+    {
+      "name": "Skjønhaug brannstasjon",
+      "latitude": 59.645403,
+      "longitude": 11.315638
+    },
+    {
+      "name": "Skodje brannstasjon",
+      "latitude": 62.505032,
+      "longitude": 6.681418
+    },
+    {
+      "name": "Skogfoss branndepot",
+      "latitude": 69.371271,
+      "longitude": 29.687827
+    },
+    {
+      "name": "Skogsskiftet brannstasjon",
+      "latitude": 60.268752,
+      "longitude": 5.073399
+    },
+    {
+      "name": "Skotterud brannstasjon",
+      "latitude": 59.982321,
+      "longitude": 12.128328
+    },
+    {
+      "name": "Skudenes brannstasjon",
+      "latitude": 59.152087,
+      "longitude": 5.251052
+    },
+    {
+      "name": "Skåbu brannstasjon",
+      "latitude": 61.523992,
+      "longitude": 9.406168
+    },
+    {
+      "name": "Skånevik brannstasjon",
+      "latitude": 59.728747,
+      "longitude": 5.93592
+    },
+    {
+      "name": "Sleneset brannstasjon",
+      "latitude": 66.363205,
+      "longitude": 12.591346
+    },
+    {
+      "name": "Smestad fire- and ambulance station",
+      "latitude": 59.939752,
+      "longitude": 10.687725
+    },
+    {
+      "name": "Smøla brannstasjon",
+      "latitude": 63.455609,
+      "longitude": 8.059571
+    },
+    {
+      "name": "Snefjord branndepot",
+      "latitude": 70.793789,
+      "longitude": 24.625079
+    },
+    {
+      "name": "Snåsa brannstasjon",
+      "latitude": 64.246574,
+      "longitude": 12.388439
+    },
+    {
+      "name": "Sogndal brannstasjon",
+      "latitude": 61.233444,
+      "longitude": 7.093445
+    },
+    {
+      "name": "Sokna brannstasjon",
+      "latitude": 60.240323,
+      "longitude": 9.9237
+    },
+    {
+      "name": "Soknedal brannstasjon",
+      "latitude": 62.956325,
+      "longitude": 10.188258
+    },
+    {
+      "name": "Solfjellsjøen brannstasjon",
+      "latitude": 66.097359,
+      "longitude": 12.474363
+    },
+    {
+      "name": "Sommarøy branndepot",
+      "latitude": 69.633925,
+      "longitude": 18.003745
+    },
+    {
+      "name": "Sortland brannstasjon",
+      "latitude": 68.688452,
+      "longitude": 15.413841
+    },
+    {
+      "name": "Spangereid brannstasjon",
+      "latitude": 58.04559,
+      "longitude": 7.15379
+    },
+    {
+      "name": "Spjelkavik brannstasjon",
+      "latitude": 62.462254,
+      "longitude": 6.36488
+    },
+    {
+      "name": "Spydeberg brannstasjon",
+      "latitude": 59.619558,
+      "longitude": 11.044801
+    },
+    {
+      "name": "Stadsbygd brannstasjon",
+      "latitude": 63.509492,
+      "longitude": 10.018861
+    },
+    {
+      "name": "Stakkvik branndepot",
+      "latitude": 69.952521,
+      "longitude": 19.672964
+    },
+    {
+      "name": "Stamsund brannstasjon",
+      "latitude": 68.131783,
+      "longitude": 13.842653
+    },
+    {
+      "name": "Standal branndepot",
+      "latitude": 62.263712,
+      "longitude": 6.42573
+    },
+    {
+      "name": "Stange brannstasjon",
+      "latitude": 60.715727,
+      "longitude": 11.189863
+    },
+    {
+      "name": "Stavanger brannstasjon, Schancheholen",
+      "latitude": 58.953525,
+      "longitude": 5.72031
+    },
+    {
+      "name": "Steinkjer brannstasjon",
+      "latitude": 64.01724,
+      "longitude": 11.49281
+    },
+    {
+      "name": "Steinshamn brannstasjon",
+      "latitude": 62.780442,
+      "longitude": 6.471746
+    },
+    {
+      "name": "Stjørdal brannstasjon",
+      "latitude": 63.467331,
+      "longitude": 10.918282
+    },
+    {
+      "name": "Stjørna brannstasjon",
+      "latitude": 63.749981,
+      "longitude": 10.091515
+    },
+    {
+      "name": "Stokke brannstasjon",
+      "latitude": 59.222511,
+      "longitude": 10.30625
+    },
+    {
+      "name": "Stokkøy brannstasjon",
+      "latitude": 64.046758,
+      "longitude": 10.012866
+    },
+    {
+      "name": "Stokmarknes brannstasjon",
+      "latitude": 68.564396,
+      "longitude": 14.911463
+    },
+    {
+      "name": "Stonglandseidet brannstasjon",
+      "latitude": 69.078386,
+      "longitude": 17.168445
+    },
+    {
+      "name": "Stor-Elvdal brannstasjon",
+      "latitude": 61.573034,
+      "longitude": 11.042681
+    },
+    {
+      "name": "Stord Brannstasjon",
+      "latitude": 59.774721,
+      "longitude": 5.486818
+    },
+    {
+      "name": "Stordal brannstasjon",
+      "latitude": 62.383868,
+      "longitude": 6.985839
+    },
+    {
+      "name": "Storebø brannstasjon",
+      "latitude": 60.073518,
+      "longitude": 5.244475
+    },
+    {
+      "name": "Storfosna branndepot",
+      "latitude": 63.670398,
+      "longitude": 9.412789
+    },
+    {
+      "name": "Storjord branndepot",
+      "latitude": 68.203221,
+      "longitude": 16.070998
+    },
+    {
+      "name": "Storselsøy branndepot",
+      "latitude": 66.553286,
+      "longitude": 12.841397
+    },
+    {
+      "name": "Storsteinnes brannstasjon",
+      "latitude": 69.240309,
+      "longitude": 19.226672
+    },
+    {
+      "name": "Stranda brannstasjon",
+      "latitude": 62.307453,
+      "longitude": 6.929023
+    },
+    {
+      "name": "Straume brannstasjon",
+      "latitude": 68.688785,
+      "longitude": 14.471629
+    },
+    {
+      "name": "Straumen brannstasjon",
+      "latitude": 67.352703,
+      "longitude": 15.583159
+    },
+    {
+      "name": "Straumsnes brannstasjon",
+      "latitude": 63.035413,
+      "longitude": 8.042158
+    },
+    {
+      "name": "Stryn brannstasjon",
+      "latitude": 61.903608,
+      "longitude": 6.725106
+    },
+    {
+      "name": "Støren brannstasjon",
+      "latitude": 63.040577,
+      "longitude": 10.284754
+    },
+    {
+      "name": "Støtt branndepot",
+      "latitude": 66.924881,
+      "longitude": 13.44697
+    },
+    {
+      "name": "Sula branndepot",
+      "latitude": 63.844541,
+      "longitude": 8.459242
+    },
+    {
+      "name": "Suldalsosen brannstasjon",
+      "latitude": 59.490911,
+      "longitude": 6.5148
+    },
+    {
+      "name": "Sulitjelma brannstasjon",
+      "latitude": 67.13761,
+      "longitude": 16.043357
+    },
+    {
+      "name": "Sunde brannstasjon",
+      "latitude": 63.495618,
+      "longitude": 9.17955
+    },
+    {
+      "name": "Sunndalsøra brannstasjon",
+      "latitude": 62.675103,
+      "longitude": 8.56864
+    },
+    {
+      "name": "Surnadalsøra brannstasjon",
+      "latitude": 62.969961,
+      "longitude": 8.659256
+    },
+    {
+      "name": "Svanvik branndepot",
+      "latitude": 69.454431,
+      "longitude": 30.040096
+    },
+    {
+      "name": "Svanøy branndepot",
+      "latitude": 61.494074,
+      "longitude": 5.132437
+    },
+    {
+      "name": "Sveio brannstasjon",
+      "latitude": 59.547794,
+      "longitude": 5.365207
+    },
+    {
+      "name": "Svelgen brannstasjon",
+      "latitude": 61.77108,
+      "longitude": 5.297105
+    },
+    {
+      "name": "Svelvik brannstasjon",
+      "latitude": 59.617408,
+      "longitude": 10.402623
+    },
+    {
+      "name": "Svolvær Brannstasjon",
+      "latitude": 68.232874,
+      "longitude": 14.525899
+    },
+    {
+      "name": "Sykkylven brann- og redningskorps",
+      "latitude": 62.391979,
+      "longitude": 6.591905
+    },
+    {
+      "name": "Sylling brannstasjon",
+      "latitude": 59.893068,
+      "longitude": 10.286932
+    },
+    {
+      "name": "Syvde brannstasjon",
+      "latitude": 62.087026,
+      "longitude": 5.725448
+    },
+    {
+      "name": "Sæbø brannstasjon",
+      "latitude": 62.208599,
+      "longitude": 6.475666
+    },
+    {
+      "name": "Sætervik branndepot",
+      "latitude": 64.398258,
+      "longitude": 10.487008
+    },
+    {
+      "name": "Sørarnøy brannstasjon",
+      "latitude": 67.14107,
+      "longitude": 13.971962
+    },
+    {
+      "name": "Sørburøy brannstasjon",
+      "latitude": 63.975744,
+      "longitude": 9.075559
+    },
+    {
+      "name": "Sørfjorden branndepot",
+      "latitude": 66.506471,
+      "longitude": 13.30484
+    },
+    {
+      "name": "Sørkjosen brannstasjon",
+      "latitude": 69.785512,
+      "longitude": 20.957306
+    },
+    {
+      "name": "Sørli brannstasjon",
+      "latitude": 64.223851,
+      "longitude": 13.831105
+    },
+    {
+      "name": "Sørreisa brannstasjon",
+      "latitude": 69.155814,
+      "longitude": 18.158508
+    },
+    {
+      "name": "Sørvågen brannstasjon",
+      "latitude": 67.89067,
+      "longitude": 13.029195
+    },
+    {
+      "name": "Sørvær branndepot",
+      "latitude": 70.628893,
+      "longitude": 21.972478
+    },
+    {
+      "name": "Sørvær brannstasjon",
+      "latitude": 67.406275,
+      "longitude": 13.903523
+    },
+    {
+      "name": "Søvik brannstasjon",
+      "latitude": 62.546402,
+      "longitude": 6.281027
+    },
+    {
+      "name": "Talvik branndepot",
+      "latitude": 70.041015,
+      "longitude": 22.951165
+    },
+    {
+      "name": "Tana Bru brannstasjon",
+      "latitude": 70.199425,
+      "longitude": 28.185739
+    },
+    {
+      "name": "Tennevoll brannstasjon",
+      "latitude": 68.751606,
+      "longitude": 17.805863
+    },
+    {
+      "name": "Terråk brannstasjon",
+      "latitude": 65.089177,
+      "longitude": 12.37387
+    },
+    {
+      "name": "Tessungdalen branndepot",
+      "latitude": 60.125703,
+      "longitude": 8.683109
+    },
+    {
+      "name": "Tingvollvågen brannstasjon",
+      "latitude": 62.911723,
+      "longitude": 8.205558
+    },
+    {
+      "name": "Tjongsfjord brannstasjon",
+      "latitude": 66.696889,
+      "longitude": 13.423614
+    },
+    {
+      "name": "Tjørhom brannstasjon",
+      "latitude": 58.907257,
+      "longitude": 6.855453
+    },
+    {
+      "name": "Tjøtta brannstasjon",
+      "latitude": 65.822586,
+      "longitude": 12.42536
+    },
+    {
+      "name": "Todalen brannstasjon",
+      "latitude": 62.82038,
+      "longitude": 8.703151
+    },
+    {
+      "name": "Tofte brannstasjon",
+      "latitude": 59.549931,
+      "longitude": 10.562722
+    },
+    {
+      "name": "Tolga brannstasjon",
+      "latitude": 62.410184,
+      "longitude": 10.996708
+    },
+    {
+      "name": "Tomma branndepot",
+      "latitude": 66.225027,
+      "longitude": 12.770697
+    },
+    {
+      "name": "Tomrefjord brannstasjon",
+      "latitude": 62.58278,
+      "longitude": 6.931758
+    },
+    {
+      "name": "Tonstad brannstasjon",
+      "latitude": 58.668757,
+      "longitude": 6.714065
+    },
+    {
+      "name": "Torvikbukt brannstasjon",
+      "latitude": 62.944888,
+      "longitude": 7.854196
+    },
+    {
+      "name": "Tresfjord brannstasjon",
+      "latitude": 62.522984,
+      "longitude": 7.129518
+    },
+    {
+      "name": "Tretten brannstasjon",
+      "latitude": 61.315531,
+      "longitude": 10.30136
+    },
+    {
+      "name": "Treungen brannstasjon",
+      "latitude": 59.008361,
+      "longitude": 8.540519
+    },
+    {
+      "name": "Trofors brannstasjon",
+      "latitude": 65.536078,
+      "longitude": 13.393353
+    },
+    {
+      "name": "Trollkjelen brannstasjon",
+      "latitude": 60.476669,
+      "longitude": 5.740242
+    },
+    {
+      "name": "Tromsø brannstasjon",
+      "latitude": 69.658791,
+      "longitude": 18.967773
+    },
+    {
+      "name": "Trondheim hovedbrannstasjon",
+      "latitude": 63.39676,
+      "longitude": 10.390392
+    },
+    {
+      "name": "Trysil brannstasjon",
+      "latitude": 61.318578,
+      "longitude": 12.261169
+    },
+    {
+      "name": "Trøim brannstasjon",
+      "latitude": 60.860291,
+      "longitude": 8.568115
+    },
+    {
+      "name": "Tufsingdalen branndepot",
+      "latitude": 62.286656,
+      "longitude": 11.735365
+    },
+    {
+      "name": "Tunnsjøen branndepot",
+      "latitude": 64.644076,
+      "longitude": 13.698362
+    },
+    {
+      "name": "Tustna brannstasjon",
+      "latitude": 63.205713,
+      "longitude": 8.039713
+    },
+    {
+      "name": "Tvedestrand brannstasjon",
+      "latitude": 58.627872,
+      "longitude": 8.924652
+    },
+    {
+      "name": "Tynset brannstasjon",
+      "latitude": 62.27754,
+      "longitude": 10.783792
+    },
+    {
+      "name": "Tysse brannstasjon",
+      "latitude": 60.379889,
+      "longitude": 5.764737
+    },
+    {
+      "name": "Tysværvåg brannstasjon",
+      "latitude": 59.326191,
+      "longitude": 5.488651
+    },
+    {
+      "name": "Tønsberg brannstasjon",
+      "latitude": 59.26403,
+      "longitude": 10.409548
+    },
+    {
+      "name": "Uggedalseidet brannstasjon",
+      "latitude": 59.99741,
+      "longitude": 5.493921
+    },
+    {
+      "name": "Ulefoss brannstasjon",
+      "latitude": 59.284424,
+      "longitude": 9.263332
+    },
+    {
+      "name": "Ulsteinvik brannstasjon",
+      "latitude": 62.344987,
+      "longitude": 5.840228
+    },
+    {
+      "name": "Ulvik brannstasjon",
+      "latitude": 60.569429,
+      "longitude": 6.91562
+    },
+    {
+      "name": "Undredal brannstasjon",
+      "latitude": 60.950563,
+      "longitude": 7.104148
+    },
+    {
+      "name": "Uskedal brannstasjon",
+      "latitude": 59.932739,
+      "longitude": 5.863747
+    },
+    {
+      "name": "Utsjoen paloasema",
+      "latitude": 69.908001,
+      "longitude": 27.040248
+    },
+    {
+      "name": "Utvik brannstasjon",
+      "latitude": 61.806863,
+      "longitude": 6.519
+    },
+    {
+      "name": "Vadheim branndepot",
+      "latitude": 61.209152,
+      "longitude": 5.822664
+    },
+    {
+      "name": "Vadsø brannstasjon",
+      "latitude": 70.07673,
+      "longitude": 29.753911
+    },
+    {
+      "name": "Valderøy/Vigra brannstasjon",
+      "latitude": 62.527138,
+      "longitude": 6.117268
+    },
+    {
+      "name": "Valnesfjord brannstasjon",
+      "latitude": 67.297598,
+      "longitude": 15.184867
+    },
+    {
+      "name": "Vangsvik brannstasjon",
+      "latitude": 69.190436,
+      "longitude": 17.765936
+    },
+    {
+      "name": "Vannareid branndepot",
+      "latitude": 70.200356,
+      "longitude": 19.610325
+    },
+    {
+      "name": "Vannvåg brannstasjon",
+      "latitude": 70.073031,
+      "longitude": 19.978618
+    },
+    {
+      "name": "Vanvikan brannstasjon",
+      "latitude": 63.556312,
+      "longitude": 10.240712
+    },
+    {
+      "name": "Varaldsøy brannstasjon",
+      "latitude": 60.09655,
+      "longitude": 5.976098
+    },
+    {
+      "name": "Varangerbotn brannstasjon",
+      "latitude": 70.163764,
+      "longitude": 28.570849
+    },
+    {
+      "name": "Varden brannstasjon",
+      "latitude": 59.842357,
+      "longitude": 10.651456
+    },
+    {
+      "name": "Vardø brannstasjon",
+      "latitude": 70.372379,
+      "longitude": 31.113949
+    },
+    {
+      "name": "Varmen brannstasjon",
+      "latitude": 58.966143,
+      "longitude": 5.760245
+    },
+    {
+      "name": "Vartdal brannstasjon",
+      "latitude": 62.302769,
+      "longitude": 6.088464
+    },
+    {
+      "name": "Vassenden brannstasjon",
+      "latitude": 61.486434,
+      "longitude": 6.068901
+    },
+    {
+      "name": "Vassøy branndepot",
+      "latitude": 58.997269,
+      "longitude": 5.785051
+    },
+    {
+      "name": "Vatne brannstasjon",
+      "latitude": 62.560005,
+      "longitude": 6.617151
+    },
+    {
+      "name": "Veggli brannstasjon",
+      "latitude": 60.038475,
+      "longitude": 9.168323
+    },
+    {
+      "name": "Veidnes branndepot",
+      "latitude": 70.656571,
+      "longitude": 26.589769
+    },
+    {
+      "name": "Venjaneset brannstasjon",
+      "latitude": 60.201267,
+      "longitude": 5.603512
+    },
+    {
+      "name": "Vennesla brannstasjon",
+      "latitude": 58.268164,
+      "longitude": 7.966825
+    },
+    {
+      "name": "Verdal brannstasjon",
+      "latitude": 63.788244,
+      "longitude": 11.485892
+    },
+    {
+      "name": "Verma branndepot",
+      "latitude": 62.340473,
+      "longitude": 8.062117
+    },
+    {
+      "name": "Vestby brannstasjon",
+      "latitude": 59.609331,
+      "longitude": 10.742421
+    },
+    {
+      "name": "Vestre Toten brannstasjon",
+      "latitude": 60.727901,
+      "longitude": 10.608492
+    },
+    {
+      "name": "Vigrestad brannstasjon",
+      "latitude": 58.570271,
+      "longitude": 5.692061
+    },
+    {
+      "name": "Vik brannstasjon",
+      "latitude": 61.087175,
+      "longitude": 6.585411
+    },
+    {
+      "name": "Vik brannstasjon",
+      "latitude": 65.312338,
+      "longitude": 12.167771
+    },
+    {
+      "name": "Vikeså brannstasjon",
+      "latitude": 58.644196,
+      "longitude": 6.08946
+    },
+    {
+      "name": "Vikevåg brannstasjon",
+      "latitude": 59.098511,
+      "longitude": 5.702146
+    },
+    {
+      "name": "Viksdalen branndepot",
+      "latitude": 61.349212,
+      "longitude": 6.10447
+    },
+    {
+      "name": "Vinstra brannstasjon",
+      "latitude": 61.590632,
+      "longitude": 9.764577
+    },
+    {
+      "name": "Vistdal branndepot",
+      "latitude": 62.723544,
+      "longitude": 7.940659
+    },
+    {
+      "name": "Volda brannstasjon",
+      "latitude": 62.14487,
+      "longitude": 6.08417
+    },
+    {
+      "name": "Vormedal brannstasjon",
+      "latitude": 59.355355,
+      "longitude": 5.321965
+    },
+    {
+      "name": "Voss Stasjon brannstasjon",
+      "latitude": 60.634321,
+      "longitude": 6.439921
+    },
+    {
+      "name": "Vossestrand brannstasjon",
+      "latitude": 60.791395,
+      "longitude": 6.508031
+    },
+    {
+      "name": "Vrådal branndepot",
+      "latitude": 59.325866,
+      "longitude": 8.485564
+    },
+    {
+      "name": "Våg brannstasjon",
+      "latitude": 67.135449,
+      "longitude": 14.078218
+    },
+    {
+      "name": "Vågsodden branndepot",
+      "latitude": 65.720835,
+      "longitude": 12.449148
+    },
+    {
+      "name": "Vågåmo brannstasjon",
+      "latitude": 61.873298,
+      "longitude": 9.105071
+    },
+    {
+      "name": "Våler brannstasjon",
+      "latitude": 60.667032,
+      "longitude": 11.837289
+    },
+    {
+      "name": "Værlandet branndepot",
+      "latitude": 61.310628,
+      "longitude": 4.728785
+    },
+    {
+      "name": "Værøy brannstasjon",
+      "latitude": 67.665483,
+      "longitude": 12.70236
+    },
+    {
+      "name": "Ylvingen branndepot",
+      "latitude": 65.636787,
+      "longitude": 12.166134
+    },
+    {
+      "name": "Ytterøy brannstasjon",
+      "latitude": 63.778921,
+      "longitude": 11.068446
+    },
+    {
+      "name": "Åfarnes brannstasjon",
+      "latitude": 62.663813,
+      "longitude": 7.503962
+    },
+    {
+      "name": "Ågotnes brannstasjon",
+      "latitude": 60.409374,
+      "longitude": 5.005333
+    },
+    {
+      "name": "Åkra brannstasjon",
+      "latitude": 59.260906,
+      "longitude": 5.188587
+    },
+    {
+      "name": "Åkra brannstasjon",
+      "latitude": 59.792107,
+      "longitude": 6.098648
+    },
+    {
+      "name": "Ål brannstasjon",
+      "latitude": 60.638249,
+      "longitude": 8.587309
+    },
+    {
+      "name": "Ålen brannstasjon",
+      "latitude": 62.838491,
+      "longitude": 11.302314
+    },
+    {
+      "name": "Ålesund hovedbrannstasjon",
+      "latitude": 62.46967,
+      "longitude": 6.196564
+    },
+    {
+      "name": "Ålgård",
+      "latitude": 58.780599,
+      "longitude": 5.835355
+    },
+    {
+      "name": "Åmli brannstasjon",
+      "latitude": 58.765405,
+      "longitude": 8.484277
+    },
+    {
+      "name": "Åmot brannstasjon",
+      "latitude": 59.573109,
+      "longitude": 7.996683
+    },
+    {
+      "name": "Åmot brannstasjon",
+      "latitude": 61.129718,
+      "longitude": 11.369993
+    },
+    {
+      "name": "Åmyra brannstasjon",
+      "latitude": 63.966287,
+      "longitude": 10.216414
+    },
+    {
+      "name": "Åna-Sira branndepot",
+      "latitude": 58.293218,
+      "longitude": 6.439967
+    },
+    {
+      "name": "Åndalsnes brannstasjon",
+      "latitude": 62.559792,
+      "longitude": 7.682916
+    },
+    {
+      "name": "Årdal brannstasjon",
+      "latitude": 59.150603,
+      "longitude": 6.158969
+    },
+    {
+      "name": "Årdalstangen brannstasjon",
+      "latitude": 61.237069,
+      "longitude": 7.70776
+    },
+    {
+      "name": "Årebrotneset branndepot",
+      "latitude": 61.647342,
+      "longitude": 5.009791
+    },
+    {
+      "name": "Årnes brannstasjon",
+      "latitude": 60.122024,
+      "longitude": 11.465446
+    },
+    {
+      "name": "Årskog brannstasjon",
+      "latitude": 59.932156,
+      "longitude": 5.334769
+    },
+    {
+      "name": "Årviksand branndepot",
+      "latitude": 70.195896,
+      "longitude": 20.521499
+    },
+    {
+      "name": "Ås brannstasjon",
+      "latitude": 63.03966,
+      "longitude": 11.678515
+    },
+    {
+      "name": "Åsane brannstasjon",
+      "latitude": 60.463906,
+      "longitude": 5.312024
+    },
+    {
+      "name": "Åseral brannstasjon",
+      "latitude": 58.617522,
+      "longitude": 7.411134
+    },
+    {
+      "name": "Øksfjord brannstasjon",
+      "latitude": 70.239409,
+      "longitude": 22.348755
+    },
+    {
+      "name": "Øksnes Brann og Redning",
+      "latitude": 68.910582,
+      "longitude": 15.081033
+    },
+    {
+      "name": "Ølen brannstasjon",
+      "latitude": 59.604985,
+      "longitude": 5.803182
+    },
+    {
+      "name": "Ølve brannstasjon",
+      "latitude": 60.013691,
+      "longitude": 5.817177
+    },
+    {
+      "name": "Ørje brannstasjon",
+      "latitude": 59.480355,
+      "longitude": 11.664017
+    },
+    {
+      "name": "Ørnes brannstasjon",
+      "latitude": 66.872385,
+      "longitude": 13.707526
+    },
+    {
+      "name": "Ørsdalen branndepot",
+      "latitude": 58.678037,
+      "longitude": 6.403421
+    },
+    {
+      "name": "Ørsta brannstasjon",
+      "latitude": 62.19946,
+      "longitude": 6.130863
+    },
+    {
+      "name": "Øverbygd Brannstasjon",
+      "latitude": 69.026226,
+      "longitude": 19.289285
+    },
+    {
+      "name": "Øvre Årdal brannstasjon",
+      "latitude": 61.309549,
+      "longitude": 7.818041
+    },
+    {
+      "name": "Øye branndepot",
+      "latitude": 62.190758,
+      "longitude": 6.66503
+    },
+    {
+      "name": "Øystese brannstasjon",
+      "latitude": 60.38765,
+      "longitude": 6.197743
+    }
+  ],
+  "meta": {
+    "title": "Brannstasjoner i Norge - Gratis nedlasting",
+    "description": "Brannstasjoner i Norge, hentet fra OpenStreetMap-punkter (amenity=fire_station). Navn, breddegrad og lengdegrad (WGS84). Inneholder 770 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Brannstasjoner i Norge | ListBase",
+    "seo_description": "Last ned Brannstasjoner i Norge — 770 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 770 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

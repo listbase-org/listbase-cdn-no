@@ -1,0 +1,8141 @@
+{
+  "id": "no-osm-natural-strait",
+  "name": "Named straits in Norway",
+  "title": "Named straits in Norway",
+  "description": "Named straits in Norway, derived from OpenStreetMap POI nodes tagged natural=strait in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1620,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akersundet",
+      "latitude": 59.058041,
+      "longitude": 10.888942
+    },
+    {
+      "name": "Altensundet",
+      "latitude": 66.977056,
+      "longitude": 14.018211
+    },
+    {
+      "name": "Andersleia",
+      "latitude": 65.940133,
+      "longitude": 11.838133
+    },
+    {
+      "name": "Andersskogsvaet",
+      "latitude": 63.463909,
+      "longitude": 8.289245
+    },
+    {
+      "name": "Andersskogvalen",
+      "latitude": 63.453979,
+      "longitude": 8.32821
+    },
+    {
+      "name": "Andholmleia",
+      "latitude": 63.870885,
+      "longitude": 8.413274
+    },
+    {
+      "name": "Andskotstraumen",
+      "latitude": 63.371552,
+      "longitude": 7.905502
+    },
+    {
+      "name": "Andsteinsveet",
+      "latitude": 64.079253,
+      "longitude": 9.247484
+    },
+    {
+      "name": "Andøystraumen",
+      "latitude": 63.790562,
+      "longitude": 8.766596
+    },
+    {
+      "name": "Annelistraumen",
+      "latitude": 63.648379,
+      "longitude": 8.733301
+    },
+    {
+      "name": "Arnøysundet",
+      "latitude": 67.156331,
+      "longitude": 13.964392
+    },
+    {
+      "name": "Arøysundet",
+      "latitude": 63.180728,
+      "longitude": 8.582154
+    },
+    {
+      "name": "Arøyvalen",
+      "latitude": 63.443916,
+      "longitude": 8.341382
+    },
+    {
+      "name": "Asenleia",
+      "latitude": 63.940326,
+      "longitude": 9.633207
+    },
+    {
+      "name": "Askimsundet",
+      "latitude": 60.444542,
+      "longitude": 10.245473
+    },
+    {
+      "name": "Askjesundet",
+      "latitude": 59.058529,
+      "longitude": 5.678494
+    },
+    {
+      "name": "Asmalsund",
+      "latitude": 59.073364,
+      "longitude": 10.929083
+    },
+    {
+      "name": "Asperøysundet",
+      "latitude": 58.077664,
+      "longitude": 8.026776
+    },
+    {
+      "name": "Aspholmsundet",
+      "latitude": 58.013194,
+      "longitude": 7.441442
+    },
+    {
+      "name": "Auksundet",
+      "latitude": 63.332124,
+      "longitude": 8.120077
+    },
+    {
+      "name": "Auksundet",
+      "latitude": 63.623311,
+      "longitude": 8.624567
+    },
+    {
+      "name": "Auksundleia",
+      "latitude": 64.443289,
+      "longitude": 10.514377
+    },
+    {
+      "name": "Aunastraumen",
+      "latitude": 63.618536,
+      "longitude": 8.846411
+    },
+    {
+      "name": "Aunøyhamna",
+      "latitude": 63.525494,
+      "longitude": 9.134198
+    },
+    {
+      "name": "Auran",
+      "latitude": 66.273808,
+      "longitude": 13.74896
+    },
+    {
+      "name": "Aursundet",
+      "latitude": 63.247114,
+      "longitude": 8.528534
+    },
+    {
+      "name": "Aursøysundet",
+      "latitude": 63.872056,
+      "longitude": 8.637754
+    },
+    {
+      "name": "Aussundet",
+      "latitude": 63.155017,
+      "longitude": 7.897663
+    },
+    {
+      "name": "Aussundet",
+      "latitude": 65.661015,
+      "longitude": 12.645621
+    },
+    {
+      "name": "Austra Spyssøysundet",
+      "latitude": 59.7347,
+      "longitude": 5.381813
+    },
+    {
+      "name": "Austre Remaldssundet",
+      "latitude": 59.90622,
+      "longitude": 5.122533
+    },
+    {
+      "name": "Austre Straumøysundet",
+      "latitude": 59.894649,
+      "longitude": 5.248875
+    },
+    {
+      "name": "Avløyssundet",
+      "latitude": 63.353169,
+      "longitude": 7.762968
+    },
+    {
+      "name": "Avløysvalen",
+      "latitude": 63.870329,
+      "longitude": 8.548039
+    },
+    {
+      "name": "Bagræset",
+      "latitude": 64.957111,
+      "longitude": 10.660601
+    },
+    {
+      "name": "Bakkasund",
+      "latitude": 60.132947,
+      "longitude": 5.099941
+    },
+    {
+      "name": "Bakkasundet",
+      "latitude": 59.901593,
+      "longitude": 5.157677
+    },
+    {
+      "name": "Bakkasundet",
+      "latitude": 60.917306,
+      "longitude": 6.874431
+    },
+    {
+      "name": "Baksundet",
+      "latitude": 67.160814,
+      "longitude": 13.974153
+    },
+    {
+      "name": "Balholet",
+      "latitude": 63.487021,
+      "longitude": 8.057383
+    },
+    {
+      "name": "Balskjerveita",
+      "latitude": 63.437654,
+      "longitude": 7.74497
+    },
+    {
+      "name": "Bangholmsundet",
+      "latitude": 67.123164,
+      "longitude": 13.83095
+    },
+    {
+      "name": "Barleia",
+      "latitude": 64.415053,
+      "longitude": 10.400399
+    },
+    {
+      "name": "Barmsundet",
+      "latitude": 58.743726,
+      "longitude": 9.102011
+    },
+    {
+      "name": "Barmsundet",
+      "latitude": 62.003381,
+      "longitude": 5.320043
+    },
+    {
+      "name": "Barsundet",
+      "latitude": 69.643145,
+      "longitude": 17.952586
+    },
+    {
+      "name": "Bassnesosen",
+      "latitude": 59.901962,
+      "longitude": 5.187538
+    },
+    {
+      "name": "Bauholmsundet",
+      "latitude": 58.007039,
+      "longitude": 7.408378
+    },
+    {
+      "name": "Beielskjærsundet",
+      "latitude": 62.886293,
+      "longitude": 6.814791
+    },
+    {
+      "name": "Beiningssundet",
+      "latitude": 59.295013,
+      "longitude": 4.897028
+    },
+    {
+      "name": "Beisundet",
+      "latitude": 63.650186,
+      "longitude": 9.554276
+    },
+    {
+      "name": "Beitstadsundet",
+      "latitude": 64.069344,
+      "longitude": 11.260881
+    },
+    {
+      "name": "Belgesund",
+      "latitude": 66.654225,
+      "longitude": 13.056614
+    },
+    {
+      "name": "Bellsund",
+      "latitude": 77.637517,
+      "longitude": 14.425806
+    },
+    {
+      "name": "Benråsa",
+      "latitude": 64.821375,
+      "longitude": 10.632791
+    },
+    {
+      "name": "Bentehyttsundet",
+      "latitude": 60.445344,
+      "longitude": 10.240875
+    },
+    {
+      "name": "Bergersundet",
+      "latitude": 60.27975,
+      "longitude": 11.116611
+    },
+    {
+      "name": "Bergsøysundet",
+      "latitude": 62.988454,
+      "longitude": 7.872648
+    },
+    {
+      "name": "Bessakersundet",
+      "latitude": 64.247255,
+      "longitude": 10.294533
+    },
+    {
+      "name": "Bessesundet",
+      "latitude": 60.184917,
+      "longitude": 7.421633
+    },
+    {
+      "name": "Biesundet",
+      "latitude": 59.588252,
+      "longitude": 5.152208
+    },
+    {
+      "name": "Bingsholmsråsa",
+      "latitude": 63.941615,
+      "longitude": 9.947004
+    },
+    {
+      "name": "Biskopsjordstraumen",
+      "latitude": 68.197925,
+      "longitude": 13.887228
+    },
+    {
+      "name": "Bjorsund",
+      "latitude": 58.291643,
+      "longitude": 8.545533
+    },
+    {
+      "name": "Bjønnasundet",
+      "latitude": 63.111725,
+      "longitude": 8.281571
+    },
+    {
+      "name": "Bjønnsløpet",
+      "latitude": 58.195272,
+      "longitude": 8.154621
+    },
+    {
+      "name": "Bjønnsund",
+      "latitude": 60.628917,
+      "longitude": 10.077333
+    },
+    {
+      "name": "Bjørnholmsundet",
+      "latitude": 63.280155,
+      "longitude": 8.099305
+    },
+    {
+      "name": "Bjørnskarfjorden",
+      "latitude": 68.817133,
+      "longitude": 14.852335
+    },
+    {
+      "name": "Bjørnsprangsundet",
+      "latitude": 60.442286,
+      "longitude": 10.269711
+    },
+    {
+      "name": "Bjørnsund",
+      "latitude": 58.953046,
+      "longitude": 8.458158
+    },
+    {
+      "name": "Bjørnsund",
+      "latitude": 62.891387,
+      "longitude": 6.824861
+    },
+    {
+      "name": "Bjørnsundet",
+      "latitude": 58.074669,
+      "longitude": 6.819044
+    },
+    {
+      "name": "Bleikøysundet",
+      "latitude": 59.888302,
+      "longitude": 10.744808
+    },
+    {
+      "name": "Blikværfjorden",
+      "latitude": 66.676293,
+      "longitude": 12.793579
+    },
+    {
+      "name": "Blindleia",
+      "latitude": 58.181812,
+      "longitude": 8.294324
+    },
+    {
+      "name": "Blåsværsvaet",
+      "latitude": 63.277388,
+      "longitude": 7.900758
+    },
+    {
+      "name": "Blåsværsvaet",
+      "latitude": 63.27767,
+      "longitude": 7.902192
+    },
+    {
+      "name": "Bogøykeila",
+      "latitude": 63.871685,
+      "longitude": 8.551505
+    },
+    {
+      "name": "Bogøysundet",
+      "latitude": 67.904503,
+      "longitude": 15.18141
+    },
+    {
+      "name": "Bohtalnjavvi",
+      "latitude": 69.393453,
+      "longitude": 23.621733
+    },
+    {
+      "name": "Boknasundet",
+      "latitude": 59.225082,
+      "longitude": 5.457222
+    },
+    {
+      "name": "Bolsøysundet",
+      "latitude": 62.733549,
+      "longitude": 7.354789
+    },
+    {
+      "name": "Bondesund",
+      "latitude": 60.153524,
+      "longitude": 5.948181
+    },
+    {
+      "name": "Bordevika",
+      "latitude": 58.747659,
+      "longitude": 9.306638
+    },
+    {
+      "name": "Borganfjorden",
+      "latitude": 64.950056,
+      "longitude": 10.903652
+    },
+    {
+      "name": "Bragdøyrenna",
+      "latitude": 58.120831,
+      "longitude": 7.994335
+    },
+    {
+      "name": "Brakdjupet",
+      "latitude": 65.412586,
+      "longitude": 11.664562
+    },
+    {
+      "name": "Brakstadsundet",
+      "latitude": 64.682125,
+      "longitude": 11.226075
+    },
+    {
+      "name": "Brandasund",
+      "latitude": 59.897628,
+      "longitude": 5.091627
+    },
+    {
+      "name": "Brattholmsundet",
+      "latitude": 57.981308,
+      "longitude": 7.593325
+    },
+    {
+      "name": "Brattholmsundet",
+      "latitude": 57.985064,
+      "longitude": 7.606683
+    },
+    {
+      "name": "Brattholmsundet",
+      "latitude": 59.693891,
+      "longitude": 5.131081
+    },
+    {
+      "name": "Brattsundet",
+      "latitude": 66.777708,
+      "longitude": 13.502206
+    },
+    {
+      "name": "Breidsund",
+      "latitude": 66.615225,
+      "longitude": 12.734072
+    },
+    {
+      "name": "Breidsundet",
+      "latitude": 66.643894,
+      "longitude": 12.975583
+    },
+    {
+      "name": "Breidsundleia",
+      "latitude": 62.96923,
+      "longitude": 6.960259
+    },
+    {
+      "name": "Breisund",
+      "latitude": 60.356693,
+      "longitude": 7.679697
+    },
+    {
+      "name": "Breisundet",
+      "latitude": 62.270299,
+      "longitude": 5.840242
+    },
+    {
+      "name": "Breisundet",
+      "latitude": 66.645561,
+      "longitude": 13.043144
+    },
+    {
+      "name": "Breisundet",
+      "latitude": 67.051342,
+      "longitude": 13.744208
+    },
+    {
+      "name": "Breisundet",
+      "latitude": 67.89144,
+      "longitude": 14.728031
+    },
+    {
+      "name": "Breisundet",
+      "latitude": 67.94517,
+      "longitude": 13.129853
+    },
+    {
+      "name": "Breisundet",
+      "latitude": 71.022948,
+      "longitude": 24.691658
+    },
+    {
+      "name": "Breisvaet",
+      "latitude": 63.317361,
+      "longitude": 7.919992
+    },
+    {
+      "name": "Breisvaet",
+      "latitude": 63.318454,
+      "longitude": 7.923059
+    },
+    {
+      "name": "Brekkeholmsundet",
+      "latitude": 59.801044,
+      "longitude": 5.11273
+    },
+    {
+      "name": "Bremen",
+      "latitude": 58.055659,
+      "longitude": 6.876905
+    },
+    {
+      "name": "Bremnessvaet",
+      "latitude": 63.398556,
+      "longitude": 8.200247
+    },
+    {
+      "name": "Bremsundet",
+      "latitude": 58.730213,
+      "longitude": 9.281818
+    },
+    {
+      "name": "Bremsundgapet",
+      "latitude": 58.715395,
+      "longitude": 9.281843
+    },
+    {
+      "name": "Brendøyvågen",
+      "latitude": 61.590302,
+      "longitude": 5.048891
+    },
+    {
+      "name": "Brennerisundet",
+      "latitude": 63.518841,
+      "longitude": 7.956796
+    },
+    {
+      "name": "Brennøyosen",
+      "latitude": 59.876318,
+      "longitude": 5.197592
+    },
+    {
+      "name": "Bringebærsundet",
+      "latitude": 67.821986,
+      "longitude": 14.749297
+    },
+    {
+      "name": "Brokholmsundet",
+      "latitude": 67.064414,
+      "longitude": 13.654983
+    },
+    {
+      "name": "Brosmeosen",
+      "latitude": 60.875337,
+      "longitude": 4.774675
+    },
+    {
+      "name": "Brotasundet",
+      "latitude": 60.290961,
+      "longitude": 4.993667
+    },
+    {
+      "name": "Bruska",
+      "latitude": 63.511398,
+      "longitude": 8.288924
+    },
+    {
+      "name": "Brusværvalen",
+      "latitude": 63.784685,
+      "longitude": 9.365465
+    },
+    {
+      "name": "Bryggsundet",
+      "latitude": 63.523843,
+      "longitude": 9.133984
+    },
+    {
+      "name": "Brødøysundet",
+      "latitude": 58.014333,
+      "longitude": 7.633469
+    },
+    {
+      "name": "Brømsund",
+      "latitude": 59.768107,
+      "longitude": 5.107043
+    },
+    {
+      "name": "Brønnøyfjorden",
+      "latitude": 64.819166,
+      "longitude": 10.939178
+    },
+    {
+      "name": "Brønnøysundet",
+      "latitude": 65.469136,
+      "longitude": 12.197197
+    },
+    {
+      "name": "Buaråsa",
+      "latitude": 63.672573,
+      "longitude": 8.433849
+    },
+    {
+      "name": "Buasundet",
+      "latitude": 59.936574,
+      "longitude": 5.202387
+    },
+    {
+      "name": "Budasundet",
+      "latitude": 62.894711,
+      "longitude": 6.830422
+    },
+    {
+      "name": "Buholmråsa",
+      "latitude": 64.414475,
+      "longitude": 10.44199
+    },
+    {
+      "name": "Bukkespranget",
+      "latitude": 59.01361,
+      "longitude": 9.792353
+    },
+    {
+      "name": "Bukkholmssundet",
+      "latitude": 59.819183,
+      "longitude": 5.087668
+    },
+    {
+      "name": "Bukkholmsundet",
+      "latitude": 59.930769,
+      "longitude": 5.209561
+    },
+    {
+      "name": "Bukkøysundet",
+      "latitude": 63.594771,
+      "longitude": 8.45826
+    },
+    {
+      "name": "Burøyleia",
+      "latitude": 70.254102,
+      "longitude": 19.711296
+    },
+    {
+      "name": "Burøysundet",
+      "latitude": 63.575639,
+      "longitude": 8.411047
+    },
+    {
+      "name": "Burøysundet",
+      "latitude": 67.047744,
+      "longitude": 13.644644
+    },
+    {
+      "name": "Buskholmsundet",
+      "latitude": 64.845362,
+      "longitude": 11.26803
+    },
+    {
+      "name": "Bussesundet",
+      "latitude": 63.578014,
+      "longitude": 8.343687
+    },
+    {
+      "name": "Bussesundet",
+      "latitude": 67.055997,
+      "longitude": 13.708078
+    },
+    {
+      "name": "Bustviksundet",
+      "latitude": 63.670207,
+      "longitude": 8.378267
+    },
+    {
+      "name": "Busøysundet",
+      "latitude": 67.139336,
+      "longitude": 13.993086
+    },
+    {
+      "name": "Butterøysvaet",
+      "latitude": 63.67944,
+      "longitude": 8.311487
+    },
+    {
+      "name": "Buøysundet",
+      "latitude": 58.000008,
+      "longitude": 7.557769
+    },
+    {
+      "name": "Bygda - Bikta",
+      "latitude": 68.825921,
+      "longitude": 17.1388
+    },
+    {
+      "name": "Bygdesundet",
+      "latitude": 68.767218,
+      "longitude": 16.158412
+    },
+    {
+      "name": "Bygdissundet",
+      "latitude": 61.328925,
+      "longitude": 8.750975
+    },
+    {
+      "name": "Båhus",
+      "latitude": 60.461919,
+      "longitude": 10.23065
+    },
+    {
+      "name": "Bårdholmsundet",
+      "latitude": 59.896802,
+      "longitude": 5.197591
+    },
+    {
+      "name": "Bårdsetsundet",
+      "latitude": 70.125679,
+      "longitude": 19.030323
+    },
+    {
+      "name": "Båsmannsundet",
+      "latitude": 63.670031,
+      "longitude": 8.274229
+    },
+    {
+      "name": "Børildosen",
+      "latitude": 60.812945,
+      "longitude": 4.867744
+    },
+    {
+      "name": "Børøysundet",
+      "latitude": 63.571132,
+      "longitude": 9.196411
+    },
+    {
+      "name": "Børøysundet",
+      "latitude": 68.839007,
+      "longitude": 14.832308
+    },
+    {
+      "name": "Bøverøysundet",
+      "latitude": 63.338739,
+      "longitude": 7.949123
+    },
+    {
+      "name": "Bøyversund",
+      "latitude": 58.10379,
+      "longitude": 6.95485
+    },
+    {
+      "name": "Dalasundet",
+      "latitude": 63.125729,
+      "longitude": 7.781121
+    },
+    {
+      "name": "Dalasundet",
+      "latitude": 63.767811,
+      "longitude": 8.730045
+    },
+    {
+      "name": "Dalesundet",
+      "latitude": 58.261879,
+      "longitude": 8.445263
+    },
+    {
+      "name": "Dampleia",
+      "latitude": 63.309695,
+      "longitude": 8.055435
+    },
+    {
+      "name": "Dampsundet",
+      "latitude": 66.654361,
+      "longitude": 13.080197
+    },
+    {
+      "name": "Damsgårdssundet",
+      "latitude": 60.381186,
+      "longitude": 5.324257
+    },
+    {
+      "name": "Danmarksundet",
+      "latitude": 59.585782,
+      "longitude": 5.144276
+    },
+    {
+      "name": "Daudmannsøysvaet",
+      "latitude": 63.861856,
+      "longitude": 8.613174
+    },
+    {
+      "name": "Digernessundet",
+      "latitude": 59.747618,
+      "longitude": 5.409679
+    },
+    {
+      "name": "Digernessundet",
+      "latitude": 62.502412,
+      "longitude": 6.599092
+    },
+    {
+      "name": "Djupleia",
+      "latitude": 63.533442,
+      "longitude": 8.336065
+    },
+    {
+      "name": "Djupleia",
+      "latitude": 65.616407,
+      "longitude": 11.380757
+    },
+    {
+      "name": "Djupleia",
+      "latitude": 68.37632,
+      "longitude": 14.109792
+    },
+    {
+      "name": "Djupråsa",
+      "latitude": 65.09798,
+      "longitude": 11.017914
+    },
+    {
+      "name": "Djupråsleia",
+      "latitude": 64.449395,
+      "longitude": 10.513773
+    },
+    {
+      "name": "Djupsundet",
+      "latitude": 60.472369,
+      "longitude": 10.259147
+    },
+    {
+      "name": "Djupsundet",
+      "latitude": 63.499225,
+      "longitude": 7.956259
+    },
+    {
+      "name": "Djupsundet",
+      "latitude": 63.522624,
+      "longitude": 9.116249
+    },
+    {
+      "name": "Djupta",
+      "latitude": 69.942903,
+      "longitude": 18.49411
+    },
+    {
+      "name": "Dolmsundet",
+      "latitude": 63.635381,
+      "longitude": 8.757631
+    },
+    {
+      "name": "Dolmsundet",
+      "latitude": 65.008765,
+      "longitude": 11.648569
+    },
+    {
+      "name": "Drageidsvaet",
+      "latitude": 63.517835,
+      "longitude": 8.345876
+    },
+    {
+      "name": "Draget",
+      "latitude": 60.522494,
+      "longitude": 10.184283
+    },
+    {
+      "name": "Dragskjærsvaet",
+      "latitude": 63.44562,
+      "longitude": 8.277749
+    },
+    {
+      "name": "Dragsnesstraumen",
+      "latitude": 63.790637,
+      "longitude": 8.755846
+    },
+    {
+      "name": "Dragspøyta",
+      "latitude": 64.923384,
+      "longitude": 11.068239
+    },
+    {
+      "name": "Dragsundet",
+      "latitude": 62.283315,
+      "longitude": 5.831697
+    },
+    {
+      "name": "Dragsundet",
+      "latitude": 62.490672,
+      "longitude": 6.723929
+    },
+    {
+      "name": "Dragsundet",
+      "latitude": 67.136064,
+      "longitude": 13.918764
+    },
+    {
+      "name": "Dragsundet",
+      "latitude": 67.556479,
+      "longitude": 14.659083
+    },
+    {
+      "name": "Dragvalen",
+      "latitude": 63.79804,
+      "longitude": 8.425044
+    },
+    {
+      "name": "Drevflesleia",
+      "latitude": 64.211062,
+      "longitude": 10.096521
+    },
+    {
+      "name": "Drevsundet",
+      "latitude": 59.883827,
+      "longitude": 5.058983
+    },
+    {
+      "name": "Drivøyosen",
+      "latitude": 61.214623,
+      "longitude": 4.789066
+    },
+    {
+      "name": "Dromnessundet",
+      "latitude": 63.380234,
+      "longitude": 8.660901
+    },
+    {
+      "name": "Drøbaksundet",
+      "latitude": 59.664402,
+      "longitude": 10.611589
+    },
+    {
+      "name": "Dunkersundet",
+      "latitude": 63.123808,
+      "longitude": 7.759587
+    },
+    {
+      "name": "Dybingen",
+      "latitude": 58.128933,
+      "longitude": 8.001481
+    },
+    {
+      "name": "Dypesund",
+      "latitude": 58.259876,
+      "longitude": 8.512229
+    },
+    {
+      "name": "Dyrviksvaet",
+      "latitude": 63.759778,
+      "longitude": 8.829604
+    },
+    {
+      "name": "Dyrøysundet",
+      "latitude": 62.504106,
+      "longitude": 6.46524
+    },
+    {
+      "name": "Dyrøysundet",
+      "latitude": 69.056417,
+      "longitude": 17.556166
+    },
+    {
+      "name": "Dyrøysvaet",
+      "latitude": 63.775605,
+      "longitude": 8.641128
+    },
+    {
+      "name": "Dyrøysvaet",
+      "latitude": 63.775715,
+      "longitude": 8.642697
+    },
+    {
+      "name": "Døløyråsa",
+      "latitude": 64.534862,
+      "longitude": 10.737991
+    },
+    {
+      "name": "Dønnessundet",
+      "latitude": 66.019576,
+      "longitude": 12.37587
+    },
+    {
+      "name": "Edøykåsa",
+      "latitude": 65.793345,
+      "longitude": 12.033892
+    },
+    {
+      "name": "Edøysundet",
+      "latitude": 63.57389,
+      "longitude": 8.360937
+    },
+    {
+      "name": "Eggværsund",
+      "latitude": 57.988261,
+      "longitude": 7.620189
+    },
+    {
+      "name": "Eggøyosen",
+      "latitude": 59.922255,
+      "longitude": 5.153884
+    },
+    {
+      "name": "Eidet",
+      "latitude": 66.83579,
+      "longitude": 13.671927
+    },
+    {
+      "name": "Eidsundet",
+      "latitude": 62.431408,
+      "longitude": 6.3204
+    },
+    {
+      "name": "Eigelandsrenna",
+      "latitude": 57.971082,
+      "longitude": 7.507453
+    },
+    {
+      "name": "Einvikråsa",
+      "latitude": 64.512847,
+      "longitude": 10.814667
+    },
+    {
+      "name": "Eiret",
+      "latitude": 59.997548,
+      "longitude": 9.528307
+    },
+    {
+      "name": "Ekenessundet",
+      "latitude": 59.232999,
+      "longitude": 10.438396
+    },
+    {
+      "name": "Ellensundet",
+      "latitude": 69.106948,
+      "longitude": 28.886205
+    },
+    {
+      "name": "Ellesviksundet",
+      "latitude": 63.678306,
+      "longitude": 9.099178
+    },
+    {
+      "name": "Ellingsundet",
+      "latitude": 63.763104,
+      "longitude": 8.821198
+    },
+    {
+      "name": "Elva",
+      "latitude": 58.296226,
+      "longitude": 6.66296
+    },
+    {
+      "name": "Engesundet",
+      "latitude": 59.92493,
+      "longitude": 5.251393
+    },
+    {
+      "name": "Engøysundet",
+      "latitude": 58.979513,
+      "longitude": 5.74214
+    },
+    {
+      "name": "Engøysundet",
+      "latitude": 67.529947,
+      "longitude": 14.62529
+    },
+    {
+      "name": "Engøysundet",
+      "latitude": 68.16743,
+      "longitude": 14.2231
+    },
+    {
+      "name": "Erikstadfjordstraumen",
+      "latitude": 68.429501,
+      "longitude": 15.840769
+    },
+    {
+      "name": "Ertneskjærleia",
+      "latitude": 62.916795,
+      "longitude": 6.641578
+    },
+    {
+      "name": "Ertnråsa",
+      "latitude": 64.971805,
+      "longitude": 10.624552
+    },
+    {
+      "name": "Esjeholmsundet",
+      "latitude": 66.635153,
+      "longitude": 13.222067
+    },
+    {
+      "name": "Etnesundet",
+      "latitude": 59.646413,
+      "longitude": 5.795835
+    },
+    {
+      "name": "Ettersundosen",
+      "latitude": 60.390974,
+      "longitude": 5.087643
+    },
+    {
+      "name": "Evjeosen",
+      "latitude": 67.082056,
+      "longitude": 14.391683
+    },
+    {
+      "name": "Evjestraumen",
+      "latitude": 68.275567,
+      "longitude": 13.738174
+    },
+    {
+      "name": "Evjesundet",
+      "latitude": 67.204199,
+      "longitude": 14.515557
+    },
+    {
+      "name": "Fagernesstraumen - Čoalbmi",
+      "latitude": 68.410434,
+      "longitude": 17.416248
+    },
+    {
+      "name": "Faksvågsvaet",
+      "latitude": 63.55519,
+      "longitude": 8.418496
+    },
+    {
+      "name": "Fallsundet",
+      "latitude": 67.152244,
+      "longitude": 13.958456
+    },
+    {
+      "name": "Fantheia",
+      "latitude": 58.744682,
+      "longitude": 9.293676
+    },
+    {
+      "name": "Fantoddsund",
+      "latitude": 58.553543,
+      "longitude": 8.967719
+    },
+    {
+      "name": "Farøysundet",
+      "latitude": 58.093797,
+      "longitude": 6.809528
+    },
+    {
+      "name": "Fauskråsa",
+      "latitude": 64.508186,
+      "longitude": 10.623865
+    },
+    {
+      "name": "Ferjesundet",
+      "latitude": 67.085642,
+      "longitude": 14.426769
+    },
+    {
+      "name": "Feøysundet",
+      "latitude": 63.595038,
+      "longitude": 8.48578
+    },
+    {
+      "name": "Finnsnesrenna",
+      "latitude": 69.242389,
+      "longitude": 17.965264
+    },
+    {
+      "name": "Finnøyfjorden",
+      "latitude": 59.166494,
+      "longitude": 5.888372
+    },
+    {
+      "name": "Finnøysund",
+      "latitude": 58.733934,
+      "longitude": 9.223705
+    },
+    {
+      "name": "Finnøysundet",
+      "latitude": 58.03428,
+      "longitude": 7.204742
+    },
+    {
+      "name": "Fisersundet",
+      "latitude": 58.020386,
+      "longitude": 6.998319
+    },
+    {
+      "name": "Fiskekjerfossen",
+      "latitude": 58.428808,
+      "longitude": 8.036872
+    },
+    {
+      "name": "Fiskholmsundet",
+      "latitude": 61.762868,
+      "longitude": 4.930692
+    },
+    {
+      "name": "Fitjastredet",
+      "latitude": 63.668462,
+      "longitude": 8.313955
+    },
+    {
+      "name": "Fjelbergsundet",
+      "latitude": 59.736842,
+      "longitude": 5.695301
+    },
+    {
+      "name": "Fjellvika",
+      "latitude": 67.196612,
+      "longitude": 14.576735
+    },
+    {
+      "name": "Fjonesund",
+      "latitude": 59.177781,
+      "longitude": 8.485769
+    },
+    {
+      "name": "Fjordmunnsvaet",
+      "latitude": 63.670951,
+      "longitude": 8.462378
+    },
+    {
+      "name": "Fjære",
+      "latitude": 67.400299,
+      "longitude": 13.90572
+    },
+    {
+      "name": "Fjørtoftfjorden",
+      "latitude": 62.723473,
+      "longitude": 6.419385
+    },
+    {
+      "name": "Flagdasundet",
+      "latitude": 59.590705,
+      "longitude": 5.139161
+    },
+    {
+      "name": "Flagsundet",
+      "latitude": 67.903552,
+      "longitude": 15.060407
+    },
+    {
+      "name": "Flaket",
+      "latitude": 67.846652,
+      "longitude": 14.667778
+    },
+    {
+      "name": "Flatholmsundet",
+      "latitude": 62.894383,
+      "longitude": 6.81712
+    },
+    {
+      "name": "Flatskjærsundet",
+      "latitude": 67.092428,
+      "longitude": 13.751475
+    },
+    {
+      "name": "Flatvalsundet",
+      "latitude": 63.687246,
+      "longitude": 8.757563
+    },
+    {
+      "name": "Flatøysundet",
+      "latitude": 63.761467,
+      "longitude": 8.867304
+    },
+    {
+      "name": "Flatøysundet",
+      "latitude": 69.036956,
+      "longitude": 16.498461
+    },
+    {
+      "name": "Fleinsundet",
+      "latitude": 67.119726,
+      "longitude": 13.908262
+    },
+    {
+      "name": "Flekksund",
+      "latitude": 58.093294,
+      "longitude": 7.999274
+    },
+    {
+      "name": "Flesafjorden",
+      "latitude": 64.086406,
+      "longitude": 9.938678
+    },
+    {
+      "name": "Flesahølen",
+      "latitude": 63.90498,
+      "longitude": 8.748078
+    },
+    {
+      "name": "Fleskøysundet",
+      "latitude": 59.822515,
+      "longitude": 5.13206
+    },
+    {
+      "name": "Flua",
+      "latitude": 64.209029,
+      "longitude": 10.270457
+    },
+    {
+      "name": "Fløytesund",
+      "latitude": 58.311727,
+      "longitude": 8.600782
+    },
+    {
+      "name": "Folefotsundet",
+      "latitude": 60.981955,
+      "longitude": 5.033841
+    },
+    {
+      "name": "Fonnosen",
+      "latitude": 59.929015,
+      "longitude": 5.275412
+    },
+    {
+      "name": "Forøysundet",
+      "latitude": 68.631624,
+      "longitude": 15.848499
+    },
+    {
+      "name": "Fosnstraumen",
+      "latitude": 60.730553,
+      "longitude": 4.971335
+    },
+    {
+      "name": "Fosseholmsundet",
+      "latitude": 58.084717,
+      "longitude": 7.96397
+    },
+    {
+      "name": "Fossnakken",
+      "latitude": 69.527209,
+      "longitude": 30.140476
+    },
+    {
+      "name": "Freemansundet",
+      "latitude": 78.230189,
+      "longitude": 21.529536
+    },
+    {
+      "name": "Frekasund",
+      "latitude": 59.273558,
+      "longitude": 5.474907
+    },
+    {
+      "name": "Frufokosen",
+      "latitude": 59.904237,
+      "longitude": 5.072708
+    },
+    {
+      "name": "Frygdesundet",
+      "latitude": 57.986858,
+      "longitude": 7.597906
+    },
+    {
+      "name": "Frøviksundet",
+      "latitude": 65.060803,
+      "longitude": 11.65384
+    },
+    {
+      "name": "Frøyhavet",
+      "latitude": 63.752884,
+      "longitude": 8.398994
+    },
+    {
+      "name": "Frøynsundet",
+      "latitude": 58.748878,
+      "longitude": 9.088253
+    },
+    {
+      "name": "Fuglesundet",
+      "latitude": 61.764055,
+      "longitude": 4.932174
+    },
+    {
+      "name": "Fuglevigsundet",
+      "latitude": 58.140799,
+      "longitude": 8.052478
+    },
+    {
+      "name": "Fuglholmsundet",
+      "latitude": 64.173627,
+      "longitude": 9.412107
+    },
+    {
+      "name": "Fugløysundet",
+      "latitude": 70.218694,
+      "longitude": 20.364188
+    },
+    {
+      "name": "Fugløysveet",
+      "latitude": 70.071378,
+      "longitude": 18.53445
+    },
+    {
+      "name": "Furuvikvalen",
+      "latitude": 63.558042,
+      "longitude": 8.496199
+    },
+    {
+      "name": "Furøysund",
+      "latitude": 58.602826,
+      "longitude": 8.959645
+    },
+    {
+      "name": "Fyllingssmalet",
+      "latitude": 60.075252,
+      "longitude": 10.629893
+    },
+    {
+      "name": "Færøysundet",
+      "latitude": 57.993347,
+      "longitude": 7.495428
+    },
+    {
+      "name": "Færøysundet",
+      "latitude": 58.05784,
+      "longitude": 6.820071
+    },
+    {
+      "name": "Færøysundet",
+      "latitude": 61.578139,
+      "longitude": 4.972301
+    },
+    {
+      "name": "Færøysundet",
+      "latitude": 65.989592,
+      "longitude": 12.249434
+    },
+    {
+      "name": "Fættastraumen",
+      "latitude": 63.632845,
+      "longitude": 9.038166
+    },
+    {
+      "name": "Følsundet",
+      "latitude": 57.999291,
+      "longitude": 6.984936
+    },
+    {
+      "name": "Førnessundet",
+      "latitude": 59.865072,
+      "longitude": 8.067755
+    },
+    {
+      "name": "Gaffelskjersundet",
+      "latitude": 63.527333,
+      "longitude": 7.955102
+    },
+    {
+      "name": "Galtesund",
+      "latitude": 58.446225,
+      "longitude": 8.780317
+    },
+    {
+      "name": "Gambåtleia",
+      "latitude": 63.794655,
+      "longitude": 8.412856
+    },
+    {
+      "name": "Gamlegabet",
+      "latitude": 58.334631,
+      "longitude": 8.661857
+    },
+    {
+      "name": "Gammeløysundet",
+      "latitude": 58.085183,
+      "longitude": 7.985847
+    },
+    {
+      "name": "Gangstøosen",
+      "latitude": 60.375422,
+      "longitude": 5.074196
+    },
+    {
+      "name": "Gapet",
+      "latitude": 58.177556,
+      "longitude": 6.695373
+    },
+    {
+      "name": "Gapet",
+      "latitude": 58.887287,
+      "longitude": 9.625525
+    },
+    {
+      "name": "Garnbergholmsundet",
+      "latitude": 63.645055,
+      "longitude": 8.910219
+    },
+    {
+      "name": "Garnviksundet",
+      "latitude": 66.597583,
+      "longitude": 12.622278
+    },
+    {
+      "name": "Garranjavvi",
+      "latitude": 69.407636,
+      "longitude": 23.627842
+    },
+    {
+      "name": "Gartesundet",
+      "latitude": 58.720153,
+      "longitude": 9.121443
+    },
+    {
+      "name": "Gasjøysundet",
+      "latitude": 63.935496,
+      "longitude": 11.218171
+    },
+    {
+      "name": "Gassasundet",
+      "latitude": 59.733399,
+      "longitude": 5.35145
+    },
+    {
+      "name": "Geitungsundet",
+      "latitude": 59.691689,
+      "longitude": 5.12316
+    },
+    {
+      "name": "Geitøyvalen",
+      "latitude": 63.870898,
+      "longitude": 8.646964
+    },
+    {
+      "name": "Gillerøysundet",
+      "latitude": 57.984458,
+      "longitude": 7.608994
+    },
+    {
+      "name": "Gillingssundet",
+      "latitude": 67.734836,
+      "longitude": 14.558683
+    },
+    {
+      "name": "Gimlingsundet",
+      "latitude": 65.205776,
+      "longitude": 11.964369
+    },
+    {
+      "name": "Gimsafjorden",
+      "latitude": 65.245164,
+      "longitude": 11.755285
+    },
+    {
+      "name": "Gimsøystraumen",
+      "latitude": 68.264211,
+      "longitude": 14.236518
+    },
+    {
+      "name": "Giskesundet",
+      "latitude": 62.493759,
+      "longitude": 6.01716
+    },
+    {
+      "name": "Gisløyflaket",
+      "latitude": 68.927259,
+      "longitude": 15.274773
+    },
+    {
+      "name": "Gissøysundet",
+      "latitude": 59.632612,
+      "longitude": 5.162902
+    },
+    {
+      "name": "Gjelsøysvaet",
+      "latitude": 63.48089,
+      "longitude": 8.279362
+    },
+    {
+      "name": "Gjemnessundet",
+      "latitude": 62.967318,
+      "longitude": 7.788577
+    },
+    {
+      "name": "Gjengskøytet",
+      "latitude": 59.826741,
+      "longitude": 5.12894
+    },
+    {
+      "name": "Gjessestredet",
+      "latitude": 58.103867,
+      "longitude": 7.985961
+    },
+    {
+      "name": "Gjesøysund",
+      "latitude": 58.603578,
+      "longitude": 9.015566
+    },
+    {
+      "name": "Gjæsingbogen",
+      "latitude": 63.940358,
+      "longitude": 8.953972
+    },
+    {
+      "name": "Gjæsinghavet",
+      "latitude": 63.863439,
+      "longitude": 8.862705
+    },
+    {
+      "name": "Gjæsøysundet",
+      "latitude": 64.1751,
+      "longitude": 9.387066
+    },
+    {
+      "name": "Gjømma",
+      "latitude": 66.600167,
+      "longitude": 13.028719
+    },
+    {
+      "name": "Gjøssøysundet",
+      "latitude": 69.985406,
+      "longitude": 18.507532
+    },
+    {
+      "name": "Glasøysvaet",
+      "latitude": 63.351336,
+      "longitude": 8.214889
+    },
+    {
+      "name": "Glaupa",
+      "latitude": 63.636563,
+      "longitude": 8.873152
+    },
+    {
+      "name": "Gnaget",
+      "latitude": 64.156062,
+      "longitude": 10.161688
+    },
+    {
+      "name": "Godøystraumen - Gåddjåstrávve",
+      "latitude": 67.240087,
+      "longitude": 14.710992
+    },
+    {
+      "name": "Golmsundet",
+      "latitude": 63.167124,
+      "longitude": 7.908343
+    },
+    {
+      "name": "Graddstraumen",
+      "latitude": 67.235479,
+      "longitude": 15.006294
+    },
+    {
+      "name": "Granesundet",
+      "latitude": 61.366623,
+      "longitude": 5.026245
+    },
+    {
+      "name": "Greipingsosen",
+      "latitude": 60.493149,
+      "longitude": 4.851494
+    },
+    {
+      "name": "Grimen",
+      "latitude": 66.611581,
+      "longitude": 12.932968
+    },
+    {
+      "name": "Grimesundet",
+      "latitude": 59.98844,
+      "longitude": 9.509493
+    },
+    {
+      "name": "Grotholmsundet",
+      "latitude": 57.997141,
+      "longitude": 6.998315
+    },
+    {
+      "name": "Grunnasundet",
+      "latitude": 59.799584,
+      "longitude": 5.101583
+    },
+    {
+      "name": "Grunnesund",
+      "latitude": 58.000653,
+      "longitude": 7.333375
+    },
+    {
+      "name": "Grunnesund",
+      "latitude": 58.719669,
+      "longitude": 9.252158
+    },
+    {
+      "name": "Grunnsundet",
+      "latitude": 63.672602,
+      "longitude": 9.10977
+    },
+    {
+      "name": "Grytøvalen",
+      "latitude": 66.487714,
+      "longitude": 12.879664
+    },
+    {
+      "name": "Gråmsløpet",
+      "latitude": 58.221567,
+      "longitude": 8.046067
+    },
+    {
+      "name": "Grøftsundet",
+      "latitude": 63.376525,
+      "longitude": 7.796618
+    },
+    {
+      "name": "Grønfjorden",
+      "latitude": 66.973467,
+      "longitude": 13.147887
+    },
+    {
+      "name": "Grønholmgapet",
+      "latitude": 58.747008,
+      "longitude": 9.348633
+    },
+    {
+      "name": "Grønholmsundet",
+      "latitude": 67.555893,
+      "longitude": 14.604848
+    },
+    {
+      "name": "Grønnholmsundet",
+      "latitude": 67.122858,
+      "longitude": 13.933461
+    },
+    {
+      "name": "Grønningrenna",
+      "latitude": 58.073768,
+      "longitude": 8.034511
+    },
+    {
+      "name": "Grønsund",
+      "latitude": 59.878171,
+      "longitude": 10.765019
+    },
+    {
+      "name": "Grøtsundet",
+      "latitude": 69.803973,
+      "longitude": 19.400344
+    },
+    {
+      "name": "Gullosen",
+      "latitude": 60.722484,
+      "longitude": 4.854262
+    },
+    {
+      "name": "Gullskitleia",
+      "latitude": 63.853077,
+      "longitude": 8.393769
+    },
+    {
+      "name": "Gunningssundet",
+      "latitude": 58.002611,
+      "longitude": 7.399972
+    },
+    {
+      "name": "Gurafjorden",
+      "latitude": 66.738353,
+      "longitude": 12.52224
+    },
+    {
+      "name": "Gyltingshamna",
+      "latitude": 63.770084,
+      "longitude": 9.370072
+    },
+    {
+      "name": "Gårdasundet",
+      "latitude": 63.978104,
+      "longitude": 9.092449
+    },
+    {
+      "name": "Gåsværfjorden",
+      "latitude": 66.016932,
+      "longitude": 12.01621
+    },
+    {
+      "name": "Gåsværosen",
+      "latitude": 61.190917,
+      "longitude": 4.723091
+    },
+    {
+      "name": "Hadselfjorden",
+      "latitude": 68.501558,
+      "longitude": 14.95867
+    },
+    {
+      "name": "Hagelsundet",
+      "latitude": 60.54291,
+      "longitude": 5.273373
+    },
+    {
+      "name": "Hagerholmsundet",
+      "latitude": 67.101297,
+      "longitude": 13.763642
+    },
+    {
+      "name": "Haldenkanalen",
+      "latitude": 59.646616,
+      "longitude": 11.561969
+    },
+    {
+      "name": "Hamna",
+      "latitude": 66.361447,
+      "longitude": 12.887014
+    },
+    {
+      "name": "Hamnasundet",
+      "latitude": 63.24961,
+      "longitude": 8.182311
+    },
+    {
+      "name": "Hamran",
+      "latitude": 67.424574,
+      "longitude": 13.970767
+    },
+    {
+      "name": "Hamrefjorden",
+      "latitude": 70.137122,
+      "longitude": 19.589034
+    },
+    {
+      "name": "Hanasandsundet",
+      "latitude": 59.113331,
+      "longitude": 5.788379
+    },
+    {
+      "name": "Hanesund",
+      "latitude": 58.110255,
+      "longitude": 6.761965
+    },
+    {
+      "name": "Hankøsundet",
+      "latitude": 59.227672,
+      "longitude": 10.76867
+    },
+    {
+      "name": "Hanorsundet",
+      "latitude": 60.365187,
+      "longitude": 11.576459
+    },
+    {
+      "name": "Hansiksundet",
+      "latitude": 62.893355,
+      "longitude": 6.825577
+    },
+    {
+      "name": "Hanøyosen",
+      "latitude": 59.924557,
+      "longitude": 5.129614
+    },
+    {
+      "name": "Hanøysundet",
+      "latitude": 68.476396,
+      "longitude": 15.171437
+    },
+    {
+      "name": "Haramsfjorden",
+      "latitude": 62.63666,
+      "longitude": 6.202926
+    },
+    {
+      "name": "Hasteinsundet",
+      "latitude": 58.509898,
+      "longitude": 8.923723
+    },
+    {
+      "name": "Hattholmsundet",
+      "latitude": 58.003186,
+      "longitude": 7.447655
+    },
+    {
+      "name": "Haufatleia",
+      "latitude": 64.410225,
+      "longitude": 10.383253
+    },
+    {
+      "name": "Haugasundet",
+      "latitude": 59.045235,
+      "longitude": 5.667454
+    },
+    {
+      "name": "Haugsundet",
+      "latitude": 62.966763,
+      "longitude": 7.028031
+    },
+    {
+      "name": "Haukfjordsundet",
+      "latitude": 60.436103,
+      "longitude": 10.267508
+    },
+    {
+      "name": "Haustvalen",
+      "latitude": 63.982254,
+      "longitude": 9.091283
+    },
+    {
+      "name": "Haversundet",
+      "latitude": 63.342162,
+      "longitude": 10.575645
+    },
+    {
+      "name": "Havgapet",
+      "latitude": 63.69124,
+      "longitude": 8.334503
+    },
+    {
+      "name": "Havnsundet",
+      "latitude": 66.602794,
+      "longitude": 13.012817
+    },
+    {
+      "name": "Havrehavnen",
+      "latitude": 57.990317,
+      "longitude": 7.441431
+    },
+    {
+      "name": "Havsteinsundet",
+      "latitude": 64.548016,
+      "longitude": 10.894833
+    },
+    {
+      "name": "Havsundet",
+      "latitude": 63.808715,
+      "longitude": 9.445395
+    },
+    {
+      "name": "Havsundet",
+      "latitude": 64.176502,
+      "longitude": 9.416099
+    },
+    {
+      "name": "Havsundet",
+      "latitude": 67.106425,
+      "longitude": 13.764414
+    },
+    {
+      "name": "Havsundet",
+      "latitude": 67.160914,
+      "longitude": 13.716856
+    },
+    {
+      "name": "Havsøyfjorden",
+      "latitude": 58.430565,
+      "longitude": 8.784169
+    },
+    {
+      "name": "Havøysundet",
+      "latitude": 58.42307,
+      "longitude": 8.773926
+    },
+    {
+      "name": "Heggersundet",
+      "latitude": 66.758333,
+      "longitude": 12.468333
+    },
+    {
+      "name": "Heggestraumen",
+      "latitude": 62.501527,
+      "longitude": 6.620321
+    },
+    {
+      "name": "Heggholmløpet",
+      "latitude": 59.885653,
+      "longitude": 10.712199
+    },
+    {
+      "name": "Heggøyosen",
+      "latitude": 61.384451,
+      "longitude": 4.921832
+    },
+    {
+      "name": "Heggøysvaet",
+      "latitude": 63.315342,
+      "longitude": 8.109369
+    },
+    {
+      "name": "Heiaklova",
+      "latitude": 63.66717,
+      "longitude": 8.295349
+    },
+    {
+      "name": "Heimdalsbotnet",
+      "latitude": 64.542574,
+      "longitude": 11.563482
+    },
+    {
+      "name": "Heimsundet",
+      "latitude": 67.836383,
+      "longitude": 14.768358
+    },
+    {
+      "name": "Heimsundet",
+      "latitude": 68.154184,
+      "longitude": 14.206377
+    },
+    {
+      "name": "Helbogleia",
+      "latitude": 63.082469,
+      "longitude": 7.371792
+    },
+    {
+      "name": "Helgebustadsvaet",
+      "latitude": 63.577463,
+      "longitude": 8.515766
+    },
+    {
+      "name": "Helgøysund",
+      "latitude": 59.140066,
+      "longitude": 6.030696
+    },
+    {
+      "name": "Helgøysundet",
+      "latitude": 70.09547,
+      "longitude": 19.368553
+    },
+    {
+      "name": "Hellesundkanalen",
+      "latitude": 60.660928,
+      "longitude": 4.804465
+    },
+    {
+      "name": "Hellsøystraumen",
+      "latitude": 64.562463,
+      "longitude": 11.505802
+    },
+    {
+      "name": "Helnessundet",
+      "latitude": 67.729589,
+      "longitude": 14.766183
+    },
+    {
+      "name": "Helsøysundet",
+      "latitude": 63.534238,
+      "longitude": 8.384578
+    },
+    {
+      "name": "Henningsværstraumen",
+      "latitude": 68.184167,
+      "longitude": 14.150699
+    },
+    {
+      "name": "Henriksøysundet",
+      "latitude": 63.582657,
+      "longitude": 8.461231
+    },
+    {
+      "name": "Herdlesundet",
+      "latitude": 60.562573,
+      "longitude": 4.961854
+    },
+    {
+      "name": "Hernesundet",
+      "latitude": 60.686707,
+      "longitude": 4.742059
+    },
+    {
+      "name": "Herøysund",
+      "latitude": 58.309668,
+      "longitude": 8.570338
+    },
+    {
+      "name": "Hesnessund",
+      "latitude": 58.336123,
+      "longitude": 8.639795
+    },
+    {
+      "name": "Hessholmsundet",
+      "latitude": 62.888795,
+      "longitude": 6.816642
+    },
+    {
+      "name": "Hestadsundet",
+      "latitude": 66.047745,
+      "longitude": 12.52058
+    },
+    {
+      "name": "Hestesundet",
+      "latitude": 60.446606,
+      "longitude": 10.254973
+    },
+    {
+      "name": "Hestfallråsa",
+      "latitude": 64.528976,
+      "longitude": 10.632405
+    },
+    {
+      "name": "Hestfjord",
+      "latitude": 58.85241,
+      "longitude": 9.390378
+    },
+    {
+      "name": "Hestholmsundet",
+      "latitude": 58.058699,
+      "longitude": 6.907785
+    },
+    {
+      "name": "Hestnessundet",
+      "latitude": 63.584785,
+      "longitude": 8.584703
+    },
+    {
+      "name": "Hestviksvaet",
+      "latitude": 63.564426,
+      "longitude": 9.215093
+    },
+    {
+      "name": "Hestøysundet",
+      "latitude": 63.304411,
+      "longitude": 8.092472
+    },
+    {
+      "name": "Hestøysundet",
+      "latitude": 63.624206,
+      "longitude": 8.650138
+    },
+    {
+      "name": "Hestøysundet",
+      "latitude": 66.000781,
+      "longitude": 12.283552
+    },
+    {
+      "name": "Hestøysundet",
+      "latitude": 66.373272,
+      "longitude": 12.861108
+    },
+    {
+      "name": "Hestøysundet",
+      "latitude": 67.131069,
+      "longitude": 13.963772
+    },
+    {
+      "name": "Hestøysundet",
+      "latitude": 67.994603,
+      "longitude": 15.091081
+    },
+    {
+      "name": "Hestøyvalen",
+      "latitude": 63.75409,
+      "longitude": 8.622154
+    },
+    {
+      "name": "Hidrasundet",
+      "latitude": 58.242937,
+      "longitude": 6.571549
+    },
+    {
+      "name": "Hillbåleia",
+      "latitude": 63.303319,
+      "longitude": 7.712353
+    },
+    {
+      "name": "Hillbåleia",
+      "latitude": 63.304487,
+      "longitude": 7.719158
+    },
+    {
+      "name": "Hillesund",
+      "latitude": 58.019517,
+      "longitude": 7.349097
+    },
+    {
+      "name": "Hillesøyosen",
+      "latitude": 60.86673,
+      "longitude": 4.840894
+    },
+    {
+      "name": "Hillesøysundet",
+      "latitude": 59.809872,
+      "longitude": 5.099508
+    },
+    {
+      "name": "Hinlopenstretet",
+      "latitude": 79.744924,
+      "longitude": 18.406702
+    },
+    {
+      "name": "Hjartøysundet",
+      "latitude": 60.595709,
+      "longitude": 4.773202
+    },
+    {
+      "name": "Hjartøysundet",
+      "latitude": 67.28981,
+      "longitude": 14.335742
+    },
+    {
+      "name": "Hjellvollstraumen",
+      "latitude": 68.285974,
+      "longitude": 13.724896
+    },
+    {
+      "name": "Hjelløyvalen",
+      "latitude": 67.546072,
+      "longitude": 14.658749
+    },
+    {
+      "name": "Hjelmosen",
+      "latitude": 59.867426,
+      "longitude": 5.274353
+    },
+    {
+      "name": "Hjeltaholmssundet",
+      "latitude": 59.765895,
+      "longitude": 5.112714
+    },
+    {
+      "name": "Hjertøysundet",
+      "latitude": 63.633559,
+      "longitude": 8.670667
+    },
+    {
+      "name": "Hjertøysundet",
+      "latitude": 63.721973,
+      "longitude": 8.5745
+    },
+    {
+      "name": "Hobdesundet",
+      "latitude": 58.061961,
+      "longitude": 7.584047
+    },
+    {
+      "name": "Hofmannstraumen",
+      "latitude": 63.704606,
+      "longitude": 8.48656
+    },
+    {
+      "name": "Holasundet",
+      "latitude": 63.790522,
+      "longitude": 8.673107
+    },
+    {
+      "name": "Holkestadosen",
+      "latitude": 67.878922,
+      "longitude": 14.87112
+    },
+    {
+      "name": "Holmasundet",
+      "latitude": 59.708763,
+      "longitude": 5.159798
+    },
+    {
+      "name": "Holmasundet",
+      "latitude": 63.115041,
+      "longitude": 7.737836
+    },
+    {
+      "name": "Holmeosen",
+      "latitude": 59.64739,
+      "longitude": 5.13073
+    },
+    {
+      "name": "Holmesundet",
+      "latitude": 58.043258,
+      "longitude": 7.630828
+    },
+    {
+      "name": "Holmesundet",
+      "latitude": 69.547935,
+      "longitude": 19.077594
+    },
+    {
+      "name": "Holmsundet",
+      "latitude": 58.007816,
+      "longitude": 6.998198
+    },
+    {
+      "name": "Holmsundet",
+      "latitude": 67.839228,
+      "longitude": 12.780894
+    },
+    {
+      "name": "Holmsundet",
+      "latitude": 68.016367,
+      "longitude": 15.189025
+    },
+    {
+      "name": "Homsundet",
+      "latitude": 58.168209,
+      "longitude": 6.811393
+    },
+    {
+      "name": "Homvika",
+      "latitude": 57.992431,
+      "longitude": 7.60025
+    },
+    {
+      "name": "Honnesstraumen",
+      "latitude": 63.636523,
+      "longitude": 8.854981
+    },
+    {
+      "name": "Hopsosen",
+      "latitude": 61.062681,
+      "longitude": 4.866714
+    },
+    {
+      "name": "Hornsund",
+      "latitude": 76.968044,
+      "longitude": 15.598969
+    },
+    {
+      "name": "Horsholmsundet",
+      "latitude": 66.391814,
+      "longitude": 12.936917
+    },
+    {
+      "name": "Hortafjorden",
+      "latitude": 65.152231,
+      "longitude": 11.474018
+    },
+    {
+      "name": "Hovdesundet",
+      "latitude": 59.849135,
+      "longitude": 8.063484
+    },
+    {
+      "name": "Hovdkjeften",
+      "latitude": 68.25975,
+      "longitude": 13.78664
+    },
+    {
+      "name": "Hovøysundet",
+      "latitude": 65.241374,
+      "longitude": 12.356357
+    },
+    {
+      "name": "Hulløysundet",
+      "latitude": 68.03953,
+      "longitude": 16.252706
+    },
+    {
+      "name": "Hummaråsgapet",
+      "latitude": 58.205744,
+      "longitude": 6.580544
+    },
+    {
+      "name": "Hummulråsa",
+      "latitude": 64.957247,
+      "longitude": 11.388244
+    },
+    {
+      "name": "Humstadsundet",
+      "latitude": 63.988353,
+      "longitude": 10.182945
+    },
+    {
+      "name": "Hundsrauva",
+      "latitude": 66.59435,
+      "longitude": 13.0205
+    },
+    {
+      "name": "Hundsryggesundet",
+      "latitude": 59.904145,
+      "longitude": 5.280257
+    },
+    {
+      "name": "Hundsundet",
+      "latitude": 64.176025,
+      "longitude": 9.407022
+    },
+    {
+      "name": "Huskasdøysundet",
+      "latitude": 63.781034,
+      "longitude": 8.626728
+    },
+    {
+      "name": "Hustadsundet",
+      "latitude": 67.100914,
+      "longitude": 14.008386
+    },
+    {
+      "name": "Husvassundet",
+      "latitude": 59.002948,
+      "longitude": 8.631102
+    },
+    {
+      "name": "Husværleia",
+      "latitude": 65.915082,
+      "longitude": 12.144401
+    },
+    {
+      "name": "Husøysundet",
+      "latitude": 64.171655,
+      "longitude": 9.405423
+    },
+    {
+      "name": "Husøysundet",
+      "latitude": 67.728853,
+      "longitude": 14.575369
+    },
+    {
+      "name": "Hysholmleia",
+      "latitude": 70.013401,
+      "longitude": 18.524151
+    },
+    {
+      "name": "Håholmvalen",
+      "latitude": 63.747551,
+      "longitude": 8.550453
+    },
+    {
+      "name": "Håkksteinøysundet",
+      "latitude": 63.728629,
+      "longitude": 8.593626
+    },
+    {
+      "name": "Håkonsund",
+      "latitude": 58.627489,
+      "longitude": 9.109635
+    },
+    {
+      "name": "Hålissundet",
+      "latitude": 61.321685,
+      "longitude": 8.769305
+    },
+    {
+      "name": "Hårsøysundet",
+      "latitude": 57.994969,
+      "longitude": 7.568658
+    },
+    {
+      "name": "Håstraumen",
+      "latitude": 63.636912,
+      "longitude": 8.871002
+    },
+    {
+      "name": "Håsund",
+      "latitude": 58.254843,
+      "longitude": 8.441298
+    },
+    {
+      "name": "Håsund",
+      "latitude": 59.749436,
+      "longitude": 5.129709
+    },
+    {
+      "name": "Håsundet",
+      "latitude": 58.258719,
+      "longitude": 6.656899
+    },
+    {
+      "name": "Håvikstraumen",
+      "latitude": 63.560756,
+      "longitude": 8.591311
+    },
+    {
+      "name": "Håværfjorden",
+      "latitude": 66.723388,
+      "longitude": 12.536859
+    },
+    {
+      "name": "Håværkåsa",
+      "latitude": 66.721896,
+      "longitude": 12.587757
+    },
+    {
+      "name": "Håøysund",
+      "latitude": 58.028884,
+      "longitude": 6.987665
+    },
+    {
+      "name": "Håøysundet",
+      "latitude": 58.080046,
+      "longitude": 6.844627
+    },
+    {
+      "name": "Håøysundet",
+      "latitude": 58.080869,
+      "longitude": 6.835207
+    },
+    {
+      "name": "Høghaugsundet",
+      "latitude": 63.461863,
+      "longitude": 8.053815
+    },
+    {
+      "name": "Høyemed",
+      "latitude": 58.084393,
+      "longitude": 8.024752
+    },
+    {
+      "name": "Høylandssundet",
+      "latitude": 59.780356,
+      "longitude": 5.832453
+    },
+    {
+      "name": "Høynesleia",
+      "latitude": 68.344504,
+      "longitude": 13.892185
+    },
+    {
+      "name": "Høynesvøda",
+      "latitude": 68.33192,
+      "longitude": 13.900113
+    },
+    {
+      "name": "Idsalsundet",
+      "latitude": 58.973734,
+      "longitude": 5.997508
+    },
+    {
+      "name": "Idsesundet",
+      "latitude": 58.978252,
+      "longitude": 5.96903
+    },
+    {
+      "name": "Ilholmsundet",
+      "latitude": 67.063381,
+      "longitude": 13.617186
+    },
+    {
+      "name": "Imarsundet",
+      "latitude": 63.201446,
+      "longitude": 8.281315
+    },
+    {
+      "name": "Indre Klaklasundet",
+      "latitude": 63.335953,
+      "longitude": 8.117511
+    },
+    {
+      "name": "Indre Naudesundet",
+      "latitude": 58.077179,
+      "longitude": 7.106341
+    },
+    {
+      "name": "Indre Rona",
+      "latitude": 58.158947,
+      "longitude": 8.102397
+    },
+    {
+      "name": "Indre Steinsundet",
+      "latitude": 61.054269,
+      "longitude": 4.819465
+    },
+    {
+      "name": "Indre Styrsundet",
+      "latitude": 63.271052,
+      "longitude": 8.268469
+    },
+    {
+      "name": "Indre Svinøysundet",
+      "latitude": 62.480296,
+      "longitude": 6.286679
+    },
+    {
+      "name": "Indre Vambusundet",
+      "latitude": 63.352643,
+      "longitude": 7.870558
+    },
+    {
+      "name": "Indre Vikleisundet",
+      "latitude": 63.672728,
+      "longitude": 8.278576
+    },
+    {
+      "name": "Indre Ørpegapet",
+      "latitude": 58.006936,
+      "longitude": 7.594892
+    },
+    {
+      "name": "Indreleia",
+      "latitude": 62.869187,
+      "longitude": 6.822724
+    },
+    {
+      "name": "Indresund",
+      "latitude": 58.124714,
+      "longitude": 8.209606
+    },
+    {
+      "name": "Indresundet",
+      "latitude": 58.061826,
+      "longitude": 7.0088
+    },
+    {
+      "name": "Innerstraumen",
+      "latitude": 68.374802,
+      "longitude": 15.670651
+    },
+    {
+      "name": "Innersund",
+      "latitude": 58.683056,
+      "longitude": 9.221589
+    },
+    {
+      "name": "Innersundet",
+      "latitude": 63.666251,
+      "longitude": 8.307842
+    },
+    {
+      "name": "Innmykøykåsa",
+      "latitude": 66.728748,
+      "longitude": 12.480855
+    },
+    {
+      "name": "Islendingsundet",
+      "latitude": 66.561086,
+      "longitude": 12.606381
+    },
+    {
+      "name": "Ivarsøyosen",
+      "latitude": 59.928635,
+      "longitude": 5.22666
+    },
+    {
+      "name": "Ivarsøyråsa",
+      "latitude": 64.508287,
+      "longitude": 10.70481
+    },
+    {
+      "name": "Ivarøysundet",
+      "latitude": 66.629064,
+      "longitude": 13.27685
+    },
+    {
+      "name": "Jakterenna",
+      "latitude": 58.722797,
+      "longitude": 9.259156
+    },
+    {
+      "name": "Jaktesund",
+      "latitude": 58.257589,
+      "longitude": 8.50917
+    },
+    {
+      "name": "Jektvikstraumen",
+      "latitude": 64.588625,
+      "longitude": 11.604202
+    },
+    {
+      "name": "Joavnnanjavvi",
+      "latitude": 69.0948,
+      "longitude": 23.253914
+    },
+    {
+      "name": "Johølet",
+      "latitude": 63.959983,
+      "longitude": 11.257658
+    },
+    {
+      "name": "Jomfrulandsrenna",
+      "latitude": 58.863284,
+      "longitude": 9.574622
+    },
+    {
+      "name": "Joøyvalen",
+      "latitude": 63.282595,
+      "longitude": 7.867836
+    },
+    {
+      "name": "Julsundet",
+      "latitude": 62.807826,
+      "longitude": 6.969967
+    },
+    {
+      "name": "Justnessundet",
+      "latitude": 58.192971,
+      "longitude": 8.043065
+    },
+    {
+      "name": "Jåskjærsundet",
+      "latitude": 57.970622,
+      "longitude": 7.501922
+    },
+    {
+      "name": "Jøsundet",
+      "latitude": 63.353517,
+      "longitude": 7.889281
+    },
+    {
+      "name": "Kaldhammarsundet",
+      "latitude": 68.866356,
+      "longitude": 14.959366
+    },
+    {
+      "name": "Kallarsundet",
+      "latitude": 63.323474,
+      "longitude": 8.04461
+    },
+    {
+      "name": "Kallsundet",
+      "latitude": 63.67018,
+      "longitude": 8.312448
+    },
+    {
+      "name": "Kalvarsundet",
+      "latitude": 58.041963,
+      "longitude": 6.913775
+    },
+    {
+      "name": "Kalvasundet",
+      "latitude": 59.691886,
+      "longitude": 5.090633
+    },
+    {
+      "name": "Kalvasundet",
+      "latitude": 59.826043,
+      "longitude": 5.062279
+    },
+    {
+      "name": "Kalvavalen",
+      "latitude": 63.577334,
+      "longitude": 8.424893
+    },
+    {
+      "name": "Kalvefjorden",
+      "latitude": 58.589282,
+      "longitude": 8.998926
+    },
+    {
+      "name": "Kalven",
+      "latitude": 58.327205,
+      "longitude": 8.605272
+    },
+    {
+      "name": "Kalvesundet",
+      "latitude": 60.132452,
+      "longitude": 10.645575
+    },
+    {
+      "name": "Kalvesundet",
+      "latitude": 61.585073,
+      "longitude": 4.960531
+    },
+    {
+      "name": "Kalvhagen",
+      "latitude": 67.137519,
+      "longitude": 13.986503
+    },
+    {
+      "name": "Kalvholmkeilo",
+      "latitude": 67.109719,
+      "longitude": 13.828972
+    },
+    {
+      "name": "Kalvholmsundet",
+      "latitude": 67.106411,
+      "longitude": 13.8292
+    },
+    {
+      "name": "Kalvikstraumen",
+      "latitude": 63.228306,
+      "longitude": 8.522997
+    },
+    {
+      "name": "Kalvleira",
+      "latitude": 67.050744,
+      "longitude": 13.705233
+    },
+    {
+      "name": "Kalvsundet",
+      "latitude": 59.042196,
+      "longitude": 9.740839
+    },
+    {
+      "name": "Kalvsundet",
+      "latitude": 59.865547,
+      "longitude": 10.749235
+    },
+    {
+      "name": "Kalvvalen",
+      "latitude": 63.273346,
+      "longitude": 7.97175
+    },
+    {
+      "name": "Kalvøyleia",
+      "latitude": 67.167111,
+      "longitude": 13.797364
+    },
+    {
+      "name": "Kalvøysund",
+      "latitude": 58.094436,
+      "longitude": 8.101625
+    },
+    {
+      "name": "Kalvøysundet",
+      "latitude": 62.484306,
+      "longitude": 6.316484
+    },
+    {
+      "name": "Kalvøysundet",
+      "latitude": 63.356706,
+      "longitude": 7.862913
+    },
+    {
+      "name": "Kammaren",
+      "latitude": 63.669336,
+      "longitude": 8.313253
+    },
+    {
+      "name": "Kamøysundet",
+      "latitude": 70.82523,
+      "longitude": 23.060303
+    },
+    {
+      "name": "Kanalen",
+      "latitude": 60.636245,
+      "longitude": 5.494834
+    },
+    {
+      "name": "Kanalen",
+      "latitude": 63.218805,
+      "longitude": 7.592115
+    },
+    {
+      "name": "Kanstadstraumen - Gánasstrávvi",
+      "latitude": 68.465123,
+      "longitude": 15.884846
+    },
+    {
+      "name": "Karihavet",
+      "latitude": 59.89448,
+      "longitude": 5.108131
+    },
+    {
+      "name": "Karlsøysundet - Gálssánuorri",
+      "latitude": 69.999692,
+      "longitude": 19.861565
+    },
+    {
+      "name": "Karlsøyvalen",
+      "latitude": 63.794854,
+      "longitude": 9.381108
+    },
+    {
+      "name": "Karmsundet",
+      "latitude": 59.313314,
+      "longitude": 5.322896
+    },
+    {
+      "name": "Karmsundet",
+      "latitude": 59.373955,
+      "longitude": 5.296553
+    },
+    {
+      "name": "Karmsundet",
+      "latitude": 59.375991,
+      "longitude": 5.295577
+    },
+    {
+      "name": "Karmsundet",
+      "latitude": 59.400026,
+      "longitude": 5.26492
+    },
+    {
+      "name": "Kattespinå",
+      "latitude": 59.590444,
+      "longitude": 5.140096
+    },
+    {
+      "name": "Kattsundet",
+      "latitude": 65.478779,
+      "longitude": 12.146909
+    },
+    {
+      "name": "Kaupangsmynnet",
+      "latitude": 61.171951,
+      "longitude": 7.251798
+    },
+    {
+      "name": "Kaurleia",
+      "latitude": 64.257099,
+      "longitude": 10.09695
+    },
+    {
+      "name": "Kavlesundet",
+      "latitude": 62.443234,
+      "longitude": 6.277943
+    },
+    {
+      "name": "Keila",
+      "latitude": 63.518687,
+      "longitude": 7.95581
+    },
+    {
+      "name": "Kilen",
+      "latitude": 58.056341,
+      "longitude": 6.780737
+    },
+    {
+      "name": "Kilsundet",
+      "latitude": 58.014794,
+      "longitude": 7.010805
+    },
+    {
+      "name": "Kilsundet",
+      "latitude": 58.551559,
+      "longitude": 8.984287
+    },
+    {
+      "name": "Kinnarosen",
+      "latitude": 60.241983,
+      "longitude": 5.227089
+    },
+    {
+      "name": "Kippersundet",
+      "latitude": 62.903249,
+      "longitude": 6.909771
+    },
+    {
+      "name": "Kiranssundet",
+      "latitude": 64.126392,
+      "longitude": 10.116898
+    },
+    {
+      "name": "Kirkesund",
+      "latitude": 58.101493,
+      "longitude": 8.103413
+    },
+    {
+      "name": "Kirkesundet",
+      "latitude": 58.074647,
+      "longitude": 8.013491
+    },
+    {
+      "name": "Kistastraumen",
+      "latitude": 66.632843,
+      "longitude": 13.379794
+    },
+    {
+      "name": "Kistesundet",
+      "latitude": 60.260667,
+      "longitude": 5.212417
+    },
+    {
+      "name": "Kjellingsundet",
+      "latitude": 67.077762,
+      "longitude": 14.302022
+    },
+    {
+      "name": "Kjerfjordstraumen",
+      "latitude": 68.445887,
+      "longitude": 16.158429
+    },
+    {
+      "name": "Kjeringesundet",
+      "latitude": 59.798358,
+      "longitude": 5.102178
+    },
+    {
+      "name": "Kjerkesundet",
+      "latitude": 58.007022,
+      "longitude": 7.188672
+    },
+    {
+      "name": "Kjerkesundet",
+      "latitude": 58.131691,
+      "longitude": 8.04691
+    },
+    {
+      "name": "Kjerkesundet",
+      "latitude": 63.33457,
+      "longitude": 8.129926
+    },
+    {
+      "name": "Kjerksundet",
+      "latitude": 63.565809,
+      "longitude": 8.50155
+    },
+    {
+      "name": "Kjerksundet",
+      "latitude": 64.836562,
+      "longitude": 11.208987
+    },
+    {
+      "name": "Kjerksundet",
+      "latitude": 68.181646,
+      "longitude": 13.892022
+    },
+    {
+      "name": "Kjerkvalen",
+      "latitude": 63.796145,
+      "longitude": 8.806338
+    },
+    {
+      "name": "Kjerringstraumen",
+      "latitude": 63.671399,
+      "longitude": 8.28997
+    },
+    {
+      "name": "Kjerringstraumen",
+      "latitude": 68.297366,
+      "longitude": 16.500242
+    },
+    {
+      "name": "Kjerringsundet",
+      "latitude": 59.376443,
+      "longitude": 5.194673
+    },
+    {
+      "name": "Kjerringsundet",
+      "latitude": 62.770223,
+      "longitude": 6.915421
+    },
+    {
+      "name": "Kjervågsundet",
+      "latitude": 63.687184,
+      "longitude": 8.32484
+    },
+    {
+      "name": "Kjesundet",
+      "latitude": 63.415836,
+      "longitude": 8.1705
+    },
+    {
+      "name": "Kjettesundet",
+      "latitude": 58.006978,
+      "longitude": 7.601892
+    },
+    {
+      "name": "Kjeøysund",
+      "latitude": 58.385518,
+      "longitude": 8.497886
+    },
+    {
+      "name": "Kjeøysundet",
+      "latitude": 63.545138,
+      "longitude": 9.190702
+    },
+    {
+      "name": "Kjeøysvaet",
+      "latitude": 63.30189,
+      "longitude": 7.77917
+    },
+    {
+      "name": "Kjeøysvaet",
+      "latitude": 63.302103,
+      "longitude": 7.776123
+    },
+    {
+      "name": "Kjeøysvaet",
+      "latitude": 63.471265,
+      "longitude": 8.275261
+    },
+    {
+      "name": "Kjeøyvalen",
+      "latitude": 63.468046,
+      "longitude": 8.284013
+    },
+    {
+      "name": "Kjølsøyvalen",
+      "latitude": 66.586561,
+      "longitude": 12.612422
+    },
+    {
+      "name": "Kjøpsviksundet",
+      "latitude": 68.095215,
+      "longitude": 16.30826
+    },
+    {
+      "name": "Klakkastraumen",
+      "latitude": 63.360876,
+      "longitude": 7.85773
+    },
+    {
+      "name": "Klauholmsundet",
+      "latitude": 58.016144,
+      "longitude": 7.330955
+    },
+    {
+      "name": "Klaveleia",
+      "latitude": 62.943259,
+      "longitude": 6.913748
+    },
+    {
+      "name": "Kleivsundet",
+      "latitude": 60.477544,
+      "longitude": 10.281603
+    },
+    {
+      "name": "Kleppholmleia",
+      "latitude": 64.28622,
+      "longitude": 10.210025
+    },
+    {
+      "name": "Klovningssundet",
+      "latitude": 59.294211,
+      "longitude": 4.88892
+    },
+    {
+      "name": "Klubbesundet",
+      "latitude": 57.990397,
+      "longitude": 7.337006
+    },
+    {
+      "name": "Klubbosen",
+      "latitude": 59.870925,
+      "longitude": 5.114908
+    },
+    {
+      "name": "Klungerviksunda",
+      "latitude": 63.573226,
+      "longitude": 9.176906
+    },
+    {
+      "name": "Klungsholmsundet",
+      "latitude": 59.595853,
+      "longitude": 5.155296
+    },
+    {
+      "name": "Klyftsundene",
+      "latitude": 60.437025,
+      "longitude": 10.240781
+    },
+    {
+      "name": "Kløvningsleia",
+      "latitude": 63.86589,
+      "longitude": 8.386173
+    },
+    {
+      "name": "Knarrlagsundet",
+      "latitude": 63.66232,
+      "longitude": 9.089959
+    },
+    {
+      "name": "Knottsundet",
+      "latitude": 63.754607,
+      "longitude": 8.612863
+    },
+    {
+      "name": "Knurra",
+      "latitude": 59.859951,
+      "longitude": 11.000007
+    },
+    {
+      "name": "Kobbosen",
+      "latitude": 67.031278,
+      "longitude": 13.949311
+    },
+    {
+      "name": "Koglesund",
+      "latitude": 58.359758,
+      "longitude": 8.486223
+    },
+    {
+      "name": "Kolnessundet",
+      "latitude": 58.172133,
+      "longitude": 6.744747
+    },
+    {
+      "name": "Koløyråsa",
+      "latitude": 64.012489,
+      "longitude": 9.116278
+    },
+    {
+      "name": "Komløysundet",
+      "latitude": 59.764135,
+      "longitude": 5.11262
+    },
+    {
+      "name": "Kontesundet",
+      "latitude": 58.306202,
+      "longitude": 8.594128
+    },
+    {
+      "name": "Korpesundet",
+      "latitude": 60.473317,
+      "longitude": 10.26295
+    },
+    {
+      "name": "Korsholmræva",
+      "latitude": 63.663799,
+      "longitude": 8.303721
+    },
+    {
+      "name": "Korsnesstrømmen",
+      "latitude": 64.851573,
+      "longitude": 11.657467
+    },
+    {
+      "name": "Korsskjærsundet",
+      "latitude": 63.443588,
+      "longitude": 8.354061
+    },
+    {
+      "name": "Korssundet",
+      "latitude": 63.158858,
+      "longitude": 7.877267
+    },
+    {
+      "name": "Kosthavet",
+      "latitude": 63.671127,
+      "longitude": 8.29533
+    },
+    {
+      "name": "Krabbholvalen",
+      "latitude": 63.683645,
+      "longitude": 9.066768
+    },
+    {
+      "name": "Kreppa",
+      "latitude": 58.687929,
+      "longitude": 9.229075
+    },
+    {
+      "name": "Kringsleia",
+      "latitude": 62.952394,
+      "longitude": 6.910572
+    },
+    {
+      "name": "Kristiansundsleia",
+      "latitude": 63.157832,
+      "longitude": 7.710253
+    },
+    {
+      "name": "Krokane",
+      "latitude": 58.998317,
+      "longitude": 8.280949
+    },
+    {
+      "name": "Kroksund",
+      "latitude": 60.06355,
+      "longitude": 10.299511
+    },
+    {
+      "name": "Kroksundet",
+      "latitude": 67.090694,
+      "longitude": 14.40255
+    },
+    {
+      "name": "Krossholmsundet",
+      "latitude": 58.075947,
+      "longitude": 8.026525
+    },
+    {
+      "name": "Krossnessundet",
+      "latitude": 58.09907,
+      "longitude": 6.778799
+    },
+    {
+      "name": "Krossnessundet",
+      "latitude": 60.530121,
+      "longitude": 5.251261
+    },
+    {
+      "name": "Krumholmkeila",
+      "latitude": 63.59808,
+      "longitude": 8.351267
+    },
+    {
+      "name": "Kråkenesosen",
+      "latitude": 61.064207,
+      "longitude": 4.916656
+    },
+    {
+      "name": "Kråkerøysund",
+      "latitude": 58.088158,
+      "longitude": 8.102682
+    },
+    {
+      "name": "Kråkosen",
+      "latitude": 60.561424,
+      "longitude": 4.803643
+    },
+    {
+      "name": "Kråkrauva",
+      "latitude": 63.26332,
+      "longitude": 7.862173
+    },
+    {
+      "name": "Kråkrauva",
+      "latitude": 63.282011,
+      "longitude": 7.873426
+    },
+    {
+      "name": "Kråkrauva",
+      "latitude": 63.328808,
+      "longitude": 8.124207
+    },
+    {
+      "name": "Kråkrauva",
+      "latitude": 63.358126,
+      "longitude": 7.818122
+    },
+    {
+      "name": "Kråksundet",
+      "latitude": 62.89341,
+      "longitude": 6.606044
+    },
+    {
+      "name": "Kråksundet",
+      "latitude": 63.156606,
+      "longitude": 7.943932
+    },
+    {
+      "name": "Kråksundet",
+      "latitude": 65.177373,
+      "longitude": 12.361593
+    },
+    {
+      "name": "Kråksvaet",
+      "latitude": 63.542943,
+      "longitude": 8.311954
+    },
+    {
+      "name": "Kubramssundet",
+      "latitude": 57.997869,
+      "longitude": 7.326286
+    },
+    {
+      "name": "Kuholmssundet",
+      "latitude": 60.260017,
+      "longitude": 5.208639
+    },
+    {
+      "name": "Kulisvaet",
+      "latitude": 63.298872,
+      "longitude": 8.121103
+    },
+    {
+      "name": "Kustraumen",
+      "latitude": 63.808517,
+      "longitude": 8.697567
+    },
+    {
+      "name": "Kuvalan",
+      "latitude": 63.361081,
+      "longitude": 7.825277
+    },
+    {
+      "name": "Kuøysundet",
+      "latitude": 63.613769,
+      "longitude": 8.440611
+    },
+    {
+      "name": "Kuøysundet",
+      "latitude": 63.866623,
+      "longitude": 8.637067
+    },
+    {
+      "name": "Kvaholmsvaet",
+      "latitude": 63.710343,
+      "longitude": 8.491988
+    },
+    {
+      "name": "Kvalen",
+      "latitude": 63.519883,
+      "longitude": 8.3215
+    },
+    {
+      "name": "Kvalfjorden",
+      "latitude": 64.916228,
+      "longitude": 11.073581
+    },
+    {
+      "name": "Kvalholet",
+      "latitude": 63.5183,
+      "longitude": 8.31514
+    },
+    {
+      "name": "Kvalhøgdleia",
+      "latitude": 68.147468,
+      "longitude": 14.643359
+    },
+    {
+      "name": "Kvaliosen",
+      "latitude": 60.551651,
+      "longitude": 4.821678
+    },
+    {
+      "name": "Kvalnesleia",
+      "latitude": 68.354721,
+      "longitude": 13.956671
+    },
+    {
+      "name": "Kvalpøystraumen",
+      "latitude": 63.461829,
+      "longitude": 7.995471
+    },
+    {
+      "name": "Kvalråsa",
+      "latitude": 64.530403,
+      "longitude": 10.848799
+    },
+    {
+      "name": "Kvalsundet",
+      "latitude": 63.576271,
+      "longitude": 9.179667
+    },
+    {
+      "name": "Kvalsundet - Fálesnuorri",
+      "latitude": 70.509425,
+      "longitude": 23.928554
+    },
+    {
+      "name": "Kvaløyfjorden",
+      "latitude": 64.995232,
+      "longitude": 11.100687
+    },
+    {
+      "name": "Kvanneidfjorden",
+      "latitude": 58.163024,
+      "longitude": 8.266233
+    },
+    {
+      "name": "Kvarsnessundet",
+      "latitude": 67.002053,
+      "longitude": 14.183103
+    },
+    {
+      "name": "Kvarøysundet",
+      "latitude": 66.4827,
+      "longitude": 12.923194
+    },
+    {
+      "name": "Kvassteinsundet",
+      "latitude": 59.87211,
+      "longitude": 5.082679
+    },
+    {
+      "name": "Kveldsund",
+      "latitude": 58.073713,
+      "longitude": 6.892863
+    },
+    {
+      "name": "Kvernasvaet",
+      "latitude": 63.631727,
+      "longitude": 8.631798
+    },
+    {
+      "name": "Kvernleia",
+      "latitude": 66.555674,
+      "longitude": 12.280483
+    },
+    {
+      "name": "Kvernsundet",
+      "latitude": 68.977075,
+      "longitude": 16.487928
+    },
+    {
+      "name": "Kvernøystraumen",
+      "latitude": 63.782882,
+      "longitude": 8.684059
+    },
+    {
+      "name": "Kversteinfjorden",
+      "latitude": 65.462396,
+      "longitude": 11.682071
+    },
+    {
+      "name": "Kvervastraumen",
+      "latitude": 63.710301,
+      "longitude": 8.536892
+    },
+    {
+      "name": "Kvervasundet",
+      "latitude": 63.710347,
+      "longitude": 8.534883
+    },
+    {
+      "name": "Kvitingsundet",
+      "latitude": 64.172515,
+      "longitude": 9.378955
+    },
+    {
+      "name": "Kvitingsundet",
+      "latitude": 67.743703,
+      "longitude": 14.559722
+    },
+    {
+      "name": "Kvolmosen",
+      "latitude": 60.703412,
+      "longitude": 4.888106
+    },
+    {
+      "name": "Kyresundet",
+      "latitude": 58.1019,
+      "longitude": 7.984811
+    },
+    {
+      "name": "Kyresundet",
+      "latitude": 58.111957,
+      "longitude": 7.97395
+    },
+    {
+      "name": "Kyrkjesundet",
+      "latitude": 59.068096,
+      "longitude": 5.421109
+    },
+    {
+      "name": "Kyrkjesundet",
+      "latitude": 59.917292,
+      "longitude": 5.171855
+    },
+    {
+      "name": "Kyrkjesundet",
+      "latitude": 60.153103,
+      "longitude": 5.174699
+    },
+    {
+      "name": "Kyrkjesundet",
+      "latitude": 60.180218,
+      "longitude": 5.054768
+    },
+    {
+      "name": "Kågsundet",
+      "latitude": 70.039522,
+      "longitude": 20.756778
+    },
+    {
+      "name": "Kåkersundet",
+      "latitude": 68.019699,
+      "longitude": 13.179367
+    },
+    {
+      "name": "Kåløysundet",
+      "latitude": 58.012447,
+      "longitude": 7.628519
+    },
+    {
+      "name": "Kårflesleia",
+      "latitude": 64.403465,
+      "longitude": 10.352383
+    },
+    {
+      "name": "Kårholmsundet",
+      "latitude": 58.082328,
+      "longitude": 7.990317
+    },
+    {
+      "name": "Lakserenna",
+      "latitude": 58.71189,
+      "longitude": 9.246905
+    },
+    {
+      "name": "Laksholmsundet",
+      "latitude": 63.872884,
+      "longitude": 8.62552
+    },
+    {
+      "name": "Lambholmsundet",
+      "latitude": 59.799533,
+      "longitude": 5.117505
+    },
+    {
+      "name": "Lamholmsundet",
+      "latitude": 67.657161,
+      "longitude": 14.886406
+    },
+    {
+      "name": "Lamholmsundet",
+      "latitude": 67.694721,
+      "longitude": 12.729693
+    },
+    {
+      "name": "Lamøysundet",
+      "latitude": 60.571369,
+      "longitude": 4.973248
+    },
+    {
+      "name": "Lamøysundet",
+      "latitude": 60.571833,
+      "longitude": 4.973656
+    },
+    {
+      "name": "Lamøysundet",
+      "latitude": 63.574406,
+      "longitude": 8.467686
+    },
+    {
+      "name": "Lamøyvalen",
+      "latitude": 63.578967,
+      "longitude": 8.455385
+    },
+    {
+      "name": "Landegodefjorden",
+      "latitude": 67.384489,
+      "longitude": 14.448995
+    },
+    {
+      "name": "Langeskjerosen",
+      "latitude": 60.499046,
+      "longitude": 4.828792
+    },
+    {
+      "name": "Langestraumen",
+      "latitude": 59.691762,
+      "longitude": 5.244581
+    },
+    {
+      "name": "Langholmsundet",
+      "latitude": 58.026319,
+      "longitude": 6.970334
+    },
+    {
+      "name": "Langholmsundet",
+      "latitude": 59.764343,
+      "longitude": 5.108714
+    },
+    {
+      "name": "Langholmsundet",
+      "latitude": 59.812017,
+      "longitude": 5.066366
+    },
+    {
+      "name": "Langholmsundet",
+      "latitude": 67.039192,
+      "longitude": 13.618217
+    },
+    {
+      "name": "Langholmvalen",
+      "latitude": 67.039544,
+      "longitude": 13.939142
+    },
+    {
+      "name": "Langstraumen",
+      "latitude": 63.639119,
+      "longitude": 9.036173
+    },
+    {
+      "name": "Langstraumen",
+      "latitude": 63.776396,
+      "longitude": 8.753121
+    },
+    {
+      "name": "Langsundet",
+      "latitude": 64.916037,
+      "longitude": 10.989704
+    },
+    {
+      "name": "Langsundet - Juonuorri",
+      "latitude": 69.912007,
+      "longitude": 19.517116
+    },
+    {
+      "name": "Langøyløpet",
+      "latitude": 59.876571,
+      "longitude": 10.720285
+    },
+    {
+      "name": "Langøysundet",
+      "latitude": 57.997553,
+      "longitude": 7.576547
+    },
+    {
+      "name": "Langøysundet",
+      "latitude": 59.89525,
+      "longitude": 5.05653
+    },
+    {
+      "name": "Langøysundet",
+      "latitude": 59.914784,
+      "longitude": 5.205592
+    },
+    {
+      "name": "Langøysundet",
+      "latitude": 68.579028,
+      "longitude": 14.910312
+    },
+    {
+      "name": "Laukholmsundet",
+      "latitude": 67.106203,
+      "longitude": 13.791589
+    },
+    {
+      "name": "Lauksundet",
+      "latitude": 68.3479,
+      "longitude": 15.007103
+    },
+    {
+      "name": "Lauksundet",
+      "latitude": 70.104978,
+      "longitude": 20.777979
+    },
+    {
+      "name": "Lauvholmsundet",
+      "latitude": 62.487245,
+      "longitude": 6.334991
+    },
+    {
+      "name": "Lauvøysundet",
+      "latitude": 60.288354,
+      "longitude": 4.999719
+    },
+    {
+      "name": "Lauvøysvaet",
+      "latitude": 63.329573,
+      "longitude": 8.208161
+    },
+    {
+      "name": "Legøysundet",
+      "latitude": 59.855119,
+      "longitude": 5.079443
+    },
+    {
+      "name": "Leia",
+      "latitude": 68.33498,
+      "longitude": 16.160928
+    },
+    {
+      "name": "Leiholmsundet",
+      "latitude": 58.31805,
+      "longitude": 8.607779
+    },
+    {
+      "name": "Leirholssundet",
+      "latitude": 61.144503,
+      "longitude": 8.610072
+    },
+    {
+      "name": "Leirsundet",
+      "latitude": 63.201418,
+      "longitude": 7.991386
+    },
+    {
+      "name": "Leirsundet",
+      "latitude": 63.37213,
+      "longitude": 7.805207
+    },
+    {
+      "name": "Leirvalen",
+      "latitude": 63.206484,
+      "longitude": 8.027772
+    },
+    {
+      "name": "Leirvikstraumen",
+      "latitude": 63.144586,
+      "longitude": 8.555753
+    },
+    {
+      "name": "Lekafjorden",
+      "latitude": 65.074748,
+      "longitude": 11.740608
+    },
+    {
+      "name": "Lemandsundet",
+      "latitude": 60.454848,
+      "longitude": 10.279643
+    },
+    {
+      "name": "Lemandsundet",
+      "latitude": 60.458403,
+      "longitude": 10.282281
+    },
+    {
+      "name": "Lemsundet",
+      "latitude": 67.045158,
+      "longitude": 14.016278
+    },
+    {
+      "name": "Lerstadsundet",
+      "latitude": 62.473117,
+      "longitude": 6.290274
+    },
+    {
+      "name": "Lerøyosen",
+      "latitude": 60.230705,
+      "longitude": 5.163259
+    },
+    {
+      "name": "Lesundet",
+      "latitude": 63.330534,
+      "longitude": 8.46097
+    },
+    {
+      "name": "Liansundet",
+      "latitude": 58.044936,
+      "longitude": 7.632197
+    },
+    {
+      "name": "Likholmsundet",
+      "latitude": 64.171335,
+      "longitude": 9.41111
+    },
+    {
+      "name": "Lille Nordsundet",
+      "latitude": 63.115377,
+      "longitude": 7.750199
+    },
+    {
+      "name": "Lille Ostsund",
+      "latitude": 59.871741,
+      "longitude": 10.586872
+    },
+    {
+      "name": "Lille Rona",
+      "latitude": 58.039872,
+      "longitude": 7.378328
+    },
+    {
+      "name": "Lille Steinsund",
+      "latitude": 58.660859,
+      "longitude": 9.147792
+    },
+    {
+      "name": "Lille Svalsund",
+      "latitude": 58.635753,
+      "longitude": 9.127014
+    },
+    {
+      "name": "Lillesundflaen",
+      "latitude": 59.876393,
+      "longitude": 10.581347
+    },
+    {
+      "name": "Lilleøysundet",
+      "latitude": 70.026837,
+      "longitude": 18.661298
+    },
+    {
+      "name": "Lina",
+      "latitude": 64.044686,
+      "longitude": 9.929752
+    },
+    {
+      "name": "Lindøygapet",
+      "latitude": 58.453054,
+      "longitude": 5.997665
+    },
+    {
+      "name": "Linesundet",
+      "latitude": 59.042116,
+      "longitude": 5.683211
+    },
+    {
+      "name": "Lislestraumen",
+      "latitude": 58.845292,
+      "longitude": 7.760227
+    },
+    {
+      "name": "Lisundet",
+      "latitude": 58.085774,
+      "longitude": 6.933974
+    },
+    {
+      "name": "Litjestraumen",
+      "latitude": 69.543976,
+      "longitude": 18.729715
+    },
+    {
+      "name": "Litjesundet",
+      "latitude": 69.249764,
+      "longitude": 17.62813
+    },
+    {
+      "name": "Litlesiglestraumen",
+      "latitude": 59.935547,
+      "longitude": 5.2003
+    },
+    {
+      "name": "Litllamøystraumen",
+      "latitude": 67.979083,
+      "longitude": 15.500773
+    },
+    {
+      "name": "Litlrensøysundet",
+      "latitude": 64.172884,
+      "longitude": 9.402527
+    },
+    {
+      "name": "Litlstraumen",
+      "latitude": 63.349868,
+      "longitude": 7.906559
+    },
+    {
+      "name": "Litlsundet",
+      "latitude": 63.337016,
+      "longitude": 8.144324
+    },
+    {
+      "name": "Litlsundet",
+      "latitude": 63.50284,
+      "longitude": 9.184013
+    },
+    {
+      "name": "Litlvalen",
+      "latitude": 63.206235,
+      "longitude": 8.017429
+    },
+    {
+      "name": "Lokenesgapet",
+      "latitude": 58.717746,
+      "longitude": 9.261846
+    },
+    {
+      "name": "Lokkaren",
+      "latitude": 64.499675,
+      "longitude": 11.439063
+    },
+    {
+      "name": "Lommannstraumen",
+      "latitude": 60.911939,
+      "longitude": 4.834577
+    },
+    {
+      "name": "Loppesveet",
+      "latitude": 70.30536,
+      "longitude": 21.431717
+    },
+    {
+      "name": "Lopphavet",
+      "latitude": 70.466362,
+      "longitude": 21.170528
+    },
+    {
+      "name": "Losviksundet",
+      "latitude": 66.656017,
+      "longitude": 13.0777
+    },
+    {
+      "name": "Lukksundet",
+      "latitude": 60.042775,
+      "longitude": 5.709376
+    },
+    {
+      "name": "Lunderøysundet",
+      "latitude": 67.775267,
+      "longitude": 14.803186
+    },
+    {
+      "name": "Lundosen",
+      "latitude": 67.796681,
+      "longitude": 14.813758
+    },
+    {
+      "name": "Lyngholmråsa",
+      "latitude": 63.69719,
+      "longitude": 9.445581
+    },
+    {
+      "name": "Lyngholmsundet",
+      "latitude": 58.01148,
+      "longitude": 7.013739
+    },
+    {
+      "name": "Lyngværfjorden",
+      "latitude": 66.687444,
+      "longitude": 12.576427
+    },
+    {
+      "name": "Lyngværsveet",
+      "latitude": 65.289377,
+      "longitude": 12.032776
+    },
+    {
+      "name": "Lyngørsundet",
+      "latitude": 58.634055,
+      "longitude": 9.130198
+    },
+    {
+      "name": "Lyngøyosen",
+      "latitude": 59.665673,
+      "longitude": 5.145006
+    },
+    {
+      "name": "Lyngøysundet",
+      "latitude": 58.135775,
+      "longitude": 8.047961
+    },
+    {
+      "name": "Lyngøysundet",
+      "latitude": 67.049516,
+      "longitude": 13.711725
+    },
+    {
+      "name": "Lyrasundet",
+      "latitude": 59.865335,
+      "longitude": 5.075457
+    },
+    {
+      "name": "Lysesundet",
+      "latitude": 60.209616,
+      "longitude": 5.355264
+    },
+    {
+      "name": "Lysøysundet",
+      "latitude": 63.88451,
+      "longitude": 9.857717
+    },
+    {
+      "name": "Lågeskjersanden",
+      "latitude": 60.791942,
+      "longitude": 5.001961
+    },
+    {
+      "name": "Låknesgapet",
+      "latitude": 58.717261,
+      "longitude": 9.252579
+    },
+    {
+      "name": "Låtrsundet",
+      "latitude": 63.934713,
+      "longitude": 11.207099
+    },
+    {
+      "name": "Læsingesundet",
+      "latitude": 59.812553,
+      "longitude": 5.250522
+    },
+    {
+      "name": "Løkoset",
+      "latitude": 60.433944,
+      "longitude": 10.32999
+    },
+    {
+      "name": "Løperen",
+      "latitude": 59.064626,
+      "longitude": 10.971798
+    },
+    {
+      "name": "Løpet",
+      "latitude": 58.06658,
+      "longitude": 8.01609
+    },
+    {
+      "name": "Løvøysund",
+      "latitude": 59.445524,
+      "longitude": 10.456504
+    },
+    {
+      "name": "Magerøysundet - Máhkarainuorri",
+      "latitude": 70.945749,
+      "longitude": 25.542955
+    },
+    {
+      "name": "Malmøysundet",
+      "latitude": 59.874501,
+      "longitude": 10.757198
+    },
+    {
+      "name": "Marholmsundet",
+      "latitude": 59.580538,
+      "longitude": 5.142348
+    },
+    {
+      "name": "Marikovsundet",
+      "latitude": 59.166663,
+      "longitude": 11.00776
+    },
+    {
+      "name": "Markussundet",
+      "latitude": 63.107469,
+      "longitude": 7.745197
+    },
+    {
+      "name": "Markøysund",
+      "latitude": 58.003396,
+      "longitude": 6.989004
+    },
+    {
+      "name": "Marsundet",
+      "latitude": 58.048553,
+      "longitude": 7.576542
+    },
+    {
+      "name": "Marvigsundet",
+      "latitude": 58.062099,
+      "longitude": 7.990699
+    },
+    {
+      "name": "Massingsmedsundet",
+      "latitude": 60.515453,
+      "longitude": 10.185344
+    },
+    {
+      "name": "Matløysdjupet",
+      "latitude": 62.798032,
+      "longitude": 6.681661
+    },
+    {
+      "name": "Maurholmsundet",
+      "latitude": 57.977486,
+      "longitude": 7.558628
+    },
+    {
+      "name": "Maursundet",
+      "latitude": 58.002017,
+      "longitude": 7.327294
+    },
+    {
+      "name": "Maursundet - Márnuorri",
+      "latitude": 69.950531,
+      "longitude": 20.971184
+    },
+    {
+      "name": "Mauskarsundet",
+      "latitude": 63.510941,
+      "longitude": 7.972166
+    },
+    {
+      "name": "Mausundet",
+      "latitude": 63.867667,
+      "longitude": 8.666982
+    },
+    {
+      "name": "Meavrasundet",
+      "latitude": 58.004317,
+      "longitude": 7.339236
+    },
+    {
+      "name": "Medstraumen",
+      "latitude": 63.705102,
+      "longitude": 8.494687
+    },
+    {
+      "name": "Meekstraumen",
+      "latitude": 63.671243,
+      "longitude": 8.315188
+    },
+    {
+      "name": "Mellastraumen",
+      "latitude": 68.293134,
+      "longitude": 16.48226
+    },
+    {
+      "name": "Mellomkilen",
+      "latitude": 58.21941,
+      "longitude": 8.367312
+    },
+    {
+      "name": "Melsteinfjorden",
+      "latitude": 65.242444,
+      "longitude": 11.90966
+    },
+    {
+      "name": "Meløysund",
+      "latitude": 66.834062,
+      "longitude": 13.568344
+    },
+    {
+      "name": "Merdøfjorden",
+      "latitude": 58.427912,
+      "longitude": 8.800439
+    },
+    {
+      "name": "Mergelsund",
+      "latitude": 58.074527,
+      "longitude": 8.025031
+    },
+    {
+      "name": "Midtfjordsleia",
+      "latitude": 63.085335,
+      "longitude": 7.30947
+    },
+    {
+      "name": "Midtsundet",
+      "latitude": 60.551314,
+      "longitude": 4.962596
+    },
+    {
+      "name": "Miellenjavvi",
+      "latitude": 69.363281,
+      "longitude": 23.61388
+    },
+    {
+      "name": "Miellenjavvi",
+      "latitude": 69.411492,
+      "longitude": 23.625282
+    },
+    {
+      "name": "Mikkelvågen",
+      "latitude": 67.912858,
+      "longitude": 14.942779
+    },
+    {
+      "name": "Mindværsundet",
+      "latitude": 65.737549,
+      "longitude": 12.360468
+    },
+    {
+      "name": "Minnesosen",
+      "latitude": 67.803111,
+      "longitude": 14.764231
+    },
+    {
+      "name": "Misjesundet",
+      "latitude": 60.456564,
+      "longitude": 4.961448
+    },
+    {
+      "name": "Mittingsundet",
+      "latitude": 57.983479,
+      "longitude": 7.206266
+    },
+    {
+      "name": "Mjåsund",
+      "latitude": 59.31611,
+      "longitude": 5.453991
+    },
+    {
+      "name": "Mjåsund",
+      "latitude": 59.637684,
+      "longitude": 5.205637
+    },
+    {
+      "name": "Mjåsund",
+      "latitude": 68.692281,
+      "longitude": 14.601378
+    },
+    {
+      "name": "Mjåsundet",
+      "latitude": 60.509575,
+      "longitude": 5.499444
+    },
+    {
+      "name": "Mjåsundet",
+      "latitude": 68.300558,
+      "longitude": 13.731829
+    },
+    {
+      "name": "Mjøsund",
+      "latitude": 59.406469,
+      "longitude": 10.787793
+    },
+    {
+      "name": "Mjøsundet",
+      "latitude": 63.608761,
+      "longitude": 8.865378
+    },
+    {
+      "name": "Mjøsundet",
+      "latitude": 63.673199,
+      "longitude": 8.284296
+    },
+    {
+      "name": "Mjøsundet - Mesuddi",
+      "latitude": 68.900438,
+      "longitude": 17.435789
+    },
+    {
+      "name": "Moholmleia",
+      "latitude": 68.076446,
+      "longitude": 13.672292
+    },
+    {
+      "name": "Molldøra",
+      "latitude": 68.226534,
+      "longitude": 14.791649
+    },
+    {
+      "name": "Moltsvaet",
+      "latitude": 63.309175,
+      "longitude": 8.487067
+    },
+    {
+      "name": "Monsøysvaet",
+      "latitude": 63.457118,
+      "longitude": 7.919374
+    },
+    {
+      "name": "Monsøysvaet",
+      "latitude": 63.458327,
+      "longitude": 7.918172
+    },
+    {
+      "name": "Mortsund Østre",
+      "latitude": 68.079506,
+      "longitude": 13.689061
+    },
+    {
+      "name": "Moskstraumen",
+      "latitude": 67.811189,
+      "longitude": 12.798557
+    },
+    {
+      "name": "Mossesundet",
+      "latitude": 59.462772,
+      "longitude": 10.670866
+    },
+    {
+      "name": "Mostraumen",
+      "latitude": 60.766278,
+      "longitude": 5.727629
+    },
+    {
+      "name": "Moøysundet",
+      "latitude": 67.719297,
+      "longitude": 14.560061
+    },
+    {
+      "name": "Muddværkåsa",
+      "latitude": 65.564009,
+      "longitude": 11.642418
+    },
+    {
+      "name": "Myrgrunnsleia",
+      "latitude": 63.067259,
+      "longitude": 7.341431
+    },
+    {
+      "name": "Måholmsråsa",
+      "latitude": 65.005556,
+      "longitude": 10.963898
+    },
+    {
+      "name": "Måholmsundet",
+      "latitude": 64.554046,
+      "longitude": 10.696649
+    },
+    {
+      "name": "Måløyleia",
+      "latitude": 67.798138,
+      "longitude": 14.660196
+    },
+    {
+      "name": "Mårsundet",
+      "latitude": 67.162875,
+      "longitude": 14.072044
+    },
+    {
+      "name": "Måsøysundet",
+      "latitude": 63.711865,
+      "longitude": 8.526654
+    },
+    {
+      "name": "Måsøysundet",
+      "latitude": 67.601421,
+      "longitude": 15.212588
+    },
+    {
+      "name": "Måsøysundet",
+      "latitude": 70.986336,
+      "longitude": 24.986171
+    },
+    {
+      "name": "Måværfjorden",
+      "latitude": 66.459151,
+      "longitude": 12.736416
+    },
+    {
+      "name": "Måøyleia",
+      "latitude": 66.911789,
+      "longitude": 13.382292
+    },
+    {
+      "name": "Måøysundet",
+      "latitude": 62.895376,
+      "longitude": 6.820189
+    },
+    {
+      "name": "Måøysundet",
+      "latitude": 67.051161,
+      "longitude": 13.589653
+    },
+    {
+      "name": "Møyslåttsvaet",
+      "latitude": 63.168983,
+      "longitude": 7.865291
+    },
+    {
+      "name": "Naftadjupet",
+      "latitude": 63.667702,
+      "longitude": 8.316017
+    },
+    {
+      "name": "Nappsstraumen",
+      "latitude": 68.102705,
+      "longitude": 13.455615
+    },
+    {
+      "name": "Narraviksundet",
+      "latitude": 59.347524,
+      "longitude": 5.618407
+    },
+    {
+      "name": "Narrholmsundet",
+      "latitude": 58.262735,
+      "longitude": 8.438807
+    },
+    {
+      "name": "Natterøysundet",
+      "latitude": 59.886514,
+      "longitude": 5.194564
+    },
+    {
+      "name": "Naudesundet",
+      "latitude": 58.075123,
+      "longitude": 7.104997
+    },
+    {
+      "name": "Naudskjærsundet",
+      "latitude": 57.981519,
+      "longitude": 7.582792
+    },
+    {
+      "name": "Naudsundet",
+      "latitude": 57.991092,
+      "longitude": 7.382822
+    },
+    {
+      "name": "Naustholmvalen",
+      "latitude": 66.329636,
+      "longitude": 13.014419
+    },
+    {
+      "name": "Nautholmsund",
+      "latitude": 58.616116,
+      "longitude": 9.101068
+    },
+    {
+      "name": "Nautøyleia",
+      "latitude": 67.185789,
+      "longitude": 13.797267
+    },
+    {
+      "name": "Nautøysund",
+      "latitude": 66.478294,
+      "longitude": 12.873217
+    },
+    {
+      "name": "Nautøysundet",
+      "latitude": 59.739432,
+      "longitude": 5.400588
+    },
+    {
+      "name": "Navarholet",
+      "latitude": 63.641344,
+      "longitude": 9.040843
+    },
+    {
+      "name": "Naversundet",
+      "latitude": 58.047335,
+      "longitude": 7.264217
+    },
+    {
+      "name": "Nedre Vrangen",
+      "latitude": 59.429621,
+      "longitude": 10.699229
+    },
+    {
+      "name": "Nerstraumen",
+      "latitude": 66.261902,
+      "longitude": 13.733696
+    },
+    {
+      "name": "Nesjestraumen",
+      "latitude": 68.285304,
+      "longitude": 13.744743
+    },
+    {
+      "name": "Nesnakroken",
+      "latitude": 66.181985,
+      "longitude": 12.993278
+    },
+    {
+      "name": "Nesosen",
+      "latitude": 59.789687,
+      "longitude": 5.105209
+    },
+    {
+      "name": "Nesstraumen",
+      "latitude": 67.992861,
+      "longitude": 15.417209
+    },
+    {
+      "name": "Nessundet",
+      "latitude": 60.760473,
+      "longitude": 10.950156
+    },
+    {
+      "name": "Nikøysund",
+      "latitude": 61.282587,
+      "longitude": 4.630201
+    },
+    {
+      "name": "Nogvafjorden",
+      "latitude": 62.694936,
+      "longitude": 6.292247
+    },
+    {
+      "name": "Nora",
+      "latitude": 60.6448,
+      "longitude": 10.418606
+    },
+    {
+      "name": "Nora Brokasundet",
+      "latitude": 59.925119,
+      "longitude": 5.153981
+    },
+    {
+      "name": "Nord-Ellingråsa",
+      "latitude": 64.588603,
+      "longitude": 10.794668
+    },
+    {
+      "name": "Norda Sundet",
+      "latitude": 58.467687,
+      "longitude": 5.942738
+    },
+    {
+      "name": "Nordbåleia",
+      "latitude": 65.342748,
+      "longitude": 11.492815
+    },
+    {
+      "name": "Nordosen",
+      "latitude": 60.69473,
+      "longitude": 4.739056
+    },
+    {
+      "name": "Nordra Gissøysundet",
+      "latitude": 59.643733,
+      "longitude": 5.155592
+    },
+    {
+      "name": "Nordre Angstaursundet",
+      "latitude": 69.691669,
+      "longitude": 18.180588
+    },
+    {
+      "name": "Nordre Bjørgeholmsundet",
+      "latitude": 62.495595,
+      "longitude": 6.347351
+    },
+    {
+      "name": "Nordre Djupsund",
+      "latitude": 60.4377,
+      "longitude": 10.229272
+    },
+    {
+      "name": "Nordre Dypingsundet",
+      "latitude": 67.544196,
+      "longitude": 14.628998
+    },
+    {
+      "name": "Nordre Egdholmsundet",
+      "latitude": 60.262533,
+      "longitude": 5.212403
+    },
+    {
+      "name": "Nordre Flåværleia",
+      "latitude": 62.320611,
+      "longitude": 5.605545
+    },
+    {
+      "name": "Nordre Gløtsundet",
+      "latitude": 61.93894,
+      "longitude": 11.897056
+    },
+    {
+      "name": "Nordre Kvernøyråsa",
+      "latitude": 64.533076,
+      "longitude": 10.819559
+    },
+    {
+      "name": "Nordråsa",
+      "latitude": 64.525955,
+      "longitude": 11.49682
+    },
+    {
+      "name": "Nordsettkeila",
+      "latitude": 63.518752,
+      "longitude": 7.958223
+    },
+    {
+      "name": "Nordskagsvaet",
+      "latitude": 63.714284,
+      "longitude": 8.568225
+    },
+    {
+      "name": "Nordsundet",
+      "latitude": 58.008601,
+      "longitude": 7.000726
+    },
+    {
+      "name": "Nordsundet",
+      "latitude": 58.095311,
+      "longitude": 6.813123
+    },
+    {
+      "name": "Nordsundet",
+      "latitude": 63.115213,
+      "longitude": 7.752612
+    },
+    {
+      "name": "Nordsundet",
+      "latitude": 64.590968,
+      "longitude": 11.46497
+    },
+    {
+      "name": "Nordsundet",
+      "latitude": 66.763333,
+      "longitude": 12.491667
+    },
+    {
+      "name": "Nordåsværfjorden",
+      "latitude": 66.275661,
+      "longitude": 12.290353
+    },
+    {
+      "name": "Nordøysundet",
+      "latitude": 59.986543,
+      "longitude": 5.749272
+    },
+    {
+      "name": "Nordøysundet",
+      "latitude": 67.568114,
+      "longitude": 14.671309
+    },
+    {
+      "name": "Nornessundet",
+      "latitude": 61.157177,
+      "longitude": 6.999694
+    },
+    {
+      "name": "Norviksundet",
+      "latitude": 63.773653,
+      "longitude": 11.005515
+    },
+    {
+      "name": "Notholmsundet",
+      "latitude": 63.360121,
+      "longitude": 7.81423
+    },
+    {
+      "name": "Nyhammarsundet",
+      "latitude": 61.00366,
+      "longitude": 5.02161
+    },
+    {
+      "name": "Nyholmsundet",
+      "latitude": 67.290045,
+      "longitude": 14.367707
+    },
+    {
+      "name": "Nyleia",
+      "latitude": 59.88871,
+      "longitude": 5.21739
+    },
+    {
+      "name": "Nærøysundet",
+      "latitude": 64.869107,
+      "longitude": 11.270703
+    },
+    {
+      "name": "Nørdre Dragsundet",
+      "latitude": 62.491539,
+      "longitude": 6.723129
+    },
+    {
+      "name": "Nørdre Straumen",
+      "latitude": 63.330001,
+      "longitude": 8.075061
+    },
+    {
+      "name": "Nørvasundet",
+      "latitude": 62.469707,
+      "longitude": 6.237103
+    },
+    {
+      "name": "Oddehølen",
+      "latitude": 63.346084,
+      "longitude": 7.701514
+    },
+    {
+      "name": "Oddfjorden",
+      "latitude": 66.014657,
+      "longitude": 12.095818
+    },
+    {
+      "name": "Oddsundet",
+      "latitude": 57.964686,
+      "longitude": 7.563483
+    },
+    {
+      "name": "Offsersøystraumen",
+      "latitude": 68.156174,
+      "longitude": 13.536344
+    },
+    {
+      "name": "Oksbåssundet",
+      "latitude": 63.676931,
+      "longitude": 8.414914
+    },
+    {
+      "name": "Oksholmesundet",
+      "latitude": 59.053528,
+      "longitude": 5.462088
+    },
+    {
+      "name": "Oksøyhamna",
+      "latitude": 67.570769,
+      "longitude": 14.702889
+    },
+    {
+      "name": "Olavsgapet",
+      "latitude": 58.71549,
+      "longitude": 9.24917
+    },
+    {
+      "name": "Olavsundet",
+      "latitude": 58.027262,
+      "longitude": 7.23406
+    },
+    {
+      "name": "Olavsundet",
+      "latitude": 58.052318,
+      "longitude": 7.84348
+    },
+    {
+      "name": "Olavsundet",
+      "latitude": 58.116094,
+      "longitude": 8.057719
+    },
+    {
+      "name": "Olsnessundet",
+      "latitude": 60.470165,
+      "longitude": 5.70443
+    },
+    {
+      "name": "Olsøysvaet",
+      "latitude": 63.351522,
+      "longitude": 7.801914
+    },
+    {
+      "name": "Oløystraumen",
+      "latitude": 63.509391,
+      "longitude": 8.274424
+    },
+    {
+      "name": "Oløysundet",
+      "latitude": 63.969604,
+      "longitude": 9.063934
+    },
+    {
+      "name": "Omnøyfjorden",
+      "latitude": 65.853333,
+      "longitude": 12.088051
+    },
+    {
+      "name": "Omsundet",
+      "latitude": 63.106197,
+      "longitude": 7.832027
+    },
+    {
+      "name": "Onøyvalen",
+      "latitude": 66.393922,
+      "longitude": 12.879533
+    },
+    {
+      "name": "Ormsundet",
+      "latitude": 59.8796,
+      "longitude": 10.764241
+    },
+    {
+      "name": "Osen",
+      "latitude": 59.622718,
+      "longitude": 5.111646
+    },
+    {
+      "name": "Osen",
+      "latitude": 59.905164,
+      "longitude": 5.082516
+    },
+    {
+      "name": "Oskjeften",
+      "latitude": 67.883617,
+      "longitude": 14.887467
+    },
+    {
+      "name": "Ostervågstraumen",
+      "latitude": 63.585706,
+      "longitude": 8.576911
+    },
+    {
+      "name": "Oterholmsundet",
+      "latitude": 63.460762,
+      "longitude": 8.139793
+    },
+    {
+      "name": "Ottersund",
+      "latitude": 60.44087,
+      "longitude": 10.234084
+    },
+    {
+      "name": "Ottersøystraumen",
+      "latitude": 64.85286,
+      "longitude": 11.29339
+    },
+    {
+      "name": "Ovnen",
+      "latitude": 58.062478,
+      "longitude": 7.994167
+    },
+    {
+      "name": "Perleporten",
+      "latitude": 58.735613,
+      "longitude": 9.297449
+    },
+    {
+      "name": "Permesundet",
+      "latitude": 70.024628,
+      "longitude": 18.549243
+    },
+    {
+      "name": "Perssundet",
+      "latitude": 57.998294,
+      "longitude": 7.348325
+    },
+    {
+      "name": "Piningsundet",
+      "latitude": 58.10883,
+      "longitude": 7.99813
+    },
+    {
+      "name": "Pipjenssundet",
+      "latitude": 63.518663,
+      "longitude": 7.943623
+    },
+    {
+      "name": "Pisshammarsund",
+      "latitude": 66.633983,
+      "longitude": 12.999117
+    },
+    {
+      "name": "Ploven",
+      "latitude": 59.922445,
+      "longitude": 5.205943
+    },
+    {
+      "name": "Presteidstraumen",
+      "latitude": 68.082013,
+      "longitude": 15.647788
+    },
+    {
+      "name": "Prestholmsundet",
+      "latitude": 57.985844,
+      "longitude": 7.596303
+    },
+    {
+      "name": "Prestøysundet",
+      "latitude": 58.075184,
+      "longitude": 6.829521
+    },
+    {
+      "name": "Pyntesundet",
+      "latitude": 58.982755,
+      "longitude": 5.737592
+    },
+    {
+      "name": "Pålstova",
+      "latitude": 59.897534,
+      "longitude": 5.159704
+    },
+    {
+      "name": "Pølsesund",
+      "latitude": 59.197842,
+      "longitude": 10.764277
+    },
+    {
+      "name": "Pølsesund",
+      "latitude": 59.208609,
+      "longitude": 10.790309
+    },
+    {
+      "name": "Radsundet",
+      "latitude": 60.62047,
+      "longitude": 5.181656
+    },
+    {
+      "name": "Raftsundet",
+      "latitude": 68.397953,
+      "longitude": 15.104061
+    },
+    {
+      "name": "Rakkarbergstraumen",
+      "latitude": 63.633207,
+      "longitude": 8.738438
+    },
+    {
+      "name": "Ramnsholmsanden",
+      "latitude": 66.811106,
+      "longitude": 13.195931
+    },
+    {
+      "name": "Ramsholmssundet",
+      "latitude": 59.58453,
+      "longitude": 5.136425
+    },
+    {
+      "name": "Ramsøyfjorden",
+      "latitude": 63.427629,
+      "longitude": 8.24923
+    },
+    {
+      "name": "Ramsøysund",
+      "latitude": 58.123673,
+      "longitude": 8.244287
+    },
+    {
+      "name": "Ramsøysundet",
+      "latitude": 58.020047,
+      "longitude": 7.336639
+    },
+    {
+      "name": "Ramsøysundet",
+      "latitude": 63.161773,
+      "longitude": 7.851952
+    },
+    {
+      "name": "Ramsøysundet",
+      "latitude": 63.435183,
+      "longitude": 8.314107
+    },
+    {
+      "name": "Randholmsund",
+      "latitude": 58.089371,
+      "longitude": 8.116908
+    },
+    {
+      "name": "Randøysund",
+      "latitude": 58.107285,
+      "longitude": 8.120034
+    },
+    {
+      "name": "Rangstraumen",
+      "latitude": 63.333029,
+      "longitude": 7.963082
+    },
+    {
+      "name": "Raudholmleia",
+      "latitude": 66.777632,
+      "longitude": 12.617969
+    },
+    {
+      "name": "Rauerfjorden",
+      "latitude": 59.23375,
+      "longitude": 10.717249
+    },
+    {
+      "name": "Rebbåleia",
+      "latitude": 63.454627,
+      "longitude": 7.753436
+    },
+    {
+      "name": "Rebekkaholet",
+      "latitude": 63.994026,
+      "longitude": 9.093429
+    },
+    {
+      "name": "Reidsundet",
+      "latitude": 67.825133,
+      "longitude": 12.81145
+    },
+    {
+      "name": "Reidsundet",
+      "latitude": 67.825348,
+      "longitude": 12.812966
+    },
+    {
+      "name": "Reinøysundet",
+      "latitude": 68.88754,
+      "longitude": 15.033256
+    },
+    {
+      "name": "Rekkøyråsa",
+      "latitude": 64.603601,
+      "longitude": 10.856037
+    },
+    {
+      "name": "Reksøysundet",
+      "latitude": 67.037903,
+      "longitude": 13.606322
+    },
+    {
+      "name": "Remmastrauman",
+      "latitude": 64.883499,
+      "longitude": 11.570921
+    },
+    {
+      "name": "Rensviksundet",
+      "latitude": 63.102017,
+      "longitude": 7.817983
+    },
+    {
+      "name": "Reppsundet",
+      "latitude": 65.137888,
+      "longitude": 12.422815
+    },
+    {
+      "name": "Revsundet",
+      "latitude": 58.110146,
+      "longitude": 8.155793
+    },
+    {
+      "name": "Revøysundet",
+      "latitude": 58.032134,
+      "longitude": 7.01373
+    },
+    {
+      "name": "Ringsøykeila",
+      "latitude": 63.335911,
+      "longitude": 7.815812
+    },
+    {
+      "name": "Risholmleia",
+      "latitude": 64.443142,
+      "longitude": 10.554271
+    },
+    {
+      "name": "Risholmsundet",
+      "latitude": 58.233505,
+      "longitude": 6.666663
+    },
+    {
+      "name": "Risøysundet",
+      "latitude": 57.992053,
+      "longitude": 7.561825
+    },
+    {
+      "name": "Risøysundet",
+      "latitude": 63.484775,
+      "longitude": 8.294218
+    },
+    {
+      "name": "Risøysundet",
+      "latitude": 63.985666,
+      "longitude": 9.13013
+    },
+    {
+      "name": "Risøysundet",
+      "latitude": 65.230193,
+      "longitude": 12.284975
+    },
+    {
+      "name": "Rognansvaet",
+      "latitude": 63.772484,
+      "longitude": 8.605631
+    },
+    {
+      "name": "Rognansvaet",
+      "latitude": 63.772638,
+      "longitude": 8.604283
+    },
+    {
+      "name": "Rognholmsundet",
+      "latitude": 67.667181,
+      "longitude": 14.656878
+    },
+    {
+      "name": "Rognsundet - Čoalmmenuorri",
+      "latitude": 70.336828,
+      "longitude": 22.933418
+    },
+    {
+      "name": "Rogøysundet",
+      "latitude": 59.807848,
+      "longitude": 5.089061
+    },
+    {
+      "name": "Rolvsøysundet",
+      "latitude": 67.551553,
+      "longitude": 14.645834
+    },
+    {
+      "name": "Rolvsøysundet",
+      "latitude": 70.901757,
+      "longitude": 24.171809
+    },
+    {
+      "name": "Rongen",
+      "latitude": 62.862768,
+      "longitude": 6.54527
+    },
+    {
+      "name": "Rorasundet",
+      "latitude": 63.665198,
+      "longitude": 8.294688
+    },
+    {
+      "name": "Rossøystraumen",
+      "latitude": 64.80161,
+      "longitude": 11.278313
+    },
+    {
+      "name": "Rossøystrømmen",
+      "latitude": 64.800974,
+      "longitude": 11.242747
+    },
+    {
+      "name": "Rotsundet - Guohcanuorri - Nuora",
+      "latitude": 69.837707,
+      "longitude": 20.712032
+    },
+    {
+      "name": "Rottingsundet",
+      "latitude": 63.805264,
+      "longitude": 8.78802
+    },
+    {
+      "name": "Rottøyvalen",
+      "latitude": 63.471001,
+      "longitude": 8.117283
+    },
+    {
+      "name": "Rundasundet",
+      "latitude": 62.379667,
+      "longitude": 5.628691
+    },
+    {
+      "name": "Rundglipen",
+      "latitude": 58.196731,
+      "longitude": 8.033583
+    },
+    {
+      "name": "Rundvassstraumen",
+      "latitude": 67.321986,
+      "longitude": 15.957142
+    },
+    {
+      "name": "Runekilen",
+      "latitude": 58.026289,
+      "longitude": 7.406581
+    },
+    {
+      "name": "Rusbåleia",
+      "latitude": 63.392992,
+      "longitude": 7.722173
+    },
+    {
+      "name": "Rutlaholmsundet",
+      "latitude": 59.832857,
+      "longitude": 5.236647
+    },
+    {
+      "name": "Ryggfalleia",
+      "latitude": 65.346669,
+      "longitude": 11.530089
+    },
+    {
+      "name": "Ryggjeskjersundet",
+      "latitude": 63.336315,
+      "longitude": 7.817647
+    },
+    {
+      "name": "Rystraumen - Rižaidstrávvi",
+      "latitude": 69.555055,
+      "longitude": 18.724079
+    },
+    {
+      "name": "Rápmasunda - Ramsundet",
+      "latitude": 68.507893,
+      "longitude": 16.468503
+    },
+    {
+      "name": "Råne",
+      "latitude": 58.498568,
+      "longitude": 6.344085
+    },
+    {
+      "name": "Råsa",
+      "latitude": 70.153294,
+      "longitude": 19.30006
+    },
+    {
+      "name": "Rødsund",
+      "latitude": 58.372268,
+      "longitude": 8.696768
+    },
+    {
+      "name": "Rødøysund",
+      "latitude": 66.652853,
+      "longitude": 13.072014
+    },
+    {
+      "name": "Røingen",
+      "latitude": 65.185694,
+      "longitude": 12.027797
+    },
+    {
+      "name": "Rørøysundet",
+      "latitude": 63.500763,
+      "longitude": 8.269165
+    },
+    {
+      "name": "Røssøystraumen",
+      "latitude": 68.087142,
+      "longitude": 13.189017
+    },
+    {
+      "name": "Røssøysundet",
+      "latitude": 67.057617,
+      "longitude": 13.945297
+    },
+    {
+      "name": "Røsthavet",
+      "latitude": 67.606427,
+      "longitude": 12.40244
+    },
+    {
+      "name": "Røyrasundet",
+      "latitude": 62.319247,
+      "longitude": 5.710852
+    },
+    {
+      "name": "Røyskattsundet",
+      "latitude": 58.041422,
+      "longitude": 6.903358
+    },
+    {
+      "name": "Røytekalvsundet",
+      "latitude": 60.873498,
+      "longitude": 4.785285
+    },
+    {
+      "name": "Røytingosen",
+      "latitude": 60.875922,
+      "longitude": 4.799652
+    },
+    {
+      "name": "Sagbakksund",
+      "latitude": 60.437862,
+      "longitude": 10.23619
+    },
+    {
+      "name": "Sagvågsfjorden",
+      "latitude": 59.762834,
+      "longitude": 5.357895
+    },
+    {
+      "name": "Salsundet",
+      "latitude": 59.877648,
+      "longitude": 10.587323
+    },
+    {
+      "name": "Saltbettsundet",
+      "latitude": 60.453664,
+      "longitude": 10.226305
+    },
+    {
+      "name": "Saltbusundet",
+      "latitude": 60.448068,
+      "longitude": 10.258406
+    },
+    {
+      "name": "Saltsteinsleia",
+      "latitude": 62.853434,
+      "longitude": 6.683922
+    },
+    {
+      "name": "Saltstraumen - Stuorstrávve - Stuorrastrávve",
+      "latitude": 67.233013,
+      "longitude": 14.612904
+    },
+    {
+      "name": "Sandholmsundet",
+      "latitude": 58.304856,
+      "longitude": 8.597408
+    },
+    {
+      "name": "Sandholmsundet",
+      "latitude": 63.664874,
+      "longitude": 8.295386
+    },
+    {
+      "name": "Sandleia",
+      "latitude": 68.339751,
+      "longitude": 13.837099
+    },
+    {
+      "name": "Sandnessundet - Sálljnjárnuorri",
+      "latitude": 69.694481,
+      "longitude": 18.91111
+    },
+    {
+      "name": "Sandsfjorden",
+      "latitude": 59.408236,
+      "longitude": 6.124905
+    },
+    {
+      "name": "Sandsundet",
+      "latitude": 58.015342,
+      "longitude": 7.635022
+    },
+    {
+      "name": "Sandsøysundet",
+      "latitude": 68.944699,
+      "longitude": 16.643274
+    },
+    {
+      "name": "Sandtorgstraumen",
+      "latitude": 68.559552,
+      "longitude": 16.500864
+    },
+    {
+      "name": "Sandungssmalet",
+      "latitude": 60.115668,
+      "longitude": 10.6148
+    },
+    {
+      "name": "Sandviksundet",
+      "latitude": 63.757688,
+      "longitude": 8.683176
+    },
+    {
+      "name": "Sandøyfjorden",
+      "latitude": 70.038316,
+      "longitude": 18.605046
+    },
+    {
+      "name": "Sandøysveet",
+      "latitude": 64.972171,
+      "longitude": 10.998387
+    },
+    {
+      "name": "Sauholmsundet",
+      "latitude": 59.896754,
+      "longitude": 5.155409
+    },
+    {
+      "name": "Seiasundet",
+      "latitude": 60.219757,
+      "longitude": 5.35256
+    },
+    {
+      "name": "Seibardreset",
+      "latitude": 70.209121,
+      "longitude": 18.876915
+    },
+    {
+      "name": "Seilkilsundet",
+      "latitude": 58.011974,
+      "longitude": 6.986479
+    },
+    {
+      "name": "Seingsholmsundet",
+      "latitude": 66.375208,
+      "longitude": 12.884619
+    },
+    {
+      "name": "Seisundet",
+      "latitude": 63.139763,
+      "longitude": 7.9479
+    },
+    {
+      "name": "Seljesetsundet",
+      "latitude": 66.978159,
+      "longitude": 14.012671
+    },
+    {
+      "name": "Selnesstraumen",
+      "latitude": 68.197812,
+      "longitude": 13.890018
+    },
+    {
+      "name": "Selsteinsveet",
+      "latitude": 64.098082,
+      "longitude": 9.26362
+    },
+    {
+      "name": "Selsøyviksundet",
+      "latitude": 66.567808,
+      "longitude": 12.974869
+    },
+    {
+      "name": "Selviksund",
+      "latitude": 58.625002,
+      "longitude": 9.105159
+    },
+    {
+      "name": "Selværflaget",
+      "latitude": 66.577109,
+      "longitude": 12.263746
+    },
+    {
+      "name": "Senholmsundet",
+      "latitude": 58.079985,
+      "longitude": 8.029766
+    },
+    {
+      "name": "Sennaholmsundet",
+      "latitude": 63.530358,
+      "longitude": 7.96218
+    },
+    {
+      "name": "Seskjærsundet",
+      "latitude": 67.060028,
+      "longitude": 13.615283
+    },
+    {
+      "name": "Setersundet",
+      "latitude": 63.472704,
+      "longitude": 8.727715
+    },
+    {
+      "name": "Setersundet",
+      "latitude": 63.553525,
+      "longitude": 9.189454
+    },
+    {
+      "name": "Sildesundet",
+      "latitude": 58.084404,
+      "longitude": 7.987616
+    },
+    {
+      "name": "Sildsundet",
+      "latitude": 63.525651,
+      "longitude": 7.969487
+    },
+    {
+      "name": "Sildsundet",
+      "latitude": 63.664237,
+      "longitude": 8.284206
+    },
+    {
+      "name": "Singsundet",
+      "latitude": 63.519534,
+      "longitude": 7.949885
+    },
+    {
+      "name": "Sisillhållå",
+      "latitude": 63.410595,
+      "longitude": 7.795338
+    },
+    {
+      "name": "Sistrandsva",
+      "latitude": 63.73041,
+      "longitude": 8.85086
+    },
+    {
+      "name": "Sjonøysundet",
+      "latitude": 66.370325,
+      "longitude": 12.862
+    },
+    {
+      "name": "Sjuløysundet",
+      "latitude": 66.754006,
+      "longitude": 12.461725
+    },
+    {
+      "name": "Sjursund",
+      "latitude": 58.734908,
+      "longitude": 9.310577
+    },
+    {
+      "name": "Sjåstusundet",
+      "latitude": 63.69753,
+      "longitude": 8.40674
+    },
+    {
+      "name": "Sjøbusundet",
+      "latitude": 59.586638,
+      "longitude": 5.148752
+    },
+    {
+      "name": "Sjøfossane",
+      "latitude": 58.379047,
+      "longitude": 7.913283
+    },
+    {
+      "name": "Skadesund",
+      "latitude": 58.994994,
+      "longitude": 5.759641
+    },
+    {
+      "name": "Skaftleia",
+      "latitude": 64.1939,
+      "longitude": 10.042791
+    },
+    {
+      "name": "Skagstadsundet",
+      "latitude": 67.971046,
+      "longitude": 15.183105
+    },
+    {
+      "name": "Skagøysundet - Skágenuorri",
+      "latitude": 70.024899,
+      "longitude": 18.854347
+    },
+    {
+      "name": "Skagøyvalen",
+      "latitude": 63.471255,
+      "longitude": 8.129074
+    },
+    {
+      "name": "Skalløybugen",
+      "latitude": 63.616186,
+      "longitude": 8.439817
+    },
+    {
+      "name": "Skarnsundet",
+      "latitude": 63.858031,
+      "longitude": 11.067521
+    },
+    {
+      "name": "Skarpsundet",
+      "latitude": 63.406566,
+      "longitude": 7.79047
+    },
+    {
+      "name": "Skarpsundet",
+      "latitude": 66.190603,
+      "longitude": 13.611138
+    },
+    {
+      "name": "Skarv-halsen",
+      "latitude": 66.681027,
+      "longitude": 13.230639
+    },
+    {
+      "name": "Skarvøyfjorden",
+      "latitude": 58.067537,
+      "longitude": 6.902186
+    },
+    {
+      "name": "Skarvøyosen",
+      "latitude": 60.507111,
+      "longitude": 4.836287
+    },
+    {
+      "name": "Skarvøysundet",
+      "latitude": 58.02632,
+      "longitude": 7.214552
+    },
+    {
+      "name": "Skatestraumen",
+      "latitude": 61.870331,
+      "longitude": 5.232067
+    },
+    {
+      "name": "Skibbusundet",
+      "latitude": 58.078779,
+      "longitude": 8.015004
+    },
+    {
+      "name": "Skiensund",
+      "latitude": 58.884434,
+      "longitude": 9.455972
+    },
+    {
+      "name": "Skingelleia",
+      "latitude": 67.187258,
+      "longitude": 13.774769
+    },
+    {
+      "name": "Skinnbrokleia",
+      "latitude": 62.338344,
+      "longitude": 5.763123
+    },
+    {
+      "name": "Skipbåtsværfjorden",
+      "latitude": 66.125342,
+      "longitude": 12.09486
+    },
+    {
+      "name": "Skipleia",
+      "latitude": 68.354021,
+      "longitude": 13.90646
+    },
+    {
+      "name": "Skippergada",
+      "latitude": 58.101761,
+      "longitude": 8.112556
+    },
+    {
+      "name": "Skipsløpet",
+      "latitude": 59.891391,
+      "longitude": 10.736883
+    },
+    {
+      "name": "Skitnehola",
+      "latitude": 60.423912,
+      "longitude": 5.243783
+    },
+    {
+      "name": "Skjela",
+      "latitude": 63.66257,
+      "longitude": 8.961303
+    },
+    {
+      "name": "Skjelingasund",
+      "latitude": 60.562871,
+      "longitude": 5.597481
+    },
+    {
+      "name": "Skjelingsleia",
+      "latitude": 63.187981,
+      "longitude": 7.551163
+    },
+    {
+      "name": "Skjeljangssundet",
+      "latitude": 60.602973,
+      "longitude": 4.95163
+    },
+    {
+      "name": "Skjellstraumen",
+      "latitude": 68.258148,
+      "longitude": 13.819848
+    },
+    {
+      "name": "Skjelstraumen",
+      "latitude": 63.640944,
+      "longitude": 9.034376
+    },
+    {
+      "name": "Skjelsundet",
+      "latitude": 63.164223,
+      "longitude": 7.882819
+    },
+    {
+      "name": "Skjelsundet",
+      "latitude": 63.757439,
+      "longitude": 8.62989
+    },
+    {
+      "name": "Skjelvalen",
+      "latitude": 63.433562,
+      "longitude": 8.384805
+    },
+    {
+      "name": "Skjernøysundet",
+      "latitude": 58.003961,
+      "longitude": 7.515136
+    },
+    {
+      "name": "Skjersundet",
+      "latitude": 62.422281,
+      "longitude": 6.002115
+    },
+    {
+      "name": "Skjåholmsundet",
+      "latitude": 66.855108,
+      "longitude": 13.699042
+    },
+    {
+      "name": "Skjærhaldfjorden",
+      "latitude": 59.033118,
+      "longitude": 11.06473
+    },
+    {
+      "name": "Skjærsundet",
+      "latitude": 63.864566,
+      "longitude": 8.643362
+    },
+    {
+      "name": "Skjølsund",
+      "latitude": 58.180241,
+      "longitude": 8.223411
+    },
+    {
+      "name": "Skjøringrenna",
+      "latitude": 57.965111,
+      "longitude": 7.545977
+    },
+    {
+      "name": "Skjøringsundet",
+      "latitude": 57.964894,
+      "longitude": 7.553817
+    },
+    {
+      "name": "Skogsleiveita",
+      "latitude": 63.664023,
+      "longitude": 8.259219
+    },
+    {
+      "name": "Skogsøyvalen",
+      "latitude": 63.849073,
+      "longitude": 8.636134
+    },
+    {
+      "name": "Skogøysundet",
+      "latitude": 58.007911,
+      "longitude": 7.585836
+    },
+    {
+      "name": "Skogøyvalen",
+      "latitude": 67.954786,
+      "longitude": 15.160769
+    },
+    {
+      "name": "Skonessundet",
+      "latitude": 68.347892,
+      "longitude": 14.485595
+    },
+    {
+      "name": "Skorasundet",
+      "latitude": 60.296136,
+      "longitude": 4.97714
+    },
+    {
+      "name": "Skorenna",
+      "latitude": 58.072315,
+      "longitude": 8.04328
+    },
+    {
+      "name": "Skorpesundet",
+      "latitude": 62.335346,
+      "longitude": 5.513935
+    },
+    {
+      "name": "Skorsundet",
+      "latitude": 60.460683,
+      "longitude": 4.930158
+    },
+    {
+      "name": "Skotasundet",
+      "latitude": 59.086929,
+      "longitude": 5.483798
+    },
+    {
+      "name": "Skotnessundet",
+      "latitude": 65.220164,
+      "longitude": 12.333226
+    },
+    {
+      "name": "Skotningssundet",
+      "latitude": 59.690471,
+      "longitude": 5.103451
+    },
+    {
+      "name": "Skreddarstraumen",
+      "latitude": 63.637073,
+      "longitude": 8.735852
+    },
+    {
+      "name": "Skreddersundet",
+      "latitude": 58.008283,
+      "longitude": 7.422078
+    },
+    {
+      "name": "Skrubbholmsundet",
+      "latitude": 63.249605,
+      "longitude": 8.172885
+    },
+    {
+      "name": "Skråfjordstraumen",
+      "latitude": 63.966615,
+      "longitude": 10.118564
+    },
+    {
+      "name": "Skråpleia",
+      "latitude": 67.188672,
+      "longitude": 13.797678
+    },
+    {
+      "name": "Skudesundet",
+      "latitude": 58.073082,
+      "longitude": 8.012159
+    },
+    {
+      "name": "Skumsvollsundet",
+      "latitude": 58.176786,
+      "longitude": 6.702055
+    },
+    {
+      "name": "Skyllsund",
+      "latitude": 58.29924,
+      "longitude": 8.590459
+    },
+    {
+      "name": "Skyttelråsa",
+      "latitude": 64.472276,
+      "longitude": 10.499582
+    },
+    {
+      "name": "Skyttholmsundet",
+      "latitude": 63.853692,
+      "longitude": 8.657253
+    },
+    {
+      "name": "Skånlandsundet",
+      "latitude": 67.175971,
+      "longitude": 14.348717
+    },
+    {
+      "name": "Skårsteinelaget",
+      "latitude": 58.622833,
+      "longitude": 8.120517
+    },
+    {
+      "name": "Slengen",
+      "latitude": 58.629722,
+      "longitude": 9.124764
+    },
+    {
+      "name": "Sletta",
+      "latitude": 59.516899,
+      "longitude": 5.162429
+    },
+    {
+      "name": "Slettingsundet",
+      "latitude": 57.964828,
+      "longitude": 7.492536
+    },
+    {
+      "name": "Slåtterøyosen",
+      "latitude": 59.908851,
+      "longitude": 5.071478
+    },
+    {
+      "name": "Slåttvikstraumen",
+      "latitude": 68.351414,
+      "longitude": 16.301603
+    },
+    {
+      "name": "Smalasundet",
+      "latitude": 58.020031,
+      "longitude": 7.001408
+    },
+    {
+      "name": "Smalet",
+      "latitude": 60.131045,
+      "longitude": 10.911969
+    },
+    {
+      "name": "Smalstrømmen",
+      "latitude": 60.072877,
+      "longitude": 10.6875
+    },
+    {
+      "name": "Smalsund",
+      "latitude": 58.031316,
+      "longitude": 7.431687
+    },
+    {
+      "name": "Smalsund",
+      "latitude": 58.251544,
+      "longitude": 8.064286
+    },
+    {
+      "name": "Smalsund",
+      "latitude": 58.38646,
+      "longitude": 8.500702
+    },
+    {
+      "name": "Smalsund",
+      "latitude": 58.531035,
+      "longitude": 8.923318
+    },
+    {
+      "name": "Smalsundet",
+      "latitude": 58.016036,
+      "longitude": 7.629747
+    },
+    {
+      "name": "Smalsundet",
+      "latitude": 58.082058,
+      "longitude": 6.78958
+    },
+    {
+      "name": "Smalsundet",
+      "latitude": 63.261173,
+      "longitude": 8.500221
+    },
+    {
+      "name": "Smalvatnet",
+      "latitude": 63.52235,
+      "longitude": 11.002895
+    },
+    {
+      "name": "Smedasundet",
+      "latitude": 59.407333,
+      "longitude": 5.273594
+    },
+    {
+      "name": "Smedasundet",
+      "latitude": 59.408887,
+      "longitude": 5.271455
+    },
+    {
+      "name": "Smedasundet",
+      "latitude": 59.411853,
+      "longitude": 5.267271
+    },
+    {
+      "name": "Smelværosen",
+      "latitude": 61.403183,
+      "longitude": 4.907913
+    },
+    {
+      "name": "Smettholet",
+      "latitude": 66.766489,
+      "longitude": 12.477258
+    },
+    {
+      "name": "Smitskjærleia",
+      "latitude": 68.333504,
+      "longitude": 15.418582
+    },
+    {
+      "name": "Smortleia",
+      "latitude": 68.372779,
+      "longitude": 14.079666
+    },
+    {
+      "name": "Småstrauman",
+      "latitude": 63.632762,
+      "longitude": 8.85159
+    },
+    {
+      "name": "Småsunda",
+      "latitude": 58.737975,
+      "longitude": 9.231232
+    },
+    {
+      "name": "Småsundan",
+      "latitude": 58.030878,
+      "longitude": 7.202423
+    },
+    {
+      "name": "Småsundet",
+      "latitude": 63.519135,
+      "longitude": 9.121284
+    },
+    {
+      "name": "Småværsundet",
+      "latitude": 67.053283,
+      "longitude": 13.676889
+    },
+    {
+      "name": "Smørhamnsundet",
+      "latitude": 61.769938,
+      "longitude": 4.93716
+    },
+    {
+      "name": "Smørmarksundet",
+      "latitude": 60.451964,
+      "longitude": 10.262925
+    },
+    {
+      "name": "Smørsund",
+      "latitude": 58.329951,
+      "longitude": 8.608854
+    },
+    {
+      "name": "Snaresund",
+      "latitude": 58.59355,
+      "longitude": 9.004264
+    },
+    {
+      "name": "Snarøysundet",
+      "latitude": 59.876751,
+      "longitude": 10.600255
+    },
+    {
+      "name": "Snekkersundet",
+      "latitude": 60.432725,
+      "longitude": 10.337342
+    },
+    {
+      "name": "Snerpesundet",
+      "latitude": 57.978225,
+      "longitude": 7.611964
+    },
+    {
+      "name": "Sniken",
+      "latitude": 67.184354,
+      "longitude": 14.356427
+    },
+    {
+      "name": "Snikodden",
+      "latitude": 58.744109,
+      "longitude": 9.297073
+    },
+    {
+      "name": "Snillerøysundet",
+      "latitude": 64.177492,
+      "longitude": 9.429681
+    },
+    {
+      "name": "Snorrevadi",
+      "latitude": 59.18434,
+      "longitude": 7.239501
+    },
+    {
+      "name": "Snyflaget",
+      "latitude": 66.803048,
+      "longitude": 13.117907
+    },
+    {
+      "name": "Snåsøystraumen",
+      "latitude": 63.590801,
+      "longitude": 8.420849
+    },
+    {
+      "name": "Soknasundet",
+      "latitude": 59.049346,
+      "longitude": 5.648872
+    },
+    {
+      "name": "Soløysundet",
+      "latitude": 59.908026,
+      "longitude": 5.14989
+    },
+    {
+      "name": "Sortlandssundet - Suorttánuorri",
+      "latitude": 68.697441,
+      "longitude": 15.37479
+    },
+    {
+      "name": "Sortnleia",
+      "latitude": 63.330749,
+      "longitude": 7.698808
+    },
+    {
+      "name": "Spannosen",
+      "latitude": 59.899284,
+      "longitude": 5.131388
+    },
+    {
+      "name": "Sparesleia",
+      "latitude": 67.187956,
+      "longitude": 13.738464
+    },
+    {
+      "name": "Speinnjavvi",
+      "latitude": 69.355811,
+      "longitude": 23.621166
+    },
+    {
+      "name": "Spennsveet",
+      "latitude": 70.161053,
+      "longitude": 20.108413
+    },
+    {
+      "name": "Spersøysundet",
+      "latitude": 63.465373,
+      "longitude": 8.306502
+    },
+    {
+      "name": "Sprengen",
+      "latitude": 67.137106,
+      "longitude": 13.981231
+    },
+    {
+      "name": "Springeren",
+      "latitude": 59.886951,
+      "longitude": 10.729169
+    },
+    {
+      "name": "Stabbfjorden",
+      "latitude": 66.933207,
+      "longitude": 13.283844
+    },
+    {
+      "name": "Stabbleia",
+      "latitude": 68.075396,
+      "longitude": 13.662743
+    },
+    {
+      "name": "Stabbsundet",
+      "latitude": 63.664231,
+      "longitude": 8.307323
+    },
+    {
+      "name": "Stabbsundet",
+      "latitude": 66.937726,
+      "longitude": 13.480883
+    },
+    {
+      "name": "Stanggapet",
+      "latitude": 58.104106,
+      "longitude": 8.139968
+    },
+    {
+      "name": "Stangholmgapet",
+      "latitude": 58.702605,
+      "longitude": 9.255988
+    },
+    {
+      "name": "Stangholmsundet",
+      "latitude": 58.014225,
+      "longitude": 7.639444
+    },
+    {
+      "name": "Statsheistraumen",
+      "latitude": 63.674075,
+      "longitude": 8.294847
+    },
+    {
+      "name": "Staulstraumen",
+      "latitude": 63.796259,
+      "longitude": 8.798398
+    },
+    {
+      "name": "Stavsdjupet",
+      "latitude": 62.011016,
+      "longitude": 4.950027
+    },
+    {
+      "name": "Stavsundet",
+      "latitude": 67.005419,
+      "longitude": 14.177756
+    },
+    {
+      "name": "Stavsundet",
+      "latitude": 67.01213,
+      "longitude": 13.932738
+    },
+    {
+      "name": "Stavsundet",
+      "latitude": 68.81746,
+      "longitude": 14.724929
+    },
+    {
+      "name": "Stavøysundet",
+      "latitude": 65.199344,
+      "longitude": 12.330394
+    },
+    {
+      "name": "Steigbergleira",
+      "latitude": 67.936517,
+      "longitude": 14.967914
+    },
+    {
+      "name": "Steigbergvika",
+      "latitude": 67.950081,
+      "longitude": 14.9388
+    },
+    {
+      "name": "Steinavikosen",
+      "latitude": 59.859495,
+      "longitude": 5.076549
+    },
+    {
+      "name": "Steinnesvalan",
+      "latitude": 63.694803,
+      "longitude": 8.394791
+    },
+    {
+      "name": "Steinsundet",
+      "latitude": 58.115332,
+      "longitude": 7.986964
+    },
+    {
+      "name": "Steinsundet",
+      "latitude": 63.367104,
+      "longitude": 7.794606
+    },
+    {
+      "name": "Steinsøysundet",
+      "latitude": 57.999856,
+      "longitude": 7.403667
+    },
+    {
+      "name": "Steinsøysundet",
+      "latitude": 63.462817,
+      "longitude": 8.116565
+    },
+    {
+      "name": "Steinsøysundet",
+      "latitude": 64.173866,
+      "longitude": 9.404297
+    },
+    {
+      "name": "Steinsøysundet",
+      "latitude": 67.040742,
+      "longitude": 13.634444
+    },
+    {
+      "name": "Stigsundet",
+      "latitude": 66.888686,
+      "longitude": 13.647294
+    },
+    {
+      "name": "Stiholmvalen",
+      "latitude": 66.481736,
+      "longitude": 12.901833
+    },
+    {
+      "name": "Stjernsundet - Joahkku",
+      "latitude": 70.251783,
+      "longitude": 22.616042
+    },
+    {
+      "name": "Stokken",
+      "latitude": 64.066798,
+      "longitude": 10.030517
+    },
+    {
+      "name": "Stokkholmsundet",
+      "latitude": 63.461521,
+      "longitude": 8.057398
+    },
+    {
+      "name": "Stokksund",
+      "latitude": 58.107782,
+      "longitude": 8.10867
+    },
+    {
+      "name": "Stokksund",
+      "latitude": 59.811099,
+      "longitude": 5.310688
+    },
+    {
+      "name": "Stokksundet",
+      "latitude": 64.0479,
+      "longitude": 10.040002
+    },
+    {
+      "name": "Stonggrunnleia",
+      "latitude": 67.177814,
+      "longitude": 13.843608
+    },
+    {
+      "name": "Stoplesundet",
+      "latitude": 62.969215,
+      "longitude": 7.007571
+    },
+    {
+      "name": "Storasundet",
+      "latitude": 63.554376,
+      "longitude": 9.217778
+    },
+    {
+      "name": "Store Ostsund",
+      "latitude": 59.866032,
+      "longitude": 10.555823
+    },
+    {
+      "name": "Store Rosund",
+      "latitude": 60.633542,
+      "longitude": 10.089628
+    },
+    {
+      "name": "Store Steinsund",
+      "latitude": 58.659304,
+      "longitude": 9.148646
+    },
+    {
+      "name": "Store Sundgapet",
+      "latitude": 60.285272,
+      "longitude": 11.126303
+    },
+    {
+      "name": "Store Svalsund",
+      "latitude": 58.634185,
+      "longitude": 9.123991
+    },
+    {
+      "name": "Storeholsund",
+      "latitude": 60.008277,
+      "longitude": 5.814901
+    },
+    {
+      "name": "Storenesosen",
+      "latitude": 60.867228,
+      "longitude": 5.039234
+    },
+    {
+      "name": "Storesundet",
+      "latitude": 62.907463,
+      "longitude": 6.892853
+    },
+    {
+      "name": "Storlamøystraumen",
+      "latitude": 67.978294,
+      "longitude": 15.489639
+    },
+    {
+      "name": "Storstraumen",
+      "latitude": 62.502432,
+      "longitude": 6.615829
+    },
+    {
+      "name": "Storstraumen",
+      "latitude": 63.336717,
+      "longitude": 8.094714
+    },
+    {
+      "name": "Storstraumen",
+      "latitude": 63.349805,
+      "longitude": 7.934918
+    },
+    {
+      "name": "Storsundet",
+      "latitude": 59.95011,
+      "longitude": 5.887756
+    },
+    {
+      "name": "Stortorgnessundet",
+      "latitude": 65.506798,
+      "longitude": 12.136116
+    },
+    {
+      "name": "Storvollsundet",
+      "latitude": 64.839129,
+      "longitude": 11.235652
+    },
+    {
+      "name": "Storøysundet",
+      "latitude": 60.056959,
+      "longitude": 10.243678
+    },
+    {
+      "name": "Straumen",
+      "latitude": 58.115861,
+      "longitude": 6.747808
+    },
+    {
+      "name": "Straumen",
+      "latitude": 58.706675,
+      "longitude": 8.599111
+    },
+    {
+      "name": "Straumen",
+      "latitude": 59.633072,
+      "longitude": 5.157087
+    },
+    {
+      "name": "Straumen",
+      "latitude": 60.20698,
+      "longitude": 5.159211
+    },
+    {
+      "name": "Straumen",
+      "latitude": 60.454555,
+      "longitude": 5.493327
+    },
+    {
+      "name": "Straumen",
+      "latitude": 62.605144,
+      "longitude": 7.330645
+    },
+    {
+      "name": "Straumen",
+      "latitude": 62.996904,
+      "longitude": 7.290116
+    },
+    {
+      "name": "Straumen",
+      "latitude": 63.347671,
+      "longitude": 8.154275
+    },
+    {
+      "name": "Straumen",
+      "latitude": 63.508156,
+      "longitude": 8.334015
+    },
+    {
+      "name": "Straumen",
+      "latitude": 63.716634,
+      "longitude": 8.598003
+    },
+    {
+      "name": "Straumen",
+      "latitude": 63.795873,
+      "longitude": 9.411035
+    },
+    {
+      "name": "Straumen",
+      "latitude": 63.868726,
+      "longitude": 11.29683
+    },
+    {
+      "name": "Straumen",
+      "latitude": 63.982819,
+      "longitude": 10.86604
+    },
+    {
+      "name": "Straumen",
+      "latitude": 64.8361,
+      "longitude": 11.295255
+    },
+    {
+      "name": "Straumen",
+      "latitude": 66.823753,
+      "longitude": 13.428189
+    },
+    {
+      "name": "Straumen",
+      "latitude": 67.941653,
+      "longitude": 15.241875
+    },
+    {
+      "name": "Straumen",
+      "latitude": 68.13882,
+      "longitude": 13.758161
+    },
+    {
+      "name": "Straumen",
+      "latitude": 68.191151,
+      "longitude": 13.860921
+    },
+    {
+      "name": "Straumen",
+      "latitude": 68.25531,
+      "longitude": 14.540616
+    },
+    {
+      "name": "Straumen",
+      "latitude": 68.269442,
+      "longitude": 13.969769
+    },
+    {
+      "name": "Straumen",
+      "latitude": 68.417945,
+      "longitude": 15.366216
+    },
+    {
+      "name": "Straumen",
+      "latitude": 68.441734,
+      "longitude": 17.705026
+    },
+    {
+      "name": "Straumen",
+      "latitude": 68.833494,
+      "longitude": 14.790058
+    },
+    {
+      "name": "Straumen",
+      "latitude": 68.965403,
+      "longitude": 15.169469
+    },
+    {
+      "name": "Straumen - Stuorarávdnji",
+      "latitude": 69.603014,
+      "longitude": 19.720985
+    },
+    {
+      "name": "Straumholet",
+      "latitude": 64.299042,
+      "longitude": 10.454253
+    },
+    {
+      "name": "Straumsfjorden",
+      "latitude": 61.019873,
+      "longitude": 4.625702
+    },
+    {
+      "name": "Straumssundet",
+      "latitude": 60.35534,
+      "longitude": 5.115258
+    },
+    {
+      "name": "Straumsundet",
+      "latitude": 58.261588,
+      "longitude": 6.658734
+    },
+    {
+      "name": "Straumsvaet",
+      "latitude": 63.325401,
+      "longitude": 8.090873
+    },
+    {
+      "name": "Straumsøysundet",
+      "latitude": 68.332189,
+      "longitude": 16.253157
+    },
+    {
+      "name": "Strengen",
+      "latitude": 59.175689,
+      "longitude": 7.526124
+    },
+    {
+      "name": "Strupen",
+      "latitude": 63.52937,
+      "longitude": 8.427302
+    },
+    {
+      "name": "Strupen",
+      "latitude": 63.7951,
+      "longitude": 8.713789
+    },
+    {
+      "name": "Stryket",
+      "latitude": 64.977977,
+      "longitude": 13.158401
+    },
+    {
+      "name": "Strávve - Straumen",
+      "latitude": 68.087046,
+      "longitude": 16.686505
+    },
+    {
+      "name": "Strømmen",
+      "latitude": 58.020364,
+      "longitude": 7.625992
+    },
+    {
+      "name": "Strømmen",
+      "latitude": 58.445461,
+      "longitude": 8.745079
+    },
+    {
+      "name": "Strømmen",
+      "latitude": 58.44601,
+      "longitude": 8.746379
+    },
+    {
+      "name": "Strømmen",
+      "latitude": 58.746503,
+      "longitude": 9.079968
+    },
+    {
+      "name": "Strømmen",
+      "latitude": 63.579346,
+      "longitude": 9.936843
+    },
+    {
+      "name": "Strømmen",
+      "latitude": 63.579521,
+      "longitude": 9.942683
+    },
+    {
+      "name": "Strømstraumen",
+      "latitude": 68.283158,
+      "longitude": 13.726744
+    },
+    {
+      "name": "Strømsund",
+      "latitude": 57.989456,
+      "longitude": 7.604
+    },
+    {
+      "name": "Strømsund",
+      "latitude": 58.550602,
+      "longitude": 8.974028
+    },
+    {
+      "name": "Strømsund",
+      "latitude": 58.627972,
+      "longitude": 9.113802
+    },
+    {
+      "name": "Stusøysundet",
+      "latitude": 58.007972,
+      "longitude": 7.484864
+    },
+    {
+      "name": "Styrsøysundet",
+      "latitude": 70.036028,
+      "longitude": 18.64691
+    },
+    {
+      "name": "Styvissundet",
+      "latitude": 60.945797,
+      "longitude": 6.9354
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.016864,
+      "longitude": 7.409028
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.029043,
+      "longitude": 7.229329
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.184396,
+      "longitude": 6.809517
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.22191,
+      "longitude": 6.846204
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.320182,
+      "longitude": 8.336762
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.33518,
+      "longitude": 8.610234
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.460097,
+      "longitude": 5.977735
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.722913,
+      "longitude": 9.204773
+    },
+    {
+      "name": "Sundet",
+      "latitude": 58.760128,
+      "longitude": 7.537103
+    },
+    {
+      "name": "Sundet",
+      "latitude": 60.376942,
+      "longitude": 10.885331
+    },
+    {
+      "name": "Sundet",
+      "latitude": 60.507114,
+      "longitude": 5.508661
+    },
+    {
+      "name": "Sundet",
+      "latitude": 61.041828,
+      "longitude": 9.458192
+    },
+    {
+      "name": "Sundet",
+      "latitude": 63.58668,
+      "longitude": 9.377046
+    },
+    {
+      "name": "Sundet",
+      "latitude": 63.748967,
+      "longitude": 11.29486
+    },
+    {
+      "name": "Sundet",
+      "latitude": 66.007641,
+      "longitude": 12.924321
+    },
+    {
+      "name": "Sundkjeften",
+      "latitude": 63.470013,
+      "longitude": 8.098239
+    },
+    {
+      "name": "Sundklakkstraumen",
+      "latitude": 68.28594,
+      "longitude": 14.108878
+    },
+    {
+      "name": "Sundnessundet",
+      "latitude": 59.744468,
+      "longitude": 5.729593
+    },
+    {
+      "name": "Sundsgapet",
+      "latitude": 58.463724,
+      "longitude": 5.878651
+    },
+    {
+      "name": "Sundsråsa",
+      "latitude": 64.457772,
+      "longitude": 11.242018
+    },
+    {
+      "name": "Sundsstraumen",
+      "latitude": 68.744304,
+      "longitude": 14.604328
+    },
+    {
+      "name": "Sundstraumen",
+      "latitude": 67.209659,
+      "longitude": 14.517642
+    },
+    {
+      "name": "Sundstraumen",
+      "latitude": 68.035699,
+      "longitude": 13.170084
+    },
+    {
+      "name": "Sunnalansstraumen",
+      "latitude": 59.186423,
+      "longitude": 5.401604
+    },
+    {
+      "name": "Suomasnjavvi",
+      "latitude": 69.413298,
+      "longitude": 23.622552
+    },
+    {
+      "name": "Survikstraumen",
+      "latitude": 68.761707,
+      "longitude": 14.599714
+    },
+    {
+      "name": "Surviksundet",
+      "latitude": 64.547274,
+      "longitude": 11.393989
+    },
+    {
+      "name": "Suttevikpollen",
+      "latitude": 58.126211,
+      "longitude": 6.746578
+    },
+    {
+      "name": "Svalbarden",
+      "latitude": 63.678081,
+      "longitude": 8.280988
+    },
+    {
+      "name": "Svalbardkjeften",
+      "latitude": 63.680054,
+      "longitude": 8.279518
+    },
+    {
+      "name": "Svartholmsålen",
+      "latitude": 59.910357,
+      "longitude": 5.076731
+    },
+    {
+      "name": "Svartoksleia",
+      "latitude": 63.012233,
+      "longitude": 7.193642
+    },
+    {
+      "name": "Svartoksleia",
+      "latitude": 67.271661,
+      "longitude": 14.277677
+    },
+    {
+      "name": "Svartskjersund",
+      "latitude": 58.014304,
+      "longitude": 6.981404
+    },
+    {
+      "name": "Svartskjærleia",
+      "latitude": 68.347855,
+      "longitude": 13.846206
+    },
+    {
+      "name": "Svartsundet",
+      "latitude": 68.367489,
+      "longitude": 15.029018
+    },
+    {
+      "name": "Svelgen",
+      "latitude": 60.456982,
+      "longitude": 4.954909
+    },
+    {
+      "name": "Svellingsundet",
+      "latitude": 63.802367,
+      "longitude": 8.801765
+    },
+    {
+      "name": "Svelvikstrømmen",
+      "latitude": 59.612253,
+      "longitude": 10.411156
+    },
+    {
+      "name": "Svelviksundet",
+      "latitude": 59.611427,
+      "longitude": 10.412194
+    },
+    {
+      "name": "Svenningssundet",
+      "latitude": 66.635492,
+      "longitude": 12.982094
+    },
+    {
+      "name": "Svineholmsundet",
+      "latitude": 58.021814,
+      "longitude": 7.657983
+    },
+    {
+      "name": "Svinesund",
+      "latitude": 59.096022,
+      "longitude": 11.262485
+    },
+    {
+      "name": "Sviningan",
+      "latitude": 67.138258,
+      "longitude": 13.987725
+    },
+    {
+      "name": "Svinstien",
+      "latitude": 64.915228,
+      "longitude": 11.38577
+    },
+    {
+      "name": "Svinstraumen",
+      "latitude": 63.777813,
+      "longitude": 8.780522
+    },
+    {
+      "name": "Svinsundet",
+      "latitude": 63.482681,
+      "longitude": 8.290965
+    },
+    {
+      "name": "Svinøystraumen",
+      "latitude": 63.757868,
+      "longitude": 8.636276
+    },
+    {
+      "name": "Svinøysundet",
+      "latitude": 62.477852,
+      "longitude": 6.265104
+    },
+    {
+      "name": "Svinøysundet",
+      "latitude": 63.687759,
+      "longitude": 8.74707
+    },
+    {
+      "name": "Svinøysundet",
+      "latitude": 64.864381,
+      "longitude": 11.005002
+    },
+    {
+      "name": "Svinøysundet",
+      "latitude": 67.657319,
+      "longitude": 15.032333
+    },
+    {
+      "name": "Svinøysundet",
+      "latitude": 68.871145,
+      "longitude": 14.956534
+    },
+    {
+      "name": "Symjinga",
+      "latitude": 60.551371,
+      "longitude": 5.599748
+    },
+    {
+      "name": "Synstøyveita",
+      "latitude": 63.805939,
+      "longitude": 8.694055
+    },
+    {
+      "name": "Sålåsundet",
+      "latitude": 63.186069,
+      "longitude": 8.175472
+    },
+    {
+      "name": "Såsteinsundet",
+      "latitude": 58.969377,
+      "longitude": 9.700402
+    },
+    {
+      "name": "Sætreosen",
+      "latitude": 60.585513,
+      "longitude": 4.972944
+    },
+    {
+      "name": "Søftan",
+      "latitude": 67.17405,
+      "longitude": 13.701578
+    },
+    {
+      "name": "Sølifjorden",
+      "latitude": 65.676755,
+      "longitude": 11.772942
+    },
+    {
+      "name": "Søløysundet",
+      "latitude": 59.605955,
+      "longitude": 5.12574
+    },
+    {
+      "name": "Søndre Djupsund",
+      "latitude": 60.433131,
+      "longitude": 10.236514
+    },
+    {
+      "name": "Søndre Flåværleia",
+      "latitude": 62.277267,
+      "longitude": 5.455656
+    },
+    {
+      "name": "Søndre Gløtsundet",
+      "latitude": 61.935569,
+      "longitude": 11.908836
+    },
+    {
+      "name": "Sønningdalsund",
+      "latitude": 58.261835,
+      "longitude": 8.468769
+    },
+    {
+      "name": "Sønnøyosen",
+      "latitude": 59.595905,
+      "longitude": 5.131431
+    },
+    {
+      "name": "Sør-Ellingråsa",
+      "latitude": 64.580376,
+      "longitude": 10.820274
+    },
+    {
+      "name": "Søra Brokasundet",
+      "latitude": 59.92475,
+      "longitude": 5.155078
+    },
+    {
+      "name": "Søra Sundet",
+      "latitude": 58.441309,
+      "longitude": 5.987262
+    },
+    {
+      "name": "Sørburøyråsa",
+      "latitude": 63.97816,
+      "longitude": 9.039502
+    },
+    {
+      "name": "Søre Angstaursundet",
+      "latitude": 69.668659,
+      "longitude": 18.190527
+    },
+    {
+      "name": "Søre Bjørgeholmsundet",
+      "latitude": 62.492186,
+      "longitude": 6.351203
+    },
+    {
+      "name": "Søre Dragsundet",
+      "latitude": 62.490047,
+      "longitude": 6.723587
+    },
+    {
+      "name": "Søre Dypingsundet",
+      "latitude": 67.539065,
+      "longitude": 14.623349
+    },
+    {
+      "name": "Søre Egdholmsundet",
+      "latitude": 60.261369,
+      "longitude": 5.212795
+    },
+    {
+      "name": "Søre Kvernøyråsa",
+      "latitude": 64.530193,
+      "longitude": 10.763254
+    },
+    {
+      "name": "Søre Osen",
+      "latitude": 59.88613,
+      "longitude": 5.089002
+    },
+    {
+      "name": "Søre Sauøysundet",
+      "latitude": 63.993067,
+      "longitude": 9.158167
+    },
+    {
+      "name": "Søre Straumen",
+      "latitude": 63.33049,
+      "longitude": 8.070051
+    },
+    {
+      "name": "Sørleia",
+      "latitude": 65.308405,
+      "longitude": 11.529164
+    },
+    {
+      "name": "Sørråsa",
+      "latitude": 64.519962,
+      "longitude": 11.49828
+    },
+    {
+      "name": "Sørstraumen",
+      "latitude": 68.29133,
+      "longitude": 16.467856
+    },
+    {
+      "name": "Sørstraumen - Rivdnji",
+      "latitude": 69.39471,
+      "longitude": 19.482491
+    },
+    {
+      "name": "Sørsundet",
+      "latitude": 63.106599,
+      "longitude": 7.726408
+    },
+    {
+      "name": "Sørsundet",
+      "latitude": 65.855622,
+      "longitude": 14.1587
+    },
+    {
+      "name": "Sørsundet",
+      "latitude": 69.679894,
+      "longitude": 18.146118
+    },
+    {
+      "name": "Sørvalen",
+      "latitude": 68.204018,
+      "longitude": 16.409567
+    },
+    {
+      "name": "Søråsværfjorden",
+      "latitude": 66.200505,
+      "longitude": 12.321396
+    },
+    {
+      "name": "Sørøyråsa",
+      "latitude": 64.753736,
+      "longitude": 10.599489
+    },
+    {
+      "name": "Sørøysundet",
+      "latitude": 70.546282,
+      "longitude": 22.965349
+    },
+    {
+      "name": "Søylesundet",
+      "latitude": 58.41684,
+      "longitude": 8.500578
+    },
+    {
+      "name": "Taftasundet",
+      "latitude": 62.514945,
+      "longitude": 6.459939
+    },
+    {
+      "name": "Tangefjorden",
+      "latitude": 62.763408,
+      "longitude": 6.663637
+    },
+    {
+      "name": "Tangesund",
+      "latitude": 58.096144,
+      "longitude": 8.107501
+    },
+    {
+      "name": "Tangsundet",
+      "latitude": 65.827107,
+      "longitude": 12.59079
+    },
+    {
+      "name": "Tannsundet",
+      "latitude": 63.426995,
+      "longitude": 8.923965
+    },
+    {
+      "name": "Tansøysundet",
+      "latitude": 61.500013,
+      "longitude": 4.965692
+    },
+    {
+      "name": "Tarvafjorden",
+      "latitude": 63.812823,
+      "longitude": 9.558929
+    },
+    {
+      "name": "Teistholmflaket",
+      "latitude": 58.121308,
+      "longitude": 8.08323
+    },
+    {
+      "name": "Teistholmsundet",
+      "latitude": 63.731945,
+      "longitude": 8.619532
+    },
+    {
+      "name": "Ternholmfjorden",
+      "latitude": 66.881445,
+      "longitude": 13.07991
+    },
+    {
+      "name": "Terøysundet",
+      "latitude": 59.987332,
+      "longitude": 5.75675
+    },
+    {
+      "name": "Tilsetsundet",
+      "latitude": 68.883501,
+      "longitude": 15.001101
+    },
+    {
+      "name": "Tindskjærleia",
+      "latitude": 64.110046,
+      "longitude": 9.160137
+    },
+    {
+      "name": "Tindsleia",
+      "latitude": 67.883124,
+      "longitude": 13.000525
+    },
+    {
+      "name": "Tindsvågen",
+      "latitude": 67.884189,
+      "longitude": 13.001925
+    },
+    {
+      "name": "Tistelsund",
+      "latitude": 61.283749,
+      "longitude": 4.621586
+    },
+    {
+      "name": "Tisundet",
+      "latitude": 63.76545,
+      "longitude": 8.870568
+    },
+    {
+      "name": "Tjeldsundet - Dielddanuorri",
+      "latitude": 68.56526,
+      "longitude": 16.408414
+    },
+    {
+      "name": "Tjuvaholet",
+      "latitude": 59.76775,
+      "longitude": 5.106215
+    },
+    {
+      "name": "Tjuvholmsundet",
+      "latitude": 63.484924,
+      "longitude": 8.298179
+    },
+    {
+      "name": "Tjæravågstraumen",
+      "latitude": 63.576171,
+      "longitude": 9.138801
+    },
+    {
+      "name": "Tjønnøystraumen",
+      "latitude": 63.507417,
+      "longitude": 8.280306
+    },
+    {
+      "name": "Tjønnøysundet",
+      "latitude": 63.785889,
+      "longitude": 8.623781
+    },
+    {
+      "name": "Toftosen",
+      "latitude": 60.183451,
+      "longitude": 5.036917
+    },
+    {
+      "name": "Toftsundet",
+      "latitude": 65.466694,
+      "longitude": 12.122233
+    },
+    {
+      "name": "Tollekastsund",
+      "latitude": 58.742989,
+      "longitude": 9.08804
+    },
+    {
+      "name": "Tollesundet",
+      "latitude": 61.171101,
+      "longitude": 5.044999
+    },
+    {
+      "name": "Toppsund",
+      "latitude": 58.720028,
+      "longitude": 9.263505
+    },
+    {
+      "name": "Toppsundet",
+      "latitude": 68.89553,
+      "longitude": 16.40213
+    },
+    {
+      "name": "Torgnessundet",
+      "latitude": 65.488378,
+      "longitude": 12.106097
+    },
+    {
+      "name": "Torkilsleia",
+      "latitude": 63.823651,
+      "longitude": 8.365909
+    },
+    {
+      "name": "Torsetsundet",
+      "latitude": 63.321437,
+      "longitude": 8.632844
+    },
+    {
+      "name": "Toskesundet",
+      "latitude": 62.468101,
+      "longitude": 6.226866
+    },
+    {
+      "name": "Toskosen",
+      "latitude": 59.712703,
+      "longitude": 5.102549
+    },
+    {
+      "name": "Tovesundet",
+      "latitude": 59.885331,
+      "longitude": 5.037135
+    },
+    {
+      "name": "Trangesundet",
+      "latitude": 60.331878,
+      "longitude": 10.706578
+    },
+    {
+      "name": "Traugråsa",
+      "latitude": 64.825984,
+      "longitude": 10.573311
+    },
+    {
+      "name": "Treflesleia",
+      "latitude": 63.157808,
+      "longitude": 7.542383
+    },
+    {
+      "name": "Trettholmsosen",
+      "latitude": 59.836686,
+      "longitude": 5.067937
+    },
+    {
+      "name": "Trollholmsundet",
+      "latitude": 65.489065,
+      "longitude": 12.090032
+    },
+    {
+      "name": "Trollosen",
+      "latitude": 59.90264,
+      "longitude": 5.169496
+    },
+    {
+      "name": "Trollskjærhølen",
+      "latitude": 64.026293,
+      "longitude": 8.995227
+    },
+    {
+      "name": "Trollsundet",
+      "latitude": 71.039539,
+      "longitude": 24.006363
+    },
+    {
+      "name": "Tromssundet",
+      "latitude": 63.842267,
+      "longitude": 8.62283
+    },
+    {
+      "name": "Tromsøysundet - Romssanuorri",
+      "latitude": 69.6748,
+      "longitude": 19.010819
+    },
+    {
+      "name": "Tromøysund",
+      "latitude": 58.480997,
+      "longitude": 8.842959
+    },
+    {
+      "name": "Trondheimsleia",
+      "latitude": 63.467355,
+      "longitude": 8.890411
+    },
+    {
+      "name": "Trong-Skjomen",
+      "latitude": 68.372227,
+      "longitude": 17.238464
+    },
+    {
+      "name": "Trongasundet",
+      "latitude": 59.923972,
+      "longitude": 5.198253
+    },
+    {
+      "name": "Trongesundet",
+      "latitude": 61.786853,
+      "longitude": 4.933884
+    },
+    {
+      "name": "Trongsundet",
+      "latitude": 63.394062,
+      "longitude": 10.530671
+    },
+    {
+      "name": "Trongsundet",
+      "latitude": 65.18718,
+      "longitude": 13.30219
+    },
+    {
+      "name": "Trongsundet",
+      "latitude": 67.887261,
+      "longitude": 15.003355
+    },
+    {
+      "name": "Tronkasundet",
+      "latitude": 64.177815,
+      "longitude": 9.424059
+    },
+    {
+      "name": "Trosundet",
+      "latitude": 65.797142,
+      "longitude": 12.510938
+    },
+    {
+      "name": "Trøastraumen",
+      "latitude": 63.781897,
+      "longitude": 8.688656
+    },
+    {
+      "name": "Tuvesundet",
+      "latitude": 59.753901,
+      "longitude": 5.143225
+    },
+    {
+      "name": "Tuvesundsosen",
+      "latitude": 59.747692,
+      "longitude": 5.13494
+    },
+    {
+      "name": "Tverrsund",
+      "latitude": 59.586852,
+      "longitude": 5.157231
+    },
+    {
+      "name": "Tverrsundet",
+      "latitude": 67.06725,
+      "longitude": 14.230169
+    },
+    {
+      "name": "Tverrøyleia",
+      "latitude": 67.154408,
+      "longitude": 13.753167
+    },
+    {
+      "name": "Tvibergsråsa",
+      "latitude": 64.751967,
+      "longitude": 10.831919
+    },
+    {
+      "name": "Tvibyrgssundet",
+      "latitude": 61.349408,
+      "longitude": 4.870505
+    },
+    {
+      "name": "Tånessundet",
+      "latitude": 58.016003,
+      "longitude": 7.668592
+    },
+    {
+      "name": "Tåsundet",
+      "latitude": 68.199029,
+      "longitude": 13.482974
+    },
+    {
+      "name": "Tøftasundet",
+      "latitude": 63.652675,
+      "longitude": 8.765761
+    },
+    {
+      "name": "Tørjesundet",
+      "latitude": 58.073867,
+      "longitude": 8.012843
+    },
+    {
+      "name": "Udøyfjorden",
+      "latitude": 57.988668,
+      "longitude": 7.585001
+    },
+    {
+      "name": "Ufredsundet",
+      "latitude": 58.013375,
+      "longitude": 7.638414
+    },
+    {
+      "name": "Ullerøysundet",
+      "latitude": 58.049757,
+      "longitude": 6.92266
+    },
+    {
+      "name": "Ulvesundet",
+      "latitude": 61.956104,
+      "longitude": 5.141487
+    },
+    {
+      "name": "Ulvsundet",
+      "latitude": 63.674583,
+      "longitude": 9.032822
+    },
+    {
+      "name": "Ulvågsundet",
+      "latitude": 68.290754,
+      "longitude": 14.969868
+    },
+    {
+      "name": "Ulvøysund",
+      "latitude": 58.113385,
+      "longitude": 8.210312
+    },
+    {
+      "name": "Ulvøysundet",
+      "latitude": 59.871956,
+      "longitude": 10.778006
+    },
+    {
+      "name": "Urdsøystraumen",
+      "latitude": 63.849809,
+      "longitude": 8.652922
+    },
+    {
+      "name": "Uskasundet",
+      "latitude": 58.953656,
+      "longitude": 5.847684
+    },
+    {
+      "name": "Uttorgvika",
+      "latitude": 65.42594,
+      "longitude": 11.925745
+    },
+    {
+      "name": "Valan",
+      "latitude": 67.051039,
+      "longitude": 13.655358
+    },
+    {
+      "name": "Valen",
+      "latitude": 63.383274,
+      "longitude": 10.557744
+    },
+    {
+      "name": "Valen",
+      "latitude": 63.471413,
+      "longitude": 8.312224
+    },
+    {
+      "name": "Valen",
+      "latitude": 68.342135,
+      "longitude": 16.180379
+    },
+    {
+      "name": "Valen",
+      "latitude": 69.506684,
+      "longitude": 19.699962
+    },
+    {
+      "name": "Valholet",
+      "latitude": 63.708141,
+      "longitude": 8.507774
+    },
+    {
+      "name": "Vallersundet",
+      "latitude": 63.861314,
+      "longitude": 9.731787
+    },
+    {
+      "name": "Vallkråkleia",
+      "latitude": 65.729384,
+      "longitude": 11.751071
+    },
+    {
+      "name": "Valløysundet",
+      "latitude": 67.153867,
+      "longitude": 13.725331
+    },
+    {
+      "name": "Valrenna",
+      "latitude": 68.298935,
+      "longitude": 15.035169
+    },
+    {
+      "name": "Valsøysundet",
+      "latitude": 63.141062,
+      "longitude": 8.532933
+    },
+    {
+      "name": "Valværfjorden",
+      "latitude": 66.801893,
+      "longitude": 12.815036
+    },
+    {
+      "name": "Valøyfjorden",
+      "latitude": 64.930743,
+      "longitude": 10.807056
+    },
+    {
+      "name": "Valøyoddleia",
+      "latitude": 63.318501,
+      "longitude": 7.704363
+    },
+    {
+      "name": "Valøyoddleia",
+      "latitude": 63.318893,
+      "longitude": 7.695436
+    },
+    {
+      "name": "Valøysundet",
+      "latitude": 67.391126,
+      "longitude": 13.884948
+    },
+    {
+      "name": "Valøysvaet",
+      "latitude": 63.326566,
+      "longitude": 7.762946
+    },
+    {
+      "name": "Vambusundet",
+      "latitude": 63.353212,
+      "longitude": 7.859991
+    },
+    {
+      "name": "Vannsundet",
+      "latitude": 70.036945,
+      "longitude": 19.842681
+    },
+    {
+      "name": "Vardnedploven",
+      "latitude": 59.772305,
+      "longitude": 5.105624
+    },
+    {
+      "name": "Vardnesoset",
+      "latitude": 67.804542,
+      "longitude": 14.761747
+    },
+    {
+      "name": "Vardnessundet",
+      "latitude": 59.775598,
+      "longitude": 5.10697
+    },
+    {
+      "name": "Vardøysundet",
+      "latitude": 58.730136,
+      "longitude": 9.298372
+    },
+    {
+      "name": "Vardøysundet",
+      "latitude": 66.396581,
+      "longitude": 12.796419
+    },
+    {
+      "name": "Vareidsundet",
+      "latitude": 68.110594,
+      "longitude": 13.322222
+    },
+    {
+      "name": "Vargsundet - Várggonuorri",
+      "latitude": 70.341046,
+      "longitude": 23.442191
+    },
+    {
+      "name": "Varholmsundet",
+      "latitude": 68.149963,
+      "longitude": 14.220457
+    },
+    {
+      "name": "Varmsundet",
+      "latitude": 57.99505,
+      "longitude": 7.000764
+    },
+    {
+      "name": "Varøysundet",
+      "latitude": 66.405522,
+      "longitude": 12.804378
+    },
+    {
+      "name": "Vassreset",
+      "latitude": 61.567843,
+      "longitude": 4.967966
+    },
+    {
+      "name": "Vassvikstraumen",
+      "latitude": 67.914525,
+      "longitude": 15.541083
+    },
+    {
+      "name": "Vassøysundet",
+      "latitude": 63.859015,
+      "longitude": 8.648572
+    },
+    {
+      "name": "Vassøysvaet",
+      "latitude": 63.857663,
+      "longitude": 8.63225
+    },
+    {
+      "name": "Vatnfjordstraumen",
+      "latitude": 68.348701,
+      "longitude": 14.449808
+    },
+    {
+      "name": "Vatnimellom",
+      "latitude": 59.203586,
+      "longitude": 8.943929
+    },
+    {
+      "name": "Vatnstraumen",
+      "latitude": 67.908069,
+      "longitude": 15.529733
+    },
+    {
+      "name": "Vedholmsundet",
+      "latitude": 67.115486,
+      "longitude": 13.834433
+    },
+    {
+      "name": "Vedøysundet",
+      "latitude": 68.494723,
+      "longitude": 15.220603
+    },
+    {
+      "name": "Vegafjorden",
+      "latitude": 65.519951,
+      "longitude": 11.9458
+    },
+    {
+      "name": "Vegsundet",
+      "latitude": 62.431943,
+      "longitude": 6.35269
+    },
+    {
+      "name": "Veidahølen",
+      "latitude": 63.501964,
+      "longitude": 7.890942
+    },
+    {
+      "name": "Veidahølen",
+      "latitude": 63.503467,
+      "longitude": 7.897011
+    },
+    {
+      "name": "Veisegabet",
+      "latitude": 58.11137,
+      "longitude": 6.764618
+    },
+    {
+      "name": "Veket",
+      "latitude": 59.823406,
+      "longitude": 5.136281
+    },
+    {
+      "name": "Vengsøyfjorden",
+      "latitude": 69.810691,
+      "longitude": 18.480491
+    },
+    {
+      "name": "Vennesundet",
+      "latitude": 65.214205,
+      "longitude": 12.041091
+    },
+    {
+      "name": "Verjeskiftet",
+      "latitude": 63.479113,
+      "longitude": 7.990668
+    },
+    {
+      "name": "Verøysundet",
+      "latitude": 63.787064,
+      "longitude": 8.886498
+    },
+    {
+      "name": "Verøyvalan",
+      "latitude": 63.697352,
+      "longitude": 8.423903
+    },
+    {
+      "name": "Vesle Rosund",
+      "latitude": 60.633228,
+      "longitude": 10.091389
+    },
+    {
+      "name": "Vesleholsund",
+      "latitude": 60.008865,
+      "longitude": 5.812257
+    },
+    {
+      "name": "Veslenaveren",
+      "latitude": 59.410684,
+      "longitude": 10.79561
+    },
+    {
+      "name": "Veslesundet",
+      "latitude": 60.282825,
+      "longitude": 11.123739
+    },
+    {
+      "name": "Veslesundet",
+      "latitude": 61.038444,
+      "longitude": 9.466197
+    },
+    {
+      "name": "Vestergapet",
+      "latitude": 58.0839,
+      "longitude": 7.972931
+    },
+    {
+      "name": "Vestersundet",
+      "latitude": 66.750217,
+      "longitude": 12.431811
+    },
+    {
+      "name": "Vesterålsfjorden",
+      "latitude": 68.578809,
+      "longitude": 14.541435
+    },
+    {
+      "name": "Vestpollstraumen",
+      "latitude": 68.325063,
+      "longitude": 14.694016
+    },
+    {
+      "name": "Vestra Spyssøysundet",
+      "latitude": 59.721381,
+      "longitude": 5.365384
+    },
+    {
+      "name": "Vestre Akstholmsund",
+      "latitude": 58.07095,
+      "longitude": 8.024804
+    },
+    {
+      "name": "Vestre Bjørkesund",
+      "latitude": 58.254469,
+      "longitude": 8.466502
+    },
+    {
+      "name": "Vestre Bremsund",
+      "latitude": 58.730033,
+      "longitude": 9.277336
+    },
+    {
+      "name": "Vestre Leisundet",
+      "latitude": 58.007486,
+      "longitude": 7.425856
+    },
+    {
+      "name": "Vestre Remalssundet",
+      "latitude": 59.9041,
+      "longitude": 5.122543
+    },
+    {
+      "name": "Vestre Straumøysundet",
+      "latitude": 59.890422,
+      "longitude": 5.243323
+    },
+    {
+      "name": "Vestre Vrangholmsundet",
+      "latitude": 58.081047,
+      "longitude": 6.925147
+    },
+    {
+      "name": "Vettastraumen",
+      "latitude": 63.637878,
+      "longitude": 8.781563
+    },
+    {
+      "name": "Vetterhusstraumen",
+      "latitude": 64.56954,
+      "longitude": 11.618464
+    },
+    {
+      "name": "Vettøyleia",
+      "latitude": 67.677536,
+      "longitude": 14.709761
+    },
+    {
+      "name": "Vettøysundet",
+      "latitude": 67.671625,
+      "longitude": 14.730025
+    },
+    {
+      "name": "Vevelstadsundet",
+      "latitude": 65.686679,
+      "longitude": 12.411564
+    },
+    {
+      "name": "Vikasundet",
+      "latitude": 63.80063,
+      "longitude": 8.78303
+    },
+    {
+      "name": "Vikelsundet",
+      "latitude": 58.0466,
+      "longitude": 6.908039
+    },
+    {
+      "name": "Vikholmsundet",
+      "latitude": 58.080905,
+      "longitude": 6.884854
+    },
+    {
+      "name": "Vikkjet",
+      "latitude": 68.488944,
+      "longitude": 15.202761
+    },
+    {
+      "name": "Vikleia",
+      "latitude": 63.666788,
+      "longitude": 8.268499
+    },
+    {
+      "name": "Viksvaet",
+      "latitude": 63.783093,
+      "longitude": 8.749859
+    },
+    {
+      "name": "Vikøysundet",
+      "latitude": 59.880217,
+      "longitude": 5.099667
+    },
+    {
+      "name": "Vingleia",
+      "latitude": 63.947137,
+      "longitude": 8.619547
+    },
+    {
+      "name": "Vinjesundet",
+      "latitude": 68.812267,
+      "longitude": 14.767742
+    },
+    {
+      "name": "Vinnasundet",
+      "latitude": 70.565205,
+      "longitude": 23.389978
+    },
+    {
+      "name": "Vinnessundet",
+      "latitude": 60.154131,
+      "longitude": 5.578611
+    },
+    {
+      "name": "Vollkilen",
+      "latitude": 58.75186,
+      "longitude": 9.313799
+    },
+    {
+      "name": "Vordsundet",
+      "latitude": 64.603252,
+      "longitude": 10.953684
+    },
+    {
+      "name": "Vrengen",
+      "latitude": 58.005525,
+      "longitude": 7.545817
+    },
+    {
+      "name": "Vrengen",
+      "latitude": 58.013503,
+      "longitude": 7.667983
+    },
+    {
+      "name": "Vrengen",
+      "latitude": 58.114919,
+      "longitude": 8.105603
+    },
+    {
+      "name": "Vrengen",
+      "latitude": 58.437715,
+      "longitude": 8.716756
+    },
+    {
+      "name": "Vågakjeften",
+      "latitude": 63.338441,
+      "longitude": 8.144109
+    },
+    {
+      "name": "Vågsværbugen",
+      "latitude": 63.801476,
+      "longitude": 8.329182
+    },
+    {
+      "name": "Våningssundet",
+      "latitude": 58.716414,
+      "longitude": 9.116469
+    },
+    {
+      "name": "Værholmsundet",
+      "latitude": 63.315709,
+      "longitude": 8.492174
+    },
+    {
+      "name": "Værøyflaget",
+      "latitude": 68.629425,
+      "longitude": 14.371113
+    },
+    {
+      "name": "Vøan",
+      "latitude": 68.297192,
+      "longitude": 13.764138
+    },
+    {
+      "name": "Vølan",
+      "latitude": 62.936941,
+      "longitude": 6.966606
+    },
+    {
+      "name": "Ydre Naudesundet",
+      "latitude": 58.072643,
+      "longitude": 7.107242
+    },
+    {
+      "name": "Ytre Klakkasundet",
+      "latitude": 63.337059,
+      "longitude": 8.118494
+    },
+    {
+      "name": "Ytre Steinsundet",
+      "latitude": 61.058886,
+      "longitude": 4.728885
+    },
+    {
+      "name": "Ytre Styrsundet",
+      "latitude": 63.274554,
+      "longitude": 8.269964
+    },
+    {
+      "name": "Ytre Svartskjersund",
+      "latitude": 58.013702,
+      "longitude": 6.980095
+    },
+    {
+      "name": "Ytre Vikleisundet",
+      "latitude": 63.674101,
+      "longitude": 8.276546
+    },
+    {
+      "name": "Ytre Ørpegapet",
+      "latitude": 58.004264,
+      "longitude": 7.595644
+    },
+    {
+      "name": "Ytresundet",
+      "latitude": 65.453991,
+      "longitude": 12.174032
+    },
+    {
+      "name": "Ytterstraumen",
+      "latitude": 68.374263,
+      "longitude": 15.673425
+    },
+    {
+      "name": "Yttersund",
+      "latitude": 58.682102,
+      "longitude": 9.221777
+    },
+    {
+      "name": "Yttersundet",
+      "latitude": 63.669846,
+      "longitude": 8.304501
+    },
+    {
+      "name": "Yttervalan",
+      "latitude": 63.616704,
+      "longitude": 8.643169
+    },
+    {
+      "name": "Yttervalen",
+      "latitude": 68.205762,
+      "longitude": 16.383603
+    },
+    {
+      "name": "Åfjordsstraumen",
+      "latitude": 63.900619,
+      "longitude": 9.945322
+    },
+    {
+      "name": "Ågresundet",
+      "latitude": 58.322499,
+      "longitude": 8.521902
+    },
+    {
+      "name": "Åkraviksundet",
+      "latitude": 60.4496,
+      "longitude": 4.909735
+    },
+    {
+      "name": "Åkviksundet",
+      "latitude": 66.030399,
+      "longitude": 12.300922
+    },
+    {
+      "name": "Åkvågsunda",
+      "latitude": 58.661113,
+      "longitude": 9.167074
+    },
+    {
+      "name": "Åkvågsunda",
+      "latitude": 58.664297,
+      "longitude": 9.172702
+    },
+    {
+      "name": "Ålesundet",
+      "latitude": 62.472561,
+      "longitude": 6.152208
+    },
+    {
+      "name": "Åmnessundet",
+      "latitude": 66.781183,
+      "longitude": 13.421108
+    },
+    {
+      "name": "Ånsøysundet",
+      "latitude": 67.162333,
+      "longitude": 13.798017
+    },
+    {
+      "name": "Årnøysundet",
+      "latitude": 68.424856,
+      "longitude": 14.843479
+    },
+    {
+      "name": "Årsetsundet",
+      "latitude": 62.492295,
+      "longitude": 6.365773
+    },
+    {
+      "name": "Årtalsvaet",
+      "latitude": 63.792702,
+      "longitude": 8.439603
+    },
+    {
+      "name": "Åssundet",
+      "latitude": 58.017423,
+      "longitude": 7.635118
+    },
+    {
+      "name": "Åstasundet",
+      "latitude": 63.373609,
+      "longitude": 8.211275
+    },
+    {
+      "name": "Øklandsosen",
+      "latitude": 59.810817,
+      "longitude": 5.11102
+    },
+    {
+      "name": "Økssundet",
+      "latitude": 67.969694,
+      "longitude": 15.299361
+    },
+    {
+      "name": "Øllegårdsundet",
+      "latitude": 68.017548,
+      "longitude": 15.470371
+    },
+    {
+      "name": "Ølsund",
+      "latitude": 59.21482,
+      "longitude": 6.091949
+    },
+    {
+      "name": "Ølsund",
+      "latitude": 60.639789,
+      "longitude": 10.089433
+    },
+    {
+      "name": "Østergapet",
+      "latitude": 58.090307,
+      "longitude": 8.057441
+    },
+    {
+      "name": "Østre Akstholmsund",
+      "latitude": 58.072678,
+      "longitude": 8.025622
+    },
+    {
+      "name": "Østre Bjørkesund",
+      "latitude": 58.257017,
+      "longitude": 8.467457
+    },
+    {
+      "name": "Østre Færøyrenna",
+      "latitude": 58.056472,
+      "longitude": 6.833367
+    },
+    {
+      "name": "Østre Leisundet",
+      "latitude": 58.008047,
+      "longitude": 7.428869
+    },
+    {
+      "name": "Østre Vrangholmsundet",
+      "latitude": 58.081382,
+      "longitude": 6.931847
+    },
+    {
+      "name": "Øvre Sund",
+      "latitude": 59.7454,
+      "longitude": 10.188106
+    },
+    {
+      "name": "Øvre Vrangen",
+      "latitude": 59.429603,
+      "longitude": 10.708082
+    },
+    {
+      "name": "Øyesund",
+      "latitude": 58.401565,
+      "longitude": 8.391195
+    },
+    {
+      "name": "Øyhellsundet",
+      "latitude": 68.2899,
+      "longitude": 14.839904
+    },
+    {
+      "name": "Øynesund",
+      "latitude": 58.379691,
+      "longitude": 8.504108
+    },
+    {
+      "name": "Øynevågen",
+      "latitude": 58.208298,
+      "longitude": 6.578126
+    },
+    {
+      "name": "Øysundet",
+      "latitude": 68.743152,
+      "longitude": 16.147113
+    },
+    {
+      "name": "Øysundet",
+      "latitude": 68.822259,
+      "longitude": 15.534067
+    },
+    {
+      "name": "Øyvollsundet",
+      "latitude": 58.107511,
+      "longitude": 6.760383
+    }
+  ],
+  "meta": {
+    "title": "Named straits in Norway - Gratis nedlasting",
+    "description": "Named straits in Norway, derived from OpenStreetMap POI nodes tagged natural=strait in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 1620 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named straits in Norway | ListBase",
+    "seo_description": "Last ned Named straits in Norway — 1620 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 1620 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

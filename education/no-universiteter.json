@@ -1,0 +1,306 @@
+{
+  "id": "no-universiteter",
+  "name": "Norway — Universiteter & høgskoler (Universities)",
+  "title": "Norway — Universiteter & høgskoler (Universities)",
+  "description": "List of universities and university colleges (høgskoler) in Norway. Each record carries the institution name, primary registered domain, full domain-alias list, primary web page, country, ISO-3166-1 alpha-2 country code, and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Norway\"). Native Norwegian-language names and diacritics (å/æ/ø) preserved verbatim.",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agder University College",
+      "slug": "hia",
+      "domain": "hia.no",
+      "domains": "hia.no",
+      "web_page": "http://www.hia.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Agricultural University of Norway",
+      "slug": "nlh",
+      "domain": "nlh.no",
+      "domains": "nlh.no",
+      "web_page": "http://www.nlh.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Bergen University College",
+      "slug": "hib",
+      "domain": "hib.no",
+      "domains": "hib.no",
+      "web_page": "http://www.hib.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Bodo Regional University",
+      "slug": "hibo",
+      "domain": "hibo.no",
+      "domains": "hibo.no",
+      "web_page": "http://www.hibo.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Finnmark University College",
+      "slug": "hifm",
+      "domain": "hifm.no",
+      "domains": "hifm.no",
+      "web_page": "http://www.hifm.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Kristiania University College",
+      "slug": "kristiania",
+      "domain": "kristiania.no",
+      "domains": "kristiania.no",
+      "web_page": "https://kristiania.no",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": "Østlandet"
+    },
+    {
+      "name": "Lillehammer University College",
+      "slug": "hil",
+      "domain": "hil.no",
+      "domains": "hil.no",
+      "web_page": "http://www.hil.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Molde University College",
+      "slug": "himolde",
+      "domain": "himolde.no",
+      "domains": "himolde.no",
+      "web_page": "http://www.himolde.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "National Academy of Fine Arts",
+      "slug": "ska",
+      "domain": "ska.khio.no",
+      "domains": "ska.khio.no",
+      "web_page": "http://ska.khio.no/main",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "National College of Art and Design",
+      "slug": "khio",
+      "domain": "khio.no",
+      "domains": "khio.no",
+      "web_page": "http://www.khio.no/shks/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norway's Information Technology University College",
+      "slug": "nith",
+      "domain": "nith.no",
+      "domains": "nith.no",
+      "web_page": "http://www.nith.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norwegian College of Veterinary Medicine",
+      "slug": "veths",
+      "domain": "veths.no",
+      "domains": "veths.no",
+      "web_page": "http://www.veths.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norwegian School of Economics and Business Administration",
+      "slug": "nhh",
+      "domain": "nhh.no",
+      "domains": "nhh.no",
+      "web_page": "http://www.nhh.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norwegian School of Management BI",
+      "slug": "bi",
+      "domain": "bi.no",
+      "domains": "bi.no",
+      "web_page": "http://www.bi.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norwegian State Academy of Music",
+      "slug": "nmh",
+      "domain": "nmh.no",
+      "domains": "nmh.no",
+      "web_page": "http://www.nmh.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norwegian Teacher Academy for Studies in Religion and Education",
+      "slug": "nla",
+      "domain": "nla.no",
+      "domains": "nla.no",
+      "web_page": "http://www.nla.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norwegian University of Life Sciences",
+      "slug": "umb",
+      "domain": "umb.no",
+      "domains": "umb.no",
+      "web_page": "http://www.umb.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norwegian University of Science and Technology",
+      "slug": "ntnu",
+      "domain": "ntnu.no",
+      "domains": "ntnu.no",
+      "web_page": "http://www.ntnu.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Norwegian University of Sport and Physical Education",
+      "slug": "nih",
+      "domain": "nih.no",
+      "domains": "nih.no",
+      "web_page": "http://www.nih.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "Oslo School of Architecture",
+      "slug": "aho",
+      "domain": "aho.no",
+      "domains": "aho.no",
+      "web_page": "http://www.aho.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Bergen",
+      "slug": "uib",
+      "domain": "uib.no",
+      "domains": "uib.no",
+      "web_page": "http://www.uib.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Oslo",
+      "slug": "uio",
+      "domain": "uio.no",
+      "domains": "uio.no",
+      "web_page": "http://www.uio.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Stavanger",
+      "slug": "uis",
+      "domain": "uis.no",
+      "domains": "uis.no",
+      "web_page": "http://www.uis.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    },
+    {
+      "name": "University of Tromsø",
+      "slug": "uit",
+      "domain": "uit.no",
+      "domains": "uit.no",
+      "web_page": "http://www.uit.no/",
+      "country": "Norway",
+      "country_code": "NO",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Norway — Universiteter & høgskoler (Universities) - Gratis nedlasting",
+    "description": "List of universities and university colleges (høgskoler) in Norway. Each record carries the institution name, primary registered domain, full domain-alias list, primary web page, country, ISO-3166-1 alpha-2 country code, and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Norway\"). Native Norwegian-language names and diacritics (å/æ/ø) preserved verbatim. Inneholder 24 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Norway — Universiteter & høgskoler (Universities) | ListBase",
+    "seo_description": "Last ned Norway — Universiteter & høgskoler (Universities) — 24 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 24 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

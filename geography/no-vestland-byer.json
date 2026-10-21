@@ -1,0 +1,952 @@
+{
+  "id": "no-vestland-byer",
+  "name": "Byer og steder i Vestland (Cities and places in Vestland county, Norway)",
+  "title": "Byer og steder i Vestland (Cities and places in Vestland county, Norway)",
+  "description": "Byer og steder i fylket Vestland i Noreg (99 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Vestland county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79047,
+      "name": "Askvoll",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.34850000",
+      "longitude": "5.05318000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79048,
+      "name": "Askøy",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.40916000",
+      "longitude": "5.22599000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79053,
+      "name": "Aurland",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.90556000",
+      "longitude": "7.18734000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79056,
+      "name": "Austevoll",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.09578000",
+      "longitude": "5.22722000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79057,
+      "name": "Austrheim",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.77742000",
+      "longitude": "4.93227000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79060,
+      "name": "Balestrand",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.20809000",
+      "longitude": "6.53551000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79069,
+      "name": "Bergen",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.39200000",
+      "longitude": "5.32800000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79088,
+      "name": "Bremanger",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.76862000",
+      "longitude": "5.28907000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79097,
+      "name": "Bømlo",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.79384000",
+      "longitude": "5.17624000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79098,
+      "name": "Dale",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.58639000",
+      "longitude": "5.81888000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79110,
+      "name": "Eid",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.90684000",
+      "longitude": "5.99321000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79112,
+      "name": "Eidfjord",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.46741000",
+      "longitude": "7.06971000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79119,
+      "name": "Eikelandsosen",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.24175000",
+      "longitude": "5.74433000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79120,
+      "name": "Eivindvik",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.98133000",
+      "longitude": "5.07497000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79125,
+      "name": "Espeland",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.38249000",
+      "longitude": "5.46570000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79126,
+      "name": "Etne",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.66472000",
+      "longitude": "5.93438000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79133,
+      "name": "Farnes",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.30850000",
+      "longitude": "7.79694000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79136,
+      "name": "Fedje",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.77873000",
+      "longitude": "4.71965000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79142,
+      "name": "Fitjar",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.91742000",
+      "longitude": "5.31637000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79143,
+      "name": "Fjaler",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.36383000",
+      "longitude": "5.39808000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79144,
+      "name": "Fjell",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.36267000",
+      "longitude": "5.12194000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79151,
+      "name": "Flora",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.59994000",
+      "longitude": "5.03144000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79152,
+      "name": "Florø",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.59957000",
+      "longitude": "5.03280000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79160,
+      "name": "Frekhaug",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.51321000",
+      "longitude": "5.24252000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79166,
+      "name": "Fusa",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.24072000",
+      "longitude": "5.74458000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79169,
+      "name": "Førde",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.45045000",
+      "longitude": "5.85397000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79171,
+      "name": "Gaular",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.32564000",
+      "longitude": "5.79523000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79172,
+      "name": "Gaupne",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.40472000",
+      "longitude": "7.29458000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79183,
+      "name": "Gloppen",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.77728000",
+      "longitude": "6.21561000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79187,
+      "name": "Granvin",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.52629000",
+      "longitude": "6.72178000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79194,
+      "name": "Gulen",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.98192000",
+      "longitude": "5.07408000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79198,
+      "name": "Hagavik",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.18076000",
+      "longitude": "5.40146000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79206,
+      "name": "Hardbakke",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.07562000",
+      "longitude": "4.84111000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79218,
+      "name": "Hermansverk",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.18461000",
+      "longitude": "6.85016000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79235,
+      "name": "Hornindal",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.96925000",
+      "longitude": "6.52249000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79243,
+      "name": "Hylkje",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.51028000",
+      "longitude": "5.35444000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79244,
+      "name": "Hyllestad",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.17036000",
+      "longitude": "5.29614000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79248,
+      "name": "Høyanger",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.21880000",
+      "longitude": "6.07308000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79252,
+      "name": "Indre Arna",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.41768000",
+      "longitude": "5.47087000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79258,
+      "name": "Jondal",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.27620000",
+      "longitude": "6.25257000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79261,
+      "name": "Jølster",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.56923000",
+      "longitude": "6.48351000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79269,
+      "name": "Kinsarvik",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.37567000",
+      "longitude": "6.71948000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79277,
+      "name": "Knappskog",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.37906000",
+      "longitude": "5.05602000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79279,
+      "name": "Knarvik",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.54530000",
+      "longitude": "5.28208000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79291,
+      "name": "Kvam",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.36977000",
+      "longitude": "6.14344000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79293,
+      "name": "Kvinnherad",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.98421000",
+      "longitude": "6.01227000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79308,
+      "name": "Leikanger",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.18556000",
+      "longitude": "6.82199000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79311,
+      "name": "Leirvik",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.77977000",
+      "longitude": "5.50051000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79326,
+      "name": "Lindås",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.54910000",
+      "longitude": "5.28559000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79328,
+      "name": "Lonevåg",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.52556000",
+      "longitude": "5.49563000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79335,
+      "name": "Luster",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.40310000",
+      "longitude": "7.29793000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79341,
+      "name": "Lærdal",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.09842000",
+      "longitude": "7.48101000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79342,
+      "name": "Lærdalsøyri",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.10001000",
+      "longitude": "7.47374000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79351,
+      "name": "Manger",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.64145000",
+      "longitude": "5.04136000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79354,
+      "name": "Masfjorden",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.79947000",
+      "longitude": "5.30035000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79357,
+      "name": "Meland",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.51777000",
+      "longitude": "5.24063000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79367,
+      "name": "Modalen",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.81735000",
+      "longitude": "5.80790000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79376,
+      "name": "Mosterhamn",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.69919000",
+      "longitude": "5.38585000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79380,
+      "name": "Måløy",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.93535000",
+      "longitude": "5.11362000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79387,
+      "name": "Naustdal",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.51034000",
+      "longitude": "5.71719000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79406,
+      "name": "Nordfjordeid",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.91220000",
+      "longitude": "5.98557000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79413,
+      "name": "Norheimsund",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.37089000",
+      "longitude": "6.14562000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79417,
+      "name": "Odda",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.06697000",
+      "longitude": "6.54541000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79423,
+      "name": "Os",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.18547000",
+      "longitude": "5.46962000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79426,
+      "name": "Osterøy",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.52389000",
+      "longitude": "5.50551000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79434,
+      "name": "Radøy",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.64187000",
+      "longitude": "5.04110000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79457,
+      "name": "Rosendal",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.98589000",
+      "longitude": "6.01157000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79459,
+      "name": "Rubbestadneset",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.81559000",
+      "longitude": "5.26822000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79473,
+      "name": "Sagvåg",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.78139000",
+      "longitude": "5.38996000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79476,
+      "name": "Samnanger",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.37745000",
+      "longitude": "5.76219000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79478,
+      "name": "Sandane",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.77277000",
+      "longitude": "6.21496000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79479,
+      "name": "Sande",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.32511000",
+      "longitude": "5.79773000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79485,
+      "name": "Sandsli",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.30323000",
+      "longitude": "5.28554000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79492,
+      "name": "Selje",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "62.04263000",
+      "longitude": "5.34449000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79517,
+      "name": "Skogsvågen",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.25512000",
+      "longitude": "5.10161000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79529,
+      "name": "Sogndal",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.23144000",
+      "longitude": "7.10301000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79532,
+      "name": "Solund",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.07394000",
+      "longitude": "4.83876000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79548,
+      "name": "Stord",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.78092000",
+      "longitude": "5.49980000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79550,
+      "name": "Storebø",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.09485000",
+      "longitude": "5.22705000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79558,
+      "name": "Straume",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.36131000",
+      "longitude": "5.12199000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79561,
+      "name": "Stryn",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.90406000",
+      "longitude": "6.72400000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79564,
+      "name": "Sund",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.27019000",
+      "longitude": "5.07225000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79568,
+      "name": "Sveio",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "59.54303000",
+      "longitude": "5.35410000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79569,
+      "name": "Svelgen",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.76976000",
+      "longitude": "5.29544000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79572,
+      "name": "Syfteland",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.23803000",
+      "longitude": "5.45285000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79617,
+      "name": "Tysnes",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.04076000",
+      "longitude": "5.53129000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79622,
+      "name": "Ullensvang",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.37501000",
+      "longitude": "6.72073000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79626,
+      "name": "Ulvik",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.56719000",
+      "longitude": "6.91871000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79629,
+      "name": "Vaksdal",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.59030000",
+      "longitude": "5.82272000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79652,
+      "name": "Vik",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.08863000",
+      "longitude": "6.58512000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79662,
+      "name": "Voss",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.62780000",
+      "longitude": "6.41831000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79664,
+      "name": "Vågsøy",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.93544000",
+      "longitude": "5.11402000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79670,
+      "name": "Ytre Arna",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.46175000",
+      "longitude": "5.43265000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79671,
+      "name": "Ytrebygda",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.30504000",
+      "longitude": "5.28236000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79675,
+      "name": "Ågotnes",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.40306000",
+      "longitude": "5.01927000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79682,
+      "name": "Årdal",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.23639000",
+      "longitude": "7.70204000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79683,
+      "name": "Årdalstangen",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "61.23581000",
+      "longitude": "7.70370000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79702,
+      "name": "Øygarden",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.59041000",
+      "longitude": "4.83890000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79703,
+      "name": "Øystese",
+      "county": "Vestland",
+      "county_iso3166_2": "NO-46",
+      "latitude": "60.38825000",
+      "longitude": "6.19251000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Vestland (Cities and places in Vestland county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Vestland i Noreg (99 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Vestland county, Norway. Inneholder 99 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Vestland (Cities and places in Vestland county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Vestland (Cities and places in Vestland county, Norway) — 99 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 99 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

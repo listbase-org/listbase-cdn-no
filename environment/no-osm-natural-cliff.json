@@ -1,0 +1,5451 @@
+{
+  "id": "no-osm-natural-cliff",
+  "name": "Named cliffs in Norway",
+  "title": "Named cliffs in Norway",
+  "description": "Named cliffs in Norway, derived from OpenStreetMap POI nodes tagged natural=cliff in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1082,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "930 sydveg",
+      "latitude": 69.72692,
+      "longitude": 18.412058
+    },
+    {
+      "name": "Akslahamrane",
+      "latitude": 61.674192,
+      "longitude": 7.299614
+    },
+    {
+      "name": "Alderfjellet",
+      "latitude": 66.402664,
+      "longitude": 13.102992
+    },
+    {
+      "name": "Alisfjellet - Sørvendt sva",
+      "latitude": 58.893712,
+      "longitude": 5.900211
+    },
+    {
+      "name": "Almekråberget",
+      "latitude": 61.677242,
+      "longitude": 7.324289
+    },
+    {
+      "name": "Almeskorane",
+      "latitude": 61.449733,
+      "longitude": 7.2717
+    },
+    {
+      "name": "Almfloget",
+      "latitude": 66.755092,
+      "longitude": 13.339617
+    },
+    {
+      "name": "Almhammar",
+      "latitude": 61.041831,
+      "longitude": 7.503003
+    },
+    {
+      "name": "Almlifloget",
+      "latitude": 66.520297,
+      "longitude": 13.282567
+    },
+    {
+      "name": "Andaberg",
+      "latitude": 60.89239,
+      "longitude": 7.186338
+    },
+    {
+      "name": "Andersskorane",
+      "latitude": 61.444394,
+      "longitude": 7.271606
+    },
+    {
+      "name": "Armdreparveggen",
+      "latitude": 69.603276,
+      "longitude": 18.022049
+    },
+    {
+      "name": "Aunsetberget",
+      "latitude": 60.673608,
+      "longitude": 8.623018
+    },
+    {
+      "name": "Austdalsberget",
+      "latitude": 67.458447,
+      "longitude": 11.930883
+    },
+    {
+      "name": "Austnesbrotet",
+      "latitude": 59.897046,
+      "longitude": 5.227272
+    },
+    {
+      "name": "Bakkaberget",
+      "latitude": 61.61488,
+      "longitude": 9.675144
+    },
+    {
+      "name": "Balhammaren",
+      "latitude": 60.158149,
+      "longitude": 5.670993
+    },
+    {
+      "name": "Bananveggen",
+      "latitude": 58.10893,
+      "longitude": 7.931386
+    },
+    {
+      "name": "Barlindebråtet",
+      "latitude": 59.893238,
+      "longitude": 5.096903
+    },
+    {
+      "name": "Barnehageveggen",
+      "latitude": 59.900277,
+      "longitude": 10.854043
+    },
+    {
+      "name": "Beisaren",
+      "latitude": 76.707804,
+      "longitude": 25.472473
+    },
+    {
+      "name": "Beitlanipa",
+      "latitude": 60.983009,
+      "longitude": 7.050333
+    },
+    {
+      "name": "Beitmyrloppet",
+      "latitude": 61.591308,
+      "longitude": 9.824581
+    },
+    {
+      "name": "Bekkestadhøgde",
+      "latitude": 60.58793,
+      "longitude": 8.417428
+    },
+    {
+      "name": "Bekkhammar",
+      "latitude": 61.54595,
+      "longitude": 7.279092
+    },
+    {
+      "name": "Bergaberget",
+      "latitude": 60.570693,
+      "longitude": 6.897786
+    },
+    {
+      "name": "Bergafjellet",
+      "latitude": 66.6531,
+      "longitude": 13.506761
+    },
+    {
+      "name": "Bergenden",
+      "latitude": 66.615681,
+      "longitude": 13.46855
+    },
+    {
+      "name": "Berges stol",
+      "latitude": 61.468751,
+      "longitude": 7.869228
+    },
+    {
+      "name": "Berget",
+      "latitude": 60.51507,
+      "longitude": 8.389342
+    },
+    {
+      "name": "Berget",
+      "latitude": 62.103506,
+      "longitude": 10.137798
+    },
+    {
+      "name": "Berghammaren",
+      "latitude": 61.751925,
+      "longitude": 9.563239
+    },
+    {
+      "name": "Bergheimstegen",
+      "latitude": 61.390211,
+      "longitude": 7.437738
+    },
+    {
+      "name": "Berghylla",
+      "latitude": 58.885325,
+      "longitude": 5.871329
+    },
+    {
+      "name": "Bertelberget",
+      "latitude": 66.6299,
+      "longitude": 13.297919
+    },
+    {
+      "name": "Bingsberga",
+      "latitude": 61.460119,
+      "longitude": 9.541525
+    },
+    {
+      "name": "Bispen",
+      "latitude": 60.586815,
+      "longitude": 8.714904
+    },
+    {
+      "name": "Bjerkreim - Kaiveggen",
+      "latitude": 58.582736,
+      "longitude": 6.123232
+    },
+    {
+      "name": "Bjødnastigen",
+      "latitude": 61.141945,
+      "longitude": 8.689419
+    },
+    {
+      "name": "Bjølleberg",
+      "latitude": 60.597929,
+      "longitude": 6.885069
+    },
+    {
+      "name": "Bjønnberget",
+      "latitude": 69.034882,
+      "longitude": 18.979702
+    },
+    {
+      "name": "Bjønndalsberget",
+      "latitude": 61.55223,
+      "longitude": 9.512671
+    },
+    {
+      "name": "Bjønnstigen",
+      "latitude": 60.826315,
+      "longitude": 7.097841
+    },
+    {
+      "name": "Bjønnstigen",
+      "latitude": 60.926186,
+      "longitude": 6.852483
+    },
+    {
+      "name": "Bjørkkjerrskotet",
+      "latitude": 58.38603,
+      "longitude": 8.445335
+    },
+    {
+      "name": "Bjørnahammaren",
+      "latitude": 61.653547,
+      "longitude": 7.304708
+    },
+    {
+      "name": "Bjørnastighammaren",
+      "latitude": 61.861566,
+      "longitude": 5.158338
+    },
+    {
+      "name": "Bjørndalsfloget",
+      "latitude": 66.483322,
+      "longitude": 13.109006
+    },
+    {
+      "name": "Bjørnestupet",
+      "latitude": 59.830888,
+      "longitude": 10.636355
+    },
+    {
+      "name": "Bjørnhammaren",
+      "latitude": 66.473236,
+      "longitude": 13.342772
+    },
+    {
+      "name": "Bjørnskor",
+      "latitude": 61.406633,
+      "longitude": 7.270903
+    },
+    {
+      "name": "Bjørnsonprofilen",
+      "latitude": 61.639356,
+      "longitude": 9.690508
+    },
+    {
+      "name": "Blakarsberget",
+      "latitude": 61.854842,
+      "longitude": 8.590239
+    },
+    {
+      "name": "Blakkberget",
+      "latitude": 61.559558,
+      "longitude": 10.147978
+    },
+    {
+      "name": "Blankberget",
+      "latitude": 61.84474,
+      "longitude": 7.443009
+    },
+    {
+      "name": "Blanksheller",
+      "latitude": 60.820262,
+      "longitude": 7.074708
+    },
+    {
+      "name": "Blomheller",
+      "latitude": 60.765453,
+      "longitude": 7.103306
+    },
+    {
+      "name": "Blomskredhammaren",
+      "latitude": 61.621525,
+      "longitude": 7.260883
+    },
+    {
+      "name": "Blåberg",
+      "latitude": 60.85795,
+      "longitude": 7.257953
+    },
+    {
+      "name": "Blåberg",
+      "latitude": 61.02118,
+      "longitude": 9.211767
+    },
+    {
+      "name": "Blåberg",
+      "latitude": 61.189392,
+      "longitude": 7.351558
+    },
+    {
+      "name": "Blåberget",
+      "latitude": 62.012033,
+      "longitude": 9.132247
+    },
+    {
+      "name": "Blåe berge",
+      "latitude": 61.221975,
+      "longitude": 8.637125
+    },
+    {
+      "name": "Blåfloget",
+      "latitude": 66.978925,
+      "longitude": 14.045478
+    },
+    {
+      "name": "Blåhellaren",
+      "latitude": 67.747333,
+      "longitude": 14.965903
+    },
+    {
+      "name": "Blånova",
+      "latitude": 69.678555,
+      "longitude": 19.193824
+    },
+    {
+      "name": "Bollhammar",
+      "latitude": 61.664156,
+      "longitude": 7.268908
+    },
+    {
+      "name": "Bordranden",
+      "latitude": 61.796806,
+      "longitude": 8.351128
+    },
+    {
+      "name": "Borgundskorande",
+      "latitude": 61.438925,
+      "longitude": 7.510072
+    },
+    {
+      "name": "Bortastberget",
+      "latitude": 61.576786,
+      "longitude": 9.650874
+    },
+    {
+      "name": "Boulder-stones!",
+      "latitude": 78.07879,
+      "longitude": 14.252312
+    },
+    {
+      "name": "Brakjeberget",
+      "latitude": 61.593953,
+      "longitude": 9.765769
+    },
+    {
+      "name": "Brattasva",
+      "latitude": 60.891344,
+      "longitude": 7.2205
+    },
+    {
+      "name": "Bratteberg",
+      "latitude": 58.352247,
+      "longitude": 8.546109
+    },
+    {
+      "name": "Brattlandsfjellet",
+      "latitude": 66.405889,
+      "longitude": 13.1882
+    },
+    {
+      "name": "Brattranden",
+      "latitude": 61.715083,
+      "longitude": 9.442789
+    },
+    {
+      "name": "Brattsberg",
+      "latitude": 58.334259,
+      "longitude": 8.39767
+    },
+    {
+      "name": "Brattstupet",
+      "latitude": 59.996906,
+      "longitude": 12.247331
+    },
+    {
+      "name": "Bregneberget",
+      "latitude": 60.944325,
+      "longitude": 8.38821
+    },
+    {
+      "name": "Breidlo",
+      "latitude": 58.768735,
+      "longitude": 6.747361
+    },
+    {
+      "name": "Breilifloget",
+      "latitude": 66.976778,
+      "longitude": 13.800669
+    },
+    {
+      "name": "Brekkøyhåmårn",
+      "latitude": 61.781705,
+      "longitude": 8.442841
+    },
+    {
+      "name": "Brennberget",
+      "latitude": 61.708679,
+      "longitude": 9.382959
+    },
+    {
+      "name": "Brenneberget",
+      "latitude": 61.147161,
+      "longitude": 8.853667
+    },
+    {
+      "name": "Brennene",
+      "latitude": 61.590628,
+      "longitude": 7.282736
+    },
+    {
+      "name": "Brennestupet",
+      "latitude": 59.639774,
+      "longitude": 9.770713
+    },
+    {
+      "name": "Bresva",
+      "latitude": 61.703817,
+      "longitude": 7.336611
+    },
+    {
+      "name": "Brettingsberget",
+      "latitude": 60.988494,
+      "longitude": 9.252414
+    },
+    {
+      "name": "Broke",
+      "latitude": 61.37535,
+      "longitude": 7.091786
+    },
+    {
+      "name": "Bruheimsberget",
+      "latitude": 61.587655,
+      "longitude": 7.303656
+    },
+    {
+      "name": "Bryggeberget",
+      "latitude": 66.591981,
+      "longitude": 12.648886
+    },
+    {
+      "name": "Bråtahamrane",
+      "latitude": 61.246283,
+      "longitude": 7.567092
+    },
+    {
+      "name": "Brønnberget",
+      "latitude": 63.980724,
+      "longitude": 9.080365
+    },
+    {
+      "name": "Brøtaberget",
+      "latitude": 60.889169,
+      "longitude": 9.622272
+    },
+    {
+      "name": "Bukkhammar",
+      "latitude": 61.541628,
+      "longitude": 7.291408
+    },
+    {
+      "name": "Burmaklippen",
+      "latitude": 63.399237,
+      "longitude": 10.474496
+    },
+    {
+      "name": "Buskarhødnet",
+      "latitude": 61.215042,
+      "longitude": 8.644844
+    },
+    {
+      "name": "Buskoran",
+      "latitude": 58.05867,
+      "longitude": 6.997307
+    },
+    {
+      "name": "Byfeliberget",
+      "latitude": 60.913969,
+      "longitude": 9.665425
+    },
+    {
+      "name": "Bygdeborgen",
+      "latitude": 60.195543,
+      "longitude": 10.210047
+    },
+    {
+      "name": "Byrkjedal",
+      "latitude": 58.799895,
+      "longitude": 6.366727
+    },
+    {
+      "name": "Båsdalsberget",
+      "latitude": 61.718602,
+      "longitude": 9.408919
+    },
+    {
+      "name": "Båseberg",
+      "latitude": 61.393797,
+      "longitude": 7.333964
+    },
+    {
+      "name": "Båsåkuri",
+      "latitude": 61.313639,
+      "longitude": 7.124153
+    },
+    {
+      "name": "Båtnesberget",
+      "latitude": 61.2555,
+      "longitude": 7.398778
+    },
+    {
+      "name": "Bærabergi",
+      "latitude": 60.639383,
+      "longitude": 8.673786
+    },
+    {
+      "name": "Bøensfjell",
+      "latitude": 58.135695,
+      "longitude": 6.75191
+    },
+    {
+      "name": "Børlifossen",
+      "latitude": 61.571587,
+      "longitude": 7.631858
+    },
+    {
+      "name": "Cape Thor",
+      "latitude": 76.44668,
+      "longitude": 24.906092
+    },
+    {
+      "name": "Cowboyveggen",
+      "latitude": 59.902717,
+      "longitude": 10.854501
+    },
+    {
+      "name": "Crazy Creek",
+      "latitude": 58.733244,
+      "longitude": 6.759616
+    },
+    {
+      "name": "Cruiceveggen",
+      "latitude": 58.132185,
+      "longitude": 8.003045
+    },
+    {
+      "name": "Dalbergje",
+      "latitude": 61.881094,
+      "longitude": 9.0569
+    },
+    {
+      "name": "Dalsmunin",
+      "latitude": 61.165525,
+      "longitude": 8.565755
+    },
+    {
+      "name": "Dalstuguberget",
+      "latitude": 61.604908,
+      "longitude": 9.786727
+    },
+    {
+      "name": "Dampane",
+      "latitude": 60.942281,
+      "longitude": 7.105939
+    },
+    {
+      "name": "Damtjern",
+      "latitude": 59.802874,
+      "longitude": 10.281606
+    },
+    {
+      "name": "Damtjernberget",
+      "latitude": 60.922425,
+      "longitude": 9.665825
+    },
+    {
+      "name": "Danemarkhødnet",
+      "latitude": 61.212561,
+      "longitude": 8.653479
+    },
+    {
+      "name": "Djevelberget",
+      "latitude": 69.664409,
+      "longitude": 19.079633
+    },
+    {
+      "name": "Djupberget",
+      "latitude": 61.776405,
+      "longitude": 8.432543
+    },
+    {
+      "name": "Djupvikfjellet",
+      "latitude": 66.502086,
+      "longitude": 13.037567
+    },
+    {
+      "name": "Dog wall",
+      "latitude": 58.111017,
+      "longitude": 7.929127
+    },
+    {
+      "name": "Dokkaberget",
+      "latitude": 60.955136,
+      "longitude": 9.635358
+    },
+    {
+      "name": "Dokkaberget",
+      "latitude": 61.555766,
+      "longitude": 9.896397
+    },
+    {
+      "name": "Dokkoberget",
+      "latitude": 61.163458,
+      "longitude": 8.801405
+    },
+    {
+      "name": "Dragonfjellet",
+      "latitude": 59.45558,
+      "longitude": 10.618066
+    },
+    {
+      "name": "Drysjanskør",
+      "latitude": 61.117175,
+      "longitude": 8.478305
+    },
+    {
+      "name": "Drøsjainberget",
+      "latitude": 61.162497,
+      "longitude": 8.395636
+    },
+    {
+      "name": "Dyrmyrberget",
+      "latitude": 61.881761,
+      "longitude": 8.679136
+    },
+    {
+      "name": "Edens hage",
+      "latitude": 58.15329,
+      "longitude": 7.961652
+    },
+    {
+      "name": "Eggum",
+      "latitude": 68.297947,
+      "longitude": 13.708605
+    },
+    {
+      "name": "Eikhammar",
+      "latitude": 60.57217,
+      "longitude": 7.015383
+    },
+    {
+      "name": "Einasplassbergje",
+      "latitude": 61.820383,
+      "longitude": 9.242417
+    },
+    {
+      "name": "Elvesætergjelet",
+      "latitude": 61.699741,
+      "longitude": 8.282552
+    },
+    {
+      "name": "Endeknabben",
+      "latitude": 61.092467,
+      "longitude": 8.000781
+    },
+    {
+      "name": "Endresvaet",
+      "latitude": 61.300354,
+      "longitude": 7.787121
+    },
+    {
+      "name": "Engelskhammaren",
+      "latitude": 61.512781,
+      "longitude": 7.453645
+    },
+    {
+      "name": "Engjeberget",
+      "latitude": 61.643152,
+      "longitude": 9.69947
+    },
+    {
+      "name": "Ersfjorden Parkeringsveggen",
+      "latitude": 69.700276,
+      "longitude": 18.620326
+    },
+    {
+      "name": "Europaveggen",
+      "latitude": 58.745639,
+      "longitude": 5.940986
+    },
+    {
+      "name": "Falkberget",
+      "latitude": 61.342722,
+      "longitude": 10.6076
+    },
+    {
+      "name": "Fallet",
+      "latitude": 61.267614,
+      "longitude": 10.445069
+    },
+    {
+      "name": "Fardalsberget",
+      "latitude": 61.427281,
+      "longitude": 7.441367
+    },
+    {
+      "name": "Farliskør",
+      "latitude": 61.121936,
+      "longitude": 8.484311
+    },
+    {
+      "name": "Farsetberget",
+      "latitude": 60.702642,
+      "longitude": 8.903078
+    },
+    {
+      "name": "Feivallsberget",
+      "latitude": 61.306772,
+      "longitude": 7.252367
+    },
+    {
+      "name": "Fenshammar",
+      "latitude": 61.547861,
+      "longitude": 7.631697
+    },
+    {
+      "name": "Fetnipa",
+      "latitude": 60.890702,
+      "longitude": 6.833268
+    },
+    {
+      "name": "Finnbergan",
+      "latitude": 69.621747,
+      "longitude": 19.039431
+    },
+    {
+      "name": "Finntøpp",
+      "latitude": 61.17062,
+      "longitude": 8.369158
+    },
+    {
+      "name": "Fiskebubergje",
+      "latitude": 61.686906,
+      "longitude": 8.182189
+    },
+    {
+      "name": "Fjell",
+      "latitude": 59.784548,
+      "longitude": 10.942975
+    },
+    {
+      "name": "Fjellan i Markisundet",
+      "latitude": 58.00456,
+      "longitude": 6.989814
+    },
+    {
+      "name": "Fjellkinnberget",
+      "latitude": 60.903581,
+      "longitude": 9.55422
+    },
+    {
+      "name": "Floaskorane",
+      "latitude": 61.508069,
+      "longitude": 7.5975
+    },
+    {
+      "name": "Flogan",
+      "latitude": 66.6538,
+      "longitude": 13.26325
+    },
+    {
+      "name": "Flogan",
+      "latitude": 67.094486,
+      "longitude": 14.406703
+    },
+    {
+      "name": "Flohamran",
+      "latitude": 67.727897,
+      "longitude": 15.453936
+    },
+    {
+      "name": "Fløgeisberget",
+      "latitude": 60.888542,
+      "longitude": 9.685442
+    },
+    {
+      "name": "Fosildalen",
+      "latitude": 59.783311,
+      "longitude": 10.491026
+    },
+    {
+      "name": "Fosseberget",
+      "latitude": 61.106553,
+      "longitude": 8.910169
+    },
+    {
+      "name": "Frafjord",
+      "latitude": 58.838761,
+      "longitude": 6.32063
+    },
+    {
+      "name": "Frisberget",
+      "latitude": 62.279827,
+      "longitude": 8.170651
+    },
+    {
+      "name": "Fuggelkastet",
+      "latitude": 60.872208,
+      "longitude": 9.497711
+    },
+    {
+      "name": "Fuglafjellet?",
+      "latitude": 58.714485,
+      "longitude": 5.992695
+    },
+    {
+      "name": "Fuglefjellet Floget",
+      "latitude": 70.06958,
+      "longitude": 30.150067
+    },
+    {
+      "name": "Furehammaren",
+      "latitude": 61.614733,
+      "longitude": 7.309553
+    },
+    {
+      "name": "Fureskori",
+      "latitude": 61.439214,
+      "longitude": 7.514172
+    },
+    {
+      "name": "Fysseberget",
+      "latitude": 61.028581,
+      "longitude": 7.009961
+    },
+    {
+      "name": "Følahammaren",
+      "latitude": 61.511386,
+      "longitude": 7.328139
+    },
+    {
+      "name": "Føroberget",
+      "latitude": 61.173117,
+      "longitude": 8.496564
+    },
+    {
+      "name": "Føssaberge",
+      "latitude": 61.154644,
+      "longitude": 8.741803
+    },
+    {
+      "name": "Galden",
+      "latitude": 60.831583,
+      "longitude": 7.150275
+    },
+    {
+      "name": "Galden",
+      "latitude": 61.151628,
+      "longitude": 8.655436
+    },
+    {
+      "name": "Galifjellet",
+      "latitude": 66.529444,
+      "longitude": 13.069078
+    },
+    {
+      "name": "Gamlegardsberget",
+      "latitude": 61.054186,
+      "longitude": 7.704328
+    },
+    {
+      "name": "Gamleolasva",
+      "latitude": 61.463414,
+      "longitude": 7.064681
+    },
+    {
+      "name": "Gamviktindan",
+      "latitude": 69.85348,
+      "longitude": 20.318507
+    },
+    {
+      "name": "Gamviktindan",
+      "latitude": 69.854501,
+      "longitude": 20.29851
+    },
+    {
+      "name": "Garddalsberget",
+      "latitude": 61.1426,
+      "longitude": 8.75055
+    },
+    {
+      "name": "Garliberget",
+      "latitude": 60.984222,
+      "longitude": 9.264725
+    },
+    {
+      "name": "Geitahammaren",
+      "latitude": 61.550208,
+      "longitude": 7.271547
+    },
+    {
+      "name": "Geitastegene",
+      "latitude": 61.050744,
+      "longitude": 7.789164
+    },
+    {
+      "name": "Geitasva",
+      "latitude": 61.492358,
+      "longitude": 7.611425
+    },
+    {
+      "name": "Geitasva",
+      "latitude": 61.71715,
+      "longitude": 7.340853
+    },
+    {
+      "name": "Geitbergan",
+      "latitude": 66.615731,
+      "longitude": 13.273728
+    },
+    {
+      "name": "Geiteberget",
+      "latitude": 61.197111,
+      "longitude": 8.387778
+    },
+    {
+      "name": "Geiteberget",
+      "latitude": 61.225569,
+      "longitude": 7.527917
+    },
+    {
+      "name": "Geithelleren",
+      "latitude": 60.435839,
+      "longitude": 5.361638
+    },
+    {
+      "name": "Geitloppet",
+      "latitude": 61.593644,
+      "longitude": 9.824253
+    },
+    {
+      "name": "Geitsettan",
+      "latitude": 61.583942,
+      "longitude": 9.878966
+    },
+    {
+      "name": "Geitstegen",
+      "latitude": 60.962708,
+      "longitude": 6.946517
+    },
+    {
+      "name": "Geitstugu",
+      "latitude": 61.599375,
+      "longitude": 9.693319
+    },
+    {
+      "name": "Gildrehammaren",
+      "latitude": 61.652386,
+      "longitude": 7.302358
+    },
+    {
+      "name": "Gildrestegen",
+      "latitude": 61.284244,
+      "longitude": 7.372814
+    },
+    {
+      "name": "Gilja",
+      "latitude": 58.813558,
+      "longitude": 6.250827
+    },
+    {
+      "name": "Gjennberget",
+      "latitude": 58.053091,
+      "longitude": 7.012102
+    },
+    {
+      "name": "Gjertahilleren",
+      "latitude": 61.432192,
+      "longitude": 7.231253
+    },
+    {
+      "name": "Gjertvasshaugen",
+      "latitude": 61.49203,
+      "longitude": 7.947289
+    },
+    {
+      "name": "Gloppedalen 1",
+      "latitude": 58.761762,
+      "longitude": 6.27986
+    },
+    {
+      "name": "Gloppedalen 2",
+      "latitude": 58.751299,
+      "longitude": 6.235885
+    },
+    {
+      "name": "Gloserhei gruve",
+      "latitude": 58.535635,
+      "longitude": 8.724123
+    },
+    {
+      "name": "Glupen",
+      "latitude": 61.706247,
+      "longitude": 9.51415
+    },
+    {
+      "name": "Gramstad",
+      "latitude": 58.884133,
+      "longitude": 5.784665
+    },
+    {
+      "name": "Granemyrfjell",
+      "latitude": 58.380538,
+      "longitude": 8.388319
+    },
+    {
+      "name": "Grevssjøberget",
+      "latitude": 61.491178,
+      "longitude": 9.910062
+    },
+    {
+      "name": "Grimshilleren",
+      "latitude": 61.434272,
+      "longitude": 7.253106
+    },
+    {
+      "name": "Grimsøberget",
+      "latitude": 61.033556,
+      "longitude": 7.800981
+    },
+    {
+      "name": "Grotteveggen",
+      "latitude": 78.984639,
+      "longitude": 11.990085
+    },
+    {
+      "name": "Grovlefjellet",
+      "latitude": 58.716858,
+      "longitude": 5.990204
+    },
+    {
+      "name": "Grusveggen",
+      "latitude": 59.252523,
+      "longitude": 10.468415
+    },
+    {
+      "name": "Grytberga",
+      "latitude": 61.466538,
+      "longitude": 9.423647
+    },
+    {
+      "name": "Gråberget",
+      "latitude": 60.555394,
+      "longitude": 9.04207
+    },
+    {
+      "name": "Gråberget",
+      "latitude": 61.400625,
+      "longitude": 7.551242
+    },
+    {
+      "name": "Gråberget",
+      "latitude": 61.588255,
+      "longitude": 9.862505
+    },
+    {
+      "name": "Gråhamaren",
+      "latitude": 61.443092,
+      "longitude": 7.209861
+    },
+    {
+      "name": "Gråhesten",
+      "latitude": 61.858003,
+      "longitude": 8.581337
+    },
+    {
+      "name": "Gråhåmårn",
+      "latitude": 61.838796,
+      "longitude": 8.599552
+    },
+    {
+      "name": "Gråkinnhammaren",
+      "latitude": 61.5946,
+      "longitude": 7.250778
+    },
+    {
+      "name": "Grånhåmårn",
+      "latitude": 61.862172,
+      "longitude": 8.73154
+    },
+    {
+      "name": "Grøningasva",
+      "latitude": 61.516969,
+      "longitude": 7.621489
+    },
+    {
+      "name": "Grønvik",
+      "latitude": 59.144674,
+      "longitude": 6.043872
+    },
+    {
+      "name": "Grøthovda",
+      "latitude": 60.602167,
+      "longitude": 8.538519
+    },
+    {
+      "name": "Guddefjellet",
+      "latitude": 59.987548,
+      "longitude": 10.852585
+    },
+    {
+      "name": "Gudmundskori",
+      "latitude": 61.422997,
+      "longitude": 7.263747
+    },
+    {
+      "name": "Gullkupa",
+      "latitude": 61.471672,
+      "longitude": 7.272292
+    },
+    {
+      "name": "Gullskrenten",
+      "latitude": 58.799911,
+      "longitude": 6.00808
+    },
+    {
+      "name": "Gullveggen",
+      "latitude": 58.801112,
+      "longitude": 6.007172
+    },
+    {
+      "name": "Gunhildsva",
+      "latitude": 61.427675,
+      "longitude": 7.260311
+    },
+    {
+      "name": "Guriberget",
+      "latitude": 61.593267,
+      "longitude": 10.020525
+    },
+    {
+      "name": "Gurihammaren",
+      "latitude": 61.808369,
+      "longitude": 9.596239
+    },
+    {
+      "name": "Gurihesberget",
+      "latitude": 61.013253,
+      "longitude": 9.581231
+    },
+    {
+      "name": "Gygri",
+      "latitude": 61.329519,
+      "longitude": 7.107831
+    },
+    {
+      "name": "Gås",
+      "latitude": 60.814589,
+      "longitude": 7.136667
+    },
+    {
+      "name": "Gørrbuflaget",
+      "latitude": 60.592059,
+      "longitude": 9.387577
+    },
+    {
+      "name": "Haflesva",
+      "latitude": 60.836672,
+      "longitude": 7.130553
+    },
+    {
+      "name": "Hagaberge",
+      "latitude": 61.099894,
+      "longitude": 8.937406
+    },
+    {
+      "name": "Hagaskorane",
+      "latitude": 61.416111,
+      "longitude": 7.276947
+    },
+    {
+      "name": "Hageskori",
+      "latitude": 61.417353,
+      "longitude": 7.107958
+    },
+    {
+      "name": "Hakkstein",
+      "latitude": 60.473403,
+      "longitude": 5.466544
+    },
+    {
+      "name": "Hallbrekk",
+      "latitude": 58.847122,
+      "longitude": 6.521734
+    },
+    {
+      "name": "Halls hammer",
+      "latitude": 61.465421,
+      "longitude": 7.872747
+    },
+    {
+      "name": "Halmrastløypa",
+      "latitude": 61.581069,
+      "longitude": 10.161592
+    },
+    {
+      "name": "Halsaberget",
+      "latitude": 60.855247,
+      "longitude": 6.793072
+    },
+    {
+      "name": "Halsabergi",
+      "latitude": 61.017025,
+      "longitude": 7.662289
+    },
+    {
+      "name": "Hamaren",
+      "latitude": 61.135184,
+      "longitude": 8.856007
+    },
+    {
+      "name": "Hammaren",
+      "latitude": 61.138253,
+      "longitude": 8.691389
+    },
+    {
+      "name": "Hammaren",
+      "latitude": 61.429894,
+      "longitude": 7.49247
+    },
+    {
+      "name": "Hammaren",
+      "latitude": 69.704693,
+      "longitude": 19.127676
+    },
+    {
+      "name": "Hammeren",
+      "latitude": 57.980986,
+      "longitude": 7.542328
+    },
+    {
+      "name": "Hamran",
+      "latitude": 62.564017,
+      "longitude": 10.946913
+    },
+    {
+      "name": "Hamran",
+      "latitude": 66.386958,
+      "longitude": 13.035303
+    },
+    {
+      "name": "Hamrane",
+      "latitude": 61.506947,
+      "longitude": 7.311333
+    },
+    {
+      "name": "Hankene",
+      "latitude": 61.422533,
+      "longitude": 7.203164
+    },
+    {
+      "name": "Hansberg",
+      "latitude": 61.837879,
+      "longitude": 9.303931
+    },
+    {
+      "name": "Hardasiglet",
+      "latitude": 61.095383,
+      "longitude": 7.511025
+    },
+    {
+      "name": "Hataberget",
+      "latitude": 60.875256,
+      "longitude": 8.531396
+    },
+    {
+      "name": "Hauefjell",
+      "latitude": 58.324253,
+      "longitude": 8.527279
+    },
+    {
+      "name": "Haugaberget",
+      "latitude": 60.532221,
+      "longitude": 6.900905
+    },
+    {
+      "name": "Haugaberget",
+      "latitude": 60.665454,
+      "longitude": 9.048147
+    },
+    {
+      "name": "Haugabergje",
+      "latitude": 61.847931,
+      "longitude": 9.016147
+    },
+    {
+      "name": "Haugaskotberget",
+      "latitude": 60.835897,
+      "longitude": 7.136029
+    },
+    {
+      "name": "Hauglandsfjellet",
+      "latitude": 66.360636,
+      "longitude": 13.041397
+    },
+    {
+      "name": "Haukberget",
+      "latitude": 61.477789,
+      "longitude": 9.399439
+    },
+    {
+      "name": "Haukhammar",
+      "latitude": 61.501925,
+      "longitude": 7.590961
+    },
+    {
+      "name": "Hedlersfjellet klatrefelt",
+      "latitude": 58.332557,
+      "longitude": 6.351367
+    },
+    {
+      "name": "Heggerustberget",
+      "latitude": 61.495219,
+      "longitude": 9.945819
+    },
+    {
+      "name": "Heimstølberget",
+      "latitude": 61.114903,
+      "longitude": 8.466483
+    },
+    {
+      "name": "Hekkelbergje",
+      "latitude": 61.705036,
+      "longitude": 8.304901
+    },
+    {
+      "name": "Hekken",
+      "latitude": 69.728012,
+      "longitude": 18.566338
+    },
+    {
+      "name": "Helleberg",
+      "latitude": 61.391456,
+      "longitude": 7.254875
+    },
+    {
+      "name": "Helleberget",
+      "latitude": 60.586371,
+      "longitude": 6.846499
+    },
+    {
+      "name": "Helleberget",
+      "latitude": 61.483125,
+      "longitude": 7.428081
+    },
+    {
+      "name": "Hellemobergi",
+      "latitude": 61.494278,
+      "longitude": 7.266492
+    },
+    {
+      "name": "Helmacks-veggen",
+      "latitude": 69.73226,
+      "longitude": 18.408438
+    },
+    {
+      "name": "Heln",
+      "latitude": 66.618308,
+      "longitude": 13.394808
+    },
+    {
+      "name": "Helvedesflogan",
+      "latitude": 66.759061,
+      "longitude": 13.375322
+    },
+    {
+      "name": "Helvetesberget",
+      "latitude": 61.391733,
+      "longitude": 7.311853
+    },
+    {
+      "name": "Herbergi",
+      "latitude": 61.709292,
+      "longitude": 7.747283
+    },
+    {
+      "name": "Herburshelleren",
+      "latitude": 61.509625,
+      "longitude": 7.5926
+    },
+    {
+      "name": "Herraberget",
+      "latitude": 61.549786,
+      "longitude": 10.133075
+    },
+    {
+      "name": "Hestberget",
+      "latitude": 66.676247,
+      "longitude": 13.500444
+    },
+    {
+      "name": "Hesteberget",
+      "latitude": 61.109053,
+      "longitude": 8.911211
+    },
+    {
+      "name": "Hestegardsberget",
+      "latitude": 61.181594,
+      "longitude": 8.398447
+    },
+    {
+      "name": "Hestehagaberget",
+      "latitude": 60.8979,
+      "longitude": 9.587775
+    },
+    {
+      "name": "Hestfloget",
+      "latitude": 66.840994,
+      "longitude": 13.421731
+    },
+    {
+      "name": "Hesthamran",
+      "latitude": 66.879361,
+      "longitude": 13.771603
+    },
+    {
+      "name": "Hesthaugsva",
+      "latitude": 61.470136,
+      "longitude": 7.168386
+    },
+    {
+      "name": "Hestspranget",
+      "latitude": 61.52418,
+      "longitude": 9.536014
+    },
+    {
+      "name": "Hibergi",
+      "latitude": 60.858848,
+      "longitude": 7.917662
+    },
+    {
+      "name": "Hidleren",
+      "latitude": 59.875518,
+      "longitude": 6.381178
+    },
+    {
+      "name": "Hieisberget",
+      "latitude": 61.022483,
+      "longitude": 9.528575
+    },
+    {
+      "name": "Hillerhø",
+      "latitude": 61.499392,
+      "longitude": 8.050895
+    },
+    {
+      "name": "Himlinghammaren",
+      "latitude": 61.094331,
+      "longitude": 7.48648
+    },
+    {
+      "name": "Hitaneshalsen",
+      "latitude": 61.274961,
+      "longitude": 7.729817
+    },
+    {
+      "name": "Hjellberget",
+      "latitude": 68.044722,
+      "longitude": 13.001569
+    },
+    {
+      "name": "Hodnet",
+      "latitude": 59.59532,
+      "longitude": 6.336496
+    },
+    {
+      "name": "Hoggberget",
+      "latitude": 61.666858,
+      "longitude": 9.52837
+    },
+    {
+      "name": "Hoggeberg",
+      "latitude": 61.030675,
+      "longitude": 7.788189
+    },
+    {
+      "name": "Holberget",
+      "latitude": 61.859136,
+      "longitude": 8.45707
+    },
+    {
+      "name": "Holshammaren",
+      "latitude": 61.890592,
+      "longitude": 8.304828
+    },
+    {
+      "name": "Holsæterberget",
+      "latitude": 61.728439,
+      "longitude": 9.578674
+    },
+    {
+      "name": "Homborsundfallet",
+      "latitude": 58.466671,
+      "longitude": 8.533335
+    },
+    {
+      "name": "Homhammaren",
+      "latitude": 61.184086,
+      "longitude": 7.602539
+    },
+    {
+      "name": "Hommelandssvaet",
+      "latitude": 58.87065,
+      "longitude": 5.99016
+    },
+    {
+      "name": "Horgenseteråsen",
+      "latitude": 59.799842,
+      "longitude": 9.998772
+    },
+    {
+      "name": "Hosva",
+      "latitude": 61.378375,
+      "longitude": 7.091681
+    },
+    {
+      "name": "Hovdahammaren",
+      "latitude": 61.610011,
+      "longitude": 7.269011
+    },
+    {
+      "name": "Hovdasvåi",
+      "latitude": 61.539867,
+      "longitude": 7.304483
+    },
+    {
+      "name": "Hovedveggen",
+      "latitude": 58.831286,
+      "longitude": 6.035404
+    },
+    {
+      "name": "Hoven",
+      "latitude": 60.967358,
+      "longitude": 7.009611
+    },
+    {
+      "name": "Huggustup",
+      "latitude": 61.022647,
+      "longitude": 9.589044
+    },
+    {
+      "name": "Hulderberget",
+      "latitude": 61.933467,
+      "longitude": 9.001867
+    },
+    {
+      "name": "Hundkast",
+      "latitude": 61.481462,
+      "longitude": 7.44248
+    },
+    {
+      "name": "Hundshammar",
+      "latitude": 61.230272,
+      "longitude": 7.713706
+    },
+    {
+      "name": "Husefjell",
+      "latitude": 58.333931,
+      "longitude": 8.491814
+    },
+    {
+      "name": "Husefjell",
+      "latitude": 58.356182,
+      "longitude": 8.358579
+    },
+    {
+      "name": "Hushammarn",
+      "latitude": 68.67879,
+      "longitude": 15.311745
+    },
+    {
+      "name": "Huskohammaren",
+      "latitude": 61.503456,
+      "longitude": 7.806489
+    },
+    {
+      "name": "Husøygavlen",
+      "latitude": 66.916897,
+      "longitude": 13.450864
+    },
+    {
+      "name": "Håberg",
+      "latitude": 60.939439,
+      "longitude": 6.890025
+    },
+    {
+      "name": "Hågåberget",
+      "latitude": 61.534061,
+      "longitude": 9.452964
+    },
+    {
+      "name": "Hågåberget",
+      "latitude": 61.730887,
+      "longitude": 9.527401
+    },
+    {
+      "name": "Håhammaren",
+      "latitude": 58.932175,
+      "longitude": 5.647586
+    },
+    {
+      "name": "Håkkåsteinen",
+      "latitude": 63.045146,
+      "longitude": 8.328598
+    },
+    {
+      "name": "Hålåberget",
+      "latitude": 61.733378,
+      "longitude": 9.651864
+    },
+    {
+      "name": "Håmmårberga",
+      "latitude": 61.562335,
+      "longitude": 9.586002
+    },
+    {
+      "name": "Høgaberg",
+      "latitude": 60.586058,
+      "longitude": 6.895112
+    },
+    {
+      "name": "Høgaberg",
+      "latitude": 60.940006,
+      "longitude": 7.148129
+    },
+    {
+      "name": "Høgberget",
+      "latitude": 61.55592,
+      "longitude": 10.143882
+    },
+    {
+      "name": "Høgberget",
+      "latitude": 61.56518,
+      "longitude": 9.977728
+    },
+    {
+      "name": "Høgberget",
+      "latitude": 61.577208,
+      "longitude": 9.631797
+    },
+    {
+      "name": "Høgberget",
+      "latitude": 61.583084,
+      "longitude": 9.877514
+    },
+    {
+      "name": "Høgberget",
+      "latitude": 61.623161,
+      "longitude": 9.700997
+    },
+    {
+      "name": "Høgberget",
+      "latitude": 61.673547,
+      "longitude": 9.648703
+    },
+    {
+      "name": "Høgberget",
+      "latitude": 61.701522,
+      "longitude": 9.475028
+    },
+    {
+      "name": "Høgbergje",
+      "latitude": 61.690256,
+      "longitude": 8.250278
+    },
+    {
+      "name": "Høgebrekken",
+      "latitude": 61.160679,
+      "longitude": 8.756436
+    },
+    {
+      "name": "Høgehamrane",
+      "latitude": 61.690061,
+      "longitude": 7.310267
+    },
+    {
+      "name": "Høgkastet",
+      "latitude": 60.047756,
+      "longitude": 10.601363
+    },
+    {
+      "name": "Høylandsfjellet",
+      "latitude": 58.141839,
+      "longitude": 6.834971
+    },
+    {
+      "name": "Høyre-veggen",
+      "latitude": 58.819258,
+      "longitude": 5.925322
+    },
+    {
+      "name": "Høyskorane",
+      "latitude": 61.025939,
+      "longitude": 7.837467
+    },
+    {
+      "name": "Illasva",
+      "latitude": 61.111039,
+      "longitude": 7.516414
+    },
+    {
+      "name": "Innerfjellet",
+      "latitude": 66.330489,
+      "longitude": 13.06
+    },
+    {
+      "name": "Isbergan",
+      "latitude": 66.811819,
+      "longitude": 13.666258
+    },
+    {
+      "name": "Ishoel",
+      "latitude": 62.574999,
+      "longitude": 9.383968
+    },
+    {
+      "name": "Ivabergje",
+      "latitude": 61.862539,
+      "longitude": 8.840897
+    },
+    {
+      "name": "Jakleskrenten",
+      "latitude": 60.149031,
+      "longitude": 10.366028
+    },
+    {
+      "name": "Jakobskredbergi",
+      "latitude": 61.131122,
+      "longitude": 7.28157
+    },
+    {
+      "name": "Jarberget",
+      "latitude": 66.536958,
+      "longitude": 12.796303
+    },
+    {
+      "name": "Jens-Pettersabergan",
+      "latitude": 66.449539,
+      "longitude": 13.293872
+    },
+    {
+      "name": "Jodejuvet",
+      "latitude": 59.13022,
+      "longitude": 6.304704
+    },
+    {
+      "name": "Jodekongen",
+      "latitude": 59.129947,
+      "longitude": 6.304962
+    },
+    {
+      "name": "Jofjellet",
+      "latitude": 68.021278,
+      "longitude": 12.983364
+    },
+    {
+      "name": "Jomfruberget",
+      "latitude": 60.749602,
+      "longitude": 8.473529
+    },
+    {
+      "name": "Jonsokberget",
+      "latitude": 60.609649,
+      "longitude": 8.478522
+    },
+    {
+      "name": "Joteberget",
+      "latitude": 61.385122,
+      "longitude": 7.049956
+    },
+    {
+      "name": "Juklaberget",
+      "latitude": 60.859767,
+      "longitude": 7.128255
+    },
+    {
+      "name": "Juklaberget",
+      "latitude": 61.457514,
+      "longitude": 7.50897
+    },
+    {
+      "name": "Juklasva",
+      "latitude": 61.072931,
+      "longitude": 7.052614
+    },
+    {
+      "name": "Jukleberg",
+      "latitude": 61.30212,
+      "longitude": 7.337397
+    },
+    {
+      "name": "Jukulhammaren",
+      "latitude": 61.197486,
+      "longitude": 8.333325
+    },
+    {
+      "name": "Jutulhogget",
+      "latitude": 61.876762,
+      "longitude": 9.788693
+    },
+    {
+      "name": "Jutulporten",
+      "latitude": 61.876081,
+      "longitude": 9.086553
+    },
+    {
+      "name": "Juvet, Frafjord",
+      "latitude": 58.835517,
+      "longitude": 6.27682
+    },
+    {
+      "name": "Jøndalsberget",
+      "latitude": 61.951508,
+      "longitude": 9.226183
+    },
+    {
+      "name": "Jøtlaberg",
+      "latitude": 61.387906,
+      "longitude": 7.268889
+    },
+    {
+      "name": "Kallaberg",
+      "latitude": 61.396705,
+      "longitude": 7.311079
+    },
+    {
+      "name": "Kalsnesberget",
+      "latitude": 61.018526,
+      "longitude": 7.068423
+    },
+    {
+      "name": "Kalstegane",
+      "latitude": 61.383528,
+      "longitude": 7.437931
+    },
+    {
+      "name": "Kalvatødne",
+      "latitude": 59.068445,
+      "longitude": 5.977079
+    },
+    {
+      "name": "Kalvberget",
+      "latitude": 61.386583,
+      "longitude": 10.445206
+    },
+    {
+      "name": "Kampen",
+      "latitude": 61.071594,
+      "longitude": 8.970278
+    },
+    {
+      "name": "Kampstulberga",
+      "latitude": 61.822497,
+      "longitude": 9.641247
+    },
+    {
+      "name": "Kantaberget",
+      "latitude": 62.183571,
+      "longitude": 8.656099
+    },
+    {
+      "name": "Kasaberget",
+      "latitude": 61.202683,
+      "longitude": 8.390606
+    },
+    {
+      "name": "Kastefossen",
+      "latitude": 59.919701,
+      "longitude": 10.417261
+    },
+    {
+      "name": "Kastnesbergan",
+      "latitude": 69.746298,
+      "longitude": 19.684983
+    },
+    {
+      "name": "Kattopsa",
+      "latitude": 58.368733,
+      "longitude": 8.668477
+    },
+    {
+      "name": "Kauvbergje",
+      "latitude": 61.732606,
+      "longitude": 8.427736
+    },
+    {
+      "name": "Kilabergan",
+      "latitude": 66.689361,
+      "longitude": 13.398769
+    },
+    {
+      "name": "Killingberg",
+      "latitude": 61.426039,
+      "longitude": 7.496395
+    },
+    {
+      "name": "Killingberget",
+      "latitude": 61.455603,
+      "longitude": 7.509931
+    },
+    {
+      "name": "Killingberget",
+      "latitude": 61.474152,
+      "longitude": 9.418806
+    },
+    {
+      "name": "Kinnberge",
+      "latitude": 61.0946,
+      "longitude": 8.943767
+    },
+    {
+      "name": "Kjeberget",
+      "latitude": 61.507825,
+      "longitude": 7.692417
+    },
+    {
+      "name": "Kjeberget",
+      "latitude": 61.518117,
+      "longitude": 7.598111
+    },
+    {
+      "name": "Kjeldarane",
+      "latitude": 61.140953,
+      "longitude": 8.743156
+    },
+    {
+      "name": "Kjellsen-steinen",
+      "latitude": 58.858929,
+      "longitude": 9.519392
+    },
+    {
+      "name": "Kjerag",
+      "latitude": 59.034516,
+      "longitude": 6.582524
+    },
+    {
+      "name": "Kjerringdalsfjellan",
+      "latitude": 58.147741,
+      "longitude": 6.780724
+    },
+    {
+      "name": "Kjerringfallet",
+      "latitude": 58.334886,
+      "longitude": 8.482544
+    },
+    {
+      "name": "Kjerringfjellet",
+      "latitude": 66.620483,
+      "longitude": 13.447444
+    },
+    {
+      "name": "Kjosberget",
+      "latitude": 60.967044,
+      "longitude": 10.659386
+    },
+    {
+      "name": "Kjølberg",
+      "latitude": 60.872272,
+      "longitude": 7.262178
+    },
+    {
+      "name": "Kjønndalsberget",
+      "latitude": 59.894373,
+      "longitude": 5.215598
+    },
+    {
+      "name": "Kjøremsberget",
+      "latitude": 61.669764,
+      "longitude": 9.634389
+    },
+    {
+      "name": "Kjørkefjellet",
+      "latitude": 58.266621,
+      "longitude": 7.197737
+    },
+    {
+      "name": "Kjørogjeldsdalsberget",
+      "latitude": 60.932411,
+      "longitude": 9.803731
+    },
+    {
+      "name": "Klanteberget",
+      "latitude": 61.078097,
+      "longitude": 7.913353
+    },
+    {
+      "name": "Kleivaberget",
+      "latitude": 60.896869,
+      "longitude": 9.660867
+    },
+    {
+      "name": "Kleivaberget",
+      "latitude": 60.918769,
+      "longitude": 9.649297
+    },
+    {
+      "name": "Kleivaberget",
+      "latitude": 61.152558,
+      "longitude": 8.820447
+    },
+    {
+      "name": "Kleivaberget",
+      "latitude": 61.199878,
+      "longitude": 8.643994
+    },
+    {
+      "name": "Kleivberga",
+      "latitude": 61.483049,
+      "longitude": 10.184844
+    },
+    {
+      "name": "Kleivberget",
+      "latitude": 61.603353,
+      "longitude": 9.776639
+    },
+    {
+      "name": "Kleivberget",
+      "latitude": 61.67898,
+      "longitude": 9.956301
+    },
+    {
+      "name": "Kleivhalsbergan",
+      "latitude": 66.35265,
+      "longitude": 12.995517
+    },
+    {
+      "name": "Kleivloppet",
+      "latitude": 61.592716,
+      "longitude": 9.824045
+    },
+    {
+      "name": "Kleppberget",
+      "latitude": 61.688464,
+      "longitude": 9.699481
+    },
+    {
+      "name": "Kleppfiskbergan",
+      "latitude": 66.802542,
+      "longitude": 13.186911
+    },
+    {
+      "name": "Kloppabergi",
+      "latitude": 61.721183,
+      "longitude": 7.346222
+    },
+    {
+      "name": "Klovningsberg",
+      "latitude": 61.385922,
+      "longitude": 7.4345
+    },
+    {
+      "name": "Klovoberget",
+      "latitude": 60.876378,
+      "longitude": 9.727597
+    },
+    {
+      "name": "Klubbeberget",
+      "latitude": 61.217069,
+      "longitude": 8.341086
+    },
+    {
+      "name": "Klypet",
+      "latitude": 61.497558,
+      "longitude": 7.452811
+    },
+    {
+      "name": "Kløfta",
+      "latitude": 58.323511,
+      "longitude": 8.541189
+    },
+    {
+      "name": "Kløfta",
+      "latitude": 58.721249,
+      "longitude": 6.24021
+    },
+    {
+      "name": "Kløvhammar",
+      "latitude": 61.478264,
+      "longitude": 7.443689
+    },
+    {
+      "name": "Knausen",
+      "latitude": 58.682919,
+      "longitude": 6.2285
+    },
+    {
+      "name": "Knekten",
+      "latitude": 61.501989,
+      "longitude": 7.744453
+    },
+    {
+      "name": "Knutebratten",
+      "latitude": 58.876411,
+      "longitude": 9.486184
+    },
+    {
+      "name": "Knutkastet",
+      "latitude": 60.034033,
+      "longitude": 10.612658
+    },
+    {
+      "name": "Knutsberg",
+      "latitude": 61.011558,
+      "longitude": 7.023231
+    },
+    {
+      "name": "Knutsberget",
+      "latitude": 60.974105,
+      "longitude": 7.10106
+    },
+    {
+      "name": "Knyggen",
+      "latitude": 58.111336,
+      "longitude": 6.82358
+    },
+    {
+      "name": "Kobbergaksla",
+      "latitude": 66.544053,
+      "longitude": 13.615719
+    },
+    {
+      "name": "Kolberget",
+      "latitude": 61.791667,
+      "longitude": 9.694406
+    },
+    {
+      "name": "Kollhamrane",
+      "latitude": 61.393917,
+      "longitude": 7.272056
+    },
+    {
+      "name": "Koloberget",
+      "latitude": 61.6819,
+      "longitude": 9.575178
+    },
+    {
+      "name": "Kompusflogan",
+      "latitude": 66.475947,
+      "longitude": 13.118331
+    },
+    {
+      "name": "Koppangsfjellet",
+      "latitude": 69.693531,
+      "longitude": 20.207649
+    },
+    {
+      "name": "Koppangsfjellet",
+      "latitude": 69.695244,
+      "longitude": 20.173105
+    },
+    {
+      "name": "Koppangsfjellet",
+      "latitude": 69.69531,
+      "longitude": 20.194735
+    },
+    {
+      "name": "Koppangsfjellet",
+      "latitude": 69.696931,
+      "longitude": 20.209025
+    },
+    {
+      "name": "Koppangsfjellet",
+      "latitude": 69.699266,
+      "longitude": 20.224748
+    },
+    {
+      "name": "Koppangsfjellet",
+      "latitude": 69.701823,
+      "longitude": 20.24087
+    },
+    {
+      "name": "Koppangsfjellet",
+      "latitude": 69.703458,
+      "longitude": 20.257361
+    },
+    {
+      "name": "Kopparberget",
+      "latitude": 66.502186,
+      "longitude": 13.213414
+    },
+    {
+      "name": "Koppflåget",
+      "latitude": 66.629186,
+      "longitude": 13.3588
+    },
+    {
+      "name": "Korteidet",
+      "latitude": 69.694714,
+      "longitude": 18.636274
+    },
+    {
+      "name": "Krekheller",
+      "latitude": 60.8727,
+      "longitude": 7.1449
+    },
+    {
+      "name": "Kringelfjellet",
+      "latitude": 66.622128,
+      "longitude": 13.516361
+    },
+    {
+      "name": "Kristenskøridn",
+      "latitude": 61.108286,
+      "longitude": 8.385683
+    },
+    {
+      "name": "Krokoberget",
+      "latitude": 61.1634,
+      "longitude": 8.799864
+    },
+    {
+      "name": "Kråkefjellet",
+      "latitude": 58.454841,
+      "longitude": 6.006943
+    },
+    {
+      "name": "Kufossbergi",
+      "latitude": 61.153128,
+      "longitude": 7.426767
+    },
+    {
+      "name": "Kula",
+      "latitude": 61.812656,
+      "longitude": 9.626282
+    },
+    {
+      "name": "Kursveggen",
+      "latitude": 58.111465,
+      "longitude": 7.925103
+    },
+    {
+      "name": "Kvamsberget",
+      "latitude": 61.174936,
+      "longitude": 8.382183
+    },
+    {
+      "name": "Kvamsbergi",
+      "latitude": 60.958642,
+      "longitude": 7.151789
+    },
+    {
+      "name": "Kvamsbergi",
+      "latitude": 61.052475,
+      "longitude": 7.746608
+    },
+    {
+      "name": "Kvanneberget",
+      "latitude": 60.548881,
+      "longitude": 8.621994
+    },
+    {
+      "name": "Kvannebotnskorane",
+      "latitude": 61.490603,
+      "longitude": 7.544233
+    },
+    {
+      "name": "Kvarsvikflogan",
+      "latitude": 67.015072,
+      "longitude": 14.175728
+    },
+    {
+      "name": "Kveaberget",
+      "latitude": 61.022672,
+      "longitude": 9.548636
+    },
+    {
+      "name": "Kvebergi",
+      "latitude": 61.082006,
+      "longitude": 7.5357
+    },
+    {
+      "name": "Kvebergi",
+      "latitude": 61.139208,
+      "longitude": 7.244167
+    },
+    {
+      "name": "Kvelveberget",
+      "latitude": 60.960036,
+      "longitude": 8.376214
+    },
+    {
+      "name": "Kverndalsknubben",
+      "latitude": 61.518247,
+      "longitude": 7.249442
+    },
+    {
+      "name": "Kvigehamrane",
+      "latitude": 61.344242,
+      "longitude": 7.333383
+    },
+    {
+      "name": "Kvilhåmmårn",
+      "latitude": 62.199029,
+      "longitude": 10.276652
+    },
+    {
+      "name": "Kvitaberg",
+      "latitude": 60.870284,
+      "longitude": 7.112403
+    },
+    {
+      "name": "Kvitaberg",
+      "latitude": 60.956458,
+      "longitude": 7.089039
+    },
+    {
+      "name": "Kvitaberg",
+      "latitude": 61.057264,
+      "longitude": 7.708739
+    },
+    {
+      "name": "Kvitaberg",
+      "latitude": 61.06335,
+      "longitude": 7.540836
+    },
+    {
+      "name": "Kvitaberget",
+      "latitude": 61.105361,
+      "longitude": 7.404964
+    },
+    {
+      "name": "Kvitaberghamrane",
+      "latitude": 60.861309,
+      "longitude": 6.762562
+    },
+    {
+      "name": "Kvitberget",
+      "latitude": 61.692048,
+      "longitude": 9.558427
+    },
+    {
+      "name": "Kvitberget",
+      "latitude": 61.848588,
+      "longitude": 9.008162
+    },
+    {
+      "name": "Kvitberget",
+      "latitude": 66.620611,
+      "longitude": 13.411442
+    },
+    {
+      "name": "Kviteberg",
+      "latitude": 60.790856,
+      "longitude": 7.088875
+    },
+    {
+      "name": "Kvithammar",
+      "latitude": 61.390987,
+      "longitude": 7.436344
+    },
+    {
+      "name": "Kvithammaren",
+      "latitude": 66.878378,
+      "longitude": 13.695572
+    },
+    {
+      "name": "Kvithåmåren",
+      "latitude": 61.851367,
+      "longitude": 8.988469
+    },
+    {
+      "name": "Kvitranda",
+      "latitude": 66.590003,
+      "longitude": 13.223417
+    },
+    {
+      "name": "Kvitspleiset",
+      "latitude": 66.575161,
+      "longitude": 13.209064
+    },
+    {
+      "name": "Kyrkjeskori",
+      "latitude": 61.212511,
+      "longitude": 7.554217
+    },
+    {
+      "name": "Kyrkjesteigen",
+      "latitude": 61.418686,
+      "longitude": 7.977178
+    },
+    {
+      "name": "Kyrkjestigen",
+      "latitude": 61.41872,
+      "longitude": 7.975087
+    },
+    {
+      "name": "Kyrmysseberget",
+      "latitude": 60.608759,
+      "longitude": 6.910557
+    },
+    {
+      "name": "LOS-klippen",
+      "latitude": 58.116277,
+      "longitude": 7.944296
+    },
+    {
+      "name": "Laddberget",
+      "latitude": 60.700037,
+      "longitude": 5.589409
+    },
+    {
+      "name": "Lahammar",
+      "latitude": 60.55897,
+      "longitude": 6.969239
+    },
+    {
+      "name": "Lamannsberg",
+      "latitude": 61.313614,
+      "longitude": 7.156672
+    },
+    {
+      "name": "Landskorane",
+      "latitude": 60.902166,
+      "longitude": 7.212634
+    },
+    {
+      "name": "Langaberg",
+      "latitude": 60.866573,
+      "longitude": 7.144882
+    },
+    {
+      "name": "Langaneshamrane",
+      "latitude": 61.385839,
+      "longitude": 7.088581
+    },
+    {
+      "name": "Langberg",
+      "latitude": 61.726243,
+      "longitude": 8.261772
+    },
+    {
+      "name": "Langberga",
+      "latitude": 61.323858,
+      "longitude": 10.302272
+    },
+    {
+      "name": "Langberget",
+      "latitude": 61.568364,
+      "longitude": 10.08748
+    },
+    {
+      "name": "Langberget",
+      "latitude": 61.580084,
+      "longitude": 9.653651
+    },
+    {
+      "name": "Langberget",
+      "latitude": 61.717275,
+      "longitude": 9.384834
+    },
+    {
+      "name": "Langberget",
+      "latitude": 62.231711,
+      "longitude": 10.318981
+    },
+    {
+      "name": "Langenshamrane",
+      "latitude": 61.368567,
+      "longitude": 7.219025
+    },
+    {
+      "name": "Langesvoi",
+      "latitude": 61.073422,
+      "longitude": 7.5219
+    },
+    {
+      "name": "Langmyrsbergje",
+      "latitude": 61.879648,
+      "longitude": 8.77926
+    },
+    {
+      "name": "Langryåshammeren",
+      "latitude": 62.584992,
+      "longitude": 11.11456
+    },
+    {
+      "name": "Langurstrupen",
+      "latitude": 61.47813,
+      "longitude": 7.196246
+    },
+    {
+      "name": "Langveggen",
+      "latitude": 60.154819,
+      "longitude": 10.815427
+    },
+    {
+      "name": "Lars-Petterlia",
+      "latitude": 68.575994,
+      "longitude": 15.784961
+    },
+    {
+      "name": "Laundal klatrevegg",
+      "latitude": 58.219655,
+      "longitude": 6.857579
+    },
+    {
+      "name": "Lauseberget",
+      "latitude": 61.424933,
+      "longitude": 7.516747
+    },
+    {
+      "name": "Lauvberg",
+      "latitude": 60.852817,
+      "longitude": 7.089822
+    },
+    {
+      "name": "Lauvsva",
+      "latitude": 61.428183,
+      "longitude": 7.503089
+    },
+    {
+      "name": "Laxefeltet",
+      "latitude": 58.196118,
+      "longitude": 7.940451
+    },
+    {
+      "name": "Legdevikberget",
+      "latitude": 60.980203,
+      "longitude": 6.997656
+    },
+    {
+      "name": "Legesvea",
+      "latitude": 61.008341,
+      "longitude": 7.068185
+    },
+    {
+      "name": "Leikaberget",
+      "latitude": 61.41925,
+      "longitude": 7.102739
+    },
+    {
+      "name": "Leikberget",
+      "latitude": 61.655259,
+      "longitude": 9.568074
+    },
+    {
+      "name": "Leina",
+      "latitude": 60.830956,
+      "longitude": 7.117894
+    },
+    {
+      "name": "Leirfarhammar",
+      "latitude": 61.668311,
+      "longitude": 7.346411
+    },
+    {
+      "name": "Leirnesbergan",
+      "latitude": 69.762329,
+      "longitude": 19.693969
+    },
+    {
+      "name": "Lekefossen",
+      "latitude": 58.742574,
+      "longitude": 5.744738
+    },
+    {
+      "name": "Lemmen",
+      "latitude": 67.054292,
+      "longitude": 14.368089
+    },
+    {
+      "name": "Liaberga",
+      "latitude": 61.392578,
+      "longitude": 10.189914
+    },
+    {
+      "name": "Liaberget",
+      "latitude": 60.839958,
+      "longitude": 9.714608
+    },
+    {
+      "name": "Liaberget",
+      "latitude": 60.842561,
+      "longitude": 9.7113
+    },
+    {
+      "name": "Liaberget",
+      "latitude": 61.026633,
+      "longitude": 9.543708
+    },
+    {
+      "name": "Liaberget",
+      "latitude": 61.173617,
+      "longitude": 8.379156
+    },
+    {
+      "name": "Liahamrane",
+      "latitude": 61.410961,
+      "longitude": 7.327756
+    },
+    {
+      "name": "Lillestolpen",
+      "latitude": 69.731206,
+      "longitude": 18.39097
+    },
+    {
+      "name": "Livlaushammaren",
+      "latitude": 63.067921,
+      "longitude": 8.026669
+    },
+    {
+      "name": "Ljomarberget",
+      "latitude": 61.828717,
+      "longitude": 8.572555
+    },
+    {
+      "name": "Ljosberg",
+      "latitude": 60.753777,
+      "longitude": 7.112818
+    },
+    {
+      "name": "Ljøsneberget",
+      "latitude": 61.159206,
+      "longitude": 8.743656
+    },
+    {
+      "name": "Loberg",
+      "latitude": 61.314114,
+      "longitude": 7.372667
+    },
+    {
+      "name": "Loftan",
+      "latitude": 66.458331,
+      "longitude": 13.346514
+    },
+    {
+      "name": "Loftan",
+      "latitude": 66.50115,
+      "longitude": 13.059658
+    },
+    {
+      "name": "Lomisberget",
+      "latitude": 61.139006,
+      "longitude": 8.916533
+    },
+    {
+      "name": "Lybekkberget",
+      "latitude": 60.860739,
+      "longitude": 9.707306
+    },
+    {
+      "name": "Lyberget",
+      "latitude": 60.961825,
+      "longitude": 9.536358
+    },
+    {
+      "name": "Lyebergje",
+      "latitude": 61.869713,
+      "longitude": 9.069702
+    },
+    {
+      "name": "Lyngveggen",
+      "latitude": 58.833828,
+      "longitude": 5.957138
+    },
+    {
+      "name": "Lysebrunfallet",
+      "latitude": 58.342412,
+      "longitude": 8.434214
+    },
+    {
+      "name": "Låveberget",
+      "latitude": 61.052514,
+      "longitude": 7.599928
+    },
+    {
+      "name": "Låvisberget",
+      "latitude": 60.860097,
+      "longitude": 7.306631
+    },
+    {
+      "name": "Løberg",
+      "latitude": 61.102392,
+      "longitude": 7.534425
+    },
+    {
+      "name": "Løftberget",
+      "latitude": 61.517532,
+      "longitude": 9.560043
+    },
+    {
+      "name": "Løftin",
+      "latitude": 61.672519,
+      "longitude": 9.710528
+    },
+    {
+      "name": "Løypti",
+      "latitude": 61.165022,
+      "longitude": 7.804897
+    },
+    {
+      "name": "Marakberget",
+      "latitude": 60.89071,
+      "longitude": 7.162561
+    },
+    {
+      "name": "Markaberget",
+      "latitude": 61.214838,
+      "longitude": 7.514312
+    },
+    {
+      "name": "Markushamran",
+      "latitude": 67.891264,
+      "longitude": 12.929125
+    },
+    {
+      "name": "Marsteinhåmårn",
+      "latitude": 61.83133,
+      "longitude": 8.513467
+    },
+    {
+      "name": "Masteskjær",
+      "latitude": 58.064937,
+      "longitude": 8.007465
+    },
+    {
+      "name": "Maudal",
+      "latitude": 58.751281,
+      "longitude": 6.320733
+    },
+    {
+      "name": "Maurholen",
+      "latitude": 58.469542,
+      "longitude": 5.939928
+    },
+    {
+      "name": "Melandsfloget",
+      "latitude": 67.481539,
+      "longitude": 12.010592
+    },
+    {
+      "name": "Melemsberget",
+      "latitude": 61.72757,
+      "longitude": 9.527811
+    },
+    {
+      "name": "Melkerånnen",
+      "latitude": 58.368641,
+      "longitude": 8.471958
+    },
+    {
+      "name": "Meløyfloget",
+      "latitude": 66.844447,
+      "longitude": 13.500831
+    },
+    {
+      "name": "Merkeberget",
+      "latitude": 66.695814,
+      "longitude": 13.564178
+    },
+    {
+      "name": "Middagsfjellet",
+      "latitude": 66.645842,
+      "longitude": 13.212958
+    },
+    {
+      "name": "Middagsfloget",
+      "latitude": 66.538567,
+      "longitude": 13.090711
+    },
+    {
+      "name": "Midt-veggen",
+      "latitude": 58.819262,
+      "longitude": 5.924949
+    },
+    {
+      "name": "Midtberga",
+      "latitude": 61.395158,
+      "longitude": 10.125975
+    },
+    {
+      "name": "Midtreveggen",
+      "latitude": 60.987033,
+      "longitude": 10.631648
+    },
+    {
+      "name": "Mjåberg",
+      "latitude": 60.971378,
+      "longitude": 7.029636
+    },
+    {
+      "name": "Moaberga",
+      "latitude": 61.580246,
+      "longitude": 9.871546
+    },
+    {
+      "name": "Modvaberget",
+      "latitude": 61.343698,
+      "longitude": 7.202095
+    },
+    {
+      "name": "Monsterveggen",
+      "latitude": 58.575945,
+      "longitude": 6.295168
+    },
+    {
+      "name": "Morkabergi",
+      "latitude": 61.041078,
+      "longitude": 7.780664
+    },
+    {
+      "name": "Morkeberget",
+      "latitude": 61.459727,
+      "longitude": 10.287478
+    },
+    {
+      "name": "Mosaberg",
+      "latitude": 61.334008,
+      "longitude": 7.322953
+    },
+    {
+      "name": "Mugnebrynadn",
+      "latitude": 61.226406,
+      "longitude": 8.714814
+    },
+    {
+      "name": "Mulaberget",
+      "latitude": 58.909208,
+      "longitude": 5.930056
+    },
+    {
+      "name": "Mulfjellet",
+      "latitude": 67.899475,
+      "longitude": 12.852572
+    },
+    {
+      "name": "Myre",
+      "latitude": 61.004304,
+      "longitude": 7.072245
+    },
+    {
+      "name": "Myreskredbergi",
+      "latitude": 61.494419,
+      "longitude": 7.444539
+    },
+    {
+      "name": "Målarhaugen",
+      "latitude": 60.963419,
+      "longitude": 9.196978
+    },
+    {
+      "name": "Måneskinet",
+      "latitude": 61.169883,
+      "longitude": 8.337925
+    },
+    {
+      "name": "Mønene",
+      "latitude": 60.64843,
+      "longitude": 8.733293
+    },
+    {
+      "name": "Møsåkerberget",
+      "latitude": 61.162287,
+      "longitude": 8.627414
+    },
+    {
+      "name": "Nakkeenden",
+      "latitude": 69.648999,
+      "longitude": 19.698456
+    },
+    {
+      "name": "Naustebergi",
+      "latitude": 61.297677,
+      "longitude": 7.792121
+    },
+    {
+      "name": "Navaren",
+      "latitude": 59.893061,
+      "longitude": 5.094831
+    },
+    {
+      "name": "Nedre Bjønnholberget",
+      "latitude": 61.624087,
+      "longitude": 9.641101
+    },
+    {
+      "name": "Nedre Gullsva",
+      "latitude": 58.799331,
+      "longitude": 6.008675
+    },
+    {
+      "name": "Nedre Hallaberget",
+      "latitude": 60.971436,
+      "longitude": 9.678689
+    },
+    {
+      "name": "Nedre Liarberget",
+      "latitude": 62.26123,
+      "longitude": 8.244536
+    },
+    {
+      "name": "Ner-Ramnfloget",
+      "latitude": 67.079256,
+      "longitude": 14.501128
+    },
+    {
+      "name": "Nerdaleberga",
+      "latitude": 61.775362,
+      "longitude": 9.518053
+    },
+    {
+      "name": "Nergarsberget",
+      "latitude": 62.285042,
+      "longitude": 8.152054
+    },
+    {
+      "name": "Nesberget",
+      "latitude": 60.8709,
+      "longitude": 7.2797
+    },
+    {
+      "name": "Nesfloget",
+      "latitude": 67.482322,
+      "longitude": 12.014622
+    },
+    {
+      "name": "Neverdalsfloget",
+      "latitude": 66.539608,
+      "longitude": 13.082739
+    },
+    {
+      "name": "Nilsegjerdbergi",
+      "latitude": 61.046533,
+      "longitude": 7.964208
+    },
+    {
+      "name": "Nobba",
+      "latitude": 62.056531,
+      "longitude": 6.222082
+    },
+    {
+      "name": "Nobbi",
+      "latitude": 60.895975,
+      "longitude": 6.871593
+    },
+    {
+      "name": "Nonberg",
+      "latitude": 60.868117,
+      "longitude": 7.244964
+    },
+    {
+      "name": "Nonsnipli",
+      "latitude": 60.866489,
+      "longitude": 7.335333
+    },
+    {
+      "name": "Nordbergan",
+      "latitude": 67.887569,
+      "longitude": 13.002964
+    },
+    {
+      "name": "Nordfjellet",
+      "latitude": 66.651953,
+      "longitude": 13.410844
+    },
+    {
+      "name": "Nosen",
+      "latitude": 61.783851,
+      "longitude": 9.527431
+    },
+    {
+      "name": "Nova",
+      "latitude": 58.856609,
+      "longitude": 5.898558
+    },
+    {
+      "name": "Nyhusbergje",
+      "latitude": 61.732174,
+      "longitude": 8.291937
+    },
+    {
+      "name": "Nyråna",
+      "latitude": 66.673086,
+      "longitude": 13.597006
+    },
+    {
+      "name": "Nyurhamrane",
+      "latitude": 61.581422,
+      "longitude": 7.297436
+    },
+    {
+      "name": "Nørdre Kamben",
+      "latitude": 61.21415,
+      "longitude": 8.333144
+    },
+    {
+      "name": "Nøse",
+      "latitude": 60.897134,
+      "longitude": 8.410516
+    },
+    {
+      "name": "Oddedalsberget",
+      "latitude": 61.097217,
+      "longitude": 8.047128
+    },
+    {
+      "name": "Odden",
+      "latitude": 59.104728,
+      "longitude": 10.857064
+    },
+    {
+      "name": "Oddersjaa klippe",
+      "latitude": 58.183839,
+      "longitude": 7.967135
+    },
+    {
+      "name": "Oksen",
+      "latitude": 69.529061,
+      "longitude": 20.179855
+    },
+    {
+      "name": "Oledalsbrynane",
+      "latitude": 61.286475,
+      "longitude": 8.84762
+    },
+    {
+      "name": "Oltesvik",
+      "latitude": 58.853566,
+      "longitude": 6.117271
+    },
+    {
+      "name": "Omneberget",
+      "latitude": 61.754589,
+      "longitude": 8.410828
+    },
+    {
+      "name": "Onstadberget",
+      "latitude": 60.901239,
+      "longitude": 7.181156
+    },
+    {
+      "name": "Oppsaldalsberga",
+      "latitude": 61.442744,
+      "longitude": 10.243058
+    },
+    {
+      "name": "Ormasva",
+      "latitude": 61.429372,
+      "longitude": 7.496025
+    },
+    {
+      "name": "Orrberget",
+      "latitude": 61.688494,
+      "longitude": 8.246083
+    },
+    {
+      "name": "Orrhaug",
+      "latitude": 61.47525,
+      "longitude": 7.590711
+    },
+    {
+      "name": "Oskheller",
+      "latitude": 60.805442,
+      "longitude": 7.126511
+    },
+    {
+      "name": "Osli",
+      "latitude": 58.812588,
+      "longitude": 5.775992
+    },
+    {
+      "name": "Ospedottbergi",
+      "latitude": 61.187901,
+      "longitude": 7.649545
+    },
+    {
+      "name": "Ottemskjerdingan",
+      "latitude": 62.587937,
+      "longitude": 9.058044
+    },
+    {
+      "name": "Pallane",
+      "latitude": 61.707487,
+      "longitude": 9.516091
+    },
+    {
+      "name": "Panoramaveggen",
+      "latitude": 69.603568,
+      "longitude": 18.022921
+    },
+    {
+      "name": "Pantern",
+      "latitude": 59.90941,
+      "longitude": 10.664741
+    },
+    {
+      "name": "Paradis",
+      "latitude": 58.154408,
+      "longitude": 7.962604
+    },
+    {
+      "name": "Peparberg",
+      "latitude": 61.139377,
+      "longitude": 7.986799
+    },
+    {
+      "name": "Perhågen",
+      "latitude": 68.594488,
+      "longitude": 15.819781
+    },
+    {
+      "name": "Piratveggen",
+      "latitude": 58.132079,
+      "longitude": 8.00327
+    },
+    {
+      "name": "Planet Ø",
+      "latitude": 58.895595,
+      "longitude": 6.649678
+    },
+    {
+      "name": "Plassaberget",
+      "latitude": 60.887725,
+      "longitude": 9.618653
+    },
+    {
+      "name": "Pleteberget",
+      "latitude": 61.553814,
+      "longitude": 6.949781
+    },
+    {
+      "name": "Preikestolen",
+      "latitude": 58.984051,
+      "longitude": 6.185475
+    },
+    {
+      "name": "Preikestolen",
+      "latitude": 58.984535,
+      "longitude": 6.185714
+    },
+    {
+      "name": "Preikestolen",
+      "latitude": 58.985134,
+      "longitude": 6.187025
+    },
+    {
+      "name": "Preikestolen",
+      "latitude": 58.986259,
+      "longitude": 6.187161
+    },
+    {
+      "name": "Preikestolen",
+      "latitude": 58.98638,
+      "longitude": 6.188704
+    },
+    {
+      "name": "Preikestolen",
+      "latitude": 58.987368,
+      "longitude": 6.189195
+    },
+    {
+      "name": "Preikestolen",
+      "latitude": 58.987767,
+      "longitude": 6.189871
+    },
+    {
+      "name": "Preikestolen",
+      "latitude": 60.121701,
+      "longitude": 6.755347
+    },
+    {
+      "name": "Psykologveggen",
+      "latitude": 69.603666,
+      "longitude": 18.021437
+    },
+    {
+      "name": "Pumpeverket",
+      "latitude": 58.174912,
+      "longitude": 7.969565
+    },
+    {
+      "name": "Purka",
+      "latitude": 61.122389,
+      "longitude": 7.341075
+    },
+    {
+      "name": "Puttberget",
+      "latitude": 61.681179,
+      "longitude": 9.467377
+    },
+    {
+      "name": "Puttberget",
+      "latitude": 61.81564,
+      "longitude": 7.737371
+    },
+    {
+      "name": "Pålberget",
+      "latitude": 66.601956,
+      "longitude": 13.245072
+    },
+    {
+      "name": "Pålberget",
+      "latitude": 68.570654,
+      "longitude": 15.824885
+    },
+    {
+      "name": "Pålstovebrotet",
+      "latitude": 59.895339,
+      "longitude": 5.163733
+    },
+    {
+      "name": "Queens",
+      "latitude": 58.177392,
+      "longitude": 7.977585
+    },
+    {
+      "name": "Rabbedalsfjellet",
+      "latitude": 66.503517,
+      "longitude": 13.323733
+    },
+    {
+      "name": "Rabbfloget",
+      "latitude": 67.080047,
+      "longitude": 14.569219
+    },
+    {
+      "name": "Rambergan",
+      "latitude": 69.654622,
+      "longitude": 18.955917
+    },
+    {
+      "name": "Rambergan",
+      "latitude": 69.759445,
+      "longitude": 19.240248
+    },
+    {
+      "name": "Ramnabergi",
+      "latitude": 61.379217,
+      "longitude": 7.049861
+    },
+    {
+      "name": "Ramnberget",
+      "latitude": 69.614819,
+      "longitude": 18.959325
+    },
+    {
+      "name": "Ramneberg",
+      "latitude": 58.835691,
+      "longitude": 7.7577
+    },
+    {
+      "name": "Ramnflogan",
+      "latitude": 66.710219,
+      "longitude": 13.453906
+    },
+    {
+      "name": "Ramnflogan",
+      "latitude": 66.777922,
+      "longitude": 13.350789
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 66.416875,
+      "longitude": 13.161072
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 66.539111,
+      "longitude": 12.820817
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 66.722892,
+      "longitude": 13.265203
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 66.788028,
+      "longitude": 13.536347
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 66.808811,
+      "longitude": 13.207942
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 66.819414,
+      "longitude": 13.347936
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 66.83505,
+      "longitude": 13.689633
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 66.856628,
+      "longitude": 13.748667
+    },
+    {
+      "name": "Ramnfloget",
+      "latitude": 67.029792,
+      "longitude": 14.043003
+    },
+    {
+      "name": "Ramskredhamrane",
+      "latitude": 62.443636,
+      "longitude": 6.397066
+    },
+    {
+      "name": "Ranberget",
+      "latitude": 61.084594,
+      "longitude": 7.421103
+    },
+    {
+      "name": "Randen",
+      "latitude": 61.871514,
+      "longitude": 9.259939
+    },
+    {
+      "name": "Randhammar",
+      "latitude": 61.287086,
+      "longitude": 7.260064
+    },
+    {
+      "name": "Rauberg",
+      "latitude": 61.418897,
+      "longitude": 7.517814
+    },
+    {
+      "name": "Rauberget",
+      "latitude": 61.673977,
+      "longitude": 9.711761
+    },
+    {
+      "name": "Raudaberget",
+      "latitude": 60.8699,
+      "longitude": 7.369842
+    },
+    {
+      "name": "Raudaberget",
+      "latitude": 61.033594,
+      "longitude": 7.606706
+    },
+    {
+      "name": "Raudberg",
+      "latitude": 61.103503,
+      "longitude": 7.455914
+    },
+    {
+      "name": "Raudberg",
+      "latitude": 61.395242,
+      "longitude": 7.327172
+    },
+    {
+      "name": "Raudberg",
+      "latitude": 61.575897,
+      "longitude": 6.889406
+    },
+    {
+      "name": "Raudberget",
+      "latitude": 60.800978,
+      "longitude": 8.712447
+    },
+    {
+      "name": "Raudberget",
+      "latitude": 61.554061,
+      "longitude": 7.63045
+    },
+    {
+      "name": "Raudeberg",
+      "latitude": 61.02875,
+      "longitude": 7.637011
+    },
+    {
+      "name": "Raudehellaren",
+      "latitude": 61.49315,
+      "longitude": 7.614225
+    },
+    {
+      "name": "Raudestein",
+      "latitude": 60.554625,
+      "longitude": 6.962614
+    },
+    {
+      "name": "Raudhammaren",
+      "latitude": 66.587564,
+      "longitude": 13.223575
+    },
+    {
+      "name": "Ravnafjell - Jobu",
+      "latitude": 58.847554,
+      "longitude": 5.926193
+    },
+    {
+      "name": "Ravnedalen",
+      "latitude": 58.156024,
+      "longitude": 7.972203
+    },
+    {
+      "name": "Ravnedalen",
+      "latitude": 58.157267,
+      "longitude": 7.973118
+    },
+    {
+      "name": "Ravnefjellet",
+      "latitude": 58.430211,
+      "longitude": 8.516693
+    },
+    {
+      "name": "Reindreparfloget",
+      "latitude": 66.943467,
+      "longitude": 14.154536
+    },
+    {
+      "name": "Renneveggen",
+      "latitude": 69.725839,
+      "longitude": 18.402029
+    },
+    {
+      "name": "Resabergi",
+      "latitude": 61.686586,
+      "longitude": 7.313356
+    },
+    {
+      "name": "Rettarhamn",
+      "latitude": 61.236989,
+      "longitude": 7.338133
+    },
+    {
+      "name": "Revberget",
+      "latitude": 62.13261,
+      "longitude": 8.742338
+    },
+    {
+      "name": "Ring Øvreveggen",
+      "latitude": 60.98707,
+      "longitude": 10.634698
+    },
+    {
+      "name": "Ringnesbergje",
+      "latitude": 61.8545,
+      "longitude": 9.035581
+    },
+    {
+      "name": "Rispedokkberget",
+      "latitude": 60.677901,
+      "longitude": 8.753279
+    },
+    {
+      "name": "Risøya sportsklatring",
+      "latitude": 58.656247,
+      "longitude": 9.144898
+    },
+    {
+      "name": "Roberg",
+      "latitude": 61.772083,
+      "longitude": 8.414307
+    },
+    {
+      "name": "Roberget",
+      "latitude": 61.717949,
+      "longitude": 9.428145
+    },
+    {
+      "name": "Romflaget",
+      "latitude": 66.912581,
+      "longitude": 13.797914
+    },
+    {
+      "name": "Ronfloget",
+      "latitude": 66.799842,
+      "longitude": 13.576247
+    },
+    {
+      "name": "Rosshamrane",
+      "latitude": 61.048261,
+      "longitude": 8.734981
+    },
+    {
+      "name": "Roti",
+      "latitude": 61.477917,
+      "longitude": 7.697789
+    },
+    {
+      "name": "Russarskåre",
+      "latitude": 61.893922,
+      "longitude": 8.439847
+    },
+    {
+      "name": "Rustbakkberget",
+      "latitude": 60.849989,
+      "longitude": 9.715864
+    },
+    {
+      "name": "Rustberga",
+      "latitude": 61.616539,
+      "longitude": 9.69605
+    },
+    {
+      "name": "Rustebakkberget",
+      "latitude": 60.853783,
+      "longitude": 9.71525
+    },
+    {
+      "name": "Råaberget",
+      "latitude": 61.391653,
+      "longitude": 7.321333
+    },
+    {
+      "name": "Rånan",
+      "latitude": 66.390425,
+      "longitude": 13.064869
+    },
+    {
+      "name": "Rånøyberget",
+      "latitude": 61.393431,
+      "longitude": 7.278994
+    },
+    {
+      "name": "Råseskorane",
+      "latitude": 61.332589,
+      "longitude": 7.305708
+    },
+    {
+      "name": "Røaberget",
+      "latitude": 58.008093,
+      "longitude": 7.189393
+    },
+    {
+      "name": "Rødningsberget",
+      "latitude": 60.897047,
+      "longitude": 9.621669
+    },
+    {
+      "name": "Røsdalsfjellet",
+      "latitude": 66.558736,
+      "longitude": 12.615039
+    },
+    {
+      "name": "Sandahammaren",
+      "latitude": 61.490656,
+      "longitude": 7.575908
+    },
+    {
+      "name": "Sandbakken",
+      "latitude": 59.828907,
+      "longitude": 10.907937
+    },
+    {
+      "name": "Sandbakken vesleveggen",
+      "latitude": 59.829135,
+      "longitude": 10.91029
+    },
+    {
+      "name": "Sandefjell",
+      "latitude": 58.452293,
+      "longitude": 8.407508
+    },
+    {
+      "name": "Sandvikberget",
+      "latitude": 61.402575,
+      "longitude": 7.308711
+    },
+    {
+      "name": "Sarvhammaren",
+      "latitude": 66.8828,
+      "longitude": 13.579478
+    },
+    {
+      "name": "Sauberget",
+      "latitude": 61.981634,
+      "longitude": 10.00257
+    },
+    {
+      "name": "Saueholekløfta",
+      "latitude": 69.604925,
+      "longitude": 18.020931
+    },
+    {
+      "name": "Saujøkulen",
+      "latitude": 60.885086,
+      "longitude": 9.409131
+    },
+    {
+      "name": "Seildi",
+      "latitude": 61.050044,
+      "longitude": 7.619022
+    },
+    {
+      "name": "Sektor 1",
+      "latitude": 58.139755,
+      "longitude": 8.000198
+    },
+    {
+      "name": "Sektor 2",
+      "latitude": 58.139545,
+      "longitude": 8.000451
+    },
+    {
+      "name": "Sektor 3",
+      "latitude": 58.139412,
+      "longitude": 8.000701
+    },
+    {
+      "name": "Seljeberget",
+      "latitude": 60.96718,
+      "longitude": 6.959468
+    },
+    {
+      "name": "Seljeskori",
+      "latitude": 61.447439,
+      "longitude": 7.237734
+    },
+    {
+      "name": "Selneset",
+      "latitude": 65.66032,
+      "longitude": 11.724655
+    },
+    {
+      "name": "Sessiberg",
+      "latitude": 60.98782,
+      "longitude": 9.253372
+    },
+    {
+      "name": "Seturbergi",
+      "latitude": 61.052859,
+      "longitude": 7.783488
+    },
+    {
+      "name": "Sigloberget",
+      "latitude": 61.073804,
+      "longitude": 9.315248
+    },
+    {
+      "name": "Sildaberget",
+      "latitude": 61.703755,
+      "longitude": 7.359639
+    },
+    {
+      "name": "Sildaberget",
+      "latitude": 61.707297,
+      "longitude": 7.35292
+    },
+    {
+      "name": "Sildevågsberget",
+      "latitude": 59.890903,
+      "longitude": 5.233888
+    },
+    {
+      "name": "Sirekrok",
+      "latitude": 58.998008,
+      "longitude": 6.901132
+    },
+    {
+      "name": "Sirekrok - Skammekroken",
+      "latitude": 58.995398,
+      "longitude": 6.89814
+    },
+    {
+      "name": "Sjurfjellet",
+      "latitude": 69.676791,
+      "longitude": 18.713433
+    },
+    {
+      "name": "Sjurstølshammaren",
+      "latitude": 61.72705,
+      "longitude": 7.365309
+    },
+    {
+      "name": "Sjåheimberget",
+      "latitude": 60.838347,
+      "longitude": 9.707197
+    },
+    {
+      "name": "Sjåheimberget",
+      "latitude": 60.844153,
+      "longitude": 9.699081
+    },
+    {
+      "name": "Sjøbakkaskori",
+      "latitude": 61.096817,
+      "longitude": 7.427431
+    },
+    {
+      "name": "Sjøbergi",
+      "latitude": 61.107133,
+      "longitude": 7.47047
+    },
+    {
+      "name": "Skaffarberget",
+      "latitude": 61.094517,
+      "longitude": 7.473564
+    },
+    {
+      "name": "Skagsnebb",
+      "latitude": 61.889581,
+      "longitude": 9.184163
+    },
+    {
+      "name": "Skalabakkatn",
+      "latitude": 60.977942,
+      "longitude": 9.289839
+    },
+    {
+      "name": "Skallahamrane",
+      "latitude": 61.423156,
+      "longitude": 7.286908
+    },
+    {
+      "name": "Skallberget",
+      "latitude": 66.833906,
+      "longitude": 13.71145
+    },
+    {
+      "name": "Skaranipå",
+      "latitude": 63.079848,
+      "longitude": 7.993173
+    },
+    {
+      "name": "Skardberget",
+      "latitude": 61.004978,
+      "longitude": 9.539583
+    },
+    {
+      "name": "Skarfloget",
+      "latitude": 66.25086,
+      "longitude": 13.593014
+    },
+    {
+      "name": "Skarpenord",
+      "latitude": 61.311565,
+      "longitude": 7.764162
+    },
+    {
+      "name": "Skarrustberget",
+      "latitude": 61.60448,
+      "longitude": 9.771951
+    },
+    {
+      "name": "Skarsberget",
+      "latitude": 61.588633,
+      "longitude": 9.832511
+    },
+    {
+      "name": "Skarvhammeren",
+      "latitude": 66.795669,
+      "longitude": 13.888169
+    },
+    {
+      "name": "Skarvrandin",
+      "latitude": 61.423676,
+      "longitude": 9.384391
+    },
+    {
+      "name": "Skinnhallarn",
+      "latitude": 68.593626,
+      "longitude": 15.816743
+    },
+    {
+      "name": "Skiphammaren",
+      "latitude": 60.490995,
+      "longitude": 5.425827
+    },
+    {
+      "name": "Skjellberga",
+      "latitude": 61.880963,
+      "longitude": 9.124088
+    },
+    {
+      "name": "Skjellhågen",
+      "latitude": 68.589508,
+      "longitude": 15.821482
+    },
+    {
+      "name": "Skjenskorsberg",
+      "latitude": 61.276283,
+      "longitude": 7.37095
+    },
+    {
+      "name": "Skjervaberget",
+      "latitude": 61.316464,
+      "longitude": 7.153972
+    },
+    {
+      "name": "Skjoraberget",
+      "latitude": 61.326394,
+      "longitude": 7.110039
+    },
+    {
+      "name": "Skjurberget",
+      "latitude": 66.450533,
+      "longitude": 13.221414
+    },
+    {
+      "name": "Skjærhellen",
+      "latitude": 61.674919,
+      "longitude": 9.659395
+    },
+    {
+      "name": "Skjæringa",
+      "latitude": 58.727595,
+      "longitude": 9.043379
+    },
+    {
+      "name": "Skogstadberget",
+      "latitude": 61.214614,
+      "longitude": 8.345425
+    },
+    {
+      "name": "Skolmedrogbergi",
+      "latitude": 61.255572,
+      "longitude": 7.329072
+    },
+    {
+      "name": "Skomakerberget",
+      "latitude": 61.556721,
+      "longitude": 10.011349
+    },
+    {
+      "name": "Skomakertippen",
+      "latitude": 58.254796,
+      "longitude": 6.804144
+    },
+    {
+      "name": "Skoraberget",
+      "latitude": 60.606036,
+      "longitude": 6.923902
+    },
+    {
+      "name": "Skoraberget",
+      "latitude": 60.608956,
+      "longitude": 6.934523
+    },
+    {
+      "name": "Skorabergi",
+      "latitude": 61.153464,
+      "longitude": 7.440986
+    },
+    {
+      "name": "Skorpbergje",
+      "latitude": 61.862796,
+      "longitude": 8.813314
+    },
+    {
+      "name": "Skorsteinen",
+      "latitude": 62.161061,
+      "longitude": 8.578344
+    },
+    {
+      "name": "Skotet",
+      "latitude": 58.022236,
+      "longitude": 7.56464
+    },
+    {
+      "name": "Skraudn",
+      "latitude": 61.010444,
+      "longitude": 9.193275
+    },
+    {
+      "name": "Skredbergi",
+      "latitude": 61.046608,
+      "longitude": 7.693172
+    },
+    {
+      "name": "Skreen",
+      "latitude": 66.626603,
+      "longitude": 13.444206
+    },
+    {
+      "name": "Skrelle",
+      "latitude": 58.408772,
+      "longitude": 8.514663
+    },
+    {
+      "name": "Skreodalsberget",
+      "latitude": 60.932194,
+      "longitude": 9.661931
+    },
+    {
+      "name": "Skrivarberget",
+      "latitude": 62.192626,
+      "longitude": 8.883234
+    },
+    {
+      "name": "Skrutlehammaren",
+      "latitude": 61.636478,
+      "longitude": 7.231889
+    },
+    {
+      "name": "Skråberget",
+      "latitude": 57.978594,
+      "longitude": 7.208485
+    },
+    {
+      "name": "Skuleskøre",
+      "latitude": 61.063256,
+      "longitude": 8.584172
+    },
+    {
+      "name": "Skådalsstupene",
+      "latitude": 59.971296,
+      "longitude": 10.701636
+    },
+    {
+      "name": "Skålerudberget",
+      "latitude": 60.892964,
+      "longitude": 9.67
+    },
+    {
+      "name": "Slanabergi",
+      "latitude": 61.643575,
+      "longitude": 7.10747
+    },
+    {
+      "name": "Sleipehamrane",
+      "latitude": 61.107003,
+      "longitude": 7.147661
+    },
+    {
+      "name": "Sleipesvåi",
+      "latitude": 61.480586,
+      "longitude": 7.450172
+    },
+    {
+      "name": "Slettberget",
+      "latitude": 61.674658,
+      "longitude": 9.6372
+    },
+    {
+      "name": "Slettlihammarn",
+      "latitude": 69.538864,
+      "longitude": 19.034285
+    },
+    {
+      "name": "Slettstirabben",
+      "latitude": 62.671867,
+      "longitude": 8.604694
+    },
+    {
+      "name": "Slynga",
+      "latitude": 66.555011,
+      "longitude": 13.021328
+    },
+    {
+      "name": "Slåberget",
+      "latitude": 61.602689,
+      "longitude": 9.784497
+    },
+    {
+      "name": "Slåggån",
+      "latitude": 61.412345,
+      "longitude": 10.195719
+    },
+    {
+      "name": "Slåttbakkberget",
+      "latitude": 62.250968,
+      "longitude": 8.17735
+    },
+    {
+      "name": "Smellveggen",
+      "latitude": 59.041816,
+      "longitude": 6.624185
+    },
+    {
+      "name": "Småhamrane",
+      "latitude": 61.369753,
+      "longitude": 7.035481
+    },
+    {
+      "name": "Småhamrane",
+      "latitude": 61.624008,
+      "longitude": 7.254967
+    },
+    {
+      "name": "Smålifjellan",
+      "latitude": 66.747272,
+      "longitude": 13.956514
+    },
+    {
+      "name": "Småskorane",
+      "latitude": 61.302244,
+      "longitude": 7.327922
+    },
+    {
+      "name": "Småskorane",
+      "latitude": 61.6661,
+      "longitude": 7.261053
+    },
+    {
+      "name": "Smørgrovberget",
+      "latitude": 61.839959,
+      "longitude": 8.710712
+    },
+    {
+      "name": "Snauskorane",
+      "latitude": 61.435303,
+      "longitude": 7.508686
+    },
+    {
+      "name": "Snelemmen",
+      "latitude": 67.053581,
+      "longitude": 14.381578
+    },
+    {
+      "name": "Snoreholtbergi",
+      "latitude": 61.057575,
+      "longitude": 7.70015
+    },
+    {
+      "name": "Snøveggen",
+      "latitude": 58.910476,
+      "longitude": 5.950579
+    },
+    {
+      "name": "Solansberget",
+      "latitude": 62.319666,
+      "longitude": 11.699827
+    },
+    {
+      "name": "Solbjørfjellan",
+      "latitude": 58.113867,
+      "longitude": 6.830452
+    },
+    {
+      "name": "Soleiberget",
+      "latitude": 61.269717,
+      "longitude": 7.572067
+    },
+    {
+      "name": "Solliberget",
+      "latitude": 61.484262,
+      "longitude": 9.33521
+    },
+    {
+      "name": "Solsetskårane",
+      "latitude": 61.482811,
+      "longitude": 7.231022
+    },
+    {
+      "name": "Solsletta",
+      "latitude": 58.239915,
+      "longitude": 8.117481
+    },
+    {
+      "name": "Speiderveggen",
+      "latitude": 62.751151,
+      "longitude": 7.209314
+    },
+    {
+      "name": "Sporaland",
+      "latitude": 58.841355,
+      "longitude": 5.891557
+    },
+    {
+      "name": "Sporaland Nordveggen",
+      "latitude": 58.839852,
+      "longitude": 5.889672
+    },
+    {
+      "name": "Spranget",
+      "latitude": 61.568891,
+      "longitude": 9.624498
+    },
+    {
+      "name": "Staberg",
+      "latitude": 61.79017,
+      "longitude": 8.449351
+    },
+    {
+      "name": "Stakkasteinen",
+      "latitude": 59.181729,
+      "longitude": 6.559595
+    },
+    {
+      "name": "Stakkstøberg",
+      "latitude": 61.17328,
+      "longitude": 8.439307
+    },
+    {
+      "name": "Staupåhamran",
+      "latitude": 66.754295,
+      "longitude": 14.57111
+    },
+    {
+      "name": "Stavaberget",
+      "latitude": 61.080631,
+      "longitude": 7.38895
+    },
+    {
+      "name": "Steberglykkjeberget",
+      "latitude": 61.556584,
+      "longitude": 10.024176
+    },
+    {
+      "name": "Stebergsberget",
+      "latitude": 61.549707,
+      "longitude": 10.005603
+    },
+    {
+      "name": "Stedalsfjellet",
+      "latitude": 66.639589,
+      "longitude": 13.606642
+    },
+    {
+      "name": "Stedjeberget",
+      "latitude": 61.26106,
+      "longitude": 7.7524
+    },
+    {
+      "name": "Stegaberget",
+      "latitude": 61.482842,
+      "longitude": 7.636517
+    },
+    {
+      "name": "Stegane",
+      "latitude": 61.345372,
+      "longitude": 7.075511
+    },
+    {
+      "name": "Stegen",
+      "latitude": 61.11482,
+      "longitude": 7.2136
+    },
+    {
+      "name": "Steinberg",
+      "latitude": 61.048017,
+      "longitude": 7.790433
+    },
+    {
+      "name": "Steinberget",
+      "latitude": 61.418773,
+      "longitude": 10.345934
+    },
+    {
+      "name": "Steinberget",
+      "latitude": 61.432224,
+      "longitude": 9.504233
+    },
+    {
+      "name": "Stellan",
+      "latitude": 66.729803,
+      "longitude": 13.745864
+    },
+    {
+      "name": "Stigen",
+      "latitude": 61.202289,
+      "longitude": 8.39825
+    },
+    {
+      "name": "Stikksvåi",
+      "latitude": 61.714839,
+      "longitude": 7.339395
+    },
+    {
+      "name": "Stokkanesberget",
+      "latitude": 61.364161,
+      "longitude": 7.402745
+    },
+    {
+      "name": "Stokkvågbergan",
+      "latitude": 66.343878,
+      "longitude": 12.994947
+    },
+    {
+      "name": "Stoplaberget",
+      "latitude": 61.554928,
+      "longitude": 7.280686
+    },
+    {
+      "name": "Storaberget",
+      "latitude": 60.775447,
+      "longitude": 7.110439
+    },
+    {
+      "name": "Storaberget",
+      "latitude": 60.786608,
+      "longitude": 7.105804
+    },
+    {
+      "name": "Storagrø",
+      "latitude": 60.960172,
+      "longitude": 6.992404
+    },
+    {
+      "name": "Storaskori",
+      "latitude": 61.492044,
+      "longitude": 7.624647
+    },
+    {
+      "name": "Storbakkberget",
+      "latitude": 61.63355,
+      "longitude": 9.666103
+    },
+    {
+      "name": "Storberget",
+      "latitude": 61.725007,
+      "longitude": 8.340506
+    },
+    {
+      "name": "Storberget",
+      "latitude": 66.820831,
+      "longitude": 13.795056
+    },
+    {
+      "name": "Storbjørndalsflogan",
+      "latitude": 66.515206,
+      "longitude": 13.169306
+    },
+    {
+      "name": "Storbufjellet",
+      "latitude": 66.504183,
+      "longitude": 13.125472
+    },
+    {
+      "name": "Stordalsberget",
+      "latitude": 61.588603,
+      "longitude": 9.821214
+    },
+    {
+      "name": "Stordalsfjellet",
+      "latitude": 66.750008,
+      "longitude": 13.902314
+    },
+    {
+      "name": "Storebakkberget",
+      "latitude": 61.279058,
+      "longitude": 7.784483
+    },
+    {
+      "name": "Storeberg",
+      "latitude": 61.07185,
+      "longitude": 7.361519
+    },
+    {
+      "name": "Storeberget",
+      "latitude": 60.904069,
+      "longitude": 7.128133
+    },
+    {
+      "name": "Storebergi",
+      "latitude": 60.888511,
+      "longitude": 7.119495
+    },
+    {
+      "name": "Storeheia",
+      "latitude": 58.171612,
+      "longitude": 7.947007
+    },
+    {
+      "name": "Storesladden",
+      "latitude": 60.8596,
+      "longitude": 7.3691
+    },
+    {
+      "name": "Storfloget",
+      "latitude": 62.223705,
+      "longitude": 8.178661
+    },
+    {
+      "name": "Storfloget",
+      "latitude": 67.077586,
+      "longitude": 14.564481
+    },
+    {
+      "name": "Storfloget",
+      "latitude": 67.141408,
+      "longitude": 14.773814
+    },
+    {
+      "name": "Storfossberga",
+      "latitude": 61.402632,
+      "longitude": 9.724454
+    },
+    {
+      "name": "Storhammaren Klatrefelt",
+      "latitude": 63.055719,
+      "longitude": 7.971808
+    },
+    {
+      "name": "Storhåmåren",
+      "latitude": 61.675569,
+      "longitude": 8.24275
+    },
+    {
+      "name": "Storrauberget",
+      "latitude": 62.015089,
+      "longitude": 9.139769
+    },
+    {
+      "name": "Storråna",
+      "latitude": 66.655078,
+      "longitude": 13.566486
+    },
+    {
+      "name": "Storskodet",
+      "latitude": 58.122619,
+      "longitude": 7.541631
+    },
+    {
+      "name": "Storsolpan sydvegg",
+      "latitude": 69.725833,
+      "longitude": 18.403369
+    },
+    {
+      "name": "Storstein",
+      "latitude": 63.594942,
+      "longitude": 11.401113
+    },
+    {
+      "name": "Storsteinen - Bissobákti",
+      "latitude": 69.634611,
+      "longitude": 18.99036
+    },
+    {
+      "name": "Storstolpan sydøstvegg (Nesheim vegg)",
+      "latitude": 69.726705,
+      "longitude": 18.406588
+    },
+    {
+      "name": "Strandaberget",
+      "latitude": 60.614501,
+      "longitude": 8.489022
+    },
+    {
+      "name": "Strandfjellet",
+      "latitude": 58.67458,
+      "longitude": 6.242701
+    },
+    {
+      "name": "Stream wall",
+      "latitude": 58.111105,
+      "longitude": 7.928593
+    },
+    {
+      "name": "Strupane",
+      "latitude": 60.820791,
+      "longitude": 7.35157
+    },
+    {
+      "name": "Strøkene",
+      "latitude": 61.439839,
+      "longitude": 7.267058
+    },
+    {
+      "name": "Strømsberget",
+      "latitude": 62.184694,
+      "longitude": 10.607794
+    },
+    {
+      "name": "Strømshammeren",
+      "latitude": 57.978817,
+      "longitude": 7.534234
+    },
+    {
+      "name": "Styggdalsbergan",
+      "latitude": 69.025483,
+      "longitude": 18.97366
+    },
+    {
+      "name": "Styggegjelhamrane",
+      "latitude": 61.657703,
+      "longitude": 7.245286
+    },
+    {
+      "name": "Styggehelleren",
+      "latitude": 61.617508,
+      "longitude": 7.310364
+    },
+    {
+      "name": "Styggelægan",
+      "latitude": 61.792783,
+      "longitude": 9.400967
+    },
+    {
+      "name": "Stålberget",
+      "latitude": 61.718536,
+      "longitude": 9.644592
+    },
+    {
+      "name": "Stålberget",
+      "latitude": 61.87722,
+      "longitude": 8.834283
+    },
+    {
+      "name": "Støkkjene",
+      "latitude": 60.953705,
+      "longitude": 6.959921
+    },
+    {
+      "name": "Stølgjerdbergi",
+      "latitude": 61.029556,
+      "longitude": 7.649472
+    },
+    {
+      "name": "Stølsberg",
+      "latitude": 60.972317,
+      "longitude": 7.116092
+    },
+    {
+      "name": "Stølsbergi",
+      "latitude": 61.541806,
+      "longitude": 7.305464
+    },
+    {
+      "name": "Suluberget",
+      "latitude": 61.945364,
+      "longitude": 9.053
+    },
+    {
+      "name": "Sundsfjordflogan",
+      "latitude": 66.975542,
+      "longitude": 14.1622
+    },
+    {
+      "name": "Supersvaet",
+      "latitude": 63.439632,
+      "longitude": 10.345213
+    },
+    {
+      "name": "Susberget",
+      "latitude": 60.991047,
+      "longitude": 9.264728
+    },
+    {
+      "name": "Sva",
+      "latitude": 60.872264,
+      "longitude": 7.323656
+    },
+    {
+      "name": "Svaet",
+      "latitude": 61.803328,
+      "longitude": 9.58463
+    },
+    {
+      "name": "Svaet",
+      "latitude": 63.439555,
+      "longitude": 10.345078
+    },
+    {
+      "name": "Svaet",
+      "latitude": 66.991056,
+      "longitude": 14.242306
+    },
+    {
+      "name": "Svaet",
+      "latitude": 67.989722,
+      "longitude": 13.02057
+    },
+    {
+      "name": "Svalheimsbergi",
+      "latitude": 61.323486,
+      "longitude": 7.860236
+    },
+    {
+      "name": "Svarissveggen",
+      "latitude": 58.831516,
+      "longitude": 5.954595
+    },
+    {
+      "name": "Svartanhammaren",
+      "latitude": 61.059208,
+      "longitude": 7.596964
+    },
+    {
+      "name": "Svartasva",
+      "latitude": 61.480745,
+      "longitude": 7.255192
+    },
+    {
+      "name": "Svartasva",
+      "latitude": 61.482436,
+      "longitude": 7.642108
+    },
+    {
+      "name": "Svartberget",
+      "latitude": 60.967294,
+      "longitude": 9.514989
+    },
+    {
+      "name": "Svartberget",
+      "latitude": 61.351714,
+      "longitude": 10.240264
+    },
+    {
+      "name": "Svartberget",
+      "latitude": 61.527625,
+      "longitude": 8.931158
+    },
+    {
+      "name": "Svartberget",
+      "latitude": 61.617425,
+      "longitude": 9.788519
+    },
+    {
+      "name": "Svartberget",
+      "latitude": 61.676944,
+      "longitude": 10.085422
+    },
+    {
+      "name": "Svartberget",
+      "latitude": 61.752423,
+      "longitude": 9.522132
+    },
+    {
+      "name": "Svartberget",
+      "latitude": 61.759424,
+      "longitude": 9.552839
+    },
+    {
+      "name": "Svartberget",
+      "latitude": 62.172347,
+      "longitude": 10.590846
+    },
+    {
+      "name": "Svartebergi",
+      "latitude": 60.678525,
+      "longitude": 8.514746
+    },
+    {
+      "name": "Svartefjell",
+      "latitude": 58.442115,
+      "longitude": 8.48018
+    },
+    {
+      "name": "Svartegjelbergi",
+      "latitude": 61.150153,
+      "longitude": 7.423497
+    },
+    {
+      "name": "Svarteputtberget",
+      "latitude": 60.92925,
+      "longitude": 9.672517
+    },
+    {
+      "name": "Svarterabben",
+      "latitude": 61.385545,
+      "longitude": 7.292669
+    },
+    {
+      "name": "Svarteskre",
+      "latitude": 61.065561,
+      "longitude": 8.578503
+    },
+    {
+      "name": "Svartesvoren",
+      "latitude": 59.437638,
+      "longitude": 5.971835
+    },
+    {
+      "name": "Svartflogan",
+      "latitude": 67.676375,
+      "longitude": 14.789522
+    },
+    {
+      "name": "Svartfloget",
+      "latitude": 66.747569,
+      "longitude": 14.576342
+    },
+    {
+      "name": "Svarthammar",
+      "latitude": 61.501205,
+      "longitude": 7.586981
+    },
+    {
+      "name": "Svarthammar",
+      "latitude": 61.516431,
+      "longitude": 7.595433
+    },
+    {
+      "name": "Svarthammaren",
+      "latitude": 62.052406,
+      "longitude": 6.215637
+    },
+    {
+      "name": "Svarthammaren",
+      "latitude": 69.52342,
+      "longitude": 18.643291
+    },
+    {
+      "name": "Svarthammaren - Čáhppesveahčir",
+      "latitude": 69.606063,
+      "longitude": 19.066834
+    },
+    {
+      "name": "Svarthamrein",
+      "latitude": 61.835989,
+      "longitude": 8.583925
+    },
+    {
+      "name": "Svarthol",
+      "latitude": 61.474305,
+      "longitude": 7.459536
+    },
+    {
+      "name": "Svarthåmmåren",
+      "latitude": 61.862742,
+      "longitude": 8.390845
+    },
+    {
+      "name": "Svarthåmmårn",
+      "latitude": 61.886689,
+      "longitude": 8.040406
+    },
+    {
+      "name": "Svarthåmåren",
+      "latitude": 61.672902,
+      "longitude": 8.230706
+    },
+    {
+      "name": "Svarthåmårn",
+      "latitude": 61.763709,
+      "longitude": 8.418133
+    },
+    {
+      "name": "Svarthåmårn",
+      "latitude": 61.842211,
+      "longitude": 8.622128
+    },
+    {
+      "name": "Svartkampen",
+      "latitude": 61.434492,
+      "longitude": 9.55348
+    },
+    {
+      "name": "Svarttjønnbergje",
+      "latitude": 61.82965,
+      "longitude": 9.329242
+    },
+    {
+      "name": "Svefloget",
+      "latitude": 67.080106,
+      "longitude": 14.567728
+    },
+    {
+      "name": "Sveinskøridn",
+      "latitude": 61.187435,
+      "longitude": 8.184068
+    },
+    {
+      "name": "Svenskehella",
+      "latitude": 59.903617,
+      "longitude": 10.450711
+    },
+    {
+      "name": "Svihusveggen",
+      "latitude": 58.829161,
+      "longitude": 5.948347
+    },
+    {
+      "name": "Svinalibergi",
+      "latitude": 61.034883,
+      "longitude": 7.660369
+    },
+    {
+      "name": "Svingberget",
+      "latitude": 61.268672,
+      "longitude": 10.445211
+    },
+    {
+      "name": "Svoleberg",
+      "latitude": 61.275358,
+      "longitude": 7.288667
+    },
+    {
+      "name": "Svåene",
+      "latitude": 58.475841,
+      "longitude": 8.442459
+    },
+    {
+      "name": "Synberg",
+      "latitude": 61.107478,
+      "longitude": 9.127403
+    },
+    {
+      "name": "Sæberg",
+      "latitude": 60.587618,
+      "longitude": 6.959655
+    },
+    {
+      "name": "Sæltøygardsbergi",
+      "latitude": 61.04895,
+      "longitude": 7.721355
+    },
+    {
+      "name": "Sæterberga",
+      "latitude": 61.421629,
+      "longitude": 9.543299
+    },
+    {
+      "name": "Sølvet",
+      "latitude": 60.973283,
+      "longitude": 6.990894
+    },
+    {
+      "name": "Sør-øst-veggen",
+      "latitude": 58.94678,
+      "longitude": 5.881654
+    },
+    {
+      "name": "Søre Berget",
+      "latitude": 61.482605,
+      "longitude": 9.663271
+    },
+    {
+      "name": "Søre Bjødnaskøre",
+      "latitude": 61.199392,
+      "longitude": 8.403064
+    },
+    {
+      "name": "Søre Glåmberg",
+      "latitude": 61.688466,
+      "longitude": 8.223574
+    },
+    {
+      "name": "Sørfjordhammaren",
+      "latitude": 66.448367,
+      "longitude": 13.264725
+    },
+    {
+      "name": "Søtholberget",
+      "latitude": 61.311453,
+      "longitude": 7.762011
+    },
+    {
+      "name": "Tengesdalsveggen",
+      "latitude": 58.869085,
+      "longitude": 5.9491
+    },
+    {
+      "name": "Timrehelleren",
+      "latitude": 60.8042,
+      "longitude": 7.1117
+    },
+    {
+      "name": "Tinneberget",
+      "latitude": 60.702002,
+      "longitude": 5.600964
+    },
+    {
+      "name": "Tinnfatbergan",
+      "latitude": 66.820525,
+      "longitude": 13.440611
+    },
+    {
+      "name": "Tirtesva",
+      "latitude": 60.835031,
+      "longitude": 7.467971
+    },
+    {
+      "name": "Tiurberget",
+      "latitude": 61.418523,
+      "longitude": 9.74191
+    },
+    {
+      "name": "Tivolifjellet",
+      "latitude": 58.967586,
+      "longitude": 5.730846
+    },
+    {
+      "name": "Tjongsfjellet",
+      "latitude": 66.693692,
+      "longitude": 13.477592
+    },
+    {
+      "name": "Tjuenberget",
+      "latitude": 66.561783,
+      "longitude": 12.866033
+    },
+    {
+      "name": "Tjørnaberget",
+      "latitude": 60.601236,
+      "longitude": 7.034811
+    },
+    {
+      "name": "Tolvthammaren",
+      "latitude": 61.496292,
+      "longitude": 7.614289
+    },
+    {
+      "name": "Tonoberget",
+      "latitude": 61.164697,
+      "longitude": 8.545378
+    },
+    {
+      "name": "Toppen",
+      "latitude": 58.782463,
+      "longitude": 9.377316
+    },
+    {
+      "name": "Toralden",
+      "latitude": 61.104858,
+      "longitude": 7.047119
+    },
+    {
+      "name": "Toredalsfjellet",
+      "latitude": 58.476857,
+      "longitude": 8.444043
+    },
+    {
+      "name": "Torgilsberget",
+      "latitude": 60.511517,
+      "longitude": 6.904056
+    },
+    {
+      "name": "Torsteinsberget",
+      "latitude": 61.344544,
+      "longitude": 7.394128
+    },
+    {
+      "name": "Totjernberget",
+      "latitude": 60.911006,
+      "longitude": 9.567181
+    },
+    {
+      "name": "Trappegalden",
+      "latitude": 60.87422,
+      "longitude": 7.308529
+    },
+    {
+      "name": "Triungsskreo",
+      "latitude": 60.579596,
+      "longitude": 6.998526
+    },
+    {
+      "name": "Trollskåla",
+      "latitude": 68.55308,
+      "longitude": 14.63013
+    },
+    {
+      "name": "Trollveggen",
+      "latitude": 62.484051,
+      "longitude": 7.723831
+    },
+    {
+      "name": "Tromsdalsfjellet",
+      "latitude": 69.609423,
+      "longitude": 19.057886
+    },
+    {
+      "name": "Trongkleiv",
+      "latitude": 59.787274,
+      "longitude": 10.420561
+    },
+    {
+      "name": "Tronteigbergi",
+      "latitude": 61.32639,
+      "longitude": 7.834765
+    },
+    {
+      "name": "Trossa",
+      "latitude": 60.873928,
+      "longitude": 7.114775
+    },
+    {
+      "name": "Trøaberget",
+      "latitude": 60.929411,
+      "longitude": 9.680047
+    },
+    {
+      "name": "Tufteberget",
+      "latitude": 61.564472,
+      "longitude": 7.261042
+    },
+    {
+      "name": "Tungehaugane",
+      "latitude": 61.492056,
+      "longitude": 8.029125
+    },
+    {
+      "name": "Tungnebben",
+      "latitude": 62.11381,
+      "longitude": 9.079921
+    },
+    {
+      "name": "Tunnelfjellet",
+      "latitude": 58.692234,
+      "longitude": 6.260134
+    },
+    {
+      "name": "Turthamar",
+      "latitude": 61.069128,
+      "longitude": 8.58145
+    },
+    {
+      "name": "Tusjeguttberget",
+      "latitude": 61.197066,
+      "longitude": 10.420184
+    },
+    {
+      "name": "Tverrberga",
+      "latitude": 61.522483,
+      "longitude": 10.086536
+    },
+    {
+      "name": "Tverrbergi",
+      "latitude": 60.86149,
+      "longitude": 7.377379
+    },
+    {
+      "name": "Tverrbergi",
+      "latitude": 60.995019,
+      "longitude": 7.682664
+    },
+    {
+      "name": "Tverrbergi",
+      "latitude": 60.9984,
+      "longitude": 7.693306
+    },
+    {
+      "name": "Tverrfjellet",
+      "latitude": 66.482125,
+      "longitude": 13.205047
+    },
+    {
+      "name": "Tverråsen",
+      "latitude": 59.788625,
+      "longitude": 10.146324
+    },
+    {
+      "name": "Tverråsen",
+      "latitude": 59.791039,
+      "longitude": 10.143005
+    },
+    {
+      "name": "Tverråsen",
+      "latitude": 59.792343,
+      "longitude": 10.140796
+    },
+    {
+      "name": "Tverråsen",
+      "latitude": 59.796544,
+      "longitude": 10.12498
+    },
+    {
+      "name": "Tverråsen",
+      "latitude": 59.802917,
+      "longitude": 10.118148
+    },
+    {
+      "name": "Tårnsteinen",
+      "latitude": 66.577583,
+      "longitude": 13.216025
+    },
+    {
+      "name": "Tårudberget",
+      "latitude": 61.611353,
+      "longitude": 9.705657
+    },
+    {
+      "name": "Uksebåsen",
+      "latitude": 61.144344,
+      "longitude": 7.381888
+    },
+    {
+      "name": "Urdnebb",
+      "latitude": 61.947293,
+      "longitude": 9.040405
+    },
+    {
+      "name": "Uskjaklubben",
+      "latitude": 58.953619,
+      "longitude": 5.803515
+    },
+    {
+      "name": "Utsikte",
+      "latitude": 60.873908,
+      "longitude": 9.734042
+    },
+    {
+      "name": "Vadberg",
+      "latitude": 61.147264,
+      "longitude": 7.418978
+    },
+    {
+      "name": "Valeberget",
+      "latitude": 61.649725,
+      "longitude": 7.274908
+    },
+    {
+      "name": "Vallerskarfjellet",
+      "latitude": 66.564267,
+      "longitude": 12.640761
+    },
+    {
+      "name": "Vangsbergje",
+      "latitude": 61.870589,
+      "longitude": 9.081358
+    },
+    {
+      "name": "Varfjellet",
+      "latitude": 66.889803,
+      "longitude": 13.864022
+    },
+    {
+      "name": "Vassendbergje",
+      "latitude": 61.671655,
+      "longitude": 8.13666
+    },
+    {
+      "name": "Vasshillarane",
+      "latitude": 61.425406,
+      "longitude": 7.227306
+    },
+    {
+      "name": "Vasstaksvaet",
+      "latitude": 61.056925,
+      "longitude": 7.569983
+    },
+    {
+      "name": "Vegastølsberget",
+      "latitude": 61.169389,
+      "longitude": 8.367561
+    },
+    {
+      "name": "Veldalstindan",
+      "latitude": 69.747535,
+      "longitude": 20.067057
+    },
+    {
+      "name": "Veldalstindan",
+      "latitude": 69.748919,
+      "longitude": 20.086707
+    },
+    {
+      "name": "Veldalstindan",
+      "latitude": 69.750253,
+      "longitude": 20.045851
+    },
+    {
+      "name": "Veltarfloget",
+      "latitude": 66.798017,
+      "longitude": 13.512761
+    },
+    {
+      "name": "Velteberga",
+      "latitude": 61.285189,
+      "longitude": 10.368458
+    },
+    {
+      "name": "Venebekkfjella",
+      "latitude": 58.440865,
+      "longitude": 8.39067
+    },
+    {
+      "name": "Venstre-veggen",
+      "latitude": 58.819284,
+      "longitude": 5.924517
+    },
+    {
+      "name": "Vesle Galden",
+      "latitude": 61.227208,
+      "longitude": 8.228297
+    },
+    {
+      "name": "Vesleberget",
+      "latitude": 60.596003,
+      "longitude": 8.458253
+    },
+    {
+      "name": "Vesleforhammar",
+      "latitude": 61.297372,
+      "longitude": 7.332464
+    },
+    {
+      "name": "Veslengtjønnberget",
+      "latitude": 69.017688,
+      "longitude": 18.992336
+    },
+    {
+      "name": "Veslesæterberget",
+      "latitude": 61.742103,
+      "longitude": 9.369933
+    },
+    {
+      "name": "Veslsæterberget",
+      "latitude": 61.711864,
+      "longitude": 8.377289
+    },
+    {
+      "name": "Vest-veggen",
+      "latitude": 58.814497,
+      "longitude": 6.091873
+    },
+    {
+      "name": "Vestveggen",
+      "latitude": 67.482297,
+      "longitude": 12.007981
+    },
+    {
+      "name": "Veten",
+      "latitude": 58.091603,
+      "longitude": 7.950606
+    },
+    {
+      "name": "Vetlaknutsberg",
+      "latitude": 60.973074,
+      "longitude": 7.106408
+    },
+    {
+      "name": "Vetle Honingberget",
+      "latitude": 61.107533,
+      "longitude": 8.013331
+    },
+    {
+      "name": "Vetle Nedberget",
+      "latitude": 60.957496,
+      "longitude": 7.122818
+    },
+    {
+      "name": "Vetleberg",
+      "latitude": 61.072006,
+      "longitude": 7.365403
+    },
+    {
+      "name": "Vetlfloget",
+      "latitude": 62.22574,
+      "longitude": 8.161524
+    },
+    {
+      "name": "Vettisbergi",
+      "latitude": 61.366252,
+      "longitude": 7.897809
+    },
+    {
+      "name": "Vikbergan",
+      "latitude": 61.242458,
+      "longitude": 10.414828
+    },
+    {
+      "name": "Vindberget",
+      "latitude": 61.941379,
+      "longitude": 9.222877
+    },
+    {
+      "name": "Visteberge",
+      "latitude": 61.028806,
+      "longitude": 9.083525
+    },
+    {
+      "name": "Vom-fjell",
+      "latitude": 58.343513,
+      "longitude": 8.513326
+    },
+    {
+      "name": "Vågaberga",
+      "latitude": 63.977136,
+      "longitude": 9.074831
+    },
+    {
+      "name": "Vårstølhaugen",
+      "latitude": 60.80097,
+      "longitude": 7.114849
+    },
+    {
+      "name": "Ymjørberget",
+      "latitude": 61.936206,
+      "longitude": 9.257433
+    },
+    {
+      "name": "Ytste Hoven",
+      "latitude": 60.969957,
+      "longitude": 7.016823
+    },
+    {
+      "name": "Ytterfjellet",
+      "latitude": 66.731853,
+      "longitude": 13.655611
+    },
+    {
+      "name": "Ytterkvarøyfjellet",
+      "latitude": 66.486375,
+      "longitude": 12.903436
+    },
+    {
+      "name": "Zenithveggen",
+      "latitude": 69.605243,
+      "longitude": 18.018829
+    },
+    {
+      "name": "beisaren",
+      "latitude": 76.713119,
+      "longitude": 25.492
+    },
+    {
+      "name": "Ådnehammaren",
+      "latitude": 61.310042,
+      "longitude": 7.781231
+    },
+    {
+      "name": "Ålgård",
+      "latitude": 58.772671,
+      "longitude": 5.848296
+    },
+    {
+      "name": "Åroskastet",
+      "latitude": 59.695419,
+      "longitude": 10.516909
+    },
+    {
+      "name": "Årvoll gruve",
+      "latitude": 59.963653,
+      "longitude": 10.840953
+    },
+    {
+      "name": "Åsen",
+      "latitude": 68.592778,
+      "longitude": 15.824526
+    },
+    {
+      "name": "Åsfloget",
+      "latitude": 67.94793,
+      "longitude": 15.203945
+    },
+    {
+      "name": "Åstøl",
+      "latitude": 59.006707,
+      "longitude": 6.069976
+    },
+    {
+      "name": "Øksle",
+      "latitude": 61.15423,
+      "longitude": 8.411328
+    },
+    {
+      "name": "Øksnefjellet",
+      "latitude": 58.213549,
+      "longitude": 6.844953
+    },
+    {
+      "name": "Ørmura",
+      "latitude": 60.917136,
+      "longitude": 9.651422
+    },
+    {
+      "name": "Ørnaberg",
+      "latitude": 61.075197,
+      "longitude": 7.417031
+    },
+    {
+      "name": "Ørnbergan - Goaskinbákti",
+      "latitude": 69.385785,
+      "longitude": 19.47246
+    },
+    {
+      "name": "Ørnberget",
+      "latitude": 61.059322,
+      "longitude": 9.338114
+    },
+    {
+      "name": "Ørnberget",
+      "latitude": 61.719719,
+      "longitude": 9.115342
+    },
+    {
+      "name": "Ørnberget",
+      "latitude": 61.732378,
+      "longitude": 9.008
+    },
+    {
+      "name": "Ørnberget",
+      "latitude": 61.916722,
+      "longitude": 8.970639
+    },
+    {
+      "name": "Ørnberget",
+      "latitude": 62.039815,
+      "longitude": 9.958802
+    },
+    {
+      "name": "Ørneberget",
+      "latitude": 61.85535,
+      "longitude": 8.278303
+    },
+    {
+      "name": "Ørneberget",
+      "latitude": 61.863694,
+      "longitude": 8.633313
+    },
+    {
+      "name": "Ørnegropa",
+      "latitude": 70.215906,
+      "longitude": 24.557147
+    },
+    {
+      "name": "Ørnehjelskøre",
+      "latitude": 61.164597,
+      "longitude": 8.521019
+    },
+    {
+      "name": "Ørnehylla",
+      "latitude": 59.049777,
+      "longitude": 6.653946
+    },
+    {
+      "name": "Ørneknubben",
+      "latitude": 61.121744,
+      "longitude": 7.423797
+    },
+    {
+      "name": "Ørnflogan",
+      "latitude": 66.479953,
+      "longitude": 13.113556
+    },
+    {
+      "name": "Ørnfloget",
+      "latitude": 66.444442,
+      "longitude": 13.196442
+    },
+    {
+      "name": "Ørnfloget",
+      "latitude": 66.800828,
+      "longitude": 13.551861
+    },
+    {
+      "name": "Ørnhammaren",
+      "latitude": 66.947728,
+      "longitude": 13.615064
+    },
+    {
+      "name": "Ørnrevet",
+      "latitude": 66.478969,
+      "longitude": 13.117194
+    },
+    {
+      "name": "Øspelundsveberget",
+      "latitude": 60.861181,
+      "longitude": 9.692956
+    },
+    {
+      "name": "Øver-Ramnfloget",
+      "latitude": 67.081039,
+      "longitude": 14.496619
+    },
+    {
+      "name": "Øvre Bjønnholberget",
+      "latitude": 61.621984,
+      "longitude": 9.640623
+    },
+    {
+      "name": "Øvre Gullsva",
+      "latitude": 58.799861,
+      "longitude": 6.009731
+    },
+    {
+      "name": "Øvre Høgberg",
+      "latitude": 61.663514,
+      "longitude": 8.226949
+    },
+    {
+      "name": "Øvre Ishoel",
+      "latitude": 62.577246,
+      "longitude": 9.380884
+    },
+    {
+      "name": "Øvre Svaberget",
+      "latitude": 60.565318,
+      "longitude": 8.465186
+    },
+    {
+      "name": "Øyaberget",
+      "latitude": 60.880494,
+      "longitude": 7.326411
+    },
+    {
+      "name": "Øyahåmårn",
+      "latitude": 61.830301,
+      "longitude": 8.560017
+    },
+    {
+      "name": "Øyangsberget",
+      "latitude": 61.230983,
+      "longitude": 8.349756
+    },
+    {
+      "name": "Øygardsberget",
+      "latitude": 60.885981,
+      "longitude": 9.704714
+    },
+    {
+      "name": "Øygardsbergi",
+      "latitude": 61.052456,
+      "longitude": 7.762964
+    },
+    {
+      "name": "Øyneberge",
+      "latitude": 60.948763,
+      "longitude": 8.659559
+    },
+    {
+      "name": "Øyrabergi",
+      "latitude": 60.98315,
+      "longitude": 7.694911
+    }
+  ],
+  "meta": {
+    "title": "Named cliffs in Norway - Gratis nedlasting",
+    "description": "Named cliffs in Norway, derived from OpenStreetMap POI nodes tagged natural=cliff in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 1082 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named cliffs in Norway | ListBase",
+    "seo_description": "Last ned Named cliffs in Norway — 1082 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 1082 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

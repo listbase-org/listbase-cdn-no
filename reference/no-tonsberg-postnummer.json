@@ -1,0 +1,392 @@
+{
+  "id": "no-tonsberg-postnummer",
+  "name": "Postnummer i Tønsberg",
+  "title": "Postnummer i Tønsberg",
+  "description": "Alle 42 postnummer i Tønsberg kommune med poststed.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "3101",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3103",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3104",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3105",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3107",
+      "poststed": "Sem",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3108",
+      "poststed": "Vear",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3109",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3110",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3111",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3112",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3113",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3114",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3115",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3116",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3117",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3118",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3119",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3122",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3123",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3124",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3125",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3126",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3127",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3129",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3134",
+      "poststed": "Tønsberg",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3150",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3151",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3152",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3153",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3154",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3157",
+      "poststed": "Barkåker",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3164",
+      "poststed": "Revetal",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3166",
+      "poststed": "Tolvsrød",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3170",
+      "poststed": "Sem",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3171",
+      "poststed": "Sem",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3172",
+      "poststed": "Vear",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3173",
+      "poststed": "Vear",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3174",
+      "poststed": "Revetal",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3175",
+      "poststed": "Ramnes",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3176",
+      "poststed": "Undrumsdal",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3177",
+      "poststed": "Våle",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    },
+    {
+      "postnummer": "3178",
+      "poststed": "Våle",
+      "kommune_id": "3905",
+      "kommune": "Tønsberg",
+      "fylke_id": "39",
+      "fylke": "Vestfold"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Tønsberg - Gratis nedlasting",
+    "description": "Alle 42 postnummer i Tønsberg kommune med poststed. Inneholder 42 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Tønsberg | ListBase",
+    "seo_description": "Last ned Postnummer i Tønsberg — 42 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 42 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

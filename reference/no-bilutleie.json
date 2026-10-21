@@ -1,0 +1,506 @@
+{
+  "id": "no-bilutleie",
+  "name": "Car rental in Norway",
+  "title": "Car rental in Norway",
+  "description": "Car rental in Norway (Bilutleie i Norge), derived from OpenStreetMap POIs tagged amenity=car_rental. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alfa Safe Utleie",
+      "latitude": 58.730286,
+      "longitude": 5.63456
+    },
+    {
+      "name": "Allways Halvorsen",
+      "latitude": 63.433248,
+      "longitude": 10.404784
+    },
+    {
+      "name": "Arctic Campers Oslo",
+      "latitude": 60.267387,
+      "longitude": 11.10006
+    },
+    {
+      "name": "Arctic Campers Tromsø",
+      "latitude": 69.702533,
+      "longitude": 18.918161
+    },
+    {
+      "name": "Avis",
+      "latitude": 58.145644,
+      "longitude": 7.987961
+    },
+    {
+      "name": "Avis",
+      "latitude": 58.887565,
+      "longitude": 5.623278
+    },
+    {
+      "name": "Avis",
+      "latitude": 59.238095,
+      "longitude": 10.966956
+    },
+    {
+      "name": "Avis",
+      "latitude": 59.344251,
+      "longitude": 5.217476
+    },
+    {
+      "name": "Avis",
+      "latitude": 59.415845,
+      "longitude": 10.686922
+    },
+    {
+      "name": "Avis",
+      "latitude": 59.703697,
+      "longitude": 10.242009
+    },
+    {
+      "name": "Avis",
+      "latitude": 59.915586,
+      "longitude": 10.786583
+    },
+    {
+      "name": "Avis",
+      "latitude": 60.173967,
+      "longitude": 12.021217
+    },
+    {
+      "name": "Avis",
+      "latitude": 60.37709,
+      "longitude": 5.336159
+    },
+    {
+      "name": "Avis",
+      "latitude": 62.55931,
+      "longitude": 7.680962
+    },
+    {
+      "name": "Avis",
+      "latitude": 63.43198,
+      "longitude": 10.40218
+    },
+    {
+      "name": "Avis",
+      "latitude": 68.230884,
+      "longitude": 14.559774
+    },
+    {
+      "name": "Avis",
+      "latitude": 68.440849,
+      "longitude": 17.436259
+    },
+    {
+      "name": "Avis",
+      "latitude": 69.309546,
+      "longitude": 16.101794
+    },
+    {
+      "name": "Avis",
+      "latitude": 69.310676,
+      "longitude": 16.124164
+    },
+    {
+      "name": "Avis",
+      "latitude": 69.648465,
+      "longitude": 18.950256
+    },
+    {
+      "name": "Avis Bilutleie",
+      "latitude": 58.097544,
+      "longitude": 6.68649
+    },
+    {
+      "name": "AVIS Bodø sentrum",
+      "latitude": 67.285305,
+      "longitude": 14.388709
+    },
+    {
+      "name": "Avis Budget",
+      "latitude": 67.285621,
+      "longitude": 14.385587
+    },
+    {
+      "name": "Avis Leiebil Alta sentrum",
+      "latitude": 69.975888,
+      "longitude": 23.339423
+    },
+    {
+      "name": "Avis Tromsø Airport",
+      "latitude": 69.679423,
+      "longitude": 18.907111
+    },
+    {
+      "name": "Bookbil.no",
+      "latitude": 59.413163,
+      "longitude": 5.276591
+    },
+    {
+      "name": "Budget",
+      "latitude": 63.431972,
+      "longitude": 10.402274
+    },
+    {
+      "name": "Budget Bodø sentrum",
+      "latitude": 67.285291,
+      "longitude": 14.388528
+    },
+    {
+      "name": "Bærum Bilutleie",
+      "latitude": 59.910564,
+      "longitude": 10.561325
+    },
+    {
+      "name": "eMobility",
+      "latitude": 60.861355,
+      "longitude": 7.114999
+    },
+    {
+      "name": "eMobility Geiranger",
+      "latitude": 62.10251,
+      "longitude": 7.205331
+    },
+    {
+      "name": "Europcar",
+      "latitude": 59.344133,
+      "longitude": 5.217665
+    },
+    {
+      "name": "Europcar",
+      "latitude": 65.828081,
+      "longitude": 13.198321
+    },
+    {
+      "name": "Europcar",
+      "latitude": 69.679406,
+      "longitude": 18.907392
+    },
+    {
+      "name": "Europcar Bodø",
+      "latitude": 67.285812,
+      "longitude": 14.391128
+    },
+    {
+      "name": "Europcar Oslo",
+      "latitude": 59.914269,
+      "longitude": 10.731211
+    },
+    {
+      "name": "Fleks",
+      "latitude": 59.925083,
+      "longitude": 10.796549
+    },
+    {
+      "name": "Grøsfjeld bilutleie",
+      "latitude": 58.95395,
+      "longitude": 5.741143
+    },
+    {
+      "name": "Hertz",
+      "latitude": 59.236807,
+      "longitude": 10.964904
+    },
+    {
+      "name": "Hertz",
+      "latitude": 59.344194,
+      "longitude": 5.217557
+    },
+    {
+      "name": "Hertz",
+      "latitude": 59.414838,
+      "longitude": 10.687773
+    },
+    {
+      "name": "Hertz",
+      "latitude": 59.575222,
+      "longitude": 11.217637
+    },
+    {
+      "name": "Hertz",
+      "latitude": 59.779571,
+      "longitude": 5.498888
+    },
+    {
+      "name": "Hertz",
+      "latitude": 59.910668,
+      "longitude": 10.752426
+    },
+    {
+      "name": "Hertz",
+      "latitude": 59.917796,
+      "longitude": 10.733163
+    },
+    {
+      "name": "Hertz",
+      "latitude": 59.924676,
+      "longitude": 10.794853
+    },
+    {
+      "name": "Hertz",
+      "latitude": 60.288084,
+      "longitude": 5.231314
+    },
+    {
+      "name": "Hertz",
+      "latitude": 60.364176,
+      "longitude": 5.343508
+    },
+    {
+      "name": "Hertz",
+      "latitude": 60.656957,
+      "longitude": 6.438809
+    },
+    {
+      "name": "Hertz",
+      "latitude": 63.299751,
+      "longitude": 9.847402
+    },
+    {
+      "name": "Hertz",
+      "latitude": 63.4539,
+      "longitude": 10.915604
+    },
+    {
+      "name": "Hertz",
+      "latitude": 68.146982,
+      "longitude": 13.614
+    },
+    {
+      "name": "Hertz",
+      "latitude": 68.230424,
+      "longitude": 14.56581
+    },
+    {
+      "name": "Hertz",
+      "latitude": 68.444978,
+      "longitude": 17.452264
+    },
+    {
+      "name": "Hertz",
+      "latitude": 68.789165,
+      "longitude": 16.541075
+    },
+    {
+      "name": "Hertz",
+      "latitude": 69.310635,
+      "longitude": 16.123836
+    },
+    {
+      "name": "Hertz",
+      "latitude": 69.646839,
+      "longitude": 18.958879
+    },
+    {
+      "name": "Hertz",
+      "latitude": 69.655337,
+      "longitude": 18.967864
+    },
+    {
+      "name": "Hertz",
+      "latitude": 69.679412,
+      "longitude": 18.907287
+    },
+    {
+      "name": "Hertz",
+      "latitude": 69.690523,
+      "longitude": 29.998359
+    },
+    {
+      "name": "Hertz",
+      "latitude": 69.964296,
+      "longitude": 23.273158
+    },
+    {
+      "name": "Hertz",
+      "latitude": 70.674579,
+      "longitude": 23.648524
+    },
+    {
+      "name": "Hertz",
+      "latitude": 70.680302,
+      "longitude": 23.677167
+    },
+    {
+      "name": "Hertz Bilutleie",
+      "latitude": 58.965965,
+      "longitude": 5.731371
+    },
+    {
+      "name": "Hertz Trondheim",
+      "latitude": 63.40039,
+      "longitude": 10.400389
+    },
+    {
+      "name": "Lofoten Rental Car",
+      "latitude": 68.229878,
+      "longitude": 14.559874
+    },
+    {
+      "name": "Moss bilutleie",
+      "latitude": 59.399827,
+      "longitude": 10.725027
+    },
+    {
+      "name": "Nordkapp Bil Service",
+      "latitude": 70.983102,
+      "longitude": 25.967924
+    },
+    {
+      "name": "Per's Utleieservice",
+      "latitude": 59.209777,
+      "longitude": 10.969291
+    },
+    {
+      "name": "Rent a Car Lofoten",
+      "latitude": 68.234896,
+      "longitude": 14.553431
+    },
+    {
+      "name": "Rent a car Moskenes",
+      "latitude": 67.8994,
+      "longitude": 13.046152
+    },
+    {
+      "name": "Rent a wreck",
+      "latitude": 61.132121,
+      "longitude": 10.444404
+    },
+    {
+      "name": "Rent A Wreck",
+      "latitude": 69.679434,
+      "longitude": 18.907339
+    },
+    {
+      "name": "Rent-a-wreck",
+      "latitude": 58.888342,
+      "longitude": 5.624552
+    },
+    {
+      "name": "Rent-A-Wreck",
+      "latitude": 59.957709,
+      "longitude": 11.038742
+    },
+    {
+      "name": "Rent-A-Wreck",
+      "latitude": 60.78528,
+      "longitude": 10.692977
+    },
+    {
+      "name": "Rent-A-Wreck",
+      "latitude": 68.146037,
+      "longitude": 13.601981
+    },
+    {
+      "name": "Rent-A-Wreck Bilutleie",
+      "latitude": 59.268477,
+      "longitude": 11.034349
+    },
+    {
+      "name": "Rent-A-Wreck Kirkenes",
+      "latitude": 69.723188,
+      "longitude": 30.069827
+    },
+    {
+      "name": "Rent-A-Wreck Trondheim",
+      "latitude": 63.388593,
+      "longitude": 10.39809
+    },
+    {
+      "name": "RentAWreck",
+      "latitude": 59.261883,
+      "longitude": 10.422381
+    },
+    {
+      "name": "Roadsurfer",
+      "latitude": 60.152226,
+      "longitude": 11.185502
+    },
+    {
+      "name": "Rogaland bilutleie",
+      "latitude": 58.883998,
+      "longitude": 5.728913
+    },
+    {
+      "name": "Sixt",
+      "latitude": 59.344092,
+      "longitude": 5.217761
+    },
+    {
+      "name": "Sixt",
+      "latitude": 59.730411,
+      "longitude": 10.220422
+    },
+    {
+      "name": "SIXT",
+      "latitude": 60.288064,
+      "longitude": 5.230996
+    },
+    {
+      "name": "SIXT",
+      "latitude": 62.558399,
+      "longitude": 6.115091
+    },
+    {
+      "name": "Sixt",
+      "latitude": 63.4059,
+      "longitude": 10.396519
+    },
+    {
+      "name": "SIXT",
+      "latitude": 68.231909,
+      "longitude": 14.563105
+    },
+    {
+      "name": "Sixt",
+      "latitude": 68.495787,
+      "longitude": 16.701872
+    },
+    {
+      "name": "SIXT",
+      "latitude": 69.679419,
+      "longitude": 18.907196
+    },
+    {
+      "name": "Sixt Bodø Sentrum",
+      "latitude": 67.282133,
+      "longitude": 14.376676
+    },
+    {
+      "name": "Vinstra karosseri",
+      "latitude": 61.59466,
+      "longitude": 9.73086
+    }
+  ],
+  "meta": {
+    "title": "Car rental in Norway - Gratis nedlasting",
+    "description": "Car rental in Norway (Bilutleie i Norge), derived from OpenStreetMap POIs tagged amenity=car_rental. Named features only, clipped to mainland Norway. Inneholder 93 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Car rental in Norway | ListBase",
+    "seo_description": "Last ned Car rental in Norway — 93 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 93 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

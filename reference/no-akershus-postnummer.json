@@ -1,0 +1,2632 @@
+{
+  "id": "no-akershus-postnummer",
+  "name": "Postnummer i Akershus",
+  "title": "Postnummer i Akershus",
+  "description": "Alle 322 postnummer i Akershus fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 322,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "1300",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1301",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1302",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1303",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1304",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1305",
+      "poststed": "Haslum",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1306",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1307",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1308",
+      "poststed": "Jar",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1309",
+      "poststed": "Rud",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1311",
+      "poststed": "Høvikodden",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1312",
+      "poststed": "Slependen",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1313",
+      "poststed": "Vøyenenga",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1314",
+      "poststed": "Vøyenenga",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1316",
+      "poststed": "Eiksmarka",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1317",
+      "poststed": "Bærums Verk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1318",
+      "poststed": "Bekkestua",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1319",
+      "poststed": "Bekkestua",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1321",
+      "poststed": "Stabekk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1322",
+      "poststed": "Høvik",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1323",
+      "poststed": "Høvik",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1324",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1325",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1326",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1327",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1328",
+      "poststed": "Høvik",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1329",
+      "poststed": "Lommedalen",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1330",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1331",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1332",
+      "poststed": "Østerås",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1333",
+      "poststed": "Kolsås",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1334",
+      "poststed": "Rykkinn",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1335",
+      "poststed": "Snarøya",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1336",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1337",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1338",
+      "poststed": "Sandvika",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1339",
+      "poststed": "Vøyenenga",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1340",
+      "poststed": "Skui",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1341",
+      "poststed": "Slependen",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1342",
+      "poststed": "Gjettum",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1344",
+      "poststed": "Haslum",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1346",
+      "poststed": "Gjettum",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1348",
+      "poststed": "Rykkinn",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1349",
+      "poststed": "Rykkinn",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1350",
+      "poststed": "Lommedalen",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1351",
+      "poststed": "Rud",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1352",
+      "poststed": "Kolsås",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1353",
+      "poststed": "Bærums Verk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1354",
+      "poststed": "Bærums Verk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1356",
+      "poststed": "Bekkestua",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1357",
+      "poststed": "Bekkestua",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1358",
+      "poststed": "Jar",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1359",
+      "poststed": "Eiksmarka",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1360",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1361",
+      "poststed": "Østerås",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1362",
+      "poststed": "Hosle",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1363",
+      "poststed": "Høvik",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1364",
+      "poststed": "Fornebu",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1365",
+      "poststed": "Blommenholm",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1366",
+      "poststed": "Lysaker",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1367",
+      "poststed": "Snarøya",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1368",
+      "poststed": "Stabekk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1369",
+      "poststed": "Stabekk",
+      "kommune_id": "3201",
+      "kommune": "Bærum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1371",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1372",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1373",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1375",
+      "poststed": "Billingstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1376",
+      "poststed": "Billingstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1377",
+      "poststed": "Billingstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1378",
+      "poststed": "Nesbru",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1379",
+      "poststed": "Nesbru",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1380",
+      "poststed": "Heggedal",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1381",
+      "poststed": "Vettre",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1383",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1384",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1385",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1386",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1387",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1388",
+      "poststed": "Borgen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1389",
+      "poststed": "Heggedal",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1390",
+      "poststed": "Vollen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1391",
+      "poststed": "Vollen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1392",
+      "poststed": "Vettre",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1393",
+      "poststed": "Vollen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1394",
+      "poststed": "Nesbru",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1395",
+      "poststed": "Hvalstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1396",
+      "poststed": "Billingstad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1397",
+      "poststed": "Nesøya",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1399",
+      "poststed": "Asker",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1400",
+      "poststed": "Ski",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1401",
+      "poststed": "Ski",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1402",
+      "poststed": "Ski",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1403",
+      "poststed": "Langhus",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1404",
+      "poststed": "Siggerud",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1405",
+      "poststed": "Langhus",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1406",
+      "poststed": "Ski",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1407",
+      "poststed": "Vinterbro",
+      "kommune_id": "3218",
+      "kommune": "Ås",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1408",
+      "poststed": "Kråkstad",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1409",
+      "poststed": "Skotbu",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1410",
+      "poststed": "Kolbotn",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1411",
+      "poststed": "Kolbotn",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1412",
+      "poststed": "Sofiemyr",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1413",
+      "poststed": "Tårnåsen",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1414",
+      "poststed": "Trollåsen",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1415",
+      "poststed": "Oppegård",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1416",
+      "poststed": "Oppegård",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1417",
+      "poststed": "Sofiemyr",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1418",
+      "poststed": "Kolbotn",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1419",
+      "poststed": "Oppegård",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1420",
+      "poststed": "Svartskog",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1421",
+      "poststed": "Trollåsen",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1422",
+      "poststed": "Siggerud",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1423",
+      "poststed": "Ski",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1424",
+      "poststed": "Ski",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1425",
+      "poststed": "Ski",
+      "kommune_id": "3207",
+      "kommune": "Nordre Follo",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1429",
+      "poststed": "Vinterbro",
+      "kommune_id": "3218",
+      "kommune": "Ås",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1430",
+      "poststed": "Ås",
+      "kommune_id": "3218",
+      "kommune": "Ås",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1431",
+      "poststed": "Ås",
+      "kommune_id": "3218",
+      "kommune": "Ås",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1432",
+      "poststed": "Ås",
+      "kommune_id": "3218",
+      "kommune": "Ås",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1433",
+      "poststed": "Ås",
+      "kommune_id": "3218",
+      "kommune": "Ås",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1434",
+      "poststed": "Ås",
+      "kommune_id": "3218",
+      "kommune": "Ås",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1435",
+      "poststed": "Ås",
+      "kommune_id": "3218",
+      "kommune": "Ås",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1440",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1441",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1442",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1443",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1444",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1445",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1446",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1447",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1448",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1449",
+      "poststed": "Drøbak",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1450",
+      "poststed": "Nesoddtangen",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1451",
+      "poststed": "Nesoddtangen",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1452",
+      "poststed": "Nesoddtangen",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1453",
+      "poststed": "Bjørnemyr",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1454",
+      "poststed": "Fagerstrand",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1455",
+      "poststed": "Nordre Frogn",
+      "kommune_id": "3214",
+      "kommune": "Frogn",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1456",
+      "poststed": "Nesoddtangen",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1457",
+      "poststed": "Fagerstrand",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1458",
+      "poststed": "Fjellstrand",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1459",
+      "poststed": "Nesodden",
+      "kommune_id": "3212",
+      "kommune": "Nesodden",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1461",
+      "poststed": "Lørenskog",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1462",
+      "poststed": "Fjellhamar",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1463",
+      "poststed": "Fjellhamar",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1464",
+      "poststed": "Fjellhamar",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1465",
+      "poststed": "Strømmen",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1466",
+      "poststed": "Strømmen",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1467",
+      "poststed": "Strømmen",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1468",
+      "poststed": "Finstadjordet",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1469",
+      "poststed": "Rasta",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1470",
+      "poststed": "Lørenskog",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1471",
+      "poststed": "Lørenskog",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1472",
+      "poststed": "Fjellhamar",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1473",
+      "poststed": "Lørenskog",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1474",
+      "poststed": "Lørenskog",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1475",
+      "poststed": "Finstadjordet",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1476",
+      "poststed": "Rasta",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1477",
+      "poststed": "Fjellhamar",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1478",
+      "poststed": "Lørenskog",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1479",
+      "poststed": "Kurland",
+      "kommune_id": "3222",
+      "kommune": "Lørenskog",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1480",
+      "poststed": "Slattum",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1481",
+      "poststed": "Hagan",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1482",
+      "poststed": "Nittedal",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1483",
+      "poststed": "Hagan",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1484",
+      "poststed": "Hakadal",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1485",
+      "poststed": "Hakadal",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1486",
+      "poststed": "Nittedal",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1487",
+      "poststed": "Hakadal",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1488",
+      "poststed": "Hakadal",
+      "kommune_id": "3232",
+      "kommune": "Nittedal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1540",
+      "poststed": "Vestby",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1541",
+      "poststed": "Vestby",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1542",
+      "poststed": "Vestby",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1543",
+      "poststed": "Vestby",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1544",
+      "poststed": "Vestby",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1545",
+      "poststed": "Hvitsten",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1550",
+      "poststed": "Hølen",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1553",
+      "poststed": "Son",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1554",
+      "poststed": "Son",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1555",
+      "poststed": "Son",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1556",
+      "poststed": "Son",
+      "kommune_id": "3216",
+      "kommune": "Vestby",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1900",
+      "poststed": "Fetsund",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1901",
+      "poststed": "Fetsund",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1903",
+      "poststed": "Gan",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1910",
+      "poststed": "Enebakkneset",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1911",
+      "poststed": "Flateby",
+      "kommune_id": "3220",
+      "kommune": "Enebakk",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1912",
+      "poststed": "Enebakk",
+      "kommune_id": "3220",
+      "kommune": "Enebakk",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1914",
+      "poststed": "Ytre Enebakk",
+      "kommune_id": "3220",
+      "kommune": "Enebakk",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1916",
+      "poststed": "Flateby",
+      "kommune_id": "3220",
+      "kommune": "Enebakk",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1917",
+      "poststed": "Ytre Enebakk",
+      "kommune_id": "3220",
+      "kommune": "Enebakk",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1920",
+      "poststed": "Sørumsand",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1921",
+      "poststed": "Sørumsand",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1923",
+      "poststed": "Sørum",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1924",
+      "poststed": "Sørum",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1925",
+      "poststed": "Blaker",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1926",
+      "poststed": "Blaker",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1927",
+      "poststed": "Rånåsfoss",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1928",
+      "poststed": "Auli",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1929",
+      "poststed": "Auli",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1930",
+      "poststed": "Aurskog",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1931",
+      "poststed": "Aurskog",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1940",
+      "poststed": "Bjørkelangen",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1941",
+      "poststed": "Bjørkelangen",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1950",
+      "poststed": "Rømskog",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1951",
+      "poststed": "Rømskog",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1954",
+      "poststed": "Setskog",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1960",
+      "poststed": "Løken",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1961",
+      "poststed": "Løken",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1963",
+      "poststed": "Fosser",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1970",
+      "poststed": "Hemnes",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "1971",
+      "poststed": "Hemnes",
+      "kommune_id": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2000",
+      "poststed": "Lillestrøm",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2001",
+      "poststed": "Lillestrøm",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2003",
+      "poststed": "Lillestrøm",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2004",
+      "poststed": "Lillestrøm",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2005",
+      "poststed": "Rælingen",
+      "kommune_id": "3224",
+      "kommune": "Rælingen",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2006",
+      "poststed": "Løvenstad",
+      "kommune_id": "3224",
+      "kommune": "Rælingen",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2007",
+      "poststed": "Kjeller",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2008",
+      "poststed": "Fjerdingby",
+      "kommune_id": "3224",
+      "kommune": "Rælingen",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2009",
+      "poststed": "Nordby",
+      "kommune_id": "3224",
+      "kommune": "Rælingen",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2010",
+      "poststed": "Strømmen",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2011",
+      "poststed": "Strømmen",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2012",
+      "poststed": "Lillestrøm",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2013",
+      "poststed": "Skjetten",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2014",
+      "poststed": "Blystadlia",
+      "kommune_id": "3224",
+      "kommune": "Rælingen",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2015",
+      "poststed": "Leirsund",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2016",
+      "poststed": "Frogner",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2017",
+      "poststed": "Frogner",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2018",
+      "poststed": "Løvenstad",
+      "kommune_id": "3224",
+      "kommune": "Rælingen",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2019",
+      "poststed": "Skedsmokorset",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2020",
+      "poststed": "Skedsmokorset",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2021",
+      "poststed": "Skedsmokorset",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2022",
+      "poststed": "Gjerdrum",
+      "kommune_id": "3230",
+      "kommune": "Gjerdrum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2023",
+      "poststed": "Skedsmokorset",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2024",
+      "poststed": "Gjerdrum",
+      "kommune_id": "3230",
+      "kommune": "Gjerdrum",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2025",
+      "poststed": "Fjerdingby",
+      "kommune_id": "3224",
+      "kommune": "Rælingen",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2026",
+      "poststed": "Skjetten",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2027",
+      "poststed": "Kjeller",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2028",
+      "poststed": "Lillestrøm",
+      "kommune_id": "3205",
+      "kommune": "Lillestrøm",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2029",
+      "poststed": "Rælingen",
+      "kommune_id": "3224",
+      "kommune": "Rælingen",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2030",
+      "poststed": "Nannestad",
+      "kommune_id": "3238",
+      "kommune": "Nannestad",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2031",
+      "poststed": "Nannestad",
+      "kommune_id": "3238",
+      "kommune": "Nannestad",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2032",
+      "poststed": "Maura",
+      "kommune_id": "3238",
+      "kommune": "Nannestad",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2033",
+      "poststed": "Åsgreina",
+      "kommune_id": "3238",
+      "kommune": "Nannestad",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2034",
+      "poststed": "Holter",
+      "kommune_id": "3238",
+      "kommune": "Nannestad",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2035",
+      "poststed": "Holter",
+      "kommune_id": "3238",
+      "kommune": "Nannestad",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2036",
+      "poststed": "Maura",
+      "kommune_id": "3238",
+      "kommune": "Nannestad",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2040",
+      "poststed": "Kløfta",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2041",
+      "poststed": "Kløfta",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2050",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2051",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2052",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2053",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2054",
+      "poststed": "Mogreina",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2055",
+      "poststed": "Nordkisa",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2056",
+      "poststed": "Algarheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2057",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2058",
+      "poststed": "Sessvollmoen",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2060",
+      "poststed": "Gardermoen",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2061",
+      "poststed": "Gardermoen",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2062",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2063",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2066",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2067",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2068",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2069",
+      "poststed": "Jessheim",
+      "kommune_id": "3209",
+      "kommune": "Ullensaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2070",
+      "poststed": "Råholt",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2071",
+      "poststed": "Råholt",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2072",
+      "poststed": "Dal",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2073",
+      "poststed": "Bøn",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2074",
+      "poststed": "Eidsvoll Verk",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2076",
+      "poststed": "Dal",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2080",
+      "poststed": "Eidsvoll",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2081",
+      "poststed": "Eidsvoll",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2090",
+      "poststed": "Hurdal",
+      "kommune_id": "3242",
+      "kommune": "Hurdal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2091",
+      "poststed": "Hurdal",
+      "kommune_id": "3242",
+      "kommune": "Hurdal",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2092",
+      "poststed": "Minnesund",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2093",
+      "poststed": "Feiring",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2094",
+      "poststed": "Minnesund",
+      "kommune_id": "3240",
+      "kommune": "Eidsvoll",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2150",
+      "poststed": "Årnes",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2151",
+      "poststed": "Årnes",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2160",
+      "poststed": "Vormsund",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2161",
+      "poststed": "Vormsund",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2162",
+      "poststed": "Brårud",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2163",
+      "poststed": "Skogbygda",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2164",
+      "poststed": "Skogbygda",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2165",
+      "poststed": "Hvam",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2166",
+      "poststed": "Oppaker",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2167",
+      "poststed": "Hvam",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2170",
+      "poststed": "Fenstad",
+      "kommune_id": "3228",
+      "kommune": "Nes",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2713",
+      "poststed": "Roa",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2715",
+      "poststed": "Lunner",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2716",
+      "poststed": "Harestua",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2717",
+      "poststed": "Grua",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2720",
+      "poststed": "Grindvoll",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2730",
+      "poststed": "Lunner",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2740",
+      "poststed": "Roa",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2742",
+      "poststed": "Grua",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "2743",
+      "poststed": "Harestua",
+      "kommune_id": "3234",
+      "kommune": "Lunner",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3430",
+      "poststed": "Spikkestad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3431",
+      "poststed": "Spikkestad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3440",
+      "poststed": "Røyken",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3441",
+      "poststed": "Røyken",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3442",
+      "poststed": "Hyggen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3470",
+      "poststed": "Slemmestad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3471",
+      "poststed": "Slemmestad",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3472",
+      "poststed": "Bødalen",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3474",
+      "poststed": "Åros",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3475",
+      "poststed": "Sætre",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3476",
+      "poststed": "Sætre",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3477",
+      "poststed": "Båtstø",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3478",
+      "poststed": "Nærsnes",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3479",
+      "poststed": "Nærsnes",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3480",
+      "poststed": "Filtvet",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3481",
+      "poststed": "Tofte",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3482",
+      "poststed": "Tofte",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3483",
+      "poststed": "Kana",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3484",
+      "poststed": "Holmsbu",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3485",
+      "poststed": "Filtvet",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3490",
+      "poststed": "Klokkarstua",
+      "kommune_id": "3203",
+      "kommune": "Asker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3520",
+      "poststed": "Jevnaker",
+      "kommune_id": "3236",
+      "kommune": "Jevnaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    },
+    {
+      "postnummer": "3521",
+      "poststed": "Jevnaker",
+      "kommune_id": "3236",
+      "kommune": "Jevnaker",
+      "fylke_id": "32",
+      "fylke": "Akershus"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Akershus - Gratis nedlasting",
+    "description": "Alle 322 postnummer i Akershus fylke med poststed og kommune. Inneholder 322 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Akershus | ListBase",
+    "seo_description": "Last ned Postnummer i Akershus — 322 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 322 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

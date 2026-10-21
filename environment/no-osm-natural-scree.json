@@ -1,0 +1,941 @@
+{
+  "id": "no-osm-natural-scree",
+  "name": "Named scree slopes in Norway",
+  "title": "Named scree slopes in Norway",
+  "description": "Named scree slopes in Norway, derived from OpenStreetMap POI nodes tagged natural=scree in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 180,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Almliurda",
+      "latitude": 66.446442,
+      "longitude": 13.154478
+    },
+    {
+      "name": "Aserura",
+      "latitude": 57.971969,
+      "longitude": 7.498206
+    },
+    {
+      "name": "Bergura",
+      "latitude": 58.884234,
+      "longitude": 5.86689
+    },
+    {
+      "name": "Blokura",
+      "latitude": 66.659808,
+      "longitude": 13.425194
+    },
+    {
+      "name": "Blåurda",
+      "latitude": 67.090306,
+      "longitude": 14.110033
+    },
+    {
+      "name": "Breiskarura",
+      "latitude": 67.690736,
+      "longitude": 14.831475
+    },
+    {
+      "name": "Brenduri",
+      "latitude": 60.993039,
+      "longitude": 7.685908
+    },
+    {
+      "name": "Brennevinsurda",
+      "latitude": 58.99607,
+      "longitude": 5.688948
+    },
+    {
+      "name": "Brilleuri",
+      "latitude": 60.855142,
+      "longitude": 7.407214
+    },
+    {
+      "name": "Bringebærura",
+      "latitude": 58.004756,
+      "longitude": 6.993286
+    },
+    {
+      "name": "Bringgårdsurda",
+      "latitude": 66.618992,
+      "longitude": 13.355944
+    },
+    {
+      "name": "Bukkura",
+      "latitude": 57.999369,
+      "longitude": 7.658442
+    },
+    {
+      "name": "Bukkurda",
+      "latitude": 66.632486,
+      "longitude": 13.308228
+    },
+    {
+      "name": "Båtsteinurda",
+      "latitude": 66.898411,
+      "longitude": 13.726864
+    },
+    {
+      "name": "Digerurane",
+      "latitude": 61.050242,
+      "longitude": 7.048556
+    },
+    {
+      "name": "Diskeura",
+      "latitude": 58.012414,
+      "longitude": 7.193683
+    },
+    {
+      "name": "Einvikura",
+      "latitude": 66.591861,
+      "longitude": 13.219314
+    },
+    {
+      "name": "Falkeura",
+      "latitude": 69.580495,
+      "longitude": 19.982461
+    },
+    {
+      "name": "Fanteura",
+      "latitude": 58.049542,
+      "longitude": 7.468475
+    },
+    {
+      "name": "Finnholura",
+      "latitude": 67.092272,
+      "longitude": 14.066661
+    },
+    {
+      "name": "Finnura",
+      "latitude": 66.442881,
+      "longitude": 13.188869
+    },
+    {
+      "name": "Finnura",
+      "latitude": 67.939678,
+      "longitude": 13.05475
+    },
+    {
+      "name": "Finnurda",
+      "latitude": 66.442106,
+      "longitude": 13.188528
+    },
+    {
+      "name": "Fiskosura",
+      "latitude": 66.893167,
+      "longitude": 14.725806
+    },
+    {
+      "name": "Fisksteinan",
+      "latitude": 63.292297,
+      "longitude": 8.027102
+    },
+    {
+      "name": "Frostvikurda",
+      "latitude": 66.762883,
+      "longitude": 13.277989
+    },
+    {
+      "name": "Gammelura",
+      "latitude": 69.477342,
+      "longitude": 19.731764
+    },
+    {
+      "name": "Geitura",
+      "latitude": 67.010622,
+      "longitude": 14.787825
+    },
+    {
+      "name": "Granfjellura",
+      "latitude": 66.513831,
+      "longitude": 13.187944
+    },
+    {
+      "name": "Grytliura",
+      "latitude": 67.055764,
+      "longitude": 13.791708
+    },
+    {
+      "name": "Gråura",
+      "latitude": 60.553233,
+      "longitude": 5.509706
+    },
+    {
+      "name": "Gråura",
+      "latitude": 66.947603,
+      "longitude": 13.662939
+    },
+    {
+      "name": "Grøssetura",
+      "latitude": 66.972342,
+      "longitude": 13.950561
+    },
+    {
+      "name": "Gullura",
+      "latitude": 58.160657,
+      "longitude": 6.805754
+    },
+    {
+      "name": "Guollevágura",
+      "latitude": 66.906014,
+      "longitude": 14.395728
+    },
+    {
+      "name": "Haltvikurda",
+      "latitude": 63.428589,
+      "longitude": 8.45144
+    },
+    {
+      "name": "Halvardsuri",
+      "latitude": 60.465603,
+      "longitude": 5.572744
+    },
+    {
+      "name": "Hamnura",
+      "latitude": 69.622507,
+      "longitude": 19.713025
+    },
+    {
+      "name": "Hamnura",
+      "latitude": 69.622641,
+      "longitude": 19.710502
+    },
+    {
+      "name": "Hamnura",
+      "latitude": 69.623492,
+      "longitude": 19.70369
+    },
+    {
+      "name": "Haraura",
+      "latitude": 66.768525,
+      "longitude": 14.552894
+    },
+    {
+      "name": "Heimerskålen",
+      "latitude": 67.054486,
+      "longitude": 13.786439
+    },
+    {
+      "name": "Hellaura",
+      "latitude": 66.921719,
+      "longitude": 13.647508
+    },
+    {
+      "name": "Hemmingsura",
+      "latitude": 58.148052,
+      "longitude": 6.624213
+    },
+    {
+      "name": "Heststeinan",
+      "latitude": 66.996033,
+      "longitude": 13.884139
+    },
+    {
+      "name": "Hestura",
+      "latitude": 66.471064,
+      "longitude": 13.409317
+    },
+    {
+      "name": "Hestura",
+      "latitude": 66.976719,
+      "longitude": 13.953739
+    },
+    {
+      "name": "Holura",
+      "latitude": 66.584203,
+      "longitude": 13.221456
+    },
+    {
+      "name": "Hullura",
+      "latitude": 67.072989,
+      "longitude": 13.767892
+    },
+    {
+      "name": "Hundsura",
+      "latitude": 58.015528,
+      "longitude": 7.653292
+    },
+    {
+      "name": "Håkjerringurda",
+      "latitude": 66.796836,
+      "longitude": 13.948606
+    },
+    {
+      "name": "Håveura",
+      "latitude": 58.005757,
+      "longitude": 6.994406
+    },
+    {
+      "name": "Indre Bertasura",
+      "latitude": 58.001202,
+      "longitude": 7.004206
+    },
+    {
+      "name": "Indre Ura",
+      "latitude": 66.808436,
+      "longitude": 14.543383
+    },
+    {
+      "name": "Innerura",
+      "latitude": 66.58975,
+      "longitude": 13.244139
+    },
+    {
+      "name": "Innervikura",
+      "latitude": 67.086283,
+      "longitude": 14.337356
+    },
+    {
+      "name": "Jektura",
+      "latitude": 67.013083,
+      "longitude": 14.7627
+    },
+    {
+      "name": "Jonasura",
+      "latitude": 69.424811,
+      "longitude": 19.59867
+    },
+    {
+      "name": "Jura",
+      "latitude": 66.973794,
+      "longitude": 13.749489
+    },
+    {
+      "name": "Kariura",
+      "latitude": 67.987228,
+      "longitude": 12.96168
+    },
+    {
+      "name": "Kingura",
+      "latitude": 58.006077,
+      "longitude": 6.991424
+    },
+    {
+      "name": "Kistesteinura",
+      "latitude": 69.632878,
+      "longitude": 19.723911
+    },
+    {
+      "name": "Kiura",
+      "latitude": 67.095997,
+      "longitude": 14.390181
+    },
+    {
+      "name": "Kjerkura",
+      "latitude": 58.069338,
+      "longitude": 7.147954
+    },
+    {
+      "name": "Kjerrskredene",
+      "latitude": 60.863819,
+      "longitude": 6.829021
+    },
+    {
+      "name": "Kjørkebergura",
+      "latitude": 58.181809,
+      "longitude": 6.752709
+    },
+    {
+      "name": "Krumurda",
+      "latitude": 66.646153,
+      "longitude": 13.252797
+    },
+    {
+      "name": "Kvanntoura",
+      "latitude": 67.092958,
+      "longitude": 14.063692
+    },
+    {
+      "name": "Kvinura",
+      "latitude": 66.47325,
+      "longitude": 13.134231
+    },
+    {
+      "name": "Kviturda",
+      "latitude": 66.612275,
+      "longitude": 13.715233
+    },
+    {
+      "name": "Kvituri",
+      "latitude": 61.029256,
+      "longitude": 7.050761
+    },
+    {
+      "name": "Langlægdura",
+      "latitude": 66.912425,
+      "longitude": 14.690367
+    },
+    {
+      "name": "Langura",
+      "latitude": 63.983611,
+      "longitude": 9.073229
+    },
+    {
+      "name": "Lappsteinan",
+      "latitude": 66.951586,
+      "longitude": 13.822992
+    },
+    {
+      "name": "Lauvvassura",
+      "latitude": 67.040049,
+      "longitude": 14.069855
+    },
+    {
+      "name": "Lindura",
+      "latitude": 60.035157,
+      "longitude": 5.715411
+    },
+    {
+      "name": "Litlvollura",
+      "latitude": 67.07545,
+      "longitude": 14.408581
+    },
+    {
+      "name": "Maritura",
+      "latitude": 60.339792,
+      "longitude": 10.075317
+    },
+    {
+      "name": "Mattismolla",
+      "latitude": 66.566072,
+      "longitude": 12.855158
+    },
+    {
+      "name": "Mellomura",
+      "latitude": 67.688861,
+      "longitude": 14.805705
+    },
+    {
+      "name": "Molen",
+      "latitude": 58.177454,
+      "longitude": 6.692757
+    },
+    {
+      "name": "Moløyra",
+      "latitude": 58.177249,
+      "longitude": 6.695409
+    },
+    {
+      "name": "Nerura",
+      "latitude": 66.981678,
+      "longitude": 14.831014
+    },
+    {
+      "name": "Nisseura",
+      "latitude": 57.995869,
+      "longitude": 7.347447
+    },
+    {
+      "name": "Nyuri",
+      "latitude": 60.932869,
+      "longitude": 6.897044
+    },
+    {
+      "name": "Odderura",
+      "latitude": 57.994203,
+      "longitude": 7.485717
+    },
+    {
+      "name": "Odderura",
+      "latitude": 57.999392,
+      "longitude": 7.422908
+    },
+    {
+      "name": "Oddeura",
+      "latitude": 58.071884,
+      "longitude": 6.888195
+    },
+    {
+      "name": "Olaura",
+      "latitude": 67.7544,
+      "longitude": 15.127369
+    },
+    {
+      "name": "Ormura",
+      "latitude": 58.067911,
+      "longitude": 7.587675
+    },
+    {
+      "name": "Oskarsborg",
+      "latitude": 67.975258,
+      "longitude": 13.088172
+    },
+    {
+      "name": "Oterura",
+      "latitude": 63.727916,
+      "longitude": 8.616062
+    },
+    {
+      "name": "Otteannauri",
+      "latitude": 61.093194,
+      "longitude": 7.464706
+    },
+    {
+      "name": "Otterurda",
+      "latitude": 63.437837,
+      "longitude": 8.36389
+    },
+    {
+      "name": "Pengura",
+      "latitude": 67.064181,
+      "longitude": 14.051958
+    },
+    {
+      "name": "Plassurda",
+      "latitude": 66.6369,
+      "longitude": 13.253328
+    },
+    {
+      "name": "Presturi",
+      "latitude": 61.095164,
+      "longitude": 7.475981
+    },
+    {
+      "name": "Ragnerura",
+      "latitude": 69.782785,
+      "longitude": 19.700276
+    },
+    {
+      "name": "Ramnlia",
+      "latitude": 68.686146,
+      "longitude": 15.325182
+    },
+    {
+      "name": "Revepiss",
+      "latitude": 58.152723,
+      "longitude": 6.669127
+    },
+    {
+      "name": "Reveura",
+      "latitude": 59.508797,
+      "longitude": 9.946128
+    },
+    {
+      "name": "Revura",
+      "latitude": 57.993419,
+      "longitude": 7.584553
+    },
+    {
+      "name": "Revura",
+      "latitude": 58.101361,
+      "longitude": 7.447397
+    },
+    {
+      "name": "Rosingura",
+      "latitude": 63.755611,
+      "longitude": 8.627077
+    },
+    {
+      "name": "Råna",
+      "latitude": 66.470475,
+      "longitude": 13.232586
+    },
+    {
+      "name": "Rønnø",
+      "latitude": 66.879011,
+      "longitude": 14.637531
+    },
+    {
+      "name": "Sandan",
+      "latitude": 67.976439,
+      "longitude": 15.073131
+    },
+    {
+      "name": "Sauurda",
+      "latitude": 66.364906,
+      "longitude": 13.156014
+    },
+    {
+      "name": "Sjølskøtura",
+      "latitude": 66.820053,
+      "longitude": 14.621242
+    },
+    {
+      "name": "Skiftisure",
+      "latitude": 61.153933,
+      "longitude": 8.611364
+    },
+    {
+      "name": "Skoggårdura",
+      "latitude": 69.403639,
+      "longitude": 19.684731
+    },
+    {
+      "name": "Skredan",
+      "latitude": 69.589077,
+      "longitude": 18.963121
+    },
+    {
+      "name": "Skuggbenken",
+      "latitude": 67.885597,
+      "longitude": 15.174931
+    },
+    {
+      "name": "Skyttura",
+      "latitude": 66.962667,
+      "longitude": 14.833378
+    },
+    {
+      "name": "Slipura",
+      "latitude": 66.987681,
+      "longitude": 14.653406
+    },
+    {
+      "name": "Slupsura",
+      "latitude": 57.981044,
+      "longitude": 7.538481
+    },
+    {
+      "name": "Smalura",
+      "latitude": 67.074953,
+      "longitude": 14.406622
+    },
+    {
+      "name": "Snagura",
+      "latitude": 69.57946,
+      "longitude": 19.987049
+    },
+    {
+      "name": "Snybelen - Snuibal",
+      "latitude": 69.673681,
+      "longitude": 19.65615
+    },
+    {
+      "name": "Sommarsetura",
+      "latitude": 66.715494,
+      "longitude": 13.621739
+    },
+    {
+      "name": "Spanskliura",
+      "latitude": 67.002167,
+      "longitude": 13.892942
+    },
+    {
+      "name": "Steinan",
+      "latitude": 66.983947,
+      "longitude": 13.871467
+    },
+    {
+      "name": "Stiura",
+      "latitude": 66.790856,
+      "longitude": 14.603653
+    },
+    {
+      "name": "Stolpuri",
+      "latitude": 60.896344,
+      "longitude": 7.2492
+    },
+    {
+      "name": "Storaura",
+      "latitude": 58.916678,
+      "longitude": 5.874032
+    },
+    {
+      "name": "Storaura",
+      "latitude": 58.918243,
+      "longitude": 5.874837
+    },
+    {
+      "name": "Storestøkken",
+      "latitude": 61.003231,
+      "longitude": 7.072306
+    },
+    {
+      "name": "Storora",
+      "latitude": 67.881075,
+      "longitude": 15.115828
+    },
+    {
+      "name": "Storrona",
+      "latitude": 66.762544,
+      "longitude": 13.733353
+    },
+    {
+      "name": "Storura",
+      "latitude": 59.876471,
+      "longitude": 6.371551
+    },
+    {
+      "name": "Storura",
+      "latitude": 60.488667,
+      "longitude": 5.580619
+    },
+    {
+      "name": "Storura",
+      "latitude": 66.475292,
+      "longitude": 13.419469
+    },
+    {
+      "name": "Storura",
+      "latitude": 66.920967,
+      "longitude": 14.888556
+    },
+    {
+      "name": "Storura",
+      "latitude": 66.931994,
+      "longitude": 13.726947
+    },
+    {
+      "name": "Storura",
+      "latitude": 66.989086,
+      "longitude": 14.659528
+    },
+    {
+      "name": "Storura",
+      "latitude": 67.683567,
+      "longitude": 14.785778
+    },
+    {
+      "name": "Storura",
+      "latitude": 67.692422,
+      "longitude": 15.3868
+    },
+    {
+      "name": "Storura",
+      "latitude": 69.484481,
+      "longitude": 19.737774
+    },
+    {
+      "name": "Storura",
+      "latitude": 69.575526,
+      "longitude": 19.561312
+    },
+    {
+      "name": "Storura",
+      "latitude": 69.59579,
+      "longitude": 20.099946
+    },
+    {
+      "name": "Storura - Stuorajuovva",
+      "latitude": 69.413183,
+      "longitude": 19.526392
+    },
+    {
+      "name": "Storurda",
+      "latitude": 66.600383,
+      "longitude": 13.25265
+    },
+    {
+      "name": "Storurda",
+      "latitude": 66.617831,
+      "longitude": 13.522067
+    },
+    {
+      "name": "Storuri",
+      "latitude": 60.77478,
+      "longitude": 7.10515
+    },
+    {
+      "name": "Storuri",
+      "latitude": 60.849514,
+      "longitude": 7.349706
+    },
+    {
+      "name": "Svartholet",
+      "latitude": 66.577836,
+      "longitude": 13.2174
+    },
+    {
+      "name": "Svartvassura",
+      "latitude": 66.875458,
+      "longitude": 14.633292
+    },
+    {
+      "name": "Sølvbergurane",
+      "latitude": 60.901236,
+      "longitude": 7.215442
+    },
+    {
+      "name": "Teisturda",
+      "latitude": 66.571894,
+      "longitude": 13.482489
+    },
+    {
+      "name": "Tellingsura",
+      "latitude": 66.869167,
+      "longitude": 14.8171
+    },
+    {
+      "name": "Tennurda",
+      "latitude": 66.795167,
+      "longitude": 13.990133
+    },
+    {
+      "name": "Tollåura",
+      "latitude": 66.906036,
+      "longitude": 14.851292
+    },
+    {
+      "name": "Tollåura",
+      "latitude": 66.908992,
+      "longitude": 14.838456
+    },
+    {
+      "name": "Tollåura",
+      "latitude": 66.909225,
+      "longitude": 14.805981
+    },
+    {
+      "name": "Tore-røyså",
+      "latitude": 58.885619,
+      "longitude": 6.065023
+    },
+    {
+      "name": "Trollkjerka",
+      "latitude": 66.977983,
+      "longitude": 13.888061
+    },
+    {
+      "name": "Trollura",
+      "latitude": 67.901103,
+      "longitude": 12.985264
+    },
+    {
+      "name": "Tverrmyrura",
+      "latitude": 67.062144,
+      "longitude": 13.849022
+    },
+    {
+      "name": "Tynjauri",
+      "latitude": 61.028414,
+      "longitude": 7.506908
+    },
+    {
+      "name": "Tørnrisura",
+      "latitude": 66.855594,
+      "longitude": 14.616353
+    },
+    {
+      "name": "Uføreuro",
+      "latitude": 59.91122,
+      "longitude": 5.18649
+    },
+    {
+      "name": "Ura",
+      "latitude": 57.978192,
+      "longitude": 7.557817
+    },
+    {
+      "name": "Ura",
+      "latitude": 63.359339,
+      "longitude": 8.189091
+    },
+    {
+      "name": "Ura",
+      "latitude": 69.812202,
+      "longitude": 19.651258
+    },
+    {
+      "name": "Uran",
+      "latitude": 57.974347,
+      "longitude": 7.612003
+    },
+    {
+      "name": "Uran",
+      "latitude": 66.993242,
+      "longitude": 14.238569
+    },
+    {
+      "name": "Urda",
+      "latitude": 58.972711,
+      "longitude": 5.837326
+    },
+    {
+      "name": "Urda",
+      "latitude": 66.519128,
+      "longitude": 13.011225
+    },
+    {
+      "name": "Ure",
+      "latitude": 61.111706,
+      "longitude": 8.519167
+    },
+    {
+      "name": "Uri",
+      "latitude": 60.895811,
+      "longitude": 7.165378
+    },
+    {
+      "name": "Valura",
+      "latitude": 66.996403,
+      "longitude": 13.989275
+    },
+    {
+      "name": "Vassura",
+      "latitude": 66.394983,
+      "longitude": 13.180094
+    },
+    {
+      "name": "Vindnesura",
+      "latitude": 66.984408,
+      "longitude": 14.650264
+    },
+    {
+      "name": "Vossura",
+      "latitude": 67.074461,
+      "longitude": 13.838772
+    },
+    {
+      "name": "Vårliurå",
+      "latitude": 58.9251,
+      "longitude": 5.930354
+    },
+    {
+      "name": "Ydre Bertasura",
+      "latitude": 58.000638,
+      "longitude": 7.003602
+    },
+    {
+      "name": "Ytre Ura",
+      "latitude": 66.830992,
+      "longitude": 14.588067
+    },
+    {
+      "name": "Ørnura",
+      "latitude": 67.063831,
+      "longitude": 14.357642
+    },
+    {
+      "name": "Øverura",
+      "latitude": 66.981972,
+      "longitude": 14.839261
+    },
+    {
+      "name": "Øverura",
+      "latitude": 67.007739,
+      "longitude": 14.7308
+    }
+  ],
+  "meta": {
+    "title": "Named scree slopes in Norway - Gratis nedlasting",
+    "description": "Named scree slopes in Norway, derived from OpenStreetMap POI nodes tagged natural=scree in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 180 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named scree slopes in Norway | ListBase",
+    "seo_description": "Last ned Named scree slopes in Norway — 180 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 180 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

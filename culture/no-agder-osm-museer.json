@@ -1,0 +1,302 @@
+{
+  "id": "no-agder-osm-museer",
+  "name": "Museer i Agder – OpenStreetMap (21 museums in Agder, OSM)",
+  "title": "Museer i Agder – OpenStreetMap (21 museums in Agder, OSM)",
+  "description": "Museer i fylket Agder fra OpenStreetMap — delmengde av no-osm-museer, 21 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aust-Agder kulturhistoriske senter",
+      "name_en": "",
+      "city": "Arendal",
+      "fylke": "Agder",
+      "naermeste_sted": "Arendal",
+      "avstand_km": 1.227,
+      "latitude": 58.470339,
+      "longitude": 8.759878,
+      "website": "http://www.aaks.no"
+    },
+    {
+      "name": "Bygland Museum",
+      "name_en": "",
+      "city": "Bygland",
+      "fylke": "Agder",
+      "naermeste_sted": "Bygland",
+      "avstand_km": 0.056,
+      "latitude": 58.828247,
+      "longitude": 7.795359,
+      "website": ""
+    },
+    {
+      "name": "Det gamle posthuset - Barnevandrersenter",
+      "name_en": "",
+      "city": "Konsmo",
+      "fylke": "Agder",
+      "naermeste_sted": "Konsmo",
+      "avstand_km": 0.077,
+      "latitude": 58.284616,
+      "longitude": 7.355756,
+      "website": ""
+    },
+    {
+      "name": "Elvarheim",
+      "name_en": "",
+      "city": "Åmli",
+      "fylke": "Agder",
+      "naermeste_sted": "Åmli",
+      "avstand_km": 0.51,
+      "latitude": 58.770278,
+      "longitude": 8.483374,
+      "website": ""
+    },
+    {
+      "name": "Evjemoen Forsvarsmuseum",
+      "name_en": "",
+      "city": "Evje",
+      "fylke": "Agder",
+      "naermeste_sted": "Evje",
+      "avstand_km": 2.086,
+      "latitude": 58.569997,
+      "longitude": 7.783913,
+      "website": ""
+    },
+    {
+      "name": "Grasham",
+      "name_en": "",
+      "city": "Birkeland",
+      "fylke": "Agder",
+      "naermeste_sted": "Birkeland",
+      "avstand_km": 3.227,
+      "latitude": 58.301885,
+      "longitude": 8.231622,
+      "website": "https://no.wikipedia.org/wiki/Birkenes_Bygdemuseum"
+    },
+    {
+      "name": "Kanonenmuseum",
+      "name_en": "",
+      "city": "Skålevik",
+      "fylke": "Agder",
+      "naermeste_sted": "Skålevik",
+      "avstand_km": 3.093,
+      "latitude": 58.091112,
+      "longitude": 7.968186,
+      "website": ""
+    },
+    {
+      "name": "Lillesand By- og Sjøfartsmuseum",
+      "name_en": "",
+      "city": "Lillesand",
+      "fylke": "Agder",
+      "naermeste_sted": "Lillesand",
+      "avstand_km": 0.126,
+      "latitude": 58.249662,
+      "longitude": 8.379185,
+      "website": ""
+    },
+    {
+      "name": "Lindesnes bygdemuseum, Kulturtorvet",
+      "name_en": "",
+      "city": "Vigeland",
+      "fylke": "Agder",
+      "naermeste_sted": "Vigeland",
+      "avstand_km": 0.143,
+      "latitude": 58.084038,
+      "longitude": 7.302671,
+      "website": ""
+    },
+    {
+      "name": "Lista Museum Friluftstunet",
+      "name_en": "",
+      "city": "Vanse",
+      "fylke": "Agder",
+      "naermeste_sted": "Vanse",
+      "avstand_km": 0.333,
+      "latitude": 58.100683,
+      "longitude": 6.688948,
+      "website": ""
+    },
+    {
+      "name": "Lista Naturmuseum",
+      "name_en": "",
+      "city": "Vestbygd",
+      "fylke": "Agder",
+      "naermeste_sted": "Vestbygd",
+      "avstand_km": 0.976,
+      "latitude": 58.094543,
+      "longitude": 6.600152,
+      "website": "http://www.listanaturmuseum.com/"
+    },
+    {
+      "name": "Mandal bymuseum",
+      "name_en": "",
+      "city": "Mandal",
+      "fylke": "Agder",
+      "naermeste_sted": "Mandal",
+      "avstand_km": 0.092,
+      "latitude": 58.026726,
+      "longitude": 7.452489,
+      "website": ""
+    },
+    {
+      "name": "Mineralienmuseum",
+      "name_en": "",
+      "city": "Evje",
+      "fylke": "Agder",
+      "naermeste_sted": "Evje",
+      "avstand_km": 1.462,
+      "latitude": 58.582764,
+      "longitude": 7.779006,
+      "website": ""
+    },
+    {
+      "name": "Næs Jernverksmuseum",
+      "name_en": "",
+      "city": "Tvedestrand",
+      "fylke": "Agder",
+      "naermeste_sted": "Tvedestrand",
+      "avstand_km": 4.53,
+      "latitude": 58.63029,
+      "longitude": 8.854878,
+      "website": "http://www.jernverksmuseet.no/"
+    },
+    {
+      "name": "Setesdalsbanen",
+      "name_en": "",
+      "city": "Vennesla",
+      "fylke": "Agder",
+      "naermeste_sted": "Vennesla",
+      "avstand_km": 3.012,
+      "latitude": 58.295395,
+      "longitude": 7.980657,
+      "website": "www.setesdalsbanen.no"
+    },
+    {
+      "name": "Sjølingstad Uldvarefabrik",
+      "name_en": "",
+      "city": "Mandal",
+      "fylke": "Agder",
+      "naermeste_sted": "Vigeland",
+      "avstand_km": 5.195,
+      "latitude": 58.069372,
+      "longitude": 7.388664,
+      "website": ""
+    },
+    {
+      "name": "Solberggruva",
+      "name_en": "",
+      "city": "Tvedestrand",
+      "fylke": "Agder",
+      "naermeste_sted": "Tvedestrand",
+      "avstand_km": 3.606,
+      "latitude": 58.618692,
+      "longitude": 8.869551,
+      "website": "http://www.jernverksmuseet.no/Solberg_gruve/content-8.html"
+    },
+    {
+      "name": "Storstoga",
+      "name_en": "",
+      "city": "Bygland",
+      "fylke": "Agder",
+      "naermeste_sted": "Bygland",
+      "avstand_km": 15.165,
+      "latitude": 58.950563,
+      "longitude": 7.678456,
+      "website": ""
+    },
+    {
+      "name": "Vegårshei bygdetun",
+      "name_en": "",
+      "city": "Myra",
+      "fylke": "Agder",
+      "naermeste_sted": "Myra",
+      "avstand_km": 5.01,
+      "latitude": 58.745899,
+      "longitude": 8.949104,
+      "website": "http://www.vegarshei-bygdetun.no/"
+    },
+    {
+      "name": "Vest-Agder Fylkesmuseum",
+      "name_en": "",
+      "city": "Kristiansand",
+      "fylke": "Agder",
+      "naermeste_sted": "Kristiansand",
+      "avstand_km": 2.624,
+      "latitude": 58.162324,
+      "longitude": 8.02912,
+      "website": ""
+    },
+    {
+      "name": "Vigeland Hus",
+      "name_en": "",
+      "city": "Mandal",
+      "fylke": "Agder",
+      "naermeste_sted": "Mandal",
+      "avstand_km": 0.236,
+      "latitude": 58.027983,
+      "longitude": 7.449547,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Agder – OpenStreetMap (21 museums in Agder, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Agder fra OpenStreetMap — delmengde av no-osm-museer, 21 poster. Inneholder 21 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Agder – OpenStreetMap (21 museums in Agder, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Agder – OpenStreetMap (21 museums in Agder, OSM) — 21 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 21 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

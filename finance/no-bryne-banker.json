@@ -1,0 +1,72 @@
+{
+  "id": "no-bryne-banker",
+  "name": "Banker i Bryne — SWIFT/BIC-koder",
+  "title": "Banker i Bryne — SWIFT/BIC-koder",
+  "description": "SWIFT/BIC codes for banks and financial institutions in NO located in the city the source records verbatim as \"BRYNE\" (3 institutions).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 128,
+      "bank": "JAEREN SPAREBANK",
+      "city": "BRYNE",
+      "branch": "",
+      "swift_code": "KLEPNO21"
+    },
+    {
+      "id": 240,
+      "bank": "PARETO PPN AS",
+      "city": "BRYNE",
+      "branch": "",
+      "swift_code": "PAPNNO21"
+    },
+    {
+      "id": 291,
+      "bank": "SPAREBANK 1 SR-BANK ASA",
+      "city": "BRYNE",
+      "branch": "",
+      "swift_code": "SPRONO22BNE"
+    }
+  ],
+  "meta": {
+    "title": "Banker i Bryne — SWIFT/BIC-koder - Gratis nedlasting",
+    "description": "SWIFT/BIC codes for banks and financial institutions in NO located in the city the source records verbatim as \"BRYNE\" (3 institutions). Inneholder 3 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Banker i Bryne — SWIFT/BIC-koder | ListBase",
+    "seo_description": "Last ned Banker i Bryne — SWIFT/BIC-koder — 3 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 3 poster / 5 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

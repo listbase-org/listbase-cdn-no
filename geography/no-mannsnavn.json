@@ -1,0 +1,4121 @@
+{
+  "id": "no-mannsnavn",
+  "name": "Norske mannsnavn (Norwegian male first names)",
+  "title": "Norske mannsnavn (Norwegian male first names)",
+  "description": "Norwegian male first names (Norge) — names attributed to men with at least 80% probability, aggregated from Nordic national statistical office frequency data. 816 unique first names. Source: Coats, Steven (2019). Language choice and gender in a Nordic social media corpus. Nordic Journal of Linguistics 42(1).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 816,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "name": "Aage",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Aaron",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Aasmund",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "Abbas",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "name": "Abdi",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "name": "Abdirahman",
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "name": "Abdul",
+      "gender": "male"
+    },
+    {
+      "id": 8,
+      "name": "Abdulkadir",
+      "gender": "male"
+    },
+    {
+      "id": 9,
+      "name": "Abdullah",
+      "gender": "male"
+    },
+    {
+      "id": 10,
+      "name": "Abdullahi",
+      "gender": "male"
+    },
+    {
+      "id": 11,
+      "name": "Abel",
+      "gender": "male"
+    },
+    {
+      "id": 12,
+      "name": "Abraham",
+      "gender": "male"
+    },
+    {
+      "id": 13,
+      "name": "Adam",
+      "gender": "male"
+    },
+    {
+      "id": 14,
+      "name": "Adnan",
+      "gender": "male"
+    },
+    {
+      "id": 15,
+      "name": "Adrian",
+      "gender": "male"
+    },
+    {
+      "id": 16,
+      "name": "Agnar",
+      "gender": "male"
+    },
+    {
+      "id": 17,
+      "name": "Ahmad",
+      "gender": "male"
+    },
+    {
+      "id": 18,
+      "name": "Ahmed",
+      "gender": "male"
+    },
+    {
+      "id": 19,
+      "name": "Ahmet",
+      "gender": "male"
+    },
+    {
+      "id": 20,
+      "name": "Ailo",
+      "gender": "male"
+    },
+    {
+      "id": 21,
+      "name": "Aksel",
+      "gender": "male"
+    },
+    {
+      "id": 22,
+      "name": "Alan",
+      "gender": "male"
+    },
+    {
+      "id": 23,
+      "name": "Albert",
+      "gender": "male"
+    },
+    {
+      "id": 24,
+      "name": "Alejandro",
+      "gender": "male"
+    },
+    {
+      "id": 25,
+      "name": "Aleksandar",
+      "gender": "male"
+    },
+    {
+      "id": 26,
+      "name": "Aleksander",
+      "gender": "male"
+    },
+    {
+      "id": 27,
+      "name": "Aleksandr",
+      "gender": "male"
+    },
+    {
+      "id": 28,
+      "name": "Aleksandrs",
+      "gender": "male"
+    },
+    {
+      "id": 29,
+      "name": "Alex",
+      "gender": "male"
+    },
+    {
+      "id": 30,
+      "name": "Alexander",
+      "gender": "male"
+    },
+    {
+      "id": 31,
+      "name": "Alexandru",
+      "gender": "male"
+    },
+    {
+      "id": 32,
+      "name": "Alf",
+      "gender": "male"
+    },
+    {
+      "id": 33,
+      "name": "Alfred",
+      "gender": "male"
+    },
+    {
+      "id": 34,
+      "name": "Ali",
+      "gender": "male"
+    },
+    {
+      "id": 35,
+      "name": "Allan",
+      "gender": "male"
+    },
+    {
+      "id": 36,
+      "name": "Alv",
+      "gender": "male"
+    },
+    {
+      "id": 37,
+      "name": "Alvin",
+      "gender": "male"
+    },
+    {
+      "id": 38,
+      "name": "Amanuel",
+      "gender": "male"
+    },
+    {
+      "id": 39,
+      "name": "Amin",
+      "gender": "male"
+    },
+    {
+      "id": 40,
+      "name": "Amir",
+      "gender": "male"
+    },
+    {
+      "id": 41,
+      "name": "Amund",
+      "gender": "male"
+    },
+    {
+      "id": 42,
+      "name": "Anas",
+      "gender": "male"
+    },
+    {
+      "id": 43,
+      "name": "Anders",
+      "gender": "male"
+    },
+    {
+      "id": 44,
+      "name": "Andre",
+      "gender": "male"
+    },
+    {
+      "id": 45,
+      "name": "Andreas",
+      "gender": "male"
+    },
+    {
+      "id": 46,
+      "name": "Andrei",
+      "gender": "male"
+    },
+    {
+      "id": 47,
+      "name": "Andrej",
+      "gender": "male"
+    },
+    {
+      "id": 48,
+      "name": "Andres",
+      "gender": "male"
+    },
+    {
+      "id": 49,
+      "name": "Andrew",
+      "gender": "male"
+    },
+    {
+      "id": 50,
+      "name": "Andris",
+      "gender": "male"
+    },
+    {
+      "id": 51,
+      "name": "Andrius",
+      "gender": "male"
+    },
+    {
+      "id": 52,
+      "name": "Andrzej",
+      "gender": "male"
+    },
+    {
+      "id": 53,
+      "name": "Annar",
+      "gender": "male"
+    },
+    {
+      "id": 54,
+      "name": "Ansgar",
+      "gender": "male"
+    },
+    {
+      "id": 55,
+      "name": "Anthony",
+      "gender": "male"
+    },
+    {
+      "id": 56,
+      "name": "Anton",
+      "gender": "male"
+    },
+    {
+      "id": 57,
+      "name": "Antoni",
+      "gender": "male"
+    },
+    {
+      "id": 58,
+      "name": "Antonio",
+      "gender": "male"
+    },
+    {
+      "id": 59,
+      "name": "Are",
+      "gender": "male"
+    },
+    {
+      "id": 60,
+      "name": "Ari",
+      "gender": "male"
+    },
+    {
+      "id": 61,
+      "name": "Arian",
+      "gender": "male"
+    },
+    {
+      "id": 62,
+      "name": "Arild",
+      "gender": "male"
+    },
+    {
+      "id": 63,
+      "name": "Arkadiusz",
+      "gender": "male"
+    },
+    {
+      "id": 64,
+      "name": "Arman",
+      "gender": "male"
+    },
+    {
+      "id": 65,
+      "name": "Armin",
+      "gender": "male"
+    },
+    {
+      "id": 66,
+      "name": "Arne",
+      "gender": "male"
+    },
+    {
+      "id": 67,
+      "name": "Arnfinn",
+      "gender": "male"
+    },
+    {
+      "id": 68,
+      "name": "Arnold",
+      "gender": "male"
+    },
+    {
+      "id": 69,
+      "name": "Arnstein",
+      "gender": "male"
+    },
+    {
+      "id": 70,
+      "name": "Arnt",
+      "gender": "male"
+    },
+    {
+      "id": 71,
+      "name": "Arnulf",
+      "gender": "male"
+    },
+    {
+      "id": 72,
+      "name": "Aron",
+      "gender": "male"
+    },
+    {
+      "id": 73,
+      "name": "Arthur",
+      "gender": "male"
+    },
+    {
+      "id": 74,
+      "name": "Artur",
+      "gender": "male"
+    },
+    {
+      "id": 75,
+      "name": "Arturas",
+      "gender": "male"
+    },
+    {
+      "id": 76,
+      "name": "Arunas",
+      "gender": "male"
+    },
+    {
+      "id": 77,
+      "name": "Arve",
+      "gender": "male"
+    },
+    {
+      "id": 78,
+      "name": "Arvid",
+      "gender": "male"
+    },
+    {
+      "id": 79,
+      "name": "Aryan",
+      "gender": "male"
+    },
+    {
+      "id": 80,
+      "name": "Asbjørn",
+      "gender": "male"
+    },
+    {
+      "id": 81,
+      "name": "Asgeir",
+      "gender": "male"
+    },
+    {
+      "id": 82,
+      "name": "Ask",
+      "gender": "male"
+    },
+    {
+      "id": 83,
+      "name": "Aslak",
+      "gender": "male"
+    },
+    {
+      "id": 84,
+      "name": "Asle",
+      "gender": "male"
+    },
+    {
+      "id": 85,
+      "name": "Asmund",
+      "gender": "male"
+    },
+    {
+      "id": 86,
+      "name": "Atle",
+      "gender": "male"
+    },
+    {
+      "id": 87,
+      "name": "Audrius",
+      "gender": "male"
+    },
+    {
+      "id": 88,
+      "name": "Audun",
+      "gender": "male"
+    },
+    {
+      "id": 89,
+      "name": "August",
+      "gender": "male"
+    },
+    {
+      "id": 90,
+      "name": "Aurimas",
+      "gender": "male"
+    },
+    {
+      "id": 91,
+      "name": "Axel",
+      "gender": "male"
+    },
+    {
+      "id": 92,
+      "name": "Baard",
+      "gender": "male"
+    },
+    {
+      "id": 93,
+      "name": "Balder",
+      "gender": "male"
+    },
+    {
+      "id": 94,
+      "name": "Bartlomiej",
+      "gender": "male"
+    },
+    {
+      "id": 95,
+      "name": "Bartosz",
+      "gender": "male"
+    },
+    {
+      "id": 96,
+      "name": "Bastian",
+      "gender": "male"
+    },
+    {
+      "id": 97,
+      "name": "Ben",
+      "gender": "male"
+    },
+    {
+      "id": 98,
+      "name": "Bendik",
+      "gender": "male"
+    },
+    {
+      "id": 99,
+      "name": "Bengt",
+      "gender": "male"
+    },
+    {
+      "id": 100,
+      "name": "Benjamin",
+      "gender": "male"
+    },
+    {
+      "id": 101,
+      "name": "Benny",
+      "gender": "male"
+    },
+    {
+      "id": 102,
+      "name": "Bent",
+      "gender": "male"
+    },
+    {
+      "id": 103,
+      "name": "Bernard",
+      "gender": "male"
+    },
+    {
+      "id": 104,
+      "name": "Bernhard",
+      "gender": "male"
+    },
+    {
+      "id": 105,
+      "name": "Bernt",
+      "gender": "male"
+    },
+    {
+      "id": 106,
+      "name": "Bertil",
+      "gender": "male"
+    },
+    {
+      "id": 107,
+      "name": "Bilal",
+      "gender": "male"
+    },
+    {
+      "id": 108,
+      "name": "Birger",
+      "gender": "male"
+    },
+    {
+      "id": 109,
+      "name": "Birk",
+      "gender": "male"
+    },
+    {
+      "id": 110,
+      "name": "Bjarne",
+      "gender": "male"
+    },
+    {
+      "id": 111,
+      "name": "Bjarte",
+      "gender": "male"
+    },
+    {
+      "id": 112,
+      "name": "Bjørge",
+      "gender": "male"
+    },
+    {
+      "id": 113,
+      "name": "Bjørn",
+      "gender": "male"
+    },
+    {
+      "id": 114,
+      "name": "Bjørnar",
+      "gender": "male"
+    },
+    {
+      "id": 115,
+      "name": "Bjørn-Erik",
+      "gender": "male"
+    },
+    {
+      "id": 116,
+      "name": "Bo",
+      "gender": "male"
+    },
+    {
+      "id": 117,
+      "name": "Bogdan",
+      "gender": "male"
+    },
+    {
+      "id": 118,
+      "name": "Boguslaw",
+      "gender": "male"
+    },
+    {
+      "id": 119,
+      "name": "Borgar",
+      "gender": "male"
+    },
+    {
+      "id": 120,
+      "name": "Brage",
+      "gender": "male"
+    },
+    {
+      "id": 121,
+      "name": "Brede",
+      "gender": "male"
+    },
+    {
+      "id": 122,
+      "name": "Brian",
+      "gender": "male"
+    },
+    {
+      "id": 123,
+      "name": "Bror",
+      "gender": "male"
+    },
+    {
+      "id": 124,
+      "name": "Bruno",
+      "gender": "male"
+    },
+    {
+      "id": 125,
+      "name": "Brynjar",
+      "gender": "male"
+    },
+    {
+      "id": 126,
+      "name": "Brynjulf",
+      "gender": "male"
+    },
+    {
+      "id": 127,
+      "name": "Børge",
+      "gender": "male"
+    },
+    {
+      "id": 128,
+      "name": "Børre",
+      "gender": "male"
+    },
+    {
+      "id": 129,
+      "name": "Bård",
+      "gender": "male"
+    },
+    {
+      "id": 130,
+      "name": "Carl",
+      "gender": "male"
+    },
+    {
+      "id": 131,
+      "name": "Carlos",
+      "gender": "male"
+    },
+    {
+      "id": 132,
+      "name": "Carsten",
+      "gender": "male"
+    },
+    {
+      "id": 133,
+      "name": "Casper",
+      "gender": "male"
+    },
+    {
+      "id": 134,
+      "name": "Caspian",
+      "gender": "male"
+    },
+    {
+      "id": 135,
+      "name": "Cato",
+      "gender": "male"
+    },
+    {
+      "id": 136,
+      "name": "Charles",
+      "gender": "male"
+    },
+    {
+      "id": 137,
+      "name": "Chris",
+      "gender": "male"
+    },
+    {
+      "id": 138,
+      "name": "Christen",
+      "gender": "male"
+    },
+    {
+      "id": 139,
+      "name": "Christer",
+      "gender": "male"
+    },
+    {
+      "id": 140,
+      "name": "Christian",
+      "gender": "male"
+    },
+    {
+      "id": 141,
+      "name": "Christoffer",
+      "gender": "male"
+    },
+    {
+      "id": 142,
+      "name": "Christopher",
+      "gender": "male"
+    },
+    {
+      "id": 143,
+      "name": "Claes",
+      "gender": "male"
+    },
+    {
+      "id": 144,
+      "name": "Claus",
+      "gender": "male"
+    },
+    {
+      "id": 145,
+      "name": "Colin",
+      "gender": "male"
+    },
+    {
+      "id": 146,
+      "name": "Conrad",
+      "gender": "male"
+    },
+    {
+      "id": 147,
+      "name": "Cornelius",
+      "gender": "male"
+    },
+    {
+      "id": 148,
+      "name": "Cristian",
+      "gender": "male"
+    },
+    {
+      "id": 149,
+      "name": "Dag",
+      "gender": "male"
+    },
+    {
+      "id": 150,
+      "name": "Dagfinn",
+      "gender": "male"
+    },
+    {
+      "id": 151,
+      "name": "Dainius",
+      "gender": "male"
+    },
+    {
+      "id": 152,
+      "name": "Damian",
+      "gender": "male"
+    },
+    {
+      "id": 153,
+      "name": "Dan",
+      "gender": "male"
+    },
+    {
+      "id": 154,
+      "name": "Dani",
+      "gender": "male"
+    },
+    {
+      "id": 155,
+      "name": "Daniel",
+      "gender": "male"
+    },
+    {
+      "id": 156,
+      "name": "Danny",
+      "gender": "male"
+    },
+    {
+      "id": 157,
+      "name": "Darius",
+      "gender": "male"
+    },
+    {
+      "id": 158,
+      "name": "Dariusz",
+      "gender": "male"
+    },
+    {
+      "id": 159,
+      "name": "David",
+      "gender": "male"
+    },
+    {
+      "id": 160,
+      "name": "Dawid",
+      "gender": "male"
+    },
+    {
+      "id": 161,
+      "name": "Dawit",
+      "gender": "male"
+    },
+    {
+      "id": 162,
+      "name": "Deividas",
+      "gender": "male"
+    },
+    {
+      "id": 163,
+      "name": "Denis",
+      "gender": "male"
+    },
+    {
+      "id": 164,
+      "name": "Dennis",
+      "gender": "male"
+    },
+    {
+      "id": 165,
+      "name": "Didrik",
+      "gender": "male"
+    },
+    {
+      "id": 166,
+      "name": "Dominik",
+      "gender": "male"
+    },
+    {
+      "id": 167,
+      "name": "Donatas",
+      "gender": "male"
+    },
+    {
+      "id": 168,
+      "name": "Eddie",
+      "gender": "male"
+    },
+    {
+      "id": 169,
+      "name": "Edgar",
+      "gender": "male"
+    },
+    {
+      "id": 170,
+      "name": "Edin",
+      "gender": "male"
+    },
+    {
+      "id": 171,
+      "name": "Edmund",
+      "gender": "male"
+    },
+    {
+      "id": 172,
+      "name": "Edvard",
+      "gender": "male"
+    },
+    {
+      "id": 173,
+      "name": "Edvin",
+      "gender": "male"
+    },
+    {
+      "id": 174,
+      "name": "Edward",
+      "gender": "male"
+    },
+    {
+      "id": 175,
+      "name": "Edwin",
+      "gender": "male"
+    },
+    {
+      "id": 176,
+      "name": "Egidijus",
+      "gender": "male"
+    },
+    {
+      "id": 177,
+      "name": "Egil",
+      "gender": "male"
+    },
+    {
+      "id": 178,
+      "name": "Eigil",
+      "gender": "male"
+    },
+    {
+      "id": 179,
+      "name": "Eilert",
+      "gender": "male"
+    },
+    {
+      "id": 180,
+      "name": "Eilif",
+      "gender": "male"
+    },
+    {
+      "id": 181,
+      "name": "Einar",
+      "gender": "male"
+    },
+    {
+      "id": 182,
+      "name": "Eirik",
+      "gender": "male"
+    },
+    {
+      "id": 183,
+      "name": "Eivind",
+      "gender": "male"
+    },
+    {
+      "id": 184,
+      "name": "Eldar",
+      "gender": "male"
+    },
+    {
+      "id": 185,
+      "name": "Elias",
+      "gender": "male"
+    },
+    {
+      "id": 186,
+      "name": "Elling",
+      "gender": "male"
+    },
+    {
+      "id": 187,
+      "name": "Elliot",
+      "gender": "male"
+    },
+    {
+      "id": 188,
+      "name": "Emanuel",
+      "gender": "male"
+    },
+    {
+      "id": 189,
+      "name": "Emil",
+      "gender": "male"
+    },
+    {
+      "id": 190,
+      "name": "Emilian",
+      "gender": "male"
+    },
+    {
+      "id": 191,
+      "name": "Emilio",
+      "gender": "male"
+    },
+    {
+      "id": 192,
+      "name": "Emir",
+      "gender": "male"
+    },
+    {
+      "id": 193,
+      "name": "Emmanuel",
+      "gender": "male"
+    },
+    {
+      "id": 194,
+      "name": "Emre",
+      "gender": "male"
+    },
+    {
+      "id": 195,
+      "name": "Emrik",
+      "gender": "male"
+    },
+    {
+      "id": 196,
+      "name": "Endre",
+      "gender": "male"
+    },
+    {
+      "id": 197,
+      "name": "Eric",
+      "gender": "male"
+    },
+    {
+      "id": 198,
+      "name": "Erik",
+      "gender": "male"
+    },
+    {
+      "id": 199,
+      "name": "Erland",
+      "gender": "male"
+    },
+    {
+      "id": 200,
+      "name": "Erlend",
+      "gender": "male"
+    },
+    {
+      "id": 201,
+      "name": "Erling",
+      "gender": "male"
+    },
+    {
+      "id": 202,
+      "name": "Ernst",
+      "gender": "male"
+    },
+    {
+      "id": 203,
+      "name": "Esben",
+      "gender": "male"
+    },
+    {
+      "id": 204,
+      "name": "Eskil",
+      "gender": "male"
+    },
+    {
+      "id": 205,
+      "name": "Eskild",
+      "gender": "male"
+    },
+    {
+      "id": 206,
+      "name": "Espen",
+      "gender": "male"
+    },
+    {
+      "id": 207,
+      "name": "Esten",
+      "gender": "male"
+    },
+    {
+      "id": 208,
+      "name": "Evald",
+      "gender": "male"
+    },
+    {
+      "id": 209,
+      "name": "Even",
+      "gender": "male"
+    },
+    {
+      "id": 210,
+      "name": "Eystein",
+      "gender": "male"
+    },
+    {
+      "id": 211,
+      "name": "Eyvind",
+      "gender": "male"
+    },
+    {
+      "id": 212,
+      "name": "Fabian",
+      "gender": "male"
+    },
+    {
+      "id": 213,
+      "name": "Falk",
+      "gender": "male"
+    },
+    {
+      "id": 214,
+      "name": "Felix",
+      "gender": "male"
+    },
+    {
+      "id": 215,
+      "name": "Ferdinand",
+      "gender": "male"
+    },
+    {
+      "id": 216,
+      "name": "Filip",
+      "gender": "male"
+    },
+    {
+      "id": 217,
+      "name": "Fillip",
+      "gender": "male"
+    },
+    {
+      "id": 218,
+      "name": "Finn",
+      "gender": "male"
+    },
+    {
+      "id": 219,
+      "name": "Flemming",
+      "gender": "male"
+    },
+    {
+      "id": 220,
+      "name": "Francisco",
+      "gender": "male"
+    },
+    {
+      "id": 221,
+      "name": "Frank",
+      "gender": "male"
+    },
+    {
+      "id": 222,
+      "name": "Frans",
+      "gender": "male"
+    },
+    {
+      "id": 223,
+      "name": "Fred",
+      "gender": "male"
+    },
+    {
+      "id": 224,
+      "name": "Freddy",
+      "gender": "male"
+    },
+    {
+      "id": 225,
+      "name": "Frederik",
+      "gender": "male"
+    },
+    {
+      "id": 226,
+      "name": "Fredrick",
+      "gender": "male"
+    },
+    {
+      "id": 227,
+      "name": "Fredrik",
+      "gender": "male"
+    },
+    {
+      "id": 228,
+      "name": "Fridtjof",
+      "gender": "male"
+    },
+    {
+      "id": 229,
+      "name": "Frithjof",
+      "gender": "male"
+    },
+    {
+      "id": 230,
+      "name": "Frits",
+      "gender": "male"
+    },
+    {
+      "id": 231,
+      "name": "Fritz",
+      "gender": "male"
+    },
+    {
+      "id": 232,
+      "name": "Frode",
+      "gender": "male"
+    },
+    {
+      "id": 233,
+      "name": "Gabriel",
+      "gender": "male"
+    },
+    {
+      "id": 234,
+      "name": "Gard",
+      "gender": "male"
+    },
+    {
+      "id": 235,
+      "name": "Gaute",
+      "gender": "male"
+    },
+    {
+      "id": 236,
+      "name": "Gediminas",
+      "gender": "male"
+    },
+    {
+      "id": 237,
+      "name": "Geir",
+      "gender": "male"
+    },
+    {
+      "id": 238,
+      "name": "Georg",
+      "gender": "male"
+    },
+    {
+      "id": 239,
+      "name": "George",
+      "gender": "male"
+    },
+    {
+      "id": 240,
+      "name": "Gerhard",
+      "gender": "male"
+    },
+    {
+      "id": 241,
+      "name": "Gert",
+      "gender": "male"
+    },
+    {
+      "id": 242,
+      "name": "Giedrius",
+      "gender": "male"
+    },
+    {
+      "id": 243,
+      "name": "Gintaras",
+      "gender": "male"
+    },
+    {
+      "id": 244,
+      "name": "Gisle",
+      "gender": "male"
+    },
+    {
+      "id": 245,
+      "name": "Gjermund",
+      "gender": "male"
+    },
+    {
+      "id": 246,
+      "name": "Gjert",
+      "gender": "male"
+    },
+    {
+      "id": 247,
+      "name": "Glen",
+      "gender": "male"
+    },
+    {
+      "id": 248,
+      "name": "Glenn",
+      "gender": "male"
+    },
+    {
+      "id": 249,
+      "name": "Goran",
+      "gender": "male"
+    },
+    {
+      "id": 250,
+      "name": "Gorm",
+      "gender": "male"
+    },
+    {
+      "id": 251,
+      "name": "Grzegorz",
+      "gender": "male"
+    },
+    {
+      "id": 252,
+      "name": "Gudbrand",
+      "gender": "male"
+    },
+    {
+      "id": 253,
+      "name": "Gudmund",
+      "gender": "male"
+    },
+    {
+      "id": 254,
+      "name": "Gunnar",
+      "gender": "male"
+    },
+    {
+      "id": 255,
+      "name": "Gunvald",
+      "gender": "male"
+    },
+    {
+      "id": 256,
+      "name": "Gustav",
+      "gender": "male"
+    },
+    {
+      "id": 257,
+      "name": "Guttorm",
+      "gender": "male"
+    },
+    {
+      "id": 258,
+      "name": "Gøran",
+      "gender": "male"
+    },
+    {
+      "id": 259,
+      "name": "Haakon",
+      "gender": "male"
+    },
+    {
+      "id": 260,
+      "name": "Haavard",
+      "gender": "male"
+    },
+    {
+      "id": 261,
+      "name": "Haldor",
+      "gender": "male"
+    },
+    {
+      "id": 262,
+      "name": "Halfdan",
+      "gender": "male"
+    },
+    {
+      "id": 263,
+      "name": "Hallgeir",
+      "gender": "male"
+    },
+    {
+      "id": 264,
+      "name": "Hallstein",
+      "gender": "male"
+    },
+    {
+      "id": 265,
+      "name": "Hallvard",
+      "gender": "male"
+    },
+    {
+      "id": 266,
+      "name": "Halvard",
+      "gender": "male"
+    },
+    {
+      "id": 267,
+      "name": "Halvor",
+      "gender": "male"
+    },
+    {
+      "id": 268,
+      "name": "Hamid",
+      "gender": "male"
+    },
+    {
+      "id": 269,
+      "name": "Hamza",
+      "gender": "male"
+    },
+    {
+      "id": 270,
+      "name": "Hans",
+      "gender": "male"
+    },
+    {
+      "id": 271,
+      "name": "Hans-Petter",
+      "gender": "male"
+    },
+    {
+      "id": 272,
+      "name": "Harald",
+      "gender": "male"
+    },
+    {
+      "id": 273,
+      "name": "Harry",
+      "gender": "male"
+    },
+    {
+      "id": 274,
+      "name": "Hasan",
+      "gender": "male"
+    },
+    {
+      "id": 275,
+      "name": "Hassan",
+      "gender": "male"
+    },
+    {
+      "id": 276,
+      "name": "Hauk",
+      "gender": "male"
+    },
+    {
+      "id": 277,
+      "name": "Heine",
+      "gender": "male"
+    },
+    {
+      "id": 278,
+      "name": "Helge",
+      "gender": "male"
+    },
+    {
+      "id": 279,
+      "name": "Helmer",
+      "gender": "male"
+    },
+    {
+      "id": 280,
+      "name": "Henning",
+      "gender": "male"
+    },
+    {
+      "id": 281,
+      "name": "Henrik",
+      "gender": "male"
+    },
+    {
+      "id": 282,
+      "name": "Henry",
+      "gender": "male"
+    },
+    {
+      "id": 283,
+      "name": "Henryk",
+      "gender": "male"
+    },
+    {
+      "id": 284,
+      "name": "Herman",
+      "gender": "male"
+    },
+    {
+      "id": 285,
+      "name": "Hermann",
+      "gender": "male"
+    },
+    {
+      "id": 286,
+      "name": "Hermod",
+      "gender": "male"
+    },
+    {
+      "id": 287,
+      "name": "Hilmar",
+      "gender": "male"
+    },
+    {
+      "id": 288,
+      "name": "Hjalmar",
+      "gender": "male"
+    },
+    {
+      "id": 289,
+      "name": "Hogne",
+      "gender": "male"
+    },
+    {
+      "id": 290,
+      "name": "Holger",
+      "gender": "male"
+    },
+    {
+      "id": 291,
+      "name": "Hubert",
+      "gender": "male"
+    },
+    {
+      "id": 292,
+      "name": "Hugo",
+      "gender": "male"
+    },
+    {
+      "id": 293,
+      "name": "Hussein",
+      "gender": "male"
+    },
+    {
+      "id": 294,
+      "name": "Håkon",
+      "gender": "male"
+    },
+    {
+      "id": 295,
+      "name": "Håvar",
+      "gender": "male"
+    },
+    {
+      "id": 296,
+      "name": "Håvard",
+      "gender": "male"
+    },
+    {
+      "id": 297,
+      "name": "Ian",
+      "gender": "male"
+    },
+    {
+      "id": 298,
+      "name": "Ibrahim",
+      "gender": "male"
+    },
+    {
+      "id": 299,
+      "name": "Idar",
+      "gender": "male"
+    },
+    {
+      "id": 300,
+      "name": "Igor",
+      "gender": "male"
+    },
+    {
+      "id": 301,
+      "name": "Ilyas",
+      "gender": "male"
+    },
+    {
+      "id": 302,
+      "name": "Imran",
+      "gender": "male"
+    },
+    {
+      "id": 303,
+      "name": "Imre",
+      "gender": "male"
+    },
+    {
+      "id": 304,
+      "name": "Ingar",
+      "gender": "male"
+    },
+    {
+      "id": 305,
+      "name": "Inge",
+      "gender": "male"
+    },
+    {
+      "id": 306,
+      "name": "Ingebrigt",
+      "gender": "male"
+    },
+    {
+      "id": 307,
+      "name": "Ingmar",
+      "gender": "male"
+    },
+    {
+      "id": 308,
+      "name": "Ingolf",
+      "gender": "male"
+    },
+    {
+      "id": 309,
+      "name": "Ingvald",
+      "gender": "male"
+    },
+    {
+      "id": 310,
+      "name": "Ingvar",
+      "gender": "male"
+    },
+    {
+      "id": 311,
+      "name": "Ingve",
+      "gender": "male"
+    },
+    {
+      "id": 312,
+      "name": "Ireneusz",
+      "gender": "male"
+    },
+    {
+      "id": 313,
+      "name": "Isaac",
+      "gender": "male"
+    },
+    {
+      "id": 314,
+      "name": "Isac",
+      "gender": "male"
+    },
+    {
+      "id": 315,
+      "name": "Isak",
+      "gender": "male"
+    },
+    {
+      "id": 316,
+      "name": "Ismail",
+      "gender": "male"
+    },
+    {
+      "id": 317,
+      "name": "Ivan",
+      "gender": "male"
+    },
+    {
+      "id": 318,
+      "name": "Ivar",
+      "gender": "male"
+    },
+    {
+      "id": 319,
+      "name": "Iver",
+      "gender": "male"
+    },
+    {
+      "id": 320,
+      "name": "Ivo",
+      "gender": "male"
+    },
+    {
+      "id": 321,
+      "name": "Jacek",
+      "gender": "male"
+    },
+    {
+      "id": 322,
+      "name": "Jack",
+      "gender": "male"
+    },
+    {
+      "id": 323,
+      "name": "Jacob",
+      "gender": "male"
+    },
+    {
+      "id": 324,
+      "name": "Jahn",
+      "gender": "male"
+    },
+    {
+      "id": 325,
+      "name": "Jakob",
+      "gender": "male"
+    },
+    {
+      "id": 326,
+      "name": "Jakub",
+      "gender": "male"
+    },
+    {
+      "id": 327,
+      "name": "Jamal",
+      "gender": "male"
+    },
+    {
+      "id": 328,
+      "name": "James",
+      "gender": "male"
+    },
+    {
+      "id": 329,
+      "name": "Jan",
+      "gender": "male"
+    },
+    {
+      "id": 330,
+      "name": "Jan-Erik",
+      "gender": "male"
+    },
+    {
+      "id": 331,
+      "name": "Janis",
+      "gender": "male"
+    },
+    {
+      "id": 332,
+      "name": "Jann",
+      "gender": "male"
+    },
+    {
+      "id": 333,
+      "name": "Janusz",
+      "gender": "male"
+    },
+    {
+      "id": 334,
+      "name": "Jarand",
+      "gender": "male"
+    },
+    {
+      "id": 335,
+      "name": "Jardar",
+      "gender": "male"
+    },
+    {
+      "id": 336,
+      "name": "Jarl",
+      "gender": "male"
+    },
+    {
+      "id": 337,
+      "name": "Jarle",
+      "gender": "male"
+    },
+    {
+      "id": 338,
+      "name": "Jaroslaw",
+      "gender": "male"
+    },
+    {
+      "id": 339,
+      "name": "Jason",
+      "gender": "male"
+    },
+    {
+      "id": 340,
+      "name": "Jean",
+      "gender": "male"
+    },
+    {
+      "id": 341,
+      "name": "Jens",
+      "gender": "male"
+    },
+    {
+      "id": 342,
+      "name": "Jeppe",
+      "gender": "male"
+    },
+    {
+      "id": 343,
+      "name": "Jerzy",
+      "gender": "male"
+    },
+    {
+      "id": 344,
+      "name": "Jesper",
+      "gender": "male"
+    },
+    {
+      "id": 345,
+      "name": "Jim",
+      "gender": "male"
+    },
+    {
+      "id": 346,
+      "name": "Jimmy",
+      "gender": "male"
+    },
+    {
+      "id": 347,
+      "name": "Jo",
+      "gender": "male"
+    },
+    {
+      "id": 348,
+      "name": "Joachim",
+      "gender": "male"
+    },
+    {
+      "id": 349,
+      "name": "Joacim",
+      "gender": "male"
+    },
+    {
+      "id": 350,
+      "name": "Joakim",
+      "gender": "male"
+    },
+    {
+      "id": 351,
+      "name": "Joar",
+      "gender": "male"
+    },
+    {
+      "id": 352,
+      "name": "Joel",
+      "gender": "male"
+    },
+    {
+      "id": 353,
+      "name": "Johan",
+      "gender": "male"
+    },
+    {
+      "id": 354,
+      "name": "Johann",
+      "gender": "male"
+    },
+    {
+      "id": 355,
+      "name": "Johannes",
+      "gender": "male"
+    },
+    {
+      "id": 356,
+      "name": "John",
+      "gender": "male"
+    },
+    {
+      "id": 357,
+      "name": "Johnny",
+      "gender": "male"
+    },
+    {
+      "id": 358,
+      "name": "Jomar",
+      "gender": "male"
+    },
+    {
+      "id": 359,
+      "name": "Jon",
+      "gender": "male"
+    },
+    {
+      "id": 360,
+      "name": "Jonah",
+      "gender": "male"
+    },
+    {
+      "id": 361,
+      "name": "Jonas",
+      "gender": "male"
+    },
+    {
+      "id": 362,
+      "name": "Jonatan",
+      "gender": "male"
+    },
+    {
+      "id": 363,
+      "name": "Jonathan",
+      "gender": "male"
+    },
+    {
+      "id": 364,
+      "name": "Jone",
+      "gender": "male"
+    },
+    {
+      "id": 365,
+      "name": "Jonn",
+      "gender": "male"
+    },
+    {
+      "id": 366,
+      "name": "Jonny",
+      "gender": "male"
+    },
+    {
+      "id": 367,
+      "name": "Jorge",
+      "gender": "male"
+    },
+    {
+      "id": 368,
+      "name": "Jose",
+      "gender": "male"
+    },
+    {
+      "id": 369,
+      "name": "Josef",
+      "gender": "male"
+    },
+    {
+      "id": 370,
+      "name": "Joseph",
+      "gender": "male"
+    },
+    {
+      "id": 371,
+      "name": "Joshua",
+      "gender": "male"
+    },
+    {
+      "id": 372,
+      "name": "Jostein",
+      "gender": "male"
+    },
+    {
+      "id": 373,
+      "name": "Jozef",
+      "gender": "male"
+    },
+    {
+      "id": 374,
+      "name": "Juan",
+      "gender": "male"
+    },
+    {
+      "id": 375,
+      "name": "Julian",
+      "gender": "male"
+    },
+    {
+      "id": 376,
+      "name": "Julius",
+      "gender": "male"
+    },
+    {
+      "id": 377,
+      "name": "Jøran",
+      "gender": "male"
+    },
+    {
+      "id": 378,
+      "name": "Jørg",
+      "gender": "male"
+    },
+    {
+      "id": 379,
+      "name": "Jørgen",
+      "gender": "male"
+    },
+    {
+      "id": 380,
+      "name": "Jørn",
+      "gender": "male"
+    },
+    {
+      "id": 381,
+      "name": "Jørund",
+      "gender": "male"
+    },
+    {
+      "id": 382,
+      "name": "Kaare",
+      "gender": "male"
+    },
+    {
+      "id": 383,
+      "name": "Kacper",
+      "gender": "male"
+    },
+    {
+      "id": 384,
+      "name": "Kai",
+      "gender": "male"
+    },
+    {
+      "id": 385,
+      "name": "Kaj",
+      "gender": "male"
+    },
+    {
+      "id": 386,
+      "name": "Kamil",
+      "gender": "male"
+    },
+    {
+      "id": 387,
+      "name": "Karim",
+      "gender": "male"
+    },
+    {
+      "id": 388,
+      "name": "Karl",
+      "gender": "male"
+    },
+    {
+      "id": 389,
+      "name": "Karol",
+      "gender": "male"
+    },
+    {
+      "id": 390,
+      "name": "Karstein",
+      "gender": "male"
+    },
+    {
+      "id": 391,
+      "name": "Karsten",
+      "gender": "male"
+    },
+    {
+      "id": 392,
+      "name": "Kasper",
+      "gender": "male"
+    },
+    {
+      "id": 393,
+      "name": "Kato",
+      "gender": "male"
+    },
+    {
+      "id": 394,
+      "name": "Kay",
+      "gender": "male"
+    },
+    {
+      "id": 395,
+      "name": "Kazimierz",
+      "gender": "male"
+    },
+    {
+      "id": 396,
+      "name": "Ken",
+      "gender": "male"
+    },
+    {
+      "id": 397,
+      "name": "Kennet",
+      "gender": "male"
+    },
+    {
+      "id": 398,
+      "name": "Kenneth",
+      "gender": "male"
+    },
+    {
+      "id": 399,
+      "name": "Kenny",
+      "gender": "male"
+    },
+    {
+      "id": 400,
+      "name": "Kent",
+      "gender": "male"
+    },
+    {
+      "id": 401,
+      "name": "Kestutis",
+      "gender": "male"
+    },
+    {
+      "id": 402,
+      "name": "Ketil",
+      "gender": "male"
+    },
+    {
+      "id": 403,
+      "name": "Kevin",
+      "gender": "male"
+    },
+    {
+      "id": 404,
+      "name": "Khaled",
+      "gender": "male"
+    },
+    {
+      "id": 405,
+      "name": "Khalid",
+      "gender": "male"
+    },
+    {
+      "id": 406,
+      "name": "Kim",
+      "gender": "male"
+    },
+    {
+      "id": 407,
+      "name": "Kim-Andre",
+      "gender": "male"
+    },
+    {
+      "id": 408,
+      "name": "Kjartan",
+      "gender": "male"
+    },
+    {
+      "id": 409,
+      "name": "Kjell",
+      "gender": "male"
+    },
+    {
+      "id": 410,
+      "name": "Kjetil",
+      "gender": "male"
+    },
+    {
+      "id": 411,
+      "name": "Klaus",
+      "gender": "male"
+    },
+    {
+      "id": 412,
+      "name": "Knut",
+      "gender": "male"
+    },
+    {
+      "id": 413,
+      "name": "Kolbjørn",
+      "gender": "male"
+    },
+    {
+      "id": 414,
+      "name": "Konrad",
+      "gender": "male"
+    },
+    {
+      "id": 415,
+      "name": "Kornelius",
+      "gender": "male"
+    },
+    {
+      "id": 416,
+      "name": "Kristen",
+      "gender": "male"
+    },
+    {
+      "id": 417,
+      "name": "Krister",
+      "gender": "male"
+    },
+    {
+      "id": 418,
+      "name": "Kristian",
+      "gender": "male"
+    },
+    {
+      "id": 419,
+      "name": "Kristoffer",
+      "gender": "male"
+    },
+    {
+      "id": 420,
+      "name": "Krystian",
+      "gender": "male"
+    },
+    {
+      "id": 421,
+      "name": "Krzysztof",
+      "gender": "male"
+    },
+    {
+      "id": 422,
+      "name": "Kurt",
+      "gender": "male"
+    },
+    {
+      "id": 423,
+      "name": "Kyrre",
+      "gender": "male"
+    },
+    {
+      "id": 424,
+      "name": "Kåre",
+      "gender": "male"
+    },
+    {
+      "id": 425,
+      "name": "Lars",
+      "gender": "male"
+    },
+    {
+      "id": 426,
+      "name": "Lars-Erik",
+      "gender": "male"
+    },
+    {
+      "id": 427,
+      "name": "Lasse",
+      "gender": "male"
+    },
+    {
+      "id": 428,
+      "name": "Laurits",
+      "gender": "male"
+    },
+    {
+      "id": 429,
+      "name": "Lauritz",
+      "gender": "male"
+    },
+    {
+      "id": 430,
+      "name": "Lavrans",
+      "gender": "male"
+    },
+    {
+      "id": 431,
+      "name": "Leander",
+      "gender": "male"
+    },
+    {
+      "id": 432,
+      "name": "Leif",
+      "gender": "male"
+    },
+    {
+      "id": 433,
+      "name": "Leiv",
+      "gender": "male"
+    },
+    {
+      "id": 434,
+      "name": "Lennart",
+      "gender": "male"
+    },
+    {
+      "id": 435,
+      "name": "Leo",
+      "gender": "male"
+    },
+    {
+      "id": 436,
+      "name": "Leon",
+      "gender": "male"
+    },
+    {
+      "id": 437,
+      "name": "Leonard",
+      "gender": "male"
+    },
+    {
+      "id": 438,
+      "name": "Leszek",
+      "gender": "male"
+    },
+    {
+      "id": 439,
+      "name": "Levi",
+      "gender": "male"
+    },
+    {
+      "id": 440,
+      "name": "Liam",
+      "gender": "male"
+    },
+    {
+      "id": 441,
+      "name": "Liban",
+      "gender": "male"
+    },
+    {
+      "id": 442,
+      "name": "Linas",
+      "gender": "male"
+    },
+    {
+      "id": 443,
+      "name": "Linus",
+      "gender": "male"
+    },
+    {
+      "id": 444,
+      "name": "Loke",
+      "gender": "male"
+    },
+    {
+      "id": 445,
+      "name": "Lorentz",
+      "gender": "male"
+    },
+    {
+      "id": 446,
+      "name": "Louis",
+      "gender": "male"
+    },
+    {
+      "id": 447,
+      "name": "Luca",
+      "gender": "male"
+    },
+    {
+      "id": 448,
+      "name": "Lucas",
+      "gender": "male"
+    },
+    {
+      "id": 449,
+      "name": "Ludvig",
+      "gender": "male"
+    },
+    {
+      "id": 450,
+      "name": "Ludvik",
+      "gender": "male"
+    },
+    {
+      "id": 451,
+      "name": "Luis",
+      "gender": "male"
+    },
+    {
+      "id": 452,
+      "name": "Luka",
+      "gender": "male"
+    },
+    {
+      "id": 453,
+      "name": "Lukas",
+      "gender": "male"
+    },
+    {
+      "id": 454,
+      "name": "Lukasz",
+      "gender": "male"
+    },
+    {
+      "id": 455,
+      "name": "Lyder",
+      "gender": "male"
+    },
+    {
+      "id": 456,
+      "name": "Maciej",
+      "gender": "male"
+    },
+    {
+      "id": 457,
+      "name": "Mads",
+      "gender": "male"
+    },
+    {
+      "id": 458,
+      "name": "Magnar",
+      "gender": "male"
+    },
+    {
+      "id": 459,
+      "name": "Magne",
+      "gender": "male"
+    },
+    {
+      "id": 460,
+      "name": "Magnus",
+      "gender": "male"
+    },
+    {
+      "id": 461,
+      "name": "Mahad",
+      "gender": "male"
+    },
+    {
+      "id": 462,
+      "name": "Mahamed",
+      "gender": "male"
+    },
+    {
+      "id": 463,
+      "name": "Mahdi",
+      "gender": "male"
+    },
+    {
+      "id": 464,
+      "name": "Mahmoud",
+      "gender": "male"
+    },
+    {
+      "id": 465,
+      "name": "Malvin",
+      "gender": "male"
+    },
+    {
+      "id": 466,
+      "name": "Mantas",
+      "gender": "male"
+    },
+    {
+      "id": 467,
+      "name": "Manuel",
+      "gender": "male"
+    },
+    {
+      "id": 468,
+      "name": "Marc",
+      "gender": "male"
+    },
+    {
+      "id": 469,
+      "name": "Marcel",
+      "gender": "male"
+    },
+    {
+      "id": 470,
+      "name": "Marcin",
+      "gender": "male"
+    },
+    {
+      "id": 471,
+      "name": "Marco",
+      "gender": "male"
+    },
+    {
+      "id": 472,
+      "name": "Marcus",
+      "gender": "male"
+    },
+    {
+      "id": 473,
+      "name": "Marek",
+      "gender": "male"
+    },
+    {
+      "id": 474,
+      "name": "Marian",
+      "gender": "male"
+    },
+    {
+      "id": 475,
+      "name": "Mario",
+      "gender": "male"
+    },
+    {
+      "id": 476,
+      "name": "Marius",
+      "gender": "male"
+    },
+    {
+      "id": 477,
+      "name": "Mariusz",
+      "gender": "male"
+    },
+    {
+      "id": 478,
+      "name": "Mark",
+      "gender": "male"
+    },
+    {
+      "id": 479,
+      "name": "Marko",
+      "gender": "male"
+    },
+    {
+      "id": 480,
+      "name": "Markus",
+      "gender": "male"
+    },
+    {
+      "id": 481,
+      "name": "Martin",
+      "gender": "male"
+    },
+    {
+      "id": 482,
+      "name": "Martinius",
+      "gender": "male"
+    },
+    {
+      "id": 483,
+      "name": "Martinus",
+      "gender": "male"
+    },
+    {
+      "id": 484,
+      "name": "Marvin",
+      "gender": "male"
+    },
+    {
+      "id": 485,
+      "name": "Mateo",
+      "gender": "male"
+    },
+    {
+      "id": 486,
+      "name": "Mateusz",
+      "gender": "male"
+    },
+    {
+      "id": 487,
+      "name": "Matheo",
+      "gender": "male"
+    },
+    {
+      "id": 488,
+      "name": "Mathias",
+      "gender": "male"
+    },
+    {
+      "id": 489,
+      "name": "Mathis",
+      "gender": "male"
+    },
+    {
+      "id": 490,
+      "name": "Matias",
+      "gender": "male"
+    },
+    {
+      "id": 491,
+      "name": "Mats",
+      "gender": "male"
+    },
+    {
+      "id": 492,
+      "name": "Matteo",
+      "gender": "male"
+    },
+    {
+      "id": 493,
+      "name": "Matthew",
+      "gender": "male"
+    },
+    {
+      "id": 494,
+      "name": "Matthias",
+      "gender": "male"
+    },
+    {
+      "id": 495,
+      "name": "Mattias",
+      "gender": "male"
+    },
+    {
+      "id": 496,
+      "name": "Mattis",
+      "gender": "male"
+    },
+    {
+      "id": 497,
+      "name": "Max",
+      "gender": "male"
+    },
+    {
+      "id": 498,
+      "name": "Maximilian",
+      "gender": "male"
+    },
+    {
+      "id": 499,
+      "name": "Mehdi",
+      "gender": "male"
+    },
+    {
+      "id": 500,
+      "name": "Mehmet",
+      "gender": "male"
+    },
+    {
+      "id": 501,
+      "name": "Melvin",
+      "gender": "male"
+    },
+    {
+      "id": 502,
+      "name": "Michael",
+      "gender": "male"
+    },
+    {
+      "id": 503,
+      "name": "Michal",
+      "gender": "male"
+    },
+    {
+      "id": 504,
+      "name": "Miguel",
+      "gender": "male"
+    },
+    {
+      "id": 505,
+      "name": "Mika",
+      "gender": "male"
+    },
+    {
+      "id": 506,
+      "name": "Mikael",
+      "gender": "male"
+    },
+    {
+      "id": 507,
+      "name": "Mikal",
+      "gender": "male"
+    },
+    {
+      "id": 508,
+      "name": "Mike",
+      "gender": "male"
+    },
+    {
+      "id": 509,
+      "name": "Mikkel",
+      "gender": "male"
+    },
+    {
+      "id": 510,
+      "name": "Milan",
+      "gender": "male"
+    },
+    {
+      "id": 511,
+      "name": "Milian",
+      "gender": "male"
+    },
+    {
+      "id": 512,
+      "name": "Mindaugas",
+      "gender": "male"
+    },
+    {
+      "id": 513,
+      "name": "Minh",
+      "gender": "male"
+    },
+    {
+      "id": 514,
+      "name": "Mio",
+      "gender": "male"
+    },
+    {
+      "id": 515,
+      "name": "Miroslav",
+      "gender": "male"
+    },
+    {
+      "id": 516,
+      "name": "Miroslaw",
+      "gender": "male"
+    },
+    {
+      "id": 517,
+      "name": "Mohamad",
+      "gender": "male"
+    },
+    {
+      "id": 518,
+      "name": "Mohamed",
+      "gender": "male"
+    },
+    {
+      "id": 519,
+      "name": "Mohammad",
+      "gender": "male"
+    },
+    {
+      "id": 520,
+      "name": "Mohammed",
+      "gender": "male"
+    },
+    {
+      "id": 521,
+      "name": "Mons",
+      "gender": "male"
+    },
+    {
+      "id": 522,
+      "name": "Morgan",
+      "gender": "male"
+    },
+    {
+      "id": 523,
+      "name": "Morten",
+      "gender": "male"
+    },
+    {
+      "id": 524,
+      "name": "Mostafa",
+      "gender": "male"
+    },
+    {
+      "id": 525,
+      "name": "Muhammad",
+      "gender": "male"
+    },
+    {
+      "id": 526,
+      "name": "Muhammed",
+      "gender": "male"
+    },
+    {
+      "id": 527,
+      "name": "Mustafa",
+      "gender": "male"
+    },
+    {
+      "id": 528,
+      "name": "Narve",
+      "gender": "male"
+    },
+    {
+      "id": 529,
+      "name": "Nathan",
+      "gender": "male"
+    },
+    {
+      "id": 530,
+      "name": "Nathaniel",
+      "gender": "male"
+    },
+    {
+      "id": 531,
+      "name": "Nerijus",
+      "gender": "male"
+    },
+    {
+      "id": 532,
+      "name": "Nicholas",
+      "gender": "male"
+    },
+    {
+      "id": 533,
+      "name": "Nicklas",
+      "gender": "male"
+    },
+    {
+      "id": 534,
+      "name": "Niclas",
+      "gender": "male"
+    },
+    {
+      "id": 535,
+      "name": "Nicolai",
+      "gender": "male"
+    },
+    {
+      "id": 536,
+      "name": "Nicolas",
+      "gender": "male"
+    },
+    {
+      "id": 537,
+      "name": "Nicolay",
+      "gender": "male"
+    },
+    {
+      "id": 538,
+      "name": "Niels",
+      "gender": "male"
+    },
+    {
+      "id": 539,
+      "name": "Niklas",
+      "gender": "male"
+    },
+    {
+      "id": 540,
+      "name": "Nikola",
+      "gender": "male"
+    },
+    {
+      "id": 541,
+      "name": "Nikolai",
+      "gender": "male"
+    },
+    {
+      "id": 542,
+      "name": "Nikolas",
+      "gender": "male"
+    },
+    {
+      "id": 543,
+      "name": "Nikolay",
+      "gender": "male"
+    },
+    {
+      "id": 544,
+      "name": "Nils",
+      "gender": "male"
+    },
+    {
+      "id": 545,
+      "name": "Njål",
+      "gender": "male"
+    },
+    {
+      "id": 546,
+      "name": "Noa",
+      "gender": "male"
+    },
+    {
+      "id": 547,
+      "name": "Noah",
+      "gender": "male"
+    },
+    {
+      "id": 548,
+      "name": "Noel",
+      "gender": "male"
+    },
+    {
+      "id": 549,
+      "name": "Norbert",
+      "gender": "male"
+    },
+    {
+      "id": 550,
+      "name": "Normann",
+      "gender": "male"
+    },
+    {
+      "id": 551,
+      "name": "Norvald",
+      "gender": "male"
+    },
+    {
+      "id": 552,
+      "name": "Odd",
+      "gender": "male"
+    },
+    {
+      "id": 553,
+      "name": "Oddbjørn",
+      "gender": "male"
+    },
+    {
+      "id": 554,
+      "name": "Oddgeir",
+      "gender": "male"
+    },
+    {
+      "id": 555,
+      "name": "Oddleif",
+      "gender": "male"
+    },
+    {
+      "id": 556,
+      "name": "Oddmund",
+      "gender": "male"
+    },
+    {
+      "id": 557,
+      "name": "Oddvar",
+      "gender": "male"
+    },
+    {
+      "id": 558,
+      "name": "Oddvin",
+      "gender": "male"
+    },
+    {
+      "id": 559,
+      "name": "Odin",
+      "gender": "male"
+    },
+    {
+      "id": 560,
+      "name": "Ola",
+      "gender": "male"
+    },
+    {
+      "id": 561,
+      "name": "Olaf",
+      "gender": "male"
+    },
+    {
+      "id": 562,
+      "name": "Olai",
+      "gender": "male"
+    },
+    {
+      "id": 563,
+      "name": "Olav",
+      "gender": "male"
+    },
+    {
+      "id": 564,
+      "name": "Ole",
+      "gender": "male"
+    },
+    {
+      "id": 565,
+      "name": "Ole-Christian",
+      "gender": "male"
+    },
+    {
+      "id": 566,
+      "name": "Ole-Jørgen",
+      "gender": "male"
+    },
+    {
+      "id": 567,
+      "name": "Ole-Kristian",
+      "gender": "male"
+    },
+    {
+      "id": 568,
+      "name": "Ole-Martin",
+      "gender": "male"
+    },
+    {
+      "id": 569,
+      "name": "Ole-Petter",
+      "gender": "male"
+    },
+    {
+      "id": 570,
+      "name": "Oliver",
+      "gender": "male"
+    },
+    {
+      "id": 571,
+      "name": "Olivier",
+      "gender": "male"
+    },
+    {
+      "id": 572,
+      "name": "Olve",
+      "gender": "male"
+    },
+    {
+      "id": 573,
+      "name": "Omar",
+      "gender": "male"
+    },
+    {
+      "id": 574,
+      "name": "Oscar",
+      "gender": "male"
+    },
+    {
+      "id": 575,
+      "name": "Oskar",
+      "gender": "male"
+    },
+    {
+      "id": 576,
+      "name": "Osman",
+      "gender": "male"
+    },
+    {
+      "id": 577,
+      "name": "Osvald",
+      "gender": "male"
+    },
+    {
+      "id": 578,
+      "name": "Ottar",
+      "gender": "male"
+    },
+    {
+      "id": 579,
+      "name": "Otto",
+      "gender": "male"
+    },
+    {
+      "id": 580,
+      "name": "Ove",
+      "gender": "male"
+    },
+    {
+      "id": 581,
+      "name": "Paal",
+      "gender": "male"
+    },
+    {
+      "id": 582,
+      "name": "Patrick",
+      "gender": "male"
+    },
+    {
+      "id": 583,
+      "name": "Patrik",
+      "gender": "male"
+    },
+    {
+      "id": 584,
+      "name": "Patryk",
+      "gender": "male"
+    },
+    {
+      "id": 585,
+      "name": "Paul",
+      "gender": "male"
+    },
+    {
+      "id": 586,
+      "name": "Paulius",
+      "gender": "male"
+    },
+    {
+      "id": 587,
+      "name": "Pavel",
+      "gender": "male"
+    },
+    {
+      "id": 588,
+      "name": "Pawel",
+      "gender": "male"
+    },
+    {
+      "id": 589,
+      "name": "Peder",
+      "gender": "male"
+    },
+    {
+      "id": 590,
+      "name": "Pedro",
+      "gender": "male"
+    },
+    {
+      "id": 591,
+      "name": "Per",
+      "gender": "male"
+    },
+    {
+      "id": 592,
+      "name": "Per-Arne",
+      "gender": "male"
+    },
+    {
+      "id": 593,
+      "name": "Per-Erik",
+      "gender": "male"
+    },
+    {
+      "id": 594,
+      "name": "Peter",
+      "gender": "male"
+    },
+    {
+      "id": 595,
+      "name": "Petter",
+      "gender": "male"
+    },
+    {
+      "id": 596,
+      "name": "Philip",
+      "gender": "male"
+    },
+    {
+      "id": 597,
+      "name": "Phillip",
+      "gender": "male"
+    },
+    {
+      "id": 598,
+      "name": "Piotr",
+      "gender": "male"
+    },
+    {
+      "id": 599,
+      "name": "Preben",
+      "gender": "male"
+    },
+    {
+      "id": 600,
+      "name": "Przemyslaw",
+      "gender": "male"
+    },
+    {
+      "id": 601,
+      "name": "Pål",
+      "gender": "male"
+    },
+    {
+      "id": 602,
+      "name": "Radoslaw",
+      "gender": "male"
+    },
+    {
+      "id": 603,
+      "name": "Rafael",
+      "gender": "male"
+    },
+    {
+      "id": 604,
+      "name": "Rafal",
+      "gender": "male"
+    },
+    {
+      "id": 605,
+      "name": "Ragnar",
+      "gender": "male"
+    },
+    {
+      "id": 606,
+      "name": "Ragnvald",
+      "gender": "male"
+    },
+    {
+      "id": 607,
+      "name": "Rainer",
+      "gender": "male"
+    },
+    {
+      "id": 608,
+      "name": "Ralf",
+      "gender": "male"
+    },
+    {
+      "id": 609,
+      "name": "Ramunas",
+      "gender": "male"
+    },
+    {
+      "id": 610,
+      "name": "Rasmus",
+      "gender": "male"
+    },
+    {
+      "id": 611,
+      "name": "Raymond",
+      "gender": "male"
+    },
+    {
+      "id": 612,
+      "name": "Reidar",
+      "gender": "male"
+    },
+    {
+      "id": 613,
+      "name": "Remi",
+      "gender": "male"
+    },
+    {
+      "id": 614,
+      "name": "Remy",
+      "gender": "male"
+    },
+    {
+      "id": 615,
+      "name": "Rene",
+      "gender": "male"
+    },
+    {
+      "id": 616,
+      "name": "Reza",
+      "gender": "male"
+    },
+    {
+      "id": 617,
+      "name": "Ricardo",
+      "gender": "male"
+    },
+    {
+      "id": 618,
+      "name": "Richard",
+      "gender": "male"
+    },
+    {
+      "id": 619,
+      "name": "Rikard",
+      "gender": "male"
+    },
+    {
+      "id": 620,
+      "name": "Rino",
+      "gender": "male"
+    },
+    {
+      "id": 621,
+      "name": "Roald",
+      "gender": "male"
+    },
+    {
+      "id": 622,
+      "name": "Roar",
+      "gender": "male"
+    },
+    {
+      "id": 623,
+      "name": "Robert",
+      "gender": "male"
+    },
+    {
+      "id": 624,
+      "name": "Robertas",
+      "gender": "male"
+    },
+    {
+      "id": 625,
+      "name": "Roberto",
+      "gender": "male"
+    },
+    {
+      "id": 626,
+      "name": "Robin",
+      "gender": "male"
+    },
+    {
+      "id": 627,
+      "name": "Roger",
+      "gender": "male"
+    },
+    {
+      "id": 628,
+      "name": "Roland",
+      "gender": "male"
+    },
+    {
+      "id": 629,
+      "name": "Rolandas",
+      "gender": "male"
+    },
+    {
+      "id": 630,
+      "name": "Rolf",
+      "gender": "male"
+    },
+    {
+      "id": 631,
+      "name": "Rolv",
+      "gender": "male"
+    },
+    {
+      "id": 632,
+      "name": "Roman",
+      "gender": "male"
+    },
+    {
+      "id": 633,
+      "name": "Ronald",
+      "gender": "male"
+    },
+    {
+      "id": 634,
+      "name": "Ronnie",
+      "gender": "male"
+    },
+    {
+      "id": 635,
+      "name": "Ronny",
+      "gender": "male"
+    },
+    {
+      "id": 636,
+      "name": "Roy",
+      "gender": "male"
+    },
+    {
+      "id": 637,
+      "name": "Ruben",
+      "gender": "male"
+    },
+    {
+      "id": 638,
+      "name": "Rudi",
+      "gender": "male"
+    },
+    {
+      "id": 639,
+      "name": "Rudolf",
+      "gender": "male"
+    },
+    {
+      "id": 640,
+      "name": "Runar",
+      "gender": "male"
+    },
+    {
+      "id": 641,
+      "name": "Rune",
+      "gender": "male"
+    },
+    {
+      "id": 642,
+      "name": "Ryan",
+      "gender": "male"
+    },
+    {
+      "id": 643,
+      "name": "Ryszard",
+      "gender": "male"
+    },
+    {
+      "id": 644,
+      "name": "Said",
+      "gender": "male"
+    },
+    {
+      "id": 645,
+      "name": "Sam",
+      "gender": "male"
+    },
+    {
+      "id": 646,
+      "name": "Sami",
+      "gender": "male"
+    },
+    {
+      "id": 647,
+      "name": "Samir",
+      "gender": "male"
+    },
+    {
+      "id": 648,
+      "name": "Samson",
+      "gender": "male"
+    },
+    {
+      "id": 649,
+      "name": "Samuel",
+      "gender": "male"
+    },
+    {
+      "id": 650,
+      "name": "Sander",
+      "gender": "male"
+    },
+    {
+      "id": 651,
+      "name": "Saulius",
+      "gender": "male"
+    },
+    {
+      "id": 652,
+      "name": "Scott",
+      "gender": "male"
+    },
+    {
+      "id": 653,
+      "name": "Sean",
+      "gender": "male"
+    },
+    {
+      "id": 654,
+      "name": "Sebastian",
+      "gender": "male"
+    },
+    {
+      "id": 655,
+      "name": "Severin",
+      "gender": "male"
+    },
+    {
+      "id": 656,
+      "name": "Seyed",
+      "gender": "male"
+    },
+    {
+      "id": 657,
+      "name": "Sigbjørn",
+      "gender": "male"
+    },
+    {
+      "id": 658,
+      "name": "Sigfred",
+      "gender": "male"
+    },
+    {
+      "id": 659,
+      "name": "Sigmund",
+      "gender": "male"
+    },
+    {
+      "id": 660,
+      "name": "Sigurd",
+      "gender": "male"
+    },
+    {
+      "id": 661,
+      "name": "Sigvald",
+      "gender": "male"
+    },
+    {
+      "id": 662,
+      "name": "Sigvart",
+      "gender": "male"
+    },
+    {
+      "id": 663,
+      "name": "Sigve",
+      "gender": "male"
+    },
+    {
+      "id": 664,
+      "name": "Silas",
+      "gender": "male"
+    },
+    {
+      "id": 665,
+      "name": "Simen",
+      "gender": "male"
+    },
+    {
+      "id": 666,
+      "name": "Simon",
+      "gender": "male"
+    },
+    {
+      "id": 667,
+      "name": "Sindre",
+      "gender": "male"
+    },
+    {
+      "id": 668,
+      "name": "Sivert",
+      "gender": "male"
+    },
+    {
+      "id": 669,
+      "name": "Sjur",
+      "gender": "male"
+    },
+    {
+      "id": 670,
+      "name": "Skjalg",
+      "gender": "male"
+    },
+    {
+      "id": 671,
+      "name": "Slawomir",
+      "gender": "male"
+    },
+    {
+      "id": 672,
+      "name": "Snorre",
+      "gender": "male"
+    },
+    {
+      "id": 673,
+      "name": "Sondre",
+      "gender": "male"
+    },
+    {
+      "id": 674,
+      "name": "Stanislaw",
+      "gender": "male"
+    },
+    {
+      "id": 675,
+      "name": "Stefan",
+      "gender": "male"
+    },
+    {
+      "id": 676,
+      "name": "Steffan",
+      "gender": "male"
+    },
+    {
+      "id": 677,
+      "name": "Steffen",
+      "gender": "male"
+    },
+    {
+      "id": 678,
+      "name": "Stein",
+      "gender": "male"
+    },
+    {
+      "id": 679,
+      "name": "Steinar",
+      "gender": "male"
+    },
+    {
+      "id": 680,
+      "name": "Sten",
+      "gender": "male"
+    },
+    {
+      "id": 681,
+      "name": "Stephan",
+      "gender": "male"
+    },
+    {
+      "id": 682,
+      "name": "Stephen",
+      "gender": "male"
+    },
+    {
+      "id": 683,
+      "name": "Steve",
+      "gender": "male"
+    },
+    {
+      "id": 684,
+      "name": "Steven",
+      "gender": "male"
+    },
+    {
+      "id": 685,
+      "name": "Stian",
+      "gender": "male"
+    },
+    {
+      "id": 686,
+      "name": "Stig",
+      "gender": "male"
+    },
+    {
+      "id": 687,
+      "name": "Storm",
+      "gender": "male"
+    },
+    {
+      "id": 688,
+      "name": "Sture",
+      "gender": "male"
+    },
+    {
+      "id": 689,
+      "name": "Sturla",
+      "gender": "male"
+    },
+    {
+      "id": 690,
+      "name": "Ståle",
+      "gender": "male"
+    },
+    {
+      "id": 691,
+      "name": "Svein",
+      "gender": "male"
+    },
+    {
+      "id": 692,
+      "name": "Svein-Erik",
+      "gender": "male"
+    },
+    {
+      "id": 693,
+      "name": "Sveinung",
+      "gender": "male"
+    },
+    {
+      "id": 694,
+      "name": "Sven",
+      "gender": "male"
+    },
+    {
+      "id": 695,
+      "name": "Svend",
+      "gender": "male"
+    },
+    {
+      "id": 696,
+      "name": "Svenn",
+      "gender": "male"
+    },
+    {
+      "id": 697,
+      "name": "Sverre",
+      "gender": "male"
+    },
+    {
+      "id": 698,
+      "name": "Syed",
+      "gender": "male"
+    },
+    {
+      "id": 699,
+      "name": "Sylwester",
+      "gender": "male"
+    },
+    {
+      "id": 700,
+      "name": "Syver",
+      "gender": "male"
+    },
+    {
+      "id": 701,
+      "name": "Sølve",
+      "gender": "male"
+    },
+    {
+      "id": 702,
+      "name": "Szymon",
+      "gender": "male"
+    },
+    {
+      "id": 703,
+      "name": "Søren",
+      "gender": "male"
+    },
+    {
+      "id": 704,
+      "name": "Tadas",
+      "gender": "male"
+    },
+    {
+      "id": 705,
+      "name": "Tadeusz",
+      "gender": "male"
+    },
+    {
+      "id": 706,
+      "name": "Tage",
+      "gender": "male"
+    },
+    {
+      "id": 707,
+      "name": "Tarald",
+      "gender": "male"
+    },
+    {
+      "id": 708,
+      "name": "Tarjei",
+      "gender": "male"
+    },
+    {
+      "id": 709,
+      "name": "Ted",
+      "gender": "male"
+    },
+    {
+      "id": 710,
+      "name": "Tellef",
+      "gender": "male"
+    },
+    {
+      "id": 711,
+      "name": "Teo",
+      "gender": "male"
+    },
+    {
+      "id": 712,
+      "name": "Teodor",
+      "gender": "male"
+    },
+    {
+      "id": 713,
+      "name": "Terje",
+      "gender": "male"
+    },
+    {
+      "id": 714,
+      "name": "Thanh",
+      "gender": "male"
+    },
+    {
+      "id": 715,
+      "name": "Theo",
+      "gender": "male"
+    },
+    {
+      "id": 716,
+      "name": "Theodor",
+      "gender": "male"
+    },
+    {
+      "id": 717,
+      "name": "Thomas",
+      "gender": "male"
+    },
+    {
+      "id": 718,
+      "name": "Thor",
+      "gender": "male"
+    },
+    {
+      "id": 719,
+      "name": "Thorbjørn",
+      "gender": "male"
+    },
+    {
+      "id": 720,
+      "name": "Thore",
+      "gender": "male"
+    },
+    {
+      "id": 721,
+      "name": "Thorleif",
+      "gender": "male"
+    },
+    {
+      "id": 722,
+      "name": "Thormod",
+      "gender": "male"
+    },
+    {
+      "id": 723,
+      "name": "Thorstein",
+      "gender": "male"
+    },
+    {
+      "id": 724,
+      "name": "Thorvald",
+      "gender": "male"
+    },
+    {
+      "id": 725,
+      "name": "Tim",
+      "gender": "male"
+    },
+    {
+      "id": 726,
+      "name": "Timothy",
+      "gender": "male"
+    },
+    {
+      "id": 727,
+      "name": "Tobias",
+      "gender": "male"
+    },
+    {
+      "id": 728,
+      "name": "Tom",
+      "gender": "male"
+    },
+    {
+      "id": 729,
+      "name": "Tomas",
+      "gender": "male"
+    },
+    {
+      "id": 730,
+      "name": "Tomasz",
+      "gender": "male"
+    },
+    {
+      "id": 731,
+      "name": "Tom-Erik",
+      "gender": "male"
+    },
+    {
+      "id": 732,
+      "name": "Tommy",
+      "gender": "male"
+    },
+    {
+      "id": 733,
+      "name": "Toni",
+      "gender": "male"
+    },
+    {
+      "id": 734,
+      "name": "Tonny",
+      "gender": "male"
+    },
+    {
+      "id": 735,
+      "name": "Tony",
+      "gender": "male"
+    },
+    {
+      "id": 736,
+      "name": "Tor",
+      "gender": "male"
+    },
+    {
+      "id": 737,
+      "name": "Toralf",
+      "gender": "male"
+    },
+    {
+      "id": 738,
+      "name": "Tor-Arne",
+      "gender": "male"
+    },
+    {
+      "id": 739,
+      "name": "Torben",
+      "gender": "male"
+    },
+    {
+      "id": 740,
+      "name": "Torbjørn",
+      "gender": "male"
+    },
+    {
+      "id": 741,
+      "name": "Tord",
+      "gender": "male"
+    },
+    {
+      "id": 742,
+      "name": "Tore",
+      "gender": "male"
+    },
+    {
+      "id": 743,
+      "name": "Tor-Erik",
+      "gender": "male"
+    },
+    {
+      "id": 744,
+      "name": "Torfinn",
+      "gender": "male"
+    },
+    {
+      "id": 745,
+      "name": "Torgeir",
+      "gender": "male"
+    },
+    {
+      "id": 746,
+      "name": "Torger",
+      "gender": "male"
+    },
+    {
+      "id": 747,
+      "name": "Torgrim",
+      "gender": "male"
+    },
+    {
+      "id": 748,
+      "name": "Torje",
+      "gender": "male"
+    },
+    {
+      "id": 749,
+      "name": "Torjus",
+      "gender": "male"
+    },
+    {
+      "id": 750,
+      "name": "Torkel",
+      "gender": "male"
+    },
+    {
+      "id": 751,
+      "name": "Torkil",
+      "gender": "male"
+    },
+    {
+      "id": 752,
+      "name": "Torkild",
+      "gender": "male"
+    },
+    {
+      "id": 753,
+      "name": "Torleif",
+      "gender": "male"
+    },
+    {
+      "id": 754,
+      "name": "Torleiv",
+      "gender": "male"
+    },
+    {
+      "id": 755,
+      "name": "Tormod",
+      "gender": "male"
+    },
+    {
+      "id": 756,
+      "name": "Torodd",
+      "gender": "male"
+    },
+    {
+      "id": 757,
+      "name": "Torstein",
+      "gender": "male"
+    },
+    {
+      "id": 758,
+      "name": "Torvald",
+      "gender": "male"
+    },
+    {
+      "id": 759,
+      "name": "Tristan",
+      "gender": "male"
+    },
+    {
+      "id": 760,
+      "name": "Tron",
+      "gender": "male"
+    },
+    {
+      "id": 761,
+      "name": "Trond",
+      "gender": "male"
+    },
+    {
+      "id": 762,
+      "name": "Troy",
+      "gender": "male"
+    },
+    {
+      "id": 763,
+      "name": "Truls",
+      "gender": "male"
+    },
+    {
+      "id": 764,
+      "name": "Trygve",
+      "gender": "male"
+    },
+    {
+      "id": 765,
+      "name": "Trym",
+      "gender": "male"
+    },
+    {
+      "id": 766,
+      "name": "Tønnes",
+      "gender": "male"
+    },
+    {
+      "id": 767,
+      "name": "Ulf",
+      "gender": "male"
+    },
+    {
+      "id": 768,
+      "name": "Ulrik",
+      "gender": "male"
+    },
+    {
+      "id": 769,
+      "name": "Usman",
+      "gender": "male"
+    },
+    {
+      "id": 770,
+      "name": "Vaidas",
+      "gender": "male"
+    },
+    {
+      "id": 771,
+      "name": "Valentin",
+      "gender": "male"
+    },
+    {
+      "id": 772,
+      "name": "Van",
+      "gender": "male"
+    },
+    {
+      "id": 773,
+      "name": "Vebjørn",
+      "gender": "male"
+    },
+    {
+      "id": 774,
+      "name": "Vegar",
+      "gender": "male"
+    },
+    {
+      "id": 775,
+      "name": "Vegard",
+      "gender": "male"
+    },
+    {
+      "id": 776,
+      "name": "Vemund",
+      "gender": "male"
+    },
+    {
+      "id": 777,
+      "name": "Vetle",
+      "gender": "male"
+    },
+    {
+      "id": 778,
+      "name": "Victor",
+      "gender": "male"
+    },
+    {
+      "id": 779,
+      "name": "Vidar",
+      "gender": "male"
+    },
+    {
+      "id": 780,
+      "name": "Viggo",
+      "gender": "male"
+    },
+    {
+      "id": 781,
+      "name": "Viktor",
+      "gender": "male"
+    },
+    {
+      "id": 782,
+      "name": "Vilhelm",
+      "gender": "male"
+    },
+    {
+      "id": 783,
+      "name": "Viljar",
+      "gender": "male"
+    },
+    {
+      "id": 784,
+      "name": "Villy",
+      "gender": "male"
+    },
+    {
+      "id": 785,
+      "name": "Vincent",
+      "gender": "male"
+    },
+    {
+      "id": 786,
+      "name": "Vladimir",
+      "gender": "male"
+    },
+    {
+      "id": 787,
+      "name": "Vytautas",
+      "gender": "male"
+    },
+    {
+      "id": 788,
+      "name": "Waldemar",
+      "gender": "male"
+    },
+    {
+      "id": 789,
+      "name": "Walter",
+      "gender": "male"
+    },
+    {
+      "id": 790,
+      "name": "Werner",
+      "gender": "male"
+    },
+    {
+      "id": 791,
+      "name": "Widar",
+      "gender": "male"
+    },
+    {
+      "id": 792,
+      "name": "Wieslaw",
+      "gender": "male"
+    },
+    {
+      "id": 793,
+      "name": "Wiggo",
+      "gender": "male"
+    },
+    {
+      "id": 794,
+      "name": "Wiktor",
+      "gender": "male"
+    },
+    {
+      "id": 795,
+      "name": "Wilhelm",
+      "gender": "male"
+    },
+    {
+      "id": 796,
+      "name": "William",
+      "gender": "male"
+    },
+    {
+      "id": 797,
+      "name": "Willy",
+      "gender": "male"
+    },
+    {
+      "id": 798,
+      "name": "Wojciech",
+      "gender": "male"
+    },
+    {
+      "id": 799,
+      "name": "Yasin",
+      "gender": "male"
+    },
+    {
+      "id": 800,
+      "name": "Yngvar",
+      "gender": "male"
+    },
+    {
+      "id": 801,
+      "name": "Yngve",
+      "gender": "male"
+    },
+    {
+      "id": 802,
+      "name": "Yonas",
+      "gender": "male"
+    },
+    {
+      "id": 803,
+      "name": "Yousef",
+      "gender": "male"
+    },
+    {
+      "id": 804,
+      "name": "Yusuf",
+      "gender": "male"
+    },
+    {
+      "id": 805,
+      "name": "Zakaria",
+      "gender": "male"
+    },
+    {
+      "id": 806,
+      "name": "Zbigniew",
+      "gender": "male"
+    },
+    {
+      "id": 807,
+      "name": "Zdzislaw",
+      "gender": "male"
+    },
+    {
+      "id": 808,
+      "name": "Øistein",
+      "gender": "male"
+    },
+    {
+      "id": 809,
+      "name": "Øivind",
+      "gender": "male"
+    },
+    {
+      "id": 810,
+      "name": "Ørjan",
+      "gender": "male"
+    },
+    {
+      "id": 811,
+      "name": "Ørnulf",
+      "gender": "male"
+    },
+    {
+      "id": 812,
+      "name": "Øystein",
+      "gender": "male"
+    },
+    {
+      "id": 813,
+      "name": "Øyvind",
+      "gender": "male"
+    },
+    {
+      "id": 814,
+      "name": "Ådne",
+      "gender": "male"
+    },
+    {
+      "id": 815,
+      "name": "Åge",
+      "gender": "male"
+    },
+    {
+      "id": 816,
+      "name": "Åsmund",
+      "gender": "male"
+    }
+  ],
+  "meta": {
+    "title": "Norske mannsnavn (Norwegian male first names) - Gratis nedlasting",
+    "description": "Norwegian male first names (Norge) — names attributed to men with at least 80% probability, aggregated from Nordic national statistical office frequency data. 816 unique first names. Source: Coats, Steven (2019). Language choice and gender in a Nordic social media corpus. Nordic Journal of Linguistics 42(1). Inneholder 816 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Norske mannsnavn (Norwegian male first names) | ListBase",
+    "seo_description": "Last ned Norske mannsnavn (Norwegian male first names) — 816 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 816 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

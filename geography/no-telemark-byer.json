@@ -1,0 +1,304 @@
+{
+  "id": "no-telemark-byer",
+  "name": "Byer og steder i Telemark (Cities and places in Telemark county, Norway)",
+  "title": "Byer og steder i Telemark (Cities and places in Telemark county, Norway)",
+  "description": "Byer og steder i fylket Telemark i Noreg (27 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Telemark county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79063,
+      "name": "Bamble",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.00146000",
+      "longitude": "9.74573000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79095,
+      "name": "Bø",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.41281000",
+      "longitude": "9.06618000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79100,
+      "name": "Dalen",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.44499000",
+      "longitude": "8.00492000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79105,
+      "name": "Drangedal",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.09655000",
+      "longitude": "9.05960000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79167,
+      "name": "Fyresdal",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.18651000",
+      "longitude": "8.08953000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79196,
+      "name": "Gvarv",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.38767000",
+      "longitude": "9.17240000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79219,
+      "name": "Herre",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.10351000",
+      "longitude": "9.56195000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79223,
+      "name": "Hjartdal",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.61276000",
+      "longitude": "8.94942000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79286,
+      "name": "Kragerø",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "58.86792000",
+      "longitude": "9.41099000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79294,
+      "name": "Kviteseid",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.40194000",
+      "longitude": "8.49459000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79332,
+      "name": "Lunde",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.29832000",
+      "longitude": "9.10268000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79398,
+      "name": "Nissedal",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.01958000",
+      "longitude": "8.52127000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79401,
+      "name": "Nome",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.28136000",
+      "longitude": "9.25678000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79414,
+      "name": "Notodden",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.55992000",
+      "longitude": "9.26046000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79430,
+      "name": "Porsgrunn",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.14190000",
+      "longitude": "9.65680000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79431,
+      "name": "Prestestranda",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.09773000",
+      "longitude": "9.05866000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79441,
+      "name": "Re",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.35056000",
+      "longitude": "10.24763000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79453,
+      "name": "Rjukan",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.87891000",
+      "longitude": "8.59411000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79480,
+      "name": "Sande",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.59362000",
+      "longitude": "10.20757000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79489,
+      "name": "Sauherad",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.39642000",
+      "longitude": "9.24910000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79493,
+      "name": "Seljord",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.48274000",
+      "longitude": "8.62672000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79498,
+      "name": "Siljan",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.28251000",
+      "longitude": "9.73368000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79508,
+      "name": "Skien",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.20748000",
+      "longitude": "9.61052000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79594,
+      "name": "Tinn",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.83486000",
+      "longitude": "9.13528000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79598,
+      "name": "Tokke",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.44569000",
+      "longitude": "8.01388000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79620,
+      "name": "Ulefoss",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.28245000",
+      "longitude": "9.26548000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79658,
+      "name": "Vinje",
+      "county": "Telemark",
+      "county_iso3166_2": "NO-40",
+      "latitude": "59.56924000",
+      "longitude": "7.98896000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Telemark (Cities and places in Telemark county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Telemark i Noreg (27 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Telemark county, Norway. Inneholder 27 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Telemark (Cities and places in Telemark county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Telemark (Cities and places in Telemark county, Norway) — 27 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 27 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

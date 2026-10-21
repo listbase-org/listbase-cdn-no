@@ -1,0 +1,176 @@
+{
+  "id": "no-maaleenheter-digital",
+  "name": "Maaleenheter: digital (11)",
+  "title": "Maaleenheter: digital (11)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'digital'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "digital-bit",
+      "kategori": "digital",
+      "navn": "bit",
+      "moenster_en": "{0} bit",
+      "moenster_flere": "{0} bit",
+      "kort_moenster": "{0} bit",
+      "smal_moenster": "{0}bit"
+    },
+    {
+      "id": 2,
+      "unit_code": "digital-byte",
+      "kategori": "digital",
+      "navn": "byte",
+      "moenster_en": "{0} byte",
+      "moenster_flere": "{0} byte",
+      "kort_moenster": "{0} B",
+      "smal_moenster": "{0}B"
+    },
+    {
+      "id": 3,
+      "unit_code": "digital-gigabit",
+      "kategori": "digital",
+      "navn": "gigabit",
+      "moenster_en": "{0} gigabit",
+      "moenster_flere": "{0} gigabit",
+      "kort_moenster": "{0} Gb",
+      "smal_moenster": "{0}Gb"
+    },
+    {
+      "id": 4,
+      "unit_code": "digital-gigabyte",
+      "kategori": "digital",
+      "navn": "gigabyte",
+      "moenster_en": "{0} gigabyte",
+      "moenster_flere": "{0} gigabyte",
+      "kort_moenster": "{0} GB",
+      "smal_moenster": "{0}GB"
+    },
+    {
+      "id": 5,
+      "unit_code": "digital-kilobit",
+      "kategori": "digital",
+      "navn": "kilobit",
+      "moenster_en": "{0} kilobit",
+      "moenster_flere": "{0} kilobit",
+      "kort_moenster": "{0} kb",
+      "smal_moenster": "{0}kb"
+    },
+    {
+      "id": 6,
+      "unit_code": "digital-kilobyte",
+      "kategori": "digital",
+      "navn": "kilobyte",
+      "moenster_en": "{0} kilobyte",
+      "moenster_flere": "{0} kilobyte",
+      "kort_moenster": "{0} kB",
+      "smal_moenster": "{0}kB"
+    },
+    {
+      "id": 7,
+      "unit_code": "digital-megabit",
+      "kategori": "digital",
+      "navn": "megabit",
+      "moenster_en": "{0} megabit",
+      "moenster_flere": "{0} megabit",
+      "kort_moenster": "{0} Mb",
+      "smal_moenster": "{0}Mb"
+    },
+    {
+      "id": 8,
+      "unit_code": "digital-megabyte",
+      "kategori": "digital",
+      "navn": "megabyte",
+      "moenster_en": "{0} megabyte",
+      "moenster_flere": "{0} megabyte",
+      "kort_moenster": "{0} MB",
+      "smal_moenster": "{0}MB"
+    },
+    {
+      "id": 9,
+      "unit_code": "digital-petabyte",
+      "kategori": "digital",
+      "navn": "petabyte",
+      "moenster_en": "{0} petabyte",
+      "moenster_flere": "{0} petabyte",
+      "kort_moenster": "{0} PB",
+      "smal_moenster": "{0}PB"
+    },
+    {
+      "id": 10,
+      "unit_code": "digital-terabit",
+      "kategori": "digital",
+      "navn": "terabit",
+      "moenster_en": "{0} terabit",
+      "moenster_flere": "{0} terabit",
+      "kort_moenster": "{0} Tb",
+      "smal_moenster": "{0}Tb"
+    },
+    {
+      "id": 11,
+      "unit_code": "digital-terabyte",
+      "kategori": "digital",
+      "navn": "terabyte",
+      "moenster_en": "{0} terabyte",
+      "moenster_flere": "{0} terabyte",
+      "kort_moenster": "{0} TB",
+      "smal_moenster": "{0}TB"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: digital (11) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'digital'. Inneholder 11 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: digital (11) | ListBase",
+    "seo_description": "Last ned Maaleenheter: digital (11) — 11 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 11 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,727 @@
+{
+  "id": "no-innlandet-byer",
+  "name": "Byer og steder i Innlandet (Cities and places in Innlandet county, Norway)",
+  "title": "Byer og steder i Innlandet (Cities and places in Innlandet county, Norway)",
+  "description": "Byer og steder i fylket Innlandet i Noreg (74 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Innlandet county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79040,
+      "name": "Alvdal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "62.10854000",
+      "longitude": "10.63483000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79059,
+      "name": "Bagn",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.82249000",
+      "longitude": "9.55207000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79089,
+      "name": "Brumunddal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.88095000",
+      "longitude": "10.93948000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79101,
+      "name": "Dokka",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.83500000",
+      "longitude": "10.07362000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79102,
+      "name": "Dombås",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "62.07554000",
+      "longitude": "9.12785000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79103,
+      "name": "Dovre",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.98582000",
+      "longitude": "9.24947000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79114,
+      "name": "Eidskog",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "59.98556000",
+      "longitude": "12.12502000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79122,
+      "name": "Elverum",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.88159000",
+      "longitude": "11.56314000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79124,
+      "name": "Engerdal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.75774000",
+      "longitude": "11.95966000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79127,
+      "name": "Etnedal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.88872000",
+      "longitude": "9.64031000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79131,
+      "name": "Fagernes",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.98584000",
+      "longitude": "9.23236000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79154,
+      "name": "Folldal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "62.13329000",
+      "longitude": "9.99710000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79157,
+      "name": "Fossbergom",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.83772000",
+      "longitude": "8.56842000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79173,
+      "name": "Gausdal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.22685000",
+      "longitude": "10.22145000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79180,
+      "name": "Gjøvik",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.79472000",
+      "longitude": "10.69287000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79185,
+      "name": "Gran",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.39293000",
+      "longitude": "10.56045000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79191,
+      "name": "Grua",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.25701000",
+      "longitude": "10.66222000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79192,
+      "name": "Grue",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.45133000",
+      "longitude": "12.05489000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79201,
+      "name": "Hamar",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.79450000",
+      "longitude": "11.06798000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79237,
+      "name": "Hov",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.69870000",
+      "longitude": "10.35193000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79238,
+      "name": "Hundorp",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.55523000",
+      "longitude": "9.94069000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79254,
+      "name": "Innbygda",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.31484000",
+      "longitude": "12.26374000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79257,
+      "name": "Jevnaker",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.24060000",
+      "longitude": "10.38587000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79271,
+      "name": "Kirkenær",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.45790000",
+      "longitude": "12.05855000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79282,
+      "name": "Kongsvinger",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.19117000",
+      "longitude": "11.99916000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79284,
+      "name": "Koppang",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.57219000",
+      "longitude": "11.04659000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79315,
+      "name": "Lena",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.67391000",
+      "longitude": "10.81317000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79318,
+      "name": "Lesja",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "62.11785000",
+      "longitude": "8.86262000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79323,
+      "name": "Lillehammer",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.11464000",
+      "longitude": "10.46743000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79327,
+      "name": "Lom",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.83639000",
+      "longitude": "8.56811000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79333,
+      "name": "Lunner",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.29462000",
+      "longitude": "10.60860000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79347,
+      "name": "Løten",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.81771000",
+      "longitude": "11.34373000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79369,
+      "name": "Moelv",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.93333000",
+      "longitude": "10.70000000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79402,
+      "name": "Nord-Aurdal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.98531000",
+      "longitude": "9.23661000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79403,
+      "name": "Nord-Fron",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.59556000",
+      "longitude": "9.74830000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79404,
+      "name": "Nord-Odal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.39195000",
+      "longitude": "11.54151000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79408,
+      "name": "Nordre Land",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.83471000",
+      "longitude": "10.07543000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79422,
+      "name": "Os",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "62.49536000",
+      "longitude": "11.22807000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79427,
+      "name": "Otta",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.77120000",
+      "longitude": "9.53529000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79439,
+      "name": "Raufoss",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.72604000",
+      "longitude": "10.61330000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79443,
+      "name": "Reinsvoll",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.67977000",
+      "longitude": "10.62175000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79444,
+      "name": "Rena",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.13222000",
+      "longitude": "11.37156000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79445,
+      "name": "Rendalen",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.89004000",
+      "longitude": "11.07694000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79450,
+      "name": "Ringebu",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.52980000",
+      "longitude": "10.14180000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79452,
+      "name": "Ringsaker",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.88216000",
+      "longitude": "10.95030000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79477,
+      "name": "Sand",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.39220000",
+      "longitude": "11.54030000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79490,
+      "name": "Sel",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.77278000",
+      "longitude": "9.53415000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79504,
+      "name": "Skarnes",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.25391000",
+      "longitude": "11.68485000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79512,
+      "name": "Skjåk",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.88349000",
+      "longitude": "8.26490000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79519,
+      "name": "Skotterud",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "59.98281000",
+      "longitude": "12.12825000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79520,
+      "name": "Skreia",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.65257000",
+      "longitude": "10.93564000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79535,
+      "name": "Spetalen",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.18333000",
+      "longitude": "11.90000000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79537,
+      "name": "Stange",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.71576000",
+      "longitude": "11.19069000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79547,
+      "name": "Stor-Elvdal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.57198000",
+      "longitude": "11.04759000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79578,
+      "name": "Søndre Land",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.69944000",
+      "longitude": "10.35086000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79579,
+      "name": "Sør-Aurdal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.82242000",
+      "longitude": "9.54836000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79580,
+      "name": "Sør-Fron",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.55652000",
+      "longitude": "9.93949000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79581,
+      "name": "Sør-Odal",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.25455000",
+      "longitude": "11.68246000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79599,
+      "name": "Tolga",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "62.40984000",
+      "longitude": "10.99770000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79606,
+      "name": "Tretten",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.31423000",
+      "longitude": "10.30066000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79610,
+      "name": "Trysil",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.31549000",
+      "longitude": "12.26422000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79615,
+      "name": "Tynset",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "62.27387000",
+      "longitude": "10.77626000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79630,
+      "name": "Vang",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.12564000",
+      "longitude": "8.57167000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79645,
+      "name": "Vestre Slidre",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.08842000",
+      "longitude": "8.98196000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79646,
+      "name": "Vestre Toten",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.72593000",
+      "longitude": "10.60764000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79659,
+      "name": "Vinstra",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.59496000",
+      "longitude": "9.75134000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79665,
+      "name": "Vågå",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.87565000",
+      "longitude": "9.09572000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79666,
+      "name": "Vågåmo",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.87505000",
+      "longitude": "9.09671000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79667,
+      "name": "Våler",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.67845000",
+      "longitude": "11.83314000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79679,
+      "name": "Åmot",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.13199000",
+      "longitude": "11.37328000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79690,
+      "name": "Åsnes",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.61363000",
+      "longitude": "12.01200000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79699,
+      "name": "Østre Toten",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "60.67659000",
+      "longitude": "10.81997000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79701,
+      "name": "Øyer",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.26495000",
+      "longitude": "10.41297000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79704,
+      "name": "Øystre Slidre",
+      "county": "Innlandet",
+      "county_iso3166_2": "NO-34",
+      "latitude": "61.13377000",
+      "longitude": "9.07872000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Innlandet (Cities and places in Innlandet county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Innlandet i Noreg (74 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Innlandet county, Norway. Inneholder 74 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Innlandet (Cities and places in Innlandet county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Innlandet (Cities and places in Innlandet county, Norway) — 74 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 74 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

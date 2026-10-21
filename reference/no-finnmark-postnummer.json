@@ -1,0 +1,1248 @@
+{
+  "id": "no-finnmark-postnummer",
+  "name": "Postnummer i Finnmark",
+  "title": "Postnummer i Finnmark",
+  "description": "Alle 149 postnummer i Finnmark fylke med poststed og kommune.",
+  "category": "reference",
+  "source": "https://github.com/aprestmo/norway-geodata",
+  "source_url": "https://github.com/aprestmo/norway-geodata",
+  "updated": "2026-04",
+  "record_count": 149,
+  "columns": [
+    {
+      "key": "postnummer",
+      "label": "Postnummer",
+      "type": "number"
+    },
+    {
+      "key": "poststed",
+      "label": "Poststed",
+      "type": "string"
+    },
+    {
+      "key": "kommune_id",
+      "label": "Kommune Id",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke_id",
+      "label": "Fylke Id",
+      "type": "number"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "postnummer": "9186",
+      "poststed": "Andsnes",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9501",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9502",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9503",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9504",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9505",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9506",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9507",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9508",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9509",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9510",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9511",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9512",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9513",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9514",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9515",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9516",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9517",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9518",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9519",
+      "poststed": "Kviby",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9520",
+      "poststed": "Kautokeino",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9521",
+      "poststed": "Kautokeino",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9522",
+      "poststed": "Kautokeino",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9523",
+      "poststed": "Kautokeino",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9524",
+      "poststed": "Kautokeino",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9525",
+      "poststed": "Maze",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9527",
+      "poststed": "Kautokeino",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9528",
+      "poststed": "Kautokeino",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9529",
+      "poststed": "Kautokeino",
+      "kommune_id": "5612",
+      "kommune": "Guovdageaidnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9531",
+      "poststed": "Kvalfjord",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9532",
+      "poststed": "Hakkstabben",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9533",
+      "poststed": "Kongshus",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9536",
+      "poststed": "Korsfjorden",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9537",
+      "poststed": "Tverrelvdalen",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9538",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9540",
+      "poststed": "Talvik",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9541",
+      "poststed": "Alta",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9545",
+      "poststed": "Langfjordbotn",
+      "kommune_id": "5601",
+      "kommune": "Alta",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9550",
+      "poststed": "Øksfjord",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9552",
+      "poststed": "Øksfjorden",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9580",
+      "poststed": "Bergsfjord",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9582",
+      "poststed": "Nuvsvåg",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9583",
+      "poststed": "Langfjordhamn",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9584",
+      "poststed": "Sør-Tverrfjord",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9585",
+      "poststed": "Sandland",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9586",
+      "poststed": "Loppa",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9587",
+      "poststed": "Skavnakk",
+      "kommune_id": "5614",
+      "kommune": "Loppa",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9590",
+      "poststed": "Hasvik",
+      "kommune_id": "5616",
+      "kommune": "Hasvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9591",
+      "poststed": "Hasvik",
+      "kommune_id": "5616",
+      "kommune": "Hasvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9593",
+      "poststed": "Breivikbotn",
+      "kommune_id": "5616",
+      "kommune": "Hasvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9595",
+      "poststed": "Sørvær",
+      "kommune_id": "5616",
+      "kommune": "Hasvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9600",
+      "poststed": "Hammerfest",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9601",
+      "poststed": "Hammerfest",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9602",
+      "poststed": "Hammerfest",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9603",
+      "poststed": "Hammerfest",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9609",
+      "poststed": "Nordre Seiland",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9610",
+      "poststed": "Rypefjord",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9611",
+      "poststed": "Rypefjord",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9612",
+      "poststed": "Forsøl",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9615",
+      "poststed": "Hammerfest",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9616",
+      "poststed": "Hammerfest",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9620",
+      "poststed": "Kvalsund",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9621",
+      "poststed": "Kvalsund",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9624",
+      "poststed": "Revsneshamn",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9650",
+      "poststed": "Akkarfjord",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9651",
+      "poststed": "Langstrand",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9657",
+      "poststed": "Kårhamn",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9664",
+      "poststed": "Sandøybotn",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9670",
+      "poststed": "Tufjord",
+      "kommune_id": "5618",
+      "kommune": "Måsøy",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9672",
+      "poststed": "Ingøy",
+      "kommune_id": "5618",
+      "kommune": "Måsøy",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9690",
+      "poststed": "Havøysund",
+      "kommune_id": "5618",
+      "kommune": "Måsøy",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9691",
+      "poststed": "Havøysund",
+      "kommune_id": "5618",
+      "kommune": "Måsøy",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9692",
+      "poststed": "Måsøy",
+      "kommune_id": "5618",
+      "kommune": "Måsøy",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9700",
+      "poststed": "Lakselv",
+      "kommune_id": "5622",
+      "kommune": "Porsanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9709",
+      "poststed": "Porsangmoen",
+      "kommune_id": "5622",
+      "kommune": "Porsanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9710",
+      "poststed": "Indre Billefjord",
+      "kommune_id": "5622",
+      "kommune": "Porsanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9711",
+      "poststed": "Lakselv",
+      "kommune_id": "5622",
+      "kommune": "Porsanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9712",
+      "poststed": "Lakselv",
+      "kommune_id": "5622",
+      "kommune": "Porsanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9713",
+      "poststed": "Russenes",
+      "kommune_id": "5622",
+      "kommune": "Porsanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9714",
+      "poststed": "Snefjord",
+      "kommune_id": "5618",
+      "kommune": "Måsøy",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9715",
+      "poststed": "Kokelv",
+      "kommune_id": "5603",
+      "kommune": "Hammerfest",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9716",
+      "poststed": "Børselv",
+      "kommune_id": "5622",
+      "kommune": "Porsanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9717",
+      "poststed": "Veidnes",
+      "kommune_id": "5624",
+      "kommune": "Lebesby",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9722",
+      "poststed": "Skoganvarre",
+      "kommune_id": "5622",
+      "kommune": "Porsanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9730",
+      "poststed": "Karasjok",
+      "kommune_id": "5610",
+      "kommune": "Kárášjohka",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9731",
+      "poststed": "Karasjok",
+      "kommune_id": "5610",
+      "kommune": "Kárášjohka",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9732",
+      "poststed": "Karasjok",
+      "kommune_id": "5610",
+      "kommune": "Kárášjohka",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9733",
+      "poststed": "Karasjok",
+      "kommune_id": "5610",
+      "kommune": "Kárášjohka",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9734",
+      "poststed": "Karasjok",
+      "kommune_id": "5610",
+      "kommune": "Kárášjohka",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9735",
+      "poststed": "Karasjok",
+      "kommune_id": "5610",
+      "kommune": "Kárášjohka",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9736",
+      "poststed": "Karasjok",
+      "kommune_id": "5610",
+      "kommune": "Kárášjohka",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9737",
+      "poststed": "Karasjok",
+      "kommune_id": "5610",
+      "kommune": "Kárášjohka",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9740",
+      "poststed": "Lebesby",
+      "kommune_id": "5624",
+      "kommune": "Lebesby",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9742",
+      "poststed": "Kunes",
+      "kommune_id": "5624",
+      "kommune": "Lebesby",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9750",
+      "poststed": "Honningsvåg",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9751",
+      "poststed": "Honningsvåg",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9760",
+      "poststed": "Nordvågen",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9762",
+      "poststed": "Kamøyvær",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9763",
+      "poststed": "Skarsvåg",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9764",
+      "poststed": "Nordkapp",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9765",
+      "poststed": "Gjesvær",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9766",
+      "poststed": "Sarnes",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9768",
+      "poststed": "Repvåg",
+      "kommune_id": "5620",
+      "kommune": "Nordkapp",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9770",
+      "poststed": "Mehamn",
+      "kommune_id": "5626",
+      "kommune": "Gamvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9771",
+      "poststed": "Skjånes",
+      "kommune_id": "5626",
+      "kommune": "Gamvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9772",
+      "poststed": "Langfjordnes",
+      "kommune_id": "5626",
+      "kommune": "Gamvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9773",
+      "poststed": "Nervei",
+      "kommune_id": "5626",
+      "kommune": "Gamvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9775",
+      "poststed": "Gamvik",
+      "kommune_id": "5626",
+      "kommune": "Gamvik",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9782",
+      "poststed": "Dyfjord",
+      "kommune_id": "5624",
+      "kommune": "Lebesby",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9790",
+      "poststed": "Kjøllefjord",
+      "kommune_id": "5624",
+      "kommune": "Lebesby",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9800",
+      "poststed": "Vadsø",
+      "kommune_id": "5607",
+      "kommune": "Vadsø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9801",
+      "poststed": "Vadsø",
+      "kommune_id": "5607",
+      "kommune": "Vadsø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9802",
+      "poststed": "Vestre Jakobselv",
+      "kommune_id": "5607",
+      "kommune": "Vadsø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9803",
+      "poststed": "Vadsø",
+      "kommune_id": "5607",
+      "kommune": "Vadsø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9804",
+      "poststed": "Vadsø",
+      "kommune_id": "5607",
+      "kommune": "Vadsø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9810",
+      "poststed": "Vestre Jakobselv",
+      "kommune_id": "5607",
+      "kommune": "Vadsø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9811",
+      "poststed": "Vadsø",
+      "kommune_id": "5607",
+      "kommune": "Vadsø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9815",
+      "poststed": "Vadsø",
+      "kommune_id": "5607",
+      "kommune": "Vadsø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9820",
+      "poststed": "Varangerbotn",
+      "kommune_id": "5636",
+      "kommune": "Unjárga",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9826",
+      "poststed": "Sirma",
+      "kommune_id": "5628",
+      "kommune": "Deatnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9840",
+      "poststed": "Varangerbotn",
+      "kommune_id": "5636",
+      "kommune": "Unjárga",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9841",
+      "poststed": "Tana",
+      "kommune_id": "5628",
+      "kommune": "Deatnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9842",
+      "poststed": "Tana",
+      "kommune_id": "5628",
+      "kommune": "Deatnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9843",
+      "poststed": "Tana",
+      "kommune_id": "5628",
+      "kommune": "Deatnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9844",
+      "poststed": "Tana",
+      "kommune_id": "5628",
+      "kommune": "Deatnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9845",
+      "poststed": "Tana",
+      "kommune_id": "5628",
+      "kommune": "Deatnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9846",
+      "poststed": "Tana",
+      "kommune_id": "5628",
+      "kommune": "Deatnu",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9900",
+      "poststed": "Kirkenes",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9901",
+      "poststed": "Kirkenes",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9910",
+      "poststed": "Bjørnevatn",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9911",
+      "poststed": "Jarfjord",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9912",
+      "poststed": "Hesseng",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9914",
+      "poststed": "Bjørnevatn",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9915",
+      "poststed": "Kirkenes",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9916",
+      "poststed": "Hesseng",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9917",
+      "poststed": "Kirkenes",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9925",
+      "poststed": "Svanvik",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9926",
+      "poststed": "Pasvik",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9930",
+      "poststed": "Neiden",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9935",
+      "poststed": "Bugøynes",
+      "kommune_id": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9950",
+      "poststed": "Vardø",
+      "kommune_id": "5634",
+      "kommune": "Vardø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9951",
+      "poststed": "Vardø",
+      "kommune_id": "5634",
+      "kommune": "Vardø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9952",
+      "poststed": "Vardø",
+      "kommune_id": "5634",
+      "kommune": "Vardø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9955",
+      "poststed": "Svartnes",
+      "kommune_id": "5634",
+      "kommune": "Vardø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9960",
+      "poststed": "Kiberg",
+      "kommune_id": "5634",
+      "kommune": "Vardø",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9980",
+      "poststed": "Berlevåg",
+      "kommune_id": "5630",
+      "kommune": "Berlevåg",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9981",
+      "poststed": "Berlevåg",
+      "kommune_id": "5630",
+      "kommune": "Berlevåg",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9982",
+      "poststed": "Kongsfjord",
+      "kommune_id": "5630",
+      "kommune": "Berlevåg",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    },
+    {
+      "postnummer": "9990",
+      "poststed": "Båtsfjord",
+      "kommune_id": "5632",
+      "kommune": "Båtsfjord",
+      "fylke_id": "56",
+      "fylke": "Finnmark"
+    }
+  ],
+  "meta": {
+    "title": "Postnummer i Finnmark - Gratis nedlasting",
+    "description": "Alle 149 postnummer i Finnmark fylke med poststed og kommune. Inneholder 149 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Postnummer i Finnmark | ListBase",
+    "seo_description": "Last ned Postnummer i Finnmark — 149 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 149 poster / 6 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: https://github.com/aprestmo/norway-geodata"
+    ]
+  }
+}

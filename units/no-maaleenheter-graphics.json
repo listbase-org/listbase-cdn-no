@@ -1,0 +1,146 @@
+{
+  "id": "no-maaleenheter-graphics",
+  "name": "Maaleenheter: graphics (8)",
+  "title": "Maaleenheter: graphics (8)",
+  "description": "CLDR no-lokalets maaleenheter i kategorien 'graphics'.",
+  "category": "units",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "kategori",
+      "label": "Kategori",
+      "type": "string"
+    },
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "moenster_en",
+      "label": "Moenster En",
+      "type": "string"
+    },
+    {
+      "key": "moenster_flere",
+      "label": "Moenster Flere",
+      "type": "string"
+    },
+    {
+      "key": "kort_moenster",
+      "label": "Kort Moenster",
+      "type": "string"
+    },
+    {
+      "key": "smal_moenster",
+      "label": "Smal Moenster",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "unit_code": "graphics-dot",
+      "kategori": "graphics",
+      "navn": "punkt",
+      "moenster_en": "{0} punkt",
+      "moenster_flere": "{0} punkter",
+      "kort_moenster": "{0} pkt",
+      "smal_moenster": "{0} pkt"
+    },
+    {
+      "id": 2,
+      "unit_code": "graphics-dot-per-centimeter",
+      "kategori": "graphics",
+      "navn": "punkter per centimeter",
+      "moenster_en": "{0} punkt per centimeter",
+      "moenster_flere": "{0} punkter per centimeter",
+      "kort_moenster": "",
+      "smal_moenster": ""
+    },
+    {
+      "id": 3,
+      "unit_code": "graphics-dot-per-inch",
+      "kategori": "graphics",
+      "navn": "punkter per tomme",
+      "moenster_en": "{0} punkt per tomme",
+      "moenster_flere": "{0} punkter per tomme",
+      "kort_moenster": "{0} dpi",
+      "smal_moenster": "{0} dpi"
+    },
+    {
+      "id": 4,
+      "unit_code": "graphics-em",
+      "kategori": "graphics",
+      "navn": "gefirt",
+      "moenster_en": "{0} gefirt",
+      "moenster_flere": "{0} gefirt",
+      "kort_moenster": "{0} gefirt",
+      "smal_moenster": "{0} gefirt"
+    },
+    {
+      "id": 5,
+      "unit_code": "graphics-megapixel",
+      "kategori": "graphics",
+      "navn": "megapiksler",
+      "moenster_en": "{0} megapiksel",
+      "moenster_flere": "{0} megapiksler",
+      "kort_moenster": "{0} MP",
+      "smal_moenster": "{0} MP"
+    },
+    {
+      "id": 6,
+      "unit_code": "graphics-pixel",
+      "kategori": "graphics",
+      "navn": "piksler",
+      "moenster_en": "{0} piksel",
+      "moenster_flere": "{0} piksler",
+      "kort_moenster": "{0} px",
+      "smal_moenster": "{0} px"
+    },
+    {
+      "id": 7,
+      "unit_code": "graphics-pixel-per-centimeter",
+      "kategori": "graphics",
+      "navn": "piksler per centimeter",
+      "moenster_en": "{0} piksel per centimeter",
+      "moenster_flere": "{0} piksler per centimeter",
+      "kort_moenster": "{0} ppcm",
+      "smal_moenster": "{0} ppcm"
+    },
+    {
+      "id": 8,
+      "unit_code": "graphics-pixel-per-inch",
+      "kategori": "graphics",
+      "navn": "piksler per tomme",
+      "moenster_en": "{0} piksel per tomme",
+      "moenster_flere": "{0} piksler per tomme",
+      "kort_moenster": "{0} ppi",
+      "smal_moenster": "{0} ppi"
+    }
+  ],
+  "meta": {
+    "title": "Maaleenheter: graphics (8) - Gratis nedlasting",
+    "description": "CLDR no-lokalets maaleenheter i kategorien 'graphics'. Inneholder 8 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Maaleenheter: graphics (8) | ListBase",
+    "seo_description": "Last ned Maaleenheter: graphics (8) — 8 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 8 poster / 8 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

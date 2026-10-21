@@ -1,0 +1,701 @@
+{
+  "id": "no-landbruksbutikker",
+  "name": "Agrarian supply shops in Norway",
+  "title": "Agrarian supply shops in Norway",
+  "description": "Agrarian supply shops in Norway (Landbruksbutikker i Norge), derived from OpenStreetMap POIs tagged shop=agrarian. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 132,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Akershus Traktor",
+      "latitude": 60.835775,
+      "longitude": 11.097034
+    },
+    {
+      "name": "Akershus Traktor",
+      "latitude": 64.009382,
+      "longitude": 11.492635
+    },
+    {
+      "name": "Apal sideri",
+      "latitude": 59.236877,
+      "longitude": 6.183903
+    },
+    {
+      "name": "Bondekompaniet",
+      "latitude": 59.763856,
+      "longitude": 5.447695
+    },
+    {
+      "name": "BondeKompaniet Etne – Felleskjøpet Rogaland Agder",
+      "latitude": 59.663187,
+      "longitude": 5.942857
+    },
+    {
+      "name": "Eik Senteret",
+      "latitude": 60.40292,
+      "longitude": 10.540659
+    },
+    {
+      "name": "Eiksenteret",
+      "latitude": 59.406245,
+      "longitude": 5.45287
+    },
+    {
+      "name": "Eiksenteret Kløfta",
+      "latitude": 60.072814,
+      "longitude": 11.151997
+    },
+    {
+      "name": "Eiksenteret Malmefjorden",
+      "latitude": 62.819114,
+      "longitude": 7.237903
+    },
+    {
+      "name": "Felleskjøpet",
+      "latitude": 58.836769,
+      "longitude": 5.733149
+    },
+    {
+      "name": "Felleskjøpet",
+      "latitude": 58.943528,
+      "longitude": 5.750919
+    },
+    {
+      "name": "Felleskjøpet",
+      "latitude": 60.348678,
+      "longitude": 5.291365
+    },
+    {
+      "name": "Felleskjøpet",
+      "latitude": 61.572088,
+      "longitude": 11.043592
+    },
+    {
+      "name": "Felleskjøpet Alta",
+      "latitude": 69.962685,
+      "longitude": 23.230654
+    },
+    {
+      "name": "Felleskjøpet Alvdal",
+      "latitude": 62.126492,
+      "longitude": 10.558192
+    },
+    {
+      "name": "Felleskjøpet Askim",
+      "latitude": 59.580439,
+      "longitude": 11.171729
+    },
+    {
+      "name": "Felleskjøpet Barkåker",
+      "latitude": 59.311887,
+      "longitude": 10.383824
+    },
+    {
+      "name": "Felleskjøpet Bjørkelangen",
+      "latitude": 59.887108,
+      "longitude": 11.570687
+    },
+    {
+      "name": "Felleskjøpet Bodø",
+      "latitude": 67.281512,
+      "longitude": 14.414034
+    },
+    {
+      "name": "Felleskjøpet Bogøy",
+      "latitude": 67.900072,
+      "longitude": 15.192783
+    },
+    {
+      "name": "Felleskjøpet Brekstad",
+      "latitude": 63.687415,
+      "longitude": 9.666859
+    },
+    {
+      "name": "Felleskjøpet Brønnøysund",
+      "latitude": 65.488791,
+      "longitude": 12.229208
+    },
+    {
+      "name": "Felleskjøpet Bybutikk",
+      "latitude": 59.897534,
+      "longitude": 10.621682
+    },
+    {
+      "name": "Felleskjøpet Bø i Telemark",
+      "latitude": 59.410458,
+      "longitude": 9.073552
+    },
+    {
+      "name": "Felleskjøpet Dokka",
+      "latitude": 60.835721,
+      "longitude": 10.052543
+    },
+    {
+      "name": "Felleskjøpet Dombås",
+      "latitude": 62.072339,
+      "longitude": 9.125022
+    },
+    {
+      "name": "Felleskjøpet Drammen",
+      "latitude": 59.736644,
+      "longitude": 10.224637
+    },
+    {
+      "name": "Felleskjøpet Eidsvoll",
+      "latitude": 60.328411,
+      "longitude": 11.247296
+    },
+    {
+      "name": "Felleskjøpet Elnesvågen",
+      "latitude": 62.851602,
+      "longitude": 7.137933
+    },
+    {
+      "name": "Felleskjøpet Elverum",
+      "latitude": 60.880501,
+      "longitude": 11.548106
+    },
+    {
+      "name": "Felleskjøpet Fagernes",
+      "latitude": 60.995505,
+      "longitude": 9.215856
+    },
+    {
+      "name": "Felleskjøpet Fannrem",
+      "latitude": 63.267851,
+      "longitude": 9.809745
+    },
+    {
+      "name": "Felleskjøpet Finnsnes",
+      "latitude": 69.230804,
+      "longitude": 18.000726
+    },
+    {
+      "name": "Felleskjøpet Flisa",
+      "latitude": 60.613284,
+      "longitude": 12.007391
+    },
+    {
+      "name": "Felleskjøpet Fredrikstad",
+      "latitude": 59.244585,
+      "longitude": 10.983784
+    },
+    {
+      "name": "Felleskjøpet Førde",
+      "latitude": 61.45752,
+      "longitude": 5.846506
+    },
+    {
+      "name": "Felleskjøpet Gjøvik",
+      "latitude": 60.785156,
+      "longitude": 10.667804
+    },
+    {
+      "name": "Felleskjøpet Gol",
+      "latitude": 60.696937,
+      "longitude": 8.929907
+    },
+    {
+      "name": "Felleskjøpet Halden",
+      "latitude": 59.137764,
+      "longitude": 11.37846
+    },
+    {
+      "name": "Felleskjøpet Halsanaustan",
+      "latitude": 63.071329,
+      "longitude": 8.282762
+    },
+    {
+      "name": "Felleskjøpet Hamar",
+      "latitude": 60.808225,
+      "longitude": 11.119714
+    },
+    {
+      "name": "Felleskjøpet Harstad",
+      "latitude": 68.781305,
+      "longitude": 16.586249
+    },
+    {
+      "name": "Felleskjøpet Hokksund",
+      "latitude": 59.77334,
+      "longitude": 9.887962
+    },
+    {
+      "name": "Felleskjøpet Hønefoss",
+      "latitude": 60.174249,
+      "longitude": 10.258302
+    },
+    {
+      "name": "Felleskjøpet Kirkenær",
+      "latitude": 60.455434,
+      "longitude": 12.058492
+    },
+    {
+      "name": "Felleskjøpet Kløfta",
+      "latitude": 60.07957,
+      "longitude": 11.144963
+    },
+    {
+      "name": "Felleskjøpet Kokstad",
+      "latitude": 60.293266,
+      "longitude": 5.249641
+    },
+    {
+      "name": "Felleskjøpet Kongsvinger",
+      "latitude": 60.190904,
+      "longitude": 12.028788
+    },
+    {
+      "name": "Felleskjøpet Koppang",
+      "latitude": 61.572311,
+      "longitude": 11.044297
+    },
+    {
+      "name": "Felleskjøpet Kristiansund",
+      "latitude": 63.111586,
+      "longitude": 7.786577
+    },
+    {
+      "name": "Felleskjøpet Kyrksæterøra",
+      "latitude": 63.289455,
+      "longitude": 9.0888
+    },
+    {
+      "name": "Felleskjøpet Larvik",
+      "latitude": 59.074855,
+      "longitude": 10.058665
+    },
+    {
+      "name": "Felleskjøpet Leinstrand",
+      "latitude": 63.325367,
+      "longitude": 10.30426
+    },
+    {
+      "name": "Felleskjøpet Leknes",
+      "latitude": 68.134632,
+      "longitude": 13.608456
+    },
+    {
+      "name": "Felleskjøpet Lena",
+      "latitude": 60.674396,
+      "longitude": 10.820287
+    },
+    {
+      "name": "Felleskjøpet Lena butikk",
+      "latitude": 60.675014,
+      "longitude": 10.821015
+    },
+    {
+      "name": "Felleskjøpet Lesja",
+      "latitude": 62.117937,
+      "longitude": 8.865925
+    },
+    {
+      "name": "Felleskjøpet Levanger",
+      "latitude": 63.73761,
+      "longitude": 11.280742
+    },
+    {
+      "name": "Felleskjøpet Lillehammer",
+      "latitude": 61.133831,
+      "longitude": 10.433343
+    },
+    {
+      "name": "Felleskjøpet Lunner",
+      "latitude": 60.306082,
+      "longitude": 10.599335
+    },
+    {
+      "name": "Felleskjøpet Lærdal",
+      "latitude": 61.100574,
+      "longitude": 7.474101
+    },
+    {
+      "name": "Felleskjøpet Manger",
+      "latitude": 60.640187,
+      "longitude": 5.055015
+    },
+    {
+      "name": "Felleskjøpet Maura",
+      "latitude": 60.260285,
+      "longitude": 11.034083
+    },
+    {
+      "name": "Felleskjøpet Mo i Rana",
+      "latitude": 66.318068,
+      "longitude": 14.150119
+    },
+    {
+      "name": "Felleskjøpet Molde",
+      "latitude": 62.740164,
+      "longitude": 7.191662
+    },
+    {
+      "name": "Felleskjøpet Mosjøen",
+      "latitude": 65.831858,
+      "longitude": 13.205115
+    },
+    {
+      "name": "Felleskjøpet Mysen",
+      "latitude": 59.555657,
+      "longitude": 11.322276
+    },
+    {
+      "name": "Felleskjøpet Nordfjordeid",
+      "latitude": 61.902388,
+      "longitude": 5.987915
+    },
+    {
+      "name": "Felleskjøpet Nordfjordeid",
+      "latitude": 61.90997,
+      "longitude": 6.005348
+    },
+    {
+      "name": "Felleskjøpet Nyborg",
+      "latitude": 60.483219,
+      "longitude": 5.375272
+    },
+    {
+      "name": "Felleskjøpet Oppdal",
+      "latitude": 62.591851,
+      "longitude": 9.685961
+    },
+    {
+      "name": "Felleskjøpet Otta",
+      "latitude": 61.777807,
+      "longitude": 9.538099
+    },
+    {
+      "name": "Felleskjøpet Rena",
+      "latitude": 61.132154,
+      "longitude": 11.368012
+    },
+    {
+      "name": "Felleskjøpet Rissa",
+      "latitude": 63.563355,
+      "longitude": 9.90116
+    },
+    {
+      "name": "Felleskjøpet Rudshøgda",
+      "latitude": 60.908208,
+      "longitude": 10.813434
+    },
+    {
+      "name": "Felleskjøpet Rygge",
+      "latitude": 59.39504,
+      "longitude": 10.731758
+    },
+    {
+      "name": "Felleskjøpet Røros",
+      "latitude": 62.573855,
+      "longitude": 11.380153
+    },
+    {
+      "name": "Felleskjøpet Rørvik",
+      "latitude": 64.862772,
+      "longitude": 11.229944
+    },
+    {
+      "name": "Felleskjøpet Sandane",
+      "latitude": 61.782729,
+      "longitude": 6.192241
+    },
+    {
+      "name": "Felleskjøpet Sandnessjøen",
+      "latitude": 66.011609,
+      "longitude": 12.624693
+    },
+    {
+      "name": "Felleskjøpet Sarpsborg",
+      "latitude": 59.269313,
+      "longitude": 11.085
+    },
+    {
+      "name": "Felleskjøpet Selbu",
+      "latitude": 63.217199,
+      "longitude": 11.026819
+    },
+    {
+      "name": "Felleskjøpet Sjøvegan",
+      "latitude": 68.875854,
+      "longitude": 17.832893
+    },
+    {
+      "name": "Felleskjøpet Skei i Jølster",
+      "latitude": 61.568604,
+      "longitude": 6.48199
+    },
+    {
+      "name": "Felleskjøpet Ski",
+      "latitude": 59.690617,
+      "longitude": 10.816708
+    },
+    {
+      "name": "Felleskjøpet Ski",
+      "latitude": 59.69096,
+      "longitude": 10.818723
+    },
+    {
+      "name": "Felleskjøpet Skien",
+      "latitude": 59.218675,
+      "longitude": 9.606239
+    },
+    {
+      "name": "Felleskjøpet Skjåk",
+      "latitude": 61.875094,
+      "longitude": 8.425192
+    },
+    {
+      "name": "Felleskjøpet Skollenborg",
+      "latitude": 59.625992,
+      "longitude": 9.682522
+    },
+    {
+      "name": "Felleskjøpet Skotterud",
+      "latitude": 59.974435,
+      "longitude": 12.155895
+    },
+    {
+      "name": "Felleskjøpet Sogndal",
+      "latitude": 61.227444,
+      "longitude": 7.100842
+    },
+    {
+      "name": "Felleskjøpet Sortland",
+      "latitude": 68.708862,
+      "longitude": 15.413321
+    },
+    {
+      "name": "Felleskjøpet Spillum",
+      "latitude": 64.455623,
+      "longitude": 11.532553
+    },
+    {
+      "name": "Felleskjøpet Spydeberg",
+      "latitude": 59.621891,
+      "longitude": 11.081789
+    },
+    {
+      "name": "Felleskjøpet Steinkjer",
+      "latitude": 64.012394,
+      "longitude": 11.488332
+    },
+    {
+      "name": "Felleskjøpet Stjørdal",
+      "latitude": 63.47432,
+      "longitude": 10.9149
+    },
+    {
+      "name": "Felleskjøpet Storsteinnes",
+      "latitude": 69.217504,
+      "longitude": 19.296741
+    },
+    {
+      "name": "Felleskjøpet Stryn",
+      "latitude": 61.90223,
+      "longitude": 6.71943
+    },
+    {
+      "name": "Felleskjøpet Sunndalsøra",
+      "latitude": 62.676129,
+      "longitude": 8.565466
+    },
+    {
+      "name": "Felleskjøpet Surnadal",
+      "latitude": 62.973516,
+      "longitude": 8.723629
+    },
+    {
+      "name": "Felleskjøpet Sømna",
+      "latitude": 65.37191,
+      "longitude": 12.194232
+    },
+    {
+      "name": "Felleskjøpet Sørkjosen",
+      "latitude": 69.794092,
+      "longitude": 20.943435
+    },
+    {
+      "name": "Felleskjøpet Tana",
+      "latitude": 70.202052,
+      "longitude": 28.175155
+    },
+    {
+      "name": "Felleskjøpet Tromsø",
+      "latitude": 69.676483,
+      "longitude": 18.922045
+    },
+    {
+      "name": "Felleskjøpet Trondheim",
+      "latitude": 63.424698,
+      "longitude": 10.464722
+    },
+    {
+      "name": "Felleskjøpet Tynset",
+      "latitude": 62.278896,
+      "longitude": 10.782243
+    },
+    {
+      "name": "Felleskjøpet Veggli",
+      "latitude": 60.038538,
+      "longitude": 9.167986
+    },
+    {
+      "name": "Felleskjøpet Verdal",
+      "latitude": 63.786047,
+      "longitude": 11.455508
+    },
+    {
+      "name": "Felleskjøpet Vikersund",
+      "latitude": 59.948157,
+      "longitude": 9.975871
+    },
+    {
+      "name": "Felleskjøpet Vinstra",
+      "latitude": 61.590498,
+      "longitude": 9.761385
+    },
+    {
+      "name": "Felleskjøpet Volda",
+      "latitude": 62.170339,
+      "longitude": 6.035885
+    },
+    {
+      "name": "Felleskjøpet Voss",
+      "latitude": 60.635357,
+      "longitude": 6.43996
+    },
+    {
+      "name": "Felleskjøpet Åfjord",
+      "latitude": 63.958256,
+      "longitude": 10.225645
+    },
+    {
+      "name": "Felleskjøpet Ålesund",
+      "latitude": 62.471508,
+      "longitude": 6.34181
+    },
+    {
+      "name": "Felleskjøpet Åndalsnes",
+      "latitude": 62.566082,
+      "longitude": 7.674975
+    },
+    {
+      "name": "Felleskjøpet Årnes",
+      "latitude": 60.12023,
+      "longitude": 11.462357
+    },
+    {
+      "name": "Felleskjøpet Ørje",
+      "latitude": 59.480762,
+      "longitude": 11.662848
+    },
+    {
+      "name": "Felleskjøpet Ørnes",
+      "latitude": 66.874434,
+      "longitude": 13.704802
+    },
+    {
+      "name": "Felleskjøpet Østre Gausdal",
+      "latitude": 61.226869,
+      "longitude": 10.206715
+    },
+    {
+      "name": "Felleskjøpet Øyer",
+      "latitude": 61.243874,
+      "longitude": 10.453416
+    },
+    {
+      "name": "Felleskjøpet Øystese",
+      "latitude": 60.388483,
+      "longitude": 6.197963
+    },
+    {
+      "name": "Gausdal Landhandleri",
+      "latitude": 59.891484,
+      "longitude": 11.559944
+    },
+    {
+      "name": "Lantmännen Maskin Midt-Norge AS",
+      "latitude": 63.782583,
+      "longitude": 11.472465
+    },
+    {
+      "name": "Lofthus Sideri",
+      "latitude": 60.332821,
+      "longitude": 6.661366
+    },
+    {
+      "name": "Mogard traktorservice",
+      "latitude": 61.88014,
+      "longitude": 8.256733
+    },
+    {
+      "name": "Mysen Kornsilo og Mølle SA",
+      "latitude": 59.55628,
+      "longitude": 11.324306
+    },
+    {
+      "name": "Norwegian Agro Lena",
+      "latitude": 60.672783,
+      "longitude": 10.811172
+    },
+    {
+      "name": "Odd og Sønn",
+      "latitude": 59.187901,
+      "longitude": 10.178692
+    },
+    {
+      "name": "Ritro Maskin",
+      "latitude": 64.007889,
+      "longitude": 11.492866
+    },
+    {
+      "name": "Soknedal Innkjøpslag",
+      "latitude": 62.950474,
+      "longitude": 10.189448
+    },
+    {
+      "name": "Åsen innkjøpslag SA",
+      "latitude": 63.610373,
+      "longitude": 11.053683
+    },
+    {
+      "name": "Østmøllene",
+      "latitude": 59.720174,
+      "longitude": 11.488867
+    }
+  ],
+  "meta": {
+    "title": "Agrarian supply shops in Norway - Gratis nedlasting",
+    "description": "Agrarian supply shops in Norway (Landbruksbutikker i Norge), derived from OpenStreetMap POIs tagged shop=agrarian. Named features only, clipped to mainland Norway. Inneholder 132 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Agrarian supply shops in Norway | ListBase",
+    "seo_description": "Last ned Agrarian supply shops in Norway — 132 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 132 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

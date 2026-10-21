@@ -1,0 +1,390 @@
+{
+  "id": "no-nordland-osm-museer",
+  "name": "Museer i Nordland – OpenStreetMap (29 museums in Nordland, OSM)",
+  "title": "Museer i Nordland – OpenStreetMap (29 museums in Nordland, OSM)",
+  "description": "Museer i fylket Nordland fra OpenStreetMap — delmengde av no-osm-museer, 29 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ballangen Museum",
+      "name_en": "",
+      "city": "Ballangen",
+      "fylke": "Nordland",
+      "naermeste_sted": "Ballangen",
+      "avstand_km": 2.235,
+      "latitude": 68.328564,
+      "longitude": 16.793072,
+      "website": ""
+    },
+    {
+      "name": "Bindal museum",
+      "name_en": "",
+      "city": "Terråk",
+      "fylke": "Nordland",
+      "naermeste_sted": "Terråk",
+      "avstand_km": 0.294,
+      "latitude": 65.089301,
+      "longitude": 12.374585,
+      "website": ""
+    },
+    {
+      "name": "Bremnes fort",
+      "name_en": "",
+      "city": "Løpsmarka",
+      "fylke": "Nordland",
+      "naermeste_sted": "Løpsmarka",
+      "avstand_km": 1.032,
+      "latitude": 67.321413,
+      "longitude": 14.461454,
+      "website": ""
+    },
+    {
+      "name": "Bygdesamling",
+      "name_en": "",
+      "city": "Mosjøen",
+      "fylke": "Nordland",
+      "naermeste_sted": "Mosjøen",
+      "avstand_km": 1.11,
+      "latitude": 65.843944,
+      "longitude": 13.205554,
+      "website": ""
+    },
+    {
+      "name": "Bø bygdemuseum",
+      "name_en": "",
+      "city": "Straume",
+      "fylke": "Nordland",
+      "naermeste_sted": "Straume",
+      "avstand_km": 8.019,
+      "latitude": 68.617678,
+      "longitude": 14.439168,
+      "website": ""
+    },
+    {
+      "name": "E-huset",
+      "name_en": "",
+      "city": "Gladstad",
+      "fylke": "Nordland",
+      "naermeste_sted": "Gladstad",
+      "avstand_km": 3.585,
+      "latitude": 65.706828,
+      "longitude": 11.933711,
+      "website": "http://visithelgeland.com/no/Rundreiser/?News=74"
+    },
+    {
+      "name": "Gamle handlessted",
+      "name_en": "",
+      "city": "Løding",
+      "fylke": "Nordland",
+      "naermeste_sted": "Løding",
+      "avstand_km": 24.299,
+      "latitude": 67.519033,
+      "longitude": 14.754811,
+      "website": ""
+    },
+    {
+      "name": "Hamsuncentret",
+      "name_en": "",
+      "city": "Oppeid",
+      "fylke": "Nordland",
+      "naermeste_sted": "Kjøpsvik",
+      "avstand_km": 30.504,
+      "latitude": 68.081748,
+      "longitude": 15.640185,
+      "website": ""
+    },
+    {
+      "name": "Hurtigrutemuseet",
+      "name_en": "",
+      "city": "Stokmarknes",
+      "fylke": "Nordland",
+      "naermeste_sted": "Stokmarknes",
+      "avstand_km": 0.489,
+      "latitude": 68.568994,
+      "longitude": 14.911446,
+      "website": ""
+    },
+    {
+      "name": "Jennestad Handelssted",
+      "name_en": "",
+      "city": "Sortland",
+      "fylke": "Nordland",
+      "naermeste_sted": "Sortland",
+      "avstand_km": 7.265,
+      "latitude": 68.751029,
+      "longitude": 15.309259,
+      "website": ""
+    },
+    {
+      "name": "Motormuset",
+      "name_en": "",
+      "city": "Ramberg",
+      "fylke": "Nordland",
+      "naermeste_sted": "Reine",
+      "avstand_km": 9.441,
+      "latitude": 68.004999,
+      "longitude": 13.207299,
+      "website": ""
+    },
+    {
+      "name": "Museum Nord - Lofotmuseet",
+      "name_en": "",
+      "city": "Kabelvåg",
+      "fylke": "Nordland",
+      "naermeste_sted": "Kabelvåg",
+      "avstand_km": 1.012,
+      "latitude": 68.207005,
+      "longitude": 14.453092,
+      "website": ""
+    },
+    {
+      "name": "Nordlyssenter",
+      "name_en": "",
+      "city": "Andenes",
+      "fylke": "Nordland",
+      "naermeste_sted": "Andenes",
+      "avstand_km": 1.145,
+      "latitude": 69.324539,
+      "longitude": 16.11619,
+      "website": ""
+    },
+    {
+      "name": "Petter Dass kapell",
+      "name_en": "",
+      "city": "Husøya",
+      "fylke": "Nordland",
+      "naermeste_sted": "Husøya",
+      "avstand_km": 0.662,
+      "latitude": 66.502718,
+      "longitude": 12.081829,
+      "website": ""
+    },
+    {
+      "name": "Politimestergården",
+      "name_en": "",
+      "city": "Mosjøen",
+      "fylke": "Nordland",
+      "naermeste_sted": "Mosjøen",
+      "avstand_km": 1.128,
+      "latitude": 65.844113,
+      "longitude": 13.205666,
+      "website": ""
+    },
+    {
+      "name": "Risbakken",
+      "name_en": "",
+      "city": "Gladstad",
+      "fylke": "Nordland",
+      "naermeste_sted": "Gladstad",
+      "avstand_km": 2.463,
+      "latitude": 65.693245,
+      "longitude": 11.926153,
+      "website": ""
+    },
+    {
+      "name": "Runde Miljøsenter",
+      "name_en": "",
+      "city": "Fosnavåg",
+      "fylke": "Nordland",
+      "naermeste_sted": "Fosnavåg",
+      "avstand_km": 6.501,
+      "latitude": 62.399094,
+      "longitude": 5.660148,
+      "website": "www.rundecentre.no"
+    },
+    {
+      "name": "Saltdal museum",
+      "name_en": "",
+      "city": "Rognan",
+      "fylke": "Nordland",
+      "naermeste_sted": "Rognan",
+      "avstand_km": 1.65,
+      "latitude": 67.101538,
+      "longitude": 15.428874,
+      "website": ""
+    },
+    {
+      "name": "Spaceship Aurora",
+      "name_en": "",
+      "city": "Andenes",
+      "fylke": "Nordland",
+      "naermeste_sted": "Andenes",
+      "avstand_km": 4.08,
+      "latitude": 69.295556,
+      "longitude": 16.030134,
+      "website": "http://www.spaceshipaurora.no/en"
+    },
+    {
+      "name": "St. Kunts kirken",
+      "name_en": "",
+      "city": "Brønnøysund",
+      "fylke": "Nordland",
+      "naermeste_sted": "Brønnøysund",
+      "avstand_km": 5.989,
+      "latitude": 65.522789,
+      "longitude": 12.272247,
+      "website": ""
+    },
+    {
+      "name": "Sund fiskerimuseum",
+      "name_en": "",
+      "city": "Ramberg",
+      "fylke": "Nordland",
+      "naermeste_sted": "Reine",
+      "avstand_km": 9.442,
+      "latitude": 68.00507,
+      "longitude": 13.207052,
+      "website": ""
+    },
+    {
+      "name": "Sømna bygdetun",
+      "name_en": "",
+      "city": "Vik",
+      "fylke": "Nordland",
+      "naermeste_sted": "Vik",
+      "avstand_km": 0.114,
+      "latitude": 65.312346,
+      "longitude": 12.164871,
+      "website": ""
+    },
+    {
+      "name": "Trandamperi",
+      "name_en": "",
+      "city": "Ramberg",
+      "fylke": "Nordland",
+      "naermeste_sted": "Ramberg",
+      "avstand_km": 7.966,
+      "latitude": 68.033984,
+      "longitude": 13.349788,
+      "website": ""
+    },
+    {
+      "name": "Træna Bygdemuseum",
+      "name_en": "",
+      "city": "Husøya",
+      "fylke": "Nordland",
+      "naermeste_sted": "Husøya",
+      "avstand_km": 0.12,
+      "latitude": 66.500539,
+      "longitude": 12.096968,
+      "website": ""
+    },
+    {
+      "name": "Tørrfisk-Museum",
+      "name_en": "",
+      "city": "Reine",
+      "fylke": "Nordland",
+      "naermeste_sted": "Reine",
+      "avstand_km": 7.112,
+      "latitude": 67.882235,
+      "longitude": 12.984326,
+      "website": ""
+    },
+    {
+      "name": "Vestvågøy museum",
+      "name_en": "",
+      "city": "Leknes",
+      "fylke": "Nordland",
+      "naermeste_sted": "Leknes",
+      "avstand_km": 1.495,
+      "latitude": 68.145085,
+      "longitude": 13.647025,
+      "website": ""
+    },
+    {
+      "name": "Wangbrygga",
+      "name_en": "",
+      "city": "Hemnesberget",
+      "fylke": "Nordland",
+      "naermeste_sted": "Hemnesberget",
+      "avstand_km": 10.568,
+      "latitude": 66.217283,
+      "longitude": 13.381455,
+      "website": ""
+    },
+    {
+      "name": "Warmuseum",
+      "name_en": "",
+      "city": "Narvik",
+      "fylke": "Nordland",
+      "naermeste_sted": "Narvik",
+      "avstand_km": 0.065,
+      "latitude": 68.437988,
+      "longitude": 17.428319,
+      "website": ""
+    },
+    {
+      "name": "vesteraalsmuseet",
+      "name_en": "",
+      "city": "Melbu",
+      "fylke": "Nordland",
+      "naermeste_sted": "Melbu",
+      "avstand_km": 0.161,
+      "latitude": 68.503947,
+      "longitude": 14.799844,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Nordland – OpenStreetMap (29 museums in Nordland, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Nordland fra OpenStreetMap — delmengde av no-osm-museer, 29 poster. Inneholder 29 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Nordland – OpenStreetMap (29 museums in Nordland, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Nordland – OpenStreetMap (29 museums in Nordland, OSM) — 29 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 29 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

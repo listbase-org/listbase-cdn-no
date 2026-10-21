@@ -1,0 +1,1886 @@
+{
+  "id": "no-osm-man-made-monitoring-station",
+  "name": "Named monitoring stations in Norway",
+  "title": "Named monitoring stations in Norway",
+  "description": "Named monitoring stations in Norway, derived from OpenStreetMap POI nodes tagged man_made=monitoring_station in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 369,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ambjørndalen",
+      "latitude": 59.587219,
+      "longitude": 8.584996
+    },
+    {
+      "name": "Anda fyr",
+      "latitude": 69.066442,
+      "longitude": 15.17019
+    },
+    {
+      "name": "Andøya",
+      "latitude": 69.241377,
+      "longitude": 16.003809
+    },
+    {
+      "name": "Andøya",
+      "latitude": 69.3073,
+      "longitude": 16.1312
+    },
+    {
+      "name": "Balbergkampen",
+      "latitude": 61.151667,
+      "longitude": 10.445833
+    },
+    {
+      "name": "Bavallstoppen",
+      "latitude": 60.646122,
+      "longitude": 6.402425
+    },
+    {
+      "name": "Beitostølen II",
+      "latitude": 61.2508,
+      "longitude": 8.9228
+    },
+    {
+      "name": "Bergen - Florida",
+      "latitude": 60.383,
+      "longitude": 5.3327
+    },
+    {
+      "name": "Berlevåg",
+      "latitude": 70.510651,
+      "longitude": 29.018382
+    },
+    {
+      "name": "Berlevåg Lufthavn",
+      "latitude": 70.8708,
+      "longitude": 29.0348
+    },
+    {
+      "name": "Bjerkøyskjær",
+      "latitude": 59.82125,
+      "longitude": 10.5034
+    },
+    {
+      "name": "Bjørnøya",
+      "latitude": 74.5035,
+      "longitude": 18.998
+    },
+    {
+      "name": "Blefjell",
+      "latitude": 59.8,
+      "longitude": 9.39
+    },
+    {
+      "name": "Blimssanden",
+      "latitude": 62.563522,
+      "longitude": 6.047767
+    },
+    {
+      "name": "Blindheimsvikå",
+      "latitude": 62.554511,
+      "longitude": 6.089822
+    },
+    {
+      "name": "Blokksberg",
+      "latitude": 60.236246,
+      "longitude": 8.562659
+    },
+    {
+      "name": "Blåsjø",
+      "latitude": 59.3335,
+      "longitude": 6.8817
+    },
+    {
+      "name": "Bokerøya",
+      "latitude": 59.59207,
+      "longitude": 10.414003
+    },
+    {
+      "name": "Bolærne",
+      "latitude": 59.200571,
+      "longitude": 10.575393
+    },
+    {
+      "name": "Brattfaret",
+      "latitude": 59.07743,
+      "longitude": 10.19921
+    },
+    {
+      "name": "Brattholmen",
+      "latitude": 59.032692,
+      "longitude": 9.775282
+    },
+    {
+      "name": "Breivikeidet",
+      "latitude": 69.66948,
+      "longitude": 19.652336
+    },
+    {
+      "name": "Bremanger Havn - Kalvåg",
+      "latitude": 61.76436,
+      "longitude": 4.884862
+    },
+    {
+      "name": "Brudeberget",
+      "latitude": 59.494596,
+      "longitude": 9.82367
+    },
+    {
+      "name": "Bryggerigata",
+      "latitude": 60.798572,
+      "longitude": 11.059375
+    },
+    {
+      "name": "Budor",
+      "latitude": 60.949938,
+      "longitude": 11.287435
+    },
+    {
+      "name": "Buholmråsa Fyr",
+      "latitude": 64.4013,
+      "longitude": 10.455
+    },
+    {
+      "name": "Buvasstølan",
+      "latitude": 60.671989,
+      "longitude": 9.306112
+    },
+    {
+      "name": "Bygdøy",
+      "latitude": 59.902267,
+      "longitude": 10.698368
+    },
+    {
+      "name": "Bø I Vesterålen Iii",
+      "latitude": 68.6072,
+      "longitude": 14.4347
+    },
+    {
+      "name": "Bømlo",
+      "latitude": 59.853653,
+      "longitude": 5.089822
+    },
+    {
+      "name": "Børrenøsheisen topp",
+      "latitude": 61.181867,
+      "longitude": 8.236817
+    },
+    {
+      "name": "Darbu",
+      "latitude": 59.702561,
+      "longitude": 9.777441
+    },
+    {
+      "name": "Draugen",
+      "latitude": 64.352,
+      "longitude": 7.77915
+    },
+    {
+      "name": "Drøbak båthavn",
+      "latitude": 59.662,
+      "longitude": 10.625667
+    },
+    {
+      "name": "Dusa/Grimsøy",
+      "latitude": 59.138026,
+      "longitude": 11.179043
+    },
+    {
+      "name": "E134 Haukelifjell",
+      "latitude": 59.849941,
+      "longitude": 7.087402
+    },
+    {
+      "name": "E134 Midtlæger",
+      "latitude": 59.84022,
+      "longitude": 6.982994
+    },
+    {
+      "name": "E134 Røldalstunnelen aust",
+      "latitude": 59.8228,
+      "longitude": 6.7383
+    },
+    {
+      "name": "E16 Filefjell Smeddalen",
+      "latitude": 61.167355,
+      "longitude": 8.041142
+    },
+    {
+      "name": "E6 Hålogalandsbrua",
+      "latitude": 68.468409,
+      "longitude": 17.482047
+    },
+    {
+      "name": "E6 Saltfjellet",
+      "latitude": 66.554775,
+      "longitude": 15.323625
+    },
+    {
+      "name": "E6 Vingnes",
+      "latitude": 61.108,
+      "longitude": 10.442
+    },
+    {
+      "name": "Edgeøya - Kapp Heuglin",
+      "latitude": 78.2508,
+      "longitude": 22.8225
+    },
+    {
+      "name": "Eggekollen",
+      "latitude": 59.826368,
+      "longitude": 10.191512
+    },
+    {
+      "name": "Eigerøya",
+      "latitude": 58.4353,
+      "longitude": 5.8718
+    },
+    {
+      "name": "Emblemsfjellet",
+      "latitude": 62.453745,
+      "longitude": 6.390521
+    },
+    {
+      "name": "Endrevegen, Øvre Årdal",
+      "latitude": 61.307051,
+      "longitude": 7.792338
+    },
+    {
+      "name": "Evjen",
+      "latitude": 63.13972,
+      "longitude": 10.22444
+    },
+    {
+      "name": "FAGKLIM",
+      "latitude": 59.660529,
+      "longitude": 10.782387
+    },
+    {
+      "name": "FV211 Haglebu",
+      "latitude": 60.366697,
+      "longitude": 9.185987
+    },
+    {
+      "name": "FV2512 Filefjell Varden",
+      "latitude": 61.178358,
+      "longitude": 8.152868
+    },
+    {
+      "name": "FV289 Hurum",
+      "latitude": 59.631373,
+      "longitude": 10.492131
+    },
+    {
+      "name": "FV37 Raulandsfjellet",
+      "latitude": 59.7978,
+      "longitude": 8.258
+    },
+    {
+      "name": "FV44 KVASSHEIM",
+      "latitude": 58.550572,
+      "longitude": 5.68167
+    },
+    {
+      "name": "FV45 Hunnedalen",
+      "latitude": 58.8933,
+      "longitude": 6.6665
+    },
+    {
+      "name": "FV51 Golsfjellet",
+      "latitude": 60.8175,
+      "longitude": 9.1185
+    },
+    {
+      "name": "FV53 Tyinosen",
+      "latitude": 61.27465,
+      "longitude": 8.13867
+    },
+    {
+      "name": "FV5876 Rundebrua",
+      "latitude": 62.379255,
+      "longitude": 5.627536
+    },
+    {
+      "name": "FV654 Herøybrua",
+      "latitude": 62.3195,
+      "longitude": 5.7208
+    },
+    {
+      "name": "Fagerheim Fjellstugu",
+      "latitude": 60.439483,
+      "longitude": 7.78534
+    },
+    {
+      "name": "Fauskane",
+      "latitude": 62.566785,
+      "longitude": 5.726357
+    },
+    {
+      "name": "Fedje",
+      "latitude": 60.780026,
+      "longitude": 4.697569
+    },
+    {
+      "name": "Filefjell Kyrkjestølane",
+      "latitude": 61.177961,
+      "longitude": 8.112857
+    },
+    {
+      "name": "Finnlandsfjellet",
+      "latitude": 69.702502,
+      "longitude": 18.802119
+    },
+    {
+      "name": "Finnvikdalen",
+      "latitude": 69.759036,
+      "longitude": 18.854258
+    },
+    {
+      "name": "Finse Alpine Research Center Snow Grid",
+      "latitude": 60.579381,
+      "longitude": 7.538092
+    },
+    {
+      "name": "Finse skisenter",
+      "latitude": 60.607716,
+      "longitude": 7.516806
+    },
+    {
+      "name": "Finsevatn",
+      "latitude": 60.593834,
+      "longitude": 7.526948
+    },
+    {
+      "name": "Fjellheisen",
+      "latitude": 69.633399,
+      "longitude": 18.992949
+    },
+    {
+      "name": "Flesland",
+      "latitude": 60.2892,
+      "longitude": 5.2265
+    },
+    {
+      "name": "Flomstein",
+      "latitude": 59.60271,
+      "longitude": 11.10335
+    },
+    {
+      "name": "Flåskjær - E39",
+      "latitude": 62.270048,
+      "longitude": 5.991931
+    },
+    {
+      "name": "Folgefonna skisenter",
+      "latitude": 60.225915,
+      "longitude": 6.433466
+    },
+    {
+      "name": "Folgefonna skisenter topp",
+      "latitude": 60.215806,
+      "longitude": 6.439611
+    },
+    {
+      "name": "Framnes",
+      "latitude": 59.426773,
+      "longitude": 10.639355
+    },
+    {
+      "name": "Fredenshavn",
+      "latitude": 59.030387,
+      "longitude": 10.01687
+    },
+    {
+      "name": "Fruholmen Fyr",
+      "latitude": 71.0937,
+      "longitude": 23.9817
+    },
+    {
+      "name": "Fuglevik båthavn",
+      "latitude": 59.387129,
+      "longitude": 10.652535
+    },
+    {
+      "name": "Fugløya",
+      "latitude": 58.980559,
+      "longitude": 9.803723
+    },
+    {
+      "name": "Fulehuk fyr",
+      "latitude": 59.175274,
+      "longitude": 10.599189
+    },
+    {
+      "name": "Fv51 Valdresflye",
+      "latitude": 61.389034,
+      "longitude": 8.81067
+    },
+    {
+      "name": "Fyrisjøen",
+      "latitude": 60.340973,
+      "longitude": 9.461967
+    },
+    {
+      "name": "Færder fyr",
+      "latitude": 59.026786,
+      "longitude": 10.524613
+    },
+    {
+      "name": "Gaustatoppen",
+      "latitude": 59.849748,
+      "longitude": 8.656211
+    },
+    {
+      "name": "Giskebrua - FV658",
+      "latitude": 62.508213,
+      "longitude": 6.07633
+    },
+    {
+      "name": "Gjemndemssund brua - E39",
+      "latitude": 62.971245,
+      "longitude": 7.779368
+    },
+    {
+      "name": "Goppollen",
+      "latitude": 61.429369,
+      "longitude": 10.526104
+    },
+    {
+      "name": "Grelland",
+      "latitude": 59.511059,
+      "longitude": 10.20782
+    },
+    {
+      "name": "Gromli",
+      "latitude": 61.746317,
+      "longitude": 9.763309
+    },
+    {
+      "name": "Gråkallen",
+      "latitude": 63.420539,
+      "longitude": 10.251654
+    },
+    {
+      "name": "Grøndalen",
+      "latitude": 60.934501,
+      "longitude": 8.434523
+    },
+    {
+      "name": "Grøtfjord",
+      "latitude": 69.777652,
+      "longitude": 18.539288
+    },
+    {
+      "name": "Grøtterud",
+      "latitude": 59.50508,
+      "longitude": 9.997768
+    },
+    {
+      "name": "Gullhaugen",
+      "latitude": 60.8452,
+      "longitude": 9.017
+    },
+    {
+      "name": "Gullholmen",
+      "latitude": 59.4352,
+      "longitude": 10.578
+    },
+    {
+      "name": "Gullholmen fyr",
+      "latitude": 59.435408,
+      "longitude": 10.577396
+    },
+    {
+      "name": "Gunnarbu",
+      "latitude": 61.62398,
+      "longitude": 10.09964
+    },
+    {
+      "name": "Gvammen",
+      "latitude": 59.598082,
+      "longitude": 8.715139
+    },
+    {
+      "name": "HIAS Kunstgress",
+      "latitude": 60.765929,
+      "longitude": 11.076486
+    },
+    {
+      "name": "Haksåsen",
+      "latitude": 63.05018,
+      "longitude": 9.71824
+    },
+    {
+      "name": "Halden brygge (Snarøya)",
+      "latitude": 59.887158,
+      "longitude": 10.632438
+    },
+    {
+      "name": "Hallangsodden",
+      "latitude": 59.685301,
+      "longitude": 10.611276
+    },
+    {
+      "name": "Halledammen",
+      "latitude": 59.016696,
+      "longitude": 9.910385
+    },
+    {
+      "name": "Halne",
+      "latitude": 60.417115,
+      "longitude": 7.686621
+    },
+    {
+      "name": "Halten Fyr",
+      "latitude": 64.1727,
+      "longitude": 9.4052
+    },
+    {
+      "name": "Hammerfest Lufthavn",
+      "latitude": 70.6807,
+      "longitude": 23.6772
+    },
+    {
+      "name": "Hansine Hansens veg",
+      "latitude": 69.679436,
+      "longitude": 18.971772
+    },
+    {
+      "name": "Hasvik",
+      "latitude": 70.60473,
+      "longitude": 22.44399
+    },
+    {
+      "name": "Hasvik Lufthavn",
+      "latitude": 70.4865,
+      "longitude": 22.1457
+    },
+    {
+      "name": "Haugastøl",
+      "latitude": 60.511906,
+      "longitude": 7.852698
+    },
+    {
+      "name": "Haukeliseter",
+      "latitude": 59.823543,
+      "longitude": 7.193215
+    },
+    {
+      "name": "Haukeliseter Testfelt",
+      "latitude": 59.811715,
+      "longitude": 7.214226
+    },
+    {
+      "name": "Haukeliseter testfelt DFIR",
+      "latitude": 59.811739,
+      "longitude": 7.214389
+    },
+    {
+      "name": "Havsdalen",
+      "latitude": 60.546898,
+      "longitude": 8.159666
+    },
+    {
+      "name": "Heidrun",
+      "latitude": 65.32285,
+      "longitude": 7.3156
+    },
+    {
+      "name": "Heistadmoen Skistadion",
+      "latitude": 59.597549,
+      "longitude": 9.65585
+    },
+    {
+      "name": "Hekkingen Fyr",
+      "latitude": 69.6005,
+      "longitude": 17.8312
+    },
+    {
+      "name": "Helgeroa",
+      "latitude": 58.995389,
+      "longitude": 9.858861
+    },
+    {
+      "name": "Helligvær Ii",
+      "latitude": 67.4048,
+      "longitude": 13.8958
+    },
+    {
+      "name": "Hemsdalen",
+      "latitude": 59.570081,
+      "longitude": 10.059752
+    },
+    {
+      "name": "Hemsedalsfjellet",
+      "latitude": 60.9757,
+      "longitude": 8.1557
+    },
+    {
+      "name": "Herføl",
+      "latitude": 58.992187,
+      "longitude": 11.05522
+    },
+    {
+      "name": "Herwighamna",
+      "latitude": 74.504072,
+      "longitude": 18.99606
+    },
+    {
+      "name": "Hestelegda",
+      "latitude": 62.3257,
+      "longitude": 5.891111
+    },
+    {
+      "name": "Hitra Sandstad Ii",
+      "latitude": 63.5187,
+      "longitude": 9.1125
+    },
+    {
+      "name": "Holmen",
+      "latitude": 59.023393,
+      "longitude": 10.094885
+    },
+    {
+      "name": "Holmsetra",
+      "latitude": 61.328804,
+      "longitude": 10.390038
+    },
+    {
+      "name": "Honnegrasnuten",
+      "latitude": 59.7675,
+      "longitude": 7.8173
+    },
+    {
+      "name": "Honningsvåg",
+      "latitude": 70.9938,
+      "longitude": 25.9828
+    },
+    {
+      "name": "Honningsvåg Lufthavn",
+      "latitude": 71.0105,
+      "longitude": 25.9782
+    },
+    {
+      "name": "Hopen",
+      "latitude": 76.5097,
+      "longitude": 25.0133
+    },
+    {
+      "name": "Hornsund",
+      "latitude": 77.0017,
+      "longitude": 15.5358
+    },
+    {
+      "name": "Horten havn",
+      "latitude": 59.414003,
+      "longitude": 10.4899
+    },
+    {
+      "name": "Hovden",
+      "latitude": 62.61661,
+      "longitude": 9.68517
+    },
+    {
+      "name": "Hovden - Lundane",
+      "latitude": 59.5766,
+      "longitude": 7.3897
+    },
+    {
+      "name": "Hunnedalen",
+      "latitude": 58.874,
+      "longitude": 6.5783
+    },
+    {
+      "name": "Hurum",
+      "latitude": 59.627201,
+      "longitude": 10.564458
+    },
+    {
+      "name": "Hustadvika",
+      "latitude": 62.986072,
+      "longitude": 7.116637
+    },
+    {
+      "name": "Hvasser",
+      "latitude": 59.06368,
+      "longitude": 10.442848
+    },
+    {
+      "name": "Hvitnesbukta",
+      "latitude": 59.320993,
+      "longitude": 10.671879
+    },
+    {
+      "name": "Hydnefossen",
+      "latitude": 60.803303,
+      "longitude": 8.617087
+    },
+    {
+      "name": "Hægebostad",
+      "latitude": 58.360149,
+      "longitude": 7.164819
+    },
+    {
+      "name": "Høllen",
+      "latitude": 58.07565,
+      "longitude": 7.80969
+    },
+    {
+      "name": "Høvringen",
+      "latitude": 61.888343,
+      "longitude": 9.479725
+    },
+    {
+      "name": "Imingfjell",
+      "latitude": 60.239988,
+      "longitude": 8.524878
+    },
+    {
+      "name": "Jomfruland",
+      "latitude": 58.8565,
+      "longitude": 9.5745
+    },
+    {
+      "name": "Jomfruland",
+      "latitude": 58.865098,
+      "longitude": 9.596384
+    },
+    {
+      "name": "Jotnavåken",
+      "latitude": 61.274977,
+      "longitude": 8.139961
+    },
+    {
+      "name": "Juvflye Mimisbrunnr klimapark",
+      "latitude": 61.673803,
+      "longitude": 8.368707
+    },
+    {
+      "name": "Juvvasshøe",
+      "latitude": 61.677469,
+      "longitude": 8.369177
+    },
+    {
+      "name": "Kikuttoppen",
+      "latitude": 60.507233,
+      "longitude": 8.217697
+    },
+    {
+      "name": "Kirkenes",
+      "latitude": 69.7255,
+      "longitude": 29.8977
+    },
+    {
+      "name": "Kjeller",
+      "latitude": 59.971196,
+      "longitude": 11.038892
+    },
+    {
+      "name": "Kjose",
+      "latitude": 59.127083,
+      "longitude": 9.873778
+    },
+    {
+      "name": "Kjøkøy",
+      "latitude": 59.132632,
+      "longitude": 10.950073
+    },
+    {
+      "name": "Kjørtingen SØ",
+      "latitude": 59.008377,
+      "longitude": 9.775898
+    },
+    {
+      "name": "Kongshaugen",
+      "latitude": 60.337542,
+      "longitude": 5.210791
+    },
+    {
+      "name": "Kongsøya",
+      "latitude": 78.9108,
+      "longitude": 28.892
+    },
+    {
+      "name": "Kristiansand Havn",
+      "latitude": 58.140201,
+      "longitude": 7.988873
+    },
+    {
+      "name": "Kristiansund Lufthavn",
+      "latitude": 63.1093,
+      "longitude": 7.8158
+    },
+    {
+      "name": "Kroken",
+      "latitude": 69.657688,
+      "longitude": 19.069947
+    },
+    {
+      "name": "Kroksjødemningen",
+      "latitude": 61.178236,
+      "longitude": 10.71742
+    },
+    {
+      "name": "Kråkenes",
+      "latitude": 62.034,
+      "longitude": 4.986
+    },
+    {
+      "name": "Kvamhytta",
+      "latitude": 61.726215,
+      "longitude": 9.720652
+    },
+    {
+      "name": "Kvavik",
+      "latitude": 58.139794,
+      "longitude": 7.029004
+    },
+    {
+      "name": "Kverveaksla",
+      "latitude": 62.498077,
+      "longitude": 6.183631
+    },
+    {
+      "name": "Kvitsøy",
+      "latitude": 59.061097,
+      "longitude": 5.399392
+    },
+    {
+      "name": "Kvitsøy - Nordbø",
+      "latitude": 59.070524,
+      "longitude": 5.412064
+    },
+    {
+      "name": "Langeby",
+      "latitude": 59.079129,
+      "longitude": 10.260994
+    },
+    {
+      "name": "Langesund",
+      "latitude": 59.0082,
+      "longitude": 9.747081
+    },
+    {
+      "name": "Langnes",
+      "latitude": 69.678793,
+      "longitude": 18.897201
+    },
+    {
+      "name": "Larvik Havn",
+      "latitude": 59.042276,
+      "longitude": 10.047741
+    },
+    {
+      "name": "Larvik brannstasjon",
+      "latitude": 59.0575,
+      "longitude": 10.067222
+    },
+    {
+      "name": "Lauvåsen fjellstue",
+      "latitude": 61.454902,
+      "longitude": 9.867554
+    },
+    {
+      "name": "Leknes Lufthavn",
+      "latitude": 68.155,
+      "longitude": 13.615
+    },
+    {
+      "name": "Liarvatn målestasjon",
+      "latitude": 59.05117,
+      "longitude": 6.121319
+    },
+    {
+      "name": "Lifjell - Øysteinnatten",
+      "latitude": 59.5022,
+      "longitude": 8.9837
+    },
+    {
+      "name": "Lille Lyngholmen",
+      "latitude": 58.242696,
+      "longitude": 8.450576
+    },
+    {
+      "name": "Lille Presteskjær",
+      "latitude": 58.323,
+      "longitude": 6.257657
+    },
+    {
+      "name": "Lillevann",
+      "latitude": 60.523117,
+      "longitude": 7.861429
+    },
+    {
+      "name": "Lindesnes fyr",
+      "latitude": 57.982376,
+      "longitude": 7.046608
+    },
+    {
+      "name": "Lindesnes fyr",
+      "latitude": 57.982617,
+      "longitude": 7.047829
+    },
+    {
+      "name": "Lista fyr",
+      "latitude": 58.108963,
+      "longitude": 6.567839
+    },
+    {
+      "name": "Lista fyr målestasjon",
+      "latitude": 58.108969,
+      "longitude": 6.567829
+    },
+    {
+      "name": "Lyngsheia",
+      "latitude": 59.115006,
+      "longitude": 6.33791
+    },
+    {
+      "name": "Lyngør fyr",
+      "latitude": 58.636683,
+      "longitude": 9.148692
+    },
+    {
+      "name": "Lægreid",
+      "latitude": 60.460831,
+      "longitude": 7.82203
+    },
+    {
+      "name": "Makkaur Fyr",
+      "latitude": 70.7057,
+      "longitude": 30.07
+    },
+    {
+      "name": "Malvik - E6",
+      "latitude": 63.426212,
+      "longitude": 10.663847
+    },
+    {
+      "name": "Meheia",
+      "latitude": 59.611163,
+      "longitude": 9.454502
+    },
+    {
+      "name": "Melshornet",
+      "latitude": 62.35169,
+      "longitude": 6.0311
+    },
+    {
+      "name": "Midtfjordskjær",
+      "latitude": 59.054023,
+      "longitude": 9.655742
+    },
+    {
+      "name": "Miljoseter",
+      "latitude": 60.325337,
+      "longitude": 9.491367
+    },
+    {
+      "name": "Miljøovervåking OSL",
+      "latitude": 60.170867,
+      "longitude": 11.059629
+    },
+    {
+      "name": "Minigolfen",
+      "latitude": 60.627711,
+      "longitude": 6.415238
+    },
+    {
+      "name": "Moss havn",
+      "latitude": 59.430174,
+      "longitude": 10.656871
+    },
+    {
+      "name": "Mulevika",
+      "latitude": 62.36239,
+      "longitude": 5.5202
+    },
+    {
+      "name": "Myken",
+      "latitude": 66.7628,
+      "longitude": 12.486
+    },
+    {
+      "name": "Mysusæter",
+      "latitude": 61.81047,
+      "longitude": 9.687527
+    },
+    {
+      "name": "Måsvik",
+      "latitude": 69.9903,
+      "longitude": 18.6938
+    },
+    {
+      "name": "Mørkassel v/Bjerkøya",
+      "latitude": 59.533468,
+      "longitude": 10.350603
+    },
+    {
+      "name": "Møsstrand II",
+      "latitude": 59.8397,
+      "longitude": 8.1785
+    },
+    {
+      "name": "Nakholmen",
+      "latitude": 59.887957,
+      "longitude": 10.696172
+    },
+    {
+      "name": "Narvik Havn",
+      "latitude": 68.414439,
+      "longitude": 17.409854
+    },
+    {
+      "name": "Narvik Sentrum",
+      "latitude": 68.43715,
+      "longitude": 17.42135
+    },
+    {
+      "name": "Nattrudstilen",
+      "latitude": 61.121128,
+      "longitude": 10.740037
+    },
+    {
+      "name": "Nedre Strangate sykkelbarometer",
+      "latitude": 59.74145,
+      "longitude": 10.208898
+    },
+    {
+      "name": "Norcem",
+      "latitude": 59.063386,
+      "longitude": 9.692025
+    },
+    {
+      "name": "Nordnatten",
+      "latitude": 60.270017,
+      "longitude": 9.392173
+    },
+    {
+      "name": "Nordsetervegen",
+      "latitude": 61.1431,
+      "longitude": 10.5143
+    },
+    {
+      "name": "Nordøyan Fyr",
+      "latitude": 64.7977,
+      "longitude": 10.5493
+    },
+    {
+      "name": "Norefjell",
+      "latitude": 60.242129,
+      "longitude": 9.547349
+    },
+    {
+      "name": "Norne",
+      "latitude": 66.0256,
+      "longitude": 8.085
+    },
+    {
+      "name": "Ny-Ålesund",
+      "latitude": 78.9243,
+      "longitude": 11.9312
+    },
+    {
+      "name": "Nykirke",
+      "latitude": 59.427844,
+      "longitude": 10.384842
+    },
+    {
+      "name": "Obrestad Fyr",
+      "latitude": 58.6592,
+      "longitude": 5.5553
+    },
+    {
+      "name": "Oddane Sand Camping",
+      "latitude": 58.966028,
+      "longitude": 9.858695
+    },
+    {
+      "name": "Oksøy fyr",
+      "latitude": 58.07307,
+      "longitude": 8.054014
+    },
+    {
+      "name": "Ona Ii",
+      "latitude": 62.8585,
+      "longitude": 6.5378
+    },
+    {
+      "name": "Orkanger",
+      "latitude": 63.299843,
+      "longitude": 9.816542
+    },
+    {
+      "name": "Oscarsborg gjestehavn",
+      "latitude": 59.678167,
+      "longitude": 10.603833
+    },
+    {
+      "name": "Oslo-Blindern",
+      "latitude": 59.942291,
+      "longitude": 10.720053
+    },
+    {
+      "name": "Pellestova",
+      "latitude": 61.226218,
+      "longitude": 10.544794
+    },
+    {
+      "name": "RV15 Strynefjell - Kvitenova",
+      "latitude": 61.988084,
+      "longitude": 7.330251
+    },
+    {
+      "name": "RV7 Dyranut",
+      "latitude": 60.369335,
+      "longitude": 7.494256
+    },
+    {
+      "name": "RV7 KVISLA I HOL",
+      "latitude": 60.5825,
+      "longitude": 8.3213
+    },
+    {
+      "name": "RV7 Skulevika",
+      "latitude": 60.400214,
+      "longitude": 7.614736
+    },
+    {
+      "name": "Raudvatnet",
+      "latitude": 66.25806,
+      "longitude": 14.541725
+    },
+    {
+      "name": "Refsnes",
+      "latitude": 59.441025,
+      "longitude": 10.60428
+    },
+    {
+      "name": "Reipå",
+      "latitude": 66.9035,
+      "longitude": 13.646
+    },
+    {
+      "name": "Rensvik / Kristiansund - RV70",
+      "latitude": 63.085598,
+      "longitude": 7.797771
+    },
+    {
+      "name": "Ringerudkollen",
+      "latitude": 60.389455,
+      "longitude": 10.032084
+    },
+    {
+      "name": "Ringsholmen",
+      "latitude": 59.090458,
+      "longitude": 9.620772
+    },
+    {
+      "name": "Rissa",
+      "latitude": 63.689898,
+      "longitude": 10.204697
+    },
+    {
+      "name": "Roaldsanden",
+      "latitude": 62.576575,
+      "longitude": 6.119304
+    },
+    {
+      "name": "Rognsundet",
+      "latitude": 70.4107,
+      "longitude": 22.8177
+    },
+    {
+      "name": "Rolfstangen",
+      "latitude": 59.892508,
+      "longitude": 10.63562
+    },
+    {
+      "name": "Rondane",
+      "latitude": 61.822341,
+      "longitude": 9.680708
+    },
+    {
+      "name": "Roppehornet",
+      "latitude": 62.39014,
+      "longitude": 5.85012
+    },
+    {
+      "name": "Rudland fjellsenter",
+      "latitude": 61.752387,
+      "longitude": 9.723147
+    },
+    {
+      "name": "Rv9 Hovden",
+      "latitude": 59.640768,
+      "longitude": 7.455457
+    },
+    {
+      "name": "Rye",
+      "latitude": 63.270697,
+      "longitude": 10.308491
+    },
+    {
+      "name": "Råde båtforening",
+      "latitude": 59.310116,
+      "longitude": 10.774992
+    },
+    {
+      "name": "Røde Kors hytta i Hunnedalen",
+      "latitude": 58.864736,
+      "longitude": 6.562915
+    },
+    {
+      "name": "Rødungstøl",
+      "latitude": 60.7091,
+      "longitude": 8.258574
+    },
+    {
+      "name": "Røldalsfjellet - Elvershei",
+      "latitude": 59.8357,
+      "longitude": 6.7108
+    },
+    {
+      "name": "Rørvik - FV770",
+      "latitude": 64.84872,
+      "longitude": 11.231161
+    },
+    {
+      "name": "Røråsen, Horten",
+      "latitude": 59.419855,
+      "longitude": 10.464576
+    },
+    {
+      "name": "Røst",
+      "latitude": 67.530444,
+      "longitude": 12.099086
+    },
+    {
+      "name": "Røst Lufthavn",
+      "latitude": 67.5267,
+      "longitude": 12.1038
+    },
+    {
+      "name": "Røvær",
+      "latitude": 59.4382,
+      "longitude": 5.078
+    },
+    {
+      "name": "Røvær",
+      "latitude": 59.44026,
+      "longitude": 5.08351
+    },
+    {
+      "name": "Røyrafjellet",
+      "latitude": 62.29979,
+      "longitude": 5.78907
+    },
+    {
+      "name": "Salen",
+      "latitude": 62.96629,
+      "longitude": 8.74792
+    },
+    {
+      "name": "Sandesund bru",
+      "latitude": 59.270321,
+      "longitude": 11.095333
+    },
+    {
+      "name": "Sandhaug",
+      "latitude": 60.1833,
+      "longitude": 7.4805
+    },
+    {
+      "name": "Sandnessjøen Lh - Stokka",
+      "latitude": 65.963434,
+      "longitude": 12.47825
+    },
+    {
+      "name": "Seawatch Wind Lidar Buoy",
+      "latitude": 63.662915,
+      "longitude": 8.310086
+    },
+    {
+      "name": "Seljord",
+      "latitude": 59.489361,
+      "longitude": 8.644661
+    },
+    {
+      "name": "SimulaMet Weather Station",
+      "latitude": 59.922506,
+      "longitude": 10.732629
+    },
+    {
+      "name": "Sirdal - Sinnes",
+      "latitude": 58.923,
+      "longitude": 6.9097
+    },
+    {
+      "name": "Sjursøya",
+      "latitude": 59.88908,
+      "longitude": 10.75391
+    },
+    {
+      "name": "Sjusjøen",
+      "latitude": 61.119053,
+      "longitude": 10.756787
+    },
+    {
+      "name": "Sjusjøen - Storåsen",
+      "latitude": 61.163818,
+      "longitude": 10.708786
+    },
+    {
+      "name": "Skiftesjøen",
+      "latitude": 60.381312,
+      "longitude": 7.576103
+    },
+    {
+      "name": "Skjelten (Lepsøyrevet) - PV98851",
+      "latitude": 62.587296,
+      "longitude": 6.265361
+    },
+    {
+      "name": "Skjerja",
+      "latitude": 60.42589,
+      "longitude": 7.96908
+    },
+    {
+      "name": "Sklinna Fyr",
+      "latitude": 65.2023,
+      "longitude": 10.9965
+    },
+    {
+      "name": "Skolten, Sirevåg",
+      "latitude": 58.501549,
+      "longitude": 5.799618
+    },
+    {
+      "name": "Skrova Fyr",
+      "latitude": 68.1535,
+      "longitude": 14.6485
+    },
+    {
+      "name": "Skurdevikåi",
+      "latitude": 60.377739,
+      "longitude": 7.569405
+    },
+    {
+      "name": "Skåtøy",
+      "latitude": 58.863,
+      "longitude": 9.55
+    },
+    {
+      "name": "Skøytingset",
+      "latitude": 60.737879,
+      "longitude": 8.708273
+    },
+    {
+      "name": "Slemmestad",
+      "latitude": 59.78349,
+      "longitude": 10.497709
+    },
+    {
+      "name": "Sletterust",
+      "latitude": 61.268216,
+      "longitude": 8.0237
+    },
+    {
+      "name": "Slettnes Fyr",
+      "latitude": 71.0888,
+      "longitude": 28.217
+    },
+    {
+      "name": "Slåtterøy Fyr",
+      "latitude": 59.9083,
+      "longitude": 5.0683
+    },
+    {
+      "name": "Småroi",
+      "latitude": 60.16219,
+      "longitude": 8.60451
+    },
+    {
+      "name": "Sognefjellhytta",
+      "latitude": 61.5648,
+      "longitude": 7.9957
+    },
+    {
+      "name": "Sola",
+      "latitude": 58.8843,
+      "longitude": 5.637
+    },
+    {
+      "name": "Solbergbukta",
+      "latitude": 59.569689,
+      "longitude": 10.401051
+    },
+    {
+      "name": "Solbergåsen",
+      "latitude": 59.769039,
+      "longitude": 10.048834
+    },
+    {
+      "name": "Solfjellstua",
+      "latitude": 59.939379,
+      "longitude": 10.463063
+    },
+    {
+      "name": "Solheimfjell",
+      "latitude": 61.6038,
+      "longitude": 5.10369
+    },
+    {
+      "name": "Solheimsdalen",
+      "latitude": 58.8849,
+      "longitude": 6.9189
+    },
+    {
+      "name": "Sollia",
+      "latitude": 61.890239,
+      "longitude": 10.140338
+    },
+    {
+      "name": "Solvær Iii",
+      "latitude": 66.3705,
+      "longitude": 12.611
+    },
+    {
+      "name": "Sommarøy",
+      "latitude": 69.630895,
+      "longitude": 18.035601
+    },
+    {
+      "name": "Somna",
+      "latitude": 65.220144,
+      "longitude": 11.991588
+    },
+    {
+      "name": "Stangevegen",
+      "latitude": 60.791166,
+      "longitude": 11.088779
+    },
+    {
+      "name": "Stasfolehaugen",
+      "latitude": 60.345073,
+      "longitude": 10.01948
+    },
+    {
+      "name": "Statkraft Tofte",
+      "latitude": 59.545279,
+      "longitude": 10.574352
+    },
+    {
+      "name": "Stavanger/Sola",
+      "latitude": 58.874242,
+      "longitude": 5.665039
+    },
+    {
+      "name": "Stavern",
+      "latitude": 58.999157,
+      "longitude": 10.041439
+    },
+    {
+      "name": "Stenfjellhytta",
+      "latitude": 60.941944,
+      "longitude": 11.192318
+    },
+    {
+      "name": "Store Torungen",
+      "latitude": 58.398931,
+      "longitude": 8.78941
+    },
+    {
+      "name": "Storefjell",
+      "latitude": 60.799936,
+      "longitude": 8.949904
+    },
+    {
+      "name": "Storefjell",
+      "latitude": 60.811921,
+      "longitude": 8.94635
+    },
+    {
+      "name": "Storwartz",
+      "latitude": 62.622846,
+      "longitude": 11.528431
+    },
+    {
+      "name": "Strømtangen fyr",
+      "latitude": 59.151415,
+      "longitude": 10.82924
+    },
+    {
+      "name": "Støtvig hotell",
+      "latitude": 59.32829,
+      "longitude": 10.666304
+    },
+    {
+      "name": "Sula",
+      "latitude": 63.8467,
+      "longitude": 8.4667
+    },
+    {
+      "name": "Sundvollen",
+      "latitude": 60.053355,
+      "longitude": 10.322766
+    },
+    {
+      "name": "Svelvik",
+      "latitude": 59.612827,
+      "longitude": 10.402583
+    },
+    {
+      "name": "Svenner fyr",
+      "latitude": 58.969176,
+      "longitude": 10.147902
+    },
+    {
+      "name": "Svinøy Fyr",
+      "latitude": 62.3293,
+      "longitude": 5.268
+    },
+    {
+      "name": "Sysendalen Skisenter topp",
+      "latitude": 60.419917,
+      "longitude": 7.336197
+    },
+    {
+      "name": "Særheim",
+      "latitude": 58.7605,
+      "longitude": 5.6508
+    },
+    {
+      "name": "Søndre Flaskebekk",
+      "latitude": 59.856703,
+      "longitude": 10.649803
+    },
+    {
+      "name": "Søndre Katland",
+      "latitude": 58.056939,
+      "longitude": 6.840388
+    },
+    {
+      "name": "Søndre Langåra",
+      "latitude": 59.750856,
+      "longitude": 10.562003
+    },
+    {
+      "name": "Sørkappøya",
+      "latitude": 76.4777,
+      "longitude": 16.5488
+    },
+    {
+      "name": "TESS-W",
+      "latitude": 69.348096,
+      "longitude": 20.363293
+    },
+    {
+      "name": "TESS-W",
+      "latitude": 78.147683,
+      "longitude": 16.039486
+    },
+    {
+      "name": "Takvatnet",
+      "latitude": 69.129482,
+      "longitude": 19.045615
+    },
+    {
+      "name": "Teibern",
+      "latitude": 59.300796,
+      "longitude": 10.691153
+    },
+    {
+      "name": "Tempelseter",
+      "latitude": 60.274359,
+      "longitude": 9.40952
+    },
+    {
+      "name": "Tennholmen",
+      "latitude": 67.34,
+      "longitude": 13.57
+    },
+    {
+      "name": "Tindevegen bomstasjon",
+      "latitude": 61.431629,
+      "longitude": 7.723395
+    },
+    {
+      "name": "Tjønneberget kystradarstasjon",
+      "latitude": 59.066288,
+      "longitude": 10.434145
+    },
+    {
+      "name": "Tjøtta",
+      "latitude": 65.8295,
+      "longitude": 12.4255
+    },
+    {
+      "name": "Tollefsrudseter",
+      "latitude": 60.383723,
+      "longitude": 9.28374
+    },
+    {
+      "name": "Torsberg",
+      "latitude": 59.122623,
+      "longitude": 9.605432
+    },
+    {
+      "name": "Torsetlia",
+      "latitude": 60.369098,
+      "longitude": 8.490314
+    },
+    {
+      "name": "Torsvåg Fyr",
+      "latitude": 70.2452,
+      "longitude": 19.4997
+    },
+    {
+      "name": "Tranøy",
+      "latitude": 68.183,
+      "longitude": 15.659167
+    },
+    {
+      "name": "Tresfjordbrua - E136",
+      "latitude": 62.611256,
+      "longitude": 7.112552
+    },
+    {
+      "name": "Tryvannshøgda",
+      "latitude": 59.984799,
+      "longitude": 10.669201
+    },
+    {
+      "name": "Tveitåsen",
+      "latitude": 60.0431,
+      "longitude": 9.11532
+    },
+    {
+      "name": "Tyin/Filefjell skisenter",
+      "latitude": 61.188941,
+      "longitude": 8.217769
+    },
+    {
+      "name": "Tønsvika",
+      "latitude": 69.747773,
+      "longitude": 19.14118
+    },
+    {
+      "name": "Udbyes gate",
+      "latitude": 63.416088,
+      "longitude": 10.396097
+    },
+    {
+      "name": "Umbukta",
+      "latitude": 66.165264,
+      "longitude": 14.580654
+    },
+    {
+      "name": "Ustevann",
+      "latitude": 60.494777,
+      "longitude": 7.98603
+    },
+    {
+      "name": "Utsira Fyr",
+      "latitude": 59.3065,
+      "longitude": 4.8723
+    },
+    {
+      "name": "Vadsø Lufthavn",
+      "latitude": 70.0653,
+      "longitude": 29.8352
+    },
+    {
+      "name": "Vallø Tolvsrød",
+      "latitude": 59.265665,
+      "longitude": 10.488701
+    },
+    {
+      "name": "Vardø Lufthavn",
+      "latitude": 70.3545,
+      "longitude": 31.044
+    },
+    {
+      "name": "Vardø Radio",
+      "latitude": 70.3707,
+      "longitude": 31.0962
+    },
+    {
+      "name": "Vassverket N",
+      "latitude": 62.36034,
+      "longitude": 6.04771
+    },
+    {
+      "name": "Vega - Vallsjø",
+      "latitude": 65.7017,
+      "longitude": 11.8562
+    },
+    {
+      "name": "Veiholmen",
+      "latitude": 63.5185,
+      "longitude": 7.9533
+    },
+    {
+      "name": "Venabu",
+      "latitude": 61.651226,
+      "longitude": 10.108144
+    },
+    {
+      "name": "Venabygdsfjellet",
+      "latitude": 61.649814,
+      "longitude": 10.099321
+    },
+    {
+      "name": "Verftsbrua",
+      "latitude": 63.435326,
+      "longitude": 10.408777
+    },
+    {
+      "name": "Verket molo",
+      "latitude": 59.608625,
+      "longitude": 10.413939
+    },
+    {
+      "name": "Vigdel",
+      "latitude": 58.851882,
+      "longitude": 5.551465
+    },
+    {
+      "name": "Vigra",
+      "latitude": 62.562686,
+      "longitude": 6.115308
+    },
+    {
+      "name": "Vikafjell",
+      "latitude": 60.91273,
+      "longitude": 6.444279
+    },
+    {
+      "name": "Vikemarkhøgda",
+      "latitude": 62.34709,
+      "longitude": 5.861807
+    },
+    {
+      "name": "Vikertangen fyr",
+      "latitude": 59.032499,
+      "longitude": 10.945368
+    },
+    {
+      "name": "Vikingneset",
+      "latitude": 60.854799,
+      "longitude": 4.931659
+    },
+    {
+      "name": "Vikugrendi",
+      "latitude": 60.052751,
+      "longitude": 9.008246
+    },
+    {
+      "name": "Vågsli",
+      "latitude": 59.7662,
+      "longitude": 7.3653
+    },
+    {
+      "name": "Våtvikfjellet",
+      "latitude": 67.093,
+      "longitude": 14.1663
+    },
+    {
+      "name": "Væråshyttetun, Blefjell",
+      "latitude": 59.814148,
+      "longitude": 9.391748
+    },
+    {
+      "name": "Værøy Heliport",
+      "latitude": 67.6527,
+      "longitude": 12.7228
+    },
+    {
+      "name": "Ytterøyane Fyr",
+      "latitude": 61.5717,
+      "longitude": 4.6817
+    },
+    {
+      "name": "Åmlirogna",
+      "latitude": 58.991665,
+      "longitude": 9.83757
+    },
+    {
+      "name": "Åsgårdstrand",
+      "latitude": 59.356226,
+      "longitude": 10.45975
+    },
+    {
+      "name": "Åsgårdstrand Seilforening",
+      "latitude": 59.352133,
+      "longitude": 10.470264
+    },
+    {
+      "name": "Åsgårdstrand gjestehavn",
+      "latitude": 59.350486,
+      "longitude": 10.472641
+    },
+    {
+      "name": "Ørland III",
+      "latitude": 63.705429,
+      "longitude": 9.611923
+    },
+    {
+      "name": "Ørland Iii",
+      "latitude": 63.7045,
+      "longitude": 9.6105
+    },
+    {
+      "name": "Ørterdalen",
+      "latitude": 60.490454,
+      "longitude": 7.86531
+    },
+    {
+      "name": "Ørteren",
+      "latitude": 60.474417,
+      "longitude": 7.820163
+    },
+    {
+      "name": "Øvstabøstølen",
+      "latitude": 58.86581,
+      "longitude": 6.563018
+    },
+    {
+      "name": "Øysand/Buvika - E39",
+      "latitude": 63.323704,
+      "longitude": 10.243855
+    }
+  ],
+  "meta": {
+    "title": "Named monitoring stations in Norway - Gratis nedlasting",
+    "description": "Named monitoring stations in Norway, derived from OpenStreetMap POI nodes tagged man_made=monitoring_station in the EU-POIS/NO zoom-12 quadkey tile set. Named features only. Coordinates are the source node positions rounded to 6 decimal places; records are deduplicated on (name, coordinates rounded to ~100 m) and sorted by name. Filtered to a Norwegian bounding box (lat 57.9-80.0, lon 4.0-31.5, covering the mainland and Svalbard) to drop cross-border tile bleed. The source carries no administrative attribute, so no per-fylke split is provided. Inneholder 369 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Named monitoring stations in Norway | ListBase",
+    "seo_description": "Last ned Named monitoring stations in Norway — 369 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 369 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "id": "no-kunstsentre",
+  "name": "Arts centres in Norway",
+  "title": "Arts centres in Norway",
+  "description": "Arts centres in Norway (Kunstsentre i Norge), derived from OpenStreetMap POIs tagged amenity=arts_centre. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Atelier 205",
+      "latitude": 60.397621,
+      "longitude": 5.311518
+    },
+    {
+      "name": "Atelier Mona Ida",
+      "latitude": 58.830978,
+      "longitude": 7.808048
+    },
+    {
+      "name": "Bakklandet ramme og kunst",
+      "latitude": 63.425662,
+      "longitude": 10.403305
+    },
+    {
+      "name": "Bankgården",
+      "latitude": 58.461078,
+      "longitude": 8.765489
+    },
+    {
+      "name": "BGE Contemporary Art Projects AS",
+      "latitude": 58.965545,
+      "longitude": 5.728796
+    },
+    {
+      "name": "Biermannsgården",
+      "latitude": 59.931562,
+      "longitude": 10.754794
+    },
+    {
+      "name": "Blunk",
+      "latitude": 63.437708,
+      "longitude": 10.421114
+    },
+    {
+      "name": "Bodø kunstforening",
+      "latitude": 67.280338,
+      "longitude": 14.371242
+    },
+    {
+      "name": "Buen Kulturhus",
+      "latitude": 58.025305,
+      "longitude": 7.45613
+    },
+    {
+      "name": "Den Gröne Fabrikken",
+      "latitude": 60.573963,
+      "longitude": 5.476344
+    },
+    {
+      "name": "Energimølla",
+      "latitude": 59.667855,
+      "longitude": 9.652226
+    },
+    {
+      "name": "Fabrikken",
+      "latitude": 61.118376,
+      "longitude": 10.455482
+    },
+    {
+      "name": "Fjellhallen",
+      "latitude": 57.983313,
+      "longitude": 7.047691
+    },
+    {
+      "name": "Frøya kulturhus",
+      "latitude": 63.730587,
+      "longitude": 8.830736
+    },
+    {
+      "name": "Fyrvokterboligen",
+      "latitude": 57.982749,
+      "longitude": 7.04805
+    },
+    {
+      "name": "Galleri D6",
+      "latitude": 59.663835,
+      "longitude": 10.788561
+    },
+    {
+      "name": "Galleri Espolin",
+      "latitude": 68.208139,
+      "longitude": 14.451465
+    },
+    {
+      "name": "Galleri SG",
+      "latitude": 63.431085,
+      "longitude": 10.402839
+    },
+    {
+      "name": "Galleri Thora",
+      "latitude": 63.427823,
+      "longitude": 10.388481
+    },
+    {
+      "name": "Galleri Trafo",
+      "latitude": 59.833232,
+      "longitude": 10.435238
+    },
+    {
+      "name": "Galleri Ullinsvin",
+      "latitude": 61.877565,
+      "longitude": 9.087799
+    },
+    {
+      "name": "Gildeskål kulturhus",
+      "latitude": 67.035054,
+      "longitude": 14.033391
+    },
+    {
+      "name": "Hamar Kulturhus",
+      "latitude": 60.795446,
+      "longitude": 11.067371
+    },
+    {
+      "name": "Haugaland Kunstverk",
+      "latitude": 59.416537,
+      "longitude": 5.252274
+    },
+    {
+      "name": "Hellviktangen",
+      "latitude": 59.851265,
+      "longitude": 10.68681
+    },
+    {
+      "name": "Hordaland kunstsenter",
+      "latitude": 60.395228,
+      "longitude": 5.315124
+    },
+    {
+      "name": "House of Foundation",
+      "latitude": 59.438481,
+      "longitude": 10.666351
+    },
+    {
+      "name": "Ibsenhuset",
+      "latitude": 59.207649,
+      "longitude": 9.605304
+    },
+    {
+      "name": "Institut Français",
+      "latitude": 58.969634,
+      "longitude": 5.725858
+    },
+    {
+      "name": "Institut Français",
+      "latitude": 59.92351,
+      "longitude": 10.723177
+    },
+    {
+      "name": "Instituto Italiano De Cultura",
+      "latitude": 59.918938,
+      "longitude": 10.721942
+    },
+    {
+      "name": "Jærens kunstgalleri",
+      "latitude": 58.735605,
+      "longitude": 5.64443
+    },
+    {
+      "name": "Kabuso",
+      "latitude": 60.387995,
+      "longitude": 6.201465
+    },
+    {
+      "name": "Kamerina Kulturverksted",
+      "latitude": 59.825322,
+      "longitude": 9.064538
+    },
+    {
+      "name": "Kardemomme kunstforening",
+      "latitude": 58.187424,
+      "longitude": 8.140005
+    },
+    {
+      "name": "Kilden",
+      "latitude": 58.1393,
+      "longitude": 7.996953
+    },
+    {
+      "name": "KinoKino",
+      "latitude": 58.854082,
+      "longitude": 5.736641
+    },
+    {
+      "name": "Kulen",
+      "latitude": 67.115238,
+      "longitude": 14.045761
+    },
+    {
+      "name": "Kulturhagen",
+      "latitude": 59.82719,
+      "longitude": 10.42427
+    },
+    {
+      "name": "KulturHuset",
+      "latitude": 69.651131,
+      "longitude": 18.956433
+    },
+    {
+      "name": "Kulturkammeret",
+      "latitude": 58.459249,
+      "longitude": 8.766805
+    },
+    {
+      "name": "Kulturskolen Askim, Skiptvedt og Spydeberg",
+      "latitude": 59.584186,
+      "longitude": 11.166135
+    },
+    {
+      "name": "Kulturtjenesten",
+      "latitude": 59.928064,
+      "longitude": 10.962119
+    },
+    {
+      "name": "Kunstarken, Kunstakademiet i Trondheim",
+      "latitude": 63.433559,
+      "longitude": 10.413593
+    },
+    {
+      "name": "Kunsthall Stavanger",
+      "latitude": 58.962809,
+      "longitude": 5.722348
+    },
+    {
+      "name": "Lademoen Kunstnerverksteder",
+      "latitude": 63.43763,
+      "longitude": 10.42868
+    },
+    {
+      "name": "Leveld kunstnartun",
+      "latitude": 60.702738,
+      "longitude": 8.473892
+    },
+    {
+      "name": "Litteraturhuset Fredrikstad",
+      "latitude": 59.212304,
+      "longitude": 10.936072
+    },
+    {
+      "name": "Munken",
+      "latitude": 58.462419,
+      "longitude": 8.763685
+    },
+    {
+      "name": "Munken Bar & Scene",
+      "latitude": 58.462396,
+      "longitude": 8.76351
+    },
+    {
+      "name": "Narvik kulturhus",
+      "latitude": 68.438707,
+      "longitude": 17.428619
+    },
+    {
+      "name": "Nesoddeparken Kunst- og Kultursenter",
+      "latitude": 59.807869,
+      "longitude": 10.682906
+    },
+    {
+      "name": "Nevernes havn",
+      "latitude": 65.439982,
+      "longitude": 12.587436
+    },
+    {
+      "name": "Nils Aas Kunstverksted",
+      "latitude": 63.871127,
+      "longitude": 11.296396
+    },
+    {
+      "name": "Nordisk Kunstnarsenter Dale",
+      "latitude": 61.359525,
+      "longitude": 5.403878
+    },
+    {
+      "name": "nyMusikk",
+      "latitude": 59.911136,
+      "longitude": 10.765296
+    },
+    {
+      "name": "Piksel",
+      "latitude": 60.397854,
+      "longitude": 5.311061
+    },
+    {
+      "name": "Risør Kunstpark",
+      "latitude": 58.721945,
+      "longitude": 9.230015
+    },
+    {
+      "name": "Rogaland kunstsenter",
+      "latitude": 58.969951,
+      "longitude": 5.739264
+    },
+    {
+      "name": "SceneU",
+      "latitude": 60.19018,
+      "longitude": 12.00121
+    },
+    {
+      "name": "Schous kulturbryggeri",
+      "latitude": 59.920033,
+      "longitude": 10.760491
+    },
+    {
+      "name": "Sekkefabrikken kulturhus",
+      "latitude": 59.781405,
+      "longitude": 10.496451
+    },
+    {
+      "name": "Sjøborg Kino",
+      "latitude": 62.340916,
+      "longitude": 5.849472
+    },
+    {
+      "name": "Sjøholmen Kulturhus",
+      "latitude": 59.892083,
+      "longitude": 10.541807
+    },
+    {
+      "name": "SKOKS - Skeivt Kunst- og Kultursenter",
+      "latitude": 59.911952,
+      "longitude": 10.764862
+    },
+    {
+      "name": "Storgata 42",
+      "latitude": 69.647635,
+      "longitude": 18.953494
+    },
+    {
+      "name": "Sunndal kulturhus",
+      "latitude": 62.674008,
+      "longitude": 8.562536
+    },
+    {
+      "name": "Sámi dáiddaguovdáš",
+      "latitude": 69.469917,
+      "longitude": 25.511226
+    },
+    {
+      "name": "Sølvberget (Bibliotek og Kulturhus)",
+      "latitude": 58.971457,
+      "longitude": 5.733419
+    },
+    {
+      "name": "TEKS",
+      "latitude": 63.429424,
+      "longitude": 10.403738
+    },
+    {
+      "name": "Telemark Kunstsenter",
+      "latitude": 59.209993,
+      "longitude": 9.605343
+    },
+    {
+      "name": "Tormodsbrygga",
+      "latitude": 67.036837,
+      "longitude": 14.027838
+    },
+    {
+      "name": "Troms Kysten (Troms Fylkeskultursenter)",
+      "latitude": 69.637738,
+      "longitude": 18.932665
+    },
+    {
+      "name": "Trondheim kulturskole - Bispehaugen",
+      "latitude": 63.431083,
+      "longitude": 10.414615
+    },
+    {
+      "name": "USF Verfet",
+      "latitude": 60.395589,
+      "longitude": 5.308613
+    },
+    {
+      "name": "Uthaug Kunstsenter",
+      "latitude": 60.410578,
+      "longitude": 11.040177
+    },
+    {
+      "name": "Visningsrommet USF",
+      "latitude": 60.395865,
+      "longitude": 5.308517
+    },
+    {
+      "name": "Ørland kultursenter",
+      "latitude": 63.685221,
+      "longitude": 9.665802
+    },
+    {
+      "name": "Øvingsparken",
+      "latitude": 60.379756,
+      "longitude": 5.344595
+    }
+  ],
+  "meta": {
+    "title": "Arts centres in Norway - Gratis nedlasting",
+    "description": "Arts centres in Norway (Kunstsentre i Norge), derived from OpenStreetMap POIs tagged amenity=arts_centre. Named features only, clipped to mainland Norway. Inneholder 79 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Arts centres in Norway | ListBase",
+    "seo_description": "Last ned Arts centres in Norway — 79 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 79 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

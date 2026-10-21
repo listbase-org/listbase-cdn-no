@@ -1,0 +1,500 @@
+{
+  "id": "no-trondelag-osm-museer",
+  "name": "Museer i Trøndelag – OpenStreetMap (39 museums in Trøndelag, OSM)",
+  "title": "Museer i Trøndelag – OpenStreetMap (39 museums in Trøndelag, OSM)",
+  "description": "Museer i fylket Trøndelag fra OpenStreetMap — delmengde av no-osm-museer, 39 poster.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "naermeste_sted",
+      "label": "Naermeste Sted",
+      "type": "string"
+    },
+    {
+      "key": "avstand_km",
+      "label": "Avstand Km",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Austrått Fort",
+      "name_en": "",
+      "city": "Brekstad",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Brekstad",
+      "avstand_km": 3.663,
+      "latitude": 63.70834,
+      "longitude": 9.722044,
+      "website": ""
+    },
+    {
+      "name": "Austråttborgen",
+      "name_en": "",
+      "city": "Brekstad",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Brekstad",
+      "avstand_km": 4.273,
+      "latitude": 63.70392,
+      "longitude": 9.743261,
+      "website": ""
+    },
+    {
+      "name": "Bergsmo Bygdamuseum",
+      "name_en": "",
+      "city": "Grong",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Grong",
+      "avstand_km": 4.651,
+      "latitude": 64.46706,
+      "longitude": 12.219122,
+      "website": ""
+    },
+    {
+      "name": "Det Kongelige Norske Videnskabers Selskab",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.432,
+      "latitude": 63.429121,
+      "longitude": 10.386986,
+      "website": ""
+    },
+    {
+      "name": "Det jødiske museum",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.467,
+      "latitude": 63.426404,
+      "longitude": 10.392998,
+      "website": ""
+    },
+    {
+      "name": "Egge museum",
+      "name_en": "",
+      "city": "Steinkjer",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Steinkjer",
+      "avstand_km": 1.662,
+      "latitude": 64.022284,
+      "longitude": 11.465746,
+      "website": ""
+    },
+    {
+      "name": "Falkbergets hjemsted",
+      "name_en": "",
+      "city": "Ålen",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Ålen",
+      "avstand_km": 14.064,
+      "latitude": 62.716842,
+      "longitude": 11.342593,
+      "website": ""
+    },
+    {
+      "name": "Fjølstadtrøa Museum",
+      "name_en": "",
+      "city": "Malvik",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Malvik",
+      "avstand_km": 2.731,
+      "latitude": 63.413174,
+      "longitude": 10.651825,
+      "website": ""
+    },
+    {
+      "name": "Gammelbua",
+      "name_en": "",
+      "city": "Berkåk",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Berkåk",
+      "avstand_km": 10.462,
+      "latitude": 62.876791,
+      "longitude": 9.839652,
+      "website": ""
+    },
+    {
+      "name": "Inderøy Bygdemuseum",
+      "name_en": "",
+      "city": "Straumen",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Straumen",
+      "avstand_km": 1.256,
+      "latitude": 63.875162,
+      "longitude": 11.271863,
+      "website": ""
+    },
+    {
+      "name": "Kystens arv",
+      "name_en": "",
+      "city": "Rissa",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Rissa",
+      "avstand_km": 10.217,
+      "latitude": 63.495172,
+      "longitude": 10.015123,
+      "website": ""
+    },
+    {
+      "name": "Kystmuseet",
+      "name_en": "",
+      "city": "Fillan",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Fillan",
+      "avstand_km": 0.045,
+      "latitude": 63.6066,
+      "longitude": 8.968813,
+      "website": ""
+    },
+    {
+      "name": "Lerfald Helleristinger",
+      "name_en": "",
+      "city": "Skogn",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Hegra",
+      "avstand_km": 2.556,
+      "latitude": 63.468143,
+      "longitude": 11.165732,
+      "website": ""
+    },
+    {
+      "name": "Levanger museum",
+      "name_en": "",
+      "city": "Levanger",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Levanger",
+      "avstand_km": 0.376,
+      "latitude": 63.744411,
+      "longitude": 11.293416,
+      "website": ""
+    },
+    {
+      "name": "Middelalderutstilling",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.508,
+      "latitude": 63.428355,
+      "longitude": 10.386085,
+      "website": ""
+    },
+    {
+      "name": "Mostadmark Jernverk",
+      "name_en": "",
+      "city": "Hommelvik",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Hommelvik",
+      "avstand_km": 6.743,
+      "latitude": 63.35095,
+      "longitude": 10.772435,
+      "website": ""
+    },
+    {
+      "name": "Mosvik Bygdemuseum",
+      "name_en": "",
+      "city": "Skogn",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Straumen",
+      "avstand_km": 15.524,
+      "latitude": 63.820621,
+      "longitude": 11.001334,
+      "website": ""
+    },
+    {
+      "name": "Museet i Erkebispegården",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.5,
+      "latitude": 63.426063,
+      "longitude": 10.396743,
+      "website": ""
+    },
+    {
+      "name": "NTNU Vitenskapsmuseet",
+      "name_en": "The NTNU Museum of Natural History and Archaeology",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.455,
+      "latitude": 63.429032,
+      "longitude": 10.386559,
+      "website": ""
+    },
+    {
+      "name": "Namdalsmuseet",
+      "name_en": "",
+      "city": "Namsos",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Namsos",
+      "avstand_km": 1.268,
+      "latitude": 64.468987,
+      "longitude": 11.521359,
+      "website": "http://namdalsmuseet.no/"
+    },
+    {
+      "name": "Norsk Døvemuseum",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.398,
+      "latitude": 63.427322,
+      "longitude": 10.391425,
+      "website": ""
+    },
+    {
+      "name": "Norsk rettsmuseum",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.836,
+      "latitude": 63.429855,
+      "longitude": 10.378358,
+      "website": ""
+    },
+    {
+      "name": "Norveg",
+      "name_en": "",
+      "city": "Rørvik",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Rørvik",
+      "avstand_km": 0.294,
+      "latitude": 64.85976,
+      "longitude": 11.233993,
+      "website": ""
+    },
+    {
+      "name": "Nygaardsvoldsmuseet",
+      "name_en": "",
+      "city": "Hommelvik",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Hommelvik",
+      "avstand_km": 0.415,
+      "latitude": 63.407944,
+      "longitude": 10.799573,
+      "website": ""
+    },
+    {
+      "name": "Orkdal bygdetun",
+      "name_en": "",
+      "city": "Meldal",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Løkken Verk",
+      "avstand_km": 4.918,
+      "latitude": 63.169684,
+      "longitude": 9.717323,
+      "website": ""
+    },
+    {
+      "name": "Orkla industrimuseum",
+      "name_en": "",
+      "city": "Meldal",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Løkken Verk",
+      "avstand_km": 0.086,
+      "latitude": 63.125028,
+      "longitude": 9.705242,
+      "website": ""
+    },
+    {
+      "name": "Prestegårdslåna",
+      "name_en": "",
+      "city": "Melhus",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Melhus",
+      "avstand_km": 1.591,
+      "latitude": 63.272904,
+      "longitude": 10.292756,
+      "website": ""
+    },
+    {
+      "name": "Ranheim bydelsmuseum",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 6.943,
+      "latitude": 63.428081,
+      "longitude": 10.53458,
+      "website": ""
+    },
+    {
+      "name": "Rein Kloster",
+      "name_en": "",
+      "city": "Rissa",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Rissa",
+      "avstand_km": 2.853,
+      "latitude": 63.564639,
+      "longitude": 9.921314,
+      "website": ""
+    },
+    {
+      "name": "Rennebu Bygdetun",
+      "name_en": "",
+      "city": "Meldal",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Berkåk",
+      "avstand_km": 11.898,
+      "latitude": 62.887207,
+      "longitude": 9.820973,
+      "website": ""
+    },
+    {
+      "name": "Riksregalieutstillingen",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.467,
+      "latitude": 63.4263,
+      "longitude": 10.395319,
+      "website": ""
+    },
+    {
+      "name": "Ringve Museum",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 3.484,
+      "latitude": 63.447429,
+      "longitude": 10.454054,
+      "website": ""
+    },
+    {
+      "name": "Rock City",
+      "name_en": "",
+      "city": "Namsos",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Namsos",
+      "avstand_km": 0.5,
+      "latitude": 64.468821,
+      "longitude": 11.487231,
+      "website": "http://www.rockcity.no/"
+    },
+    {
+      "name": "Rustkammeret",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.522,
+      "latitude": 63.425805,
+      "longitude": 10.395287,
+      "website": ""
+    },
+    {
+      "name": "Stiklestad Nasjonale Kultursenter",
+      "name_en": "",
+      "city": "Verdal",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Verdal",
+      "avstand_km": 3.994,
+      "latitude": 63.795933,
+      "longitude": 11.562824,
+      "website": ""
+    },
+    {
+      "name": "Stjordal Musee",
+      "name_en": "",
+      "city": "Stjørdalshalsen",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Stjørdalshalsen",
+      "avstand_km": 2.214,
+      "latitude": 63.454064,
+      "longitude": 10.9578,
+      "website": ""
+    },
+    {
+      "name": "Tinnveden",
+      "name_en": "",
+      "city": "Brekstad",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Brekstad",
+      "avstand_km": 5.763,
+      "latitude": 63.715737,
+      "longitude": 9.568047,
+      "website": ""
+    },
+    {
+      "name": "Vitensenteret",
+      "name_en": "",
+      "city": "Trondheim",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Trondheim",
+      "avstand_km": 0.291,
+      "latitude": 63.430104,
+      "longitude": 10.400893,
+      "website": "http://viten.ntnu.no/"
+    },
+    {
+      "name": "Østbysaga",
+      "name_en": "",
+      "city": "Steinkjer",
+      "fylke": "Trøndelag",
+      "naermeste_sted": "Steinkjer",
+      "avstand_km": 2.527,
+      "latitude": 64.036097,
+      "longitude": 11.476716,
+      "website": ""
+    }
+  ],
+  "meta": {
+    "title": "Museer i Trøndelag – OpenStreetMap (39 museums in Trøndelag, OSM) - Gratis nedlasting",
+    "description": "Museer i fylket Trøndelag fra OpenStreetMap — delmengde av no-osm-museer, 39 poster. Inneholder 39 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Museer i Trøndelag – OpenStreetMap (39 museums in Trøndelag, OSM) | ListBase",
+    "seo_description": "Last ned Museer i Trøndelag – OpenStreetMap (39 museums in Trøndelag, OSM) — 39 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 39 poster / 9 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

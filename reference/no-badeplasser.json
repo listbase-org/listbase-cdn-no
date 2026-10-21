@@ -1,0 +1,716 @@
+{
+  "id": "no-badeplasser",
+  "name": "Swimming areas in Norway",
+  "title": "Swimming areas in Norway",
+  "description": "Swimming areas in Norway (Badeplasser i Norge), derived from OpenStreetMap POIs tagged leisure=swimming_area. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 135,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Abbortjern",
+      "latitude": 61.134668,
+      "longitude": 10.517817
+    },
+    {
+      "name": "Badeberget",
+      "latitude": 60.492356,
+      "longitude": 11.429714
+    },
+    {
+      "name": "Bekkodden Badeplass",
+      "latitude": 61.025069,
+      "longitude": 10.488736
+    },
+    {
+      "name": "Bjørnstadvika Badeplass",
+      "latitude": 61.021755,
+      "longitude": 10.459462
+    },
+    {
+      "name": "Bjørnstadvika Badeplass",
+      "latitude": 61.024214,
+      "longitude": 10.454478
+    },
+    {
+      "name": "Bjørnstadvika Badeplass",
+      "latitude": 61.026053,
+      "longitude": 10.453121
+    },
+    {
+      "name": "Bjørsjøen badeplass",
+      "latitude": 63.250236,
+      "longitude": 10.507914
+    },
+    {
+      "name": "Bliva",
+      "latitude": 59.282797,
+      "longitude": 9.526913
+    },
+    {
+      "name": "Boligvika",
+      "latitude": 60.93772,
+      "longitude": 10.681542
+    },
+    {
+      "name": "Boligvika Badeplass",
+      "latitude": 60.937947,
+      "longitude": 10.680127
+    },
+    {
+      "name": "Bråstad Badeplass",
+      "latitude": 60.821183,
+      "longitude": 10.678643
+    },
+    {
+      "name": "Bystranda Badeplass",
+      "latitude": 60.878459,
+      "longitude": 10.919917
+    },
+    {
+      "name": "Båssenden badeplass",
+      "latitude": 60.880753,
+      "longitude": 10.889341
+    },
+    {
+      "name": "Dikkon",
+      "latitude": 59.059425,
+      "longitude": 9.723922
+    },
+    {
+      "name": "Dilsdalstranda",
+      "latitude": 59.253295,
+      "longitude": 9.431434
+    },
+    {
+      "name": "Domkirkeodden Badeplass",
+      "latitude": 60.792005,
+      "longitude": 11.034864
+    },
+    {
+      "name": "Dælimoen Badeplass",
+      "latitude": 61.006926,
+      "longitude": 10.542732
+    },
+    {
+      "name": "Eidsand Badeplass",
+      "latitude": 60.489088,
+      "longitude": 10.439616
+    },
+    {
+      "name": "Evjua Badeplass",
+      "latitude": 60.643821,
+      "longitude": 11.044741
+    },
+    {
+      "name": "Finsandsviken Badeplass",
+      "latitude": 61.012974,
+      "longitude": 10.516336
+    },
+    {
+      "name": "Fiskerly Badeplass",
+      "latitude": 60.854664,
+      "longitude": 10.949022
+    },
+    {
+      "name": "Flutua Badeplass",
+      "latitude": 61.00166,
+      "longitude": 10.500362
+    },
+    {
+      "name": "Fløksand och Leirvik Gard Friluftområde",
+      "latitude": 60.539903,
+      "longitude": 5.092608
+    },
+    {
+      "name": "Fløyta",
+      "latitude": 60.336269,
+      "longitude": 11.328095
+    },
+    {
+      "name": "Fredvika Badeplass",
+      "latitude": 60.789379,
+      "longitude": 10.701753
+    },
+    {
+      "name": "Fristranda Badeplass",
+      "latitude": 60.822562,
+      "longitude": 10.679103
+    },
+    {
+      "name": "Furevika",
+      "latitude": 60.260948,
+      "longitude": 5.292916
+    },
+    {
+      "name": "Furuberget Badeplass",
+      "latitude": 60.819832,
+      "longitude": 11.006583
+    },
+    {
+      "name": "Gardsvågen",
+      "latitude": 59.102926,
+      "longitude": 5.842373
+    },
+    {
+      "name": "Gillundstranda Badeplass",
+      "latitude": 60.711927,
+      "longitude": 11.104205
+    },
+    {
+      "name": "Grandfjæra friområde",
+      "latitude": 63.663972,
+      "longitude": 10.609181
+    },
+    {
+      "name": "Gryta",
+      "latitude": 59.567797,
+      "longitude": 10.4303
+    },
+    {
+      "name": "Hagelund Badeplass",
+      "latitude": 60.768866,
+      "longitude": 10.858891
+    },
+    {
+      "name": "Hallestranda",
+      "latitude": 59.017136,
+      "longitude": 9.909781
+    },
+    {
+      "name": "Hallestranda",
+      "latitude": 59.017343,
+      "longitude": 9.908967
+    },
+    {
+      "name": "Harpvika Badeplass",
+      "latitude": 60.887745,
+      "longitude": 10.885805
+    },
+    {
+      "name": "Haråssanden",
+      "latitude": 59.347198,
+      "longitude": 8.113031
+    },
+    {
+      "name": "Haverbekkvika",
+      "latitude": 60.790149,
+      "longitude": 11.467375
+    },
+    {
+      "name": "Hekshus Badeplass",
+      "latitude": 60.723252,
+      "longitude": 10.8509
+    },
+    {
+      "name": "Hengebrua badeplass",
+      "latitude": 63.263664,
+      "longitude": 10.459597
+    },
+    {
+      "name": "HIAS-Stranda Badeplass",
+      "latitude": 60.768004,
+      "longitude": 11.074664
+    },
+    {
+      "name": "Holmen",
+      "latitude": 60.434633,
+      "longitude": 5.456801
+    },
+    {
+      "name": "Holvik",
+      "latitude": 59.545207,
+      "longitude": 10.656869
+    },
+    {
+      "name": "Homborsund badebrygge",
+      "latitude": 58.263832,
+      "longitude": 8.508955
+    },
+    {
+      "name": "Hundsfossen",
+      "latitude": 58.196273,
+      "longitude": 7.027862
+    },
+    {
+      "name": "Ingierstrand bad",
+      "latitude": 59.818306,
+      "longitude": 10.748342
+    },
+    {
+      "name": "Jessnesstranda Badeplass",
+      "latitude": 60.827423,
+      "longitude": 10.985708
+    },
+    {
+      "name": "Julekvelden",
+      "latitude": 59.769576,
+      "longitude": 10.787296
+    },
+    {
+      "name": "Kise Badeplass",
+      "latitude": 60.772563,
+      "longitude": 10.801344
+    },
+    {
+      "name": "Koigen Badeplass",
+      "latitude": 60.79273,
+      "longitude": 11.060865
+    },
+    {
+      "name": "Kolsjøen badeplass",
+      "latitude": 62.589442,
+      "longitude": 9.677369
+    },
+    {
+      "name": "Korgerstuguvika Badeplass",
+      "latitude": 60.91202,
+      "longitude": 10.701939
+    },
+    {
+      "name": "Korgerstuguvika Badeplass",
+      "latitude": 60.914197,
+      "longitude": 10.707068
+    },
+    {
+      "name": "Kremmerodden Badeplass",
+      "latitude": 60.947662,
+      "longitude": 10.642239
+    },
+    {
+      "name": "Kremmerodden Badeplass",
+      "latitude": 60.94887,
+      "longitude": 10.64279
+    },
+    {
+      "name": "Kvarbergvika Badeplass",
+      "latitude": 60.874369,
+      "longitude": 10.897113
+    },
+    {
+      "name": "Kvellandshølen",
+      "latitude": 58.184563,
+      "longitude": 7.100052
+    },
+    {
+      "name": "Kvitsandvika Badeplass",
+      "latitude": 61.033074,
+      "longitude": 10.492032
+    },
+    {
+      "name": "Leirvika",
+      "latitude": 62.671108,
+      "longitude": 6.66855
+    },
+    {
+      "name": "Linepollen",
+      "latitude": 58.348213,
+      "longitude": 6.333927
+    },
+    {
+      "name": "Luravika",
+      "latitude": 58.874074,
+      "longitude": 5.741464
+    },
+    {
+      "name": "Martodden Badeplass",
+      "latitude": 60.803645,
+      "longitude": 11.023984
+    },
+    {
+      "name": "Mattisvollen",
+      "latitude": 61.096444,
+      "longitude": 10.702044
+    },
+    {
+      "name": "Melkefabrikken Badeplass",
+      "latitude": 60.718467,
+      "longitude": 10.858712
+    },
+    {
+      "name": "Mindalen",
+      "latitude": 58.722562,
+      "longitude": 9.198766
+    },
+    {
+      "name": "Moelv Brygge Badeplass",
+      "latitude": 60.925396,
+      "longitude": 10.684999
+    },
+    {
+      "name": "Morskogen Badeplass",
+      "latitude": 60.470643,
+      "longitude": 11.238408
+    },
+    {
+      "name": "Mosodden Badeplass",
+      "latitude": 61.122537,
+      "longitude": 10.441867
+    },
+    {
+      "name": "Mosodden Badeplass",
+      "latitude": 61.126771,
+      "longitude": 10.4359
+    },
+    {
+      "name": "Mærrapanna",
+      "latitude": 59.19014,
+      "longitude": 10.791893
+    },
+    {
+      "name": "Møkkvika badeplass",
+      "latitude": 60.920195,
+      "longitude": 10.690064
+    },
+    {
+      "name": "Narviktangen Badeplass",
+      "latitude": 60.484054,
+      "longitude": 11.234602
+    },
+    {
+      "name": "Nerkvernstranda",
+      "latitude": 60.874747,
+      "longitude": 10.939333
+    },
+    {
+      "name": "Olavsberget",
+      "latitude": 59.108265,
+      "longitude": 9.713845
+    },
+    {
+      "name": "Omlandstjenn",
+      "latitude": 58.703102,
+      "longitude": 9.160486
+    },
+    {
+      "name": "Panegenstranda Badeplass",
+      "latitude": 60.651846,
+      "longitude": 11.007497
+    },
+    {
+      "name": "Pellervikstranda Badeplass",
+      "latitude": 60.881522,
+      "longitude": 10.914299
+    },
+    {
+      "name": "Prinsen friluftsbad",
+      "latitude": 62.463519,
+      "longitude": 6.253614
+    },
+    {
+      "name": "Pust",
+      "latitude": 69.650966,
+      "longitude": 18.96255
+    },
+    {
+      "name": "Rambekkvika Badeplass",
+      "latitude": 60.780969,
+      "longitude": 10.702153
+    },
+    {
+      "name": "Rauøra badeplass",
+      "latitude": 62.6985,
+      "longitude": 9.398106
+    },
+    {
+      "name": "Ridehusstranda Badeplass",
+      "latitude": 60.79232,
+      "longitude": 11.051522
+    },
+    {
+      "name": "Ringstrand Badeplass",
+      "latitude": 60.898721,
+      "longitude": 10.72379
+    },
+    {
+      "name": "Roligheta",
+      "latitude": 59.603203,
+      "longitude": 10.517158
+    },
+    {
+      "name": "Rosenlundvika Badeplass",
+      "latitude": 60.795354,
+      "longitude": 11.03672
+    },
+    {
+      "name": "Røyneholm",
+      "latitude": 60.003683,
+      "longitude": 5.984981
+    },
+    {
+      "name": "Samuelstuen Badeplass",
+      "latitude": 60.993819,
+      "longitude": 10.598143
+    },
+    {
+      "name": "Sand Badeplass",
+      "latitude": 60.868014,
+      "longitude": 10.911832
+    },
+    {
+      "name": "Sanda badeplass",
+      "latitude": 60.916633,
+      "longitude": 10.696739
+    },
+    {
+      "name": "Sanda Badeplass",
+      "latitude": 60.917307,
+      "longitude": 10.694176
+    },
+    {
+      "name": "Sandnessjøen havsbad",
+      "latitude": 65.988962,
+      "longitude": 12.625988
+    },
+    {
+      "name": "Sandtaket",
+      "latitude": 58.725206,
+      "longitude": 9.159614
+    },
+    {
+      "name": "Sandvikastranda Badeplass",
+      "latitude": 60.779944,
+      "longitude": 11.09666
+    },
+    {
+      "name": "Saustadvika Badeplass",
+      "latitude": 60.874217,
+      "longitude": 10.744495
+    },
+    {
+      "name": "Sjøbadet",
+      "latitude": 63.435753,
+      "longitude": 10.390966
+    },
+    {
+      "name": "Skinkvika Badeplass",
+      "latitude": 60.929614,
+      "longitude": 10.682596
+    },
+    {
+      "name": "Skogvannet",
+      "latitude": 69.965497,
+      "longitude": 23.452109
+    },
+    {
+      "name": "Skumsrudvollene Badeplass",
+      "latitude": 60.961917,
+      "longitude": 10.625695
+    },
+    {
+      "name": "Skurven Badeplass",
+      "latitude": 60.748748,
+      "longitude": 10.936244
+    },
+    {
+      "name": "Smedstua Badeplass",
+      "latitude": 60.794742,
+      "longitude": 10.746323
+    },
+    {
+      "name": "Smestadvika Badeplass",
+      "latitude": 60.944165,
+      "longitude": 10.681734
+    },
+    {
+      "name": "Smikilen",
+      "latitude": 58.047559,
+      "longitude": 7.527005
+    },
+    {
+      "name": "Steinvik Badeplass",
+      "latitude": 60.914937,
+      "longitude": 10.702905
+    },
+    {
+      "name": "Storbadern",
+      "latitude": 59.166709,
+      "longitude": 10.423797
+    },
+    {
+      "name": "Storsandtjønna badeplass",
+      "latitude": 62.617828,
+      "longitude": 11.164539
+    },
+    {
+      "name": "Storvannet",
+      "latitude": 70.68202,
+      "longitude": 23.703529
+    },
+    {
+      "name": "Stranden Badeplass",
+      "latitude": 60.759222,
+      "longitude": 10.919774
+    },
+    {
+      "name": "Strandengen Badeplass",
+      "latitude": 61.000528,
+      "longitude": 10.50348
+    },
+    {
+      "name": "Strandheim Badeplass",
+      "latitude": 60.831477,
+      "longitude": 10.92656
+    },
+    {
+      "name": "Strandpromenaden Badeplass",
+      "latitude": 61.110798,
+      "longitude": 10.456387
+    },
+    {
+      "name": "Støjordet Badeplass",
+      "latitude": 60.425185,
+      "longitude": 11.237597
+    },
+    {
+      "name": "Sustad Badeplass",
+      "latitude": 61.10092,
+      "longitude": 10.461436
+    },
+    {
+      "name": "Svartekulpen",
+      "latitude": 59.711391,
+      "longitude": 10.099411
+    },
+    {
+      "name": "Svean bad",
+      "latitude": 63.281559,
+      "longitude": 10.473495
+    },
+    {
+      "name": "Svean Moodden friluftsområde",
+      "latitude": 63.2825,
+      "longitude": 10.46653
+    },
+    {
+      "name": "Sveastranda Badeplass",
+      "latitude": 60.888645,
+      "longitude": 10.677075
+    },
+    {
+      "name": "Sveastranda Badeplass",
+      "latitude": 60.890626,
+      "longitude": 10.6763
+    },
+    {
+      "name": "Sveastranda Badeplass",
+      "latitude": 60.891321,
+      "longitude": 10.673866
+    },
+    {
+      "name": "Sætre bystrand",
+      "latitude": 59.68307,
+      "longitude": 10.52953
+    },
+    {
+      "name": "Tallodden Badeplass",
+      "latitude": 60.716818,
+      "longitude": 10.875339
+    },
+    {
+      "name": "Tangenodden Badeplass",
+      "latitude": 60.613313,
+      "longitude": 11.260413
+    },
+    {
+      "name": "Tangnesodden Badeplass",
+      "latitude": 60.81804,
+      "longitude": 10.720455
+    },
+    {
+      "name": "Tjønnebotten",
+      "latitude": 59.340195,
+      "longitude": 9.098959
+    },
+    {
+      "name": "Trouville bad",
+      "latitude": 59.209244,
+      "longitude": 10.767976
+    },
+    {
+      "name": "Tussetjern",
+      "latitude": 59.762093,
+      "longitude": 10.830875
+    },
+    {
+      "name": "Tøgevågen",
+      "latitude": 59.09258,
+      "longitude": 5.918864
+    },
+    {
+      "name": "Vadberget",
+      "latitude": 59.02924,
+      "longitude": 9.772376
+    },
+    {
+      "name": "Velstranda Badeplass",
+      "latitude": 60.761672,
+      "longitude": 10.938852
+    },
+    {
+      "name": "Verven Badeplass",
+      "latitude": 60.872749,
+      "longitude": 10.942607
+    },
+    {
+      "name": "Vindingstad Badeplass",
+      "latitude": 60.773134,
+      "longitude": 10.714189
+    },
+    {
+      "name": "Vingnesvika Badeplass",
+      "latitude": 61.103137,
+      "longitude": 10.442146
+    },
+    {
+      "name": "Vingromdammen Badeplass",
+      "latitude": 61.04498,
+      "longitude": 10.437551
+    },
+    {
+      "name": "Vingromdammen Badeplass",
+      "latitude": 61.046101,
+      "longitude": 10.438181
+    },
+    {
+      "name": "Ångardsvatnet badestrand",
+      "latitude": 62.662869,
+      "longitude": 9.207569
+    },
+    {
+      "name": "Årnesstranda Badeplass",
+      "latitude": 60.478785,
+      "longitude": 11.170202
+    }
+  ],
+  "meta": {
+    "title": "Swimming areas in Norway - Gratis nedlasting",
+    "description": "Swimming areas in Norway (Badeplasser i Norge), derived from OpenStreetMap POIs tagged leisure=swimming_area. Named features only, clipped to mainland Norway. Inneholder 135 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Swimming areas in Norway | ListBase",
+    "seo_description": "Last ned Swimming areas in Norway — 135 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 135 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

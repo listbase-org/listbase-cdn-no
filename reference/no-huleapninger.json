@@ -1,0 +1,616 @@
+{
+  "id": "no-huleapninger",
+  "name": "Cave entrances in Norway",
+  "title": "Cave entrances in Norway",
+  "description": "Cave entrances in Norway (Huleapninger i Norge), derived from OpenStreetMap POIs tagged natural=cave_entrance. Named features only, clipped to mainland Norway.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 115,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Baalsrudhula",
+      "latitude": 69.379126,
+      "longitude": 20.58376
+    },
+    {
+      "name": "Bekhilderen",
+      "latitude": 60.239284,
+      "longitude": 4.983217
+    },
+    {
+      "name": "Bjurälvsgrottan",
+      "latitude": 64.911444,
+      "longitude": 14.056041
+    },
+    {
+      "name": "Bjødnahiet",
+      "latitude": 58.832591,
+      "longitude": 6.212679
+    },
+    {
+      "name": "Bjødnahiet",
+      "latitude": 60.647521,
+      "longitude": 6.817238
+    },
+    {
+      "name": "Bjørnehiet",
+      "latitude": 59.849639,
+      "longitude": 10.384795
+    },
+    {
+      "name": "Bjørnehulen",
+      "latitude": 59.121138,
+      "longitude": 11.227772
+    },
+    {
+      "name": "Bolgbørra",
+      "latitude": 66.80631,
+      "longitude": 13.219745
+    },
+    {
+      "name": "Breigangen",
+      "latitude": 59.242073,
+      "longitude": 9.533864
+    },
+    {
+      "name": "Breive Pumpstasjon",
+      "latitude": 59.574064,
+      "longitude": 7.281038
+    },
+    {
+      "name": "Bremsneshula",
+      "latitude": 63.079411,
+      "longitude": 7.646039
+    },
+    {
+      "name": "Bruberggruva",
+      "latitude": 59.261387,
+      "longitude": 9.516818
+    },
+    {
+      "name": "Bunker",
+      "latitude": 59.272688,
+      "longitude": 10.405013
+    },
+    {
+      "name": "Busopphola",
+      "latitude": 59.938927,
+      "longitude": 10.464333
+    },
+    {
+      "name": "Catos gryte",
+      "latitude": 60.028789,
+      "longitude": 10.837264
+    },
+    {
+      "name": "Dollsteinhola",
+      "latitude": 62.258254,
+      "longitude": 5.400502
+    },
+    {
+      "name": "Dragens hule",
+      "latitude": 58.978169,
+      "longitude": 9.330989
+    },
+    {
+      "name": "Duehallaren",
+      "latitude": 63.771905,
+      "longitude": 9.622994
+    },
+    {
+      "name": "Finnegrotta",
+      "latitude": 59.997704,
+      "longitude": 10.34289
+    },
+    {
+      "name": "Franskhellaren",
+      "latitude": 62.644277,
+      "longitude": 6.528455
+    },
+    {
+      "name": "Futholet",
+      "latitude": 59.386984,
+      "longitude": 8.410951
+    },
+    {
+      "name": "Gabe Gottes",
+      "latitude": 62.549266,
+      "longitude": 10.426938
+    },
+    {
+      "name": "Gjest Bårdssons hole",
+      "latitude": 58.176677,
+      "longitude": 6.65914
+    },
+    {
+      "name": "Glasergruva",
+      "latitude": 59.252556,
+      "longitude": 9.531945
+    },
+    {
+      "name": "Gruven",
+      "latitude": 59.713363,
+      "longitude": 10.731443
+    },
+    {
+      "name": "Grønligrotta",
+      "latitude": 66.415493,
+      "longitude": 14.261919
+    },
+    {
+      "name": "Gålo i Gullberg",
+      "latitude": 59.77238,
+      "longitude": 5.513597
+    },
+    {
+      "name": "Hamnsundhellaren",
+      "latitude": 62.533947,
+      "longitude": 6.277049
+    },
+    {
+      "name": "Hanshelleren",
+      "latitude": 64.489542,
+      "longitude": 10.818572
+    },
+    {
+      "name": "Harbakhula",
+      "latitude": 64.080032,
+      "longitude": 10.054923
+    },
+    {
+      "name": "Hattehulene",
+      "latitude": 59.26421,
+      "longitude": 10.978533
+    },
+    {
+      "name": "Hedlebergshidleren",
+      "latitude": 60.023338,
+      "longitude": 5.868659
+    },
+    {
+      "name": "Heller",
+      "latitude": 69.73446,
+      "longitude": 18.406457
+    },
+    {
+      "name": "Helleramshula",
+      "latitude": 60.121496,
+      "longitude": 10.414507
+    },
+    {
+      "name": "Helvete",
+      "latitude": 67.436781,
+      "longitude": 11.895375
+    },
+    {
+      "name": "Hermods hule",
+      "latitude": 59.798477,
+      "longitude": 7.274103
+    },
+    {
+      "name": "Hestmonholet",
+      "latitude": 66.535847,
+      "longitude": 12.800058
+    },
+    {
+      "name": "Hestneshola",
+      "latitude": 63.589908,
+      "longitude": 8.596201
+    },
+    {
+      "name": "Hetia Gruva",
+      "latitude": 59.202339,
+      "longitude": 9.548477
+    },
+    {
+      "name": "Holet",
+      "latitude": 62.308563,
+      "longitude": 6.345893
+    },
+    {
+      "name": "Hulabakkhula",
+      "latitude": 60.970264,
+      "longitude": 8.750417
+    },
+    {
+      "name": "Hulderhola",
+      "latitude": 59.835122,
+      "longitude": 8.749887
+    },
+    {
+      "name": "Håkkahelleren",
+      "latitude": 64.516741,
+      "longitude": 10.736333
+    },
+    {
+      "name": "Hønheia",
+      "latitude": 64.075055,
+      "longitude": 9.969854
+    },
+    {
+      "name": "Jenshola",
+      "latitude": 65.05841,
+      "longitude": 12.331414
+    },
+    {
+      "name": "Johannes Blank røverhola",
+      "latitude": 63.319121,
+      "longitude": 8.027811
+    },
+    {
+      "name": "Jordbrugrotta",
+      "latitude": 66.248947,
+      "longitude": 14.7342
+    },
+    {
+      "name": "Jutulholet",
+      "latitude": 63.373948,
+      "longitude": 8.535732
+    },
+    {
+      "name": "Jøtulomnen",
+      "latitude": 62.976256,
+      "longitude": 8.80385
+    },
+    {
+      "name": "Kaldehola",
+      "latitude": 61.30413,
+      "longitude": 7.254784
+    },
+    {
+      "name": "Kapteinhola",
+      "latitude": 58.006611,
+      "longitude": 6.993753
+    },
+    {
+      "name": "Kirkhelleren",
+      "latitude": 66.502447,
+      "longitude": 12.052858
+    },
+    {
+      "name": "Kjerringhula",
+      "latitude": 59.901577,
+      "longitude": 10.857879
+    },
+    {
+      "name": "Kjetil Rasks ur",
+      "latitude": 58.067605,
+      "longitude": 8.003558
+    },
+    {
+      "name": "Kjølna",
+      "latitude": 64.062554,
+      "longitude": 9.93685
+    },
+    {
+      "name": "Kristihola",
+      "latitude": 67.259334,
+      "longitude": 15.497766
+    },
+    {
+      "name": "Krystallhula",
+      "latitude": 59.851194,
+      "longitude": 10.374562
+    },
+    {
+      "name": "Kvitflekken",
+      "latitude": 63.359442,
+      "longitude": 8.55027
+    },
+    {
+      "name": "Limåskjerka",
+      "latitude": 63.046328,
+      "longitude": 8.960235
+    },
+    {
+      "name": "Lisjegjøtten",
+      "latitude": 62.251837,
+      "longitude": 5.407425
+    },
+    {
+      "name": "Litla OleHøylandshålå",
+      "latitude": 58.487712,
+      "longitude": 5.861791
+    },
+    {
+      "name": "Lysøygrotta",
+      "latitude": 60.21579,
+      "longitude": 5.360622
+    },
+    {
+      "name": "Lågåsmyrhelleren",
+      "latitude": 58.831159,
+      "longitude": 9.335728
+    },
+    {
+      "name": "Mareminnehollet",
+      "latitude": 60.404637,
+      "longitude": 5.32241
+    },
+    {
+      "name": "Milorghula",
+      "latitude": 59.853476,
+      "longitude": 10.886904
+    },
+    {
+      "name": "Milorghula",
+      "latitude": 59.921463,
+      "longitude": 11.024834
+    },
+    {
+      "name": "Munkhola",
+      "latitude": 59.183008,
+      "longitude": 8.078914
+    },
+    {
+      "name": "Nedre Setervangsgruve",
+      "latitude": 62.555281,
+      "longitude": 10.423491
+    },
+    {
+      "name": "Nyphogget",
+      "latitude": 64.072727,
+      "longitude": 9.979819
+    },
+    {
+      "name": "Okshola",
+      "latitude": 67.260456,
+      "longitude": 15.499547
+    },
+    {
+      "name": "Ole Høilands hule",
+      "latitude": 58.268214,
+      "longitude": 8.316573
+    },
+    {
+      "name": "Ole Høylands hule",
+      "latitude": 58.239813,
+      "longitude": 8.117599
+    },
+    {
+      "name": "Ole Høylandshålå",
+      "latitude": 58.495084,
+      "longitude": 5.882623
+    },
+    {
+      "name": "Pluragrotta",
+      "latitude": 66.280056,
+      "longitude": 14.72911
+    },
+    {
+      "name": "Poddelopthola Nord",
+      "latitude": 58.21449,
+      "longitude": 6.874279
+    },
+    {
+      "name": "Poddelopthola Sør",
+      "latitude": 58.21442,
+      "longitude": 6.874301
+    },
+    {
+      "name": "Radiohola",
+      "latitude": 59.779594,
+      "longitude": 5.80699
+    },
+    {
+      "name": "Refsvikhula",
+      "latitude": 67.841239,
+      "longitude": 12.818723
+    },
+    {
+      "name": "Rottenikkens hule",
+      "latitude": 59.162509,
+      "longitude": 10.235337
+    },
+    {
+      "name": "Russehola",
+      "latitude": 69.52241,
+      "longitude": 17.412884
+    },
+    {
+      "name": "Råmundshelleren",
+      "latitude": 58.48303,
+      "longitude": 8.26044
+    },
+    {
+      "name": "Rønnågrotten",
+      "latitude": 66.878686,
+      "longitude": 14.644633
+    },
+    {
+      "name": "Rønstadhellaren",
+      "latitude": 62.618865,
+      "longitude": 6.150983
+    },
+    {
+      "name": "Røverhula",
+      "latitude": 59.450563,
+      "longitude": 10.447862
+    },
+    {
+      "name": "Røverhulene",
+      "latitude": 59.981779,
+      "longitude": 10.901497
+    },
+    {
+      "name": "Sandgjøtten",
+      "latitude": 62.253099,
+      "longitude": 5.405379
+    },
+    {
+      "name": "Setergrotta",
+      "latitude": 66.421467,
+      "longitude": 14.253929
+    },
+    {
+      "name": "Skjonghellaren",
+      "latitude": 62.519034,
+      "longitude": 6.104456
+    },
+    {
+      "name": "Smiehålå",
+      "latitude": 59.015697,
+      "longitude": 6.289249
+    },
+    {
+      "name": "Smihelleren",
+      "latitude": 61.045856,
+      "longitude": 7.803166
+    },
+    {
+      "name": "Snørrehallen",
+      "latitude": 64.075198,
+      "longitude": 10.043871
+    },
+    {
+      "name": "Steinugleflåget",
+      "latitude": 66.27263,
+      "longitude": 14.734201
+    },
+    {
+      "name": "Storbathellaren",
+      "latitude": 68.090587,
+      "longitude": 13.418934
+    },
+    {
+      "name": "Storegjøtten",
+      "latitude": 62.251899,
+      "longitude": 5.408148
+    },
+    {
+      "name": "Svartahålå",
+      "latitude": 59.081492,
+      "longitude": 5.614835
+    },
+    {
+      "name": "Svarttjernsgrotta",
+      "latitude": 59.771204,
+      "longitude": 10.031585
+    },
+    {
+      "name": "Svarttjønn hola",
+      "latitude": 59.365576,
+      "longitude": 8.985033
+    },
+    {
+      "name": "Såtåshula",
+      "latitude": 59.042355,
+      "longitude": 10.208871
+    },
+    {
+      "name": "Tjovhola",
+      "latitude": 58.688507,
+      "longitude": 7.812668
+    },
+    {
+      "name": "Tjuvenborghula",
+      "latitude": 60.329207,
+      "longitude": 9.978655
+    },
+    {
+      "name": "Tjuvolahula",
+      "latitude": 61.114807,
+      "longitude": 10.805059
+    },
+    {
+      "name": "Tolvmannshula",
+      "latitude": 59.977558,
+      "longitude": 10.796058
+    },
+    {
+      "name": "Tom Sawyers hule",
+      "latitude": 61.595038,
+      "longitude": 9.761602
+    },
+    {
+      "name": "Tomte-Elias hule",
+      "latitude": 59.045364,
+      "longitude": 11.721221
+    },
+    {
+      "name": "Torghatthullet",
+      "latitude": 65.396999,
+      "longitude": 12.089487
+    },
+    {
+      "name": "Torjeråskjerka",
+      "latitude": 65.764476,
+      "longitude": 12.413969
+    },
+    {
+      "name": "trollhula",
+      "latitude": 69.952027,
+      "longitude": 23.204828
+    },
+    {
+      "name": "Trollkirka",
+      "latitude": 68.489256,
+      "longitude": 16.640783
+    },
+    {
+      "name": "Trollkirka på Skarvøy",
+      "latitude": 58.065311,
+      "longitude": 6.911049
+    },
+    {
+      "name": "Trollkyrkja",
+      "latitude": 62.725302,
+      "longitude": 9.509283
+    },
+    {
+      "name": "Tyskerhula",
+      "latitude": 59.608276,
+      "longitude": 10.403197
+    },
+    {
+      "name": "Ulvedalshula",
+      "latitude": 60.061766,
+      "longitude": 11.012224
+    },
+    {
+      "name": "Veslegruva",
+      "latitude": 61.362733,
+      "longitude": 9.645034
+    },
+    {
+      "name": "Våpenhula",
+      "latitude": 59.465167,
+      "longitude": 10.747675
+    },
+    {
+      "name": "Wernerhula",
+      "latitude": 59.980602,
+      "longitude": 10.806388
+    }
+  ],
+  "meta": {
+    "title": "Cave entrances in Norway - Gratis nedlasting",
+    "description": "Cave entrances in Norway (Huleapninger i Norge), derived from OpenStreetMap POIs tagged natural=cave_entrance. Named features only, clipped to mainland Norway. Inneholder 115 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Cave entrances in Norway | ListBase",
+    "seo_description": "Last ned Cave entrances in Norway — 115 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 115 poster / 3 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "id": "no-more-og-romsdal-byer",
+  "name": "Byer og steder i Møre og Romsdal (Cities and places in Møre og Romsdal county, Norway)",
+  "title": "Byer og steder i Møre og Romsdal (Cities and places in Møre og Romsdal county, Norway)",
+  "description": "Byer og steder i fylket Møre og Romsdal i Noreg (52 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Møre og Romsdal county, Norway.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "county_iso3166_2",
+      "label": "County Iso3166 2",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 79050,
+      "name": "Aukra",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.80500000",
+      "longitude": "6.88722000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79052,
+      "name": "Aure",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "63.26750000",
+      "longitude": "8.52778000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79058,
+      "name": "Averøy",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "63.05344000",
+      "longitude": "7.63265000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79066,
+      "name": "Batnfjordsøra",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.89463000",
+      "longitude": "7.67251000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79086,
+      "name": "Brattvåg",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.59991000",
+      "longitude": "6.44426000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79111,
+      "name": "Eide",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.91570000",
+      "longitude": "7.44496000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79116,
+      "name": "Eidsvåg",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.77656000",
+      "longitude": "8.06550000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79121,
+      "name": "Elnesvågen",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.85426000",
+      "longitude": "7.13769000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79164,
+      "name": "Fræna",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.85375000",
+      "longitude": "7.15380000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79176,
+      "name": "Giske",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.50070000",
+      "longitude": "6.13472000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79177,
+      "name": "Gjemnes",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.89379000",
+      "longitude": "7.67714000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79200,
+      "name": "Halsa",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "63.11855000",
+      "longitude": "8.31536000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79205,
+      "name": "Haram",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.59898000",
+      "longitude": "6.44483000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79207,
+      "name": "Hareid",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.36742000",
+      "longitude": "6.02114000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79221,
+      "name": "Herøy",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.33333000",
+      "longitude": "5.63598000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79225,
+      "name": "Hjelset",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.78050000",
+      "longitude": "7.49277000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79234,
+      "name": "Hopen",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "63.46539000",
+      "longitude": "8.01437000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79288,
+      "name": "Kristiansund",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "63.11152000",
+      "longitude": "7.73198000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79303,
+      "name": "Larsnes",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.20282000",
+      "longitude": "5.57729000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79364,
+      "name": "Midsund",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.67614000",
+      "longitude": "6.67776000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79372,
+      "name": "Molde",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.73807000",
+      "longitude": "7.15882000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79397,
+      "name": "Nesset",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.77619000",
+      "longitude": "8.06623000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79405,
+      "name": "Norddal",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.29910000",
+      "longitude": "7.26145000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79410,
+      "name": "Nordstranda",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.51384000",
+      "longitude": "6.13166000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79440,
+      "name": "Rauma",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.56810000",
+      "longitude": "7.68612000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79448,
+      "name": "Rensvik",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "63.09843000",
+      "longitude": "7.82026000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79481,
+      "name": "Sande",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.20455000",
+      "longitude": "5.57971000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79486,
+      "name": "Sandøy",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.78167000",
+      "longitude": "6.46875000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79501,
+      "name": "Sjøholt",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.48263000",
+      "longitude": "6.81376000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79514,
+      "name": "Skodje",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.50306000",
+      "longitude": "6.69817000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79525,
+      "name": "Smøla",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "63.46526000",
+      "longitude": "8.01814000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79542,
+      "name": "Steinshamn",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.78389000",
+      "longitude": "6.47065000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79549,
+      "name": "Stordal",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.38214000",
+      "longitude": "6.98708000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79556,
+      "name": "Stranda",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.31132000",
+      "longitude": "6.93115000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79562,
+      "name": "Sula",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.44447000",
+      "longitude": "6.21229000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79565,
+      "name": "Sunndal",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.67464000",
+      "longitude": "8.56188000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79566,
+      "name": "Sunndalsøra",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.67519000",
+      "longitude": "8.56327000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79567,
+      "name": "Surnadal",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.97533000",
+      "longitude": "8.72490000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79573,
+      "name": "Sykkylven",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.38962000",
+      "longitude": "6.57825000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79593,
+      "name": "Tingvoll",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.91194000",
+      "longitude": "8.20673000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79600,
+      "name": "Tomra",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.58118000",
+      "longitude": "6.93106000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79623,
+      "name": "Ulstein",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.34423000",
+      "longitude": "5.85241000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79624,
+      "name": "Ulsteinvik",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.34317000",
+      "longitude": "5.84869000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79625,
+      "name": "Ulsteinvik weather pws station",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.34338000",
+      "longitude": "5.84385000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79632,
+      "name": "Vanylven",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.10003000",
+      "longitude": "5.55827000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79635,
+      "name": "Vatne",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.55826000",
+      "longitude": "6.61708000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79644,
+      "name": "Vestnes",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.62130000",
+      "longitude": "7.08966000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79660,
+      "name": "Volda",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.14678000",
+      "longitude": "6.06800000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79678,
+      "name": "Ålesund",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.47225000",
+      "longitude": "6.15492000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79680,
+      "name": "Åndalsnes",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.56749000",
+      "longitude": "7.68709000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79697,
+      "name": "Ørskog",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.48450000",
+      "longitude": "6.82025000",
+      "timezone": "Europe/Oslo"
+    },
+    {
+      "id": 79698,
+      "name": "Ørsta",
+      "county": "Møre og Romsdal",
+      "county_iso3166_2": "NO-15",
+      "latitude": "62.19937000",
+      "longitude": "6.13084000",
+      "timezone": "Europe/Oslo"
+    }
+  ],
+  "meta": {
+    "title": "Byer og steder i Møre og Romsdal (Cities and places in Møre og Romsdal county, Norway) - Gratis nedlasting",
+    "description": "Byer og steder i fylket Møre og Romsdal i Noreg (52 stader), med koordinatar, ISO 3166-2-kode for fylket og tidssone. Kjelde: dr5hn/countries-states-cities-database. Cities and populated places in Møre og Romsdal county, Norway. Inneholder 52 poster. Last ned i Excel, CSV, PDF format.",
+    "seo_title": "Byer og steder i Møre og Romsdal (Cities and places in Møre og Romsdal county, Norway) | ListBase",
+    "seo_description": "Last ned Byer og steder i Møre og Romsdal (Cities and places in Møre og Romsdal county, Norway) — 52 poster. Tilgjengelig i Excel, CSV, PDF format.",
+    "key_takeaways": [
+      "Inneholder 52 poster / 7 felter",
+      "Gratis nedlasting i Excel, CSV og PDF format",
+      "Datakilde: open data"
+    ]
+  }
+}
