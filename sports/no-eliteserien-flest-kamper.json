@@ -1,0 +1,275 @@
+{
+  "id": "no-eliteserien-flest-kamper",
+  "name": "Eliteserien — spillere med flest kamper",
+  "title": "Eliteserien — spillere med flest kamper",
+  "description": "Spillerne med flest kamper i Norges øverste fotballdivisjon: klubber, tidsrom og antall kamper.",
+  "category": "sports",
+  "source": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+  "source_url": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+  "updated": "2026-10",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "player",
+      "label": "Player",
+      "type": "string"
+    },
+    {
+      "key": "clubs",
+      "label": "Clubs",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "matches",
+      "label": "Matches",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "player": "Daniel Berg Hestad",
+      "clubs": "Molde",
+      "period": "1993–2015",
+      "matches": 473
+    },
+    {
+      "rank": 2,
+      "player": "Steffen Hagen",
+      "clubs": "Odd",
+      "period": "2006–2024",
+      "matches": 460
+    },
+    {
+      "rank": 3,
+      "player": "Morten Berre",
+      "clubs": "Skeid , Haugesund , Viking , Vålerenga",
+      "period": "1996–2015",
+      "matches": 452
+    },
+    {
+      "rank": 4,
+      "player": "Roar Strand",
+      "clubs": "Rosenborg , Molde",
+      "period": "1989–2010",
+      "matches": 440
+    },
+    {
+      "rank": 5,
+      "player": "Frode Kippe",
+      "clubs": "Lillestrøm",
+      "period": "1997–2019",
+      "matches": 436
+    },
+    {
+      "rank": 6,
+      "player": "Øyvind Storflor",
+      "clubs": "Rosenborg , Moss , Strømsgodset , Ranheim",
+      "period": "1999–2019",
+      "matches": 421
+    },
+    {
+      "rank": 6,
+      "player": "Lars-Christopher Vilsvik",
+      "clubs": "Strømsgodset",
+      "period": "2010–2025",
+      "matches": 421
+    },
+    {
+      "rank": 8,
+      "player": "Erling Knudtzon",
+      "clubs": "Lyn , Lillestrøm , Molde",
+      "period": "2007–2024",
+      "matches": 420
+    },
+    {
+      "rank": 9,
+      "player": "Espen Hoff",
+      "clubs": "Odd , Lyn , Stabæk , Start",
+      "period": "1999–2016",
+      "matches": 406
+    },
+    {
+      "rank": 10,
+      "player": "André Hansen",
+      "clubs": "Lillestrøm , Odd , Rosenborg",
+      "period": "2009–2024",
+      "matches": 359
+    },
+    {
+      "rank": 11,
+      "player": "Christer Basma",
+      "clubs": "Kongsvinger , Stabæk , Rosenborg",
+      "period": "1993–2008",
+      "matches": 349
+    },
+    {
+      "rank": 12,
+      "player": "Ruben Yttergård Jenssen",
+      "clubs": "Tromsø , Brann",
+      "period": "2006–",
+      "matches": 348
+    },
+    {
+      "rank": 13,
+      "player": "Håkon Opdal",
+      "clubs": "Brann , Start",
+      "period": "2002–2018",
+      "matches": 347
+    },
+    {
+      "rank": 14,
+      "player": "Ola By Rise",
+      "clubs": "Rosenborg",
+      "period": "1977–1995",
+      "matches": 346
+    },
+    {
+      "rank": 15,
+      "player": "Runar Berg",
+      "clubs": "Bodø/Glimt , Rosenborg , Tromsø , Lyn",
+      "period": "1990–2010",
+      "matches": 346
+    },
+    {
+      "rank": 16,
+      "player": "Jone Samuelsen",
+      "clubs": "Viking , Odd",
+      "period": "2003–2019",
+      "matches": 339
+    },
+    {
+      "rank": 17,
+      "player": "Freddy dos Santos",
+      "clubs": "Skeid , Molde , Vålerenga",
+      "period": "1996–2011",
+      "matches": 337
+    },
+    {
+      "rank": 18,
+      "player": "Espen Ruud",
+      "clubs": "Odd",
+      "period": "2004–2024",
+      "matches": 336
+    },
+    {
+      "rank": 19,
+      "player": "Trond Olsen",
+      "clubs": "Bodø/Glimt , Lillestrøm , Rosenborg , Viking",
+      "period": "2001–2018",
+      "matches": 336
+    },
+    {
+      "rank": 20,
+      "player": "Erik Hoftun",
+      "clubs": "Molde , Rosenborg , Bodø/Glimt",
+      "period": "1992–2005",
+      "matches": 336
+    },
+    {
+      "rank": 21,
+      "player": "Herman Stengel",
+      "clubs": "Stabæk , Vålerenga , Strømsgodset",
+      "period": "2011–",
+      "matches": 333
+    },
+    {
+      "rank": 22,
+      "player": "Bjørn Johansen",
+      "clubs": "Tromsø , Viking",
+      "period": "1987–2005",
+      "matches": 330
+    },
+    {
+      "rank": 23,
+      "player": "Svein Mathisen",
+      "clubs": "Start",
+      "period": "1973–1989",
+      "matches": 327
+    },
+    {
+      "rank": 24,
+      "player": "Tommy Svindal Larsen",
+      "clubs": "Odd , Start , Stabæk",
+      "period": "1991–2011",
+      "matches": 324
+    },
+    {
+      "rank": 25,
+      "player": "Fredrik Nordkvelle",
+      "clubs": "Odd , Strømsgodset , Brann",
+      "period": "2007–2021",
+      "matches": 324
+    },
+    {
+      "rank": 26,
+      "player": "Vegard Forren",
+      "clubs": "Molde",
+      "period": "2008–2016",
+      "matches": 322
+    },
+    {
+      "rank": 27,
+      "player": "Arild Sundgot",
+      "clubs": "Hødd , Lillestrøm",
+      "period": "1995–2012",
+      "matches": 321
+    },
+    {
+      "rank": 28,
+      "player": "Fredrik Kjølner",
+      "clubs": "Vålerenga , Molde , Bodø/Glimt , Sandefjord",
+      "period": "1994–2007",
+      "matches": 319
+    },
+    {
+      "rank": 29,
+      "player": "Jan-Derek Sørensen",
+      "clubs": "Lyn , Bodø/Glimt , Rosenborg , Vålerenga",
+      "period": "1992–2009",
+      "matches": 319
+    },
+    {
+      "rank": 30,
+      "player": "André Danielsen",
+      "clubs": "Viking",
+      "period": "2003–2019",
+      "matches": 318
+    },
+    {
+      "rank": 31,
+      "player": "Jonatan Tollås Nation",
+      "clubs": "Aalesund , Vålerenga",
+      "period": "2007–2022",
+      "matches": 317
+    },
+    {
+      "rank": "Spillere i kursiv spiller fortsatt profesjonell fotball. Spillere i fet skrift er aktive i Eliteserien.",
+      "player": "Spillere i kursiv spiller fortsatt profesjonell fotball. Spillere i fet skrift er aktive i Eliteserien.",
+      "clubs": "Spillere i kursiv spiller fortsatt profesjonell fotball. Spillere i fet skrift er aktive i Eliteserien.",
+      "period": "Spillere i kursiv spiller fortsatt profesjonell fotball. Spillere i fet skrift er aktive i Eliteserien.",
+      "matches": "Spillere i kursiv spiller fortsatt profesjonell fotball. Spillere i fet skrift er aktive i Eliteserien."
+    }
+  ],
+  "meta": {
+    "title": "Eliteserien — spillere med flest kamper - Free Download",
+    "description": "Spillerne med flest kamper i Norges øverste fotballdivisjon: klubber, tidsrom og antall kamper. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Eliteserien — spillere med flest kamper | ListBase",
+    "seo_description": "Download Eliteserien — spillere med flest kamper — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Eliteserien_i_fotball"
+    ]
+  }
+}

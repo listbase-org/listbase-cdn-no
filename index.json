@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-21T03:27:38.735Z",
-  "total_datasets": 413,
-  "total_records": 1195129,
+  "generated": "2026-10-27T02:27:22.956Z",
+  "total_datasets": 414,
+  "total_records": 1195161,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -10895,6 +10895,32 @@
         "xlsx": {
           "name": "no-veldedighetsbutikker_NO.xlsx",
           "size": 8885
+        }
+      }
+    },
+    {
+      "id": "no-eliteserien-flest-kamper",
+      "name": "Eliteserien — spillere med flest kamper",
+      "category": "sports",
+      "record_count": 32,
+      "columns": [
+        "rank",
+        "player",
+        "clubs",
+        "period",
+        "matches"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+      "updated": "2026-10",
+      "size": 7144,
+      "files": {
+        "csv": {
+          "name": "no-eliteserien-flest-kamper_NO.csv",
+          "size": 2657
+        },
+        "xlsx": {
+          "name": "no-eliteserien-flest-kamper_NO.xlsx",
+          "size": 8416
         }
       }
     },
