@@ -1,0 +1,160 @@
+{
+  "id": "no-mgp-vinnerlater-pa-vg-lista",
+  "name": "MGP-vinnerlåter med flest uker på topp av VG-lista",
+  "title": "MGP-vinnerlåter med flest uker på topp av VG-lista",
+  "description": "Norske MGP-vinnerlåter rangert etter antall uker som nummer én på VG-lista, med uker på topp 10 og totalt på listen.",
+  "category": "music",
+  "source": "https://no.wikipedia.org/wiki/Melodi_Grand_Prix",
+  "source_url": "https://no.wikipedia.org/wiki/Melodi_Grand_Prix",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "weeks_at_1",
+      "label": "Weeks At 1",
+      "type": "number"
+    },
+    {
+      "key": "weeks_top_10",
+      "label": "Weeks Top 10",
+      "type": "number"
+    },
+    {
+      "key": "weeks_on_chart",
+      "label": "Weeks On Chart",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "song": "Fairytale",
+      "artist": "Alexander Rybak",
+      "year": 2009,
+      "weeks_at_1": 10,
+      "weeks_top_10": 20,
+      "weeks_on_chart": 22
+    },
+    {
+      "rank": 2,
+      "song": "Mil etter mil",
+      "artist": "Jahn Teigen",
+      "year": 1978,
+      "weeks_at_1": 5,
+      "weeks_top_10": 18,
+      "weeks_on_chart": 19
+    },
+    {
+      "rank": 3,
+      "song": "Oj, oj, oj, så glad jeg skal bli",
+      "artist": "Kirsti Sparboe",
+      "year": 1969,
+      "weeks_at_1": 4,
+      "weeks_top_10": 11,
+      "weeks_on_chart": 11
+    },
+    {
+      "rank": 4,
+      "song": "Sámiid ædnan",
+      "artist": "Sverre Kjelsberg og Mattis Hætta",
+      "year": 1980,
+      "weeks_at_1": 4,
+      "weeks_top_10": 10,
+      "weeks_on_chart": 10
+    },
+    {
+      "rank": 5,
+      "song": "Haba Haba",
+      "artist": "Stella Mwangi",
+      "year": 2011,
+      "weeks_at_1": 4,
+      "weeks_top_10": 9,
+      "weeks_on_chart": 13
+    },
+    {
+      "rank": 6,
+      "song": "In My Dreams",
+      "artist": "Wig Wam",
+      "year": 2005,
+      "weeks_at_1": 3,
+      "weeks_top_10": 14,
+      "weeks_on_chart": 19
+    },
+    {
+      "rank": 7,
+      "song": "Hold On Be Strong",
+      "artist": "Maria Haukaas Storeng",
+      "year": 2008,
+      "weeks_at_1": 1,
+      "weeks_top_10": 18,
+      "weeks_on_chart": 21
+    },
+    {
+      "rank": 8,
+      "song": "Queen of Kings",
+      "artist": "Alessandra",
+      "year": 2023,
+      "weeks_at_1": 1,
+      "weeks_top_10": 11,
+      "weeks_on_chart": 25
+    },
+    {
+      "rank": 9,
+      "song": "Ut av mørket",
+      "artist": "TIX",
+      "year": 2021,
+      "weeks_at_1": 1,
+      "weeks_top_10": 8,
+      "weeks_on_chart": 18
+    },
+    {
+      "rank": 10,
+      "song": "La det swinge",
+      "artist": "Bobbysocks",
+      "year": 1985,
+      "weeks_at_1": 1,
+      "weeks_top_10": 8,
+      "weeks_on_chart": 8
+    },
+    {
+      "rank": 11,
+      "song": "Spirit in the Sky",
+      "artist": "KEiiNO",
+      "year": 2019,
+      "weeks_at_1": 1,
+      "weeks_top_10": 6,
+      "weeks_on_chart": 22
+    }
+  ],
+  "meta": {
+    "title": "MGP-vinnerlåter med flest uker på topp av VG-lista - Free Download",
+    "description": "Norske MGP-vinnerlåter rangert etter antall uker som nummer én på VG-lista, med uker på topp 10 og totalt på listen. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "MGP-vinnerlåter med flest uker på topp av VG-lista | ListBase",
+    "seo_description": "Download MGP-vinnerlåter med flest uker på topp av VG-lista — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Melodi_Grand_Prix"
+    ]
+  }
+}

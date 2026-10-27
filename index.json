@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:05.778Z",
-  "total_datasets": 431,
-  "total_records": 1195873,
+  "generated": "2026-10-27T02:28:08.123Z",
+  "total_datasets": 432,
+  "total_records": 1195884,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -4549,6 +4549,34 @@
         "xlsx": {
           "name": "no-melodi-grand-prix-vinnere_NO.xlsx",
           "size": 11915
+        }
+      }
+    },
+    {
+      "id": "no-mgp-vinnerlater-pa-vg-lista",
+      "name": "MGP-vinnerlåter med flest uker på topp av VG-lista",
+      "category": "music",
+      "record_count": 11,
+      "columns": [
+        "rank",
+        "song",
+        "artist",
+        "year",
+        "weeks_at_1",
+        "weeks_top_10",
+        "weeks_on_chart"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Melodi_Grand_Prix",
+      "updated": "2026-10",
+      "size": 4016,
+      "files": {
+        "csv": {
+          "name": "no-mgp-vinnerlater-pa-vg-lista_NO.csv",
+          "size": 723
+        },
+        "xlsx": {
+          "name": "no-mgp-vinnerlater-pa-vg-lista_NO.xlsx",
+          "size": 7394
         }
       }
     },
