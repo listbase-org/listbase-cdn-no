@@ -1,12 +1,12 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:50.876Z",
-  "total_datasets": 425,
-  "total_records": 1195614,
+  "generated": "2026-10-27T02:27:53.193Z",
+  "total_datasets": 426,
+  "total_records": 1195626,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -169,6 +169,36 @@
         "xlsx": {
           "name": "no-husdyr-antall_NO.xlsx",
           "size": 7282
+        }
+      }
+    },
+    {
+      "id": "no-jordbruksareal-vekster",
+      "name": "Jordbruksareal for ulike vekster i Norge (1000 dekar)",
+      "category": "agriculture",
+      "record_count": 12,
+      "columns": [
+        "year",
+        "barley",
+        "oats",
+        "wheat",
+        "rye",
+        "potatoes",
+        "root_crops",
+        "oilseeds",
+        "meadow_pasture"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+      "updated": "2026-10",
+      "size": 4580,
+      "files": {
+        "csv": {
+          "name": "no-jordbruksareal-vekster_NO.csv",
+          "size": 713
+        },
+        "xlsx": {
+          "name": "no-jordbruksareal-vekster_NO.xlsx",
+          "size": 7363
         }
       }
     },
