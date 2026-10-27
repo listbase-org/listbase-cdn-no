@@ -1,0 +1,163 @@
+{
+  "id": "no-eliteserien-flest-mal",
+  "name": "Eliteserien — spillere med flest mål",
+  "title": "Eliteserien — spillere med flest mål",
+  "description": "Spillerne med flest mål i Norges øverste fotballdivisjon: klubber, tidsrom, antall mål og år som toppscorer.",
+  "category": "sports",
+  "source": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+  "source_url": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "player",
+      "label": "Player",
+      "type": "string"
+    },
+    {
+      "key": "clubs",
+      "label": "Clubs",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "goals",
+      "label": "Goals",
+      "type": "number"
+    },
+    {
+      "key": "top_scorer_seasons",
+      "label": "Top Scorer Seasons",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "player": "Sigurd Rushfeldt",
+      "clubs": "Tromsø , Rosenborg",
+      "period": "1992–2011",
+      "goals": 172,
+      "top_scorer_seasons": "1997 , 1998"
+    },
+    {
+      "player": "Harald Brattbakk",
+      "clubs": "Rosenborg , Bodø/Glimt",
+      "period": "1990–2005",
+      "goals": 166,
+      "top_scorer_seasons": "1994 , 1995 , 1996 , 2002 , 2003"
+    },
+    {
+      "player": "Petter Belsvik",
+      "clubs": "Molde , Ham-Kam , Start , Stabæk , Rosenborg , Vålerenga , Lillestrøm",
+      "period": "1989–2003",
+      "goals": 159,
+      "top_scorer_seasons": ""
+    },
+    {
+      "player": "Odd Iversen",
+      "clubs": "Rosenborg , Vålerenga",
+      "period": "1967–1982",
+      "goals": 158,
+      "top_scorer_seasons": "1967 , 1968 , 1969 , 1979"
+    },
+    {
+      "player": "Per Kristoffersen",
+      "clubs": "Fredrikstad",
+      "period": "1957–1968",
+      "goals": 147,
+      "top_scorer_seasons": "1956/57 , 1959/60 , 1960/61 , 1966"
+    },
+    {
+      "player": "Frode Johnsen",
+      "clubs": "Odd , Rosenborg",
+      "period": "1999–2015",
+      "goals": 132,
+      "top_scorer_seasons": "2001 , 2004 , 2013"
+    },
+    {
+      "player": "Thorstein Helstad",
+      "clubs": "Ham-Kam , Brann , Rosenborg , Lillestrøm",
+      "period": "1995–2013",
+      "goals": 116,
+      "top_scorer_seasons": "2000 , 2001 , 2007"
+    },
+    {
+      "player": "Arne Pedersen",
+      "clubs": "Fredrikstad",
+      "period": "1951–1966",
+      "goals": 114,
+      "top_scorer_seasons": ""
+    },
+    {
+      "player": "Bengt Sæternes",
+      "clubs": "Bodø/Glimt , Brann , Vålerenga , Viking",
+      "period": "1996–2011",
+      "goals": 113,
+      "top_scorer_seasons": ""
+    },
+    {
+      "player": "Jostein Flo",
+      "clubs": "Molde , Sogndal , Strømsgodset",
+      "period": "1987–2001",
+      "goals": 112,
+      "top_scorer_seasons": ""
+    },
+    {
+      "player": "Arild Sundgot",
+      "clubs": "Hødd , Lillestrøm",
+      "period": "1995–2012",
+      "goals": 111,
+      "top_scorer_seasons": ""
+    },
+    {
+      "player": "Jan Fuglset",
+      "clubs": "Fredrikstad , Molde",
+      "period": "1967–1982",
+      "goals": 109,
+      "top_scorer_seasons": "1971 , 1976"
+    },
+    {
+      "player": "Svein Mathisen",
+      "clubs": "Start",
+      "period": "1973–1989",
+      "goals": 106,
+      "top_scorer_seasons": ""
+    },
+    {
+      "player": "Morten Berre",
+      "clubs": "Skeid , Haugesund , Viking , Vålerenga",
+      "period": "1996–2015",
+      "goals": 102,
+      "top_scorer_seasons": ""
+    },
+    {
+      "player": "Ole Martin Årst",
+      "clubs": "Tromsø , Start",
+      "period": "1995–2012",
+      "goals": 101,
+      "top_scorer_seasons": "2005"
+    },
+    {
+      "player": "Thomas Lehne Olsen",
+      "clubs": "Strømsgodset , Tromsø , Lillestrøm",
+      "period": "2014–2026",
+      "goals": 100,
+      "top_scorer_seasons": ""
+    }
+  ],
+  "meta": {
+    "title": "Eliteserien — spillere med flest mål - Free Download",
+    "description": "Spillerne med flest mål i Norges øverste fotballdivisjon: klubber, tidsrom, antall mål og år som toppscorer. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Eliteserien — spillere med flest mål | ListBase",
+    "seo_description": "Download Eliteserien — spillere med flest mål — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Eliteserien_i_fotball"
+    ]
+  }
+}

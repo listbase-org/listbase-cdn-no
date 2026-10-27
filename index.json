@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:22.956Z",
-  "total_datasets": 414,
-  "total_records": 1195161,
+  "generated": "2026-10-27T02:27:25.938Z",
+  "total_datasets": 415,
+  "total_records": 1195177,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -10921,6 +10921,32 @@
         "xlsx": {
           "name": "no-eliteserien-flest-kamper_NO.xlsx",
           "size": 8416
+        }
+      }
+    },
+    {
+      "id": "no-eliteserien-flest-mal",
+      "name": "Eliteserien — spillere med flest mål",
+      "category": "sports",
+      "record_count": 16,
+      "columns": [
+        "player",
+        "clubs",
+        "period",
+        "goals",
+        "top_scorer_seasons"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+      "updated": "2026-10",
+      "size": 4603,
+      "files": {
+        "csv": {
+          "name": "no-eliteserien-flest-mal_NO.csv",
+          "size": 1321
+        },
+        "xlsx": {
+          "name": "no-eliteserien-flest-mal_NO.xlsx",
+          "size": 7701
         }
       }
     },
