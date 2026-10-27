@@ -1,0 +1,212 @@
+{
+  "id": "no-eliteserien-medaljer",
+  "name": "Eliteserien — medaljer per klubb",
+  "title": "Eliteserien — medaljer per klubb",
+  "description": "Antall seriemesterskap (gull), sølv- og bronsemedaljer i Norges øverste fotballdivisjon per klubb.",
+  "category": "sports",
+  "source": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+  "source_url": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "team",
+      "label": "Team",
+      "type": "string"
+    },
+    {
+      "key": "gold",
+      "label": "Gold",
+      "type": "number"
+    },
+    {
+      "key": "silver",
+      "label": "Silver",
+      "type": "number"
+    },
+    {
+      "key": "bronze",
+      "label": "Bronze",
+      "type": "number"
+    },
+    {
+      "key": "total",
+      "label": "Total",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "team": "Rosenborg",
+      "gold": 26,
+      "silver": 7,
+      "bronze": 5,
+      "total": 38
+    },
+    {
+      "team": "Viking",
+      "gold": 9,
+      "silver": 2,
+      "bronze": 10,
+      "total": 19
+    },
+    {
+      "team": "Molde",
+      "gold": 5,
+      "silver": 11,
+      "bronze": 3,
+      "total": 19
+    },
+    {
+      "team": "Vålerenga",
+      "gold": 5,
+      "silver": 2,
+      "bronze": 5,
+      "total": 12
+    },
+    {
+      "team": "Lillestrøm",
+      "gold": 4,
+      "silver": 7,
+      "bronze": 3,
+      "total": 14
+    },
+    {
+      "team": "Bodø/Glimt",
+      "gold": 4,
+      "silver": 5,
+      "bronze": 1,
+      "total": 10
+    },
+    {
+      "team": "Brann",
+      "gold": 2,
+      "silver": 7,
+      "bronze": 4,
+      "total": 12
+    },
+    {
+      "team": "Lyn",
+      "gold": 2,
+      "silver": 3,
+      "bronze": 4,
+      "total": 9
+    },
+    {
+      "team": "Strømsgodset",
+      "gold": 2,
+      "silver": 2,
+      "bronze": 3,
+      "total": 7
+    },
+    {
+      "team": "Start",
+      "gold": 2,
+      "silver": 1,
+      "bronze": 7,
+      "total": 10
+    },
+    {
+      "team": "Stabæk",
+      "gold": 1,
+      "silver": 1,
+      "bronze": 4,
+      "total": 6
+    },
+    {
+      "team": "Skeid",
+      "gold": 1,
+      "silver": 1,
+      "bronze": 1,
+      "total": 3
+    },
+    {
+      "team": "Moss",
+      "gold": 1,
+      "silver": 1,
+      "bronze": "",
+      "total": 2
+    },
+    {
+      "team": "Fredrikstad",
+      "gold": "",
+      "silver": 5,
+      "bronze": "",
+      "total": 5
+    },
+    {
+      "team": "Tromsø",
+      "gold": "",
+      "silver": 2,
+      "bronze": 4,
+      "total": 6
+    },
+    {
+      "team": "Odd",
+      "gold": "",
+      "silver": 2,
+      "bronze": 2,
+      "total": 4
+    },
+    {
+      "team": "Bryne",
+      "gold": "",
+      "silver": 2,
+      "bronze": "",
+      "total": 2
+    },
+    {
+      "team": "Mjøndalen",
+      "gold": "",
+      "silver": 2,
+      "bronze": "",
+      "total": 2
+    },
+    {
+      "team": "Kongsvinger",
+      "gold": "",
+      "silver": 1,
+      "bronze": 2,
+      "total": 3
+    },
+    {
+      "team": "Sarpsborg",
+      "gold": "",
+      "silver": "",
+      "bronze": 2,
+      "total": 2
+    },
+    {
+      "team": "Ham-Kam",
+      "gold": "",
+      "silver": "",
+      "bronze": 1,
+      "total": 1
+    },
+    {
+      "team": "Haugesund",
+      "gold": "",
+      "silver": "",
+      "bronze": 1,
+      "total": 1
+    },
+    {
+      "team": "Sarpsborg 08",
+      "gold": "",
+      "silver": "",
+      "bronze": 1,
+      "total": 1
+    }
+  ],
+  "meta": {
+    "title": "Eliteserien — medaljer per klubb - Free Download",
+    "description": "Antall seriemesterskap (gull), sølv- og bronsemedaljer i Norges øverste fotballdivisjon per klubb. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Eliteserien — medaljer per klubb | ListBase",
+    "seo_description": "Download Eliteserien — medaljer per klubb — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Eliteserien_i_fotball"
+    ]
+  }
+}

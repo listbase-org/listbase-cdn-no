@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:28.375Z",
-  "total_datasets": 416,
-  "total_records": 1195226,
+  "generated": "2026-10-27T02:27:30.798Z",
+  "total_datasets": 417,
+  "total_records": 1195249,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -10979,6 +10979,32 @@
         "xlsx": {
           "name": "no-eliteserien-maratontabell_NO.xlsx",
           "size": 9843
+        }
+      }
+    },
+    {
+      "id": "no-eliteserien-medaljer",
+      "name": "Eliteserien — medaljer per klubb",
+      "category": "sports",
+      "record_count": 23,
+      "columns": [
+        "team",
+        "gold",
+        "silver",
+        "bronze",
+        "total"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+      "updated": "2026-10",
+      "size": 4155,
+      "files": {
+        "csv": {
+          "name": "no-eliteserien-medaljer_NO.csv",
+          "size": 650
+        },
+        "xlsx": {
+          "name": "no-eliteserien-medaljer_NO.xlsx",
+          "size": 7401
         }
       }
     },
