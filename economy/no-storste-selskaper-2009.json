@@ -1,0 +1,226 @@
+{
+  "id": "no-storste-selskaper-2009",
+  "name": "Norges største selskaper 2009",
+  "title": "Norges største selskaper 2009",
+  "description": "Norges største selskaper rangert etter omsetning for regnskapsåret 2009 (Dagens Næringsliv), med årsresultat. Tall i 1000 kroner.",
+  "category": "economy",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_st%C3%B8rste_selskaper_2009",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_Norges_st%C3%B8rste_selskaper_2009",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "revenue_1000_nok",
+      "label": "Revenue 1000 Nok",
+      "type": "number"
+    },
+    {
+      "key": "net_result_1000_nok",
+      "label": "Net Result 1000 Nok",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "company": "Statoil",
+      "revenue_1000_nok": 465433000,
+      "net_result_1000_nok": 18313000
+    },
+    {
+      "rank": 2,
+      "company": "Telenor",
+      "revenue_1000_nok": 97650000,
+      "net_result_1000_nok": 10514000
+    },
+    {
+      "rank": 3,
+      "company": "DNB NOR",
+      "revenue_1000_nok": 73357000,
+      "net_result_1000_nok": 7026000
+    },
+    {
+      "rank": 4,
+      "company": "Hydro",
+      "revenue_1000_nok": 67409000,
+      "net_result_1000_nok": -3514000
+    },
+    {
+      "rank": 5,
+      "company": "Yara International",
+      "revenue_1000_nok": 61418000,
+      "net_result_1000_nok": 3814000
+    },
+    {
+      "rank": 6,
+      "company": "Helse Sør-Øst",
+      "revenue_1000_nok": 56416042,
+      "net_result_1000_nok": -157469
+    },
+    {
+      "rank": 7,
+      "company": "Orkla",
+      "revenue_1000_nok": 53748000,
+      "net_result_1000_nok": 2591000
+    },
+    {
+      "rank": 8,
+      "company": "Aker Solutions",
+      "revenue_1000_nok": 57026000,
+      "net_result_1000_nok": 2331000
+    },
+    {
+      "rank": 9,
+      "company": "NorgesGruppen",
+      "revenue_1000_nok": 53231954,
+      "net_result_1000_nok": 1171954
+    },
+    {
+      "rank": 10,
+      "company": "Storebrand",
+      "revenue_1000_nok": 48236000,
+      "net_result_1000_nok": 934000
+    },
+    {
+      "rank": 11,
+      "company": "Total E&P Norge",
+      "revenue_1000_nok": 41571000,
+      "net_result_1000_nok": 5744000
+    },
+    {
+      "rank": 12,
+      "company": "Reitangruppen",
+      "revenue_1000_nok": 39829000,
+      "net_result_1000_nok": 1053000
+    },
+    {
+      "rank": 13,
+      "company": "ExxonMobil E&P Norway",
+      "revenue_1000_nok": 35849000,
+      "net_result_1000_nok": 3117000
+    },
+    {
+      "rank": 14,
+      "company": "KLP",
+      "revenue_1000_nok": 34617026,
+      "net_result_1000_nok": 775669
+    },
+    {
+      "rank": 15,
+      "company": "Norske Shell",
+      "revenue_1000_nok": 31475000,
+      "net_result_1000_nok": 2647000
+    },
+    {
+      "rank": 16,
+      "company": "STX Europe",
+      "revenue_1000_nok": 29141000,
+      "net_result_1000_nok": -702000
+    },
+    {
+      "rank": 17,
+      "company": "Coop Norge",
+      "revenue_1000_nok": 28597000,
+      "net_result_1000_nok": 85000
+    },
+    {
+      "rank": 18,
+      "company": "Posten Norge",
+      "revenue_1000_nok": 27104000,
+      "net_result_1000_nok": 118000
+    },
+    {
+      "rank": 19,
+      "company": "ConocoPhillips Skandinavia",
+      "revenue_1000_nok": 26815000,
+      "net_result_1000_nok": 4086000
+    },
+    {
+      "rank": 20,
+      "company": "National Oilwell Norway",
+      "revenue_1000_nok": 26100963,
+      "net_result_1000_nok": 4276897
+    },
+    {
+      "rank": 21,
+      "company": "Statkraft",
+      "revenue_1000_nok": 25675000,
+      "net_result_1000_nok": 7716000
+    },
+    {
+      "rank": 22,
+      "company": "Nordea Bank Norge",
+      "revenue_1000_nok": 21262000,
+      "net_result_1000_nok": 2634000
+    },
+    {
+      "rank": 23,
+      "company": "Seadrill Norge",
+      "revenue_1000_nok": 20481327,
+      "net_result_1000_nok": 8516682
+    },
+    {
+      "rank": 24,
+      "company": "Norske Skogindustrier",
+      "revenue_1000_nok": 20362000,
+      "net_result_1000_nok": -1400000
+    },
+    {
+      "rank": 25,
+      "company": "TINE Gruppa",
+      "revenue_1000_nok": 18883880,
+      "net_result_1000_nok": 672168
+    },
+    {
+      "rank": 26,
+      "company": "Helse Vest",
+      "revenue_1000_nok": 18852288,
+      "net_result_1000_nok": 156314
+    },
+    {
+      "rank": 27,
+      "company": "ExxonMobil Production Norway",
+      "revenue_1000_nok": 18493000,
+      "net_result_1000_nok": 3358000
+    },
+    {
+      "rank": 28,
+      "company": "Nortura",
+      "revenue_1000_nok": 17364283,
+      "net_result_1000_nok": 106822
+    },
+    {
+      "rank": 29,
+      "company": "Gjensidige Forsikring",
+      "revenue_1000_nok": 16670700,
+      "net_result_1000_nok": 2304800
+    },
+    {
+      "rank": 30,
+      "company": "Veidekke",
+      "revenue_1000_nok": 15558000,
+      "net_result_1000_nok": 412000
+    }
+  ],
+  "meta": {
+    "title": "Norges største selskaper 2009 - Free Download",
+    "description": "Norges største selskaper rangert etter omsetning for regnskapsåret 2009 (Dagens Næringsliv), med årsresultat. Tall i 1000 kroner. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges største selskaper 2009 | ListBase",
+    "seo_description": "Download Norges største selskaper 2009 — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_Norges_st%C3%B8rste_selskaper_2009"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:21.253Z",
-  "total_datasets": 437,
-  "total_records": 1196134,
+  "generated": "2026-10-27T02:28:23.963Z",
+  "total_datasets": 438,
+  "total_records": 1196164,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -1557,6 +1557,31 @@
         "xlsx": {
           "name": "no-okonomiske-nokkeltall_NO.xlsx",
           "size": 8152
+        }
+      }
+    },
+    {
+      "id": "no-storste-selskaper-2009",
+      "name": "Norges største selskaper 2009",
+      "category": "economy",
+      "record_count": 30,
+      "columns": [
+        "rank",
+        "company",
+        "revenue_1000_nok",
+        "net_result_1000_nok"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_st%C3%B8rste_selskaper_2009",
+      "updated": "2026-10",
+      "size": 5799,
+      "files": {
+        "csv": {
+          "name": "no-storste-selskaper-2009_NO.csv",
+          "size": 1309
+        },
+        "xlsx": {
+          "name": "no-storste-selskaper-2009_NO.xlsx",
+          "size": 7832
         }
       }
     },
