@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:03.445Z",
-  "total_datasets": 430,
-  "total_records": 1195806,
+  "generated": "2026-10-27T02:28:05.778Z",
+  "total_datasets": 431,
+  "total_records": 1195873,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -4521,6 +4521,34 @@
         "xlsx": {
           "name": "no-jordskifteretter_NO.xlsx",
           "size": 8982
+        }
+      }
+    },
+    {
+      "id": "no-melodi-grand-prix-vinnere",
+      "name": "Vinnere av Melodi Grand Prix",
+      "category": "music",
+      "record_count": 67,
+      "columns": [
+        "year",
+        "winning_song",
+        "artist",
+        "composer",
+        "lyricist",
+        "host",
+        "venue"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Melodi_Grand_Prix",
+      "updated": "2026-10",
+      "size": 20463,
+      "files": {
+        "csv": {
+          "name": "no-melodi-grand-prix-vinnere_NO.csv",
+          "size": 9760
+        },
+        "xlsx": {
+          "name": "no-melodi-grand-prix-vinnere_NO.xlsx",
+          "size": 11915
         }
       }
     },

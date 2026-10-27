@@ -1,0 +1,664 @@
+{
+  "id": "no-melodi-grand-prix-vinnere",
+  "name": "Vinnere av Melodi Grand Prix",
+  "title": "Vinnere av Melodi Grand Prix",
+  "description": "Alle vinnere av den norske Melodi Grand Prix-finalen siden 1960: vinnerlåt, artist, komponist, tekstforfatter, programleder og sted.",
+  "category": "music",
+  "source": "https://no.wikipedia.org/wiki/Melodi_Grand_Prix",
+  "source_url": "https://no.wikipedia.org/wiki/Melodi_Grand_Prix",
+  "updated": "2026-10",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "winning_song",
+      "label": "Winning Song",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "composer",
+      "label": "Composer",
+      "type": "string"
+    },
+    {
+      "key": "lyricist",
+      "label": "Lyricist",
+      "type": "string"
+    },
+    {
+      "key": "host",
+      "label": "Host",
+      "type": "string"
+    },
+    {
+      "key": "venue",
+      "label": "Venue",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1960,
+      "winning_song": "Voi-voi",
+      "artist": "Nora Brockstedt",
+      "composer": "Georg Elgaaen",
+      "lyricist": "Georg Elgaaen",
+      "host": "Erik Diesen og Odd Grythe",
+      "venue": "Store Studio , Oslo"
+    },
+    {
+      "year": 1961,
+      "winning_song": "Sommer i Palma",
+      "artist": "Per Asplin / Nora Brockstedt",
+      "composer": "Jan Wølner",
+      "lyricist": "Egil Hagen",
+      "host": "Erik Diesen og Odd Grythe",
+      "venue": "NRK Studio A , Oslo"
+    },
+    {
+      "year": 1962,
+      "winning_song": "Kom sol, kom regn",
+      "artist": "Inger Jacobsen / Laila Dalseth",
+      "composer": "Kjell Karlsen",
+      "lyricist": "Ivar Andersen",
+      "host": "Odd Grythe",
+      "venue": "Store Studio , Oslo"
+    },
+    {
+      "year": 1963,
+      "winning_song": "Solhverv",
+      "artist": "Jan Høiland / Nora Brockstedt",
+      "composer": "Dag Kristoffersen",
+      "lyricist": "Dag Kristoffersen",
+      "host": "Odd Grythe",
+      "venue": "Store Studio , Oslo"
+    },
+    {
+      "year": 1964,
+      "winning_song": "Spiral",
+      "artist": "Elisabeth Granneman / Arne Bendiksen",
+      "composer": "Sigurd Jansen",
+      "lyricist": "Egil Hagen",
+      "host": "Odd Grythe",
+      "venue": "NRK Studio A , Oslo"
+    },
+    {
+      "year": 1965,
+      "winning_song": "Karusell",
+      "artist": "Kirsti Sparboe",
+      "composer": "Jolly Kramer-Johansen",
+      "lyricist": "Jolly Kramer-Johansen",
+      "host": "Odd Grythe",
+      "venue": "Store Studio , Oslo"
+    },
+    {
+      "year": 1966,
+      "winning_song": "Intet er nytt under solen",
+      "artist": "Åse Kleveland / Grynet Molvig",
+      "composer": "Arne Bendiksen",
+      "lyricist": "Arne Bendiksen",
+      "host": "Øivind Bergh",
+      "venue": "Centralteatret , Oslo"
+    },
+    {
+      "year": 1967,
+      "winning_song": "Dukkemann",
+      "artist": "Torill Ravnaas / Kirsti Sparboe",
+      "composer": "Tor Hultin",
+      "lyricist": "Ola B. Johannessen",
+      "host": "Jan Voigt",
+      "venue": "Centralteatret , Oslo"
+    },
+    {
+      "year": 1968,
+      "winning_song": "Jeg har aldri vært så glad i noen som deg » (trukket)",
+      "artist": "Kirsti Sparboe / Odd Børre",
+      "composer": "Kari Neegaard",
+      "lyricist": "Kari Neegaard",
+      "host": "Jan Voigt",
+      "venue": "Centralteatret , Oslo"
+    },
+    {
+      "year": 1969,
+      "winning_song": "Oj, oj, oj, så glad jeg skal bli",
+      "artist": "Kirsti Sparboe",
+      "composer": "Arne Bendiksen",
+      "lyricist": "Arne Bendiksen",
+      "host": "Janka Polanyi",
+      "venue": "Store Studio , Oslo"
+    },
+    {
+      "year": 1970,
+      "winning_song": "Ingen Melodi Grand Prix",
+      "artist": "Ingen Melodi Grand Prix",
+      "composer": "Ingen Melodi Grand Prix",
+      "lyricist": "Ingen Melodi Grand Prix",
+      "host": "Ingen Melodi Grand Prix",
+      "venue": "Ingen Melodi Grand Prix"
+    },
+    {
+      "year": 1971,
+      "winning_song": "Lykken er",
+      "artist": "Hanne Krogh",
+      "composer": "Arne Bendiksen",
+      "lyricist": "Arne Bendiksen",
+      "host": "Jan Voigt",
+      "venue": "NRK Studio 1 , Oslo"
+    },
+    {
+      "year": 1972,
+      "winning_song": "Småting",
+      "artist": "Hanne Krogh / Grethe Kausland og Benny Borg",
+      "composer": "Kåre Grøttum og Ivar Børsum",
+      "lyricist": "Kåre Grøttum og Ivar Børsum",
+      "host": "Vidar Lønn-Arnesen",
+      "venue": "NRK Studio 1 , Oslo"
+    },
+    {
+      "year": 1973,
+      "winning_song": "Å, for et spill",
+      "artist": "Ola Neegaard , Gro Anita Schønn , Stein Ingebrigtsen og Inger Lise Rypdal / Bendik Singers",
+      "composer": "Arne Bendiksen",
+      "lyricist": "Arne Bendiksen",
+      "host": "Vidar Lønn-Arnesen",
+      "venue": "Chateau Neuf , Oslo"
+    },
+    {
+      "year": 1974,
+      "winning_song": "Hvor er du",
+      "artist": "Jahn Teigen / Anne-Karine Strøm",
+      "composer": "Frode Thingnæs",
+      "lyricist": "Philip Kruse",
+      "host": "Vidar Lønn-Arnesen",
+      "venue": "NRK Studio 1 , Oslo"
+    },
+    {
+      "year": 1975,
+      "winning_song": "Det skulle ha vært sommer nå",
+      "artist": "Stein Ingebrigtsen / Ellen Nikolaysen",
+      "composer": "Svein Hundsnes",
+      "lyricist": "Svein Hundsnes",
+      "host": "Bergljot Engeset",
+      "venue": "NRK Studio 1 , Oslo"
+    },
+    {
+      "year": 1976,
+      "winning_song": "Mata Hari",
+      "artist": "Gudny Aspaas / Anne-Karine Strøm",
+      "composer": "Frode Thingnæs",
+      "lyricist": "Philip Kruse",
+      "host": "Jan Voigt",
+      "venue": "NRK Studio 1 , Oslo"
+    },
+    {
+      "year": 1977,
+      "winning_song": "Casanova",
+      "artist": "Anita Skorgan",
+      "composer": "Svein Strugstad",
+      "lyricist": "Dag Nordtømme",
+      "host": "Vidar Lønn-Arnesen",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1978,
+      "winning_song": "Mil etter mil",
+      "artist": "Jahn Teigen",
+      "composer": "Kai Eide",
+      "lyricist": "Kai Eide",
+      "host": "Egil Teige",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1979,
+      "winning_song": "Oliver",
+      "artist": "Anita Skorgan",
+      "composer": "Anita Skorgan",
+      "lyricist": "Philip Kruse",
+      "host": "Egil Teige",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1980,
+      "winning_song": "Sámiid ædnan",
+      "artist": "Sverre Kjelsberg og Mattis Hætta",
+      "composer": "Sverre Kjelsberg",
+      "lyricist": "Ragnar Olsen",
+      "host": "Åse Kleveland",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1981,
+      "winning_song": "Aldri i livet",
+      "artist": "Finn Kalvik",
+      "composer": "Finn Kalvik",
+      "lyricist": "Finn Kalvik",
+      "host": "Sverre Kjelsberg",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1982,
+      "winning_song": "Adieu",
+      "artist": "Jahn Teigen og Anita Skorgan",
+      "composer": "Jahn Teigen",
+      "lyricist": "Herodes Falsk",
+      "host": "Ivar Dyrhaug",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1983,
+      "winning_song": "Do re mi",
+      "artist": "Jahn Teigen",
+      "composer": "Anita Skorgan og Jahn Teigen",
+      "lyricist": "Herodes Falsk og Jahn Teigen",
+      "host": "Ivar Dyrhaug",
+      "venue": "NRK Studio 1 , Oslo"
+    },
+    {
+      "year": 1984,
+      "winning_song": "Lenge leve livet",
+      "artist": "Dollie De Luxe",
+      "composer": "Benedicte Adrian og Ingrid Bjørnov",
+      "lyricist": "Benedicte Adrian og Ingrid Bjørnov",
+      "host": "Sissel Keyn Lodding",
+      "venue": "Chateau Neuf , Oslo"
+    },
+    {
+      "year": 1985,
+      "winning_song": "La det swinge",
+      "artist": "Bobbysocks",
+      "composer": "Rolf Løvland",
+      "lyricist": "Rolf Løvland",
+      "host": "Rita Westvik",
+      "venue": "Chateau Neuf , Oslo"
+    },
+    {
+      "year": 1986,
+      "winning_song": "Romeo",
+      "artist": "Ketil Stokkan",
+      "composer": "Ketil Stokkan",
+      "lyricist": "Ketil Stokkan",
+      "host": "Jarl Goli",
+      "venue": "Stavanger Forum"
+    },
+    {
+      "year": 1987,
+      "winning_song": "Mitt liv",
+      "artist": "Kate Gulbrandsen",
+      "composer": "Rolf Løvland",
+      "lyricist": "Rolf Løvland og Hanne Krogh",
+      "host": "Eldbjørg Vaage",
+      "venue": "Chateau Neuf , Oslo"
+    },
+    {
+      "year": 1988,
+      "winning_song": "For vår jord",
+      "artist": "Karoline Krüger",
+      "composer": "Anita Skorgan",
+      "lyricist": "Erik Hillestad",
+      "host": "Dan Børge Akerø",
+      "venue": "Chateau Neuf , Oslo"
+    },
+    {
+      "year": 1989,
+      "winning_song": "Venners nærhet",
+      "artist": "Britt-Synnøve Johansen",
+      "composer": "Inge Enoksen",
+      "lyricist": "Leiv Grøtte",
+      "host": "Øystein Bache",
+      "venue": "Stavanger Forum"
+    },
+    {
+      "year": 1990,
+      "winning_song": "Brandenburger Tor",
+      "artist": "Ketil Stokkan",
+      "composer": "Ketil Stokkan",
+      "lyricist": "Ketil Stokkan",
+      "host": "Leif Erik Forberg",
+      "venue": "Hotel Royal Christiania , Oslo"
+    },
+    {
+      "year": 1991,
+      "winning_song": "Mrs. Thompson",
+      "artist": "Just 4 Fun",
+      "composer": "Dag Kolsrud",
+      "lyricist": "P.G. Roness og Kaare Skevik Jr",
+      "host": "Ingen Melodi Grand Prix",
+      "venue": "Ingen Melodi Grand Prix"
+    },
+    {
+      "year": 1992,
+      "winning_song": "Visjoner",
+      "artist": "Merethe Trøan",
+      "composer": "Robert Morley",
+      "lyricist": "Eva Jansen",
+      "host": "Jahn Teigen og Elisabeth Andreasson",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 1993,
+      "winning_song": "Alle mine tankar",
+      "artist": "Silje Vige",
+      "composer": "Bjørn Erik Vige",
+      "lyricist": "Bjørn Erik Vige",
+      "host": "Ingunn Kyrkjebø",
+      "venue": "Chateau Neuf , Oslo"
+    },
+    {
+      "year": 1994,
+      "winning_song": "Duett",
+      "artist": "Elisabeth Andreasson og Jan Werner Danielsen",
+      "composer": "Rolf Løvland",
+      "lyricist": "Hans Olav Mørk",
+      "host": "Tande-P.",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 1995,
+      "winning_song": "Nocturne",
+      "artist": "Secret Garden",
+      "composer": "Rolf Løvland",
+      "lyricist": "Petter Skavlan",
+      "host": "Petter Nome",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1996,
+      "winning_song": "I evighet",
+      "artist": "Elisabeth Andreassen",
+      "composer": "Torhild Nigar",
+      "lyricist": "Torhild Nigar",
+      "host": "Tande-P.",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1997,
+      "winning_song": "San Francisco",
+      "artist": "Tor Endresen",
+      "composer": "Tor Endresen og Arne Myksvoll",
+      "lyricist": "Tor Endresen og Arne Myksvoll",
+      "host": "Tande-P.",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1998,
+      "winning_song": "All I Ever Wanted (Was You)",
+      "artist": "Lars A. Fredriksen",
+      "composer": "David Eriksen",
+      "lyricist": "Per Kristian Ottestad",
+      "host": "Rune Gokstad og Øystein Bache",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 1999,
+      "winning_song": "Living My Life Without You",
+      "artist": "Stig van Eijk",
+      "composer": "Stig van Eijk og Mikkel S. Eriksen",
+      "lyricist": "Stig van Eijk og Mikkel S. Eriksen",
+      "host": "Rune Gokstad og Øystein Bache",
+      "venue": "NRK Studio 2 , Oslo"
+    },
+    {
+      "year": 2000,
+      "winning_song": "My Heart Goes Boom",
+      "artist": "Charmed",
+      "composer": "Morten Henriksen",
+      "lyricist": "Tore Madsen",
+      "host": "Stine Buer og Hans Christian Andersen",
+      "venue": "NRK Studio 1 , Oslo"
+    },
+    {
+      "year": 2001,
+      "winning_song": "On My Own",
+      "artist": "Haldor Lægreid",
+      "composer": "Ole Henrik Antonsen og Tom-Steinar Hanssen",
+      "lyricist": "Antonsen , Hanssen og Ole Jørgen Olsen",
+      "host": "Hans Christian Andersen",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2002,
+      "winning_song": "Ingen Melodi Grand Prix",
+      "artist": "Ingen Melodi Grand Prix",
+      "composer": "Ingen Melodi Grand Prix",
+      "lyricist": "Ingen Melodi Grand Prix",
+      "host": "Ingen Melodi Grand Prix",
+      "venue": "Ingen Melodi Grand Prix"
+    },
+    {
+      "year": 2003,
+      "winning_song": "I'm Not Afraid to Move On",
+      "artist": "Jostein Hasselgård",
+      "composer": "Arve Furset",
+      "lyricist": "Arve Furset",
+      "host": "Øystein Bache",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2004,
+      "winning_song": "High",
+      "artist": "Knut Anders Sørum",
+      "composer": "Thomas Thörnholm og Lars Andersson",
+      "lyricist": "Dan Attlerud",
+      "host": "Ivar Dyrhaug",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2005,
+      "winning_song": "In My Dreams",
+      "artist": "Wig Wam",
+      "composer": "Trond «Teeny» Holter",
+      "lyricist": "Trond «Teeny» Holter",
+      "host": "Ivar Dyrhaug",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2006,
+      "winning_song": "Alvedansen",
+      "artist": "Christine Guldbrandsen",
+      "composer": "Kjetil Fluge , Atle Halstensen og Christine Guldbrandsen",
+      "lyricist": "Kjetil Fluge , Atle Halstensen og Christine Guldbrandsen",
+      "host": "Stian Barsnes-Simonsen og Synnøve Svabø",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2007,
+      "winning_song": "Ven a bailar conmigo",
+      "artist": "Guri Schanke",
+      "composer": "Thomas G:son",
+      "lyricist": "Thomas G:son",
+      "host": "Stian Barsnes-Simonsen og Synnøve Svabø",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2008,
+      "winning_song": "Hold On Be Strong",
+      "artist": "Maria Haukaas Storeng",
+      "composer": "Mira Craig",
+      "lyricist": "Mira Craig",
+      "host": "Per Sundnes",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2009,
+      "winning_song": "Fairytale",
+      "artist": "Alexander Rybak",
+      "composer": "Alexander Rybak",
+      "lyricist": "Alexander Rybak",
+      "host": "Per Sundnes og Maria Haukaas Storeng",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2010,
+      "winning_song": "My Heart Is Yours",
+      "artist": "Didrik Solli-Tangen",
+      "composer": "Hanne Sørvaag og Fredrik Kempe",
+      "lyricist": "Hanne Sørvaag og Fredrik Kempe",
+      "host": "Per Sundnes og Marte Stokstad",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2011,
+      "winning_song": "Haba Haba",
+      "artist": "Stella Mwangi",
+      "composer": "Beyond51 og Big City",
+      "lyricist": "Stella Mwangi",
+      "host": "Anne Rimmen og Per Sundnes",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2012,
+      "winning_song": "Stay",
+      "artist": "Tooji",
+      "composer": "Tooji , Peter Boström og Figge Boström",
+      "lyricist": "Tooji , Peter Boström og Figge Boström",
+      "host": "Marte Stokstad og Per Sundnes",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2013,
+      "winning_song": "I Feed You My Love",
+      "artist": "Margaret Berger",
+      "composer": "Karin Park , Robin Lynch og Niklas Olovson",
+      "lyricist": "Karin Park , Robin Lynch og Niklas Olovson",
+      "host": "Jenny Skavlan og Erik Solbakken",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2014,
+      "winning_song": "Silent Storm",
+      "artist": "Carl Espen",
+      "composer": "Josefin Winther",
+      "lyricist": "Josefin Winther",
+      "host": "Jenny Skavlan og Erik Solbakken",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2015,
+      "winning_song": "A Monster Like Me",
+      "artist": "Kjetil Mørland og Debrah Scarlett",
+      "composer": "Kjetil Mørland",
+      "lyricist": "Kjetil Mørland",
+      "host": "Silya Nymoen og Kåre Magnus Bergh",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2016,
+      "winning_song": "Icebreaker",
+      "artist": "Agnete Johnsen",
+      "composer": "Agnete Johnsen , Gabriel Alares og Ian Curnow",
+      "lyricist": "Agnete Johnsen , Gabriel Alares og Ian Curnow",
+      "host": "Silya Nymoen og Kåre Magnus Bergh",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2017,
+      "winning_song": "Grab the Moment",
+      "artist": "JOWST",
+      "composer": "Joakim With Steen",
+      "lyricist": "Jonas McDonnell",
+      "host": "Line Elvsåshagen og Kåre Magnus Bergh",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2018,
+      "winning_song": "That's How You Write a Song",
+      "artist": "Alexander Rybak",
+      "composer": "Alexander Rybak",
+      "lyricist": "Alexander Rybak",
+      "host": "Silya Nymoen og Kåre Magnus Bergh",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2019,
+      "winning_song": "Spirit in the Sky",
+      "artist": "KEiiNO",
+      "composer": "Tom Hugo , Fred Buljo , Alexandra Rotan , Henrik Tala, Alex Olsson og Rüdiger Schramm",
+      "lyricist": "Tom Hugo , Fred Buljo , Alexandra Rotan , Henrik Tala, Alex Olsson og Rüdiger Schramm",
+      "host": "Heidi Ruud Ellingsen og Kåre Magnus Bergh",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2020,
+      "winning_song": "Attention",
+      "artist": "Ulrikke Brandstorp",
+      "composer": "Ulrikke Brandstorp , Christian Ingebrigtsen og Kjetil Mørland",
+      "lyricist": "Ulrikke Brandstorp , Christian Ingebrigtsen og Kjetil Mørland",
+      "host": "Kåre Magnus Bergh , Ingrid Gjessing Linhave og Ronny Brede Aase",
+      "venue": "Trondheim Spektrum"
+    },
+    {
+      "year": 2021,
+      "winning_song": "Fallen Angel",
+      "artist": "TIX",
+      "composer": "Andreas Haukeland",
+      "lyricist": "Andreas Haukeland , Emelie Hollow og Mathias Haukeland",
+      "host": "Kåre Magnus Bergh , Ingrid Gjessing Linhave / Silje Nordnes og Ronny Brede Aase",
+      "venue": "H3 Arena , Bærum"
+    },
+    {
+      "year": 2022,
+      "winning_song": "Give That Wolf a Banana",
+      "artist": "Subwoolfer",
+      "composer": "« Keith » og « Jim », DJ Astronaut",
+      "lyricist": "« Keith » og « Jim », DJ Astronaut",
+      "host": "Kåre Magnus Bergh , Annika Momrak og Mikkel Niva",
+      "venue": "H3 Arena , Bærum"
+    },
+    {
+      "year": 2023,
+      "winning_song": "Queen of Kings",
+      "artist": "Alessandra Mele",
+      "composer": "Henning Olerud , Stanley Ferdinandez , Alessandra Mele og Linda Dale",
+      "lyricist": "Henning Olerud , Stanley Ferdinandez , Alessandra Mele og Linda Dale",
+      "host": "Arian Engebø og Stian «Staysman» Thorbjørnsen",
+      "venue": "Trondheim Spektrum"
+    },
+    {
+      "year": 2024,
+      "winning_song": "Ulveham",
+      "artist": "Gåte",
+      "composer": "Sveinung Sundli og Ronny Janssen",
+      "lyricist": "Sveinung Sundli, Janssen, Marit Jensen Lillebuen , Gunnhild Sundli , Magnus Børmark og Jon Even Schärer",
+      "host": "Marion Ravn og Fredrik Solvang",
+      "venue": "Trondheim Spektrum"
+    },
+    {
+      "year": 2025,
+      "winning_song": "Lighter",
+      "artist": "Kyle Alessandro",
+      "composer": "Kyle Alessandro og Adam Woods",
+      "lyricist": "Kyle Alessandro og Adam Woods",
+      "host": "Marte Stokstad , Tete Lidbom og Markus Neby",
+      "venue": "Oslo Spektrum"
+    },
+    {
+      "year": 2026,
+      "winning_song": "Ya Ya Ya",
+      "artist": "Jonas Lovv",
+      "composer": "Jonas Lovv Hellesøy og Sondre Skaftun",
+      "lyricist": "Jonas Lovv Hellesøy og Sondre Skaftun",
+      "host": "Markus Neby , Marte Stokstad og Ronny Brede Aase",
+      "venue": "Håkons Hall , Lillehammer"
+    }
+  ],
+  "meta": {
+    "title": "Vinnere av Melodi Grand Prix - Free Download",
+    "description": "Alle vinnere av den norske Melodi Grand Prix-finalen siden 1960: vinnerlåt, artist, komponist, tekstforfatter, programleder og sted. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Vinnere av Melodi Grand Prix | ListBase",
+    "seo_description": "Download Vinnere av Melodi Grand Prix — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Melodi_Grand_Prix"
+    ]
+  }
+}
