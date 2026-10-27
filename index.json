@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:10.654Z",
-  "total_datasets": 433,
-  "total_records": 1195951,
+  "generated": "2026-10-27T02:28:13.211Z",
+  "total_datasets": 434,
+  "total_records": 1196022,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -4423,6 +4423,33 @@
         "xlsx": {
           "name": "no-kriger-norge-har-deltatt-i_NO.xlsx",
           "size": 9258
+        }
+      }
+    },
+    {
+      "id": "no-norges-konger",
+      "name": "Norges konger og regenter",
+      "category": "history",
+      "record_count": 71,
+      "columns": [
+        "name",
+        "period",
+        "born",
+        "accession",
+        "end_of_reign",
+        "died"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_konger",
+      "updated": "2026-10",
+      "size": 26874,
+      "files": {
+        "csv": {
+          "name": "no-norges-konger_NO.csv",
+          "size": 16970
+        },
+        "xlsx": {
+          "name": "no-norges-konger_NO.xlsx",
+          "size": 12830
         }
       }
     },

@@ -1,0 +1,624 @@
+{
+  "id": "no-norges-konger",
+  "name": "Norges konger og regenter",
+  "title": "Norges konger og regenter",
+  "description": "Norges konger og dronninger fra Harald Hårfagre til i dag, gruppert etter periode: fødsel, tiltredelse, fratredelse og død.",
+  "category": "history",
+  "source": "https://no.wikipedia.org/wiki/Norges_konger",
+  "source_url": "https://no.wikipedia.org/wiki/Norges_konger",
+  "updated": "2026-10",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "string"
+    },
+    {
+      "key": "accession",
+      "label": "Accession",
+      "type": "string"
+    },
+    {
+      "key": "end_of_reign",
+      "label": "End Of Reign",
+      "type": "string"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Harald I Hårfagre",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 850 Sønn av Halvdan Svarte og Ragnhild Haraldsdatter",
+      "accession": "ca. 872",
+      "end_of_reign": "ca. 931 eller 932 i Rogaland",
+      "died": "ca. 931 eller 932 i Rogaland"
+    },
+    {
+      "name": "Eirik I Blodøks",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 885 eller 895 på Svanøy i Sunnfjord Sønn av Harald Hårfagre og Ragnhild Eiriksdotter",
+      "accession": "Ca. 933 Ved Harald Hårfagres død",
+      "end_of_reign": "Ca. 935 Avsatt",
+      "died": "954 i Cumbria i England"
+    },
+    {
+      "name": "Håkon I den gode",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 918 Sønn av Harald Hårfagre og Tora Mosterstong",
+      "accession": "Ca. 935 Ved Eirik Blodøks` avsettelse",
+      "end_of_reign": "961 Falt i slaget ved Fitjar",
+      "died": "961 Falt i slaget ved Fitjar"
+    },
+    {
+      "name": "Harald II Gråfell",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 935? Sønn av Eirik Blodøks og Gunnhild Gormsdatter",
+      "accession": "961 Ved Håkon den godes død",
+      "end_of_reign": "Ca. 970 ved Limfjorden",
+      "died": "Ca. 970 ved Limfjorden"
+    },
+    {
+      "name": "Håkon Sigurdsson , ladejarl",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 935 Sønn av Sigurd Ladejarl og Bergljot Toresdotter",
+      "accession": "Ca. 970",
+      "end_of_reign": "Ca. 995, Melhus i Trøndelag",
+      "died": "Ca. 995, Melhus i Trøndelag"
+    },
+    {
+      "name": "Olav I Tryggvason",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 963 Sønn av Tryggve Olavsson og Astrid datter av Eirik Bjodaskalle",
+      "accession": "995",
+      "end_of_reign": "Falt i slaget ved Svolder år 1000",
+      "died": "Falt i slaget ved Svolder år 1000"
+    },
+    {
+      "name": "Eirik og Svein Håkonsson , ladejarler Under Svein Tjugeskjegg",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Eirik Håkonsson født ca. 957 Svein Håkonsson ukjent fødselsår",
+      "accession": "Etter slaget ved Svolder i år 1000",
+      "end_of_reign": "1012",
+      "died": "Svein Håkonsson ca. 1016, Eirik Håkonsson 1024"
+    },
+    {
+      "name": "Håkon Eiriksson og Svein Håkonsson , ladejarler Under Svein Tjugeskjegg",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "",
+      "accession": "1012",
+      "end_of_reign": "1015",
+      "died": "Svein Håkonsson ca. 1016, Håkon Eiriksson 1029"
+    },
+    {
+      "name": "Olav II den hellige",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "995 Sønn av Harald Grenske og Åsta Gudbrandsdatter",
+      "accession": "1015",
+      "end_of_reign": "1028",
+      "died": "Falt i slaget på Stiklestad 29. juli 1030"
+    },
+    {
+      "name": "Håkon Eiriksson , ladejarl Under Knut den mektige",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 998",
+      "accession": "1028",
+      "end_of_reign": "1029",
+      "died": "1029"
+    },
+    {
+      "name": "Svein Alfivason og Alfiva Under Knut den mektige",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 1016 Sønn av Knut den store og Alfiva",
+      "accession": "1029",
+      "end_of_reign": "1035/1036",
+      "died": "1035/1036"
+    },
+    {
+      "name": "Magnus I den gode",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1024 Sønn av Olav den hellige og Alvhild",
+      "accession": "1035",
+      "end_of_reign": "25. oktober 1047 i Danmark Begravet i Nidarosdomen",
+      "died": "25. oktober 1047 i Danmark Begravet i Nidarosdomen"
+    },
+    {
+      "name": "Harald III Hardråde",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1015 på Ringerike Sønn av Sigurd Syr og Åsta Gudbrandsdatter",
+      "accession": "1046",
+      "end_of_reign": "Falt 25. september 1066 i slaget ved Stamford Bridge",
+      "died": "Falt 25. september 1066 i slaget ved Stamford Bridge"
+    },
+    {
+      "name": "Magnus II Haraldsson",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1048 Sønn av Harald Hardråde og Tora Torbergsdatter",
+      "accession": "1066",
+      "end_of_reign": "1069",
+      "died": "1069"
+    },
+    {
+      "name": "Olav III Kyrre",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 1050 Sønn av Harald Hardråde og Tora Torbergsdatter",
+      "accession": "1067",
+      "end_of_reign": "22. september 1093 på gården Haukbø , nå Håkeby, i Tanum ( Båhuslen )",
+      "died": "22. september 1093 på gården Haukbø , nå Håkeby, i Tanum ( Båhuslen )"
+    },
+    {
+      "name": "Håkon Magnusson Toresfostre",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca.1068/1069 Muligens sønn av Magnus II Haraldsson",
+      "accession": "Utropt til konge av Trøndelag og Oppland i 1093",
+      "end_of_reign": "1093/1095",
+      "died": "1093/1095"
+    },
+    {
+      "name": "Magnus III Berrføtt",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1073 Sønn av Olav Kyrre og Tora Jonsdatter",
+      "accession": "1093",
+      "end_of_reign": "Falt i strid 24. august 1103",
+      "died": "Falt i strid 24. august 1103"
+    },
+    {
+      "name": "Olav Magnusson",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1099 Sønn av Magnus Berrføtt",
+      "accession": "1103",
+      "end_of_reign": "22. desember 1115 i Nidaros",
+      "died": "22. desember 1115 i Nidaros"
+    },
+    {
+      "name": "Øystein I Magnusson",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1088 Sønn av Magnus Berrføtt",
+      "accession": "1103",
+      "end_of_reign": "29. august 1123 på Hustad i Romsdal",
+      "died": "29. august 1123 på Hustad i Romsdal"
+    },
+    {
+      "name": "Sigurd I Jorsalfare",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1090 Sønn av Magnus Berrføtt",
+      "accession": "1103",
+      "end_of_reign": "26. mars 1130 i Oslo",
+      "died": "26. mars 1130 i Oslo"
+    },
+    {
+      "name": "Magnus IV Blinde Sigurdsson",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 1115 Sønn av Sigurd Jorsalfare og Borghild Olavsdatter",
+      "accession": "1130",
+      "end_of_reign": "1135",
+      "died": "Falt i slaget ved Holmengrå 12. november 1139"
+    },
+    {
+      "name": "Harald IV Gille",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 1103 i Irland eller på Sudrøyene Sønn av Magnus Berrføtt.",
+      "accession": "1130",
+      "end_of_reign": "Drept 14. desember 1136 i Bergen",
+      "died": "Drept 14. desember 1136 i Bergen"
+    },
+    {
+      "name": "Sigurd Slembe gjorde krav på kongsnavn og tronen 1136-39",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Født ca.1100 Sønn av Magnus Berrføtt og Tora Saksesdatter.",
+      "accession": "",
+      "end_of_reign": "Falt i slaget ved Holmengrå 12. november 1139.",
+      "died": "Falt i slaget ved Holmengrå 12. november 1139."
+    },
+    {
+      "name": "Sigurd II Munn",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1133 Sønn av Harald Gille og Tora Guttormsdatter",
+      "accession": "1136",
+      "end_of_reign": "Drept 10. juni 1155 i Bergen",
+      "died": "Drept 10. juni 1155 i Bergen"
+    },
+    {
+      "name": "Inge Krokrygg",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 1134/1135 Sønn av Harald Gille og Ingrid Ragnvaldsdatter",
+      "accession": "1136",
+      "end_of_reign": "Falt i strid 4. februar 1161 i Bjørvika",
+      "died": "Falt i strid 4. februar 1161 i Bjørvika"
+    },
+    {
+      "name": "Øystein II Haraldsson",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 1125 på Orknøyene eller et annet sted i Vesterhavsøyene Sønn av Harald Gille og Biadoc",
+      "accession": "Ca. 1142",
+      "end_of_reign": "Drept 21. august ? 1157",
+      "died": "Drept 21. august ? 1157"
+    },
+    {
+      "name": "Magnus Haraldsson barnesamkonge 1142-1145, regnes ikke med i vanlige opplistninger",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "Ca. 1135 Sønn av Harald Gille og en ikke navngitt frille",
+      "accession": "",
+      "end_of_reign": "1145",
+      "died": "1145"
+    },
+    {
+      "name": "Håkon II Herdebrei",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1147 Sønn av Sigurd Munn og Tora, tjenestekvinne fra Viken",
+      "accession": "1159",
+      "end_of_reign": "1162 i Slaget ved Sekken , Romsdalsfjorden",
+      "died": "1162 i Slaget ved Sekken , Romsdalsfjorden"
+    },
+    {
+      "name": "Magnus V Erlingsson",
+      "period": "Hårfagreætten og Ladejarlene",
+      "born": "1156 i Etne i Hordaland Sønn av Erling Skakke og Kristin , datter av Sigurd Jorsalfare",
+      "accession": "1161",
+      "end_of_reign": "Falt i slaget ved Fimreite i Sognefjorden i 1184",
+      "died": "Falt i slaget ved Fimreite i Sognefjorden i 1184"
+    },
+    {
+      "name": "Sverre Sigurdsson",
+      "period": "Sverreætten",
+      "born": "Ca. 1151 i Bergen Hevdet selv at han var sønn av Sigurd Munn",
+      "accession": "1177",
+      "end_of_reign": "8. eller 9. mars 1202 i Bjørgvin. Begravet i Store Kristkirken",
+      "died": "8. eller 9. mars 1202 i Bjørgvin. Begravet i Store Kristkirken"
+    },
+    {
+      "name": "Jon Kuvlung var kuvlungenes kandidat som norsk konge 1185–1188",
+      "period": "Sverreætten",
+      "born": "Ca. 1160 Påstått sønn av Inge Krokrygg",
+      "accession": "",
+      "end_of_reign": "",
+      "died": "Drept i Bergen i 1188 i kamp mot Sverre Sigurdsson"
+    },
+    {
+      "name": "Håkon III Sverresson",
+      "period": "Sverreætten",
+      "born": "Ca. 1182 i Nidaros Sønn av Sverre Sigurdsson og Astrid Roesdatter",
+      "accession": "8. eller 9. mars 1202 etter farens død",
+      "end_of_reign": "1. januar 1204 i Bjørgvin",
+      "died": "1. januar 1204 i Bjørgvin"
+    },
+    {
+      "name": "Guttorm Sigurdsson",
+      "period": "Sverreætten",
+      "born": "1199 Sønn av Sigurd Lavard , sønn av Sverre Sigurdsson",
+      "accession": "1204",
+      "end_of_reign": "Sommeren 1204 Han ble gravlagt i Nidarosdomen",
+      "died": "Sommeren 1204 Han ble gravlagt i Nidarosdomen"
+    },
+    {
+      "name": "Erling Steinvegg var baglernes kandidat som norsk konge 1204–1207",
+      "period": "Sverreætten",
+      "born": "Ukjent fødselsår Påstått sønn av Magnus Erlingsson",
+      "accession": "",
+      "end_of_reign": "",
+      "died": "1207 i Tønsberg"
+    },
+    {
+      "name": "Inge II Bårdsson",
+      "period": "Sverreætten",
+      "born": "1185 Sønn av Bård Guttormsson og Cecilia Sigurdsdatter",
+      "accession": "1204",
+      "end_of_reign": "1217 Gravlagt i Nidarosdomen .",
+      "died": "1217 Gravlagt i Nidarosdomen ."
+    },
+    {
+      "name": "Filippus Simonsson var baglernes kandidat som norsk konge 1207–1217",
+      "period": "Sverreætten",
+      "born": "Ca. 1185 Sønn av Simon Kåresson og Margret Arnesdatter",
+      "accession": "",
+      "end_of_reign": "",
+      "died": "1217 i Tønsberg"
+    },
+    {
+      "name": "Håkon IV Håkonsson",
+      "period": "Sverreætten",
+      "born": "1204 Sønn av Håkon Sverresson og Inga fra Varteig",
+      "accession": "1217",
+      "end_of_reign": "17. desember 1263 på Orknøyene . Han ble gravlagt i St. Magnuskatedralen i Kirkwall . Året etter ble han ført tilbake til Norge og gravlagt i Kristkirken på Holmen i Bjørgvin.",
+      "died": "17. desember 1263 på Orknøyene . Han ble gravlagt i St. Magnuskatedralen i Kirkwall . Året etter ble han ført tilbake til Norge og gravlagt i Kristkirken på Holmen i Bjørgvin."
+    },
+    {
+      "name": "Magnus VI (Håkonsson) Lagabøte",
+      "period": "Sverreætten",
+      "born": "1. mai 1238 i Tønsberg Sønn av Håkon Håkonsson og Margrete Skulesdatter",
+      "accession": "1263 etter farens død",
+      "end_of_reign": "9. mai 1280 i Bergen. Begravet i fransiskanernes Olavskirke.",
+      "died": "9. mai 1280 i Bergen. Begravet i fransiskanernes Olavskirke."
+    },
+    {
+      "name": "Eirik II Magnusson",
+      "period": "Sverreætten",
+      "born": "1268 Sønn av Magnus Lagabøte og Ingeborg Eriksdatter",
+      "accession": "1280 etter farens død",
+      "end_of_reign": "15. juli 1299",
+      "died": "15. juli 1299"
+    },
+    {
+      "name": "Håkon V Magnusson",
+      "period": "Sverreætten",
+      "born": "1270 Sønn av Magnus Lagabøte og Ingeborg Eriksdatter",
+      "accession": "1. november 1299",
+      "end_of_reign": "8. mai 1319 på Tunsberghus",
+      "died": "8. mai 1319 på Tunsberghus"
+    },
+    {
+      "name": "Magnus VII Eriksson",
+      "period": "Sverreætten",
+      "born": "April eller mai 1316 Sønn av Ingebjørg Håkonsdatter og hertug Erik Magnusson av Södermanland",
+      "accession": "1319",
+      "end_of_reign": "1355",
+      "died": "1. desember 1374"
+    },
+    {
+      "name": "Håkon VI Magnusson",
+      "period": "Sverreætten",
+      "born": "1340 Sønn av Magnus VII og Blanka av Namur",
+      "accession": "1355",
+      "end_of_reign": "1380 i Oslo Begravet i Mariakirken i Oslo",
+      "died": "1380 i Oslo Begravet i Mariakirken i Oslo"
+    },
+    {
+      "name": "Olav IV Håkonsson",
+      "period": "Sverreætten",
+      "born": "Julen 1370 Sønn av Håkon VI Magnusson og Margrete I",
+      "accession": "1380",
+      "end_of_reign": "3. august 1387 på Falsterbohus Begravet i Sorø klosterkirke",
+      "died": "3. august 1387 på Falsterbohus Begravet i Sorø klosterkirke"
+    },
+    {
+      "name": "Dronning Margrete Valdemarsdotter",
+      "period": "Kalmarunionen",
+      "born": "Våren 1353 i Søborg . Datter av Valdemar Atterdag og Helvig av Slesvig",
+      "accession": "1388",
+      "end_of_reign": "28. oktober 1412 på skipet sitt i havnen i Flensburg Gravlagt i Roskilde domkirke",
+      "died": "28. oktober 1412 på skipet sitt i havnen i Flensburg Gravlagt i Roskilde domkirke"
+    },
+    {
+      "name": "Erik av Pommern Bogislav Vratislavsson",
+      "period": "Kalmarunionen",
+      "born": "1382 Sønn av Vartislav VII av Pommern og Maria av Mecklenburg",
+      "accession": "1389",
+      "end_of_reign": "1442",
+      "died": "3. mai 1459 i Pommern Gravlagt i Mariakirken i Darlowo"
+    },
+    {
+      "name": "Kristoffer av Bayern Christoph von Pfalz-Neumarkt",
+      "period": "Kalmarunionen",
+      "born": "26. februar 1416 eller 1418 Sønn av hertug Johan av Pfalz og Erik av Pommerns søster Katharina av Pommern",
+      "accession": "1442",
+      "end_of_reign": "6. januar 1448 på Helsingborg slott i Skåne Gravlagt i Roskilde domkirke",
+      "died": "6. januar 1448 på Helsingborg slott i Skåne Gravlagt i Roskilde domkirke"
+    },
+    {
+      "name": "Karl I Knutsson Bonde Karl Knútsson Bonde",
+      "period": "Kalmarunionen",
+      "born": "1408 eller 1409 Sønn av Knut Bonde (Tordsson) og Margareta Karlsdotter (Sparre av Tofta)",
+      "accession": "Valgt til konge 25. oktober 1449 etter Kristoffer av Bayerns død. Kronet 20. november 1449",
+      "end_of_reign": "Abdiserte til fordel for Christian I 13. mai 1450",
+      "died": "15. mai 1470 Gravlagt i Riddarholmskyrkan"
+    },
+    {
+      "name": "Christian I Christiern I af Oldenburg",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "1426 Sønn av greve Didrik av Oldenburg og Hedvig av Holstein",
+      "accession": "Konge 13. mai 1450",
+      "end_of_reign": "21. mai 1481 på Københavns slott Gravlagt i Helligtrekongers Kapel i Roskilde domkirke",
+      "died": "21. mai 1481 på Københavns slott Gravlagt i Helligtrekongers Kapel i Roskilde domkirke"
+    },
+    {
+      "name": "Hans",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "2. februar 1455 på Aalborghus Sønn av Christian I og Dorothea av Brandenburg",
+      "accession": "Konge 1483",
+      "end_of_reign": "20. februar 1513 på Aalborghus i Ålborg Gravlagt i Odense domkirke",
+      "died": "20. februar 1513 på Aalborghus i Ålborg Gravlagt i Odense domkirke"
+    },
+    {
+      "name": "Christian II Christiern II af Oldenburg",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "1. juli 1481 på Nyborg slott i Nyborg Sønn av kong Hans og Christine av Sachsen",
+      "accession": "Konge 20. februar 1513 ved kong Hans død",
+      "end_of_reign": "13. april 1523 avsatt og forvist",
+      "died": "25. januar 1559 i fengsel på Kalundborg slott på Sjælland Gravlagt i Odense domkirke"
+    },
+    {
+      "name": "Frederik I",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "7. oktober 1471 på Haderslevhus Sønn av Christian I og Dorothea av Brandenburg",
+      "accession": "Konge 13. april 1523 ved Christian IIs avsettelse",
+      "end_of_reign": "10. april 1533 på Gottorp slott Gravlagt i Schleswig domkirke",
+      "died": "10. april 1533 på Gottorp slott Gravlagt i Schleswig domkirke"
+    },
+    {
+      "name": "Christian III Christiern III af Oldenburg",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "12. august 1503 i Gottorp Sønn av Fredrik I og Anna av Brandenburg",
+      "accession": "Konge 1537",
+      "end_of_reign": "1. januar 1559 på slottet Koldinghus i Kolding Gravlagt i Helligtrekongers Kapel i Roskilde domkirke",
+      "died": "1. januar 1559 på slottet Koldinghus i Kolding Gravlagt i Helligtrekongers Kapel i Roskilde domkirke"
+    },
+    {
+      "name": "Frederik II",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "1. juli 1534 på slottet Haderslevhus Sønn av Christian III og Dorothea av Sachsen-Lauenburg",
+      "accession": "Konge 1. januar 1559 ved Christian IIIs død",
+      "end_of_reign": "4. april 1588 i klostret i Antvorskov Gravlagt i Helligtrekongers Kapel i Roskilde domkirke",
+      "died": "4. april 1588 i klostret i Antvorskov Gravlagt i Helligtrekongers Kapel i Roskilde domkirke"
+    },
+    {
+      "name": "Christian IV",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "12. april 1577 på Frederiksborg slott Sønn av Fredrik II og Sophie av Mecklenburg",
+      "accession": "Konge 4. april 1588 ved Fredrik IIs død",
+      "end_of_reign": "28. februar 1648 på Rosenborg slott Gravlagt i Christian IVs kapell i Roskilde domkirke",
+      "died": "28. februar 1648 på Rosenborg slott Gravlagt i Christian IVs kapell i Roskilde domkirke"
+    },
+    {
+      "name": "Frederik III",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "18. mars 1609 på slottet Haderslevhus Sønn av Christian IV og Anna Kathrine",
+      "accession": "Konge 6. juli 1648 ved hyldning",
+      "end_of_reign": "9. februar 1670 på Christiansborg slott i København Gravlagt i Christian IVs kapell i Roskilde domkirke",
+      "died": "9. februar 1670 på Christiansborg slott i København Gravlagt i Christian IVs kapell i Roskilde domkirke"
+    },
+    {
+      "name": "Christian V",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "15. april 1646 på Duborg slott i Flensburg Sønn av Fredrik III og Sophie Amalie",
+      "accession": "Konge 9. februar 1670 ved Fredrik IIIs død",
+      "end_of_reign": "25. august 1699 i København som følge av en jaktulykke året før Gravlagt i Roskilde domkirke",
+      "died": "25. august 1699 i København som følge av en jaktulykke året før Gravlagt i Roskilde domkirke"
+    },
+    {
+      "name": "Frederik IV",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "21. oktober 1671 på Christiansborg slott Sønn av Christian V og Charlotte Amalie",
+      "accession": "Konge 25. august 1699 ved Christian Vs død",
+      "end_of_reign": "12. oktober 1730 på Odense slott Gravlagt i Roskilde domkirke",
+      "died": "12. oktober 1730 på Odense slott Gravlagt i Roskilde domkirke"
+    },
+    {
+      "name": "Christian VI",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "10. desember 1699 på Christiansborg slott Sønn av Fredrik IV og Louise av Mecklenburg-Güstrow",
+      "accession": "Konge 12. oktober 1730 ved Fredrik IVs død",
+      "end_of_reign": "6. august 1746 på Hirschholm slott Gravlagt i Roskilde domkirke",
+      "died": "6. august 1746 på Hirschholm slott Gravlagt i Roskilde domkirke"
+    },
+    {
+      "name": "Frederik V",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "31. mars 1723 på Christiansborg slott Sønn av Christian VI og Sophie Magdalene",
+      "accession": "Konge 6. august 1746 ved Christian VIs død",
+      "end_of_reign": "14. januar 1766 på Christiansborg slott Gravlagt i Roskilde domkirke",
+      "died": "14. januar 1766 på Christiansborg slott Gravlagt i Roskilde domkirke"
+    },
+    {
+      "name": "Christian VII",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "29. januar 1749 på Christiansborgs slott Sønn av Fredrik V og Louise av England",
+      "accession": "Konge 14. januar 1766 ved Fredrik Vs død",
+      "end_of_reign": "13. mars 1808 i Rendsburg Gravlagt i Roskilde domkirke",
+      "died": "13. mars 1808 i Rendsburg Gravlagt i Roskilde domkirke"
+    },
+    {
+      "name": "Frederik VI",
+      "period": "Dansketiden – Huset Oldenburg 1450–1814",
+      "born": "28. januar 1768 på Christiansborg slott Sønn av Christian VII og Caroline Mathilde",
+      "accession": "Regent 14. april 1784 ved Christian VIIs sykdom Konge 13. mars 1808 ved dennes død",
+      "end_of_reign": "1814",
+      "died": "3. desember 1839 på Amalienborg slott i København Gravlagt i Roskilde domkirke"
+    },
+    {
+      "name": "Christian Frederik",
+      "period": "1814",
+      "born": "18. september 1786 på Christiansborg slott Sønn av arveprins Fredrik og Sophie Frederikke",
+      "accession": "17. mai 1814",
+      "end_of_reign": "10. oktober 1814",
+      "died": "20. januar 1848 på Amalienborg. Gravlagt i Roskilde domkirke."
+    },
+    {
+      "name": "Karl II",
+      "period": "Personalunion med Sverige",
+      "born": "7. oktober 1748 Sønn av Adolf Fredrik og Louise Ulrike av Preussen",
+      "accession": "4. november 1814",
+      "end_of_reign": "5. februar 1818 Gravlagt i Riddarholmskyrkan",
+      "died": "5. februar 1818 Gravlagt i Riddarholmskyrkan"
+    },
+    {
+      "name": "Karl III Johan",
+      "period": "Personalunion med Sverige",
+      "born": "26. januar 1763 Sønn av Henri Bernadotte og Jeanne St. Jean",
+      "accession": "5. februar 1818",
+      "end_of_reign": "8. mars 1844 Gravlagt i Riddarholmskyrkan",
+      "died": "8. mars 1844 Gravlagt i Riddarholmskyrkan"
+    },
+    {
+      "name": "Oscar I",
+      "period": "Personalunion med Sverige",
+      "born": "4. juli 1799 Sønn av Karl III Johan og Desideria",
+      "accession": "8. mars 1844",
+      "end_of_reign": "8. juli 1859 Gravlagt i Riddarholmskyrkan",
+      "died": "8. juli 1859 Gravlagt i Riddarholmskyrkan"
+    },
+    {
+      "name": "Karl IV",
+      "period": "Personalunion med Sverige",
+      "born": "3. mai 1826 på Stockholms slott Sønn av Oscar I og Josefine",
+      "accession": "8. juli 1859",
+      "end_of_reign": "18. september 1872 i Malmö Gravlagt i Riddarholmskyrkan",
+      "died": "18. september 1872 i Malmö Gravlagt i Riddarholmskyrkan"
+    },
+    {
+      "name": "Oscar II",
+      "period": "Personalunion med Sverige",
+      "born": "21. januar 1829 Sønn av Oscar I og Josefine",
+      "accession": "18. september 1872",
+      "end_of_reign": "7. juni 1905",
+      "died": "8. desember 1907 Gravlagt i Riddarholmskyrkan"
+    },
+    {
+      "name": "Haakon VII",
+      "period": "Et selvstendig Norge, 1905–",
+      "born": "3. august 1872 Sønn av Frederik VIII av Danmark og Lovisa av Sverige",
+      "accession": "18. november 1905",
+      "end_of_reign": "21. september 1957 Gravlagt i det kongelige mausoleum på Akershus slott",
+      "died": "21. september 1957 Gravlagt i det kongelige mausoleum på Akershus slott"
+    },
+    {
+      "name": "Olav V",
+      "period": "Et selvstendig Norge, 1905–",
+      "born": "2. juli 1903 Sønn av Haakon VII og Maud",
+      "accession": "Ved Haakon VIIs død 21. september 1957",
+      "end_of_reign": "17. januar 1991 Gravlagt i det kongelige mausoleum på Akershus slott",
+      "died": "17. januar 1991 Gravlagt i det kongelige mausoleum på Akershus slott"
+    },
+    {
+      "name": "Harald V",
+      "period": "Et selvstendig Norge, 1905–",
+      "born": "21. februar 1937 Sønn av Olav V og Märtha",
+      "accession": "Ved Olav Vs død 17. januar 1991",
+      "end_of_reign": "28. august 2026 Gravlagt i det kongelige mausoleum på Akershus slott",
+      "died": "28. august 2026 Gravlagt i det kongelige mausoleum på Akershus slott"
+    },
+    {
+      "name": "Haakon VIII",
+      "period": "Et selvstendig Norge, 1905–",
+      "born": "20. juli 1973 Sønn av Harald V og Sonja",
+      "accession": "Ved Harald Vs død 28. august 2026",
+      "end_of_reign": "",
+      "died": ""
+    }
+  ],
+  "meta": {
+    "title": "Norges konger og regenter - Free Download",
+    "description": "Norges konger og dronninger fra Harald Hårfagre til i dag, gruppert etter periode: fødsel, tiltredelse, fratredelse og død. Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges konger og regenter | ListBase",
+    "seo_description": "Download Norges konger og regenter — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norges_konger"
+    ]
+  }
+}
