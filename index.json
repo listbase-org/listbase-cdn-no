@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:43.211Z",
-  "total_datasets": 422,
-  "total_records": 1195378,
+  "generated": "2026-10-27T02:27:45.752Z",
+  "total_datasets": 423,
+  "total_records": 1195584,
   "categories": [
     {
       "id": "agriculture",
@@ -42,6 +42,10 @@
     },
     {
       "id": "language",
+      "dataset_count": 1
+    },
+    {
+      "id": "law",
       "dataset_count": 1
     },
     {
@@ -4300,6 +4304,32 @@
         "xlsx": {
           "name": "no-sprak_NO.xlsx",
           "size": 22744
+        }
+      }
+    },
+    {
+      "id": "no-hoyesterettsdommere",
+      "name": "Norges høyesterettsdommere",
+      "category": "law",
+      "record_count": 206,
+      "columns": [
+        "no",
+        "name",
+        "lifespan",
+        "term",
+        "chief_justice_term"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_h%C3%B8yesterettsdommere",
+      "updated": "2026-10",
+      "size": 34367,
+      "files": {
+        "csv": {
+          "name": "no-hoyesterettsdommere_NO.csv",
+          "size": 11897
+        },
+        "xlsx": {
+          "name": "no-hoyesterettsdommere_NO.xlsx",
+          "size": 16254
         }
       }
     },
