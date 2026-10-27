@@ -1,0 +1,156 @@
+{
+  "id": "no-politiske-partier-stortinget",
+  "name": "Politiske partier på Stortinget",
+  "title": "Politiske partier på Stortinget",
+  "description": "Partiene representert på Stortinget: stiftelsesdato, ideologi, politisk posisjon, leder, mandater og stemmeandel ved stortingsvalget 2025.",
+  "category": "politics",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_politiske_partier",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_politiske_partier",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "abbr",
+      "label": "Abbr",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "string"
+    },
+    {
+      "key": "ideology",
+      "label": "Ideology",
+      "type": "string"
+    },
+    {
+      "key": "position",
+      "label": "Position",
+      "type": "string"
+    },
+    {
+      "key": "leader",
+      "label": "Leader",
+      "type": "string"
+    },
+    {
+      "key": "seats_2025",
+      "label": "Seats 2025",
+      "type": "string"
+    },
+    {
+      "key": "vote_share_2025",
+      "label": "Vote Share 2025",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "abbr": "Ap",
+      "party": "Arbeiderpartiet",
+      "founded": "21. august 1887",
+      "ideology": "Sosialdemokrati",
+      "position": "Venstresiden",
+      "leader": "Jonas Gahr Støre (2014)",
+      "seats_2025": "53 / 169",
+      "vote_share_2025": "28,0%"
+    },
+    {
+      "abbr": "FrP",
+      "party": "Fremskrittspartiet",
+      "founded": "8. april 1973",
+      "ideology": "Høyrepopulisme / liberalisme",
+      "position": "Høyresiden",
+      "leader": "Sylvi Listhaug (2021)",
+      "seats_2025": "47 / 169",
+      "vote_share_2025": "23,8 %"
+    },
+    {
+      "abbr": "H",
+      "party": "Høyre",
+      "founded": "25. august 1884",
+      "ideology": "Konservatisme",
+      "position": "Høyresiden",
+      "leader": "Ine Eriksen Søreide (2026)",
+      "seats_2025": "24 / 169",
+      "vote_share_2025": "14,6 %"
+    },
+    {
+      "abbr": "Sp",
+      "party": "Senterpartiet",
+      "founded": "19. juni 1920",
+      "ideology": "Agrarparti",
+      "position": "Sentrum–venstre",
+      "leader": "Trygve Slagsvold Vedum (2014)",
+      "seats_2025": "9 / 169",
+      "vote_share_2025": "5,6 %"
+    },
+    {
+      "abbr": "SV",
+      "party": "Sosialistisk Venstreparti",
+      "founded": "16. mars 1975",
+      "ideology": "Demokratisk sosialisme",
+      "position": "Venstresiden",
+      "leader": "Kirsti Bergstø (2023)",
+      "seats_2025": "9 / 169",
+      "vote_share_2025": "5,6 %"
+    },
+    {
+      "abbr": "R",
+      "party": "Rødt",
+      "founded": "11. mars 2007",
+      "ideology": "Demokratisk sosialisme",
+      "position": "Venstresiden",
+      "leader": "Marie Sneve Martinussen (2023)",
+      "seats_2025": "9 / 169",
+      "vote_share_2025": "5,3 %"
+    },
+    {
+      "abbr": "MDG",
+      "party": "Miljøpartiet De Grønne",
+      "founded": "29. oktober 1988",
+      "ideology": "Grønn ideologi",
+      "position": "Blokkuavhengig",
+      "leader": "Arild Hermstad (2022)",
+      "seats_2025": "8 / 169",
+      "vote_share_2025": "4,7 %"
+    },
+    {
+      "abbr": "KrF",
+      "party": "Kristelig Folkeparti",
+      "founded": "4. september 1933",
+      "ideology": "Kristendemokrati",
+      "position": "Høyresiden",
+      "leader": "Dag-Inge Ulstein (2025)",
+      "seats_2025": "7 / 169",
+      "vote_share_2025": "4,2 %"
+    },
+    {
+      "abbr": "V",
+      "party": "Venstre",
+      "founded": "28. januar 1884",
+      "ideology": "Sosialliberalisme",
+      "position": "Sentrum–høyre",
+      "leader": "Guri Melby (2020)",
+      "seats_2025": "3 / 169",
+      "vote_share_2025": "3,7 %"
+    }
+  ],
+  "meta": {
+    "title": "Politiske partier på Stortinget - Free Download",
+    "description": "Partiene representert på Stortinget: stiftelsesdato, ideologi, politisk posisjon, leder, mandater og stemmeandel ved stortingsvalget 2025. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Politiske partier på Stortinget | ListBase",
+    "seo_description": "Download Politiske partier på Stortinget — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_politiske_partier"
+    ]
+  }
+}

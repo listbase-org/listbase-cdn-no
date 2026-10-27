@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:15.998Z",
-  "total_datasets": 435,
-  "total_records": 1196057,
+  "generated": "2026-10-27T02:28:18.689Z",
+  "total_datasets": 436,
+  "total_records": 1196066,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -4763,6 +4763,35 @@
         "xlsx": {
           "name": "no-osm-office-government_NO.xlsx",
           "size": 24947
+        }
+      }
+    },
+    {
+      "id": "no-politiske-partier-stortinget",
+      "name": "Politiske partier på Stortinget",
+      "category": "politics",
+      "record_count": 9,
+      "columns": [
+        "abbr",
+        "party",
+        "founded",
+        "ideology",
+        "position",
+        "leader",
+        "seats_2025",
+        "vote_share_2025"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_politiske_partier",
+      "updated": "2026-10",
+      "size": 4553,
+      "files": {
+        "csv": {
+          "name": "no-politiske-partier-stortinget_NO.csv",
+          "size": 1188
+        },
+        "xlsx": {
+          "name": "no-politiske-partier-stortinget_NO.xlsx",
+          "size": 7649
         }
       }
     },
