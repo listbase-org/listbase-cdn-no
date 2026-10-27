@@ -1,0 +1,1056 @@
+{
+  "id": "no-katastrofer-og-ulykker",
+  "name": "Katastrofer og store ulykker i Norge",
+  "title": "Katastrofer og store ulykker i Norge",
+  "description": "Naturkatastrofer, skipsforlis, ulykker og andre store hendelser i Norges historie: sted, type hendelse, tidspunkt og antall omkomne.",
+  "category": "history",
+  "source": "https://no.wikipedia.org/wiki/Katastrofer_og_store_ulykker_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Katastrofer_og_store_ulykker_i_Norge",
+  "updated": "2026-10",
+  "record_count": 125,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "event",
+      "label": "Event",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "deaths",
+      "label": "Deaths",
+      "type": "number"
+    },
+    {
+      "key": "comments",
+      "label": "Comments",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Storeggaraset",
+      "location": "Atlanterhavet , Norskehavet utenfor Vestfjorden og Midt-Norge",
+      "event": "undersjøisk skred og tsunami",
+      "date": "6100 f.Kr.",
+      "deaths": "",
+      "comments": "Største kjente naturkatastrofe i dette område , ca. år 6100 fvt.., ukjent antall omkomne, estimater fra «noen hundre» til «trolig flere tusener»."
+    },
+    {
+      "name": "Gauldalsraset",
+      "location": "Sør-Trøndelag , Gauldalen",
+      "event": "skred og oversvømmelse",
+      "date": "september 1345",
+      "deaths": "500",
+      "comments": "Antatt å være den største naturkatastrofen som har inntruffet i Norge."
+    },
+    {
+      "name": "Svartedauden",
+      "location": "Norge , i alle nåværende fylker",
+      "event": "pandemi , pest",
+      "date": "1349 – 1351",
+      "deaths": "300 000",
+      "comments": "Minst 300 000 døde i Norge, kanskje så mange som 75 millioner døde totalt."
+    },
+    {
+      "name": "Orkanen på Stadhavet",
+      "location": "Sogn og Fjordane , Stadhavet",
+      "event": "orkan",
+      "date": "1594",
+      "deaths": "300",
+      "comments": "Minst 15 fraktefartøyer med full besetning. Tapstallet svært usikkert."
+    },
+    {
+      "name": "Slaget ved Kringen og Massakren ved Skottelåven",
+      "location": "Oppland , Kvam i Gudbrandsdalen",
+      "event": "felttog /krigshandling",
+      "date": "september 1612",
+      "deaths": "600",
+      "comments": "Sinclairs felttog, og etterfølgende massakre på de tilfangetatte skottene, inntil 600 drepte. Sannsynlig dato: 26. august jul. / 5. september 1612 greg."
+    },
+    {
+      "name": "Den første gjæslingulykken",
+      "location": "Nord-Trøndelag , Folda",
+      "event": "forlis",
+      "date": "23. februar 1625",
+      "deaths": "210",
+      "comments": "Voldsomt uvær."
+    },
+    {
+      "name": "Leirraset på Bakklandet",
+      "location": "Sør-Trøndelag , Bakklandet i Trondheim",
+      "event": "leirskred",
+      "date": "juli 1625",
+      "deaths": "20",
+      "comments": ""
+    },
+    {
+      "name": "Pesten på Østlandet",
+      "location": "Østlandet, Christiania og omland",
+      "event": "pandemi , pest",
+      "date": "1654",
+      "deaths": "2 000 +",
+      "comments": "Antall ofre usikkert, men trolig over 2 000 døde. En NRK Podkast fra 2021 forteller at Christiania den gang hadde mindre enn 4 000 innbyggere, og over 1 500 døde bare i byen. Se også lokalhistoriewiki ."
+    },
+    {
+      "name": "Snøskredene på Nordvestlandet 1679",
+      "location": "Møre og Romsdal , særlig i Ørsta og Norddal , også i Nordfjord",
+      "event": "snøskred",
+      "date": "16. februar 1679",
+      "deaths": "140",
+      "comments": "«Ulykkesnatten» eller «Det store skadeåret». Mange skred, av de største var Valset (27 døde) og Skylstad (28 døde) i Ørsta. 6. februar etter gammel kalender."
+    },
+    {
+      "name": "Leirraset på Borregaard",
+      "location": "Østfold , Borregaard i Sarpsborg",
+      "event": "leirskred",
+      "date": "februar 1702",
+      "deaths": "15",
+      "comments": "Raset var nær ved å åpne nytt løp for Glomma vest for Sarpefossen ."
+    },
+    {
+      "name": "Angrepet på Fredrikshald",
+      "location": "Østfold , Halden , Fredriksten",
+      "event": "Krigshandling",
+      "date": "4. juli 1716",
+      "deaths": "580",
+      "comments": "Karl XII's felttog - Ca. 500 svenske soldater, 84 norske, og noen sivile"
+    },
+    {
+      "name": "Armfeldt-retretten i Tydalsfjella",
+      "location": "Sør-Trøndelag , Tydal , Tydalsfjella",
+      "event": "snøstorm",
+      "date": "desember 1718",
+      "deaths": "3 800",
+      "comments": "Anslagsvis 3 800 svenske soldater omkom av frost og utmattelse."
+    },
+    {
+      "name": "Stormen ved Senja 1726",
+      "location": "Troms , Torskeråsa i Torskefjorden",
+      "event": "forlis",
+      "date": "3. mars 1726",
+      "deaths": "90",
+      "comments": "90 fiskere i 25 båter druknet i uvær utenfor Gryllefjord ."
+    },
+    {
+      "name": "Fjellskredet i Skafjellet i Stranda",
+      "location": "Møre og Romsdal , Skafjellet , Stranda",
+      "event": "fjellskred , tsunami",
+      "date": "januar 1731",
+      "deaths": "17",
+      "comments": ""
+    },
+    {
+      "name": "Skredet i Oldedalen 1733",
+      "location": "Sogn og Fjordane , Olden",
+      "event": "snøskred og fjellskred",
+      "date": "1733",
+      "deaths": "30",
+      "comments": "Usikkert anslag, kilder gir forskjellige tall."
+    },
+    {
+      "name": "Snøraset i Storlidalen i Oppdal",
+      "location": "Sør-Trøndelag , Oppdal",
+      "event": "snøskred",
+      "date": "1737",
+      "deaths": "18",
+      "comments": ""
+    },
+    {
+      "name": "Forliset på Træla",
+      "location": "Vestfold , Tønsberg",
+      "event": "forlis",
+      "date": "1. mars 1750",
+      "deaths": "15",
+      "comments": "En båt med 15 mennesker forliste i sterk storm på vei hjem fra kirken."
+    },
+    {
+      "name": "Snøraset i Ørsta",
+      "location": "Møre og Romsdal , Ørsta",
+      "event": "snøskred",
+      "date": "1755",
+      "deaths": "17",
+      "comments": ""
+    },
+    {
+      "name": "Tjelle-skredet",
+      "location": "Møre og Romsdal , Langfjorden",
+      "event": "fjellskred",
+      "date": "22. februar 1756",
+      "deaths": "32",
+      "comments": ""
+    },
+    {
+      "name": "Leirras-ulykken i Rissa",
+      "location": "Sør-Trøndelag , Rissa",
+      "event": "leirskred",
+      "date": "mars 1760",
+      "deaths": "17",
+      "comments": ""
+    },
+    {
+      "name": "Stormen på Stadhavet 1763",
+      "location": "Sogn og Fjordane , Stadhavet",
+      "event": "forlis",
+      "date": "1763",
+      "deaths": "15 +",
+      "comments": "I 1763 forteller Alb. Dass at 14 nordlands-jekter forliste, og mellom 15 og 20 mennesker omkom."
+    },
+    {
+      "name": "Leirraset i Skjea i Sørum",
+      "location": "Akershus , Sørum",
+      "event": "leirskred",
+      "date": "15. april 1768",
+      "deaths": "16",
+      "comments": ""
+    },
+    {
+      "name": "Snøraset i Hjørundfjord",
+      "location": "Møre og Romsdal , Ørsta , Hjørundfjord",
+      "event": "snøskred",
+      "date": "1. januar 1770",
+      "deaths": "27",
+      "comments": "27 døde, medregnet «et brudefølge»."
+    },
+    {
+      "name": "Flodbølgen i Ulvik",
+      "location": "Hordaland , Ulvik",
+      "event": "fjellskred og flodbølge",
+      "date": "1780",
+      "deaths": "15",
+      "comments": "Ubekreftet antall omkomne, et helt brudefølge i fem båter"
+    },
+    {
+      "name": "Storofsen",
+      "location": "Hedmark , i Glommas og Gudbrandsdalslågens nedbørfelt",
+      "event": "leirskred og flom",
+      "date": "20. juli 1789",
+      "deaths": "68",
+      "comments": "Minst 80 jord- og leirskred bare i Gudbrandsdalen Påfølgende uår som følge av ødelagte jordbruksarealer medførte at mange så seg nødt til å flytte til Indre Troms"
+    },
+    {
+      "name": "Dambruddene i Kobberdammen og Theisendammen",
+      "location": "Trøndelag , Trondheim",
+      "event": "dambrudd",
+      "date": "27. mai 1791",
+      "deaths": "22",
+      "comments": "Kraftig nedbør forårsaket et demningbrudd som også førte til brudd i et lavereliggende magasin."
+    },
+    {
+      "name": "Storm i Vesterålen",
+      "location": "Troms og Nordland , Vesterålen",
+      "event": "forlis",
+      "date": "5. mars 1802",
+      "deaths": "26",
+      "comments": "minst 26 omkomne"
+    },
+    {
+      "name": "Steinraset i Arnafjorden i Sogn",
+      "location": "Sogn og Fjordane , Arnafjorden i Vik",
+      "event": "fjellskred",
+      "date": "2. desember 1811",
+      "deaths": "45",
+      "comments": "VG omtalte dette som snøskred med 43 omkomne"
+    },
+    {
+      "name": "Tillerraset",
+      "location": "Sør-Trøndelag , Nidelven , Trondheim",
+      "event": "leirskred",
+      "date": "7. mars 1816",
+      "deaths": "15",
+      "comments": ""
+    },
+    {
+      "name": "\"Storskaden\" på Andenes",
+      "location": "Nordland , Andenes",
+      "event": "forlis",
+      "date": "6. februar 1821",
+      "deaths": "30",
+      "comments": "30 fiskere i flere mindre båter omkom i storm nord av Andenes"
+    },
+    {
+      "name": "Den gale mandagen",
+      "location": "Vestlandet",
+      "event": "orkan",
+      "date": "11. mars 1822",
+      "deaths": "300",
+      "comments": "Rundt 300 anslått døde, minst 150 registrert i kirkebøkene"
+    },
+    {
+      "name": "Brannen i Grue kirke",
+      "location": "Hedmark , Grue i Solør",
+      "event": "brann",
+      "date": "26. mai 1822",
+      "deaths": "116",
+      "comments": ""
+    },
+    {
+      "name": "Kolerautbruddet i Kristiania 1833",
+      "location": "Østlandet, landet langs Oslofjorden",
+      "event": "pandemi",
+      "date": "1833 –1834",
+      "deaths": "817",
+      "comments": "Ett av flere kolerautbrudd , se eget avsnitt under."
+    },
+    {
+      "name": "Snøraset på Sæter i Nibbedalen i Sunnylven",
+      "location": "Møre og Romsdal , Sunnylven , Nibbedalen",
+      "event": "snøskred",
+      "date": "1846",
+      "deaths": "18",
+      "comments": ""
+    },
+    {
+      "name": "Kolerautbruddet i Bergen 1848",
+      "location": "Vestlandet",
+      "event": "pandemi",
+      "date": "1848 –1850",
+      "deaths": "1 350",
+      "comments": "Ett av flere kolerautbrudd , se eget avsnitt under."
+    },
+    {
+      "name": "Lofot-stormen 1849",
+      "location": "Nordland , Lofoten",
+      "event": "forlis",
+      "date": "11. februar 1849",
+      "deaths": "500",
+      "comments": "Usikkert tapstall, se diskusjonssiden"
+    },
+    {
+      "name": "Kolerautbruddet i Kristiania 1853",
+      "location": "Oslo, Kristiania",
+      "event": "pandemi",
+      "date": "1853 –1854",
+      "deaths": "1 421",
+      "comments": "Ett av flere kolerautbrudd , se eget avsnitt under."
+    },
+    {
+      "name": "Kolerautbruddene på Østlandet fra 1853",
+      "location": "Østlandet, landet langs Oslofjorden",
+      "event": "pandemi",
+      "date": "1853 –1857",
+      "deaths": "400",
+      "comments": "Flere kolerautbrudd , se eget avsnitt under. Usikre tall."
+    },
+    {
+      "name": "Snøskredene i indre Møre og Romsdal",
+      "location": "Møre og Romsdal",
+      "event": "snøskred",
+      "date": "1858",
+      "deaths": "20",
+      "comments": "Snøskred 12. og 13. april 1858 på Stranda , i Øksendalen , Romsdalen og Sykkylven ."
+    },
+    {
+      "name": "Snøraset i Luster",
+      "location": "Sogn og Fjordane , Luster",
+      "event": "snøskred",
+      "date": "1860",
+      "deaths": "18",
+      "comments": ""
+    },
+    {
+      "name": "Snørasene på Nordvestlandet",
+      "location": "Møre og Romsdal",
+      "event": "snøskred",
+      "date": "1868",
+      "deaths": "129",
+      "comments": "Flere skred over fire fylker (Tall bør fordeles på M&R, ST, NT og NL ). Skredet på Oppdal er skilt ut under."
+    },
+    {
+      "name": "Snøskredet på Oppdal",
+      "location": "Sør-Trøndelag",
+      "event": "snøskred",
+      "date": "februar 1868",
+      "deaths": "32",
+      "comments": "11. og 12. februar på gardene Klethammer, Emang og plassen Emangsmorken."
+    },
+    {
+      "name": "Lofot-stormen 1868",
+      "location": "Nordland , Lofoten",
+      "event": "forlis",
+      "date": "31. mars 1868",
+      "deaths": "96",
+      "comments": ""
+    },
+    {
+      "name": "Tragedien i Svenskhuset",
+      "location": "Svalbard , Isfjorden",
+      "event": "blyforgiftning",
+      "date": "1872",
+      "deaths": "17",
+      "comments": "17 overvintrende fangstfolk døde av blyforgiftning vinteren 1872–1873."
+    },
+    {
+      "name": "Snørasene i indre Sogn 1873",
+      "location": "Sogn og Fjordane",
+      "event": "snøskred",
+      "date": "desember 1873",
+      "deaths": "21",
+      "comments": "Ekstremvær førte til fem skred over flere kommuner (samlet omkom 21 personer over to døgn)"
+    },
+    {
+      "name": "Storm i Lofoten og Vesterålen",
+      "location": "Nordland , Lofoten og Vesterålen",
+      "event": "forlis",
+      "date": "25. januar 1893",
+      "deaths": "130",
+      "comments": "Ca. 130 omkomne, inkluderer omkomne i Troms. 26 omkomne bare fra Skogsøya i Øksnes ."
+    },
+    {
+      "name": "Leirraset i Verdal",
+      "location": "Nord-Trøndelag , Verdal",
+      "event": "leirskred",
+      "date": "19. mai 1893",
+      "deaths": "116",
+      "comments": ""
+    },
+    {
+      "name": "Røværulykken",
+      "location": "Rogaland , Røvær ved Haugesund",
+      "event": "forlis",
+      "date": "13. oktober 1899",
+      "deaths": "30",
+      "comments": ""
+    },
+    {
+      "name": "Titran-ulykken",
+      "location": "Sør-Trøndelag , Frøya",
+      "event": "forlis",
+      "date": "14. oktober 1899",
+      "deaths": "140",
+      "comments": "Om lag 140 omkomne"
+    },
+    {
+      "name": "Sandsundværulykken",
+      "location": "Nordland , Sandsundvær i Herøy",
+      "event": "orkan og springflo",
+      "date": "22. januar 1901",
+      "deaths": "34",
+      "comments": ""
+    },
+    {
+      "name": "DS «Norge»s forlis ved Rockall",
+      "location": "Atlanterhavet ved Rockall",
+      "event": "forlis",
+      "date": "28. juni 1904",
+      "deaths": "225",
+      "comments": "Totalt omkom 620, hvorav 225 norske"
+    },
+    {
+      "name": "Rasulykken i Loen 1905",
+      "location": "Sogn og Fjordane , Loen",
+      "event": "fjellskred , tsunami",
+      "date": "15. januar 1905",
+      "deaths": "61",
+      "comments": ""
+    },
+    {
+      "name": "Den andre gjæslingulykken",
+      "location": "Nord-Trøndelag , Folda",
+      "event": "forlis",
+      "date": "2. mars 1906",
+      "deaths": "25",
+      "comments": ""
+    },
+    {
+      "name": "Snøskredet på Steine i Vestvågøy",
+      "location": "Nordland , Vestvågøy nær Stamsund",
+      "event": "snøskred",
+      "date": "8. mars 1906",
+      "deaths": "19",
+      "comments": "En annen kilde hevder at 20 omkom"
+    },
+    {
+      "name": "«DS Malmberget»",
+      "location": "Nordland , Norskehavet nord for Myken",
+      "event": "forlis",
+      "date": "28. november 1913",
+      "deaths": "43",
+      "comments": "Malmskip med norsk og svensk mannskap forliste i sterk storm. Vraket først gjenfunnet i 2021."
+    },
+    {
+      "name": "Spanskesyken",
+      "location": "Norge, alle fylker",
+      "event": "pandemi",
+      "date": "1917 –1920",
+      "deaths": "15 000",
+      "comments": "Usikkert anslag over døde, tallet 7 308 ofte brukt som «dokumentert antall»."
+    },
+    {
+      "name": "Kollisjon DS «Haakon Jarl» og DS «Kong Harald»",
+      "location": "Nordland , Landegode",
+      "event": "skipskollisjon",
+      "date": "17. juni 1924",
+      "deaths": "17",
+      "comments": ""
+    },
+    {
+      "name": "DS «Haakon VII»s forlis",
+      "location": "Sogn og Fjordane , Stavenes i Askvoll",
+      "event": "forlis",
+      "date": "6. oktober 1929",
+      "deaths": "18",
+      "comments": ""
+    },
+    {
+      "name": "Tafjord-ulykken",
+      "location": "Møre og Romsdal , Tafjord i Norddal",
+      "event": "fjellskred , tsunami",
+      "date": "7. april 1934",
+      "deaths": "40",
+      "comments": ""
+    },
+    {
+      "name": "Rasulykken i Loen i 1936",
+      "location": "Sogn og Fjordane , Loen",
+      "event": "fjellskred , tsunami",
+      "date": "13. september 1936",
+      "deaths": "74",
+      "comments": ""
+    },
+    {
+      "name": "Brannen i Hegdehaugsveien 32 i Oslo",
+      "location": "Oslo",
+      "event": "brann",
+      "date": "6. november 1938",
+      "deaths": "29",
+      "comments": ""
+    },
+    {
+      "name": "Senkingen av Blücher",
+      "location": "Akershus , Frogn , Drøbaksundet",
+      "event": "Krigshandling, torpedering av tysk invasjonsflåte",
+      "date": "9. april 1940",
+      "deaths": "830",
+      "comments": "Usikkert anslag over døde"
+    },
+    {
+      "name": "Hommelvik-ulykken",
+      "location": "Sør-Trøndelag , Trondheim , Hommelvik",
+      "event": "jernbaneulykke",
+      "date": "19. november 1940",
+      "deaths": "22",
+      "comments": ""
+    },
+    {
+      "name": "Hurtigruteforliset til DS «Richard With»",
+      "location": "Finnmark , ved Rolvsøya i Måsøy",
+      "event": "Krigshandling, engelsk torpedering",
+      "date": "13. september 1941",
+      "deaths": "99",
+      "comments": "Første anslag over omkomne var høyere pga. manglende passasjerlister."
+    },
+    {
+      "name": "Palatia-katastrofen",
+      "location": "Vest-Agder utenfor Lindesnes, Lindesnes kommune",
+      "event": "Krigshandling, alliert torpedering",
+      "date": "21. oktober 1942",
+      "deaths": "986",
+      "comments": "Tysk fangetransport, torpedert av britiske fly. Av 986 omkomne var 915 russiske krigsfanger."
+    },
+    {
+      "name": "DS «Sanct Svithun»",
+      "location": "Sogn og Fjordane utenfor Stadtlandet, Selje kommune",
+      "event": "Krigshandling, alliert feilbombing",
+      "date": "30. september 1943",
+      "deaths": "47",
+      "comments": "Bombet av britiske fly etter melding om store tyske troppetransporter, men de fleste av disse hadde gått i land i Ålesund"
+    },
+    {
+      "name": "Filipstad-ulykken",
+      "location": "Oslo",
+      "event": "ammunisjons eksplosjon og brann",
+      "date": "19. desember 1943",
+      "deaths": "120",
+      "comments": "Tilsammen 45 nordmenn (deriblant fem brannmenn) og omkring 75 tyskere ble drept."
+    },
+    {
+      "name": "DS «Irma» og DS «Henry»",
+      "location": "Møre og Romsdal utenfor Averøya",
+      "event": "Krigshandling, alliert torpedering",
+      "date": "13. februar 1944",
+      "deaths": "65",
+      "comments": "61 personer fra DS «Irma» og 4 fra DS «Henry» mistet livet i alliert feiltorpedering"
+    },
+    {
+      "name": "Senkingen av DF «Hydro»",
+      "location": "Telemark , Tinnsjø , Notodden",
+      "event": "sabotasje",
+      "date": "20. februar 1944",
+      "deaths": "18",
+      "comments": "14 nordmenn og fire tyske soldater, se også Tungtvannsaksjonen#Tinnsjøaksjonen"
+    },
+    {
+      "name": "Breifoss-ulykken",
+      "location": "Buskerud , Hol i Hallingdal",
+      "event": "jernbaneulykke",
+      "date": "28. februar 1944",
+      "deaths": "25",
+      "comments": "Minst 25 omkomne"
+    },
+    {
+      "name": "Eksplosjonen på Vågen",
+      "location": "Bergen (nå Vestland )",
+      "event": "ammunisjons eksplosjon og bybrann",
+      "date": "20. april 1944",
+      "deaths": "162",
+      "comments": "Usikkert tall, ulike kilder oppgir 158-169 omkomne. Se Bybranner i Bergen"
+    },
+    {
+      "name": "Bombingen av Laksevåg",
+      "location": "Bergen (nå Vestland )",
+      "event": "Bombeeksplosjoner, alliert feilbombing",
+      "date": "4. oktober 1944",
+      "deaths": "193",
+      "comments": "Alliert bombing av tysk militært mål drepte også 193 norske sivile"
+    },
+    {
+      "name": "Bombingen på Nøstet",
+      "location": "Bergen (nå Vestland )",
+      "event": "Bombeeksplosjon og bybrann",
+      "date": "29. oktober 1944",
+      "deaths": "42",
+      "comments": "Se Bybranner i Bergen"
+    },
+    {
+      "name": "Tirpitz",
+      "location": "Troms Håkøya ved Tromsø",
+      "event": "Krigshandling, bombing, forlis",
+      "date": "12. november 1944",
+      "deaths": "916",
+      "comments": "Tysk mannskap"
+    },
+    {
+      "name": "Rigel-katastrofen",
+      "location": "Nordland , Sør for Sandnessjøen",
+      "event": "Krigshandling, bombing av tysk konvoi",
+      "date": "27. november 1944",
+      "deaths": "2 578",
+      "comments": "Mest russiske, polske og serbiske krigsfanger, men også sju nordmenn."
+    },
+    {
+      "name": "Bombingen av Victoria terrasse",
+      "location": "Oslo",
+      "event": "Krigshandling, bombing av tysk Gestapohovedkvarter på Victoria terrasse",
+      "date": "31. desember 1944",
+      "deaths": "106",
+      "comments": "Totalt 106 mennesker døde i angrepet. 79 sivile nordmenn og 27 tyskere. De fleste døde i en trikk som ble truffet i Drammensveien. Flere bygårder ble rammet, mens målet fikk nesten ikke skader."
+    },
+    {
+      "name": "Jørstad elv-sabotasjen",
+      "location": "Nord-Trøndelag , Jørstad ved Snåsa",
+      "event": "jernbaneulykke",
+      "date": "13. januar 1945",
+      "deaths": "81",
+      "comments": "78 tyskere og to nordmenn omkom i ulykken. I tillegg døde en person under oppryddingsarbeidet."
+    },
+    {
+      "name": "Bombingen av Vallø",
+      "location": "Vestfold , Tønsberg",
+      "event": "Krigshandling, alliert bombing",
+      "date": "25. april 1945",
+      "deaths": "53",
+      "comments": "53 nordmenn og et ukjent antall tyske soldater og russiske krigsfanger ble drept"
+    },
+    {
+      "name": "Voksenkoll-ulykken",
+      "location": "Oslo , Voksenkollen",
+      "event": "flyulykke",
+      "date": "18. desember 1945",
+      "deaths": "17",
+      "comments": ""
+    },
+    {
+      "name": "«Brattegga»-forliset",
+      "location": "Nordland , utenfor Laukvik i Vågan",
+      "event": "forlis",
+      "date": "30. mars 1946",
+      "deaths": "14",
+      "comments": ""
+    },
+    {
+      "name": "Kvitbjørn-ulykken",
+      "location": "Nordland , Lødingsfjellet",
+      "event": "flyulykke",
+      "date": "28. august 1947",
+      "deaths": "35",
+      "comments": ""
+    },
+    {
+      "name": "Skoghaug-forliset",
+      "location": "Nordsjøen , utenfor Nederland",
+      "event": "forlis",
+      "date": "24. desember 1947",
+      "deaths": "24",
+      "comments": ""
+    },
+    {
+      "name": "Dunderlandsdal-ulykken",
+      "location": "Nordland , Dunderlandsdalen",
+      "event": "bussulykke",
+      "date": "5. juli 1948",
+      "deaths": "16",
+      "comments": ""
+    },
+    {
+      "name": "Kings Bay-ulykken 1948",
+      "location": "Svalbard , Ny-Ålesund",
+      "event": "gruveulykke",
+      "date": "14. september 1948",
+      "deaths": "15",
+      "comments": "(se samleoversikt )"
+    },
+    {
+      "name": "Bukken Bruse-ulykken",
+      "location": "Sør-Trøndelag , Hommelvika ved Trondheim",
+      "event": "flyulykke",
+      "date": "2. oktober 1948",
+      "deaths": "19",
+      "comments": ""
+    },
+    {
+      "name": "Hurum-ulykken",
+      "location": "Buskerud , Hurum",
+      "event": "flyulykke",
+      "date": "20. november 1949",
+      "deaths": "34",
+      "comments": ""
+    },
+    {
+      "name": "MS «Bess» ' forlis",
+      "location": "Nordsjøen vest av Danmark",
+      "event": "forlis",
+      "date": "13. august 1951",
+      "deaths": "30",
+      "comments": ""
+    },
+    {
+      "name": "Ulykkene i Vestisen",
+      "location": "Atlanterhavet, Vestisen ved Grønland",
+      "event": "forlis",
+      "date": "5. april 1952",
+      "deaths": "78",
+      "comments": "78 druknede fra 5 fangstskuter"
+    },
+    {
+      "name": "Kings Bay-ulykken 1953",
+      "location": "Svalbard , Ny-Ålesund",
+      "event": "gruveulykke",
+      "date": "19. mars 1953",
+      "deaths": "19",
+      "comments": "(se samleoversikt )"
+    },
+    {
+      "name": "«Laforey»-forliset",
+      "location": "Sogn og Fjordane , Ytterøyane ved Florø",
+      "event": "forlis",
+      "date": "8. februar 1954",
+      "deaths": "21",
+      "comments": ""
+    },
+    {
+      "name": "«Brenning»-forliset",
+      "location": "Sogn og Fjordane , Stadhavet",
+      "event": "forlis",
+      "date": "1. mars 1956",
+      "deaths": "19",
+      "comments": "Antatt dato"
+    },
+    {
+      "name": "Snøskredulykkene i Lofoten og Vesterålen 1956",
+      "location": "Nordland , Lofoten , Vesterålen",
+      "event": "snøskred",
+      "date": "7. mars 1956",
+      "deaths": "21",
+      "comments": "Flere enkeltskred"
+    },
+    {
+      "name": "«Pelagia»-forliset",
+      "location": "Nordland , sør for Skomvær i Røst",
+      "event": "forlis",
+      "date": "15. september 1956",
+      "deaths": "32",
+      "comments": "Se omtale i artikkelen Skomvær fyr"
+    },
+    {
+      "name": "Stalheim-brannen",
+      "location": "Hordaland , Stalheim i Voss nær Gudvangen ( SF )",
+      "event": "Hotell brann",
+      "date": "juni 1959",
+      "deaths": "25",
+      "comments": ""
+    },
+    {
+      "name": "Holtahei-ulykken",
+      "location": "Rogaland , Strand kommune",
+      "event": "flyulykke",
+      "date": "9. august 1961",
+      "deaths": "39",
+      "comments": "34 skolegutter, to lærere og flymannskap på tre, alle engelske."
+    },
+    {
+      "name": "«Sanct Svithun»-forliset",
+      "location": "Nord-Trøndelag , Folda",
+      "event": "forlis",
+      "date": "21. oktober 1962",
+      "deaths": "42",
+      "comments": ""
+    },
+    {
+      "name": "Kings Bay-ulykken 1962",
+      "location": "Svalbard , Ny-Ålesund",
+      "event": "gruveulykke",
+      "date": "5. november 1962",
+      "deaths": "21",
+      "comments": ""
+    },
+    {
+      "name": "«Høegh Aronde»-forliset",
+      "location": "Atlanterhavet, ved Nordvest-Afrika",
+      "event": "forlis",
+      "date": "21. mars 1963",
+      "deaths": "15",
+      "comments": ""
+    },
+    {
+      "name": "«Etnefjell»-ulykken",
+      "location": "Atlanterhavet, Nord-Atlanteren",
+      "event": "forlis",
+      "date": "31. oktober 1968",
+      "deaths": "30",
+      "comments": ""
+    },
+    {
+      "name": "«Silja»-forliset",
+      "location": "Middelhavet , utenfor Toulon , Frankrike",
+      "event": "skipskollisjon",
+      "date": "25. juli 1969",
+      "deaths": "20",
+      "comments": "Skipskollisjon, 20 av mannskap på 39 omkom"
+    },
+    {
+      "name": "Grytøya-ulykken",
+      "location": "Troms , Grytøya nær Harstad",
+      "event": "flyulykke",
+      "date": "11. juli 1972",
+      "deaths": "17",
+      "comments": ""
+    },
+    {
+      "name": "Asker-ulykken",
+      "location": "Akershus , Asker",
+      "event": "flyulykke",
+      "date": "23. desember 1972",
+      "deaths": "40",
+      "comments": ""
+    },
+    {
+      "name": "MS «Anita»s forlis",
+      "location": "Atlanterhavet, utenfor kysten av New Jersey",
+      "event": "forlis",
+      "date": "22. mars 1973",
+      "deaths": "32",
+      "comments": "Antatt dato"
+    },
+    {
+      "name": "MS «Norse Variant»s forlis",
+      "location": "Atlanterhavet, utenfor kysten av New Jersey",
+      "event": "forlis",
+      "date": "22. mars 1973",
+      "deaths": "29",
+      "comments": "Eneste om bord som overlevde var Stein Gabrielsen ."
+    },
+    {
+      "name": "«Gaul»-forliset",
+      "location": "Finnmark , Nordkappbanken",
+      "event": "forlis",
+      "date": "8. februar 1974",
+      "deaths": "36",
+      "comments": ""
+    },
+    {
+      "name": "Tretten-ulykken",
+      "location": "Oppland , Tretten ved Lillehammer",
+      "event": "jernbaneulykke",
+      "date": "22. februar 1975",
+      "deaths": "27",
+      "comments": ""
+    },
+    {
+      "name": "MS «Berge Istra»s forlis",
+      "location": "Stillehavet nær Filippinene",
+      "event": "forlis",
+      "date": "30. desember 1975",
+      "deaths": "30",
+      "comments": "13 norske skipsoffiserer, ellers hovedsakelig spansk mannskap"
+    },
+    {
+      "name": "Nordsjø-ulykken 1978",
+      "location": "Nordsjøen",
+      "event": "helikopterulykke",
+      "date": "26. juni 1978",
+      "deaths": "18",
+      "comments": ""
+    },
+    {
+      "name": "MS «Berge Vanga»s forlis",
+      "location": "Atlanterhavet, Sør-Atlanteren",
+      "event": "forlis",
+      "date": "28. oktober 1979",
+      "deaths": "40",
+      "comments": "Antatt dato"
+    },
+    {
+      "name": "Alexander L. Kielland-ulykken",
+      "location": "Nordsjøen , Ekofisk-feltet",
+      "event": "oljeplattform kantring",
+      "date": "27. mars 1980",
+      "deaths": "123",
+      "comments": ""
+    },
+    {
+      "name": "Mehamn-ulykken",
+      "location": "Finnmark , Nordkyn",
+      "event": "flyulykke",
+      "date": "11. mars 1982",
+      "deaths": "15",
+      "comments": ""
+    },
+    {
+      "name": "Vassdal-ulykken",
+      "location": "Nordland , Vassdalen (Narvik)",
+      "event": "snøskred",
+      "date": "5. mars 1986",
+      "deaths": "16",
+      "comments": "Soldater under vinterøvelse"
+    },
+    {
+      "name": "Brannen i Hotel Caledonien",
+      "location": "Agder , Kristiansand",
+      "event": "brann",
+      "date": "5. september 1986",
+      "deaths": "14",
+      "comments": ""
+    },
+    {
+      "name": "Torghatten-ulykken",
+      "location": "Nordland , Torghatten",
+      "event": "flyulykke",
+      "date": "6. mai 1988",
+      "deaths": "36",
+      "comments": ""
+    },
+    {
+      "name": "Måbødal-ulykken",
+      "location": "Hordaland , Måbødalen i Eidfjord kommune",
+      "event": "bussulykke",
+      "date": "15. august 1988",
+      "deaths": "16",
+      "comments": "12 svenske skolebarn og 4 voksne"
+    },
+    {
+      "name": "Partnair-ulykken",
+      "location": "Nordsjøen , Skagerrak utenfor Hirtshals , Danmark",
+      "event": "flyulykke",
+      "date": "8. september 1989",
+      "deaths": "55",
+      "comments": "55 omkomne, minst 52 norske statsborgere"
+    },
+    {
+      "name": "«Scandinavian Star» -ulykken",
+      "location": "Nordsjøen , Skagerrak",
+      "event": "skipsbrann",
+      "date": "7. april 1990",
+      "deaths": "136",
+      "comments": "Totalt omkom 158, hvorav 136 norske"
+    },
+    {
+      "name": "Operafjellulykken",
+      "location": "Svalbard , nær Longyearbyen",
+      "event": "flyulykke",
+      "date": "29. august 1996",
+      "deaths": "141",
+      "comments": "Vesentlig russiske og ukrainske, ingen norske"
+    },
+    {
+      "name": "«Leros Strength»s forlis",
+      "location": "Nordsjøen , nær Stavanger",
+      "event": "forlis",
+      "date": "8. februar 1997",
+      "deaths": "20",
+      "comments": "Bulkskip; 20 polske omkomne, ingen norske"
+    },
+    {
+      "name": "Barentsburg-ulykken",
+      "location": "Svalbard , Barentsburg",
+      "event": "gruveulykke",
+      "date": "18. september 1997",
+      "deaths": "23",
+      "comments": "Gruvearbeidere fra Russland, Belarus (Hviterussland), Ukraina m.m."
+    },
+    {
+      "name": "Sleipner-forliset",
+      "location": "Hordaland , Sveio , nær Ryvarden fyr",
+      "event": "forlis",
+      "date": "26. november 1999",
+      "deaths": "16",
+      "comments": ""
+    },
+    {
+      "name": "Åsta-ulykken",
+      "location": "Hedmark , Åsta ved Rena",
+      "event": "jernbaneulykke",
+      "date": "4. januar 2000",
+      "deaths": "19",
+      "comments": ""
+    },
+    {
+      "name": "MS «Rocknes»",
+      "location": "Hordaland , Vatlestraumen nær Bergen",
+      "event": "forlis",
+      "date": "19. januar 2004",
+      "deaths": "18",
+      "comments": ""
+    },
+    {
+      "name": "Terrorangrepet i Norge 2011",
+      "location": "Oslo ( Regjeringskvartalet ) og Buskerud : Utøya i Hole",
+      "event": "terrorangrep",
+      "date": "22. juli 2011",
+      "deaths": "77",
+      "comments": "8 drept ved bombingen av regjeringskvartalet , og 69 skutt og drept på Utøya"
+    },
+    {
+      "name": "Norge under koronapandemien",
+      "location": "hele landet",
+      "event": "pandemi , pågående",
+      "date": "2020 –",
+      "deaths": "3 908",
+      "comments": "Del av koronapandemien i 2019–2022 Døde pr. 23/8: 3 908 i Norge, nær 19 700 i Sverige, over 1 million i USA, og nærmer 6,5 million internasjonalt. Nyhetsmagasinet The Economist mener det internasjonale dødstallet er betydelig underrapportert, se artikkelen Koronapandemien . I august 2022 er smitten generelt på tilbakegang, men stadig har mer enn 40 land økende smitte, og 10 land har fortsatt økende tendens i dødstallene."
+    }
+  ],
+  "meta": {
+    "title": "Katastrofer og store ulykker i Norge - Free Download",
+    "description": "Naturkatastrofer, skipsforlis, ulykker og andre store hendelser i Norges historie: sted, type hendelse, tidspunkt og antall omkomne. Contains 125 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Katastrofer og store ulykker i Norge | ListBase",
+    "seo_description": "Download Katastrofer og store ulykker i Norge — 125 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 125 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Katastrofer_og_store_ulykker_i_Norge"
+    ]
+  }
+}

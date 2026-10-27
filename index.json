@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:55.680Z",
-  "total_datasets": 427,
-  "total_records": 1195645,
+  "generated": "2026-10-27T02:27:58.294Z",
+  "total_datasets": 428,
+  "total_records": 1195770,
   "categories": [
     {
       "id": "agriculture",
@@ -39,6 +39,10 @@
     {
       "id": "health",
       "dataset_count": 2
+    },
+    {
+      "id": "history",
+      "dataset_count": 1
     },
     {
       "id": "language",
@@ -4340,6 +4344,33 @@
         "xlsx": {
           "name": "no-sykehus_NO.xlsx",
           "size": 11643
+        }
+      }
+    },
+    {
+      "id": "no-katastrofer-og-ulykker",
+      "name": "Katastrofer og store ulykker i Norge",
+      "category": "history",
+      "record_count": 125,
+      "columns": [
+        "name",
+        "location",
+        "event",
+        "date",
+        "deaths",
+        "comments"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Katastrofer_og_store_ulykker_i_Norge",
+      "updated": "2026-10",
+      "size": 33511,
+      "files": {
+        "csv": {
+          "name": "no-katastrofer-og-ulykker_NO.csv",
+          "size": 17644
+        },
+        "xlsx": {
+          "name": "no-katastrofer-og-ulykker_NO.xlsx",
+          "size": 16909
         }
       }
     },
