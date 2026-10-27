@@ -1,12 +1,12 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:00.667Z",
-  "total_datasets": 429,
-  "total_records": 1195796,
+  "generated": "2026-10-27T02:28:03.445Z",
+  "total_datasets": 430,
+  "total_records": 1195806,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -203,6 +203,32 @@
         "xlsx": {
           "name": "no-jordbruksareal-vekster_NO.xlsx",
           "size": 7363
+        }
+      }
+    },
+    {
+      "id": "no-lofotfisket-fartoy-etter-redskap",
+      "name": "Lofotfisket — antall fartøy etter redskapstype",
+      "category": "agriculture",
+      "record_count": 10,
+      "columns": [
+        "year",
+        "gillnet",
+        "longline",
+        "handline_jig",
+        "danish_seine"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Lofotfisket",
+      "updated": "2026-10",
+      "size": 2998,
+      "files": {
+        "csv": {
+          "name": "no-lofotfisket-fartoy-etter-redskap_NO.csv",
+          "size": 361
+        },
+        "xlsx": {
+          "name": "no-lofotfisket-fartoy-etter-redskap_NO.xlsx",
+          "size": 7011
         }
       }
     },

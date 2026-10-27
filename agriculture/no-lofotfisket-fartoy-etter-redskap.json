@@ -1,0 +1,121 @@
+{
+  "id": "no-lofotfisket-fartoy-etter-redskap",
+  "name": "Lofotfisket — antall fartøy etter redskapstype",
+  "title": "Lofotfisket — antall fartøy etter redskapstype",
+  "description": "Antall deltakende fartøy i Lofotfisket etter redskapstype (garn, line, juksa, snurrevad) per år 2006–2015.",
+  "category": "agriculture",
+  "source": "https://no.wikipedia.org/wiki/Lofotfisket",
+  "source_url": "https://no.wikipedia.org/wiki/Lofotfisket",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "gillnet",
+      "label": "Gillnet",
+      "type": "number"
+    },
+    {
+      "key": "longline",
+      "label": "Longline",
+      "type": "number"
+    },
+    {
+      "key": "handline_jig",
+      "label": "Handline Jig",
+      "type": "number"
+    },
+    {
+      "key": "danish_seine",
+      "label": "Danish Seine",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2006,
+      "gillnet": 550,
+      "longline": 162,
+      "handline_jig": 362,
+      "danish_seine": 126
+    },
+    {
+      "year": 2007,
+      "gillnet": 505,
+      "longline": 152,
+      "handline_jig": 290,
+      "danish_seine": 87
+    },
+    {
+      "year": 2008,
+      "gillnet": 460,
+      "longline": 147,
+      "handline_jig": 305,
+      "danish_seine": 85
+    },
+    {
+      "year": 2009,
+      "gillnet": 479,
+      "longline": 148,
+      "handline_jig": 296,
+      "danish_seine": 77
+    },
+    {
+      "year": 2010,
+      "gillnet": 440,
+      "longline": 143,
+      "handline_jig": 296,
+      "danish_seine": 66
+    },
+    {
+      "year": 2011,
+      "gillnet": 472,
+      "longline": 123,
+      "handline_jig": 427,
+      "danish_seine": 70
+    },
+    {
+      "year": 2012,
+      "gillnet": 563,
+      "longline": 113,
+      "handline_jig": 492,
+      "danish_seine": 71
+    },
+    {
+      "year": 2013,
+      "gillnet": 540,
+      "longline": 107,
+      "handline_jig": 527,
+      "danish_seine": 80
+    },
+    {
+      "year": 2014,
+      "gillnet": 523,
+      "longline": 115,
+      "handline_jig": 691,
+      "danish_seine": 91
+    },
+    {
+      "year": 2015,
+      "gillnet": 595,
+      "longline": 135,
+      "handline_jig": 642,
+      "danish_seine": 91
+    }
+  ],
+  "meta": {
+    "title": "Lofotfisket — antall fartøy etter redskapstype - Free Download",
+    "description": "Antall deltakende fartøy i Lofotfisket etter redskapstype (garn, line, juksa, snurrevad) per år 2006–2015. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Lofotfisket — antall fartøy etter redskapstype | ListBase",
+    "seo_description": "Download Lofotfisket — antall fartøy etter redskapstype — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Lofotfisket"
+    ]
+  }
+}
