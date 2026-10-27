@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:33.552Z",
-  "total_datasets": 418,
-  "total_records": 1195294,
+  "generated": "2026-10-27T02:27:35.981Z",
+  "total_datasets": 419,
+  "total_records": 1195327,
   "categories": [
     {
       "id": "culture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -1505,6 +1505,30 @@
         "xlsx": {
           "name": "no-bokhandler_NO.xlsx",
           "size": 13557
+        }
+      }
+    },
+    {
+      "id": "no-eurovision-seertall-norge",
+      "name": "Seertall for Eurovision Song Contest i Norge",
+      "category": "entertainment",
+      "record_count": 33,
+      "columns": [
+        "year",
+        "viewers",
+        "note"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norge_i_Eurovision_Song_Contest",
+      "updated": "2026-10",
+      "size": 4323,
+      "files": {
+        "csv": {
+          "name": "no-eurovision-seertall-norge_NO.csv",
+          "size": 1062
+        },
+        "xlsx": {
+          "name": "no-eurovision-seertall-norge_NO.xlsx",
+          "size": 7456
         }
       }
     },
