@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:08.123Z",
-  "total_datasets": 432,
-  "total_records": 1195884,
+  "generated": "2026-10-27T02:28:10.654Z",
+  "total_datasets": 433,
+  "total_records": 1195951,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -4577,6 +4577,35 @@
         "xlsx": {
           "name": "no-mgp-vinnerlater-pa-vg-lista_NO.xlsx",
           "size": 7394
+        }
+      }
+    },
+    {
+      "id": "no-norge-i-eurovision",
+      "name": "Norges bidrag i Eurovision Song Contest",
+      "category": "music",
+      "record_count": 67,
+      "columns": [
+        "year",
+        "artist",
+        "title",
+        "language",
+        "final_place",
+        "final_points",
+        "semifinal_place",
+        "semifinal_points"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norge_i_Eurovision_Song_Contest",
+      "updated": "2026-10",
+      "size": 17870,
+      "files": {
+        "csv": {
+          "name": "no-norge-i-eurovision_NO.csv",
+          "size": 4577
+        },
+        "xlsx": {
+          "name": "no-norge-i-eurovision_NO.xlsx",
+          "size": 10577
         }
       }
     },

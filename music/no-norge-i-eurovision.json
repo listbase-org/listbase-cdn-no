@@ -1,0 +1,736 @@
+{
+  "id": "no-norge-i-eurovision",
+  "name": "Norges bidrag i Eurovision Song Contest",
+  "title": "Norges bidrag i Eurovision Song Contest",
+  "description": "Alle Norges bidrag i Eurovision Song Contest fra 1960: artist, låt, språk, plassering og poeng i finale og semifinale.",
+  "category": "music",
+  "source": "https://no.wikipedia.org/wiki/Norge_i_Eurovision_Song_Contest",
+  "source_url": "https://no.wikipedia.org/wiki/Norge_i_Eurovision_Song_Contest",
+  "updated": "2026-10",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "final_place",
+      "label": "Final Place",
+      "type": "number"
+    },
+    {
+      "key": "final_points",
+      "label": "Final Points",
+      "type": "number"
+    },
+    {
+      "key": "semifinal_place",
+      "label": "Semifinal Place",
+      "type": "number"
+    },
+    {
+      "key": "semifinal_points",
+      "label": "Semifinal Points",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1960,
+      "artist": "Nora Brockstedt",
+      "title": "Voi-voi",
+      "language": "Norsk",
+      "final_place": 4,
+      "final_points": 11,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1961,
+      "artist": "Nora Brockstedt",
+      "title": "Sommer i Palma",
+      "language": "Norsk",
+      "final_place": 7,
+      "final_points": 10,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1962,
+      "artist": "Inger Jacobsen",
+      "title": "Kom sol, kom regn",
+      "language": "Norsk",
+      "final_place": 10,
+      "final_points": 2,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1963,
+      "artist": "Anita Thallaug",
+      "title": "Solhverv",
+      "language": "Norsk",
+      "final_place": 13,
+      "final_points": 0,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1964,
+      "artist": "Arne Bendiksen",
+      "title": "Spiral",
+      "language": "Norsk",
+      "final_place": 8,
+      "final_points": 6,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1965,
+      "artist": "Kirsti Sparboe",
+      "title": "Karusell",
+      "language": "Norsk",
+      "final_place": 13,
+      "final_points": 1,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1966,
+      "artist": "Åse Kleveland",
+      "title": "Intet er nytt under solen",
+      "language": "Norsk",
+      "final_place": 3,
+      "final_points": 15,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1967,
+      "artist": "Kirsti Sparboe",
+      "title": "Dukkemann",
+      "language": "Norsk",
+      "final_place": 14,
+      "final_points": 2,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1968,
+      "artist": "Odd Børre",
+      "title": "Stress",
+      "language": "Norsk",
+      "final_place": 13,
+      "final_points": 2,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1969,
+      "artist": "Kirsti Sparboe",
+      "title": "Oj, oj, oj, så glad jeg skal bli",
+      "language": "Norsk",
+      "final_place": 16,
+      "final_points": 1,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1970,
+      "artist": "Deltok ikke",
+      "title": "Deltok ikke",
+      "language": "Deltok ikke",
+      "final_place": "",
+      "final_points": "",
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1971,
+      "artist": "Hanne Krogh",
+      "title": "Lykken er",
+      "language": "Norsk",
+      "final_place": 17,
+      "final_points": 65,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1972,
+      "artist": "Grethe Kausland og Benny Borg",
+      "title": "Småting",
+      "language": "Norsk",
+      "final_place": 14,
+      "final_points": 73,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1973,
+      "artist": "Bendik Singers",
+      "title": "It's Just a Game",
+      "language": "Engelsk , fransk",
+      "final_place": 7,
+      "final_points": 89,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1974,
+      "artist": "Anne-Karine Strøm og Bendik Singers",
+      "title": "The First Day of Love",
+      "language": "Engelsk",
+      "final_place": 14,
+      "final_points": 3,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1975,
+      "artist": "Ellen Nikolaysen",
+      "title": "Touch My Life With Summer",
+      "language": "Engelsk",
+      "final_place": 18,
+      "final_points": 11,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1976,
+      "artist": "Anne-Karine Strøm",
+      "title": "Mata Hari",
+      "language": "Engelsk",
+      "final_place": 18,
+      "final_points": 7,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1977,
+      "artist": "Anita Skorgan",
+      "title": "Casanova",
+      "language": "Norsk",
+      "final_place": 14,
+      "final_points": 18,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1978,
+      "artist": "Jahn Teigen",
+      "title": "Mil etter mil",
+      "language": "Norsk",
+      "final_place": 20,
+      "final_points": 0,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1979,
+      "artist": "Anita Skorgan",
+      "title": "Oliver",
+      "language": "Norsk",
+      "final_place": 11,
+      "final_points": 57,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1980,
+      "artist": "Sverre Kjelsberg og Mattis Hætta",
+      "title": "Sámiid ædnan",
+      "language": "Norsk",
+      "final_place": 16,
+      "final_points": 15,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1981,
+      "artist": "Finn Kalvik",
+      "title": "Aldri i livet",
+      "language": "Norsk",
+      "final_place": 20,
+      "final_points": 0,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1982,
+      "artist": "Jahn Teigen og Anita Skorgan",
+      "title": "Adieu",
+      "language": "Norsk",
+      "final_place": 12,
+      "final_points": 40,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1983,
+      "artist": "Jahn Teigen",
+      "title": "Do re mi",
+      "language": "Norsk",
+      "final_place": 9,
+      "final_points": 53,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1984,
+      "artist": "Dollie De Luxe",
+      "title": "Lenge leve livet",
+      "language": "Norsk",
+      "final_place": 17,
+      "final_points": 29,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1985,
+      "artist": "Bobbysocks",
+      "title": "La det swinge",
+      "language": "Norsk",
+      "final_place": 1,
+      "final_points": 123,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1986,
+      "artist": "Ketil Stokkan",
+      "title": "Romeo",
+      "language": "Norsk",
+      "final_place": 12,
+      "final_points": 44,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1987,
+      "artist": "Kate Gulbrandsen",
+      "title": "Mitt liv",
+      "language": "Norsk",
+      "final_place": 9,
+      "final_points": 65,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1988,
+      "artist": "Karoline Krüger",
+      "title": "For vår jord",
+      "language": "Norsk",
+      "final_place": 5,
+      "final_points": 88,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1989,
+      "artist": "Britt Synnøve Johansen",
+      "title": "Venners nærhet",
+      "language": "Norsk",
+      "final_place": 17,
+      "final_points": 30,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1990,
+      "artist": "Ketil Stokkan",
+      "title": "Brandenburger Tor",
+      "language": "Norsk",
+      "final_place": 21,
+      "final_points": 8,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1991,
+      "artist": "Just 4 Fun",
+      "title": "Mrs. Thompson",
+      "language": "Norsk",
+      "final_place": 17,
+      "final_points": 14,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1992,
+      "artist": "Merethe Trøan",
+      "title": "Visjoner",
+      "language": "Norsk",
+      "final_place": 18,
+      "final_points": 23,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1993,
+      "artist": "Silje Vige",
+      "title": "Alle mine tankar",
+      "language": "Norsk",
+      "final_place": 5,
+      "final_points": 120,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1994,
+      "artist": "Elisabeth Andreasson og Jan Werner Danielsen",
+      "title": "Duett",
+      "language": "Norsk",
+      "final_place": 6,
+      "final_points": 76,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1995,
+      "artist": "Secret Garden",
+      "title": "Nocturne",
+      "language": "Norsk",
+      "final_place": 1,
+      "final_points": 148,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1996,
+      "artist": "Elisabeth Andreassen",
+      "title": "I evighet",
+      "language": "Norsk",
+      "final_place": 2,
+      "final_points": 114,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1997,
+      "artist": "Tor Endresen",
+      "title": "San Francisco",
+      "language": "Norsk",
+      "final_place": 24,
+      "final_points": 0,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1998,
+      "artist": "Lars Fredriksen",
+      "title": "Alltid sommer",
+      "language": "Norsk",
+      "final_place": 8,
+      "final_points": 79,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 1999,
+      "artist": "Van Eijk",
+      "title": "Living My Life Without You",
+      "language": "Engelsk",
+      "final_place": 14,
+      "final_points": 35,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2000,
+      "artist": "Charmed",
+      "title": "My Heart Goes Boom",
+      "language": "Engelsk",
+      "final_place": 11,
+      "final_points": 57,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2001,
+      "artist": "Haldor Lægreid",
+      "title": "On My Own",
+      "language": "Engelsk",
+      "final_place": 22,
+      "final_points": 3,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2002,
+      "artist": "Deltok ikke",
+      "title": "Deltok ikke",
+      "language": "Deltok ikke",
+      "final_place": "",
+      "final_points": "",
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2003,
+      "artist": "Jostein Hasselgård",
+      "title": "I'm Not Afraid to Move On",
+      "language": "Engelsk",
+      "final_place": 4,
+      "final_points": 123,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2004,
+      "artist": "Knut Anders Sørum",
+      "title": "High",
+      "language": "Engelsk",
+      "final_place": 24,
+      "final_points": 3,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2005,
+      "artist": "Wig Wam",
+      "title": "In My Dreams",
+      "language": "Engelsk",
+      "final_place": 9,
+      "final_points": 125,
+      "semifinal_place": 6,
+      "semifinal_points": 164
+    },
+    {
+      "year": 2006,
+      "artist": "Christine Guldbrandsen",
+      "title": "Alvedansen",
+      "language": "Norsk",
+      "final_place": 14,
+      "final_points": 36,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2007,
+      "artist": "Guri Schanke",
+      "title": "Ven a bailar conmigo",
+      "language": "Engelsk",
+      "final_place": "",
+      "final_points": "",
+      "semifinal_place": 18,
+      "semifinal_points": 48
+    },
+    {
+      "year": 2008,
+      "artist": "Maria Haukaas Storeng",
+      "title": "Hold On Be Strong",
+      "language": "Engelsk",
+      "final_place": 5,
+      "final_points": 182,
+      "semifinal_place": 4,
+      "semifinal_points": 106
+    },
+    {
+      "year": 2009,
+      "artist": "Alexander Rybak",
+      "title": "Fairytale",
+      "language": "Engelsk",
+      "final_place": 1,
+      "final_points": 387,
+      "semifinal_place": 1,
+      "semifinal_points": 201
+    },
+    {
+      "year": 2010,
+      "artist": "Didrik Solli-Tangen",
+      "title": "My Heart Is Yours",
+      "language": "Engelsk",
+      "final_place": 20,
+      "final_points": 35,
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2011,
+      "artist": "Stella Mwangi",
+      "title": "Haba Haba",
+      "language": "Engelsk, swahili",
+      "final_place": "",
+      "final_points": "",
+      "semifinal_place": 17,
+      "semifinal_points": 30
+    },
+    {
+      "year": 2012,
+      "artist": "Tooji",
+      "title": "Stay",
+      "language": "Engelsk",
+      "final_place": 26,
+      "final_points": 7,
+      "semifinal_place": 10,
+      "semifinal_points": 45
+    },
+    {
+      "year": 2013,
+      "artist": "Margaret Berger",
+      "title": "I Feed You My Love",
+      "language": "Engelsk",
+      "final_place": 4,
+      "final_points": 191,
+      "semifinal_place": 3,
+      "semifinal_points": 120
+    },
+    {
+      "year": 2014,
+      "artist": "Carl Espen",
+      "title": "Silent Storm",
+      "language": "Engelsk",
+      "final_place": 8,
+      "final_points": 88,
+      "semifinal_place": 6,
+      "semifinal_points": 77
+    },
+    {
+      "year": 2015,
+      "artist": "Kjetil Mørland og Debrah Scarlett",
+      "title": "A Monster Like Me",
+      "language": "Engelsk",
+      "final_place": 8,
+      "final_points": 102,
+      "semifinal_place": 4,
+      "semifinal_points": 123
+    },
+    {
+      "year": 2016,
+      "artist": "Agnete Johnsen",
+      "title": "Icebreaker",
+      "language": "Engelsk",
+      "final_place": "",
+      "final_points": "",
+      "semifinal_place": 13,
+      "semifinal_points": 63
+    },
+    {
+      "year": 2017,
+      "artist": "JOWST med Aleksander Walmann",
+      "title": "Grab the Moment",
+      "language": "Engelsk",
+      "final_place": 10,
+      "final_points": 158,
+      "semifinal_place": 5,
+      "semifinal_points": 189
+    },
+    {
+      "year": 2018,
+      "artist": "Alexander Rybak",
+      "title": "That's How You Write a Song",
+      "language": "Engelsk",
+      "final_place": 15,
+      "final_points": 144,
+      "semifinal_place": 1,
+      "semifinal_points": 266
+    },
+    {
+      "year": 2019,
+      "artist": "KEiiNO",
+      "title": "Spirit in the Sky",
+      "language": "Engelsk",
+      "final_place": 6,
+      "final_points": 331,
+      "semifinal_place": 7,
+      "semifinal_points": 210
+    },
+    {
+      "year": 2020,
+      "artist": "Ulrikke Brandstorp",
+      "title": "Attention",
+      "language": "Engelsk",
+      "final_place": "",
+      "final_points": "",
+      "semifinal_place": "",
+      "semifinal_points": ""
+    },
+    {
+      "year": 2021,
+      "artist": "TIX",
+      "title": "Fallen Angel",
+      "language": "Engelsk",
+      "final_place": 18,
+      "final_points": 75,
+      "semifinal_place": 10,
+      "semifinal_points": 115
+    },
+    {
+      "year": 2022,
+      "artist": "Subwoolfer",
+      "title": "Give That Wolf a Banana",
+      "language": "Engelsk",
+      "final_place": 10,
+      "final_points": 182,
+      "semifinal_place": 6,
+      "semifinal_points": 177
+    },
+    {
+      "year": 2023,
+      "artist": "Alessandra",
+      "title": "Queen of Kings",
+      "language": "Engelsk",
+      "final_place": 5,
+      "final_points": 268,
+      "semifinal_place": 6,
+      "semifinal_points": 102
+    },
+    {
+      "year": 2024,
+      "artist": "Gåte",
+      "title": "Ulveham",
+      "language": "Norsk",
+      "final_place": 25,
+      "final_points": 16,
+      "semifinal_place": 10,
+      "semifinal_points": 43
+    },
+    {
+      "year": 2025,
+      "artist": "Kyle Alessandro",
+      "title": "Lighter",
+      "language": "Engelsk",
+      "final_place": 18,
+      "final_points": 89,
+      "semifinal_place": 8,
+      "semifinal_points": 82
+    },
+    {
+      "year": 2026,
+      "artist": "Jonas Lovv",
+      "title": "Ya Ya Ya",
+      "language": "Engelsk",
+      "final_place": 14,
+      "final_points": 134,
+      "semifinal_place": 4,
+      "semifinal_points": 206
+    }
+  ],
+  "meta": {
+    "title": "Norges bidrag i Eurovision Song Contest - Free Download",
+    "description": "Alle Norges bidrag i Eurovision Song Contest fra 1960: artist, låt, språk, plassering og poeng i finale og semifinale. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges bidrag i Eurovision Song Contest | ListBase",
+    "seo_description": "Download Norges bidrag i Eurovision Song Contest — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norge_i_Eurovision_Song_Contest"
+    ]
+  }
+}
