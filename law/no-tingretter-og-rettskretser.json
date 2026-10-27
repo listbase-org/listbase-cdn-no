@@ -1,0 +1,212 @@
+{
+  "id": "no-tingretter-og-rettskretser",
+  "name": "Norges tingretter og rettskretser",
+  "title": "Norges tingretter og rettskretser",
+  "description": "Oversikt over Norges tingretter med lagdømme, lagsogn, rettssteder og hvilke kommuner som hører til hver rettskrets.",
+  "category": "law",
+  "source": "https://no.wikipedia.org/wiki/Norges_domstoler",
+  "source_url": "https://no.wikipedia.org/wiki/Norges_domstoler",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "court_of_appeal_district",
+      "label": "Court Of Appeal District",
+      "type": "string"
+    },
+    {
+      "key": "lagsogn",
+      "label": "Lagsogn",
+      "type": "string"
+    },
+    {
+      "key": "district_court",
+      "label": "District Court",
+      "type": "string"
+    },
+    {
+      "key": "court_locations",
+      "label": "Court Locations",
+      "type": "string"
+    },
+    {
+      "key": "municipalities",
+      "label": "Municipalities",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "court_of_appeal_district": "Hålogaland",
+      "lagsogn": "Nordland",
+      "district_court": "Helgeland tingrett",
+      "court_locations": "Brønnøysund , Mo i Rana , Sandnessjøen",
+      "municipalities": "Alstahaug, Hattfjelldal, Bindal, Brønnøy, Dønna, Grane, Hemnes, Herøy, Leirfjord, Lurøy, Nesna, Rana, Sømna, Træna, Vefsn, Vega, Vevelstad I tillegg innretninger og anlegg for undersøkelse etter eller utnyttelse, lagring eller transport av undersjøiske naturforekomster på den norske del av kontinentalsokkelen og i norsk økonomisk sone i området mellom 65. breddegrad 30 min. og 68. breddegrad 30 min."
+    },
+    {
+      "court_of_appeal_district": "Hålogaland",
+      "lagsogn": "Nordland",
+      "district_court": "Midtre Hålogaland tingrett",
+      "court_locations": "Harstad , Narvik, Sortland",
+      "municipalities": "Andøy, Bø, Tjeldsund, Evenes, Gratangen, Hadsel, Harstad , Ibestad, Kvæfjord, Lavangen, Lødingen, Narvik , Salangen , Sortland , Øksnes"
+    },
+    {
+      "court_of_appeal_district": "Hålogaland",
+      "lagsogn": "Nordland",
+      "district_court": "Salten og Lofoten tingrett",
+      "court_locations": "Bodø, Svolvær",
+      "municipalities": "Beiarn, Bodø, Fauske, Flakstad, Gildeskål, Hamarøy, Meløy, Moskenes, Rødøy, Røst, Saltdal, Steigen, Sørfold, Vestvågøy, Værøy, Vågan I tillegg Jan Mayen"
+    },
+    {
+      "court_of_appeal_district": "Hålogaland",
+      "lagsogn": "Troms",
+      "district_court": "Nord-Troms og Senja tingrett",
+      "court_locations": "Finnsnes , Tromsø",
+      "municipalities": "Balsfjord , Bardu , Dyrøy , Kåfjord , Karlsøy , Lyngen , Målselv , Nordreisa , Senja , Skjervøy , Storfjord , Sørreisa , Tromsø I tillegg Svalbard samt innretninger og anlegg for undersøkelse etter eller utnyttelse, lagring eller transport av undersjøiske naturforekomster på den norske del av kontinentalsokkelen og i norsk økonomisk sone nord for 68. breddegrad 30 min."
+    },
+    {
+      "court_of_appeal_district": "Hålogaland",
+      "lagsogn": "Finnmark",
+      "district_court": "Vestre Finnmark tingrett",
+      "court_locations": "Alta, Hammerfest",
+      "municipalities": "Alta, Hammerfest, Hasvik, Kvænangen, Loppa, Måsøy, Nordkapp, Porsanger"
+    },
+    {
+      "court_of_appeal_district": "Hålogaland",
+      "lagsogn": "Finnmark",
+      "district_court": "Indre og Østre Finnmark tingrett",
+      "court_locations": "Tana, Vadsø",
+      "municipalities": "Berlevåg, Båtsfjord, Tana, Gamvik, Kautokeino, Karasjok, Lebesby, Sør-Varanger, Nesseby, Vadsø, Vardø"
+    },
+    {
+      "court_of_appeal_district": "Frostating",
+      "lagsogn": "Møre og Romsdal",
+      "district_court": "Møre og Romsdal tingrett",
+      "court_locations": "Kristiansund, Molde, Volda, Ålesund",
+      "municipalities": "Aukra, Aure, Averøy, Fjord, Giske, Gjemnes, Hareid, Herøy, Hustadvika, Kristiansund, Molde, Rauma, Sande, Smøla, Stranda, Sula, Sunndal, Surnadal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørsta, Ålesund I tillegg innretninger og anlegg for undersøkelse etter eller utnyttelse, lagring eller transport av undersjøiske naturforekomster på den norske del av kontinentalsokkelen og i norsk økonomisk sone i området mellom 62. breddegrad og 65. breddegrad 30 min."
+    },
+    {
+      "court_of_appeal_district": "Frostating",
+      "lagsogn": "Trøndelag",
+      "district_court": "Trøndelag tingrett",
+      "court_locations": "Brekstad , Namsos , Steinkjer , Trondheim",
+      "municipalities": "Flatanger, Frosta, Frøya, Grong, Heim, Hitra, Holtålen, Høylandet, Inderøy, Indre Fosen, Leka, Levanger, Lierne, Malvik, Melhus, Meråker, Midtre Gauldal, Namsos, Namsskogan, Nærøysund, Oppdal, Orkland, Osen, Overhalla, Røyrvik, Rennebu, Rindal, Røros, Selbu, Skaun, Snåsa, Steinkjer , Stjørdal, Trondheim, Tydal, Verdal, Ørland, Åfjord"
+    },
+    {
+      "court_of_appeal_district": "Gulating",
+      "lagsogn": "Rogaland",
+      "district_court": "Haugaland og Sunnhordland tingrett",
+      "court_locations": "Haugesund, Stord",
+      "municipalities": "Bokn, Bømlo, Etne, Fitjar, Haugesund, Karmøy, Kvinnherad, Sauda, Stord, Suldal, Sveio, Tysnes, Tysvær, Utsira, Vindafjord"
+    },
+    {
+      "court_of_appeal_district": "Gulating",
+      "lagsogn": "Rogaland",
+      "district_court": "Sør-Rogaland tingrett",
+      "court_locations": "Egersund , Sandnes, Stavanger",
+      "municipalities": "Bjerkreim , Eigersund , Gjesdal , Hjelmeland, Hå, Klepp, Kvitsøy, Lund, Randaberg, Sandnes, Sirdal, Sokndal, Sola, Stavanger, Strand, Time I tillegg innretninger og anlegg for undersøkelse etter eller utnyttelse, lagring eller transport av undersjøiske naturforekomster på den norske del av kontinentalsokkelen og i norsk økonomisk sone syd for 62. breddegrad"
+    },
+    {
+      "court_of_appeal_district": "Gulating",
+      "lagsogn": "Vestland",
+      "district_court": "Hordaland tingrett",
+      "court_locations": "Bergen , Lofthus",
+      "municipalities": "Alver , Askøy , Austevoll, Austrheim, Bergen, Bjørnafjorden, Eidfjord, Fedje, Kvam, Masfjorden, Modalen, Osterøy, Samnanger, Ullensvang, Ulvik, Vaksdal, Voss herad, Øygarden"
+    },
+    {
+      "court_of_appeal_district": "Gulating",
+      "lagsogn": "Vestland",
+      "district_court": "Sogn og Fjordane tingrett",
+      "court_locations": "Førde , Sogndal",
+      "municipalities": "Askvoll, Aurland, Bremanger, Fjaler, Gloppen, Gulen, Hyllestad, Høyanger, Kinn, Luster, Lærdal, Sogndal, Solund, Stad, Stryn, Sunnfjord, Vik, Årdal"
+    },
+    {
+      "court_of_appeal_district": "Agder",
+      "lagsogn": "Agder",
+      "district_court": "Agder tingrett",
+      "court_locations": "Arendal, Farsund, Kristiansand",
+      "municipalities": "Arendal, Birkenes, Bygland, Bykle, Evje og Hornnes, Farsund, Flekkefjord, Froland, Gjerstad, Grimstad, Hægebostad, Iveland, Kristiansand, Kvinesdal, Lillesand, Lindesnes, Lyngdal, Risør, Tvedestrand, Valle, Vegårshei, Vennesla, Åmli, Åseral"
+    },
+    {
+      "court_of_appeal_district": "Agder",
+      "lagsogn": "Telemark",
+      "district_court": "Telemark tingrett",
+      "court_locations": "Kviteseid, Notodden, Skien",
+      "municipalities": "Bamble, Drangedal, Fyresdal, Hjartdal, Kragerø, Kviteseid, Midt-Telemark, Nissedal, Nome, Notodden, Porsgrunn, Seljord, Siljan, Skien, Tinn, Tokke, Vinje"
+    },
+    {
+      "court_of_appeal_district": "Agder",
+      "lagsogn": "Vestfold",
+      "district_court": "Vestfold tingrett",
+      "court_locations": "Horten, Larvik, Tønsberg",
+      "municipalities": "Færder, Holmestrand, Horten, Larvik, Sandefjord, Tønsberg"
+    },
+    {
+      "court_of_appeal_district": "Borgarting",
+      "lagsogn": "Oslo",
+      "district_court": "Oslo tingrett",
+      "court_locations": "Oslo",
+      "municipalities": "Oslo I tillegg Bouvetøya"
+    },
+    {
+      "court_of_appeal_district": "Borgarting",
+      "lagsogn": "Vestre Viken",
+      "district_court": "Buskerud tingrett",
+      "court_locations": "Drammen , Hokksund , Kongsberg, Nesbyen",
+      "municipalities": "Drammen, Flesberg, Flå, Gol, Hemsedal, Hol, Kongsberg, Krødsherad, Lier, Modum, Nesbyen, Nore og Uvdal, Rollag, Sigdal, Øvre Eiker, Ål"
+    },
+    {
+      "court_of_appeal_district": "Borgarting",
+      "lagsogn": "Vestre Viken",
+      "district_court": "Ringerike, Asker og Bærum tingrett",
+      "court_locations": "Hønefoss , Sandvika",
+      "municipalities": "Asker, Bærum, Hole, Jevnaker, Lunner, Ringerike"
+    },
+    {
+      "court_of_appeal_district": "Eidsivating",
+      "lagsogn": "Innlandet",
+      "district_court": "Vestre Innlandet tingrett",
+      "court_locations": "Fagernes , Gjøvik , Lillehammer, Vågåmo",
+      "municipalities": "Dovre, Etnedal, Gausdal, Gjøvik, Gran, Lesja, Lillehammer, Lom, Nord-Aurdal, Nord-Fron, Nordre Land, Ringebu, Sel, Skjåk, Søndre Land, Sør-Aurdal, Sør-Fron, Vestre Slidre, Vestre Toten, Vang, Vågå, Østre Toten, Øyer, Øystre Slidre"
+    },
+    {
+      "court_of_appeal_district": "Eidsivating",
+      "lagsogn": "Innlandet",
+      "district_court": "Østre Innlandet tingrett",
+      "court_locations": "Elverum, Hamar, Tynset",
+      "municipalities": "Alvdal, Elverum, Engerdal, Folldal, Hamar, Løten, Os, Rendalen, Ringsaker, Stange, Stor-Elvdal, Tolga, Trysil, Tynset, Våler, Åmot, Åsnes"
+    },
+    {
+      "court_of_appeal_district": "Eidsivating",
+      "lagsogn": "Nordre Viken",
+      "district_court": "Romerike og Glåmdal tingrett",
+      "court_locations": "Eidsvoll , Kongsvinger, Lillestrøm",
+      "municipalities": "Aurskog-Høland, Eidskog, Eidsvoll , Gjerdrum, Grue, Hurdal, Kongsvinger , Lillestrøm , Lørenskog, Nannestad, Nes, Nittedal, Nord-Odal, Rælingen, Sør-Odal, Ullensaker"
+    },
+    {
+      "court_of_appeal_district": "Eidsivating",
+      "lagsogn": "Østre Viken",
+      "district_court": "Follo og Nordre Østfold tingrett",
+      "court_locations": "Mysen , Ski",
+      "municipalities": "Enebakk, Frogn, Indre Østfold, Marker, Nesodden, Nordre Follo, Skiptvet, Vestby, Ås"
+    },
+    {
+      "court_of_appeal_district": "Eidsivating",
+      "lagsogn": "Østre Viken",
+      "district_court": "Søndre Østfold tingrett",
+      "court_locations": "Fredrikstad, Halden, Moss , Sarpsborg",
+      "municipalities": "Aremark, Fredrikstad, Halden, Hvaler, Moss, Rakkestad, Råde, Sarpsborg, Våler"
+    }
+  ],
+  "meta": {
+    "title": "Norges tingretter og rettskretser - Free Download",
+    "description": "Oversikt over Norges tingretter med lagdømme, lagsogn, rettssteder og hvilke kommuner som hører til hver rettskrets. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges tingretter og rettskretser | ListBase",
+    "seo_description": "Download Norges tingretter og rettskretser — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norges_domstoler"
+    ]
+  }
+}

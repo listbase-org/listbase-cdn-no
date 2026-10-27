@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:23.963Z",
-  "total_datasets": 438,
-  "total_records": 1196164,
+  "generated": "2026-10-27T02:28:26.449Z",
+  "total_datasets": 439,
+  "total_records": 1196187,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -4604,6 +4604,32 @@
         "xlsx": {
           "name": "no-jordskifteretter_NO.xlsx",
           "size": 8982
+        }
+      }
+    },
+    {
+      "id": "no-tingretter-og-rettskretser",
+      "name": "Norges tingretter og rettskretser",
+      "category": "law",
+      "record_count": 23,
+      "columns": [
+        "court_of_appeal_district",
+        "lagsogn",
+        "district_court",
+        "court_locations",
+        "municipalities"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_domstoler",
+      "updated": "2026-10",
+      "size": 11141,
+      "files": {
+        "csv": {
+          "name": "no-tingretter-og-rettskretser_NO.csv",
+          "size": 6293
+        },
+        "xlsx": {
+          "name": "no-tingretter-og-rettskretser_NO.xlsx",
+          "size": 9714
         }
       }
     },
