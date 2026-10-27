@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:13.211Z",
-  "total_datasets": 434,
-  "total_records": 1196022,
+  "generated": "2026-10-27T02:28:15.998Z",
+  "total_datasets": 435,
+  "total_records": 1196057,
   "categories": [
     {
       "id": "agriculture",
@@ -11,6 +11,10 @@
     {
       "id": "culture",
       "dataset_count": 25
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -1526,6 +1530,33 @@
         "xlsx": {
           "name": "no-vestland-osm-museer_NO.xlsx",
           "size": 10258
+        }
+      }
+    },
+    {
+      "id": "no-okonomiske-nokkeltall",
+      "name": "Norges økonomi — økonomiske nøkkeltall",
+      "category": "economy",
+      "record_count": 35,
+      "columns": [
+        "indicator",
+        "y2006",
+        "y2009",
+        "y2012",
+        "y2015",
+        "source"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_%C3%B8konomi",
+      "updated": "2026-10",
+      "size": 7329,
+      "files": {
+        "csv": {
+          "name": "no-okonomiske-nokkeltall_NO.csv",
+          "size": 1829
+        },
+        "xlsx": {
+          "name": "no-okonomiske-nokkeltall_NO.xlsx",
+          "size": 8152
         }
       }
     },
