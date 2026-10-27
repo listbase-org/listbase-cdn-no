@@ -1,0 +1,66 @@
+{
+  "id": "no-gardsbruk-og-dyrket-areal",
+  "name": "Antall gårdsbruk og dyrket areal i Norge",
+  "title": "Antall gårdsbruk og dyrket areal i Norge",
+  "description": "Antall driftsenheter over 5 dekar og samlet dyrket areal (dekar) i Norge for utvalgte år fra 1907.",
+  "category": "agriculture",
+  "source": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+  "source_url": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+  "updated": "2026-10",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "farms_over_5_decares",
+      "label": "Farms Over 5 Decares",
+      "type": "number"
+    },
+    {
+      "key": "cultivated_area_decares",
+      "label": "Cultivated Area Decares",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1907,
+      "farms_over_5_decares": 256634,
+      "cultivated_area_decares": 9870000
+    },
+    {
+      "year": 1939,
+      "farms_over_5_decares": 214378,
+      "cultivated_area_decares": 11161000
+    },
+    {
+      "year": 1959,
+      "farms_over_5_decares": 198315,
+      "cultivated_area_decares": 10107000
+    },
+    {
+      "year": 1999,
+      "farms_over_5_decares": 70000,
+      "cultivated_area_decares": 10269026
+    },
+    {
+      "year": 2016,
+      "farms_over_5_decares": 41064,
+      "cultivated_area_decares": 9823311
+    }
+  ],
+  "meta": {
+    "title": "Antall gårdsbruk og dyrket areal i Norge - Free Download",
+    "description": "Antall driftsenheter over 5 dekar og samlet dyrket areal (dekar) i Norge for utvalgte år fra 1907. Contains 5 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antall gårdsbruk og dyrket areal i Norge | ListBase",
+    "seo_description": "Download Antall gårdsbruk og dyrket areal i Norge — 5 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 5 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norsk_landbruk"
+    ]
+  }
+}

@@ -1,9 +1,13 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:38.261Z",
-  "total_datasets": 420,
-  "total_records": 1195360,
+  "generated": "2026-10-27T02:27:40.904Z",
+  "total_datasets": 421,
+  "total_records": 1195365,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 25
@@ -86,6 +90,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "no-gardsbruk-og-dyrket-areal",
+      "name": "Antall gårdsbruk og dyrket areal i Norge",
+      "category": "agriculture",
+      "record_count": 5,
+      "columns": [
+        "year",
+        "farms_over_5_decares",
+        "cultivated_area_decares"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+      "updated": "2026-10",
+      "size": 2058,
+      "files": {
+        "csv": {
+          "name": "no-gardsbruk-og-dyrket-areal_NO.csv",
+          "size": 189
+        },
+        "xlsx": {
+          "name": "no-gardsbruk-og-dyrket-areal_NO.xlsx",
+          "size": 6821
+        }
+      }
+    },
     {
       "id": "no-agder-osm-museer",
       "name": "Museer i Agder – OpenStreetMap (21 museums in Agder, OSM)",
