@@ -1,0 +1,106 @@
+{
+  "id": "no-gronnsaker-omsetning",
+  "name": "Grønnsaker i Norge — omsetning og norsk andel (2013)",
+  "title": "Grønnsaker i Norge — omsetning og norsk andel (2013)",
+  "description": "De viktigste grønnsakene i norsk omsetning i 2013 etter vekt (tonn) og andelen norskproduserte varer.",
+  "category": "agriculture",
+  "source": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+  "source_url": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "vegetable",
+      "label": "Vegetable",
+      "type": "string"
+    },
+    {
+      "key": "sales_tonnes",
+      "label": "Sales Tonnes",
+      "type": "number"
+    },
+    {
+      "key": "norwegian_share_pct",
+      "label": "Norwegian Share Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "vegetable": "Gulrot",
+      "sales_tonnes": 40182,
+      "norwegian_share_pct": 81
+    },
+    {
+      "vegetable": "Tomat",
+      "sales_tonnes": 36892,
+      "norwegian_share_pct": 33
+    },
+    {
+      "vegetable": "Løk",
+      "sales_tonnes": 31137,
+      "norwegian_share_pct": 62
+    },
+    {
+      "vegetable": "Agurk",
+      "sales_tonnes": 25003,
+      "norwegian_share_pct": 65
+    },
+    {
+      "vegetable": "Kålrot",
+      "sales_tonnes": 12069,
+      "norwegian_share_pct": 94
+    },
+    {
+      "vegetable": "Hodekål",
+      "sales_tonnes": 11588,
+      "norwegian_share_pct": 88
+    },
+    {
+      "vegetable": "Frukt",
+      "sales_tonnes": "",
+      "norwegian_share_pct": ""
+    },
+    {
+      "vegetable": "Epler",
+      "sales_tonnes": 56855,
+      "norwegian_share_pct": 12
+    },
+    {
+      "vegetable": "Plommer",
+      "sales_tonnes": 5253,
+      "norwegian_share_pct": 25
+    },
+    {
+      "vegetable": "Kirsebær/moreller",
+      "sales_tonnes": 2496,
+      "norwegian_share_pct": 20
+    },
+    {
+      "vegetable": "Bær",
+      "sales_tonnes": "",
+      "norwegian_share_pct": ""
+    },
+    {
+      "vegetable": "Jordbær",
+      "sales_tonnes": 13127,
+      "norwegian_share_pct": 22
+    },
+    {
+      "vegetable": "Bringebær",
+      "sales_tonnes": 2152,
+      "norwegian_share_pct": 22
+    }
+  ],
+  "meta": {
+    "title": "Grønnsaker i Norge — omsetning og norsk andel (2013) - Free Download",
+    "description": "De viktigste grønnsakene i norsk omsetning i 2013 etter vekt (tonn) og andelen norskproduserte varer. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Grønnsaker i Norge — omsetning og norsk andel (2013) | ListBase",
+    "seo_description": "Download Grønnsaker i Norge — omsetning og norsk andel (2013) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norsk_landbruk"
+    ]
+  }
+}

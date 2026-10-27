@@ -1,12 +1,12 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:40.904Z",
-  "total_datasets": 421,
-  "total_records": 1195365,
+  "generated": "2026-10-27T02:27:43.211Z",
+  "total_datasets": 422,
+  "total_records": 1195378,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -111,6 +111,30 @@
         "xlsx": {
           "name": "no-gardsbruk-og-dyrket-areal_NO.xlsx",
           "size": 6821
+        }
+      }
+    },
+    {
+      "id": "no-gronnsaker-omsetning",
+      "name": "Grønnsaker i Norge — omsetning og norsk andel (2013)",
+      "category": "agriculture",
+      "record_count": 13,
+      "columns": [
+        "vegetable",
+        "sales_tonnes",
+        "norwegian_share_pct"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+      "updated": "2026-10",
+      "size": 2902,
+      "files": {
+        "csv": {
+          "name": "no-gronnsaker-omsetning_NO.csv",
+          "size": 334
+        },
+        "xlsx": {
+          "name": "no-gronnsaker-omsetning_NO.xlsx",
+          "size": 7066
         }
       }
     },
