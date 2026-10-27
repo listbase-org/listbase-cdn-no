@@ -1,0 +1,266 @@
+{
+  "id": "no-eliteserien-tilskuertall",
+  "name": "Eliteserien — tilskuertall per sesong",
+  "title": "Eliteserien — tilskuertall per sesong",
+  "description": "Totalt og gjennomsnittlig tilskuertall i Norges øverste fotballdivisjon per sesong.",
+  "category": "sports",
+  "source": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+  "source_url": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+  "updated": "2026-10",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "total_attendance",
+      "label": "Total Attendance",
+      "type": "number"
+    },
+    {
+      "key": "average_attendance",
+      "label": "Average Attendance",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1980,
+      "total_attendance": 671176,
+      "average_attendance": 5084
+    },
+    {
+      "year": 1981,
+      "total_attendance": 775956,
+      "average_attendance": 5878
+    },
+    {
+      "year": 1982,
+      "total_attendance": 603027,
+      "average_attendance": 4568
+    },
+    {
+      "year": 1983,
+      "total_attendance": 729043,
+      "average_attendance": 5523
+    },
+    {
+      "year": 1984,
+      "total_attendance": 568765,
+      "average_attendance": 4308
+    },
+    {
+      "year": 1985,
+      "total_attendance": 581177,
+      "average_attendance": 4403
+    },
+    {
+      "year": 1986,
+      "total_attendance": 426349,
+      "average_attendance": 3229
+    },
+    {
+      "year": 1987,
+      "total_attendance": 469030,
+      "average_attendance": 3553
+    },
+    {
+      "year": 1988,
+      "total_attendance": 576257,
+      "average_attendance": 4365
+    },
+    {
+      "year": 1989,
+      "total_attendance": 624679,
+      "average_attendance": 4732
+    },
+    {
+      "year": 1990,
+      "total_attendance": 647489,
+      "average_attendance": 4905
+    },
+    {
+      "year": 1991,
+      "total_attendance": 706508,
+      "average_attendance": 5352
+    },
+    {
+      "year": 1992,
+      "total_attendance": 671903,
+      "average_attendance": 5083
+    },
+    {
+      "year": 1993,
+      "total_attendance": 731565,
+      "average_attendance": 5542
+    },
+    {
+      "year": 1994,
+      "total_attendance": 688589,
+      "average_attendance": 5216
+    },
+    {
+      "year": 1995,
+      "total_attendance": 841717,
+      "average_attendance": 4624
+    },
+    {
+      "year": 1996,
+      "total_attendance": 841368,
+      "average_attendance": 4622
+    },
+    {
+      "year": 1997,
+      "total_attendance": 772197,
+      "average_attendance": 4242
+    },
+    {
+      "year": 1998,
+      "total_attendance": 959317,
+      "average_attendance": 5270
+    },
+    {
+      "year": 1999,
+      "total_attendance": 983630,
+      "average_attendance": 5404
+    },
+    {
+      "year": 2000,
+      "total_attendance": 1024722,
+      "average_attendance": 5639
+    },
+    {
+      "year": 2001,
+      "total_attendance": 1013264,
+      "average_attendance": 5567
+    },
+    {
+      "year": 2002,
+      "total_attendance": 1092359,
+      "average_attendance": 6002
+    },
+    {
+      "year": 2003,
+      "total_attendance": 1198798,
+      "average_attendance": 6587
+    },
+    {
+      "year": 2004,
+      "total_attendance": 1458258,
+      "average_attendance": 8012
+    },
+    {
+      "year": 2005,
+      "total_attendance": 1727212,
+      "average_attendance": 9490
+    },
+    {
+      "year": 2006,
+      "total_attendance": 1656307,
+      "average_attendance": 9101
+    },
+    {
+      "year": 2007,
+      "total_attendance": 1906136,
+      "average_attendance": 10473
+    },
+    {
+      "year": 2008,
+      "total_attendance": 1785815,
+      "average_attendance": 9812
+    },
+    {
+      "year": 2009,
+      "total_attendance": 2151825,
+      "average_attendance": 8966
+    },
+    {
+      "year": 2010,
+      "total_attendance": 1909165,
+      "average_attendance": 8124
+    },
+    {
+      "year": 2011,
+      "total_attendance": 1918520,
+      "average_attendance": 7994
+    },
+    {
+      "year": 2012,
+      "total_attendance": 1677347,
+      "average_attendance": 6989
+    },
+    {
+      "year": 2013,
+      "total_attendance": 1637716,
+      "average_attendance": 6824
+    },
+    {
+      "year": 2014,
+      "total_attendance": 1671587,
+      "average_attendance": 6965
+    },
+    {
+      "year": 2015,
+      "total_attendance": 1610299,
+      "average_attendance": 6710
+    },
+    {
+      "year": 2016,
+      "total_attendance": 1672918,
+      "average_attendance": 6970
+    },
+    {
+      "year": 2017,
+      "total_attendance": 1592748,
+      "average_attendance": 6636
+    },
+    {
+      "year": 2018,
+      "total_attendance": 1407693,
+      "average_attendance": 5865
+    },
+    {
+      "year": 2019,
+      "total_attendance": 1366509,
+      "average_attendance": 5693
+    },
+    {
+      "year": 2020,
+      "total_attendance": 62057,
+      "average_attendance": 258
+    },
+    {
+      "year": 2021,
+      "total_attendance": 694226,
+      "average_attendance": 2892
+    },
+    {
+      "year": 2022,
+      "total_attendance": 1371235,
+      "average_attendance": 5713
+    },
+    {
+      "year": 2023,
+      "total_attendance": 1587309,
+      "average_attendance": 6614
+    },
+    {
+      "year": 2024,
+      "total_attendance": 1669207,
+      "average_attendance": 6955
+    }
+  ],
+  "meta": {
+    "title": "Eliteserien — tilskuertall per sesong - Free Download",
+    "description": "Totalt og gjennomsnittlig tilskuertall i Norges øverste fotballdivisjon per sesong. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Eliteserien — tilskuertall per sesong | ListBase",
+    "seo_description": "Download Eliteserien — tilskuertall per sesong — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Eliteserien_i_fotball"
+    ]
+  }
+}

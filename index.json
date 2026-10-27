@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:30.798Z",
-  "total_datasets": 417,
-  "total_records": 1195249,
+  "generated": "2026-10-27T02:27:33.552Z",
+  "total_datasets": 418,
+  "total_records": 1195294,
   "categories": [
     {
       "id": "culture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -11005,6 +11005,30 @@
         "xlsx": {
           "name": "no-eliteserien-medaljer_NO.xlsx",
           "size": 7401
+        }
+      }
+    },
+    {
+      "id": "no-eliteserien-tilskuertall",
+      "name": "Eliteserien — tilskuertall per sesong",
+      "category": "sports",
+      "record_count": 45,
+      "columns": [
+        "year",
+        "total_attendance",
+        "average_attendance"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Eliteserien_i_fotball",
+      "updated": "2026-10",
+      "size": 5980,
+      "files": {
+        "csv": {
+          "name": "no-eliteserien-tilskuertall_NO.csv",
+          "size": 1106
+        },
+        "xlsx": {
+          "name": "no-eliteserien-tilskuertall_NO.xlsx",
+          "size": 7697
         }
       }
     },
