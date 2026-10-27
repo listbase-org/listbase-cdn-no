@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:58.294Z",
-  "total_datasets": 428,
-  "total_records": 1195770,
+  "generated": "2026-10-27T02:28:00.667Z",
+  "total_datasets": 429,
+  "total_records": 1195796,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -4371,6 +4371,32 @@
         "xlsx": {
           "name": "no-katastrofer-og-ulykker_NO.xlsx",
           "size": 16909
+        }
+      }
+    },
+    {
+      "id": "no-kriger-norge-har-deltatt-i",
+      "name": "Kriger Norge har deltatt i",
+      "category": "history",
+      "record_count": 26,
+      "columns": [
+        "war",
+        "side_1",
+        "side_2",
+        "result",
+        "era"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_kriger_Norge_har_deltatt_i",
+      "updated": "2026-10",
+      "size": 8724,
+      "files": {
+        "csv": {
+          "name": "no-kriger-norge-har-deltatt-i_NO.csv",
+          "size": 4733
+        },
+        "xlsx": {
+          "name": "no-kriger-norge-har-deltatt-i_NO.xlsx",
+          "size": 9258
         }
       }
     },
