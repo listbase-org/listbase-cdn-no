@@ -1,0 +1,181 @@
+{
+  "id": "no-husdyr-antall",
+  "name": "Antall husdyr i Norge (i 1000)",
+  "title": "Antall husdyr i Norge (i 1000)",
+  "description": "Antall storfe, melkekyr, hester, sauer, geiter, svin, fjørfe og pelsdyr i Norge (i 1000) for utvalgte år fra 1900.",
+  "category": "agriculture",
+  "source": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+  "source_url": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "cattle",
+      "label": "Cattle",
+      "type": "number"
+    },
+    {
+      "key": "dairy_cows",
+      "label": "Dairy Cows",
+      "type": "number"
+    },
+    {
+      "key": "horses",
+      "label": "Horses",
+      "type": "number"
+    },
+    {
+      "key": "sheep",
+      "label": "Sheep",
+      "type": "number"
+    },
+    {
+      "key": "goats",
+      "label": "Goats",
+      "type": "number"
+    },
+    {
+      "key": "pigs",
+      "label": "Pigs",
+      "type": "number"
+    },
+    {
+      "key": "poultry",
+      "label": "Poultry",
+      "type": "number"
+    },
+    {
+      "key": "fur_animals",
+      "label": "Fur Animals",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1900,
+      "cattle": 1007,
+      "dairy_cows": "",
+      "horses": 166,
+      "sheep": 1398,
+      "goats": 283,
+      "pigs": 236,
+      "poultry": 1586,
+      "fur_animals": ""
+    },
+    {
+      "year": 1925,
+      "cattle": 1151,
+      "dairy_cows": 773,
+      "horses": 184,
+      "sheep": 1529,
+      "goats": 276,
+      "pigs": 253,
+      "poultry": 3173,
+      "fur_animals": ""
+    },
+    {
+      "year": 1950,
+      "cattle": 1237,
+      "dairy_cows": 766,
+      "horses": 191,
+      "sheep": 1812,
+      "goats": 130,
+      "pigs": 422,
+      "poultry": 3912,
+      "fur_animals": 290
+    },
+    {
+      "year": 1960,
+      "cattle": 1129,
+      "dairy_cows": 603,
+      "horses": 109,
+      "sheep": 1842,
+      "goats": 101,
+      "pigs": 492,
+      "poultry": 3108,
+      "fur_animals": 1570
+    },
+    {
+      "year": 1970,
+      "cattle": 943,
+      "dairy_cows": 424,
+      "horses": 35,
+      "sheep": 1753,
+      "goats": 84,
+      "pigs": 642,
+      "poultry": 3710,
+      "fur_animals": 3203
+    },
+    {
+      "year": 1980,
+      "cattle": 985,
+      "dairy_cows": 375,
+      "horses": 18,
+      "sheep": 1992,
+      "goats": 85,
+      "pigs": 664,
+      "poultry": 3469,
+      "fur_animals": 1685
+    },
+    {
+      "year": 1990,
+      "cattle": 965,
+      "dairy_cows": 338,
+      "horses": 20,
+      "sheep": 2231,
+      "goats": 92,
+      "pigs": 720,
+      "poultry": 3900,
+      "fur_animals": 982
+    },
+    {
+      "year": "",
+      "cattle": 987,
+      "dairy_cows": 298,
+      "horses": 27,
+      "sheep": 961,
+      "goats": 50,
+      "pigs": 90,
+      "poultry": 3251,
+      "fur_animals": ""
+    },
+    {
+      "year": 2010,
+      "cattle": 874,
+      "dairy_cows": 238,
+      "horses": 36,
+      "sheep": 921,
+      "goats": 37,
+      "pigs": 97,
+      "poultry": 3898,
+      "fur_animals": ""
+    },
+    {
+      "year": 2012,
+      "cattle": 861,
+      "dairy_cows": 233,
+      "horses": 36,
+      "sheep": 902,
+      "goats": 35,
+      "pigs": 96,
+      "poultry": 3911,
+      "fur_animals": ""
+    }
+  ],
+  "meta": {
+    "title": "Antall husdyr i Norge (i 1000) - Free Download",
+    "description": "Antall storfe, melkekyr, hester, sauer, geiter, svin, fjørfe og pelsdyr i Norge (i 1000) for utvalgte år fra 1900. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Antall husdyr i Norge (i 1000) | ListBase",
+    "seo_description": "Download Antall husdyr i Norge (i 1000) — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norsk_landbruk"
+    ]
+  }
+}

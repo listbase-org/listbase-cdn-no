@@ -1,12 +1,12 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:48.589Z",
-  "total_datasets": 424,
-  "total_records": 1195604,
+  "generated": "2026-10-27T02:27:50.876Z",
+  "total_datasets": 425,
+  "total_records": 1195614,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -139,6 +139,36 @@
         "xlsx": {
           "name": "no-gronnsaker-omsetning_NO.xlsx",
           "size": 7066
+        }
+      }
+    },
+    {
+      "id": "no-husdyr-antall",
+      "name": "Antall husdyr i Norge (i 1000)",
+      "category": "agriculture",
+      "record_count": 10,
+      "columns": [
+        "year",
+        "cattle",
+        "dairy_cows",
+        "horses",
+        "sheep",
+        "goats",
+        "pigs",
+        "poultry",
+        "fur_animals"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norsk_landbruk",
+      "updated": "2026-10",
+      "size": 3983,
+      "files": {
+        "csv": {
+          "name": "no-husdyr-antall_NO.csv",
+          "size": 624
+        },
+        "xlsx": {
+          "name": "no-husdyr-antall_NO.xlsx",
+          "size": 7282
         }
       }
     },
