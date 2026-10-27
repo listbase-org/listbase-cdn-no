@@ -1,0 +1,527 @@
+{
+  "id": "no-statsministre",
+  "name": "Norges statsministre",
+  "title": "Norges statsministre",
+  "description": "Norges statsministre (inkludert statsministre i Stockholm) fra 1873 til i dag: periode, parti og regjering.",
+  "category": "politics",
+  "source": "https://no.wikipedia.org/wiki/Norges_statsministre",
+  "source_url": "https://no.wikipedia.org/wiki/Norges_statsministre",
+  "updated": "2026-10",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "from",
+      "label": "From",
+      "type": "string"
+    },
+    {
+      "key": "to",
+      "label": "To",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Frederik Stang (1808–1884)",
+      "from": "21. juli 1873",
+      "to": "4. oktober 1880",
+      "party": "",
+      "government": "F. Stang"
+    },
+    {
+      "name": "Christian Selmer (1816–1889)",
+      "from": "11. oktober 1880",
+      "to": "11. mars 1884",
+      "party": "",
+      "government": "Selmer"
+    },
+    {
+      "name": "Christian Schweigaard (1838–1899)",
+      "from": "3. april 1884",
+      "to": "26. juni 1884",
+      "party": "",
+      "government": "Schweigaard"
+    },
+    {
+      "name": "Johan Sverdrup (1816–1892)",
+      "from": "26. juni 1884",
+      "to": "13. juli 1889",
+      "party": "V",
+      "government": "Sverdrup"
+    },
+    {
+      "name": "Emil Stang d.e. (1834–1912)",
+      "from": "13. juli 1889",
+      "to": "6. mars 1891",
+      "party": "H",
+      "government": "E. Stang I"
+    },
+    {
+      "name": "Johannes Steen (1827–1906)",
+      "from": "6. mars 1891",
+      "to": "2. mai 1893",
+      "party": "V",
+      "government": "Steen I"
+    },
+    {
+      "name": "Emil Stang d.e. (1834–1912)",
+      "from": "2. mai 1893",
+      "to": "14. oktober 1895",
+      "party": "H",
+      "government": "E. Stang II"
+    },
+    {
+      "name": "Francis Hagerup (1853–1921)",
+      "from": "14. oktober 1895",
+      "to": "17. februar 1898",
+      "party": "H",
+      "government": "Hagerup I ( H , MV , V )"
+    },
+    {
+      "name": "Johannes Steen (1827–1906)",
+      "from": "17. februar 1898",
+      "to": "21. april 1902",
+      "party": "V",
+      "government": "Steen II"
+    },
+    {
+      "name": "Otto Blehr (1847–1927)",
+      "from": "21. april 1902",
+      "to": "22. oktober 1903",
+      "party": "V",
+      "government": "Blehr I"
+    },
+    {
+      "name": "Francis Hagerup (1853–1921)",
+      "from": "22. oktober 1903",
+      "to": "11. mars 1905",
+      "party": "H",
+      "government": "Hagerup II ( Saml. , V , H )"
+    },
+    {
+      "name": "Christian Michelsen (1857–1925)",
+      "from": "11. mars 1905",
+      "to": "23. oktober 1907",
+      "party": "Saml.",
+      "government": "Michelsen ( V , H , MV , Saml. )"
+    },
+    {
+      "name": "Jørgen Løvland (1838–1922)",
+      "from": "23. oktober 1907",
+      "to": "19. mars 1908",
+      "party": "V",
+      "government": "Løvland ( V , MV , Uavh.)"
+    },
+    {
+      "name": "Gunnar Knudsen (1848–1928)",
+      "from": "19. mars 1908",
+      "to": "2. februar 1910",
+      "party": "V",
+      "government": "Knudsen I"
+    },
+    {
+      "name": "Wollert Konow (1845–1924)",
+      "from": "2. februar 1910",
+      "to": "20. februar 1912",
+      "party": "FV",
+      "government": "Konow ( H , FV )"
+    },
+    {
+      "name": "Jens Bratlie (1856–1939)",
+      "from": "20. februar 1912",
+      "to": "31. januar 1913",
+      "party": "H",
+      "government": "Bratlie ( H , FV )"
+    },
+    {
+      "name": "Gunnar Knudsen (1848–1928)",
+      "from": "31. januar 1913",
+      "to": "21. juni 1920",
+      "party": "V",
+      "government": "Knudsen II"
+    },
+    {
+      "name": "Otto B. Halvorsen (1872–1923)",
+      "from": "21. juni 1920",
+      "to": "22. juni 1921",
+      "party": "H",
+      "government": "Halvorsen I ( H , FV )"
+    },
+    {
+      "name": "Otto Blehr (1847–1927)",
+      "from": "22. juni 1921",
+      "to": "6. mars 1923",
+      "party": "V",
+      "government": "Blehr II"
+    },
+    {
+      "name": "Otto B. Halvorsen (1872–1923)",
+      "from": "6. mars 1923",
+      "to": "23. mai 1923 (døde)",
+      "party": "H",
+      "government": "Halvorsen II ( H , FV )"
+    },
+    {
+      "name": "Abraham Berge (1851–1936)",
+      "from": "30. mai 1923",
+      "to": "25. juli 1924",
+      "party": "FV",
+      "government": "Berge ( H , FV )"
+    },
+    {
+      "name": "Johan Ludwig Mowinckel (1870–1943)",
+      "from": "25. juli 1924",
+      "to": "5. mars 1926",
+      "party": "V",
+      "government": "Mowinckel I"
+    },
+    {
+      "name": "Ivar Lykke (1872–1949)",
+      "from": "5. mars 1926",
+      "to": "28. januar 1928",
+      "party": "H",
+      "government": "Lykke ( H , FV )"
+    },
+    {
+      "name": "Christopher Hornsrud (1859–1960)",
+      "from": "28. januar 1928",
+      "to": "15. februar 1928",
+      "party": "Ap",
+      "government": "Hornsrud ( Ap )"
+    },
+    {
+      "name": "Johan Ludwig Mowinckel (1870–1943)",
+      "from": "15. februar 1928",
+      "to": "12. mai 1931",
+      "party": "V",
+      "government": "Mowinckel II ( V )"
+    },
+    {
+      "name": "Peder Kolstad (1878–1932)",
+      "from": "12. mai 1931",
+      "to": "5. mars 1932 (døde)",
+      "party": "B",
+      "government": "Kolstad ( B )"
+    },
+    {
+      "name": "Jens Hundseid (1883–1965)",
+      "from": "14. mars 1932",
+      "to": "3. mars 1933",
+      "party": "B",
+      "government": "Hundseid ( B )"
+    },
+    {
+      "name": "Johan Ludwig Mowinckel (1870–1943)",
+      "from": "3. mars 1933",
+      "to": "20. mars 1935",
+      "party": "V",
+      "government": "Mowinckel III ( V)"
+    },
+    {
+      "name": "Johan Nygaardsvold (1879–1952)",
+      "from": "20. mars 1935",
+      "to": "25. juni 1945",
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap) (I eksil 1940–1945: Samlingsregjering )"
+    },
+    {
+      "name": "Otto Kierulf (1825–1897)",
+      "from": "21. juli 1873",
+      "to": "21. mars 1884",
+      "party": "",
+      "government": "F. Stang Selmer"
+    },
+    {
+      "name": "Carl Otto Løvenskiold (1839–1916)",
+      "from": "3. april 1884",
+      "to": "26. juni 1884",
+      "party": "",
+      "government": "Schweigaard"
+    },
+    {
+      "name": "Ole Richter (1829–1888)",
+      "from": "26. juni 1884",
+      "to": "6. juni 1888",
+      "party": "V",
+      "government": "Sverdrup"
+    },
+    {
+      "name": "Jacob Stang (1830–1907)",
+      "from": "15. juni 1888",
+      "to": "13. juli 1889",
+      "party": "V",
+      "government": "Sverdrup"
+    },
+    {
+      "name": "Gregers Gram (1846–1929)",
+      "from": "13. juli 1889",
+      "to": "6. mars 1891",
+      "party": "H",
+      "government": "E. Stang I"
+    },
+    {
+      "name": "Otto Blehr (1847–1927)",
+      "from": "6. mars 1891",
+      "to": "2. mai 1893",
+      "party": "V",
+      "government": "Steen I"
+    },
+    {
+      "name": "Gregers Gram (1846–1929)",
+      "from": "2. mai 1893",
+      "to": "17. februar 1898",
+      "party": "H",
+      "government": "E Stang II Hagerup I"
+    },
+    {
+      "name": "Otto Blehr (1847–1927)",
+      "from": "17. februar 1898",
+      "to": "21. april 1902",
+      "party": "V",
+      "government": "Steen II"
+    },
+    {
+      "name": "Ole Anton Qvam (1834–1904)",
+      "from": "21. april 1902",
+      "to": "22. oktober 1903",
+      "party": "V",
+      "government": "Blehr I"
+    },
+    {
+      "name": "Sigurd Ibsen (1859–1930)",
+      "from": "22. oktober 1903",
+      "to": "11. mars 1905",
+      "party": "V",
+      "government": "Hagerup II"
+    },
+    {
+      "name": "Jørgen Løvland (1848–1922)",
+      "from": "11. mars 1905",
+      "to": "7. juni 1905",
+      "party": "V",
+      "government": "Michelsen"
+    },
+    {
+      "name": "Einar Gerhardsen (1897–1987)",
+      "from": "25. juni 1945",
+      "to": "5. november 1945",
+      "party": "Ap",
+      "government": "Gerhardsen I ( Samlingsregjering )"
+    },
+    {
+      "name": "Einar Gerhardsen (1897–1987)",
+      "from": "5. november 1945",
+      "to": "19. november 1951",
+      "party": "Ap",
+      "government": "Gerhardsen II (Ap)"
+    },
+    {
+      "name": "Oscar Torp (1893–1958)",
+      "from": "19. november 1951",
+      "to": "22. januar 1955",
+      "party": "Ap",
+      "government": "Torp (Ap)"
+    },
+    {
+      "name": "Einar Gerhardsen (1897–1987)",
+      "from": "22. januar 1955",
+      "to": "28. august 1963",
+      "party": "Ap",
+      "government": "Gerhardsen III (Ap)"
+    },
+    {
+      "name": "John Lyng (1905–1978)",
+      "from": "28. august 1963",
+      "to": "25. september 1963",
+      "party": "H",
+      "government": "Lyng (H, Sp, V, KrF)"
+    },
+    {
+      "name": "Einar Gerhardsen (1897–1987)",
+      "from": "25. september 1963",
+      "to": "12. oktober 1965",
+      "party": "Ap",
+      "government": "Gerhardsen IV (Ap)"
+    },
+    {
+      "name": "Per Borten (1913–2005)",
+      "from": "12. oktober 1965",
+      "to": "17. mars 1971",
+      "party": "Sp",
+      "government": "Borten (Sp, H, V, KrF)"
+    },
+    {
+      "name": "Trygve Bratteli (1910–1984)",
+      "from": "17. mars 1971",
+      "to": "18. oktober 1972",
+      "party": "Ap",
+      "government": "Bratteli I (Ap)"
+    },
+    {
+      "name": "Lars Korvald (1916–2006)",
+      "from": "18. oktober 1972",
+      "to": "16. oktober 1973",
+      "party": "KrF",
+      "government": "Korvald (KrF, Sp, V)"
+    },
+    {
+      "name": "Trygve Bratteli (1910–1984)",
+      "from": "16. oktober 1973",
+      "to": "15. januar 1976",
+      "party": "Ap",
+      "government": "Bratteli II (Ap)"
+    },
+    {
+      "name": "Odvar Nordli (1927–2018)",
+      "from": "15. januar 1976",
+      "to": "4. februar 1981",
+      "party": "Ap",
+      "government": "Nordli (Ap)"
+    },
+    {
+      "name": "Gro Harlem Brundtland (1939–)",
+      "from": "4. februar 1981",
+      "to": "14. oktober 1981",
+      "party": "Ap",
+      "government": "Brundtland I (Ap)"
+    },
+    {
+      "name": "Kåre Willoch (1928–2021)",
+      "from": "14. oktober 1981",
+      "to": "8. juni 1983",
+      "party": "H",
+      "government": "Willoch (H)"
+    },
+    {
+      "name": "Kåre Willoch (1928–2021)",
+      "from": "8. juni 1983",
+      "to": "9. mai 1986",
+      "party": "H",
+      "government": "Willoch (H, KrF, Sp)"
+    },
+    {
+      "name": "Gro Harlem Brundtland (1939–)",
+      "from": "9. mai 1986",
+      "to": "16. oktober 1989",
+      "party": "Ap",
+      "government": "Brundtland II (Ap)"
+    },
+    {
+      "name": "Jan P. Syse (1930–1997)",
+      "from": "16. oktober 1989",
+      "to": "3. november 1990",
+      "party": "H",
+      "government": "Syse (H, KrF, Sp)"
+    },
+    {
+      "name": "Gro Harlem Brundtland (1939–)",
+      "from": "3. november 1990",
+      "to": "25. oktober 1996",
+      "party": "Ap",
+      "government": "Brundtland III (Ap)"
+    },
+    {
+      "name": "Thorbjørn Jagland (1950–)",
+      "from": "25. oktober 1996",
+      "to": "17. oktober 1997",
+      "party": "Ap",
+      "government": "Jagland (Ap)"
+    },
+    {
+      "name": "Kjell Magne Bondevik (1947–)",
+      "from": "17. oktober 1997",
+      "to": "17. mars 2000",
+      "party": "KrF",
+      "government": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "name": "Jens Stoltenberg (1959–)",
+      "from": "17. mars 2000",
+      "to": "19. oktober 2001",
+      "party": "Ap",
+      "government": "Stoltenberg I (Ap)"
+    },
+    {
+      "name": "Kjell Magne Bondevik (1947–)",
+      "from": "19. oktober 2001",
+      "to": "17. oktober 2005",
+      "party": "KrF",
+      "government": "Bondevik II (KrF, H, V)"
+    },
+    {
+      "name": "Jens Stoltenberg (1959–)",
+      "from": "17. oktober 2005",
+      "to": "16. oktober 2013",
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "name": "Erna Solberg (1961–)",
+      "from": "16. oktober 2013",
+      "to": "17. januar 2018",
+      "party": "H",
+      "government": "Solberg (H, FrP)"
+    },
+    {
+      "name": "Erna Solberg (1961–)",
+      "from": "17. januar 2018",
+      "to": "22. januar 2019",
+      "party": "H",
+      "government": "Solberg (H, FrP, V)"
+    },
+    {
+      "name": "Erna Solberg (1961–)",
+      "from": "22. januar 2019",
+      "to": "24. januar 2020",
+      "party": "H",
+      "government": "Solberg (H, FrP, V, KrF)"
+    },
+    {
+      "name": "Erna Solberg (1961–)",
+      "from": "24. januar 2020",
+      "to": "14. oktober 2021",
+      "party": "H",
+      "government": "Solberg (H, V, KrF)"
+    },
+    {
+      "name": "Jonas Gahr Støre (1960–)",
+      "from": "14. oktober 2021",
+      "to": "4. februar 2025",
+      "party": "Ap",
+      "government": "Støre (Ap, Sp)"
+    },
+    {
+      "name": "Jonas Gahr Støre (1960–)",
+      "from": "4. februar 2025",
+      "to": "",
+      "party": "Ap",
+      "government": "Støre (Ap)"
+    }
+  ],
+  "meta": {
+    "title": "Norges statsministre - Free Download",
+    "description": "Norges statsministre (inkludert statsministre i Stockholm) fra 1873 til i dag: periode, parti og regjering. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges statsministre | ListBase",
+    "seo_description": "Download Norges statsministre — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norges_statsministre"
+    ]
+  }
+}

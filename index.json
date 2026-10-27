@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:18.689Z",
-  "total_datasets": 436,
-  "total_records": 1196066,
+  "generated": "2026-10-27T02:28:21.253Z",
+  "total_datasets": 437,
+  "total_records": 1196134,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "reference",
@@ -4792,6 +4792,32 @@
         "xlsx": {
           "name": "no-politiske-partier-stortinget_NO.xlsx",
           "size": 7649
+        }
+      }
+    },
+    {
+      "id": "no-statsministre",
+      "name": "Norges statsministre",
+      "category": "politics",
+      "record_count": 68,
+      "columns": [
+        "name",
+        "from",
+        "to",
+        "party",
+        "government"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_statsministre",
+      "updated": "2026-10",
+      "size": 13823,
+      "files": {
+        "csv": {
+          "name": "no-statsministre_NO.csv",
+          "size": 6094
+        },
+        "xlsx": {
+          "name": "no-statsministre_NO.xlsx",
+          "size": 9904
         }
       }
     },
