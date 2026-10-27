@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:27:45.752Z",
-  "total_datasets": 423,
-  "total_records": 1195584,
+  "generated": "2026-10-27T02:27:48.589Z",
+  "total_datasets": 424,
+  "total_records": 1195604,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -4330,6 +4330,30 @@
         "xlsx": {
           "name": "no-hoyesterettsdommere_NO.xlsx",
           "size": 16254
+        }
+      }
+    },
+    {
+      "id": "no-hoyesterettsjustitiarius",
+      "name": "Høyesterettsjustitiarier i Norge",
+      "category": "law",
+      "record_count": 20,
+      "columns": [
+        "years",
+        "chief_justice",
+        "notes"
+      ],
+      "source": "https://no.wikipedia.org/wiki/H%C3%B8yesterettsjustitiarius",
+      "updated": "2026-10",
+      "size": 3630,
+      "files": {
+        "csv": {
+          "name": "no-hoyesterettsjustitiarius_NO.csv",
+          "size": 871
+        },
+        "xlsx": {
+          "name": "no-hoyesterettsjustitiarius_NO.xlsx",
+          "size": 7511
         }
       }
     },
