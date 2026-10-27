@@ -1,0 +1,136 @@
+{
+  "id": "no-jordskifteretter",
+  "name": "Norges jordskifteretter",
+  "title": "Norges jordskifteretter",
+  "description": "Oversikt over Norges jordskifteretter med rettssteder og kommunene de dekker.",
+  "category": "law",
+  "source": "https://no.wikipedia.org/wiki/Norges_domstoler",
+  "source_url": "https://no.wikipedia.org/wiki/Norges_domstoler",
+  "updated": "2026-10",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "court",
+      "label": "Court",
+      "type": "string"
+    },
+    {
+      "key": "court_locations",
+      "label": "Court Locations",
+      "type": "string"
+    },
+    {
+      "key": "municipalities",
+      "label": "Municipalities",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "court": "Finnmark jordskifterett",
+      "court_locations": "Vadsø",
+      "municipalities": "Alta, Berlevåg, Båtsfjord, Gamvik, Hammerfest, Hasvik, Karasjok, Kautokeino, Lebesby, Loppa, Måsøy, Nesseby, Nordkapp, Porsanger, Sør-Varanger, Tana, Vadsø, Vardø"
+    },
+    {
+      "court": "Nord-Troms jordskifterett",
+      "court_locations": "Tromsø",
+      "municipalities": "Balsfjord, Karlsøy, Kvænangen, Kåfjord, Lyngen, Målselv, Nordreisa, Senja, Skjervøy, Storfjord, Sørreisa, Tromsø"
+    },
+    {
+      "court": "Ofoten og Sør-Troms jordskifterett",
+      "court_locations": "Harstad",
+      "municipalities": "Bardu, Dyrøy, Evenes, Gratangen, Harstad, Ibestad, Kvæfjord, Lavangen, Narvik, Salangen, Tjeldsund"
+    },
+    {
+      "court": "Lofoten og Vesterålen jordskifterett",
+      "court_locations": "Sortland",
+      "municipalities": "Andøy, Bø, Flakstad, Hadsel, Lødingen, Moskenes, Sortland, Vestvågøy, Vågan, Øksnes"
+    },
+    {
+      "court": "Salten jordskifterett",
+      "court_locations": "Bodø",
+      "municipalities": "Beiarn, Bodø, Fauske, Gildeskål, Hamarøy, Meløy, Rødøy, Røst, Saltdal, Steigen, Sørfold, Værøy"
+    },
+    {
+      "court": "Helgeland jordskifterett",
+      "court_locations": "Mosjøen",
+      "municipalities": "Alstahaug, Bindal, Brønnøy, Dønna, Grane, Hattfjelldal, Hemnes, Herøy , Leirfjord, Lurøy, Nesna, Rana, Sømna, Træna, Vefsn, Vega, Vevelstad"
+    },
+    {
+      "court": "Trøndelag jordskifterett",
+      "court_locations": "Steinkjer , Trondheim",
+      "municipalities": "Flatanger, Frosta, Frøya, Grong, Heim, Hitra, Holtålen, Høylandet, Inderøy, Indre Fosen, Leka, Levanger, Lierne, Malvik, Melhus, Meråker, Midtre Gauldal, Namsos, Namsskogan, Nærøysund, Oppdal, Orkland, Osen, Overhalla, Rennebu, Røros, Røyrvik, Selbu, Skaun, Snåsa, Steinkjer, Stjørdal, Trondheim, Tydal, Verdal, Ørland, Åfjord"
+    },
+    {
+      "court": "Møre og Romsdal jordskifterett",
+      "court_locations": "Molde , Surnadal, Ørsta",
+      "municipalities": "Aukra, Aure, Averøy, Fjord, Giske, Gjemnes, Hareid, Herøy , Hustadvika, Kristiansund, Molde, Rauma, Rindal, Sande, Smøla, Stranda, Sula, Sunndal, Surnadal, Sykkylven, Tingvoll, Ulstein, Vanylven, Vestnes, Volda, Ørsta, Ålesund"
+    },
+    {
+      "court": "Sogn og Fjordane jordskifterett",
+      "court_locations": "Nordfjordeid, Førde, Sogndal",
+      "municipalities": "Stad, Stryn, Gloppen, Kinn, Sunnfjord, Bremanger, Fjaler, Askvoll, Hyllestad, Solund, Gulen, Høyanger, Sogndal, Aurland, Lærdal, Årdal, Luster, Vik"
+    },
+    {
+      "court": "Hordaland jordskifterett",
+      "court_locations": "Bergen, Voss",
+      "municipalities": "Fedje, Øygarden, Austrheim, Alver, Masfjorden, Modalen, Vaksdal, Osterøy, Askøy, Samnanger, Kvam, Bjørnafjorden, Austevoll, Bergen, Voss, Ulvik, Eidfjord, Ullensvang"
+    },
+    {
+      "court": "Haugalandet og Sunnhordland jordskifterett",
+      "court_locations": "Stord",
+      "municipalities": "Etne, Kvinnherad, Tysnes, Fitjar, Stord, Bømlo, Sveio, Sauda, Suldal, Vindafjord, Tysvær, Bokn, Karmøy, Haugesund, Utsira"
+    },
+    {
+      "court": "Sør-Rogaland jordskifterett",
+      "court_locations": "Stavanger",
+      "municipalities": "Hjelmeland, Strand, Kvitsøy, Randaberg, Stavanger, Sola, Sandnes, Klepp, Time, Gjesdal, Bjerkreim, Hå, Eigersund"
+    },
+    {
+      "court": "Agder jordskifterett",
+      "court_locations": "Flekkefjord, Kristiansand, Arendal",
+      "municipalities": "Lund, Sokndal, Sirdal, Kvinesdal, Flekkefjord, Lyngdal, Farsund, Åseral, Hægebostad, Lindesnes, Kristiansand, Vennesla, Bykle, Valle, Bygland, Åmli, Evje og Hornnes, Iveland, Birkenes, Lillesand, Grimstad, Arendal, Froland, Vegårdshei, Gjerstad, Tvedestrand, Risør"
+    },
+    {
+      "court": "Telemark jordskifterett",
+      "court_locations": "Kviteseid, Skien",
+      "municipalities": "Vinje, Tokke, Tinn, Hjartdal, Seljord, Kviteseid, Fyresdal, Nissedal, Notodden, Midt-Telemark, Nome, Drangedal, Kragerø, Bamble, Porsgrunn, Skien, Siljan"
+    },
+    {
+      "court": "Vestfold jordskifterett",
+      "court_locations": "Tønsberg",
+      "municipalities": "Larvik, Sandefjord, Færder, Tønsberg, Horten, Holmestrand"
+    },
+    {
+      "court": "Vestre Viken jordskifterett",
+      "court_locations": "Drammen, Nesbyen",
+      "municipalities": "Asker, Lier, Drammen, Øvre Eiker, Kongsberg, Flesberg, Rollag, Modum, Hole, Ringerike, Krødsherad, Sigdal, Nore og Uvdal, Flå, Nesbyen, Hol, Ål, Gol, Hemsedal"
+    },
+    {
+      "court": "Oslo og Østre Viken jordskifterett",
+      "court_locations": "Kongsvinger, Lillestrøm , Sarpsborg",
+      "municipalities": "Aremark, Aurskog-Høland, Bærum, Eidskog, Eidsvoll, Enebakk, Fredrikstad, Frogn, Gjerdrum, Grue, Halden, Hurdal, Hvaler, Indre Østfold, Kongsvinger, Lillestrøm, Lørenskog, Marker, Moss, Nannestad, Nes, Nesodden, Nittedal, Nord-Odal, Nordre Follo, Oslo, Rakkestad, Rælingen, Råde, Sarpsborg, Skiptvet, Sør-Odal, Ullensaker, Vestby, Våler (Innlandet) , Våler (Østfold) , Ås, Åsnes"
+    },
+    {
+      "court": "Vestre Innlandet jordskifterett",
+      "court_locations": "Lillehammer, Fagernes",
+      "municipalities": "Jevnaker, Lunner, Gran, Østre Toten, Vestre Toten, Søndre Land, Nordre Land, Gjøvik, Lillehammer, Gausdal, Øyer, Ringebu, Sør-Fron, Etnedal, Sør-Aurdal, Nord-Aurdal, Vestre Slidre, Øystre Slidre, Vang, Nord-Fron, Sel, Dovre, Lesja, Vågå, Lom, Skjåk"
+    },
+    {
+      "court": "Østre Innlandet jordskifterett",
+      "court_locations": "Hamar, Tynset",
+      "municipalities": "Ringsaker, Hamar, Stange, Løten, Elverum, Åmot, Trysil, Stor-Elvdal, Rendalen, Engerdal, Alvdal, Folldal, Tynset, Tolga, Os"
+    }
+  ],
+  "meta": {
+    "title": "Norges jordskifteretter - Free Download",
+    "description": "Oversikt over Norges jordskifteretter med rettssteder og kommunene de dekker. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges jordskifteretter | ListBase",
+    "seo_description": "Download Norges jordskifteretter — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norges_domstoler"
+    ]
+  }
+}
