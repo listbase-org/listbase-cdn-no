@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-27T02:28:26.449Z",
-  "total_datasets": 439,
-  "total_records": 1196187,
+  "generated": "2026-10-28T02:22:35.865Z",
+  "total_datasets": 440,
+  "total_records": 1196220,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -2861,6 +2861,29 @@
         "xlsx": {
           "name": "no-trondheim-banker_NO.xlsx",
           "size": 7070
+        }
+      }
+    },
+    {
+      "id": "no-beskyttede-betegnelser-mat",
+      "name": "Beskyttede betegnelser for norske matprodukter",
+      "category": "food",
+      "record_count": 33,
+      "columns": [
+        "name",
+        "protection_type"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Beskyttede_betegnelser_(Norge)",
+      "updated": "2026-10",
+      "size": 5142,
+      "files": {
+        "csv": {
+          "name": "no-beskyttede-betegnelser-mat_NO.csv",
+          "size": 1922
+        },
+        "xlsx": {
+          "name": "no-beskyttede-betegnelser-mat_NO.xlsx",
+          "size": 7518
         }
       }
     },
