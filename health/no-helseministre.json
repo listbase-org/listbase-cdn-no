@@ -1,0 +1,184 @@
+{
+  "id": "no-helseministre",
+  "name": "Norges helseministre",
+  "title": "Norges helseministre",
+  "description": "Liste over Norges helseministre fra 1992 og eldre- og folkehelseministre (2018–2020): navn, periode, parti og regjering.",
+  "category": "health",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_helseministre",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_Norges_helseministre",
+  "updated": "2026-10",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "from",
+      "label": "From",
+      "type": "number"
+    },
+    {
+      "key": "to",
+      "label": "To",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    },
+    {
+      "key": "office",
+      "label": "Office",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Werner Christie",
+      "from": 1992,
+      "to": 1995,
+      "party": "Ap",
+      "government": "Brundtland III",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Gudmund Hernes",
+      "from": 1995,
+      "to": 1997,
+      "party": "Ap",
+      "government": "Brundtland III Jagland",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Dagfinn Høybråten",
+      "from": 1997,
+      "to": 2000,
+      "party": "KrF",
+      "government": "Bondevik I",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Tore Tønne",
+      "from": 2000,
+      "to": 2001,
+      "party": "Ap",
+      "government": "Stoltenberg I",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Dagfinn Høybråten",
+      "from": 2001,
+      "to": 2004,
+      "party": "KrF",
+      "government": "Bondevik II",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Ansgar Gabrielsen",
+      "from": 2004,
+      "to": 2005,
+      "party": "H",
+      "government": "Bondevik II",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Sylvia Brustad",
+      "from": 2005,
+      "to": 2008,
+      "party": "Ap",
+      "government": "Stoltenberg II",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Bjarne Håkon Hanssen",
+      "from": 2008,
+      "to": 2009,
+      "party": "Ap",
+      "government": "Stoltenberg II",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Anne-Grete Strøm-Erichsen",
+      "from": 2009,
+      "to": 2012,
+      "party": "Ap",
+      "government": "Stoltenberg II",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Jonas Gahr Støre",
+      "from": 2012,
+      "to": 2013,
+      "party": "Ap",
+      "government": "Stoltenberg II",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Bent Høie",
+      "from": 2013,
+      "to": 2021,
+      "party": "H",
+      "government": "Solberg",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Ingvild Kjerkol",
+      "from": 2021,
+      "to": 2024,
+      "party": "Ap",
+      "government": "Støre",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Jan Christian Vestre",
+      "from": 2024,
+      "to": "",
+      "party": "Ap",
+      "government": "Støre",
+      "office": "Helseminister"
+    },
+    {
+      "name": "Åse Michaelsen",
+      "from": 2018,
+      "to": 2019,
+      "party": "FrP",
+      "government": "Solberg",
+      "office": "Eldre- og folkehelseminister"
+    },
+    {
+      "name": "Sylvi Listhaug",
+      "from": 2019,
+      "to": 2019,
+      "party": "FrP",
+      "government": "Solberg",
+      "office": "Eldre- og folkehelseminister"
+    },
+    {
+      "name": "Terje Søviknes",
+      "from": 2019,
+      "to": 2020,
+      "party": "FrP",
+      "government": "Solberg",
+      "office": "Eldre- og folkehelseminister"
+    }
+  ],
+  "meta": {
+    "title": "Norges helseministre - Free Download",
+    "description": "Liste over Norges helseministre fra 1992 og eldre- og folkehelseministre (2018–2020): navn, periode, parti og regjering. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges helseministre | ListBase",
+    "seo_description": "Download Norges helseministre — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_Norges_helseministre"
+    ]
+  }
+}

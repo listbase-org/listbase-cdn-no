@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-28T02:22:38.397Z",
-  "total_datasets": 441,
-  "total_records": 1196238,
+  "generated": "2026-10-28T02:22:40.948Z",
+  "total_datasets": 442,
+  "total_records": 1196254,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -4425,6 +4425,33 @@
         "xlsx": {
           "name": "no-apotek_NO.xlsx",
           "size": 38968
+        }
+      }
+    },
+    {
+      "id": "no-helseministre",
+      "name": "Norges helseministre",
+      "category": "health",
+      "record_count": 16,
+      "columns": [
+        "name",
+        "from",
+        "to",
+        "party",
+        "government",
+        "office"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_helseministre",
+      "updated": "2026-10",
+      "size": 4481,
+      "files": {
+        "csv": {
+          "name": "no-helseministre_NO.csv",
+          "size": 1190
+        },
+        "xlsx": {
+          "name": "no-helseministre_NO.xlsx",
+          "size": 7473
         }
       }
     },
