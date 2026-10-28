@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-28T02:22:35.865Z",
-  "total_datasets": 440,
-  "total_records": 1196220,
+  "generated": "2026-10-28T02:22:38.397Z",
+  "total_datasets": 441,
+  "total_records": 1196238,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -11846,6 +11846,31 @@
         "xlsx": {
           "name": "no-hoteller_NO.xlsx",
           "size": 41849
+        }
+      }
+    },
+    {
+      "id": "no-nasjonale-turistveier",
+      "name": "Nasjonale turistveier i Norge",
+      "category": "tourism",
+      "record_count": 18,
+      "columns": [
+        "name",
+        "route_and_roads",
+        "roads",
+        "length_km"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Nasjonal_turistvei",
+      "updated": "2026-10",
+      "size": 5245,
+      "files": {
+        "csv": {
+          "name": "no-nasjonale-turistveier_NO.csv",
+          "size": 2265
+        },
+        "xlsx": {
+          "name": "no-nasjonale-turistveier_NO.xlsx",
+          "size": 8004
         }
       }
     },

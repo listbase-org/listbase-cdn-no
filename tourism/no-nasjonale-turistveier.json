@@ -1,0 +1,154 @@
+{
+  "id": "no-nasjonale-turistveier",
+  "name": "Nasjonale turistveier i Norge",
+  "title": "Nasjonale turistveier i Norge",
+  "description": "De 18 nasjonale turistveiene i Norge med strekning, veinummer og lengde i kilometer.",
+  "category": "tourism",
+  "source": "https://no.wikipedia.org/wiki/Nasjonal_turistvei",
+  "source_url": "https://no.wikipedia.org/wiki/Nasjonal_turistvei",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "route_and_roads",
+      "label": "Route And Roads",
+      "type": "string"
+    },
+    {
+      "key": "roads",
+      "label": "Roads",
+      "type": "string"
+    },
+    {
+      "key": "length_km",
+      "label": "Length Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Varanger",
+      "route_and_roads": "Varangerbotn – Hamningberg, E75 / fylkesvei 8100",
+      "roads": "E75, fylkesvei 8100",
+      "length_km": 160
+    },
+    {
+      "name": "Havøysund",
+      "route_and_roads": "Kokelv (Storberget)– Havøysund, fylkesvei 889",
+      "roads": "fylkesvei 889",
+      "length_km": 67
+    },
+    {
+      "name": "Senja",
+      "route_and_roads": "Gryllefjord – Botnhamn, med avstikkere til Mefjordvær og Husøy, fylkesvei 86 / fylkesvei 862",
+      "roads": "fylkesvei 86, fylkesvei 862",
+      "length_km": 102
+    },
+    {
+      "name": "Andøya",
+      "route_and_roads": "Andenes – Bjørnskinn, fylkesvei 82 / fylkesvei 7702 / fylkesvei 7698",
+      "roads": "fylkesvei 82, fylkesvei 7702, fylkesvei 7698",
+      "length_km": 58
+    },
+    {
+      "name": "Lofoten",
+      "route_and_roads": "Raftsundet – Å, E10, med avstikkere til Nusfjord, Vikten, Utakleiv, Unstad og Henningsvær",
+      "roads": "E10",
+      "length_km": 230
+    },
+    {
+      "name": "Helgelandskysten",
+      "route_and_roads": "Holm– Alstahaug – Stokkvågen –Godøystraumen, fylkesvei 17, med avstikker til Torghatten 433 km",
+      "roads": "fylkesvei 17",
+      "length_km": ""
+    },
+    {
+      "name": "Atlanterhavsvegen",
+      "route_and_roads": "Kårvåg – Bud, fylkesvei 64 / fylkesvei 6070 / fylkesvei 663 / fylkesvei 6064 / fylkesvei 6060",
+      "roads": "fylkesvei 64, fylkesvei 6070, fylkesvei 663, fylkesvei 6064, fylkesvei 6060",
+      "length_km": 36
+    },
+    {
+      "name": "Geiranger - Trollstigen",
+      "route_and_roads": "Langvatnet – Sogge bru, fylkesvei 63",
+      "roads": "fylkesvei 63",
+      "length_km": 103
+    },
+    {
+      "name": "Rondane",
+      "route_and_roads": "Venbygdsfjellet – Folldal, og mellom Sollia kirke–Enden, fylkesvei 27 / fylkesvei 219",
+      "roads": "fylkesvei 27, fylkesvei 219",
+      "length_km": 75
+    },
+    {
+      "name": "Gamle Strynefjellsveien",
+      "route_and_roads": "Grotli –Videsæter, fylkesvei 258",
+      "roads": "fylkesvei 258",
+      "length_km": 27
+    },
+    {
+      "name": "Gaularfjellet",
+      "route_and_roads": "Balestrand –Moskog og Eldalsosen – Sande, fylkesvei 55 / fylkesvei 613 / fylkesvei 610",
+      "roads": "fylkesvei 55, fylkesvei 613, fylkesvei 610",
+      "length_km": 114
+    },
+    {
+      "name": "Sognefjellet",
+      "route_and_roads": "Lom – Gaupne, fylkesvei 55",
+      "roads": "fylkesvei 55",
+      "length_km": 108
+    },
+    {
+      "name": "Valdresflye",
+      "route_and_roads": "Garli– Gjende – Hindsæter, fylkesvei 51",
+      "roads": "fylkesvei 51",
+      "length_km": 46
+    },
+    {
+      "name": "Aurlandsfjellet",
+      "route_and_roads": "Aurlandsvangen – Lærdalsøyri, Fylkesvei 5627",
+      "roads": "Fylkesvei 5627",
+      "length_km": 47
+    },
+    {
+      "name": "Hardangervidda",
+      "route_and_roads": "Eidfjord - Haugastøl, riksvei 7",
+      "roads": "riksvei 7",
+      "length_km": 67
+    },
+    {
+      "name": "Hardanger",
+      "route_and_roads": "Steinsdalsfossen – Granvin, Norheimsund – Tørvikbygd, Jondal – Utne og Kinsarvik – Låtefossen, fylkesvei 79 / fylkesvei 49 / fylkesvei 550 / riksvei 13",
+      "roads": "fylkesvei 79, fylkesvei 49, fylkesvei 550, riksvei 13",
+      "length_km": 158
+    },
+    {
+      "name": "Ryfylke",
+      "route_and_roads": "Oanes –Lovra, Lovra til Håra om både Sauda og Nesflaten, riksvei 13 / fylkesvei 46 / fylkesvei 520 / fylkesvei 523",
+      "roads": "riksvei 13, fylkesvei 46, fylkesvei 520, fylkesvei 523",
+      "length_km": 260
+    },
+    {
+      "name": "Jæren",
+      "route_and_roads": "Ogna –Bore, fylkesvei 507 / fylkesvei 44",
+      "roads": "fylkesvei 507, fylkesvei 44",
+      "length_km": 41
+    }
+  ],
+  "meta": {
+    "title": "Nasjonale turistveier i Norge - Free Download",
+    "description": "De 18 nasjonale turistveiene i Norge med strekning, veinummer og lengde i kilometer. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nasjonale turistveier i Norge | ListBase",
+    "seo_description": "Download Nasjonale turistveier i Norge — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Nasjonal_turistvei"
+    ]
+  }
+}
