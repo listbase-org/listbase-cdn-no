@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-28T02:22:43.220Z",
-  "total_datasets": 443,
-  "total_records": 1196395,
+  "generated": "2026-10-28T02:22:45.590Z",
+  "total_datasets": 444,
+  "total_records": 1196503,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -1681,6 +1681,33 @@
         "xlsx": {
           "name": "no-skoler_NO.xlsx",
           "size": 116447
+        }
+      }
+    },
+    {
+      "id": "no-undervisnings-og-kunnskapsministre",
+      "name": "Norges undervisnings- og kunnskapsministre",
+      "category": "education",
+      "record_count": 108,
+      "columns": [
+        "name",
+        "from",
+        "to",
+        "party",
+        "government",
+        "office"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_kirke-_og_undervisningsministre",
+      "updated": "2026-10",
+      "size": 27501,
+      "files": {
+        "csv": {
+          "name": "no-undervisnings-og-kunnskapsministre_NO.csv",
+          "size": 13938
+        },
+        "xlsx": {
+          "name": "no-undervisnings-og-kunnskapsministre_NO.xlsx",
+          "size": 12027
         }
       }
     },
