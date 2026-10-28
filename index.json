@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-28T02:22:40.948Z",
-  "total_datasets": 442,
-  "total_records": 1196254,
+  "generated": "2026-10-28T02:22:43.220Z",
+  "total_datasets": 443,
+  "total_records": 1196395,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -1530,6 +1530,33 @@
         "xlsx": {
           "name": "no-vestland-osm-museer_NO.xlsx",
           "size": 10258
+        }
+      }
+    },
+    {
+      "id": "no-finansministre",
+      "name": "Norges finansministre",
+      "category": "economy",
+      "record_count": 141,
+      "columns": [
+        "no",
+        "name",
+        "from",
+        "to",
+        "party",
+        "government"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_finansminister",
+      "updated": "2026-10",
+      "size": 30825,
+      "files": {
+        "csv": {
+          "name": "no-finansministre_NO.csv",
+          "size": 14792
+        },
+        "xlsx": {
+          "name": "no-finansministre_NO.xlsx",
+          "size": 13785
         }
       }
     },
