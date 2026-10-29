@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-29T02:13:43.268Z",
-  "total_datasets": 448,
-  "total_records": 1196802,
+  "generated": "2026-10-29T02:13:45.618Z",
+  "total_datasets": 449,
+  "total_records": 1196829,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -5047,6 +5047,32 @@
         "xlsx": {
           "name": "no-statsministre_NO.xlsx",
           "size": 9904
+        }
+      }
+    },
+    {
+      "id": "no-stortingsvalget-2025-resultat",
+      "name": "Stortingsvalget 2025 – resultat etter parti",
+      "category": "politics",
+      "record_count": 27,
+      "columns": [
+        "party",
+        "votes",
+        "pct",
+        "seats",
+        "seat_change"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Stortingsvalget_2025",
+      "updated": "2026-10",
+      "size": 5256,
+      "files": {
+        "csv": {
+          "name": "no-stortingsvalget-2025-resultat_NO.csv",
+          "size": 1264
+        },
+        "xlsx": {
+          "name": "no-stortingsvalget-2025-resultat_NO.xlsx",
+          "size": 7870
         }
       }
     },

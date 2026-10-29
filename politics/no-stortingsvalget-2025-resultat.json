@@ -1,0 +1,240 @@
+{
+  "id": "no-stortingsvalget-2025-resultat",
+  "name": "Stortingsvalget 2025 – resultat etter parti",
+  "title": "Stortingsvalget 2025 – resultat etter parti",
+  "description": "Stemmer, oppslutning (%) og mandater for partiene ved stortingsvalget 2025.",
+  "category": "politics",
+  "source": "https://no.wikipedia.org/wiki/Stortingsvalget_2025",
+  "source_url": "https://no.wikipedia.org/wiki/Stortingsvalget_2025",
+  "updated": "2026-10",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "votes",
+      "label": "Votes",
+      "type": "number"
+    },
+    {
+      "key": "pct",
+      "label": "Pct",
+      "type": "number"
+    },
+    {
+      "key": "seats",
+      "label": "Seats",
+      "type": "number"
+    },
+    {
+      "key": "seat_change",
+      "label": "Seat Change",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "party": "Arbeiderpartiet",
+      "votes": 902296,
+      "pct": 28.02,
+      "seats": 53,
+      "seat_change": "+5"
+    },
+    {
+      "party": "Fremskrittspartiet",
+      "votes": 767903,
+      "pct": 23.85,
+      "seats": 47,
+      "seat_change": "+26"
+    },
+    {
+      "party": "Høyre",
+      "votes": 471602,
+      "pct": 14.65,
+      "seats": 24,
+      "seat_change": "–12"
+    },
+    {
+      "party": "Sosialistisk Venstreparti",
+      "votes": 181192,
+      "pct": 5.63,
+      "seats": 9,
+      "seat_change": "–4"
+    },
+    {
+      "party": "Senterpartiet",
+      "votes": 179994,
+      "pct": 5.59,
+      "seats": 9,
+      "seat_change": "–19"
+    },
+    {
+      "party": "Rødt",
+      "votes": 171342,
+      "pct": 5.32,
+      "seats": 9,
+      "seat_change": "+1"
+    },
+    {
+      "party": "Miljøpartiet De Grønne",
+      "votes": 152782,
+      "pct": 4.74,
+      "seats": 8,
+      "seat_change": "+5"
+    },
+    {
+      "party": "Kristelig Folkeparti",
+      "votes": 135230,
+      "pct": 4.2,
+      "seats": 7,
+      "seat_change": "+4"
+    },
+    {
+      "party": "Venstre",
+      "votes": 118941,
+      "pct": 3.69,
+      "seats": 3,
+      "seat_change": "–5"
+    },
+    {
+      "party": "Pensjonistpartiet",
+      "votes": 26839,
+      "pct": 0.83,
+      "seats": 0,
+      "seat_change": "0"
+    },
+    {
+      "party": "Norgesdemokratene",
+      "votes": 23260,
+      "pct": 0.72,
+      "seats": 0,
+      "seat_change": "0"
+    },
+    {
+      "party": "Generasjonspartiet",
+      "votes": 21589,
+      "pct": 0.67,
+      "seats": 0,
+      "seat_change": "0"
+    },
+    {
+      "party": "Industri- og Næringspartiet",
+      "votes": 18771,
+      "pct": 0.58,
+      "seats": 0,
+      "seat_change": "0"
+    },
+    {
+      "party": "Konservativt",
+      "votes": 15507,
+      "pct": 0.48,
+      "seats": 0,
+      "seat_change": "0"
+    },
+    {
+      "party": "Fred og Rettferdighet (FOR)",
+      "votes": 9430,
+      "pct": 0.29,
+      "seats": 0,
+      "seat_change": "0"
+    },
+    {
+      "party": "Partiet Sentrum",
+      "votes": 5701,
+      "pct": 0.18,
+      "seats": 0,
+      "seat_change": "0"
+    },
+    {
+      "party": "Partiet DNI",
+      "votes": 5280,
+      "pct": 0.16,
+      "seats": 0,
+      "seat_change": "Nytt"
+    },
+    {
+      "party": "Velferd og Innovasjonspartiet",
+      "votes": 4932,
+      "pct": 0.15,
+      "seats": 0,
+      "seat_change": "Nytt"
+    },
+    {
+      "party": "Pasientfokus",
+      "votes": 4174,
+      "pct": 0.13,
+      "seats": 0,
+      "seat_change": "–1"
+    },
+    {
+      "party": "Redd Ullevål sykehus",
+      "votes": 2361,
+      "pct": 0.07,
+      "seats": 0,
+      "seat_change": "Nytt"
+    },
+    {
+      "party": "Ensomhetspartiet",
+      "votes": 712,
+      "pct": 0.02,
+      "seats": 0,
+      "seat_change": "Nytt"
+    },
+    {
+      "party": "Norges Kommunistiske Parti",
+      "votes": 50,
+      "pct": 0,
+      "seats": 0,
+      "seat_change": "0"
+    },
+    {
+      "party": "Totalt",
+      "votes": 3219888,
+      "pct": 100,
+      "seats": 169,
+      "seat_change": "0"
+    },
+    {
+      "party": "Gyldige stemmer",
+      "votes": 3219888,
+      "pct": 99.02,
+      "seats": "",
+      "seat_change": ""
+    },
+    {
+      "party": "Ugyldige/blanke stemmer",
+      "votes": 31940,
+      "pct": 0.98,
+      "seats": "",
+      "seat_change": ""
+    },
+    {
+      "party": "Totalt antall stemmer",
+      "votes": 3251828,
+      "pct": 100,
+      "seats": "",
+      "seat_change": ""
+    },
+    {
+      "party": "Stemmeberettigede/valgdeltagelse",
+      "votes": 4059218,
+      "pct": 80.11,
+      "seats": "",
+      "seat_change": ""
+    }
+  ],
+  "meta": {
+    "title": "Stortingsvalget 2025 – resultat etter parti - Free Download",
+    "description": "Stemmer, oppslutning (%) og mandater for partiene ved stortingsvalget 2025. Contains 27 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Stortingsvalget 2025 – resultat etter parti | ListBase",
+    "seo_description": "Download Stortingsvalget 2025 – resultat etter parti — 27 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 27 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Stortingsvalget_2025"
+    ]
+  }
+}
