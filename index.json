@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-29T02:13:40.413Z",
-  "total_datasets": 447,
-  "total_records": 1196790,
+  "generated": "2026-10-29T02:13:43.268Z",
+  "total_datasets": 448,
+  "total_records": 1196802,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -4636,6 +4636,30 @@
         "xlsx": {
           "name": "no-norges-konger_NO.xlsx",
           "size": 12830
+        }
+      }
+    },
+    {
+      "id": "no-samiske-sprak",
+      "name": "Samiske språk",
+      "category": "language",
+      "record_count": 12,
+      "columns": [
+        "language",
+        "extinct",
+        "speakers_or_status"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Samiske_språk",
+      "updated": "2026-10",
+      "size": 2619,
+      "files": {
+        "csv": {
+          "name": "no-samiske-sprak_NO.csv",
+          "size": 466
+        },
+        "xlsx": {
+          "name": "no-samiske-sprak_NO.xlsx",
+          "size": 7079
         }
       }
     },

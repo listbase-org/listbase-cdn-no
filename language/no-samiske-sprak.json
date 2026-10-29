@@ -1,0 +1,101 @@
+{
+  "id": "no-samiske-sprak",
+  "name": "Samiske språk",
+  "title": "Samiske språk",
+  "description": "De samiske språkene med antall talere eller tidspunkt for utdøing.",
+  "category": "language",
+  "source": "https://no.wikipedia.org/wiki/Samiske_språk",
+  "source_url": "https://no.wikipedia.org/wiki/Samiske_språk",
+  "updated": "2026-10",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "extinct",
+      "label": "Extinct",
+      "type": "string"
+    },
+    {
+      "key": "speakers_or_status",
+      "label": "Speakers Or Status",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "language": "Tersamisk",
+      "extinct": "ja",
+      "speakers_or_status": "utdødd på 2010-tallet"
+    },
+    {
+      "language": "Kildinsamisk",
+      "extinct": "nei",
+      "speakers_or_status": "800 stk."
+    },
+    {
+      "language": "Akkalasamisk",
+      "extinct": "ja",
+      "speakers_or_status": "utdødd 2003"
+    },
+    {
+      "language": "Skoltesamisk/østsamisk",
+      "extinct": "nei",
+      "speakers_or_status": "~400 stk."
+    },
+    {
+      "language": "Enaresamisk",
+      "extinct": "nei",
+      "speakers_or_status": "300 stk."
+    },
+    {
+      "language": "Kemisamisk",
+      "extinct": "ja",
+      "speakers_or_status": "utdødd ca. 1850"
+    },
+    {
+      "language": "Kajanasamisk",
+      "extinct": "ja",
+      "speakers_or_status": "utdødd ca. 1700"
+    },
+    {
+      "language": "Nordsamisk",
+      "extinct": "nei",
+      "speakers_or_status": "20 000–25 000 stk.?"
+    },
+    {
+      "language": "Lulesamisk",
+      "extinct": "nei",
+      "speakers_or_status": "650 stk."
+    },
+    {
+      "language": "Pitesamisk",
+      "extinct": "nei",
+      "speakers_or_status": "20 stk."
+    },
+    {
+      "language": "Umesamisk",
+      "extinct": "nei",
+      "speakers_or_status": "~10 stk."
+    },
+    {
+      "language": "Sørsamisk",
+      "extinct": "nei",
+      "speakers_or_status": "600 stk."
+    }
+  ],
+  "meta": {
+    "title": "Samiske språk - Free Download",
+    "description": "De samiske språkene med antall talere eller tidspunkt for utdøing. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Samiske språk | ListBase",
+    "seo_description": "Download Samiske språk — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Samiske_språk"
+    ]
+  }
+}
