@@ -1,0 +1,126 @@
+{
+  "id": "no-departementer",
+  "name": "Norges departementer",
+  "title": "Norges departementer",
+  "description": "Dagens departementer i Norge med forkortelse og opprettelsesår.",
+  "category": "politics",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_departementer",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_departementer",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "abbreviation",
+      "label": "Abbreviation",
+      "type": "string"
+    },
+    {
+      "key": "since",
+      "label": "Since",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Arbeids- og inkluderingsdepartementet",
+      "abbreviation": "AID",
+      "since": "2004"
+    },
+    {
+      "name": "Barne- og familiedepartementet",
+      "abbreviation": "BFD",
+      "since": "1956"
+    },
+    {
+      "name": "Digitaliserings- og forvaltningsdepartementet",
+      "abbreviation": "DFD",
+      "since": "2024"
+    },
+    {
+      "name": "Energidepartementet",
+      "abbreviation": "ED",
+      "since": "1997"
+    },
+    {
+      "name": "Finansdepartementet",
+      "abbreviation": "FIN",
+      "since": "1819"
+    },
+    {
+      "name": "Forsvarsdepartementet",
+      "abbreviation": "FD",
+      "since": "1885"
+    },
+    {
+      "name": "Helse- og omsorgsdepartementet",
+      "abbreviation": "HOD",
+      "since": "2004"
+    },
+    {
+      "name": "Justis- og beredskapsdepartementet",
+      "abbreviation": "JD",
+      "since": "1819"
+    },
+    {
+      "name": "Klima- og miljødepartementet",
+      "abbreviation": "KLD",
+      "since": "1972"
+    },
+    {
+      "name": "Kommunal- og distriktsdepartementet",
+      "abbreviation": "KDD",
+      "since": "1948"
+    },
+    {
+      "name": "Kultur- og likestillingsdepartementet",
+      "abbreviation": "KUD",
+      "since": "1990"
+    },
+    {
+      "name": "Kunnskapsdepartementet",
+      "abbreviation": "KD",
+      "since": "2006"
+    },
+    {
+      "name": "Landbruks- og matdepartementet",
+      "abbreviation": "LMD",
+      "since": "1900"
+    },
+    {
+      "name": "Nærings- og fiskeridepartementet",
+      "abbreviation": "NFD",
+      "since": "2014"
+    },
+    {
+      "name": "Samferdselsdepartementet",
+      "abbreviation": "SD",
+      "since": "1946"
+    },
+    {
+      "name": "Statsministerens kontor",
+      "abbreviation": "SMK",
+      "since": "1945"
+    },
+    {
+      "name": "Utenriksdepartementet",
+      "abbreviation": "UD",
+      "since": "1905"
+    }
+  ],
+  "meta": {
+    "title": "Norges departementer - Free Download",
+    "description": "Dagens departementer i Norge med forkortelse og opprettelsesår. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges departementer | ListBase",
+    "seo_description": "Download Norges departementer — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_departementer"
+    ]
+  }
+}

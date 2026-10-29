@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-29T02:13:34.063Z",
-  "total_datasets": 445,
-  "total_records": 1196701,
+  "generated": "2026-10-29T02:13:37.652Z",
+  "total_datasets": 446,
+  "total_records": 1196718,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "reference",
@@ -4843,6 +4843,30 @@
         "xlsx": {
           "name": "no-osm-natural-rock_NO.xlsx",
           "size": 19935
+        }
+      }
+    },
+    {
+      "id": "no-departementer",
+      "name": "Norges departementer",
+      "category": "politics",
+      "record_count": 17,
+      "columns": [
+        "name",
+        "abbreviation",
+        "since"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_departementer",
+      "updated": "2026-10",
+      "size": 3187,
+      "files": {
+        "csv": {
+          "name": "no-departementer_NO.csv",
+          "size": 787
+        },
+        "xlsx": {
+          "name": "no-departementer_NO.xlsx",
+          "size": 7321
         }
       }
     },
