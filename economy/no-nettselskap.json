@@ -1,0 +1,555 @@
+{
+  "id": "no-nettselskap",
+  "name": "Norske nettselskap",
+  "title": "Norske nettselskap",
+  "description": "Norske nettselskap (strømnett) med tidligere navn, eierselskap, geografisk område og antall sluttbrukere.",
+  "category": "economy",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_nettselskap",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_nettselskap",
+  "updated": "2026-10",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "former_names",
+      "label": "Former Names",
+      "type": "string"
+    },
+    {
+      "key": "parent_energy_company",
+      "label": "Parent Energy Company",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "end_users",
+      "label": "End Users",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alut",
+      "former_names": "Alta Kraftlag Nett",
+      "parent_energy_company": "Alta Kraftlag",
+      "area": "Alta og deler av Kvænangen og Loppa",
+      "end_users": 14134
+    },
+    {
+      "name": "Area Nett",
+      "former_names": "Nettinord, Lega Nett, Luostejok Nett",
+      "parent_energy_company": "Infranord",
+      "area": "Karasjok , Porsanger , Måsøy , Nordkapp , Lebesby og Gamvik . Opererer med ulike tariffer for de tidligere konsesjonsområdene Nettinord, Lega og Luostejok.",
+      "end_users": 10700
+    },
+    {
+      "name": "Arva",
+      "former_names": "Troms Kraft Nett, Nordlandsnett",
+      "parent_energy_company": "Troms Kraft",
+      "area": "Deler av Salten og Troms",
+      "end_users": 123982
+    },
+    {
+      "name": "Asker Nett",
+      "former_names": "Hurum Nett",
+      "parent_energy_company": "Å Energi via Glitre Nett",
+      "area": "Tidligere Hurum kommune",
+      "end_users": 7646
+    },
+    {
+      "name": "Barents Nett",
+      "former_names": "Varanger Kraft Nett",
+      "parent_energy_company": "Varanger Kraft",
+      "area": "Øst- Finnmark",
+      "end_users": 17327
+    },
+    {
+      "name": "Bindal Kraftnett",
+      "former_names": "Bindal Kraftlag SA",
+      "parent_energy_company": "Bindal Kraftlag",
+      "area": "Bindal kommune",
+      "end_users": 1254
+    },
+    {
+      "name": "BKK Nett",
+      "former_names": "",
+      "parent_energy_company": "Eviny",
+      "area": "Sunnfjord og ytre deler av Vestland (tidligere Hordaland)",
+      "end_users": 265615
+    },
+    {
+      "name": "Breheim Nett",
+      "former_names": "Luster Nett",
+      "parent_energy_company": "Luster Energiverk",
+      "area": "Luster kommune",
+      "end_users": 3962
+    },
+    {
+      "name": "Bømlo Kraftnett",
+      "former_names": "",
+      "parent_energy_company": "Finnås Kraftlag",
+      "area": "Bømlo kommune",
+      "end_users": 8657
+    },
+    {
+      "name": "De Nett",
+      "former_names": "Drangedal Everk",
+      "parent_energy_company": "Drangedal Kraft",
+      "area": "Drangedal kommune",
+      "end_users": 4017
+    },
+    {
+      "name": "Elinett",
+      "former_names": "Istad Nett",
+      "parent_energy_company": "Istad",
+      "area": "Aukra , Hustadvika , Gjemnes og Molde",
+      "end_users": 32739
+    },
+    {
+      "name": "Elvenett",
+      "former_names": "",
+      "parent_energy_company": "Elverum Energi",
+      "area": "Elverum kommune",
+      "end_users": 12000
+    },
+    {
+      "name": "Elmea",
+      "former_names": "LofotkraftNett",
+      "parent_energy_company": "Lofotkraft",
+      "area": "Ytre deler av Lofoten",
+      "end_users": 17762
+    },
+    {
+      "name": "Elvia",
+      "former_names": "Hafslund Nett, Eidsiva Nett, Stange Energi Nett",
+      "parent_energy_company": "Eidsiva Energi",
+      "area": "Deler av Innlandet , Akershus og Østfold",
+      "end_users": 974391
+    },
+    {
+      "name": "Enida",
+      "former_names": "Dalane Nett",
+      "parent_energy_company": "Dalane Energi",
+      "area": "Bjerkreim , Lund , Eigersund og Sokndal",
+      "end_users": 15574
+    },
+    {
+      "name": "Etna Nett",
+      "former_names": "Etnedal Energi Nett",
+      "parent_energy_company": "Etnedal Energi",
+      "area": "Etnedal kommune",
+      "end_users": 1500
+    },
+    {
+      "name": "Everket",
+      "former_names": "Notodden Energi Nett",
+      "parent_energy_company": "Notodden Energi",
+      "area": "Notodden kommune",
+      "end_users": 7781
+    },
+    {
+      "name": "Fagne",
+      "former_names": "Haugaland Kraft Nett, Odda Energi Nett",
+      "parent_energy_company": "Haugaland Kraft",
+      "area": "Haugalandet , Sunnhordland , Ryfylke og Hardanger",
+      "end_users": 95273
+    },
+    {
+      "name": "Fjellnett",
+      "former_names": "Eidefoss Nett",
+      "parent_energy_company": "Eidefoss",
+      "area": "Dovre , Lesja , Lom , Sel og Vågå",
+      "end_users": 14678
+    },
+    {
+      "name": "Føie",
+      "former_names": "Ringeriks-Kraft Nett, Nore Energi, Hallingdal Kraftnett, Hemsil Nett",
+      "parent_energy_company": "",
+      "area": "Gol , Ål , Hol , Nesbyen , Flå , Hemsedal , Ringerike , Hole og tidligere Nore",
+      "end_users": 60641
+    },
+    {
+      "name": "Føre",
+      "former_names": "Midtnett-Telemark",
+      "parent_energy_company": "Telemark Energi",
+      "area": "Midt-Telemark og Nome",
+      "end_users": 11403
+    },
+    {
+      "name": "Glitre Nett",
+      "former_names": "Agder Energi Nett, Glitre Energi Nett, Norgesnett",
+      "parent_energy_company": "Å Energi , Fredrikstad Energi",
+      "area": "Agder , Hadeland , Drammen , Lier og Kongsberg . Askøy , Røyken , Nesodden , Nordre Follo , Enebakk , Fredrikstad og Hvaler",
+      "end_users": 419589
+    },
+    {
+      "name": "Griug",
+      "former_names": "Valdres Energi Nett",
+      "parent_energy_company": "Valdres Energi",
+      "area": "Vestre Slidre , Øystre Slidre og Nord-Aurdal",
+      "end_users": 16578
+    },
+    {
+      "name": "Haringnett",
+      "former_names": "Kvam Energi Nett",
+      "parent_energy_company": "Kvam Energi",
+      "area": "Kvam herad",
+      "end_users": 7610
+    },
+    {
+      "name": "Havnett",
+      "former_names": "",
+      "parent_energy_company": "Austevoll Kraftlag",
+      "area": "Austevoll kommune",
+      "end_users": 4780
+    },
+    {
+      "name": "Herøya Nett",
+      "former_names": "",
+      "parent_energy_company": "",
+      "area": "Herøya , Porsgrunn",
+      "end_users": ""
+    },
+    {
+      "name": "Høland og Setskog Elverk",
+      "former_names": "El-Verket Høland",
+      "parent_energy_company": "Skodre",
+      "area": "Søndre del av Aurskog-Høland",
+      "end_users": 6843
+    },
+    {
+      "name": "Indre Hordaland Kraftnett",
+      "former_names": "Hardanger Energi",
+      "parent_energy_company": "Energiselskapet Hardanger",
+      "area": "Eidfjord , Ullensvang og Ulvik",
+      "end_users": 7118
+    },
+    {
+      "name": "Jæren Everk",
+      "former_names": "",
+      "parent_energy_company": "Hå Energi",
+      "area": "Hå kommune",
+      "end_users": 9380
+    },
+    {
+      "name": "KE Nett",
+      "former_names": "Klepp Energi",
+      "parent_energy_company": "Klepp Energi",
+      "area": "Klepp kommune",
+      "end_users": 9686
+    },
+    {
+      "name": "Klive",
+      "former_names": "NØK Nett",
+      "parent_energy_company": "Nord-Østerdal Kraftlag",
+      "area": "Rendalen og Østerdalen",
+      "end_users": 11703
+    },
+    {
+      "name": "Kystnett",
+      "former_names": "Nord-Salten Kraft Nett",
+      "parent_energy_company": "Nord-Salten Kraft",
+      "area": "Hamarøy , Steigen , nordre Sørfold og Kjøpsvik i Narvik",
+      "end_users": 6858
+    },
+    {
+      "name": "Lede",
+      "former_names": "Skagerak Nett, Hjartdal Elverk",
+      "parent_energy_company": "Skagerak Energi",
+      "area": "Vestfold , Grenland og Hjartdal",
+      "end_users": 216104
+    },
+    {
+      "name": "Linea",
+      "former_names": "Helgeland Kraft Nett",
+      "parent_energy_company": "Helgeland Kraft",
+      "area": "Sørlige Nordland",
+      "end_users": 47049
+    },
+    {
+      "name": "Linja",
+      "former_names": "",
+      "parent_energy_company": "Tafjord Kraft , SFE og Tussa Kraft",
+      "area": "Nordfjord og Møre",
+      "end_users": 26217
+    },
+    {
+      "name": "Lnett",
+      "former_names": "Lyse Elnett",
+      "parent_energy_company": "Lyse",
+      "area": "Rogaland",
+      "end_users": 162906
+    },
+    {
+      "name": "Lucerna",
+      "former_names": "Hammerfest Energi Nett",
+      "parent_energy_company": "Hammerfest Energi",
+      "area": "Hammerfest og Hasvik",
+      "end_users": 8176
+    },
+    {
+      "name": "Lysna",
+      "former_names": "Fusa Kraftlag",
+      "parent_energy_company": "Fusa Kraftlag",
+      "area": "Tidligere Fusa kommune",
+      "end_users": 3921
+    },
+    {
+      "name": "Mellom",
+      "former_names": "Neas Nett",
+      "parent_energy_company": "Neas",
+      "area": "Ytre Nordmøre",
+      "end_users": 26862
+    },
+    {
+      "name": "Meløy Energi",
+      "former_names": "Meløy Nett",
+      "parent_energy_company": "Lysvatn",
+      "area": "Meløy kommune",
+      "end_users": 4899
+    },
+    {
+      "name": "Midtnett",
+      "former_names": "Midtkraft Nett",
+      "parent_energy_company": "Kraftia Energi",
+      "area": "Flesberg , Modum og Sigdal",
+      "end_users": 19278
+    },
+    {
+      "name": "Modalen Kraftlag SA",
+      "former_names": "",
+      "parent_energy_company": "",
+      "area": "Modalen kommune",
+      "end_users": 433
+    },
+    {
+      "name": "Netera",
+      "former_names": "Sunndal Energi Nett, SuNett",
+      "parent_energy_company": "Sunndal Energi",
+      "area": "Sunndal kommune",
+      "end_users": 5070
+    },
+    {
+      "name": "Nettselskapet",
+      "former_names": "Fosen Nett, Orkdal Energinett, Sodvin Nett",
+      "parent_energy_company": "",
+      "area": "Heim , Ørland og deler av Indre Fosen og Orkland",
+      "end_users": 24646
+    },
+    {
+      "name": "Noranett Andøy",
+      "former_names": "Andøy Energi Nett",
+      "parent_energy_company": "Nordkraft",
+      "area": "Andøy kommune",
+      "end_users": 3594
+    },
+    {
+      "name": "Noranett",
+      "former_names": "Hålogaland Kraft Nett",
+      "parent_energy_company": "Nordkraft",
+      "area": "Harstad , Kvæfjord , Lødingen , Tjeldsund , Ibestad , Gratangen og Narvik",
+      "end_users": 42648
+    },
+    {
+      "name": "Noranett Hadsel",
+      "former_names": "Trollfjord Nett",
+      "parent_energy_company": "Nordkraft",
+      "area": "Hadsel kommune",
+      "end_users": 5706
+    },
+    {
+      "name": "Nordvest Nett",
+      "former_names": "",
+      "parent_energy_company": "Vestnes Energi",
+      "area": "Skodje , Vestnes , Haram og Ørskog",
+      "end_users": 16376
+    },
+    {
+      "name": "Norefjell Nett",
+      "former_names": "Krødsherad Everk",
+      "parent_energy_company": "Krødsherad Energi",
+      "area": "Krødsherad kommune",
+      "end_users": 3451
+    },
+    {
+      "name": "R-Nett",
+      "former_names": "Rollag Elektrisitetsverk",
+      "parent_energy_company": "Rollag Energi",
+      "area": "Rollag kommune",
+      "end_users": 2747
+    },
+    {
+      "name": "RK Nett",
+      "former_names": "",
+      "parent_energy_company": "Rauland Kraftforsyningslag",
+      "area": "Tidligere Rauland",
+      "end_users": 5138
+    },
+    {
+      "name": "Romsdalsnett",
+      "former_names": "Rauma Energi",
+      "parent_energy_company": "Rauma Energi",
+      "area": "Rauma kommune",
+      "end_users": 5447
+    },
+    {
+      "name": "S-Nett",
+      "former_names": "Svorka Nett",
+      "parent_energy_company": "Svorka Energi",
+      "area": "Surnadal , Rindal og Halsa",
+      "end_users": 7232
+    },
+    {
+      "name": "Stannum",
+      "former_names": "Tinn Energi Nett",
+      "parent_energy_company": "Tinn Energi",
+      "area": "Tinn kommune",
+      "end_users": 7896
+    },
+    {
+      "name": "Stram",
+      "former_names": "ISE Nett, iSalten Nett",
+      "parent_energy_company": "Indre Salten Energi",
+      "area": "Fauske og Sørfold",
+      "end_users": 8189
+    },
+    {
+      "name": "Straumen Nett",
+      "former_names": "Sykkylven Energi",
+      "parent_energy_company": "Sykkylven Energi",
+      "area": "Sykkylven kommune",
+      "end_users": 5032
+    },
+    {
+      "name": "Straumnett",
+      "former_names": "Årdal Energi Nett",
+      "parent_energy_company": "Årdal Energi",
+      "area": "Årdal kommune",
+      "end_users": 3621
+    },
+    {
+      "name": "Svabo Industrinett",
+      "former_names": "MIP Industrinett",
+      "parent_energy_company": "Mo Industripark",
+      "area": "Mo i Rana",
+      "end_users": 174
+    },
+    {
+      "name": "Sygnir",
+      "former_names": "Lærdal Energi Nett, Aurland Energi Nett, SognekraftNett",
+      "parent_energy_company": "Sognekraft",
+      "area": "Aurland , Lærdal , Sogndal og Vik",
+      "end_users": 13573
+    },
+    {
+      "name": "Sør Aurdal Energi",
+      "former_names": "",
+      "parent_energy_company": "",
+      "area": "Sør-Aurdal kommune",
+      "end_users": 3364
+    },
+    {
+      "name": "TNett",
+      "former_names": "Vest-Telemark Kraftlag Nett",
+      "parent_energy_company": "Vest-Telemark Kraftlag",
+      "area": "Fyresdal , Kviteseid , Nissedal , Seljord , Tokke og Vinje",
+      "end_users": 15083
+    },
+    {
+      "name": "Tinfos Nett",
+      "former_names": "",
+      "parent_energy_company": "Tinfos",
+      "area": "Notodden (deler)",
+      "end_users": 2000
+    },
+    {
+      "name": "Tendranett",
+      "former_names": "Vonett",
+      "parent_energy_company": "Voss Energi",
+      "area": "Voss herad",
+      "end_users": 12580
+    },
+    {
+      "name": "Tensio TN",
+      "former_names": "NTE Nett",
+      "parent_energy_company": "Tensio",
+      "area": "Nord-Trøndelag",
+      "end_users": 91042
+    },
+    {
+      "name": "Tensio TS",
+      "former_names": "Trønderenergi Nett",
+      "parent_energy_company": "Tensio",
+      "area": "Sør-Trøndelag",
+      "end_users": 182549
+    },
+    {
+      "name": "Uvdal Kraftforsyning SA",
+      "former_names": "",
+      "parent_energy_company": "",
+      "area": "Uvdal",
+      "end_users": 2368
+    },
+    {
+      "name": "Vang Energiverk",
+      "former_names": "",
+      "parent_energy_company": "Jotun",
+      "area": "Vang kommune",
+      "end_users": 2641
+    },
+    {
+      "name": "Vestall",
+      "former_names": "Vesterålskraft Nett",
+      "parent_energy_company": "Vesterålskraft",
+      "area": "Kvæfjord , Sortland og Øksnes",
+      "end_users": 12031
+    },
+    {
+      "name": "Vestmar Nett",
+      "former_names": "Kragerø Energi",
+      "parent_energy_company": "Kragerø Energi",
+      "area": "Kragerø kommune",
+      "end_users": 10079
+    },
+    {
+      "name": "Vevig",
+      "former_names": "Gudbrandsdal Energi Nett, Skiakernett",
+      "parent_energy_company": "Gudbrandsdal Energi",
+      "area": "Nord-Fron , Sør-Fron , Ringebu , Øyer og Skjåk",
+      "end_users": 24915
+    },
+    {
+      "name": "Viermie",
+      "former_names": "Røros E-verk Nett",
+      "parent_energy_company": "Ren Røros",
+      "area": "Røros kommune",
+      "end_users": 6837
+    },
+    {
+      "name": "Vissi",
+      "former_names": "Ymber Nett",
+      "parent_energy_company": "Ymber",
+      "area": "Kautokeino , Kåfjord , Nordreisa , Skjervøy og deler av Loppa og Kvænangen",
+      "end_users": 9545
+    }
+  ],
+  "meta": {
+    "title": "Norske nettselskap - Free Download",
+    "description": "Norske nettselskap (strømnett) med tidligere navn, eierselskap, geografisk område og antall sluttbrukere. Contains 72 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norske nettselskap | ListBase",
+    "seo_description": "Download Norske nettselskap — 72 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 72 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_nettselskap"
+    ]
+  }
+}

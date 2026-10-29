@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-29T02:13:37.652Z",
-  "total_datasets": 446,
-  "total_records": 1196718,
+  "generated": "2026-10-29T02:13:40.413Z",
+  "total_datasets": 447,
+  "total_records": 1196790,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -1557,6 +1557,32 @@
         "xlsx": {
           "name": "no-finansministre_NO.xlsx",
           "size": 13785
+        }
+      }
+    },
+    {
+      "id": "no-nettselskap",
+      "name": "Norske nettselskap",
+      "category": "economy",
+      "record_count": 72,
+      "columns": [
+        "name",
+        "former_names",
+        "parent_energy_company",
+        "area",
+        "end_users"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_nettselskap",
+      "updated": "2026-10",
+      "size": 16074,
+      "files": {
+        "csv": {
+          "name": "no-nettselskap_NO.csv",
+          "size": 6280
+        },
+        "xlsx": {
+          "name": "no-nettselskap_NO.xlsx",
+          "size": 10911
         }
       }
     },
