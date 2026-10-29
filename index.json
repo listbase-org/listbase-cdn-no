@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-28T02:22:45.590Z",
-  "total_datasets": 444,
-  "total_records": 1196503,
+  "generated": "2026-10-29T02:13:34.063Z",
+  "total_datasets": 445,
+  "total_records": 1196701,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -11903,6 +11903,37 @@
         "xlsx": {
           "name": "no-helligdager-completos_NO.xlsx",
           "size": 63820
+        }
+      }
+    },
+    {
+      "id": "no-alpinanlegg",
+      "name": "Alpinanlegg i Norge",
+      "category": "tourism",
+      "record_count": 198,
+      "columns": [
+        "name",
+        "place",
+        "municipality",
+        "county",
+        "lifts",
+        "slopes",
+        "vertical_drop_m",
+        "top_masl",
+        "slope_km",
+        "coordinates"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_alpinanlegg",
+      "updated": "2026-10",
+      "size": 63129,
+      "files": {
+        "csv": {
+          "name": "no-alpinanlegg_NO.csv",
+          "size": 22584
+        },
+        "xlsx": {
+          "name": "no-alpinanlegg_NO.xlsx",
+          "size": 20838
         }
       }
     },
