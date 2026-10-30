@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-30T02:32:54.455Z",
-  "total_datasets": 452,
-  "total_records": 1197535,
+  "generated": "2026-10-30T02:33:02.398Z",
+  "total_datasets": 453,
+  "total_records": 1197575,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "time",
@@ -11962,6 +11962,35 @@
         "xlsx": {
           "name": "no-uefa-mesterligaen-kamper_NO.xlsx",
           "size": 146534
+        }
+      }
+    },
+    {
+      "id": "no-datatreff",
+      "name": "Store norske datatreff (LAN-party)",
+      "category": "tech",
+      "record_count": 40,
+      "columns": [
+        "navn",
+        "forste_ar",
+        "antall_deltagere",
+        "antall_stab",
+        "antall_medvirkende",
+        "sted",
+        "tidspunkt",
+        "merknad"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_store_norske_datatreff",
+      "updated": "2026-10",
+      "size": 13235,
+      "files": {
+        "csv": {
+          "name": "no-datatreff_NO.csv",
+          "size": 4467
+        },
+        "xlsx": {
+          "name": "no-datatreff_NO.xlsx",
+          "size": 9999
         }
       }
     },

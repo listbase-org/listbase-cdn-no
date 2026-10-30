@@ -1,0 +1,466 @@
+{
+  "id": "no-datatreff",
+  "name": "Store norske datatreff (LAN-party)",
+  "title": "Store norske datatreff (LAN-party)",
+  "description": "Norske datatreff og LAN-party med første år, antall deltakere, stab og medvirkende, sted og tidspunkt.",
+  "category": "tech",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_store_norske_datatreff",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_store_norske_datatreff",
+  "updated": "2026-10",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "forste_ar",
+      "label": "Forste Ar",
+      "type": "number"
+    },
+    {
+      "key": "antall_deltagere",
+      "label": "Antall Deltagere",
+      "type": "number"
+    },
+    {
+      "key": "antall_stab",
+      "label": "Antall Stab",
+      "type": "number"
+    },
+    {
+      "key": "antall_medvirkende",
+      "label": "Antall Medvirkende",
+      "type": "number"
+    },
+    {
+      "key": "sted",
+      "label": "Sted",
+      "type": "string"
+    },
+    {
+      "key": "tidspunkt",
+      "label": "Tidspunkt",
+      "type": "string"
+    },
+    {
+      "key": "merknad",
+      "label": "Merknad",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "AgderLAN",
+      "forste_ar": 2012,
+      "antall_deltagere": "250",
+      "antall_stab": 75,
+      "antall_medvirkende": 325,
+      "sted": "Hisøyhallen, Arendal",
+      "tidspunkt": "Vinterferie",
+      "merknad": "435 deltakere i 2019. Flytter til Sparebanken Norge Amfi i 2026."
+    },
+    {
+      "navn": "Area51-LAN",
+      "forste_ar": 2000,
+      "antall_deltagere": "200",
+      "antall_stab": 20,
+      "antall_medvirkende": "",
+      "sted": "Sulahallen, Langevåg",
+      "tidspunkt": "November",
+      "merknad": ""
+    },
+    {
+      "navn": "BreiLAN",
+      "forste_ar": 2020,
+      "antall_deltagere": "100",
+      "antall_stab": 40,
+      "antall_medvirkende": 110,
+      "sted": "Breivang VGS, Tromsø",
+      "tidspunkt": "Høst, vinter og vår",
+      "merknad": "Antall deltagere og medvirkende vil variere fra hvert LAN."
+    },
+    {
+      "navn": "ByLAN",
+      "forste_ar": 2002,
+      "antall_deltagere": "Se merknad.",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Vestlandshallen , Bergen",
+      "tidspunkt": "",
+      "merknad": "Ikke arrangert siden 2017. Ca 900 deltagere i 2017."
+    },
+    {
+      "navn": "Errors Party",
+      "forste_ar": 1994,
+      "antall_deltagere": "220",
+      "antall_stab": "",
+      "antall_medvirkende": 220,
+      "sted": "Meland Aktiv , Meland",
+      "tidspunkt": "Romjul, påske",
+      "merknad": ""
+    },
+    {
+      "navn": "FredrikstadLAN",
+      "forste_ar": 2010,
+      "antall_deltagere": "650",
+      "antall_stab": 50,
+      "antall_medvirkende": 700,
+      "sted": "Kongstenhallen , Fredrikstad",
+      "tidspunkt": "September/november",
+      "merknad": ""
+    },
+    {
+      "navn": "GalaxeLAN",
+      "forste_ar": 2008,
+      "antall_deltagere": "500",
+      "antall_stab": 36,
+      "antall_medvirkende": 540,
+      "sted": "Skien Fritidspark , Telemark",
+      "tidspunkt": "Høstferien",
+      "merknad": "CS:GO, Heartstone, Pubg, Rocket League, Super Smash compoer. 50k i premier."
+    },
+    {
+      "navn": "HordaLAN Dataparty",
+      "forste_ar": 2011,
+      "antall_deltagere": "700",
+      "antall_stab": 140,
+      "antall_medvirkende": 840,
+      "sted": "Sotra Arena , Straume",
+      "tidspunkt": "Vinterferie",
+      "merknad": ""
+    },
+    {
+      "navn": "LundLAN",
+      "forste_ar": 2011,
+      "antall_deltagere": "100",
+      "antall_stab": 20,
+      "antall_medvirkende": 120,
+      "sted": "Roligheden gård, Kristiansand",
+      "tidspunkt": "Vår og Høst",
+      "merknad": "Ledere: Jonas Mydland (2016-2020) Jakob Skarning Andersen (2020-)"
+    },
+    {
+      "navn": "Gigacon",
+      "forste_ar": 2014,
+      "antall_deltagere": "Se merknad.",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Exporama, Oslo",
+      "tidspunkt": "Høstferien",
+      "merknad": "Avviklet i 2018. Hadde ca 2000 deltagere og 150 crew toppåret."
+    },
+    {
+      "navn": "HadeLAN",
+      "forste_ar": 2007,
+      "antall_deltagere": "320",
+      "antall_stab": 24,
+      "antall_medvirkende": 344,
+      "sted": "Lunnerhallen , Roa",
+      "tidspunkt": "Februar",
+      "merknad": ""
+    },
+    {
+      "navn": "IPX",
+      "forste_ar": 1998,
+      "antall_deltagere": "350",
+      "antall_stab": 50,
+      "antall_medvirkende": 600,
+      "sted": "Stord idrettspark , Leirvik",
+      "tidspunkt": "Høstferie",
+      "merknad": "Hadde sin forgjenger fra 1994 til 1999 på Stord. Ikke arrangert mellom 2009 og 2014."
+    },
+    {
+      "navn": "bLAN",
+      "forste_ar": 1999,
+      "antall_deltagere": "200",
+      "antall_stab": 30,
+      "antall_medvirkende": 230,
+      "sted": "Breimshallen , Gloppen",
+      "tidspunkt": "Høstferie, vinterferie.",
+      "merknad": ""
+    },
+    {
+      "navn": "LoVe LAN",
+      "forste_ar": 2005,
+      "antall_deltagere": "350",
+      "antall_stab": 32,
+      "antall_medvirkende": 382,
+      "sted": "Vesterålshallen , Melbu",
+      "tidspunkt": "Februar",
+      "merknad": ""
+    },
+    {
+      "navn": "MultiLAN",
+      "forste_ar": 2000,
+      "antall_deltagere": "280",
+      "antall_stab": 30,
+      "antall_medvirkende": 310,
+      "sted": "Mørkvedhallen , Bodø",
+      "tidspunkt": "November",
+      "merknad": ""
+    },
+    {
+      "navn": "NaIT",
+      "forste_ar": 2000,
+      "antall_deltagere": "Se merknad.",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Narvikhallen , Narvik",
+      "tidspunkt": "Høstferie",
+      "merknad": "Ikke arrangert siden 2008. 500 deltagere i toppåret."
+    },
+    {
+      "navn": "Nemean",
+      "forste_ar": 2006,
+      "antall_deltagere": "300",
+      "antall_stab": 40,
+      "antall_medvirkende": 340,
+      "sted": "Hemnehallen , Kyrksæterøra",
+      "tidspunkt": "Februar + oktober",
+      "merknad": ""
+    },
+    {
+      "navn": "OFFroadLAN",
+      "forste_ar": 1999,
+      "antall_deltagere": "400",
+      "antall_stab": 15,
+      "antall_medvirkende": 415,
+      "sted": "Åmlihallen , Åmli",
+      "tidspunkt": "Vinterferie + høstferie",
+      "merknad": ""
+    },
+    {
+      "navn": "Polar Party",
+      "forste_ar": 1997,
+      "antall_deltagere": "900",
+      "antall_stab": 75,
+      "antall_medvirkende": 975,
+      "sted": "Slagenhallen , Tønsberg",
+      "tidspunkt": "Høstferie",
+      "merknad": ""
+    },
+    {
+      "navn": "RogaHack",
+      "forste_ar": 2014,
+      "antall_deltagere": "600",
+      "antall_stab": 60,
+      "antall_medvirkende": 660,
+      "sted": "Sandneshallen , Sandnes",
+      "tidspunkt": "Påske",
+      "merknad": ""
+    },
+    {
+      "navn": "Solskogen",
+      "forste_ar": 2002,
+      "antall_deltagere": "175",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Flateby samfunnshus , Flateby",
+      "tidspunkt": "Juli",
+      "merknad": "Største demoparty i Skandinavia. [ trenger referanse ]"
+    },
+    {
+      "navn": "Sørlanet",
+      "forste_ar": 2009,
+      "antall_deltagere": "Se merknad.",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Gimlehallen , Kristiansand",
+      "tidspunkt": "Høstferie",
+      "merknad": "Ikke arrangert siden 2016. 500 deltagere i toppåret."
+    },
+    {
+      "navn": "TGEX",
+      "forste_ar": 2018,
+      "antall_deltagere": "294",
+      "antall_stab": 35,
+      "antall_medvirkende": 329,
+      "sted": "TUIL-Hallen, Tromsø",
+      "tidspunkt": "Vinterferie",
+      "merknad": "Overtok for TromsøLAN i 2018"
+    },
+    {
+      "navn": "The Computer Party",
+      "forste_ar": 1999,
+      "antall_deltagere": "Se merknad.",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Skåredalen Kultur og Idrettsenter , Haugesund",
+      "tidspunkt": "Vinterferie + høstferie",
+      "merknad": "Ikke arrangert siden 2007. 300 deltagere i toppåret."
+    },
+    {
+      "navn": "The Convention",
+      "forste_ar": 1995,
+      "antall_deltagere": "1000",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Braatthallen , Kristiansund",
+      "tidspunkt": "Vinterferie",
+      "merknad": ""
+    },
+    {
+      "navn": "The Experience",
+      "forste_ar": 2006,
+      "antall_deltagere": "1500",
+      "antall_stab": 150,
+      "antall_medvirkende": "",
+      "sted": "Vallhall , Oslo",
+      "tidspunkt": "Høstferie",
+      "merknad": "Arrangert av Hardware.no. Først som HW-LAN i 2006, deretter som The Experience i 2007."
+    },
+    {
+      "navn": "The Gathering",
+      "forste_ar": 1992,
+      "antall_deltagere": "2200",
+      "antall_stab": 400,
+      "antall_medvirkende": 5500,
+      "sted": "Vikingskipet , Hamar",
+      "tidspunkt": "Påske",
+      "merknad": "Norges største datatreff. 5200 deltakere på det meste. 2200 deltakere i 2023."
+    },
+    {
+      "navn": "TromsøLAN",
+      "forste_ar": 1998,
+      "antall_deltagere": "722",
+      "antall_stab": 32,
+      "antall_medvirkende": 768,
+      "sted": "Tromsøhallen , Tromsø",
+      "tidspunkt": "Oktober",
+      "merknad": "Siste arrangement i 2018."
+    },
+    {
+      "navn": "TrøndeLAN",
+      "forste_ar": 2015,
+      "antall_deltagere": "200",
+      "antall_stab": 30,
+      "antall_medvirkende": 230,
+      "sted": "Utleirahallen, Trondheim",
+      "tidspunkt": "Høstferien",
+      "merknad": "Arrangert i Autronicahallen de fem første årene."
+    },
+    {
+      "navn": "VatneLAN",
+      "forste_ar": 2008,
+      "antall_deltagere": "360",
+      "antall_stab": 25,
+      "antall_medvirkende": "",
+      "sted": "Eidet Kulturhall , Vatne",
+      "tidspunkt": "To ganger årlig",
+      "merknad": ""
+    },
+    {
+      "navn": "Warpzone",
+      "forste_ar": 1997,
+      "antall_deltagere": "500",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Lurahallen, Sandnes",
+      "tidspunkt": "Høstferie",
+      "merknad": ""
+    },
+    {
+      "navn": "Xenox",
+      "forste_ar": 1999,
+      "antall_deltagere": "Se merknad.",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Steinkjer rådhus , Steinkjer",
+      "tidspunkt": "Høstferie",
+      "merknad": "Ikke arrangert siden 2007. 500 deltagere i toppåret."
+    },
+    {
+      "navn": "ZarGate",
+      "forste_ar": 2000,
+      "antall_deltagere": "600",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Vestneshallen , Vestnes",
+      "tidspunkt": "Vinterferie",
+      "merknad": ""
+    },
+    {
+      "navn": "Infected",
+      "forste_ar": 2005,
+      "antall_deltagere": "424",
+      "antall_stab": 120,
+      "antall_medvirkende": 555,
+      "sted": "Asker Kulturhus, Asker",
+      "tidspunkt": "Høstferien, vinterferien",
+      "merknad": "Lagt ned 2022, men siste fysiske LAN arrangert 2021 . Erstattet av Phoenix LAN."
+    },
+    {
+      "navn": "VestLAN",
+      "forste_ar": 2018,
+      "antall_deltagere": "300",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Hellenes, Førde",
+      "tidspunkt": "September",
+      "merknad": ""
+    },
+    {
+      "navn": "GO:Camp",
+      "forste_ar": 2018,
+      "antall_deltagere": "500",
+      "antall_stab": "",
+      "antall_medvirkende": "",
+      "sted": "Sarons Dal-hallen, Kvinesdal",
+      "tidspunkt": "Vinter",
+      "merknad": ""
+    },
+    {
+      "navn": "NDT-LAN",
+      "forste_ar": 2005,
+      "antall_deltagere": "64 - 120",
+      "antall_stab": "30 - 40",
+      "antall_medvirkende": 160,
+      "sted": "Laksevåg, Bergen",
+      "tidspunkt": "Høst og Vinterferie",
+      "merknad": "Det nye høst-lanet har kapasitet på 120 deltakere."
+    },
+    {
+      "navn": "GlobeLAN",
+      "forste_ar": 2001,
+      "antall_deltagere": "300",
+      "antall_stab": "30 - 40",
+      "antall_medvirkende": 350,
+      "sted": "Hof, Holmestrand",
+      "tidspunkt": "To ganger i året",
+      "merknad": ""
+    },
+    {
+      "navn": "dataparty.gg",
+      "forste_ar": 2022,
+      "antall_deltagere": "40",
+      "antall_stab": 15,
+      "antall_medvirkende": 55,
+      "sted": "Mærehallen, Steinkjer",
+      "tidspunkt": "Opptil flere ganger i året",
+      "merknad": ""
+    },
+    {
+      "navn": "Flying.LAN",
+      "forste_ar": 2023,
+      "antall_deltagere": "572",
+      "antall_stab": 25,
+      "antall_medvirkende": 597,
+      "sted": "Vikersund Hoppsenter",
+      "tidspunkt": "Blir arrangert to ganger i året.",
+      "merknad": ""
+    }
+  ],
+  "meta": {
+    "title": "Store norske datatreff (LAN-party) - Free Download",
+    "description": "Norske datatreff og LAN-party med første år, antall deltakere, stab og medvirkende, sted og tidspunkt. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Store norske datatreff (LAN-party) | ListBase",
+    "seo_description": "Download Store norske datatreff (LAN-party) — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_store_norske_datatreff"
+    ]
+  }
+}
