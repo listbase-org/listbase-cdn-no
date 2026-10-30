@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-30T02:32:48.315Z",
-  "total_datasets": 451,
-  "total_records": 1197461,
+  "generated": "2026-10-30T02:32:54.455Z",
+  "total_datasets": 452,
+  "total_records": 1197535,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -4663,6 +4663,29 @@
         "xlsx": {
           "name": "no-norges-konger_NO.xlsx",
           "size": 12830
+        }
+      }
+    },
+    {
+      "id": "no-latinske-uttrykk",
+      "name": "Latinske uttrykk brukt i norsk",
+      "category": "language",
+      "record_count": 74,
+      "columns": [
+        "latinsk_uttrykk",
+        "betydning"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_latinske_uttrykk_brukt_i_norsk",
+      "updated": "2026-10",
+      "size": 9201,
+      "files": {
+        "csv": {
+          "name": "no-latinske-uttrykk_NO.csv",
+          "size": 3552
+        },
+        "xlsx": {
+          "name": "no-latinske-uttrykk_NO.xlsx",
+          "size": 9455
         }
       }
     },
