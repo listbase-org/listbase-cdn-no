@@ -1,0 +1,436 @@
+{
+  "id": "no-statlige-selskaper",
+  "name": "Norske statlige selskaper",
+  "title": "Norske statlige selskaper",
+  "description": "Selskaper der den norske stat har direkte eierandel, med eierandel i prosent og ansvarlig eierdepartement.",
+  "category": "economy",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_statlige_selskaper",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_statlige_selskaper",
+  "updated": "2026-10",
+  "record_count": 79,
+  "columns": [
+    {
+      "key": "selskap",
+      "label": "Selskap",
+      "type": "string"
+    },
+    {
+      "key": "eierandel_prosent",
+      "label": "Eierandel Prosent",
+      "type": "number"
+    },
+    {
+      "key": "eierdepartement",
+      "label": "Eierdepartement",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "selskap": "Akastor ASA",
+      "eierandel_prosent": 12.08,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Allstad AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Andøya Space Center AS",
+      "eierandel_prosent": 90,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Argentum Fondsinvesteringer AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Avinor AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Samferdselsdepartementet"
+    },
+    {
+      "selskap": "Bane NOR SF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Samferdselsdepartementet"
+    },
+    {
+      "selskap": "Baneservice AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Samferdselsdepartementet"
+    },
+    {
+      "selskap": "Bjørnøen AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Klima- og miljødepartementet"
+    },
+    {
+      "selskap": "Carte Blanche AS",
+      "eierandel_prosent": 70,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Den Nationale Scene , AS",
+      "eierandel_prosent": 66.7,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Den Norske Opera & Ballett AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "DNB ASA",
+      "eierandel_prosent": 34,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "EISCAT AB",
+      "eierandel_prosent": 33,
+      "eierdepartement": "Kunnskapsdepartementet"
+    },
+    {
+      "selskap": "Eksportfinans ASA 1",
+      "eierandel_prosent": 15,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Eksportkreditt Norge AS 1",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Electronic Chart Centre AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kommunal- og distriktsdepartementet"
+    },
+    {
+      "selskap": "Enova SF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Klima- og miljødepartementet"
+    },
+    {
+      "selskap": "Entra ASA 1",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Entur AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Samferdselsdepartementet"
+    },
+    {
+      "selskap": "Equinor ASA",
+      "eierandel_prosent": 67,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Filmparken AS",
+      "eierandel_prosent": 77.6,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Fiskeri- og havbruksnæringens forskningsfinansiering AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Flytoget AS 1",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Folketrygdfondet",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Finansdepartementet"
+    },
+    {
+      "selskap": "Gassco AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Energidepartementet"
+    },
+    {
+      "selskap": "Gassnova SF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Energidepartementet"
+    },
+    {
+      "selskap": "Graminor AS",
+      "eierandel_prosent": 28.2,
+      "eierdepartement": "Landbruks- og matdepartementet"
+    },
+    {
+      "selskap": "Helse Midt-Norge RHF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Helse- og omsorgsdepartementet"
+    },
+    {
+      "selskap": "Helse Nord RHF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Helse- og omsorgsdepartementet"
+    },
+    {
+      "selskap": "Helse Sør-Øst RHF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Helse- og omsorgsdepartementet"
+    },
+    {
+      "selskap": "Helse Vest RHF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Helse- og omsorgsdepartementet"
+    },
+    {
+      "selskap": "IC Particles AS 1",
+      "eierandel_prosent": 38,
+      "eierdepartement": "Helse- og omsorgsdepartementet"
+    },
+    {
+      "selskap": "Innovasjon Norge",
+      "eierandel_prosent": 51,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Investinor AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Kimen Såvarelaboratoriet AS",
+      "eierandel_prosent": 51,
+      "eierdepartement": "Landbruks- og matdepartementet"
+    },
+    {
+      "selskap": "Kings Bay AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Klima- og miljødepartementet"
+    },
+    {
+      "selskap": "Kommunalbanken AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kommunal- og distriktsdepartementet"
+    },
+    {
+      "selskap": "Kongsberg Gruppen ASA",
+      "eierandel_prosent": 50.004,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Mantena AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Mesta AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Nammo AS",
+      "eierandel_prosent": 50,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Nationaltheatret AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Nofima AS",
+      "eierandel_prosent": 56.8,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Nordisk institutt for odontologiske materialer AS (NIOM AS) 1",
+      "eierandel_prosent": 49,
+      "eierdepartement": "Helse- og omsorgsdepartementet"
+    },
+    {
+      "selskap": "Nordiske Investeringsbanken 1",
+      "eierandel_prosent": 18.4,
+      "eierdepartement": "Finansdepartementet"
+    },
+    {
+      "selskap": "Norfund",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Utenriksdepartementet"
+    },
+    {
+      "selskap": "Norges Bank 1",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Finansdepartementet"
+    },
+    {
+      "selskap": "Norges sjømatråd AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Norid AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Digitaliserings- og forvaltningsdepartementet"
+    },
+    {
+      "selskap": "Norsk Helsenett SF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Helse- og omsorgsdepartementet"
+    },
+    {
+      "selskap": "Norsk Hydro ASA",
+      "eierandel_prosent": 34.26,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Norsk rikskringkasting AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Norsk samfunnsvitenskapelig datatjeneste AS 1",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kunnskapsdepartementet"
+    },
+    {
+      "selskap": "Norsk Tipping AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Norske tog AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Samferdselsdepartementet"
+    },
+    {
+      "selskap": "Nye Veier AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Samferdselsdepartementet"
+    },
+    {
+      "selskap": "Nysnø Klimainvesteringer AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Petoro AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Posten Bring AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Rogaland Teater",
+      "eierandel_prosent": 66.7,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Rosenkrantzgt. 10 AS",
+      "eierandel_prosent": 3,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Rygge 1 AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Forsvarsdepartementet"
+    },
+    {
+      "selskap": "Simula Research Laboratory AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kunnskapsdepartementet"
+    },
+    {
+      "selskap": "SIVA SF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Space Norway AS 1",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Statkraft SF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Statnett SF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Energidepartementet"
+    },
+    {
+      "selskap": "Statskog SF",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Landbruks- og matdepartementet"
+    },
+    {
+      "selskap": "Staur gård AS 1",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Landbruks- og matdepartementet"
+    },
+    {
+      "selskap": "Store Norske Spitsbergen Kulkompani AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Talent Norge AS",
+      "eierandel_prosent": 33.33,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "Telenor ASA",
+      "eierandel_prosent": 53.97,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    },
+    {
+      "selskap": "Trøndelag Teater AS",
+      "eierandel_prosent": 66.67,
+      "eierdepartement": "Kultur- og likestillingsdepartementet"
+    },
+    {
+      "selskap": "UNINETT AS 1",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kunnskapsdepartementet"
+    },
+    {
+      "selskap": "Universitetssenteret på Svalbard AS (UNIS)",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Kunnskapsdepartementet"
+    },
+    {
+      "selskap": "Veterinærmedisinsk Oppdragssenter AS 1",
+      "eierandel_prosent": 34,
+      "eierdepartement": "Landbruks- og matdepartementet"
+    },
+    {
+      "selskap": "Vinmonopolet , AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Helse- og omsorgsdepartementet"
+    },
+    {
+      "selskap": "Vygruppen AS",
+      "eierandel_prosent": 100,
+      "eierdepartement": "Samferdselsdepartementet"
+    },
+    {
+      "selskap": "Yara International ASA",
+      "eierandel_prosent": 36.21,
+      "eierdepartement": "Nærings- og fiskeridepartementet"
+    }
+  ],
+  "meta": {
+    "title": "Norske statlige selskaper - Free Download",
+    "description": "Selskaper der den norske stat har direkte eierandel, med eierandel i prosent og ansvarlig eierdepartement. Contains 79 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norske statlige selskaper | ListBase",
+    "seo_description": "Download Norske statlige selskaper — 79 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 79 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_statlige_selskaper"
+    ]
+  }
+}

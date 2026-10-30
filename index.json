@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-30T02:33:16.925Z",
-  "total_datasets": 455,
-  "total_records": 1197692,
+  "generated": "2026-10-30T02:33:23.793Z",
+  "total_datasets": 456,
+  "total_records": 1197771,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -1610,6 +1610,30 @@
         "xlsx": {
           "name": "no-okonomiske-nokkeltall_NO.xlsx",
           "size": 8152
+        }
+      }
+    },
+    {
+      "id": "no-statlige-selskaper",
+      "name": "Norske statlige selskaper",
+      "category": "economy",
+      "record_count": 79,
+      "columns": [
+        "selskap",
+        "eierandel_prosent",
+        "eierdepartement"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_statlige_selskaper",
+      "updated": "2026-10",
+      "size": 12697,
+      "files": {
+        "csv": {
+          "name": "no-statlige-selskaper_NO.csv",
+          "size": 4795
+        },
+        "xlsx": {
+          "name": "no-statlige-selskaper_NO.xlsx",
+          "size": 8989
         }
       }
     },
