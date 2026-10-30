@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-30T02:32:39.751Z",
-  "total_datasets": 450,
-  "total_records": 1197095,
+  "generated": "2026-10-30T02:32:48.315Z",
+  "total_datasets": 451,
+  "total_records": 1197461,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tourism",
@@ -12030,6 +12030,30 @@
         "xlsx": {
           "name": "no-helligdager-completos_NO.xlsx",
           "size": 63820
+        }
+      }
+    },
+    {
+      "id": "no-navnedager",
+      "name": "Norske navnedager",
+      "category": "time",
+      "record_count": 366,
+      "columns": [
+        "dato",
+        "navn",
+        "kommentar"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_navnedager",
+      "updated": "2026-10",
+      "size": 68818,
+      "files": {
+        "csv": {
+          "name": "no-navnedager_NO.csv",
+          "size": 44819
+        },
+        "xlsx": {
+          "name": "no-navnedager_NO.xlsx",
+          "size": 28013
         }
       }
     },
