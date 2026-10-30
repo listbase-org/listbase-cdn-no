@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-30T02:33:02.398Z",
-  "total_datasets": 453,
-  "total_records": 1197575,
+  "generated": "2026-10-30T02:33:09.530Z",
+  "total_datasets": 454,
+  "total_records": 1197653,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -4834,6 +4834,30 @@
         "xlsx": {
           "name": "no-tingretter-og-rettskretser_NO.xlsx",
           "size": 9714
+        }
+      }
+    },
+    {
+      "id": "no-jazzklubber",
+      "name": "Norske jazzklubber",
+      "category": "music",
+      "record_count": 78,
+      "columns": [
+        "navn",
+        "jazzsenter",
+        "sted"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_jazzklubber",
+      "updated": "2026-10",
+      "size": 10414,
+      "files": {
+        "csv": {
+          "name": "no-jazzklubber_NO.csv",
+          "size": 4244
+        },
+        "xlsx": {
+          "name": "no-jazzklubber_NO.xlsx",
+          "size": 9048
         }
       }
     },
