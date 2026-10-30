@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-30T02:33:09.530Z",
-  "total_datasets": 454,
-  "total_records": 1197653,
+  "generated": "2026-10-30T02:33:16.925Z",
+  "total_datasets": 455,
+  "total_records": 1197692,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -11722,6 +11722,29 @@
         "xlsx": {
           "name": "no-politistasjoner_NO.xlsx",
           "size": 14615
+        }
+      }
+    },
+    {
+      "id": "no-streiker",
+      "name": "Streiker i Norge",
+      "category": "society",
+      "record_count": 39,
+      "columns": [
+        "periode",
+        "streik"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_streiker_i_Norge",
+      "updated": "2026-10",
+      "size": 5177,
+      "files": {
+        "csv": {
+          "name": "no-streiker_NO.csv",
+          "size": 2127
+        },
+        "xlsx": {
+          "name": "no-streiker_NO.xlsx",
+          "size": 7861
         }
       }
     },
