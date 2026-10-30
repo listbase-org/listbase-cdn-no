@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-29T02:13:45.618Z",
-  "total_datasets": 449,
-  "total_records": 1196829,
+  "generated": "2026-10-30T02:32:39.751Z",
+  "total_datasets": 450,
+  "total_records": 1197095,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "geography",
@@ -2964,6 +2964,33 @@
         "xlsx": {
           "name": "no-beskyttede-betegnelser-mat_NO.xlsx",
           "size": 7518
+        }
+      }
+    },
+    {
+      "id": "no-bryggerier",
+      "name": "Norske bryggerier",
+      "category": "food",
+      "record_count": 266,
+      "columns": [
+        "navn",
+        "sted",
+        "etablert",
+        "lagt_ned",
+        "type",
+        "kommentar"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_bryggerier",
+      "updated": "2026-10",
+      "size": 56055,
+      "files": {
+        "csv": {
+          "name": "no-bryggerier_NO.csv",
+          "size": 24625
+        },
+        "xlsx": {
+          "name": "no-bryggerier_NO.xlsx",
+          "size": 20621
         }
       }
     },

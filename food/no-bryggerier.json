@@ -1,0 +1,2184 @@
+{
+  "id": "no-bryggerier",
+  "name": "Norske bryggerier",
+  "title": "Norske bryggerier",
+  "description": "Bryggerier og bryggeripuber i Norge med hovedkvarter/plassering, etableringsår og eventuelt nedleggelsesår.",
+  "category": "food",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_bryggerier",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_bryggerier",
+  "updated": "2026-10",
+  "record_count": 266,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "sted",
+      "label": "Sted",
+      "type": "string"
+    },
+    {
+      "key": "etablert",
+      "label": "Etablert",
+      "type": "number"
+    },
+    {
+      "key": "lagt_ned",
+      "label": "Lagt Ned",
+      "type": "number"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "kommentar",
+      "label": "Kommentar",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "7 Fjell Bryggeri",
+      "sted": "Bergen",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Agder Bryggeri",
+      "sted": "Risør , Båssvika",
+      "etablert": 1901,
+      "lagt_ned": 1902,
+      "type": "bryggeri",
+      "kommentar": "Selskapet ble stiftet i 1899."
+    },
+    {
+      "navn": "Aja Bryggeri",
+      "sted": "Drammen",
+      "etablert": 2015,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": "Lagt ned i 2019."
+    },
+    {
+      "navn": "Aktiebryggeriet i Oslo",
+      "sted": "Oslo",
+      "etablert": 1872,
+      "lagt_ned": 1931,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Alvdal Bryggeri",
+      "sted": "Alvdal",
+      "etablert": 2025,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Alstadberg Tradisjonsbryggeri",
+      "sted": "Skatval",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Amundsen Bryggeri",
+      "sted": "Oslo",
+      "etablert": 2011,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Arendals Bryggeri",
+      "sted": "Arendal",
+      "etablert": 1839,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Atna Øl",
+      "sted": "Atna",
+      "etablert": 2004,
+      "lagt_ned": 2008,
+      "type": "bryggeri",
+      "kommentar": "Atna Bryggeri gikk konkurs i 2008, men startet produksjon under nytt navn i 2009. I 2022 gikk bryggeriet igjen konkurs."
+    },
+    {
+      "navn": "Atna Øl",
+      "sted": "Atna",
+      "etablert": 2009,
+      "lagt_ned": 2022,
+      "type": "bryggeri",
+      "kommentar": "Atna Bryggeri gikk konkurs i 2008, men startet produksjon under nytt navn i 2009. I 2022 gikk bryggeriet igjen konkurs."
+    },
+    {
+      "navn": "Austmann Bryggeri",
+      "sted": "Trondheim",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Averøy Håndbryggeri",
+      "sted": "Averøy",
+      "etablert": 2019,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Står bak Crave Cave Brewery."
+    },
+    {
+      "navn": "Balder Brygg",
+      "sted": "Leikanger",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Stiftet i 2011 med produksjonsstart i 2012."
+    },
+    {
+      "navn": "Basarene Bryggeri",
+      "sted": "Hamar",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Brygger øl under varemerket Talas."
+    },
+    {
+      "navn": "Beer Flag",
+      "sted": "Oslo",
+      "etablert": 2020,
+      "lagt_ned": 2024,
+      "type": "bryggeri",
+      "kommentar": "Slått konkurs i 2024"
+    },
+    {
+      "navn": "Behind Bars Brewery",
+      "sted": "Båtsfjord",
+      "etablert": 2017,
+      "lagt_ned": 2022,
+      "type": "bryggeri",
+      "kommentar": "Lagt ned drift i 2021"
+    },
+    {
+      "navn": "Berentsens Brygghus",
+      "sted": "Egersund",
+      "etablert": 1895,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Bjørnafjorden Bryggeri",
+      "sted": "Osøyro",
+      "etablert": 2017,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Borg bryggerier",
+      "sted": "Sarpsborg",
+      "etablert": 1855,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Eies av Royal Unibrew Via Hansa-Borg Bryggerier ."
+    },
+    {
+      "navn": "Brulandselva",
+      "sted": "Stryn",
+      "etablert": 2019,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Ølet produseres på lisens i Belgia."
+    },
+    {
+      "navn": "Bryggerhuset",
+      "sted": "Drammen",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Aass Bryggeris pilotbryggeri."
+    },
+    {
+      "navn": "Bryggerhuset Veholt",
+      "sted": "Skien",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Bryggeri 7null4",
+      "sted": "Follebu , Gausdal",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Bryggeri 13 Tromsø Mikrobryggeri",
+      "sted": "Tromsø",
+      "etablert": 2012,
+      "lagt_ned": 2024,
+      "type": "bryggeri",
+      "kommentar": "Etablert 2012 og første kommersielle øl lansert 2014. Skiftet navn til Brewyard Brewing Co. i 2023."
+    },
+    {
+      "navn": "Bryggeriet Frøya",
+      "sted": "Uttian",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Bygland Bryggeri",
+      "sted": "Bygland",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri. Har fokus på norsk tradisjonsbrygg."
+    },
+    {
+      "navn": "Bømmeløen Bryggerhus",
+      "sted": "Langevåg , Bømlo",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Bådin",
+      "sted": "Bodø",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Baatbryggeriet",
+      "sted": "Vestnes",
+      "etablert": 2004,
+      "lagt_ned": 2008,
+      "type": "bryggeri",
+      "kommentar": "Var virksomt 2004 til 2008, da driften ble avviklet. Startet opp igjen i 2014, før driften ble igjen avviklet i 2022."
+    },
+    {
+      "navn": "Baatbryggeriet",
+      "sted": "Vestnes",
+      "etablert": 2014,
+      "lagt_ned": 2022,
+      "type": "bryggeri",
+      "kommentar": "Var virksomt 2004 til 2008, da driften ble avviklet. Startet opp igjen i 2014, før driften ble igjen avviklet i 2022."
+    },
+    {
+      "navn": "Cervisiam",
+      "sted": "Oslo",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri ."
+    },
+    {
+      "navn": "Chr. Stabells Skipsøl-bryggeri",
+      "sted": "Christiania",
+      "etablert": 1776,
+      "lagt_ned": 1800,
+      "type": "bryggeri",
+      "kommentar": "Nedleggelsestidspunktet er angitt omtrentlig."
+    },
+    {
+      "navn": "Chr. Wriedts Bryggeri",
+      "sted": "Drammen",
+      "etablert": 1858,
+      "lagt_ned": 1959,
+      "type": "bryggeri",
+      "kommentar": "Bryggeriet ble i 1958 innlemmet i Aass Bryggeri , tappingen hos Chr. Wriedts fortsatte frem til 31. januar 1959."
+    },
+    {
+      "navn": "Christiania Actie-Ølbryggeri , (Christiania Bryggeri) Hagan, Akershus",
+      "sted": "Oslo",
+      "etablert": 1872,
+      "lagt_ned": 1931,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Christianssands Bryggeri (CB)",
+      "sted": "Kristiansand",
+      "etablert": 1856,
+      "lagt_ned": 2022,
+      "type": "bryggeri",
+      "kommentar": "Kjøpt opp av Hansa Borg Bryggerier i 1999. Bryggeri lagt ned med produksjon av øl under merkevaren flyttes til andre bryggerier."
+    },
+    {
+      "navn": "Churcheim Brewing",
+      "sted": "Oslo",
+      "etablert": 2023,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Crave Cave Brewery",
+      "sted": "Averøy",
+      "etablert": 2019,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Merkevare under Averøy Håndbryggeri."
+    },
+    {
+      "navn": "De Tvende",
+      "sted": "Arendal",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Mikrobryggeriet til Arendal Bryggeri ."
+    },
+    {
+      "navn": "Det Lille Brygghuset",
+      "sted": "Blomøyna",
+      "etablert": 2017,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": "Lagt ned produksjon i 2020"
+    },
+    {
+      "navn": "Det Sembske Bryggeri",
+      "sted": "Bergen",
+      "etablert": 1849,
+      "lagt_ned": 1891,
+      "type": "bryggeri",
+      "kommentar": "Forløper til Hansa bryggeri ."
+    },
+    {
+      "navn": "Disko Brewing",
+      "sted": "Lierbyen",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Doblougs Bryggeri",
+      "sted": "Ringebu",
+      "etablert": 2017,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": "La ned driften på slutten av 2019."
+    },
+    {
+      "navn": "Dronebrygg",
+      "sted": "Oslo",
+      "etablert": 2011,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Lagt ned i 2018 [ trenger referanse ]"
+    },
+    {
+      "navn": "Drum Brew",
+      "sted": "Tromøya",
+      "etablert": 2016,
+      "lagt_ned": 2026,
+      "type": "bryggeri",
+      "kommentar": "Produksjonsstart i 2017. Nomadebryggeri [ trenger referanse ]"
+    },
+    {
+      "navn": "E.C. Dahls bryggeri",
+      "sted": "Trondheim",
+      "etablert": 1856,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Fusjonerte med Nidar Bergene i 1986. Kjøpt opp av Ringnes i 1988."
+    },
+    {
+      "navn": "Ego Brygghus",
+      "sted": "Torp",
+      "etablert": 2014,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": "Konkurs i februar 2020."
+    },
+    {
+      "navn": "Eiker Ølfabrikk",
+      "sted": "Mjøndalen",
+      "etablert": 2014,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": "Nedlagt februar 2020 etter å ha mistet skjenkebevillingen."
+    },
+    {
+      "navn": "Einehaug Micro",
+      "sted": "Ålesund",
+      "etablert": 2013,
+      "lagt_ned": 2017,
+      "type": "bryggeri",
+      "kommentar": "Avviklet i 2017"
+    },
+    {
+      "navn": "Eivar Mikrobryggeri",
+      "sted": "Horten",
+      "etablert": 2017,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": "Første øl til salgs i 2018. Slått konkurs i 2020."
+    },
+    {
+      "navn": "Ekangersmuget",
+      "sted": "Bergen",
+      "etablert": 2015,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Elverums bryggeri",
+      "sted": "Elverum",
+      "etablert": 1855,
+      "lagt_ned": 1934,
+      "type": "bryggeri",
+      "kommentar": "Kjøpt opp av Hamar bryggeri i 1899, lagt ned i 1934."
+    },
+    {
+      "navn": "En Liten Øl ( ELØ )",
+      "sted": "Fitjar",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Espedalen Fjellbryggeri",
+      "sted": "Sør-Fron",
+      "etablert": 2004,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Bryggeri tilknyttet Ruten Fjellstue. Kjent med spesialiteten «Arthuts Sevjeøl», en øl brygget med bjørkesevje og krydret med ulike urter."
+    },
+    {
+      "navn": "Eucharist Brewing",
+      "sted": "Drammen [ trenger referanse ]",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri [ trenger referanse ]"
+    },
+    {
+      "navn": "Finnskogen Mikrobryggeri",
+      "sted": "Åsnes",
+      "etablert": 2012,
+      "lagt_ned": 2016,
+      "type": "bryggeri",
+      "kommentar": "Etablert i 2012 og bryggestart i 2013. Lagt ned 2016."
+    },
+    {
+      "navn": "Fjordfolk Mikrobryggeri",
+      "sted": "Sandefjord",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Sambrygget med Skumbag fram til 2020, ettersom bryggmester ved Skumbag ble hentet inn til Fjordfold. I 2020 ble Abram Goldman-Armstrong ansatt for å lede bryggeriet."
+    },
+    {
+      "navn": "Fjellbryggeriet",
+      "sted": "Tuddal",
+      "etablert": 2010,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Etablert av ekteparet Rinde i 2010, med bryggestart i 2013. Rinde avviklet driften i 2016 og solgte bryggeriet videre til Tuddal Høifjeldshotel."
+    },
+    {
+      "navn": "Foss Bryggeri",
+      "sted": "Oslo",
+      "etablert": 1898,
+      "lagt_ned": 1917,
+      "type": "bryggeri",
+      "kommentar": "Ytteborgs bryggeri flyttet og skiftet navn til Foss bryggeri i 1898. Kjøpt opp av Schous bryggeri i 1917."
+    },
+    {
+      "navn": "Fredrikstad Bryggeri",
+      "sted": "Fredrikstad",
+      "etablert": 1877,
+      "lagt_ned": 2001,
+      "type": "bryggeri",
+      "kommentar": "Fusjonerte med Borg bryggeri i 1989"
+    },
+    {
+      "navn": "Fredrikstad Centralbryggeri",
+      "sted": "Fredrikstad",
+      "etablert": 1865,
+      "lagt_ned": 1927,
+      "type": "bryggeri",
+      "kommentar": "Het Lilleby bryggeri fra 1865 til 1897. Ble en del av Fredrikstad Bryggeri fra 1927."
+    },
+    {
+      "navn": "Fredriksten festning, garnisonen (navn ukjent)",
+      "sted": "Halden",
+      "etablert": 1690,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Etableringen er oppgitt til 1690-årene . Arkitekt Willem Coucheron anviste en hvelving for dette formålet allerede i 1679, men finansiering kom ikke umiddelbart på plass. Militær-ølet hadde lav alkoholprosent og det er estimert at bryggeriet produserte mellom to og tre tusen liter per dag."
+    },
+    {
+      "navn": "Frydenlund Bryggerier",
+      "sted": "Oslo",
+      "etablert": 1859,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Ble kjøpt opp av Nora Industrier i 1978."
+    },
+    {
+      "navn": "Fæby Bryggeri",
+      "sted": "Verdal",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Færder Mikrobryggeri",
+      "sted": "Tønsberg",
+      "etablert": 2013,
+      "lagt_ned": 2022,
+      "type": "bryggeri",
+      "kommentar": "La ned drift i 2022. Brygghuset kjøpt opp av Fjordfolk Mikrobryggeri"
+    },
+    {
+      "navn": "Garasjebryggeriet",
+      "sted": "Haugesund",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Glommen Bryggeri",
+      "sted": "Lisleby",
+      "etablert": 1996,
+      "lagt_ned": 2001,
+      "type": "bryggeri",
+      "kommentar": "Gikk konkurs februar 2001."
+    },
+    {
+      "navn": "Graff Brygghus",
+      "sted": "Tromsø",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Grans Bryggeri",
+      "sted": "Sandefjord",
+      "etablert": 1899,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Ble i 2005 kjøpt av Reitan AS med 50%."
+    },
+    {
+      "navn": "Grim & Gryt Økobryggeri",
+      "sted": "Hareid",
+      "etablert": 2012,
+      "lagt_ned": 2017,
+      "type": "bryggeri",
+      "kommentar": "Gikk konkurs desember 2017."
+    },
+    {
+      "navn": "Grimaas Bryggeri",
+      "sted": "Raufoss",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Startet som hjemmebryggeri i 2014. Lanserte første kommersielle øl i 2018."
+    },
+    {
+      "navn": "Grünerløkka Brygghus",
+      "sted": "Oslo",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hadeland Håndverksbryggeri",
+      "sted": "Gran/Ringstad",
+      "etablert": 2014,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hamar Bryggeri",
+      "sted": "Hamar",
+      "etablert": 1856,
+      "lagt_ned": 1993,
+      "type": "bryggeri",
+      "kommentar": "Kjøpt opp av Nora Industrier i 1987."
+    },
+    {
+      "navn": "Hammerhead Brewing Company",
+      "sted": "Trondheim",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Handverksbryggeriet",
+      "sted": "Vossestrand",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri , tidligere Voss Brygghus"
+    },
+    {
+      "navn": "Hansa bryggeri",
+      "sted": "Bergen",
+      "etablert": 1891,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Slått sammen med Borg."
+    },
+    {
+      "navn": "Hardanger Bryggeri",
+      "sted": "Øystese",
+      "etablert": 2020,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hardanger Handbryggeri",
+      "sted": "Ullensvang",
+      "etablert": 2015,
+      "lagt_ned": 2025,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hardanger Saft- og Siderfabrikk",
+      "sted": "Ulvik",
+      "etablert": 2008,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Harstad Bryggeri",
+      "sted": "Harstad",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hegg Ølkompani",
+      "sted": "Lier",
+      "etablert": 2016,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Lagt ned i 2018 på grunn av kapasitetsproblemer."
+    },
+    {
+      "navn": "Hemnes Mikrobryggeri",
+      "sted": "Hemnesberget",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hogna Brygg",
+      "sted": "Singsås",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Holtens AS",
+      "sted": "Stavern",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Homborsund Bryggeri",
+      "sted": "Grimstad",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri"
+    },
+    {
+      "navn": "Horten Bryggeri",
+      "sted": "Horten",
+      "etablert": 1909,
+      "lagt_ned": 1970,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hubertus Mikrobryggeri",
+      "sted": "Dovre",
+      "etablert": 2013,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": "Ble avviklet i 2020. Brygghuset ble solgt til utlandet, mens merkevaren ble beholdt av grunnlegger Huub Huijs."
+    },
+    {
+      "navn": "Humbrygg",
+      "sted": "Hønefoss",
+      "etablert": 2018,
+      "lagt_ned": 2023,
+      "type": "bryggeri",
+      "kommentar": "Konkurs."
+    },
+    {
+      "navn": "Hunsfos Bryggeri",
+      "sted": "Vennesla",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hønefoss Bryggeri",
+      "sted": "Hønefoss",
+      "etablert": 1854,
+      "lagt_ned": 1963,
+      "type": "bryggeri",
+      "kommentar": "Produksjon startet i november 1856. Het Ringeriges og Hadelands Bryggeri fram til 1875. Markedsrettighetene ble solgt til Nora Industrier i 1963. Eiendomsmassen ble beholdt – Søndre torv 2a (1856) og 2b (1933) ."
+    },
+    {
+      "navn": "Haandbryggeriet",
+      "sted": "Drammen",
+      "etablert": 2005,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Inderøy Brygghus",
+      "sted": "Inderøy",
+      "etablert": 2025,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Ølmerke under Berg Gård."
+    },
+    {
+      "navn": "Inderøy Gårdsbryggeri",
+      "sted": "Inderøy",
+      "etablert": 2007,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Jernbanebryggeriet",
+      "sted": "Hamar",
+      "etablert": 1856,
+      "lagt_ned": 1875,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Juga Mikrobryggeri",
+      "sted": "Lakselv",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Stiftet 2017 med første brygg satt i 2018."
+    },
+    {
+      "navn": "Jæren Bryggeri",
+      "sted": "Tjøtta",
+      "etablert": 1989,
+      "lagt_ned": 1990,
+      "type": "bryggeri",
+      "kommentar": "Første nystartete bryggeri på mange år, gikk konkurs etter kort tid."
+    },
+    {
+      "navn": "Jåttå Gårdsbryggeri",
+      "sted": "Stavanger",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Kinn Bryggeri",
+      "sted": "Florø",
+      "etablert": 2009,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Kjerlingland Brygghus",
+      "sted": "Lillesand",
+      "etablert": 2016,
+      "lagt_ned": 2023,
+      "type": "bryggeri",
+      "kommentar": "Etablert 2016. Første brygg satt i 2017. Lagt opp drift i 2023."
+    },
+    {
+      "navn": "Klokk & Co",
+      "sted": "Oslo",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri"
+    },
+    {
+      "navn": "Klostergården Håndbryggeri",
+      "sted": "Tautra",
+      "etablert": 2008,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Kofoedbryggeriet",
+      "sted": "Hvaler",
+      "etablert": 2011,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Krecher",
+      "sted": "Oslo",
+      "etablert": 2020,
+      "lagt_ned": 2023,
+      "type": "bryggeri",
+      "kommentar": "Startet av to sentrale personer fra Cervisiam. Konkurs i 2023."
+    },
+    {
+      "navn": "Kvernafossen Bryggeri",
+      "sted": "Sande i Sunnfjord",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "K.Aa.B.",
+      "sted": "Langevåg",
+      "etablert": 2019,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Larviks Bryggerier",
+      "sted": "Larvik",
+      "etablert": 1914,
+      "lagt_ned": 1996,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Larvik Mikrobryggeri",
+      "sted": "Larvik",
+      "etablert": 2011,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Laurvigs Bryggeri",
+      "sted": "Larvik",
+      "etablert": 1886,
+      "lagt_ned": 1915,
+      "type": "bryggeri",
+      "kommentar": "Videreføring av Christiansen & Co.s Bryggeri, stiftet 1859."
+    },
+    {
+      "navn": "Lauvanger Mikrobryggeri",
+      "sted": "Lavangen",
+      "etablert": 2014,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "La ned driften i 2018."
+    },
+    {
+      "navn": "Lervig Aktiebryggeri",
+      "sted": "Stavanger",
+      "etablert": 2003,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Lillehammer Bryggeri",
+      "sted": "Lillehammer",
+      "etablert": 1847,
+      "lagt_ned": 1984,
+      "type": "bryggeri",
+      "kommentar": "Kjøpt opp av Nora Industrier i 1984."
+    },
+    {
+      "navn": "Lillehammer Mikrobryggeri",
+      "sted": "Lillehammer",
+      "etablert": 2006,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Lindesnes Brygghus",
+      "sted": "Lindesnes",
+      "etablert": 2011,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Lindheim Ølkompani",
+      "sted": "Gvarv",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Little Brother Brewery",
+      "sted": "Oslo",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Startet i 2016 ølutsalget Growleriet ."
+    },
+    {
+      "navn": "Lofotpils",
+      "sted": "Svolvær",
+      "etablert": 2006,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Stiftet i 2006 med første brygging i 2014."
+    },
+    {
+      "navn": "Lom bryggeri",
+      "sted": "Lom",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Første driftsår i 2017. Selger under merkevaren Lomb."
+    },
+    {
+      "navn": "Lundetangens Bryggeri",
+      "sted": "Skien",
+      "etablert": 1854,
+      "lagt_ned": 1986,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Lysebu Bryggeri",
+      "sted": "Oslo",
+      "etablert": 2017,
+      "lagt_ned": 2025,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Lysefjorden Mikrobryggeri",
+      "sted": "Ytre Arna",
+      "etablert": 2013,
+      "lagt_ned": 2024,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Låven Mikrobryggeri",
+      "sted": "Sylling",
+      "etablert": 2015,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": "Nedlagt 2019"
+    },
+    {
+      "navn": "Macks Ølbryggeri",
+      "sted": "Tromsø",
+      "etablert": 1877,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Marlobobo",
+      "sted": "Sande , Holmestrand",
+      "etablert": 2019,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Lager primært mjød, men produserer øl under produktlinjen \"Marlobobo's Megabear\"."
+    },
+    {
+      "navn": "Midtpunktet Bryggeri",
+      "sted": "Steinkjer",
+      "etablert": 2017,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri"
+    },
+    {
+      "navn": "MikroMeyer",
+      "sted": "Spydeberg",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Mo Laksegard",
+      "sted": "Suldal",
+      "etablert": 2004,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Gårdsbryggeri"
+    },
+    {
+      "navn": "Moe Gårdsbryggeri",
+      "sted": "Trondheim",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Monkey Brew",
+      "sted": "Trondheim",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Mosjøen Mikrobryggeri",
+      "sted": "Mosjøen",
+      "etablert": 2013,
+      "lagt_ned": 2017,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Moss Aktiebryggeri",
+      "sted": "Moss",
+      "etablert": 1838,
+      "lagt_ned": 1997,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Mykle Mikrobryggeri",
+      "sted": "Kvinnherad (Dimmelsvik)",
+      "etablert": 2016,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Namdalsbryggeriet",
+      "sted": "Grong",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Nederkværns Bryggeri",
+      "sted": "Brumunddal",
+      "etablert": 1852,
+      "lagt_ned": 1903,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Nedstrand Bryggeri",
+      "sted": "Nedstrand",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Nordlandsbryggeriet",
+      "sted": "Bodø",
+      "etablert": 1897,
+      "lagt_ned": 2000,
+      "type": "bryggeri",
+      "kommentar": "Het Bodø Aktiebryggeri fra 1897 til 1978. Overtatt av E.C. Dahls bryggeri i 1976. Nedlagt i 2000."
+    },
+    {
+      "navn": "Nordmørsbrygg",
+      "sted": "Kristiansund",
+      "etablert": 1999,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Norsk Gjærverk",
+      "sted": "Mo i Rana",
+      "etablert": 2019,
+      "lagt_ned": 2023,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Norske Bryggerier AS",
+      "sted": "Oslo",
+      "etablert": 2013,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": "Byttet navn til Det Gode Norske AS i 2016, og så Norsk Øl AS i 2017. Tvangsoppløst i 2019."
+    },
+    {
+      "navn": "Northbrew AS",
+      "sted": "Nittedal",
+      "etablert": 2022,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Northern & Co.",
+      "sted": "Fedje",
+      "etablert": 2015,
+      "lagt_ned": 2017,
+      "type": "bryggeri",
+      "kommentar": "Fusjonerte inn i Norbrew i 2016. Nedlagt 2017. [ trenger referanse ]"
+    },
+    {
+      "navn": "Norumbryggeriet",
+      "sted": "Lørenfallet",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Norway Jazz Brewery",
+      "sted": "Oslo",
+      "etablert": 2017,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri . Konkurs i 2019"
+    },
+    {
+      "navn": "NUA Brygghus",
+      "sted": "Mandal",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Sørligste bryggeri i Norge"
+    },
+    {
+      "navn": "Numedal Stasjons Bryggeri (NSB)",
+      "sted": "Rollag",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Nøisom Bryggeri",
+      "sted": "Fredrikstad",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Nøgne Ø",
+      "sted": "Grimstad",
+      "etablert": 2002,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Kjøpt opp av Hansa Borg Bryggerier i 2020"
+    },
+    {
+      "navn": "Odalsbryggeriet",
+      "sted": "Sand , Nord-Odal",
+      "etablert": 2015,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": "Oppstart i 2015 og første flasker tappet i 2016. Konkurs i 2019"
+    },
+    {
+      "navn": "ODE mikrobryggeri",
+      "sted": "Frogn",
+      "etablert": 2014,
+      "lagt_ned": 2016,
+      "type": "bryggeri",
+      "kommentar": "La opp grunnet stor markedskonkurranse."
+    },
+    {
+      "navn": "O.F. Hald Bryggeri",
+      "sted": "Bergen",
+      "etablert": 1886,
+      "lagt_ned": 1912,
+      "type": "bryggeri",
+      "kommentar": "Eldre bryggeri i Bergen som ble kjøpt av av Hansa. Nytt bryggeri under samme navn etablert i 2018 gjennom Norske Bryggerier av Henning Thoresen, med mål om å lage butikkøl for REMA 1000."
+    },
+    {
+      "navn": "O.F. Hald Bryggeri",
+      "sted": "Bergen",
+      "etablert": 2018,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": "Eldre bryggeri i Bergen som ble kjøpt av av Hansa. Nytt bryggeri under samme navn etablert i 2018 gjennom Norske Bryggerier av Henning Thoresen, med mål om å lage butikkøl for REMA 1000."
+    },
+    {
+      "navn": "Olden Bryggeri",
+      "sted": "Olden",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Oosterrijsen Brewing Co.",
+      "sted": "Risør",
+      "etablert": 2015,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Konkurs i 2018"
+    },
+    {
+      "navn": "Oslo Brewing Company",
+      "sted": "Oslo",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Perleporten Kulturbryggeri",
+      "sted": "Honningsvåg",
+      "etablert": 2021,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Tilknyttet Perleporten Kulturhus. Tidligere kjent som Nordkapp Nano Brewery, som startet brygging i 2018."
+    },
+    {
+      "navn": "Polden Bryggeri",
+      "sted": "Tromsø",
+      "etablert": 2016,
+      "lagt_ned": 2025,
+      "type": "bryggeri",
+      "kommentar": "Legges ned og oppløses etter inaktivitet."
+    },
+    {
+      "navn": "Qdulla",
+      "sted": "Snåsa",
+      "etablert": 2007,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Brygges og selges på Harøya"
+    },
+    {
+      "navn": "Qvart Ølkompani",
+      "sted": "Kristiansand",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Kjøpt opp av Homborsund Bryggeri i 2020."
+    },
+    {
+      "navn": "Qvænbrygg",
+      "sted": "Vadsø",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Randhav Bryggeri",
+      "sted": "Kristiansund",
+      "etablert": 2015,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Konkurs i juli 2018."
+    },
+    {
+      "navn": "Raus Bryggeri",
+      "sted": "Nesna",
+      "etablert": 2019,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Redfox Ales",
+      "sted": "Sarpsborg",
+      "etablert": 2017,
+      "lagt_ned": 2021,
+      "type": "bryggeri",
+      "kommentar": "Avviklet driften i 2021."
+    },
+    {
+      "navn": "Reins Kloster",
+      "sted": "Rissa",
+      "etablert": 2013,
+      "lagt_ned": 2021,
+      "type": "bryggeri",
+      "kommentar": "Lager økologisk iskrem og øl. Bryggeriet ble avviklet i 2021."
+    },
+    {
+      "navn": "Rena Bryggeri",
+      "sted": "Rena",
+      "etablert": 2000,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Startet som Østerdalen bryggeri. Gikk konkurs i 2005 og gjenoppsto som Det Lille Bryggeri. Gikk igjen konkurs i 2010, og gjenoppsto like etterpå. Skiftet navn til Rena bryggeri i 2014."
+    },
+    {
+      "navn": "Ringnes",
+      "sted": "Oslo",
+      "etablert": 1876,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Rygr Brygghus",
+      "sted": "Kverneland",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Etablert i 2018 gjennom Norske Bryggerier av Henning Thoresen."
+    },
+    {
+      "navn": "Røhne Bryggerhus",
+      "sted": "Stange",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Røros Bryggeri og Mineralvannfabrikk",
+      "sted": "Røros",
+      "etablert": 2009,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Røros Mineralvannfabrikk ble startet i 1900, og holdt det gående til E.C. Dahls tok over all produksjon i 1981."
+    },
+    {
+      "navn": "Raa Brewing Company",
+      "sted": "Råde",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Sagene Bryggeri",
+      "sted": "Oslo",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "La ned eget bryggeri og gikk over til kontraktsbrygging i 2024."
+    },
+    {
+      "navn": "Salikatt Bryggeri",
+      "sted": "Stavanger",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Stiftet 2015 med bryggestart i 2016."
+    },
+    {
+      "navn": "Salamander Bryggeri",
+      "sted": "Sveio",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Schous Bryggeri",
+      "sted": "Oslo",
+      "etablert": 1821,
+      "lagt_ned": 1981,
+      "type": "bryggeri",
+      "kommentar": "Startet som Youngs Bryggeri i Christiania og omdøpt ved Christian Schous overtakelse i 1837. Produksjon av merkevaren Schous Pils gjenopptatt i 2021 av Ringnes."
+    },
+    {
+      "navn": "Schouskjelleren Mikrobryggeri",
+      "sted": "Oslo",
+      "etablert": 2010,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Senja Handbryggeri",
+      "sted": "Senja",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Etablert i 2014 med bryggestart i 2015. [ trenger referanse ]"
+    },
+    {
+      "navn": "Siste Sang Bryggeri",
+      "sted": "Oslo",
+      "etablert": 2015,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Registrert som Oslo og Akershus Bryggeri."
+    },
+    {
+      "navn": "Skavli Brygghus",
+      "sted": "Harstad",
+      "etablert": 2013,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Nedlagt 2018."
+    },
+    {
+      "navn": "Skifjorden Bryggeri",
+      "sted": "Sørbøvåg",
+      "etablert": 2017,
+      "lagt_ned": 2023,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Skudenes Bryggeri",
+      "sted": "Skudeneshavn , Karmøy",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Skumbag",
+      "sted": "Oslo",
+      "etablert": 2016,
+      "lagt_ned": 2020,
+      "type": "bryggeri",
+      "kommentar": "Flyttet produksjon til Sandefjord da bryggmester ved Skumbag ble ansatt ved Fjordfolk. Konkursåpning i 2020."
+    },
+    {
+      "navn": "Slakteren Brygghus",
+      "sted": "Mysen",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Organisert under selskapet Ølkompaniet AS."
+    },
+    {
+      "navn": "Sleeping Village Brewing",
+      "sted": "Oslo",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri. Brygges hos Haandbryggeriet."
+    },
+    {
+      "navn": "Slumpelukko",
+      "sted": "Vossestrand",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri"
+    },
+    {
+      "navn": "Smøla Mikrobryggeri",
+      "sted": "Smøla",
+      "etablert": 2014,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Små Vesen Bryggeri",
+      "sted": "Aurdal",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "St. Hallvards Bryggeri",
+      "sted": "Oslo",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Gikk konkurs våren 2022. Samme år ble driften overtatt av Sagene Industrier H.E. Thoresen ."
+    },
+    {
+      "navn": "Stavanger Aktiebryggeri",
+      "sted": "Stavanger",
+      "etablert": 1899,
+      "lagt_ned": 1909,
+      "type": "bryggeri",
+      "kommentar": "Tatt over av Tou bryggeri."
+    },
+    {
+      "navn": "Steinkjer Mikrobryggeri",
+      "sted": "Steinkjer",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Stjørdalsbryggeriet",
+      "sted": "Stjørdal",
+      "etablert": 2013,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Videreført som Stolt Bryggeri"
+    },
+    {
+      "navn": "Stokkøy Bryggeri",
+      "sted": "Stokkøy",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Stokvik Bryggeri",
+      "sted": "Brønnøy",
+      "etablert": 2015,
+      "lagt_ned": 2022,
+      "type": "bryggeri",
+      "kommentar": "Startet som Bastesen & Stokvik Bryggeri før navnebytte i 2017. Tvangsoppløst 2022 etter manglende innsedt regnskap for 2019."
+    },
+    {
+      "navn": "Stolt Bryggeri",
+      "sted": "Stjørdal",
+      "etablert": 2018,
+      "lagt_ned": 2023,
+      "type": "bryggeri",
+      "kommentar": "Tidligere Stjørdalsbryggeriet. Gikk konkurs i 2023."
+    },
+    {
+      "navn": "Stordalens mineralvannfabrikk",
+      "sted": "Eikermoen, Kongsberg",
+      "etablert": 1911,
+      "lagt_ned": 2008,
+      "type": "bryggeri",
+      "kommentar": "Nedlagt 31. august 2008."
+    },
+    {
+      "navn": "Storm Brygghus",
+      "sted": "Kvenvær",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Stiftet 2013."
+    },
+    {
+      "navn": "Sundbytunet Bryggeri",
+      "sted": "Jessheim",
+      "etablert": 2011,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Svalbard bryggeri",
+      "sted": "Longyearbyen",
+      "etablert": 2011,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nordligste bryggeri i verden. Grunnlagt 2011 med produksjonsstart i 2015."
+    },
+    {
+      "navn": "Telemark Mikrobryggeri",
+      "sted": "Skien",
+      "etablert": 2015,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Konkurs mars 2018. Startet opp på ny i 2021 med konkursboet til Telemark Mikrobryggeri under navnet \"Telemark Bryggeri\". Gikk konkurs i slutten av 2022."
+    },
+    {
+      "navn": "Telemark Mikrobryggeri",
+      "sted": "Skien",
+      "etablert": 2021,
+      "lagt_ned": 2022,
+      "type": "bryggeri",
+      "kommentar": "Konkurs mars 2018. Startet opp på ny i 2021 med konkursboet til Telemark Mikrobryggeri under navnet \"Telemark Bryggeri\". Gikk konkurs i slutten av 2022."
+    },
+    {
+      "navn": "Teveltunet Fjellbryggeri",
+      "sted": "Meråker",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "To Tårn Bryggeri",
+      "sted": "Trondheim",
+      "etablert": 2013,
+      "lagt_ned": 2017,
+      "type": "bryggeri",
+      "kommentar": "Gikk konkurs høsten 2017. Konkursbo kjøpt opp av Norsk Øl."
+    },
+    {
+      "navn": "Tonga Gardsbryggeri",
+      "sted": "Norddal",
+      "etablert": 2014,
+      "lagt_ned": 2023,
+      "type": "bryggeri",
+      "kommentar": "Driften avviklet 2023."
+    },
+    {
+      "navn": "Toten Bryggeri & Mineralvandfabrik",
+      "sted": "Skreia",
+      "etablert": 1856,
+      "lagt_ned": 1918,
+      "type": "bryggeri",
+      "kommentar": "Kjøpt av Hamar bryggeri og Lillehammer bryggeri i 1918 og lagt ned. [ trenger referanse ]"
+    },
+    {
+      "navn": "Tou bryggeri",
+      "sted": "Stavanger",
+      "etablert": 1855,
+      "lagt_ned": 2003,
+      "type": "bryggeri",
+      "kommentar": "Fusjonerte med Nora Industrier i 1990. Lagt ned av Ringnes i 2003."
+    },
+    {
+      "navn": "Trio Bryggeri",
+      "sted": "Skien",
+      "etablert": 1924,
+      "lagt_ned": 2009,
+      "type": "bryggeri",
+      "kommentar": "Begynte produsere øl i 1998. Utstyr brukt videre til opprettelsen av Union Bryggeri."
+    },
+    {
+      "navn": "Trollbryggeriet",
+      "sted": "Liabygda",
+      "etablert": 2009,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Brygger øl under varemerket Slogen."
+    },
+    {
+      "navn": "Tromi",
+      "sted": "Selsbakk",
+      "etablert": 1957,
+      "lagt_ned": 1999,
+      "type": "bryggeri",
+      "kommentar": "Opprinnelig Trondheim Mineralvannfabrikk, brygget øl fra 1991."
+    },
+    {
+      "navn": "Trysil Bryggeri",
+      "sted": "Trysil",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Tya Bryggeri",
+      "sted": "Øvre Årdal",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Tøftabrygg",
+      "sted": "Øygarden",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Tønsberg Bryggeri",
+      "sted": "Tønsberg",
+      "etablert": 1856,
+      "lagt_ned": 1976,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Tøsse Brygghus",
+      "sted": "Osterøy",
+      "etablert": 2023,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Union Bryggeri",
+      "sted": "Skien",
+      "etablert": 2009,
+      "lagt_ned": 2014,
+      "type": "bryggeri",
+      "kommentar": "Tatt over av, og byttet navn til, Det lille presseriet AS i 2012. Nedlagt i 2014 grunnet lav lønnsomhet."
+    },
+    {
+      "navn": "Valdres Gardsbryggeri",
+      "sted": "Øystre Slidre",
+      "etablert": 1999,
+      "lagt_ned": 2018,
+      "type": "bryggeri",
+      "kommentar": "Konkurs i juni 2018."
+    },
+    {
+      "navn": "Vang Bryggeri",
+      "sted": "Vang",
+      "etablert": 1852,
+      "lagt_ned": 1891,
+      "type": "bryggeri",
+      "kommentar": "Bryggeriet holdt til på Åker gård . Ble lagt ned da eierne kjøpte opp konkursboet til Hamar bryggeri . [ trenger referanse ]"
+    },
+    {
+      "navn": "Vestlandsbryggeriet",
+      "sted": "Ålesund",
+      "etablert": 1994,
+      "lagt_ned": 2000,
+      "type": "bryggeri",
+      "kommentar": "Ølet ble brygget hos Tromi fram til de fikk eget produksjonsutstyr i 1999. Bryggeriet gikk konkurs i 2000."
+    },
+    {
+      "navn": "Vinje Bryggeri",
+      "sted": "Vinje",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Voss Bryggeri",
+      "sted": "Voss",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Voss Fellesbryggeri",
+      "sted": "Voss",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Gikk konkurs i 2018. Konkursboet er kjøpt opp og bryggingen har fortsatt."
+    },
+    {
+      "navn": "Vaage Bryggeri",
+      "sted": "Kvinnherad",
+      "etablert": 2020,
+      "lagt_ned": 2022,
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Wettre Bryggeri",
+      "sted": "Asker",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Youngs Bryggeri",
+      "sted": "Christiania",
+      "etablert": 1821,
+      "lagt_ned": 1837,
+      "type": "bryggeri",
+      "kommentar": "Også kjent som Jørgen Youngs bryggeri. Kjøpt opp av Christian Schou i 1837 og drevet videre under navnet Schous Bryggeri."
+    },
+    {
+      "navn": "Ytteborgs Bryggeri",
+      "sted": "Oslo",
+      "etablert": 1836,
+      "lagt_ned": 1898,
+      "type": "bryggeri",
+      "kommentar": "Flyttet og skiftet navn til Foss bryggeri i 1898."
+    },
+    {
+      "navn": "Ægir Bryggeri",
+      "sted": "Flåm",
+      "etablert": 2007,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Merkevaren solgt til Amundsen Bryggeri, og egen produksjon lagt ned."
+    },
+    {
+      "navn": "Ølbæks Bryggeri",
+      "sted": "Tananger",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri"
+    },
+    {
+      "navn": "Ølkymisten",
+      "sted": "Oslo",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Nomadebryggeri"
+    },
+    {
+      "navn": "Ølsmia",
+      "sted": "Oslo",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Ølve på Egge Bryggeri",
+      "sted": "Beitstad",
+      "etablert": 2005,
+      "lagt_ned": 2019,
+      "type": "bryggeri",
+      "kommentar": "Gikk konkurs i 2019."
+    },
+    {
+      "navn": "Aass Bryggeri",
+      "sted": "Drammen",
+      "etablert": 1834,
+      "lagt_ned": "",
+      "type": "bryggeri",
+      "kommentar": "Norges eldste bryggeri i drift. Eid av familien Aass siden 1866, og har siden starten ligget på Bragernes i Drammen ."
+    },
+    {
+      "navn": "Amundsen Bryggeri og spiseri",
+      "sted": "Oslo",
+      "etablert": 2011,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Apotekergaarden",
+      "sted": "Grimstad",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "B20 Brewpub",
+      "sted": "Sirdal",
+      "etablert": 2018,
+      "lagt_ned": 2026,
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Banken Bryggeri og Spiseri",
+      "sted": "Heidal",
+      "etablert": 2020,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Bergenhus Bryggeri",
+      "sted": "Bergen",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Bjørns Pub & Bryggeri",
+      "sted": "Skjerstad , Bodø",
+      "etablert": "",
+      "lagt_ned": 2022,
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Brewyard",
+      "sted": "Tromsø",
+      "etablert": 2023,
+      "lagt_ned": 2024,
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": "Meldte oppbud i 2024."
+    },
+    {
+      "navn": "Brix Brygghus",
+      "sted": "Bryne",
+      "etablert": 2018,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Brygghus 9",
+      "sted": "Trondheim",
+      "etablert": 2014,
+      "lagt_ned": 2016,
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Central Bybryggeri",
+      "sted": "Flekkefjord",
+      "etablert": 2018,
+      "lagt_ned": 2024,
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Christiania Bryggeri",
+      "sted": "Oslo",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Christianssand Brygghus",
+      "sted": "Kristiansand",
+      "etablert": 2012,
+      "lagt_ned": 2025,
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Crow Bar",
+      "sted": "Oslo",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Daglighallen Mikrobryggeri",
+      "sted": "Trondheim",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": "Startet med testproduksjon under festivalen UKA-13 ."
+    },
+    {
+      "navn": "Ekspedisjonen Bryggeri",
+      "sted": "Lofthus , Ullensvag",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Eldhuset Bryggeri",
+      "sted": "Overhalla",
+      "etablert": 2012,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Elgen Mikroryggeri / Skogstad hotell",
+      "sted": "Hemsedal",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Gildehallen ved Aass Bryggeri",
+      "sted": "Drammen",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Grana Bryggeri",
+      "sted": "Snåsa",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Grünerløkka Brygghus",
+      "sted": "Oslo",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Gulburet",
+      "sted": "Inderøy",
+      "etablert": 2016,
+      "lagt_ned": 2023,
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Halden Mikrobryggeri",
+      "sted": "Halden",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Horten Mikrobryggeri",
+      "sted": "Horten",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Hundholmen Brygghus",
+      "sted": "Bodø",
+      "etablert": 2015,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Kalfarets Brygghus , Waldemars Mikrobryggeri",
+      "sted": "Bergen",
+      "etablert": 2006,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Larvik Mikrobryggeri",
+      "sted": "Larvik",
+      "etablert": 2011,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Mack Mikrobryggeri",
+      "sted": "Tromsø",
+      "etablert": 2000,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Markens Grøde",
+      "sted": "Kjerringøy , Bodø",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Molo Brew",
+      "sted": "Ålesund",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Nydalen Bryggeri og spiseri",
+      "sted": "Oslo",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Opsahlgården, Kongsberg Bryggeri",
+      "sted": "Kongsberg",
+      "etablert": 2014,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Oslo Mikrobryggeri",
+      "sted": "Oslo",
+      "etablert": 1989,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Provianten",
+      "sted": "Mandal",
+      "etablert": 2008,
+      "lagt_ned": 2019,
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Ringnes Brygghus",
+      "sted": "Oslo",
+      "etablert": 2017,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": "Åpnet høsten 2018."
+    },
+    {
+      "navn": "Sandar Haandverksbryggeri",
+      "sted": "Sandefjord",
+      "etablert": 2013,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Schouskjelleren Mikrobryggeri",
+      "sted": "Oslo",
+      "etablert": 2010,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Trondhjem Mikrobryggeri",
+      "sted": "Trondheim",
+      "etablert": 1998,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": ""
+    },
+    {
+      "navn": "Ægir Bryggeripub",
+      "sted": "Flåm",
+      "etablert": "",
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": "Bryggeripub som representerer Ægir Bryggeri , huset sammen med Flåmsbrygga Hotell. Bruker det originale bryggeriet til Ægir før utvidelsen i 2012. Er fortsatt i drift etter at merkevaren ble Ægir ble solgt til Amundsen."
+    },
+    {
+      "navn": "ØX Tap Room",
+      "sted": "Trondheim",
+      "etablert": 2016,
+      "lagt_ned": "",
+      "type": "bryggeripub/mikrobryggeri",
+      "kommentar": "Bryggeri etablert 2015. Bryggeripuben åpnet i 2016."
+    }
+  ],
+  "meta": {
+    "title": "Norske bryggerier - Free Download",
+    "description": "Bryggerier og bryggeripuber i Norge med hovedkvarter/plassering, etableringsår og eventuelt nedleggelsesår. Contains 266 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norske bryggerier | ListBase",
+    "seo_description": "Download Norske bryggerier — 266 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 266 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_bryggerier"
+    ]
+  }
+}
