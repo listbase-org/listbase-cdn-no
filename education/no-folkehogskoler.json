@@ -1,0 +1,639 @@
+{
+  "id": "no-folkehogskoler",
+  "name": "Folkehøgskoler i Norge",
+  "title": "Folkehøgskoler i Norge",
+  "description": "Liste over norske folkehøgskoler med sted, fylke, grunnleggelsesår og antall elevplasser.",
+  "category": "education",
+  "source": "https://no.wikipedia.org/wiki/Folkehøgskoler_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Folkehøgskoler_i_Norge",
+  "updated": "2026-11",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "sted",
+      "label": "Sted",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "grunnlagt",
+      "label": "Grunnlagt",
+      "type": "number"
+    },
+    {
+      "key": "elevplasser",
+      "label": "Elevplasser",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "Agder folkehøgskole",
+      "sted": "Søgne",
+      "fylke": "Agder",
+      "grunnlagt": 1918,
+      "elevplasser": 110
+    },
+    {
+      "navn": "Arbeiderbevegelsens Folkehøgskole",
+      "sted": "Ringsaker",
+      "fylke": "Innlandet",
+      "grunnlagt": 1939,
+      "elevplasser": 95
+    },
+    {
+      "navn": "Buskerud Folkehøgskole",
+      "sted": "Darbu",
+      "fylke": "Buskerud",
+      "grunnlagt": 1909,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Bømlo Folkehøgskule",
+      "sted": "Finnås",
+      "fylke": "Vestland",
+      "grunnlagt": 1983,
+      "elevplasser": 100
+    },
+    {
+      "navn": "Elverum folkehøgskule",
+      "sted": "Elverum",
+      "fylke": "Innlandet",
+      "grunnlagt": 1928,
+      "elevplasser": 130
+    },
+    {
+      "navn": "Evje folkehøgskole",
+      "sted": "Evje",
+      "fylke": "Agder",
+      "grunnlagt": 2019,
+      "elevplasser": 102
+    },
+    {
+      "navn": "Fana Folkehøgskule",
+      "sted": "Bergen",
+      "fylke": "Vestland",
+      "grunnlagt": 1915,
+      "elevplasser": 92
+    },
+    {
+      "navn": "Fjordane Folkehøgskole",
+      "sted": "Nordfjordeid",
+      "fylke": "Vestland",
+      "grunnlagt": 1876,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Follo Folkehøgskole",
+      "sted": "Vestby",
+      "fylke": "Akershus",
+      "grunnlagt": 1876,
+      "elevplasser": 105
+    },
+    {
+      "navn": "Fosen folkehøgskole",
+      "sted": "Rissa",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1876,
+      "elevplasser": 62
+    },
+    {
+      "navn": "Hadeland folkehøgskole",
+      "sted": "Brandbu",
+      "fylke": "Innlandet",
+      "grunnlagt": 1906,
+      "elevplasser": 94
+    },
+    {
+      "navn": "Hallingdal Folkehøgskule",
+      "sted": "Gol",
+      "fylke": "Buskerud",
+      "grunnlagt": 1959,
+      "elevplasser": 92
+    },
+    {
+      "navn": "Hardanger Folkehøgskule",
+      "sted": "Lofthus",
+      "fylke": "Vestland",
+      "grunnlagt": 1869,
+      "elevplasser": 84
+    },
+    {
+      "navn": "Harstad Folkehøgskole",
+      "sted": "Harstad",
+      "fylke": "Troms",
+      "grunnlagt": 1919,
+      "elevplasser": 78
+    },
+    {
+      "navn": "Idrettsskolen Numedal folkehøgskole",
+      "sted": "Rollag",
+      "fylke": "Buskerud",
+      "grunnlagt": 1918,
+      "elevplasser": 103
+    },
+    {
+      "navn": "Jæren folkehøgskule",
+      "sted": "Kleppe",
+      "fylke": "Rogaland",
+      "grunnlagt": 1899,
+      "elevplasser": 95
+    },
+    {
+      "navn": "Karmøy Folkehøgskule",
+      "sted": "Kopervik",
+      "fylke": "Rogaland",
+      "grunnlagt": 1906,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Lofoten folkehøgskole",
+      "sted": "Kabelvåg",
+      "fylke": "Nordland",
+      "grunnlagt": 1901,
+      "elevplasser": 89
+    },
+    {
+      "navn": "Manger Folkehøgskule",
+      "sted": "Manger",
+      "fylke": "Vestland",
+      "grunnlagt": 1877,
+      "elevplasser": 60
+    },
+    {
+      "navn": "Møre Folkehøgskule",
+      "sted": "Ørsta",
+      "fylke": "Møre og Romsdal",
+      "grunnlagt": 1899,
+      "elevplasser": 95
+    },
+    {
+      "navn": "Namdals folkehøgskole",
+      "sted": "Grong",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1884,
+      "elevplasser": 80
+    },
+    {
+      "navn": "Nansenskolen",
+      "sted": "Lillehammer",
+      "fylke": "Innlandet",
+      "grunnlagt": 1938,
+      "elevplasser": 70
+    },
+    {
+      "navn": "Nestor seniorutvikling",
+      "sted": "Melsomvik",
+      "fylke": "Vestfold",
+      "grunnlagt": 1979,
+      "elevplasser": 95
+    },
+    {
+      "navn": "Nordmøre Folkehøgskule",
+      "sted": "Surnadal",
+      "fylke": "Møre og Romsdal",
+      "grunnlagt": 1913,
+      "elevplasser": 84
+    },
+    {
+      "navn": "Nordnorsk Pensjonistskole",
+      "sted": "Sømna",
+      "fylke": "Nordland",
+      "grunnlagt": 1991,
+      "elevplasser": 60
+    },
+    {
+      "navn": "Pasvik Folkehøgskole",
+      "sted": "Svanvik",
+      "fylke": "Finnmark",
+      "grunnlagt": 1970,
+      "elevplasser": 60
+    },
+    {
+      "navn": "Peder Morset folkehøgskole",
+      "sted": "Selbustrand",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1975,
+      "elevplasser": 68
+    },
+    {
+      "navn": "Ringebu Folkehøgskule",
+      "sted": "Ringebu",
+      "fylke": "Innlandet",
+      "grunnlagt": 1876,
+      "elevplasser": 75
+    },
+    {
+      "navn": "Ringerike Folkehøgskole",
+      "sted": "Hønefoss",
+      "fylke": "Buskerud",
+      "grunnlagt": 1876,
+      "elevplasser": 115
+    },
+    {
+      "navn": "Romerike Folkehøgskole",
+      "sted": "Jessheim",
+      "fylke": "Akershus",
+      "grunnlagt": 1876,
+      "elevplasser": 105
+    },
+    {
+      "navn": "Sandefjord folkehøyskole",
+      "sted": "Sandefjord",
+      "fylke": "Vestfold",
+      "grunnlagt": 1876,
+      "elevplasser": 98
+    },
+    {
+      "navn": "Seljord Folkehøgskule",
+      "sted": "Seljord",
+      "fylke": "Telemark",
+      "grunnlagt": 1971,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Setesdal folkehøgskole",
+      "sted": "Valle",
+      "fylke": "Agder",
+      "grunnlagt": 2010,
+      "elevplasser": 40
+    },
+    {
+      "navn": "Skap kreativ folkehøgskole",
+      "sted": "Lindesnes",
+      "fylke": "Agder",
+      "grunnlagt": 2016,
+      "elevplasser": 100
+    },
+    {
+      "navn": "Skjeberg Folkehøyskole",
+      "sted": "Skjeberg",
+      "fylke": "Østfold",
+      "grunnlagt": 1876,
+      "elevplasser": 96
+    },
+    {
+      "navn": "Skogn folkehøgskole",
+      "sted": "Skogn",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1904,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Sogndal Folkehøgskule",
+      "sted": "Sogndal",
+      "fylke": "Vestland",
+      "grunnlagt": 1871,
+      "elevplasser": 80
+    },
+    {
+      "navn": "Solbakken folkehøgskole",
+      "sted": "Skarnes i Sør-Odal",
+      "fylke": "Innlandet",
+      "grunnlagt": 1946,
+      "elevplasser": 45
+    },
+    {
+      "navn": "Stavanger Urban folkehøgskole",
+      "sted": "Stavanger",
+      "fylke": "Rogaland",
+      "grunnlagt": 2022,
+      "elevplasser": 140
+    },
+    {
+      "navn": "Stord folkehøgskule",
+      "sted": "Stord",
+      "fylke": "Vestland",
+      "grunnlagt": 2021,
+      "elevplasser": 125
+    },
+    {
+      "navn": "Sund folkehøgskole",
+      "sted": "Inderøy",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1868,
+      "elevplasser": 105
+    },
+    {
+      "navn": "Sunnhordland folkehøgskule",
+      "sted": "Halsnøy",
+      "fylke": "Vestland",
+      "grunnlagt": 1868,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Toneheim Folkehøgskole",
+      "sted": "Ridabu",
+      "fylke": "Innlandet",
+      "grunnlagt": 1970,
+      "elevplasser": 170
+    },
+    {
+      "navn": "Torshus Folkehøgskule",
+      "sted": "Fannrem",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1903,
+      "elevplasser": 80
+    },
+    {
+      "navn": "Toten folkehøgskole",
+      "sted": "Lena",
+      "fylke": "Innlandet",
+      "grunnlagt": 1882,
+      "elevplasser": 70
+    },
+    {
+      "navn": "Trøndertun folkehøgskole",
+      "sted": "Gimse",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1919,
+      "elevplasser": 155
+    },
+    {
+      "navn": "Vefsn folkehøgskole",
+      "sted": "Mosjøen",
+      "fylke": "Nordland",
+      "grunnlagt": 1899,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Voss Folkehøgskule",
+      "sted": "Seim (Vossevangen)",
+      "fylke": "Vestland",
+      "grunnlagt": 1895,
+      "elevplasser": 103
+    },
+    {
+      "navn": "Ål Folkehøyskole og kurssenter for døve",
+      "sted": "Ål",
+      "fylke": "Buskerud",
+      "grunnlagt": 1974,
+      "elevplasser": 46
+    },
+    {
+      "navn": "Åsane Folkehøgskole",
+      "sted": "Bergen",
+      "fylke": "Vestland",
+      "grunnlagt": 1966,
+      "elevplasser": 105
+    },
+    {
+      "navn": "Alta folkehøgskole",
+      "sted": "Alta",
+      "fylke": "Finnmark",
+      "grunnlagt": 1916,
+      "elevplasser": 112
+    },
+    {
+      "navn": "Bakketun Folkehøgskole",
+      "sted": "Verdal",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1915,
+      "elevplasser": 95
+    },
+    {
+      "navn": "Bjerkely folkehøyskole",
+      "sted": "Åsnes",
+      "fylke": "Innlandet",
+      "grunnlagt": 1918,
+      "elevplasser": 85
+    },
+    {
+      "navn": "Danvik Folkehøgskole",
+      "sted": "Drammen",
+      "fylke": "Buskerud",
+      "grunnlagt": 1913,
+      "elevplasser": 170
+    },
+    {
+      "navn": "Folkehøgskolen 69° Nord",
+      "sted": "Mortenhals",
+      "fylke": "Troms",
+      "grunnlagt": 1988,
+      "elevplasser": 52
+    },
+    {
+      "navn": "Folkehøgskolen Nord-Norge",
+      "sted": "Evenskjer",
+      "fylke": "Troms",
+      "grunnlagt": 1974,
+      "elevplasser": 80
+    },
+    {
+      "navn": "Folkehøgskolen Sørlandet",
+      "sted": "Birkeland",
+      "fylke": "Agder",
+      "grunnlagt": 1912,
+      "elevplasser": 135
+    },
+    {
+      "navn": "Fredly Folkehøgskole",
+      "sted": "Børsa",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1899,
+      "elevplasser": 114
+    },
+    {
+      "navn": "Grenland Folkehøgskole",
+      "sted": "Porsgrunn",
+      "fylke": "Telemark",
+      "grunnlagt": 1920,
+      "elevplasser": 120
+    },
+    {
+      "navn": "Haugetun Folkehøyskole",
+      "sted": "Rolvsøy",
+      "fylke": "Østfold",
+      "grunnlagt": 1912,
+      "elevplasser": 115
+    },
+    {
+      "navn": "Hedmarktoppen folkehøyskole",
+      "sted": "Hamar",
+      "fylke": "Innlandet",
+      "grunnlagt": 1970,
+      "elevplasser": 175
+    },
+    {
+      "navn": "Helgeland Folkehøgskole",
+      "sted": "Mosjøen",
+      "fylke": "Nordland",
+      "grunnlagt": 1971,
+      "elevplasser": 80
+    },
+    {
+      "navn": "Hurdal Verk folkehøgskole",
+      "sted": "Hurdal",
+      "fylke": "Akershus",
+      "grunnlagt": 1945,
+      "elevplasser": 118
+    },
+    {
+      "navn": "Jeløy Folkehøyskole",
+      "sted": "Moss",
+      "fylke": "Østfold",
+      "grunnlagt": 1971,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Kristiansand Folkehøyskole",
+      "sted": "Kristiansand",
+      "fylke": "Agder",
+      "grunnlagt": 2015,
+      "elevplasser": 120
+    },
+    {
+      "navn": "Lundheim folkehøgskole",
+      "sted": "Moi",
+      "fylke": "Rogaland",
+      "grunnlagt": 1952,
+      "elevplasser": 75
+    },
+    {
+      "navn": "Molde Folkehøgskole",
+      "sted": "Molde",
+      "fylke": "Møre og Romsdal",
+      "grunnlagt": 1917,
+      "elevplasser": 126
+    },
+    {
+      "navn": "Nordfjord folkehøgskule",
+      "sted": "Vereide",
+      "fylke": "Vestland",
+      "grunnlagt": 1923,
+      "elevplasser": 135
+    },
+    {
+      "navn": "Nordhordland Folkehøgskule",
+      "sted": "Frekhaug",
+      "fylke": "Vestland",
+      "grunnlagt": 1914,
+      "elevplasser": 186
+    },
+    {
+      "navn": "Nordvestlandet folkehøgskole",
+      "sted": "Torvikbukt",
+      "fylke": "Møre og Romsdal",
+      "grunnlagt": 1917,
+      "elevplasser": 105
+    },
+    {
+      "navn": "Oslofjord Folkehøgskole",
+      "sted": "Stabekk",
+      "fylke": "Akershus",
+      "grunnlagt": 1958,
+      "elevplasser": 90
+    },
+    {
+      "navn": "Risøy Folkehøyskole",
+      "sted": "Gjeving",
+      "fylke": "Agder",
+      "grunnlagt": 1936,
+      "elevplasser": 130
+    },
+    {
+      "navn": "Rødde Folkehøgskole",
+      "sted": "Melhus",
+      "fylke": "Trøndelag",
+      "grunnlagt": 1918,
+      "elevplasser": 104
+    },
+    {
+      "navn": "Rønningen folkehøgskole",
+      "sted": "Kjelsås",
+      "fylke": "Oslo",
+      "grunnlagt": 1969,
+      "elevplasser": 180
+    },
+    {
+      "navn": "Sagavoll Folkehøgskole",
+      "sted": "Gvarv",
+      "fylke": "Telemark",
+      "grunnlagt": 1893,
+      "elevplasser": 125
+    },
+    {
+      "navn": "Sjøholt folkehøgskule",
+      "sted": "Ålesund",
+      "fylke": "Møre og Romsdal",
+      "grunnlagt": 2020,
+      "elevplasser": ""
+    },
+    {
+      "navn": "Solborg Folkehøgskole",
+      "sted": "Stavanger",
+      "fylke": "Rogaland",
+      "grunnlagt": 1913,
+      "elevplasser": 155
+    },
+    {
+      "navn": "Stavern folkehøyskole (Fredtun)",
+      "sted": "Stavern",
+      "fylke": "Vestfold",
+      "grunnlagt": 1921,
+      "elevplasser": 130
+    },
+    {
+      "navn": "Sunnfjord Folkehøgskule",
+      "sted": "Førde",
+      "fylke": "Vestland",
+      "grunnlagt": 1902,
+      "elevplasser": 115
+    },
+    {
+      "navn": "Sunnmøre Folkehøgskule",
+      "sted": "Ulsteinvik",
+      "fylke": "Møre og Romsdal",
+      "grunnlagt": 1908,
+      "elevplasser": 120
+    },
+    {
+      "navn": "Svalbard folkehøgskole",
+      "sted": "Longyearbyen",
+      "fylke": "Svalbard",
+      "grunnlagt": 2019,
+      "elevplasser": 80
+    },
+    {
+      "navn": "Valdres folkehøgskule",
+      "sted": "Leira",
+      "fylke": "Innlandet",
+      "grunnlagt": 1899,
+      "elevplasser": 140
+    },
+    {
+      "navn": "Musikkfolkehøgskolen Viken",
+      "sted": "Gjøvik",
+      "fylke": "Innlandet",
+      "grunnlagt": 1901,
+      "elevplasser": 125
+    },
+    {
+      "navn": "Ålesund folkehøgskole",
+      "sted": "Ålesund",
+      "fylke": "Møre og Romsdal",
+      "grunnlagt": 1914,
+      "elevplasser": 120
+    }
+  ],
+  "meta": {
+    "title": "Folkehøgskoler i Norge - Free Download",
+    "description": "Liste over norske folkehøgskoler med sted, fylke, grunnleggelsesår og antall elevplasser. Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Folkehøgskoler i Norge | ListBase",
+    "seo_description": "Download Folkehøgskoler i Norge — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Folkehøgskoler_i_Norge"
+    ]
+  }
+}

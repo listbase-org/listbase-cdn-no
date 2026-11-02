@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-02T02:22:44.859Z",
-  "total_datasets": 457,
-  "total_records": 1197883,
+  "generated": "2026-11-02T02:22:51.651Z",
+  "total_datasets": 458,
+  "total_records": 1197967,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "entertainment",
@@ -1707,6 +1707,32 @@
         "xlsx": {
           "name": "no-barnehager_NO.xlsx",
           "size": 761474
+        }
+      }
+    },
+    {
+      "id": "no-folkehogskoler",
+      "name": "Folkehøgskoler i Norge",
+      "category": "education",
+      "record_count": 84,
+      "columns": [
+        "navn",
+        "sted",
+        "fylke",
+        "grunnlagt",
+        "elevplasser"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Folkehøgskoler_i_Norge",
+      "updated": "2026-11",
+      "size": 14703,
+      "files": {
+        "csv": {
+          "name": "no-folkehogskoler_NO.csv",
+          "size": 5162
+        },
+        "xlsx": {
+          "name": "no-folkehogskoler_NO.xlsx",
+          "size": 10096
         }
       }
     },
