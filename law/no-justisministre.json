@@ -1,0 +1,338 @@
+{
+  "id": "no-justisministre",
+  "name": "Norges justisministre",
+  "title": "Norges justisministre",
+  "description": "Liste over Norges justisministre fra 1940 (inkludert okkupasjonstiden) til i dag med periode, parti og regjering.",
+  "category": "law",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_justisministre",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_Norges_justisministre",
+  "updated": "2026-11",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "fra",
+      "label": "Fra",
+      "type": "number"
+    },
+    {
+      "key": "til",
+      "label": "Til",
+      "type": "number"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    },
+    {
+      "key": "regjering",
+      "label": "Regjering",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "Jonas Lie",
+      "fra": 1940,
+      "til": 1940,
+      "parti": "NS",
+      "regjering": "Quisling I"
+    },
+    {
+      "navn": "Ole F. Harbek",
+      "fra": 1940,
+      "til": 1940,
+      "parti": "Uavh.",
+      "regjering": "Administrasjonsrådet"
+    },
+    {
+      "navn": "Sverre Riisnæs",
+      "fra": 1940,
+      "til": 1945,
+      "parti": "NS",
+      "regjering": "Terbovens komm. Quisling II"
+    },
+    {
+      "navn": "Johan Cappelen",
+      "fra": 1945,
+      "til": 1945,
+      "parti": "H",
+      "regjering": "Gerhardsen I (Saml.)"
+    },
+    {
+      "navn": "Oscar Chr. Gundersen",
+      "fra": 1945,
+      "til": 1952,
+      "parti": "Ap",
+      "regjering": "Gerhardsen II (Ap) Torp (Ap)"
+    },
+    {
+      "navn": "Kai Birger Knudsen",
+      "fra": 1952,
+      "til": 1954,
+      "parti": "Ap",
+      "regjering": "Torp (Ap)"
+    },
+    {
+      "navn": "Gustav Sjaastad",
+      "fra": 1954,
+      "til": 1955,
+      "parti": "Ap",
+      "regjering": "Torp (Ap)"
+    },
+    {
+      "navn": "Jens Chr. Hauge",
+      "fra": 1955,
+      "til": 1955,
+      "parti": "Ap",
+      "regjering": "Gerhardsen III (Ap)"
+    },
+    {
+      "navn": "Jens Haugland",
+      "fra": 1955,
+      "til": 1963,
+      "parti": "Ap",
+      "regjering": "Gerhardsen III (Ap)"
+    },
+    {
+      "navn": "Petter Mørch Koren",
+      "fra": 1963,
+      "til": 1963,
+      "parti": "KrF",
+      "regjering": "Lyng (H, Sp, V, KrF)"
+    },
+    {
+      "navn": "Oscar Chr. Gundersen",
+      "fra": 1963,
+      "til": 1965,
+      "parti": "Ap",
+      "regjering": "Gerhardsen IV (Ap)"
+    },
+    {
+      "navn": "Elisabeth Schweigaard Selmer",
+      "fra": 1965,
+      "til": 1970,
+      "parti": "H",
+      "regjering": "Borten (Sp, H, V, KrF)"
+    },
+    {
+      "navn": "Egil Endresen",
+      "fra": 1970,
+      "til": 1971,
+      "parti": "H",
+      "regjering": "Borten (Sp, H, V, KrF)"
+    },
+    {
+      "navn": "Oddvar Berrefjord",
+      "fra": 1971,
+      "til": 1972,
+      "parti": "Ap",
+      "regjering": "Bratteli I (Ap)"
+    },
+    {
+      "navn": "Petter Mørch Koren",
+      "fra": 1972,
+      "til": 1973,
+      "parti": "KrF",
+      "regjering": "Korvald (KrF, Sp, V)"
+    },
+    {
+      "navn": "Inger Louise Valle",
+      "fra": 1973,
+      "til": 1979,
+      "parti": "Ap",
+      "regjering": "Bratteli II (Ap) Nordli (Ap)"
+    },
+    {
+      "navn": "Andreas Cappelen",
+      "fra": 1979,
+      "til": 1980,
+      "parti": "Ap",
+      "regjering": "Nordli (Ap)"
+    },
+    {
+      "navn": "Oddvar Berrefjord",
+      "fra": 1980,
+      "til": 1981,
+      "parti": "Ap",
+      "regjering": "Nordli (Ap)"
+    },
+    {
+      "navn": "Bjørn Skau",
+      "fra": 1981,
+      "til": 1981,
+      "parti": "Ap",
+      "regjering": "Brundtland I (Ap)"
+    },
+    {
+      "navn": "Mona Røkke",
+      "fra": 1981,
+      "til": 1985,
+      "parti": "H",
+      "regjering": "Willoch (H; fra 1983 H, KrF, Sp)"
+    },
+    {
+      "navn": "Wenche Frogn Sellæg",
+      "fra": 1985,
+      "til": 1986,
+      "parti": "H",
+      "regjering": "Willoch (H, KrF, Sp)"
+    },
+    {
+      "navn": "Helen Marie Bøsterud",
+      "fra": 1986,
+      "til": 1989,
+      "parti": "Ap",
+      "regjering": "Brundtland II (Ap)"
+    },
+    {
+      "navn": "Else Bugge Fougner",
+      "fra": 1989,
+      "til": 1990,
+      "parti": "H",
+      "regjering": "Syse (H, KrF, Sp)"
+    },
+    {
+      "navn": "Kari Gjesteby",
+      "fra": 1990,
+      "til": 1992,
+      "parti": "Ap",
+      "regjering": "Brundtland III (Ap)"
+    },
+    {
+      "navn": "Grete Faremo",
+      "fra": 1992,
+      "til": 1996,
+      "parti": "Ap",
+      "regjering": "Brundtland III (Ap)"
+    },
+    {
+      "navn": "Anne Holt",
+      "fra": 1996,
+      "til": 1997,
+      "parti": "Ap",
+      "regjering": "Jagland (Ap)"
+    },
+    {
+      "navn": "Gerd-Liv Valla",
+      "fra": 1997,
+      "til": 1997,
+      "parti": "Ap",
+      "regjering": "Jagland (Ap)"
+    },
+    {
+      "navn": "Aud Inger Aure",
+      "fra": 1997,
+      "til": 1999,
+      "parti": "KrF",
+      "regjering": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "navn": "Odd Einar Dørum",
+      "fra": 1999,
+      "til": 2000,
+      "parti": "V",
+      "regjering": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "navn": "Hanne Harlem",
+      "fra": 2000,
+      "til": 2001,
+      "parti": "Ap",
+      "regjering": "Stoltenberg I (Ap)"
+    },
+    {
+      "navn": "Odd Einar Dørum",
+      "fra": 2001,
+      "til": 2005,
+      "parti": "V",
+      "regjering": "Bondevik II (KrF, H, V)"
+    },
+    {
+      "navn": "Knut Storberget",
+      "fra": 2005,
+      "til": 2011,
+      "parti": "Ap",
+      "regjering": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "navn": "Grete Faremo",
+      "fra": 2011,
+      "til": 2013,
+      "parti": "Ap",
+      "regjering": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "navn": "Anders Anundsen",
+      "fra": 2013,
+      "til": 2016,
+      "parti": "Frp",
+      "regjering": "Solberg (H, Frp)"
+    },
+    {
+      "navn": "Per-Willy Amundsen",
+      "fra": 2016,
+      "til": 2018,
+      "parti": "Frp",
+      "regjering": "Solberg (H, Frp)"
+    },
+    {
+      "navn": "Sylvi Listhaug",
+      "fra": 2018,
+      "til": 2018,
+      "parti": "Frp",
+      "regjering": "Solberg (H, Frp, V)"
+    },
+    {
+      "navn": "Tor Mikkel Wara",
+      "fra": 2018,
+      "til": 2019,
+      "parti": "Frp",
+      "regjering": "Solberg (H, Frp, V) Solberg (H, Frp, V, KrF, fra 22.01.19)"
+    },
+    {
+      "navn": "Jøran Kallmyr",
+      "fra": 2019,
+      "til": 2020,
+      "parti": "Frp",
+      "regjering": "Solberg (H, Frp, V, KrF)"
+    },
+    {
+      "navn": "Monica Mæland",
+      "fra": 2020,
+      "til": 2021,
+      "parti": "H",
+      "regjering": "Solberg (H, V, KrF)"
+    },
+    {
+      "navn": "Emilie Enger Mehl",
+      "fra": 2021,
+      "til": 2025,
+      "parti": "Sp",
+      "regjering": "Støre (Ap, Sp)"
+    },
+    {
+      "navn": "Astri Aas-Hansen",
+      "fra": 2025,
+      "til": "",
+      "parti": "Ap",
+      "regjering": "Støre (Ap)"
+    }
+  ],
+  "meta": {
+    "title": "Norges justisministre - Free Download",
+    "description": "Liste over Norges justisministre fra 1940 (inkludert okkupasjonstiden) til i dag med periode, parti og regjering. Contains 41 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges justisministre | ListBase",
+    "seo_description": "Download Norges justisministre — 41 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 41 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_Norges_justisministre"
+    ]
+  }
+}
