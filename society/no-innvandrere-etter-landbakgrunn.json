@@ -1,0 +1,516 @@
+{
+  "id": "no-innvandrere-etter-landbakgrunn",
+  "name": "Innvandrere i Norge etter landbakgrunn (2025)",
+  "title": "Innvandrere i Norge etter landbakgrunn (2025)",
+  "description": "Innvandrere i Norge etter landbakgrunn: omtrentlig antall personer i 2025 og andel av total befolkning, per opprinnelsesland.",
+  "category": "society",
+  "source": "https://no.wikipedia.org/wiki/Innvandrere_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Innvandrere_i_Norge",
+  "updated": "2026-11",
+  "record_count": 95,
+  "columns": [
+    {
+      "key": "land",
+      "label": "Land",
+      "type": "string"
+    },
+    {
+      "key": "befolkning_2025_ca",
+      "label": "Befolkning 2025 Ca",
+      "type": "number"
+    },
+    {
+      "key": "andel_av_befolkningen",
+      "label": "Andel Av Befolkningen",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "land": "Polen",
+      "befolkning_2025_ca": 129000,
+      "andel_av_befolkningen": "2,31 %"
+    },
+    {
+      "land": "Ukraina",
+      "befolkning_2025_ca": 81900,
+      "andel_av_befolkningen": "1,46 %"
+    },
+    {
+      "land": "Litauen",
+      "befolkning_2025_ca": 51400,
+      "andel_av_befolkningen": "0,92 %"
+    },
+    {
+      "land": "Syria",
+      "befolkning_2025_ca": 48600,
+      "andel_av_befolkningen": "0,87 %"
+    },
+    {
+      "land": "Somalia",
+      "befolkning_2025_ca": 44100,
+      "andel_av_befolkningen": "0,79 %"
+    },
+    {
+      "land": "Pakistan",
+      "befolkning_2025_ca": 43200,
+      "andel_av_befolkningen": "0,77 %"
+    },
+    {
+      "land": "Sverige",
+      "befolkning_2025_ca": 41000,
+      "andel_av_befolkningen": "0,73 %"
+    },
+    {
+      "land": "Irak",
+      "befolkning_2025_ca": 36500,
+      "andel_av_befolkningen": "0,65 %"
+    },
+    {
+      "land": "Eritrea",
+      "befolkning_2025_ca": 35200,
+      "andel_av_befolkningen": "0,63 %"
+    },
+    {
+      "land": "Tyskland",
+      "befolkning_2025_ca": 31200,
+      "andel_av_befolkningen": "0,56 %"
+    },
+    {
+      "land": "Filippinene",
+      "befolkning_2025_ca": 29400,
+      "andel_av_befolkningen": "0,53 %"
+    },
+    {
+      "land": "Russland",
+      "befolkning_2025_ca": 27200,
+      "andel_av_befolkningen": "0,49 %"
+    },
+    {
+      "land": "Afghanistan",
+      "befolkning_2025_ca": 26800,
+      "andel_av_befolkningen": "0,48 %"
+    },
+    {
+      "land": "Iran",
+      "befolkning_2025_ca": 26200,
+      "andel_av_befolkningen": "0,47 %"
+    },
+    {
+      "land": "India",
+      "befolkning_2025_ca": 24500,
+      "andel_av_befolkningen": "0,44 %"
+    },
+    {
+      "land": "Vietnam",
+      "befolkning_2025_ca": 24400,
+      "andel_av_befolkningen": "0,44 %"
+    },
+    {
+      "land": "Thailand",
+      "befolkning_2025_ca": 24300,
+      "andel_av_befolkningen": "0,43 %"
+    },
+    {
+      "land": "Tyrkia",
+      "befolkning_2025_ca": 23400,
+      "andel_av_befolkningen": "0,42 %"
+    },
+    {
+      "land": "Romania",
+      "befolkning_2025_ca": 21500,
+      "andel_av_befolkningen": "0,38 %"
+    },
+    {
+      "land": "Danmark",
+      "befolkning_2025_ca": 20400,
+      "andel_av_befolkningen": "0,36 %"
+    },
+    {
+      "land": "Bosnia-Hercegovina",
+      "befolkning_2025_ca": 19200,
+      "andel_av_befolkningen": "0,34 %"
+    },
+    {
+      "land": "Storbritannia",
+      "befolkning_2025_ca": 18200,
+      "andel_av_befolkningen": "0,33 %"
+    },
+    {
+      "land": "Kosovo",
+      "befolkning_2025_ca": 17800,
+      "andel_av_befolkningen": "0,32 %"
+    },
+    {
+      "land": "Sri Lanka",
+      "befolkning_2025_ca": 16400,
+      "andel_av_befolkningen": "0,29 %"
+    },
+    {
+      "land": "Latvia",
+      "befolkning_2025_ca": 15600,
+      "andel_av_befolkningen": "0,28 %"
+    },
+    {
+      "land": "Etiopia",
+      "befolkning_2025_ca": 14100,
+      "andel_av_befolkningen": "0,25 %"
+    },
+    {
+      "land": "Kina",
+      "befolkning_2025_ca": 12600,
+      "andel_av_befolkningen": "0,22 %"
+    },
+    {
+      "land": "Marokko",
+      "befolkning_2025_ca": 11700,
+      "andel_av_befolkningen": "0,21 %"
+    },
+    {
+      "land": "Sambandsstatene",
+      "befolkning_2025_ca": 11600,
+      "andel_av_befolkningen": "0,21 %"
+    },
+    {
+      "land": "Serbia",
+      "befolkning_2025_ca": 11300,
+      "andel_av_befolkningen": "0,20 %"
+    },
+    {
+      "land": "Nederland",
+      "befolkning_2025_ca": 10300,
+      "andel_av_befolkningen": "0,18 %"
+    },
+    {
+      "land": "Spania",
+      "befolkning_2025_ca": 10000,
+      "andel_av_befolkningen": "0,18 %"
+    },
+    {
+      "land": "Bulgaria",
+      "befolkning_2025_ca": 9100,
+      "andel_av_befolkningen": "0,16 %"
+    },
+    {
+      "land": "Frankrike",
+      "befolkning_2025_ca": 8100,
+      "andel_av_befolkningen": "0,14 %"
+    },
+    {
+      "land": "Chile",
+      "befolkning_2025_ca": 8000,
+      "andel_av_befolkningen": "0,14 %"
+    },
+    {
+      "land": "Finland",
+      "befolkning_2025_ca": 7600,
+      "andel_av_befolkningen": "0,14 %"
+    },
+    {
+      "land": "Island",
+      "befolkning_2025_ca": 7600,
+      "andel_av_befolkningen": "0,14 %"
+    },
+    {
+      "land": "Sudan",
+      "befolkning_2025_ca": 7600,
+      "andel_av_befolkningen": "0,14 %"
+    },
+    {
+      "land": "Brasil",
+      "befolkning_2025_ca": 7300,
+      "andel_av_befolkningen": "0,13 %"
+    },
+    {
+      "land": "Kroatia",
+      "befolkning_2025_ca": 7200,
+      "andel_av_befolkningen": "0,13 %"
+    },
+    {
+      "land": "Italia",
+      "befolkning_2025_ca": 6900,
+      "andel_av_befolkningen": "0,12 %"
+    },
+    {
+      "land": "DRC",
+      "befolkning_2025_ca": 6600,
+      "andel_av_befolkningen": "0,12 %"
+    },
+    {
+      "land": "Ungarn",
+      "befolkning_2025_ca": 5400,
+      "andel_av_befolkningen": "0,10 %"
+    },
+    {
+      "land": "Estland",
+      "befolkning_2025_ca": 5200,
+      "andel_av_befolkningen": "0,09 %"
+    },
+    {
+      "land": "Hellas",
+      "befolkning_2025_ca": 5200,
+      "andel_av_befolkningen": "0,09 %"
+    },
+    {
+      "land": "Libanon",
+      "befolkning_2025_ca": 5100,
+      "andel_av_befolkningen": "0,09 %"
+    },
+    {
+      "land": "Nord-Makedonia",
+      "befolkning_2025_ca": 5100,
+      "andel_av_befolkningen": "0,09 %"
+    },
+    {
+      "land": "Portugal",
+      "befolkning_2025_ca": 5000,
+      "andel_av_befolkningen": "0,09 %"
+    },
+    {
+      "land": "Palestina",
+      "befolkning_2025_ca": 5000,
+      "andel_av_befolkningen": "0,09 %"
+    },
+    {
+      "land": "Albania",
+      "befolkning_2025_ca": 4700,
+      "andel_av_befolkningen": "0,08 %"
+    },
+    {
+      "land": "Slovakia",
+      "befolkning_2025_ca": 4700,
+      "andel_av_befolkningen": "0,08 %"
+    },
+    {
+      "land": "Myanmar",
+      "befolkning_2025_ca": 4600,
+      "andel_av_befolkningen": "0,08 %"
+    },
+    {
+      "land": "Nepal",
+      "befolkning_2025_ca": 4000,
+      "andel_av_befolkningen": "0,07 %"
+    },
+    {
+      "land": "Ghana",
+      "befolkning_2025_ca": 3400,
+      "andel_av_befolkningen": "0,06 %"
+    },
+    {
+      "land": "Nigeria",
+      "befolkning_2025_ca": 3300,
+      "andel_av_befolkningen": "0,06 %"
+    },
+    {
+      "land": "Colombia",
+      "befolkning_2025_ca": 3300,
+      "andel_av_befolkningen": "0,06 %"
+    },
+    {
+      "land": "Moldova",
+      "befolkning_2025_ca": 3300,
+      "andel_av_befolkningen": "0,06 %"
+    },
+    {
+      "land": "Uganda",
+      "befolkning_2025_ca": 3100,
+      "andel_av_befolkningen": "0,06 %"
+    },
+    {
+      "land": "Kenya",
+      "befolkning_2025_ca": 3100,
+      "andel_av_befolkningen": "0,05 %"
+    },
+    {
+      "land": "Tsjekkia",
+      "befolkning_2025_ca": 2900,
+      "andel_av_befolkningen": "0,05 %"
+    },
+    {
+      "land": "Bangladesh",
+      "befolkning_2025_ca": 2700,
+      "andel_av_befolkningen": "0,05 %"
+    },
+    {
+      "land": "Canada",
+      "befolkning_2025_ca": 2600,
+      "andel_av_befolkningen": "0,05 %"
+    },
+    {
+      "land": "Argentina",
+      "befolkning_2025_ca": 2200,
+      "andel_av_befolkningen": "0,04 %"
+    },
+    {
+      "land": "Indonesia",
+      "befolkning_2025_ca": 2200,
+      "andel_av_befolkningen": "0,04 %"
+    },
+    {
+      "land": "Algerie",
+      "befolkning_2025_ca": 2100,
+      "andel_av_befolkningen": "0,04 %"
+    },
+    {
+      "land": "Australia",
+      "befolkning_2025_ca": 2100,
+      "andel_av_befolkningen": "0,04 %"
+    },
+    {
+      "land": "Egypt",
+      "befolkning_2025_ca": 2100,
+      "andel_av_befolkningen": "0,04 %"
+    },
+    {
+      "land": "Belarus",
+      "befolkning_2025_ca": 2100,
+      "andel_av_befolkningen": "0,04 %"
+    },
+    {
+      "land": "Mexico",
+      "befolkning_2025_ca": 2000,
+      "andel_av_befolkningen": "0,04 %"
+    },
+    {
+      "land": "Gambia",
+      "befolkning_2025_ca": 2000,
+      "andel_av_befolkningen": "0,04 %"
+    },
+    {
+      "land": "Sveits",
+      "befolkning_2025_ca": 2000,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Rwanda",
+      "befolkning_2025_ca": 1900,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Belgia",
+      "befolkning_2025_ca": 1900,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Venezuela",
+      "befolkning_2025_ca": 1900,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Tunisia",
+      "befolkning_2025_ca": 1900,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Peru",
+      "befolkning_2025_ca": 1800,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Kasakhstan",
+      "befolkning_2025_ca": 1800,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Sør-Afrika",
+      "befolkning_2025_ca": 1700,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Burundi",
+      "befolkning_2025_ca": 1700,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Østerrike",
+      "befolkning_2025_ca": 1700,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Saudi-Arabia",
+      "befolkning_2025_ca": 1600,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Sør-Korea",
+      "befolkning_2025_ca": 1600,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Jordan",
+      "befolkning_2025_ca": 1500,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Japan",
+      "befolkning_2025_ca": 1500,
+      "andel_av_befolkningen": "0,03 %"
+    },
+    {
+      "land": "Cuba",
+      "befolkning_2025_ca": 1400,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Libya",
+      "befolkning_2025_ca": 1300,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Malaysia",
+      "befolkning_2025_ca": 1300,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Irland",
+      "befolkning_2025_ca": 1300,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Liberia",
+      "befolkning_2025_ca": 1300,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Dominikana",
+      "befolkning_2025_ca": 1300,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Usbekistan",
+      "befolkning_2025_ca": 1100,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Tanzania",
+      "befolkning_2025_ca": 1000,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Aserbajdsjan",
+      "befolkning_2025_ca": 1000,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Jemen",
+      "befolkning_2025_ca": 1000,
+      "andel_av_befolkningen": "0,02 %"
+    },
+    {
+      "land": "Kamerun",
+      "befolkning_2025_ca": 1000,
+      "andel_av_befolkningen": "0,02 %"
+    }
+  ],
+  "meta": {
+    "title": "Innvandrere i Norge etter landbakgrunn (2025) - Free Download",
+    "description": "Innvandrere i Norge etter landbakgrunn: omtrentlig antall personer i 2025 og andel av total befolkning, per opprinnelsesland. Contains 95 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Innvandrere i Norge etter landbakgrunn (2025) | ListBase",
+    "seo_description": "Download Innvandrere i Norge etter landbakgrunn (2025) — 95 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 95 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Innvandrere_i_Norge"
+    ]
+  }
+}

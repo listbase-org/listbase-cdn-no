@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-02T02:22:51.651Z",
-  "total_datasets": 458,
-  "total_records": 1197967,
+  "generated": "2026-11-02T02:22:59.023Z",
+  "total_datasets": 459,
+  "total_records": 1198062,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -11774,6 +11774,30 @@
         "xlsx": {
           "name": "no-arter-sterkt-truede_NO.xlsx",
           "size": 85330
+        }
+      }
+    },
+    {
+      "id": "no-innvandrere-etter-landbakgrunn",
+      "name": "Innvandrere i Norge etter landbakgrunn (2025)",
+      "category": "society",
+      "record_count": 95,
+      "columns": [
+        "land",
+        "befolkning_2025_ca",
+        "andel_av_befolkningen"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Innvandrere_i_Norge",
+      "updated": "2026-11",
+      "size": 12291,
+      "files": {
+        "csv": {
+          "name": "no-innvandrere-etter-landbakgrunn_NO.csv",
+          "size": 2594
+        },
+        "xlsx": {
+          "name": "no-innvandrere-etter-landbakgrunn_NO.xlsx",
+          "size": 9034
         }
       }
     },
