@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-02T02:23:06.478Z",
-  "total_datasets": 460,
-  "total_records": 1198103,
+  "generated": "2026-11-02T02:23:14.790Z",
+  "total_datasets": 461,
+  "total_records": 1198460,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -4739,6 +4739,32 @@
         "xlsx": {
           "name": "no-norges-konger_NO.xlsx",
           "size": 12830
+        }
+      }
+    },
+    {
+      "id": "no-kommuner-malform",
+      "name": "Målform i norske kommuner",
+      "category": "language",
+      "record_count": 357,
+      "columns": [
+        "kommunenr",
+        "kommune",
+        "fylke",
+        "malform",
+        "samisk_forvaltningsomrade"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_kommuner",
+      "updated": "2026-11",
+      "size": 60629,
+      "files": {
+        "csv": {
+          "name": "no-kommuner-malform_NO.csv",
+          "size": 16188
+        },
+        "xlsx": {
+          "name": "no-kommuner-malform_NO.xlsx",
+          "size": 17795
         }
       }
     },

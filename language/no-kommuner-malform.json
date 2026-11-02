@@ -1,0 +1,2550 @@
+{
+  "id": "no-kommuner-malform",
+  "name": "Målform i norske kommuner",
+  "title": "Målform i norske kommuner",
+  "description": "Offisiell målform (bokmål, nynorsk eller nøytral) for hver norsk kommune, med fylke og om kommunen er i forvaltningsområdet for samisk språk.",
+  "category": "language",
+  "source": "https://no.wikipedia.org/wiki/Norges_kommuner",
+  "source_url": "https://no.wikipedia.org/wiki/Norges_kommuner",
+  "updated": "2026-11",
+  "record_count": 357,
+  "columns": [
+    {
+      "key": "kommunenr",
+      "label": "Kommunenr",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "malform",
+      "label": "Malform",
+      "type": "string"
+    },
+    {
+      "key": "samisk_forvaltningsomrade",
+      "label": "Samisk Forvaltningsomrade",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kommunenr": "5620",
+      "kommune": "Nordkapp",
+      "fylke": "Finnmark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5626",
+      "kommune": "Gamvik",
+      "fylke": "Finnmark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5618",
+      "kommune": "Måsøy",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5630",
+      "kommune": "Berlevåg",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5624",
+      "kommune": "Lebesby",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5632",
+      "kommune": "Båtsfjord",
+      "fylke": "Finnmark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5603",
+      "kommune": "Hammerfest",
+      "fylke": "Finnmark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5616",
+      "kommune": "Hasvik",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5634",
+      "kommune": "Vardø",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5628",
+      "kommune": "Tana",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5614",
+      "kommune": "Loppa",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5622",
+      "kommune": "Porsanger",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5636",
+      "kommune": "Nesseby",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5607",
+      "kommune": "Vadsø",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5542",
+      "kommune": "Skjervøy",
+      "fylke": "Troms",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5534",
+      "kommune": "Karlsøy",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5601",
+      "kommune": "Alta",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5546",
+      "kommune": "Kvænangen",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5544",
+      "kommune": "Nordreisa",
+      "fylke": "Troms",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5501",
+      "kommune": "Tromsø",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5536",
+      "kommune": "Lyngen",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5540",
+      "kommune": "Kåfjord",
+      "fylke": "Troms",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5610",
+      "kommune": "Karasjok",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5538",
+      "kommune": "Storfjord",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5530",
+      "kommune": "Senja",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5532",
+      "kommune": "Balsfjord",
+      "fylke": "Troms",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1871",
+      "kommune": "Andøy",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5526",
+      "kommune": "Sørreisa",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5612",
+      "kommune": "Kautokeino",
+      "fylke": "Finnmark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5524",
+      "kommune": "Målselv",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5528",
+      "kommune": "Dyrøy",
+      "fylke": "Troms",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1868",
+      "kommune": "Øksnes",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5522",
+      "kommune": "Salangen",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5520",
+      "kommune": "Bardu",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5514",
+      "kommune": "Ibestad",
+      "fylke": "Troms",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5503",
+      "kommune": "Harstad",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5518",
+      "kommune": "Lavangen",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5510",
+      "kommune": "Kvæfjord",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1870",
+      "kommune": "Sortland",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5516",
+      "kommune": "Gratangen",
+      "fylke": "Troms",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1867",
+      "kommune": "Bø",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5512",
+      "kommune": "Tjeldsund",
+      "fylke": "Troms",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "1866",
+      "kommune": "Hadsel",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1853",
+      "kommune": "Evenes",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1851",
+      "kommune": "Lødingen",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1806",
+      "kommune": "Narvik",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1865",
+      "kommune": "Vågan",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1860",
+      "kommune": "Vestvågøy",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1859",
+      "kommune": "Flakstad",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1875",
+      "kommune": "Hamarøy",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "1874",
+      "kommune": "Moskenes",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1848",
+      "kommune": "Steigen",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1857",
+      "kommune": "Værøy",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1856",
+      "kommune": "Røst",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1845",
+      "kommune": "Sørfold",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1804",
+      "kommune": "Bodø",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1841",
+      "kommune": "Fauske",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1838",
+      "kommune": "Gildeskål",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1840",
+      "kommune": "Saltdal",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1839",
+      "kommune": "Beiarn",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1837",
+      "kommune": "Meløy",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1836",
+      "kommune": "Rødøy",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1835",
+      "kommune": "Træna",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1834",
+      "kommune": "Lurøy",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1833",
+      "kommune": "Rana",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1828",
+      "kommune": "Nesna",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1827",
+      "kommune": "Dønna",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1832",
+      "kommune": "Hemnes",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1822",
+      "kommune": "Leirfjord",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1818",
+      "kommune": "Herøy",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1820",
+      "kommune": "Alstahaug",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1824",
+      "kommune": "Vefsn",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1816",
+      "kommune": "Vevelstad",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1815",
+      "kommune": "Vega",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1826",
+      "kommune": "Hattfjelldal",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "1813",
+      "kommune": "Brønnøy",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1825",
+      "kommune": "Grane",
+      "fylke": "Nordland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1812",
+      "kommune": "Sømna",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1811",
+      "kommune": "Bindal",
+      "fylke": "Nordland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5052",
+      "kommune": "Leka",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5060",
+      "kommune": "Nærøysund",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5043",
+      "kommune": "Røyrvik",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5044",
+      "kommune": "Namsskogan",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5046",
+      "kommune": "Høylandet",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5049",
+      "kommune": "Flatanger",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5047",
+      "kommune": "Overhalla",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5045",
+      "kommune": "Grong",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5007",
+      "kommune": "Namsos",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5042",
+      "kommune": "Lierne",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5020",
+      "kommune": "Osen",
+      "fylke": "Trøndelag",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5041",
+      "kommune": "Snåsa",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "5058",
+      "kommune": "Åfjord",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5006",
+      "kommune": "Steinkjer",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5053",
+      "kommune": "Inderøy",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5038",
+      "kommune": "Verdal",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5014",
+      "kommune": "Frøya",
+      "fylke": "Trøndelag",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5057",
+      "kommune": "Ørland",
+      "fylke": "Trøndelag",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5037",
+      "kommune": "Levanger",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5054",
+      "kommune": "Indre Fosen",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5036",
+      "kommune": "Frosta",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5056",
+      "kommune": "Hitra",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5035",
+      "kommune": "Stjørdal",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5034",
+      "kommune": "Meråker",
+      "fylke": "Trøndelag",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5031",
+      "kommune": "Malvik",
+      "fylke": "Trøndelag",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1573",
+      "kommune": "Smøla",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5001",
+      "kommune": "Trondheim",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5029",
+      "kommune": "Skaun",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5059",
+      "kommune": "Orkland",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1576",
+      "kommune": "Aure",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5055",
+      "kommune": "Heim",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5032",
+      "kommune": "Selbu",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5028",
+      "kommune": "Melhus",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1505",
+      "kommune": "Kristiansund",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5061",
+      "kommune": "Rindal",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1554",
+      "kommune": "Averøy",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1560",
+      "kommune": "Tingvoll",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5033",
+      "kommune": "Tydal",
+      "fylke": "Trøndelag",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1566",
+      "kommune": "Surnadal",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke": "Trøndelag",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1557",
+      "kommune": "Gjemnes",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1579",
+      "kommune": "Hustadvika",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5026",
+      "kommune": "Holtålen",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5022",
+      "kommune": "Rennebu",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1547",
+      "kommune": "Aukra",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1506",
+      "kommune": "Molde",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1563",
+      "kommune": "Sunndal",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5021",
+      "kommune": "Oppdal",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "5025",
+      "kommune": "Røros",
+      "fylke": "Trøndelag",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "ja"
+    },
+    {
+      "kommunenr": "1535",
+      "kommune": "Vestnes",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1580",
+      "kommune": "Haram",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1539",
+      "kommune": "Rauma",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1532",
+      "kommune": "Giske",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1508",
+      "kommune": "Ålesund",
+      "fylke": "Møre og Romsdal",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3430",
+      "kommune": "Os",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1531",
+      "kommune": "Sula",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1528",
+      "kommune": "Sykkylven",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3426",
+      "kommune": "Tolga",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1517",
+      "kommune": "Hareid",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1516",
+      "kommune": "Ulstein",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1578",
+      "kommune": "Fjord",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1515",
+      "kommune": "Herøy",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3427",
+      "kommune": "Tynset",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1525",
+      "kommune": "Stranda",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1514",
+      "kommune": "Sande",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1520",
+      "kommune": "Ørsta",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3432",
+      "kommune": "Lesja",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3429",
+      "kommune": "Folldal",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3428",
+      "kommune": "Alvdal",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1577",
+      "kommune": "Volda",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1511",
+      "kommune": "Vanylven",
+      "fylke": "Møre og Romsdal",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3431",
+      "kommune": "Dovre",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4649",
+      "kommune": "Stad",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3433",
+      "kommune": "Skjåk",
+      "fylke": "Innlandet",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4651",
+      "kommune": "Stryn",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3425",
+      "kommune": "Engerdal",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3435",
+      "kommune": "Vågå",
+      "fylke": "Innlandet",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4648",
+      "kommune": "Bremanger",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3434",
+      "kommune": "Lom",
+      "fylke": "Innlandet",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3437",
+      "kommune": "Sel",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3424",
+      "kommune": "Rendalen",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4650",
+      "kommune": "Gloppen",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4602",
+      "kommune": "Kinn",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3436",
+      "kommune": "Nord-Fron",
+      "fylke": "Innlandet",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3423",
+      "kommune": "Stor-Elvdal",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3439",
+      "kommune": "Ringebu",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3438",
+      "kommune": "Sør-Fron",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4647",
+      "kommune": "Sunnfjord",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4644",
+      "kommune": "Luster",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4645",
+      "kommune": "Askvoll",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3421",
+      "kommune": "Trysil",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4646",
+      "kommune": "Fjaler",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4643",
+      "kommune": "Årdal",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3441",
+      "kommune": "Gausdal",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3440",
+      "kommune": "Øyer",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4640",
+      "kommune": "Sogndal",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3422",
+      "kommune": "Åmot",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke": "Innlandet",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3454",
+      "kommune": "Vang",
+      "fylke": "Innlandet",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4637",
+      "kommune": "Hyllestad",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4638",
+      "kommune": "Høyanger",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3405",
+      "kommune": "Lillehammer",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4642",
+      "kommune": "Lærdal",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4636",
+      "kommune": "Solund",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4639",
+      "kommune": "Vik",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3452",
+      "kommune": "Vestre Slidre",
+      "fylke": "Innlandet",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3450",
+      "kommune": "Etnedal",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3411",
+      "kommune": "Ringsaker",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4635",
+      "kommune": "Gulen",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3448",
+      "kommune": "Nordre Land",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3420",
+      "kommune": "Elverum",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4641",
+      "kommune": "Aurland",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3326",
+      "kommune": "Hemsedal",
+      "fylke": "Buskerud",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3412",
+      "kommune": "Løten",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4634",
+      "kommune": "Masfjorden",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4629",
+      "kommune": "Modalen",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3407",
+      "kommune": "Gjøvik",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3403",
+      "kommune": "Hamar",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4632",
+      "kommune": "Austrheim",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4633",
+      "kommune": "Fedje",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3324",
+      "kommune": "Gol",
+      "fylke": "Buskerud",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3449",
+      "kommune": "Sør-Aurdal",
+      "fylke": "Innlandet",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3419",
+      "kommune": "Våler",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3413",
+      "kommune": "Stange",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3447",
+      "kommune": "Søndre Land",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3443",
+      "kommune": "Vestre Toten",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3328",
+      "kommune": "Ål",
+      "fylke": "Buskerud",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4621",
+      "kommune": "Voss",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3442",
+      "kommune": "Østre Toten",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4631",
+      "kommune": "Alver",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3418",
+      "kommune": "Åsnes",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4628",
+      "kommune": "Vaksdal",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4620",
+      "kommune": "Ulvik",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3322",
+      "kommune": "Nesbyen",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3330",
+      "kommune": "Hol",
+      "fylke": "Buskerud",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4630",
+      "kommune": "Osterøy",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3417",
+      "kommune": "Grue",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4627",
+      "kommune": "Askøy",
+      "fylke": "Vestland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3242",
+      "kommune": "Hurdal",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4619",
+      "kommune": "Eidfjord",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3414",
+      "kommune": "Nord-Odal",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3320",
+      "kommune": "Flå",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3446",
+      "kommune": "Gran",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4623",
+      "kommune": "Samnanger",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4601",
+      "kommune": "Bergen",
+      "fylke": "Vestland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4626",
+      "kommune": "Øygarden",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4622",
+      "kommune": "Kvam",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3240",
+      "kommune": "Eidsvoll",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3338",
+      "kommune": "Nore og Uvdal",
+      "fylke": "Buskerud",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3234",
+      "kommune": "Lunner",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3236",
+      "kommune": "Jevnaker",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3415",
+      "kommune": "Sør-Odal",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3238",
+      "kommune": "Nannestad",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3305",
+      "kommune": "Ringerike",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3401",
+      "kommune": "Kongsvinger",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3332",
+      "kommune": "Sigdal",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4624",
+      "kommune": "Bjørnafjorden",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3318",
+      "kommune": "Krødsherad",
+      "fylke": "Buskerud",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3209",
+      "kommune": "Ullensaker",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3228",
+      "kommune": "Nes",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4618",
+      "kommune": "Ullensvang",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3230",
+      "kommune": "Gjerdrum",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3310",
+      "kommune": "Hole",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4625",
+      "kommune": "Austevoll",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3232",
+      "kommune": "Nittedal",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3336",
+      "kommune": "Rollag",
+      "fylke": "Buskerud",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4616",
+      "kommune": "Tysnes",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3416",
+      "kommune": "Eidskog",
+      "fylke": "Innlandet",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3205",
+      "kommune": "Lillestrøm",
+      "fylke": "Akershus",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3316",
+      "kommune": "Modum",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4026",
+      "kommune": "Tinn",
+      "fylke": "Telemark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3222",
+      "kommune": "Lørenskog",
+      "fylke": "Akershus",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3224",
+      "kommune": "Rælingen",
+      "fylke": "Akershus",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3201",
+      "kommune": "Bærum",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "0301",
+      "kommune": "Oslo",
+      "fylke": "Oslo",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4615",
+      "kommune": "Fitjar",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4617",
+      "kommune": "Kvinnherad",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke": "Akershus",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3334",
+      "kommune": "Flesberg",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3212",
+      "kommune": "Nesodden",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3312",
+      "kommune": "Lier",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4614",
+      "kommune": "Stord",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3220",
+      "kommune": "Enebakk",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3203",
+      "kommune": "Asker",
+      "fylke": "Akershus",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3314",
+      "kommune": "Øvre Eiker",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3207",
+      "kommune": "Nordre Follo",
+      "fylke": "Akershus",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4613",
+      "kommune": "Bømlo",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3301",
+      "kommune": "Drammen",
+      "fylke": "Buskerud",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4036",
+      "kommune": "Vinje",
+      "fylke": "Telemark",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4024",
+      "kommune": "Hjartdal",
+      "fylke": "Telemark",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4611",
+      "kommune": "Etne",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3218",
+      "kommune": "Ås",
+      "fylke": "Akershus",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3214",
+      "kommune": "Frogn",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1135",
+      "kommune": "Sauda",
+      "fylke": "Rogaland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3303",
+      "kommune": "Kongsberg",
+      "fylke": "Buskerud",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3118",
+      "kommune": "Indre Østfold",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4005",
+      "kommune": "Notodden",
+      "fylke": "Telemark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4612",
+      "kommune": "Sveio",
+      "fylke": "Vestland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3216",
+      "kommune": "Vestby",
+      "fylke": "Akershus",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1160",
+      "kommune": "Vindafjord",
+      "fylke": "Rogaland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3903",
+      "kommune": "Holmestrand",
+      "fylke": "Vestfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4022",
+      "kommune": "Seljord",
+      "fylke": "Telemark",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4222",
+      "kommune": "Bykle",
+      "fylke": "Agder",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3122",
+      "kommune": "Marker",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3116",
+      "kommune": "Skiptvet",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3114",
+      "kommune": "Våler",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1134",
+      "kommune": "Suldal",
+      "fylke": "Rogaland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4034",
+      "kommune": "Tokke",
+      "fylke": "Telemark",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke": "Telemark",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3103",
+      "kommune": "Moss",
+      "fylke": "Østfold",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1106",
+      "kommune": "Haugesund",
+      "fylke": "Rogaland",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3120",
+      "kommune": "Rakkestad",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3901",
+      "kommune": "Horten",
+      "fylke": "Vestfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1146",
+      "kommune": "Tysvær",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4028",
+      "kommune": "Kviteseid",
+      "fylke": "Telemark",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3112",
+      "kommune": "Råde",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1151",
+      "kommune": "Utsira",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3905",
+      "kommune": "Tønsberg",
+      "fylke": "Vestfold",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1149",
+      "kommune": "Karmøy",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4018",
+      "kommune": "Nome",
+      "fylke": "Telemark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4010",
+      "kommune": "Siljan",
+      "fylke": "Telemark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3105",
+      "kommune": "Sarpsborg",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3124",
+      "kommune": "Aremark",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3107",
+      "kommune": "Fredrikstad",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1145",
+      "kommune": "Bokn",
+      "fylke": "Rogaland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1133",
+      "kommune": "Hjelmeland",
+      "fylke": "Rogaland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4003",
+      "kommune": "Skien",
+      "fylke": "Telemark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3911",
+      "kommune": "Færder",
+      "fylke": "Vestfold",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4221",
+      "kommune": "Valle",
+      "fylke": "Agder",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3907",
+      "kommune": "Sandefjord",
+      "fylke": "Vestfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4032",
+      "kommune": "Fyresdal",
+      "fylke": "Telemark",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3101",
+      "kommune": "Halden",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4001",
+      "kommune": "Porsgrunn",
+      "fylke": "Telemark",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4016",
+      "kommune": "Drangedal",
+      "fylke": "Telemark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3909",
+      "kommune": "Larvik",
+      "fylke": "Vestfold",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "3110",
+      "kommune": "Hvaler",
+      "fylke": "Østfold",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1144",
+      "kommune": "Kvitsøy",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4030",
+      "kommune": "Nissedal",
+      "fylke": "Telemark",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1130",
+      "kommune": "Strand",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4012",
+      "kommune": "Bamble",
+      "fylke": "Telemark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1127",
+      "kommune": "Randaberg",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1103",
+      "kommune": "Stavanger",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1124",
+      "kommune": "Sola",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4014",
+      "kommune": "Kragerø",
+      "fylke": "Telemark",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1108",
+      "kommune": "Sandnes",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4211",
+      "kommune": "Gjerstad",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4228",
+      "kommune": "Sirdal",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4220",
+      "kommune": "Bygland",
+      "fylke": "Agder",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1122",
+      "kommune": "Gjesdal",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4217",
+      "kommune": "Åmli",
+      "fylke": "Agder",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1120",
+      "kommune": "Klepp",
+      "fylke": "Rogaland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4212",
+      "kommune": "Vegårshei",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4224",
+      "kommune": "Åseral",
+      "fylke": "Agder",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1121",
+      "kommune": "Time",
+      "fylke": "Rogaland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4201",
+      "kommune": "Risør",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1114",
+      "kommune": "Bjerkreim",
+      "fylke": "Rogaland",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4213",
+      "kommune": "Tvedestrand",
+      "fylke": "Agder",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1119",
+      "kommune": "Hå",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4219",
+      "kommune": "Evje og Hornnes",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4214",
+      "kommune": "Froland",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1112",
+      "kommune": "Lund",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4203",
+      "kommune": "Arendal",
+      "fylke": "Agder",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1101",
+      "kommune": "Eigersund",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4218",
+      "kommune": "Iveland",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4226",
+      "kommune": "Hægebostad",
+      "fylke": "Agder",
+      "malform": "nynorsk",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4216",
+      "kommune": "Birkenes",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4227",
+      "kommune": "Kvinesdal",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "1111",
+      "kommune": "Sokndal",
+      "fylke": "Rogaland",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4202",
+      "kommune": "Grimstad",
+      "fylke": "Agder",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4207",
+      "kommune": "Flekkefjord",
+      "fylke": "Agder",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4223",
+      "kommune": "Vennesla",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4215",
+      "kommune": "Lillesand",
+      "fylke": "Agder",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4225",
+      "kommune": "Lyngdal",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4204",
+      "kommune": "Kristiansand",
+      "fylke": "Agder",
+      "malform": "nøytral",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4206",
+      "kommune": "Farsund",
+      "fylke": "Agder",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    },
+    {
+      "kommunenr": "4205",
+      "kommune": "Lindesnes",
+      "fylke": "Agder",
+      "malform": "bokmål",
+      "samisk_forvaltningsomrade": "nei"
+    }
+  ],
+  "meta": {
+    "title": "Målform i norske kommuner - Free Download",
+    "description": "Offisiell målform (bokmål, nynorsk eller nøytral) for hver norsk kommune, med fylke og om kommunen er i forvaltningsområdet for samisk språk. Contains 357 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Målform i norske kommuner | ListBase",
+    "seo_description": "Download Målform i norske kommuner — 357 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 357 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norges_kommuner"
+    ]
+  }
+}
