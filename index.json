@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-10-30T02:33:23.793Z",
-  "total_datasets": 456,
-  "total_records": 1197771,
+  "generated": "2026-11-02T02:22:44.859Z",
+  "total_datasets": 457,
+  "total_records": 1197883,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -4607,6 +4607,32 @@
         "xlsx": {
           "name": "no-sykehus_NO.xlsx",
           "size": 11643
+        }
+      }
+    },
+    {
+      "id": "no-eidsvollsmenn",
+      "name": "Eidsvollsmennene 1814",
+      "category": "history",
+      "record_count": 112,
+      "columns": [
+        "navn",
+        "valgkrets",
+        "alder",
+        "yrke",
+        "parti"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_eidsvollsmenn",
+      "updated": "2026-11",
+      "size": 20806,
+      "files": {
+        "csv": {
+          "name": "no-eidsvollsmenn_NO.csv",
+          "size": 8921
+        },
+        "xlsx": {
+          "name": "no-eidsvollsmenn_NO.xlsx",
+          "size": 11231
         }
       }
     },

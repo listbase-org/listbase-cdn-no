@@ -1,0 +1,835 @@
+{
+  "id": "no-eidsvollsmenn",
+  "name": "Eidsvollsmennene 1814",
+  "title": "Eidsvollsmennene 1814",
+  "description": "Liste over de 112 representantene ved Riksforsamlingen på Eidsvoll i 1814 med valgkrets, alder, yrke og parti (unionspartiet/selvstendighetspartiet).",
+  "category": "history",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_eidsvollsmenn",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_eidsvollsmenn",
+  "updated": "2026-11",
+  "record_count": 112,
+  "columns": [
+    {
+      "key": "navn",
+      "label": "Navn",
+      "type": "string"
+    },
+    {
+      "key": "valgkrets",
+      "label": "Valgkrets",
+      "type": "string"
+    },
+    {
+      "key": "alder",
+      "label": "Alder",
+      "type": "number"
+    },
+    {
+      "key": "yrke",
+      "label": "Yrke",
+      "type": "string"
+    },
+    {
+      "key": "parti",
+      "label": "Parti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "navn": "Valentin Sibbern",
+      "valgkrets": "Akershusiske ridende jegerkorps",
+      "alder": 35,
+      "yrke": "offiser",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Frederik Wilhelm Stabell",
+      "valgkrets": "Akershusiske Skarpskytter Regiment",
+      "alder": 51,
+      "yrke": "offiser",
+      "parti": ""
+    },
+    {
+      "navn": "Zacharias Mellebye",
+      "valgkrets": "Akershusiske Skarpskytter Regiment",
+      "alder": 33,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet?"
+    },
+    {
+      "navn": "Peter Motzfeldt",
+      "valgkrets": "Artillerie-Corpset",
+      "alder": 47,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Hans Haslum",
+      "valgkrets": "Artillerie-Corpset",
+      "alder": 25,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Ole Elias Holck",
+      "valgkrets": "Bergenhus regiment",
+      "alder": 40,
+      "yrke": "offiser",
+      "parti": ""
+    },
+    {
+      "navn": "Niels Johannesen Loftesnæs",
+      "valgkrets": "Bergenhus regiment",
+      "alder": 25,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Henrik Frederik Arild Sibbern",
+      "valgkrets": "Ingenieur Brigaden",
+      "alder": 29,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Peter Blankenborg Prydz",
+      "valgkrets": "Nordenfjelske Infanteri Regiment",
+      "alder": 38,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Helge Ellingsen Waagaard",
+      "valgkrets": "Nordenfjelske Infanteri Regiment",
+      "alder": 33,
+      "yrke": "soldat",
+      "parti": ""
+    },
+    {
+      "navn": "Palle Rømer Fleischer",
+      "valgkrets": "Norske Jæger Corps",
+      "alder": 33,
+      "yrke": "offiser",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Niels Fredriksen Dyhren",
+      "valgkrets": "Norske Jæger Corps",
+      "alder": 36,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Diderich Hegermann",
+      "valgkrets": "Oplandske Infanterie Regement",
+      "alder": 51,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Pål Torssønn Harildstad",
+      "valgkrets": "Oplandske Infanterie Regement",
+      "alder": 50,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Richard Floer",
+      "valgkrets": "Røraasiske Bergjægercorps",
+      "alder": 47,
+      "yrke": "offiser",
+      "parti": ""
+    },
+    {
+      "navn": "Jens Schow Fabricius",
+      "valgkrets": "Søe-Deffentionen",
+      "alder": 58,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Thomas Konow",
+      "valgkrets": "Søe-Deffentionen",
+      "alder": 17,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Peder Johnsen",
+      "valgkrets": "Søe-Deffentionen",
+      "alder": 31,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Even Thorsen",
+      "valgkrets": "Søe-Deffentionen",
+      "alder": 36,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Daniel Frederik Petersen",
+      "valgkrets": "Søndenfieldske Infanterie-Regiment",
+      "alder": 57,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Ole Svendsen Iglerød",
+      "valgkrets": "Søndenfieldske Infanterie-Regiment",
+      "alder": 30,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Eilert Waldemar Preben Ramm",
+      "valgkrets": "Søndenfieldske Dragon-Regiment",
+      "alder": 45,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Peder Paulsen Balke",
+      "valgkrets": "Søndenfieldske Dragon-Regiment",
+      "alder": 35,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Enevold Steenblock Høyum",
+      "valgkrets": "Tellemarkske Infanterie Regiment",
+      "alder": 39,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Gullik Madsen Røed",
+      "valgkrets": "Tellemarkske Infanterie Regiment",
+      "alder": 28,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Georg Ulrich Wasmuth",
+      "valgkrets": "Første Trondh. Inf. Regiment",
+      "alder": 26,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Daniel Larsen Schevig",
+      "valgkrets": "Første Trondh. Inf. Regiment",
+      "alder": 28,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Jacob Erik Lange",
+      "valgkrets": "Andet Trondhjemske Regiment",
+      "alder": 47,
+      "yrke": "offiser",
+      "parti": ""
+    },
+    {
+      "navn": "Helmer Andersen Gjedeboe",
+      "valgkrets": "Andet Trondhjemske Regiment",
+      "alder": 28,
+      "yrke": "soldat",
+      "parti": "selvstendighetspartiet?"
+    },
+    {
+      "navn": "Frederik Hartvig Johan Heidmann",
+      "valgkrets": "Trondhiemske Dragon Corps",
+      "alder": 37,
+      "yrke": "offiser",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Petter Johnsen Ertzgaard",
+      "valgkrets": "Trondhiemske Dragon Corps",
+      "alder": 30,
+      "yrke": "soldat",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Just Henrik Ely",
+      "valgkrets": "Westerlenske Inf. Regiment",
+      "alder": 55,
+      "yrke": "offiser",
+      "parti": ""
+    },
+    {
+      "navn": "Omund Bjørnsen Birkeland",
+      "valgkrets": "Westerlenske Inf. Regiment",
+      "alder": 28,
+      "yrke": "soldat",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Carl Adolph Dahl",
+      "valgkrets": "Friderichshald",
+      "alder": 45,
+      "yrke": "embetsmann",
+      "parti": ""
+    },
+    {
+      "navn": "Andreas Michael Heiberg",
+      "valgkrets": "Friedrichsstad",
+      "alder": 46,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Gregers Winther Wulfsberg",
+      "valgkrets": "Moss",
+      "alder": 34,
+      "yrke": "embetsmann",
+      "parti": ""
+    },
+    {
+      "navn": "Georg Sverdrup",
+      "valgkrets": "Christiania",
+      "alder": 44,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Christopher Frimann Omsen",
+      "valgkrets": "Christiania",
+      "alder": 53,
+      "yrke": "embetsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Nicolai Schejtli",
+      "valgkrets": "Drammen",
+      "alder": 61,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Paul Steenstrup",
+      "valgkrets": "Kongsberg",
+      "alder": 42,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Christian Horneman",
+      "valgkrets": "Kragerø",
+      "alder": 32,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Hans Hein Nysom",
+      "valgkrets": "Holmestrand",
+      "alder": 47,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Carl Peter Stoltenberg",
+      "valgkrets": "Tønsberg",
+      "alder": 44,
+      "yrke": "forretningsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Christian Adolph Diriks",
+      "valgkrets": "Laurvig",
+      "alder": 39,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Jørgen Aall",
+      "valgkrets": "Porsgrund",
+      "alder": 43,
+      "yrke": "forretningsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Didrich (von) Cappelen",
+      "valgkrets": "Schien",
+      "alder": 53,
+      "yrke": "forretningsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Henrik Carstensen",
+      "valgkrets": "Øster Risøer",
+      "alder": 61,
+      "yrke": "forretningsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Alexander Christian Møller",
+      "valgkrets": "Arendal",
+      "alder": 52,
+      "yrke": "lege",
+      "parti": ""
+    },
+    {
+      "navn": "Nicolai Wergeland",
+      "valgkrets": "Christiansand",
+      "alder": 34,
+      "yrke": "prest",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Ole Clausen Mørch",
+      "valgkrets": "Christiansand",
+      "alder": 40,
+      "yrke": "forretningsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Peder Valentin Rosenkilde",
+      "valgkrets": "Stavanger",
+      "alder": 42,
+      "yrke": "forretningsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Wilhelm Frimann Koren Christie",
+      "valgkrets": "Bergen",
+      "alder": 36,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Fredrik Meltzer",
+      "valgkrets": "Bergen",
+      "alder": 35,
+      "yrke": "forretningsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Jens Rolfsen",
+      "valgkrets": "Bergen",
+      "alder": 49,
+      "yrke": "forretningsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Jonas Rein",
+      "valgkrets": "Bergen",
+      "alder": 54,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Frederik Motzfeldt",
+      "valgkrets": "Molde",
+      "alder": 35,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "John Moses",
+      "valgkrets": "Christiansund",
+      "alder": 33,
+      "yrke": "forretningsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Andreas Rogert",
+      "valgkrets": "Trondhjem",
+      "alder": 60,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Peter Schmidt",
+      "valgkrets": "Trondhjem",
+      "alder": 32,
+      "yrke": "forretningsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Peter Ulrik Magnus Hount",
+      "valgkrets": "Smaalehnenes Amt",
+      "alder": 45,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "John Hansen Sørbrøden",
+      "valgkrets": "Smaalehnenes Amt",
+      "alder": 39,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Peder Anker",
+      "valgkrets": "Agershuus Amt",
+      "alder": 65,
+      "yrke": "forretningsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Christian Magnus Falsen",
+      "valgkrets": "Agershuus Amt",
+      "alder": 32,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Christian Christensen Kollerud",
+      "valgkrets": "Agershuus Amt",
+      "alder": 47,
+      "yrke": "bonde",
+      "parti": ""
+    },
+    {
+      "navn": "Claus Bendeke",
+      "valgkrets": "Hedemarkens Amt",
+      "alder": 51,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Andreas Aagaard Kiønig",
+      "valgkrets": "Hedemarkens Amt",
+      "alder": 43,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Ole Olsen Evenstad",
+      "valgkrets": "Hedemarkens Amt",
+      "alder": 48,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Lauritz Weidemann",
+      "valgkrets": "Christians Amt",
+      "alder": 39,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Hans Jacob Stabel",
+      "valgkrets": "Christians Amt",
+      "alder": 45,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Anders Lysgaard",
+      "valgkrets": "Christians Amt",
+      "alder": 58,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Frederik Schmidt",
+      "valgkrets": "Buskeruds Amt",
+      "alder": 43,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Johan Collett",
+      "valgkrets": "Buskeruds Amt",
+      "alder": 39,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Christopher Borgersen Hoen",
+      "valgkrets": "Buskeruds Amt",
+      "alder": 47,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Hermann Wedel-Jarlsberg",
+      "valgkrets": "Jarlsberg Grevskab",
+      "alder": 35,
+      "yrke": "embetsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Gustav Peter Blom",
+      "valgkrets": "Jarlsberg Grevskab",
+      "alder": 29,
+      "yrke": "embetsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Ole Rasmussen Apeness",
+      "valgkrets": "Jarlsberg Grevskab",
+      "alder": 49,
+      "yrke": "bonde",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Iver Hesselberg",
+      "valgkrets": "Laurvigs Grevskab",
+      "alder": 52,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet?"
+    },
+    {
+      "navn": "Ole Olsen Amundrød",
+      "valgkrets": "Laurvigs Grevskab",
+      "alder": 43,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Anders Hansen Grønneberg",
+      "valgkrets": "Laurvigs Grevskab",
+      "alder": 35,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet?"
+    },
+    {
+      "navn": "Severin Løvenskiold",
+      "valgkrets": "Bratsberg Amt",
+      "alder": 37,
+      "yrke": "forretningsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Peder Jørgen Cloumann",
+      "valgkrets": "Bratsberg Amt",
+      "alder": 67,
+      "yrke": "embetsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Talleiv Olsson Huvestad",
+      "valgkrets": "Bratsberg Amt",
+      "alder": 53,
+      "yrke": "bonde",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Jacob Aall",
+      "valgkrets": "Nedenæs Amt",
+      "alder": 41,
+      "yrke": "forretningsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Hans Jacob Grøgaard",
+      "valgkrets": "Nedenæs Amt",
+      "alder": 50,
+      "yrke": "prest",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Thor Reiersen Lilleholt",
+      "valgkrets": "Nedenæs Amt",
+      "alder": 34,
+      "yrke": "embetsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Thomas Bryn",
+      "valgkrets": "Raabøigelaugets Amt",
+      "alder": 32,
+      "yrke": "embetsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Even Thorkildsen Lande",
+      "valgkrets": "Raabøigelaugets Amt",
+      "alder": 56,
+      "yrke": "bonde",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Ole Knudsen Tvedten",
+      "valgkrets": "Raabøigelaugets Amt",
+      "alder": 56,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Osmund Andersen Lømsland",
+      "valgkrets": "Mandals Amt",
+      "alder": 49,
+      "yrke": "bonde",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Syvert Amundsen Eeg",
+      "valgkrets": "Mandals Amt",
+      "alder": 57,
+      "yrke": "bonde",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Erich Haagensen Jaabech",
+      "valgkrets": "Mandals Amt",
+      "alder": 55,
+      "yrke": "bonde",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Gabriel Lund",
+      "valgkrets": "Lister Amt",
+      "alder": 39,
+      "yrke": "forretningsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Teis Lundegaard",
+      "valgkrets": "Lister Amt",
+      "alder": 40,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Jens Erichstrup",
+      "valgkrets": "Lister Amt",
+      "alder": 39,
+      "yrke": "embetsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Lars Andreas Oftedahl",
+      "valgkrets": "Stavanger Amt",
+      "alder": 33,
+      "yrke": "prest",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Christen Mølbach",
+      "valgkrets": "Stavanger Amt",
+      "alder": 48,
+      "yrke": "forretningsmann",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Asgaut Olsen Regelstad",
+      "valgkrets": "Stavanger Amt",
+      "alder": 53,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Arnoldus von Westen Sylow Koren",
+      "valgkrets": "Søndre Bergenhuus Amt",
+      "alder": 50,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Georg Burchard Jersin",
+      "valgkrets": "Søndre Bergenhuus Amt",
+      "alder": 47,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Brynjel Andersen Gjerager",
+      "valgkrets": "Søndre Bergenhuus Amt",
+      "alder": 53,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Lars Johannes Irgens",
+      "valgkrets": "Nordre Bergenhus Amt",
+      "alder": 39,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Nicolai Nielsen",
+      "valgkrets": "Nordre Bergenhus Amt",
+      "alder": 37,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Peder Pederssønn Hjermann",
+      "valgkrets": "Nordre Bergenhus Amt",
+      "alder": 60,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Hilmar Meincke Krohg",
+      "valgkrets": "Romsdals Amt",
+      "alder": 38,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Jens Stub",
+      "valgkrets": "Romsdals Amt",
+      "alder": 50,
+      "yrke": "prest",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Elling Olsson Walbøe",
+      "valgkrets": "Romsdals Amt",
+      "alder": 51,
+      "yrke": "bonde",
+      "parti": "unionspartiet"
+    },
+    {
+      "navn": "Jacob Hersleb Darre",
+      "valgkrets": "Søndre Trondhjems Amt",
+      "alder": 57,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Anders Rambech",
+      "valgkrets": "Søndre Trondhjems Amt",
+      "alder": 47,
+      "yrke": "embetsmann",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Lars Larsen Forsæth",
+      "valgkrets": "Søndre Trondhjems Amt",
+      "alder": 55,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Hans Christian Ulrik Midelfart",
+      "valgkrets": "Nordre Trondhjems Amt",
+      "alder": 44,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Hieronymus Heyerdahl",
+      "valgkrets": "Nordre Trondhjems Amt",
+      "alder": 41,
+      "yrke": "prest",
+      "parti": "selvstendighetspartiet"
+    },
+    {
+      "navn": "Sivert Bratberg",
+      "valgkrets": "Nordre Trondhjems Amt",
+      "alder": 34,
+      "yrke": "bonde",
+      "parti": "selvstendighetspartiet?"
+    }
+  ],
+  "meta": {
+    "title": "Eidsvollsmennene 1814 - Free Download",
+    "description": "Liste over de 112 representantene ved Riksforsamlingen på Eidsvoll i 1814 med valgkrets, alder, yrke og parti (unionspartiet/selvstendighetspartiet). Contains 112 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Eidsvollsmennene 1814 | ListBase",
+    "seo_description": "Download Eidsvollsmennene 1814 — 112 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 112 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_eidsvollsmenn"
+    ]
+  }
+}
