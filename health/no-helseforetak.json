@@ -1,0 +1,201 @@
+{
+  "id": "no-helseforetak",
+  "name": "Helseforetak i Norge",
+  "title": "Helseforetak i Norge",
+  "description": "De norske helseforetakene (HF) fordelt på helseregionene Sør-Øst, Vest, Midt-Norge og Nord, samt felleseide helseforetak.",
+  "category": "health",
+  "source": "https://no.wikipedia.org/wiki/Helseforetak",
+  "source_url": "https://no.wikipedia.org/wiki/Helseforetak",
+  "updated": "2026-11",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "helseforetak",
+      "label": "Helseforetak",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regionalt_helseforetak",
+      "label": "Regionalt Helseforetak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "helseforetak": "Akershus universitetssykehus HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Oslo universitetssykehus HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Sunnaas sykehus HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Sykehusapotekene HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Sykehuspartner HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Sykehuset Innlandet HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Sykehuset Telemark HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Sykehuset i Vestfold HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Sykehuset Østfold HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Sørlandet sykehus HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Vestre Viken HF",
+      "region": "Sør-Øst",
+      "regionalt_helseforetak": "Helse Sør-Øst RHF"
+    },
+    {
+      "helseforetak": "Helse Bergen HF",
+      "region": "Vest",
+      "regionalt_helseforetak": "Helse Vest RHF"
+    },
+    {
+      "helseforetak": "Helse Fonna HF",
+      "region": "Vest",
+      "regionalt_helseforetak": "Helse Vest RHF"
+    },
+    {
+      "helseforetak": "Helse Førde HF",
+      "region": "Vest",
+      "regionalt_helseforetak": "Helse Vest RHF"
+    },
+    {
+      "helseforetak": "Helse Stavanger HF",
+      "region": "Vest",
+      "regionalt_helseforetak": "Helse Vest RHF"
+    },
+    {
+      "helseforetak": "Sjukehusapoteka Vest HF",
+      "region": "Vest",
+      "regionalt_helseforetak": "Helse Vest RHF"
+    },
+    {
+      "helseforetak": "Hemit HF",
+      "region": "Midt-Norge",
+      "regionalt_helseforetak": "Helse Midt-Norge RHF"
+    },
+    {
+      "helseforetak": "Helse Møre og Romsdal HF",
+      "region": "Midt-Norge",
+      "regionalt_helseforetak": "Helse Midt-Norge RHF"
+    },
+    {
+      "helseforetak": "Helse Nord-Trøndelag HF",
+      "region": "Midt-Norge",
+      "regionalt_helseforetak": "Helse Midt-Norge RHF"
+    },
+    {
+      "helseforetak": "St. Olavs hospital HF",
+      "region": "Midt-Norge",
+      "regionalt_helseforetak": "Helse Midt-Norge RHF"
+    },
+    {
+      "helseforetak": "Sykehusapotekene i Midt-Norge HF",
+      "region": "Midt-Norge",
+      "regionalt_helseforetak": "Helse Midt-Norge RHF"
+    },
+    {
+      "helseforetak": "Helgelandssykehuset HF",
+      "region": "Nord",
+      "regionalt_helseforetak": "Helse Nord RHF"
+    },
+    {
+      "helseforetak": "Finnmarkssykehuset HF",
+      "region": "Nord",
+      "regionalt_helseforetak": "Helse Nord RHF"
+    },
+    {
+      "helseforetak": "Nordlandssykehuset HF",
+      "region": "Nord",
+      "regionalt_helseforetak": "Helse Nord RHF"
+    },
+    {
+      "helseforetak": "Sykehusapotek Nord HF",
+      "region": "Nord",
+      "regionalt_helseforetak": "Helse Nord RHF"
+    },
+    {
+      "helseforetak": "Universitetssykehuset Nord-Norge HF",
+      "region": "Nord",
+      "regionalt_helseforetak": "Helse Nord RHF"
+    },
+    {
+      "helseforetak": "Helse Nord IKT HF",
+      "region": "Nord",
+      "regionalt_helseforetak": "Helse Nord RHF"
+    },
+    {
+      "helseforetak": "Helsetjenestens driftsorganisasjon for nødnett HF",
+      "region": "Felles",
+      "regionalt_helseforetak": "felles eid av de regionale helseforetakene"
+    },
+    {
+      "helseforetak": "Luftambulansetjenesten HF",
+      "region": "Felles",
+      "regionalt_helseforetak": "felles eid av de regionale helseforetakene"
+    },
+    {
+      "helseforetak": "Sykehusbygg HF",
+      "region": "Felles",
+      "regionalt_helseforetak": "felles eid av de regionale helseforetakene"
+    },
+    {
+      "helseforetak": "Sykehusinnkjøp HF",
+      "region": "Felles",
+      "regionalt_helseforetak": "felles eid av de regionale helseforetakene"
+    },
+    {
+      "helseforetak": "Pasientreiser HF",
+      "region": "Felles",
+      "regionalt_helseforetak": "felles eid av de regionale helseforetakene"
+    }
+  ],
+  "meta": {
+    "title": "Helseforetak i Norge - Free Download",
+    "description": "De norske helseforetakene (HF) fordelt på helseregionene Sør-Øst, Vest, Midt-Norge og Nord, samt felleseide helseforetak. Contains 32 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Helseforetak i Norge | ListBase",
+    "seo_description": "Download Helseforetak i Norge — 32 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 32 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Helseforetak"
+    ]
+  }
+}

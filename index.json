@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-03T02:27:10.073Z",
-  "total_datasets": 462,
-  "total_records": 1198604,
+  "generated": "2026-11-03T02:27:17.743Z",
+  "total_datasets": 463,
+  "total_records": 1198636,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -4582,6 +4582,30 @@
         "xlsx": {
           "name": "no-apotek_NO.xlsx",
           "size": 38968
+        }
+      }
+    },
+    {
+      "id": "no-helseforetak",
+      "name": "Helseforetak i Norge",
+      "category": "health",
+      "record_count": 32,
+      "columns": [
+        "helseforetak",
+        "region",
+        "regionalt_helseforetak"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Helseforetak",
+      "updated": "2026-11",
+      "size": 6002,
+      "files": {
+        "csv": {
+          "name": "no-helseforetak_NO.csv",
+          "size": 1925
+        },
+        "xlsx": {
+          "name": "no-helseforetak_NO.xlsx",
+          "size": 7562
         }
       }
     },
