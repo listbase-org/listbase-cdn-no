@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-03T02:27:17.743Z",
-  "total_datasets": 463,
-  "total_records": 1198636,
+  "generated": "2026-11-03T02:27:24.816Z",
+  "total_datasets": 464,
+  "total_records": 1198962,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -4683,6 +4683,29 @@
         "xlsx": {
           "name": "no-eidsvollsmenn_NO.xlsx",
           "size": 11231
+        }
+      }
+    },
+    {
+      "id": "no-illegale-aviser-1940-1945",
+      "name": "Illegale aviser i Norge 1940–1945",
+      "category": "history",
+      "record_count": 326,
+      "columns": [
+        "avis",
+        "detaljer"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_illegale_aviser_i_Norge_1940–1945",
+      "updated": "2026-11",
+      "size": 23861,
+      "files": {
+        "csv": {
+          "name": "no-illegale-aviser-1940-1945_NO.csv",
+          "size": 7332
+        },
+        "xlsx": {
+          "name": "no-illegale-aviser-1940-1945_NO.xlsx",
+          "size": 13268
         }
       }
     },
