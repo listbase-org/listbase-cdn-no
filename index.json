@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-03T02:27:24.816Z",
-  "total_datasets": 464,
-  "total_records": 1198962,
+  "generated": "2026-11-03T02:27:32.527Z",
+  "total_datasets": 465,
+  "total_records": 1198978,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -12352,6 +12352,29 @@
         "xlsx": {
           "name": "no-navnedager_NO.xlsx",
           "size": 28013
+        }
+      }
+    },
+    {
+      "id": "no-offisielle-flaggdager",
+      "name": "Norges offisielle flaggdager",
+      "category": "time",
+      "record_count": 16,
+      "columns": [
+        "dato",
+        "anledning"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_offisielle_flaggdager",
+      "updated": "2026-11",
+      "size": 3498,
+      "files": {
+        "csv": {
+          "name": "no-offisielle-flaggdager_NO.csv",
+          "size": 1404
+        },
+        "xlsx": {
+          "name": "no-offisielle-flaggdager_NO.xlsx",
+          "size": 7357
         }
       }
     },
