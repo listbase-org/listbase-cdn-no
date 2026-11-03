@@ -1,0 +1,1357 @@
+{
+  "id": "no-helikopterulykker",
+  "name": "Helikopterulykker i Norge",
+  "title": "Helikopterulykker i Norge",
+  "description": "Helikopterulykker og -hendelser i Norge siden 1953: dato, ulykkessted, helikoptertype, type operasjon, antall om bord, omkomne/skadde og årsaksfaktorer.",
+  "category": "transport",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_helikopterulykker_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_helikopterulykker_i_Norge",
+  "updated": "2026-11",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "dato",
+      "label": "Dato",
+      "type": "string"
+    },
+    {
+      "key": "ulykkessted",
+      "label": "Ulykkessted",
+      "type": "string"
+    },
+    {
+      "key": "type_helikopter",
+      "label": "Type Helikopter",
+      "type": "string"
+    },
+    {
+      "key": "type_operasjon",
+      "label": "Type Operasjon",
+      "type": "string"
+    },
+    {
+      "key": "antall_passasjerer_besetning",
+      "label": "Antall Passasjerer Besetning",
+      "type": "string"
+    },
+    {
+      "key": "omkomne_alvorlig_skadet_uskadet",
+      "label": "Omkomne Alvorlig Skadet Uskadet",
+      "type": "string"
+    },
+    {
+      "key": "arsaksfaktorer",
+      "label": "Arsaksfaktorer",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "dato": "10. november 1953",
+      "ulykkessted": "Dal stasjon i Akershus",
+      "type_helikopter": "Bell 47 D-1",
+      "type_operasjon": "",
+      "antall_passasjerer_besetning": "-/- (-)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "Nødlanding"
+    },
+    {
+      "dato": "14. november 1953",
+      "ulykkessted": "Stavanger lufthavn Sola",
+      "type_helikopter": "Bell 47 D-1",
+      "type_operasjon": "Prøveflyging",
+      "antall_passasjerer_besetning": "-/- (-)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "Helikopteret startet å rotere til høyre rett etter start Halerotorsvikt etter brudd i en bolt"
+    },
+    {
+      "dato": "17. januar 1955",
+      "ulykkessted": "I sjøen ved Stavanger lufthavn Sola",
+      "type_helikopter": "Bell 47 D-1",
+      "type_operasjon": "",
+      "antall_passasjerer_besetning": "-/- (-)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "Helikopteret tippet framover under vannlanding"
+    },
+    {
+      "dato": "23. januar 1956",
+      "ulykkessted": "Bjørndalen, ved Tonstad i Vest-Agder",
+      "type_helikopter": "Bell 47 G",
+      "type_operasjon": "",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "Kollisjon med løypestreng"
+    },
+    {
+      "dato": "27. desember 1956",
+      "ulykkessted": "Soløyvatnet ved Bodø i Nordland",
+      "type_helikopter": "Bell 47 D-1",
+      "type_operasjon": "",
+      "antall_passasjerer_besetning": "-/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/1",
+      "arsaksfaktorer": "Kollisjon med ledningsspenn og tok fyr"
+    },
+    {
+      "dato": "15. mars 1957",
+      "ulykkessted": "Gamle Rygge flyplass",
+      "type_helikopter": "Bell 47 D-1",
+      "type_operasjon": "",
+      "antall_passasjerer_besetning": "-/- (-)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": ""
+    },
+    {
+      "dato": "1. mai 1958",
+      "ulykkessted": "I sjøen 2 kn nordvest av Trolla i Trøndelag",
+      "type_helikopter": "Bell 47 D-1",
+      "type_operasjon": "Ambulanse",
+      "antall_passasjerer_besetning": "-/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "Styrtet i havet og tok fyr Muligens kraftig turbulens"
+    },
+    {
+      "dato": "9. februar 1965",
+      "ulykkessted": "Kjeller flyplass, Akershus",
+      "type_helikopter": "Kjeller PK X-2",
+      "type_operasjon": "Prøveflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/0",
+      "arsaksfaktorer": "-"
+    },
+    {
+      "dato": "9. juli 1973",
+      "ulykkessted": "Nordsjøen, 80 nm sør-sørvest for Stavanger lufthavn Sola",
+      "type_helikopter": "Sikorsky S-61 N",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "15/2 (17)",
+      "omkomne_alvorlig_skadet_uskadet": "4/1/12",
+      "arsaksfaktorer": "Autorotasjon og nødlanding på sjøen Den sannsynlige årsak til at luftfartøyet havarerte var svikt i halerotorinstallasjonen. Et halerotorblad eller en del av et slikt blad kan av ukjent årsak ha brukket løs mens fartøyet var i marsjhøyde. Den ubalanse som da oppsto i installasjonen førte til at rotor og 90° gearboks separerte seg fra fartøyet, slik at dette mistet retningsstabiliteten og måtte nødlande på havet. Passasjerene fikk ingen særskilt innføring i nødevakuering og bruk av nødutstyr og nødutganger før flygingen ble påbegynt. Slik innføring var instruksfestet i driftshåndboken da ulykken skjedde. En jet-motor på stativ var plassert i passasjerkabinen. Den var solid fastgjort, men den vanskeliggjorde evakuering av fartøyet da dette kantret. Kommisjonen trakk frem opplysninger om feil ved halerotorblader på S-58T og S- 61N fordi vannansamling med påfølgende innvendig korrosjon hadde vært og var et problem ved denne type halerotorblad. Kommisjonen fant at de nevnte problemer med honeycomb halerotorblader kunne ha relevans til havariet spesielt fordi et av halerotorbladene på dette helikopter hadde oppnådd en så høy gangtid som 5327 timer. To sikkerhetstilrådinger."
+    },
+    {
+      "dato": "29. april 1977",
+      "ulykkessted": "Ved Håstein, Rogaland",
+      "type_helikopter": "Westland Sea King",
+      "type_operasjon": "Prøveflyging",
+      "antall_passasjerer_besetning": "0/3 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "3/0/0",
+      "arsaksfaktorer": "Fremmedobjekt ødela halerotor"
+    },
+    {
+      "dato": "23. november 1977",
+      "ulykkessted": "Nordsjøen, 45 nm sør-sørvest for Stavanger lufthavn Sola",
+      "type_helikopter": "Sikorsky S-61 N",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "10/2 (12)",
+      "omkomne_alvorlig_skadet_uskadet": "12/0/0",
+      "arsaksfaktorer": "Kolliderte med sjøen i høy hastighet og lav gjennomsynking Til tross for de omfattende undersøkelser og den brede analyse som ble foretatt, kunne kommisjonen ikke fastslå havariets årsak. Det ble ansett som overveiende sannsynlig at helikopteret traff sjøen med bare liten gjennomsynking, relativt stor hastighet og og i samme retning som den opprinnelige kursen. Kommisjonen kunne ikke gi noen forklaring på at helikoptret kom ned fra den opprinnelige marsjhøyden på 500 fot. Ved de omfattende undersøkelser som ble foretatt ble det ikke blitt påvist tekniske feil ved helikopteret som var tilstede før havariet og som det var sannsynlig kunne ha forårsaket ulykken. Helikopteret var ikke utrustet med autopilot med høydehold, eller lydvarsling på radiohøydemåler. Det hadde heller ikke flyge- eller taleregistrator, 4 sikkerhetstilrådinger."
+    },
+    {
+      "dato": "26. juni 1978",
+      "ulykkessted": "Nordsjøen, 85 nm vest-nordvest for Bergen lufthavn, Flesland",
+      "type_helikopter": "Sikorsky S-61 N",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "16/2 (18)",
+      "omkomne_alvorlig_skadet_uskadet": "18/0/0",
+      "arsaksfaktorer": "Helikopteret falt i sjøen fra 1 000 fots høyde Den direkte årsaken var at et hovedrotorblad falt av helikoptret mens dette befant seg på vei fra Flesland til Statfjord A i 1 000 fots høyde. Helikoptret kom derved ut av kontroll, styrtet i havet og sank på ca. 200 meters dyp. Årsaken til tapet av hovedrotorbladet var materialsvikt på grunn av utmatting i spindelen som forbinder bladroten med rotorhodet. Helikopteret hadde før levering til selskapet, vært benyttet i et testprogram med henblikk på å oppnå FAA-approbasjon på en økning av maksimal tillatt avgangsvekt til 20500 lbs. Helikopteret hadde i løpet av dette testprogrammet blitt utsatt for to harde landinger."
+    },
+    {
+      "dato": "31. juli 1979",
+      "ulykkessted": "14 km nordvest for Sola",
+      "type_helikopter": "Bell 212",
+      "type_operasjon": "Prøveflyging",
+      "antall_passasjerer_besetning": "0/3 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/3/0",
+      "arsaksfaktorer": "Nødlanding på sjøen Årsaken til havariet var at fartøysjefen mistet kontrollen over helikopteret da han skulle teste autorotasjonsturtallet i forbindelse med prøveflyging. Fartøysjefen hadde ikke vedlikeholdt eller fått tilstrekkelig trening i overgang til autorotasjon med utkobling av motorene på denne helikoptertypen. Et annet forhold i årsakssammenhengen var at selskapets opplegg for valg av prøveflyger sviktet. Alt tyder på at helikopteret var teknisk i orden inntil det traff sjøen.6 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "9. august 1979",
+      "ulykkessted": "Vrangpeisbreen, Svalbard",
+      "type_helikopter": "Agusta Bell 206 B",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "1/1/0",
+      "arsaksfaktorer": "Kollisjon med terrenget Årsaken til havariet var at fartøysjefen utilsiktet kom i en situasjon der han mistet alle visuelle referanser (fikk \"\"white out\"\"), og dermed ikke hadde muligheten til å bedømme helikopterets stilling i forhold til bakken, med den følge at han tapte kontrollen og havarerte. Kommisjonen mener at feilvurdering av vær- og siktforholdene på breen under de foreliggende omstendigheter må ses som et viktig ledd i årsakssammenhengen. Det ble ikke funnet tegn til at tekniske mangler hadde forekommet på helikopteret. Fartøysjefen hadde ikke informert sin passasjer om nødutstyret og dets plassering. Passasjeren berget sannsynligvis livet på grunn av sin oppfinnsomhet og det at han hadde egen sovepose tilgjengelig. Arten av de hodeskader flyger og passasjer pådrog seg, tyder på at bruk av hjelm ville kunne begrenset lesjonene i hoderegionen. 6 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "20. november 1979",
+      "ulykkessted": "Eksingedalen, Hordaland",
+      "type_helikopter": "Aerospatiale SA 315 B Lama",
+      "type_operasjon": "Underhengende last",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "1/0/0",
+      "arsaksfaktorer": "Kollisjon med høyspentledning Årsaken til havariet var at helikopterets hovedrotor kom i berøring med en elektrisk kraftlinje. Dette førte til at fartøyet kom ut av kontroll og totalhavarerte. Årsaken til at helikopteret ble manøvrert slik at det kom i berøring med kraftlinjen er ukjent. Det er ikke gjort funn som tyder på teknisk svikt ved fartøyet. Fartøyet kolliderte med et elektrisk kraftspenn og kuttet samtlige ledninger (3 strømførende og 1 jordledning). Fartøysjefen var i ferd med å rengjøre den underhengende tobb i elva da ulykken skjedde. Fartøysjefen omkom som følge av brudd på skallen med blødninger i hjernen.Tre sikkerhetstilrådinger"
+    },
+    {
+      "dato": "22. april 1982",
+      "ulykkessted": "Mjåstein ved Sirdalsvannet, Vest-Agder",
+      "type_helikopter": "Westland Sea King",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/5 (5)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/5",
+      "arsaksfaktorer": "Kollisjon med høyspentledning"
+    },
+    {
+      "dato": "19. april 1983",
+      "ulykkessted": "M/S Buchentaur",
+      "type_helikopter": "Bell 212",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "4/2 (6)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/6",
+      "arsaksfaktorer": "Rullet over på siden under start fra helikopterdekk på skip Den direkte årsak til havariet var at taueringen på høyre meie hektet seg fast i taunettet på helikopterdekket med den følge at helikopteret ble utsatt for en \"dynamic rollover\" som ikke lot seg kontrollere. Medvirkende årsak var at taunettet hadde så få festestropper at det ikke kunne strammes skikkelig og folder kunne oppstå. Det er ikke usannsynlig at kombinasjonen i dette tilfelle av skipets setting +/-4° og rulling +/-2° bidro til en slik opphoping som derved ledet til opphektingen. Det var ikke indikasjoner på teknisk svikt. Taueringen på høyre meie hadde hektet seg opp mellom kordellene i tauet i taunettet. Det er uklart hvor taunettet var laget og utførelsen stemmete ikke overens med spesifikasjonene i bestillingen. Taunettet hadde bare festestropper for hver sjette meter, dvs. 8 stropper totalt. Helikopterdekket hadde festepunkter for 36 stropper. De åtte festetauene var stramme, men dette var utilstrekkelig til å spenne selve nettet tilfredsstillende. Skipets radiooperatør hadde ikke oversikt over operasjonsområdet slik forskriftene krever. Kommunikasjonen mellom skipets kaptein (radiooperatør) og heliguarden ble brutt like før landing. Skipsmannskapet var utrenet helikopteroperasjoner og manglet opplæring. Heliguard/redningsmannskapet stod i le av helikopteret ved landing/avgang og havari. Overlevelsesmulighetene ble gode: fordi helikopteret bare kom opp i ca 1 meters høyde over dekket, fordi helikopteret hang fast i nettet, fordi hovedrotoren ble slått av slik at løftet forsvant og fordi det ikke oppstod brann. 6 Sikkerhetstilrådinger"
+    },
+    {
+      "dato": "7. desember 1983",
+      "ulykkessted": "Kobbvatnet, Nordland",
+      "type_helikopter": "Bell 205A-1",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "4/1 (5)",
+      "omkomne_alvorlig_skadet_uskadet": "0/5/0",
+      "arsaksfaktorer": "Delvis kontrollert nødlanding/\"krasjlanding\" på snødekt avsats i fjellside. Den sannsynlige årsak til havariet var at fuktighet over tid hadde akkumulert seg i den hydrauliske oljen, skilt seg ut som fritt vann og frosset til is som delvis blokkerte returstrømmen av olje, og at de to pluggene under kamrene til pilotventilene på høyre servo aktuator til cyclic pitch kontrol tillot vann å samle seg og fryse, slik at pilotventilene ikke kunne funksjonere tilfredsstillende. En sannsynlig årsaksfaktor var kondensasjon i det hydrauliske systemet som følge av tidvis bruk av varmevifter for å holde helikopteret varmt om vinteren. Fartøysjefen utviste stor faglig dyktighet og besluttsomhet og begrenset derved havariets omfang. Bell Service Bulletin nr 205A-2, datert 2. mai 1969, var ikke utført på høyre, hydrauliske servo aktuator. Det nederlandske firmaet, som overhalte høyre servo aktuator, hevder at Bell Service Bulletin nr 205A-2 var utført, men denne aktuatoren var ikke merket slik Bell foreskriver i nevnte bulletin. En annen aktuator befant seg på lager hos selskapet. Denne aktuatoren var modifisert i henhold til \"Service Bulletinen\", men heller ikke den var merket. Det ble påstått at denne merkingen ikke var vanlig brukt lenger - heller ikke av Bell. LN-OSN hadde vært utsatt for kontrollproblemer ved flere anledninger før havaridagen. Løsningen som ble valgt for å eliminere problemene, fjernet symptomene, men ikke årsakene. Kontrollproblemene ble ikke innført i DMR og selskapets tekniske kontrollinstanser ble ikke informert om at problemene oppstod på nytt, så lenge det var mange kuldegrader. Hulrommene under pilotventilene på servoaktuatoren var halvfulle av vann. Forøvrig ble det funnet fritt vann i form av vanndråper ved demonteringen av flere av komponentene i det hydrauliske systemet. Analysene av diverse prøver tatt fra den hydrauliske oljen forskjellige steder i systemet viste vanninnhold over det som er tillatt i ny hydraulisk olje ifølge spesifikasjonen Mil-H-5606E. Retningslinjer for tillatt vanninnhold i brukt hydraulisk olje fantes ikke. Analysen av prøven fra \"return line collective servo\" viste mer enn 1 000 PPM, hvilket innebærer at absorbert fuktighet i oljen vil opptre som fritt vann. Hvordan fuktigheten er blitt introdusert i det hydrauliske systemet, er usikkert. Men metoden med å bruke vifteovn til oppvarming av helikopteret, er sannsynligvis en årsaksfaktor, fordi faren for kondensasjon i systemet øker. En sikkerhetstilråding"
+    },
+    {
+      "dato": "25. februar 1985",
+      "ulykkessted": "Salsnes, Foldafjorden i Trøndelag",
+      "type_helikopter": "Hughes 500 HE",
+      "type_operasjon": "Overføring",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "1/0/0",
+      "arsaksfaktorer": "Kollisjon med sjøen. Helikopteret sank på 75 m dyp og var ikke tilgjengelig for havarikommisjonen. Havariets årsak kunne ikke fastslås. Da helikopteret havarerte kunne det ikke vært vesentlige mengder drivstoff igjen om bord for videre flyging. Kommisjonen mente derfor at mangel på drivstoff var en sannsynlig årsaksfaktor. Fartøysjefen hadde ikke nødutstyr med seg. Fartøysjefen hadde fått lite søvn/hvile og mat på grunn av lang reise og tidlig oppmøte før turen tok til. Planlagt stopp for etterfylling av drivstoff ble kansellert, mens siste mulige plass for etterfylling av drivstoff var midlertidig stengt i pålagt venteperiode (5 timer) etter fylling av flyplassens tankanlegg. Ingen sikkerhetstilrådinger."
+    },
+    {
+      "dato": "10. november 1986",
+      "ulykkessted": "Ved Kristivatnet, Nordland",
+      "type_helikopter": "Westland Sea King",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "1/5 (6)",
+      "omkomne_alvorlig_skadet_uskadet": "1/0/5",
+      "arsaksfaktorer": "Kollisjon med høyspentledning"
+    },
+    {
+      "dato": "13. desember 1986",
+      "ulykkessted": "Bøneset, Norkyn i Finnmark",
+      "type_helikopter": "Agusta Bell 206B",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "3/0/0",
+      "arsaksfaktorer": "Kollisjon med terrenget. Årsaken til havariet antas å være at helikopteret under mørkeflyging kom inn i usiktbart vær/snøbyger, og at flygeren derved mistet referansene til det tilstøtende/underliggende terreng. Flygingen ble utført som VFR-mørkeflyging, og det ble innlevert reiseplan. Luftfartøyet var et en-motors helikopter. Flygingen foregikk i mørke og var ervervsmessig med 2 betalende passasjerer om bord. Ifølge gjeldende bestemmelser var slik flyging ikke tillatt. Flygingen skulle av denne grunn ikke ha vært påbegynt. Fartøysjefen meldte underveis at ankomsttiden til bestemmelsessted ville bli 15 minutter senere enn angitt i reiseplanen. Helikopteret ble observert å lande på grunn av snøbyger. Helikopteret ble først gjenfunnet vel 6 måneder etter at det ble meldt savnet. Sannsynligvis har helikopteret kommet inn i usiktbare værforhold -formodentlig snøbyger- i havariområdet. Dette har høyst sannsynlig ført til at fartøysjefen mistet de visuelle referanser han måtte ha til det tilstøtende/underliggende terreng Ved havaristedet gjør kystlinjen som har høye og bratte fjellsider ned mot havnivået en markert sving mot vest. I mørket og ellers usiktbart vær vil dette fremspringet i fjellformasjonen kunne komme overraskende på ved flyging nordover. Kommisjonen mener dette kan være en naturlig forklaring på at helikopteret etter all sannsynlighet fløy inn i fjellsiden. Kommisjonen mener at helikopteret kolliderte med fjellsiden. Ved kollisjon med fjellsiden antas helikopteret å ha kommet ut av kontroll, styrtet mot bakken og truffet den om lag 100 meter lenger fremme. To sikkerhetstilrådinger."
+    },
+    {
+      "dato": "22. august 1987",
+      "ulykkessted": "Åsgardfonna, Svalbard",
+      "type_helikopter": "Eurocopter AS 350 B1",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "3/1 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "1/2/1",
+      "arsaksfaktorer": "Under rekognosering av landingssted på Åsgårdfonna og derpå følgende utflyging fra stedet kolliderte helikopteret med breen og totalhavarerte. Havariet hadde sin årsak i feilbedømmelse av høyden på grunn av såkalt blindføre (White out). Kommisjonen mener årsaken til havariet var at fartøysjefen visuelt feilbedømte flygehøyden over den snødekte ubrutte flaten på isbreen. Høydeinformasjonen fra helikopterets barometriske høydemåler ble ikke benyttet for å fastslå fartøyets høyde. Undere rekognoseringen ble det droppet en sort sandsekk for å markere og gi referanse på landingsstedet, og det ble fløyet en dråpeformet høyresving for deretter å returnere og krysse kurslinjen hvor sekken ble droppet. Da helikopteret krysset denne linjen, var besetningen ikke i stand til å se sekken. Dette indikerte at det måtte ligge et lavt tåkeslør over breen som gjorde bakkereferanse og landing umulig. Utflygingen foregikk i retning fjorden og det var generell god sikt i området med gode visuelle referanse og markert horisont både til siden og framover. Fartøysjefen la opp til en flygebane med liten gjennomsynkning, som gikk skrått nedover mot kystlinjen. Han hadde bestemt inntrykk av at det var fri sikt og god klaring til det underliggende terrenget nedover mot det forutbestemte landingspunktet ved fjorden. Fartøysjefen oppfattet ikke noe unormalt under denne delen av flygingen før helikopteret plutselig tok bakken. Den ene passasjeren som satt i venstre fremre sete, pådro seg alvorlige hodeskader og han døde av disse skadene om lag 1 1/2 time senere. Den omkomne benyttet med stor sannsynlighet tilgjengelige setebelter, men han hadde ikke hjelm. Hjelm ville med stor grad av sannsynlighet ha avverget de fatale hodeskader som denne personen ble påført. Fartøysjefen benytte hjelm og fikk kun lettere skader. Radiohøydemåler var ikke installertTo sikkerhetstilrådinger"
+    },
+    {
+      "dato": "24. november 1987",
+      "ulykkessted": "Fokstua, Dovrefjell i Oppland",
+      "type_helikopter": "MBB BO 105C",
+      "type_operasjon": "Ambulanse",
+      "antall_passasjerer_besetning": "0/3 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "3/0/0",
+      "arsaksfaktorer": "Kollisjon med terrenget med påfølgende eksplosiv brann Årsaken til havariet antas å være at fartøysjefen mistet de utvendige visuelle referanser på grunn av mørke og usiktbare værforhold (snøbyger/tåke). Bruk av det lyssterke søkelyset under disse forhold førte sannsynligvis til at orienterings-/ navigasjonsmulighetene ble forverret. Orienteringsvanskelighetene førte dernest til at fartøysjefen tapte kontrollen over situasjonen. Det ble ikke funnet skader eller svakheter som kan henføres til helikopterets tilstand før havariet. Helikopteroperatøren hadde ingen bestemmelser eller krav om utdannelse og trening for bruk av søkelys under operativ flyging. Fartøysjefen hadde således fått utsjekk på typen uten slik utdannelse og trening. Det var skyet vær med enkelte lette snøbyger. Det var mørkt og sikten utenom snøbygene var god. Det var vindstille. Flyoppdraget var å hente en alvorlig syk pasient (et barn) for transport til sykehus. Pasienten døde noe senere. Flygingen skulle utføres som VFR mørkeflyging. En melding fra helikopteret ble tilfeldigvis oppfanget av en hjelpekorpsleder. Meldingen inneholdt opplysninger om at besetningen hadde problemer med å komme videre på grunn av værforholdene. Tidspunktet for meldingen stemmer godt overens med den tid havariet er antatt å ha skjedd. Helikopteret traff bakken med halerotoren først, uten noen registrerbar horisontal bevegelse. Lengdeaksens vinkel med terrenget var ca. 30-40°. Helikopteret ble betydelig brannskadet av en heftig brann som oppsto umiddelbart ved havariet. Retardasjonskreftene i havariøyeblikket har vært moderate. Helikopterets kurs underveis var i nordøstlig retning (ca 040° - 045°). Det havarerte på sydlig kurs (ca 160°).En sikkerhetstilråding"
+    },
+    {
+      "dato": "2. april 1988",
+      "ulykkessted": "Ved Tyin, Oppland",
+      "type_helikopter": "Westland Sea King",
+      "type_operasjon": "Ambulanse",
+      "antall_passasjerer_besetning": "0/6 (6)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/5",
+      "arsaksfaktorer": "Kollisjon med terrenget (isen)"
+    },
+    {
+      "dato": "15. juli 1988",
+      "ulykkessted": "Nordsjøen, 70 nm sørvest for Sola",
+      "type_helikopter": "Eurocopter AS 332L Super Puma",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "16/2 (18)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/18",
+      "arsaksfaktorer": "Nødlanding på sjøen etter tap av en av forkantskinnene på ett hovedrotorblad Bladet hadde mangelfull reparasjon/limeprosess utført av helikopterfabrikanten Det ble konstatert upresis vedlikeholdsdokumentasjonDet oppstod kraftige 1:1 vibrasjoner under flyging i marsjhøyde. Det ble foretatt en kontrollert nødlanding på sjøen i sjø 3-4, 30 kt vind. Helikopteret fløt stabilt i 12 timer til det ble berget. Passasjerer og besetning ble heist om bord i Sea King redningshelikopter fra redningsflåte etter ca. 30 min"
+    },
+    {
+      "dato": "3. oktober 1990",
+      "ulykkessted": "Alden i Askvoll, Sogn og Fjordane",
+      "type_helikopter": "Bell 214ST",
+      "type_operasjon": "Sivil SAR",
+      "antall_passasjerer_besetning": "1/4 (5)",
+      "omkomne_alvorlig_skadet_uskadet": "5/0/0",
+      "arsaksfaktorer": "Kollisjon med terrenget i vestveggen på øya Alden. Årsaken til havariet var navigasjonsproblemer i forbindelse med landfall mot norskekysten som følge av utilstrekkelig trening, utstyr, planlegging og gjennomføring av transportetappen av søkeoppdraget Planleggingen av oppdraget var utilstrekkelig (årsaksfaktor). Treningen for denne type SAR-oppdrag var utilstrekkelig (årsaksfaktor) Selskapet hadde ikke sørget for egnet flykart som besetningen kunne planlegge på og ta med seg på oppdraget (årsaksfaktor). Planleggingen ble utført ved hjelp av navigasjonssystemet GNS 500A. Systemet ble aktivisert med Gullfaks C som utgangspunkt, mens automatikken arbeidet med Statfjord B som utgangspunkt (årsaksfaktor). Besetningen mistok meter for fot og etablerte mentalt 480 m = 480 FT som høyeste terreng nær søkeområdet. Derved oppfattet besetningen flygehøyden på ca 1000 FT som sikker (årsaksfaktor). GNS 500A- navigasjonssystemet ble ikke fulgt opp/kontrollert mot andre tilgjengelige navigasjonshjelpemidler underveis (årsaksfaktor). Som en følge av økende sidevind etter landfall drev helikopteret av 18° til venstre i forhold til planlagt trekk. Besetningen hadde begrensede muligheter til visuelt å oppdage dette avviket (årsaksfaktor). Oppdraget gikk ut på å redde mennesker i livstruende fare, og i denne situasjonen anstrengte besetningen seg for å nå raskt frem til søkeområdet. I denne pressede situasjon for å redde liv, ble bestemmelser og prosedyrer som er gjort gjeldende for gjennomføring av sikker flyging ved landfall på ukjent sted, ikke tilstrekkelig iakttatt (årsaksfaktor). I selskapets FOM er SAR-operasjoner fra Statfjord bare beskrevet innen et primært søkeområde (radius 40 NM). Andre mulige søkeområder, for eksempel ved kysten eller over land, er ikke definert eller beskrevet m.h.t. trening, planlegging og utførelse. En sikkerhetstilråding"
+    },
+    {
+      "dato": "11. oktober 1990",
+      "ulykkessted": "35 km nordvest for Masi på Finnmarksvidda",
+      "type_helikopter": "Agusta Bell 206B",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "Helikopteret kolliderte med stigende terreng i en svak høyresving med forholdsvis betydelig horisontal og vertikal hastighet. Årsaken til havariet var at helikopteret under flyging i mørke og vinterforhold høyst sannsynlig kom inn i usiktbart vær som umuliggjorde visuell flyging. Fartøysjefen mistet derved orienteringen og kontrollen over fartøyet som kolliderte med stigende terreng. Fartøysjefen hadde inntil havaridagen totalt ca 30 timer ervervsmessig flygererfaring i Norge. Denne flygingen var i sin helhet opptjent i perioden 15.- 24. september 1990, ved selskapets operasjoner i Finnmark. Fartøysjefen hadde en aktuell flygetid (airborne time) på 6-7 timer havaridagen, og en arbeidsdag på ca 14 timer da havariet inntraff. Havariet inntraff under flyging i mørke med enmotors helikopter og med betalende passasjer om bord. Slik flyging er i henhold til gjeldende bestemmelser ikke tillatt. Redningshelikopteret som søkte etter og lokaliserte det forulykkede luftfartøyet, møtte stedvis snøbyger og usiktbart vær i det aktuelle området. En sikkerhetstilråding"
+    },
+    {
+      "dato": "4. januar 1991",
+      "ulykkessted": "Ved Koppang i Hedmark",
+      "type_helikopter": "MBB BO 105C",
+      "type_operasjon": "Ambulanse",
+      "antall_passasjerer_besetning": "1/3 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "4/0/0",
+      "arsaksfaktorer": "Helikopteret kolliderte med en kraftledning som krysset Glomma i 60 m høyde. Havariets årsak var at fartøysjefen i mørke og på grunn av værforhold som stadig ble verre, valgte å fly lavt over terrenget. Herved ble en sikker navigasjon vanskelig og helikopteret kolliderte med kraftlinjen. En uheldig omstendighet var at redningsmannen satt med ryggen i fartsretningen, slik at han vanskelig kunne delta i utkikk og navigering av helikopteret. Reduserte visuelle referanser under mørkeflyging og lavt skydekke Redningsmannen satt vendt bakover for å delta i pasientbehandling Høyspentkablene Rendalen-Gudbrandsdalen var ikke inntegnet på det Cappelenkart 2, Sør Norge-nord, som var om bord i helikopteret. På enkelte andre veikart i fartøyet var luftfartshindringer inntegnet. Flygingen ble forsøkt gjennomført i værforhold som hverken overenstemmer med myndighetenes eller selskapets bestemmelser om værminima. 8 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "27. mars 1991",
+      "ulykkessted": "Mimerbukta ved Pyramiden, Svalbard",
+      "type_helikopter": "Mil Mi-8",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "0/3 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "2/1/0",
+      "arsaksfaktorer": "Fartøysjefen forsøkte å gjennomføre en VFR flyging fra Longyear til Pyramiden under vanskelige værforhold. Under innflygingen som ble gjort i snøvær, tapte fartøysjefen de visuelle referanser, med den følge at han mistet kontrollen over helikopteret under et avbrutt innflygingsforsøk. Helikopteret kolliderte med sjøisen 800 m sydøst for helikopterlandingsplassen. I området hvor havariet inntraff var det stedvis uegnede værforhold for visuell flyging. Flygingen ble forsøkt gjennomført i værforhold som var dårligere enn selskapets og Luftfartsverkets bestemmelser om værminima. Maskinisten var ikke fastspent. Redningsutstyret ved Pyramiden helikopterlandingsplass er mangelfullt. 8 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "21. mai 1991",
+      "ulykkessted": "Ved Grimstad, Aust-Agder",
+      "type_helikopter": "Westland Sea King",
+      "type_operasjon": "Prøveflyging",
+      "antall_passasjerer_besetning": "0/7 (7)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/7",
+      "arsaksfaktorer": "Motorstopp på to motorer Nødlanding i sjøen med påfølgende kantring"
+    },
+    {
+      "dato": "10. august 1991",
+      "ulykkessted": "Ekofiskfeltet",
+      "type_helikopter": "Bell 212",
+      "type_operasjon": "Underhengende last",
+      "antall_passasjerer_besetning": "0/3 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "3/0/0",
+      "arsaksfaktorer": "Helikopteret kom bort i flammetårnet under monteringsarbeid Manglende utvendige referanser Manglende trening av besetningen for oppdragstypen Flere organisatoriske forhold 8 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "10. mai 1993",
+      "ulykkessted": "Skålvik i Møre og Romsdal",
+      "type_helikopter": "Hughes 500 E",
+      "type_operasjon": "Underhengende last",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Helikoptret traff bakken hardt slik at høyre skid knakk og halerotor berørte bakken Skyldtes trolig Vortex ring i lav høyde under nedsetting av last Flygeren hadde lite erfaring"
+    },
+    {
+      "dato": "29. september 1993",
+      "ulykkessted": "Frondalen, Aurland i Hordaland",
+      "type_helikopter": "Hughes 300 C",
+      "type_operasjon": "Overføring",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "Kollisjon med løypestreng i 40-50-m høyde På det kartet som fartøysjefen benyttet, var den aktuelle løypestreng ikke avmerket. Selskapet har ikke noen fastlagt prosedyre for behandling av informasjon om luftfartshindringer. Kollisjonen med løypestrengen skjedde under gode vær og lysforhold. Helikopteret ble fløyet lavere enn minimumshøyden fastsatt i BSL F 1-4, Lufttrafikkreglene. (Årsaksfaktor) Fartøysjefen har ikke visst om og ikke sett løypestrengen i tide til å unngå sammenstøt. (Årsaksfaktor) En sikkerhetstilråding"
+    },
+    {
+      "dato": "14. september 1993",
+      "ulykkessted": "Odda, Hordaland",
+      "type_helikopter": "Aerospatiale SA 315 B Lama",
+      "type_operasjon": "Underhengende last",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "1/0/0",
+      "arsaksfaktorer": "Motorstopp og nødlanding i tettbygd strøk med påfølgende brann etter feil i drivstoffventil under lasteoppdrag med \"longline\". Under et arbeidsoppdrag med \"longline\" teknikk og med underhengende last, stoppet motoren pga. at EFC utilsiktet stengte for drivstofftilførselen. (Årsaksfaktor). EFC (Electric Fuel Cock) gikk til stengt stilling pga. en elektrisk impuls fra motorens kontrollsystem. (Årsaksfaktor). Helikopteret falt ned i tettbebyggelsen ved Odda. Fartøysjefen hadde i de 7 dagene før havariet hatt et høyere tillatt antall arbeidstimer enn hva selskapet tillater. Under et oppdrag tidligere samme dag hadde fartøysjefen ved en feil løst ut helikopterets lastekrok i stedet for den elektrisk opererte kroken i lastelinen. Mission bryter ble funnet i OFF. (Årsaksfaktor). Helikopteret opererte i den region av sitt operasjonsområde hvor muligheten for en vellykket autorotasjon er begrenset. (Årsaksfaktor). Ved kollisjonen med terrenget oppsto det en kraftig brann i helikopteret som også antente et bolighus. I den mobile drivstofftanken der etterfylling av helikopteret fant sted, ble det funnet forurensning. 7 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "14. juli 1994",
+      "ulykkessted": "Nerskogen, Trøndelag",
+      "type_helikopter": "Hughes 500 E",
+      "type_operasjon": "Overføring",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Utmattingsbrudd i en bolt førte til at halerotor falt av under start i cirka 20 m høyde. Helikopteret roterte 3 ganger, men fartøysjefen klarte å nødlande uten at det veltet. Det ble funnet utmattingsbrudd i en Fork Bolt. Utmattingen var initiert av utvendige skader på bolten. Det er sannsynlig at skadene på bolten var påført i forbindelse med vedlikeholdsarbeider. Ved montering av halerotorgearboksen til halebommen, var ikke fabrikantens anbefalinger fulgt med hensyn til fjerning av maling på brakettenes anleggsflater. Fabrikantens vedlikeholdsunderlag er uklart med hensyn til inspeksjon av Fork Bolt ved periodisk ettersyn. En sikkerhetstilråding."
+    },
+    {
+      "dato": "1. august 1994",
+      "ulykkessted": "Ås i Akershus",
+      "type_helikopter": "Bell 206B Jet Ranger III",
+      "type_operasjon": "Overføring",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "En limt forbindelse på et halerotorakselsegment løsnet under flyging. Dette forårsaket at driften av halerotoren opphørte og at fartøysjefen initielt mistet retningskontrollen. (Årsaksfaktor). Fartøysjefen gjenvant retningskontroll ved å sette helikopteret i autorotasjon, men nådde ikke åpent terreng og måtte nødlande i skogen. Limfugen sviktet trolig på grunn av en designsvakhet Vedlikeholdsrutinene var ikke egnet til å oppdage slik svikt i en limfuge i tide Tre sikkerhetstilrådinger."
+    },
+    {
+      "dato": "1. mai 1995",
+      "ulykkessted": "Tangsrød, Vestfold",
+      "type_helikopter": "Hughes 500 E",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Hovedrotor kuttet halebommen under trening på motorstopp i hover Tippebevegelse framover ble forsøkt kompensert med for mye cyclicstikke bakover Underlaget var bløtt"
+    },
+    {
+      "dato": "18. januar 1996",
+      "ulykkessted": "Nordsjøen 40 nm sørvest for Sola",
+      "type_helikopter": "AS332 L1",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "16/2 (18)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/18",
+      "arsaksfaktorer": "Kontrollert nødlanding på sjøen etter at det oppstod kraftige vibrasjoner. Alle om bord ble plukket opp av to Sea King redningshelikoptre etter cirka 1 time. Helikopteret veltet etter at bølgehøyden i løpet av påfølgende natt økte til 7-8 m og det sank dagen etter uten at det hadde vært mulig å gjøre bergingsforsøk. Vibrasjonene var forårsaket av at forkantskinnen på ett hovedrotorblad åpnet seg Svakheter i tilvirkning, montering og reparasjon av forkantskinnen Selskapets vedlikeholdsprogram fanget ikke opp slike svakheter 10 sikkerhetstilrådinger."
+    },
+    {
+      "dato": "18. mars 1996",
+      "ulykkessted": "Wijdefjorden, Svalbard",
+      "type_helikopter": "Eurocopter AS332L Super Puma",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "2/5 (7)",
+      "omkomne_alvorlig_skadet_uskadet": "0/2/5",
+      "arsaksfaktorer": "Under manøvrering for å komme i posisjon for å fotografere en isbjørn havarerte helikopteret på isen. Helikopteret ble manøvrert på en måte som innebar risiko for tap av kontroll. Risikoen oppsto ved en kombinasjon av rask reduksjon av høyde og flygehastighet ned mot 0 kt, kombinert med sving inn i medvind. Manøvreringen ble vanskeliggjort ved at det ikke var synlige indikasjoner på vindretning og vindstyrke, og at det var et forholdsvis konturløst landskap uten kjente størrelser, og som ikke ga sterke visuelle inntrykk av høyde og hastighet. Fartøysjefen var seg ikke sin oppgave som instruktør bevisst idet han først tillot eleven å operere helikopteret på en måte som kunne innebære risiko, og deretter ikke var rask nok med å gripe inn når nødsitusjonen var i ferd med å oppstå. En sikkerhetstilråding."
+    },
+    {
+      "dato": "15. mai 1996",
+      "ulykkessted": "Gildeskål i Nordland",
+      "type_helikopter": "Bell 206B Jet Ranger III",
+      "type_operasjon": "Reindriving",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "Kollisjon med kraftledning i 38 m høyde Ledningen var ikke fysisk merket, men merket på kartet Da ulykken inntraff hadde fartøysjefen tjenestegjort i ca. 6 timer uten pause eller inntak av måltid. Dette var i strid med selskapets driftshåndbok. Fartøysjefen hadde tidligere på dagen blitt gjort oppmerksom på faren ved et spenn, men fløy likevel lavt i området. Kontakt mellom hovedrotoren og spennet førte til at hovedrotoren falt av og at helikopteret falt i sjøen. Det aktuelle spennet var ikke fysisk merket. Fartøysjefen ble av vitner observert uten briller før avgangen fra parkeringsplassen, og han ble funnet uten briller eller kontaktlinser etter havariet. To sikkerhetstilrådinger."
+    },
+    {
+      "dato": "25. juli 1996",
+      "ulykkessted": "Meråker, Trøndelag",
+      "type_helikopter": "Hughes 500 HS",
+      "type_operasjon": "Reindriving",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Hovedrotor skadet av bagasje under utlasting"
+    },
+    {
+      "dato": "14. oktober 1996",
+      "ulykkessted": "Vevring Førdefjorden i Sogn og Fjordane",
+      "type_helikopter": "Eurocopter SA 365 N Dauphin 2",
+      "type_operasjon": "Ambulanse",
+      "antall_passasjerer_besetning": "0/4 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "4/0/0",
+      "arsaksfaktorer": "Kollisjon med fjordspenn i ca. 95 m høyde Uklarhet om bestemmelsessted Mørk, måneløs natt Fartøysjefen var velkjent med spennet, kollisjonen kan ha vært resultat av desorientering eller ren forglemmelse Betingelser og forhold for planlegging før luftambulanseoppdrag var ikke optimalt lagt til rette Besetningssammensetning og samtrening ikke tilstrekkelig for oppdragets vanskelighetsgrad 1 + 14 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "5. april 1997",
+      "ulykkessted": "Skøelvdalen, Sørreisa i Troms",
+      "type_helikopter": "Eurocopter AS 350 B2",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikoptret ble skadet på bakken under avbrutt start. Det oppstod uvanlige vibrasjoner grunnet aerodynamiske forhold flygeren ikke var kjent med Topografien på landingsplassen som var en vei med høye brøytekanter, medvirket til at vibrasjonene oppstod To personer i nærheten, utenfor helikopteret var i fare på grunn av flygende deler fra hovedrotoren To sikkerhetstilrådinger."
+    },
+    {
+      "dato": "5. juni 1997",
+      "ulykkessted": "Lindås, Hordaland",
+      "type_helikopter": "Aerospatiale SA 315 B Lama",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikopteret veltet på siden under trening på motorstopp i hover Eleven driftet mot høyre under landingen Underlaget var bløtt og uegnet"
+    },
+    {
+      "dato": "30. august 1997",
+      "ulykkessted": "Tennvatnet, Hamarøy i Nordland",
+      "type_helikopter": "Eurocopter AS 350 B2",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Plastsekk blåste opp i hovedrotor ved innlasting på bakken"
+    },
+    {
+      "dato": "8. september 1997",
+      "ulykkessted": "Ved Norne, Norskehavet, 100 nm vest-nordvest for Brønnøysund",
+      "type_helikopter": "Eurocopter AS332 L1 Super Puma",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "10/2 (12)",
+      "omkomne_alvorlig_skadet_uskadet": "12/0/0",
+      "arsaksfaktorer": "Falt i sjøen fra ca 2 000 fots høyde Tretthetsbrudd i overføring mellom motor og girboks Svikt i sikkerhetssystem for motorkontroll Eksplosjon av motorens tubinskive Fragmentene kutte kontrollstag til hovedrotoren 2 + 18 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "26. september 1997",
+      "ulykkessted": "Snadden ved Storelva, Buskerud",
+      "type_helikopter": "Robinson R44 Astro",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "3/1 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/4",
+      "arsaksfaktorer": "Kollisjon med kraftledning i 10 m høyde under utflyging etter start Fartøysjefen brukte en unødvendig lang distanse i lav høyde på akselerasjonen etter starten som en følge av feil teknikk eller lavflyging. Kontakten mellom helikopteret og kraftspennet førte til skader som gjorde at luftfartøyet ikke var luftdyktig. Fartøysjefen landet ikke straks etter kollisjonen, men fløy helikopteret ca. 7 NM til Eggemoen flyplass. Tre sikkerhetstilrådinger."
+    },
+    {
+      "dato": "31. oktober 1997",
+      "ulykkessted": "Stavanger lufthavn Sola",
+      "type_helikopter": "Eurocopter AS332 L2 Super Puma",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikopteret traff rullebanen etter delvis tap av kontroll under instrumentforhold under simulert avbrutt innflyging på en treningsflyging To meget erfarne flygere var satt opp sammen i en treningssituasjon Treningen var en PFT hvor instruktøren fungerte både som fartøysjef og kontrollant Ulykken skjedde under trening på avbrutt innflyging fra beslutningspunktet etter en ILS innflyging med simulert motorbortfall og uten autopiloten innkoplet under marginale værforhold."
+    },
+    {
+      "dato": "5. august 1998",
+      "ulykkessted": "Kunna, Meløy i Nordland",
+      "type_helikopter": "Bell 214 B-1",
+      "type_operasjon": "Overføring",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "Kollisjon med kabelbane i ca. 30 m høyde Fartøysjefen avvek fra bestemmelsene om minstehøyder i underveisfasen. Fartøysjefen brakte helikopteret farlig nær terreng ved at han brått gjorde en venstresving mot en fjellside og helikopteret kolliderte med en kabelbane. Kabelbanen lå så nær terrenget at den ikke var merket på noe flykart. Helikopteret kom ut av kontroll etter at det traff kabelbanen. Tre sikkerhetstilrådinger."
+    },
+    {
+      "dato": "26. februar 1999",
+      "ulykkessted": "Hafjell, Øyer i Oppland",
+      "type_helikopter": "Eurocopter AS 355 F1 Ecureuil 2",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Helikopteret skled baklengs på bakken og veltet delvis utfor en skråning Fartøysjefen satte helikopteret ned på en uegnet landingsplass. Landingsplassen skrånet bakover og overflaten var hardpakket snø som ikke ga tilstrekkelig friksjon,"
+    },
+    {
+      "dato": "17. mai 1999",
+      "ulykkessted": "I 800 fot ved Brokskar Straumsfjorden i Troms",
+      "type_helikopter": "Eurocopter SA 365 N Dauphin 2",
+      "type_operasjon": "Ambulanse",
+      "antall_passasjerer_besetning": "0/3 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/3",
+      "arsaksfaktorer": "Helikopteret kom inn i kraftig turbulens og mistet storparten av haleflate og halefinner Designkriteria dekker ikke fullt ut denne type konstruksjon Mulig svekket struktur fra tidligere Ettersynsmetoder utilstrekkelige til å oppdage svakheter Slike komposittstrukturer svekkes med elde 8 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "19. juli 1999",
+      "ulykkessted": "Songa i Telemark",
+      "type_helikopter": "Bell 206B-3 Jet Ranger",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Halerotor kom i kontakt med førerhus på lastebil under løft av hiv Vindkast førte til vipp i helikopteret som hadde liten klaring til lastebilen Det ble benyttet kort stropp Fartøysjefen brukte hjelm"
+    },
+    {
+      "dato": "22. oktober 1999",
+      "ulykkessted": "Engø brygge Tjømø i Vestfold",
+      "type_helikopter": "Eurocopter AS 350 BA",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Halerotor kom i kontakt med lekter Løftet til hover med vind inn bak fra venstre Overkompenserte med cyclic"
+    },
+    {
+      "dato": "6. november 1999",
+      "ulykkessted": "Låghellernuten, Hardangervidda i Hordaland",
+      "type_helikopter": "Eurocopter AS 350 B2",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "3/1 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "2/2/0",
+      "arsaksfaktorer": "Tap av motoreffekt under utklatring i stigende terreng Autorotasjon fra lav høyde mislyktes Uheldig valg av utflygingsprofil/trase Årsaken til tap av motoreffekt ikke klarlagt 7 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "8. desember 1999",
+      "ulykkessted": "Ski flyplass i Akershus",
+      "type_helikopter": "RotorWay International Exec 162 F",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Halerotor tok i bakken under autorotasjonsøvelse Fartøysjefen feilbedømte høyden under siste del av øvelsen Autorotasjonstreningen utført til bakken"
+    },
+    {
+      "dato": "23. januar 2000",
+      "ulykkessted": "Ved Hunndalen, Gjøvik i Oppland",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "3/1 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/4",
+      "arsaksfaktorer": "Tap av kontroll etterfulgt av nødlanding på vei Uegnet innflygingsprosedyre med krapp sving Tap av halerotoreffekt Lavt erfaringsnivå"
+    },
+    {
+      "dato": "13. april 2000",
+      "ulykkessted": "Rosendal i Hordaland",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Lasten kolliderte med en løypestreng og ble droppet Strengen var umerket og ikke inntegnet på kart Strengen ble ikke oppdaget ved rekognosering fra luften"
+    },
+    {
+      "dato": "5. juni 2000",
+      "ulykkessted": "5 km nord for Skinnarbu i Telemark",
+      "type_helikopter": "Hughes 300 C",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Havari under trening på motorbortfall Motoren stoppet halvveis i autorotasjonen fra 1 000 fot Tetthetshøyde (DA) på havaristedet 3 600 fot Årsak til motorstoppen ikke klarlagt En sikkerhetstilråding."
+    },
+    {
+      "dato": "18. oktober 2000",
+      "ulykkessted": "Niavatn i Nordland",
+      "type_helikopter": "Aerospatiale SA 315 B Lama",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Hovedrotorbladene slo ned i en stein under nedstengning Fartøysjefen feilbedømte avstand til og høyde på steinen Regndråper på rutene"
+    },
+    {
+      "dato": "14. desember 2000",
+      "ulykkessted": "Ved Fisketjærn på Valdresflya i Oppland",
+      "type_helikopter": "Hughes 500 E",
+      "type_operasjon": "Overføring",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "1/0/0",
+      "arsaksfaktorer": "Helikopteret traff bakken med stor kraft Helikopter observert lavt i vær med snøbyger og dårlig sikt Sannsynlig tap av visuelle referanser under flygingen over snødekt konturløst terreng Tre sikkerhetstilrådinger."
+    },
+    {
+      "dato": "7. juni 2001",
+      "ulykkessted": "Ved Takvatnet, Balsfjord, Troms",
+      "type_helikopter": "Robinson R44 Astro",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikopteret rullet over på siden under førevarslanding Dynamisk rullefenomen kan ha medvirket da helikopteret driftet under settingen"
+    },
+    {
+      "dato": "21. juni 2001",
+      "ulykkessted": "Ved Tuddal i Telemark",
+      "type_helikopter": "Hughes 500 E",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/1",
+      "arsaksfaktorer": "Motorbortfall i 25 m hover over lasten Vellykket autorotasjon ikke mulig fra så lav høyde Motorstoppen skyldtes trolig forurensing av ukjent opphav i motorens drivstoffsystem"
+    },
+    {
+      "dato": "31. juli 2001",
+      "ulykkessted": "Kjellerholen i Akershus",
+      "type_helikopter": "RotorWay International Exec 162 F",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Tap av kontroll ved start Helikopterets tyngdepunktet var utenfor begrensningene Sjekklisten før start gjennomført etter hukommelsen Sjekklistepunktet om å flytte balansevekten ble glemt"
+    },
+    {
+      "dato": "17. oktober 2001",
+      "ulykkessted": "Sandefjord lufthavn, Torp",
+      "type_helikopter": "Hughes 300 C",
+      "type_operasjon": "Trening (Oppflyging)",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Halen tok ned i bakken under utflatning i autorotasjon 180 graders autorotasjon initiert i 700 fot AGL Hastigheten falt i svingen Kontrollanten tok ikke over i tide"
+    },
+    {
+      "dato": "9. november 2001",
+      "ulykkessted": "Songa i Telemark",
+      "type_helikopter": "Bell 204B",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Helikopteret tippet forover under forsøk på å løfte det raskt av bakken Helikopteret landet på en liten platting Plattingen var snødekket Helikopteret skled sidelengs av plattingen Tre sikkerhetstilrådinger."
+    },
+    {
+      "dato": "7. mai 2002",
+      "ulykkessted": "Ved Stalheim Hotel",
+      "type_helikopter": "Eurocopter AS 350 B1",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "-/- (-)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "Luftfartsulykke ved Stalheim Hotel, Opheim, med Eurocopter AS 350 B1, LN-OPP. Autorotasjon med betydelige materielle skader. Ingen personskader. Problemer med turtallsregulering etter mekaniske skader internt i motor."
+    },
+    {
+      "dato": "10. juni 2002",
+      "ulykkessted": "Øvre Kalvvatn, Bindal i Nordland",
+      "type_helikopter": "Eurocopter AS 350 B2",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/0",
+      "arsaksfaktorer": "Totalhavari i underveisfasen med underhengende last. Tom lastesekk viklet inn i halerotor. En storsekk viklet seg inn i halerotoren under flyging Dette medførte tap av halerotoreffekt og reduserte hovedrotorturtallet Lavt hovedrotorturtall medførte en meget hard autototasjonslanding To sikkerhetstilrådinger"
+    },
+    {
+      "dato": "28. juni 2002",
+      "ulykkessted": "Sandefjord lufthavn Torp",
+      "type_helikopter": "Robinson R22",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Hard landing ifm. Fonyelse av sertifikatrettighet. Kandidaten feilbedømte utflatingen og kontrollanten tok over kontrollen for sent. Helikopteret kom i kontakt med bakken og ble påført strukturskader. Hard landing i forbindelse med 180 graders autorotasjon Tap av turtall og hastighet i svingen Motorkraft ble ikke økt i tide til å gjenvinne turtall og stoppe gjennomsynkingen En sikkerhetststilråding"
+    },
+    {
+      "dato": "11. juli 2002",
+      "ulykkessted": "Ved Riasten Røros i Trøndelag",
+      "type_helikopter": "Hughes 300 C",
+      "type_operasjon": "Reindriving",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Reindriving. Tap av rotorturtall i sving til hover i lav høyde over fjellterreng. Hard landing. Teknisk feil ikke påvist. Betydelige materielle skader. Helikopteret veltet etter hard landing i fjellterreng Landingen skyldtes tap av hovedrotorturtall Helikopteret var på grensen av maksimal ytelse på grunn av høy tetthetshøyde En sikkerhetstilråding"
+    },
+    {
+      "dato": "19. august 2002",
+      "ulykkessted": "Dale i Sogn og Fjordane",
+      "type_helikopter": "Eurocopter AS 350 B1",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Tap av kontroll i hover - long line operasjon. Hard landing. Helikopteret slo halen i bakken under nedlegging av lasteline Kastevinder i området Kontrollproblemer trolig grunnet diverse aerodynamiske effekter To sikkerhetstilrådinger"
+    },
+    {
+      "dato": "30. august 2002",
+      "ulykkessted": "Harvasstua, Hattfjelldal i Nordland",
+      "type_helikopter": "Eurocopter EC 120 B Collibri",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/3",
+      "arsaksfaktorer": "Havari etter tap av høyde på \"downwind\". Tap av kontroll og helikopteret veltet ved landing Uventet sterk vind i området Lav fart på medvindslegg/sving til base kan ha medført vortex ring state"
+    },
+    {
+      "dato": "4. november 2002",
+      "ulykkessted": "Kvammen, Melhus i Trøndelag",
+      "type_helikopter": "Eurocopter AS 350 B2",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Tap av kontroll under oppstart på glatt underlag. Helikopteret vred seg og halebom/halerotor traff betongtobb. Helikopteret dreide mot venstre da motoren ble kjørt opp under oppstart Landingsplassen var ikke strødd, men iset og glatt Halerotor hadde liten effekt da turtallet var for lavt"
+    },
+    {
+      "dato": "5. november 2002",
+      "ulykkessted": "17 nm sørvest for Stavanger lufthavn Sola",
+      "type_helikopter": "Eurocopter AS332 L2 Super Puma",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "14/2 (16)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/16",
+      "arsaksfaktorer": "Plutselige vibrasjoner underveis til Sola på vei fra Sleipner. Vellykket nødlanding på heli-dekk på tankskip som befant seg i nærheten. Et hovedrotorblad var påført betydelige skader av en pendelvekt som hadde løsnet. Påvist utmattingsskade i pendelvekt. Pendelvekten forårsaket betydelig skader i ett rotorblad slik at bladet mistet mye av sin innebygde stivhet. Dette forårsaket de kraftige vibrasjonene. EC har konstruert en modifisert versjon av pendelvektene som skal forhindre gjentakelser. Helikopteret fikk kraftige vibrasjoner og nødlandet på et skip med helidekk som tilfeldigvis befant seg i nærheten Vibrasjonene skyldtes store skader på ett hovedrotorblad Et pendellodd i rotorhodet hadde løsnet og truffet bladet Utmattingsbrudd i bolten som holdt loddet Utmattingsbruddet kan ha vært uløst av lavt tiltrekkingsmoment på bolten 6 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "25. april 2003",
+      "ulykkessted": "Ullensvang i Hardanger, Hordaland",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Kalking",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Traff spenn i underveisfasen i forbindelse med kalking. Totalhavari. Undersøkelsen har ikke avdekket tekniske feil ved helikopteret. Fartøysjefen fløy 31 m over terrenget da han traff spennet 200-300 m før kalkingsområdet. Fartøysjefen var under opplæring da ulykken skjedde. Selskapets opplæring og prosedyrer ved kalking er sentrale temaer. Lasten kolliderte med en kraftledning og helikopteret kom ut av kontroll og havarerte Fartøysjefen valgte å fly helikopteret lavt i transportfasen Selskapet fulgte ikke egne prosedyrer med hensyn til inntegning av luftfartshindringer 4 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "4. juli 2003",
+      "ulykkessted": "Hellandsbygd i Rogaland",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Helikopterets skulle hente en arbeidsplattform (kurv) som var blitt hengt opp på en kraftlinje (faseline) av den samme fartøysjefen tidligere på dagen. Under hovring over kurven kom hovedrotorbladene i kontakt med en jordingsline (toppline) som hang over faselinen, slik at bladene ble skadet. Dette medførte kraftige vibrasjoner i helikopteret og fartøysjefen avbrøt oppdraget, utløste \"long line\" og nødlandet i nærheten av noen høyspentmaster. Nødlandingen ble utført i 10-15 kt medvind og under landingen ble halerotor, halebom og den horisontale stabilisatoren skadet. Fartøysjefen var uskadet. HSLB har fremmet 3 sikkerhetstilrådinger relatert til risikostyring og prosedyrer for denne type oppdrag. Langlinen var for kort Selskapet hadde ikke prosedyre for operasjonen Tre sikkerhetstilrådinger"
+    },
+    {
+      "dato": "27. august 2003",
+      "ulykkessted": "Mellom Nesoddtangen og Fornebu i Akershus",
+      "type_helikopter": "Eurocopter AS 355 F1",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Høyre deksel over gearboks falt av i underveisfasen og traff hovedrotor og høyre stabilisator. Fartøysjefen hørte et smell og merket risting i helikopteret. Han valgte å foreta en landing i Bjørvika i Oslo havn. Helikopteret fikk kun mindre skader. Årsaken til at dekselet løsnet er ikke klarlagt. En lås i dekslet sviktet eller gikk opp Frivillig modifikasjon til låsemekanismen ikke utført"
+    },
+    {
+      "dato": "30. august 2003",
+      "ulykkessted": "Asak, Tistedal i Østfold",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/3",
+      "arsaksfaktorer": "Havari etter kollisjon med høyspentledning, ingen personskade. Helikopteret kolliderte med en kraftlinje i ca. 10 m høyde under start og kom delvis ut av kontroll Flygeren hadde gjort en grundig rekognosering av utflygingstraseen Kraftlinjen var umerket og vanskelig å se i terrenget En sikkerhstilråding"
+    },
+    {
+      "dato": "1. september 2003",
+      "ulykkessted": "Straumshamn i Volda, Møre og Romsdal",
+      "type_helikopter": "RotorWay International Exec 162 F",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Mistet halerotorautoritet. Nødlanding. Betydelige materielle skader. Det ble funnet spor etter kjølevæskelekkasje omkring drivremmene til halerotoren, og mye tyder på at halerotordriften ble påvirket av dette. Andre åpenbare tekniske feil er ikke funnet. Helikopteret veltet under nødlanding etter svikt i drift av halerotor Det kan ha oppstått kjølevæskelekkasje i motorrommet Kjølevæske kan ha gjort at drivremmene til halerotoren glapp når halerotoren ble belastet To sikkerhstilrådinger"
+    },
+    {
+      "dato": "2. september 2003",
+      "ulykkessted": "Gåsvassryggen i Skjærstad, Nordland",
+      "type_helikopter": "Hughes 500 E",
+      "type_operasjon": "Reindriving",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Havari etter svikt i halerotorgirboks under \"hovring\". Undersøkelsene påviste utmattingsbrudd i halerotorgirboks. Sprekken i et tannhjul hadde utviklet seg fra en tidligere skade som sannsynligvis skyldtes en tidligere \"shock loading/sudden stoppage\". Undersøkelsene avdekket at samme halerotorgirboks hadde vært involvert i et tidligere totalhavari med SE-HMP. Girboksen ble overhalt og montert i SE-HSI der den fløy 700 timer før den sviktet. SHT har påvist svakheter i vedlikeholdsunderlaget og fremmer flere sikkerhetstilrådinger. Helikopteret gjorde en hard autorotasjonslanding Tannhjulet på inntakssiden i halerotorgirboksen mistet en tann som følge av en utmatningssprekk Halerotorgirboksen hadde vært involvert i et havari i 1998 Tannhjulet var mest sannsynlig svekket som følge av en uoppdaget overbelastningsskade i strukturen etter det tidligere havariet Teksten i fabrikantens dokumentasjon gir muligheter for feiltolking av inspeksjonskravene etter slik skade To sikkerhetstilrådinger"
+    },
+    {
+      "dato": "18. desember 2003",
+      "ulykkessted": "På isen i Adventfjorden, Svalbard",
+      "type_helikopter": "Bell 212",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/2/0",
+      "arsaksfaktorer": "Helikopteret skulle fly VFR (natt) ned fra et 1 500 ft platå på Hiortfjellet og til lufthavnen. Estimert flytid 3 minutter. Det var pent, kaldt vær og god sikt. Helikopteret var utstyrt med kraftige utvendige lys. Besetningen speidet etter et annet luftfartøy som samtidig var under innflyging til lufthavnen da kapteinen plutselig så han at de var i ferd med å kollidere med sjøisen i Adventsfjorden. Han rakk ikke å gripe inn, og helikopteret traff isen med stor kraft. Begge flygerne ble alvorlig skadet, men kom seg ut og opp på isen. De ble reddet av et redningshelikopter en halv time senere. Vraket gikk gjennom isen og sank. Det foreligger ingen mistanke om teknisk feil med helikopteret. Visuelle illusjoner (black hole) mulig medvirkende årsak. Det var helt mørkt, konturløst og kun lys på ankomststedet (flyplassen) Flygingen ble gjennomført som visuell flyging på tross av selskapets policy Selskapet hadde få skriftlige prosedyrer for slik flyging To sikkerhetstilrådinger."
+    },
+    {
+      "dato": "18. februar 2004",
+      "ulykkessted": "Alvøen skole, Hordaland",
+      "type_helikopter": "RotorWay International Exec 162 F",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "-/- (-)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "Under flyging med et selvbygget helikopter registrert som experimental fikk helikopteret så nedsatt rotoreffekt at det ble autorotert ned på en fotballbane i tilknytning til Alvøen skole. Under landing traff helikopteret en mindre hindring og veltet over på siden med omfattende materielle skader som følge. Det var en person om bord i helikopteret og det oppstod ikke personskade. Den nedsatte rotoreffekten skyldtes skadd drivreim mellom motor og rotorsystem. Drivreimen ble funnet å være av annen opprinnelse og kvalitet enn anbefalt fra helikopterprodusent. Undersøkelsen påpeker utfordringen knyttet til denne klasse luftfartøy hvor et større ansvar for komponentenes egnethet og kvalitet påhviler eier/bruker enn i annen luftfart."
+    },
+    {
+      "dato": "4. juni 2004",
+      "ulykkessted": "Kitdalen i Lyngen, Troms",
+      "type_helikopter": "Eurocopter AS 350 B1",
+      "type_operasjon": "Underhengende last",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Tom lastewire beveget seg opp i halerotoren under flyging og førte til tap av kontroll. Helikopter veltet etter nedslaget. Branntilløp. Ingen personskade. Wiren var ubelastet under returflyging Kombinasjon av hastighet og turbulens kan ha ført wiren opp i halerotor Selskapets prosedyre for slik operasjon ikke dekkende Regelverk for operasjonstypen ikke dekkende En sikkerhetstilråding"
+    },
+    {
+      "dato": "13. juni 2004",
+      "ulykkessted": "Øvre Natadal, Seljord i Telemark",
+      "type_helikopter": "Robinson R44 Astro",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Fartøysjefen akselererte etter avgang og var i 10 - 15 m høyde da han merket et vesentlig tap av motoreffekt. Den påfølgende landingen ble hard slik at helikopterets ramme ble bøyd og hovedrotoren berørte halebommen. Undersøkelsen har avdekket betydelige feil ved motorens venstre tenningsmagnet og dårlig forfatning ved to av tennpluggene i høyre tenningssystem. SHT mener at dette kan forklare motorsvikten. Tap av motoreffekt under start førte til tap av turtall"
+    },
+    {
+      "dato": "28. juli 2004",
+      "ulykkessted": "Aure i Møre og Romsdal",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "3/1 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/4",
+      "arsaksfaktorer": "Plutselig smell og vibrasjoner idet en fjellskrent ble passert i lav høyde ved rundflyging. Vellykket autorotasjon til landing på ei myr. Skade på hovedrotorblad, halebom, halerotoraksling og struktur ved rotormast. Undersøkelsene viste at rotoren hadde truffet stein. Hovedrotorblad traff bakken ved passering av fjelltopp Helikoptret hadde svært lav høyde da det svingte over toppen En sikkerhetstilråding"
+    },
+    {
+      "dato": "30. august 2004",
+      "ulykkessted": "Slogen, Ørsta i Møre og Romsdal",
+      "type_helikopter": "Robinson R22 Beta",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Nødlanding i fjellvann etter tap av rotorturtall under innflyging for landing. Helikopteret sank på 6 meters dyp. Flyger og passasjer kom seg ut og svømte ca. 100 m til land. Pax fikk hjelp fra tilskuere på land. Helikopteret hevet. Helikopter skrog, drivsystem, rotorer og kontrollsystemer kontrollert OK. Motor er undersøkt og funnet i orden. Undersøkelsene indikerer ytelsesbegrensninger under de rådende forhold. Helikopteret opererte nær typens ytelsesbegrensninger Forholdene tilsa stor sannsynlighet for forgasserising Merkingen av forgassertemperaturindikatoren kan medvirke til å gi flygere en falsk trygghetsfølelse Norske forskrifter om flyging med enmotors helikopter over vann er ikke entydige med hensyn til bruk av redningsvest eller overlevingsdrakt Tre sikkerhetsilrådinger"
+    },
+    {
+      "dato": "24. oktober 2004",
+      "ulykkessted": "I sjøen ved Breistein fergekai, Hordaland",
+      "type_helikopter": "Enstrom 280 C",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "1/0/2",
+      "arsaksfaktorer": "Helikopteret tok av fra Breistein fergekai etter et kort bakkeopphold. Helikopteret var tungt lastet (ca. 2% overvekt). Da fartøysjefen begynte å akselerere forover merket han at rotorturtallet hadde sunket. Det var ikke mulig å opprettholde høyden med tilgjengelig motorkraft og helikopteret nødlandet på sjøen 30 - 40 m fra land. Det sank deretter i løpet av få sekunder og en av de to passasjerene omkom. Entydige årsaksforhold ikke fastslått, men slitte tennplugger kan ha redusert motorkraften i en kritisk fase under avgangen. Ingen om bord benyttet redningsvest. Blyperle i gnistgapet på øvre tennplugg i sylinder nr. 1. kan ha medført tap av motoreffekt De nedre tennpluggene i motoren var slitt og hadde stort gnistgap Helikopterets masse var på eller litt over det maksimalt tillatte Starten ble foretatt over sjø"
+    },
+    {
+      "dato": "21. november 2004",
+      "ulykkessted": "250 m sør for Vanglandet båthavn i Vågåvatnet i Oppland",
+      "type_helikopter": "Eurocopter SA 365 N Dauphin 2",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/3 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/3",
+      "arsaksfaktorer": "Luftambulansehelikopter stasjonert på Dombås. Trening på pick-up av person fra vann. Fartøysjefen mistet kontroll over helikopteret i lav høyde over vannet i forbindelse med at redningsmannen hoppet ut. Helikopteret nødlandet og ble liggende opp ned på ca. 3 m dyp. Besetningen kom fysisk uskadet ut av helikopteret og ble berget etter kort tid. Det var god sikt, oppholdsvær og -4 til -7 grader C i området, og vanntemperaturen var ca. 0 grader C. Undersøkelsen har avdekket omfattende skader på Fenestron (halerotorvifte) og skader som kan forventes som følge av havariet. Tekniske undersøkelser hos produsenten har ikke avdekket materialfeil i Fenestron-bladene. Havarikommisjonen mener at ulykken ble utløst av at halen utilsiktet må ha kommet ned i, eller så nær vannflaten at halerotoren greide å trekke vann, og dermed ble overbelastet. Halerotoren ble overbelastet og drivakslingen knakk Helikopteret mistet halerotoreffekten og dermed retningskontrollen Selskapet hadde ikke prosedyrer for å forhindre at helikopteret kom for lavt ved slik trening"
+    },
+    {
+      "dato": "22. februar 2005",
+      "ulykkessted": "Tungesvik i Hordaland",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/1",
+      "arsaksfaktorer": "Kroken under buken på helikopteret løste utilsiktet ut idet lasten skulle løftes fra bakken. Long line-krok traff lastemannen og forårsaket alvorlig personskade. Det var umulig å gjenskape feil med kroken i ettertid, men selskapet har byttet ut samtlige kroker av den aktuelle typen. Det er trolig at kroken løste ut som følge av en teknisk feil En sikkerhetstilråding"
+    },
+    {
+      "dato": "6. mars 2005",
+      "ulykkessted": "Dyranut, Hardangervidda i Telemark",
+      "type_helikopter": "Robinson R44 II Clipper",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "3/1 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/4",
+      "arsaksfaktorer": "Helikopteret kom plutselig inn i snøfokk og visuelle referanser forsvant. Samme fartøysjef hadde nylig fløyet ruten motsatt vei i gode værforhold. Helikopteret veltet i forbindelse med førevarslanding på ujevnt underlag i vanskelige lysforhold. Landingen ble nødvendig på grunn av plutselig forverring av været Utilstrekkelige visuelle referanser under landing i konturløst, snødekket landskap En sikkerhetstilråding"
+    },
+    {
+      "dato": "11. mai 2005",
+      "ulykkessted": "Kolsås i Bærum, Akershus",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "6/1 (7)",
+      "omkomne_alvorlig_skadet_uskadet": "1/1/5",
+      "arsaksfaktorer": "Fartøysjefen hadde fløyet et \"eventoppdrag\" over Oslofjorden hvor personer blant annet hadde hoppet i sjøen fra helikopteret. Umiddelbart etter dette ønsket oppdragsgiveren at det ble fløyet en ekstra tur. Dørene forble avmontert og passasjerene satte seg på kabingulvet med bena utenfor kun festet i en line. Det ble besluttet å fly til Kolsås, og i en krapp sving mot stigende terreng feilberegnet fartøysjefen flygehøyden sett i forhold til helikopterets ytelsesbegrensninger. Helikopteret traff noen tretopper slik at en passasjer fikk skader i benet og helikopteret begynte å vibrere. Under den påfølgende nødlandingen i skrånende skogsterreng veltet helikopteret. En av passasjerene, som var festet i en relativt lang line falt ut gjennom den åpne døren, kom i klem og omkom av skadene. Undersøkelsen har avdekket at det over tid har utviklet seg et marked for \"eventflyginger uten at dette har vært tilstrekkelig regulert. Fartøysjefen feilbedømte svingen og kom for lavt Passasjerene satt ikke i godkjente passasjerseter Selskapet hadde ikke prosedyre for slik flyging En sikkerhetstilråding."
+    },
+    {
+      "dato": "21. juli 2005",
+      "ulykkessted": "Håvardsvatnet, Ringedalen i Hordaland",
+      "type_helikopter": "Eurocopter AS 350 B2",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Halerotor berørte container under landing. Betydelige materielle skader. Uheldig valg av landingsplass på trangt anleggsområde"
+    },
+    {
+      "dato": "19. august 2005",
+      "ulykkessted": "Solesætra, Norefjell i Buskerud",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/3",
+      "arsaksfaktorer": "Hovedrotor traff furutre under landing. Betydelige skader på rotor. Uheldig valg av landingsplass i trangt område"
+    },
+    {
+      "dato": "30. mars 2006",
+      "ulykkessted": "Austre Bokn, Rogaland",
+      "type_helikopter": "Agusta A109 E",
+      "type_operasjon": "Losflyging",
+      "antall_passasjerer_besetning": "1/3 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/3",
+      "arsaksfaktorer": "Luftfartsulykke med Agusta A109E, LN-OLH. Helikopteret hadde heist opp en los fra skipet Clipper Sky som lå i Hervikfjorden og var på vei til skipet Berge Danuta som lå sydvest for Skudeneshavn da besetningen avvek fra planlagt kurs. De kom uforvarende inn over øya Austre Bokn og besetningen ble varslet av radiohøydemåleren om at de var lavt over terrenget. Under hurtig stiging i mørke og uten visuelle referanser mistet fartøysjefen kontroll over helikopteret. Styrmannen oppfattet at de var i en nødsituasjon og iverksatte autorotasjon. Helikopteret traff terrenget på øya og veltet over på siden. De fire om bord ble skadet og helikopteret ble betydelig skadet."
+    },
+    {
+      "dato": "13. april 2006",
+      "ulykkessted": "Liagardene i Ål, Buskerud",
+      "type_helikopter": "Eurocopter EC 135 P2",
+      "type_operasjon": "Ambulanse",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Etter landing på konturløst, snødekt underlag oppdaget fartøysjefen at dekselet over navet i fenestronen manglet. Deformerte biter av dekselet lå i snøen like ved, og halerotorblad og \"tunnel\" var skadet. \"Tail bumper\" hadde kommet ned i løssnøen under landing. Snø som ble sugd gjennom fenestronen forårsaket at alle 10 bladtippene ble bøyd, og bøyningen førte til at dekselet, som var forskriftsmessig festet, løsnet og bidro til større ødeleggelser. Reduserte visuelle referanser i konturløst, hvitt terreng En sikkerhetstilråding"
+    },
+    {
+      "dato": "10. august 2006",
+      "ulykkessted": "Straumvatnet i Sørfold, Nordland",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Fartøysjefen ble blendet av lav sol og manøvrerte for å gjenvinne sine visuelle referanser under innflyging mot et drivstoff-depot nær vannkanten. Han oppdaget for sent at helikopteret var iferd med å kollidere med det speilblanke vannet. De to om bord var uskadet og kom seg ut før helikopteret sank. De svømte mot land, ca. 130 m unna. Vitner møtte dem med båt. I rapporten drøftes bla. faktorer som valg av innflygingstrase, arbeidspress i selskapet, erfaring, lokalkjennskap, planlegging, beskrivelse av faste landingsplasser, bruk av hjelm, lastemannens rolle, flysikkerhetsprogram og selskapets opplæring i lasteflyging. I tillegg omtales LTs satsing på bedret sikkerhet ved helikopter innlandsoperasjoner. Fartøysjefen fikk tildelt et utilstrekkelig forberedt oppdrag fra selskapets side og han fikk for liten tid til forberedelser Det kan synes som om fartøysjefen var utsatt for et ikke ubetydelig press når det gjaldt å påta seg et oppdrag han selv var i tvil om han hadde nok erfaring for 6 sikkerhetstilrådinger"
+    },
+    {
+      "dato": "14. september 2006",
+      "ulykkessted": "Bavallen i Voss, Hordaland",
+      "type_helikopter": "Eurocopter AS 350 B2",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "En lastewire uten last hang under helikopteret da det tok av fra slalåmbakken på Voss med to personer om bord. Underveis ned fra fjellet begynte wiren å pendle så mye at den slo opp i halerotoren. Bakre del av halepartiet med finne og halerotor ble revet av. Helikopteret ble fullstendig ukontrollerbart og stupte i bakken. Begge de ombordværende omkom i havariet. Ifølge undersøkelsene SHT har foretatt synes det åpenbart at fartøysjefen ikke hadde til hensikt å la wiren henge der mens han fløy persontransport, og at han må ha glemt at den var der før avgang. Avgang for persontransportoppdrag ble utilsiktet foretatt med en 9,6 m lang tom lastewire hengende i lastekroken under buken Tidsnød og distraksjoner som følge av at fartøysjefen i overgangen mellom oppdragene utførte andre oppgaver"
+    },
+    {
+      "dato": "18. april 2007",
+      "ulykkessted": "Hardangsfjellet i Bindal, Nordland",
+      "type_helikopter": "Hughes 500 D",
+      "type_operasjon": "Reindriving",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Halerotoren berørte en klippe under reindriving. I den påfølgende nødlandingen knakk den ene skid'en, og helikopteret veltet over på siden. Tap av kontroll Hovring i lav høyde i skrått terreng Svingte halen inn i bakken"
+    },
+    {
+      "dato": "11. september 2007",
+      "ulykkessted": "Åbakken i Sauherad, Telemark",
+      "type_helikopter": "Eurocopter AS 350 B2",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Helikopteret landet like ved en kalkbil. Da fartøysjefen senket collective traff hovedrotorbladene kalkbilen. Alle tre hovedrotorbladene ble totalskadet og kondemnert. Ingen andre skader. SHT har vurdert ulykken i forhold til de mange ulykker og hendelser relatert til innlandshelikoptre i Norge og fremmer to sikkerhetstilrådinger. Hverken fartøysjef eller lastemann oppdaget av helikopteret landet for nær hindringen"
+    },
+    {
+      "dato": "18. september 2007",
+      "ulykkessted": "15 km NØ for Elverum, Hedmark",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "-/- ()",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "Helikopteret var på vei fra Trysilområdet til Hamar for å fylle drivstoff da fartøysjefen registrerte at manifoldtrykket begynte å stige. Dette ble først tolket som forgasserising, men da forgasservarme ikke hjalp, satte han kurs mot et jorde nordøst for Elverum hvor en nødlanding kunne gjennomføres. Motoren stoppet imidlertid før han rakk å nødlande og fartøysjefen måtte autorotere fra 300 - 400 ft høyde. Helikopteret veltet under nødlandingen. Undersøkelsen har vist at motoren stoppet fordi en innvendig aksel løsnet. Feilen hadde oppstått over tid og det ble funnet mye metallspon i motoren og oljefilteret. Det ble utført 50-timers ettersyn på helikopteret 5 flytimer før motoren stoppet. Oljefilteret ble ikke åpnet og inspisert i forbindelse med ettersynet, og det er sannsynlig at ulykken kunne ha vært avverget hvis filteret hadde blitt åpnet og inspisert."
+    },
+    {
+      "dato": "27. september 2007",
+      "ulykkessted": "Sandfloegga på Hardangervidda i Odda, Hordaland",
+      "type_helikopter": "Robinson R22 Beta",
+      "type_operasjon": "Overføringsflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Luftfartsulykke med Robinson R22 BETA, LN-OAJ. Underveis fra Osterøy, Hordaland til Notodden flyplass kom det på kontinuerlig gult varsellys for clutch-systemet. Fartøysjefen foretok nødlanding i fjellterreng nær Sandfloegga på Hardangervidda. Skader på halerotor, ramme, skid og skrog. Clutch-system og varselsystem feilsøkt uten resultat. SHT tror det kan ha vært en sporadisk elektrisk feil i ledninger, koblinger, sensorer, brytere eller andre komponenter i clutchen, dens styringssystem eller varslingssystem som førte til at CLUTCH-lyset ble stående på. Videre mener havarikommisjonen at fartøysjefens beslutning om å lande øyeblikkelig da dette skjedde, var korrekt og i overenstemmelse med gjeldende prosedyre i flygehåndboken. Helikopteret traff bakken hardt under nødlanding Helikopterets ytelse var marginal på landingsstedet Tap av rotorturtall medførte vansker med reposisjonering til et egnet landingsområde og halen traff bakken."
+    },
+    {
+      "dato": "29. oktober 2007",
+      "ulykkessted": "Rudskogen, Rakkestad, Østfold",
+      "type_helikopter": "Robinson R44 RI",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/3",
+      "arsaksfaktorer": "Tap av halerotoreffekt i hover ca. 1,5 m over bakken. Helikopteret begynte å rotere og kolliderte sidelengs mot førerhuset på en parkert tankbil. Det ble liggende opp ned på taket av tankbilen. Helikopteret ble totalskadet. De tre som var om bord fikk lettere skader. Tankbilen fikk mindre skader i fronten. Det oppstod ikke brann. En sikkerhetstilråding."
+    },
+    {
+      "dato": "30. mars 2008",
+      "ulykkessted": "Heerodden utenfor Barentsburg, Svalbard",
+      "type_helikopter": "Mil Mi-8",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "7/2 (9)",
+      "omkomne_alvorlig_skadet_uskadet": "3/2/4",
+      "arsaksfaktorer": "Et russisk helikopter av typen Mi-8MT hadde fløyet et oppdrag for kullgruveselskapet Trust Arktikugol og skulle lande på hjemmebasen Kapp Heer på Svalbard da ulykken skjedde. Det lå tørr nysnø i landingsområdet. Helikopteret virvlet opp snø og besetningen mistet de visuelle referansene. Idet helikopteret var i ferd med å berøre bakken avbrøt besetningen landingen og påbegynte en avgang vestover i forlengelsen av innflygingen. Uten visuelle referanser, og påvirket av en nordlig vind, avvek helikopterets kurs slik at det traff en 12 m høy hangar og falt ned på bakken. Fartøysjefen, maskinisten og én passasjer mistet livet, og tre personer ble alvorlig skadet. Undersøkelsen har vist at operatøren har et forbedringspotensial angående besetningssamarbeid og standardisering av prosedyrer ved landing i løssnø. Videre vil bruk av setebelter kunne øke sikkerheten vesentlig."
+    },
+    {
+      "dato": "24. april 2008",
+      "ulykkessted": "Ørnefjell nær Hovden, Aust-Agder",
+      "type_helikopter": "Hughes 300 C",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Trening i utelanding på et fjelltopparti. Innflygingen ble utført noe for høyt og raskt, hvilket medførte at de fikk problem med å få redusert flygehastigheten. Fra en høyde på ca. 10 meter sank rotorturtall og det ble et mislykket forsøk på å få hentet ut mer motoreffekt. Gjennomsynking ble stor med påfølgende hard landing. Avbrutt landing iverksatt, men ikke tilstrekkelig motoreffekt. Helikopteret landet ca. 10 meter lenger frem og tippet på nesen. Betydelige materielle skader. Havarikommisjonen anser at den relativt store gjennomsynkingen skjedde som følge av følgende faktorer: Flygehastigheten ble redusert til under ETL, hvilket medførte redusert tilgjengelig løft Det var medvind i stedet for som forventet motvind Collective var helt oppe, hvilket ga stor bladvinkel på hovedrotorbladene med det til følge at rotorturtallet sank under normalverdien Helikopteret var over den høyden hvor det kunne ha hjelp av bakkeeffekt Helikopteret ytelse var relativt begrenset ved aktuell masse og tetthetshøyde"
+    },
+    {
+      "dato": "20. mai 2008",
+      "ulykkessted": "Mulbukttinden, Tysfjord, Nordland",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/3",
+      "arsaksfaktorer": "Under nedstigning for landing på tvers av fjellryggen erfarte fartøysjefen at det ikke ga noen effekt å heve collective. Merkbare vibrasjoner. Helikopteret fikk stor gjennomsynk, traff bakken hardt, spratt i lufta igjen og roterte flatt 180 grader før det kom til ro. Helikopteret stod utrygt og måtte flyttes. Fartøysjefen løftet av helikopteret, fløy ned til avgangsplassen ved foten av fjellet og landet uten problemer. Helikopteret var påført diverse strukturskader i sammenstøtet med bakken. Kontrollen over helikopteret gikk tapt som følge av ”Vortex Ring State” Fartøysjefen synes å ha feilbedømt vindretningen Organisatoriske forhold som innfasing av nye flygere, forbedret treningsprogram og nødvendigheten av at ledelsen fokuserer på sikkerhetskultur"
+    },
+    {
+      "dato": "11. juli 2008",
+      "ulykkessted": "Sandefjord lufthavn, Torp",
+      "type_helikopter": "Robinson R22 Beta",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Hard landing under soloflyging. Ingen personskader, men helikopteret ble slått rammeskjevt Kontrollen over helikopteret gikk trolig tapt som følge av tap av halerotoreffekt."
+    },
+    {
+      "dato": "16. juli 2008",
+      "ulykkessted": "Moss lufthavn, Rygge i Østfold",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "-/- (-)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "En kontrollant skulle gjennomføre periodisk ferdighetskontroll med to flygere fra selskapet. Helikopteret ankom Moss lufthavn Rygge og kontrollanten tok Fuel Flow Control Lever ut av \"flight gate\" for å simulere en autorotasjon. Omtrent 25 m over bakken, da Fuel Flow Control Lever ble satt tilbake for å avbryte øvelsen, ga ikke motoren forventet effekt. Rotorturtallet sank og landingen ble hardere enn normalt slik at det oppsto brudd i rotorhodet (Starflex). Det er ikke påvist feil ved motoren som kan forklare tap av motorkraft. Effekttapet kan imidlertid skyldes at Fuel Flow Control Lever ble operert på en feilaktig måte."
+    },
+    {
+      "dato": "24. september 2008",
+      "ulykkessted": "Hønefoss flyplass, Eggemoen, Buskerud",
+      "type_helikopter": "Bell 206 B",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Under avgang for VFR landingsrunder kom helikopteret ut av kontroll og kolliderte med en bygning Helikopteret ble utilsiktet fløyet inn i instrumentforhold Fartøysjefen feilvurderte værforholdene Fartøysjefen var ikke kvalifisert for instrumentflyging Fartøysjefen hadde lavt erfaringsnivå"
+    },
+    {
+      "dato": "18. desember 2008",
+      "ulykkessted": "7 nm vest av Hammerfest lufthavn",
+      "type_helikopter": "Eurocopter AS332 L Super Puma",
+      "type_operasjon": "Losflyging",
+      "antall_passasjerer_besetning": "1/5 (6)",
+      "omkomne_alvorlig_skadet_uskadet": "0/2/4",
+      "arsaksfaktorer": "Selen som losen ble heist ned med løsnet Losen falt ca 6 m. ned på skipsdekket Redningsmannen som stod på dekket ble skadet da han forsøkte å dempe losens fall Heiseselen var ikke korrekt festet til heisekroken Bruk av personlig verneutstyr (hjelm) reduserte skadeomfanget"
+    },
+    {
+      "dato": "2. februar 2009",
+      "ulykkessted": "Tovenfjellet i Vefsn, Nordland",
+      "type_helikopter": "Aerospatiale SA 315 B Lama",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Helikopterets understell skadet etter kollisjon med snøskavl En rask værforandring førte til forhold med reduserte visuelle referanser i konturløst, snødekket terreng Understellet traff snøskavl under hovring"
+    },
+    {
+      "dato": "4. februar 2009",
+      "ulykkessted": "Rostadalen i Målselv, Troms",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Overflyging",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "1/0/1",
+      "arsaksfaktorer": "Helikopteret havarerte under landing i forhold med reduserte visuelle referanser i konturløst, snødekket terreng Flyging fortsatte inn i vanskelige værforhold Helikopteret veltet under landingen trolig fordi halefinnen satte seg fast i snøen"
+    },
+    {
+      "dato": "22. september 2009",
+      "ulykkessted": "Sluskfjellet på Sørøya, Finnmark",
+      "type_helikopter": "Hughes 300 C",
+      "type_operasjon": "Reindriving",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikopteret kolliderte med en kraftledning og havarerte under den påfølgende nødlandingen Innflyging til landing over høyspentledning Turbulens kan ha medvirket"
+    },
+    {
+      "dato": "9. oktober 2009",
+      "ulykkessted": "Madlandsheiane i Ålgård, Rogaland",
+      "type_helikopter": "RotorWay International Exec 162 F",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Helikopteret veltet under landing fra autorotasjon etter motorsvikt Drivrem fra motor til rotorsystemet fliset seg opp Oppflisingen førte til at elektriske plugger på FADEC ble revet av"
+    },
+    {
+      "dato": "1. desember 2009",
+      "ulykkessted": "Enge brygge, Sandefjord i Østfold",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Underhengende last",
+      "antall_passasjerer_besetning": "0/3 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/2 Personskade på bakken",
+      "arsaksfaktorer": "Under utførelse av underhengende lasteoppdrag fikk en medarbeider på bakken en styrestropp rundt foten og ble slengt rundt i det lasten ble løftet og styrestroppen strammet opp. Medarbeideren ble alvorlig skadet."
+    },
+    {
+      "dato": "27. januar 2010",
+      "ulykkessted": "Ved Horten, Vestfold",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "3/1 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "4/0/0",
+      "arsaksfaktorer": "To helikoptre med til sammen fem passasjerer skulle fly sammen fra Melsomvik i Vestfold til Oslo. Ved Horten møtte de et tåkebelte og stoppet opp i luften. I denne fasen kom det ene helikoptret ut av kontroll og styrtet i sjøen. Alle fire om bord omkom. Undersøkelsen har avdekket at valg av minimumsløsninger i flere ledd i betydelig grad hadde svekket sikkerhetsmarginene ved operasjonene. SHT anser at de bakenforliggende faktorene ved denne ulykken er representative for de sikkerhetsproblemene som eksisterer i store deler av norsk innenlands helikoptervirkomhet."
+    },
+    {
+      "dato": "18. mai 2010",
+      "ulykkessted": "Fagernes lufthavn, Leirin, Oppland",
+      "type_helikopter": "Robinson R22 Beta II",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikopteret kolliderte med bakken under innflyging Fartøysjefen feilbedømte svingen og fikk for stor gjennomsynking Det kan ha vært medvind"
+    },
+    {
+      "dato": "1. mai 2011",
+      "ulykkessted": "Løfallstranda, Hordaland",
+      "type_helikopter": "Robinson R22",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikopteret kolliderte med en løypestreng under innflyging til landing på et jorde. Løypestrengen ble truffet i en høyde av ca. 100 fot og ved en hastighet på om lag 30 knop. Begge ombordværende var uskadd. Helikopteret ble betydelig skadet."
+    },
+    {
+      "dato": "2. mai 2011",
+      "ulykkessted": "Trøngsla i Flekkefjord, Vest-Agder",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Etter landing trillet en biltilhenger inn i halerotoren mens rotorene fortsatt roterte. Det oppsto betydelige skader på halerotor og halebom. Ingen personskader. Tilhengeren var parkert uten håndbrems."
+    },
+    {
+      "dato": "24. mai 2011",
+      "ulykkessted": "Haustreisdalen i Grane, Nordland",
+      "type_helikopter": "Aerospatiale SA 315 B Lama",
+      "type_operasjon": "Underhengende last",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/2/0",
+      "arsaksfaktorer": "Selskapet hadde påtatt seg å utføre lasteoppdrag med et Eurocopter SA 315 B Lama helikopter i forbindelse med anleggsarbeid ved en kraftlinje i Nordland. Under senkning av underhengende hiv, traff helikopterets hovedrotor ytterst på en mastetravers hvorpå det ble nødvendig å foreta en umiddelbar nødlanding. Nødlandingen skjedde i skrånende terreng og ble meget hard. Fartøysjefen og passasjeren ble alvorlig skadet. Helikopteret ble totalskadet. Havarikommisjonen fremmer en sikkerhetstilråding i forbindelse med denne rapporten."
+    },
+    {
+      "dato": "4. juli 2011",
+      "ulykkessted": "Dalamot, Ullensvang i Hardanger",
+      "type_helikopter": "Eurocopter AS 350 B3",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "4/1 (5)",
+      "omkomne_alvorlig_skadet_uskadet": "5/0/0",
+      "arsaksfaktorer": "Da helikopteret påbegynte nedstigning for innflyging i fjellterreng, observerte vitner at det gjorde en krapp sving mot høyre. Underveis i svingen syntes helikopteret ifølge vitnene å komme ut av kontroll, med høy krengning og stor gjennomsynkning. På slutten så det ut som det var i ferd med å rette seg opp, men det traff bakken med stor kraft ca. 500 m fra planlagt landingssted og tok øyeblikkelig fyr. Alle fem om bord omkom i ulykken. Helikopteret ble totalskadet. Undersøkelser har ikke avdekket tekniske feil eller uregelmessigheter ved helikopteret som kan ha påvirket hendelsesforløpet. Havarikommisjonen finner det mest sannsynlig at brå manøvrering initierte en sekvens der helikopteret kom delvis ut av kontroll en periode, og at det ikke hadde tilstrekkelig høyde til at fartøysjefen rakk å rette det helt opp og flate ut i tide. SHT mener hydraulikksystemet kan ha nådd sin begrensning under manøvreringen, slik at fenomenet \"Servo transparency\" oppstod. Det fremmes tre sikkerhetstilrådinger i rapporten. Disse omhandler henholdsvis manøvreringsbegrensninger i lav høyde med passasjerer om bord, advarsel om faremomenter forbundet med \"Servo Transparency\" og behov for flygeregistrator."
+    },
+    {
+      "dato": "11. januar 2012",
+      "ulykkessted": "2 nm øst av Mosjøen lufthavn, Kjærstad, Nordland",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Reindriving",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "Helikopteret ble benyttet til reindriving. Det var ugunstige værforhold med snøbyger og mørke da ulykken skjedde. Helikopteret traff bakken med bratt vinkel og med stor krengning til venstre. De to om bord omkom umiddelbart. Havarikommisjonen mener det er sannsynlig at fartøysjefen mistet kontroll over helikopteret grunnet tap av visuelle referanser og mulig vertigo. Det er ikke funnet tekniske feil ved helikopteret som kan forklare hvorfor ulykken skjedde."
+    },
+    {
+      "dato": "14. januar 2014",
+      "ulykkessted": "Sollihøgda, Hole kommune Buskerud",
+      "type_helikopter": "Eurocopter EC 135 P2+",
+      "type_operasjon": "Ambulanse",
+      "antall_passasjerer_besetning": "0/3",
+      "omkomne_alvorlig_skadet_uskadet": "2/1/0",
+      "arsaksfaktorer": "Ambulansehelikopteret var på vei til en trafikkulykke ved Sollihøgda. Da det skulle lande, traff det en kraftlinje og falt ned fra ca. 25 m høyde. To besetningsmedlemmer omkom og en ble alvorlig skadet. Helikopteret ble totalskadet. Luftfartshindringer utgjør en betydelig risiko for alle som opererer i lav høyde. Den aktuelle kraftlinjen var ikke fysisk merket og var usedvanlig vanskelig å oppdage fra luften. Undersøkelsen har identifisert svakheter ved sambandet, det digitale kartsystemet som var i bruk og ved selskapets prosedyrer. Tre sikkerhetstilrådinger"
+    },
+    {
+      "dato": "29. april 2016",
+      "ulykkessted": "Turøy",
+      "type_helikopter": "Airbus Helicopters EC225LP",
+      "type_operasjon": "Offshoreflyging",
+      "antall_passasjerer_besetning": "11/2 (13)",
+      "omkomne_alvorlig_skadet_uskadet": "13/0/0",
+      "arsaksfaktorer": "Helikopteret mistet plutselig og uten forvarsel hovedrotoren. Kort tid etter styrtet det på en holme utenfor Turøy, nordvest for Bergen. Alle de 13 personene om bord omkom i ulykken. Den direkte årsaken til ulykken var utmattingsbrudd i et andretrinns planetgir i hovedgirboksen. Sprekkene startet i en liten skade på overflaten og utviklet seg uoppdaget under overflaten til en katastrofal feil. Det er ingen sammenheng mellom ulykken og flygernes handlinger. Havarikommisjonen har også utelukket materialfeil og mekanisk svikt, samt vedlikeholdsfeil hos helikopteroperatøren. Rapporten har 12 sikkerhetstilrådinger, 9 til EASA, 1 til EU kommisjonen, 1 til ICAO og 1 til Airbus Helicopters."
+    },
+    {
+      "dato": "30. april 2017",
+      "ulykkessted": "Hå, Rogaland",
+      "type_helikopter": "Airbus Helicopters AS 350 B3",
+      "type_operasjon": "Trening",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Den 30. april 2016 ble et Airbus Helicopters AS 350 B3 benyttet til ferdighetskontroll (profiency check, PC). Kontrollanten hadde briefet øvelsene som skulle gjennomføres. Fra lav høyde koplet kandidaten, ved en feiltakelse, ut hydraulikken og helikopteret begynte å rotere. Helikopteret landet hardt og rotor slo i bakken, men ble stående oppreist. Ingen personskade. Undersøkelsen har ikke avslørt tekniske forhold som kan ha forårsaket tap av kontroll over helikopteret. Helikopteret ble operert utenfor de begrensninger som er angitt i helikoptertypens flygehåndbok.Tapet av kontroll skjedde i lav hover, noe som ga svært små marginer for å korrigere kandidatens feil. Som en følge av havariet oppstod brann. Helikopterets brannsikkerhet etter uhell av denne typen er en del av undersøkelsen, og rapporten har en tilrådning til EASA, og en tilrådning til AIRBUS/SAFRAN Helicopter Engines."
+    },
+    {
+      "dato": "10. mai 2017",
+      "ulykkessted": "Bergen havn",
+      "type_helikopter": "Airbus Helicopters AS 350 B3",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "0/1/2",
+      "arsaksfaktorer": "10. mai 2017 var et engelskregistrert helikopter av typen Airbus Helicopters AS 350 B3 med tre personer om bord i ferd med å lande på helikopterdekket på en yacht, da helikopteret tapte kontroll og styrtet i sjøen. Helikopteret var utstyrt med flytemidler og ble liggende opp ned i sjøen. En person ble alvorlig skadet og to lettere skadet. Undersøkelsen har avdekket manglende etterfølgelse av beskrevne rutiner for forberedelse til helikopteroperasjoner om bord i yachten. Blant annet ble det ikke foretatt en tilstrekkelig klargjøring av helidekket. Et trekk over en drivstofftank på helidekket ble ikke sikret sikret tilstrekkelig. Helikopteret kom inn i hover over helidekket, og stod i lav hover over dekket i ca. 15 sekunder. I løpet av disse sekundene løsnet trekket på grunn av vindtrykket fra hovedrotoren. Helikopteret ble ført av en flyger som hadde minimal erfaring på helikoptertypen. Vedkommende hadde ikke fått påført typerettighet i sitt flygersertifikat enda, siden oppflyging hadde skjedd dagen før ulykken. Da trekket løsnet prøvde fartøysjefen, som hadde instruktørrettighet, å manøvrere helikopteret vekk fra trekket, men hadde ikke mulighet til dette da det skjedde meget raskt. Skadene som oppstod i hovedrotoren gjorde helikopteret ukontrollerbart. Det fremmes ingen sikkerhetstilrådinger i denne undersøkelsen."
+    },
+    {
+      "dato": "12. september 2017",
+      "ulykkessted": "Laksefjordvidda, Finnmark",
+      "type_helikopter": "Airbus Helicopters AS 350 B3",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "3/1 (4)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/4",
+      "arsaksfaktorer": "Tirsdag 12. september 2017 veltet helikopteret over på høyre side etter landing i et lett skrånende terreng. Om bord i helikopteret var det en flyger og tre passasjerer. Alle fire var uskadet og evakuerte raskt helikopteret. SHT ser det som mest sannsynlig at helikopteret veltet som følge av \"dynamic rollover\" etter en sideveis bevegelse i forbindelse med landing. SHT anser at sikkerheten ved landing ville vært styrket dersom en \"task specialist\" hadde vært med. I forbindelse med evakueringen, måtte fartøysjefen assistere en passasjer som ikke klarte å løsne setebeltet. Havarikommisjonen påpeker viktigheten av at besetningsmedlemmer bruker hjelm og dermed har større mulighet for å kunne assistere passasjerer ved en ulykke. Undersøkelsen har ikke avdekket noe som tyder på tekniske feil eller mangler ved helikopteret eller at værforholdene var en faktor i ulykken."
+    },
+    {
+      "dato": "26. oktober 2017",
+      "ulykkessted": "Isfjorden nær Barentsburg Svalbard",
+      "type_helikopter": "MI 8AMT",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "5/3 (8)",
+      "omkomne_alvorlig_skadet_uskadet": "8/0/0",
+      "arsaksfaktorer": "26. oktober 2017 var et helikopter med rutenummer CVS312 på vei fra Pyramiden til Kapp Heer med åtte personer om bord. Helikopteret var sist i kontakt med AFIS på Svalbard lufthavn Longyearbyen kl. 1506 lokal tid da det ble bedt om å kontakte Kapp Heer. Helikopteret ble kort tid etterpå meldt savnet. Helikopteret ble funnet på 209 meters dyp ca. 2 km utenfor Heerodden. En omkommet ble funnet på havbunnen ca 150 meter fra helikoptervraket. De syv andre er ikke funnet, selv etter omfattende søk langs store deler av kystlinjen i Isfjorden. Undersøkelse av ulykken indikerer at havariet ble forårsaket av tap av visuelle referanser under siste del av innflygingen til den russiske helikopterbasen på Heerodden. Det var varierende siktforhold, og det ble rapportert siktforhold godt under de minima som var etablert for innflyging. Til tross for dette fortsatte flygerne innflygingen til de mistet visuelle referanser og havarerte. Alle de ombordværende hadde evakuert helikopteret. Ingen av dem hadde på seg hverken flytevester eller overlevelsesdrakter. Det kan antas at de etter få minutter ble så nedkjølt at de ikke klarte å holde seg på overflaten på grunn av luft- og vanntemperatur og sjøgang. Helikopteret var ikke utstyrt med hverken redningsflåte eller nødflyteutstyr. Det ble fort fylt med vann på grunn av skader som oppstod ved nedslag i sjøen, og tippet sannsynligvis raskt rundt før det sank. Undersøkelsen har ikke avdekket tekniske problemer med helikopteret som kan forklare årsaken til hendelsen. SHT ga 4 sikkerhetstilrådinger i forbindelse med ulykken"
+    },
+    {
+      "dato": "14. desember 2017",
+      "ulykkessted": "Brettesnes Lofoten",
+      "type_helikopter": "Airbus Helicopters AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Luftfartsulykken skjedde torsdag 14. desember 2017 i forbindelse med landing. På landingsplassen lå det en stor lastesekk (bigbag) fylt med utstyr. Da helikopteret var ca. 1 m fra bakken, så fartøysjefen at sekken fløy opp i lufta. Den ble dratt inn i rotorstrømmen og ført inn i hovedrotoren. Helikopteret begynte å vibrere kraftig. Fartøysjefen lyktes i å lande, stoppe motoren og evakuere. Lastemannen, som befant seg på bakken, hadde allerede søkt dekning. Det oppsto ingen personskader. Vibrasjonene påførte imidlertid helikopteret store strukturelle skader."
+    },
+    {
+      "dato": "25. mai 2018",
+      "ulykkessted": "Skogn",
+      "type_helikopter": "Airbus EC 120",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikopteret kom ut av kontroll i forbindelse med landing. Det dreide ukontrollert rundt før det endte opp liggende på siden etter at venstre meie først hadde truffet bakken. Det var to personer om bord. Fartøysjefen var uskadet, mens passasjeren fikk mindre kuttskader. Helikopteret ble påført store strukturelle skader. Undersøkelser av helikopteret har ikke avdekket tekniske feil som kan forklare tap av kontroll. Havarikommisjonen ser det som sannsynlig at fenomenet med tap av halerotor-effektivitet (Loss of Tail rotor Effectiveness, LTE) kan ha oppstått i etterkant av at fartøysjefen ikke klarte å rette opp helikopteret ved bruk av høyre pedal. Havarikommisjonen anser at fartøysjefens lave erfaringsnivå bidro til at situasjonen oppsto, og at den ikke ble avbrutt i tide."
+    },
+    {
+      "dato": "21. juni 2018",
+      "ulykkessted": "10 km nordvest for Grimstad, Aust-Agder",
+      "type_helikopter": "McDonnell Douglas MD-369",
+      "type_operasjon": "Linjeinspeksjon",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Under skanning av en kraftlinje 21. juni 2018 traff helikopteret en kryssende kraftlinje med hovedrotoren. Tre av lederne på 132 kV linjen ble kuttet. Helikopteret fortsatte videre og lander på Gullknapp (ENGK). Ingen av de to om bord ble skadet og helikopteret ble kun påført moderate skader. Ulykken var imidlertid svært nær ved å bli et totalhavari. Flere barrierer sviktet i forbindelse med ulykken og besetningen var avhengig av å oppdage den kryssende linjen i tide visuelt for å unngå kollisjon. Havarikommisjonen mener at varselskilt montert på stolpene kan utgjøre en ekstra sikkerhetsbarriere og gir en sikkerhetstilråding om dette."
+    },
+    {
+      "dato": "24. juli 2018",
+      "ulykkessted": "Skäckerfjällen, Jämtland, Sverige (nær riksgrensen til Norge)",
+      "type_helikopter": "Robinson R44 II",
+      "type_operasjon": "Reindriving",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Under reindriving kom helikopteret inn i turbulens og fallvinder på lesiden av et fjell. Flygeren ble tvunget til å nødlande i en steinur. De to ombordværende unnslapp skader, mens helikopteret ble betydelig skadet. Havarikommisjonen mener at vindforholdene trolig overgikk helikopterets stigeevne. Tekniske undersøkelser har ikke avdekket forhold som kan forklare et plutselig bortfall av motorkraft. Havarikommisjonen har derfor vurdert det som mindre sannsynlig at det kan ha oppstått et effekttap som bidro til ulykken."
+    },
+    {
+      "dato": "17. februar 2019",
+      "ulykkessted": "Røldal, Odda kommune, Hordaland",
+      "type_helikopter": "Robinson R44 II",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "2/0/0",
+      "arsaksfaktorer": "Fartøysjefen og hans kone skulle fly et Robinson R44 II helikopter fra parets hytte i Røldal til Karmøy. Det var montert et videokamera i helikopteret som dokumenterte flygingen. Videoen viser at helikopteret kort tid etter avgang fløy inn i et område med lave skyer og dårlig sikt. Etter hvert snudde fartøysjefen, men de visuelle referansene forsvant helt og helikopteret kom ut av kontroll. Fem minutter etter avgangen havarerte helikopteret i en bratt fjellside og de to om bord omkom umiddelbart. Fartøysjefen var uerfaren. Han hadde totalt fløyet 77 timer, hvorav 60 timer ved en helikopterskole i USA. Fartøysjefen var kjent med at flyforholdene var marginale."
+    },
+    {
+      "dato": "18. mars 2019",
+      "ulykkessted": "Uvdal skisenter, Uvdal",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Helikopteret stod parkert på en landingsplass med marginal størrelse. Da helikopteret kom opp i hover, ca 1 m over bakken, opplevde fartøysjefen helikopteret som ustabilt. Helikopteret dreide mot høyre, noe fartøysjefen forsøkte å kompensere med å trykke venstre pedal, uten hell. Han valgte å sette helikopteret ned igjen. Da helikopteret var på bakken roterte det mot venstre, derved slo halepartiet med halerotor inn i en snøfonn. Det oppsto skader på halerotor og vertikalfinne. Fartøysjefen kom uskadet fra ulykken. Basert på den meteorologiske informasjonen finner Havarikommisjonen det sannsynlig at variable og kraftige fallvinder kan ha slått ned i terrenget rundt Uvdal i det tidsrommet luftfartshendelsen fant sted. Fartøysjefen tapte retningskontroll på helikopteret da det ble løftet opp i hover for avgang. Den uventede sidevinden førte trolig også til at helikopteret driftet langt nok mot høyre til at halerotoren kom i berøring med med snøen da fartøysjefen valgte å avbryte avgangen og satte helikopteret ned igjen. Havarikommisjonen anser at det valgte landingsområdet gav små marginer i forhold til vind og turbulens. Det kan synes som helikoptre i stadig større grad benyttes til fritidsformål, og at vurderingene rundt valg av egnede landingsplasser ikke alltid tillegges tilstrekkelig vekt."
+    },
+    {
+      "dato": "23. mars 2019",
+      "ulykkessted": "Stavnes Kragerø Telemark",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/2/0",
+      "arsaksfaktorer": "To personer fløy et privat Robinson 44 helikopter fra Langøy til Skien. Over Stavnes oppfattet fartøysjefen at motoren mistet effekten. Et forsøk på å autorotere mislykkes og helikopteret traff tretopper i tett granskog før det falt ned på bakken. Begge de to om bord ble skadet og helikopteret ble totalskadet. Undersøkelsen av helikoptervraket har vist at en tennplugg på sylinder nr. 5 var løs. Dette hadde medført en luftlekkasje, forhøyet temperatur i sylinderen og skade på en innsugsventil. Mest sannsynlig løsnet tennpluggen fordi den ikke ble tilstrekkelig tiltrukket under en 100-timers inspeksjon i november 2018."
+    },
+    {
+      "dato": "28. juni 2019",
+      "ulykkessted": "Veland Strand kommune, Rogaland",
+      "type_helikopter": "Rotorway International EXEC 162F",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Fartøysjefen fløy en kort tur til Tau og tilbake. I hover, under landing på en privat landingsplass på Veland begynte helikopteret å dreie til venstre. Dreiinga ble først stoppa, men da helikopteret på ny starta å dreie, valgte fartøysjefen å sette helikopteret ned på et jorde. Helikopteret velta så over til venstre og ble omfattande skada. De to om bord var uskadde. Under landinga kom vinden inn skrått fra høyre slik at den nedgående luftstrømmen fra hovedrotoren kan ha forstyrra luftstrømmen omkring halerotoren. I slike situasjoner kan halerotoren miste effekt og helikopteret begynne å rotere mot venstre."
+    },
+    {
+      "dato": "1. august 2019",
+      "ulykkessted": "Follebu, Gausdal kommune",
+      "type_helikopter": "McDonnell Douglas MD-369",
+      "type_operasjon": "Linjeinspeksjon",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Helikopteret gjennomførte linjeinspeksjon ved hjelp av laserskanning og fotografering fra luften. Etter ca. 52 minutters flyging ble fartøysjefen oppmerksom på en uvanlig vibrasjon i helikopteret. Vibrasjonene økte i intensitet og fartøysjefen besluttet å nødlande på et jorde. Under siste fase av innflygingen, i ca. 3 meters høyde, hørte besetningen et smell og helikopteret mistet all kraft. Fartøysjefen mistet kontroll over helikopteret som landet hardt. Høyre skid kollapset, horisontalstabilisatoren, og alle fem hovedrotorbladene var i kontakt med bakken og ble betydelig skadet. Besetningen ble ikke skadet. Tapet av motorkraft skyldtes et brudd i den inngående akseltappen i hovedgirboksen. Akselbruddet var forårsaket av utmatting. Det har ikke vært mulig å fastslå hvorfor utmattingen oppsto. Uavhengig av årsak mener Havarikommisjonen at deler av vedlikeholdsarbeidet på hovedgirboksen ikke har vært utført i henhold til forventet standard. I tillegg mener Havarikommisjonen at vedlikeholdsstyringen og den framlagte vedlikeholdsdokumentasjonen var mangelfull."
+    },
+    {
+      "dato": "31. august 2019",
+      "ulykkessted": "Kvenvik, Alta kommune",
+      "type_helikopter": "Airbus Helicopters AS 350 B3",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "5/1 (6)",
+      "omkomne_alvorlig_skadet_uskadet": "6/0/0",
+      "arsaksfaktorer": "Om ettermiddagen lørdag 31. august 2019 ble helikopteret brukt til sightseeingturer for deltakere på Høstsprell-festivalen. Ulykkesturen var den andre rundflygingen denne dagen. Etter fem minutters flyging havarerte helikopteret og alle seks om bord omkom. Havarikommisjonen anser at overlevelsesmuligheten ville vært stor dersom helikopteret ikke hadde blitt overtent kort tid etter havariet. Helikopteret var nesten nytt, men ikke utstyrt med krasjbeskyttet drivstoffsystem. Det er ikke et europeisk krav om krasjbeskyttet drivstoffsystem for helikoptertypen. Da helikopteret ble anskaffet var det imidlertid mulig å installere dette. Ulykken kan ikke betegnes som en høyenergiulykke. Overlevelsesmuligheten ville vært stor dersom brann ikke hadde oppstått etter kort tid. Et krasjbeskyttet drivstoffsystem ville trolig ha forhindret at dette ble en ulykke der alle seks personene om bord omkom. Helikoptervraket var fullstendig utbrent. Det har ikke vært mulig å hente ut lagrede flygedata eller informasjon fra elektroniske enheter i vraket. Havarikommisjonen har ikke funnet tekniske feil ved helikopteret som kan ha påvirket hendelsesforløpet. Fenomenet servo transparency framstår som den mest sannsynlige årsak til ulykken. Fenomenet er en kjent begrensning for helikoptertypen som kan komme uforvarende på flygere. Ulykken oppstod mens helikopteret var i nedstigning, i en svak høyresving og i lav høyde. Helikopteret hadde høy masse og en økende hastighet. Samlet legger dette til rette for at fenomenet kan oppstå. Helikopteret hadde mest sannsynlig ikke tilstrekkelig høyde til at fartøysjefen rakk å gjenvinne kontroll i tide. Umiddelbart før ulykken ble det sendt en Snapchat-video fra en av passasjerene. Denne har ikke Havarikommisjonen fått tilgang til. Som følge av undersøkelsen fremmer Havarikommisjonen totalt 12 sikkerhetstilrådinger til EASA, Luftfartstilsynet og helikopteroperatøren Helitrans AS. Disse omhandler tiltak for å forhindre servo transparency, opplæring og sikkerhet ved rundflyging med passasjerer, overlevelsesaspekter inkludert krasjbeskyttet drivstoffsystem og bruk av hjelm, samt krav til lettvektsregistratorer."
+    },
+    {
+      "dato": "6. april 2020",
+      "ulykkessted": "Sviland Sandnes kommune, Rogaland",
+      "type_helikopter": "Airbus Helicopters AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "Luftfartsulykken skjedde i forbindelse med løfteoppdrag for Statnett SF. En container skulle flyttes i forbindelse med bygging av en kraftlinje. Det var krevende vindforhold med kraftige vindkast. Under løfting av containeren ble helikopteret påvirket av et vindkast på det verst tenkelige tidspunktet da lastelinen var i ferd med å bli strammet. Helikopteret kom i en dynamic rollover situasjon og havarerte. Fartøysjefen ble kun lettere skadet og Havarikommisjonen mener at hans bruk av hjelm begrenset skadene. Helikopteret ble totalskadet. Varslet vind for området var i utgangspunktet over de begrensningene på 30 kt som helikopteroperatøren Helitrans hadde satt for flyging med underhengene last. Det er ofte store lokale variasjoner i vindstyrke. Følgelig kan avgjørelsen om å fly eller ikke fly vanskelig reguleres med absolutte tallverdier basert på et områdevarsel. Den endelige avgjørelsen er derfor overlatt til fartøysjefen."
+    },
+    {
+      "dato": "16. november 2020",
+      "ulykkessted": "Songesand Sandnes kommune, Rogaland",
+      "type_helikopter": "Airbus Helicopters AS 350 B3",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/1",
+      "arsaksfaktorer": "16. november 2020 mistet LN-OAX, et Airbus AS 350 B3 helikopter, kontroll ved levering av underhengende last i forbindelse med støping av et betongfundament til en kraftledning. Helikopteret fløy lasteflyvning i Sognesand med levering av betong til et fundament for en kraftledning. Ved levering til fundament nummer 49 erfarte piloten at det plutselig oppsto kraftige vertikale vibrasjoner. Longline og lasten ble sluppet. Fartøysjefen greide å manøvrere helikopteret vekk fra anleggsområdet. Helikopteret mistet høyde og traff noen trær før det kom til ro liggende på siden 33 meter fra leveringsstedet. Fartøysjefen ble kun lettere skadd."
+    },
+    {
+      "dato": "17. juni 2021",
+      "ulykkessted": "På E 18 Eidanger, Vestfold og Telemark",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "0/1 (1)",
+      "omkomne_alvorlig_skadet_uskadet": "1/0/0",
+      "arsaksfaktorer": "Helikopteret var på vei fra Kvinesdal til Kjeller da det traff en høyspentlinje som krysset veien i ca. 13 meters høyde og falt ned på veiskulderen. Fartøysjefen, som var alene om bord, omkom. Helikopteret fikk omfattende skader. Det var mørkt og kraftige regnbyger i området. Flere vitner hadde kort tid før ulykken skjedde observert helikopteret flygende i lav høyde. Et videokamera tilhørende Statens vegvesen fanget inn de siste sekundene av flygingen fram til helikopteret traff høyspentlinjen. Havarikommisjonen har ikke informasjon som kan gi en åpenbar forklaring på hvorfor fartøysjefen fortsatte å fly til tross for det dårlige været. Havarikommisjonen har ved undersøkelsen ikke avdekket feil eller uregelmessigheter ved helikopteret som kan ha hatt innvirkning på hendelsesforløpet."
+    },
+    {
+      "dato": "1. november 2022",
+      "ulykkessted": "Verdal kommune, Trøndelag",
+      "type_helikopter": "Airbus Helicopters AS 350 B3",
+      "type_operasjon": "Passasjerflyging",
+      "antall_passasjerer_besetning": "2/1 (3)",
+      "omkomne_alvorlig_skadet_uskadet": "2/1/0",
+      "arsaksfaktorer": "Helikopteret skulle frakte to passasjerer, en hund og bagasje på et transportoppdrag. Helikopteret tok av fra helikopterselskapets base i Verdal rundt kl. 1030 og havarerte på et jorde etter ca. 450 m. Havaristedet ligger ca. 10 m lavere enn startplassen. Helikopteret traff bakken flatt og med høy hastighet. Begge passasjerene omkom og fartøysjefen ble alvorlig skadet. Havarikommisjonen mener at ulykken skyldtes tap av visuelle referanser i overgangen fra vertikal til horisontal flygning. Undersøkelsen har vist at selskapets organisering, som var godkjent av Luftfartstilsynet, medførte en betydelig risiko for mangelfull operativ kontroll. Undersøkelsen har avdekket at Luftfartstilsynet har utfordringer med å ivareta risikobasert tilsynvirksomhet av innenlands helikopterbransje. Som følge av undersøkelsen fremmet Havarikommisjonen 1 sikkerhetstilråding til Samferdselsdepartementet Sikkerhetstilråding Luftfart nr. 2023/06T \"Statens havarikommisjon tilrår Samferdselsdepartementet å kartlegge ressursbehovet som kreves for å kunne gjennomføre risikobasert tilsynsvirksomhet av innenlands helikopterbransje, med tilhørende tiltak og oppfølgingsplan.\""
+    },
+    {
+      "dato": "25. juni 2023",
+      "ulykkessted": "Trollnes, Arendal",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/2",
+      "arsaksfaktorer": "Søndag 25. juni 2023 havarerte et Robinson R44 helikopter, umiddelbart etter landing på Trollnes nord for Arendal. Under landingen på Trollnes mistet flygeren kontroll på helikopteret. Helikopteret rullet bakover og endte sterkt skadd i vannkanten på nedsiden av landingsområdet. Begge de to om bord kom fra ulykken med lettere skader. Havarikommisjonen bedømmer landingsplassen som marginal og lite egnet generelt, og for en flyger med begrenset erfaring spesielt. Landingsforsøket ble filmet både av et vitne på bakken, og et kamera inne i helikopteret. Ulykken oppstod da flygeren feilberegnet helikopterets posisjon i forhold til kanten på landingsplassen. Det var en bratt skråning i bakkant av landingsplassen, og helikopteret landet nærmere skråningen enn planlagt. Da flygeren senket collective og helikopteret fikk vekt på landingsmeiene (skiddene), tippet helikopteret bakover og havarerte. Havarikommisjonen har ikke funnet tekniske feil med motor, varslingssystem for motor og rotorturtall eller annet som kan ha bidratt til ulykken. Ingen av de om bord benyttet hjelm eller var iført redningsvest. Det var ikke gjennomført sikkerhetsgjennomgang før flygningen og passasjeren var ukjent med å fly helikopter. Det var dermed gitt avkall på flere skadereduserende tiltak. Helikopteret ble flydd over åpent vann under innflygningen. Etter havariet endte det opp på grunt vann. Havarikommisjonen anser at ulykken lett kunne medført større skader på personene om bord. I likhet med de fleste private helikopterflygere var ikke flygeren en del av et klubbfellesskap eller formalisert flyoperativt miljø. Slike fellesskap er etablert for de fleste andre områder innen luftfart. Undersøkelsen har rettet et ekstra søkelys på fordelene en privatflyger kan ha ved å være en del av et operativt miljø for å dele erfaringer og dermed øke sikkerhetsbevisstheten og kunnskapen."
+    },
+    {
+      "dato": "28. februar 2024",
+      "ulykkessted": "2 NM sørvest for Løno i Øygarden",
+      "type_helikopter": "Sikorsky S-92",
+      "type_operasjon": "SAR trening",
+      "antall_passasjerer_besetning": "0/6 (6)",
+      "omkomne_alvorlig_skadet_uskadet": "1/1/-",
+      "arsaksfaktorer": "Helikopternesen steg ukontrollert til nær 30 grader da besetningen var i ferd med å posisjonere helikopteret for å ta opp en treningsbøye. Besetningen rakk ikke å korrigere den unormale stillingen før helikopteret traff sjøen fra 45 meters høyde. Strømforsyningen som kreves for en automatisk utløsing av flyteelementene opphørte da hovedrotorbladene traff sjøen."
+    },
+    {
+      "dato": "20. mai 2024",
+      "ulykkessted": "Seterfjellet Alta kommune, Finnmark fylke",
+      "type_helikopter": "Robinson R44",
+      "type_operasjon": "Privatflyging",
+      "antall_passasjerer_besetning": "1/1 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "Mandag 20. mai 2024 havarerte et helikopter, en Robinson R44 Raven II, LN-OBN, i forbindelse med en overføringsflygning til Kjeller flyplass for utførelse av vedlikehold. Helikoptret tok av fra Elvestrand, nær Altamandag 20. mai kl. 12:33. Flygeren skulle flytte helikoptret til Kjeller flyplass for utførelse av vedlikehold. Det var to personer om bord, og første del av flygningen var planlagt til Leknes lufthavn. Etter omtrent 15 minutters flygning, da helikoptret nærmet seg Seterfjellet syd for Alta, ble siktforholdene så dårlige at flygeren valgte å snu. Flygeren snudde i dalsøkket sydøst for Seterfjellet, og har forklart at han møtte turbulent vær med kastevinder. Flygeren har forklart at de, kort tid etter at helikopteret hadde snudd, hadde lav bakkefart og møtte en kraftig kastevind. Han oppfattet at de ble kastet bakover. Helikoptret traff bakken sannsynligvis med halen først, og ble liggende på høyre side med omfattende skader. Det oppstod en drivstofflekkasje, men ingen brann. Begge personene overlevde, men var nedkjølt da de ble hentet av redningstjenesten. Havarikommisjonen har foretatt stedlige undersøkelser på ulykkesstedet. I tillegg har Havarikommisjonen inspisert helikoptrets drivstoffsystem etter lekkasjen og funnet et hull i gummitanken. Havarikommisjonens nåværende vurdering er at de krasjbeskyttede drivstofftankene kan ha bidratt til at det ikke oppstod brann ved ulykken."
+    },
+    {
+      "dato": "4. september 2024",
+      "ulykkessted": "Susenfjellet i Hattfjelldal kommune, Nordland fylke",
+      "type_helikopter": "Bell 206 L-1",
+      "type_operasjon": "Lasteflyging",
+      "antall_passasjerer_besetning": "0/2 (2)",
+      "omkomne_alvorlig_skadet_uskadet": "0/0/-",
+      "arsaksfaktorer": "Onsdag 4. september 2024 havarerte et helikopter, en Bell 206 Long Ranger, under landing i fjellterreng sør for Susendal i Hattfjelldal kommune. Oppdraget var å fly ut treplanker (klopper) som underhengende last, til utbedring av fjellsti sør for Susendal i Hattfjelldal kommune. I forbindelse med landing ute i terrenget, tippet plutselig helikopteret over på høyre side og ble påført store skader. Begge hovedrotorblader slo ned i bakken, hovedrotormast knakk, halebom ble knekt av skroget, vinduer i cockpit ble knust og flere dører ble ødelagt. Om bord var det pilot og Task spesialist (lastemann). Begge de to om bord overlevde uten alvorlig skader. Personen som satt i venstre framsete ble påført hodeskader. Ingen benyttet hjelm. Bakkepersonell som jobbet på samme prosjekt, kom raskt til ulykkesstedet og fikk kontaktet redningstjenesten."
+    }
+  ],
+  "meta": {
+    "title": "Helikopterulykker i Norge - Free Download",
+    "description": "Helikopterulykker og -hendelser i Norge siden 1953: dato, ulykkessted, helikoptertype, type operasjon, antall om bord, omkomne/skadde og årsaksfaktorer. Contains 144 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Helikopterulykker i Norge | ListBase",
+    "seo_description": "Download Helikopterulykker i Norge — 144 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 144 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_helikopterulykker_i_Norge"
+    ]
+  }
+}

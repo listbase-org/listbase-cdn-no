@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-02T02:23:14.790Z",
-  "total_datasets": 461,
-  "total_records": 1198460,
+  "generated": "2026-11-03T02:27:10.073Z",
+  "total_datasets": 462,
+  "total_records": 1198604,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "units",
@@ -12701,6 +12701,34 @@
         "xlsx": {
           "name": "no-helikopterplasser_NO.xlsx",
           "size": 12399
+        }
+      }
+    },
+    {
+      "id": "no-helikopterulykker",
+      "name": "Helikopterulykker i Norge",
+      "category": "transport",
+      "record_count": 144,
+      "columns": [
+        "dato",
+        "ulykkessted",
+        "type_helikopter",
+        "type_operasjon",
+        "antall_passasjerer_besetning",
+        "omkomne_alvorlig_skadet_uskadet",
+        "arsaksfaktorer"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_helikopterulykker_i_Norge",
+      "updated": "2026-11",
+      "size": 131564,
+      "files": {
+        "csv": {
+          "name": "no-helikopterulykker_NO.csv",
+          "size": 100023
+        },
+        "xlsx": {
+          "name": "no-helikopterulykker_NO.xlsx",
+          "size": 43709
         }
       }
     },
