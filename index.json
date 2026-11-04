@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-04T02:22:59.522Z",
-  "total_datasets": 466,
-  "total_records": 1198998,
+  "generated": "2026-11-04T02:23:11.532Z",
+  "total_datasets": 467,
+  "total_records": 1199216,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -11922,6 +11922,33 @@
         "xlsx": {
           "name": "no-innvandrere-etter-landbakgrunn_NO.xlsx",
           "size": 9034
+        }
+      }
+    },
+    {
+      "id": "no-muslimske-trossamfunn",
+      "name": "Muslimske trossamfunn i Norge",
+      "category": "society",
+      "record_count": 218,
+      "columns": [
+        "navn",
+        "fylke",
+        "kommune",
+        "grunnlagt",
+        "medlemmer_2018",
+        "medlemmer_2022"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_muslimske_trossamfunn_i_Norge",
+      "updated": "2026-11",
+      "size": 44404,
+      "files": {
+        "csv": {
+          "name": "no-muslimske-trossamfunn_NO.csv",
+          "size": 14946
+        },
+        "xlsx": {
+          "name": "no-muslimske-trossamfunn_NO.xlsx",
+          "size": 15910
         }
       }
     },
