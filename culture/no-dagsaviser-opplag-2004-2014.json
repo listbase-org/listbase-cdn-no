@@ -1,0 +1,296 @@
+{
+  "id": "no-dagsaviser-opplag-2004-2014",
+  "name": "Opplag for de største norske dagsavisene (2004–2014)",
+  "title": "Opplag for de største norske dagsavisene (2004–2014)",
+  "description": "Opplagstall for de største norske dagsavisene (Aftenposten, VG, Dagbladet m.fl.) for årene 2004–2014.",
+  "category": "culture",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_aviser",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_aviser",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "avis",
+      "label": "Avis",
+      "type": "string"
+    },
+    {
+      "key": "opplag_2014",
+      "label": "Opplag 2014",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2013",
+      "label": "Opplag 2013",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2012",
+      "label": "Opplag 2012",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2011",
+      "label": "Opplag 2011",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2010",
+      "label": "Opplag 2010",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2009",
+      "label": "Opplag 2009",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2008",
+      "label": "Opplag 2008",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2007",
+      "label": "Opplag 2007",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2006",
+      "label": "Opplag 2006",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2005",
+      "label": "Opplag 2005",
+      "type": "number"
+    },
+    {
+      "key": "opplag_2004",
+      "label": "Opplag 2004",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "avis": "Aftenposten",
+      "opplag_2014": 221659,
+      "opplag_2013": 214026,
+      "opplag_2012": 225981,
+      "opplag_2011": 235795,
+      "opplag_2010": 239831,
+      "opplag_2009": 243188,
+      "opplag_2008": 247556,
+      "opplag_2007": 250179,
+      "opplag_2006": 248503,
+      "opplag_2005": 252716,
+      "opplag_2004": 249861
+    },
+    {
+      "avis": "Verdens Gang",
+      "opplag_2014": 138188,
+      "opplag_2013": 164430,
+      "opplag_2012": 188354,
+      "opplag_2011": 211588,
+      "opplag_2010": 233295,
+      "opplag_2009": 262374,
+      "opplag_2008": 284414,
+      "opplag_2007": 309610,
+      "opplag_2006": 315549,
+      "opplag_2005": 343703,
+      "opplag_2004": 365266
+    },
+    {
+      "avis": "Dagens Næringsliv",
+      "opplag_2014": 79637,
+      "opplag_2013": 80595,
+      "opplag_2012": 82889,
+      "opplag_2011": 82595,
+      "opplag_2010": 80559,
+      "opplag_2009": 79628,
+      "opplag_2008": 82775,
+      "opplag_2007": 81391,
+      "opplag_2006": 76584,
+      "opplag_2005": 74248,
+      "opplag_2004": 70515
+    },
+    {
+      "avis": "Dagbladet",
+      "opplag_2014": 73647,
+      "opplag_2013": 80028,
+      "opplag_2012": 88539,
+      "opplag_2011": 98989,
+      "opplag_2010": 98130,
+      "opplag_2009": 105255,
+      "opplag_2008": 123383,
+      "opplag_2007": 135611,
+      "opplag_2006": 146512,
+      "opplag_2005": 162069,
+      "opplag_2004": 183092
+    },
+    {
+      "avis": "Finansavisen",
+      "opplag_2014": 22931,
+      "opplag_2013": 24742,
+      "opplag_2012": 25248,
+      "opplag_2011": 25211,
+      "opplag_2010": 25556,
+      "opplag_2009": 25820,
+      "opplag_2008": 24856,
+      "opplag_2007": 24356,
+      "opplag_2006": 23274,
+      "opplag_2005": 21800,
+      "opplag_2004": 21882
+    },
+    {
+      "avis": "Vårt Land",
+      "opplag_2014": 22630,
+      "opplag_2013": 23682,
+      "opplag_2012": 24471,
+      "opplag_2011": 24448,
+      "opplag_2010": 24781,
+      "opplag_2009": 25557,
+      "opplag_2008": 26344,
+      "opplag_2007": 27146,
+      "opplag_2006": 27422,
+      "opplag_2005": 29158,
+      "opplag_2004": 27880
+    },
+    {
+      "avis": "Dagsavisen",
+      "opplag_2014": 21945,
+      "opplag_2013": 23065,
+      "opplag_2012": 23303,
+      "opplag_2011": 24524,
+      "opplag_2010": 26019,
+      "opplag_2009": 28337,
+      "opplag_2008": 29041,
+      "opplag_2007": 31403,
+      "opplag_2006": 32380,
+      "opplag_2005": 33830,
+      "opplag_2004": 32920
+    },
+    {
+      "avis": "Klassekampen",
+      "opplag_2014": 19253,
+      "opplag_2013": 17648,
+      "opplag_2012": 16353,
+      "opplag_2011": 15390,
+      "opplag_2010": 14390,
+      "opplag_2009": 13265,
+      "opplag_2008": 12109,
+      "opplag_2007": 11386,
+      "opplag_2006": 10109,
+      "opplag_2005": 8759,
+      "opplag_2004": 7512
+    },
+    {
+      "avis": "Nationen",
+      "opplag_2014": 12673,
+      "opplag_2013": 11794,
+      "opplag_2012": 12185,
+      "opplag_2011": 12824,
+      "opplag_2010": 13642,
+      "opplag_2009": 14514,
+      "opplag_2008": 15670,
+      "opplag_2007": 15871,
+      "opplag_2006": 16996,
+      "opplag_2005": 17061,
+      "opplag_2004": 16484
+    },
+    {
+      "avis": "Dagen",
+      "opplag_2014": 9742,
+      "opplag_2013": 10352,
+      "opplag_2012": 10825,
+      "opplag_2011": 10060,
+      "opplag_2010": 9946,
+      "opplag_2009": 10246,
+      "opplag_2008": 10995,
+      "opplag_2007": 13038,
+      "opplag_2006": 4239,
+      "opplag_2005": 4677,
+      "opplag_2004": 5307
+    },
+    {
+      "avis": "Ukeaviser",
+      "opplag_2014": 2014,
+      "opplag_2013": 2013,
+      "opplag_2012": 2012,
+      "opplag_2011": 2011,
+      "opplag_2010": 2010,
+      "opplag_2009": 2009,
+      "opplag_2008": 2008,
+      "opplag_2007": 2007,
+      "opplag_2006": 2006,
+      "opplag_2005": 2005,
+      "opplag_2004": 2004
+    },
+    {
+      "avis": "Morgenbladet",
+      "opplag_2014": 29382,
+      "opplag_2013": 29337,
+      "opplag_2012": 28605,
+      "opplag_2011": 26365,
+      "opplag_2010": 23637,
+      "opplag_2009": 22808,
+      "opplag_2008": 21560,
+      "opplag_2007": 18735,
+      "opplag_2006": 15720,
+      "opplag_2005": 13870,
+      "opplag_2004": 11608
+    },
+    {
+      "avis": "Norge IDAG",
+      "opplag_2014": 11322,
+      "opplag_2013": 11202,
+      "opplag_2012": 11052,
+      "opplag_2011": 11034,
+      "opplag_2010": 10691,
+      "opplag_2009": 10493,
+      "opplag_2008": 10293,
+      "opplag_2007": 10167,
+      "opplag_2006": 10154,
+      "opplag_2005": 10231,
+      "opplag_2004": 10442
+    },
+    {
+      "avis": "Dag og Tid,",
+      "opplag_2014": 10778,
+      "opplag_2013": 9582,
+      "opplag_2012": 9132,
+      "opplag_2011": 8729,
+      "opplag_2010": 8338,
+      "opplag_2009": 7531,
+      "opplag_2008": 7233,
+      "opplag_2007": 7228,
+      "opplag_2006": 7206,
+      "opplag_2005": 7054,
+      "opplag_2004": 7029
+    },
+    {
+      "avis": "Ny Tid",
+      "opplag_2014": "",
+      "opplag_2013": 2153,
+      "opplag_2012": 2384,
+      "opplag_2011": 2787,
+      "opplag_2010": 3552,
+      "opplag_2009": 4774,
+      "opplag_2008": 4811,
+      "opplag_2007": 7671,
+      "opplag_2006": 9258,
+      "opplag_2005": 4320,
+      "opplag_2004": 4199
+    }
+  ],
+  "meta": {
+    "title": "Opplag for de største norske dagsavisene (2004–2014) - Free Download",
+    "description": "Opplagstall for de største norske dagsavisene (Aftenposten, VG, Dagbladet m.fl.) for årene 2004–2014. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Opplag for de største norske dagsavisene (2004–2014) | ListBase",
+    "seo_description": "Download Opplag for de største norske dagsavisene (2004–2014) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_aviser"
+    ]
+  }
+}

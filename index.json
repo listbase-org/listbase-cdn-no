@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-04T02:23:11.532Z",
-  "total_datasets": 467,
-  "total_records": 1199216,
+  "generated": "2026-11-04T02:23:53.529Z",
+  "total_datasets": 468,
+  "total_records": 1199231,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 25
+      "dataset_count": 26
     },
     {
       "id": "economy",
@@ -347,6 +347,39 @@
         "xlsx": {
           "name": "no-buskerud-osm-museer_NO.xlsx",
           "size": 8129
+        }
+      }
+    },
+    {
+      "id": "no-dagsaviser-opplag-2004-2014",
+      "name": "Opplag for de største norske dagsavisene (2004–2014)",
+      "category": "culture",
+      "record_count": 15,
+      "columns": [
+        "avis",
+        "opplag_2014",
+        "opplag_2013",
+        "opplag_2012",
+        "opplag_2011",
+        "opplag_2010",
+        "opplag_2009",
+        "opplag_2008",
+        "opplag_2007",
+        "opplag_2006",
+        "opplag_2005",
+        "opplag_2004"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_aviser",
+      "updated": "2026-11",
+      "size": 7628,
+      "files": {
+        "csv": {
+          "name": "no-dagsaviser-opplag-2004-2014_NO.csv",
+          "size": 1668
+        },
+        "xlsx": {
+          "name": "no-dagsaviser-opplag-2004-2014_NO.xlsx",
+          "size": 8008
         }
       }
     },
