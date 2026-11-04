@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-03T02:27:32.527Z",
-  "total_datasets": 465,
-  "total_records": 1198978,
+  "generated": "2026-11-04T02:22:59.522Z",
+  "total_datasets": 466,
+  "total_records": 1198998,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "sports",
@@ -11873,6 +11873,31 @@
         "xlsx": {
           "name": "no-arter-sterkt-truede_NO.xlsx",
           "size": 85330
+        }
+      }
+    },
+    {
+      "id": "no-fodte-og-dode-1900",
+      "name": "Levendefødte og dødsfall i Norge fra 1900",
+      "category": "society",
+      "record_count": 20,
+      "columns": [
+        "ar",
+        "levendefodte",
+        "dodsfall",
+        "fodselsoverskudd"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_demografi",
+      "updated": "2026-11",
+      "size": 3871,
+      "files": {
+        "csv": {
+          "name": "no-fodte-og-dode-1900_NO.csv",
+          "size": 667
+        },
+        "xlsx": {
+          "name": "no-fodte-og-dode-1900_NO.xlsx",
+          "size": 7270
         }
       }
     },
