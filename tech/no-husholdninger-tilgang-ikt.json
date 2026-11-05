@@ -1,0 +1,324 @@
+{
+  "id": "no-husholdninger-tilgang-ikt",
+  "name": "Husholdninger med tilgang til PC, internett og bredbånd i Norge",
+  "title": "Husholdninger med tilgang til PC, internett og bredbånd i Norge",
+  "description": "Andel norske husholdninger som har tilgang til PC, internett og bredbånd, etter husholdningstype (alle, med barn, uten barn), fra SSBs undersøkelse om bruk av IKT i husholdningene.",
+  "category": "tech",
+  "source": "https://www.ssb.no/statbank/table/11000",
+  "source_url": "https://www.ssb.no/statbank/table/11000",
+  "updated": "2026-11",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "husholdningstype",
+      "label": "Husholdningstype",
+      "type": "string"
+    },
+    {
+      "key": "pc_prosent",
+      "label": "Pc Prosent",
+      "type": "number"
+    },
+    {
+      "key": "internett_prosent",
+      "label": "Internett Prosent",
+      "type": "number"
+    },
+    {
+      "key": "bredband_prosent",
+      "label": "Bredband Prosent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 2013,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": 93,
+      "internett_prosent": 94,
+      "bredband_prosent": 88
+    },
+    {
+      "aar": 2014,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 93,
+      "bredband_prosent": 88
+    },
+    {
+      "aar": 2015,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": 96,
+      "internett_prosent": 97,
+      "bredband_prosent": 91
+    },
+    {
+      "aar": 2016,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 97,
+      "bredband_prosent": 96
+    },
+    {
+      "aar": 2017,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": 95,
+      "internett_prosent": 97,
+      "bredband_prosent": 94
+    },
+    {
+      "aar": 2018,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 96,
+      "bredband_prosent": 94
+    },
+    {
+      "aar": 2019,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 98,
+      "bredband_prosent": 97
+    },
+    {
+      "aar": 2020,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 96,
+      "bredband_prosent": 96
+    },
+    {
+      "aar": 2021,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": 99
+    },
+    {
+      "aar": 2022,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2023,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2024,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 98,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2025,
+      "husholdningstype": "Alle husholdningstyper",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2013,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": 99,
+      "internett_prosent": 99,
+      "bredband_prosent": 93
+    },
+    {
+      "aar": 2014,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": 95
+    },
+    {
+      "aar": 2015,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": 97,
+      "internett_prosent": 99,
+      "bredband_prosent": 96
+    },
+    {
+      "aar": 2016,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 100,
+      "bredband_prosent": 99
+    },
+    {
+      "aar": 2017,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": 97,
+      "internett_prosent": 100,
+      "bredband_prosent": 98
+    },
+    {
+      "aar": 2018,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": 97
+    },
+    {
+      "aar": 2019,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 100,
+      "bredband_prosent": 100
+    },
+    {
+      "aar": 2020,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": 99
+    },
+    {
+      "aar": 2021,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": 99
+    },
+    {
+      "aar": 2022,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2023,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2024,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2025,
+      "husholdningstype": "Husholdninger med barn",
+      "pc_prosent": "",
+      "internett_prosent": 100,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2013,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": 91,
+      "internett_prosent": 92,
+      "bredband_prosent": 86
+    },
+    {
+      "aar": 2014,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 90,
+      "bredband_prosent": 85
+    },
+    {
+      "aar": 2015,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": 96,
+      "internett_prosent": 96,
+      "bredband_prosent": 89
+    },
+    {
+      "aar": 2016,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 96,
+      "bredband_prosent": 95
+    },
+    {
+      "aar": 2017,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": 94,
+      "internett_prosent": 95,
+      "bredband_prosent": 92
+    },
+    {
+      "aar": 2018,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 95,
+      "bredband_prosent": 93
+    },
+    {
+      "aar": 2019,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 98,
+      "bredband_prosent": 97
+    },
+    {
+      "aar": 2020,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 95,
+      "bredband_prosent": 95
+    },
+    {
+      "aar": 2021,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": 99
+    },
+    {
+      "aar": 2022,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2023,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2024,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 98,
+      "bredband_prosent": ""
+    },
+    {
+      "aar": 2025,
+      "husholdningstype": "Husholdninger uten barn",
+      "pc_prosent": "",
+      "internett_prosent": 99,
+      "bredband_prosent": ""
+    }
+  ],
+  "meta": {
+    "title": "Husholdninger med tilgang til PC, internett og bredbånd i Norge - Free Download",
+    "description": "Andel norske husholdninger som har tilgang til PC, internett og bredbånd, etter husholdningstype (alle, med barn, uten barn), fra SSBs undersøkelse om bruk av IKT i husholdningene. Contains 39 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Husholdninger med tilgang til PC, internett og bredbånd i Norge | ListBase",
+    "seo_description": "Download Husholdninger med tilgang til PC, internett og bredbånd i Norge — 39 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 39 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/11000"
+    ]
+  }
+}

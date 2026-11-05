@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-05T02:19:42.549Z",
-  "total_datasets": 469,
-  "total_records": 1199668,
+  "generated": "2026-11-05T02:19:51.144Z",
+  "total_datasets": 470,
+  "total_records": 1199707,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -12349,6 +12349,32 @@
         "xlsx": {
           "name": "no-datatreff_NO.xlsx",
           "size": 9999
+        }
+      }
+    },
+    {
+      "id": "no-husholdninger-tilgang-ikt",
+      "name": "Husholdninger med tilgang til PC, internett og bredbånd i Norge",
+      "category": "tech",
+      "record_count": 39,
+      "columns": [
+        "aar",
+        "husholdningstype",
+        "pc_prosent",
+        "internett_prosent",
+        "bredband_prosent"
+      ],
+      "source": "https://www.ssb.no/statbank/table/11000",
+      "updated": "2026-11",
+      "size": 8504,
+      "files": {
+        "csv": {
+          "name": "no-husholdninger-tilgang-ikt_NO.csv",
+          "size": 1846
+        },
+        "xlsx": {
+          "name": "no-husholdninger-tilgang-ikt_NO.xlsx",
+          "size": 7662
         }
       }
     },
