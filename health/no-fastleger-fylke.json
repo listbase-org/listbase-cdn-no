@@ -1,0 +1,3552 @@
+{
+  "id": "no-fastleger-fylke",
+  "name": "Fastleger i Norge etter fylke (2002–2025)",
+  "title": "Fastleger i Norge etter fylke (2002–2025)",
+  "description": "Antall fastleger per fylke og år, fordelt på fastleger som er innvandrere og øvrige fastleger, fra SSBs statistikkbank.",
+  "category": "health",
+  "source": "https://www.ssb.no/statbank/table/07457",
+  "source_url": "https://www.ssb.no/statbank/table/07457",
+  "updated": "2026-11",
+  "record_count": 437,
+  "columns": [
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "fylkesnummer",
+      "label": "Fylkesnummer",
+      "type": "number"
+    },
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "fastleger_innvandrere",
+      "label": "Fastleger Innvandrere",
+      "type": "number"
+    },
+    {
+      "key": "fastleger_ellers",
+      "label": "Fastleger Ellers",
+      "type": "number"
+    },
+    {
+      "key": "fastleger_i_alt",
+      "label": "Fastleger I Alt",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2002,
+      "fastleger_innvandrere": 688,
+      "fastleger_ellers": 3015,
+      "fastleger_i_alt": 3703
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2003,
+      "fastleger_innvandrere": 695,
+      "fastleger_ellers": 3018,
+      "fastleger_i_alt": 3713
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2004,
+      "fastleger_innvandrere": 705,
+      "fastleger_ellers": 3050,
+      "fastleger_i_alt": 3755
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2005,
+      "fastleger_innvandrere": 705,
+      "fastleger_ellers": 3052,
+      "fastleger_i_alt": 3757
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2006,
+      "fastleger_innvandrere": 735,
+      "fastleger_ellers": 3106,
+      "fastleger_i_alt": 3841
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2007,
+      "fastleger_innvandrere": 750,
+      "fastleger_ellers": 3141,
+      "fastleger_i_alt": 3891
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2008,
+      "fastleger_innvandrere": 777,
+      "fastleger_ellers": 3192,
+      "fastleger_i_alt": 3969
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2009,
+      "fastleger_innvandrere": 796,
+      "fastleger_ellers": 3253,
+      "fastleger_i_alt": 4049
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2010,
+      "fastleger_innvandrere": 814,
+      "fastleger_ellers": 3295,
+      "fastleger_i_alt": 4109
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2011,
+      "fastleger_innvandrere": 831,
+      "fastleger_ellers": 3358,
+      "fastleger_i_alt": 4189
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2012,
+      "fastleger_innvandrere": 875,
+      "fastleger_ellers": 3404,
+      "fastleger_i_alt": 4279
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2013,
+      "fastleger_innvandrere": 917,
+      "fastleger_ellers": 3469,
+      "fastleger_i_alt": 4386
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2014,
+      "fastleger_innvandrere": 976,
+      "fastleger_ellers": 3535,
+      "fastleger_i_alt": 4511
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2015,
+      "fastleger_innvandrere": 994,
+      "fastleger_ellers": 3590,
+      "fastleger_i_alt": 4584
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2016,
+      "fastleger_innvandrere": 1007,
+      "fastleger_ellers": 3637,
+      "fastleger_i_alt": 4644
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2017,
+      "fastleger_innvandrere": 1042,
+      "fastleger_ellers": 3699,
+      "fastleger_i_alt": 4741
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2018,
+      "fastleger_innvandrere": 1078,
+      "fastleger_ellers": 3709,
+      "fastleger_i_alt": 4787
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2019,
+      "fastleger_innvandrere": 1093,
+      "fastleger_ellers": 3765,
+      "fastleger_i_alt": 4858
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2020,
+      "fastleger_innvandrere": 1107,
+      "fastleger_ellers": 3823,
+      "fastleger_i_alt": 4930
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2021,
+      "fastleger_innvandrere": 1112,
+      "fastleger_ellers": 3856,
+      "fastleger_i_alt": 4968
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2022,
+      "fastleger_innvandrere": 1132,
+      "fastleger_ellers": 3930,
+      "fastleger_i_alt": 5062
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2023,
+      "fastleger_innvandrere": 1182,
+      "fastleger_ellers": 4087,
+      "fastleger_i_alt": 5269
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2024,
+      "fastleger_innvandrere": 1233,
+      "fastleger_ellers": 4289,
+      "fastleger_i_alt": 5522
+    },
+    {
+      "fylke": "Alle fylker",
+      "fylkesnummer": "00",
+      "aar": 2025,
+      "fastleger_innvandrere": 1270,
+      "fastleger_ellers": 4453,
+      "fastleger_i_alt": 5723
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2002,
+      "fastleger_innvandrere": 39,
+      "fastleger_ellers": 157,
+      "fastleger_i_alt": 196
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2003,
+      "fastleger_innvandrere": 40,
+      "fastleger_ellers": 155,
+      "fastleger_i_alt": 195
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2004,
+      "fastleger_innvandrere": 45,
+      "fastleger_ellers": 156,
+      "fastleger_i_alt": 201
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2005,
+      "fastleger_innvandrere": 45,
+      "fastleger_ellers": 158,
+      "fastleger_i_alt": 203
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2006,
+      "fastleger_innvandrere": 48,
+      "fastleger_ellers": 160,
+      "fastleger_i_alt": 208
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2007,
+      "fastleger_innvandrere": 51,
+      "fastleger_ellers": 161,
+      "fastleger_i_alt": 212
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2008,
+      "fastleger_innvandrere": 53,
+      "fastleger_ellers": 167,
+      "fastleger_i_alt": 220
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2009,
+      "fastleger_innvandrere": 56,
+      "fastleger_ellers": 169,
+      "fastleger_i_alt": 225
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2010,
+      "fastleger_innvandrere": 56,
+      "fastleger_ellers": 170,
+      "fastleger_i_alt": 226
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2011,
+      "fastleger_innvandrere": 57,
+      "fastleger_ellers": 173,
+      "fastleger_i_alt": 230
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2012,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 174,
+      "fastleger_i_alt": 235
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2013,
+      "fastleger_innvandrere": 69,
+      "fastleger_ellers": 169,
+      "fastleger_i_alt": 238
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2014,
+      "fastleger_innvandrere": 69,
+      "fastleger_ellers": 171,
+      "fastleger_i_alt": 240
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2015,
+      "fastleger_innvandrere": 70,
+      "fastleger_ellers": 173,
+      "fastleger_i_alt": 243
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2016,
+      "fastleger_innvandrere": 74,
+      "fastleger_ellers": 175,
+      "fastleger_i_alt": 249
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2017,
+      "fastleger_innvandrere": 77,
+      "fastleger_ellers": 172,
+      "fastleger_i_alt": 249
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2018,
+      "fastleger_innvandrere": 83,
+      "fastleger_ellers": 169,
+      "fastleger_i_alt": 252
+    },
+    {
+      "fylke": "Østfold (-2019)",
+      "fylkesnummer": "01",
+      "aar": 2019,
+      "fastleger_innvandrere": 85,
+      "fastleger_ellers": 168,
+      "fastleger_i_alt": 253
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2002,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 298,
+      "fastleger_i_alt": 359
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2003,
+      "fastleger_innvandrere": 64,
+      "fastleger_ellers": 299,
+      "fastleger_i_alt": 363
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2004,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 308,
+      "fastleger_i_alt": 369
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2005,
+      "fastleger_innvandrere": 63,
+      "fastleger_ellers": 311,
+      "fastleger_i_alt": 374
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2006,
+      "fastleger_innvandrere": 66,
+      "fastleger_ellers": 312,
+      "fastleger_i_alt": 378
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2007,
+      "fastleger_innvandrere": 68,
+      "fastleger_ellers": 322,
+      "fastleger_i_alt": 390
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2008,
+      "fastleger_innvandrere": 70,
+      "fastleger_ellers": 326,
+      "fastleger_i_alt": 396
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2009,
+      "fastleger_innvandrere": 71,
+      "fastleger_ellers": 333,
+      "fastleger_i_alt": 404
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2010,
+      "fastleger_innvandrere": 70,
+      "fastleger_ellers": 338,
+      "fastleger_i_alt": 408
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2011,
+      "fastleger_innvandrere": 69,
+      "fastleger_ellers": 344,
+      "fastleger_i_alt": 413
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2012,
+      "fastleger_innvandrere": 76,
+      "fastleger_ellers": 345,
+      "fastleger_i_alt": 421
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2013,
+      "fastleger_innvandrere": 81,
+      "fastleger_ellers": 348,
+      "fastleger_i_alt": 429
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2014,
+      "fastleger_innvandrere": 82,
+      "fastleger_ellers": 361,
+      "fastleger_i_alt": 443
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2015,
+      "fastleger_innvandrere": 86,
+      "fastleger_ellers": 362,
+      "fastleger_i_alt": 448
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2016,
+      "fastleger_innvandrere": 94,
+      "fastleger_ellers": 376,
+      "fastleger_i_alt": 470
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2017,
+      "fastleger_innvandrere": 102,
+      "fastleger_ellers": 374,
+      "fastleger_i_alt": 476
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2018,
+      "fastleger_innvandrere": 107,
+      "fastleger_ellers": 380,
+      "fastleger_i_alt": 487
+    },
+    {
+      "fylke": "Akershus (-2019)",
+      "fylkesnummer": "02",
+      "aar": 2019,
+      "fastleger_innvandrere": 110,
+      "fastleger_ellers": 391,
+      "fastleger_i_alt": 501
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2002,
+      "fastleger_innvandrere": 79,
+      "fastleger_ellers": 362,
+      "fastleger_i_alt": 441
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2003,
+      "fastleger_innvandrere": 80,
+      "fastleger_ellers": 358,
+      "fastleger_i_alt": 438
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2004,
+      "fastleger_innvandrere": 85,
+      "fastleger_ellers": 356,
+      "fastleger_i_alt": 441
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2005,
+      "fastleger_innvandrere": 85,
+      "fastleger_ellers": 354,
+      "fastleger_i_alt": 439
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2006,
+      "fastleger_innvandrere": 84,
+      "fastleger_ellers": 356,
+      "fastleger_i_alt": 440
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2007,
+      "fastleger_innvandrere": 83,
+      "fastleger_ellers": 360,
+      "fastleger_i_alt": 443
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2008,
+      "fastleger_innvandrere": 86,
+      "fastleger_ellers": 363,
+      "fastleger_i_alt": 449
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2009,
+      "fastleger_innvandrere": 92,
+      "fastleger_ellers": 365,
+      "fastleger_i_alt": 457
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2010,
+      "fastleger_innvandrere": 100,
+      "fastleger_ellers": 365,
+      "fastleger_i_alt": 465
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2011,
+      "fastleger_innvandrere": 102,
+      "fastleger_ellers": 377,
+      "fastleger_i_alt": 479
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2012,
+      "fastleger_innvandrere": 107,
+      "fastleger_ellers": 381,
+      "fastleger_i_alt": 488
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2013,
+      "fastleger_innvandrere": 110,
+      "fastleger_ellers": 383,
+      "fastleger_i_alt": 493
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2014,
+      "fastleger_innvandrere": 123,
+      "fastleger_ellers": 390,
+      "fastleger_i_alt": 513
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2015,
+      "fastleger_innvandrere": 125,
+      "fastleger_ellers": 396,
+      "fastleger_i_alt": 521
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2016,
+      "fastleger_innvandrere": 126,
+      "fastleger_ellers": 396,
+      "fastleger_i_alt": 522
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2017,
+      "fastleger_innvandrere": 132,
+      "fastleger_ellers": 391,
+      "fastleger_i_alt": 523
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2018,
+      "fastleger_innvandrere": 133,
+      "fastleger_ellers": 393,
+      "fastleger_i_alt": 526
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2019,
+      "fastleger_innvandrere": 139,
+      "fastleger_ellers": 392,
+      "fastleger_i_alt": 531
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2020,
+      "fastleger_innvandrere": 154,
+      "fastleger_ellers": 387,
+      "fastleger_i_alt": 541
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2021,
+      "fastleger_innvandrere": 163,
+      "fastleger_ellers": 382,
+      "fastleger_i_alt": 545
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2022,
+      "fastleger_innvandrere": 173,
+      "fastleger_ellers": 385,
+      "fastleger_i_alt": 558
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2023,
+      "fastleger_innvandrere": 184,
+      "fastleger_ellers": 392,
+      "fastleger_i_alt": 576
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2024,
+      "fastleger_innvandrere": 185,
+      "fastleger_ellers": 405,
+      "fastleger_i_alt": 590
+    },
+    {
+      "fylke": "Oslo - Oslove",
+      "fylkesnummer": "03",
+      "aar": 2025,
+      "fastleger_innvandrere": 193,
+      "fastleger_ellers": 418,
+      "fastleger_i_alt": 611
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2002,
+      "fastleger_innvandrere": 43,
+      "fastleger_ellers": 114,
+      "fastleger_i_alt": 157
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2003,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 117,
+      "fastleger_i_alt": 154
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2004,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 123,
+      "fastleger_i_alt": 157
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2005,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 121,
+      "fastleger_i_alt": 155
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2006,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 122,
+      "fastleger_i_alt": 158
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2007,
+      "fastleger_innvandrere": 39,
+      "fastleger_ellers": 123,
+      "fastleger_i_alt": 162
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2008,
+      "fastleger_innvandrere": 50,
+      "fastleger_ellers": 118,
+      "fastleger_i_alt": 168
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2009,
+      "fastleger_innvandrere": 50,
+      "fastleger_ellers": 119,
+      "fastleger_i_alt": 169
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2010,
+      "fastleger_innvandrere": 54,
+      "fastleger_ellers": 119,
+      "fastleger_i_alt": 173
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2011,
+      "fastleger_innvandrere": 53,
+      "fastleger_ellers": 121,
+      "fastleger_i_alt": 174
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2012,
+      "fastleger_innvandrere": 60,
+      "fastleger_ellers": 118,
+      "fastleger_i_alt": 178
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2013,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 117,
+      "fastleger_i_alt": 178
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2014,
+      "fastleger_innvandrere": 65,
+      "fastleger_ellers": 113,
+      "fastleger_i_alt": 178
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2015,
+      "fastleger_innvandrere": 62,
+      "fastleger_ellers": 117,
+      "fastleger_i_alt": 179
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2016,
+      "fastleger_innvandrere": 60,
+      "fastleger_ellers": 118,
+      "fastleger_i_alt": 178
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2017,
+      "fastleger_innvandrere": 59,
+      "fastleger_ellers": 121,
+      "fastleger_i_alt": 180
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2018,
+      "fastleger_innvandrere": 67,
+      "fastleger_ellers": 116,
+      "fastleger_i_alt": 183
+    },
+    {
+      "fylke": "Hedmark (-2019)",
+      "fylkesnummer": "04",
+      "aar": 2019,
+      "fastleger_innvandrere": 64,
+      "fastleger_ellers": 120,
+      "fastleger_i_alt": 184
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2002,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 133,
+      "fastleger_i_alt": 165
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2003,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 127,
+      "fastleger_i_alt": 159
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2004,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 130,
+      "fastleger_i_alt": 161
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2005,
+      "fastleger_innvandrere": 33,
+      "fastleger_ellers": 128,
+      "fastleger_i_alt": 161
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2006,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 133,
+      "fastleger_i_alt": 169
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2007,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 131,
+      "fastleger_i_alt": 167
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2008,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 131,
+      "fastleger_i_alt": 165
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2009,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 135,
+      "fastleger_i_alt": 169
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2010,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 135,
+      "fastleger_i_alt": 172
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2011,
+      "fastleger_innvandrere": 39,
+      "fastleger_ellers": 133,
+      "fastleger_i_alt": 172
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2012,
+      "fastleger_innvandrere": 44,
+      "fastleger_ellers": 130,
+      "fastleger_i_alt": 174
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2013,
+      "fastleger_innvandrere": 44,
+      "fastleger_ellers": 142,
+      "fastleger_i_alt": 186
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2014,
+      "fastleger_innvandrere": 48,
+      "fastleger_ellers": 143,
+      "fastleger_i_alt": 191
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2015,
+      "fastleger_innvandrere": 53,
+      "fastleger_ellers": 138,
+      "fastleger_i_alt": 191
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2016,
+      "fastleger_innvandrere": 57,
+      "fastleger_ellers": 134,
+      "fastleger_i_alt": 191
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2017,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 128,
+      "fastleger_i_alt": 189
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2018,
+      "fastleger_innvandrere": 62,
+      "fastleger_ellers": 125,
+      "fastleger_i_alt": 187
+    },
+    {
+      "fylke": "Oppland (-2019)",
+      "fylkesnummer": "05",
+      "aar": 2019,
+      "fastleger_innvandrere": 62,
+      "fastleger_ellers": 127,
+      "fastleger_i_alt": 189
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2002,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 161,
+      "fastleger_i_alt": 191
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2003,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 165,
+      "fastleger_i_alt": 194
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2004,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 165,
+      "fastleger_i_alt": 195
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2005,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 164,
+      "fastleger_i_alt": 194
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2006,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 167,
+      "fastleger_i_alt": 199
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2007,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 165,
+      "fastleger_i_alt": 201
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2008,
+      "fastleger_innvandrere": 40,
+      "fastleger_ellers": 166,
+      "fastleger_i_alt": 206
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2009,
+      "fastleger_innvandrere": 44,
+      "fastleger_ellers": 167,
+      "fastleger_i_alt": 211
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2010,
+      "fastleger_innvandrere": 45,
+      "fastleger_ellers": 166,
+      "fastleger_i_alt": 211
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2011,
+      "fastleger_innvandrere": 47,
+      "fastleger_ellers": 169,
+      "fastleger_i_alt": 216
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2012,
+      "fastleger_innvandrere": 50,
+      "fastleger_ellers": 166,
+      "fastleger_i_alt": 216
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2013,
+      "fastleger_innvandrere": 51,
+      "fastleger_ellers": 172,
+      "fastleger_i_alt": 223
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2014,
+      "fastleger_innvandrere": 55,
+      "fastleger_ellers": 170,
+      "fastleger_i_alt": 225
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2015,
+      "fastleger_innvandrere": 59,
+      "fastleger_ellers": 173,
+      "fastleger_i_alt": 232
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2016,
+      "fastleger_innvandrere": 63,
+      "fastleger_ellers": 179,
+      "fastleger_i_alt": 242
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2017,
+      "fastleger_innvandrere": 62,
+      "fastleger_ellers": 183,
+      "fastleger_i_alt": 245
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2018,
+      "fastleger_innvandrere": 64,
+      "fastleger_ellers": 187,
+      "fastleger_i_alt": 251
+    },
+    {
+      "fylke": "Buskerud (-2019)",
+      "fylkesnummer": "06",
+      "aar": 2019,
+      "fastleger_innvandrere": 69,
+      "fastleger_ellers": 188,
+      "fastleger_i_alt": 257
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2002,
+      "fastleger_innvandrere": 17,
+      "fastleger_ellers": 140,
+      "fastleger_i_alt": 157
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2003,
+      "fastleger_innvandrere": 17,
+      "fastleger_ellers": 140,
+      "fastleger_i_alt": 157
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2004,
+      "fastleger_innvandrere": 21,
+      "fastleger_ellers": 139,
+      "fastleger_i_alt": 160
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2005,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 138,
+      "fastleger_i_alt": 162
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2006,
+      "fastleger_innvandrere": 25,
+      "fastleger_ellers": 141,
+      "fastleger_i_alt": 166
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2007,
+      "fastleger_innvandrere": 27,
+      "fastleger_ellers": 139,
+      "fastleger_i_alt": 166
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2008,
+      "fastleger_innvandrere": 25,
+      "fastleger_ellers": 143,
+      "fastleger_i_alt": 168
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2009,
+      "fastleger_innvandrere": 27,
+      "fastleger_ellers": 148,
+      "fastleger_i_alt": 175
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2010,
+      "fastleger_innvandrere": 25,
+      "fastleger_ellers": 150,
+      "fastleger_i_alt": 175
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2011,
+      "fastleger_innvandrere": 28,
+      "fastleger_ellers": 150,
+      "fastleger_i_alt": 178
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2012,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 153,
+      "fastleger_i_alt": 182
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2013,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 157,
+      "fastleger_i_alt": 186
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2014,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 160,
+      "fastleger_i_alt": 191
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2015,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 163,
+      "fastleger_i_alt": 194
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2016,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 166,
+      "fastleger_i_alt": 197
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2017,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 171,
+      "fastleger_i_alt": 202
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2018,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 174,
+      "fastleger_i_alt": 206
+    },
+    {
+      "fylke": "Vestfold (-2019)",
+      "fylkesnummer": "07",
+      "aar": 2019,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 179,
+      "fastleger_i_alt": 216
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2002,
+      "fastleger_innvandrere": 27,
+      "fastleger_ellers": 107,
+      "fastleger_i_alt": 134
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2003,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 105,
+      "fastleger_i_alt": 137
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2004,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 104,
+      "fastleger_i_alt": 133
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2005,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 106,
+      "fastleger_i_alt": 138
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2006,
+      "fastleger_innvandrere": 35,
+      "fastleger_ellers": 105,
+      "fastleger_i_alt": 140
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2007,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 106,
+      "fastleger_i_alt": 140
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2008,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 108,
+      "fastleger_i_alt": 145
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2009,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 110,
+      "fastleger_i_alt": 146
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2010,
+      "fastleger_innvandrere": 35,
+      "fastleger_ellers": 113,
+      "fastleger_i_alt": 148
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2011,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 115,
+      "fastleger_i_alt": 149
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2012,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 112,
+      "fastleger_i_alt": 148
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2013,
+      "fastleger_innvandrere": 38,
+      "fastleger_ellers": 117,
+      "fastleger_i_alt": 155
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2014,
+      "fastleger_innvandrere": 39,
+      "fastleger_ellers": 120,
+      "fastleger_i_alt": 159
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2015,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 121,
+      "fastleger_i_alt": 158
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2016,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 121,
+      "fastleger_i_alt": 158
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2017,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 122,
+      "fastleger_i_alt": 159
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2018,
+      "fastleger_innvandrere": 42,
+      "fastleger_ellers": 120,
+      "fastleger_i_alt": 162
+    },
+    {
+      "fylke": "Telemark (-2019)",
+      "fylkesnummer": "08",
+      "aar": 2019,
+      "fastleger_innvandrere": 43,
+      "fastleger_ellers": 128,
+      "fastleger_i_alt": 171
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2002,
+      "fastleger_innvandrere": 9,
+      "fastleger_ellers": 81,
+      "fastleger_i_alt": 90
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2003,
+      "fastleger_innvandrere": 9,
+      "fastleger_ellers": 81,
+      "fastleger_i_alt": 90
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2004,
+      "fastleger_innvandrere": 9,
+      "fastleger_ellers": 83,
+      "fastleger_i_alt": 92
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2005,
+      "fastleger_innvandrere": 11,
+      "fastleger_ellers": 81,
+      "fastleger_i_alt": 92
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2006,
+      "fastleger_innvandrere": 12,
+      "fastleger_ellers": 82,
+      "fastleger_i_alt": 94
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2007,
+      "fastleger_innvandrere": 11,
+      "fastleger_ellers": 81,
+      "fastleger_i_alt": 92
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2008,
+      "fastleger_innvandrere": 11,
+      "fastleger_ellers": 83,
+      "fastleger_i_alt": 94
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2009,
+      "fastleger_innvandrere": 12,
+      "fastleger_ellers": 81,
+      "fastleger_i_alt": 93
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2010,
+      "fastleger_innvandrere": 11,
+      "fastleger_ellers": 88,
+      "fastleger_i_alt": 99
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2011,
+      "fastleger_innvandrere": 11,
+      "fastleger_ellers": 86,
+      "fastleger_i_alt": 97
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2012,
+      "fastleger_innvandrere": 11,
+      "fastleger_ellers": 89,
+      "fastleger_i_alt": 100
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2013,
+      "fastleger_innvandrere": 14,
+      "fastleger_ellers": 91,
+      "fastleger_i_alt": 105
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2014,
+      "fastleger_innvandrere": 15,
+      "fastleger_ellers": 92,
+      "fastleger_i_alt": 107
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2015,
+      "fastleger_innvandrere": 13,
+      "fastleger_ellers": 95,
+      "fastleger_i_alt": 108
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2016,
+      "fastleger_innvandrere": 14,
+      "fastleger_ellers": 98,
+      "fastleger_i_alt": 112
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2017,
+      "fastleger_innvandrere": 14,
+      "fastleger_ellers": 98,
+      "fastleger_i_alt": 112
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2018,
+      "fastleger_innvandrere": 12,
+      "fastleger_ellers": 99,
+      "fastleger_i_alt": 111
+    },
+    {
+      "fylke": "Aust-Agder (-2019)",
+      "fylkesnummer": "09",
+      "aar": 2019,
+      "fastleger_innvandrere": 14,
+      "fastleger_ellers": 100,
+      "fastleger_i_alt": 114
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2002,
+      "fastleger_innvandrere": 13,
+      "fastleger_ellers": 133,
+      "fastleger_i_alt": 146
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2003,
+      "fastleger_innvandrere": 12,
+      "fastleger_ellers": 133,
+      "fastleger_i_alt": 145
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2004,
+      "fastleger_innvandrere": 14,
+      "fastleger_ellers": 135,
+      "fastleger_i_alt": 149
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2005,
+      "fastleger_innvandrere": 10,
+      "fastleger_ellers": 139,
+      "fastleger_i_alt": 149
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2006,
+      "fastleger_innvandrere": 10,
+      "fastleger_ellers": 141,
+      "fastleger_i_alt": 151
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2007,
+      "fastleger_innvandrere": 9,
+      "fastleger_ellers": 144,
+      "fastleger_i_alt": 153
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2008,
+      "fastleger_innvandrere": 9,
+      "fastleger_ellers": 144,
+      "fastleger_i_alt": 153
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2009,
+      "fastleger_innvandrere": 14,
+      "fastleger_ellers": 141,
+      "fastleger_i_alt": 155
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2010,
+      "fastleger_innvandrere": 13,
+      "fastleger_ellers": 145,
+      "fastleger_i_alt": 158
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2011,
+      "fastleger_innvandrere": 15,
+      "fastleger_ellers": 145,
+      "fastleger_i_alt": 160
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2012,
+      "fastleger_innvandrere": 19,
+      "fastleger_ellers": 146,
+      "fastleger_i_alt": 165
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2013,
+      "fastleger_innvandrere": 18,
+      "fastleger_ellers": 148,
+      "fastleger_i_alt": 166
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2014,
+      "fastleger_innvandrere": 19,
+      "fastleger_ellers": 150,
+      "fastleger_i_alt": 169
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2015,
+      "fastleger_innvandrere": 20,
+      "fastleger_ellers": 151,
+      "fastleger_i_alt": 171
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2016,
+      "fastleger_innvandrere": 20,
+      "fastleger_ellers": 151,
+      "fastleger_i_alt": 171
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2017,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 153,
+      "fastleger_i_alt": 175
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2018,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 155,
+      "fastleger_i_alt": 177
+    },
+    {
+      "fylke": "Vest-Agder (-2019)",
+      "fylkesnummer": "10",
+      "aar": 2019,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 155,
+      "fastleger_i_alt": 177
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2002,
+      "fastleger_innvandrere": 49,
+      "fastleger_ellers": 221,
+      "fastleger_i_alt": 270
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2003,
+      "fastleger_innvandrere": 48,
+      "fastleger_ellers": 225,
+      "fastleger_i_alt": 273
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2004,
+      "fastleger_innvandrere": 50,
+      "fastleger_ellers": 232,
+      "fastleger_i_alt": 282
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2005,
+      "fastleger_innvandrere": 49,
+      "fastleger_ellers": 231,
+      "fastleger_i_alt": 280
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2006,
+      "fastleger_innvandrere": 51,
+      "fastleger_ellers": 239,
+      "fastleger_i_alt": 290
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2007,
+      "fastleger_innvandrere": 53,
+      "fastleger_ellers": 246,
+      "fastleger_i_alt": 299
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2008,
+      "fastleger_innvandrere": 58,
+      "fastleger_ellers": 253,
+      "fastleger_i_alt": 311
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2009,
+      "fastleger_innvandrere": 62,
+      "fastleger_ellers": 256,
+      "fastleger_i_alt": 318
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2010,
+      "fastleger_innvandrere": 62,
+      "fastleger_ellers": 265,
+      "fastleger_i_alt": 327
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2011,
+      "fastleger_innvandrere": 63,
+      "fastleger_ellers": 273,
+      "fastleger_i_alt": 336
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2012,
+      "fastleger_innvandrere": 71,
+      "fastleger_ellers": 277,
+      "fastleger_i_alt": 348
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2013,
+      "fastleger_innvandrere": 78,
+      "fastleger_ellers": 283,
+      "fastleger_i_alt": 361
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2014,
+      "fastleger_innvandrere": 82,
+      "fastleger_ellers": 292,
+      "fastleger_i_alt": 374
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2015,
+      "fastleger_innvandrere": 80,
+      "fastleger_ellers": 302,
+      "fastleger_i_alt": 382
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2016,
+      "fastleger_innvandrere": 81,
+      "fastleger_ellers": 306,
+      "fastleger_i_alt": 387
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2017,
+      "fastleger_innvandrere": 82,
+      "fastleger_ellers": 311,
+      "fastleger_i_alt": 393
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2018,
+      "fastleger_innvandrere": 81,
+      "fastleger_ellers": 316,
+      "fastleger_i_alt": 397
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2019,
+      "fastleger_innvandrere": 90,
+      "fastleger_ellers": 315,
+      "fastleger_i_alt": 405
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2020,
+      "fastleger_innvandrere": 91,
+      "fastleger_ellers": 326,
+      "fastleger_i_alt": 417
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2021,
+      "fastleger_innvandrere": 91,
+      "fastleger_ellers": 321,
+      "fastleger_i_alt": 412
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2022,
+      "fastleger_innvandrere": 90,
+      "fastleger_ellers": 327,
+      "fastleger_i_alt": 417
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2023,
+      "fastleger_innvandrere": 94,
+      "fastleger_ellers": 344,
+      "fastleger_i_alt": 438
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2024,
+      "fastleger_innvandrere": 95,
+      "fastleger_ellers": 355,
+      "fastleger_i_alt": 450
+    },
+    {
+      "fylke": "Rogaland",
+      "fylkesnummer": "11",
+      "aar": 2025,
+      "fastleger_innvandrere": 96,
+      "fastleger_ellers": 369,
+      "fastleger_i_alt": 465
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2002,
+      "fastleger_innvandrere": 57,
+      "fastleger_ellers": 310,
+      "fastleger_i_alt": 367
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2003,
+      "fastleger_innvandrere": 60,
+      "fastleger_ellers": 311,
+      "fastleger_i_alt": 371
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2004,
+      "fastleger_innvandrere": 62,
+      "fastleger_ellers": 307,
+      "fastleger_i_alt": 369
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2005,
+      "fastleger_innvandrere": 66,
+      "fastleger_ellers": 305,
+      "fastleger_i_alt": 371
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2006,
+      "fastleger_innvandrere": 69,
+      "fastleger_ellers": 306,
+      "fastleger_i_alt": 375
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2007,
+      "fastleger_innvandrere": 69,
+      "fastleger_ellers": 311,
+      "fastleger_i_alt": 380
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2008,
+      "fastleger_innvandrere": 73,
+      "fastleger_ellers": 318,
+      "fastleger_i_alt": 391
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2009,
+      "fastleger_innvandrere": 73,
+      "fastleger_ellers": 325,
+      "fastleger_i_alt": 398
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2010,
+      "fastleger_innvandrere": 70,
+      "fastleger_ellers": 331,
+      "fastleger_i_alt": 401
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2011,
+      "fastleger_innvandrere": 71,
+      "fastleger_ellers": 337,
+      "fastleger_i_alt": 408
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2012,
+      "fastleger_innvandrere": 72,
+      "fastleger_ellers": 345,
+      "fastleger_i_alt": 417
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2013,
+      "fastleger_innvandrere": 73,
+      "fastleger_ellers": 352,
+      "fastleger_i_alt": 425
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2014,
+      "fastleger_innvandrere": 78,
+      "fastleger_ellers": 363,
+      "fastleger_i_alt": 441
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2015,
+      "fastleger_innvandrere": 79,
+      "fastleger_ellers": 370,
+      "fastleger_i_alt": 449
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2016,
+      "fastleger_innvandrere": 83,
+      "fastleger_ellers": 367,
+      "fastleger_i_alt": 450
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2017,
+      "fastleger_innvandrere": 84,
+      "fastleger_ellers": 386,
+      "fastleger_i_alt": 470
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2018,
+      "fastleger_innvandrere": 82,
+      "fastleger_ellers": 391,
+      "fastleger_i_alt": 473
+    },
+    {
+      "fylke": "Hordaland (-2019)",
+      "fylkesnummer": "12",
+      "aar": 2019,
+      "fastleger_innvandrere": 79,
+      "fastleger_ellers": 397,
+      "fastleger_i_alt": 476
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2002,
+      "fastleger_innvandrere": 25,
+      "fastleger_ellers": 60,
+      "fastleger_i_alt": 85
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2003,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 59,
+      "fastleger_i_alt": 93
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2004,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 59,
+      "fastleger_i_alt": 89
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2005,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 63,
+      "fastleger_i_alt": 94
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2006,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 66,
+      "fastleger_i_alt": 100
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2007,
+      "fastleger_innvandrere": 33,
+      "fastleger_ellers": 70,
+      "fastleger_i_alt": 103
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2008,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 75,
+      "fastleger_i_alt": 107
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2009,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 79,
+      "fastleger_i_alt": 110
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2010,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 75,
+      "fastleger_i_alt": 112
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2011,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 74,
+      "fastleger_i_alt": 110
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2012,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 76,
+      "fastleger_i_alt": 112
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2013,
+      "fastleger_innvandrere": 39,
+      "fastleger_ellers": 77,
+      "fastleger_i_alt": 116
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2014,
+      "fastleger_innvandrere": 41,
+      "fastleger_ellers": 78,
+      "fastleger_i_alt": 119
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2015,
+      "fastleger_innvandrere": 45,
+      "fastleger_ellers": 77,
+      "fastleger_i_alt": 122
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2016,
+      "fastleger_innvandrere": 43,
+      "fastleger_ellers": 81,
+      "fastleger_i_alt": 124
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2017,
+      "fastleger_innvandrere": 48,
+      "fastleger_ellers": 85,
+      "fastleger_i_alt": 133
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2018,
+      "fastleger_innvandrere": 49,
+      "fastleger_ellers": 88,
+      "fastleger_i_alt": 137
+    },
+    {
+      "fylke": "Sogn og Fjordane (-2019)",
+      "fylkesnummer": "14",
+      "aar": 2019,
+      "fastleger_innvandrere": 46,
+      "fastleger_ellers": 90,
+      "fastleger_i_alt": 136
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2002,
+      "fastleger_innvandrere": 43,
+      "fastleger_ellers": 172,
+      "fastleger_i_alt": 215
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2003,
+      "fastleger_innvandrere": 40,
+      "fastleger_ellers": 169,
+      "fastleger_i_alt": 209
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2004,
+      "fastleger_innvandrere": 43,
+      "fastleger_ellers": 169,
+      "fastleger_i_alt": 212
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2005,
+      "fastleger_innvandrere": 39,
+      "fastleger_ellers": 173,
+      "fastleger_i_alt": 212
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2006,
+      "fastleger_innvandrere": 45,
+      "fastleger_ellers": 170,
+      "fastleger_i_alt": 215
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2007,
+      "fastleger_innvandrere": 44,
+      "fastleger_ellers": 172,
+      "fastleger_i_alt": 216
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2008,
+      "fastleger_innvandrere": 42,
+      "fastleger_ellers": 171,
+      "fastleger_i_alt": 213
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2009,
+      "fastleger_innvandrere": 40,
+      "fastleger_ellers": 180,
+      "fastleger_i_alt": 220
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2010,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 186,
+      "fastleger_i_alt": 223
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2011,
+      "fastleger_innvandrere": 40,
+      "fastleger_ellers": 190,
+      "fastleger_i_alt": 230
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2012,
+      "fastleger_innvandrere": 43,
+      "fastleger_ellers": 193,
+      "fastleger_i_alt": 236
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2013,
+      "fastleger_innvandrere": 46,
+      "fastleger_ellers": 198,
+      "fastleger_i_alt": 244
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2014,
+      "fastleger_innvandrere": 53,
+      "fastleger_ellers": 196,
+      "fastleger_i_alt": 249
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2015,
+      "fastleger_innvandrere": 52,
+      "fastleger_ellers": 200,
+      "fastleger_i_alt": 252
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2016,
+      "fastleger_innvandrere": 50,
+      "fastleger_ellers": 206,
+      "fastleger_i_alt": 256
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2017,
+      "fastleger_innvandrere": 50,
+      "fastleger_ellers": 210,
+      "fastleger_i_alt": 260
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2018,
+      "fastleger_innvandrere": 56,
+      "fastleger_ellers": 203,
+      "fastleger_i_alt": 259
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2019,
+      "fastleger_innvandrere": 51,
+      "fastleger_ellers": 201,
+      "fastleger_i_alt": 252
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2020,
+      "fastleger_innvandrere": 51,
+      "fastleger_ellers": 209,
+      "fastleger_i_alt": 260
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2021,
+      "fastleger_innvandrere": 51,
+      "fastleger_ellers": 206,
+      "fastleger_i_alt": 257
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2022,
+      "fastleger_innvandrere": 55,
+      "fastleger_ellers": 200,
+      "fastleger_i_alt": 255
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2023,
+      "fastleger_innvandrere": 50,
+      "fastleger_ellers": 216,
+      "fastleger_i_alt": 266
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2024,
+      "fastleger_innvandrere": 59,
+      "fastleger_ellers": 232,
+      "fastleger_i_alt": 291
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "fylkesnummer": "15",
+      "aar": 2025,
+      "fastleger_innvandrere": 58,
+      "fastleger_ellers": 244,
+      "fastleger_i_alt": 302
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2002,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 171,
+      "fastleger_i_alt": 207
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2003,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 178,
+      "fastleger_i_alt": 210
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2004,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 188,
+      "fastleger_i_alt": 217
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2005,
+      "fastleger_innvandrere": 28,
+      "fastleger_ellers": 190,
+      "fastleger_i_alt": 218
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2006,
+      "fastleger_innvandrere": 23,
+      "fastleger_ellers": 200,
+      "fastleger_i_alt": 223
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2007,
+      "fastleger_innvandrere": 25,
+      "fastleger_ellers": 207,
+      "fastleger_i_alt": 232
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2008,
+      "fastleger_innvandrere": 27,
+      "fastleger_ellers": 209,
+      "fastleger_i_alt": 236
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2009,
+      "fastleger_innvandrere": 26,
+      "fastleger_ellers": 220,
+      "fastleger_i_alt": 246
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2010,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 220,
+      "fastleger_i_alt": 249
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2011,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 228,
+      "fastleger_i_alt": 257
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2012,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 232,
+      "fastleger_i_alt": 262
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2013,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 239,
+      "fastleger_i_alt": 269
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2014,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 247,
+      "fastleger_i_alt": 281
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2015,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 244,
+      "fastleger_i_alt": 281
+    },
+    {
+      "fylke": "Sør-Trøndelag (-2017)",
+      "fylkesnummer": "16",
+      "aar": 2016,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 247,
+      "fastleger_i_alt": 279
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2002,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 79,
+      "fastleger_i_alt": 103
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2003,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 80,
+      "fastleger_i_alt": 104
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2004,
+      "fastleger_innvandrere": 26,
+      "fastleger_ellers": 80,
+      "fastleger_i_alt": 106
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2005,
+      "fastleger_innvandrere": 21,
+      "fastleger_ellers": 78,
+      "fastleger_i_alt": 99
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2006,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 79,
+      "fastleger_i_alt": 101
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2007,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 80,
+      "fastleger_i_alt": 104
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2008,
+      "fastleger_innvandrere": 26,
+      "fastleger_ellers": 81,
+      "fastleger_i_alt": 107
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2009,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 83,
+      "fastleger_i_alt": 107
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2010,
+      "fastleger_innvandrere": 26,
+      "fastleger_ellers": 83,
+      "fastleger_i_alt": 109
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2011,
+      "fastleger_innvandrere": 25,
+      "fastleger_ellers": 87,
+      "fastleger_i_alt": 112
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2012,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 93,
+      "fastleger_i_alt": 115
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2013,
+      "fastleger_innvandrere": 23,
+      "fastleger_ellers": 101,
+      "fastleger_i_alt": 124
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2014,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 102,
+      "fastleger_i_alt": 124
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2015,
+      "fastleger_innvandrere": 21,
+      "fastleger_ellers": 103,
+      "fastleger_i_alt": 124
+    },
+    {
+      "fylke": "Nord-Trøndelag (-2017)",
+      "fylkesnummer": "17",
+      "aar": 2016,
+      "fastleger_innvandrere": 23,
+      "fastleger_ellers": 106,
+      "fastleger_i_alt": 129
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2002,
+      "fastleger_innvandrere": 56,
+      "fastleger_ellers": 150,
+      "fastleger_i_alt": 206
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2003,
+      "fastleger_innvandrere": 54,
+      "fastleger_ellers": 147,
+      "fastleger_i_alt": 201
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2004,
+      "fastleger_innvandrere": 55,
+      "fastleger_ellers": 148,
+      "fastleger_i_alt": 203
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2005,
+      "fastleger_innvandrere": 56,
+      "fastleger_ellers": 148,
+      "fastleger_i_alt": 204
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2006,
+      "fastleger_innvandrere": 55,
+      "fastleger_ellers": 157,
+      "fastleger_i_alt": 212
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2007,
+      "fastleger_innvandrere": 53,
+      "fastleger_ellers": 154,
+      "fastleger_i_alt": 207
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2008,
+      "fastleger_innvandrere": 53,
+      "fastleger_ellers": 163,
+      "fastleger_i_alt": 216
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2009,
+      "fastleger_innvandrere": 53,
+      "fastleger_ellers": 161,
+      "fastleger_i_alt": 214
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2010,
+      "fastleger_innvandrere": 55,
+      "fastleger_ellers": 164,
+      "fastleger_i_alt": 219
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2011,
+      "fastleger_innvandrere": 57,
+      "fastleger_ellers": 166,
+      "fastleger_i_alt": 223
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2012,
+      "fastleger_innvandrere": 51,
+      "fastleger_ellers": 175,
+      "fastleger_i_alt": 226
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2013,
+      "fastleger_innvandrere": 57,
+      "fastleger_ellers": 177,
+      "fastleger_i_alt": 234
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2014,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 179,
+      "fastleger_i_alt": 240
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2015,
+      "fastleger_innvandrere": 64,
+      "fastleger_ellers": 188,
+      "fastleger_i_alt": 252
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2016,
+      "fastleger_innvandrere": 59,
+      "fastleger_ellers": 194,
+      "fastleger_i_alt": 253
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2017,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 197,
+      "fastleger_i_alt": 258
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2018,
+      "fastleger_innvandrere": 63,
+      "fastleger_ellers": 199,
+      "fastleger_i_alt": 262
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2019,
+      "fastleger_innvandrere": 55,
+      "fastleger_ellers": 207,
+      "fastleger_i_alt": 262
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2020,
+      "fastleger_innvandrere": 57,
+      "fastleger_ellers": 215,
+      "fastleger_i_alt": 272
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2021,
+      "fastleger_innvandrere": 57,
+      "fastleger_ellers": 215,
+      "fastleger_i_alt": 272
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2022,
+      "fastleger_innvandrere": 57,
+      "fastleger_ellers": 218,
+      "fastleger_i_alt": 275
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2023,
+      "fastleger_innvandrere": 58,
+      "fastleger_ellers": 223,
+      "fastleger_i_alt": 281
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2024,
+      "fastleger_innvandrere": 62,
+      "fastleger_ellers": 239,
+      "fastleger_i_alt": 301
+    },
+    {
+      "fylke": "Nordland - Nordlánnda",
+      "fylkesnummer": "18",
+      "aar": 2025,
+      "fastleger_innvandrere": 60,
+      "fastleger_ellers": 252,
+      "fastleger_i_alt": 312
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2002,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 111,
+      "fastleger_i_alt": 140
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2003,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 110,
+      "fastleger_i_alt": 141
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2004,
+      "fastleger_innvandrere": 29,
+      "fastleger_ellers": 114,
+      "fastleger_i_alt": 143
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2005,
+      "fastleger_innvandrere": 25,
+      "fastleger_ellers": 113,
+      "fastleger_i_alt": 138
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2006,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 115,
+      "fastleger_i_alt": 145
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2007,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 116,
+      "fastleger_i_alt": 147
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2008,
+      "fastleger_innvandrere": 28,
+      "fastleger_ellers": 116,
+      "fastleger_i_alt": 144
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2009,
+      "fastleger_innvandrere": 28,
+      "fastleger_ellers": 118,
+      "fastleger_i_alt": 146
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2010,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 122,
+      "fastleger_i_alt": 152
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2011,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 129,
+      "fastleger_i_alt": 160
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2012,
+      "fastleger_innvandrere": 33,
+      "fastleger_ellers": 131,
+      "fastleger_i_alt": 164
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2013,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 133,
+      "fastleger_i_alt": 167
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2014,
+      "fastleger_innvandrere": 33,
+      "fastleger_ellers": 141,
+      "fastleger_i_alt": 174
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2015,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 145,
+      "fastleger_i_alt": 181
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2016,
+      "fastleger_innvandrere": 34,
+      "fastleger_ellers": 147,
+      "fastleger_i_alt": 181
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2017,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 164,
+      "fastleger_i_alt": 195
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2018,
+      "fastleger_innvandrere": 37,
+      "fastleger_ellers": 158,
+      "fastleger_i_alt": 195
+    },
+    {
+      "fylke": "Troms - Romsa (-2019)",
+      "fylkesnummer": "19",
+      "aar": 2019,
+      "fastleger_innvandrere": 32,
+      "fastleger_ellers": 160,
+      "fastleger_i_alt": 192
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2002,
+      "fastleger_innvandrere": 19,
+      "fastleger_ellers": 55,
+      "fastleger_i_alt": 74
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2003,
+      "fastleger_innvandrere": 20,
+      "fastleger_ellers": 59,
+      "fastleger_i_alt": 79
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2004,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 54,
+      "fastleger_i_alt": 76
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2005,
+      "fastleger_innvandrere": 23,
+      "fastleger_ellers": 51,
+      "fastleger_i_alt": 74
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2006,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 55,
+      "fastleger_i_alt": 77
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2007,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 53,
+      "fastleger_i_alt": 77
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2008,
+      "fastleger_innvandrere": 23,
+      "fastleger_ellers": 57,
+      "fastleger_i_alt": 80
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2009,
+      "fastleger_innvandrere": 23,
+      "fastleger_ellers": 63,
+      "fastleger_i_alt": 86
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2010,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 60,
+      "fastleger_i_alt": 82
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2011,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 61,
+      "fastleger_i_alt": 85
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2012,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 68,
+      "fastleger_i_alt": 92
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2013,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 65,
+      "fastleger_i_alt": 87
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2014,
+      "fastleger_innvandrere": 26,
+      "fastleger_ellers": 67,
+      "fastleger_i_alt": 93
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2015,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 72,
+      "fastleger_i_alt": 96
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2016,
+      "fastleger_innvandrere": 26,
+      "fastleger_ellers": 69,
+      "fastleger_i_alt": 95
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2017,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 72,
+      "fastleger_i_alt": 102
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2018,
+      "fastleger_innvandrere": 30,
+      "fastleger_ellers": 69,
+      "fastleger_i_alt": 99
+    },
+    {
+      "fylke": "Finnmark - Finnmárku (-2019)",
+      "fylkesnummer": "20",
+      "aar": 2019,
+      "fastleger_innvandrere": 31,
+      "fastleger_ellers": 75,
+      "fastleger_i_alt": 106
+    },
+    {
+      "fylke": "Viken (2020-2023)",
+      "fylkesnummer": "30",
+      "aar": 2020,
+      "fastleger_innvandrere": 280,
+      "fastleger_ellers": 773,
+      "fastleger_i_alt": 1053
+    },
+    {
+      "fylke": "Viken (2020-2023)",
+      "fylkesnummer": "30",
+      "aar": 2021,
+      "fastleger_innvandrere": 280,
+      "fastleger_ellers": 785,
+      "fastleger_i_alt": 1065
+    },
+    {
+      "fylke": "Viken (2020-2023)",
+      "fylkesnummer": "30",
+      "aar": 2022,
+      "fastleger_innvandrere": 289,
+      "fastleger_ellers": 810,
+      "fastleger_i_alt": 1099
+    },
+    {
+      "fylke": "Viken (2020-2023)",
+      "fylkesnummer": "30",
+      "aar": 2023,
+      "fastleger_innvandrere": 312,
+      "fastleger_ellers": 849,
+      "fastleger_i_alt": 1161
+    },
+    {
+      "fylke": "Østfold",
+      "fylkesnummer": "31",
+      "aar": 2024,
+      "fastleger_innvandrere": 93,
+      "fastleger_ellers": 206,
+      "fastleger_i_alt": 299
+    },
+    {
+      "fylke": "Østfold",
+      "fylkesnummer": "31",
+      "aar": 2025,
+      "fastleger_innvandrere": 98,
+      "fastleger_ellers": 211,
+      "fastleger_i_alt": 309
+    },
+    {
+      "fylke": "Akershus",
+      "fylkesnummer": "32",
+      "aar": 2024,
+      "fastleger_innvandrere": 156,
+      "fastleger_ellers": 491,
+      "fastleger_i_alt": 647
+    },
+    {
+      "fylke": "Akershus",
+      "fylkesnummer": "32",
+      "aar": 2025,
+      "fastleger_innvandrere": 156,
+      "fastleger_ellers": 509,
+      "fastleger_i_alt": 665
+    },
+    {
+      "fylke": "Buskerud",
+      "fylkesnummer": "33",
+      "aar": 2024,
+      "fastleger_innvandrere": 75,
+      "fastleger_ellers": 191,
+      "fastleger_i_alt": 266
+    },
+    {
+      "fylke": "Buskerud",
+      "fylkesnummer": "33",
+      "aar": 2025,
+      "fastleger_innvandrere": 74,
+      "fastleger_ellers": 203,
+      "fastleger_i_alt": 277
+    },
+    {
+      "fylke": "Innlandet",
+      "fylkesnummer": "34",
+      "aar": 2020,
+      "fastleger_innvandrere": 116,
+      "fastleger_ellers": 237,
+      "fastleger_i_alt": 353
+    },
+    {
+      "fylke": "Innlandet",
+      "fylkesnummer": "34",
+      "aar": 2021,
+      "fastleger_innvandrere": 113,
+      "fastleger_ellers": 250,
+      "fastleger_i_alt": 363
+    },
+    {
+      "fylke": "Innlandet",
+      "fylkesnummer": "34",
+      "aar": 2022,
+      "fastleger_innvandrere": 117,
+      "fastleger_ellers": 261,
+      "fastleger_i_alt": 378
+    },
+    {
+      "fylke": "Innlandet",
+      "fylkesnummer": "34",
+      "aar": 2023,
+      "fastleger_innvandrere": 117,
+      "fastleger_ellers": 269,
+      "fastleger_i_alt": 386
+    },
+    {
+      "fylke": "Innlandet",
+      "fylkesnummer": "34",
+      "aar": 2024,
+      "fastleger_innvandrere": 120,
+      "fastleger_ellers": 291,
+      "fastleger_i_alt": 411
+    },
+    {
+      "fylke": "Innlandet",
+      "fylkesnummer": "34",
+      "aar": 2025,
+      "fastleger_innvandrere": 119,
+      "fastleger_ellers": 306,
+      "fastleger_i_alt": 425
+    },
+    {
+      "fylke": "Vestfold og Telemark (2020-2023)",
+      "fylkesnummer": "38",
+      "aar": 2020,
+      "fastleger_innvandrere": 80,
+      "fastleger_ellers": 305,
+      "fastleger_i_alt": 385
+    },
+    {
+      "fylke": "Vestfold og Telemark (2020-2023)",
+      "fylkesnummer": "38",
+      "aar": 2021,
+      "fastleger_innvandrere": 82,
+      "fastleger_ellers": 305,
+      "fastleger_i_alt": 387
+    },
+    {
+      "fylke": "Vestfold og Telemark (2020-2023)",
+      "fylkesnummer": "38",
+      "aar": 2022,
+      "fastleger_innvandrere": 75,
+      "fastleger_ellers": 302,
+      "fastleger_i_alt": 377
+    },
+    {
+      "fylke": "Vestfold og Telemark (2020-2023)",
+      "fylkesnummer": "38",
+      "aar": 2023,
+      "fastleger_innvandrere": 82,
+      "fastleger_ellers": 333,
+      "fastleger_i_alt": 415
+    },
+    {
+      "fylke": "Vestfold",
+      "fylkesnummer": "39",
+      "aar": 2024,
+      "fastleger_innvandrere": 43,
+      "fastleger_ellers": 215,
+      "fastleger_i_alt": 258
+    },
+    {
+      "fylke": "Vestfold",
+      "fylkesnummer": "39",
+      "aar": 2025,
+      "fastleger_innvandrere": 43,
+      "fastleger_ellers": 227,
+      "fastleger_i_alt": 270
+    },
+    {
+      "fylke": "Telemark",
+      "fylkesnummer": "40",
+      "aar": 2024,
+      "fastleger_innvandrere": 56,
+      "fastleger_ellers": 132,
+      "fastleger_i_alt": 188
+    },
+    {
+      "fylke": "Telemark",
+      "fylkesnummer": "40",
+      "aar": 2025,
+      "fastleger_innvandrere": 65,
+      "fastleger_ellers": 134,
+      "fastleger_i_alt": 199
+    },
+    {
+      "fylke": "Agder",
+      "fylkesnummer": "42",
+      "aar": 2020,
+      "fastleger_innvandrere": 36,
+      "fastleger_ellers": 258,
+      "fastleger_i_alt": 294
+    },
+    {
+      "fylke": "Agder",
+      "fylkesnummer": "42",
+      "aar": 2021,
+      "fastleger_innvandrere": 42,
+      "fastleger_ellers": 253,
+      "fastleger_i_alt": 295
+    },
+    {
+      "fylke": "Agder",
+      "fylkesnummer": "42",
+      "aar": 2022,
+      "fastleger_innvandrere": 46,
+      "fastleger_ellers": 266,
+      "fastleger_i_alt": 312
+    },
+    {
+      "fylke": "Agder",
+      "fylkesnummer": "42",
+      "aar": 2023,
+      "fastleger_innvandrere": 46,
+      "fastleger_ellers": 279,
+      "fastleger_i_alt": 325
+    },
+    {
+      "fylke": "Agder",
+      "fylkesnummer": "42",
+      "aar": 2024,
+      "fastleger_innvandrere": 46,
+      "fastleger_ellers": 288,
+      "fastleger_i_alt": 334
+    },
+    {
+      "fylke": "Agder",
+      "fylkesnummer": "42",
+      "aar": 2025,
+      "fastleger_innvandrere": 49,
+      "fastleger_ellers": 300,
+      "fastleger_i_alt": 349
+    },
+    {
+      "fylke": "Vestland",
+      "fylkesnummer": "46",
+      "aar": 2020,
+      "fastleger_innvandrere": 125,
+      "fastleger_ellers": 493,
+      "fastleger_i_alt": 618
+    },
+    {
+      "fylke": "Vestland",
+      "fylkesnummer": "46",
+      "aar": 2021,
+      "fastleger_innvandrere": 121,
+      "fastleger_ellers": 501,
+      "fastleger_i_alt": 622
+    },
+    {
+      "fylke": "Vestland",
+      "fylkesnummer": "46",
+      "aar": 2022,
+      "fastleger_innvandrere": 118,
+      "fastleger_ellers": 518,
+      "fastleger_i_alt": 636
+    },
+    {
+      "fylke": "Vestland",
+      "fylkesnummer": "46",
+      "aar": 2023,
+      "fastleger_innvandrere": 125,
+      "fastleger_ellers": 523,
+      "fastleger_i_alt": 648
+    },
+    {
+      "fylke": "Vestland",
+      "fylkesnummer": "46",
+      "aar": 2024,
+      "fastleger_innvandrere": 126,
+      "fastleger_ellers": 540,
+      "fastleger_i_alt": 666
+    },
+    {
+      "fylke": "Vestland",
+      "fylkesnummer": "46",
+      "aar": 2025,
+      "fastleger_innvandrere": 138,
+      "fastleger_ellers": 554,
+      "fastleger_i_alt": 692
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2017,
+      "fastleger_innvandrere": 59,
+      "fastleger_ellers": 361,
+      "fastleger_i_alt": 420
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2018,
+      "fastleger_innvandrere": 56,
+      "fastleger_ellers": 367,
+      "fastleger_i_alt": 423
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2019,
+      "fastleger_innvandrere": 64,
+      "fastleger_ellers": 372,
+      "fastleger_i_alt": 436
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2020,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 382,
+      "fastleger_i_alt": 443
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2021,
+      "fastleger_innvandrere": 61,
+      "fastleger_ellers": 389,
+      "fastleger_i_alt": 450
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2022,
+      "fastleger_innvandrere": 65,
+      "fastleger_ellers": 396,
+      "fastleger_i_alt": 461
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2023,
+      "fastleger_innvandrere": 70,
+      "fastleger_ellers": 393,
+      "fastleger_i_alt": 463
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2024,
+      "fastleger_innvandrere": 73,
+      "fastleger_ellers": 418,
+      "fastleger_i_alt": 491
+    },
+    {
+      "fylke": "Trøndelag - Trööndelage",
+      "fylkesnummer": "50",
+      "aar": 2025,
+      "fastleger_innvandrere": 74,
+      "fastleger_ellers": 430,
+      "fastleger_i_alt": 504
+    },
+    {
+      "fylke": "Troms og Finnmark - Romsa ja Finnmárku (2020-2023)",
+      "fylkesnummer": "54",
+      "aar": 2020,
+      "fastleger_innvandrere": 56,
+      "fastleger_ellers": 238,
+      "fastleger_i_alt": 294
+    },
+    {
+      "fylke": "Troms og Finnmark - Romsa ja Finnmárku (2020-2023)",
+      "fylkesnummer": "54",
+      "aar": 2021,
+      "fastleger_innvandrere": 51,
+      "fastleger_ellers": 249,
+      "fastleger_i_alt": 300
+    },
+    {
+      "fylke": "Troms og Finnmark - Romsa ja Finnmárku (2020-2023)",
+      "fylkesnummer": "54",
+      "aar": 2022,
+      "fastleger_innvandrere": 47,
+      "fastleger_ellers": 247,
+      "fastleger_i_alt": 294
+    },
+    {
+      "fylke": "Troms og Finnmark - Romsa ja Finnmárku (2020-2023)",
+      "fylkesnummer": "54",
+      "aar": 2023,
+      "fastleger_innvandrere": 44,
+      "fastleger_ellers": 266,
+      "fastleger_i_alt": 310
+    },
+    {
+      "fylke": "Troms - Romsa - Tromssa",
+      "fylkesnummer": "55",
+      "aar": 2024,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 200,
+      "fastleger_i_alt": 222
+    },
+    {
+      "fylke": "Troms - Romsa - Tromssa",
+      "fylkesnummer": "55",
+      "aar": 2025,
+      "fastleger_innvandrere": 24,
+      "fastleger_ellers": 205,
+      "fastleger_i_alt": 229
+    },
+    {
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fylkesnummer": "56",
+      "aar": 2024,
+      "fastleger_innvandrere": 22,
+      "fastleger_ellers": 86,
+      "fastleger_i_alt": 108
+    },
+    {
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fylkesnummer": "56",
+      "aar": 2025,
+      "fastleger_innvandrere": 23,
+      "fastleger_ellers": 91,
+      "fastleger_i_alt": 114
+    }
+  ],
+  "meta": {
+    "title": "Fastleger i Norge etter fylke (2002–2025) - Free Download",
+    "description": "Antall fastleger per fylke og år, fordelt på fastleger som er innvandrere og øvrige fastleger, fra SSBs statistikkbank. Contains 437 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fastleger i Norge etter fylke (2002–2025) | ListBase",
+    "seo_description": "Download Fastleger i Norge etter fylke (2002–2025) — 437 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 437 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/07457"
+    ]
+  }
+}

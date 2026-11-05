@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-04T02:23:53.529Z",
-  "total_datasets": 468,
-  "total_records": 1199231,
+  "generated": "2026-11-05T02:19:42.549Z",
+  "total_datasets": 469,
+  "total_records": 1199668,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -4615,6 +4615,33 @@
         "xlsx": {
           "name": "no-apotek_NO.xlsx",
           "size": 38968
+        }
+      }
+    },
+    {
+      "id": "no-fastleger-fylke",
+      "name": "Fastleger i Norge etter fylke (2002–2025)",
+      "category": "health",
+      "record_count": 437,
+      "columns": [
+        "fylke",
+        "fylkesnummer",
+        "aar",
+        "fastleger_innvandrere",
+        "fastleger_ellers",
+        "fastleger_i_alt"
+      ],
+      "source": "https://www.ssb.no/statbank/table/07457",
+      "updated": "2026-11",
+      "size": 85450,
+      "files": {
+        "csv": {
+          "name": "no-fastleger-fylke_NO.csv",
+          "size": 21691
+        },
+        "xlsx": {
+          "name": "no-fastleger-fylke_NO.xlsx",
+          "size": 19314
         }
       }
     },
