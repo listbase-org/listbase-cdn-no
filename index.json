@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-05T02:20:00.653Z",
-  "total_datasets": 471,
-  "total_records": 1200208,
+  "generated": "2026-11-05T02:20:29.850Z",
+  "total_datasets": 472,
+  "total_records": 1201428,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -4895,6 +4895,30 @@
         "xlsx": {
           "name": "no-latinske-uttrykk_NO.xlsx",
           "size": 9455
+        }
+      }
+    },
+    {
+      "id": "no-ordsprak-og-idiomer",
+      "name": "Norske ordspråk og idiomer",
+      "category": "language",
+      "record_count": 1220,
+      "columns": [
+        "uttrykk",
+        "betydning",
+        "bokstav"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_ordspråk_og_idiomer",
+      "updated": "2026-11",
+      "size": 219628,
+      "files": {
+        "csv": {
+          "name": "no-ordsprak-og-idiomer_NO.csv",
+          "size": 135271
+        },
+        "xlsx": {
+          "name": "no-ordsprak-og-idiomer_NO.xlsx",
+          "size": 75046
         }
       }
     },
