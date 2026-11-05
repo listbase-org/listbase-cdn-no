@@ -1,0 +1,4570 @@
+{
+  "id": "no-tidsbruk-aktiviteter-gjennomsnittsdag",
+  "name": "Tidsbruk i Norge: tid brukt til ulike aktiviteter en gjennomsnittsdag (1970–2022)",
+  "title": "Tidsbruk i Norge: tid brukt til ulike aktiviteter en gjennomsnittsdag (1970–2022)",
+  "description": "Gjennomsnittlig tid brukt til arbeid, husholdsarbeid, personlige behov, utdanning, fritid og andre aktiviteter en gjennomsnittsdag for personer 16–74 år, etter kjønn, fra SSBs tidsbruksundersøkelser 1970–2022.",
+  "category": "time",
+  "source": "https://www.ssb.no/statbank/table/14320",
+  "source_url": "https://www.ssb.no/statbank/table/14320",
+  "updated": "2026-11",
+  "record_count": 501,
+  "columns": [
+    {
+      "key": "aar",
+      "label": "Aar",
+      "type": "number"
+    },
+    {
+      "key": "aktivitetskode",
+      "label": "Aktivitetskode",
+      "type": "number"
+    },
+    {
+      "key": "aktivitet",
+      "label": "Aktivitet",
+      "type": "string"
+    },
+    {
+      "key": "kjonn",
+      "label": "Kjonn",
+      "type": "string"
+    },
+    {
+      "key": "tid_brukt_timer_min",
+      "label": "Tid Brukt Timer Min",
+      "type": "string"
+    },
+    {
+      "key": "tid_brukt_minutter",
+      "label": "Tid Brukt Minutter",
+      "type": "number"
+    },
+    {
+      "key": "andel_som_utforte_prosent",
+      "label": "Andel Som Utforte Prosent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aar": 1970,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:38",
+      "tid_brukt_minutter": 218,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:20",
+      "tid_brukt_minutter": 200,
+      "andel_som_utforte_prosent": 47
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:18",
+      "tid_brukt_minutter": 18,
+      "andel_som_utforte_prosent": 34
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "4:09",
+      "tid_brukt_minutter": 249,
+      "andel_som_utforte_prosent": 89
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "2:30",
+      "tid_brukt_minutter": 150,
+      "andel_som_utforte_prosent": 73
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 27
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:30",
+      "tid_brukt_minutter": 30,
+      "andel_som_utforte_prosent": 30
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:19",
+      "tid_brukt_minutter": 19,
+      "andel_som_utforte_prosent": 38
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:09",
+      "tid_brukt_minutter": 9,
+      "andel_som_utforte_prosent": 24
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:13",
+      "tid_brukt_minutter": 13,
+      "andel_som_utforte_prosent": 30
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:20",
+      "tid_brukt_minutter": 20,
+      "andel_som_utforte_prosent": 6
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:20",
+      "tid_brukt_minutter": 20,
+      "andel_som_utforte_prosent": 6
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "10:28",
+      "tid_brukt_minutter": 628,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "7:49",
+      "tid_brukt_minutter": 469,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:18",
+      "tid_brukt_minutter": 78,
+      "andel_som_utforte_prosent": 96
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:21",
+      "tid_brukt_minutter": 81,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "5:10",
+      "tid_brukt_minutter": 310,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 26
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:07",
+      "tid_brukt_minutter": 7,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:43",
+      "tid_brukt_minutter": 103,
+      "andel_som_utforte_prosent": 70
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:41",
+      "tid_brukt_minutter": 41,
+      "andel_som_utforte_prosent": 70
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:01",
+      "tid_brukt_minutter": 61,
+      "andel_som_utforte_prosent": 60
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:46",
+      "tid_brukt_minutter": 46,
+      "andel_som_utforte_prosent": 54
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:23",
+      "tid_brukt_minutter": 23,
+      "andel_som_utforte_prosent": 37
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 8
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 8
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:56",
+      "tid_brukt_minutter": 116,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:47",
+      "tid_brukt_minutter": 107,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 21
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "5:55",
+      "tid_brukt_minutter": 355,
+      "andel_som_utforte_prosent": 97
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "4:14",
+      "tid_brukt_minutter": 254,
+      "andel_som_utforte_prosent": 95
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:13",
+      "tid_brukt_minutter": 13,
+      "andel_som_utforte_prosent": 22
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:42",
+      "tid_brukt_minutter": 42,
+      "andel_som_utforte_prosent": 39
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:23",
+      "tid_brukt_minutter": 23,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:09",
+      "tid_brukt_minutter": 9,
+      "andel_som_utforte_prosent": 25
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:14",
+      "tid_brukt_minutter": 14,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:17",
+      "tid_brukt_minutter": 17,
+      "andel_som_utforte_prosent": 6
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:17",
+      "tid_brukt_minutter": 17,
+      "andel_som_utforte_prosent": 6
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "10:36",
+      "tid_brukt_minutter": 636,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "7:55",
+      "tid_brukt_minutter": 475,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:20",
+      "tid_brukt_minutter": 80,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:21",
+      "tid_brukt_minutter": 81,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "4:59",
+      "tid_brukt_minutter": 299,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 24
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 5
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:54",
+      "tid_brukt_minutter": 114,
+      "andel_som_utforte_prosent": 75
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:36",
+      "tid_brukt_minutter": 36,
+      "andel_som_utforte_prosent": 68
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:53",
+      "tid_brukt_minutter": 53,
+      "andel_som_utforte_prosent": 58
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:45",
+      "tid_brukt_minutter": 45,
+      "andel_som_utforte_prosent": 55
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:21",
+      "tid_brukt_minutter": 21,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "5:29",
+      "tid_brukt_minutter": 329,
+      "andel_som_utforte_prosent": 64
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "5:02",
+      "tid_brukt_minutter": 302,
+      "andel_som_utforte_prosent": 64
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "2:13",
+      "tid_brukt_minutter": 133,
+      "andel_som_utforte_prosent": 79
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:38",
+      "tid_brukt_minutter": 38,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:41",
+      "tid_brukt_minutter": 41,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:17",
+      "tid_brukt_minutter": 17,
+      "andel_som_utforte_prosent": 21
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 30
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 23
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 24
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:23",
+      "tid_brukt_minutter": 23,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:23",
+      "tid_brukt_minutter": 23,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "10:19",
+      "tid_brukt_minutter": 619,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "7:43",
+      "tid_brukt_minutter": 463,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:16",
+      "tid_brukt_minutter": 76,
+      "andel_som_utforte_prosent": 95
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:20",
+      "tid_brukt_minutter": 80,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "5:21",
+      "tid_brukt_minutter": 321,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:32",
+      "tid_brukt_minutter": 32,
+      "andel_som_utforte_prosent": 29
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:09",
+      "tid_brukt_minutter": 9,
+      "andel_som_utforte_prosent": 8
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:31",
+      "tid_brukt_minutter": 91,
+      "andel_som_utforte_prosent": 63
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:47",
+      "tid_brukt_minutter": 47,
+      "andel_som_utforte_prosent": 71
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:10",
+      "tid_brukt_minutter": 70,
+      "andel_som_utforte_prosent": 62
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:47",
+      "tid_brukt_minutter": 47,
+      "andel_som_utforte_prosent": 52
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 38
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 1970,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:29",
+      "tid_brukt_minutter": 209,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:11",
+      "tid_brukt_minutter": 191,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:18",
+      "tid_brukt_minutter": 18,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:39",
+      "tid_brukt_minutter": 219,
+      "andel_som_utforte_prosent": 91
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:57",
+      "tid_brukt_minutter": 117,
+      "andel_som_utforte_prosent": 79
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 26
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:37",
+      "tid_brukt_minutter": 37,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 41
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:08",
+      "tid_brukt_minutter": 8,
+      "andel_som_utforte_prosent": 17
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 25
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "10:15",
+      "tid_brukt_minutter": 615,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "7:57",
+      "tid_brukt_minutter": 477,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:02",
+      "tid_brukt_minutter": 62,
+      "andel_som_utforte_prosent": 97
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:16",
+      "tid_brukt_minutter": 76,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "6:02",
+      "tid_brukt_minutter": 362,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:30",
+      "tid_brukt_minutter": 30,
+      "andel_som_utforte_prosent": 29
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:59",
+      "tid_brukt_minutter": 119,
+      "andel_som_utforte_prosent": 80
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:45",
+      "tid_brukt_minutter": 45,
+      "andel_som_utforte_prosent": 70
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:16",
+      "tid_brukt_minutter": 76,
+      "andel_som_utforte_prosent": 71
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:56",
+      "tid_brukt_minutter": 56,
+      "andel_som_utforte_prosent": 59
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 11
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 11
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:23",
+      "tid_brukt_minutter": 143,
+      "andel_som_utforte_prosent": 37
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:10",
+      "tid_brukt_minutter": 130,
+      "andel_som_utforte_prosent": 37
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:13",
+      "tid_brukt_minutter": 13,
+      "andel_som_utforte_prosent": 29
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "4:46",
+      "tid_brukt_minutter": 286,
+      "andel_som_utforte_prosent": 97
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "3:01",
+      "tid_brukt_minutter": 181,
+      "andel_som_utforte_prosent": 94
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 22
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:47",
+      "tid_brukt_minutter": 47,
+      "andel_som_utforte_prosent": 42
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:07",
+      "tid_brukt_minutter": 7,
+      "andel_som_utforte_prosent": 17
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 28
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "10:19",
+      "tid_brukt_minutter": 619,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "8:01",
+      "tid_brukt_minutter": 481,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:02",
+      "tid_brukt_minutter": 62,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:16",
+      "tid_brukt_minutter": 76,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "5:56",
+      "tid_brukt_minutter": 356,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 27
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:07",
+      "tid_brukt_minutter": 7,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:08",
+      "tid_brukt_minutter": 128,
+      "andel_som_utforte_prosent": 84
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:43",
+      "tid_brukt_minutter": 43,
+      "andel_som_utforte_prosent": 72
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:09",
+      "tid_brukt_minutter": 69,
+      "andel_som_utforte_prosent": 71
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:00",
+      "tid_brukt_minutter": 60,
+      "andel_som_utforte_prosent": 64
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:24",
+      "tid_brukt_minutter": 24,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:04",
+      "tid_brukt_minutter": 4,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:04",
+      "tid_brukt_minutter": 4,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "4:40",
+      "tid_brukt_minutter": 280,
+      "andel_som_utforte_prosent": 55
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "4:17",
+      "tid_brukt_minutter": 257,
+      "andel_som_utforte_prosent": 55
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:23",
+      "tid_brukt_minutter": 23,
+      "andel_som_utforte_prosent": 44
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "2:26",
+      "tid_brukt_minutter": 146,
+      "andel_som_utforte_prosent": 85
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:47",
+      "tid_brukt_minutter": 47,
+      "andel_som_utforte_prosent": 61
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:37",
+      "tid_brukt_minutter": 37,
+      "andel_som_utforte_prosent": 31
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 29
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:18",
+      "tid_brukt_minutter": 18,
+      "andel_som_utforte_prosent": 33
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 17
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:09",
+      "tid_brukt_minutter": 9,
+      "andel_som_utforte_prosent": 21
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:30",
+      "tid_brukt_minutter": 30,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:30",
+      "tid_brukt_minutter": 30,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "10:11",
+      "tid_brukt_minutter": 611,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "7:53",
+      "tid_brukt_minutter": 473,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:01",
+      "tid_brukt_minutter": 61,
+      "andel_som_utforte_prosent": 96
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:17",
+      "tid_brukt_minutter": 77,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "6:08",
+      "tid_brukt_minutter": 368,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:35",
+      "tid_brukt_minutter": 35,
+      "andel_som_utforte_prosent": 31
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:12",
+      "tid_brukt_minutter": 12,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:49",
+      "tid_brukt_minutter": 109,
+      "andel_som_utforte_prosent": 75
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:48",
+      "tid_brukt_minutter": 48,
+      "andel_som_utforte_prosent": 68
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:24",
+      "tid_brukt_minutter": 84,
+      "andel_som_utforte_prosent": 72
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:52",
+      "tid_brukt_minutter": 52,
+      "andel_som_utforte_prosent": 53
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 11
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 11
+    },
+    {
+      "aar": 1980,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:37",
+      "tid_brukt_minutter": 217,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:17",
+      "tid_brukt_minutter": 197,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:20",
+      "tid_brukt_minutter": 20,
+      "andel_som_utforte_prosent": 39
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:31",
+      "tid_brukt_minutter": 211,
+      "andel_som_utforte_prosent": 93
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:34",
+      "tid_brukt_minutter": 94,
+      "andel_som_utforte_prosent": 79
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 29
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:45",
+      "tid_brukt_minutter": 45,
+      "andel_som_utforte_prosent": 41
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 24
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:13",
+      "tid_brukt_minutter": 13,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "10:04",
+      "tid_brukt_minutter": 604,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "7:51",
+      "tid_brukt_minutter": 471,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:00",
+      "tid_brukt_minutter": 60,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:13",
+      "tid_brukt_minutter": 73,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "6:11",
+      "tid_brukt_minutter": 371,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 30
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:13",
+      "tid_brukt_minutter": 13,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "2:00",
+      "tid_brukt_minutter": 120,
+      "andel_som_utforte_prosent": 82
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:39",
+      "tid_brukt_minutter": 39,
+      "andel_som_utforte_prosent": 63
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:24",
+      "tid_brukt_minutter": 84,
+      "andel_som_utforte_prosent": 73
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:52",
+      "tid_brukt_minutter": 52,
+      "andel_som_utforte_prosent": 53
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:32",
+      "tid_brukt_minutter": 32,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:48",
+      "tid_brukt_minutter": 168,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:32",
+      "tid_brukt_minutter": 152,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:16",
+      "tid_brukt_minutter": 16,
+      "andel_som_utforte_prosent": 34
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "4:22",
+      "tid_brukt_minutter": 262,
+      "andel_som_utforte_prosent": 97
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:18",
+      "tid_brukt_minutter": 138,
+      "andel_som_utforte_prosent": 92
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:16",
+      "tid_brukt_minutter": 16,
+      "andel_som_utforte_prosent": 26
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:59",
+      "tid_brukt_minutter": 59,
+      "andel_som_utforte_prosent": 47
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 52
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:09",
+      "tid_brukt_minutter": 9,
+      "andel_som_utforte_prosent": 23
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:14",
+      "tid_brukt_minutter": 14,
+      "andel_som_utforte_prosent": 39
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:33",
+      "tid_brukt_minutter": 33,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:33",
+      "tid_brukt_minutter": 33,
+      "andel_som_utforte_prosent": 10
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "10:10",
+      "tid_brukt_minutter": 610,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "7:56",
+      "tid_brukt_minutter": 476,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:02",
+      "tid_brukt_minutter": 62,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:12",
+      "tid_brukt_minutter": 72,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "6:01",
+      "tid_brukt_minutter": 361,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 27
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 12
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:09",
+      "tid_brukt_minutter": 129,
+      "andel_som_utforte_prosent": 88
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:38",
+      "tid_brukt_minutter": 38,
+      "andel_som_utforte_prosent": 66
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:14",
+      "tid_brukt_minutter": 74,
+      "andel_som_utforte_prosent": 71
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:52",
+      "tid_brukt_minutter": 52,
+      "andel_som_utforte_prosent": 55
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "4:30",
+      "tid_brukt_minutter": 270,
+      "andel_som_utforte_prosent": 54
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "4:06",
+      "tid_brukt_minutter": 246,
+      "andel_som_utforte_prosent": 53
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:24",
+      "tid_brukt_minutter": 24,
+      "andel_som_utforte_prosent": 44
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "2:36",
+      "tid_brukt_minutter": 156,
+      "andel_som_utforte_prosent": 88
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:46",
+      "tid_brukt_minutter": 46,
+      "andel_som_utforte_prosent": 65
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:36",
+      "tid_brukt_minutter": 36,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:30",
+      "tid_brukt_minutter": 30,
+      "andel_som_utforte_prosent": 33
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:19",
+      "tid_brukt_minutter": 19,
+      "andel_som_utforte_prosent": 41
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:13",
+      "tid_brukt_minutter": 13,
+      "andel_som_utforte_prosent": 25
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:13",
+      "tid_brukt_minutter": 13,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:29",
+      "tid_brukt_minutter": 29,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:29",
+      "tid_brukt_minutter": 29,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "9:58",
+      "tid_brukt_minutter": 598,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "7:45",
+      "tid_brukt_minutter": 465,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:58",
+      "tid_brukt_minutter": 58,
+      "andel_som_utforte_prosent": 96
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:15",
+      "tid_brukt_minutter": 75,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "6:21",
+      "tid_brukt_minutter": 381,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:37",
+      "tid_brukt_minutter": 37,
+      "andel_som_utforte_prosent": 33
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:49",
+      "tid_brukt_minutter": 109,
+      "andel_som_utforte_prosent": 75
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:40",
+      "tid_brukt_minutter": 40,
+      "andel_som_utforte_prosent": 60
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:36",
+      "tid_brukt_minutter": 96,
+      "andel_som_utforte_prosent": 75
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:52",
+      "tid_brukt_minutter": 52,
+      "andel_som_utforte_prosent": 51
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:33",
+      "tid_brukt_minutter": 33,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 1990,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:47",
+      "tid_brukt_minutter": 227,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:25",
+      "tid_brukt_minutter": 205,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:18",
+      "tid_brukt_minutter": 198,
+      "andel_som_utforte_prosent": 95
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:25",
+      "tid_brukt_minutter": 85,
+      "andel_som_utforte_prosent": 85
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 29
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:33",
+      "tid_brukt_minutter": 33,
+      "andel_som_utforte_prosent": 35
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:24",
+      "tid_brukt_minutter": 24,
+      "andel_som_utforte_prosent": 53
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:12",
+      "tid_brukt_minutter": 12,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:19",
+      "tid_brukt_minutter": 19,
+      "andel_som_utforte_prosent": 43
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "9:58",
+      "tid_brukt_minutter": 598,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "7:57",
+      "tid_brukt_minutter": 477,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:59",
+      "tid_brukt_minutter": 59,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:03",
+      "tid_brukt_minutter": 63,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "6:24",
+      "tid_brukt_minutter": 384,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 31
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:14",
+      "tid_brukt_minutter": 14,
+      "andel_som_utforte_prosent": 12
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:45",
+      "tid_brukt_minutter": 105,
+      "andel_som_utforte_prosent": 82
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:35",
+      "tid_brukt_minutter": 35,
+      "andel_som_utforte_prosent": 60
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:48",
+      "tid_brukt_minutter": 108,
+      "andel_som_utforte_prosent": 82
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:57",
+      "tid_brukt_minutter": 57,
+      "andel_som_utforte_prosent": 58
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:34",
+      "tid_brukt_minutter": 34,
+      "andel_som_utforte_prosent": 47
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:08",
+      "tid_brukt_minutter": 8,
+      "andel_som_utforte_prosent": 18
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:08",
+      "tid_brukt_minutter": 8,
+      "andel_som_utforte_prosent": 18
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:59",
+      "tid_brukt_minutter": 179,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:41",
+      "tid_brukt_minutter": 161,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:18",
+      "tid_brukt_minutter": 18,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "3:56",
+      "tid_brukt_minutter": 236,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:59",
+      "tid_brukt_minutter": 119,
+      "andel_som_utforte_prosent": 94
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:17",
+      "tid_brukt_minutter": 17,
+      "andel_som_utforte_prosent": 26
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:42",
+      "tid_brukt_minutter": 42,
+      "andel_som_utforte_prosent": 40
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 57
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:13",
+      "tid_brukt_minutter": 13,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:19",
+      "tid_brukt_minutter": 19,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "10:11",
+      "tid_brukt_minutter": 611,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "8:04",
+      "tid_brukt_minutter": 484,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:04",
+      "tid_brukt_minutter": 64,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:04",
+      "tid_brukt_minutter": 64,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "6:20",
+      "tid_brukt_minutter": 380,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 31
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:14",
+      "tid_brukt_minutter": 14,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:57",
+      "tid_brukt_minutter": 117,
+      "andel_som_utforte_prosent": 89
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:39",
+      "tid_brukt_minutter": 39,
+      "andel_som_utforte_prosent": 66
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:35",
+      "tid_brukt_minutter": 95,
+      "andel_som_utforte_prosent": 81
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:55",
+      "tid_brukt_minutter": 55,
+      "andel_som_utforte_prosent": 60
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:32",
+      "tid_brukt_minutter": 32,
+      "andel_som_utforte_prosent": 46
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:07",
+      "tid_brukt_minutter": 7,
+      "andel_som_utforte_prosent": 18
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:07",
+      "tid_brukt_minutter": 7,
+      "andel_som_utforte_prosent": 18
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "4:34",
+      "tid_brukt_minutter": 274,
+      "andel_som_utforte_prosent": 53
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "4:09",
+      "tid_brukt_minutter": 249,
+      "andel_som_utforte_prosent": 53
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 44
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "2:41",
+      "tid_brukt_minutter": 161,
+      "andel_som_utforte_prosent": 92
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:51",
+      "tid_brukt_minutter": 51,
+      "andel_som_utforte_prosent": 77
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:36",
+      "tid_brukt_minutter": 36,
+      "andel_som_utforte_prosent": 33
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:24",
+      "tid_brukt_minutter": 24,
+      "andel_som_utforte_prosent": 30
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:21",
+      "tid_brukt_minutter": 21,
+      "andel_som_utforte_prosent": 49
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 28
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:19",
+      "tid_brukt_minutter": 19,
+      "andel_som_utforte_prosent": 41
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 6
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 6
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "9:46",
+      "tid_brukt_minutter": 586,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "7:50",
+      "tid_brukt_minutter": 470,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:54",
+      "tid_brukt_minutter": 54,
+      "andel_som_utforte_prosent": 97
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:03",
+      "tid_brukt_minutter": 63,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "6:28",
+      "tid_brukt_minutter": 388,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:34",
+      "tid_brukt_minutter": 34,
+      "andel_som_utforte_prosent": 30
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:14",
+      "tid_brukt_minutter": 14,
+      "andel_som_utforte_prosent": 11
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:32",
+      "tid_brukt_minutter": 92,
+      "andel_som_utforte_prosent": 75
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:32",
+      "tid_brukt_minutter": 32,
+      "andel_som_utforte_prosent": 55
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "2:01",
+      "tid_brukt_minutter": 121,
+      "andel_som_utforte_prosent": 83
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:00",
+      "tid_brukt_minutter": 60,
+      "andel_som_utforte_prosent": 56
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:35",
+      "tid_brukt_minutter": 35,
+      "andel_som_utforte_prosent": 47
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:08",
+      "tid_brukt_minutter": 8,
+      "andel_som_utforte_prosent": 18
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:08",
+      "tid_brukt_minutter": 8,
+      "andel_som_utforte_prosent": 18
+    },
+    {
+      "aar": 2000,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:36",
+      "tid_brukt_minutter": 216,
+      "andel_som_utforte_prosent": 44
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:13",
+      "tid_brukt_minutter": 193,
+      "andel_som_utforte_prosent": 43
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:23",
+      "tid_brukt_minutter": 23,
+      "andel_som_utforte_prosent": 39
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:25",
+      "tid_brukt_minutter": 205,
+      "andel_som_utforte_prosent": 94
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:24",
+      "tid_brukt_minutter": 84,
+      "andel_som_utforte_prosent": 85
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:29",
+      "tid_brukt_minutter": 29,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:37",
+      "tid_brukt_minutter": 37,
+      "andel_som_utforte_prosent": 33
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 52
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:08",
+      "tid_brukt_minutter": 8,
+      "andel_som_utforte_prosent": 26
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 45
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 8
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 8
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "10:12",
+      "tid_brukt_minutter": 612,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "7:55",
+      "tid_brukt_minutter": 475,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:05",
+      "tid_brukt_minutter": 65,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:11",
+      "tid_brukt_minutter": 71,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "6:15",
+      "tid_brukt_minutter": 375,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 8
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:19",
+      "tid_brukt_minutter": 79,
+      "andel_som_utforte_prosent": 68
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 52
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:51",
+      "tid_brukt_minutter": 111,
+      "andel_som_utforte_prosent": 80
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:19",
+      "tid_brukt_minutter": 79,
+      "andel_som_utforte_prosent": 68
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:33",
+      "tid_brukt_minutter": 33,
+      "andel_som_utforte_prosent": 44
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 15
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 15
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "3:01",
+      "tid_brukt_minutter": 181,
+      "andel_som_utforte_prosent": 39
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:42",
+      "tid_brukt_minutter": 162,
+      "andel_som_utforte_prosent": 38
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:19",
+      "tid_brukt_minutter": 19,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "3:50",
+      "tid_brukt_minutter": 230,
+      "andel_som_utforte_prosent": 97
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:49",
+      "tid_brukt_minutter": 109,
+      "andel_som_utforte_prosent": 91
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:20",
+      "tid_brukt_minutter": 20,
+      "andel_som_utforte_prosent": 30
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:42",
+      "tid_brukt_minutter": 42,
+      "andel_som_utforte_prosent": 36
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:29",
+      "tid_brukt_minutter": 29,
+      "andel_som_utforte_prosent": 56
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:08",
+      "tid_brukt_minutter": 8,
+      "andel_som_utforte_prosent": 29
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 45
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "10:24",
+      "tid_brukt_minutter": 624,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "8:00",
+      "tid_brukt_minutter": 480,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:12",
+      "tid_brukt_minutter": 72,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:12",
+      "tid_brukt_minutter": 72,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "6:11",
+      "tid_brukt_minutter": 371,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:29",
+      "tid_brukt_minutter": 29,
+      "andel_som_utforte_prosent": 33
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:27",
+      "tid_brukt_minutter": 87,
+      "andel_som_utforte_prosent": 75
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:35",
+      "tid_brukt_minutter": 35,
+      "andel_som_utforte_prosent": 58
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:41",
+      "tid_brukt_minutter": 101,
+      "andel_som_utforte_prosent": 79
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:16",
+      "tid_brukt_minutter": 76,
+      "andel_som_utforte_prosent": 70
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:33",
+      "tid_brukt_minutter": 33,
+      "andel_som_utforte_prosent": 45
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 16
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 16
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "4:10",
+      "tid_brukt_minutter": 250,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "3:44",
+      "tid_brukt_minutter": 224,
+      "andel_som_utforte_prosent": 48
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 42
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "3:00",
+      "tid_brukt_minutter": 180,
+      "andel_som_utforte_prosent": 91
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:59",
+      "tid_brukt_minutter": 59,
+      "andel_som_utforte_prosent": 78
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:38",
+      "tid_brukt_minutter": 38,
+      "andel_som_utforte_prosent": 34
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 31
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 47
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:08",
+      "tid_brukt_minutter": 8,
+      "andel_som_utforte_prosent": 24
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 44
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 8
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 8
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "9:59",
+      "tid_brukt_minutter": 599,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "7:51",
+      "tid_brukt_minutter": 471,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:58",
+      "tid_brukt_minutter": 58,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:10",
+      "tid_brukt_minutter": 70,
+      "andel_som_utforte_prosent": 98
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "6:18",
+      "tid_brukt_minutter": 378,
+      "andel_som_utforte_prosent": 99
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:34",
+      "tid_brukt_minutter": 34,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 7
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:11",
+      "tid_brukt_minutter": 71,
+      "andel_som_utforte_prosent": 61
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 47
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "2:01",
+      "tid_brukt_minutter": 121,
+      "andel_som_utforte_prosent": 81
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:22",
+      "tid_brukt_minutter": 82,
+      "andel_som_utforte_prosent": 66
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:32",
+      "tid_brukt_minutter": 32,
+      "andel_som_utforte_prosent": 42
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 14
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 14
+    },
+    {
+      "aar": 2010,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:36",
+      "tid_brukt_minutter": 216,
+      "andel_som_utforte_prosent": 48.4
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:21",
+      "tid_brukt_minutter": 201,
+      "andel_som_utforte_prosent": 46.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 30
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "3:08",
+      "tid_brukt_minutter": 188,
+      "andel_som_utforte_prosent": 85.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:07",
+      "tid_brukt_minutter": 67,
+      "andel_som_utforte_prosent": 65.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 26.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 19.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.04",
+      "aktivitet": "Hjelp til andre husholdninger",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:07",
+      "tid_brukt_minutter": 7,
+      "andel_som_utforte_prosent": 5.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:29",
+      "tid_brukt_minutter": 29,
+      "andel_som_utforte_prosent": 37.9
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 22.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:12",
+      "tid_brukt_minutter": 12,
+      "andel_som_utforte_prosent": 22.9
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:29",
+      "tid_brukt_minutter": 29,
+      "andel_som_utforte_prosent": 11.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:29",
+      "tid_brukt_minutter": 29,
+      "andel_som_utforte_prosent": 11.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "10:25",
+      "tid_brukt_minutter": 625,
+      "andel_som_utforte_prosent": 99.9
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "8:12",
+      "tid_brukt_minutter": 492,
+      "andel_som_utforte_prosent": 99.5
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:56",
+      "tid_brukt_minutter": 56,
+      "andel_som_utforte_prosent": 76.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:18",
+      "tid_brukt_minutter": 78,
+      "andel_som_utforte_prosent": 85
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "6:11",
+      "tid_brukt_minutter": 371,
+      "andel_som_utforte_prosent": 96.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:45",
+      "tid_brukt_minutter": 45,
+      "andel_som_utforte_prosent": 36.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 8.5
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:58",
+      "tid_brukt_minutter": 58,
+      "andel_som_utforte_prosent": 38.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:16",
+      "tid_brukt_minutter": 16,
+      "andel_som_utforte_prosent": 21.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "1:51",
+      "tid_brukt_minutter": 111,
+      "andel_som_utforte_prosent": 63.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.06",
+      "aktivitet": "Dataspill, gaming",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:19",
+      "tid_brukt_minutter": 19,
+      "andel_som_utforte_prosent": 9
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.07",
+      "aktivitet": "Frivillig arbeid, organisasjonsdeltakelse",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:07",
+      "tid_brukt_minutter": 7,
+      "andel_som_utforte_prosent": 4.5
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.08",
+      "aktivitet": "Avslapping",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 24.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 19.9
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:37",
+      "tid_brukt_minutter": 37,
+      "andel_som_utforte_prosent": 41.5
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.11",
+      "aktivitet": "Bruk av sosiale medier",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:15",
+      "tid_brukt_minutter": 15,
+      "andel_som_utforte_prosent": 20
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 12.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 12.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Begge kjønn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": ""
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "3:01",
+      "tid_brukt_minutter": 181,
+      "andel_som_utforte_prosent": 43.4
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "2:47",
+      "tid_brukt_minutter": 167,
+      "andel_som_utforte_prosent": 41
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:14",
+      "tid_brukt_minutter": 14,
+      "andel_som_utforte_prosent": 28.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "3:30",
+      "tid_brukt_minutter": 210,
+      "andel_som_utforte_prosent": 90.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:23",
+      "tid_brukt_minutter": 83,
+      "andel_som_utforte_prosent": 74.5
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:25",
+      "tid_brukt_minutter": 25,
+      "andel_som_utforte_prosent": 26.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 21.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.04",
+      "aktivitet": "Hjelp til andre husholdninger",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:09",
+      "tid_brukt_minutter": 9,
+      "andel_som_utforte_prosent": 6.9
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 42.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:19",
+      "tid_brukt_minutter": 19,
+      "andel_som_utforte_prosent": 27.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:12",
+      "tid_brukt_minutter": 12,
+      "andel_som_utforte_prosent": 25.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 14
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:31",
+      "tid_brukt_minutter": 31,
+      "andel_som_utforte_prosent": 14
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "10:44",
+      "tid_brukt_minutter": 644,
+      "andel_som_utforte_prosent": 100
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "8:20",
+      "tid_brukt_minutter": 500,
+      "andel_som_utforte_prosent": 99.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:05",
+      "tid_brukt_minutter": 65,
+      "andel_som_utforte_prosent": 84.5
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:18",
+      "tid_brukt_minutter": 78,
+      "andel_som_utforte_prosent": 87.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "6:06",
+      "tid_brukt_minutter": 366,
+      "andel_som_utforte_prosent": 97.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:44",
+      "tid_brukt_minutter": 44,
+      "andel_som_utforte_prosent": 38.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:12",
+      "tid_brukt_minutter": 12,
+      "andel_som_utforte_prosent": 9.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:05",
+      "tid_brukt_minutter": 65,
+      "andel_som_utforte_prosent": 44.4
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:18",
+      "tid_brukt_minutter": 18,
+      "andel_som_utforte_prosent": 24.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "1:45",
+      "tid_brukt_minutter": 105,
+      "andel_som_utforte_prosent": 63.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.06",
+      "aktivitet": "Dataspill, gaming",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:04",
+      "tid_brukt_minutter": 4,
+      "andel_som_utforte_prosent": 4.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.07",
+      "aktivitet": "Frivillig arbeid, organisasjonsdeltakelse",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:06",
+      "tid_brukt_minutter": 6,
+      "andel_som_utforte_prosent": 4.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.08",
+      "aktivitet": "Avslapping",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:28",
+      "tid_brukt_minutter": 28,
+      "andel_som_utforte_prosent": 27.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:30",
+      "tid_brukt_minutter": 30,
+      "andel_som_utforte_prosent": 24.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:37",
+      "tid_brukt_minutter": 37,
+      "andel_som_utforte_prosent": 45.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.11",
+      "aktivitet": "Bruk av sosiale medier",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:16",
+      "tid_brukt_minutter": 16,
+      "andel_som_utforte_prosent": 24.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:09",
+      "tid_brukt_minutter": 9,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "0:09",
+      "tid_brukt_minutter": 9,
+      "andel_som_utforte_prosent": 13
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Kvinner",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": ""
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1",
+      "aktivitet": "Inntektsgivende arbeid, arbeidsreiser mv.",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "4:11",
+      "tid_brukt_minutter": 251,
+      "andel_som_utforte_prosent": 53.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1.01",
+      "aktivitet": "Inntektsgivende arbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "3:54",
+      "tid_brukt_minutter": 234,
+      "andel_som_utforte_prosent": 51.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "1.02",
+      "aktivitet": "Arbeidsreiser",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:17",
+      "tid_brukt_minutter": 17,
+      "andel_som_utforte_prosent": 31.2
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2",
+      "aktivitet": "Husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "2:46",
+      "tid_brukt_minutter": 166,
+      "andel_som_utforte_prosent": 79.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.01",
+      "aktivitet": "Husarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:52",
+      "tid_brukt_minutter": 52,
+      "andel_som_utforte_prosent": 57
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.02",
+      "aktivitet": "Vedlikeholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:37",
+      "tid_brukt_minutter": 37,
+      "andel_som_utforte_prosent": 27.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.03",
+      "aktivitet": "Omsorgsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:22",
+      "tid_brukt_minutter": 22,
+      "andel_som_utforte_prosent": 17.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.04",
+      "aktivitet": "Hjelp til andre husholdninger",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:05",
+      "tid_brukt_minutter": 5,
+      "andel_som_utforte_prosent": 4.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.05",
+      "aktivitet": "Kjøp av varer og tjenester",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 33.5
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.06",
+      "aktivitet": "Annet husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:12",
+      "tid_brukt_minutter": 12,
+      "andel_som_utforte_prosent": 16.9
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "2.07",
+      "aktivitet": "Reiser i samband med husholdsarbeid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:12",
+      "tid_brukt_minutter": 12,
+      "andel_som_utforte_prosent": 20.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "3",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 9.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "3.01",
+      "aktivitet": "Utdanning",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:27",
+      "tid_brukt_minutter": 27,
+      "andel_som_utforte_prosent": 9.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4",
+      "aktivitet": "Personlige behov",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "10:08",
+      "tid_brukt_minutter": 608,
+      "andel_som_utforte_prosent": 99.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.01",
+      "aktivitet": "Nattesøvn",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "8:03",
+      "tid_brukt_minutter": 483,
+      "andel_som_utforte_prosent": 99.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.02",
+      "aktivitet": "Personlig pleie",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:47",
+      "tid_brukt_minutter": 47,
+      "andel_som_utforte_prosent": 68.4
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "4.03",
+      "aktivitet": "Måltider",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:17",
+      "tid_brukt_minutter": 77,
+      "andel_som_utforte_prosent": 82.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5",
+      "aktivitet": "Fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "6:17",
+      "tid_brukt_minutter": 377,
+      "andel_som_utforte_prosent": 95.9
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.01",
+      "aktivitet": "Idrett og friluftsliv",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:45",
+      "tid_brukt_minutter": 45,
+      "andel_som_utforte_prosent": 34.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.02",
+      "aktivitet": "Underholdning og kulturbruk",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:10",
+      "tid_brukt_minutter": 10,
+      "andel_som_utforte_prosent": 7.4
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.03",
+      "aktivitet": "Sosialt samvær",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:52",
+      "tid_brukt_minutter": 52,
+      "andel_som_utforte_prosent": 32
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.04",
+      "aktivitet": "Lesing",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:14",
+      "tid_brukt_minutter": 14,
+      "andel_som_utforte_prosent": 19.1
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.05",
+      "aktivitet": "Fjernsynsseing (inkludert strømming)",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "1:56",
+      "tid_brukt_minutter": 116,
+      "andel_som_utforte_prosent": 62.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.06",
+      "aktivitet": "Dataspill, gaming",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:33",
+      "tid_brukt_minutter": 33,
+      "andel_som_utforte_prosent": 13.6
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.07",
+      "aktivitet": "Frivillig arbeid, organisasjonsdeltakelse",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:07",
+      "tid_brukt_minutter": 7,
+      "andel_som_utforte_prosent": 4.4
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.08",
+      "aktivitet": "Avslapping",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:26",
+      "tid_brukt_minutter": 26,
+      "andel_som_utforte_prosent": 22.4
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.09",
+      "aktivitet": "Annen fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:21",
+      "tid_brukt_minutter": 21,
+      "andel_som_utforte_prosent": 15.7
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.10",
+      "aktivitet": "Reiser i samband med fritid",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:37",
+      "tid_brukt_minutter": 37,
+      "andel_som_utforte_prosent": 37.8
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "5.11",
+      "aktivitet": "Bruk av sosiale medier",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:14",
+      "tid_brukt_minutter": 14,
+      "andel_som_utforte_prosent": 16
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "9",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 11.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "9.01",
+      "aktivitet": "Annet, uoppgitt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "0:11",
+      "tid_brukt_minutter": 11,
+      "andel_som_utforte_prosent": 11.3
+    },
+    {
+      "aar": 2022,
+      "aktivitetskode": "_A",
+      "aktivitet": "I alt",
+      "kjonn": "Menn",
+      "tid_brukt_timer_min": "24:00",
+      "tid_brukt_minutter": 1440,
+      "andel_som_utforte_prosent": ""
+    }
+  ],
+  "meta": {
+    "title": "Tidsbruk i Norge: tid brukt til ulike aktiviteter en gjennomsnittsdag (1970–2022) - Free Download",
+    "description": "Gjennomsnittlig tid brukt til arbeid, husholdsarbeid, personlige behov, utdanning, fritid og andre aktiviteter en gjennomsnittsdag for personer 16–74 år, etter kjønn, fra SSBs tidsbruksundersøkelser 1970–2022. Contains 501 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Tidsbruk i Norge: tid brukt til ulike aktiviteter en gjennomsnittsdag (1970–2022) | ListBase",
+    "seo_description": "Download Tidsbruk i Norge: tid brukt til ulike aktiviteter en gjennomsnittsdag (1970–2022) — 501 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 501 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/14320"
+    ]
+  }
+}

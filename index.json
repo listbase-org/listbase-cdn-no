@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-05T02:19:51.144Z",
-  "total_datasets": 470,
-  "total_records": 1199707,
+  "generated": "2026-11-05T02:20:00.653Z",
+  "total_datasets": 471,
+  "total_records": 1200208,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tourism",
@@ -12513,6 +12513,34 @@
         "xlsx": {
           "name": "no-offisielle-flaggdager_NO.xlsx",
           "size": 7357
+        }
+      }
+    },
+    {
+      "id": "no-tidsbruk-aktiviteter-gjennomsnittsdag",
+      "name": "Tidsbruk i Norge: tid brukt til ulike aktiviteter en gjennomsnittsdag (1970–2022)",
+      "category": "time",
+      "record_count": 501,
+      "columns": [
+        "aar",
+        "aktivitetskode",
+        "aktivitet",
+        "kjonn",
+        "tid_brukt_timer_min",
+        "tid_brukt_minutter",
+        "andel_som_utforte_prosent"
+      ],
+      "source": "https://www.ssb.no/statbank/table/14320",
+      "updated": "2026-11",
+      "size": 121569,
+      "files": {
+        "csv": {
+          "name": "no-tidsbruk-aktiviteter-gjennomsnittsdag_NO.csv",
+          "size": 31184
+        },
+        "xlsx": {
+          "name": "no-tidsbruk-aktiviteter-gjennomsnittsdag_NO.xlsx",
+          "size": 23709
         }
       }
     },
