@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-09T02:40:11.916Z",
-  "total_datasets": 475,
-  "total_records": 1201610,
+  "generated": "2026-11-09T02:40:22.535Z",
+  "total_datasets": 476,
+  "total_records": 1201639,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -1668,6 +1668,35 @@
         "xlsx": {
           "name": "no-okonomiske-nokkeltall_NO.xlsx",
           "size": 8152
+        }
+      }
+    },
+    {
+      "id": "no-oljeselskaper",
+      "name": "Oljeselskaper på norsk sokkel",
+      "category": "economy",
+      "record_count": 29,
+      "columns": [
+        "selskap",
+        "hovedkontor",
+        "fra",
+        "kommentar",
+        "rettighetshaver_lisenser",
+        "operator_lisenser",
+        "operator_felt",
+        "operator_funn"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_oljeselskaper_i_Norge",
+      "updated": "2026-11",
+      "size": 12954,
+      "files": {
+        "csv": {
+          "name": "no-oljeselskaper_NO.csv",
+          "size": 5642
+        },
+        "xlsx": {
+          "name": "no-oljeselskaper_NO.xlsx",
+          "size": 9941
         }
       }
     },

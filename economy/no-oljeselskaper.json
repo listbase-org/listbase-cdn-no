@@ -1,0 +1,356 @@
+{
+  "id": "no-oljeselskaper",
+  "name": "Oljeselskaper på norsk sokkel",
+  "title": "Oljeselskaper på norsk sokkel",
+  "description": "Olje- og gasselskaper som er rettighetshavere eller operatører på norsk kontinentalsokkel, med hovedkontor, lisenser, felt og funn.",
+  "category": "economy",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_oljeselskaper_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_oljeselskaper_i_Norge",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "selskap",
+      "label": "Selskap",
+      "type": "string"
+    },
+    {
+      "key": "hovedkontor",
+      "label": "Hovedkontor",
+      "type": "string"
+    },
+    {
+      "key": "fra",
+      "label": "Fra",
+      "type": "number"
+    },
+    {
+      "key": "kommentar",
+      "label": "Kommentar",
+      "type": "string"
+    },
+    {
+      "key": "rettighetshaver_lisenser",
+      "label": "Rettighetshaver Lisenser",
+      "type": "number"
+    },
+    {
+      "key": "operator_lisenser",
+      "label": "Operator Lisenser",
+      "type": "number"
+    },
+    {
+      "key": "operator_felt",
+      "label": "Operator Felt",
+      "type": "number"
+    },
+    {
+      "key": "operator_funn",
+      "label": "Operator Funn",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "selskap": "Aker BP",
+      "hovedkontor": "Oslo, Norge",
+      "fra": 2016,
+      "kommentar": "Ble til gjennom en fusjon av BP Norge og Det norske oljeselskap. Kjøpte Hess Norge i 2017 og Lundin Energys norske virksomhet i 2021.",
+      "rettighetshaver_lisenser": 183,
+      "operator_lisenser": 121,
+      "operator_felt": 20,
+      "operator_funn": 31
+    },
+    {
+      "selskap": "CapeOmega",
+      "hovedkontor": "Bergen, Norge",
+      "fra": 2015,
+      "kommentar": "Kjøpte i 2015 Norecos andeler i Oselvarfeltet. Grunnlagt og eid av HitecVision men solgt til investeringsselskapet Partners Group i 2019.",
+      "rettighetshaver_lisenser": 1,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Concedo",
+      "hovedkontor": "Asker, Norge",
+      "fra": 2007,
+      "kommentar": "",
+      "rettighetshaver_lisenser": 13,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "ConocoPhillips",
+      "hovedkontor": "Houston, Texas, USA",
+      "fra": 1965,
+      "kommentar": "Conoco og Phillips ble slått sammen i 2002. Phillips fikk sin første lisens i 1965, Conoco i 1971.",
+      "rettighetshaver_lisenser": 44,
+      "operator_lisenser": 21,
+      "operator_felt": 10,
+      "operator_funn": 12
+    },
+    {
+      "selskap": "DNO",
+      "hovedkontor": "Oslo, Norge",
+      "fra": 2017,
+      "kommentar": "DNO kjøpte i 2017 Origo Exploration. Overtok Faroe Petroleum i 2019.",
+      "rettighetshaver_lisenser": 68,
+      "operator_lisenser": 14,
+      "operator_felt": 1,
+      "operator_funn": 1
+    },
+    {
+      "selskap": "Equinor",
+      "hovedkontor": "Stavanger, Norge",
+      "fra": 1973,
+      "kommentar": "Tidligere navn: Statoil, Den norske stats oljeselskap og StatoilHydro. Norsk Hydros petroleumsvirksomhet ble slått sammen med Statoil i 2007.",
+      "rettighetshaver_lisenser": 280,
+      "operator_lisenser": 201,
+      "operator_felt": 61,
+      "operator_funn": 175
+    },
+    {
+      "selskap": "Harbour Energy",
+      "hovedkontor": "London, Storbritannia",
+      "fra": 2018,
+      "kommentar": "Tidligere navn: Chrysaor. Kjøpte andel i Grevling-utbyggingen fra OKEA. Slo seg i 2021 sammen med Premier Oil.",
+      "rettighetshaver_lisenser": 18,
+      "operator_lisenser": 7,
+      "operator_felt": 1,
+      "operator_funn": 2
+    },
+    {
+      "selskap": "INPEX",
+      "hovedkontor": "Tokyo, Japan",
+      "fra": 2014,
+      "kommentar": "INPEX fikk sin første lisens i 2017. Overtok i 2022 Idemitsus norske virksomhet, som hadde vært på sokkelen siden 1988. Operer i Norge gjennom datterselskapet INPEX Idemitsu Norge",
+      "rettighetshaver_lisenser": 31,
+      "operator_lisenser": 1,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Kuwait Petroleum Corporation",
+      "hovedkontor": "Kuwait by, Kuwait",
+      "fra": 2013,
+      "kommentar": "Norske AEDC var fram til 2013 eid av det japanske selskapet AOC Holdings inntil det ble kjøpt av Kuwait Foreign Petroleum Exploration Company (KUFPEC), et datterselskap av Kuwait Petroleum Corporation. Norske AEDC byttet i 2013 navn til KUFPEC Norway AS.",
+      "rettighetshaver_lisenser": 10,
+      "operator_lisenser": 1,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Lime Petroleum",
+      "hovedkontor": "Singapore",
+      "fra": 2013,
+      "kommentar": "Eies av Singapore-baserte Rex Oil & Gas.",
+      "rettighetshaver_lisenser": 20,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Longboat Energy",
+      "hovedkontor": "London, Storbritannia",
+      "fra": 2021,
+      "kommentar": "",
+      "rettighetshaver_lisenser": 12,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Lotos",
+      "hovedkontor": "Gdańsk, Polen",
+      "fra": 2008,
+      "kommentar": "",
+      "rettighetshaver_lisenser": 35,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "M Vest",
+      "hovedkontor": "Bergen, Norge",
+      "fra": 2016,
+      "kommentar": "Kjøpte i 2016 Atlantic Petroleums portefølje i Norge, som igjen var basert på et kjøp av bergensbaserte Emergy Exploration i 2012.",
+      "rettighetshaver_lisenser": 19,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Mime Petroleum",
+      "hovedkontor": "Bærum, Norge",
+      "fra": 2019,
+      "kommentar": "Basert på ansatte fra tidligere Dea. Kjøpte i 2019 feltandeler i Balder og Ringhorne fra Vår Energi.",
+      "rettighetshaver_lisenser": 6,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Neptune Oil & Gas",
+      "hovedkontor": "London, Storbritannia",
+      "fra": 2017,
+      "kommentar": "Kjøpte Engie E&P i 2017, VNG i 2018. Kjøpte i 2019 Edisons norske virksomhet, men kjøpe ble aldri gjennomført.",
+      "rettighetshaver_lisenser": 55,
+      "operator_lisenser": 17,
+      "operator_felt": 3,
+      "operator_funn": 6
+    },
+    {
+      "selskap": "OKEA",
+      "hovedkontor": "Trondheim, Norge",
+      "fra": 2016,
+      "kommentar": "Kjøpte i 2016 Repsols andel i Ymefeltet og i 2018 Shells andeler i oljefeltene Gjøa og Draugen.",
+      "rettighetshaver_lisenser": 41,
+      "operator_lisenser": 21,
+      "operator_felt": 2,
+      "operator_funn": 6
+    },
+    {
+      "selskap": "OMV",
+      "hovedkontor": "Wien, Østerrike",
+      "fra": 1977,
+      "kommentar": "",
+      "rettighetshaver_lisenser": 33,
+      "operator_lisenser": 11,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Pandion Energy",
+      "hovedkontor": "Oslo, Norge",
+      "fra": 2017,
+      "kommentar": "Basert på ledergruppen til tidligere Tullow Oil i Norge som la ned virksomheten i 2016. Overtok i 2022 det nederlandske selskapet ONE-Dyas sitt norske datterselskap",
+      "rettighetshaver_lisenser": 29,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Petoro",
+      "hovedkontor": "Stavanger, Norge",
+      "fra": 2001,
+      "kommentar": "Statlig oljeselskap etablert for å forvalte statens direkte økonomiske engasjement (SDØE).",
+      "rettighetshaver_lisenser": 178,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Petrolia",
+      "hovedkontor": "Oslo, Norge",
+      "fra": 2011,
+      "kommentar": "Oppstrømsaktivitetene er lagt til datterselskapet Petrolia Norway AS.",
+      "rettighetshaver_lisenser": 12,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "PGNiG",
+      "hovedkontor": "Warszawa, Polen",
+      "fra": 2007,
+      "kommentar": "Overtok i 2021 Ineos ' norske virksomhet. Ineos kjøpte i 2017 danske DONG Energy. DONG Energy var i sin tur basert på Pelican som DONG overtok i 2001 samt det Tromsø -baserte oljeselskapet Front Exploration som ble overtatt i 2012.",
+      "rettighetshaver_lisenser": 62,
+      "operator_lisenser": 10,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Repsol",
+      "hovedkontor": "Madrid, Spania",
+      "fra": 2009,
+      "kommentar": "Kjøpte i 2014 Talisman Energy, som igjen var basert på Paladin Resources.",
+      "rettighetshaver_lisenser": 13,
+      "operator_lisenser": 5,
+      "operator_felt": 3,
+      "operator_funn": 7
+    },
+    {
+      "selskap": "Shell",
+      "hovedkontor": "Haag, Nederland",
+      "fra": 1965,
+      "kommentar": "Kalles også Norske Shell. Overtok Enterprise Oil Norge i 2002 og BG i 2015.",
+      "rettighetshaver_lisenser": 19,
+      "operator_lisenser": 7,
+      "operator_felt": 1,
+      "operator_funn": 1
+    },
+    {
+      "selskap": "Source Energy",
+      "hovedkontor": "Oslo, Norge",
+      "fra": 2019,
+      "kommentar": "",
+      "rettighetshaver_lisenser": 12,
+      "operator_lisenser": 0,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Sval Energi",
+      "hovedkontor": "Stavanger, Norge",
+      "fra": 2019,
+      "kommentar": "Het fram til 2020 Solveig Gas. Eid av HitecVision, et tidligere infrastrukturselskap, som i 2019 overtok Capricorn Norge (tidligere Agora Oil & Gas). I 2020 overtok Sval Energi Edisons norske virksomhet, i 2021 den norske virksomheten til Spirit Energy (et selskap med røtter i selskaper som Bayerngas Norge, Centrica, PA Resource og Genesis Petroleum), og i 2022 den norske virksomheten til Suncor Energy (tidligere Petro-Canada).",
+      "rettighetshaver_lisenser": 77,
+      "operator_lisenser": 9,
+      "operator_felt": 2,
+      "operator_funn": 2
+    },
+    {
+      "selskap": "TotalEnergies EP Norge",
+      "hovedkontor": "Paris, Frankrike",
+      "fra": 1965,
+      "kommentar": "Andre navn: Total Fina etter overtagelsen av Fina i 1999 og TotalFinaElf etter overtagelsen av Elf i 2000. Het Total fra 2003. Total fikk sin første lisens i 1965, og det samme gjorde Fina. Elf fikk sin første lisens i 1967. Overtok i 2017 Mærsks E&P-virksomhet.",
+      "rettighetshaver_lisenser": 54,
+      "operator_lisenser": 7,
+      "operator_felt": 2,
+      "operator_funn": 3
+    },
+    {
+      "selskap": "Vår Energi",
+      "hovedkontor": "Stavanger, Norge",
+      "fra": 2018,
+      "kommentar": "Vår Energi eies 69,6% av ENI og 30,4% av HitecVision. ENIs forløper, Agip, kom inn på norsk sokkel i 1965. Agip overtok i 2001 Lasmos norske datterselskap og i 2002 Fortums eierandeler på norsk sokkel. Etter fusjonen med Hitec-eide Point Resources i 2018 ble navnet endret til Vår Energi. Point Resources var igjen basert på ExxonMobils opererte portefølje i Norge og Hitec-selskapene Pure E&P, Spike Exploration og Core Energy. I 2019 overtok Vår Energi ExxonMobils gjenværende portefølje på norsk sokkel.",
+      "rettighetshaver_lisenser": 146,
+      "operator_lisenser": 48,
+      "operator_felt": 5,
+      "operator_funn": 15
+    },
+    {
+      "selskap": "Wellesley Petroleum",
+      "hovedkontor": "Stavanger, Norge",
+      "fra": 2016,
+      "kommentar": "",
+      "rettighetshaver_lisenser": 14,
+      "operator_lisenser": 2,
+      "operator_felt": 0,
+      "operator_funn": 0
+    },
+    {
+      "selskap": "Wintershall Dea",
+      "hovedkontor": "Kassel, Tyskland",
+      "fra": 2019,
+      "kommentar": "Resultatet av en fusjon mellom BASFs E&P-aktiviteter (Wintershall) og LetterOne-eide Dea. Wintershall overtok i 2008 Revus Energy. LetterOne -eide Dea var et resultat av kjøet av RWEs E&P-aktiviteter (2014) (tidligere Deminex) og E.ONs E&P-virksomhet (2015).",
+      "rettighetshaver_lisenser": 86,
+      "operator_lisenser": 25,
+      "operator_felt": 4,
+      "operator_funn": 7
+    }
+  ],
+  "meta": {
+    "title": "Oljeselskaper på norsk sokkel - Free Download",
+    "description": "Olje- og gasselskaper som er rettighetshavere eller operatører på norsk kontinentalsokkel, med hovedkontor, lisenser, felt og funn. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Oljeselskaper på norsk sokkel | ListBase",
+    "seo_description": "Download Oljeselskaper på norsk sokkel — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_oljeselskaper_i_Norge"
+    ]
+  }
+}
