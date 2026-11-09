@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-09T02:40:22.535Z",
-  "total_datasets": 476,
-  "total_records": 1201639,
+  "generated": "2026-11-09T02:40:30.972Z",
+  "total_datasets": 477,
+  "total_records": 1201680,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -5306,6 +5306,31 @@
         "xlsx": {
           "name": "no-osm-natural-rock_NO.xlsx",
           "size": 19935
+        }
+      }
+    },
+    {
+      "id": "no-radiolista-forsteplasser-2020",
+      "name": "Førsteplasser på den norske radiolista (2020)",
+      "category": "music",
+      "record_count": 41,
+      "columns": [
+        "uke",
+        "publikasjonsdato",
+        "artist",
+        "lat"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_førsteplasser_på_den_norske_radiolista",
+      "updated": "2026-11",
+      "size": 7267,
+      "files": {
+        "csv": {
+          "name": "no-radiolista-forsteplasser-2020_NO.csv",
+          "size": 2227
+        },
+        "xlsx": {
+          "name": "no-radiolista-forsteplasser-2020_NO.xlsx",
+          "size": 7908
         }
       }
     },
