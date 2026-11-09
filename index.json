@@ -1,12 +1,12 @@
 {
   "lang": "no",
-  "generated": "2026-11-09T02:40:02.706Z",
-  "total_datasets": 474,
-  "total_records": 1201592,
+  "generated": "2026-11-09T02:40:11.916Z",
+  "total_datasets": 475,
+  "total_records": 1201610,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -102,6 +102,31 @@
     }
   ],
   "datasets": [
+    {
+      "id": "no-fylker-etter-jordbruksareal",
+      "name": "Norske fylker etter jordbruksareal",
+      "category": "agriculture",
+      "record_count": 18,
+      "columns": [
+        "fylke",
+        "areal_km2",
+        "jordbruksareal_km2",
+        "prosent_av_areal"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_fylker_etter_jordbruksareal",
+      "updated": "2026-11",
+      "size": 4096,
+      "files": {
+        "csv": {
+          "name": "no-fylker-etter-jordbruksareal_NO.csv",
+          "size": 693
+        },
+        "xlsx": {
+          "name": "no-fylker-etter-jordbruksareal_NO.xlsx",
+          "size": 7387
+        }
+      }
+    },
     {
       "id": "no-gardsbruk-og-dyrket-areal",
       "name": "Antall gårdsbruk og dyrket areal i Norge",

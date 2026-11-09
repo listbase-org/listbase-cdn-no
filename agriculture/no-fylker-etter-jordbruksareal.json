@@ -1,0 +1,154 @@
+{
+  "id": "no-fylker-etter-jordbruksareal",
+  "name": "Norske fylker etter jordbruksareal",
+  "title": "Norske fylker etter jordbruksareal",
+  "description": "Norske fylker (fylkesinndelingen før 2020) rangert etter jordbruksareal i km² og andel av fylkets samlede areal.",
+  "category": "agriculture",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_fylker_etter_jordbruksareal",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_fylker_etter_jordbruksareal",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "areal_km2",
+      "label": "Areal Km2",
+      "type": "number"
+    },
+    {
+      "key": "jordbruksareal_km2",
+      "label": "Jordbruksareal Km2",
+      "type": "number"
+    },
+    {
+      "key": "prosent_av_areal",
+      "label": "Prosent Av Areal",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fylke": "Hedmark",
+      "areal_km2": 27388,
+      "jordbruksareal_km2": 1044,
+      "prosent_av_areal": "4,1 %"
+    },
+    {
+      "fylke": "Rogaland",
+      "areal_km2": 9377,
+      "jordbruksareal_km2": 998,
+      "prosent_av_areal": "11,9 %"
+    },
+    {
+      "fylke": "Oppland",
+      "areal_km2": 25192,
+      "jordbruksareal_km2": 1004,
+      "prosent_av_areal": "4,4 %"
+    },
+    {
+      "fylke": "Nord-Trøndelag",
+      "areal_km2": 22396,
+      "jordbruksareal_km2": 864,
+      "prosent_av_areal": "4,3 %"
+    },
+    {
+      "fylke": "Østfold",
+      "areal_km2": 4183,
+      "jordbruksareal_km2": 733,
+      "prosent_av_areal": "19,6 %"
+    },
+    {
+      "fylke": "Sør-Trøndelag",
+      "areal_km2": 18832,
+      "jordbruksareal_km2": 740,
+      "prosent_av_areal": "4,3 %"
+    },
+    {
+      "fylke": "Oslo og Akershus",
+      "areal_km2": 5370,
+      "jordbruksareal_km2": 772,
+      "prosent_av_areal": "16,2 %"
+    },
+    {
+      "fylke": "Nordland",
+      "areal_km2": 38327,
+      "jordbruksareal_km2": 560,
+      "prosent_av_areal": "1,7 %"
+    },
+    {
+      "fylke": "Møre og Romsdal",
+      "areal_km2": 15121,
+      "jordbruksareal_km2": 549,
+      "prosent_av_areal": "4,1 %"
+    },
+    {
+      "fylke": "Buskerud",
+      "areal_km2": 14930,
+      "jordbruksareal_km2": 509,
+      "prosent_av_areal": "3,8 %"
+    },
+    {
+      "fylke": "Sogn og Fjordane",
+      "areal_km2": 18622,
+      "jordbruksareal_km2": 430,
+      "prosent_av_areal": "2,7 %"
+    },
+    {
+      "fylke": "Vestfold",
+      "areal_km2": 2224,
+      "jordbruksareal_km2": 409,
+      "prosent_av_areal": "19,7 %"
+    },
+    {
+      "fylke": "Hordaland",
+      "areal_km2": 15460,
+      "jordbruksareal_km2": 405,
+      "prosent_av_areal": "2,8 %"
+    },
+    {
+      "fylke": "Troms",
+      "areal_km2": 25848,
+      "jordbruksareal_km2": 244,
+      "prosent_av_areal": "1,1 %"
+    },
+    {
+      "fylke": "Telemark",
+      "areal_km2": 15299,
+      "jordbruksareal_km2": 244,
+      "prosent_av_areal": "1,8 %"
+    },
+    {
+      "fylke": "Vest-Agder",
+      "areal_km2": 7279,
+      "jordbruksareal_km2": 183,
+      "prosent_av_areal": "2,9 %"
+    },
+    {
+      "fylke": "Aust-Agder",
+      "areal_km2": 9211,
+      "jordbruksareal_km2": 110,
+      "prosent_av_areal": "1,3 %"
+    },
+    {
+      "fylke": "Finnmark",
+      "areal_km2": 48649,
+      "jordbruksareal_km2": 95,
+      "prosent_av_areal": "0,2 %"
+    }
+  ],
+  "meta": {
+    "title": "Norske fylker etter jordbruksareal - Free Download",
+    "description": "Norske fylker (fylkesinndelingen før 2020) rangert etter jordbruksareal i km² og andel av fylkets samlede areal. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norske fylker etter jordbruksareal | ListBase",
+    "seo_description": "Download Norske fylker etter jordbruksareal — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_fylker_etter_jordbruksareal"
+    ]
+  }
+}
