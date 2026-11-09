@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-09T02:39:53.638Z",
-  "total_datasets": 473,
-  "total_records": 1201575,
+  "generated": "2026-11-09T02:40:02.706Z",
+  "total_datasets": 474,
+  "total_records": 1201592,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -12399,6 +12399,30 @@
         "xlsx": {
           "name": "no-datatreff_NO.xlsx",
           "size": 9999
+        }
+      }
+    },
+    {
+      "id": "no-frekvenser-telekommunikasjon",
+      "name": "Frekvenser for telekommunikasjon i Norge",
+      "category": "tech",
+      "record_count": 17,
+      "columns": [
+        "frekvensomrade",
+        "brukes_til",
+        "tidligere_brukt_til"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_frekvenser_for_telekommunikasjon_i_Norge",
+      "updated": "2026-11",
+      "size": 4372,
+      "files": {
+        "csv": {
+          "name": "no-frekvenser-telekommunikasjon_NO.csv",
+          "size": 1341
+        },
+        "xlsx": {
+          "name": "no-frekvenser-telekommunikasjon_NO.xlsx",
+          "size": 7584
         }
       }
     },

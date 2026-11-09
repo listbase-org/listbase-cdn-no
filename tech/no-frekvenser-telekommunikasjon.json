@@ -1,0 +1,126 @@
+{
+  "id": "no-frekvenser-telekommunikasjon",
+  "name": "Frekvenser for telekommunikasjon i Norge",
+  "title": "Frekvenser for telekommunikasjon i Norge",
+  "description": "Oversikt over frekvensområder og hva de brukes til i telekommunikasjon og kringkasting i Norge.",
+  "category": "tech",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_frekvenser_for_telekommunikasjon_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_frekvenser_for_telekommunikasjon_i_Norge",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "frekvensomrade",
+      "label": "Frekvensomrade",
+      "type": "string"
+    },
+    {
+      "key": "brukes_til",
+      "label": "Brukes Til",
+      "type": "string"
+    },
+    {
+      "key": "tidligere_brukt_til",
+      "label": "Tidligere Brukt Til",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "frekvensomrade": "87,5–108 MHz",
+      "brukes_til": "FM-båndet for radiokringkasting",
+      "tidligere_brukt_til": ""
+    },
+    {
+      "frekvensomrade": "108–118 MHz",
+      "brukes_til": "Flynavigasjon",
+      "tidligere_brukt_til": ""
+    },
+    {
+      "frekvensomrade": "118–136 MHz",
+      "brukes_til": "Flytelefoni",
+      "tidligere_brukt_til": ""
+    },
+    {
+      "frekvensomrade": "150–170 MHz",
+      "brukes_til": "VHF Data (156–162 MHz) langs kysten. Helseradio og brannvesen (analog VHF)",
+      "tidligere_brukt_til": "Offentlig Landmobil Telefoni"
+    },
+    {
+      "frekvensomrade": "174–240 MHz",
+      "brukes_til": "DAB -radiokringkasting i VHF bånd III",
+      "tidligere_brukt_til": "Analogt bakkenett for TV"
+    },
+    {
+      "frekvensomrade": "380–395 MHz",
+      "brukes_til": "Nødnett med TETRA -teknologi",
+      "tidligere_brukt_til": ""
+    },
+    {
+      "frekvensomrade": "410–430 MHz",
+      "brukes_til": "Sivilt TETRA -nett for bl.a. kollektivtransport",
+      "tidligere_brukt_til": ""
+    },
+    {
+      "frekvensomrade": "450 MHz-båndet",
+      "brukes_til": "4G (LTE) fra oktober 2015",
+      "tidligere_brukt_til": "3G (CDMA2000 -teknologi) fra Ice.net fra 20. juni 2006 NMT -450 frem til 31. desember 2004"
+    },
+    {
+      "frekvensomrade": "470–694 MHz",
+      "brukes_til": "Digitalt bakkenett for TV fra Norges Televisjon",
+      "tidligere_brukt_til": "Analogt bakkenett for TV (NRK2, TV2 samt lokal TV)"
+    },
+    {
+      "frekvensomrade": "694–790 MHz (700 MHz-båndet)",
+      "brukes_til": "4G og 5G",
+      "tidligere_brukt_til": "Digitalt bakkenett for TV fra Norges Televisjon"
+    },
+    {
+      "frekvensomrade": "790–862 MHz",
+      "brukes_til": "4G (basert på LTE -teknologi) f.o.m. 2013",
+      "tidligere_brukt_til": "Analogt bakkenett for TV frem til 1. desember 2009"
+    },
+    {
+      "frekvensomrade": "900 MHz-båndet",
+      "brukes_til": "GSM (2G), LTE (4G)",
+      "tidligere_brukt_til": "UMTS (3G) t.o.m. 2019 NMT -900 frem til 1. mars 2001"
+    },
+    {
+      "frekvensomrade": "1452–1492 MHz",
+      "brukes_til": "DAB -radiokringkasting i L-båndet",
+      "tidligere_brukt_til": ""
+    },
+    {
+      "frekvensomrade": "1800 MHz-båndet",
+      "brukes_til": "4G / LTE kapasitetsbånd",
+      "tidligere_brukt_til": "GSM (2G)"
+    },
+    {
+      "frekvensomrade": "2100 MHz-båndet",
+      "brukes_til": "UMTS (3G) kapasitetsbånd",
+      "tidligere_brukt_til": ""
+    },
+    {
+      "frekvensomrade": "2600 MHz-båndet",
+      "brukes_til": "4G / LTE kapasitetsbånd",
+      "tidligere_brukt_til": ""
+    },
+    {
+      "frekvensomrade": "3500 MHz-båndet",
+      "brukes_til": "5G -testing i utvalgte byer (2019)",
+      "tidligere_brukt_til": ""
+    }
+  ],
+  "meta": {
+    "title": "Frekvenser for telekommunikasjon i Norge - Free Download",
+    "description": "Oversikt over frekvensområder og hva de brukes til i telekommunikasjon og kringkasting i Norge. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Frekvenser for telekommunikasjon i Norge | ListBase",
+    "seo_description": "Download Frekvenser for telekommunikasjon i Norge — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_frekvenser_for_telekommunikasjon_i_Norge"
+    ]
+  }
+}
