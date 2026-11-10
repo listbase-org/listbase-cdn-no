@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-10T02:26:30.000Z",
-  "total_datasets": 478,
-  "total_records": 1201738,
+  "generated": "2026-11-10T02:26:40.050Z",
+  "total_datasets": 479,
+  "total_records": 1201945,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -4820,6 +4820,31 @@
         "xlsx": {
           "name": "no-illegale-aviser-1940-1945_NO.xlsx",
           "size": 13268
+        }
+      }
+    },
+    {
+      "id": "no-jubileer-pa-frimerker",
+      "name": "Jubileer på norske frimerker",
+      "category": "history",
+      "record_count": 207,
+      "columns": [
+        "anniversary_of",
+        "years",
+        "issue_year",
+        "stamp_number_nk"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_jubileer_på_norske_frimerker",
+      "updated": "2026-11",
+      "size": 32626,
+      "files": {
+        "csv": {
+          "name": "no-jubileer-pa-frimerker_NO.csv",
+          "size": 10795
+        },
+        "xlsx": {
+          "name": "no-jubileer-pa-frimerker_NO.xlsx",
+          "size": 14556
         }
       }
     },
