@@ -1,0 +1,2176 @@
+{
+  "id": "no-vitenskapelige-tidsskrift",
+  "name": "Norske vitenskapelige tidsskrift",
+  "title": "Norske vitenskapelige tidsskrift",
+  "description": "Liste over norske vitenskapelige tidsskrift med fagfelt, nivå i publiseringsindikatoren, utgivelsesperiode og ISSN.",
+  "category": "education",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_vitenskapelige_tidsskrift",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_vitenskapelige_tidsskrift",
+  "updated": "2026-11",
+  "record_count": 265,
+  "columns": [
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "field",
+      "label": "Field",
+      "type": "string"
+    },
+    {
+      "key": "level",
+      "label": "Level",
+      "type": "number"
+    },
+    {
+      "key": "from_year",
+      "label": "From Year",
+      "type": "number"
+    },
+    {
+      "key": "to_year",
+      "label": "To Year",
+      "type": "number"
+    },
+    {
+      "key": "issn",
+      "label": "Issn",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "title": "Abel Symposia",
+      "field": "Matematikk",
+      "level": 1,
+      "from_year": 2004,
+      "to_year": "",
+      "issn": "2193-2808"
+    },
+    {
+      "title": "Acta ad archaeologiam et artium historiam pertinentia",
+      "field": "Kunsthistorie",
+      "level": 1,
+      "from_year": 1922,
+      "to_year": "",
+      "issn": "0065-0900"
+    },
+    {
+      "title": "Acta Borealia",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": 1984,
+      "to_year": "",
+      "issn": "1503-111X"
+    },
+    {
+      "title": "Acta Didactica Norge - tidsskrift for fagdidaktisk forsknings- og utviklingsarbeid i Norge",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2007,
+      "to_year": "",
+      "issn": "1504-9922"
+    },
+    {
+      "title": "Acta Ibseniana: Centre for Ibsen Studies, University of Oslo",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": 2002,
+      "to_year": "",
+      "issn": "1503-2981"
+    },
+    {
+      "title": "Acta Orientalia",
+      "field": "Asiatiske og afrikanske studier",
+      "level": 1,
+      "from_year": 1923,
+      "to_year": "",
+      "issn": "0001-6438"
+    },
+    {
+      "title": "Acta Paediatrica. Supplement",
+      "field": "Med - Pediatri",
+      "level": 1,
+      "from_year": 1992,
+      "to_year": "",
+      "issn": "0803-5326"
+    },
+    {
+      "title": "Agarica",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1980,
+      "to_year": "",
+      "issn": "0800-1820"
+    },
+    {
+      "title": "Agora: Journal for metafysisk spekulasjon",
+      "field": "Litteraturvitenskap",
+      "level": 1,
+      "from_year": 1983,
+      "to_year": "",
+      "issn": "1500-1571"
+    },
+    {
+      "title": "Akuttjournalen",
+      "field": "Med - Anestesi, intensiv, akutt",
+      "level": 1,
+      "from_year": 1994,
+      "to_year": 2007,
+      "issn": "1500-7480"
+    },
+    {
+      "title": "AmS-rapport",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1989,
+      "to_year": "",
+      "issn": "0802-4936"
+    },
+    {
+      "title": "AmS-skrifter",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1979,
+      "to_year": "",
+      "issn": "0800-0816"
+    },
+    {
+      "title": "AmS-Varia",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1978,
+      "to_year": "",
+      "issn": "0332-6306"
+    },
+    {
+      "title": "Arbeiderhistorie",
+      "field": "Historie",
+      "level": 1,
+      "from_year": 1987,
+      "to_year": "",
+      "issn": "2387-5879"
+    },
+    {
+      "title": "Arbeidsrett",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 2004,
+      "to_year": "",
+      "issn": "1504-3088"
+    },
+    {
+      "title": "Arbeidsrett og arbeidsliv",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 2003,
+      "to_year": "",
+      "issn": "1502-7767"
+    },
+    {
+      "title": "Årbok / Fortidsminneforeningen",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1952,
+      "to_year": "",
+      "issn": "0071-7436"
+    },
+    {
+      "title": "Årbok for norsk utdanningshistorie",
+      "field": "Historie",
+      "level": 1,
+      "from_year": 1982,
+      "to_year": 2006,
+      "issn": "1891-0718"
+    },
+    {
+      "title": "Årbok Norsk Maritimt Museum",
+      "field": "Historie",
+      "level": 1,
+      "from_year": 1997,
+      "to_year": "",
+      "issn": "1892-4786"
+    },
+    {
+      "title": "Arctic Review on Law and Politics",
+      "field": "Rettsvitenskap",
+      "level": 2,
+      "from_year": 2010,
+      "to_year": "",
+      "issn": "2387-4562"
+    },
+    {
+      "title": "Arena Romanistica",
+      "field": "Romansk",
+      "level": 1,
+      "from_year": 2007,
+      "to_year": "",
+      "issn": "1890-4580"
+    },
+    {
+      "title": "Arkitektur N",
+      "field": "Arkitektur og design",
+      "level": 1,
+      "from_year": 2007,
+      "to_year": "",
+      "issn": "1504-7628"
+    },
+    {
+      "title": "Arkitekturårbok",
+      "field": "Arkitektur og design",
+      "level": 1,
+      "from_year": 2011,
+      "to_year": "",
+      "issn": "1893-210X"
+    },
+    {
+      "title": "Arr. Idéhistorisk tidsskrift",
+      "field": "Filosofi og idéhistorie",
+      "level": 1,
+      "from_year": 1993,
+      "to_year": "",
+      "issn": "0802-7005"
+    },
+    {
+      "title": "Autoimmunity Reviews",
+      "field": "Med - Biomedisin",
+      "level": 1,
+      "from_year": 2002,
+      "to_year": "",
+      "issn": "1873-0183"
+    },
+    {
+      "title": "Babylon - Nordisk tidsskrift for Midtøstenstudier",
+      "field": "Asiatiske og afrikanske studier",
+      "level": 1,
+      "from_year": 2003,
+      "to_year": "",
+      "issn": "1503-5727"
+    },
+    {
+      "title": "Barn",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 1983,
+      "to_year": "",
+      "issn": "0800-1669"
+    },
+    {
+      "title": "Barn i Norge",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": 2000,
+      "to_year": "",
+      "issn": "1502-6604"
+    },
+    {
+      "title": "Bergen Language and Linguistics Studies (BeLLS)",
+      "field": "Lingvistikk",
+      "level": 1,
+      "from_year": 2013,
+      "to_year": "",
+      "issn": "1892-2449"
+    },
+    {
+      "title": "Beta. Scandinavian Journal of Business Research",
+      "field": "Økonomisk-administrative fag",
+      "level": 1,
+      "from_year": 1987,
+      "to_year": "",
+      "issn": "1504-3134"
+    },
+    {
+      "title": "Bibliotheca Nordica",
+      "field": "Historie",
+      "level": 1,
+      "from_year": 2009,
+      "to_year": "",
+      "issn": "1891-1315"
+    },
+    {
+      "title": "Bioingeniøren",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1987,
+      "to_year": "",
+      "issn": "1890-1875"
+    },
+    {
+      "title": "Blyttia: Norsk botanisk forenings tidsskrift",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1943,
+      "to_year": "",
+      "issn": "0006-5269"
+    },
+    {
+      "title": "Borealis. An International Journal of Hispanic Linguistics",
+      "field": "Romansk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-3211"
+    },
+    {
+      "title": "By og Bygd",
+      "field": "Historie",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0084-8212"
+    },
+    {
+      "title": "Campbell systematic reviews",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1891-1803"
+    },
+    {
+      "title": "Chironomus newsletter on Chironomidae research",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1967,
+      "to_year": "",
+      "issn": "1891-5426"
+    },
+    {
+      "title": "Collegium Medievale",
+      "field": "Historie",
+      "level": 1,
+      "from_year": 1988,
+      "to_year": "",
+      "issn": "2387-6700"
+    },
+    {
+      "title": "Concept rapport",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0804-5585"
+    },
+    {
+      "title": "Den norske tannlegeforenings tidende",
+      "field": "Odontologi",
+      "level": 1,
+      "from_year": 1890,
+      "to_year": "",
+      "issn": "1894-180X"
+    },
+    {
+      "title": "Det Kongelige Norske Videnskabers Selskabs Skrifter",
+      "field": "Tverrfaglig naturvitenskap og medisin",
+      "level": 1,
+      "from_year": 1761,
+      "to_year": "",
+      "issn": "1893-9708"
+    },
+    {
+      "title": "Dieđut / Sámi instituhtta",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": 1975,
+      "to_year": "",
+      "issn": "0332-7779"
+    },
+    {
+      "title": "Din – tidsskrift for religion og kultur",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": 1999,
+      "to_year": "",
+      "issn": "1501-9934"
+    },
+    {
+      "title": "DRAMA: Nordisk dramapedagogisk tidsskrift",
+      "field": "Teatervitenskap og drama",
+      "level": 1,
+      "from_year": 1970,
+      "to_year": "",
+      "issn": "0332-5296"
+    },
+    {
+      "title": "Early Modern Culture Online",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-0888"
+    },
+    {
+      "title": "Edda. Nordisk tidsskrift for litteraturforskning",
+      "field": "Nordisk",
+      "level": 2,
+      "from_year": 1914,
+      "to_year": "",
+      "issn": "1500-1989"
+    },
+    {
+      "title": "Ekfrase: Nordisk Tidsskrift for Visuell Kultur",
+      "field": "Medier og kommunikasjon",
+      "level": 1,
+      "from_year": 2010,
+      "to_year": "",
+      "issn": "1891-5760"
+    },
+    {
+      "title": "Ergoterapeuten",
+      "field": "Med - Samfunnsmedisin",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0800-3475"
+    },
+    {
+      "title": "Etikk i praksis",
+      "field": "Filosofi og idéhistorie",
+      "level": 1,
+      "from_year": 2007,
+      "to_year": "",
+      "issn": "1890-4009"
+    },
+    {
+      "title": "European Journal of Behavior Analysis",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": 2000,
+      "to_year": "",
+      "issn": "1502-1149"
+    },
+    {
+      "title": "Eurosphere Working Papers",
+      "field": "Statsvitenskap",
+      "level": 1,
+      "from_year": 2008,
+      "to_year": "",
+      "issn": "1890-5986"
+    },
+    {
+      "title": "Fagbladet samfunn og økonomi",
+      "field": "Samfunnsøkonomi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-3009"
+    },
+    {
+      "title": "Fauna Norvegica",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 2000,
+      "to_year": "",
+      "issn": "1891-5396"
+    },
+    {
+      "title": "FLEKS - Scandinavian Journal of Intercultural Theory and practice",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-5988"
+    },
+    {
+      "title": "Fokus på familien",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": 1973,
+      "to_year": "",
+      "issn": "0807-7487"
+    },
+    {
+      "title": "Fontene forskning",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2008,
+      "to_year": "",
+      "issn": "1892-7947"
+    },
+    {
+      "title": "Forebygging.no",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": 2018,
+      "to_year": "",
+      "issn": "2535-4000"
+    },
+    {
+      "title": "FORMakademisk",
+      "field": "Arkitektur og design",
+      "level": 1,
+      "from_year": 2008,
+      "to_year": "",
+      "issn": "1890-9515"
+    },
+    {
+      "title": "Forum for Development Studies",
+      "field": "Utviklingsstudier",
+      "level": 1,
+      "from_year": 1992,
+      "to_year": "",
+      "issn": "1891-1765"
+    },
+    {
+      "title": "Futhark: International Journal of Runic Studies",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-0950"
+    },
+    {
+      "title": "Fysioterapeuten",
+      "field": "Helse- og sosialfag",
+      "level": 1,
+      "from_year": 1958,
+      "to_year": "",
+      "issn": "0807-9277"
+    },
+    {
+      "title": "Gáldu Cála. Journal of Indigenous Peoples Rights",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 2004,
+      "to_year": "",
+      "issn": "1504-4270"
+    },
+    {
+      "title": "Geriatrisk sykepleie",
+      "field": "Sykepleie",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-563X"
+    },
+    {
+      "title": "Gunneria",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1976,
+      "to_year": "",
+      "issn": "0332-8554"
+    },
+    {
+      "title": "Hamsun-selskapets skriftserie",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": 1988,
+      "to_year": "",
+      "issn": "0803-2688"
+    },
+    {
+      "title": "Heimen - Lokal og regional historie",
+      "field": "Historie",
+      "level": 1,
+      "from_year": 1922,
+      "to_year": "",
+      "issn": "1894-3195"
+    },
+    {
+      "title": "Historisk Tidsskrift",
+      "field": "Historie",
+      "level": 1,
+      "from_year": 1871,
+      "to_year": "",
+      "issn": "1504-2944"
+    },
+    {
+      "title": "Hjerteforum",
+      "field": "Med - Hjerte, kar og luftveier",
+      "level": 1,
+      "from_year": 1988,
+      "to_year": "",
+      "issn": "1890-9922"
+    },
+    {
+      "title": "Hold Pusten",
+      "field": "Med - Radiol og bildediagn",
+      "level": 1,
+      "from_year": "1974?",
+      "to_year": "",
+      "issn": "1890-8330"
+    },
+    {
+      "title": "Ibsen Studies",
+      "field": "Nordisk",
+      "level": 2,
+      "from_year": 2000,
+      "to_year": "",
+      "issn": "1741-8720"
+    },
+    {
+      "title": "ICAME Journal/International Computer Archive of Modern English",
+      "field": "Engelsk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1502-5462"
+    },
+    {
+      "title": "Ideas in History",
+      "field": "Filosofi og idéhistorie",
+      "level": 1,
+      "from_year": 2006,
+      "to_year": "",
+      "issn": "2245-5167"
+    },
+    {
+      "title": "InFormation - Nordic Journal of Art and Research",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-2479"
+    },
+    {
+      "title": "Instituttet for sammenlignende kulturforskning. Serie B, Skrifter",
+      "field": "Kulturvitenskap",
+      "level": 1,
+      "from_year": 1922,
+      "to_year": "",
+      "issn": "0332-6217"
+    },
+    {
+      "title": "Internasjonal Politikk",
+      "field": "Statsvitenskap",
+      "level": 1,
+      "from_year": 1937,
+      "to_year": "",
+      "issn": "1891-1757"
+    },
+    {
+      "title": "IRIS Selected Papers of the Information Systems Research Seminar in Scandinavia",
+      "field": "Informatikk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2387-3353"
+    },
+    {
+      "title": "Journal of Arabic and Islamic studies",
+      "field": "Asiatiske og afrikanske studier",
+      "level": 1,
+      "from_year": 1996,
+      "to_year": "",
+      "issn": "0806-198X"
+    },
+    {
+      "title": "Journal of Comparative Social Work",
+      "field": "Helse- og sosialfag",
+      "level": 1,
+      "from_year": 2006,
+      "to_year": "",
+      "issn": "0809-9936"
+    },
+    {
+      "title": "Journal of Electrical Bioimpedance",
+      "field": "Tekn - Generell",
+      "level": 1,
+      "from_year": 2010,
+      "to_year": "",
+      "issn": "1891-5469"
+    },
+    {
+      "title": "Journal of Media Innovations",
+      "field": "Medier og kommunikasjon",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-5562"
+    },
+    {
+      "title": "Journal of Peace Research",
+      "field": "Statsvitenskap",
+      "level": 2,
+      "from_year": 1964,
+      "to_year": "",
+      "issn": "1460-3578"
+    },
+    {
+      "title": "Jussens Venner",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 1952,
+      "to_year": "",
+      "issn": "1504-3126"
+    },
+    {
+      "title": "Kart og Plan",
+      "field": "Geografi",
+      "level": 1,
+      "from_year": 1908,
+      "to_year": "",
+      "issn": "0047-3278"
+    },
+    {
+      "title": "Kaupang Excavation Project Publication Series",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 2007,
+      "to_year": "",
+      "issn": "1890-4246"
+    },
+    {
+      "title": "KIFO perspektiv",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0807-7525"
+    },
+    {
+      "title": "Kildeutgivelser fra Riksarkivet",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-2601"
+    },
+    {
+      "title": "Kirke og kultur",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": 1894,
+      "to_year": "",
+      "issn": "1504-3002"
+    },
+    {
+      "title": "Klassisk Forum",
+      "field": "Gresk og latin",
+      "level": 1,
+      "from_year": 1986,
+      "to_year": "",
+      "issn": "0801-3179"
+    },
+    {
+      "title": "Kon-Tiki Museum. Occasional Papers",
+      "field": "Sosialantropologi",
+      "level": 1,
+      "from_year": 1989,
+      "to_year": "",
+      "issn": "0802-6491"
+    },
+    {
+      "title": "Kritisk juss",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 1993,
+      "to_year": "",
+      "issn": "2387-4546"
+    },
+    {
+      "title": "Kunst og kultur",
+      "field": "Kunsthistorie",
+      "level": 1,
+      "from_year": 1910,
+      "to_year": "",
+      "issn": "1504-3029"
+    },
+    {
+      "title": "Kyrkjefag Profil",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1502-7929"
+    },
+    {
+      "title": "LexicoNordica",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": 1994,
+      "to_year": "",
+      "issn": "1891-2206"
+    },
+    {
+      "title": "Lov og Rett",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 1962,
+      "to_year": "",
+      "issn": "1504-3061"
+    },
+    {
+      "title": "Maal og Minne",
+      "field": "Nordisk",
+      "level": 2,
+      "from_year": 1909,
+      "to_year": "",
+      "issn": "1890-5455"
+    },
+    {
+      "title": "Magma - Tidsskrift for økonomi og ledelse",
+      "field": "Økonomisk-administrative fag",
+      "level": 1,
+      "from_year": 1998,
+      "to_year": "",
+      "issn": "1500-6069"
+    },
+    {
+      "title": "Målbryting",
+      "field": "Lingvistikk",
+      "level": 1,
+      "from_year": 1998,
+      "to_year": "",
+      "issn": "1500-8576"
+    },
+    {
+      "title": "MarIus",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 1975,
+      "to_year": "",
+      "issn": "0332-7868"
+    },
+    {
+      "title": "Materialisten. Tidsskrift for forskning, fagkritikk og teoretisk debatt",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 1973,
+      "to_year": "",
+      "issn": "0801-3055"
+    },
+    {
+      "title": "Michael",
+      "field": "Med - Generelle tidsskr",
+      "level": 1,
+      "from_year": 2004,
+      "to_year": "",
+      "issn": "1893-0794"
+    },
+    {
+      "title": "Mineralproduksjon",
+      "field": "Tekn - Anvendt geologi og petroleumsfag",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-1170"
+    },
+    {
+      "title": "Modeling, Identification and Control",
+      "field": "Tekn - Elektronikk og kybernetikk",
+      "level": 1,
+      "from_year": 1980,
+      "to_year": "",
+      "issn": "1890-1328"
+    },
+    {
+      "title": "Modernisme i nordisk lyrikk",
+      "field": "Litteraturvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-4671"
+    },
+    {
+      "title": "Musikk og tradisjon",
+      "field": "Musikkvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-0772"
+    },
+    {
+      "title": "Musikkterapi",
+      "field": "Musikkvitenskap",
+      "level": 1,
+      "from_year": 1978,
+      "to_year": "",
+      "issn": "1890-6052"
+    },
+    {
+      "title": "Namn og Nemne: Tidsskrift for norsk namnegransking",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": 1984,
+      "to_year": "",
+      "issn": "0800-4684"
+    },
+    {
+      "title": "Nevropsykologi: Medlemsblad for Norsk Nevropsykologisk Forening",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-8855"
+    },
+    {
+      "title": "NIK: Norsk Informatikkonferanse",
+      "field": "Informatikk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-0721"
+    },
+    {
+      "title": "NMH-publikasjoner",
+      "field": "Musikkvitenskap",
+      "level": 1,
+      "from_year": 1982,
+      "to_year": "",
+      "issn": "0333-3760"
+    },
+    {
+      "title": "NOA. Norsk som andrespråk",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": 1985,
+      "to_year": "",
+      "issn": "0801-3284"
+    },
+    {
+      "title": "NOKOBIT - Norsk konferanse for organisasjoners bruk av informasjonsteknologi",
+      "field": "Informatikk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-7719"
+    },
+    {
+      "title": "NORA - Nordic Journal of Feminist and Gender Research",
+      "field": "Kjønnsforskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1502-394X"
+    },
+    {
+      "title": "Nordand: nordisk tidsskrift for andrespråksforskning",
+      "field": "Lingvistikk",
+      "level": 1,
+      "from_year": 2006,
+      "to_year": "",
+      "issn": "0809-9227"
+    },
+    {
+      "title": "Nordic Atlas of Language Structures (NALS) Journal",
+      "field": "Lingvistikk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2387-2667"
+    },
+    {
+      "title": "Nordic Journal of Dance: practice, education and research",
+      "field": "Dans",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1891-6708"
+    },
+    {
+      "title": "Nordic Journal of Digital Literacy",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0809-714X"
+    },
+    {
+      "title": "Nordic Journal of Digital Literacy",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2002,
+      "to_year": 2006,
+      "issn": "1891-943X"
+    },
+    {
+      "title": "Nordic Journal of Health Economics",
+      "field": "Med - Generelle tidsskr",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-9710"
+    },
+    {
+      "title": "Nordic Journal of Human Rights",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 1983,
+      "to_year": "",
+      "issn": "1891-814X"
+    },
+    {
+      "title": "Nordic Journal of Information Literacy in Higher Education, NORIL",
+      "field": "Biblioteks- og informasjonsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1890-5900"
+    },
+    {
+      "title": "Nordic Journal of Modern Language Methodology",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-2245"
+    },
+    {
+      "title": "Nordic Journal of Philosophical Logic",
+      "field": "Filosofi og idéhistorie",
+      "level": 1,
+      "from_year": 1996,
+      "to_year": 2001,
+      "issn": "0806-6213"
+    },
+    {
+      "title": "Nordic Journal of Political Economy",
+      "field": "Samfunnsøkonomi",
+      "level": 1,
+      "from_year": 1995,
+      "to_year": "",
+      "issn": "1891-1854"
+    },
+    {
+      "title": "Nordic Journal of Religion and Society",
+      "field": "Teologi og religionsvitenskap",
+      "level": 2,
+      "from_year": 1988,
+      "to_year": "",
+      "issn": "1890-7008"
+    },
+    {
+      "title": "Nordic Journal of Science and Technology Studies",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-4647"
+    },
+    {
+      "title": "Nordic Journal of Social Research",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-2783"
+    },
+    {
+      "title": "Nordic Studies in Education",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2010,
+      "to_year": "",
+      "issn": "1891-5949"
+    },
+    {
+      "title": "Nordicom Information",
+      "field": "Medier og kommunikasjon",
+      "level": 1,
+      "from_year": 1980,
+      "to_year": "",
+      "issn": "0349-5949"
+    },
+    {
+      "title": "Nordina: Nordic studies in science education",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2005,
+      "to_year": "",
+      "issn": "1894-1257"
+    },
+    {
+      "title": "Nordisk arkitekturforskning",
+      "field": "Arkitektur og design",
+      "level": 2,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-5281"
+    },
+    {
+      "title": "Nordisk Barnehageforskning",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2008,
+      "to_year": "",
+      "issn": "1890-9167"
+    },
+    {
+      "title": "Nordisk musikkpedagogisk forskning: Årbok",
+      "field": "Musikkvitenskap",
+      "level": 1,
+      "from_year": 1997,
+      "to_year": "",
+      "issn": "1504-5021"
+    },
+    {
+      "title": "Nordisk Østforum",
+      "field": "Slavisk-baltisk",
+      "level": 1,
+      "from_year": 1987,
+      "to_year": "",
+      "issn": "1891-1773"
+    },
+    {
+      "title": "Nordisk politiforskning",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-8693"
+    },
+    {
+      "title": "Nordisk samtidspoesi",
+      "field": "Litteraturvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2387-452X"
+    },
+    {
+      "title": "Nordisk sosialt arbeid",
+      "field": "Helse- og sosialfag",
+      "level": 1,
+      "from_year": 1981,
+      "to_year": 2008,
+      "issn": "1504-3037"
+    },
+    {
+      "title": "Nordisk sygeplejeforskning",
+      "field": "Sykepleie",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-2686"
+    },
+    {
+      "title": "Nordisk tidskrift for musikkterapi - Nordic Journal of Music Therapy",
+      "field": "Musikkvitenskap",
+      "level": 2,
+      "from_year": 1992,
+      "to_year": "",
+      "issn": "1944-8260"
+    },
+    {
+      "title": "Nordisk tidsskrift for helseforskning",
+      "field": "Med - Samfunnsmedisin",
+      "level": 1,
+      "from_year": 2005,
+      "to_year": "",
+      "issn": "1891-2982"
+    },
+    {
+      "title": "Nordisk tidsskrift for pedagogikk & kritikk",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2387-5739"
+    },
+    {
+      "title": "Nordiske organisasjonsstudier",
+      "field": "Økonomisk-administrative fag",
+      "level": 1,
+      "from_year": 1999,
+      "to_year": "",
+      "issn": "1501-8237"
+    },
+    {
+      "title": "Nordlit",
+      "field": "Litteraturvitenskap",
+      "level": 1,
+      "from_year": 1997,
+      "to_year": "",
+      "issn": "1503-2086"
+    },
+    {
+      "title": "Nordlyd",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1503-8599"
+    },
+    {
+      "title": "Norma",
+      "field": "Kjønnsforskning",
+      "level": 1,
+      "from_year": 2006,
+      "to_year": "",
+      "issn": "1890-2146"
+    },
+    {
+      "title": "Norrøne tekster",
+      "field": "Historie",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0801-7379"
+    },
+    {
+      "title": "Norsk Antropologisk Tidsskrift",
+      "field": "Sosialantropologi",
+      "level": 1,
+      "from_year": 1990,
+      "to_year": "",
+      "issn": "1504-2898"
+    },
+    {
+      "title": "Norsk Epidemiologi",
+      "field": "Med - Samfunnsmedisin",
+      "level": 1,
+      "from_year": 1991,
+      "to_year": "",
+      "issn": "1891-5477"
+    },
+    {
+      "title": "Norsk Epidemiologi, Supplement",
+      "field": "Med - Samfunnsmedisin",
+      "level": 1,
+      "from_year": 1991,
+      "to_year": "",
+      "issn": "0803-4206"
+    },
+    {
+      "title": "Norsk Farmaceutisk Tidsskrift",
+      "field": "Farmasi, farmakologi og toksikologi",
+      "level": 1,
+      "from_year": 1916,
+      "to_year": "",
+      "issn": "0029-1935"
+    },
+    {
+      "title": "Norsk Filosofisk tidsskrift",
+      "field": "Filosofi og idéhistorie",
+      "level": 1,
+      "from_year": 1966,
+      "to_year": "",
+      "issn": "1504-2901"
+    },
+    {
+      "title": "Norsk Geografisk Tidsskrift",
+      "field": "Geografi",
+      "level": 1,
+      "from_year": 1926,
+      "to_year": "",
+      "issn": "1502-5292"
+    },
+    {
+      "title": "Norsk Geologisk Tidsskrift",
+      "field": "Geofag",
+      "level": 1,
+      "from_year": 1926,
+      "to_year": "",
+      "issn": "1502-5322"
+    },
+    {
+      "title": "Norsk Gestalttidsskrift",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1503-8912"
+    },
+    {
+      "title": "Norsk Informasjonssikkerhetskonferanse (NISK)",
+      "field": "Informatikk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-7735"
+    },
+    {
+      "title": "Norsk lingvistisk tidsskrift",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": 1983,
+      "to_year": "",
+      "issn": "2387-6719"
+    },
+    {
+      "title": "Norsk Litterær Årbok",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": 1966,
+      "to_year": "",
+      "issn": "0078-1266"
+    },
+    {
+      "title": "Norsk Litteraturvitenskapelig Tidsskrift",
+      "field": "Litteraturvitenskap",
+      "level": 1,
+      "from_year": 1998,
+      "to_year": "",
+      "issn": "1504-288X"
+    },
+    {
+      "title": "Norsk Medietidsskrift",
+      "field": "Medier og kommunikasjon",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0805-9535"
+    },
+    {
+      "title": "Norsk pedagogisk tidsskrift",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 1917,
+      "to_year": "",
+      "issn": "1504-2987"
+    },
+    {
+      "title": "Norsk Slektshistorisk Tidsskrift",
+      "field": "Historie",
+      "level": 1,
+      "from_year": 1927,
+      "to_year": "",
+      "issn": "0029-2141"
+    },
+    {
+      "title": "Norsk Statsvitenskapelig Tidsskrift",
+      "field": "Statsvitenskap",
+      "level": 1,
+      "from_year": 1985,
+      "to_year": "",
+      "issn": "1504-2936"
+    },
+    {
+      "title": "Norsk Tidsskrift for Atferdsanalyse",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": 2006,
+      "to_year": "",
+      "issn": "0809-781X"
+    },
+    {
+      "title": "Norsk tidsskrift for logopedi",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 1969,
+      "to_year": "",
+      "issn": "0332-7256"
+    },
+    {
+      "title": "Norsk tidsskrift for migrasjonsforskning",
+      "field": "Geografi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1890-7016"
+    },
+    {
+      "title": "Norsk tidsskrift for misjonsvitenskap",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": 2007,
+      "to_year": "",
+      "issn": "2464-1936"
+    },
+    {
+      "title": "Norsk tidsskrift for musikkforskning",
+      "field": "Musikkvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-8671"
+    },
+    {
+      "title": "Norsk Veterinærtidsskrift",
+      "field": "Veterinærmedisin",
+      "level": 1,
+      "from_year": 1970,
+      "to_year": "",
+      "issn": "0332-5741"
+    },
+    {
+      "title": "Norske Oldfunn",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1916,
+      "to_year": "",
+      "issn": "0333-127X"
+    },
+    {
+      "title": "Norsklæreren",
+      "field": "Nordisk",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0332-7264"
+    },
+    {
+      "title": "Norwegian Archaeological Review",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1968,
+      "to_year": "",
+      "issn": "1502-7678"
+    },
+    {
+      "title": "Norwegian Journal of Agricultural Sciences",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1987,
+      "to_year": "",
+      "issn": "0801-5341"
+    },
+    {
+      "title": "Norwegian Journal of Entomology",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1999,
+      "to_year": "",
+      "issn": "1894-0692"
+    },
+    {
+      "title": "Norwegian Petroleum Society (NPF): Special Publications",
+      "field": "Tekn - Anvendt geologi og petroleumsfag",
+      "level": 1,
+      "from_year": 1992,
+      "to_year": "",
+      "issn": "2212-1390"
+    },
+    {
+      "title": "Norwegian-American Essays",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": 1986,
+      "to_year": "",
+      "issn": "0809-1366"
+    },
+    {
+      "title": "Nota Bene",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1891-4829"
+    },
+    {
+      "title": "Novus Studies in Literature",
+      "field": "Engelsk",
+      "level": 1,
+      "from_year": 1997,
+      "to_year": "",
+      "issn": "1503-3457"
+    },
+    {
+      "title": "NTNU Engineering Series",
+      "field": "Tekn - Industriell økonomi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-8110"
+    },
+    {
+      "title": "Nytt Norsk Tidsskrift",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": 1984,
+      "to_year": "",
+      "issn": "1504-3053"
+    },
+    {
+      "title": "Økonomisk fiskeriforskning: Ledelse, marked, økonomi",
+      "field": "Økonomisk-administrative fag",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1891-0998"
+    },
+    {
+      "title": "Omsorg: Nordisk tidsskrift for Palliativ Medisin",
+      "field": "Med - Generelle tidsskr",
+      "level": 1,
+      "from_year": 1984,
+      "to_year": "",
+      "issn": "0800-7489"
+    },
+    {
+      "title": "Ornis Norvegica",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1999,
+      "to_year": "",
+      "issn": "1892-9737"
+    },
+    {
+      "title": "Oslo Law Review",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2387-3299"
+    },
+    {
+      "title": "Oslo Studies in Language (OSLa)",
+      "field": "Lingvistikk",
+      "level": 1,
+      "from_year": 2009,
+      "to_year": "",
+      "issn": "1890-9639"
+    },
+    {
+      "title": "På Spissen",
+      "field": "Dans",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2464-2258"
+    },
+    {
+      "title": "Polar Research",
+      "field": "Geografi",
+      "level": 1,
+      "from_year": 1982,
+      "to_year": "",
+      "issn": "1751-8369"
+    },
+    {
+      "title": "Poljarnyj Vestnik",
+      "field": "Litteraturvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1890-9671"
+    },
+    {
+      "title": "Praktisk økonomi & finans",
+      "field": "Økonomisk-administrative fag",
+      "level": 1,
+      "from_year": 1999,
+      "to_year": "",
+      "issn": "1504-2871"
+    },
+    {
+      "title": "Pressehistorisk tidsskrift",
+      "field": "Medier og kommunikasjon",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2387-3655"
+    },
+    {
+      "title": "Primitive tider",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1998,
+      "to_year": "",
+      "issn": "1501-0430"
+    },
+    {
+      "title": "Prismet",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 1950,
+      "to_year": "",
+      "issn": "0032-8847"
+    },
+    {
+      "title": "Prismet bok",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2008,
+      "to_year": "",
+      "issn": "1890-8829"
+    },
+    {
+      "title": "Professions and Professionalism",
+      "field": "Sosiologi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-1049"
+    },
+    {
+      "title": "Psykologi i kommunen",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-3364"
+    },
+    {
+      "title": "PsykTestBARN",
+      "field": "Med - Psykiatri",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-9910"
+    },
+    {
+      "title": "Publications from the Wittgenstein Archives at the University of Bergen",
+      "field": "Filosofi og idéhistorie",
+      "level": 1,
+      "from_year": 1991,
+      "to_year": "",
+      "issn": "0803-3137"
+    },
+    {
+      "title": "Purinergic Signalling Purinergic Signalling",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1573-9546"
+    },
+    {
+      "title": "Rangifer",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1981,
+      "to_year": "",
+      "issn": "1890-6729"
+    },
+    {
+      "title": "Reconceptualizing Educational Research Methodology (RERM)",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1892-042X"
+    },
+    {
+      "title": "Research on Steiner Education",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1891-6511"
+    },
+    {
+      "title": "Retfærd. Nordisk Juridisk Tidsskrift",
+      "field": "Rettsvitenskap",
+      "level": 2,
+      "from_year": 1976,
+      "to_year": "",
+      "issn": "0105-1121"
+    },
+    {
+      "title": "Sakprosa",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": 2009,
+      "to_year": "",
+      "issn": "1891-5108"
+    },
+    {
+      "title": "Samfunnsøkonomen",
+      "field": "Samfunnsøkonomi",
+      "level": 1,
+      "from_year": 2008,
+      "to_year": "",
+      "issn": "1890-5250"
+    },
+    {
+      "title": "Sámi dieđalaš áigečála",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 2,
+      "from_year": 1994,
+      "to_year": "",
+      "issn": "1894-0498"
+    },
+    {
+      "title": "SÁMIacademica",
+      "field": "Litteraturvitenskap",
+      "level": 2,
+      "from_year": 2008,
+      "to_year": "",
+      "issn": "1891-4519"
+    },
+    {
+      "title": "Sarsia",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1961,
+      "to_year": 2004,
+      "issn": "1503-1128"
+    },
+    {
+      "title": "Scandinavian Actuarial Journal",
+      "field": "Økonomisk-administrative fag",
+      "level": 1,
+      "from_year": 1974,
+      "to_year": "",
+      "issn": "1651-2030"
+    },
+    {
+      "title": "Scandinavian Journal of Hospitality and Tourism",
+      "field": "Geografi",
+      "level": 1,
+      "from_year": 2001,
+      "to_year": "",
+      "issn": "1502-2269"
+    },
+    {
+      "title": "Scandinavian Journal of Optometry and Visual Science",
+      "field": "Med - Øyesykdommer",
+      "level": 1,
+      "from_year": 2008,
+      "to_year": "",
+      "issn": "1891-0890"
+    },
+    {
+      "title": "Scandinavian Journal of Organizational Psychology",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": 2006,
+      "to_year": "",
+      "issn": "1891-473X"
+    },
+    {
+      "title": "Scandinavian Psychologist",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1894-5570"
+    },
+    {
+      "title": "Seminar.net: Media, technology and lifelong learning",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2005,
+      "to_year": "",
+      "issn": "1504-4831"
+    },
+    {
+      "title": "Sjøfartshistorisk årbok",
+      "field": "Historie",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0080-9888"
+    },
+    {
+      "title": "Skatterett. Tidsskrift for skatt og avgift",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 1982,
+      "to_year": "",
+      "issn": "1504-310X"
+    },
+    {
+      "title": "Skrifter og avhandlinger - Det Norske videnskaps-akademi. II, Hist.-filos klasse",
+      "field": "Tverrfaglig humanistisk forskning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1502-9727"
+    },
+    {
+      "title": "Skriftserie for jus",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1503-7738"
+    },
+    {
+      "title": "Skriftserie fra Senter for musikk og helse",
+      "field": "Musikkvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-3580"
+    },
+    {
+      "title": "Skriftserien klasseromsforskning",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 1996,
+      "to_year": "",
+      "issn": "0807-0083"
+    },
+    {
+      "title": "Slavica Bergensia",
+      "field": "Slavisk-baltisk",
+      "level": 1,
+      "from_year": 1999,
+      "to_year": "",
+      "issn": "1501-8954"
+    },
+    {
+      "title": "Søkelys på arbeidslivet",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": 2007,
+      "to_year": "",
+      "issn": "1504-7989"
+    },
+    {
+      "title": "Søkelys på arbeidsmarkedet",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": 2007,
+      "to_year": 2007,
+      "issn": "1504-7970"
+    },
+    {
+      "title": "Sommerfeltia",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1985,
+      "to_year": "",
+      "issn": "2084-0098"
+    },
+    {
+      "title": "Sosiologi i dag",
+      "field": "Sosiologi",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-4617"
+    },
+    {
+      "title": "Sosiologisk Tidsskrift",
+      "field": "Sosiologi",
+      "level": 1,
+      "from_year": 1993,
+      "to_year": "",
+      "issn": "1504-2928"
+    },
+    {
+      "title": "Spesialpedagogikk",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": "196X?",
+      "to_year": "",
+      "issn": "0332-8457"
+    },
+    {
+      "title": "St. Sunniva: Forum for Norsk Kvinnelig Teologforening",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0808-2901"
+    },
+    {
+      "title": "Studia Musicologica Norvegica",
+      "field": "Musikkvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1504-2960"
+    },
+    {
+      "title": "Sudanic Africa - A Journal of Historical Sources",
+      "field": "Asiatiske og afrikanske studier",
+      "level": 1,
+      "from_year": 1990,
+      "to_year": "",
+      "issn": "0806-7120"
+    },
+    {
+      "title": "Suicidologi",
+      "field": "Med - Psykiatri",
+      "level": 1,
+      "from_year": 1999,
+      "to_year": "",
+      "issn": "1892-9842"
+    },
+    {
+      "title": "Sykepleien Forskning",
+      "field": "Sykepleie",
+      "level": 1,
+      "from_year": 1996,
+      "to_year": "",
+      "issn": "1891-2710"
+    },
+    {
+      "title": "Synopsis fungorum",
+      "field": "Biologi",
+      "level": 1,
+      "from_year": 1989,
+      "to_year": "",
+      "issn": "0802-8966"
+    },
+    {
+      "title": "Tangenten: tidsskrift for matematikk i grunnskolen",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0802-8192"
+    },
+    {
+      "title": "Teologisk Tidsskrift",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-0271"
+    },
+    {
+      "title": "The Complexity of obesity proceedings",
+      "field": "Helse- og sosialfag",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2387-2748"
+    },
+    {
+      "title": "The IMP Journal",
+      "field": "Økonomisk-administrative fag",
+      "level": 1,
+      "from_year": 2006,
+      "to_year": "",
+      "issn": "0809-7259"
+    },
+    {
+      "title": "Theofilos",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-7969"
+    },
+    {
+      "title": "Tidsskrift for Den norske legeforening",
+      "field": "Med - Generelle tidsskr",
+      "level": 1,
+      "from_year": 1881,
+      "to_year": "",
+      "issn": "0807-7096"
+    },
+    {
+      "title": "Tidsskrift for eiendomsrett",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0809-9529"
+    },
+    {
+      "title": "Tidsskrift for erstatningsrett, forsikringsrett og velferdsrett",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1891-8956"
+    },
+    {
+      "title": "Tidsskrift for familierett, arverett og barnevernrettslige spørsmål",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 2003,
+      "to_year": "",
+      "issn": "0809-9553"
+    },
+    {
+      "title": "Tidsskrift for forretningsjus",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0809-9510"
+    },
+    {
+      "title": "Tidsskrift for kjønnsforskning",
+      "field": "Kjønnsforskning",
+      "level": 1,
+      "from_year": 2005,
+      "to_year": "",
+      "issn": "1891-1781"
+    },
+    {
+      "title": "Tidsskrift for kulturforskning",
+      "field": "Kulturvitenskap",
+      "level": 1,
+      "from_year": 2002,
+      "to_year": "",
+      "issn": "2387-6727"
+    },
+    {
+      "title": "Tidsskrift for Norsk Psykologforening",
+      "field": "Psykologi",
+      "level": 1,
+      "from_year": 1973,
+      "to_year": "",
+      "issn": "0332-6470"
+    },
+    {
+      "title": "Tidsskrift for omsorgsforskning",
+      "field": "Helse- og sosialfag",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "2387-5984"
+    },
+    {
+      "title": "Tidsskrift for praktisk teologi",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1893-4773"
+    },
+    {
+      "title": "Tidsskrift for psykisk helsearbeid",
+      "field": "Helse- og sosialfag",
+      "level": 1,
+      "from_year": 2004,
+      "to_year": "",
+      "issn": "1504-3010"
+    },
+    {
+      "title": "Tidsskrift for Rettsvitenskap",
+      "field": "Rettsvitenskap",
+      "level": 2,
+      "from_year": 1888,
+      "to_year": "",
+      "issn": "1504-3096"
+    },
+    {
+      "title": "Tidsskrift for samfunnsforskning",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": 1960,
+      "to_year": "",
+      "issn": "1504-291X"
+    },
+    {
+      "title": "Tidsskrift for sjelesorg",
+      "field": "Teologi og religionsvitenskap",
+      "level": 1,
+      "from_year": 1981,
+      "to_year": "",
+      "issn": "0333-3388"
+    },
+    {
+      "title": "Tidsskrift for strafferett",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": 2001,
+      "to_year": "",
+      "issn": "0809-9537"
+    },
+    {
+      "title": "Tidsskrift for ungdomsforskning",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": 2001,
+      "to_year": "",
+      "issn": "1894-1036"
+    },
+    {
+      "title": "Tidsskrift for velferdsforskning",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": 1998,
+      "to_year": "",
+      "issn": "0809-2052"
+    },
+    {
+      "title": "Tidsskriftet Arkiv",
+      "field": "Biblioteks- og informasjonsvitenskap",
+      "level": 1,
+      "from_year": 2010,
+      "to_year": "",
+      "issn": "1891-8107"
+    },
+    {
+      "title": "Tidsskriftet FoU i praksis",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 2006,
+      "to_year": "",
+      "issn": "1890-6990"
+    },
+    {
+      "title": "Tidsskriftet Norges Barnevern",
+      "field": "Helse- og sosialfag",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "1891-1838"
+    },
+    {
+      "title": "Tidsskriftet Utmark",
+      "field": "Tverrfaglig samfunnsforskning",
+      "level": 1,
+      "from_year": 2000,
+      "to_year": "",
+      "issn": "1502-3532"
+    },
+    {
+      "title": "Trondheim Studies on Eastern European Cultures and Societies",
+      "field": "Slavisk-baltisk",
+      "level": 1,
+      "from_year": 1999,
+      "to_year": "",
+      "issn": "1501-6684"
+    },
+    {
+      "title": "UNIPED",
+      "field": "Pedagogikk og utdanning",
+      "level": 1,
+      "from_year": 1978,
+      "to_year": "",
+      "issn": "1893-8981"
+    },
+    {
+      "title": "Universitetet i Bergen Arkeologiske Skrifter - Nordisk",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 2005,
+      "to_year": "",
+      "issn": "0809-6058"
+    },
+    {
+      "title": "Utvalget - Dommer, uttalelser mv i skattesaker",
+      "field": "Rettsvitenskap",
+      "level": 1,
+      "from_year": "",
+      "to_year": "",
+      "issn": "0332-9763"
+    },
+    {
+      "title": "Vann",
+      "field": "Tekn - Miljøteknologi og industriell økologi",
+      "level": 1,
+      "from_year": 1966,
+      "to_year": "",
+      "issn": "0042-2592"
+    },
+    {
+      "title": "Vardøger",
+      "field": "Filosofi og idéhistorie",
+      "level": 1,
+      "from_year": 1969,
+      "to_year": "",
+      "issn": "0333-0877"
+    },
+    {
+      "title": "Viking",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1937,
+      "to_year": "",
+      "issn": "0332-608X"
+    },
+    {
+      "title": "Vitark: Acta archaeologica Nidrosiensia",
+      "field": "Arkeologi og konservering",
+      "level": 1,
+      "from_year": 1991,
+      "to_year": "",
+      "issn": "1501-6099"
+    },
+    {
+      "title": "Voices: A World Forum for Music Therapy",
+      "field": "Musikkvitenskap",
+      "level": 1,
+      "from_year": 2001,
+      "to_year": "",
+      "issn": "1504-1611"
+    }
+  ],
+  "meta": {
+    "title": "Norske vitenskapelige tidsskrift - Free Download",
+    "description": "Liste over norske vitenskapelige tidsskrift med fagfelt, nivå i publiseringsindikatoren, utgivelsesperiode og ISSN. Contains 265 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norske vitenskapelige tidsskrift | ListBase",
+    "seo_description": "Download Norske vitenskapelige tidsskrift — 265 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 265 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_vitenskapelige_tidsskrift"
+    ]
+  }
+}

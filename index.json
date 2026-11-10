@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-10T02:26:49.635Z",
-  "total_datasets": 480,
-  "total_records": 1202003,
+  "generated": "2026-11-10T02:27:01.187Z",
+  "total_datasets": 481,
+  "total_records": 1202268,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "entertainment",
@@ -1900,6 +1900,33 @@
         "xlsx": {
           "name": "no-universiteter_NO.xlsx",
           "size": 8177
+        }
+      }
+    },
+    {
+      "id": "no-vitenskapelige-tidsskrift",
+      "name": "Norske vitenskapelige tidsskrift",
+      "category": "education",
+      "record_count": 265,
+      "columns": [
+        "title",
+        "field",
+        "level",
+        "from_year",
+        "to_year",
+        "issn"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_vitenskapelige_tidsskrift",
+      "updated": "2026-11",
+      "size": 51701,
+      "files": {
+        "csv": {
+          "name": "no-vitenskapelige-tidsskrift_NO.csv",
+          "size": 20956
+        },
+        "xlsx": {
+          "name": "no-vitenskapelige-tidsskrift_NO.xlsx",
+          "size": 19873
         }
       }
     },
