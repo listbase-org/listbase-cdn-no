@@ -1,0 +1,583 @@
+{
+  "id": "no-urnordiske-navn",
+  "name": "Urnordiske personnavn",
+  "title": "Urnordiske personnavn",
+  "description": "Personnavn kjent fra urnordiske runeinnskrifter med kjønn, betydning og etymologi, funnsted samt norrøn og moderne form.",
+  "category": "language",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_urnordiske_navn",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_urnordiske_navn",
+  "updated": "2026-11",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "meaning_etymology",
+      "label": "Meaning Etymology",
+      "type": "string"
+    },
+    {
+      "key": "attested_in",
+      "label": "Attested In",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    },
+    {
+      "key": "old_norse_form",
+      "label": "Old Norse Form",
+      "type": "string"
+    },
+    {
+      "key": "modern_form",
+      "label": "Modern Form",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Agilamundo, Agilamundō",
+      "gender": "k",
+      "meaning_etymology": "Feminin form av *Agilamunduz. Fra urgermansk ag- som betyr «spiss, egg» eller «uro, frykt», utvidet med diminutivt -l-suffix, eller -munduz som betyr «beskytter».",
+      "attested_in": "Rosselandsteinen, Hardanger, fra 400-tallet",
+      "comment": "Navnet kan være maskulint.",
+      "old_norse_form": "-",
+      "modern_form": "Ögmunda"
+    },
+    {
+      "name": "Aiþalātaz",
+      "gender": "m",
+      "meaning_etymology": "gotisk aiþs, norrønt eiðr, «ed», og enten norrønt láta, «gi lyd fra seg; snakke; si», eller norrønt latr, «lat».",
+      "attested_in": "Nydam-økseskaft fra ca 340 - 360.",
+      "comment": "Usikkert om det er et personnavn eller en personbetegnelse",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Akaz",
+      "gender": "m",
+      "meaning_etymology": "norrønt aka «røre, flytte; kjøre; bevege seg»",
+      "attested_in": "Åsum-brakteaten (K 131, IK 11) fra ca 440 - 560",
+      "comment": "Muligens ikke et personnavn, men et navn på Odin.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Alawið, Alawīđaz / Alawiduz",
+      "gender": "m",
+      "meaning_etymology": "norrønt allr «all» eller al- (forsterkende prefiks) + urnordisk *wiðu «tre» «Tre» brukes i skaldespråket som kjenning for «mann, kriger». Betydningen kan være «all-kjemperen»",
+      "attested_in": "Brakteat IK 161 (Skodborgbrakteaten/Skodborghus-B fra ca. 440 - 560)",
+      "comment": "Enkelte runologer har påpekt at ordet kan være verb, ikke et navn.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "AlawiniR, Alawin, Alawiniz",
+      "gender": "m",
+      "meaning_etymology": "norrønt allr «all» eller al- (forsterkende prefiks) + urnordisk *winiR «venn» «all-venn»/«svært god venn»",
+      "attested_in": "Brakteat IK 161 (Skodborgbrakteaten/Skodborghus-B fra ca. 440 - 560)",
+      "comment": "Kan hende en Odin -betegnelse.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "AljamarkiR, Aljamarkiz",
+      "gender": "m",
+      "meaning_etymology": "«annen, annet» + urnordisk *markō «land- skog-, grenseområde» «Jeg, den fremmede»",
+      "attested_in": "Kårstad, Stryn (innskrift på fjell)",
+      "comment": "Muligens kun et tilnavn",
+      "old_norse_form": "",
+      "modern_form": ""
+    },
+    {
+      "name": "Ala, Alla",
+      "gender": "m",
+      "meaning_etymology": "Kortform av navn med Ala-, «all, hel», eller av den svake formen av adjektivet al(l)a-, «all; hel».",
+      "attested_in": "Vimose-doppskoen (K 22) fra ca. 210-260.",
+      "comment": "Runerekken har av enkelte forskere ikke blitt ansett som et navn.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Alugōdaz, Alugōdu",
+      "gender": "m",
+      "meaning_etymology": "urnordisk alu, «beskyttelse», eller «øl» + gōda-, «god» eller «gud».",
+      "attested_in": "Værløse-fibulaen (K 11)",
+      "comment": "Innskriften « alugod » i en sølvbrosje fra 200-tallet funnet i Danmark.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Aluko, Alukō",
+      "gender": "f",
+      "meaning_etymology": "urnordisk alu, «beskyttelse, hell», med kjæleform-suffiks *-kōn",
+      "attested_in": "Førde runesøkke, Sunnfjord",
+      "comment": "Kan være diminutiv til enten substantivet alu, et ord som opptrer i mange runeinnskrifter, eller Alu-, førsteledd i en del personnavn.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Asugas(t/d)iR, Ãsugas(t/d)iR eller Ansugas(t/d)iR, Ansugastiz",
+      "gender": "m",
+      "meaning_etymology": "norrønt áss, «gud» + -gastiR «gjest»",
+      "attested_in": "Myklebostadsteinen",
+      "comment": "Tegnet som har blitt brukt for å skrive d -en i navnet er uvanlig. Det er mulig det skal leses t, eller som et skilletegn. Dette påvirker tolkningen av navnet.",
+      "old_norse_form": "*Ásgestr",
+      "modern_form": "*Åsgjest"
+    },
+    {
+      "name": "ÃsugislaR, Ansugīslaz",
+      "gender": "m",
+      "meaning_etymology": "norrønt áss «gud» + «gissel» (norrønt gísl) eller gīslaz, «pilskaft».",
+      "attested_in": "Innskrift på Kragehulspydet, Kragehul mose, Fyn, Danmark",
+      "comment": "",
+      "old_norse_form": "Ásgísl",
+      "modern_form": "Ásgils *Åsgisl"
+    },
+    {
+      "name": "Auþa / Auþþa, *Auda",
+      "gender": "m",
+      "meaning_etymology": "norrønt auðr, «eiendom», «rikdom», «lykke»",
+      "attested_in": "Fra stedsnavnet Ölöv (tidligere Øthæløf, Øthelef, Øtheløf, Øthalef), et -lev-navn",
+      "comment": "",
+      "old_norse_form": "Auði, Auðr",
+      "modern_form": "Aude Aude Auði, Auður Eyði"
+    },
+    {
+      "name": "Bera",
+      "gender": "m",
+      "meaning_etymology": "gammelhøytysk bero, «bjørn»",
+      "attested_in": "Kragehul-knivskaftet (K 28)",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Bidawarjaz, Biðawarjaz, Bindawarjaz",
+      "gender": "m",
+      "meaning_etymology": "norrønt biðja, «ønske; be», norrønt bída, «vente», norrønt binda, «binde», eller gotisk baidjan, norrønt beiða, «tvinge» + norrønt verja, «forsvare, beskytte».",
+      "attested_in": "Nøvling-fibulaen (K 13a)",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Borō",
+      "gender": "k",
+      "meaning_etymology": "beslektet med eldre islandsk bura, «datter»? Fra en feminin avledning til norrøne burr, borr, «sønn».",
+      "attested_in": "Opedalsteinen (K 76), Hardanger",
+      "comment": "Runen som betegner vokalene har uvanlig form, men har av flere runologer blitt tolket som o. Kanskje et kjælenavn.",
+      "old_norse_form": "",
+      "modern_form": "*Bora"
+    },
+    {
+      "name": "Braidō",
+      "gender": "k",
+      "meaning_etymology": "norrønt breiðr, «bred»",
+      "attested_in": "Himmelstalund steinblokk (K 54)",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "BusingaR",
+      "gender": "m",
+      "meaning_etymology": "?",
+      "attested_in": "",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Ehwō, Ehō",
+      "gender": "?",
+      "meaning_etymology": "urgermansk *ehwaz, norrønt jór, «hest», eller kortform til navn på *Ehwa-, norrøne navn på Jó-.",
+      "attested_in": "Donzdorf-fibulaen (Düwel & Roth 1977)",
+      "comment": "Usikkert om det er et mannsnavn med vestgermansk form eller et kvinnenavn med nordgermansk form.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Er(a)faR",
+      "gender": "m",
+      "meaning_etymology": "« jerv »",
+      "attested_in": "Hogganviksteinen, Mandal kommune",
+      "comment": "Skrivemåten med f på Hogganviksteinen er uventet. Enten må etymologien til ordet jerv revideres, eller den som lagde innskriften brukte en uventet rune for lyden [ β ].",
+      "old_norse_form": "Jerfr",
+      "modern_form": "Jerv(en)"
+    },
+    {
+      "name": "ErilaR / Eirilar",
+      "gender": "m",
+      "meaning_etymology": "«høvding, jarl»",
+      "attested_in": "Flere, for eksempel Innskrift på Kragehulspydet, Kragehul mose, Fyn, Danmark",
+      "comment": "Det er uklart om dette er et personnavn eller en tittel.",
+      "old_norse_form": "Iarl, Iarli, Jarl",
+      "modern_form": "Jaale, Jali, Jallu Jalle Jarl Jarle"
+    },
+    {
+      "name": "Fākaz",
+      "gender": "m",
+      "meaning_etymology": "norrønt fákr «hest».",
+      "attested_in": "Femø-brakteaten (K 132, IK 340)",
+      "comment": "Muligens ikke et personnavn, men et navn på Odin.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "Finnō",
+      "gender": "k",
+      "meaning_etymology": "Feminin avledning (< *-ōn-) til norrøne Finnr, fra finnr 'same; finne'.",
+      "attested_in": "Bergasteinen, Södermanland, Sverige (K 86)",
+      "comment": "Navnet kan være maskulint.",
+      "old_norse_form": "Finna",
+      "modern_form": "Finna Finn"
+    },
+    {
+      "name": "Fōzō",
+      "gender": "?",
+      "meaning_etymology": "Avledning fra stammen i folkeslagsbetegnelsen (lat. flertall) Fosi hos Tacitus, som igjen har blitt satt i forbindelse med blant annet gresk πηός «slektning».",
+      "attested_in": "Hitsum-brakteaten (IK 76)",
+      "comment": "Usikkert om det er et mannsnavn med vestgermansk form eller et kvinnenavn med nordgermansk form.",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "*Fraujila",
+      "gender": "m",
+      "meaning_etymology": "urnordiske frauja, «herre», med diminutiv-suffikset -ilan-",
+      "attested_in": "Darum-brakteat 1 (K 117, IK 42)",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "FrawaradaR, Frawarādaz",
+      "gender": "m",
+      "meaning_etymology": "? + rāðaR, «råd». Første ledd er muligens avledning fra adjektivet frawa- (gammelnorsk frár, «kvikk, rask»), gammelhøytysk frō, «glad», eller et agentnavn til ráða.",
+      "attested_in": "Möjbro-stenen (U 877, K 99)",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "GleaugiR",
+      "gender": "m",
+      "meaning_etymology": "?",
+      "attested_in": "",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "GodagastiR",
+      "gender": "m",
+      "meaning_etymology": "«god» + -gastiR \"gjest\"",
+      "attested_in": "Einangsteinen, runestein fra Vestre Slidre; Valsfjordinnskriften",
+      "comment": "Innskriften «[ek go ] dagastiR ruo faihido» på Einangsteinen fra 300-tallet. På Einangsteinen mangler de første runetegnene. Det er mulig å lese \"dagastiR\", runologer har foreslått at navnet skal leses \"GodagastiR\". I Valsfjordinnskriften er det mulig å lese hele navnet.",
+      "old_norse_form": "Goðgestr",
+      "modern_form": "Guðgestur *Godgjest"
+    },
+    {
+      "name": "HadulaikaR",
+      "gender": "m",
+      "meaning_etymology": "«kamp» + «lek»",
+      "attested_in": "Kjøleviksteinen, Stavanger",
+      "comment": "De to navnene (HadulaikaR og HagustaldaR) på Kjøleviksteinen allittererer. Dette tolkes som at de to navngitte personene er slektninger.",
+      "old_norse_form": "*Hoðleikr",
+      "modern_form": ""
+    },
+    {
+      "name": "HagustaldaR",
+      "gender": "m",
+      "meaning_etymology": "«beitemark» + «eier»?",
+      "attested_in": "Kjøleviksteinen, Stavanger; Valsfjordinnskriften",
+      "comment": "På Kjøleviksteinen er navnet risset uten l.",
+      "old_norse_form": "Haukstaldr",
+      "modern_form": "Haugstall, Hoskuld, Huskuld Höskuldur Høskuldur Hagestolz"
+    },
+    {
+      "name": "HagustaldiR",
+      "gender": "m",
+      "meaning_etymology": "?",
+      "attested_in": "",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "H(a)raRaR",
+      "gender": "m",
+      "meaning_etymology": "\"den bevegelige\" [ trenger referanse ]",
+      "attested_in": "Eidsvåg runestein, Åsane",
+      "comment": "",
+      "old_norse_form": "",
+      "modern_form": ""
+    },
+    {
+      "name": "Hariuha",
+      "gender": "m",
+      "meaning_etymology": "\"den hær-unge, hær-sønnen\"",
+      "attested_in": "Sjællandbrakteaten (Krause 127)",
+      "comment": "Ottar Grønvik har foreslått at dette er et Balder -tilnavn.",
+      "old_norse_form": "*Her-ói",
+      "modern_form": "-"
+    },
+    {
+      "name": "Hariwol(a)fR",
+      "gender": "m",
+      "meaning_etymology": "\"kriger\" + \"ulv\"",
+      "attested_in": "Stentoften runestein, Sverige",
+      "comment": "",
+      "old_norse_form": "Herjolfr",
+      "modern_form": "Herjólfur Herjolvur, Herolvur Herjulf, Herjulv, Herjolv, Herolf, Herulf, Herulv, Herolv, Heroll Herjulf, Herulf Eeriuffi"
+    },
+    {
+      "name": "Haþuwul(a)fR",
+      "gender": "m",
+      "meaning_etymology": "«kamp» + \"ulv\"",
+      "attested_in": "Stentoften runestein, Sverige",
+      "comment": "",
+      "old_norse_form": "Hálfr",
+      "modern_form": "*Hålv"
+    },
+    {
+      "name": "HeldaR",
+      "gender": "m",
+      "meaning_etymology": "",
+      "attested_in": "Tjurköbrakteaten, Karlskrona, Sverige",
+      "comment": "",
+      "old_norse_form": "*Hjaldr",
+      "modern_form": "*Hjeld"
+    },
+    {
+      "name": "HeruwulfR",
+      "gender": "m",
+      "meaning_etymology": "«sverd» + \"ulv\"",
+      "attested_in": "",
+      "comment": "",
+      "old_norse_form": "HiǫrulfR, Hjǫrolfr",
+      "modern_form": "Hjörólfur Hjørulv, Jørulf"
+    },
+    {
+      "name": "HlewagastiR",
+      "gender": "m",
+      "meaning_etymology": "«hav» + -gastiR \"gjest\"",
+      "attested_in": "Gallehushornet, Danmark",
+      "comment": "",
+      "old_norse_form": "Hlégestr",
+      "modern_form": "Hlégestur Lægæst *Legjest, Lægjest Lägäst"
+    },
+    {
+      "name": "HnabudaR",
+      "gender": "m",
+      "meaning_etymology": "",
+      "attested_in": "Bø runestein, Sokndal",
+      "comment": "",
+      "old_norse_form": "",
+      "modern_form": ""
+    },
+    {
+      "name": "Ingualbi [ trenger referanse ]",
+      "gender": "k",
+      "meaning_etymology": "?",
+      "attested_in": "",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "IuþingaR",
+      "gender": "m",
+      "meaning_etymology": "Sophus Bugge setter bl. a. navnet i sammenheng med en alemannerstamme.",
+      "attested_in": "Reistadsteinen, Hidra, Vest-Agder",
+      "comment": "Det er usikkert om navnet er et personnavn eller betegner en som er medlem av en gruppe.",
+      "old_norse_form": "",
+      "modern_form": ""
+    },
+    {
+      "name": "KunimunduR",
+      "gender": "m",
+      "meaning_etymology": "«klan» + «beskytter» [ trenger referanse ]",
+      "attested_in": "Tjurköbrakteaten, Karlskrona, Sverige",
+      "comment": "Tilsvarer gammelengelsk Cynemund, gammelhøytysk Chunimunt, men er helt ukjent i Norden utenom denne brakteaten. Kan derfor ha kommet inn fra en kontinentalgermansk dialekt, eventuelt betegne en person fra kontinentet. Jf. også KunmuntR i Rök-innskriften.",
+      "old_norse_form": "",
+      "modern_form": "*Kynmund"
+    },
+    {
+      "name": "LandawarijaR",
+      "gender": "m",
+      "meaning_etymology": "«land» + «forsvarer»",
+      "attested_in": "Tørvika A, Hardanger",
+      "comment": "Belagt på gammeltysk som Lantwari (landbeskytter, landbeboer).",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "LaiþigaR",
+      "gender": "m",
+      "meaning_etymology": "Skal være beslektet med det norrøne leiðr \"ubehagelig, utålelig, avskyelig, forhatt\"",
+      "attested_in": "Møgedal runestein, Helleland",
+      "comment": "",
+      "old_norse_form": "*Leiðigr",
+      "modern_form": "*Leidig"
+    },
+    {
+      "name": "NaudigastiR",
+      "gender": "m",
+      "meaning_etymology": "*naudi \"nød\" + gastiR \"gjest\"",
+      "attested_in": "Hogganviksteinen, Mandal kommune",
+      "comment": "",
+      "old_norse_form": "*Neyðgestr",
+      "modern_form": "*Nødgjest, *Nøydgjest"
+    },
+    {
+      "name": "SaligastiR",
+      "gender": "m",
+      "meaning_etymology": "? + -gastiR \"gjest\"",
+      "attested_in": "Bergasteinen, Södermanland, Sverige",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "SawilagiR",
+      "gender": "m",
+      "meaning_etymology": "*sāwi + *lāgir: \"Han som ligger på sjøen\"",
+      "attested_in": "Lindholmen beinstykke, Skåne",
+      "comment": "Det er usikkert om dette skal tolkes som et navn, tilnavn, eller hvilken form navnet bør leses i. Se Grønvik 1996 for en gjennomgang av ulike tolkninger.",
+      "old_norse_form": "",
+      "modern_form": "*Sæleg"
+    },
+    {
+      "name": "SigaduR / SigihaduR",
+      "gender": "m",
+      "meaning_etymology": "«seier» +?",
+      "attested_in": "",
+      "comment": "",
+      "old_norse_form": "-",
+      "modern_form": "-"
+    },
+    {
+      "name": "SigimaraR",
+      "gender": "m",
+      "meaning_etymology": "«seier» + \"berømt\"",
+      "attested_in": "",
+      "comment": "Kjent brukt i Sverige på 500-tallet.",
+      "old_norse_form": "Sigmarr",
+      "modern_form": "Sigurmar Sigmar"
+    },
+    {
+      "name": "SwabaharjaR",
+      "gender": "m",
+      "meaning_etymology": "« schwaber » + «kriger»",
+      "attested_in": "",
+      "comment": "",
+      "old_norse_form": "Sváfarr, Svávarr (for Sváf-: [ 21 ])",
+      "modern_form": "Svafar Svavar Svávar"
+    },
+    {
+      "name": "Wandarа̄daR",
+      "gender": "m",
+      "meaning_etymology": "",
+      "attested_in": "Saude runestein",
+      "comment": "Selve innskriften har gått tapt, men kjennes i en avskrift fra 1600-tallet. Her er det altså flere lag med tolkninger.",
+      "old_norse_form": "Vandráðr",
+      "modern_form": "*Vandråd"
+    },
+    {
+      "name": "WagigaR",
+      "gender": "m",
+      "meaning_etymology": "",
+      "attested_in": "Rosselandsteinen, Hardanger",
+      "comment": "",
+      "old_norse_form": "",
+      "modern_form": ""
+    },
+    {
+      "name": "WakraR",
+      "gender": "m",
+      "meaning_etymology": "urnordisk adj. *wakraR, norr. vakr \"årvåken, rask, uforferdet\"",
+      "attested_in": "Reistadsteinen, Hidra, Vest-Agder",
+      "comment": "Settes i sammenheng med et tilnavn på Odin, Vakr. Kjent som personnavn seinere, både på tysk og nordisk område.",
+      "old_norse_form": "",
+      "modern_form": "*Vakr"
+    },
+    {
+      "name": "WidugastiR",
+      "gender": "m",
+      "meaning_etymology": "urnordisk *wiðu \"skog\" + -gastiR \"gjest\" Gerd Høst tolker det som \"Gjesten fra skogen\".",
+      "attested_in": "Sunde runestein, Sogn og Fjordane",
+      "comment": "Belagt på tysk som Widugast fra 500-tallet.",
+      "old_norse_form": "*Viðgestr",
+      "modern_form": ""
+    },
+    {
+      "name": "WīR, (tidligere) WiwaR",
+      "gender": "m",
+      "meaning_etymology": "Kan høre til det germanske adjektivet * wīha- \"hellig\" - \"Den som vier\"",
+      "attested_in": "Eikelandspenna (Jæren); Veblungsnesinnskriften, Romsdal; Tunesteinen",
+      "comment": "Navnet står i nominativ (wiR) på Eikelandspenna, og i diminutiv (wiwila) i Veblungsnesinnskriften, og i et eldre språktrinn på Tunesteinen (wiwaR) Kan ha fungert både som navn og tilnavn.",
+      "old_norse_form": "Vifill er en avledet form",
+      "modern_form": "*Vi, *Viv"
+    },
+    {
+      "name": "Wiwia",
+      "gender": "k",
+      "meaning_etymology": "Kan høre til det germanske adjektivet * wīha- \"hellig\"",
+      "attested_in": "Eikelandspenna",
+      "comment": "Navnene WīR og Wiwja (Wiwia) på Eikelandspenna hører sammen på sammen måte som Frøy - Frøya. Grønvik (1987): \"[navnene] betegner altså et par bestående av et mannlig og et kvinnelig individ\"",
+      "old_norse_form": "*Vivja",
+      "modern_form": "*Vivja"
+    },
+    {
+      "name": "WoduridaR",
+      "gender": "m",
+      "meaning_etymology": "rasende + rytter [ 44 ]",
+      "attested_in": "Tunesteinen",
+      "comment": "Navnet skal være en henvisning til Odin [ 44 ]",
+      "old_norse_form": "",
+      "modern_form": "*Vodurid"
+    },
+    {
+      "name": "WormalaibaR",
+      "gender": "m",
+      "meaning_etymology": "orm +?",
+      "attested_in": "Myklebostadsteinen",
+      "comment": "Det er ikke alle tegnene i dette navnet som kan leses ut av Myklebostadinnskriften. Flere runologer (bl. a. Sophus Bugge, Ottar Grønvik) rekonstruerer allikevel dette navnet. Grønvik (1996: 102) skriver \"Det er et hell at siste ord i innskriften ser ut til å ha vært et så langt ord (personnavn), med en så spesiell lydstruktur at man kan gjette seg til det på grunnlag av bare seks sikre tegn, fordelt som her. Det er selvfølgelig bare mulig fordi vi ellers har så godt kjennskap til gamle nordiske personnavn og deres oppbygning.\" Førsteleddet er belagt i det norrøne navnet Orm arr, andreleddet i f. eks. Á leifr.",
+      "old_norse_form": "*Ormleifr",
+      "modern_form": "*Ormleiv"
+    },
+    {
+      "name": "WulþuþewaR",
+      "gender": "m",
+      "meaning_etymology": "«prakt» + «tjener» eller \" Ulls -tjener\"",
+      "attested_in": "Doppsko fra Torsbjerg",
+      "comment": "",
+      "old_norse_form": "",
+      "modern_form": ""
+    }
+  ],
+  "meta": {
+    "title": "Urnordiske personnavn - Free Download",
+    "description": "Personnavn kjent fra urnordiske runeinnskrifter med kjønn, betydning og etymologi, funnsted samt norrøn og moderne form. Contains 58 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Urnordiske personnavn | ListBase",
+    "seo_description": "Download Urnordiske personnavn — 58 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 58 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_urnordiske_navn"
+    ]
+  }
+}

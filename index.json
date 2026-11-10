@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-10T02:26:40.050Z",
-  "total_datasets": 479,
-  "total_records": 1201945,
+  "generated": "2026-11-10T02:26:49.635Z",
+  "total_datasets": 480,
+  "total_records": 1202003,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -5046,6 +5046,34 @@
         "xlsx": {
           "name": "no-sprak_NO.xlsx",
           "size": 22744
+        }
+      }
+    },
+    {
+      "id": "no-urnordiske-navn",
+      "name": "Urnordiske personnavn",
+      "category": "language",
+      "record_count": 58,
+      "columns": [
+        "name",
+        "gender",
+        "meaning_etymology",
+        "attested_in",
+        "comment",
+        "old_norse_form",
+        "modern_form"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_urnordiske_navn",
+      "updated": "2026-11",
+      "size": 22596,
+      "files": {
+        "csv": {
+          "name": "no-urnordiske-navn_NO.csv",
+          "size": 11663
+        },
+        "xlsx": {
+          "name": "no-urnordiske-navn_NO.xlsx",
+          "size": 13563
         }
       }
     },
