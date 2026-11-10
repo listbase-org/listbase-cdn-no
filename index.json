@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-09T02:40:30.972Z",
-  "total_datasets": 477,
-  "total_records": 1201680,
+  "generated": "2026-11-10T02:26:30.000Z",
+  "total_datasets": 478,
+  "total_records": 1201738,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -12502,6 +12502,37 @@
         "xlsx": {
           "name": "no-frekvenser-telekommunikasjon_NO.xlsx",
           "size": 7584
+        }
+      }
+    },
+    {
+      "id": "no-hoye-byggverk",
+      "name": "Høye byggverk i Norge",
+      "category": "tech",
+      "record_count": 58,
+      "columns": [
+        "name",
+        "location",
+        "height_m",
+        "elevation_masl",
+        "type",
+        "built",
+        "lat",
+        "lon",
+        "note",
+        "demolished"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_høye_byggverk_i_Norge",
+      "updated": "2026-11",
+      "size": 17864,
+      "files": {
+        "csv": {
+          "name": "no-hoye-byggverk_NO.csv",
+          "size": 5288
+        },
+        "xlsx": {
+          "name": "no-hoye-byggverk_NO.xlsx",
+          "size": 11166
         }
       }
     },
