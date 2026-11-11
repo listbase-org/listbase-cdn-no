@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-10T02:27:01.187Z",
-  "total_datasets": 481,
-  "total_records": 1202268,
+  "generated": "2026-11-11T02:13:02.831Z",
+  "total_datasets": 482,
+  "total_records": 1202557,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "economy",
@@ -1051,6 +1051,30 @@
         "xlsx": {
           "name": "no-kirker_NO.xlsx",
           "size": 2271075
+        }
+      }
+    },
+    {
+      "id": "no-kommuneslagord",
+      "name": "Norske kommuneslagord",
+      "category": "culture",
+      "record_count": 289,
+      "columns": [
+        "municipality",
+        "slogan",
+        "status"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_kommuneslagord",
+      "updated": "2026-11",
+      "size": 40789,
+      "files": {
+        "csv": {
+          "name": "no-kommuneslagord_NO.csv",
+          "size": 19533
+        },
+        "xlsx": {
+          "name": "no-kommuneslagord_NO.xlsx",
+          "size": 16600
         }
       }
     },
