@@ -1,0 +1,996 @@
+{
+  "id": "no-pattedyr",
+  "name": "Pattedyr i Norge",
+  "title": "Pattedyr i Norge",
+  "description": "Liste over pattedyrarter i Norge med vitenskapelig navn, familie, orden, utbredelse, biotoper, bestand og jaktstatus.",
+  "category": "science",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_pattedyr_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_pattedyr_i_Norge",
+  "updated": "2026-11",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "scientific_name",
+      "label": "Scientific Name",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    },
+    {
+      "key": "distribution",
+      "label": "Distribution",
+      "type": "string"
+    },
+    {
+      "key": "habitat",
+      "label": "Habitat",
+      "type": "string"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "string"
+    },
+    {
+      "key": "hunting",
+      "label": "Hunting",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Piggsvin",
+      "scientific_name": "Erinaceus europaeus",
+      "family": "Piggsvinfamilien (Erinaceidae)",
+      "order": "Insektetere (Eulipotyphla)",
+      "distribution": "Sør- og Midt-Norge opp til Nordland",
+      "habitat": "Skog og kulturlandskap",
+      "population": "Livskraftig bestand, men i tilbakegang siden 1970-tallet",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Knøttspissmus",
+      "scientific_name": "Sorex minutissimus",
+      "family": "Spissmus (Soricidae)",
+      "order": "Insektetere (Eulipotyphla)",
+      "distribution": "Kjent fra Øst- og Midt-Norge samt Nordland, men utbredelsen er trolig langt større",
+      "habitat": "Skog opp til bjørkebeltet",
+      "population": "Bestanden antatt livskraftig, men kunnskapen er mangefull",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Dvergspissmus",
+      "scientific_name": "Sorex minutus",
+      "family": "Spissmus (Soricidae)",
+      "order": "Insektetere (Eulipotyphla)",
+      "distribution": "Spredt over hele landet, ikke registrert i Lofoten",
+      "habitat": "Fra kyst til fjell",
+      "population": "Usikker, trolig tallrik",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Lappspissmus",
+      "scientific_name": "Sorex caecutiens",
+      "family": "Spissmus (Soricidae)",
+      "order": "Insektetere (Eulipotyphla)",
+      "distribution": "Kun registrert i Finnmark",
+      "habitat": "Fjell og fjellskog",
+      "population": "Usikker, trolig tallrik",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Krattspissmus",
+      "scientific_name": "Sorex araneus",
+      "family": "Spissmus (Soricidae)",
+      "order": "Insektetere (Eulipotyphla)",
+      "distribution": "Hele landet",
+      "habitat": "Fra kyst til høyfjell",
+      "population": "Tallrik",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Taigaspissmus",
+      "scientific_name": "Sorex isodon",
+      "family": "Spissmus (Soricidae)",
+      "order": "Insektetere (Eulipotyphla)",
+      "distribution": "Kun regisrert i Nordland og Hedmark",
+      "habitat": "Usikker, trolig skog og fjellskog",
+      "population": "På Norsk rødliste for arter grunnet manglende data",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Vannspissmus",
+      "scientific_name": "Neomys fodiens",
+      "family": "Spissmus (Soricidae)",
+      "order": "Insektetere (Eulipotyphla)",
+      "distribution": "Hele landet bortsett fra Finnmarkskysten",
+      "habitat": "Bekkefar og vassdrag",
+      "population": "Tallrik, men internasjonalt er bestanden antatt minskende",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Husspissmus",
+      "scientific_name": "Crocidura russula",
+      "family": "Spissmus (Soricidae)",
+      "order": "Insektetere (Eulipotyphla)",
+      "distribution": "Fem dyr er funnet forskjellige steder i Rogaland",
+      "habitat": "Bebygde strøk",
+      "population": "Ingen opplysninger fra Artsdatabanken",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Vannflaggermus",
+      "scientific_name": "Myotis daubentonii",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Sør-Norge nord til Møre og Romsdal, nord i Hedmark",
+      "habitat": "Lavtliggende strøk. Jakter ofte over elver og vann",
+      "population": "Tallrik",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Børsteflaggermus",
+      "scientific_name": "Myotis nattereri",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Oslo og Hadeland",
+      "habitat": "Ukjent",
+      "population": "Kun ett bekreftet funn i Norge (Oslo, 1961); også sett på Hadeland 2010",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Skjeggflaggermus",
+      "scientific_name": "Myotis mystacinus",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Sør-Norge opp til Trøndelag",
+      "habitat": "Lavlandet",
+      "population": "Ukjent, arten er vanskelig å skjelne fra skogflaggermus",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Skogflaggermus",
+      "scientific_name": "Myotis brandtii",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Sør-Norge nord til Verdal",
+      "habitat": "Barskog",
+      "population": "Hensynskrevende",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Skimmelflaggermus",
+      "scientific_name": "Vespertilio murinus",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Sør-Norge nord til Møre og Romsdal",
+      "habitat": "Svært varierende",
+      "population": "Hensynskrevende",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Nordflaggermus",
+      "scientific_name": "Eptesicus nilssonii",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Hele landet bortsett fra Finnmarksvidda",
+      "habitat": "Åpne områder, gjerne også bebyggelse",
+      "population": "Tallrik i Sør-Norge",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Storflaggermus",
+      "scientific_name": "Nyctalus noctula",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Rundt Oslofjorden samt på Finnøy i Rogaland",
+      "habitat": "Gammel løvskog",
+      "population": "På Norsk rødliste for arter grunnet manglende data, trolig sjelden",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Dvergflaggermus",
+      "scientific_name": "Pipistrellus pygmaeus",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Sør-Norge nord til Møre og Romsdal",
+      "habitat": "Løvskog og kulturlandskap",
+      "population": "Vanlig, men kan være hensynskrevende grunnet store enkeltkolonier.",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Trollflaggermus",
+      "scientific_name": "Pipistrellus nathusii",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Vestlandet, forekommer muligens også sør og øst i landet",
+      "habitat": "Ukjent",
+      "population": "På Norsk rødliste for arter grunnet manglende data.",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Brunlangøre",
+      "scientific_name": "Plecotus auritus",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Lavlandet i hele Sør-Norge nord til Trondheim",
+      "habitat": "Skog",
+      "population": "Tallrik",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Bredøre",
+      "scientific_name": "Barbastella barbastellus",
+      "family": "Glattnesefamilien (Vespertilionidae)",
+      "order": "Flaggermus (Chiroptera)",
+      "distribution": "Akershus og Vestfold",
+      "habitat": "Knyttet til gammel løvskog",
+      "population": "Sjelden i hele leveområdet. Regnet som utdødd i Norge fram til den ble registrert i 2008. Ett eller to individer observeres nesten hver vinter.",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Villsvin",
+      "scientific_name": "Sus scrofa",
+      "family": "Svinefamilien (Suidae)",
+      "order": "Klovdyr (Artiodactyla)",
+      "distribution": "Hedmark, Akershus og Østfold mot svenskegrensen",
+      "habitat": "Skog",
+      "population": "Sjelden, streifdyr",
+      "hunting": "Svartelistet, fri jakt hele året"
+    },
+    {
+      "name": "Moskusfe",
+      "scientific_name": "Ovibos moschatus",
+      "family": "Oksefamilien (Bovidae)",
+      "order": "Klovdyr (Artiodactyla)",
+      "distribution": "Dovre og Femundsmarka",
+      "habitat": "Snaufjell og fjellskog",
+      "population": "Sjelden",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Dåhjort",
+      "scientific_name": "Dama dama",
+      "family": "Hjortedyr (Cervidae)",
+      "order": "Klovdyr (Artiodactyla)",
+      "distribution": "Hankø og Østfold øst for Glomma",
+      "habitat": "Åpne kulturlandskap og skog",
+      "population": "Sjelden, ville dyr er rømt fra viltfarmer",
+      "hunting": "September–desember"
+    },
+    {
+      "name": "Hjort",
+      "scientific_name": "Cervus elaphus",
+      "family": "Hjortedyr (Cervidae)",
+      "order": "Klovdyr (Artiodactyla)",
+      "distribution": "Kysten fra Rogaland til Nordland, mest tallrik på Vestlandet",
+      "habitat": "Løvskog",
+      "population": "Tallrik",
+      "hunting": "Hjortejakt september–november Økende, 32 000 i 2007"
+    },
+    {
+      "name": "Elg",
+      "scientific_name": "Alces alces",
+      "family": "Hjortedyr (Cervidae)",
+      "order": "Klovdyr (Artiodactyla)",
+      "distribution": "Hele landet, minst tallrik på Vestlandet",
+      "habitat": "Barskog",
+      "population": "Tallrik, noen steder overpopulasjon",
+      "hunting": "Elgjakt september–oktober Ca. 30–35 000 dyr årlig"
+    },
+    {
+      "name": "Rådyr",
+      "scientific_name": "Capreolus capreolus",
+      "family": "Hjortedyr (Cervidae)",
+      "order": "Klovdyr (Artiodactyla)",
+      "distribution": "Hele landet, i nyere tid også Finnmark",
+      "habitat": "Nær kulturlandskap",
+      "population": "Tallrik",
+      "hunting": "Jakttid september–desember Ca. 30 000 dyr årlig"
+    },
+    {
+      "name": "Rein",
+      "scientific_name": "Rangifer tarandus",
+      "family": "Hjortedyr (Cervidae)",
+      "order": "Klovdyr (Artiodactyla)",
+      "distribution": "Fjellene i Sør-Norge, tam rein finnes fra Femunden til Finnmark. En egen underart, svalbardrein, finnes på Svalbard",
+      "habitat": "Høyfjell",
+      "population": "Tallrik",
+      "hunting": "Villreinjakt august–september i 18 områder 5–8000 dyr årlig"
+    },
+    {
+      "name": "Nordspisshval",
+      "scientific_name": "Mesoplodon bidens",
+      "family": "Nebbhvaler (Ziphiidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Nordsjøen, Sørvestlandet",
+      "habitat": "Dyphav i Nord-Atlanteren",
+      "population": "På Norsk rødliste for arter pga. manglende data",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Nebbhval",
+      "scientific_name": "Hyperoodon ampullatus",
+      "family": "Nebbhvaler (Ziphiidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Utenfor kontinentalsokkelen fra Møre til Svalbard",
+      "habitat": "Kalde områder i Nord-Atlanteren",
+      "population": "Sikker bestandssituasjon i Norge",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Blekhodenebbhval",
+      "scientific_name": "Ziphius cavirostris",
+      "family": "Nebbhvaler (Ziphiidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Ett sykt individ skutt ved Sotra",
+      "habitat": "Tempererte og tropiske farvann",
+      "population": "På Norsk rødliste for arter pga. manglende data",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Hvithval",
+      "scientific_name": "Delphinapterus leucas",
+      "family": "Narhvaler (Monodontidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Arktis, Svalbard, Finnmark Streifdyr langs hele kysten",
+      "habitat": "Sirkumpolar, kan vandre inn i elver",
+      "population": "På Norsk rødliste for arter pga. manglende data",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Narhval",
+      "scientific_name": "Monodon monoceros",
+      "family": "Narhvaler (Monodontidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Arktis, Svalbard Streifdyr langs Finnmark",
+      "habitat": "Polhav",
+      "population": "På Norsk rødliste for arter pga. manglende data",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Spermhval",
+      "scientific_name": "Physeter catodon",
+      "family": "Spermhvaler og dvergspermhvaler (Physiteroidea)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Fra Møre til Svalbard",
+      "habitat": "Tempererte hav",
+      "population": "Vanlig",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Nise",
+      "scientific_name": "Phocoena phocoena",
+      "family": "Niser (Phocoenidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Langs hele kysten",
+      "habitat": "Kystnære strøk",
+      "population": "Tallrik. Sårbar internasjonalt.",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Spekkhogger",
+      "scientific_name": "Orcinus orca",
+      "family": "Delfiner (Delphinidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Nordsjøen, observert langs hele norskekysten",
+      "habitat": "Polhav og subpolare hav",
+      "population": "Tallrik",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Stripedelfin",
+      "scientific_name": "Stenella coeruleoalba",
+      "family": "Delfiner (Delphinidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Streifdyr, Skagerrak",
+      "habitat": "Tropiske og tempererte hav",
+      "population": "Sårbar internasjonalt",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Gulflankedelfin",
+      "scientific_name": "Delphinus delphis",
+      "family": "Delfiner (Delphinidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Sporadisk fra Jæren til Troms",
+      "habitat": "Tropiske og tempererte hav",
+      "population": "Sjelden",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Tumler",
+      "scientific_name": "Tursiops truncatus",
+      "family": "Delfiner (Delphinidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Streifdyr, Sørvestlandet",
+      "habitat": "Tropiske og tempererte hav",
+      "population": "Sårbar internasjonalt",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Kvitskjeving",
+      "scientific_name": "Lagenorhynchus acutus",
+      "family": "Delfiner (Delphinidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Vestlandet",
+      "habitat": "Subpolar og temperert sone i Nord-Atlanteren",
+      "population": "Sikker bestandssituasjon i Norge",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Kvitnos",
+      "scientific_name": "Lagenorhynchus albirostris",
+      "family": "Delfiner (Delphinidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Kysten fra Trøndelag til Svalbard",
+      "habitat": "Hav og kyst",
+      "population": "Vanlig",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Arrdelfin",
+      "scientific_name": "Grampus griseus",
+      "family": "Delfiner (Delphinidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Vanlig i Stillehavet",
+      "habitat": "Tropiske og tempererte hav",
+      "population": "Kun streifdyr ved sørvestlandet",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Grindhval",
+      "scientific_name": "Globicephala melaena",
+      "family": "Delfiner (Delphinidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Fra Jæren til Troms",
+      "habitat": "Hav og kyst",
+      "population": "Vanlig",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Nordkaper",
+      "scientific_name": "Balaena glacialis",
+      "family": "Retthvaler (Balaenidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Nordvestatlanteren.",
+      "habitat": "Tempererte hav",
+      "population": "Utryddet i Nordøstatlanteren, kun streifdyr ved Norge",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Grønlandshval",
+      "scientific_name": "Balaena mysticetus",
+      "family": "Retthvaler (Balaenidae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Arktis, Svalbard, Finnmark",
+      "habitat": "Langs isen",
+      "population": "Rødlistet: «Kritisk truet»",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Vågehval",
+      "scientific_name": "Balaenoptera acutorostrata",
+      "family": "Finnhvaler (Balaenopteridae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Oslofjorden til Svalbard",
+      "habitat": "Hav, hunner kan trekke inn i fjordene",
+      "population": "Tallrik",
+      "hunting": "Kvotejakt fastsettes for 5 år av gangen av Fiskeridept."
+    },
+    {
+      "name": "Seihval",
+      "scientific_name": "Balaenoptera borealis",
+      "family": "Finnhvaler (Balaenopteridae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Agder til Finnmark",
+      "habitat": "Tempererte hav",
+      "population": "Tallrik",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Finnhval",
+      "scientific_name": "Balaenoptera physalus",
+      "family": "Finnhvaler (Balaenopteridae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Vestlandet til Svalbard",
+      "habitat": "Dypt hav",
+      "population": "Sikker bestandssituasjon i Norge Sårbar internasjonalt.",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Blåhval",
+      "scientific_name": "Balaenoptera musculus",
+      "family": "Finnhvaler (Balaenopteridae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Vestlandet til Svalbard",
+      "habitat": "Åpent hav, sjelden ved kyst sør for Lofoten",
+      "population": "Bestanden nesten utryddet under hvalfangst, Rødlistet: «Nær truet»",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Knølhval",
+      "scientific_name": "Megaptera novaeangliae",
+      "family": "Finnhvaler (Balaenopteridae)",
+      "order": "Hvaler (Cetacea)",
+      "distribution": "Fra Oslofjorden til Svalbard",
+      "habitat": "Tempererte og polare hav",
+      "population": "Sikker bestandssituasjon i Norge Sårbar internasjonalt.",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Gaupe",
+      "scientific_name": "Lynx lynx",
+      "family": "Kattedyr (Felidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Finnes spredt over hele landet",
+      "habitat": "Skog",
+      "population": "Rødlistet: «Sårbar»",
+      "hunting": "Fredet, rovviltnemndene fatter vedtak om kvotejakt i hver enkelt forvaltningsregion"
+    },
+    {
+      "name": "Ulv",
+      "scientific_name": "Canis lupus",
+      "family": "Hundedyr (Canidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Tidligere hele landet, i dag begrenset til Østlandet, som en del av en felles norsk-svensk stamme. Streifindivider fra den russiske stammen forekommer.",
+      "habitat": "Hovedsakelig knyttet til skog",
+      "population": "Rødlistet: «Kritisk truet», færre enn 30 dyr",
+      "hunting": "Fredet. Dir. for naturforvaltn. utsteder lisensjakt, trolig utstrakt illegal jakt"
+    },
+    {
+      "name": "Gullsjakal",
+      "scientific_name": "Canis aureus",
+      "family": "Hundedyr (Canidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Den første observasjonen av gullsjakal ble tatt av et viltkamera i Ildskog ved Lakselv i Finnmark i 2021.",
+      "habitat": "Hovedsakelig knyttet til skog",
+      "population": "Forløpig antageilg kun streifdyr.",
+      "hunting": "Den har innvandret selv og er dermed beskyttet og ikke en fremmedart."
+    },
+    {
+      "name": "Mårhund",
+      "scientific_name": "Nyctereutes procyonoides",
+      "family": "Hundedyr (Canidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Grensetraktene mot Finland og Russland",
+      "habitat": "Barskog",
+      "population": "Sjelden, foreløpig kun streifdyr",
+      "hunting": "Svartelistet, fri jakt året rundt"
+    },
+    {
+      "name": "Rødrev",
+      "scientific_name": "Vulpes vulpes",
+      "family": "Hundedyr (Canidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Over hele landet",
+      "habitat": "Kan leve i nær sagt alle biotoper, inkludert storbyer",
+      "population": "Vanlig",
+      "hunting": "Jaktbar juli–april 16–21 000 dyr årlig."
+    },
+    {
+      "name": "Fjellrev",
+      "scientific_name": "Alopex lagopus",
+      "family": "Hundedyr (Canidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Finse, Dovre, Nord-Norge og Svalbard",
+      "habitat": "Snaufjell- og tundraområdet",
+      "population": "Rødlistet: «Kritisk truet»",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Røyskatt",
+      "scientific_name": "Mustela erminea",
+      "family": "Mårfamilien (Mustelidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Hele landet",
+      "habitat": "Fra kyst til høyfjell",
+      "population": "Vanlig",
+      "hunting": "Jaktbar (jaktes som pelsvilt) august–mars"
+    },
+    {
+      "name": "Snømus",
+      "scientific_name": "Mustela nivalis",
+      "family": "Mårfamilien (Mustelidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Hele landet",
+      "habitat": "Høyfjell og fjellskog",
+      "population": "Vanlig",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Mink",
+      "scientific_name": "Mustela vison",
+      "family": "Mårfamilien (Mustelidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Hele landet Innført som pelsdyr i 1920-åra",
+      "habitat": "Knyttet til vann og vassdrag",
+      "population": "Tallrik",
+      "hunting": "Svartelistet, fri jakt året rundt"
+    },
+    {
+      "name": "Ilder",
+      "scientific_name": "Mustela putorius",
+      "family": "Mårfamilien (Mustelidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Trolig begrenset til Østlandet",
+      "habitat": "Knyttet til skog- og kulturlandskap",
+      "population": "På Norsk rødliste for arter pga. manglende data",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Mår",
+      "scientific_name": "Martes martes",
+      "family": "Mårfamilien (Mustelidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Hele landet",
+      "habitat": "Skog",
+      "population": "Vanlig",
+      "hunting": "Jaktbar (som pelsvilt) november–mars"
+    },
+    {
+      "name": "Jerv",
+      "scientific_name": "Gulo gulo",
+      "family": "Mårfamilien (Mustelidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Nord-Norge til Femunden og fjellområdene Dovre, Rondane, Reinheimen og Snøhetta",
+      "habitat": "Knyttet til snaufjell og fjellskog",
+      "population": "Rødlistet: «Sterkt truet»",
+      "hunting": "Fredet, men jakt ved hiuttak og lisensfelling. Åtejakt og hagle er tillatt"
+    },
+    {
+      "name": "Grevling",
+      "scientific_name": "Meles meles",
+      "family": "Mårfamilien (Mustelidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Hele landet bortsett fra Nordland",
+      "habitat": "Skog og kulturlandskap",
+      "population": "Vanlig",
+      "hunting": "Jaktbar august–januar"
+    },
+    {
+      "name": "Oter",
+      "scientific_name": "Lutra lutra",
+      "family": "Mårfamilien (Mustelidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Nesten utryddet i 1970-åra, finnes i dag langs kysten fra Finnmark til Nord-Møre",
+      "habitat": "Kyst",
+      "population": "Rødlistet: «Sårbar»",
+      "hunting": "Fredet, skytes som skadevilt i oppdrettsanlegg for fisk"
+    },
+    {
+      "name": "Brunbjørn",
+      "scientific_name": "Ursus arctos",
+      "family": "Bjørner (Ursidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Små grupper i Finnmark, Nordland / Nord-Trøndelag og Hedmark",
+      "habitat": "Barskog",
+      "population": "Rødlistet: «Sterkt truet» Under 100, men del av større nordisk stamme",
+      "hunting": "Fredet. Lisensfelling av slagbjørn, lisensjakt i Sør-Varanger"
+    },
+    {
+      "name": "Isbjørn",
+      "scientific_name": "Ursus maritimus",
+      "family": "Bjørner (Ursidae)",
+      "order": "Rovpattedyr (Carnivora)",
+      "distribution": "Svalbard",
+      "habitat": "Arktiske strøk",
+      "population": "Rødlistet: «Sårbar»",
+      "hunting": "Fredet. Skadedyr kan felles"
+    },
+    {
+      "name": "Hvalross",
+      "scientific_name": "Odobenus rosmarus",
+      "family": "Hvalross (Odobenidae)",
+      "order": "Seler (Pinnipedia)",
+      "distribution": "Jan Mayen og Svalbard, streifdyr sør langs Finnmarkskysten",
+      "habitat": "Langs iskanten i polare hav",
+      "population": "Bestanden i Atlanterhavet er liten, den norske bestanden regnes som sårbar",
+      "hunting": "Fredet, ingen jakt"
+    },
+    {
+      "name": "Steinkobbe",
+      "scientific_name": "Phoca vitulina",
+      "family": "Selfamilien (Phocidae)",
+      "order": "Seler (Pinnipedia)",
+      "distribution": "Langs hele kysten",
+      "habitat": "Knyttet til kyststrøk",
+      "population": "Den norske bestanden regnes som sårbar",
+      "hunting": "Seljakt januar–april og august–september"
+    },
+    {
+      "name": "Ringsel",
+      "scientific_name": "Phoca hispida",
+      "family": "Selfamilien (Phocidae)",
+      "order": "Seler (Pinnipedia)",
+      "distribution": "Hovedsakelig Jan Mayen og Svalbard, streifdyr sør til Mørekysten",
+      "habitat": "Aktisk hav, havis. Forekommer i ferskvann (ikke i Norge)",
+      "population": "Tallrik i sine hovedutbredelsesområder",
+      "hunting": "Seljakt januar–september"
+    },
+    {
+      "name": "Grønlandssel",
+      "scientific_name": "Phoca groenlandica",
+      "family": "Selfamilien (Phocidae)",
+      "order": "Seler (Pinnipedia)",
+      "distribution": "Jan Mayen og Svalbard",
+      "habitat": "Knyttet til is i Nordishavet",
+      "population": "Tallrik",
+      "hunting": "Seljakt januar–september"
+    },
+    {
+      "name": "Storkobbe",
+      "scientific_name": "Erignathus barbatus",
+      "family": "Selfamilien (Phocidae)",
+      "order": "Seler (Pinnipedia)",
+      "distribution": "Hovedsakelig Barentshavet, streifdyr langs Finnmarkskysten",
+      "habitat": "Hav og kyst",
+      "population": "Tallrik",
+      "hunting": "Fredet i norske farvann"
+    },
+    {
+      "name": "Havert",
+      "scientific_name": "Halichoerus grypus",
+      "family": "Selfamilien (Phocidae)",
+      "order": "Seler (Pinnipedia)",
+      "distribution": "Fra Rogaland til Finnmark, tettest i Sør-Trøndelag og på Helgeland.",
+      "habitat": "Kolonier på havskjær. Kan trekke inn i fjordene om vinteren",
+      "population": "Tallrik",
+      "hunting": "Seljakt januar–september"
+    },
+    {
+      "name": "Klappmyss",
+      "scientific_name": "Cystophora cristata",
+      "family": "Selfamilien (Phocidae)",
+      "order": "Seler (Pinnipedia)",
+      "distribution": "Vestisen",
+      "habitat": "Knyttet til havis",
+      "population": "Tallrik",
+      "hunting": "Tidligere ble ungene jaktet under selfangst, men den er nå fredet i norske farvann"
+    },
+    {
+      "name": "Kanin",
+      "scientific_name": "Oryctolagus cuniculus",
+      "family": "Haredyr",
+      "order": "Haredyr (Lagomorpha)",
+      "distribution": "Noen rømte dyr, mest rundt Oslo. Villkanin utsatt på Fedje og Edøy",
+      "habitat": "I Norge knyttet til kulturlandskap",
+      "population": "Sjelden",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Sørhare",
+      "scientific_name": "Lepus europaeus",
+      "family": "Haredyr",
+      "order": "Haredyr (Lagomorpha)",
+      "distribution": "Østfold (særlig Halden) og Akershus, som streifdyr fra Sverige",
+      "habitat": "I Norge mest knyttet til kulturlandskap",
+      "population": "Sjelden",
+      "hunting": "Jaktbar september–februar"
+    },
+    {
+      "name": "Hare",
+      "scientific_name": "Lepus timidus",
+      "family": "Haredyr",
+      "order": "Haredyr (Lagomorpha)",
+      "distribution": "Vanlig i hele landet",
+      "habitat": "De fleste biotoper fra fjæra til over tregrensa",
+      "population": "Tallrik",
+      "hunting": "Jaktbar september–februar 25 000 dyr årlig"
+    },
+    {
+      "name": "Ekorn",
+      "scientific_name": "Sciurus vulgaris",
+      "family": "Ekornfamilien (Sciuridae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Hele landet",
+      "habitat": "Barskog",
+      "population": "Vanlig. Sårbar internasjonalt.",
+      "hunting": "Jaktbar"
+    },
+    {
+      "name": "Bever",
+      "scientific_name": "Castor fiber",
+      "family": "Beverfamilien (Castoridae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Sørlandet, Østlandet, Trøndelag, Helgeland",
+      "habitat": "Vann og vassdrag",
+      "population": "Vanlig. Sårbar internasjonalt.",
+      "hunting": "Jaktbar 2 300 dyr årlig."
+    },
+    {
+      "name": "Bjørkemus",
+      "scientific_name": "Sicista betulina",
+      "family": "Hoppemusfamilien (Dipodidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Fra Romerike i Akershus til Rana i Nordland",
+      "habitat": "Fuktige områder med tett vegetasjon",
+      "population": "Ukjent; ingen dokumenterte trusler",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Dvergmus",
+      "scientific_name": "Micromys minutus",
+      "family": "Musefamilien (Muridae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Et lite område i Eidskog",
+      "habitat": "Områder med høy gress- og urtevegetasjon",
+      "population": "Hensynskrevende, registrert som ny art i Norge i 2001",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Storskogmus",
+      "scientific_name": "Apodemus flavicollis",
+      "family": "Musefamilien (Muridae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Sør-Norge nord til Trøndelag, mangler tilsynelatende på deler av Vestlandet",
+      "habitat": "Skog, kulturlandskap og bebygde strøk",
+      "population": "Tallrik, forekommer ofte som mus innomhus",
+      "hunting": "Felles som skadedyr"
+    },
+    {
+      "name": "Småskogmus",
+      "scientific_name": "Apodemus sylvaticus",
+      "family": "Musefamilien (Muridae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Sør-Norge nord til Trøndelag",
+      "habitat": "Kulturlandskap og bebygde strøk",
+      "population": "Tallrik, trolig den vanligste musearten i bebygde strøk",
+      "hunting": "Felles som skadedyr"
+    },
+    {
+      "name": "Husmus Mus musculus/domesticus",
+      "scientific_name": "",
+      "family": "Musefamilien (Muridae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Hele landet utenom Finnmark",
+      "habitat": "Knyttet til mennesker",
+      "population": "Tallrik, men i tilbakegang på grunn av konkurranse med skogmusene",
+      "hunting": "Felles som skadedyr"
+    },
+    {
+      "name": "Brunrotte",
+      "scientific_name": "Rattus norvegicus",
+      "family": "Musefamilien (Muridae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "I bebygde strøk, særlig rund byer over hele landet",
+      "habitat": "Kulturlandskap og byer, særlig tilknyttet kloakk",
+      "population": "Tallrik",
+      "hunting": "Felles som skadedyr"
+    },
+    {
+      "name": "Svartrotte",
+      "scientific_name": "Rattus rattus",
+      "family": "Musefamilien (Muridae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Knyttet til bebygde strøk",
+      "habitat": "Kulturlandskap og byer",
+      "population": "Utdødd i Norge, trolig på 17- eller 1800-tallet",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Skoglemen",
+      "scientific_name": "Myopus schisticolor",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Østlandet",
+      "habitat": "Moserik barskog",
+      "population": "Tallrik, «skoglemenår» forekommer, dog ikke i samme grad som hos lemen. Sårbar internasjonalt.",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Lemen",
+      "scientific_name": "Lemmus lemmus",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Langs Langfjella",
+      "habitat": "Snaufjellet",
+      "population": "Vanlig. Er i « lemenår » trolig landets mest tallrike art Norge er hovedområde for artens utbredelse i verden.",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Rødmus",
+      "scientific_name": "Myodes rutilus",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Nord-Norge fra Nordland og nordover",
+      "habitat": "Fjellskog",
+      "population": "Tallrik",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Klatremus",
+      "scientific_name": "Myodes glareolus",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Sør- og Midt-Norge nord til Rana i Nordland",
+      "habitat": "Skog og høyfjell",
+      "population": "Tallrik",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Gråsidemus",
+      "scientific_name": "Myodes rufocanus",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Hele landet",
+      "habitat": "Knyttet til nordlige og høyereliggende områder",
+      "population": "Tallrik, i Nord-Norge trolig den vanligste musearten",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Vånd",
+      "scientific_name": "Arvicola amphibius",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Hele landet utenom Finnmarkskysten og tilsynelatende deler av Vestlandet",
+      "habitat": "Knyttet til kulturlandskap, særlig jordbruk",
+      "population": "Tallrik",
+      "hunting": "Felles som skadedyr"
+    },
+    {
+      "name": "Bisam",
+      "scientific_name": "Ondatra zibethicus",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Finnmark, Nordland og Nord-Trøndelag",
+      "habitat": "Vassdrag",
+      "population": "På nasjonal basis er bisamrotte sjelden, men kan opptre i tette bestander i utbredelsesområdet.",
+      "hunting": "Jaktbar august–mai"
+    },
+    {
+      "name": "Markmus",
+      "scientific_name": "Microtus agrestis",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Hele landet",
+      "habitat": "Områder med gress: Enger, vidder, elvebanker",
+      "population": "Tallrik, muligens landets vanligste pattedyrart",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Østmarkmus",
+      "scientific_name": "Microtus rossiaemeridionalis",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "Svalbard",
+      "habitat": "Gresskledde skråninger under fuglefjell",
+      "population": "Vanlig i sitt leveområde.",
+      "hunting": "Uaktuelt"
+    },
+    {
+      "name": "Fjellmarkmus",
+      "scientific_name": "Microtus oeconomus",
+      "family": "Hamsterfamilien (Cricetidae)",
+      "order": "Gnagere (Rodentia)",
+      "distribution": "I høyere strøk i Sør- og Nord-Norge, mangler i Nord-Trøndelag og Nordland",
+      "habitat": "Vidder og fjellskog",
+      "population": "Tallrik",
+      "hunting": "Uaktuelt"
+    }
+  ],
+  "meta": {
+    "title": "Pattedyr i Norge - Free Download",
+    "description": "Liste over pattedyrarter i Norge med vitenskapelig navn, familie, orden, utbredelse, biotoper, bestand og jaktstatus. Contains 93 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Pattedyr i Norge | ListBase",
+    "seo_description": "Download Pattedyr i Norge — 93 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 93 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_pattedyr_i_Norge"
+    ]
+  }
+}

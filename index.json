@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-11T02:13:02.831Z",
-  "total_datasets": 482,
-  "total_records": 1202557,
+  "generated": "2026-11-11T02:13:11.642Z",
+  "total_datasets": 483,
+  "total_records": 1202650,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -12166,6 +12166,35 @@
         "xlsx": {
           "name": "no-arter-sterkt-truede_NO.xlsx",
           "size": 85330
+        }
+      }
+    },
+    {
+      "id": "no-pattedyr",
+      "name": "Pattedyr i Norge",
+      "category": "science",
+      "record_count": 93,
+      "columns": [
+        "name",
+        "scientific_name",
+        "family",
+        "order",
+        "distribution",
+        "habitat",
+        "population",
+        "hunting"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_pattedyr_i_Norge",
+      "updated": "2026-11",
+      "size": 36983,
+      "files": {
+        "csv": {
+          "name": "no-pattedyr_NO.csv",
+          "size": 19809
+        },
+        "xlsx": {
+          "name": "no-pattedyr_NO.xlsx",
+          "size": 15517
         }
       }
     },
