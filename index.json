@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-11T02:13:11.642Z",
-  "total_datasets": 483,
-  "total_records": 1202650,
+  "generated": "2026-11-11T02:13:20.079Z",
+  "total_datasets": 484,
+  "total_records": 1202665,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 26
+      "dataset_count": 27
     },
     {
       "id": "units",
@@ -13910,6 +13910,31 @@
         "xlsx": {
           "name": "no-unlocode-veitransport_NO.xlsx",
           "size": 67338
+        }
+      }
+    },
+    {
+      "id": "no-veitunneler-per-fylke",
+      "name": "Veitunneler i Norge etter fylke",
+      "category": "transport",
+      "record_count": 15,
+      "columns": [
+        "county",
+        "tunnels",
+        "length_longest_bore_m",
+        "length_all_bores_m"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Veitunneler_i_Norge",
+      "updated": "2026-11",
+      "size": 3495,
+      "files": {
+        "csv": {
+          "name": "no-veitunneler-per-fylke_NO.csv",
+          "size": 551
+        },
+        "xlsx": {
+          "name": "no-veitunneler-per-fylke_NO.xlsx",
+          "size": 7225
         }
       }
     },

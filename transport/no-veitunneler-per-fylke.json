@@ -1,0 +1,136 @@
+{
+  "id": "no-veitunneler-per-fylke",
+  "name": "Veitunneler i Norge etter fylke",
+  "title": "Veitunneler i Norge etter fylke",
+  "description": "Antall veitunneler og samlet tunnellengde (meter) per fylke i Norge.",
+  "category": "transport",
+  "source": "https://no.wikipedia.org/wiki/Veitunneler_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Veitunneler_i_Norge",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "tunnels",
+      "label": "Tunnels",
+      "type": "number"
+    },
+    {
+      "key": "length_longest_bore_m",
+      "label": "Length Longest Bore M",
+      "type": "number"
+    },
+    {
+      "key": "length_all_bores_m",
+      "label": "Length All Bores M",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "county": "Agder",
+      "tunnels": 69,
+      "length_longest_bore_m": 40771,
+      "length_all_bores_m": 49355
+    },
+    {
+      "county": "Akershus",
+      "tunnels": 32,
+      "length_longest_bore_m": 32567,
+      "length_all_bores_m": 48826
+    },
+    {
+      "county": "Buskerud",
+      "tunnels": 17,
+      "length_longest_bore_m": 23126,
+      "length_all_bores_m": 24803
+    },
+    {
+      "county": "Finnmark",
+      "tunnels": 14,
+      "length_longest_bore_m": 30778,
+      "length_all_bores_m": 30778
+    },
+    {
+      "county": "Innlandet",
+      "tunnels": 15,
+      "length_longest_bore_m": 8739,
+      "length_all_bores_m": 8739
+    },
+    {
+      "county": "Møre og Romsdal",
+      "tunnels": 94,
+      "length_longest_bore_m": 117507,
+      "length_all_bores_m": 117507
+    },
+    {
+      "county": "Nordland",
+      "tunnels": 118,
+      "length_longest_bore_m": 143675,
+      "length_all_bores_m": 143675
+    },
+    {
+      "county": "Oslo",
+      "tunnels": 14,
+      "length_longest_bore_m": 12246,
+      "length_all_bores_m": 23416
+    },
+    {
+      "county": "Rogaland",
+      "tunnels": 106,
+      "length_longest_bore_m": 63346,
+      "length_all_bores_m": 63736
+    },
+    {
+      "county": "Telemark",
+      "tunnels": 27,
+      "length_longest_bore_m": 14688,
+      "length_all_bores_m": 14688
+    },
+    {
+      "county": "Troms",
+      "tunnels": 45,
+      "length_longest_bore_m": 57635,
+      "length_all_bores_m": 61021
+    },
+    {
+      "county": "Trøndelag",
+      "tunnels": 46,
+      "length_longest_bore_m": 31233,
+      "length_all_bores_m": 32096
+    },
+    {
+      "county": "Vestfold",
+      "tunnels": 31,
+      "length_longest_bore_m": 16721,
+      "length_all_bores_m": 29979
+    },
+    {
+      "county": "Vestland",
+      "tunnels": 472,
+      "length_longest_bore_m": 451176,
+      "length_all_bores_m": 467572
+    },
+    {
+      "county": "Østfold",
+      "tunnels": 7,
+      "length_longest_bore_m": 6672,
+      "length_all_bores_m": 8602
+    }
+  ],
+  "meta": {
+    "title": "Veitunneler i Norge etter fylke - Free Download",
+    "description": "Antall veitunneler og samlet tunnellengde (meter) per fylke i Norge. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Veitunneler i Norge etter fylke | ListBase",
+    "seo_description": "Download Veitunneler i Norge etter fylke — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Veitunneler_i_Norge"
+    ]
+  }
+}
