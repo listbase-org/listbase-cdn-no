@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-11T02:13:20.079Z",
-  "total_datasets": 484,
-  "total_records": 1202665,
+  "generated": "2026-11-11T02:13:35.537Z",
+  "total_datasets": 485,
+  "total_records": 1203075,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -1924,6 +1924,33 @@
         "xlsx": {
           "name": "no-universiteter_NO.xlsx",
           "size": 8177
+        }
+      }
+    },
+    {
+      "id": "no-videregaende-skoler",
+      "name": "Videregående skoler i Norge",
+      "category": "education",
+      "record_count": 410,
+      "columns": [
+        "name",
+        "place",
+        "county",
+        "ownership",
+        "student_places",
+        "coordinates"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_norske_videregående_skoler",
+      "updated": "2026-11",
+      "size": 96026,
+      "files": {
+        "csv": {
+          "name": "no-videregaende-skoler_NO.csv",
+          "size": 42993
+        },
+        "xlsx": {
+          "name": "no-videregaende-skoler_NO.xlsx",
+          "size": 27380
         }
       }
     },

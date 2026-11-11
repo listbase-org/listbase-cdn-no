@@ -1,0 +1,3336 @@
+{
+  "id": "no-videregaende-skoler",
+  "name": "Videregående skoler i Norge",
+  "title": "Videregående skoler i Norge",
+  "description": "Liste over norske videregående skoler med sted, fylke, eierform (offentlig/privat), antall elevplasser og koordinater.",
+  "category": "education",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_norske_videregående_skoler",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_norske_videregående_skoler",
+  "updated": "2026-11",
+  "record_count": 410,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "ownership",
+      "label": "Ownership",
+      "type": "string"
+    },
+    {
+      "key": "student_places",
+      "label": "Student Places",
+      "type": "number"
+    },
+    {
+      "key": "coordinates",
+      "label": "Coordinates",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aglo videregående skole",
+      "place": "Skatval",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": 208,
+      "coordinates": "63°30′38″N 10°48′56″Ø"
+    },
+    {
+      "name": "Akademiet Heltberg Toppidrettsgymnas Ålesund",
+      "place": "Ålesund",
+      "county": "Møre og Romsdal",
+      "ownership": "Privat",
+      "student_places": 90,
+      "coordinates": "62°28′24″N 6°09′01″Ø"
+    },
+    {
+      "name": "Akademiet Heltberg Drammen",
+      "place": "Drammen",
+      "county": "Buskerud",
+      "ownership": "Privat",
+      "student_places": 200,
+      "coordinates": ""
+    },
+    {
+      "name": "Akademiet Ålesund",
+      "place": "Ålesund",
+      "county": "Møre og Romsdal",
+      "ownership": "Privat",
+      "student_places": 360,
+      "coordinates": "62°28′24″N 6°09′04″Ø"
+    },
+    {
+      "name": "Akademiet Bergen",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 590,
+      "coordinates": "60°23′16″N 5°19′54″Ø"
+    },
+    {
+      "name": "Akademiet Drammen",
+      "place": "Drammen",
+      "county": "Buskerud",
+      "ownership": "Privat",
+      "student_places": 300,
+      "coordinates": "59°44′26″N 10°09′45″Ø"
+    },
+    {
+      "name": "Akademiet Oslo",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 500,
+      "coordinates": "59°55′24″N 10°43′54″Ø"
+    },
+    {
+      "name": "Akademiet Sandnes",
+      "place": "Sandnes",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 286,
+      "coordinates": "58°51′31″N 5°43′03″Ø"
+    },
+    {
+      "name": "Alta videregående skole / Álttá joatkkaskuvla",
+      "place": "Alta",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 900,
+      "coordinates": "69°58′27″N 23°17′51″Ø"
+    },
+    {
+      "name": "Amalie Skram videregående skole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 1050,
+      "coordinates": "60°23′09″N 5°20′20″Ø"
+    },
+    {
+      "name": "Andøy videregående skole",
+      "place": "Andenes",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "69°19′03″N 16°07′53″Ø"
+    },
+    {
+      "name": "Årdal videregåande skole",
+      "place": "Øvre Årdal",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 220,
+      "coordinates": "61°18′31″N 7°48′01″Ø"
+    },
+    {
+      "name": "Arendal videregående skole",
+      "place": "Arendal",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 880,
+      "coordinates": "58°27′31″N 8°45′53″Ø"
+    },
+    {
+      "name": "Arna videregående skole",
+      "place": "Indre Arna",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 200,
+      "coordinates": "60°25′39″N 5°28′10″Ø"
+    },
+    {
+      "name": "Årstad videregående skole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": "1 400",
+      "coordinates": "60°22′30″N 5°20′24″Ø"
+    },
+    {
+      "name": "Ås videregående skole",
+      "place": "Ås",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": "1 400",
+      "coordinates": "59°39′48″N 10°47′43″Ø"
+    },
+    {
+      "name": "Åsane videregående skole",
+      "place": "Nyborg",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 480,
+      "coordinates": "60°28′30″N 5°20′27″Ø"
+    },
+    {
+      "name": "Asker videregående skole",
+      "place": "Asker",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 688,
+      "coordinates": "59°49′54″N 10°26′10″Ø"
+    },
+    {
+      "name": "Askim videregående skole",
+      "place": "Askim",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "59°34′29″N 11°09′46″Ø"
+    },
+    {
+      "name": "Askøy videregående skole",
+      "place": "Kleppestø",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "60°24′36″N 5°13′40″Ø"
+    },
+    {
+      "name": "Åssiden videregående skole",
+      "place": "Drammen",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": "1 300",
+      "coordinates": "59°45′30″N 10°07′11″Ø"
+    },
+    {
+      "name": "Atlanten videregående skole",
+      "place": "Kristiansund",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "63°07′34″N 7°44′15″Ø"
+    },
+    {
+      "name": "Aust-Lofoten videregående skole",
+      "place": "Svolvær",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 380,
+      "coordinates": "68°14′11″N 14°33′58″Ø"
+    },
+    {
+      "name": "Austevoll vidaregåande skule",
+      "place": "Storebø",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 200,
+      "coordinates": "60°05′46″N 5°13′30″Ø"
+    },
+    {
+      "name": "Austrheim vidaregåande skule",
+      "place": "Austrheim",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 260,
+      "coordinates": "60°46′30″N 4°55′26″Ø"
+    },
+    {
+      "name": "Bamble videregående skole",
+      "place": "Stathelle",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 350,
+      "coordinates": "59°01′13″N 9°44′13″Ø"
+    },
+    {
+      "name": "Bardufoss Høgtun videregående skole",
+      "place": "Bardufoss",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "69°04′23″N 18°31′44″Ø"
+    },
+    {
+      "name": "Bergeland videregående skole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 900,
+      "coordinates": "58°57′57″N 5°43′33″Ø"
+    },
+    {
+      "name": "Bergen katedralskole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "60°22′08″N 5°20′26″Ø"
+    },
+    {
+      "name": "Bergen maritime videregående skole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 570,
+      "coordinates": "60°23′09″N 5°20′00″Ø"
+    },
+    {
+      "name": "Bergen Private Gymnas",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 450,
+      "coordinates": "60°23′16″N 5°19′54″Ø"
+    },
+    {
+      "name": "Bjerke videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "59°56′28″N 10°50′09″Ø"
+    },
+    {
+      "name": "Bjertnes videregående skole",
+      "place": "Nittedal",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "60°03′09″N 10°52′35″Ø"
+    },
+    {
+      "name": "Bjørgvin videregående skole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "60°23′47″N 5°18′53″Ø"
+    },
+    {
+      "name": "Bjørkelangen videregående skole",
+      "place": "Bjørkelangen",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 612,
+      "coordinates": "59°53′06″N 11°33′41″Ø"
+    },
+    {
+      "name": "Bjørnholt skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 900,
+      "coordinates": "59°49′53″N 10°50′15″Ø"
+    },
+    {
+      "name": "Bleiker videregående skole",
+      "place": "Asker",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "59°49′34″N 10°26′47″Ø"
+    },
+    {
+      "name": "Blindern videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 750,
+      "coordinates": "59°57′01″N 10°43′45″Ø"
+    },
+    {
+      "name": "Bodin videregående skole og maritime fagskole",
+      "place": "Bodø",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": "1 050",
+      "coordinates": "67°17′18″N 14°33′30″Ø"
+    },
+    {
+      "name": "Bodø videregående skole",
+      "place": "Bodø",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": "1 300",
+      "coordinates": "67°16′45″N 14°23′09″Ø"
+    },
+    {
+      "name": "Borg videregående skole",
+      "place": "Borgenhaugen",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": 680,
+      "coordinates": "59°16′01″N 11°10′27″Ø"
+    },
+    {
+      "name": "Borgund vidaregåande skole",
+      "place": "Ålesund",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 920,
+      "coordinates": "62°28′03″N 6°22′20″Ø"
+    },
+    {
+      "name": "Breivang videregående skole",
+      "place": "Tromsø",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 374,
+      "coordinates": "69°40′43″N 18°57′46″Ø"
+    },
+    {
+      "name": "Breivika videregående skole",
+      "place": "Tromsø",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 800,
+      "coordinates": "69°40′44″N 18°58′46″Ø"
+    },
+    {
+      "name": "Briskeby videregående skole",
+      "place": "Lier",
+      "county": "Buskerud",
+      "ownership": "Privat",
+      "student_places": 54,
+      "coordinates": "59°47′23″N 10°14′51″Ø"
+    },
+    {
+      "name": "Bryne vidaregåande skule",
+      "place": "Bryne",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": "2 200",
+      "coordinates": "58°44′00″N 5°38′45″Ø"
+    },
+    {
+      "name": "Brønnøysund videregående skole",
+      "place": "Brønnøysund",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 465,
+      "coordinates": "65°28′07″N 12°12′45″Ø"
+    },
+    {
+      "name": "Byåsen videregående skole",
+      "place": "Trondheim",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": "1 300",
+      "coordinates": "63°23′42″N 10°21′49″Ø"
+    },
+    {
+      "name": "Bybroen videregående skole",
+      "place": "Trondheim",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": 210,
+      "coordinates": "63°25′44″N 10°24′02″Ø"
+    },
+    {
+      "name": "Byremo videregående skole",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 90,
+      "coordinates": "58°25′14″N 7°24′14″Ø"
+    },
+    {
+      "name": "Bø vidaregåande skule",
+      "place": "Bø i Telemark",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 360,
+      "coordinates": "59°25′02″N 9°03′44″Ø"
+    },
+    {
+      "name": "Bømlo vidaregåande skule",
+      "place": "Bremnes",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 370,
+      "coordinates": "59°47′37″N 5°11′21″Ø"
+    },
+    {
+      "name": "Charlottenlund videregående skole",
+      "place": "Jakobsli",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": "1 100",
+      "coordinates": "63°25′09″N 10°29′17″Ø"
+    },
+    {
+      "name": "Dahlske videregående skole",
+      "place": "Grimstad",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 730,
+      "coordinates": "58°20′22″N 8°34′39″Ø"
+    },
+    {
+      "name": "Dalane videregående skole",
+      "place": "Egersund",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 700,
+      "coordinates": "58°27′52″N 6°00′38″Ø"
+    },
+    {
+      "name": "Dale vidaregåande skule",
+      "place": "Dale (Sunnfjord)",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 223,
+      "coordinates": "61°21′25″N 5°23′53″Ø"
+    },
+    {
+      "name": "Danielsen Intensivgymnas",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 350,
+      "coordinates": "60°23′34″N 5°19′51″Ø"
+    },
+    {
+      "name": "Danielsen videregående skole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 520,
+      "coordinates": "60°23′34″N 5°19′51″Ø"
+    },
+    {
+      "name": "Den tysk-norske skolen i Oslo",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 200,
+      "coordinates": "59°55′30″N 10°43′32″Ø"
+    },
+    {
+      "name": "Dokka videregående skole",
+      "place": "Dokka",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 370,
+      "coordinates": "60°50′20″N 10°04′49″Ø"
+    },
+    {
+      "name": "Drammen videregående skole",
+      "place": "Drammen",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": "1 300",
+      "coordinates": "59°44′15″N 10°11′48″Ø"
+    },
+    {
+      "name": "Drottningborg videregående skole",
+      "place": "Grimstad",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 200,
+      "coordinates": "58°20′43″N 8°38′12″Ø"
+    },
+    {
+      "name": "Drømtorp videregående skole",
+      "place": "Ski",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 440,
+      "coordinates": "59°42′57″N 10°52′00″Ø"
+    },
+    {
+      "name": "Dønski videregående skole",
+      "place": "Gjettum",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "59°54′24″N 10°30′18″Ø"
+    },
+    {
+      "name": "Edvard Munch videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": "1 000",
+      "coordinates": "59°55′07″N 10°44′37″Ø"
+    },
+    {
+      "name": "Eid vidaregåande skule",
+      "place": "Nordfjordeid",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 330,
+      "coordinates": "61°54′50″N 5°59′04″Ø"
+    },
+    {
+      "name": "Eidsvoll videregående skole",
+      "place": "Eidsvoll",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 750,
+      "coordinates": "60°20′11″N 11°15′46″Ø"
+    },
+    {
+      "name": "Eikeli videregående skole",
+      "place": "Hosle",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 492,
+      "coordinates": "59°56′12″N 10°36′06″Ø"
+    },
+    {
+      "name": "Eiker videregående skole",
+      "place": "Hokksund",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 417,
+      "coordinates": "59°46′22″N 9°54′11″Ø"
+    },
+    {
+      "name": "Elvebakken videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": "1 500",
+      "coordinates": "59°55′09″N 10°45′10″Ø"
+    },
+    {
+      "name": "Elverum videregående skole",
+      "place": "Elverum",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 800,
+      "coordinates": "60°52′40″N 11°33′47″Ø"
+    },
+    {
+      "name": "Etne vidaregåande skule",
+      "place": "Etne",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 100,
+      "coordinates": "59°39′24″N 5°56′07″Ø"
+    },
+    {
+      "name": "Etterstad videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 588,
+      "coordinates": "59°54′37″N 10°47′47″Ø"
+    },
+    {
+      "name": "Fagerlia videregående skole",
+      "place": "Ålesund",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "62°28′24″N 6°13′49″Ø"
+    },
+    {
+      "name": "Fagskulane i Hordaland Bergen tekniske fagskole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "60°23′48″N 5°18′51″Ø"
+    },
+    {
+      "name": "Fana gymnas",
+      "place": "Paradis",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 513,
+      "coordinates": "60°20′21″N 5°20′34″Ø"
+    },
+    {
+      "name": "Fannefjord videregående skole",
+      "place": "Molde",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 75,
+      "coordinates": "62°44′03″N 7°08′29″Ø"
+    },
+    {
+      "name": "Fauske videregående skole",
+      "place": "Fauske",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "67°14′54″N 15°20′50″Ø"
+    },
+    {
+      "name": "Firda vidaregåande skule",
+      "place": "Sandane",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 394,
+      "coordinates": "61°46′27″N 6°13′19″Ø"
+    },
+    {
+      "name": "Fitjar vidaregåande skule",
+      "place": "Fitjar",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 250,
+      "coordinates": "59°55′16″N 5°19′17″Ø"
+    },
+    {
+      "name": "Flora vidaregåande skule",
+      "place": "Florø",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "61°35′39″N 5°02′14″Ø"
+    },
+    {
+      "name": "Fosen videregående skole",
+      "place": "Bjugn",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 350,
+      "coordinates": "63°45′53″N 9°48′43″Ø"
+    },
+    {
+      "name": "Foss videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 675,
+      "coordinates": "59°55′38″N 10°45′21″Ø"
+    },
+    {
+      "name": "Fram videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 700,
+      "coordinates": "59°54′54″N 10°47′40″Ø"
+    },
+    {
+      "name": "Framnes kristne vidaregåande skule",
+      "place": "Norheimsund",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 270,
+      "coordinates": "60°21′11″N 6°10′13″Ø"
+    },
+    {
+      "name": "Frederik II videregående skole",
+      "place": "Fredrikstad",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": "1 277",
+      "coordinates": "59°13′05″N 10°55′47″Ø"
+    },
+    {
+      "name": "Frogn videregående skole",
+      "place": "Drøbak",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 700,
+      "coordinates": "59°42′10″N 10°39′39″Ø"
+    },
+    {
+      "name": "Fræna vidaregåande skole",
+      "place": "Elnesvågen",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": "62°51′16″N 7°09′13″Ø"
+    },
+    {
+      "name": "Frøya videregående skole",
+      "place": "Sistranda",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 160,
+      "coordinates": "63°43′32″N 8°50′02″Ø"
+    },
+    {
+      "name": "Fusa vidaregåande skule",
+      "place": "Eikelandsosen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 255,
+      "coordinates": "60°14′26″N 5°45′12″Ø"
+    },
+    {
+      "name": "Fyllingsdalen videregående skole",
+      "place": "Fyllingsdalen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 588,
+      "coordinates": "60°20′51″N 5°17′14″Ø"
+    },
+    {
+      "name": "Fyrstikkalleen skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "59°54′54″N 10°47′40″Ø"
+    },
+    {
+      "name": "Færder videregående skole",
+      "place": "Tønsberg",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": 750,
+      "coordinates": "59°15′38″N 10°24′39″Ø"
+    },
+    {
+      "name": "Gand videregående skole",
+      "place": "Sandnes",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": "1 025",
+      "coordinates": "58°50′48″N 5°44′10″Ø"
+    },
+    {
+      "name": "Garnes vidaregåande skule",
+      "place": "Garnes",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 425,
+      "coordinates": "60°26′47″N 5°27′53″Ø"
+    },
+    {
+      "name": "Gauldal videregående skole",
+      "place": "Støren",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 330,
+      "coordinates": "63°02′20″N 10°17′08″Ø"
+    },
+    {
+      "name": "Gausdal videregående skole",
+      "place": "Østre Gausdal",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 365,
+      "coordinates": "61°19′08″N 9°52′54″Ø"
+    },
+    {
+      "name": "Gjennestad videregående skole",
+      "place": "Sandefjord",
+      "county": "Vestfold",
+      "ownership": "Privat",
+      "student_places": 255,
+      "coordinates": "59°13′54″N 10°16′38″Ø"
+    },
+    {
+      "name": "Gjermundnes vidaregåande skule",
+      "place": "Vikebukt",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 120,
+      "coordinates": "62°37′12″N 7°09′27″Ø"
+    },
+    {
+      "name": "Gjøvik videregående skole",
+      "place": "Gjøvik",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 1066,
+      "coordinates": "60°48′11″N 10°40′44″Ø"
+    },
+    {
+      "name": "Glemmen videregående skole",
+      "place": "Fredrikstad",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": "1 250",
+      "coordinates": "59°13′10″N 10°56′32″Ø"
+    },
+    {
+      "name": "Godalen videregående skole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 1060,
+      "coordinates": "58°57′14″N 5°45′08″Ø"
+    },
+    {
+      "name": "Gol vidaregåande skule",
+      "place": "Gol",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 400,
+      "coordinates": "60°42′08″N 8°56′48″Ø"
+    },
+    {
+      "name": "Greåker videregående skole",
+      "place": "Greåker",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": 900,
+      "coordinates": "59°16′30″N 11°01′45″Ø"
+    },
+    {
+      "name": "Greveskogen videregående skole",
+      "place": "Tønsberg",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": "1 150",
+      "coordinates": "59°17′08″N 10°24′57″Ø"
+    },
+    {
+      "name": "Grong videregående skole",
+      "place": "Grong",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 265,
+      "coordinates": "64°27′59″N 12°18′17″Ø"
+    },
+    {
+      "name": "Hadeland videregående skole",
+      "place": "Gran",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 849,
+      "coordinates": "60°21′20″N 10°34′35″Ø"
+    },
+    {
+      "name": "Hadsel videregående skole",
+      "place": "Melbu",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "68°30′14″N 14°48′24″Ø"
+    },
+    {
+      "name": "Hafstad vidaregåande skule",
+      "place": "Førde",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 470,
+      "coordinates": "61°26′59″N 5°51′53″Ø"
+    },
+    {
+      "name": "Halden videregående skole",
+      "place": "Halden",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": "1 200",
+      "coordinates": "59°07′05″N 11°24′39″Ø"
+    },
+    {
+      "name": "Hamar katedralskole",
+      "place": "Hamar",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": "1 300",
+      "coordinates": "60°48′17″N 11°03′19″Ø"
+    },
+    {
+      "name": "Hammerfest videregående skole / Hámmerfeasta joatkkaskuvla",
+      "place": "Hammerfest",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "70°40′16″N 23°40′02″Ø"
+    },
+    {
+      "name": "Handverksskolen",
+      "place": "Dovre",
+      "county": "Innlandet",
+      "ownership": "Privat",
+      "student_places": 30,
+      "coordinates": "61°59′01″N 9°14′38″Ø"
+    },
+    {
+      "name": "Hans Nielsen Hauge videregående skole",
+      "place": "Fredrikstad",
+      "county": "Østfold",
+      "ownership": "Privat",
+      "student_places": 30,
+      "coordinates": "59°12′42″N 10°56′17″Ø"
+    },
+    {
+      "name": "Haram vidaregåande skule",
+      "place": "Brattvåg",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 350,
+      "coordinates": "62°35′40″N 6°26′28″Ø"
+    },
+    {
+      "name": "Hartvig Nissens skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 630,
+      "coordinates": "59°55′06″N 10°43′01″Ø"
+    },
+    {
+      "name": "Haugaland videregående skole",
+      "place": "Haugesund",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 876,
+      "coordinates": "59°24′37″N 5°17′29″Ø"
+    },
+    {
+      "name": "Haugesund Toppidrettsgymnas",
+      "place": "Haugesund",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 300,
+      "coordinates": "59°24′52″N 5°15′58″Ø"
+    },
+    {
+      "name": "Heggen videregående skole",
+      "place": "Harstad",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "68°47′38″N 16°31′29″Ø"
+    },
+    {
+      "name": "Heimdal videregående skole",
+      "place": "Saupstad",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 730,
+      "coordinates": "63°22′01″N 10°20′58″Ø"
+    },
+    {
+      "name": "Hellerud videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "59°54′48″N 10°50′26″Ø"
+    },
+    {
+      "name": "Helsepedagogisk Steinerskole på Hedemarken",
+      "place": "Ottestad",
+      "county": "Innlandet",
+      "ownership": "Privat",
+      "student_places": 30,
+      "coordinates": "60°46′39″N 11°06′10″Ø"
+    },
+    {
+      "name": "Heltberg Private Gymnas Drammen",
+      "place": "Drammen",
+      "county": "Buskerud",
+      "ownership": "Privat",
+      "student_places": 60,
+      "coordinates": "59°44′23″N 10°10′51″Ø"
+    },
+    {
+      "name": "Heltberg Private Gymnas Oslo",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 160,
+      "coordinates": "59°57′18″N 10°45′58″Ø"
+    },
+    {
+      "name": "Hemne videregående skole",
+      "place": "Kyrksæterøra",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 220,
+      "coordinates": "63°17′31″N 9°05′07″Ø"
+    },
+    {
+      "name": "Hersleb videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 662,
+      "coordinates": "59°55′05″N 10°45′50″Ø"
+    },
+    {
+      "name": "Herøy vidaregåande skule",
+      "place": "Fosnavåg",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 301,
+      "coordinates": "62°20′06″N 5°38′42″Ø"
+    },
+    {
+      "name": "Hetland videregående skole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "58°56′04″N 5°44′13″Ø"
+    },
+    {
+      "name": "Hitra videregående skole",
+      "place": "Hitra",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 180,
+      "coordinates": "63°36′15″N 8°58′11″Ø"
+    },
+    {
+      "name": "Hjalmar Johansen videregående skole",
+      "place": "Skien",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 650,
+      "coordinates": "59°11′16″N 9°35′55″Ø"
+    },
+    {
+      "name": "Hjeltnes vidaregåande skule",
+      "place": "Ulvik",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 66,
+      "coordinates": "60°33′49″N 6°55′49″Ø"
+    },
+    {
+      "name": "Holmen grunn- og videregående skole",
+      "place": "Billingstad",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 76,
+      "coordinates": "59°52′00″N 10°29′18″Ø"
+    },
+    {
+      "name": "Holmestrand videregående skole",
+      "place": "Holmestrand",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": 350,
+      "coordinates": "59°29′18″N 10°17′46″Ø"
+    },
+    {
+      "name": "Hop videregående skole",
+      "place": "Ask",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 52,
+      "coordinates": "60°28′02″N 5°13′24″Ø"
+    },
+    {
+      "name": "Horten videregående skole",
+      "place": "Horten",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": "1 150",
+      "coordinates": "59°25′09″N 10°29′01″Ø"
+    },
+    {
+      "name": "Hvam videregående skole",
+      "place": "Hvam",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 400,
+      "coordinates": "60°06′26″N 11°22′40″Ø"
+    },
+    {
+      "name": "Hønefoss videregående skole",
+      "place": "Hønefoss",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 675,
+      "coordinates": "60°09′26″N 10°15′23″Ø"
+    },
+    {
+      "name": "Høyanger vidaregåande skule",
+      "place": "Høyanger",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 200,
+      "coordinates": "61°13′04″N 6°04′26″Ø"
+    },
+    {
+      "name": "Inderøy videregående skole",
+      "place": "Inderøy",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 250,
+      "coordinates": "63°52′36″N 11°17′18″Ø"
+    },
+    {
+      "name": "Jåttå videregående skole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 1100,
+      "coordinates": "58°54′51″N 5°43′39″Ø"
+    },
+    {
+      "name": "Jessheim videregående skole",
+      "place": "Jessheim",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": "1 150",
+      "coordinates": "60°08′47″N 11°09′41″Ø"
+    },
+    {
+      "name": "Jønsberg videregående skole",
+      "place": "Stange",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 220,
+      "coordinates": "60°45′06″N 11°12′24″Ø"
+    },
+    {
+      "name": "Kalnes videregående skole",
+      "place": "Grålum",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": 460,
+      "coordinates": "59°18′50″N 11°02′49″Ø"
+    },
+    {
+      "name": "Karmsund videregående skole",
+      "place": "Haugesund",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 713,
+      "coordinates": "59°24′03″N 5°17′00″Ø"
+    },
+    {
+      "name": "Kirkenes videregående skole / Girkonjárgga joatkkaskuvla",
+      "place": "Hesseng",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 510,
+      "coordinates": "69°41′36″N 29°59′14″Ø"
+    },
+    {
+      "name": "Kirkeparken videregående skole",
+      "place": "Moss",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": 710,
+      "coordinates": "59°26′11″N 10°39′59″Ø"
+    },
+    {
+      "name": "Kjelle videregående skole",
+      "place": "Bjørkelangen",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 180,
+      "coordinates": "59°53′13″N 11°34′45″Ø"
+    },
+    {
+      "name": "Knarvik vidaregåande skule",
+      "place": "Isdalstø",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": "1 050",
+      "coordinates": "60°32′49″N 5°17′04″Ø"
+    },
+    {
+      "name": "Knut Hamsun videregående skole / Knut Hamsun joarkkaskåvllå",
+      "place": "Hamarøy",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "68°05′01″N 15°37′00″Ø"
+    },
+    {
+      "name": "Kompetansebyggeren",
+      "place": "Tønsberg",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": 1000,
+      "coordinates": ""
+    },
+    {
+      "name": "Kongsbakken videregående skole",
+      "place": "Tromsø",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 620,
+      "coordinates": "69°39′00″N 18°56′59″Ø"
+    },
+    {
+      "name": "Kongsberg videregående skole",
+      "place": "Kongsberg",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": "1 344",
+      "coordinates": "59°40′24″N 9°38′46″Ø"
+    },
+    {
+      "name": "Kongshaug Musikkgymnas",
+      "place": "Lepsøy",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 90,
+      "coordinates": "60°09′06″N 5°23′08″Ø"
+    },
+    {
+      "name": "Kongshavn videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "59°53′51″N 10°45′31″Ø"
+    },
+    {
+      "name": "Kopervik videregående skole",
+      "place": "Kopervik",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 328,
+      "coordinates": "59°16′49″N 5°17′02″Ø"
+    },
+    {
+      "name": "Kragerø videregående skole",
+      "place": "Kragerø",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 390,
+      "coordinates": "58°52′15″N 9°23′30″Ø"
+    },
+    {
+      "name": "Kristelig Gymnasium",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 540,
+      "coordinates": "59°55′27″N 10°43′46″Ø"
+    },
+    {
+      "name": "Kristen videregående skole – Nordland",
+      "place": "Nesna",
+      "county": "Nordland",
+      "ownership": "Privat",
+      "student_places": 160,
+      "coordinates": "66°11′57″N 13°02′06″Ø"
+    },
+    {
+      "name": "Kristen videregående skole Trøndelag",
+      "place": "Tiller",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": 480,
+      "coordinates": "63°21′38″N 10°22′50″Ø"
+    },
+    {
+      "name": "Kristiansand katedralskole Gimle",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": "1 600",
+      "coordinates": "58°09′36″N 8°00′41″Ø"
+    },
+    {
+      "name": "Kristiansund videregående skole",
+      "place": "Kristiansund",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 950,
+      "coordinates": "63°07′13″N 7°43′11″Ø"
+    },
+    {
+      "name": "Krokeide videregående skole",
+      "place": "Fana",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 145,
+      "coordinates": "60°13′22″N 5°17′17″Ø"
+    },
+    {
+      "name": "Kuben videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": "1 630",
+      "coordinates": "59°55′38″N 10°48′59″Ø"
+    },
+    {
+      "name": "Kvadraturen Skolesenter",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": "1 400",
+      "coordinates": "58°08′54″N 8°00′06″Ø"
+    },
+    {
+      "name": "Kvaløya videregående skole",
+      "place": "Kvaløya",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": "69°41′03″N 18°47′46″Ø"
+    },
+    {
+      "name": "Kvinnherad vidaregåande skule",
+      "place": "Husnes",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": "59°52′09″N 5°46′50″Ø"
+    },
+    {
+      "name": "Kvitsund Gymnas",
+      "place": "Kviteseid",
+      "county": "Telemark",
+      "ownership": "Privat",
+      "student_places": 190,
+      "coordinates": "59°22′56″N 8°31′07″Ø"
+    },
+    {
+      "name": "KVS-Bygland",
+      "place": "Bygland",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 80,
+      "coordinates": "58°49′52″N 7°47′47″Ø"
+    },
+    {
+      "name": "KVS-Lyngdal",
+      "place": "Lyngdal",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 330,
+      "coordinates": "58°07′46″N 7°03′28″Ø"
+    },
+    {
+      "name": "Lakselv videregående skole / Leavnnja joatkkaskuvla",
+      "place": "Lakselv",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "70°02′53″N 24°58′15″Ø"
+    },
+    {
+      "name": "Laksevåg videregående skole",
+      "place": "Laksevåg",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "60°23′06″N 5°16′09″Ø"
+    },
+    {
+      "name": "Lambertseter videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 825,
+      "coordinates": "59°52′44″N 10°48′37″Ø"
+    },
+    {
+      "name": "Langhaugen videregående skole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 580,
+      "coordinates": "60°21′44″N 5°21′47″Ø"
+    },
+    {
+      "name": "Leksvik videregående skole",
+      "place": "Leksvik",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "63°40′18″N 10°37′22″Ø"
+    },
+    {
+      "name": "Lena-Valle videregående skole",
+      "place": "Lena",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 635,
+      "coordinates": "60°40′29″N 10°48′48″Ø"
+    },
+    {
+      "name": "Levanger videregående skole",
+      "place": "Levanger",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": "1 000",
+      "coordinates": "63°44′40″N 11°17′39″Ø"
+    },
+    {
+      "name": "Lier videregående skole",
+      "place": "Lier",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "59°45′23″N 10°14′40″Ø"
+    },
+    {
+      "name": "Lillehammer videregående skole",
+      "place": "Lillehammer",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 635,
+      "coordinates": "61°06′46″N 10°28′06″Ø"
+    },
+    {
+      "name": "Lillestrøm videregående skole",
+      "place": "Lillestrøm",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 820,
+      "coordinates": "59°57′37″N 11°02′44″Ø"
+    },
+    {
+      "name": "Ljabruskolen – Steinerskole for elever med spesielle behov",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 12,
+      "coordinates": "59°50′58″N 10°48′12″Ø"
+    },
+    {
+      "name": "Longyearbyen skole",
+      "place": "Longyearbyen",
+      "county": "Svalbard",
+      "ownership": "Offentlig",
+      "student_places": 30,
+      "coordinates": "78°12′36″N 15°36′40″Ø"
+    },
+    {
+      "name": "Lukas videregående skole",
+      "place": "Vikhammer",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": 100,
+      "coordinates": "63°26′14″N 10°37′33″Ø"
+    },
+    {
+      "name": "Lundeneset vidaregåande skole",
+      "place": "Ølensvåg",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 198,
+      "coordinates": "59°35′51″N 5°44′17″Ø"
+    },
+    {
+      "name": "Lønborg videregående skole",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 210,
+      "coordinates": "60°25′59″N 5°17′04″Ø"
+    },
+    {
+      "name": "Lørenskog videregående skole",
+      "place": "Nordbyhagen",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "59°55′54″N 10°59′06″Ø"
+    },
+    {
+      "name": "Mailand videregående skole",
+      "place": "Lørenskog",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 700,
+      "coordinates": "59°55′46″N 10°57′34″Ø"
+    },
+    {
+      "name": "Malakoff videregående skole",
+      "place": "Moss",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": "1 000",
+      "coordinates": "59°25′38″N 10°40′10″Ø"
+    },
+    {
+      "name": "Malvik videregående skole",
+      "place": "Vikhammer",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 435,
+      "coordinates": "63°26′09″N 10°36′47″Ø"
+    },
+    {
+      "name": "Måløy vidaregåande skule",
+      "place": "Deknepollen",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 374,
+      "coordinates": "61°55′06″N 5°09′30″Ø"
+    },
+    {
+      "name": "Mandal videregående skole",
+      "place": "Mandal",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 795,
+      "coordinates": "58°01′34″N 7°26′18″Ø"
+    },
+    {
+      "name": "Meldal videregående skole",
+      "place": "Løkken Verk",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 300,
+      "coordinates": "63°06′25″N 9°42′01″Ø"
+    },
+    {
+      "name": "Melhus videregående skole",
+      "place": "Melhus",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 560,
+      "coordinates": "63°17′15″N 10°16′00″Ø"
+    },
+    {
+      "name": "Melsom videregående skole",
+      "place": "Melsomvik",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": 330,
+      "coordinates": "59°13′38″N 10°19′54″Ø"
+    },
+    {
+      "name": "Meløy videregående skole",
+      "place": "Glomfjord",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 240,
+      "coordinates": "66°49′05″N 13°56′43″Ø"
+    },
+    {
+      "name": "Meråker videregående skole",
+      "place": "Meråker",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 200,
+      "coordinates": "63°25′01″N 11°44′26″Ø"
+    },
+    {
+      "name": "Midt-Østerdal videregående skole",
+      "place": "Koppang",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "61°34′00″N 11°03′30″Ø"
+    },
+    {
+      "name": "Mo og Øyrane vidaregåande skule",
+      "place": "Førde",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 350,
+      "coordinates": "61°30′21″N 5°43′18″Ø"
+    },
+    {
+      "name": "Molde videregående skole",
+      "place": "Molde",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 800,
+      "coordinates": "62°44′20″N 7°09′55″Ø"
+    },
+    {
+      "name": "Momo Waldorfskole",
+      "place": "Heimdal",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": "",
+      "coordinates": "63°20′30″N 10°21′44″Ø"
+    },
+    {
+      "name": "Mosjøen videregående skole",
+      "place": "Mosjøen",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 900,
+      "coordinates": "65°50′16″N 13°11′40″Ø"
+    },
+    {
+      "name": "Mysen videregående skole",
+      "place": "Mysen",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": 800,
+      "coordinates": "59°33′26″N 11°19′41″Ø"
+    },
+    {
+      "name": "Mære landbruksskole",
+      "place": "Sparbu",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 165,
+      "coordinates": "63°55′02″N 11°25′53″Ø"
+    },
+    {
+      "name": "Møglestu videregående skole",
+      "place": "Lillesand",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": "58°14′56″N 8°22′39″Ø"
+    },
+    {
+      "name": "Nadderud videregående skole",
+      "place": "Bekkestua",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 493,
+      "coordinates": "59°55′02″N 10°34′29″Ø"
+    },
+    {
+      "name": "Nannestad videregående skole",
+      "place": "Nannestad",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 750,
+      "coordinates": "60°13′12″N 11°01′06″Ø"
+    },
+    {
+      "name": "Narvik videregående skole og fagskole",
+      "place": "Narvik",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": "1 000",
+      "coordinates": "68°26′32″N 17°25′04″Ø"
+    },
+    {
+      "name": "Natur videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 204,
+      "coordinates": "59°56′10″N 10°52′46″Ø"
+    },
+    {
+      "name": "Nes videregående skole",
+      "place": "Årnes",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "60°07′27″N 11°28′43″Ø"
+    },
+    {
+      "name": "Nesbru videregående skole",
+      "place": "Nesbru",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 800,
+      "coordinates": "59°52′03″N 10°29′06″Ø"
+    },
+    {
+      "name": "Nesodden videregående skole",
+      "place": "Nesoddtangen",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 700,
+      "coordinates": "59°50′27″N 10°40′38″Ø"
+    },
+    {
+      "name": "Nome videregående skole",
+      "place": "Ulefoss",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "59°16′27″N 9°17′15″Ø"
+    },
+    {
+      "name": "Nord-Gudbrandsdal vidaregåande skule",
+      "place": "Otta",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": "",
+      "coordinates": "61°46′42″N 9°32′25″Ø"
+    },
+    {
+      "name": "Nord-Troms videregående skole",
+      "place": "Storslett",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "69°46′10″N 20°59′50″Ø"
+    },
+    {
+      "name": "Nord-Østerdal videregående skole",
+      "place": "Tynset",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 560,
+      "coordinates": "62°16′16″N 10°46′23″Ø"
+    },
+    {
+      "name": "Nordahl Grieg videregående skole",
+      "place": "Rådal",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 280,
+      "coordinates": "60°17′25″N 5°18′57″Ø"
+    },
+    {
+      "name": "Nordborg videregående skole",
+      "place": "Finnsnes",
+      "county": "Troms",
+      "ownership": "Privat",
+      "student_places": 150,
+      "coordinates": "69°13′46″N 17°59′47″Ø"
+    },
+    {
+      "name": "Nordkapp maritime fagskole og videregående skole",
+      "place": "Honningsvåg",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 200,
+      "coordinates": "70°58′41″N 25°58′13″Ø"
+    },
+    {
+      "name": "Nordkjosbotn videregående skole",
+      "place": "Nordkjosbotn",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 250,
+      "coordinates": "69°13′02″N 19°34′19″Ø"
+    },
+    {
+      "name": "Norges Toppidrettsgymnas Bærum",
+      "place": "Bekkestua",
+      "county": "Akershus",
+      "ownership": "Privat",
+      "student_places": 300,
+      "coordinates": "59°55′32″N 10°35′29″Ø"
+    },
+    {
+      "name": "Norges Toppidrettsgymnas Geilo",
+      "place": "Geilo",
+      "county": "Buskerud",
+      "ownership": "Privat",
+      "student_places": 90,
+      "coordinates": "60°32′00″N 8°12′27″Ø"
+    },
+    {
+      "name": "Norges Toppidrettsgymnas Kongsvinger",
+      "place": "Kongsvinger",
+      "county": "Innlandet",
+      "ownership": "Privat",
+      "student_places": 110,
+      "coordinates": "60°11′28″N 12°00′18″Ø"
+    },
+    {
+      "name": "Norges Toppidrettsgymnas Lillehammer",
+      "place": "Lillehammer",
+      "county": "Innlandet",
+      "ownership": "Privat",
+      "student_places": 270,
+      "coordinates": "61°07′23″N 10°29′18″Ø"
+    },
+    {
+      "name": "Norges Toppidrettsgymnas Tromsø",
+      "place": "Tromsø",
+      "county": "Troms",
+      "ownership": "Privat",
+      "student_places": 90,
+      "coordinates": "69°39′00″N 18°56′05″Ø"
+    },
+    {
+      "name": "Norheimsund vidaregåande skule",
+      "place": "Norheimsund",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 200,
+      "coordinates": "60°22′00″N 6°06′11″Ø"
+    },
+    {
+      "name": "Noroff videregående skole – Fredrikstad",
+      "place": "Fredrikstad",
+      "county": "Østfold",
+      "ownership": "Privat",
+      "student_places": 90,
+      "coordinates": "59°12′34″N 10°57′03″Ø"
+    },
+    {
+      "name": "Noroff videregående skole – Kristiansand",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 180,
+      "coordinates": "58°08′54″N 8°00′19″Ø"
+    },
+    {
+      "name": "Noroff videregående skole – Oslo",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 90,
+      "coordinates": "59°54′51″N 10°44′52″Ø"
+    },
+    {
+      "name": "Noroff videregående skole – Stavanger",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 40,
+      "coordinates": "58°58′06″N 5°44′09″Ø"
+    },
+    {
+      "name": "Norsk Fotterapeutskole",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 32,
+      "coordinates": "58°08′38″N 7°59′36″Ø"
+    },
+    {
+      "name": "Notodden videregående skole",
+      "place": "Notodden",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 515,
+      "coordinates": "59°33′21″N 9°15′27″Ø"
+    },
+    {
+      "name": "Numedal videregående skole",
+      "place": "Nore og Uvdal",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 210,
+      "coordinates": "60°10′09″N 9°00′26″Ø"
+    },
+    {
+      "name": "Nydalen videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 900,
+      "coordinates": "59°56′59″N 10°45′52″Ø"
+    },
+    {
+      "name": "Nøtterøy videregående skole",
+      "place": "Nøtterøy",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "59°13′27″N 10°24′19″Ø"
+    },
+    {
+      "name": "Oasen videregående skole",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 250,
+      "coordinates": "58°09′18″N 8°04′39″Ø"
+    },
+    {
+      "name": "Odda vidaregåande skule",
+      "place": "Odda",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 320,
+      "coordinates": "60°03′25″N 6°32′44″Ø"
+    },
+    {
+      "name": "Olav Duun videregående skole",
+      "place": "Namsos",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 852,
+      "coordinates": "64°28′21″N 11°32′20″Ø"
+    },
+    {
+      "name": "Ole Vig videregående skole",
+      "place": "Stjørdal",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": "1 000",
+      "coordinates": "63°28′24″N 10°56′01″Ø"
+    },
+    {
+      "name": "Olsvikåsen videregående skole",
+      "place": "Olsvik",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 455,
+      "coordinates": "60°22′45″N 5°13′14″Ø"
+    },
+    {
+      "name": "Oppdal videregående skole",
+      "place": "Oppdal",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 290,
+      "coordinates": "62°35′49″N 9°41′43″Ø"
+    },
+    {
+      "name": "Orkdal vidaregåande skole",
+      "place": "Orkanger",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "63°16′51″N 9°50′33″Ø"
+    },
+    {
+      "name": "Os gymnas",
+      "place": "Os",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 270,
+      "coordinates": "60°11′45″N 5°27′37″Ø"
+    },
+    {
+      "name": "Os vidaregåande skule",
+      "place": "Os",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 480,
+      "coordinates": "60°11′49″N 5°26′35″Ø"
+    },
+    {
+      "name": "Oslo by Steinerskole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 460,
+      "coordinates": "59°55′06″N 10°44′35″Ø"
+    },
+    {
+      "name": "Oslo handelsgymnasium",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 900,
+      "coordinates": "59°54′50″N 10°43′15″Ø"
+    },
+    {
+      "name": "Oslo katedralskole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "59°55′18″N 10°44′30″Ø"
+    },
+    {
+      "name": "Oslo Private Gymnasium",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 167,
+      "coordinates": "59°54′39″N 10°43′27″Ø"
+    },
+    {
+      "name": "Osterøy vidaregåande skule",
+      "place": "Lonevåg",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 123,
+      "coordinates": "60°31′32″N 5°29′45″Ø"
+    },
+    {
+      "name": "Otto Treider Private Gymnas",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 260,
+      "coordinates": "59°54′41″N 10°44′18″Ø"
+    },
+    {
+      "name": "Persbråten videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 650,
+      "coordinates": "59°56′44″N 10°39′22″Ø"
+    },
+    {
+      "name": "Plus-skolen ba",
+      "place": "Gamle Fredrikstad",
+      "county": "Østfold",
+      "ownership": "Privat",
+      "student_places": 58,
+      "coordinates": "59°12′13″N 10°57′13″Ø"
+    },
+    {
+      "name": "Polarsirkelen videregående skole",
+      "place": "Mo i Rana",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": "1 250",
+      "coordinates": "66°18′46″N 14°08′34″Ø"
+    },
+    {
+      "name": "Porsgrunn videregående skole",
+      "place": "Porsgrunn",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": "1 100",
+      "coordinates": "59°08′24″N 9°40′08″Ø"
+    },
+    {
+      "name": "Rå videregående skole",
+      "place": "Borkenes",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 250,
+      "coordinates": "68°46′30″N 16°10′33″Ø"
+    },
+    {
+      "name": "Randaberg videregående skole",
+      "place": "Randaberg",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "58°59′50″N 5°39′20″Ø"
+    },
+    {
+      "name": "Raufoss videregående skole",
+      "place": "Raufoss",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": "60°42′50″N 10°36′16″Ø"
+    },
+    {
+      "name": "Rauma videregående skole",
+      "place": "Åndalsnes",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 230,
+      "coordinates": "62°33′49″N 7°40′58″Ø"
+    },
+    {
+      "name": "Re videregående skole",
+      "place": "Ramnes",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "59°21′50″N 10°14′58″Ø"
+    },
+    {
+      "name": "Ringerike videregående skole",
+      "place": "Hønefoss",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 750,
+      "coordinates": "60°09′52″N 10°15′28″Ø"
+    },
+    {
+      "name": "Ringsaker videregående skole",
+      "place": "Brumunddal",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 750,
+      "coordinates": "60°52′53″N 10°56′47″Ø"
+    },
+    {
+      "name": "Rissa videregående skole",
+      "place": "Rissa",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 165,
+      "coordinates": "63°35′05″N 9°57′41″Ø"
+    },
+    {
+      "name": "Risør videregående skole",
+      "place": "Risør",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 300,
+      "coordinates": "58°43′15″N 9°13′07″Ø"
+    },
+    {
+      "name": "Rjukan videregående skole",
+      "place": "Rjukan",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 215,
+      "coordinates": "59°52′42″N 8°34′51″Ø"
+    },
+    {
+      "name": "Roald Amundsen videregående skole",
+      "place": "Sofiemyr",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 597,
+      "coordinates": "59°47′42″N 10°48′43″Ø"
+    },
+    {
+      "name": "Rogne vidaregåande skule",
+      "place": "Voss",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 95,
+      "coordinates": "60°37′56″N 6°25′22″Ø"
+    },
+    {
+      "name": "Romsdal videregående skole",
+      "place": "Molde",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 890,
+      "coordinates": "62°44′38″N 7°11′20″Ø"
+    },
+    {
+      "name": "Rosenvilde videregående skole",
+      "place": "Kolsås",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 730,
+      "coordinates": "59°54′37″N 10°30′34″Ø"
+    },
+    {
+      "name": "Rosthaug videregående skole",
+      "place": "Åmot",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 678,
+      "coordinates": "59°53′34″N 9°56′05″Ø"
+    },
+    {
+      "name": "Rud videregående skole",
+      "place": "Rud",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 950,
+      "coordinates": "59°54′31″N 10°29′33″Ø"
+    },
+    {
+      "name": "Rudolf Steinerskolen i Bergen",
+      "place": "Paradis",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 90,
+      "coordinates": "60°20′38″N 5°20′36″Ø"
+    },
+    {
+      "name": "Steinerskolen i Moss",
+      "place": "Moss",
+      "county": "Østfold",
+      "ownership": "Privat",
+      "student_places": 56,
+      "coordinates": "59°25′42″N 10°40′05″Ø"
+    },
+    {
+      "name": "Rælingen videregående skole",
+      "place": "Fjerdingby",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "59°55′39″N 11°03′52″Ø"
+    },
+    {
+      "name": "Røros videregående skole",
+      "place": "Røros",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 300,
+      "coordinates": "62°34′36″N 11°22′24″Ø"
+    },
+    {
+      "name": "Røyken videregående skole",
+      "place": "Røyken",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 800,
+      "coordinates": "59°44′19″N 10°23′58″Ø"
+    },
+    {
+      "name": "Røyken videregående Steinerskole",
+      "place": "Røyken",
+      "county": "Akershus",
+      "ownership": "Privat",
+      "student_places": 160,
+      "coordinates": "59°44′31″N 10°25′18″Ø"
+    },
+    {
+      "name": "Saltdal videregående skole",
+      "place": "Rognan",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 250,
+      "coordinates": "67°05′27″N 15°22′38″Ø"
+    },
+    {
+      "name": "Sam Eyde videregående skole",
+      "place": "Arendal",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": "1 300",
+      "coordinates": "58°27′31″N 8°45′16″Ø"
+    },
+    {
+      "name": "Sámi joatkkaskuvla ja boazodoalloskuvla / Samisk videregående og reindriftsskole",
+      "place": "Kautokeino",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "69°00′31″N 23°02′09″Ø"
+    },
+    {
+      "name": "Samisk videregående skole Karasjok – Sámi joatkkaskuvla Kárášjogas",
+      "place": "Karasjok",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 180,
+      "coordinates": "69°28′04″N 25°31′43″Ø"
+    },
+    {
+      "name": "Sande videregående skole",
+      "place": "Sande",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": 500,
+      "coordinates": "59°35′08″N 10°14′33″Ø"
+    },
+    {
+      "name": "Sandefjord videregående skole",
+      "place": "Sandefjord",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": "2 100",
+      "coordinates": "59°08′00″N 10°12′16″Ø"
+    },
+    {
+      "name": "Sandnes videregående skole",
+      "place": "Sandnes",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 630,
+      "coordinates": "58°51′26″N 5°43′17″Ø"
+    },
+    {
+      "name": "Sandnessjøen videregående skole",
+      "place": "Sandnessjøen",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 480,
+      "coordinates": "66°00′50″N 12°36′00″Ø"
+    },
+    {
+      "name": "Sandsli videregående skole",
+      "place": "Sandsli",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 540,
+      "coordinates": "60°17′28″N 5°16′45″Ø"
+    },
+    {
+      "name": "Sandvika videregående skole",
+      "place": "Sandvika",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 950,
+      "coordinates": "59°53′32″N 10°31′03″Ø"
+    },
+    {
+      "name": "Sauda vidaregåande skule",
+      "place": "Sauda",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": "382 elever per 2025.",
+      "coordinates": "59°39′03″N 6°21′10″Ø"
+    },
+    {
+      "name": "Sauda videregående skole",
+      "place": "Sauda",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 430,
+      "coordinates": "59°39′11″N 6°21′40″Ø"
+    },
+    {
+      "name": "Seiersborg videregående skole",
+      "place": "Rolvsøy",
+      "county": "Østfold",
+      "ownership": "Privat",
+      "student_places": 76,
+      "coordinates": "59°16′25″N 11°01′06″Ø"
+    },
+    {
+      "name": "Selbu videregående skole",
+      "place": "Selbu",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "63°13′45″N 11°02′09″Ø"
+    },
+    {
+      "name": "Senja videregående skole",
+      "place": "Finnsnes",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 520,
+      "coordinates": "69°13′59″N 18°05′40″Ø"
+    },
+    {
+      "name": "Sentrum videregående skole",
+      "place": "Kongsvinger",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "60°10′29″N 12°01′02″Ø"
+    },
+    {
+      "name": "Setesdal vidaregåande skule",
+      "place": "Hornnes",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 340,
+      "coordinates": "58°34′03″N 7°46′12″Ø"
+    },
+    {
+      "name": "Signo grunn- og videregående skole",
+      "place": "Andebu",
+      "county": "Vestfold",
+      "ownership": "Privat",
+      "student_places": "",
+      "coordinates": "59°19′00″N 10°09′18″Ø"
+    },
+    {
+      "name": "Sirdal videregående skole",
+      "place": "Tonstad",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 90,
+      "coordinates": "58°40′23″N 6°43′32″Ø"
+    },
+    {
+      "name": "Sjøvegan videregående skole",
+      "place": "Sjøvegan",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 210,
+      "coordinates": "68°52′29″N 17°50′33″Ø"
+    },
+    {
+      "name": "Skagerak International School",
+      "place": "Sandefjord",
+      "county": "Vestfold",
+      "ownership": "Privat",
+      "student_places": 170,
+      "coordinates": "59°07′18″N 10°13′56″Ø"
+    },
+    {
+      "name": "Skarnes videregående skole",
+      "place": "Skarnes",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 350,
+      "coordinates": "60°15′17″N 11°41′01″Ø"
+    },
+    {
+      "name": "Skedsmo videregående skole",
+      "place": "Lillestrøm",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": "1 000",
+      "coordinates": "59°57′53″N 11°02′22″Ø"
+    },
+    {
+      "name": "Skeisvang videregående skole",
+      "place": "Haugesund",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 471,
+      "coordinates": "59°25′22″N 5°16′15″Ø"
+    },
+    {
+      "name": "Ski videregående skole",
+      "place": "Nordre Follo",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 630,
+      "coordinates": "59°43′06″N 10°50′56″Ø"
+    },
+    {
+      "name": "Skien videregående skole",
+      "place": "Skien",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": "1 175",
+      "coordinates": "59°12′20″N 9°36′13″Ø"
+    },
+    {
+      "name": "Skjetlein videregående skole",
+      "place": "Leinstrand",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 270,
+      "coordinates": "63°19′50″N 10°18′32″Ø"
+    },
+    {
+      "name": "Skogmo videregående skole",
+      "place": "Skien",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 900,
+      "coordinates": "59°10′26″N 9°37′14″Ø"
+    },
+    {
+      "name": "Skoleskipet GANN",
+      "place": "Hundvåg",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 120,
+      "coordinates": "58°59′23″N 5°43′26″Ø"
+    },
+    {
+      "name": "Slåtthaug videregående skole",
+      "place": "Nesttun",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 400,
+      "coordinates": "60°18′33″N 5°21′27″Ø"
+    },
+    {
+      "name": "Sogn Jord- og Hagebruksskule",
+      "place": "Aurland",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 52,
+      "coordinates": "60°54′20″N 7°11′34″Ø"
+    },
+    {
+      "name": "Sogndal vidaregåande skule",
+      "place": "Sogndal",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 800,
+      "coordinates": "61°13′53″N 7°05′15″Ø"
+    },
+    {
+      "name": "Sola videregående skole",
+      "place": "Sola",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "58°52′56″N 5°38′41″Ø"
+    },
+    {
+      "name": "Solør videregående skole",
+      "place": "Flisa",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "60°36′47″N 12°01′00″Ø"
+    },
+    {
+      "name": "Sortland videregående skole",
+      "place": "Sortland",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 650,
+      "coordinates": "68°38′38″N 15°15′58″Ø"
+    },
+    {
+      "name": "Sotra vidaregåande skule",
+      "place": "Straume",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 720,
+      "coordinates": "60°21′06″N 5°06′29″Ø"
+    },
+    {
+      "name": "Spjelkavik videregående skole",
+      "place": "Ålesund",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 492,
+      "coordinates": "62°27′41″N 6°22′41″Ø"
+    },
+    {
+      "name": "St. Hallvard videregående skole",
+      "place": "Lier",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 750,
+      "coordinates": "59°45′33″N 10°14′23″Ø"
+    },
+    {
+      "name": "St. Olav videregående skole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 860,
+      "coordinates": "58°58′00″N 5°43′31″Ø"
+    },
+    {
+      "name": "St. Olav videregående skole",
+      "place": "Sarpsborg",
+      "county": "Østfold",
+      "ownership": "Offentlig",
+      "student_places": 860,
+      "coordinates": "59°16′50″N 11°06′17″Ø"
+    },
+    {
+      "name": "St. Paul gymnas",
+      "place": "Bergen",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 270,
+      "coordinates": "60°23′20″N 5°19′24″Ø"
+    },
+    {
+      "name": "St. Svithun videregående skole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 616,
+      "coordinates": "58°57′39″N 5°41′16″Ø"
+    },
+    {
+      "name": "Stabekk videregående skole",
+      "place": "Stabekk",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": "59°54′31″N 10°36′28″Ø"
+    },
+    {
+      "name": "Stange videregående skole",
+      "place": "Stange",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "60°43′00″N 11°12′08″Ø"
+    },
+    {
+      "name": "Stangnes videregående skole",
+      "place": "Harstad",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "68°47′06″N 16°34′56″Ø"
+    },
+    {
+      "name": "Stavanger katedralskole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 555,
+      "coordinates": "58°58′09″N 5°43′51″Ø"
+    },
+    {
+      "name": "Stavanger offshore tekniske skole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 440,
+      "coordinates": "58°58′53″N 5°42′59″Ø"
+    },
+    {
+      "name": "Steinerskolen i Haugesund",
+      "place": "Haugesund",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 30,
+      "coordinates": "59°25′10″N 5°17′59″Ø"
+    },
+    {
+      "name": "Steinerskolen i Stavanger",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 40,
+      "coordinates": "58°56′17″N 5°44′02″Ø"
+    },
+    {
+      "name": "Steinerskolen i Trondheim",
+      "place": "Trondheim",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": 64,
+      "coordinates": "63°25′50″N 10°22′24″Ø"
+    },
+    {
+      "name": "Steinerskolen i Vestfold",
+      "place": "Vestskogen",
+      "county": "Vestfold",
+      "ownership": "Privat",
+      "student_places": 56,
+      "coordinates": "59°14′50″N 10°23′45″Ø"
+    },
+    {
+      "name": "Steinerskolen på Hedemarken",
+      "place": "Ottestad",
+      "county": "Innlandet",
+      "ownership": "Privat",
+      "student_places": 47,
+      "coordinates": "60°44′50″N 11°08′09″Ø"
+    },
+    {
+      "name": "Steinerskolen på Rotvoll Videregående trinn",
+      "place": "Ranheim",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": 7,
+      "coordinates": "63°26′22″N 10°29′02″Ø"
+    },
+    {
+      "name": "Steinkjer videregående skole",
+      "place": "Steinkjer",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": "1 100",
+      "coordinates": "64°01′12″N 11°30′48″Ø"
+    },
+    {
+      "name": "Stend vidaregåande skule",
+      "place": "Fana",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 330,
+      "coordinates": "60°16′21″N 5°19′49″Ø"
+    },
+    {
+      "name": "Stiftelsen Østerbo videregående skole",
+      "place": "Halden",
+      "county": "Østfold",
+      "ownership": "Privat",
+      "student_places": 46,
+      "coordinates": "59°13′56″N 11°28′29″Ø"
+    },
+    {
+      "name": "Stord vidaregåande skule",
+      "place": "Stord",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "59°46′37″N 5°29′36″Ø"
+    },
+    {
+      "name": "Storhamar videregående skole",
+      "place": "Hamar",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 410,
+      "coordinates": "60°47′49″N 11°02′25″Ø"
+    },
+    {
+      "name": "Storsteigen videregående skole",
+      "place": "Alvdal",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 72,
+      "coordinates": "62°06′34″N 10°37′44″Ø"
+    },
+    {
+      "name": "Stovner videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 750,
+      "coordinates": "59°57′38″N 10°55′34″Ø"
+    },
+    {
+      "name": "Strand videregående skole",
+      "place": "Tau",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 560,
+      "coordinates": "59°03′54″N 5°55′21″Ø"
+    },
+    {
+      "name": "Stranda vidaregåande skule",
+      "place": "Stranda",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 230,
+      "coordinates": "62°18′25″N 6°54′51″Ø"
+    },
+    {
+      "name": "Strinda videregående skole",
+      "place": "Trondheim",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": "1 100",
+      "coordinates": "63°25′15″N 10°25′32″Ø"
+    },
+    {
+      "name": "Stryn vidaregåande skule",
+      "place": "Stryn",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 320,
+      "coordinates": "61°54′12″N 6°42′53″Ø"
+    },
+    {
+      "name": "Strømmen videregående skole",
+      "place": "Strømmen",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 667,
+      "coordinates": "59°57′18″N 11°00′56″Ø"
+    },
+    {
+      "name": "Sunndal vidaregåande skole",
+      "place": "Sunndalsøra",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 300,
+      "coordinates": "62°40′07″N 8°35′29″Ø"
+    },
+    {
+      "name": "Surnadal vidaregåande skole",
+      "place": "Surnadal",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 270,
+      "coordinates": "62°58′55″N 8°43′05″Ø"
+    },
+    {
+      "name": "Sygna vidaregåande skule",
+      "place": "Balestrand",
+      "county": "Vestland",
+      "ownership": "Privat",
+      "student_places": 180,
+      "coordinates": "61°12′27″N 6°31′45″Ø"
+    },
+    {
+      "name": "Sykkylven vidaregåande skule",
+      "place": "Sykkylven",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 250,
+      "coordinates": "62°23′38″N 6°35′22″Ø"
+    },
+    {
+      "name": "Søgne videregående skole",
+      "place": "Søgne",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 180,
+      "coordinates": "58°05′27″N 7°50′23″Ø"
+    },
+    {
+      "name": "Sørlandets maritime videregående skole",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 60,
+      "coordinates": "58°07′42″N 8°07′46″Ø"
+    },
+    {
+      "name": "Sørumsand videregående skole",
+      "place": "Sørumsand",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 523,
+      "coordinates": "59°59′18″N 11°14′20″Ø"
+    },
+    {
+      "name": "Tana videregående skole / Deanu joatkkaskuvla",
+      "place": "Tana",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 60,
+      "coordinates": "70°25′31″N 28°13′50″Ø"
+    },
+    {
+      "name": "Tangen videregående skole",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 850,
+      "coordinates": "58°08′50″N 8°00′17″Ø"
+    },
+    {
+      "name": "Tertnes videregående skole",
+      "place": "Tertnes",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": "60°27′18″N 5°18′11″Ø"
+    },
+    {
+      "name": "Thor Heyerdahl videregående skole",
+      "place": "Larvik",
+      "county": "Vestfold",
+      "ownership": "Offentlig",
+      "student_places": "1 550",
+      "coordinates": "59°02′57″N 10°02′29″Ø"
+    },
+    {
+      "name": "Thora Storm videregående skole",
+      "place": "Trondheim",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": "1 100",
+      "coordinates": "63°25′47″N 10°23′57″Ø"
+    },
+    {
+      "name": "Tiller videregående skole",
+      "place": "Tiller",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 680,
+      "coordinates": "63°21′32″N 10°22′50″Ø"
+    },
+    {
+      "name": "Tingvoll vidaregåande skole",
+      "place": "Tingvoll",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 150,
+      "coordinates": "62°54′46″N 8°12′20″Ø"
+    },
+    {
+      "name": "Tomb videregående skole og landbruksstudier",
+      "place": "Råde",
+      "county": "Østfold",
+      "ownership": "Privat",
+      "student_places": 234,
+      "coordinates": "59°20′02″N 10°50′19″Ø"
+    },
+    {
+      "name": "Toppidrettsgymnaset i Telemark",
+      "place": "Skien",
+      "county": "Telemark",
+      "ownership": "Privat",
+      "student_places": "",
+      "coordinates": "59°12′34″N 9°36′36″Ø"
+    },
+    {
+      "name": "Tromsdalen videregående skole",
+      "place": "Tomasjord",
+      "county": "Troms",
+      "ownership": "Offentlig",
+      "student_places": 615,
+      "coordinates": "69°39′11″N 19°00′57″Ø"
+    },
+    {
+      "name": "Trondheim katedralskole",
+      "place": "Trondheim",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "63°25′44″N 10°23′45″Ø"
+    },
+    {
+      "name": "Tryggheim vidaregåande skule",
+      "place": "Nærbø",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 480,
+      "coordinates": "58°40′22″N 5°38′09″Ø"
+    },
+    {
+      "name": "Trysil videregående skole",
+      "place": "Trysil",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 300,
+      "coordinates": "61°18′37″N 12°15′11″Ø"
+    },
+    {
+      "name": "Tvedestrand videregående skole",
+      "place": "Tvedestrand",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 460,
+      "coordinates": "58°37′19″N 8°55′53″Ø"
+    },
+    {
+      "name": "Tveit vidaregåande skule",
+      "place": "Nedstrand",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 100,
+      "coordinates": "59°20′58″N 5°48′00″Ø"
+    },
+    {
+      "name": "Tyrifjord videregående skole",
+      "place": "Røyse",
+      "county": "Buskerud",
+      "ownership": "Privat",
+      "student_places": 250,
+      "coordinates": "60°04′12″N 10°10′16″Ø"
+    },
+    {
+      "name": "Tøndergård skole og ressurssenter",
+      "place": "Molde",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": "",
+      "coordinates": "62°44′37″N 7°12′31″Ø"
+    },
+    {
+      "name": "U. Pihl videregående skole",
+      "place": "Ulset",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 320,
+      "coordinates": "60°28′02″N 5°19′19″Ø"
+    },
+    {
+      "name": "Uldals videregående skole",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 30,
+      "coordinates": "58°57′42″N 5°43′52″Ø"
+    },
+    {
+      "name": "Ullern videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 530,
+      "coordinates": "59°55′49″N 10°39′55″Ø"
+    },
+    {
+      "name": "Ulsrud videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 600,
+      "coordinates": "59°53′10″N 10°51′03″Ø"
+    },
+    {
+      "name": "Ulstein vidaregåande skule",
+      "place": "Ulsteinvik",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "62°20′26″N 5°52′52″Ø"
+    },
+    {
+      "name": "Vadsø videregående skole / Cáhcesullo joatkkaskuvla",
+      "place": "Vadsø",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 270,
+      "coordinates": "70°04′41″N 29°44′19″Ø"
+    },
+    {
+      "name": "Vågen videregående skole",
+      "place": "Sandnes",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 832,
+      "coordinates": "58°51′00″N 5°44′25″Ø"
+    },
+    {
+      "name": "Vågsbygd videregående skole",
+      "place": "Kristiansand",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 670,
+      "coordinates": "58°07′30″N 7°57′20″Ø"
+    },
+    {
+      "name": "Val videregående skole",
+      "place": "Kolvereid",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": 130,
+      "coordinates": "64°47′12″N 11°25′01″Ø"
+    },
+    {
+      "name": "Valdres vidaregåande skule",
+      "place": "Leira i Valdres",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 547,
+      "coordinates": "60°58′23″N 9°18′08″Ø"
+    },
+    {
+      "name": "Valle Hovin videregående skole",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Offentlig",
+      "student_places": 486,
+      "coordinates": "59°54′04″N 10°31′39″Ø"
+    },
+    {
+      "name": "Valler videregående skole",
+      "place": "Sandvika",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": ""
+    },
+    {
+      "name": "Vardafjell videregående skole",
+      "place": "Haugesund",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 530,
+      "coordinates": "59°24′38″N 5°17′26″Ø"
+    },
+    {
+      "name": "Vardø videregående skole / Várggáidt joatkkaskuvla",
+      "place": "Vardø",
+      "county": "Finnmark",
+      "ownership": "Offentlig",
+      "student_places": 309,
+      "coordinates": "70°22′17″N 31°06′14″Ø"
+    },
+    {
+      "name": "Vea Statens fagskole for gartnere og blomsterdekoratører (videregående trinn)",
+      "place": "Moelv",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 160,
+      "coordinates": "60°57′09″N 10°40′51″Ø"
+    },
+    {
+      "name": "Vennesla Musikkgymnas",
+      "place": "Vennesla",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 150,
+      "coordinates": "58°18′59″N 7°59′26″Ø"
+    },
+    {
+      "name": "Vennesla videregående skole",
+      "place": "Vennesla",
+      "county": "Agder",
+      "ownership": "Offentlig",
+      "student_places": 624,
+      "coordinates": "58°16′38″N 7°58′27″Ø"
+    },
+    {
+      "name": "Verdal videregående skole",
+      "place": "Verdal",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 550,
+      "coordinates": "63°47′43″N 11°30′06″Ø"
+    },
+    {
+      "name": "Vest-Lofoten videregående skole",
+      "place": "Vestvågøy",
+      "county": "Nordland",
+      "ownership": "Offentlig",
+      "student_places": 610,
+      "coordinates": "68°08′41″N 13°37′23″Ø"
+    },
+    {
+      "name": "Vest-Telemark vidaregåande skule",
+      "place": "Dalen",
+      "county": "Telemark",
+      "ownership": "Offentlig",
+      "student_places": 210,
+      "coordinates": "59°26′48″N 7°59′19″Ø"
+    },
+    {
+      "name": "Vestborg vidaregåande skule",
+      "place": "Stranda",
+      "county": "Møre og Romsdal",
+      "ownership": "Privat",
+      "student_places": 120,
+      "coordinates": "62°18′31″N 6°55′09″Ø"
+    },
+    {
+      "name": "Vestby videregående skole",
+      "place": "Vestby",
+      "county": "Akershus",
+      "ownership": "Offentlig",
+      "student_places": 700,
+      "coordinates": "59°36′22″N 10°45′30″Ø"
+    },
+    {
+      "name": "Vinstra vidaregåande skule",
+      "place": "Vinstra",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 530,
+      "coordinates": "61°35′49″N 9°44′53″Ø"
+    },
+    {
+      "name": "Vinterlandbruksskulen i Ryfylke",
+      "place": "Årdal i Ryfylke",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 24,
+      "coordinates": "59°08′59″N 6°10′10″Ø"
+    },
+    {
+      "name": "Vinterlandbruksskulen på Jæren",
+      "place": "Kleppe",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 50,
+      "coordinates": "58°40′56″N 5°33′29″Ø"
+    },
+    {
+      "name": "Volda vidaregåande skule",
+      "place": "Volda",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 490,
+      "coordinates": "62°08′59″N 6°04′22″Ø"
+    },
+    {
+      "name": "Voss gymnas",
+      "place": "Voss",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 370,
+      "coordinates": "60°37′38″N 6°25′24″Ø"
+    },
+    {
+      "name": "Voss vidaregåande skule",
+      "place": "Voss",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 400,
+      "coordinates": "60°39′01″N 6°26′15″Ø"
+    },
+    {
+      "name": "WANG Toppidrett Fredrikstad",
+      "place": "Kråkerøy",
+      "county": "Østfold",
+      "ownership": "Privat",
+      "student_places": 180,
+      "coordinates": "59°12′50″N 10°55′40″Ø"
+    },
+    {
+      "name": "Wang Toppidrett Oslo",
+      "place": "Oslo",
+      "county": "Oslo",
+      "ownership": "Privat",
+      "student_places": 540,
+      "coordinates": "59°54′51″N 10°43′30″Ø"
+    },
+    {
+      "name": "Wang Toppidrett Stavanger",
+      "place": "Stavanger",
+      "county": "Rogaland",
+      "ownership": "Privat",
+      "student_places": 175,
+      "coordinates": "58°57′42″N 5°43′52″Ø"
+    },
+    {
+      "name": "Wang Toppidrett Tønsberg",
+      "place": "Tønsberg",
+      "county": "Vestfold",
+      "ownership": "Privat",
+      "student_places": 210,
+      "coordinates": "59°17′42″N 10°24′57″Ø"
+    },
+    {
+      "name": "Ytre Namdal videregående skole",
+      "place": "Rørvik",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 350,
+      "coordinates": "64°52′11″N 11°13′55″Ø"
+    },
+    {
+      "name": "Ypsilon videregående skole",
+      "place": "Drammen",
+      "county": "Buskerud",
+      "ownership": "Privat",
+      "student_places": 200,
+      "coordinates": "59°44′55″N 10°10′18″Ø"
+    },
+    {
+      "name": "Øksnevad vidaregåande skole",
+      "place": "Kleppe",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 185,
+      "coordinates": "58°46′34″N 5°37′50″Ø"
+    },
+    {
+      "name": "Ølen vidaregåande skule",
+      "place": "Ølen",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 310,
+      "coordinates": "59°36′39″N 5°49′39″Ø"
+    },
+    {
+      "name": "Ørsta vidaregåande skule",
+      "place": "Ørsta",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 350,
+      "coordinates": "62°11′47″N 6°07′48″Ø"
+    },
+    {
+      "name": "Østfold møbelsnekkerskole",
+      "place": "Mysen",
+      "county": "Akershus",
+      "ownership": "Privat",
+      "student_places": 15,
+      "coordinates": "59°33′56″N 11°19′35″Ø"
+    },
+    {
+      "name": "Øvrebyen videregående skole",
+      "place": "Kongsvinger",
+      "county": "Innlandet",
+      "ownership": "Offentlig",
+      "student_places": 450,
+      "coordinates": "60°11′42″N 12°00′31″Ø"
+    },
+    {
+      "name": "Øvrebø videregående skole",
+      "place": "Øvrebø",
+      "county": "Agder",
+      "ownership": "Privat",
+      "student_places": 82,
+      "coordinates": "58°17′35″N 7°47′19″Ø"
+    },
+    {
+      "name": "Øya videregående skole",
+      "place": "Kvål",
+      "county": "Trøndelag",
+      "ownership": "Privat",
+      "student_places": 150,
+      "coordinates": "63°13′53″N 10°16′57″Ø"
+    },
+    {
+      "name": "Øystese gymnas",
+      "place": "Øystese",
+      "county": "Vestland",
+      "ownership": "Offentlig",
+      "student_places": 252,
+      "coordinates": "60°23′14″N 6°11′34″Ø"
+    },
+    {
+      "name": "Åfjord videregående skole",
+      "place": "Åfjord",
+      "county": "Trøndelag",
+      "ownership": "Offentlig",
+      "student_places": 145,
+      "coordinates": "63°57′54″N 10°13′13″Ø"
+    },
+    {
+      "name": "Åkrehamn vidaregåande skole",
+      "place": "Åkrehamn",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 440,
+      "coordinates": "59°15′24″N 5°11′56″Ø"
+    },
+    {
+      "name": "Åkrehamn videregående skole",
+      "place": "Åkrehamn",
+      "county": "Rogaland",
+      "ownership": "Offentlig",
+      "student_places": 440,
+      "coordinates": "59°15′18″N 5°11′42″Ø"
+    },
+    {
+      "name": "Ål vidaregåande skole",
+      "place": "Ål",
+      "county": "Buskerud",
+      "ownership": "Offentlig",
+      "student_places": 250,
+      "coordinates": "60°37′46″N 8°33′07″Ø"
+    },
+    {
+      "name": "Ålesund videregående skole",
+      "place": "Ålesund",
+      "county": "Møre og Romsdal",
+      "ownership": "Offentlig",
+      "student_places": 380,
+      "coordinates": "62°28′18″N 6°08′55″Ø"
+    }
+  ],
+  "meta": {
+    "title": "Videregående skoler i Norge - Free Download",
+    "description": "Liste over norske videregående skoler med sted, fylke, eierform (offentlig/privat), antall elevplasser og koordinater. Contains 410 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Videregående skoler i Norge | ListBase",
+    "seo_description": "Download Videregående skoler i Norge — 410 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 410 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_norske_videregående_skoler"
+    ]
+  }
+}
