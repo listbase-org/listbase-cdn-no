@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-12T02:03:09.232Z",
-  "total_datasets": 487,
-  "total_records": 1203204,
+  "generated": "2026-11-12T02:03:17.978Z",
+  "total_datasets": 488,
+  "total_records": 1203215,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -12769,6 +12769,33 @@
         "xlsx": {
           "name": "no-husholdninger-tilgang-ikt_NO.xlsx",
           "size": 7662
+        }
+      }
+    },
+    {
+      "id": "no-nedetid-mobilnettet",
+      "name": "Nedetid i mobilnettet i Norge",
+      "category": "tech",
+      "record_count": 11,
+      "columns": [
+        "network",
+        "hours_down",
+        "date",
+        "affected",
+        "cause",
+        "comment"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_nedetid_i_mobilnettet_i_Norge",
+      "updated": "2026-11",
+      "size": 4619,
+      "files": {
+        "csv": {
+          "name": "no-nedetid-mobilnettet_NO.csv",
+          "size": 1727
+        },
+        "xlsx": {
+          "name": "no-nedetid-mobilnettet_NO.xlsx",
+          "size": 7830
         }
       }
     },

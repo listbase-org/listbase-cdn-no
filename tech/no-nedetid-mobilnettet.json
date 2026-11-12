@@ -1,0 +1,144 @@
+{
+  "id": "no-nedetid-mobilnettet",
+  "name": "Nedetid i mobilnettet i Norge",
+  "title": "Nedetid i mobilnettet i Norge",
+  "description": "Større brudd i de norske mobilnettene med varighet, dato, omfang og årsak.",
+  "category": "tech",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_nedetid_i_mobilnettet_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_nedetid_i_mobilnettet_i_Norge",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "network",
+      "label": "Network",
+      "type": "string"
+    },
+    {
+      "key": "hours_down",
+      "label": "Hours Down",
+      "type": "number"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "affected",
+      "label": "Affected",
+      "type": "string"
+    },
+    {
+      "key": "cause",
+      "label": "Cause",
+      "type": "string"
+    },
+    {
+      "key": "comment",
+      "label": "Comment",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "network": "Telenor",
+      "hours_down": 5,
+      "date": "19. februar 2016",
+      "affected": "Telenors abonnenter over hele landet",
+      "cause": "Ukjent",
+      "comment": ""
+    },
+    {
+      "network": "Telenor",
+      "hours_down": 3,
+      "date": "30. oktober 2014",
+      "affected": "3 000 000",
+      "cause": "Feilen oppstod under oppgradering av en kundedatabase.",
+      "comment": "Nasjonal kommunikasjonsmyndighet (Nkom) ga Telenor et gebyr på 9 millioner kroner etter hendelsen."
+    },
+    {
+      "network": "Telenor",
+      "hours_down": 18,
+      "date": "10. juni 2011",
+      "affected": "3 000 000",
+      "cause": "En server i Oslo.",
+      "comment": "Feilen oppstod ca kl 11. Dette var den mest omfattende feilen Telenor hadde hatt siden mobilnettet ble åpnet i 1993."
+    },
+    {
+      "network": "Netcom",
+      "hours_down": 2,
+      "date": "23. november 2009",
+      "affected": "1 000",
+      "cause": "En sentral i Stavanger.",
+      "comment": "Nettet gikk ned kl 13.40. Hordaland, Rogaland og Vest-Agder berørt."
+    },
+    {
+      "network": "Telenor",
+      "hours_down": 1,
+      "date": "30. juli 2009",
+      "affected": "",
+      "cause": "En Telenor-sentral i Bergen.",
+      "comment": "Nettet gikk ned kl 20.30."
+    },
+    {
+      "network": "Telenor",
+      "hours_down": 3,
+      "date": "25. august 2008",
+      "affected": "",
+      "cause": "En skade som følge av gravearbeid i Oslo-området.",
+      "comment": "Problemene oppstod ved 11-tiden. Problemer med å nå fram til 113 i østlandsområdet."
+    },
+    {
+      "network": "Telenor",
+      "hours_down": 2,
+      "date": "28. mai 2008",
+      "affected": "2000",
+      "cause": "Problemene oppstod i en sentral på Stabekk.",
+      "comment": "Kunder i Asker, Bærum, Røyken og Slemmestad berørt. Problemet oppstod rundt kl 13.00."
+    },
+    {
+      "network": "Telenor",
+      "hours_down": 2,
+      "date": "21. mai 2008",
+      "affected": "100 000",
+      "cause": "Muligens en sentral der informasjonen om mobilabonnentene var lagret.",
+      "comment": "Nettet kom opp igjen ca kl 13.00. Problem med å sette opp samtaler for noen mobilbrukere."
+    },
+    {
+      "network": "Telenor",
+      "hours_down": 1,
+      "date": "6. februar 2008",
+      "affected": "200 000",
+      "cause": "Oppgradering av en sentral i Oslo.",
+      "comment": "Nettet var nede mellom kl 22.30 og 23.15."
+    },
+    {
+      "network": "Telenor",
+      "hours_down": 2,
+      "date": "24. februar 2006",
+      "affected": "",
+      "cause": "En autentiseringsserver var nede.",
+      "comment": "Nettet var nede 11.10 – 12.15."
+    },
+    {
+      "network": "Telenor",
+      "hours_down": "",
+      "date": "1. september 1999",
+      "affected": "350 000",
+      "cause": "En feil i et dataregister og et strømbrudd i en av Telenor Mobils sentraler.",
+      "comment": "Nettet var nede fra natt til onsdag og utover dagen."
+    }
+  ],
+  "meta": {
+    "title": "Nedetid i mobilnettet i Norge - Free Download",
+    "description": "Større brudd i de norske mobilnettene med varighet, dato, omfang og årsak. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Nedetid i mobilnettet i Norge | ListBase",
+    "seo_description": "Download Nedetid i mobilnettet i Norge — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_nedetid_i_mobilnettet_i_Norge"
+    ]
+  }
+}
