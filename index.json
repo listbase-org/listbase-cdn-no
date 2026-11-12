@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-12T02:03:26.486Z",
-  "total_datasets": 489,
-  "total_records": 1203240,
+  "generated": "2026-11-12T02:03:35.297Z",
+  "total_datasets": 490,
+  "total_records": 1203689,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -5205,6 +5205,29 @@
         "xlsx": {
           "name": "no-urnordiske-navn_NO.xlsx",
           "size": 13563
+        }
+      }
+    },
+    {
+      "id": "no-vanlige-fornavn-1801",
+      "name": "Vanlige fornavn i Norge i 1801",
+      "category": "language",
+      "record_count": 449,
+      "columns": [
+        "name",
+        "count"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_vanlige_fornavn_i_Norge_i_1801",
+      "updated": "2026-11",
+      "size": 26630,
+      "files": {
+        "csv": {
+          "name": "no-vanlige-fornavn-1801_NO.csv",
+          "size": 6909
+        },
+        "xlsx": {
+          "name": "no-vanlige-fornavn-1801_NO.xlsx",
+          "size": 14922
         }
       }
     },
