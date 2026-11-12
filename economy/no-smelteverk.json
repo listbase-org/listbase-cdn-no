@@ -1,0 +1,286 @@
+{
+  "id": "no-smelteverk",
+  "name": "Smelteverk i Norge",
+  "title": "Smelteverk i Norge",
+  "description": "Norske smelteverk med kommune, fylke, eier, antall ansatte, etableringsår og produkt.",
+  "category": "economy",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_smelteverk_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_smelteverk_i_Norge",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "county",
+      "label": "County",
+      "type": "string"
+    },
+    {
+      "key": "owner",
+      "label": "Owner",
+      "type": "string"
+    },
+    {
+      "key": "employees",
+      "label": "Employees",
+      "type": "number"
+    },
+    {
+      "key": "established",
+      "label": "Established",
+      "type": "number"
+    },
+    {
+      "key": "product",
+      "label": "Product",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Eramet Porsgrunn",
+      "municipality": "Porsgrunn",
+      "county": "Telemark",
+      "owner": "Eramet",
+      "employees": 150,
+      "established": 1913,
+      "product": "Ferrolegeringer: silikomangan og ferromangan"
+    },
+    {
+      "name": "Fiven",
+      "municipality": "Lillesand",
+      "county": "Agder",
+      "owner": "Norsk Hydro",
+      "employees": "-",
+      "established": "1980 ca",
+      "product": "Silisiumkarbid"
+    },
+    {
+      "name": "Vigeland metallraffineri",
+      "municipality": "Vennesla",
+      "county": "Agder",
+      "owner": "Norsk Hydro",
+      "employees": 34,
+      "established": 1908,
+      "product": "Aluminium: høyraffinert aluminium"
+    },
+    {
+      "name": "Alcoa Lista",
+      "municipality": "Farsund",
+      "county": "Agder",
+      "owner": "Alcoa",
+      "employees": 270,
+      "established": 1971,
+      "product": "Aluminium: pressbolt og støpelegeringer"
+    },
+    {
+      "name": "Eramet Kvinesdal",
+      "municipality": "Kvinesdal",
+      "county": "Agder",
+      "owner": "Eramet",
+      "employees": 200,
+      "established": 1974,
+      "product": "Ferrolegeringer: silikomangan"
+    },
+    {
+      "name": "Jørpeland stålverk",
+      "municipality": "Strand",
+      "county": "Rogaland",
+      "owner": "Stavanger Steel",
+      "employees": 58,
+      "established": 1910,
+      "product": "Jern: stålkomponenter"
+    },
+    {
+      "name": "Hydro Karmøy",
+      "municipality": "Karmøy",
+      "county": "Rogaland",
+      "owner": "Norsk Hydro",
+      "employees": 650,
+      "established": 1963,
+      "product": "Aluminium: primæraluminium, støperiprodukter og valseprodukter"
+    },
+    {
+      "name": "Sauda smelteverk",
+      "municipality": "Sauda",
+      "county": "Rogaland",
+      "owner": "Eramet",
+      "employees": 163,
+      "established": 1915,
+      "product": "Ferrolegeringer: ferromangan"
+    },
+    {
+      "name": "Hydro Husnes",
+      "municipality": "Kvinnherad",
+      "county": "Vestland",
+      "owner": "Norsk Hydro",
+      "employees": 240,
+      "established": 1965,
+      "product": "Aluminium: pressbolt"
+    },
+    {
+      "name": "Boliden Odda",
+      "municipality": "Odda",
+      "county": "Vestland",
+      "owner": "Boliden",
+      "employees": 289,
+      "established": 1924,
+      "product": "Sink og svovelsyre"
+    },
+    {
+      "name": "TiZir Tyssedal",
+      "municipality": "Odda",
+      "county": "Vestland",
+      "owner": "Eramet og Mineral Deposits",
+      "employees": 170,
+      "established": 1983,
+      "product": "Jern: spesialråjern. Titandioksid."
+    },
+    {
+      "name": "Elkem Bjølvefossen",
+      "municipality": "Kvam",
+      "county": "Vestland",
+      "owner": "Elkem",
+      "employees": 120,
+      "established": 1905,
+      "product": "Ferrolegeringer: ferrosilisium og ferrosilisium-magnesium"
+    },
+    {
+      "name": "Elkem Bremanger",
+      "municipality": "Bremanger",
+      "county": "Vestland",
+      "owner": "Elkem",
+      "employees": 170,
+      "established": 1928,
+      "product": "Ferrolegeringer: ferrosilisium. Silisium: metallurgisk og microsilica"
+    },
+    {
+      "name": "Hydro Høyanger",
+      "municipality": "Høyanger",
+      "county": "Vestland",
+      "owner": "Norsk Hydro",
+      "employees": 156,
+      "established": 1915,
+      "product": "Aluminium: primæraluminium og smelteverksprodukter"
+    },
+    {
+      "name": "Hydro Årdal",
+      "municipality": "Årdal",
+      "county": "Vestland",
+      "owner": "Norsk Hydro",
+      "employees": 567,
+      "established": 1947,
+      "product": "Aluminium: primæraluminium og støperiprodukter"
+    },
+    {
+      "name": "Hydro Sunndal",
+      "municipality": "Sunndal",
+      "county": "Møre og Romsdal",
+      "owner": "Norsk Hydro",
+      "employees": 700,
+      "established": 1954,
+      "product": "Aluminium: pressbolt og støpelegeringer"
+    },
+    {
+      "name": "Elkem Thamshavn",
+      "municipality": "Orkanger",
+      "county": "Trøndelag",
+      "owner": "Elkem",
+      "employees": 150,
+      "established": 1931,
+      "product": "Silisium: metallurgisk"
+    },
+    {
+      "name": "Washington Mills",
+      "municipality": "Orkanger",
+      "county": "Trøndelag",
+      "owner": "Washington Mills",
+      "employees": 100,
+      "established": 1962,
+      "product": "Silisium: silisiumkarbid"
+    },
+    {
+      "name": "Holla Metall",
+      "municipality": "Heim",
+      "county": "Trøndelag",
+      "owner": "Wacker Chemie",
+      "employees": 180,
+      "established": 1964,
+      "product": "Silisium: metallurgisk"
+    },
+    {
+      "name": "Elkem Rana",
+      "municipality": "Rana",
+      "county": "Nordland",
+      "owner": "Elkem",
+      "employees": 100,
+      "established": 1989,
+      "product": "Ferrolegeringer: ferrosilisium. Silisium: microsilica"
+    },
+    {
+      "name": "Elkem Salten",
+      "municipality": "Straumen",
+      "county": "Nordland",
+      "owner": "Elkem",
+      "employees": 195,
+      "established": 1967,
+      "product": "Silisium: Rent silisium og microsilica"
+    },
+    {
+      "name": "Alcoa Mosjøen",
+      "municipality": "Vefsn",
+      "county": "Nordland",
+      "owner": "Alcoa",
+      "employees": 700,
+      "established": 1954,
+      "product": "Aluminium: valsprodukter og støpelegeringer. Anoder: Eksport til Alcoa Fjardaal (Island)"
+    },
+    {
+      "name": "Finnfjord smelteverk",
+      "municipality": "Senja",
+      "county": "Troms",
+      "owner": "Finnfjord A/S",
+      "employees": 130,
+      "established": 1960,
+      "product": "Ferrolegeringer: ferrosilisium"
+    },
+    {
+      "name": "7 Steel",
+      "municipality": "Rana",
+      "county": "Nordland",
+      "owner": "7 Steel",
+      "employees": 330,
+      "established": 1946,
+      "product": "Stål, emner for videre valsing"
+    },
+    {
+      "name": "Ferroglobe",
+      "municipality": "Rana",
+      "county": "Nordland",
+      "owner": "Ferroglobe Mangan Norge",
+      "employees": 90,
+      "established": 1955,
+      "product": "Ferrolegeringer: FeMn"
+    }
+  ],
+  "meta": {
+    "title": "Smelteverk i Norge - Free Download",
+    "description": "Norske smelteverk med kommune, fylke, eier, antall ansatte, etableringsår og produkt. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Smelteverk i Norge | ListBase",
+    "seo_description": "Download Smelteverk i Norge — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_smelteverk_i_Norge"
+    ]
+  }
+}

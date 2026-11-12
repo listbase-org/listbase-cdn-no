@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-12T02:03:17.978Z",
-  "total_datasets": 488,
-  "total_records": 1203215,
+  "generated": "2026-11-12T02:03:26.486Z",
+  "total_datasets": 489,
+  "total_records": 1203240,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -1721,6 +1721,34 @@
         "xlsx": {
           "name": "no-oljeselskaper_NO.xlsx",
           "size": 9941
+        }
+      }
+    },
+    {
+      "id": "no-smelteverk",
+      "name": "Smelteverk i Norge",
+      "category": "economy",
+      "record_count": 25,
+      "columns": [
+        "name",
+        "municipality",
+        "county",
+        "owner",
+        "employees",
+        "established",
+        "product"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_smelteverk_i_Norge",
+      "updated": "2026-11",
+      "size": 7769,
+      "files": {
+        "csv": {
+          "name": "no-smelteverk_NO.csv",
+          "size": 2679
+        },
+        "xlsx": {
+          "name": "no-smelteverk_NO.xlsx",
+          "size": 8450
         }
       }
     },
