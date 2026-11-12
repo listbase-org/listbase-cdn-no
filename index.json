@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-12T02:02:57.820Z",
-  "total_datasets": 486,
-  "total_records": 1203165,
+  "generated": "2026-11-12T02:03:09.232Z",
+  "total_datasets": 487,
+  "total_records": 1203204,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "society",
@@ -12218,6 +12218,31 @@
         "xlsx": {
           "name": "no-arter-sterkt-truede_NO.xlsx",
           "size": 85330
+        }
+      }
+    },
+    {
+      "id": "no-forskningsinstitutter",
+      "name": "Uavhengige forskningsinstitutter i Norge",
+      "category": "science",
+      "record_count": 39,
+      "columns": [
+        "name",
+        "founded",
+        "organization_form",
+        "group"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_uavhengige_forskningsinstitutter_i_Norge",
+      "updated": "2026-11",
+      "size": 8524,
+      "files": {
+        "csv": {
+          "name": "no-forskningsinstitutter_NO.csv",
+          "size": 3561
+        },
+        "xlsx": {
+          "name": "no-forskningsinstitutter_NO.xlsx",
+          "size": 8232
         }
       }
     },
