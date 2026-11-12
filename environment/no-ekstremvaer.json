@@ -1,0 +1,586 @@
+{
+  "id": "no-ekstremvaer",
+  "name": "Ekstremvær i Norge",
+  "title": "Ekstremvær i Norge",
+  "description": "Navngitte ekstremvær og stormer i Norge med dato, område rammet og beskrivelse.",
+  "category": "environment",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_ekstremvær_i_Norge",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_ekstremvær_i_Norge",
+  "updated": "2026-11",
+  "record_count": 90,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "area",
+      "label": "Area",
+      "type": "string"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "22. september 1969",
+      "name": "Navnløs",
+      "area": "Rogaland",
+      "description": "Kraftig orkan herjet over Skandinavia. Den skapte enorme ødeleggelser i Rogaland, og 13 mennesker omkom som følge av stormen i Danmark og Sverige. Orkanen ble ikke forutsett av meteorologene, men antas å ha vært rester av en tropisk storm."
+    },
+    {
+      "date": "24. november 1981",
+      "name": "Navnløs",
+      "area": "Rogaland",
+      "description": "Orkan på Vestlandet. Det har nesten aldri blåst mer her"
+    },
+    {
+      "date": "16. oktober 1987",
+      "name": "Navnløs",
+      "area": "Sør-Norge",
+      "description": "Ekstrem stormflo i Oslofjorden. Storstormen i Vest-Europa 1987 krevde i Norge ett menneskeliv og forårsaket skader for 650 mill. kr."
+    },
+    {
+      "date": "1. januar 1992",
+      "name": "Navnløs",
+      "area": "Møre og Romsdal, Trøndelag, Sogn og Fjordane",
+      "description": "Orkan med vindkast oppe i 65 m/s. Ofte omtalt som nyttårsorkanen i 92."
+    },
+    {
+      "date": "23. januar 1994",
+      "name": "Navnløs",
+      "area": "Hordaland",
+      "description": "Boligplattformen Polyconcord slet seg og kolliderte med Puddefjordsbroen i Bergen."
+    },
+    {
+      "date": "8. desember 1994",
+      "name": "Navnløs",
+      "area": "Lindesnes til Fedje",
+      "description": "Full og til dels sterk storm, samt høy vannstand fra Lindesnes til Karmøy."
+    },
+    {
+      "date": "19. januar 1995",
+      "name": "Navnløs",
+      "area": "Rogaland, Hordaland, Sogn og Fjordane",
+      "description": "Høy vannstand."
+    },
+    {
+      "date": "30. januar 1995",
+      "name": "Navnløs",
+      "area": "Rogaland, Hordaland, Trøndelag",
+      "description": "Full og til dels sterk storm."
+    },
+    {
+      "date": "31. januar 1995",
+      "name": "Navnløs",
+      "area": "Trøndelag til Narvik",
+      "description": "Høy vannstand."
+    },
+    {
+      "date": "27. mai 1995",
+      "name": "Navnløs",
+      "area": "Telemark og Østlandet",
+      "description": "Store nedbørmengder, noe som sammen med påfølgende store nedbørmengder og snøsmelting førte til Vesleofsen."
+    },
+    {
+      "date": "31. mai 1995",
+      "name": "Navnløs",
+      "area": "Telemark og Østlandet",
+      "description": "Store nedbørmengder."
+    },
+    {
+      "date": "7. juni 1995",
+      "name": "Navnløs",
+      "area": "Østlandet",
+      "description": "Store nedbørmengder."
+    },
+    {
+      "date": "12. oktober 1995",
+      "name": "Agnar",
+      "area": "Nordmøre, Trøndelag",
+      "description": "Sterk storm. Helgeland: Full storm 25 m/s."
+    },
+    {
+      "date": "11. november 1995",
+      "name": "Bera",
+      "area": "Troms og Vest- Finnmark",
+      "description": "Full storm. Fare for snøskred og vanskelige kjøreforhold."
+    },
+    {
+      "date": "29. januar 1996",
+      "name": "Dag",
+      "area": "Finnmark, østlige deler",
+      "description": "Sterk storm i kyst- og fjordstrøk."
+    },
+    {
+      "date": "28. februar 1996",
+      "name": "Erika",
+      "area": "Trøndelag",
+      "description": "Full storm, kortvarig sterk storm."
+    },
+    {
+      "date": "12. oktober 1996",
+      "name": "Frode",
+      "area": "Nordland, Troms og Vest- Finnmark",
+      "description": "Full eller sterk storm."
+    },
+    {
+      "date": "28. oktober 1996",
+      "name": "Gerd",
+      "area": "Lindesnes til Oslofjorden",
+      "description": "Opp til storm med kast."
+    },
+    {
+      "date": "14. januar 1997",
+      "name": "Hauk",
+      "area": "Spitsbergen",
+      "description": "Til dels sterk storm."
+    },
+    {
+      "date": "29. januar 1997",
+      "name": "Idun",
+      "area": "Nordland, Troms og Finnmark",
+      "description": "Full storm for Nordland og Troms. Full, senere sterk storm i Finnmark."
+    },
+    {
+      "date": "6. februar 1997",
+      "name": "Joar",
+      "area": "Vestfjorden og Ofoten",
+      "description": "Høy vannstand"
+    },
+    {
+      "date": "7. februar 1997",
+      "name": "Joar",
+      "area": "Nordfjord, Møre og Romsdal, Trøndelag",
+      "description": "Sterk storm, høy vannstand."
+    },
+    {
+      "date": "17. februar 1997",
+      "name": "Kari",
+      "area": "Rogaland, Hordaland, Sogn og Fjordane, Trøndelag",
+      "description": "Full storm og til dels sterk storm."
+    },
+    {
+      "date": "16. november 1997",
+      "name": "Leif",
+      "area": "Spitsbergen",
+      "description": "Til dels sterk storm."
+    },
+    {
+      "date": "9. november 1998",
+      "name": "Mari",
+      "area": "Trøndelag (indre deler)",
+      "description": "Full storm"
+    },
+    {
+      "date": "26. november 1999",
+      "name": "Njål",
+      "area": "Støtt til Narvik",
+      "description": "Høy vannstand"
+    },
+    {
+      "date": "28. november 1999",
+      "name": "Olrun",
+      "area": "Hordaland, Sogn og Fjordane, Trøndelag",
+      "description": "Full storm eller sterk storm"
+    },
+    {
+      "date": "24. desember 1999",
+      "name": "Peter",
+      "area": "Agder, Telemark, Vestfold, Østfold",
+      "description": "Liten eller full storm"
+    },
+    {
+      "date": "28. januar 2000",
+      "name": "Reidun",
+      "area": "Lindesnes –Svenskegrensen",
+      "description": "Høy vannstand"
+    },
+    {
+      "date": "27. mars 2000",
+      "name": "Sølve",
+      "area": "Øst- Finnmark",
+      "description": "Full storm"
+    },
+    {
+      "date": "28. oktober 2000",
+      "name": "Tora",
+      "area": "Agder -fylkene",
+      "description": "Full storm. Store nedbørmengder og høy vannstand."
+    },
+    {
+      "date": "15. januar 2001",
+      "name": "Ulf",
+      "area": "Troms og Finnmark",
+      "description": "Full storm"
+    },
+    {
+      "date": "15. desember 2001",
+      "name": "Valdis",
+      "area": "Finnmark",
+      "description": "Sterk storm"
+    },
+    {
+      "date": "17. desember 2002",
+      "name": "Yrjan",
+      "area": "Vesterålen, Troms, Finnmark",
+      "description": "Full eller sterk storm"
+    },
+    {
+      "date": "14. januar 2003",
+      "name": "Agda",
+      "area": "Møre og Romsdal, Trøndelag sør for Trondheimsfjorden",
+      "description": "Full eller sterk storm"
+    },
+    {
+      "date": "28. oktober 2003",
+      "name": "Bengt",
+      "area": "Tromsø til Vardø",
+      "description": "Høy vannstand"
+    },
+    {
+      "date": "3. desember 2003",
+      "name": "Clara",
+      "area": "Salten til Vest- Finnmark",
+      "description": "Full storm."
+    },
+    {
+      "date": "6. desember 2003",
+      "name": "Dyre",
+      "area": "Møre og Romsdal, Trøndelag",
+      "description": "Full storm."
+    },
+    {
+      "date": "10. desember 2003",
+      "name": "Edda",
+      "area": "Nord- Helgeland til Sør- Troms",
+      "description": "Full storm. Sterk storm i Lofoten."
+    },
+    {
+      "date": "21. desember 2004",
+      "name": "Finn",
+      "area": "Nordmøre til Vesterålen",
+      "description": "Full storm, senere sterk storm"
+    },
+    {
+      "date": "8. januar 2005",
+      "name": "Gudrun",
+      "area": "Sør- Rogaland, Agder –Svenskegrensen",
+      "description": "Sør-Rogaland: Sterk storm, Agder– Svenskegrensen: Liten/full storm. Egersund–Svenskegrensen: Høy vannstand."
+    },
+    {
+      "date": "10. januar 2005",
+      "name": "Hårek",
+      "area": "Trøndelag til Lofoten",
+      "description": "Full – kortvarig sterk storm. Høy vannstand."
+    },
+    {
+      "date": "11. januar 2005",
+      "name": "Inga",
+      "area": "Egersund til Kristiansund",
+      "description": "Stormflo (høy vannstand). Liten til sterk storm."
+    },
+    {
+      "date": "1. august 2005",
+      "name": "Jostein",
+      "area": "Varslet ble trukket tilbake siden uværet minket i styrke og ikke lenger kvalifiserte til ekstremvær.",
+      "description": ""
+    },
+    {
+      "date": "14. september 2005",
+      "name": "Kristin",
+      "area": "Hordaland og delvis i Sogn og Fjordane",
+      "description": "Ekstrem nedbør. Første ekstremvarsel utstedt på grunn av ekstrem nedbør. Hatlestadraset"
+    },
+    {
+      "date": "14. november 2005",
+      "name": "Loke",
+      "area": "Hordaland, Rogaland, og Sogn og Fjordane",
+      "description": "Ekstrem nedbør lokalt"
+    },
+    {
+      "date": "11. desember 2005",
+      "name": "Mona",
+      "area": "Helgeland, Saltfjellet, Salten og Lofoten",
+      "description": "Sørvestlig full storm og store nedbørmengder"
+    },
+    {
+      "date": "18. januar 2006",
+      "name": "Narve",
+      "area": "Namdalen, Nordland, Troms, kyst- og fjordstrøkene i Vest- Finnmark",
+      "description": "Søraustlig sterk eller full storm"
+    },
+    {
+      "date": "4. desember 2006",
+      "name": "Oda",
+      "area": "Stavanger - Stad",
+      "description": "Høy vannstand"
+    },
+    {
+      "date": "13. januar 2007",
+      "name": "Per",
+      "area": "Rogaland, Hordaland og Sogn",
+      "description": "Kortvarig vest senere nordvest sterk storm i kystområdene. Skadene er særlig store i Sverige, hvor tolv millioner m³ skog raseres."
+    },
+    {
+      "date": "19. desember 2007",
+      "name": "Rita",
+      "area": "Nord- Troms, Øst- Finnmark samt kyst- og fjordstrøkene i Vest-Finnmark",
+      "description": "Vestlig full til sterk storm"
+    },
+    {
+      "date": "25. januar 2008",
+      "name": "Sondre",
+      "area": "Sogn og Fjordane og Møre og Romsdal",
+      "description": "Kraftig lavtrykk og flo, med høye bølger på kysten"
+    },
+    {
+      "date": "31. januar 2008",
+      "name": "Tuva",
+      "area": "Agder -fylkene, Telemark, Østfold, Vestfold",
+      "description": "Sørlig full storm, nedbør, bølger"
+    },
+    {
+      "date": "25. oktober 2008",
+      "name": "Ulrik",
+      "area": "Sogn og Fjordane, Møre og Romsdal, Trøndelag, Helgeland og Saltfjellet",
+      "description": "Kortvarig vestlig sterk storm i Sogn og Fjordane, Møre og Romsdal og Trøndelag. Kortvarig sørvestlig sterk storm på Helgeland og Saltfjellet"
+    },
+    {
+      "date": "20. november 2008",
+      "name": "Vera",
+      "area": "Trøndelag",
+      "description": "Meteorologisk institutt melder om vestlig full til sterk storm på Trøndelagskysten nord for Trondheimsfjorden. Sterk vind i kombinasjon med snø gir vanskelige kjøreforhold. Signifikant bølgehøyde på 10–12 meter på kysten, maksimal bølgehøyde på over 20 meter"
+    },
+    {
+      "date": "31. desember 2008",
+      "name": "Yngve",
+      "area": "Nord-Helgeland, Saltfjellet, Salten og Lofoten",
+      "description": "Meteorologisk institutt meldte om kortvarig nordvestlig sterk storm. Vinden slo til med full kraft tidlig på morgenen, og Helligvær fyr målte en middelvind på 36 m/s, noe som tilsvarer orkan. Samme sted målte vindkast til opp mot 45 m/s"
+    },
+    {
+      "date": "6. januar 2010",
+      "name": "Ask",
+      "area": "Nordland, Troms og Finnmark",
+      "description": "Meteorologisk institutt meldte om kortvarig sterk storm 30 m/s utsatte steder i Nordland, Troms og Vest-Finnmark. Sørvestlig full storm 25 m/s, sterk storm 30 m/s utsatte steder i kyst- og fjordstrøkene i Øst-Finnmark."
+    },
+    {
+      "date": "25. november 2011",
+      "name": "Berit",
+      "area": "Møre og Romsdal, Trøndelag, Helgeland, Salten, Ofoten og Lofoten",
+      "description": "Meteorologisk institutt meldte om sterk vind, lavt lufttrykk og høye bølger inn mot land. Dessuten meldte de ekstremt høy vannstand langs kysten, estimert til å være opp til 110 cm over det som er oppgitt i tidevannstabellen. Det ble meldt sør eller sørvestlig full storm i hele området som ekstremvarselet gjelder. I Møre og Romsdal kan hende sterk storm. Berit gjorde skader for 275 mill. kr."
+    },
+    {
+      "date": "25. desember 2011",
+      "name": "Cato",
+      "area": "Nordland, Troms og Finnmark",
+      "description": "Meteorologisk institutt melder om ekstremt høy vannstand (stormflo) fra nord i Nordland til Vest-Finnmark. Nordland: Sørvestlig vind og pålandsvær. Det blir mest vind og bølger i Nordland sør for Vesterålen, med et varsel om full storm. Troms og Finnmark: Fralandsvind og noe mindre bølger. Men lokalt kan det blir mer bølger enn man er vant til. Kraftig vind i fjordene."
+    },
+    {
+      "date": "25. desember 2011",
+      "name": "Orkanen Dagmar",
+      "area": "Sogn og Fjordane, Møre og Romsdal og Trøndelag",
+      "description": "Dagmar kom hakk i hæl med Cato og beveget seg med stor fart mot norskekysten. Meteorologisk institutt melder om kraftig vind og høye bølger i Sogn og Fjordane, Møre og Romsdal og Trøndelag. Dagmar gav betydelig sterkere vind enn Cato. Kråkenes hadde middelvind på opptil 46 m/s (33 m/s og mer er orkan), og vindkast på opptil 58 m/s. Vindkast opptil 65 m/s på Juvasshø. Ifølge Finans Norge ble det utbetalt erstatninger for 1,3 milliarder kr. Fortsatte innover Sverige, med betydelige ødeleggelser her også."
+    },
+    {
+      "date": "3. januar 2012",
+      "name": "Emil",
+      "area": "Vest-Agder",
+      "description": "Sent tirsdag kveld blir det vestlig full og periodevis sterk storm, kan hende kortvarig orkan i kastene. Emil ble noe roligere enn først meldt og tok en mer sørlig bane. I løpet av natt til 4. januar ble den nedgradert fra sterk til full storm. «Full storm ble registrert ved flere målestasjoner. Eigerøya hadde sterkeste middelvind foran lavtrykket, fra sørøst med 28,2 m/s, og sitt sterkeste vindkast bak lavtrykket, fra nordvest med 35,5 m/s. Målestasjonene Kjevik lufthavn og Eik-Hove hadde vindkast på rundt 25 m/s.» (Meteorologisk institutt)"
+    },
+    {
+      "date": "6. august 2012",
+      "name": "Frida",
+      "area": "Aust- og Vest-Agder",
+      "description": "Varsel om store nedbørmengder i forbindelse med kraftige regn- og tordenbyger. «Etter gjeldende kriterier for ekstremvær kvalifiserte ikke Frida som ekstremvær i Agder-fylkene. Nedbørmengdene som ble registrert var store, men på ingen måte ekstreme. Derimot kom det ekstreme mengder nedbør i Vestfold og Nedre Buskerud, hvor kraftige byger og store nedbørmengder førte til oversvømmelser og jordras som gjorde skade på hus, veier og jernbane.» (Meteorologisk institutt)"
+    },
+    {
+      "date": "21. juni 2013",
+      "name": "Geir",
+      "area": "Aust- og Vest-Agder, Telemark, Buskerud og Oppland",
+      "description": "Lokalt ekstremt mye nedbør (50–90 mm)"
+    },
+    {
+      "date": "16. november 2013",
+      "name": "Hilde",
+      "area": "Trøndelag og Helgeland",
+      "description": "Meteorologisk institutt meldte om lokale vindkast inn over land som var ventet å komme opp i mellom 40 og 50 meter per sekund, i tillegg til mellom 13 og 15 meter høye bølger inn mot kysten. «Sørvest full og kan hende sterk storm, som etterhvert dreier vestlig. Lokale vindkast på 35–45 m/s innover land lørdag kveld og første del av natt til søndag. Lørdag kveld er det også ventet høye bølger inn mot kysten. Signifikant bølgehøyde kan bli 13–15 m» (Meteorologisk institutt)"
+    },
+    {
+      "date": "12. desember 2013",
+      "name": "Ivar",
+      "area": "Møre og Romsdal og Trøndelag",
+      "description": "Torsdag ettermiddag og kveld meldte Meteorologisk institutt om kortvarig vest og nordvest sterk storm (30 m/s) eller orkan (33 m/s), med vindkast opptil 40–45 m/s inn over land."
+    },
+    {
+      "date": "8. mars 2014",
+      "name": "Jorun",
+      "area": "Finnmark",
+      "description": "Vestlig full til sterk storm over store deler av Finnmark, med vindkast på 35–40 m/s."
+    },
+    {
+      "date": "12. mars 2014",
+      "name": "Kyrre",
+      "area": "Trøndelag, Helgeland og Saltfjellet",
+      "description": "Ekstreme nedbørsmengder."
+    },
+    {
+      "date": "9. august 2014",
+      "name": "Lena",
+      "area": "Hordaland, og Sogn og Fjordane",
+      "description": "Et uvanlig kraftig lavtrykk for årstiden. Lokale vindkast på 25–35 m/s."
+    },
+    {
+      "date": "30. desember 2014",
+      "name": "Mons",
+      "area": "Namdalen, Helgeland, Saltfjellet og Sør-Salten",
+      "description": "Mildvær og ekstreme nedbørsmengder."
+    },
+    {
+      "date": "10. januar 2015",
+      "name": "Nina",
+      "area": "Sogn og Fjordane, Hordaland, Rogaland, Agder, Telemark og Ytre Oslofjord",
+      "description": "Målt til orkan styrke i 4 timer. Orkan flere steder i Rogaland og Hordaland. Eigerøya hadde opptil 37,6 m/s, med vindkast opptil 45,6 m/s. På Østlandet hadde Strømtangen 26,2 og Færder 25,1 m/s. Høye bølger inn mot kysten."
+    },
+    {
+      "date": "6. februar 2015",
+      "name": "Ole",
+      "area": "Trøndelag, Helgeland, Salten, Lofoten, Vesterålen, Ofoten og Troms",
+      "description": "Sterk storm på flere kyststasjoner i Nordland; full storm på flere kyststasjoner i Troms og Finnmark. Orkan flere steder i fjellet. Mer enn 50 000 var uten strøm."
+    },
+    {
+      "date": "17. september 2015",
+      "name": "Petra",
+      "area": "Vest-Agder, Aust-Agder, Telemark, Vestfold og Buskerud",
+      "description": "Langvarig nedbør, og store nedbørmengder."
+    },
+    {
+      "date": "1. oktober 2015",
+      "name": "Roar",
+      "area": "Nordland og Trøndelag",
+      "description": "Store nedbørmengder."
+    },
+    {
+      "date": "5. desember 2015",
+      "name": "Synne",
+      "area": "Hordaland, Rogaland, Vest-Agder og Aust-Agder",
+      "description": "Store nedbørmengder, flom, ras, stengte veier og jernbaner, innstilte ferger. Fortsatte innover Vest-Sverige."
+    },
+    {
+      "date": "29. januar 2016",
+      "name": "Tor",
+      "area": "Hedmark, Oppland, Buskerud, Hordaland, Sogn og Fjordane, Møre og Romsdal, Trøndelag og Nordland",
+      "description": "Kraftig vind. Orkan på en rekke kyststasjoner, og i høyfjellet. Ved Kråkenes fyr (Vågsøy, Sogn og Fjordane) ble middelvinden målt til 48,9 meter i sekundet, noe som er ny vindrekord for de offisielle målingene i Norge etter nyttårsorkanen i 1992."
+    },
+    {
+      "date": "26. desember 2016",
+      "name": "Urd",
+      "area": "Sogn og Fjordane, Hordaland, Rogaland, Agder, Telemark og Østlandet.",
+      "description": "Vind, høye bølger og høy vannstand. Vinden nådde orkan styrke 26. desember. På Røldalsfjellet ble det klokken 19 målt 47,3 meter i sekundet (tilsvarer 170 kilometer i timen)."
+    },
+    {
+      "date": "12. januar 2017",
+      "name": "Vidar",
+      "area": "Sogn og Fjordane, Hordaland og Rogaland",
+      "description": "Ekstremt høy vannstand."
+    },
+    {
+      "date": "22. november 2017",
+      "name": "Ylva",
+      "area": "Nordland og Troms",
+      "description": "Kraftig vind."
+    },
+    {
+      "date": "7. desember 2017",
+      "name": "Aina",
+      "area": "Sogn og Fjordane, Hordaland og Rogaland",
+      "description": "Vind, høy vannstand, høye bølger og mye nedbør."
+    },
+    {
+      "date": "22. desember 2017",
+      "name": "Birk",
+      "area": "Hordaland og Rogaland",
+      "description": "Mye nedbør."
+    },
+    {
+      "date": "7. januar 2018.",
+      "name": "Cora",
+      "area": "Møre og Romsdal, Trøndelag, Nordland",
+      "description": "Orkan på Sklinna og på Kvaløyfjellet i Sømna."
+    },
+    {
+      "date": "21. september 2018",
+      "name": "Knud",
+      "area": "Vestfold, Østfold, Oslo og Akershus",
+      "description": "Kraftig vind, høy vannstand og høye bølger. Opptil sterk storm lengst i sør. Lindesnes fyr hadde middelvind 31,8 m/s kl. 16."
+    },
+    {
+      "date": "14. januar 2020",
+      "name": "Didrik",
+      "area": "Rogaland, Sunnhordland, Hardanger og Agder",
+      "description": "Ekstremt høy vannstand. Høy vannstand langs kysten for øvrig fra svenskegrensen til og med Trøndelag."
+    },
+    {
+      "date": "10.–11. februar 2020",
+      "name": "Elsa",
+      "area": "Kysten fra Aust-Agder til Kristiansund.",
+      "description": "Ekstremt høy vannstand. Høy vannstand (gult eller oransje farenivå) langs kysten for øvrig fra svenskegrensen til Nordland. Måløy fikk rekordhøy vannstand. Lavt lufttrykk (ned til 943 hPa i Brønnøysund) lammet for første gang flytrafikken fra Bodø og nordover. Også skader pga. sterk (men ikke ekstrem) vind; liten storm ved Strømtangen."
+    },
+    {
+      "date": "21.–22. januar 2021",
+      "name": "Frank",
+      "area": "Helgeland, Salten, Ofoten og Troms",
+      "description": "Kraftig vind."
+    },
+    {
+      "date": "12.–13. januar 2022",
+      "name": "Gyda",
+      "area": "Trøndelag, Møre og Romsdal",
+      "description": "Atmosfærisk elv – 40 m/s vind og ekstremt mye regn. MS «Fridtjof Nansen» skadet."
+    },
+    {
+      "date": "7.–9. august 2023",
+      "name": "Hans",
+      "area": "Sør-Norge",
+      "description": "Kraftig vind og mye regn. Brudd på jernbaner og Braskereidfoss kraftverk."
+    },
+    {
+      "date": "31. januar–1. februar 2024",
+      "name": "Ingunn",
+      "area": "Deler av Trøndelag og Nordland. Gjaldt også Nordfjord og Møre og Romsdal, men varslet for dette området ble nedgradert. Uværet gjorde også store skader i Troms.",
+      "description": "Lokalt ekstreme vindkast på 35–50 m/s fra sørvest, og orkan på kysten. På Kvaløyfjellet i Sømna kommune ble det målt en gjennomsnittsvind på 54,4 m/s som var den kraftigste middelvinden som var målt i Norge."
+    },
+    {
+      "date": "oktober–november 2024",
+      "name": "Jakob",
+      "area": "Vestlandet",
+      "description": "Vind og ekstremt mye regn"
+    },
+    {
+      "date": "3. oktober 2025–5. oktober 2025",
+      "name": "Amy",
+      "area": "Sør-Norge, Nordland og Trøndelag",
+      "description": "Svært kraftig vind, ekstremt kraftige vindkast og stedvis store nedbørsmengder"
+    }
+  ],
+  "meta": {
+    "title": "Ekstremvær i Norge - Free Download",
+    "description": "Navngitte ekstremvær og stormer i Norge med dato, område rammet og beskrivelse. Contains 90 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ekstremvær i Norge | ListBase",
+    "seo_description": "Download Ekstremvær i Norge — 90 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 90 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_ekstremvær_i_Norge"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-11T02:13:35.537Z",
-  "total_datasets": 485,
-  "total_records": 1203075,
+  "generated": "2026-11-12T02:02:57.820Z",
+  "total_datasets": 486,
+  "total_records": 1203165,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 24
+      "dataset_count": 25
     },
     {
       "id": "finance",
@@ -2193,6 +2193,31 @@
         "xlsx": {
           "name": "no-tv-kanaler-sport_NO.xlsx",
           "size": 8459
+        }
+      }
+    },
+    {
+      "id": "no-ekstremvaer",
+      "name": "Ekstremvær i Norge",
+      "category": "environment",
+      "record_count": 90,
+      "columns": [
+        "date",
+        "name",
+        "area",
+        "description"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_ekstremvær_i_Norge",
+      "updated": "2026-11",
+      "size": 23211,
+      "files": {
+        "csv": {
+          "name": "no-ekstremvaer_NO.csv",
+          "size": 14725
+        },
+        "xlsx": {
+          "name": "no-ekstremvaer_NO.xlsx",
+          "size": 13514
         }
       }
     },
