@@ -1,0 +1,7272 @@
+{
+  "id": "no-hotellovernattinger-per-region-2025",
+  "name": "Hotellovernattinger per region og formål (2025)",
+  "title": "Hotellovernattinger per region og formål (2025)",
+  "description": "Antall overnattinger på hotell og lignende overnattingsbedrifter per fylke og reiselivsregion, per måned i 2025, fordelt på kurs/konferanse, yrke og ferie/fritid (SSB tabell 14175).",
+  "category": "tourism",
+  "source": "https://www.ssb.no/statbank/table/14175",
+  "source_url": "https://www.ssb.no/statbank/table/14175",
+  "updated": "2026-11",
+  "record_count": 902,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "string"
+    },
+    {
+      "key": "overnight_stays_total",
+      "label": "Overnight Stays Total",
+      "type": "number"
+    },
+    {
+      "key": "conference",
+      "label": "Conference",
+      "type": "number"
+    },
+    {
+      "key": "business",
+      "label": "Business",
+      "type": "number"
+    },
+    {
+      "key": "leisure",
+      "label": "Leisure",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Heile landet",
+      "month": "2025-01",
+      "overnight_stays_total": 1657780,
+      "conference": 193101,
+      "business": 630572,
+      "leisure": 834107
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-02",
+      "overnight_stays_total": 1866886,
+      "conference": 174012,
+      "business": 630103,
+      "leisure": 1062771
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-03",
+      "overnight_stays_total": 2105655,
+      "conference": 276496,
+      "business": 736284,
+      "leisure": 1092875
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-04",
+      "overnight_stays_total": 1819448,
+      "conference": 217997,
+      "business": 623935,
+      "leisure": 977516
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-05",
+      "overnight_stays_total": 2311047,
+      "conference": 233493,
+      "business": 792257,
+      "leisure": 1285297
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-06",
+      "overnight_stays_total": 2924659,
+      "conference": 256632,
+      "business": 826381,
+      "leisure": 1841646
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-07",
+      "overnight_stays_total": 3848193,
+      "conference": 279780,
+      "business": 556825,
+      "leisure": 3011588
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-08",
+      "overnight_stays_total": 3323033,
+      "conference": 197688,
+      "business": 790091,
+      "leisure": 2335254
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-09",
+      "overnight_stays_total": 2510517,
+      "conference": 299469,
+      "business": 847840,
+      "leisure": 1363208
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-10",
+      "overnight_stays_total": 2191114,
+      "conference": 266036,
+      "business": 808258,
+      "leisure": 1116820
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-11",
+      "overnight_stays_total": 1929525,
+      "conference": 255780,
+      "business": 759819,
+      "leisure": 913926
+    },
+    {
+      "region": "Heile landet",
+      "month": "2025-12",
+      "overnight_stays_total": 1667793,
+      "conference": 131585,
+      "business": 530212,
+      "leisure": 1005996
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-01",
+      "overnight_stays_total": 27058,
+      "conference": 5047,
+      "business": 10227,
+      "leisure": 11784
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-02",
+      "overnight_stays_total": 30127,
+      "conference": 3856,
+      "business": 12284,
+      "leisure": 13987
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-03",
+      "overnight_stays_total": 33660,
+      "conference": 5101,
+      "business": 11791,
+      "leisure": 16768
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-04",
+      "overnight_stays_total": 36034,
+      "conference": 3697,
+      "business": 14260,
+      "leisure": 18077
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-05",
+      "overnight_stays_total": 42262,
+      "conference": 6818,
+      "business": 14955,
+      "leisure": 20489
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-06",
+      "overnight_stays_total": 52617,
+      "conference": 10605,
+      "business": 14328,
+      "leisure": 27684
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-07",
+      "overnight_stays_total": 72526,
+      "conference": 1221,
+      "business": 10689,
+      "leisure": 60616
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-08",
+      "overnight_stays_total": 56535,
+      "conference": 5999,
+      "business": 16187,
+      "leisure": 34349
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-09",
+      "overnight_stays_total": 43871,
+      "conference": 7218,
+      "business": 15450,
+      "leisure": 21203
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-10",
+      "overnight_stays_total": 46092,
+      "conference": 7239,
+      "business": 19500,
+      "leisure": 19353
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-11",
+      "overnight_stays_total": 36713,
+      "conference": 6499,
+      "business": 14180,
+      "leisure": 16034
+    },
+    {
+      "region": "Østfold",
+      "month": "2025-12",
+      "overnight_stays_total": 28003,
+      "conference": 3062,
+      "business": 7890,
+      "leisure": 17051
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-01",
+      "overnight_stays_total": 182658,
+      "conference": 46341,
+      "business": 93623,
+      "leisure": 42694
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-02",
+      "overnight_stays_total": 161248,
+      "conference": 31066,
+      "business": 79642,
+      "leisure": 50540
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-03",
+      "overnight_stays_total": 197957,
+      "conference": 48946,
+      "business": 90223,
+      "leisure": 58788
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-04",
+      "overnight_stays_total": 156195,
+      "conference": 30536,
+      "business": 77677,
+      "leisure": 47982
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-05",
+      "overnight_stays_total": 212418,
+      "conference": 42003,
+      "business": 99706,
+      "leisure": 70709
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-06",
+      "overnight_stays_total": 263524,
+      "conference": 40403,
+      "business": 111647,
+      "leisure": 111474
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-07",
+      "overnight_stays_total": 264245,
+      "conference": 4724,
+      "business": 84017,
+      "leisure": 175504
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-08",
+      "overnight_stays_total": 283524,
+      "conference": 27937,
+      "business": 113273,
+      "leisure": 142314
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-09",
+      "overnight_stays_total": 243695,
+      "conference": 54206,
+      "business": 107167,
+      "leisure": 82322
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-10",
+      "overnight_stays_total": 236472,
+      "conference": 52866,
+      "business": 110878,
+      "leisure": 72728
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-11",
+      "overnight_stays_total": 205523,
+      "conference": 63015,
+      "business": 88080,
+      "leisure": 54428
+    },
+    {
+      "region": "Akershus",
+      "month": "2025-12",
+      "overnight_stays_total": 133063,
+      "conference": 17772,
+      "business": 61220,
+      "leisure": 54071
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-01",
+      "overnight_stays_total": 366182,
+      "conference": 24393,
+      "business": 144811,
+      "leisure": 196978
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-02",
+      "overnight_stays_total": 382975,
+      "conference": 23545,
+      "business": 142121,
+      "leisure": 217309
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-03",
+      "overnight_stays_total": 457483,
+      "conference": 35424,
+      "business": 156499,
+      "leisure": 265560
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-04",
+      "overnight_stays_total": 397916,
+      "conference": 25089,
+      "business": 137726,
+      "leisure": 235101
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-05",
+      "overnight_stays_total": 532029,
+      "conference": 38229,
+      "business": 192572,
+      "leisure": 301228
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-06",
+      "overnight_stays_total": 553220,
+      "conference": 34130,
+      "business": 183178,
+      "leisure": 335912
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-07",
+      "overnight_stays_total": 657604,
+      "conference": 8233,
+      "business": 121327,
+      "leisure": 528044
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-08",
+      "overnight_stays_total": 663277,
+      "conference": 18195,
+      "business": 169906,
+      "leisure": 475176
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-09",
+      "overnight_stays_total": 532307,
+      "conference": 38278,
+      "business": 195814,
+      "leisure": 298215
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-10",
+      "overnight_stays_total": 503803,
+      "conference": 38969,
+      "business": 189011,
+      "leisure": 275823
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-11",
+      "overnight_stays_total": 461257,
+      "conference": 35042,
+      "business": 185762,
+      "leisure": 240453
+    },
+    {
+      "region": "Oslo - Oslove",
+      "month": "2025-12",
+      "overnight_stays_total": 411651,
+      "conference": 23214,
+      "business": 133500,
+      "leisure": 254937
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-01",
+      "overnight_stays_total": 125747,
+      "conference": 20066,
+      "business": 20414,
+      "leisure": 85267
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-02",
+      "overnight_stays_total": 180479,
+      "conference": 14045,
+      "business": 21563,
+      "leisure": 144871
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-03",
+      "overnight_stays_total": 160985,
+      "conference": 18757,
+      "business": 26429,
+      "leisure": 115799
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-04",
+      "overnight_stays_total": 116142,
+      "conference": 7676,
+      "business": 19741,
+      "leisure": 88725
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-05",
+      "overnight_stays_total": 104603,
+      "conference": 9380,
+      "business": 25209,
+      "leisure": 70014
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-06",
+      "overnight_stays_total": 187610,
+      "conference": 9936,
+      "business": 32448,
+      "leisure": 145226
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-07",
+      "overnight_stays_total": 291379,
+      "conference": 4233,
+      "business": 18340,
+      "leisure": 268806
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-08",
+      "overnight_stays_total": 233617,
+      "conference": 13019,
+      "business": 31010,
+      "leisure": 189588
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-09",
+      "overnight_stays_total": 159817,
+      "conference": 19872,
+      "business": 32462,
+      "leisure": 107483
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-10",
+      "overnight_stays_total": 106355,
+      "conference": 14528,
+      "business": 25836,
+      "leisure": 65991
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-11",
+      "overnight_stays_total": 93087,
+      "conference": 13379,
+      "business": 28573,
+      "leisure": 51135
+    },
+    {
+      "region": "Innlandet",
+      "month": "2025-12",
+      "overnight_stays_total": 117352,
+      "conference": 7415,
+      "business": 17923,
+      "leisure": 92014
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-01",
+      "overnight_stays_total": 91475,
+      "conference": 18564,
+      "business": 17997,
+      "leisure": 54914
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-02",
+      "overnight_stays_total": 120213,
+      "conference": 12321,
+      "business": 16400,
+      "leisure": 91492
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-03",
+      "overnight_stays_total": 113738,
+      "conference": 25507,
+      "business": 21681,
+      "leisure": 66550
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-04",
+      "overnight_stays_total": 90230,
+      "conference": 17736,
+      "business": 19048,
+      "leisure": 53446
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-05",
+      "overnight_stays_total": 82234,
+      "conference": 13544,
+      "business": 19130,
+      "leisure": 49560
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-06",
+      "overnight_stays_total": 116340,
+      "conference": 14253,
+      "business": 23744,
+      "leisure": 78343
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-07",
+      "overnight_stays_total": 161748,
+      "conference": 7364,
+      "business": 17060,
+      "leisure": 137324
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-08",
+      "overnight_stays_total": 141546,
+      "conference": 15617,
+      "business": 22569,
+      "leisure": 103360
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-09",
+      "overnight_stays_total": 107520,
+      "conference": 25035,
+      "business": 20428,
+      "leisure": 62057
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-10",
+      "overnight_stays_total": 88698,
+      "conference": 17427,
+      "business": 19730,
+      "leisure": 51541
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-11",
+      "overnight_stays_total": 75922,
+      "conference": 22208,
+      "business": 18306,
+      "leisure": 35408
+    },
+    {
+      "region": "Buskerud",
+      "month": "2025-12",
+      "overnight_stays_total": 88059,
+      "conference": 10261,
+      "business": 15953,
+      "leisure": 61845
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-01",
+      "overnight_stays_total": 30300,
+      "conference": 6872,
+      "business": 9286,
+      "leisure": 14142
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-02",
+      "overnight_stays_total": 30827,
+      "conference": 4265,
+      "business": 11703,
+      "leisure": 14859
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-03",
+      "overnight_stays_total": 49657,
+      "conference": 19977,
+      "business": 11526,
+      "leisure": 18154
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-04",
+      "overnight_stays_total": 69783,
+      "conference": 37404,
+      "business": 9073,
+      "leisure": 23306
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-05",
+      "overnight_stays_total": 53452,
+      "conference": 14340,
+      "business": 11655,
+      "leisure": 27457
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-06",
+      "overnight_stays_total": 90102,
+      "conference": 42837,
+      "business": 14781,
+      "leisure": 32484
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-07",
+      "overnight_stays_total": 307424,
+      "conference": 220018,
+      "business": 12099,
+      "leisure": 75307
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-08",
+      "overnight_stays_total": 76025,
+      "conference": 20614,
+      "business": 13123,
+      "leisure": 42288
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-09",
+      "overnight_stays_total": 62802,
+      "conference": 22611,
+      "business": 14016,
+      "leisure": 26175
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-10",
+      "overnight_stays_total": 59409,
+      "conference": 22312,
+      "business": 17453,
+      "leisure": 19644
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-11",
+      "overnight_stays_total": 43384,
+      "conference": 9099,
+      "business": 10280,
+      "leisure": 24005
+    },
+    {
+      "region": "Vestfold",
+      "month": "2025-12",
+      "overnight_stays_total": 49980,
+      "conference": 26500,
+      "business": 6357,
+      "leisure": 17123
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-01",
+      "overnight_stays_total": 35204,
+      "conference": 2513,
+      "business": 10911,
+      "leisure": 21780
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-02",
+      "overnight_stays_total": 38448,
+      "conference": 2323,
+      "business": 9770,
+      "leisure": 26355
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-03",
+      "overnight_stays_total": 38493,
+      "conference": 3190,
+      "business": 11855,
+      "leisure": 23448
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-04",
+      "overnight_stays_total": 35546,
+      "conference": 2365,
+      "business": 9707,
+      "leisure": 23474
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-05",
+      "overnight_stays_total": 39292,
+      "conference": 3786,
+      "business": 12514,
+      "leisure": 22992
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-06",
+      "overnight_stays_total": 55836,
+      "conference": 2763,
+      "business": 14205,
+      "leisure": 38868
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-07",
+      "overnight_stays_total": 86447,
+      "conference": 1068,
+      "business": 7430,
+      "leisure": 77949
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-08",
+      "overnight_stays_total": 63917,
+      "conference": 5210,
+      "business": 12826,
+      "leisure": 45881
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-09",
+      "overnight_stays_total": 47563,
+      "conference": 4519,
+      "business": 14771,
+      "leisure": 28273
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-10",
+      "overnight_stays_total": 37870,
+      "conference": 4662,
+      "business": 13895,
+      "leisure": 19313
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-11",
+      "overnight_stays_total": 31895,
+      "conference": 4852,
+      "business": 11613,
+      "leisure": 15430
+    },
+    {
+      "region": "Telemark",
+      "month": "2025-12",
+      "overnight_stays_total": 24759,
+      "conference": 1712,
+      "business": 7332,
+      "leisure": 15715
+    },
+    {
+      "region": "Agder",
+      "month": "2025-01",
+      "overnight_stays_total": 44922,
+      "conference": 4880,
+      "business": 18352,
+      "leisure": 21690
+    },
+    {
+      "region": "Agder",
+      "month": "2025-02",
+      "overnight_stays_total": 55745,
+      "conference": 4923,
+      "business": 20378,
+      "leisure": 30444
+    },
+    {
+      "region": "Agder",
+      "month": "2025-03",
+      "overnight_stays_total": 62237,
+      "conference": 7991,
+      "business": 24408,
+      "leisure": 29838
+    },
+    {
+      "region": "Agder",
+      "month": "2025-04",
+      "overnight_stays_total": 80179,
+      "conference": 8355,
+      "business": 25006,
+      "leisure": 46818
+    },
+    {
+      "region": "Agder",
+      "month": "2025-05",
+      "overnight_stays_total": 107183,
+      "conference": 10397,
+      "business": 30399,
+      "leisure": 66387
+    },
+    {
+      "region": "Agder",
+      "month": "2025-06",
+      "overnight_stays_total": 141493,
+      "conference": 8670,
+      "business": 31513,
+      "leisure": 101310
+    },
+    {
+      "region": "Agder",
+      "month": "2025-07",
+      "overnight_stays_total": 239472,
+      "conference": 1862,
+      "business": 18161,
+      "leisure": 219449
+    },
+    {
+      "region": "Agder",
+      "month": "2025-08",
+      "overnight_stays_total": 148466,
+      "conference": 15496,
+      "business": 29412,
+      "leisure": 103558
+    },
+    {
+      "region": "Agder",
+      "month": "2025-09",
+      "overnight_stays_total": 86306,
+      "conference": 12621,
+      "business": 30227,
+      "leisure": 43458
+    },
+    {
+      "region": "Agder",
+      "month": "2025-10",
+      "overnight_stays_total": 82420,
+      "conference": 10600,
+      "business": 27535,
+      "leisure": 44285
+    },
+    {
+      "region": "Agder",
+      "month": "2025-11",
+      "overnight_stays_total": 64338,
+      "conference": 7407,
+      "business": 26645,
+      "leisure": 30286
+    },
+    {
+      "region": "Agder",
+      "month": "2025-12",
+      "overnight_stays_total": 44420,
+      "conference": 2745,
+      "business": 19448,
+      "leisure": 22227
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-01",
+      "overnight_stays_total": 116307,
+      "conference": 8106,
+      "business": 71945,
+      "leisure": 36256
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-02",
+      "overnight_stays_total": 121154,
+      "conference": 13591,
+      "business": 69368,
+      "leisure": 38195
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-03",
+      "overnight_stays_total": 141886,
+      "conference": 12685,
+      "business": 81685,
+      "leisure": 47516
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-04",
+      "overnight_stays_total": 121869,
+      "conference": 10813,
+      "business": 63149,
+      "leisure": 47907
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-05",
+      "overnight_stays_total": 179308,
+      "conference": 17251,
+      "business": 83078,
+      "leisure": 78979
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-06",
+      "overnight_stays_total": 184655,
+      "conference": 15741,
+      "business": 81219,
+      "leisure": 87695
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-07",
+      "overnight_stays_total": 207301,
+      "conference": 6040,
+      "business": 50415,
+      "leisure": 150846
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-08",
+      "overnight_stays_total": 201652,
+      "conference": 10349,
+      "business": 73732,
+      "leisure": 117571
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-09",
+      "overnight_stays_total": 165797,
+      "conference": 17371,
+      "business": 83110,
+      "leisure": 65316
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-10",
+      "overnight_stays_total": 149528,
+      "conference": 14162,
+      "business": 80504,
+      "leisure": 54862
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-11",
+      "overnight_stays_total": 143926,
+      "conference": 11879,
+      "business": 82103,
+      "leisure": 49944
+    },
+    {
+      "region": "Rogaland",
+      "month": "2025-12",
+      "overnight_stays_total": 95656,
+      "conference": 3646,
+      "business": 54392,
+      "leisure": 37618
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-01",
+      "overnight_stays_total": 190388,
+      "conference": 14281,
+      "business": 70022,
+      "leisure": 106085
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-02",
+      "overnight_stays_total": 227970,
+      "conference": 12997,
+      "business": 74149,
+      "leisure": 140824
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-03",
+      "overnight_stays_total": 261749,
+      "conference": 28607,
+      "business": 90565,
+      "leisure": 142577
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-04",
+      "overnight_stays_total": 283592,
+      "conference": 25069,
+      "business": 83835,
+      "leisure": 174688
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-05",
+      "overnight_stays_total": 404749,
+      "conference": 31525,
+      "business": 107062,
+      "leisure": 266162
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-06",
+      "overnight_stays_total": 510025,
+      "conference": 28897,
+      "business": 106341,
+      "leisure": 374787
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-07",
+      "overnight_stays_total": 634945,
+      "conference": 14219,
+      "business": 74853,
+      "leisure": 545873
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-08",
+      "overnight_stays_total": 626602,
+      "conference": 22672,
+      "business": 103049,
+      "leisure": 500881
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-09",
+      "overnight_stays_total": 428100,
+      "conference": 35469,
+      "business": 110725,
+      "leisure": 281906
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-10",
+      "overnight_stays_total": 323030,
+      "conference": 28814,
+      "business": 97155,
+      "leisure": 197061
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-11",
+      "overnight_stays_total": 259767,
+      "conference": 27222,
+      "business": 92494,
+      "leisure": 140051
+    },
+    {
+      "region": "Vestland",
+      "month": "2025-12",
+      "overnight_stays_total": 218589,
+      "conference": 12754,
+      "business": 64099,
+      "leisure": 141736
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-01",
+      "overnight_stays_total": 50299,
+      "conference": 5828,
+      "business": 26441,
+      "leisure": 18030
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-02",
+      "overnight_stays_total": 54393,
+      "conference": 4973,
+      "business": 26507,
+      "leisure": 22913
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-03",
+      "overnight_stays_total": 67036,
+      "conference": 7347,
+      "business": 32384,
+      "leisure": 27305
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-04",
+      "overnight_stays_total": 65423,
+      "conference": 6430,
+      "business": 28960,
+      "leisure": 30033
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-05",
+      "overnight_stays_total": 96890,
+      "conference": 6323,
+      "business": 36895,
+      "leisure": 53672
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-06",
+      "overnight_stays_total": 129709,
+      "conference": 3965,
+      "business": 36565,
+      "leisure": 89179
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-07",
+      "overnight_stays_total": 169414,
+      "conference": 613,
+      "business": 29015,
+      "leisure": 139786
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-08",
+      "overnight_stays_total": 149980,
+      "conference": 3265,
+      "business": 35784,
+      "leisure": 110931
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-09",
+      "overnight_stays_total": 107204,
+      "conference": 6074,
+      "business": 39760,
+      "leisure": 61370
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-10",
+      "overnight_stays_total": 77988,
+      "conference": 7958,
+      "business": 35317,
+      "leisure": 34713
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-11",
+      "overnight_stays_total": 68146,
+      "conference": 11127,
+      "business": 30460,
+      "leisure": 26559
+    },
+    {
+      "region": "Møre og Romsdal",
+      "month": "2025-12",
+      "overnight_stays_total": 44687,
+      "conference": 3798,
+      "business": 20366,
+      "leisure": 20523
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-01",
+      "overnight_stays_total": 135348,
+      "conference": 20171,
+      "business": 50764,
+      "leisure": 64413
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-02",
+      "overnight_stays_total": 158990,
+      "conference": 25781,
+      "business": 54817,
+      "leisure": 78392
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-03",
+      "overnight_stays_total": 193824,
+      "conference": 40950,
+      "business": 70947,
+      "leisure": 81927
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-04",
+      "overnight_stays_total": 148008,
+      "conference": 24324,
+      "business": 54728,
+      "leisure": 68956
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-05",
+      "overnight_stays_total": 191223,
+      "conference": 17621,
+      "business": 69858,
+      "leisure": 103744
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-06",
+      "overnight_stays_total": 233538,
+      "conference": 20006,
+      "business": 72726,
+      "leisure": 140806
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-07",
+      "overnight_stays_total": 272628,
+      "conference": 3678,
+      "business": 46048,
+      "leisure": 222902
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-08",
+      "overnight_stays_total": 246292,
+      "conference": 18010,
+      "business": 68180,
+      "leisure": 160102
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-09",
+      "overnight_stays_total": 208390,
+      "conference": 25962,
+      "business": 71968,
+      "leisure": 110460
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-10",
+      "overnight_stays_total": 184224,
+      "conference": 21368,
+      "business": 68342,
+      "leisure": 94514
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-11",
+      "overnight_stays_total": 166283,
+      "conference": 23655,
+      "business": 66240,
+      "leisure": 76388
+    },
+    {
+      "region": "Trøndelag - Trööndelage",
+      "month": "2025-12",
+      "overnight_stays_total": 123550,
+      "conference": 9940,
+      "business": 38079,
+      "leisure": 75531
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-01",
+      "overnight_stays_total": 84770,
+      "conference": 9685,
+      "business": 30514,
+      "leisure": 44571
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-02",
+      "overnight_stays_total": 111310,
+      "conference": 11814,
+      "business": 35126,
+      "leisure": 64370
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-03",
+      "overnight_stays_total": 124984,
+      "conference": 9966,
+      "business": 44673,
+      "leisure": 70345
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-04",
+      "overnight_stays_total": 91039,
+      "conference": 10047,
+      "business": 34179,
+      "leisure": 46813
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-05",
+      "overnight_stays_total": 130492,
+      "conference": 11983,
+      "business": 42471,
+      "leisure": 76038
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-06",
+      "overnight_stays_total": 203645,
+      "conference": 9803,
+      "business": 50351,
+      "leisure": 143491
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-07",
+      "overnight_stays_total": 259036,
+      "conference": 2855,
+      "business": 42503,
+      "leisure": 213678
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-08",
+      "overnight_stays_total": 221714,
+      "conference": 11756,
+      "business": 51540,
+      "leisure": 158418
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-09",
+      "overnight_stays_total": 149107,
+      "conference": 13118,
+      "business": 55442,
+      "leisure": 80547
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-10",
+      "overnight_stays_total": 121751,
+      "conference": 10860,
+      "business": 45608,
+      "leisure": 65283
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-11",
+      "overnight_stays_total": 110920,
+      "conference": 10224,
+      "business": 46135,
+      "leisure": 54561
+    },
+    {
+      "region": "Nordland - Nordlánnda",
+      "month": "2025-12",
+      "overnight_stays_total": 90208,
+      "conference": 4162,
+      "business": 29801,
+      "leisure": 56245
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-01",
+      "overnight_stays_total": 128908,
+      "conference": 5468,
+      "business": 38050,
+      "leisure": 85390
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-02",
+      "overnight_stays_total": 131523,
+      "conference": 5738,
+      "business": 35782,
+      "leisure": 90003
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-03",
+      "overnight_stays_total": 132722,
+      "conference": 7727,
+      "business": 38944,
+      "leisure": 86051
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-04",
+      "overnight_stays_total": 72256,
+      "conference": 5602,
+      "business": 27186,
+      "leisure": 39468
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-05",
+      "overnight_stays_total": 75277,
+      "conference": 6260,
+      "business": 28180,
+      "leisure": 40837
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-06",
+      "overnight_stays_total": 117252,
+      "conference": 11883,
+      "business": 30582,
+      "leisure": 74787
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-07",
+      "overnight_stays_total": 126264,
+      "conference": 1298,
+      "business": 12248,
+      "leisure": 112718
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-08",
+      "overnight_stays_total": 123683,
+      "conference": 6304,
+      "business": 27104,
+      "leisure": 90275
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-09",
+      "overnight_stays_total": 106700,
+      "conference": 11094,
+      "business": 32704,
+      "leisure": 62902
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-10",
+      "overnight_stays_total": 123895,
+      "conference": 11286,
+      "business": 34103,
+      "leisure": 78506
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-11",
+      "overnight_stays_total": 121305,
+      "conference": 6929,
+      "business": 39114,
+      "leisure": 75262
+    },
+    {
+      "region": "Troms - Romsa - Tromssa",
+      "month": "2025-12",
+      "overnight_stays_total": 154890,
+      "conference": 3778,
+      "business": 38556,
+      "leisure": 112556
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-01",
+      "overnight_stays_total": 37359,
+      "conference": 802,
+      "business": 15966,
+      "leisure": 20591
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-02",
+      "overnight_stays_total": 43191,
+      "conference": 2004,
+      "business": 19016,
+      "leisure": 22171
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-03",
+      "overnight_stays_total": 48025,
+      "conference": 2679,
+      "business": 21575,
+      "leisure": 23771
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-04",
+      "overnight_stays_total": 35800,
+      "conference": 1947,
+      "business": 19065,
+      "leisure": 14788
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-05",
+      "overnight_stays_total": 42980,
+      "conference": 3160,
+      "business": 17893,
+      "leisure": 21927
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-06",
+      "overnight_stays_total": 67847,
+      "conference": 2164,
+      "business": 22046,
+      "leisure": 43637
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-07",
+      "overnight_stays_total": 76670,
+      "conference": 1443,
+      "business": 11491,
+      "leisure": 63736
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-08",
+      "overnight_stays_total": 66142,
+      "conference": 2105,
+      "business": 21321,
+      "leisure": 42716
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-09",
+      "overnight_stays_total": 48111,
+      "conference": 4735,
+      "business": 22699,
+      "leisure": 20677
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-10",
+      "overnight_stays_total": 38644,
+      "conference": 2513,
+      "business": 21598,
+      "leisure": 14533
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-11",
+      "overnight_stays_total": 37607,
+      "conference": 2879,
+      "business": 18626,
+      "leisure": 16102
+    },
+    {
+      "region": "Finnmark - Finnmárku - Finmarkku",
+      "month": "2025-12",
+      "overnight_stays_total": 33642,
+      "conference": 463,
+      "business": 14798,
+      "leisure": 18381
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-01",
+      "overnight_stays_total": 10855,
+      "conference": 84,
+      "business": 1249,
+      "leisure": 9522
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-02",
+      "overnight_stays_total": 18293,
+      "conference": 770,
+      "business": 1477,
+      "leisure": 16046
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-03",
+      "overnight_stays_total": 21219,
+      "conference": 1642,
+      "business": 1099,
+      "leisure": 18478
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-04",
+      "overnight_stays_total": 19436,
+      "conference": 907,
+      "business": 595,
+      "leisure": 17934
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-05",
+      "overnight_stays_total": 16655,
+      "conference": 873,
+      "business": 680,
+      "leisure": 15102
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-06",
+      "overnight_stays_total": 17246,
+      "conference": 576,
+      "business": 707,
+      "leisure": 15963
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-07",
+      "overnight_stays_total": 21090,
+      "conference": 911,
+      "business": 1129,
+      "leisure": 19050
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-08",
+      "overnight_stays_total": 20061,
+      "conference": 1140,
+      "business": 1075,
+      "leisure": 17846
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-09",
+      "overnight_stays_total": 13227,
+      "conference": 1286,
+      "business": 1097,
+      "leisure": 10844
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-10",
+      "overnight_stays_total": 10935,
+      "conference": 472,
+      "business": 1793,
+      "leisure": 8670
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-11",
+      "overnight_stays_total": 9452,
+      "conference": 364,
+      "business": 1208,
+      "leisure": 7880
+    },
+    {
+      "region": "Svalbard",
+      "month": "2025-12",
+      "overnight_stays_total": 9284,
+      "conference": 363,
+      "business": 498,
+      "leisure": 8423
+    },
+    {
+      "region": "Haldenkanalen",
+      "month": "2025-02",
+      "overnight_stays_total": 5618,
+      "conference": 820,
+      "business": 2742,
+      "leisure": 2056
+    },
+    {
+      "region": "Haldenkanalen",
+      "month": "2025-04",
+      "overnight_stays_total": 6724,
+      "conference": 840,
+      "business": 2651,
+      "leisure": 3233
+    },
+    {
+      "region": "Haldenkanalen",
+      "month": "2025-05",
+      "overnight_stays_total": 8201,
+      "conference": 811,
+      "business": 4294,
+      "leisure": 3096
+    },
+    {
+      "region": "Haldenkanalen",
+      "month": "2025-06",
+      "overnight_stays_total": 10880,
+      "conference": 2725,
+      "business": 2711,
+      "leisure": 5444
+    },
+    {
+      "region": "Haldenkanalen",
+      "month": "2025-07",
+      "overnight_stays_total": 14088,
+      "conference": 252,
+      "business": 2545,
+      "leisure": 11291
+    },
+    {
+      "region": "Haldenkanalen",
+      "month": "2025-08",
+      "overnight_stays_total": 11897,
+      "conference": 653,
+      "business": 4208,
+      "leisure": 7036
+    },
+    {
+      "region": "Haldenkanalen",
+      "month": "2025-09",
+      "overnight_stays_total": 9376,
+      "conference": 1418,
+      "business": 3645,
+      "leisure": 4313
+    },
+    {
+      "region": "Haldenkanalen",
+      "month": "2025-12",
+      "overnight_stays_total": 5196,
+      "conference": 298,
+      "business": 2173,
+      "leisure": 2725
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-01",
+      "overnight_stays_total": 8801,
+      "conference": 1946,
+      "business": 3632,
+      "leisure": 3223
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-02",
+      "overnight_stays_total": 9348,
+      "conference": 1838,
+      "business": 2223,
+      "leisure": 5287
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-03",
+      "overnight_stays_total": 9535,
+      "conference": 2123,
+      "business": 2148,
+      "leisure": 5264
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-04",
+      "overnight_stays_total": 11378,
+      "conference": 1685,
+      "business": 4143,
+      "leisure": 5550
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-05",
+      "overnight_stays_total": 13840,
+      "conference": 3197,
+      "business": 3741,
+      "leisure": 6902
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-06",
+      "overnight_stays_total": 16417,
+      "conference": 5203,
+      "business": 2702,
+      "leisure": 8512
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-07",
+      "overnight_stays_total": 18234,
+      "conference": 273,
+      "business": 2595,
+      "leisure": 15366
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-08",
+      "overnight_stays_total": 17058,
+      "conference": 3025,
+      "business": 4476,
+      "leisure": 9557
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-09",
+      "overnight_stays_total": 14024,
+      "conference": 3231,
+      "business": 4334,
+      "leisure": 6459
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-10",
+      "overnight_stays_total": 15333,
+      "conference": 3114,
+      "business": 6269,
+      "leisure": 5950
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-11",
+      "overnight_stays_total": 10878,
+      "conference": 3141,
+      "business": 2437,
+      "leisure": 5300
+    },
+    {
+      "region": "Mosseregion",
+      "month": "2025-12",
+      "overnight_stays_total": 7756,
+      "conference": 1819,
+      "business": 1693,
+      "leisure": 4244
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-01",
+      "overnight_stays_total": 7654,
+      "conference": 1457,
+      "business": 2989,
+      "leisure": 3208
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-05",
+      "overnight_stays_total": 10295,
+      "conference": 419,
+      "business": 4095,
+      "leisure": 5781
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-06",
+      "overnight_stays_total": 12107,
+      "conference": 507,
+      "business": 4529,
+      "leisure": 7071
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-07",
+      "overnight_stays_total": 21646,
+      "conference": 512,
+      "business": 3584,
+      "leisure": 17550
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-08",
+      "overnight_stays_total": 14164,
+      "conference": 941,
+      "business": 4829,
+      "leisure": 8394
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-09",
+      "overnight_stays_total": 11649,
+      "conference": 1089,
+      "business": 5079,
+      "leisure": 5481
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-10",
+      "overnight_stays_total": 14491,
+      "conference": 1919,
+      "business": 6769,
+      "leisure": 5803
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-11",
+      "overnight_stays_total": 10691,
+      "conference": 1029,
+      "business": 5389,
+      "leisure": 4273
+    },
+    {
+      "region": "Sarpsborg",
+      "month": "2025-12",
+      "overnight_stays_total": 9758,
+      "conference": 618,
+      "business": 2883,
+      "leisure": 6257
+    },
+    {
+      "region": "Fredrikstad/Hvaler",
+      "month": "2025-03",
+      "overnight_stays_total": 7564,
+      "conference": 490,
+      "business": 2691,
+      "leisure": 4383
+    },
+    {
+      "region": "Fredrikstad/Hvaler",
+      "month": "2025-05",
+      "overnight_stays_total": 9926,
+      "conference": 2391,
+      "business": 2825,
+      "leisure": 4710
+    },
+    {
+      "region": "Fredrikstad/Hvaler",
+      "month": "2025-06",
+      "overnight_stays_total": 13213,
+      "conference": 2170,
+      "business": 4386,
+      "leisure": 6657
+    },
+    {
+      "region": "Fredrikstad/Hvaler",
+      "month": "2025-07",
+      "overnight_stays_total": 18558,
+      "conference": 184,
+      "business": 1965,
+      "leisure": 16409
+    },
+    {
+      "region": "Fredrikstad/Hvaler",
+      "month": "2025-08",
+      "overnight_stays_total": 13416,
+      "conference": 1380,
+      "business": 2674,
+      "leisure": 9362
+    },
+    {
+      "region": "Fredrikstad/Hvaler",
+      "month": "2025-09",
+      "overnight_stays_total": 8822,
+      "conference": 1480,
+      "business": 2392,
+      "leisure": 4950
+    },
+    {
+      "region": "Fredrikstad/Hvaler",
+      "month": "2025-12",
+      "overnight_stays_total": 5293,
+      "conference": 327,
+      "business": 1141,
+      "leisure": 3825
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-01",
+      "overnight_stays_total": 32312,
+      "conference": 4294,
+      "business": 17931,
+      "leisure": 10087
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-02",
+      "overnight_stays_total": 28954,
+      "conference": 3201,
+      "business": 13100,
+      "leisure": 12653
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-03",
+      "overnight_stays_total": 35460,
+      "conference": 3882,
+      "business": 17396,
+      "leisure": 14182
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-04",
+      "overnight_stays_total": 23596,
+      "conference": 4113,
+      "business": 8966,
+      "leisure": 10517
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-05",
+      "overnight_stays_total": 42355,
+      "conference": 7941,
+      "business": 15365,
+      "leisure": 19049
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-06",
+      "overnight_stays_total": 49626,
+      "conference": 6664,
+      "business": 18010,
+      "leisure": 24952
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-07",
+      "overnight_stays_total": 52976,
+      "conference": 185,
+      "business": 10775,
+      "leisure": 42016
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-08",
+      "overnight_stays_total": 60749,
+      "conference": 4705,
+      "business": 16274,
+      "leisure": 39770
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-09",
+      "overnight_stays_total": 46549,
+      "conference": 8826,
+      "business": 15273,
+      "leisure": 22450
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-10",
+      "overnight_stays_total": 41702,
+      "conference": 6336,
+      "business": 17411,
+      "leisure": 17955
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-11",
+      "overnight_stays_total": 37358,
+      "conference": 10138,
+      "business": 10741,
+      "leisure": 16479
+    },
+    {
+      "region": "Asker/Bærum",
+      "month": "2025-12",
+      "overnight_stays_total": 18013,
+      "conference": 2712,
+      "business": 6809,
+      "leisure": 8492
+    },
+    {
+      "region": "Follo",
+      "month": "2025-01",
+      "overnight_stays_total": 11700,
+      "conference": 4115,
+      "business": 5764,
+      "leisure": 1821
+    },
+    {
+      "region": "Follo",
+      "month": "2025-02",
+      "overnight_stays_total": 12187,
+      "conference": 1781,
+      "business": 4957,
+      "leisure": 5449
+    },
+    {
+      "region": "Follo",
+      "month": "2025-03",
+      "overnight_stays_total": 15907,
+      "conference": 4248,
+      "business": 6472,
+      "leisure": 5187
+    },
+    {
+      "region": "Follo",
+      "month": "2025-04",
+      "overnight_stays_total": 11684,
+      "conference": 2530,
+      "business": 4627,
+      "leisure": 4527
+    },
+    {
+      "region": "Follo",
+      "month": "2025-05",
+      "overnight_stays_total": 17147,
+      "conference": 1937,
+      "business": 7249,
+      "leisure": 7961
+    },
+    {
+      "region": "Follo",
+      "month": "2025-06",
+      "overnight_stays_total": 20734,
+      "conference": 3948,
+      "business": 6854,
+      "leisure": 9932
+    },
+    {
+      "region": "Follo",
+      "month": "2025-07",
+      "overnight_stays_total": 25315,
+      "conference": 473,
+      "business": 5940,
+      "leisure": 18902
+    },
+    {
+      "region": "Follo",
+      "month": "2025-08",
+      "overnight_stays_total": 23446,
+      "conference": 3593,
+      "business": 8713,
+      "leisure": 11140
+    },
+    {
+      "region": "Follo",
+      "month": "2025-09",
+      "overnight_stays_total": 18993,
+      "conference": 5198,
+      "business": 7320,
+      "leisure": 6475
+    },
+    {
+      "region": "Follo",
+      "month": "2025-10",
+      "overnight_stays_total": 17363,
+      "conference": 5272,
+      "business": 6948,
+      "leisure": 5143
+    },
+    {
+      "region": "Follo",
+      "month": "2025-11",
+      "overnight_stays_total": 15377,
+      "conference": 4463,
+      "business": 6310,
+      "leisure": 4604
+    },
+    {
+      "region": "Follo",
+      "month": "2025-12",
+      "overnight_stays_total": 9446,
+      "conference": 1020,
+      "business": 4218,
+      "leisure": 4208
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-01",
+      "overnight_stays_total": 138646,
+      "conference": 37932,
+      "business": 69928,
+      "leisure": 30786
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-02",
+      "overnight_stays_total": 120107,
+      "conference": 26084,
+      "business": 61585,
+      "leisure": 32438
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-03",
+      "overnight_stays_total": 146590,
+      "conference": 40816,
+      "business": 66355,
+      "leisure": 39419
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-04",
+      "overnight_stays_total": 120915,
+      "conference": 23893,
+      "business": 64084,
+      "leisure": 32938
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-05",
+      "overnight_stays_total": 152916,
+      "conference": 32125,
+      "business": 77092,
+      "leisure": 43699
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-06",
+      "overnight_stays_total": 193164,
+      "conference": 29791,
+      "business": 86783,
+      "leisure": 76590
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-07",
+      "overnight_stays_total": 185954,
+      "conference": 4066,
+      "business": 67302,
+      "leisure": 114586
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-08",
+      "overnight_stays_total": 199329,
+      "conference": 19639,
+      "business": 88286,
+      "leisure": 91404
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-09",
+      "overnight_stays_total": 178153,
+      "conference": 40182,
+      "business": 84574,
+      "leisure": 53397
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-10",
+      "overnight_stays_total": 177407,
+      "conference": 41258,
+      "business": 86519,
+      "leisure": 49630
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-11",
+      "overnight_stays_total": 152788,
+      "conference": 48414,
+      "business": 71029,
+      "leisure": 33345
+    },
+    {
+      "region": "Romerike/Hadeland",
+      "month": "2025-12",
+      "overnight_stays_total": 105604,
+      "conference": 14040,
+      "business": 50193,
+      "leisure": 41371
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-01",
+      "overnight_stays_total": 15746,
+      "conference": 2592,
+      "business": 8820,
+      "leisure": 4334
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-02",
+      "overnight_stays_total": 13207,
+      "conference": 1444,
+      "business": 4627,
+      "leisure": 7136
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-03",
+      "overnight_stays_total": 19198,
+      "conference": 3509,
+      "business": 7094,
+      "leisure": 8595
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-04",
+      "overnight_stays_total": 17910,
+      "conference": 5783,
+      "business": 7308,
+      "leisure": 4819
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-05",
+      "overnight_stays_total": 23754,
+      "conference": 2374,
+      "business": 7090,
+      "leisure": 14290
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-06",
+      "overnight_stays_total": 23833,
+      "conference": 2038,
+      "business": 8322,
+      "leisure": 13473
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-07",
+      "overnight_stays_total": 26855,
+      "conference": 970,
+      "business": 6197,
+      "leisure": 19688
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-08",
+      "overnight_stays_total": 24391,
+      "conference": 2917,
+      "business": 7274,
+      "leisure": 14200
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-09",
+      "overnight_stays_total": 20119,
+      "conference": 7365,
+      "business": 6323,
+      "leisure": 6431
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-10",
+      "overnight_stays_total": 18919,
+      "conference": 3850,
+      "business": 6423,
+      "leisure": 8646
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-11",
+      "overnight_stays_total": 18998,
+      "conference": 7189,
+      "business": 5938,
+      "leisure": 5871
+    },
+    {
+      "region": "Drammensregion",
+      "month": "2025-12",
+      "overnight_stays_total": 13046,
+      "conference": 2795,
+      "business": 4500,
+      "leisure": 5751
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-01",
+      "overnight_stays_total": 4010,
+      "conference": 928,
+      "business": 1914,
+      "leisure": 1168
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-02",
+      "overnight_stays_total": 4262,
+      "conference": 408,
+      "business": 1973,
+      "leisure": 1881
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-03",
+      "overnight_stays_total": 7933,
+      "conference": 768,
+      "business": 3948,
+      "leisure": 3217
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-04",
+      "overnight_stays_total": 6569,
+      "conference": 343,
+      "business": 3516,
+      "leisure": 2710
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-05",
+      "overnight_stays_total": 8067,
+      "conference": 377,
+      "business": 4141,
+      "leisure": 3549
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-06",
+      "overnight_stays_total": 10424,
+      "conference": 684,
+      "business": 4824,
+      "leisure": 4916
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-07",
+      "overnight_stays_total": 11258,
+      "conference": 170,
+      "business": 2596,
+      "leisure": 8492
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-08",
+      "overnight_stays_total": 13098,
+      "conference": 806,
+      "business": 4650,
+      "leisure": 7642
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-09",
+      "overnight_stays_total": 10387,
+      "conference": 1323,
+      "business": 4276,
+      "leisure": 4788
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-10",
+      "overnight_stays_total": 8254,
+      "conference": 1082,
+      "business": 3980,
+      "leisure": 3192
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-11",
+      "overnight_stays_total": 8094,
+      "conference": 1303,
+      "business": 3823,
+      "leisure": 2968
+    },
+    {
+      "region": "Kongsbergregion",
+      "month": "2025-12",
+      "overnight_stays_total": 5298,
+      "conference": 261,
+      "business": 2797,
+      "leisure": 2240
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-01",
+      "overnight_stays_total": 28678,
+      "conference": 8444,
+      "business": 4059,
+      "leisure": 16175
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-02",
+      "overnight_stays_total": 34289,
+      "conference": 4983,
+      "business": 5232,
+      "leisure": 24074
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-03",
+      "overnight_stays_total": 28938,
+      "conference": 8537,
+      "business": 4997,
+      "leisure": 15404
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-04",
+      "overnight_stays_total": 18081,
+      "conference": 5374,
+      "business": 5170,
+      "leisure": 7537
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-05",
+      "overnight_stays_total": 16842,
+      "conference": 2425,
+      "business": 4790,
+      "leisure": 9627
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-06",
+      "overnight_stays_total": 27965,
+      "conference": 4967,
+      "business": 8119,
+      "leisure": 14879
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-07",
+      "overnight_stays_total": 35793,
+      "conference": 2333,
+      "business": 4989,
+      "leisure": 28471
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-08",
+      "overnight_stays_total": 32396,
+      "conference": 6421,
+      "business": 6578,
+      "leisure": 19397
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-09",
+      "overnight_stays_total": 25898,
+      "conference": 8830,
+      "business": 5899,
+      "leisure": 11169
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-10",
+      "overnight_stays_total": 24511,
+      "conference": 9367,
+      "business": 5207,
+      "leisure": 9937
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-11",
+      "overnight_stays_total": 19353,
+      "conference": 8770,
+      "business": 4675,
+      "leisure": 5908
+    },
+    {
+      "region": "Norefjell/Ringerike",
+      "month": "2025-12",
+      "overnight_stays_total": 20229,
+      "conference": 4706,
+      "business": 4270,
+      "leisure": 11253
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-01",
+      "overnight_stays_total": 43041,
+      "conference": 6600,
+      "business": 3204,
+      "leisure": 33237
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-02",
+      "overnight_stays_total": 68455,
+      "conference": 5486,
+      "business": 4568,
+      "leisure": 58401
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-03",
+      "overnight_stays_total": 57669,
+      "conference": 12693,
+      "business": 5642,
+      "leisure": 39334
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-04",
+      "overnight_stays_total": 47670,
+      "conference": 6236,
+      "business": 3054,
+      "leisure": 38380
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-05",
+      "overnight_stays_total": 33571,
+      "conference": 8368,
+      "business": 3109,
+      "leisure": 22094
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-06",
+      "overnight_stays_total": 54118,
+      "conference": 6564,
+      "business": 2479,
+      "leisure": 45075
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-07",
+      "overnight_stays_total": 87842,
+      "conference": 3891,
+      "business": 3278,
+      "leisure": 80673
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-08",
+      "overnight_stays_total": 71661,
+      "conference": 5473,
+      "business": 4067,
+      "leisure": 62121
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-09",
+      "overnight_stays_total": 51116,
+      "conference": 7517,
+      "business": 3930,
+      "leisure": 39669
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-10",
+      "overnight_stays_total": 37014,
+      "conference": 3128,
+      "business": 4120,
+      "leisure": 29766
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-11",
+      "overnight_stays_total": 29477,
+      "conference": 4946,
+      "business": 3870,
+      "leisure": 20661
+    },
+    {
+      "region": "Hallingdal",
+      "month": "2025-12",
+      "overnight_stays_total": 49486,
+      "conference": 2499,
+      "business": 4386,
+      "leisure": 42601
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-01",
+      "overnight_stays_total": 366182,
+      "conference": 24393,
+      "business": 144811,
+      "leisure": 196978
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-02",
+      "overnight_stays_total": 382975,
+      "conference": 23545,
+      "business": 142121,
+      "leisure": 217309
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-03",
+      "overnight_stays_total": 457483,
+      "conference": 35424,
+      "business": 156499,
+      "leisure": 265560
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-04",
+      "overnight_stays_total": 397916,
+      "conference": 25089,
+      "business": 137726,
+      "leisure": 235101
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-05",
+      "overnight_stays_total": 532029,
+      "conference": 38229,
+      "business": 192572,
+      "leisure": 301228
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-06",
+      "overnight_stays_total": 553220,
+      "conference": 34130,
+      "business": 183178,
+      "leisure": 335912
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-07",
+      "overnight_stays_total": 657604,
+      "conference": 8233,
+      "business": 121327,
+      "leisure": 528044
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-08",
+      "overnight_stays_total": 663277,
+      "conference": 18195,
+      "business": 169906,
+      "leisure": 475176
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-09",
+      "overnight_stays_total": 532307,
+      "conference": 38278,
+      "business": 195814,
+      "leisure": 298215
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-10",
+      "overnight_stays_total": 503803,
+      "conference": 38969,
+      "business": 189011,
+      "leisure": 275823
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-11",
+      "overnight_stays_total": 461257,
+      "conference": 35042,
+      "business": 185762,
+      "leisure": 240453
+    },
+    {
+      "region": "Oslo",
+      "month": "2025-12",
+      "overnight_stays_total": 411651,
+      "conference": 23214,
+      "business": 133500,
+      "leisure": 254937
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-01",
+      "overnight_stays_total": 20277,
+      "conference": 3508,
+      "business": 8467,
+      "leisure": 8302
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-02",
+      "overnight_stays_total": 20036,
+      "conference": 2630,
+      "business": 8131,
+      "leisure": 9275
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-03",
+      "overnight_stays_total": 24474,
+      "conference": 3433,
+      "business": 9262,
+      "leisure": 11779
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-04",
+      "overnight_stays_total": 19309,
+      "conference": 1800,
+      "business": 6259,
+      "leisure": 11250
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-05",
+      "overnight_stays_total": 23287,
+      "conference": 2653,
+      "business": 8780,
+      "leisure": 11854
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-06",
+      "overnight_stays_total": 33473,
+      "conference": 2351,
+      "business": 11175,
+      "leisure": 19947
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-07",
+      "overnight_stays_total": 39512,
+      "conference": 398,
+      "business": 5972,
+      "leisure": 33142
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-08",
+      "overnight_stays_total": 38487,
+      "conference": 1692,
+      "business": 10197,
+      "leisure": 26598
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-09",
+      "overnight_stays_total": 29788,
+      "conference": 4146,
+      "business": 11842,
+      "leisure": 13800
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-10",
+      "overnight_stays_total": 23858,
+      "conference": 3297,
+      "business": 9195,
+      "leisure": 11366
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-11",
+      "overnight_stays_total": 20742,
+      "conference": 2956,
+      "business": 12324,
+      "leisure": 5462
+    },
+    {
+      "region": "Hedmark-region",
+      "month": "2025-12",
+      "overnight_stays_total": 16418,
+      "conference": 1074,
+      "business": 6092,
+      "leisure": 9252
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-01",
+      "overnight_stays_total": 48272,
+      "conference": 8956,
+      "business": 6148,
+      "leisure": 33168
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-02",
+      "overnight_stays_total": 73371,
+      "conference": 4801,
+      "business": 6859,
+      "leisure": 61711
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-03",
+      "overnight_stays_total": 58688,
+      "conference": 7995,
+      "business": 7884,
+      "leisure": 42809
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-04",
+      "overnight_stays_total": 40174,
+      "conference": 2128,
+      "business": 6962,
+      "leisure": 31084
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-05",
+      "overnight_stays_total": 36201,
+      "conference": 2927,
+      "business": 7252,
+      "leisure": 26022
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-06",
+      "overnight_stays_total": 68100,
+      "conference": 3925,
+      "business": 10602,
+      "leisure": 53573
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-07",
+      "overnight_stays_total": 110721,
+      "conference": 787,
+      "business": 5498,
+      "leisure": 104436
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-08",
+      "overnight_stays_total": 78208,
+      "conference": 5648,
+      "business": 8713,
+      "leisure": 63847
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-09",
+      "overnight_stays_total": 48523,
+      "conference": 8715,
+      "business": 8028,
+      "leisure": 31780
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-10",
+      "overnight_stays_total": 31836,
+      "conference": 5637,
+      "business": 5564,
+      "leisure": 20635
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-11",
+      "overnight_stays_total": 30760,
+      "conference": 4881,
+      "business": 7252,
+      "leisure": 18627
+    },
+    {
+      "region": "Lillehammer-region",
+      "month": "2025-12",
+      "overnight_stays_total": 45426,
+      "conference": 3826,
+      "business": 5695,
+      "leisure": 35905
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-01",
+      "overnight_stays_total": 9681,
+      "conference": 3609,
+      "business": 3041,
+      "leisure": 3031
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-02",
+      "overnight_stays_total": 11010,
+      "conference": 2261,
+      "business": 2692,
+      "leisure": 6057
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-03",
+      "overnight_stays_total": 10628,
+      "conference": 3192,
+      "business": 4027,
+      "leisure": 3409
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-04",
+      "overnight_stays_total": 7128,
+      "conference": 1510,
+      "business": 2882,
+      "leisure": 2736
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-05",
+      "overnight_stays_total": 10404,
+      "conference": 2193,
+      "business": 3945,
+      "leisure": 4266
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-06",
+      "overnight_stays_total": 14458,
+      "conference": 2002,
+      "business": 4805,
+      "leisure": 7651
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-07",
+      "overnight_stays_total": 15161,
+      "conference": 148,
+      "business": 2917,
+      "leisure": 12096
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-08",
+      "overnight_stays_total": 15856,
+      "conference": 2212,
+      "business": 4454,
+      "leisure": 9190
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-09",
+      "overnight_stays_total": 13251,
+      "conference": 3876,
+      "business": 4451,
+      "leisure": 4924
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-10",
+      "overnight_stays_total": 11282,
+      "conference": 3240,
+      "business": 4350,
+      "leisure": 3692
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-11",
+      "overnight_stays_total": 11300,
+      "conference": 3730,
+      "business": 3918,
+      "leisure": 3652
+    },
+    {
+      "region": "Gjøvikregion",
+      "month": "2025-12",
+      "overnight_stays_total": 7520,
+      "conference": 1065,
+      "business": 2851,
+      "leisure": 3604
+    },
+    {
+      "region": "Ringsaker",
+      "month": "2025-01",
+      "overnight_stays_total": 4010,
+      "conference": 327,
+      "business": 858,
+      "leisure": 2825
+    },
+    {
+      "region": "Ringsaker",
+      "month": "2025-02",
+      "overnight_stays_total": 5109,
+      "conference": 172,
+      "business": 963,
+      "leisure": 3974
+    },
+    {
+      "region": "Ringsaker",
+      "month": "2025-03",
+      "overnight_stays_total": 6086,
+      "conference": 282,
+      "business": 1716,
+      "leisure": 4088
+    },
+    {
+      "region": "Ringsaker",
+      "month": "2025-06",
+      "overnight_stays_total": 5298,
+      "conference": 731,
+      "business": 1593,
+      "leisure": 2974
+    },
+    {
+      "region": "Ringsaker",
+      "month": "2025-07",
+      "overnight_stays_total": 5351,
+      "conference": 2,
+      "business": 171,
+      "leisure": 5178
+    },
+    {
+      "region": "Ringsaker",
+      "month": "2025-09",
+      "overnight_stays_total": 8779,
+      "conference": 1050,
+      "business": 3189,
+      "leisure": 4540
+    },
+    {
+      "region": "Ringsaker",
+      "month": "2025-12",
+      "overnight_stays_total": 3824,
+      "conference": 632,
+      "business": 1080,
+      "leisure": 2112
+    },
+    {
+      "region": "Trysil",
+      "month": "2025-01",
+      "overnight_stays_total": 18631,
+      "conference": 3001,
+      "business": 358,
+      "leisure": 15272
+    },
+    {
+      "region": "Trysil",
+      "month": "2025-02",
+      "overnight_stays_total": 25358,
+      "conference": 1249,
+      "business": 238,
+      "leisure": 23871
+    },
+    {
+      "region": "Trysil",
+      "month": "2025-03",
+      "overnight_stays_total": 23208,
+      "conference": 1476,
+      "business": 432,
+      "leisure": 21300
+    },
+    {
+      "region": "Trysil",
+      "month": "2025-06",
+      "overnight_stays_total": 4460,
+      "conference": 267,
+      "business": 358,
+      "leisure": 3835
+    },
+    {
+      "region": "Trysil",
+      "month": "2025-07",
+      "overnight_stays_total": 7622,
+      "conference": 123,
+      "business": 672,
+      "leisure": 6827
+    },
+    {
+      "region": "Trysil",
+      "month": "2025-09",
+      "overnight_stays_total": 5812,
+      "conference": 685,
+      "business": 449,
+      "leisure": 4678
+    },
+    {
+      "region": "Trysil",
+      "month": "2025-12",
+      "overnight_stays_total": 15788,
+      "conference": 313,
+      "business": 399,
+      "leisure": 15076
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-01",
+      "overnight_stays_total": 5615,
+      "conference": 0,
+      "business": 176,
+      "leisure": 5439
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-02",
+      "overnight_stays_total": 6753,
+      "conference": 0,
+      "business": 359,
+      "leisure": 6394
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-03",
+      "overnight_stays_total": 7339,
+      "conference": 35,
+      "business": 196,
+      "leisure": 7108
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-04",
+      "overnight_stays_total": 5303,
+      "conference": 5,
+      "business": 175,
+      "leisure": 5123
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-05",
+      "overnight_stays_total": 4466,
+      "conference": 0,
+      "business": 285,
+      "leisure": 4181
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-06",
+      "overnight_stays_total": 10611,
+      "conference": 30,
+      "business": 454,
+      "leisure": 10127
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-07",
+      "overnight_stays_total": 13284,
+      "conference": 0,
+      "business": 227,
+      "leisure": 13057
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-08",
+      "overnight_stays_total": 11904,
+      "conference": 35,
+      "business": 258,
+      "leisure": 11611
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-09",
+      "overnight_stays_total": 10049,
+      "conference": 37,
+      "business": 498,
+      "leisure": 9514
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-10",
+      "overnight_stays_total": 8979,
+      "conference": 0,
+      "business": 599,
+      "leisure": 8380
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-11",
+      "overnight_stays_total": 5425,
+      "conference": 48,
+      "business": 237,
+      "leisure": 5140
+    },
+    {
+      "region": "Østerdalen",
+      "month": "2025-12",
+      "overnight_stays_total": 8351,
+      "conference": 18,
+      "business": 82,
+      "leisure": 8251
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-01",
+      "overnight_stays_total": 3749,
+      "conference": 289,
+      "business": 1090,
+      "leisure": 2370
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-02",
+      "overnight_stays_total": 15056,
+      "conference": 2002,
+      "business": 1983,
+      "leisure": 11071
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-03",
+      "overnight_stays_total": 13378,
+      "conference": 914,
+      "business": 2598,
+      "leisure": 9866
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-04",
+      "overnight_stays_total": 11207,
+      "conference": 1207,
+      "business": 2004,
+      "leisure": 7996
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-05",
+      "overnight_stays_total": 15688,
+      "conference": 515,
+      "business": 2980,
+      "leisure": 12193
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-06",
+      "overnight_stays_total": 34669,
+      "conference": 226,
+      "business": 3188,
+      "leisure": 31255
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-07",
+      "overnight_stays_total": 64347,
+      "conference": 57,
+      "business": 2695,
+      "leisure": 61595
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-08",
+      "overnight_stays_total": 47363,
+      "conference": 149,
+      "business": 3280,
+      "leisure": 43934
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-09",
+      "overnight_stays_total": 28744,
+      "conference": 409,
+      "business": 3954,
+      "leisure": 24381
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-10",
+      "overnight_stays_total": 13007,
+      "conference": 764,
+      "business": 3073,
+      "leisure": 9170
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-11",
+      "overnight_stays_total": 6338,
+      "conference": 229,
+      "business": 2351,
+      "leisure": 3758
+    },
+    {
+      "region": "Nord-Gudbrandsdal",
+      "month": "2025-12",
+      "overnight_stays_total": 3913,
+      "conference": 186,
+      "business": 1579,
+      "leisure": 2148
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-01",
+      "overnight_stays_total": 15512,
+      "conference": 376,
+      "business": 276,
+      "leisure": 14860
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-02",
+      "overnight_stays_total": 23786,
+      "conference": 930,
+      "business": 338,
+      "leisure": 22518
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-03",
+      "overnight_stays_total": 17184,
+      "conference": 1430,
+      "business": 314,
+      "leisure": 15440
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-04",
+      "overnight_stays_total": 16255,
+      "conference": 575,
+      "business": 280,
+      "leisure": 15400
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-05",
+      "overnight_stays_total": 9171,
+      "conference": 499,
+      "business": 51,
+      "leisure": 8621
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-06",
+      "overnight_stays_total": 16541,
+      "conference": 404,
+      "business": 273,
+      "leisure": 15864
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-07",
+      "overnight_stays_total": 35381,
+      "conference": 2718,
+      "business": 188,
+      "leisure": 32475
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-08",
+      "overnight_stays_total": 24518,
+      "conference": 510,
+      "business": 380,
+      "leisure": 23628
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-09",
+      "overnight_stays_total": 14871,
+      "conference": 954,
+      "business": 51,
+      "leisure": 13866
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-10",
+      "overnight_stays_total": 8284,
+      "conference": 553,
+      "business": 323,
+      "leisure": 7408
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-11",
+      "overnight_stays_total": 7722,
+      "conference": 639,
+      "business": 85,
+      "leisure": 6998
+    },
+    {
+      "region": "Valdres",
+      "month": "2025-12",
+      "overnight_stays_total": 16112,
+      "conference": 301,
+      "business": 145,
+      "leisure": 15666
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-01",
+      "overnight_stays_total": 3116,
+      "conference": 685,
+      "business": 1605,
+      "leisure": 826
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-02",
+      "overnight_stays_total": 2505,
+      "conference": 778,
+      "business": 1230,
+      "leisure": 497
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-03",
+      "overnight_stays_total": 3459,
+      "conference": 1479,
+      "business": 1048,
+      "leisure": 932
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-04",
+      "overnight_stays_total": 3440,
+      "conference": 836,
+      "business": 1366,
+      "leisure": 1238
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-05",
+      "overnight_stays_total": 5073,
+      "conference": 1175,
+      "business": 1862,
+      "leisure": 2036
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-06",
+      "overnight_stays_total": 6210,
+      "conference": 1317,
+      "business": 1993,
+      "leisure": 2900
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-08",
+      "overnight_stays_total": 6572,
+      "conference": 779,
+      "business": 1775,
+      "leisure": 4018
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-09",
+      "overnight_stays_total": 4507,
+      "conference": 835,
+      "business": 1859,
+      "leisure": 1813
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-10",
+      "overnight_stays_total": 3492,
+      "conference": 787,
+      "business": 1718,
+      "leisure": 987
+    },
+    {
+      "region": "Hortenregion",
+      "month": "2025-11",
+      "overnight_stays_total": 3187,
+      "conference": 596,
+      "business": 1565,
+      "leisure": 1026
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-01",
+      "overnight_stays_total": 7798,
+      "conference": 1233,
+      "business": 2897,
+      "leisure": 3668
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-02",
+      "overnight_stays_total": 7748,
+      "conference": 590,
+      "business": 3085,
+      "leisure": 4073
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-03",
+      "overnight_stays_total": 11130,
+      "conference": 2425,
+      "business": 3520,
+      "leisure": 5185
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-04",
+      "overnight_stays_total": 12125,
+      "conference": 3622,
+      "business": 2741,
+      "leisure": 5762
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-05",
+      "overnight_stays_total": 16183,
+      "conference": 3508,
+      "business": 4136,
+      "leisure": 8539
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-06",
+      "overnight_stays_total": 18575,
+      "conference": 2538,
+      "business": 5298,
+      "leisure": 10739
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-08",
+      "overnight_stays_total": 20255,
+      "conference": 3953,
+      "business": 4547,
+      "leisure": 11755
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-09",
+      "overnight_stays_total": 15134,
+      "conference": 2769,
+      "business": 4937,
+      "leisure": 7428
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-10",
+      "overnight_stays_total": 12273,
+      "conference": 2793,
+      "business": 3715,
+      "leisure": 5765
+    },
+    {
+      "region": "Tønsbergregion",
+      "month": "2025-11",
+      "overnight_stays_total": 12008,
+      "conference": 2498,
+      "business": 3787,
+      "leisure": 5723
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-01",
+      "overnight_stays_total": 19386,
+      "conference": 4954,
+      "business": 4784,
+      "leisure": 9648
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-02",
+      "overnight_stays_total": 20574,
+      "conference": 2897,
+      "business": 7388,
+      "leisure": 10289
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-03",
+      "overnight_stays_total": 35068,
+      "conference": 16073,
+      "business": 6958,
+      "leisure": 12037
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-04",
+      "overnight_stays_total": 54218,
+      "conference": 32946,
+      "business": 4966,
+      "leisure": 16306
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-05",
+      "overnight_stays_total": 32196,
+      "conference": 9657,
+      "business": 5657,
+      "leisure": 16882
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-06",
+      "overnight_stays_total": 65317,
+      "conference": 38982,
+      "business": 7490,
+      "leisure": 18845
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-07",
+      "overnight_stays_total": 269517,
+      "conference": 217568,
+      "business": 4669,
+      "leisure": 47280
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-08",
+      "overnight_stays_total": 49198,
+      "conference": 15882,
+      "business": 6801,
+      "leisure": 26515
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-09",
+      "overnight_stays_total": 43161,
+      "conference": 19007,
+      "business": 7220,
+      "leisure": 16934
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-10",
+      "overnight_stays_total": 43644,
+      "conference": 18732,
+      "business": 12020,
+      "leisure": 12892
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-11",
+      "overnight_stays_total": 28189,
+      "conference": 6005,
+      "business": 4928,
+      "leisure": 17256
+    },
+    {
+      "region": "Sandefjord/Larvik",
+      "month": "2025-12",
+      "overnight_stays_total": 38129,
+      "conference": 25571,
+      "business": 2411,
+      "leisure": 10147
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-01",
+      "overnight_stays_total": 18711,
+      "conference": 934,
+      "business": 9058,
+      "leisure": 8719
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-02",
+      "overnight_stays_total": 19462,
+      "conference": 1420,
+      "business": 7326,
+      "leisure": 10716
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-03",
+      "overnight_stays_total": 20438,
+      "conference": 1748,
+      "business": 8973,
+      "leisure": 9717
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-04",
+      "overnight_stays_total": 19899,
+      "conference": 1261,
+      "business": 7748,
+      "leisure": 10890
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-05",
+      "overnight_stays_total": 23386,
+      "conference": 1975,
+      "business": 9698,
+      "leisure": 11713
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-06",
+      "overnight_stays_total": 28884,
+      "conference": 1453,
+      "business": 11052,
+      "leisure": 16379
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-07",
+      "overnight_stays_total": 42214,
+      "conference": 906,
+      "business": 5203,
+      "leisure": 36105
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-08",
+      "overnight_stays_total": 32839,
+      "conference": 1915,
+      "business": 10451,
+      "leisure": 20473
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-09",
+      "overnight_stays_total": 23275,
+      "conference": 2786,
+      "business": 9276,
+      "leisure": 11213
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-10",
+      "overnight_stays_total": 24594,
+      "conference": 3178,
+      "business": 10844,
+      "leisure": 10572
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-11",
+      "overnight_stays_total": 22816,
+      "conference": 3417,
+      "business": 9601,
+      "leisure": 9798
+    },
+    {
+      "region": "Grenland",
+      "month": "2025-12",
+      "overnight_stays_total": 12578,
+      "conference": 850,
+      "business": 5511,
+      "leisure": 6217
+    },
+    {
+      "region": "Øst-Telemark",
+      "month": "2025-01",
+      "overnight_stays_total": 11346,
+      "conference": 352,
+      "business": 1102,
+      "leisure": 9892
+    },
+    {
+      "region": "Øst-Telemark",
+      "month": "2025-02",
+      "overnight_stays_total": 12067,
+      "conference": 312,
+      "business": 1994,
+      "leisure": 9761
+    },
+    {
+      "region": "Øst-Telemark",
+      "month": "2025-03",
+      "overnight_stays_total": 11299,
+      "conference": 489,
+      "business": 2437,
+      "leisure": 8373
+    },
+    {
+      "region": "Øst-Telemark",
+      "month": "2025-04",
+      "overnight_stays_total": 8079,
+      "conference": 333,
+      "business": 1122,
+      "leisure": 6624
+    },
+    {
+      "region": "Øst-Telemark",
+      "month": "2025-10",
+      "overnight_stays_total": 6926,
+      "conference": 493,
+      "business": 2181,
+      "leisure": 4252
+    },
+    {
+      "region": "Øst-Telemark",
+      "month": "2025-11",
+      "overnight_stays_total": 4040,
+      "conference": 381,
+      "business": 1288,
+      "leisure": 2371
+    },
+    {
+      "region": "Vest-Telemark",
+      "month": "2025-05",
+      "overnight_stays_total": 8800,
+      "conference": 828,
+      "business": 843,
+      "leisure": 7129
+    },
+    {
+      "region": "Vest-Telemark",
+      "month": "2025-06",
+      "overnight_stays_total": 12731,
+      "conference": 197,
+      "business": 717,
+      "leisure": 11817
+    },
+    {
+      "region": "Vest-Telemark",
+      "month": "2025-07",
+      "overnight_stays_total": 20514,
+      "conference": 142,
+      "business": 622,
+      "leisure": 19750
+    },
+    {
+      "region": "Vest-Telemark",
+      "month": "2025-08",
+      "overnight_stays_total": 16609,
+      "conference": 379,
+      "business": 1142,
+      "leisure": 15088
+    },
+    {
+      "region": "Vest-Telemark",
+      "month": "2025-09",
+      "overnight_stays_total": 11873,
+      "conference": 539,
+      "business": 1879,
+      "leisure": 9455
+    },
+    {
+      "region": "Vest-Telemark",
+      "month": "2025-12",
+      "overnight_stays_total": 6026,
+      "conference": 275,
+      "business": 525,
+      "leisure": 5226
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-01",
+      "overnight_stays_total": 512,
+      "conference": 43,
+      "business": 216,
+      "leisure": 253
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-02",
+      "overnight_stays_total": 759,
+      "conference": 20,
+      "business": 229,
+      "leisure": 510
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-03",
+      "overnight_stays_total": 769,
+      "conference": 138,
+      "business": 127,
+      "leisure": 504
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-04",
+      "overnight_stays_total": 1598,
+      "conference": 87,
+      "business": 408,
+      "leisure": 1103
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-05",
+      "overnight_stays_total": 2678,
+      "conference": 646,
+      "business": 366,
+      "leisure": 1666
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-06",
+      "overnight_stays_total": 4377,
+      "conference": 69,
+      "business": 400,
+      "leisure": 3908
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-07",
+      "overnight_stays_total": 6103,
+      "conference": 92,
+      "business": 191,
+      "leisure": 5820
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-08",
+      "overnight_stays_total": 4010,
+      "conference": 80,
+      "business": 251,
+      "leisure": 3679
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-09",
+      "overnight_stays_total": 1445,
+      "conference": 47,
+      "business": 194,
+      "leisure": 1204
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-10",
+      "overnight_stays_total": 782,
+      "conference": 19,
+      "business": 293,
+      "leisure": 470
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-11",
+      "overnight_stays_total": 786,
+      "conference": 25,
+      "business": 352,
+      "leisure": 409
+    },
+    {
+      "region": "Risør/Tvedestrand",
+      "month": "2025-12",
+      "overnight_stays_total": 444,
+      "conference": 51,
+      "business": 197,
+      "leisure": 196
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-01",
+      "overnight_stays_total": 8097,
+      "conference": 684,
+      "business": 4120,
+      "leisure": 3293
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-02",
+      "overnight_stays_total": 8454,
+      "conference": 381,
+      "business": 4332,
+      "leisure": 3741
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-03",
+      "overnight_stays_total": 10088,
+      "conference": 815,
+      "business": 5381,
+      "leisure": 3892
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-04",
+      "overnight_stays_total": 10736,
+      "conference": 1079,
+      "business": 4974,
+      "leisure": 4683
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-05",
+      "overnight_stays_total": 15848,
+      "conference": 999,
+      "business": 6946,
+      "leisure": 7903
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-06",
+      "overnight_stays_total": 20569,
+      "conference": 1631,
+      "business": 6077,
+      "leisure": 12861
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-07",
+      "overnight_stays_total": 31158,
+      "conference": 298,
+      "business": 4488,
+      "leisure": 26372
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-08",
+      "overnight_stays_total": 21056,
+      "conference": 1205,
+      "business": 7116,
+      "leisure": 12735
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-09",
+      "overnight_stays_total": 13351,
+      "conference": 1058,
+      "business": 6521,
+      "leisure": 5772
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-10",
+      "overnight_stays_total": 12141,
+      "conference": 989,
+      "business": 6645,
+      "leisure": 4507
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-11",
+      "overnight_stays_total": 10129,
+      "conference": 1133,
+      "business": 5135,
+      "leisure": 3861
+    },
+    {
+      "region": "Arendal/Grimstad",
+      "month": "2025-12",
+      "overnight_stays_total": 7877,
+      "conference": 263,
+      "business": 4399,
+      "leisure": 3215
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-01",
+      "overnight_stays_total": 27694,
+      "conference": 3264,
+      "business": 10781,
+      "leisure": 13649
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-02",
+      "overnight_stays_total": 33947,
+      "conference": 3021,
+      "business": 11856,
+      "leisure": 19070
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-03",
+      "overnight_stays_total": 36406,
+      "conference": 4771,
+      "business": 13842,
+      "leisure": 17793
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-04",
+      "overnight_stays_total": 54504,
+      "conference": 5064,
+      "business": 15225,
+      "leisure": 34215
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-05",
+      "overnight_stays_total": 72753,
+      "conference": 6065,
+      "business": 18574,
+      "leisure": 48114
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-06",
+      "overnight_stays_total": 92553,
+      "conference": 4310,
+      "business": 20257,
+      "leisure": 67986
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-07",
+      "overnight_stays_total": 164080,
+      "conference": 1188,
+      "business": 11220,
+      "leisure": 151672
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-08",
+      "overnight_stays_total": 95224,
+      "conference": 12256,
+      "business": 17470,
+      "leisure": 65498
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-09",
+      "overnight_stays_total": 52607,
+      "conference": 7891,
+      "business": 17861,
+      "leisure": 26855
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-10",
+      "overnight_stays_total": 55154,
+      "conference": 7279,
+      "business": 15783,
+      "leisure": 32092
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-11",
+      "overnight_stays_total": 41436,
+      "conference": 4566,
+      "business": 16344,
+      "leisure": 20526
+    },
+    {
+      "region": "Kristiansandregion",
+      "month": "2025-12",
+      "overnight_stays_total": 27630,
+      "conference": 1600,
+      "business": 11790,
+      "leisure": 14240
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-01",
+      "overnight_stays_total": 2366,
+      "conference": 611,
+      "business": 972,
+      "leisure": 783
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-02",
+      "overnight_stays_total": 2955,
+      "conference": 636,
+      "business": 1039,
+      "leisure": 1280
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-03",
+      "overnight_stays_total": 5016,
+      "conference": 1881,
+      "business": 1466,
+      "leisure": 1669
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-04",
+      "overnight_stays_total": 4820,
+      "conference": 1762,
+      "business": 855,
+      "leisure": 2203
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-05",
+      "overnight_stays_total": 6452,
+      "conference": 2417,
+      "business": 810,
+      "leisure": 3225
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-06",
+      "overnight_stays_total": 8487,
+      "conference": 2326,
+      "business": 929,
+      "leisure": 5232
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-07",
+      "overnight_stays_total": 17075,
+      "conference": 28,
+      "business": 155,
+      "leisure": 16892
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-08",
+      "overnight_stays_total": 11287,
+      "conference": 1640,
+      "business": 985,
+      "leisure": 8662
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-09",
+      "overnight_stays_total": 6315,
+      "conference": 2374,
+      "business": 1340,
+      "leisure": 2601
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-10",
+      "overnight_stays_total": 5263,
+      "conference": 1641,
+      "business": 1016,
+      "leisure": 2606
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-11",
+      "overnight_stays_total": 4862,
+      "conference": 937,
+      "business": 1968,
+      "leisure": 1957
+    },
+    {
+      "region": "Lindesnes/Lyngdal",
+      "month": "2025-12",
+      "overnight_stays_total": 2937,
+      "conference": 728,
+      "business": 1183,
+      "leisure": 1026
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-01",
+      "overnight_stays_total": 3949,
+      "conference": 127,
+      "business": 1763,
+      "leisure": 2059
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-02",
+      "overnight_stays_total": 5656,
+      "conference": 291,
+      "business": 2211,
+      "leisure": 3154
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-03",
+      "overnight_stays_total": 5952,
+      "conference": 292,
+      "business": 2717,
+      "leisure": 2943
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-04",
+      "overnight_stays_total": 6187,
+      "conference": 280,
+      "business": 3213,
+      "leisure": 2694
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-05",
+      "overnight_stays_total": 6247,
+      "conference": 142,
+      "business": 2936,
+      "leisure": 3169
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-06",
+      "overnight_stays_total": 8919,
+      "conference": 167,
+      "business": 3003,
+      "leisure": 5749
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-07",
+      "overnight_stays_total": 11190,
+      "conference": 245,
+      "business": 1460,
+      "leisure": 9485
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-08",
+      "overnight_stays_total": 9114,
+      "conference": 175,
+      "business": 2695,
+      "leisure": 6244
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-09",
+      "overnight_stays_total": 7136,
+      "conference": 569,
+      "business": 2971,
+      "leisure": 3596
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-10",
+      "overnight_stays_total": 5938,
+      "conference": 558,
+      "business": 2510,
+      "leisure": 2870
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-11",
+      "overnight_stays_total": 5583,
+      "conference": 580,
+      "business": 2107,
+      "leisure": 2896
+    },
+    {
+      "region": "Vestre-Agder",
+      "month": "2025-12",
+      "overnight_stays_total": 3396,
+      "conference": 76,
+      "business": 1481,
+      "leisure": 1839
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-01",
+      "overnight_stays_total": 2304,
+      "conference": 151,
+      "business": 500,
+      "leisure": 1653
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-02",
+      "overnight_stays_total": 3974,
+      "conference": 574,
+      "business": 711,
+      "leisure": 2689
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-03",
+      "overnight_stays_total": 4006,
+      "conference": 94,
+      "business": 875,
+      "leisure": 3037
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-04",
+      "overnight_stays_total": 2334,
+      "conference": 83,
+      "business": 331,
+      "leisure": 1920
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-05",
+      "overnight_stays_total": 3205,
+      "conference": 128,
+      "business": 767,
+      "leisure": 2310
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-06",
+      "overnight_stays_total": 6588,
+      "conference": 167,
+      "business": 847,
+      "leisure": 5574
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-07",
+      "overnight_stays_total": 9866,
+      "conference": 11,
+      "business": 647,
+      "leisure": 9208
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-08",
+      "overnight_stays_total": 7775,
+      "conference": 140,
+      "business": 895,
+      "leisure": 6740
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-09",
+      "overnight_stays_total": 5452,
+      "conference": 682,
+      "business": 1340,
+      "leisure": 3430
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-10",
+      "overnight_stays_total": 3142,
+      "conference": 114,
+      "business": 1288,
+      "leisure": 1740
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-11",
+      "overnight_stays_total": 1542,
+      "conference": 166,
+      "business": 739,
+      "leisure": 637
+    },
+    {
+      "region": "Setesdal",
+      "month": "2025-12",
+      "overnight_stays_total": 2136,
+      "conference": 27,
+      "business": 398,
+      "leisure": 1711
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-01",
+      "overnight_stays_total": 93655,
+      "conference": 7462,
+      "business": 57212,
+      "leisure": 28981
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-02",
+      "overnight_stays_total": 98148,
+      "conference": 12766,
+      "business": 53596,
+      "leisure": 31786
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-03",
+      "overnight_stays_total": 113118,
+      "conference": 10677,
+      "business": 62075,
+      "leisure": 40366
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-04",
+      "overnight_stays_total": 96548,
+      "conference": 9487,
+      "business": 46365,
+      "leisure": 40696
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-05",
+      "overnight_stays_total": 149542,
+      "conference": 13781,
+      "business": 67637,
+      "leisure": 68124
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-06",
+      "overnight_stays_total": 156378,
+      "conference": 14684,
+      "business": 66987,
+      "leisure": 74707
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-07",
+      "overnight_stays_total": 174186,
+      "conference": 2434,
+      "business": 39434,
+      "leisure": 132318
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-08",
+      "overnight_stays_total": 170277,
+      "conference": 8009,
+      "business": 62527,
+      "leisure": 99741
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-09",
+      "overnight_stays_total": 137395,
+      "conference": 14352,
+      "business": 70394,
+      "leisure": 52649
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-10",
+      "overnight_stays_total": 125871,
+      "conference": 12844,
+      "business": 68157,
+      "leisure": 44870
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-11",
+      "overnight_stays_total": 122049,
+      "conference": 10725,
+      "business": 70552,
+      "leisure": 40772
+    },
+    {
+      "region": "Stavangerregion",
+      "month": "2025-12",
+      "overnight_stays_total": 79973,
+      "conference": 3292,
+      "business": 46590,
+      "leisure": 30091
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-01",
+      "overnight_stays_total": 19985,
+      "conference": 416,
+      "business": 12890,
+      "leisure": 6679
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-02",
+      "overnight_stays_total": 19815,
+      "conference": 780,
+      "business": 13422,
+      "leisure": 5613
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-03",
+      "overnight_stays_total": 25148,
+      "conference": 1849,
+      "business": 17196,
+      "leisure": 6103
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-04",
+      "overnight_stays_total": 22137,
+      "conference": 1076,
+      "business": 15003,
+      "leisure": 6058
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-05",
+      "overnight_stays_total": 25051,
+      "conference": 3259,
+      "business": 13338,
+      "leisure": 8454
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-06",
+      "overnight_stays_total": 22148,
+      "conference": 899,
+      "business": 12200,
+      "leisure": 9049
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-07",
+      "overnight_stays_total": 24781,
+      "conference": 3594,
+      "business": 9915,
+      "leisure": 11272
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-08",
+      "overnight_stays_total": 22918,
+      "conference": 2275,
+      "business": 9718,
+      "leisure": 10925
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-09",
+      "overnight_stays_total": 22566,
+      "conference": 2765,
+      "business": 10705,
+      "leisure": 9096
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-10",
+      "overnight_stays_total": 19681,
+      "conference": 1116,
+      "business": 11004,
+      "leisure": 7561
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-11",
+      "overnight_stays_total": 19211,
+      "conference": 1054,
+      "business": 9903,
+      "leisure": 8254
+    },
+    {
+      "region": "Haugesund/Haugeland",
+      "month": "2025-12",
+      "overnight_stays_total": 13976,
+      "conference": 279,
+      "business": 6679,
+      "leisure": 7018
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-01",
+      "overnight_stays_total": 2667,
+      "conference": 228,
+      "business": 1843,
+      "leisure": 596
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-02",
+      "overnight_stays_total": 3191,
+      "conference": 45,
+      "business": 2350,
+      "leisure": 796
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-03",
+      "overnight_stays_total": 3620,
+      "conference": 159,
+      "business": 2414,
+      "leisure": 1047
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-04",
+      "overnight_stays_total": 3184,
+      "conference": 250,
+      "business": 1781,
+      "leisure": 1153
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-05",
+      "overnight_stays_total": 4715,
+      "conference": 211,
+      "business": 2103,
+      "leisure": 2401
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-06",
+      "overnight_stays_total": 6129,
+      "conference": 158,
+      "business": 2032,
+      "leisure": 3939
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-07",
+      "overnight_stays_total": 8334,
+      "conference": 12,
+      "business": 1066,
+      "leisure": 7256
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-08",
+      "overnight_stays_total": 8457,
+      "conference": 65,
+      "business": 1487,
+      "leisure": 6905
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-09",
+      "overnight_stays_total": 5836,
+      "conference": 254,
+      "business": 2011,
+      "leisure": 3571
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-10",
+      "overnight_stays_total": 3976,
+      "conference": 202,
+      "business": 1343,
+      "leisure": 2431
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-11",
+      "overnight_stays_total": 2666,
+      "conference": 100,
+      "business": 1648,
+      "leisure": 918
+    },
+    {
+      "region": "Ryfylke",
+      "month": "2025-12",
+      "overnight_stays_total": 1707,
+      "conference": 75,
+      "business": 1123,
+      "leisure": 509
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-01",
+      "overnight_stays_total": 139328,
+      "conference": 11514,
+      "business": 47640,
+      "leisure": 80174
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-02",
+      "overnight_stays_total": 159044,
+      "conference": 9512,
+      "business": 51285,
+      "leisure": 98247
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-03",
+      "overnight_stays_total": 183229,
+      "conference": 17393,
+      "business": 61810,
+      "leisure": 104026
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-04",
+      "overnight_stays_total": 196504,
+      "conference": 17038,
+      "business": 58872,
+      "leisure": 120594
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-05",
+      "overnight_stays_total": 265535,
+      "conference": 23874,
+      "business": 75984,
+      "leisure": 165677
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-06",
+      "overnight_stays_total": 304015,
+      "conference": 21975,
+      "business": 77381,
+      "leisure": 204659
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-07",
+      "overnight_stays_total": 371120,
+      "conference": 12702,
+      "business": 54593,
+      "leisure": 303825
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-08",
+      "overnight_stays_total": 384780,
+      "conference": 17958,
+      "business": 73101,
+      "leisure": 293721
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-09",
+      "overnight_stays_total": 277080,
+      "conference": 22862,
+      "business": 78755,
+      "leisure": 175463
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-10",
+      "overnight_stays_total": 236124,
+      "conference": 21180,
+      "business": 72504,
+      "leisure": 142440
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-11",
+      "overnight_stays_total": 196380,
+      "conference": 19982,
+      "business": 67646,
+      "leisure": 108752
+    },
+    {
+      "region": "Bergensregion",
+      "month": "2025-12",
+      "overnight_stays_total": 168806,
+      "conference": 9668,
+      "business": 48397,
+      "leisure": 110741
+    },
+    {
+      "region": "Fjordkysten",
+      "month": "2025-01",
+      "overnight_stays_total": 6327,
+      "conference": 1,
+      "business": 5190,
+      "leisure": 1136
+    },
+    {
+      "region": "Fjordkysten",
+      "month": "2025-02",
+      "overnight_stays_total": 5230,
+      "conference": 19,
+      "business": 4212,
+      "leisure": 999
+    },
+    {
+      "region": "Fjordkysten",
+      "month": "2025-03",
+      "overnight_stays_total": 6110,
+      "conference": 1034,
+      "business": 3785,
+      "leisure": 1291
+    },
+    {
+      "region": "Fjordkysten",
+      "month": "2025-04",
+      "overnight_stays_total": 5345,
+      "conference": 210,
+      "business": 3781,
+      "leisure": 1354
+    },
+    {
+      "region": "Fjordkysten",
+      "month": "2025-05",
+      "overnight_stays_total": 7318,
+      "conference": 598,
+      "business": 4356,
+      "leisure": 2364
+    },
+    {
+      "region": "Fjordkysten",
+      "month": "2025-06",
+      "overnight_stays_total": 8774,
+      "conference": 514,
+      "business": 4474,
+      "leisure": 3786
+    },
+    {
+      "region": "Fjordkysten",
+      "month": "2025-11",
+      "overnight_stays_total": 6011,
+      "conference": 118,
+      "business": 4566,
+      "leisure": 1327
+    },
+    {
+      "region": "Fjordkysten",
+      "month": "2025-12",
+      "overnight_stays_total": 4662,
+      "conference": 139,
+      "business": 3549,
+      "leisure": 974
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-01",
+      "overnight_stays_total": 6400,
+      "conference": 481,
+      "business": 4821,
+      "leisure": 1098
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-02",
+      "overnight_stays_total": 6765,
+      "conference": 636,
+      "business": 3896,
+      "leisure": 2233
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-03",
+      "overnight_stays_total": 8443,
+      "conference": 826,
+      "business": 5211,
+      "leisure": 2406
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-04",
+      "overnight_stays_total": 7428,
+      "conference": 857,
+      "business": 4287,
+      "leisure": 2284
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-05",
+      "overnight_stays_total": 12199,
+      "conference": 1176,
+      "business": 5512,
+      "leisure": 5511
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-06",
+      "overnight_stays_total": 14587,
+      "conference": 1229,
+      "business": 6685,
+      "leisure": 6673
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-07",
+      "overnight_stays_total": 11198,
+      "conference": 84,
+      "business": 2394,
+      "leisure": 8720
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-08",
+      "overnight_stays_total": 13090,
+      "conference": 1010,
+      "business": 5217,
+      "leisure": 6863
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-09",
+      "overnight_stays_total": 10471,
+      "conference": 964,
+      "business": 5610,
+      "leisure": 3897
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-10",
+      "overnight_stays_total": 9185,
+      "conference": 876,
+      "business": 5822,
+      "leisure": 2487
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-11",
+      "overnight_stays_total": 9649,
+      "conference": 939,
+      "business": 5846,
+      "leisure": 2864
+    },
+    {
+      "region": "Sunnhordland",
+      "month": "2025-12",
+      "overnight_stays_total": 6312,
+      "conference": 733,
+      "business": 4079,
+      "leisure": 1500
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-01",
+      "overnight_stays_total": 4515,
+      "conference": 197,
+      "business": 2765,
+      "leisure": 1553
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-02",
+      "overnight_stays_total": 6798,
+      "conference": 584,
+      "business": 3033,
+      "leisure": 3181
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-03",
+      "overnight_stays_total": 11978,
+      "conference": 1539,
+      "business": 3850,
+      "leisure": 6589
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-04",
+      "overnight_stays_total": 15681,
+      "conference": 1034,
+      "business": 3862,
+      "leisure": 10785
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-05",
+      "overnight_stays_total": 28341,
+      "conference": 2038,
+      "business": 4501,
+      "leisure": 21802
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-06",
+      "overnight_stays_total": 38220,
+      "conference": 752,
+      "business": 3029,
+      "leisure": 34439
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-07",
+      "overnight_stays_total": 52696,
+      "conference": 345,
+      "business": 2447,
+      "leisure": 49904
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-08",
+      "overnight_stays_total": 49411,
+      "conference": 445,
+      "business": 3595,
+      "leisure": 45371
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-09",
+      "overnight_stays_total": 28881,
+      "conference": 1511,
+      "business": 4463,
+      "leisure": 22907
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-10",
+      "overnight_stays_total": 15496,
+      "conference": 584,
+      "business": 3495,
+      "leisure": 11417
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-11",
+      "overnight_stays_total": 10059,
+      "conference": 731,
+      "business": 3194,
+      "leisure": 6134
+    },
+    {
+      "region": "Hardangerfjord",
+      "month": "2025-12",
+      "overnight_stays_total": 3846,
+      "conference": 33,
+      "business": 1565,
+      "leisure": 2248
+    },
+    {
+      "region": "Voss",
+      "month": "2025-01",
+      "overnight_stays_total": 15610,
+      "conference": 1391,
+      "business": 1259,
+      "leisure": 12960
+    },
+    {
+      "region": "Voss",
+      "month": "2025-02",
+      "overnight_stays_total": 24251,
+      "conference": 812,
+      "business": 1436,
+      "leisure": 22003
+    },
+    {
+      "region": "Voss",
+      "month": "2025-03",
+      "overnight_stays_total": 19638,
+      "conference": 2876,
+      "business": 2721,
+      "leisure": 14041
+    },
+    {
+      "region": "Voss",
+      "month": "2025-04",
+      "overnight_stays_total": 19283,
+      "conference": 577,
+      "business": 1226,
+      "leisure": 17480
+    },
+    {
+      "region": "Voss",
+      "month": "2025-05",
+      "overnight_stays_total": 20826,
+      "conference": 1014,
+      "business": 1365,
+      "leisure": 18447
+    },
+    {
+      "region": "Voss",
+      "month": "2025-06",
+      "overnight_stays_total": 34981,
+      "conference": 424,
+      "business": 1408,
+      "leisure": 33149
+    },
+    {
+      "region": "Voss",
+      "month": "2025-07",
+      "overnight_stays_total": 45344,
+      "conference": 175,
+      "business": 706,
+      "leisure": 44463
+    },
+    {
+      "region": "Voss",
+      "month": "2025-08",
+      "overnight_stays_total": 43846,
+      "conference": 1209,
+      "business": 6615,
+      "leisure": 36022
+    },
+    {
+      "region": "Voss",
+      "month": "2025-09",
+      "overnight_stays_total": 26478,
+      "conference": 2507,
+      "business": 1531,
+      "leisure": 22440
+    },
+    {
+      "region": "Voss",
+      "month": "2025-10",
+      "overnight_stays_total": 14566,
+      "conference": 910,
+      "business": 1327,
+      "leisure": 12329
+    },
+    {
+      "region": "Voss",
+      "month": "2025-11",
+      "overnight_stays_total": 9533,
+      "conference": 1551,
+      "business": 1415,
+      "leisure": 6567
+    },
+    {
+      "region": "Voss",
+      "month": "2025-12",
+      "overnight_stays_total": 13330,
+      "conference": 777,
+      "business": 800,
+      "leisure": 11753
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-01",
+      "overnight_stays_total": 8087,
+      "conference": 139,
+      "business": 2772,
+      "leisure": 5176
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-02",
+      "overnight_stays_total": 10074,
+      "conference": 571,
+      "business": 3870,
+      "leisure": 5633
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-03",
+      "overnight_stays_total": 13727,
+      "conference": 885,
+      "business": 5267,
+      "leisure": 7575
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-04",
+      "overnight_stays_total": 18835,
+      "conference": 1676,
+      "business": 4669,
+      "leisure": 12490
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-05",
+      "overnight_stays_total": 40426,
+      "conference": 906,
+      "business": 7441,
+      "leisure": 32079
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-06",
+      "overnight_stays_total": 63647,
+      "conference": 926,
+      "business": 7570,
+      "leisure": 55151
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-07",
+      "overnight_stays_total": 81364,
+      "conference": 391,
+      "business": 6551,
+      "leisure": 74422
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-08",
+      "overnight_stays_total": 76017,
+      "conference": 736,
+      "business": 7525,
+      "leisure": 67756
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-09",
+      "overnight_stays_total": 47192,
+      "conference": 1680,
+      "business": 9392,
+      "leisure": 36120
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-10",
+      "overnight_stays_total": 21002,
+      "conference": 2539,
+      "business": 5627,
+      "leisure": 12836
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-11",
+      "overnight_stays_total": 10521,
+      "conference": 190,
+      "business": 5439,
+      "leisure": 4892
+    },
+    {
+      "region": "Sognefjord",
+      "month": "2025-12",
+      "overnight_stays_total": 9418,
+      "conference": 288,
+      "business": 2999,
+      "leisure": 6131
+    },
+    {
+      "region": "Sunnfjord",
+      "month": "2025-01",
+      "overnight_stays_total": 5163,
+      "conference": 258,
+      "business": 3859,
+      "leisure": 1046
+    },
+    {
+      "region": "Sunnfjord",
+      "month": "2025-02",
+      "overnight_stays_total": 6849,
+      "conference": 552,
+      "business": 4866,
+      "leisure": 1431
+    },
+    {
+      "region": "Sunnfjord",
+      "month": "2025-03",
+      "overnight_stays_total": 9674,
+      "conference": 831,
+      "business": 6059,
+      "leisure": 2784
+    },
+    {
+      "region": "Sunnfjord",
+      "month": "2025-04",
+      "overnight_stays_total": 8787,
+      "conference": 1086,
+      "business": 4879,
+      "leisure": 2822
+    },
+    {
+      "region": "Sunnfjord",
+      "month": "2025-05",
+      "overnight_stays_total": 10107,
+      "conference": 634,
+      "business": 6332,
+      "leisure": 3141
+    },
+    {
+      "region": "Sunnfjord",
+      "month": "2025-06",
+      "overnight_stays_total": 14357,
+      "conference": 892,
+      "business": 4151,
+      "leisure": 9314
+    },
+    {
+      "region": "Sunnfjord",
+      "month": "2025-11",
+      "overnight_stays_total": 8478,
+      "conference": 613,
+      "business": 2384,
+      "leisure": 5481
+    },
+    {
+      "region": "Sunnfjord",
+      "month": "2025-12",
+      "overnight_stays_total": 4626,
+      "conference": 96,
+      "business": 1370,
+      "leisure": 3160
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-01",
+      "overnight_stays_total": 4958,
+      "conference": 300,
+      "business": 1716,
+      "leisure": 2942
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-02",
+      "overnight_stays_total": 8959,
+      "conference": 311,
+      "business": 1551,
+      "leisure": 7097
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-03",
+      "overnight_stays_total": 8950,
+      "conference": 3223,
+      "business": 1862,
+      "leisure": 3865
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-04",
+      "overnight_stays_total": 11729,
+      "conference": 2591,
+      "business": 2259,
+      "leisure": 6879
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-05",
+      "overnight_stays_total": 19997,
+      "conference": 1285,
+      "business": 1571,
+      "leisure": 17141
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-06",
+      "overnight_stays_total": 31444,
+      "conference": 2185,
+      "business": 1643,
+      "leisure": 27616
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-07",
+      "overnight_stays_total": 44711,
+      "conference": 63,
+      "business": 1464,
+      "leisure": 43184
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-08",
+      "overnight_stays_total": 35445,
+      "conference": 842,
+      "business": 1384,
+      "leisure": 33219
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-09",
+      "overnight_stays_total": 23683,
+      "conference": 4302,
+      "business": 1516,
+      "leisure": 17865
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-10",
+      "overnight_stays_total": 12194,
+      "conference": 2207,
+      "business": 2657,
+      "leisure": 7330
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-11",
+      "overnight_stays_total": 9136,
+      "conference": 3098,
+      "business": 2004,
+      "leisure": 4034
+    },
+    {
+      "region": "Nordfjord",
+      "month": "2025-12",
+      "overnight_stays_total": 7589,
+      "conference": 1020,
+      "business": 1340,
+      "leisure": 5229
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-01",
+      "overnight_stays_total": 24618,
+      "conference": 2943,
+      "business": 14339,
+      "leisure": 7336
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-02",
+      "overnight_stays_total": 22076,
+      "conference": 1738,
+      "business": 12255,
+      "leisure": 8083
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-03",
+      "overnight_stays_total": 28330,
+      "conference": 3606,
+      "business": 14009,
+      "leisure": 10715
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-04",
+      "overnight_stays_total": 25783,
+      "conference": 3464,
+      "business": 12827,
+      "leisure": 9492
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-05",
+      "overnight_stays_total": 32407,
+      "conference": 1683,
+      "business": 17236,
+      "leisure": 13488
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-06",
+      "overnight_stays_total": 44613,
+      "conference": 2021,
+      "business": 18244,
+      "leisure": 24348
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-07",
+      "overnight_stays_total": 60778,
+      "conference": 273,
+      "business": 15408,
+      "leisure": 45097
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-08",
+      "overnight_stays_total": 51038,
+      "conference": 1257,
+      "business": 17124,
+      "leisure": 32657
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-09",
+      "overnight_stays_total": 38353,
+      "conference": 1772,
+      "business": 17923,
+      "leisure": 18658
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-10",
+      "overnight_stays_total": 29184,
+      "conference": 3823,
+      "business": 15617,
+      "leisure": 9744
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-11",
+      "overnight_stays_total": 28067,
+      "conference": 5183,
+      "business": 14506,
+      "leisure": 8378
+    },
+    {
+      "region": "Nordmøre/Romsdal",
+      "month": "2025-12",
+      "overnight_stays_total": 15720,
+      "conference": 1513,
+      "business": 8171,
+      "leisure": 6036
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-01",
+      "overnight_stays_total": 25681,
+      "conference": 2885,
+      "business": 12102,
+      "leisure": 10694
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-02",
+      "overnight_stays_total": 32317,
+      "conference": 3235,
+      "business": 14252,
+      "leisure": 14830
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-03",
+      "overnight_stays_total": 38706,
+      "conference": 3741,
+      "business": 18375,
+      "leisure": 16590
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-04",
+      "overnight_stays_total": 39640,
+      "conference": 2966,
+      "business": 16133,
+      "leisure": 20541
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-05",
+      "overnight_stays_total": 64483,
+      "conference": 4640,
+      "business": 19659,
+      "leisure": 40184
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-06",
+      "overnight_stays_total": 85096,
+      "conference": 1944,
+      "business": 18321,
+      "leisure": 64831
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-07",
+      "overnight_stays_total": 108636,
+      "conference": 340,
+      "business": 13607,
+      "leisure": 94689
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-08",
+      "overnight_stays_total": 98942,
+      "conference": 2008,
+      "business": 18660,
+      "leisure": 78274
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-09",
+      "overnight_stays_total": 68851,
+      "conference": 4302,
+      "business": 21837,
+      "leisure": 42712
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-10",
+      "overnight_stays_total": 48804,
+      "conference": 4135,
+      "business": 19700,
+      "leisure": 24969
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-11",
+      "overnight_stays_total": 40079,
+      "conference": 5944,
+      "business": 15954,
+      "leisure": 18181
+    },
+    {
+      "region": "Ålesund/Sunnmøre",
+      "month": "2025-12",
+      "overnight_stays_total": 28967,
+      "conference": 2285,
+      "business": 12195,
+      "leisure": 14487
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-01",
+      "overnight_stays_total": 101010,
+      "conference": 13446,
+      "business": 35212,
+      "leisure": 52352
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-02",
+      "overnight_stays_total": 114357,
+      "conference": 18283,
+      "business": 37262,
+      "leisure": 58812
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-03",
+      "overnight_stays_total": 146429,
+      "conference": 31239,
+      "business": 51591,
+      "leisure": 63599
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-04",
+      "overnight_stays_total": 108840,
+      "conference": 19015,
+      "business": 38919,
+      "leisure": 50906
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-05",
+      "overnight_stays_total": 143610,
+      "conference": 11861,
+      "business": 48955,
+      "leisure": 82794
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-06",
+      "overnight_stays_total": 167577,
+      "conference": 13131,
+      "business": 51683,
+      "leisure": 102763
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-07",
+      "overnight_stays_total": 187505,
+      "conference": 1937,
+      "business": 29314,
+      "leisure": 156254
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-08",
+      "overnight_stays_total": 173007,
+      "conference": 13597,
+      "business": 49466,
+      "leisure": 109944
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-09",
+      "overnight_stays_total": 149777,
+      "conference": 18010,
+      "business": 51876,
+      "leisure": 79891
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-10",
+      "overnight_stays_total": 140480,
+      "conference": 15310,
+      "business": 48570,
+      "leisure": 76600
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-11",
+      "overnight_stays_total": 127144,
+      "conference": 18218,
+      "business": 47651,
+      "leisure": 61275
+    },
+    {
+      "region": "Trondheim",
+      "month": "2025-12",
+      "overnight_stays_total": 94782,
+      "conference": 6868,
+      "business": 29598,
+      "leisure": 58316
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-01",
+      "overnight_stays_total": 9173,
+      "conference": 1994,
+      "business": 5646,
+      "leisure": 1533
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-02",
+      "overnight_stays_total": 10621,
+      "conference": 2626,
+      "business": 5446,
+      "leisure": 2549
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-03",
+      "overnight_stays_total": 12469,
+      "conference": 2773,
+      "business": 6460,
+      "leisure": 3236
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-04",
+      "overnight_stays_total": 11617,
+      "conference": 1960,
+      "business": 5989,
+      "leisure": 3668
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-05",
+      "overnight_stays_total": 13947,
+      "conference": 3104,
+      "business": 6858,
+      "leisure": 3985
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-06",
+      "overnight_stays_total": 16584,
+      "conference": 1709,
+      "business": 7175,
+      "leisure": 7700
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-07",
+      "overnight_stays_total": 20134,
+      "conference": 1104,
+      "business": 4616,
+      "leisure": 14414
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-08",
+      "overnight_stays_total": 16224,
+      "conference": 1099,
+      "business": 5117,
+      "leisure": 10008
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-09",
+      "overnight_stays_total": 11654,
+      "conference": 2120,
+      "business": 5522,
+      "leisure": 4012
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-10",
+      "overnight_stays_total": 9700,
+      "conference": 1295,
+      "business": 5296,
+      "leisure": 3109
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-11",
+      "overnight_stays_total": 9654,
+      "conference": 1247,
+      "business": 5525,
+      "leisure": 2882
+    },
+    {
+      "region": "Innherred",
+      "month": "2025-12",
+      "overnight_stays_total": 5125,
+      "conference": 470,
+      "business": 2734,
+      "leisure": 1921
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-01",
+      "overnight_stays_total": 4087,
+      "conference": 266,
+      "business": 2367,
+      "leisure": 1454
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-02",
+      "overnight_stays_total": 5245,
+      "conference": 354,
+      "business": 2562,
+      "leisure": 2329
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-03",
+      "overnight_stays_total": 5879,
+      "conference": 568,
+      "business": 3000,
+      "leisure": 2311
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-04",
+      "overnight_stays_total": 4980,
+      "conference": 397,
+      "business": 2116,
+      "leisure": 2467
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-05",
+      "overnight_stays_total": 7507,
+      "conference": 564,
+      "business": 3413,
+      "leisure": 3530
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-06",
+      "overnight_stays_total": 12621,
+      "conference": 432,
+      "business": 4419,
+      "leisure": 7770
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-07",
+      "overnight_stays_total": 12733,
+      "conference": 121,
+      "business": 1989,
+      "leisure": 10623
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-08",
+      "overnight_stays_total": 10254,
+      "conference": 481,
+      "business": 2521,
+      "leisure": 7252
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-09",
+      "overnight_stays_total": 8428,
+      "conference": 593,
+      "business": 3461,
+      "leisure": 4374
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-10",
+      "overnight_stays_total": 6183,
+      "conference": 246,
+      "business": 3920,
+      "leisure": 2017
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-11",
+      "overnight_stays_total": 4980,
+      "conference": 322,
+      "business": 3151,
+      "leisure": 1507
+    },
+    {
+      "region": "Namdalen",
+      "month": "2025-12",
+      "overnight_stays_total": 3283,
+      "conference": 143,
+      "business": 1210,
+      "leisure": 1930
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-01",
+      "overnight_stays_total": 2853,
+      "conference": 422,
+      "business": 1530,
+      "leisure": 901
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-02",
+      "overnight_stays_total": 2859,
+      "conference": 383,
+      "business": 1518,
+      "leisure": 958
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-03",
+      "overnight_stays_total": 3528,
+      "conference": 494,
+      "business": 1794,
+      "leisure": 1240
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-04",
+      "overnight_stays_total": 2969,
+      "conference": 474,
+      "business": 1511,
+      "leisure": 984
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-05",
+      "overnight_stays_total": 3887,
+      "conference": 462,
+      "business": 1962,
+      "leisure": 1463
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-06",
+      "overnight_stays_total": 4170,
+      "conference": 657,
+      "business": 1858,
+      "leisure": 1655
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-07",
+      "overnight_stays_total": 5415,
+      "conference": 392,
+      "business": 2919,
+      "leisure": 2104
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-08",
+      "overnight_stays_total": 6925,
+      "conference": 533,
+      "business": 3703,
+      "leisure": 2689
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-09",
+      "overnight_stays_total": 5794,
+      "conference": 591,
+      "business": 3093,
+      "leisure": 2110
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-10",
+      "overnight_stays_total": 5136,
+      "conference": 506,
+      "business": 2993,
+      "leisure": 1637
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-11",
+      "overnight_stays_total": 4672,
+      "conference": 494,
+      "business": 2705,
+      "leisure": 1473
+    },
+    {
+      "region": "Fosenregion",
+      "month": "2025-12",
+      "overnight_stays_total": 2481,
+      "conference": 411,
+      "business": 1103,
+      "leisure": 967
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-01",
+      "overnight_stays_total": 5823,
+      "conference": 2558,
+      "business": 1140,
+      "leisure": 2125
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-02",
+      "overnight_stays_total": 7447,
+      "conference": 2204,
+      "business": 1557,
+      "leisure": 3686
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-03",
+      "overnight_stays_total": 9238,
+      "conference": 4109,
+      "business": 1622,
+      "leisure": 3507
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-04",
+      "overnight_stays_total": 6551,
+      "conference": 961,
+      "business": 882,
+      "leisure": 4708
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-05",
+      "overnight_stays_total": 5560,
+      "conference": 378,
+      "business": 1447,
+      "leisure": 3735
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-06",
+      "overnight_stays_total": 10152,
+      "conference": 850,
+      "business": 2565,
+      "leisure": 6737
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-07",
+      "overnight_stays_total": 15940,
+      "conference": 79,
+      "business": 2329,
+      "leisure": 13532
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-08",
+      "overnight_stays_total": 13601,
+      "conference": 1396,
+      "business": 1107,
+      "leisure": 11098
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-09",
+      "overnight_stays_total": 10295,
+      "conference": 2352,
+      "business": 1595,
+      "leisure": 6348
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-10",
+      "overnight_stays_total": 7096,
+      "conference": 2093,
+      "business": 1887,
+      "leisure": 3116
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-11",
+      "overnight_stays_total": 4924,
+      "conference": 1261,
+      "business": 1438,
+      "leisure": 2225
+    },
+    {
+      "region": "Oppdal",
+      "month": "2025-12",
+      "overnight_stays_total": 3756,
+      "conference": 724,
+      "business": 475,
+      "leisure": 2557
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-01",
+      "overnight_stays_total": 5949,
+      "conference": 906,
+      "business": 1081,
+      "leisure": 3962
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-02",
+      "overnight_stays_total": 9720,
+      "conference": 1172,
+      "business": 866,
+      "leisure": 7682
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-03",
+      "overnight_stays_total": 7019,
+      "conference": 596,
+      "business": 1006,
+      "leisure": 5417
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-06",
+      "overnight_stays_total": 9978,
+      "conference": 641,
+      "business": 282,
+      "leisure": 9055
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-07",
+      "overnight_stays_total": 19421,
+      "conference": 8,
+      "business": 475,
+      "leisure": 18938
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-08",
+      "overnight_stays_total": 14637,
+      "conference": 50,
+      "business": 601,
+      "leisure": 13986
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-09",
+      "overnight_stays_total": 11388,
+      "conference": 681,
+      "business": 365,
+      "leisure": 10342
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-10",
+      "overnight_stays_total": 8189,
+      "conference": 859,
+      "business": 1487,
+      "leisure": 5843
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-11",
+      "overnight_stays_total": 7458,
+      "conference": 934,
+      "business": 1754,
+      "leisure": 4770
+    },
+    {
+      "region": "Rørosregion",
+      "month": "2025-12",
+      "overnight_stays_total": 9918,
+      "conference": 984,
+      "business": 692,
+      "leisure": 8242
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-03",
+      "overnight_stays_total": 3270,
+      "conference": 392,
+      "business": 799,
+      "leisure": 2079
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-04",
+      "overnight_stays_total": 1919,
+      "conference": 98,
+      "business": 862,
+      "leisure": 959
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-05",
+      "overnight_stays_total": 3551,
+      "conference": 191,
+      "business": 1868,
+      "leisure": 1492
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-06",
+      "overnight_stays_total": 4437,
+      "conference": 200,
+      "business": 1907,
+      "leisure": 2330
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-07",
+      "overnight_stays_total": 2848,
+      "conference": 10,
+      "business": 668,
+      "leisure": 2170
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-08",
+      "overnight_stays_total": 3657,
+      "conference": 162,
+      "business": 808,
+      "leisure": 2687
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-09",
+      "overnight_stays_total": 3708,
+      "conference": 440,
+      "business": 1164,
+      "leisure": 2104
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-10",
+      "overnight_stays_total": 2301,
+      "conference": 288,
+      "business": 700,
+      "leisure": 1313
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-11",
+      "overnight_stays_total": 2597,
+      "conference": 385,
+      "business": 721,
+      "leisure": 1491
+    },
+    {
+      "region": "Orkdalsområdet",
+      "month": "2025-12",
+      "overnight_stays_total": 1299,
+      "conference": 130,
+      "business": 346,
+      "leisure": 823
+    },
+    {
+      "region": "Værnesregion",
+      "month": "2025-01",
+      "overnight_stays_total": 869,
+      "conference": 210,
+      "business": 602,
+      "leisure": 57
+    },
+    {
+      "region": "Værnesregion",
+      "month": "2025-02",
+      "overnight_stays_total": 980,
+      "conference": 277,
+      "business": 546,
+      "leisure": 157
+    },
+    {
+      "region": "Værnesregion",
+      "month": "2025-04",
+      "overnight_stays_total": 1152,
+      "conference": 353,
+      "business": 260,
+      "leisure": 539
+    },
+    {
+      "region": "Værnesregion",
+      "month": "2025-05",
+      "overnight_stays_total": 1099,
+      "conference": 372,
+      "business": 638,
+      "leisure": 89
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-01",
+      "overnight_stays_total": 27313,
+      "conference": 3504,
+      "business": 10356,
+      "leisure": 13453
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-02",
+      "overnight_stays_total": 32928,
+      "conference": 4773,
+      "business": 13017,
+      "leisure": 15138
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-03",
+      "overnight_stays_total": 36471,
+      "conference": 5216,
+      "business": 14570,
+      "leisure": 16685
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-04",
+      "overnight_stays_total": 30006,
+      "conference": 5891,
+      "business": 11452,
+      "leisure": 12663
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-05",
+      "overnight_stays_total": 41106,
+      "conference": 4471,
+      "business": 13536,
+      "leisure": 23099
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-06",
+      "overnight_stays_total": 56237,
+      "conference": 4910,
+      "business": 16444,
+      "leisure": 34883
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-07",
+      "overnight_stays_total": 66504,
+      "conference": 1813,
+      "business": 15641,
+      "leisure": 49050
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-08",
+      "overnight_stays_total": 60811,
+      "conference": 5253,
+      "business": 21580,
+      "leisure": 33978
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-09",
+      "overnight_stays_total": 45300,
+      "conference": 6270,
+      "business": 20550,
+      "leisure": 18480
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-10",
+      "overnight_stays_total": 40980,
+      "conference": 5479,
+      "business": 13614,
+      "leisure": 21887
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-11",
+      "overnight_stays_total": 42682,
+      "conference": 5659,
+      "business": 21254,
+      "leisure": 15769
+    },
+    {
+      "region": "Bodø",
+      "month": "2025-12",
+      "overnight_stays_total": 29481,
+      "conference": 1922,
+      "business": 12143,
+      "leisure": 15416
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-01",
+      "overnight_stays_total": 22181,
+      "conference": 4229,
+      "business": 6073,
+      "leisure": 11879
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-02",
+      "overnight_stays_total": 29844,
+      "conference": 2521,
+      "business": 9377,
+      "leisure": 17946
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-03",
+      "overnight_stays_total": 31954,
+      "conference": 1226,
+      "business": 10694,
+      "leisure": 20034
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-04",
+      "overnight_stays_total": 22715,
+      "conference": 1277,
+      "business": 7616,
+      "leisure": 13822
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-05",
+      "overnight_stays_total": 30865,
+      "conference": 1768,
+      "business": 10668,
+      "leisure": 18429
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-06",
+      "overnight_stays_total": 48074,
+      "conference": 518,
+      "business": 12507,
+      "leisure": 35049
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-07",
+      "overnight_stays_total": 60183,
+      "conference": 52,
+      "business": 8194,
+      "leisure": 51937
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-08",
+      "overnight_stays_total": 53326,
+      "conference": 1349,
+      "business": 12469,
+      "leisure": 39508
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-09",
+      "overnight_stays_total": 35587,
+      "conference": 3639,
+      "business": 11588,
+      "leisure": 20360
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-10",
+      "overnight_stays_total": 29608,
+      "conference": 2338,
+      "business": 13598,
+      "leisure": 13672
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-11",
+      "overnight_stays_total": 26385,
+      "conference": 2523,
+      "business": 10148,
+      "leisure": 13714
+    },
+    {
+      "region": "Vesterålen/Narvik",
+      "month": "2025-12",
+      "overnight_stays_total": 25140,
+      "conference": 331,
+      "business": 6788,
+      "leisure": 18021
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-01",
+      "overnight_stays_total": 14011,
+      "conference": 1299,
+      "business": 7493,
+      "leisure": 5219
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-02",
+      "overnight_stays_total": 17157,
+      "conference": 3820,
+      "business": 6141,
+      "leisure": 7196
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-03",
+      "overnight_stays_total": 20003,
+      "conference": 1928,
+      "business": 11253,
+      "leisure": 6822
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-04",
+      "overnight_stays_total": 18495,
+      "conference": 1685,
+      "business": 10524,
+      "leisure": 6286
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-05",
+      "overnight_stays_total": 25349,
+      "conference": 2894,
+      "business": 9970,
+      "leisure": 12485
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-06",
+      "overnight_stays_total": 40254,
+      "conference": 2871,
+      "business": 10798,
+      "leisure": 26585
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-07",
+      "overnight_stays_total": 54417,
+      "conference": 375,
+      "business": 10281,
+      "leisure": 43761
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-08",
+      "overnight_stays_total": 40897,
+      "conference": 4112,
+      "business": 9172,
+      "leisure": 27613
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-09",
+      "overnight_stays_total": 25779,
+      "conference": 2535,
+      "business": 12211,
+      "leisure": 11033
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-10",
+      "overnight_stays_total": 21758,
+      "conference": 2109,
+      "business": 10957,
+      "leisure": 8692
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-11",
+      "overnight_stays_total": 20284,
+      "conference": 1280,
+      "business": 9230,
+      "leisure": 9774
+    },
+    {
+      "region": "Helgeland",
+      "month": "2025-12",
+      "overnight_stays_total": 13506,
+      "conference": 1271,
+      "business": 6390,
+      "leisure": 5845
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-01",
+      "overnight_stays_total": 4561,
+      "conference": 226,
+      "business": 2838,
+      "leisure": 1497
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-02",
+      "overnight_stays_total": 4606,
+      "conference": 415,
+      "business": 2783,
+      "leisure": 1408
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-03",
+      "overnight_stays_total": 5468,
+      "conference": 659,
+      "business": 2621,
+      "leisure": 2188
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-04",
+      "overnight_stays_total": 3730,
+      "conference": 239,
+      "business": 1679,
+      "leisure": 1812
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-05",
+      "overnight_stays_total": 6183,
+      "conference": 700,
+      "business": 2653,
+      "leisure": 2830
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-06",
+      "overnight_stays_total": 9699,
+      "conference": 559,
+      "business": 2684,
+      "leisure": 6456
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-07",
+      "overnight_stays_total": 11881,
+      "conference": 221,
+      "business": 1593,
+      "leisure": 10067
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-08",
+      "overnight_stays_total": 9771,
+      "conference": 781,
+      "business": 2420,
+      "leisure": 6570
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-09",
+      "overnight_stays_total": 7448,
+      "conference": 375,
+      "business": 2931,
+      "leisure": 4142
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-10",
+      "overnight_stays_total": 5622,
+      "conference": 535,
+      "business": 2840,
+      "leisure": 2247
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-11",
+      "overnight_stays_total": 4280,
+      "conference": 402,
+      "business": 2294,
+      "leisure": 1584
+    },
+    {
+      "region": "Salten-region",
+      "month": "2025-12",
+      "overnight_stays_total": 2598,
+      "conference": 214,
+      "business": 1461,
+      "leisure": 923
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-01",
+      "overnight_stays_total": 16704,
+      "conference": 427,
+      "business": 3754,
+      "leisure": 12523
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-02",
+      "overnight_stays_total": 26775,
+      "conference": 285,
+      "business": 3808,
+      "leisure": 22682
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-03",
+      "overnight_stays_total": 31088,
+      "conference": 937,
+      "business": 5535,
+      "leisure": 24616
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-04",
+      "overnight_stays_total": 16093,
+      "conference": 955,
+      "business": 2908,
+      "leisure": 12230
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-05",
+      "overnight_stays_total": 26989,
+      "conference": 2150,
+      "business": 5644,
+      "leisure": 19195
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-06",
+      "overnight_stays_total": 49381,
+      "conference": 945,
+      "business": 7918,
+      "leisure": 40518
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-07",
+      "overnight_stays_total": 66051,
+      "conference": 394,
+      "business": 6794,
+      "leisure": 58863
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-08",
+      "overnight_stays_total": 56909,
+      "conference": 261,
+      "business": 5899,
+      "leisure": 50749
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-09",
+      "overnight_stays_total": 34993,
+      "conference": 299,
+      "business": 8162,
+      "leisure": 26532
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-10",
+      "overnight_stays_total": 23783,
+      "conference": 399,
+      "business": 4599,
+      "leisure": 18785
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-11",
+      "overnight_stays_total": 17289,
+      "conference": 360,
+      "business": 3209,
+      "leisure": 13720
+    },
+    {
+      "region": "Lofoten",
+      "month": "2025-12",
+      "overnight_stays_total": 19483,
+      "conference": 424,
+      "business": 3019,
+      "leisure": 16040
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-01",
+      "overnight_stays_total": 102810,
+      "conference": 4862,
+      "business": 27131,
+      "leisure": 70817
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-02",
+      "overnight_stays_total": 100815,
+      "conference": 4486,
+      "business": 26106,
+      "leisure": 70223
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-03",
+      "overnight_stays_total": 98505,
+      "conference": 6928,
+      "business": 27101,
+      "leisure": 64476
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-04",
+      "overnight_stays_total": 51406,
+      "conference": 4777,
+      "business": 19290,
+      "leisure": 27339
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-05",
+      "overnight_stays_total": 50419,
+      "conference": 5248,
+      "business": 16350,
+      "leisure": 28821
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-06",
+      "overnight_stays_total": 75875,
+      "conference": 9325,
+      "business": 20763,
+      "leisure": 45787
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-07",
+      "overnight_stays_total": 80131,
+      "conference": 834,
+      "business": 7269,
+      "leisure": 72028
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-08",
+      "overnight_stays_total": 77750,
+      "conference": 4523,
+      "business": 15843,
+      "leisure": 57384
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-09",
+      "overnight_stays_total": 72309,
+      "conference": 9391,
+      "business": 19503,
+      "leisure": 43415
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-10",
+      "overnight_stays_total": 95026,
+      "conference": 9889,
+      "business": 22841,
+      "leisure": 62296
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-11",
+      "overnight_stays_total": 95236,
+      "conference": 5527,
+      "business": 28447,
+      "leisure": 61262
+    },
+    {
+      "region": "Tromsø",
+      "month": "2025-12",
+      "overnight_stays_total": 131526,
+      "conference": 2915,
+      "business": 30050,
+      "leisure": 98561
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-01",
+      "overnight_stays_total": 18932,
+      "conference": 427,
+      "business": 10180,
+      "leisure": 8325
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-02",
+      "overnight_stays_total": 23003,
+      "conference": 868,
+      "business": 8813,
+      "leisure": 13322
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-03",
+      "overnight_stays_total": 25944,
+      "conference": 518,
+      "business": 11020,
+      "leisure": 14406
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-04",
+      "overnight_stays_total": 16001,
+      "conference": 598,
+      "business": 7252,
+      "leisure": 8151
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-05",
+      "overnight_stays_total": 21739,
+      "conference": 563,
+      "business": 11462,
+      "leisure": 9714
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-06",
+      "overnight_stays_total": 34278,
+      "conference": 2226,
+      "business": 9115,
+      "leisure": 22937
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-07",
+      "overnight_stays_total": 37522,
+      "conference": 334,
+      "business": 4740,
+      "leisure": 32448
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-08",
+      "overnight_stays_total": 38120,
+      "conference": 1167,
+      "business": 10603,
+      "leisure": 26350
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-09",
+      "overnight_stays_total": 28453,
+      "conference": 760,
+      "business": 12688,
+      "leisure": 15005
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-10",
+      "overnight_stays_total": 24360,
+      "conference": 687,
+      "business": 10253,
+      "leisure": 13420
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-11",
+      "overnight_stays_total": 20850,
+      "conference": 1071,
+      "business": 10281,
+      "leisure": 9498
+    },
+    {
+      "region": "Sør-Troms/Senja-region",
+      "month": "2025-12",
+      "overnight_stays_total": 16870,
+      "conference": 466,
+      "business": 8207,
+      "leisure": 8197
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-01",
+      "overnight_stays_total": 7166,
+      "conference": 179,
+      "business": 739,
+      "leisure": 6248
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-02",
+      "overnight_stays_total": 7705,
+      "conference": 384,
+      "business": 863,
+      "leisure": 6458
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-03",
+      "overnight_stays_total": 8273,
+      "conference": 281,
+      "business": 823,
+      "leisure": 7169
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-04",
+      "overnight_stays_total": 4849,
+      "conference": 227,
+      "business": 644,
+      "leisure": 3978
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-05",
+      "overnight_stays_total": 3119,
+      "conference": 449,
+      "business": 368,
+      "leisure": 2302
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-06",
+      "overnight_stays_total": 7099,
+      "conference": 332,
+      "business": 704,
+      "leisure": 6063
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-07",
+      "overnight_stays_total": 8611,
+      "conference": 130,
+      "business": 239,
+      "leisure": 8242
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-08",
+      "overnight_stays_total": 7813,
+      "conference": 614,
+      "business": 658,
+      "leisure": 6541
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-09",
+      "overnight_stays_total": 5938,
+      "conference": 943,
+      "business": 513,
+      "leisure": 4482
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-10",
+      "overnight_stays_total": 4509,
+      "conference": 710,
+      "business": 1009,
+      "leisure": 2790
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-11",
+      "overnight_stays_total": 5219,
+      "conference": 331,
+      "business": 386,
+      "leisure": 4502
+    },
+    {
+      "region": "Nord-Troms-region",
+      "month": "2025-12",
+      "overnight_stays_total": 6494,
+      "conference": 397,
+      "business": 299,
+      "leisure": 5798
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-01",
+      "overnight_stays_total": 26033,
+      "conference": 724,
+      "business": 12259,
+      "leisure": 13050
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-02",
+      "overnight_stays_total": 31739,
+      "conference": 1694,
+      "business": 14927,
+      "leisure": 15118
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-03",
+      "overnight_stays_total": 36096,
+      "conference": 2348,
+      "business": 17190,
+      "leisure": 16558
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-04",
+      "overnight_stays_total": 27583,
+      "conference": 1177,
+      "business": 14005,
+      "leisure": 12401
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-05",
+      "overnight_stays_total": 33022,
+      "conference": 2622,
+      "business": 14327,
+      "leisure": 16073
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-06",
+      "overnight_stays_total": 52952,
+      "conference": 1334,
+      "business": 17119,
+      "leisure": 34499
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-07",
+      "overnight_stays_total": 59899,
+      "conference": 1442,
+      "business": 8293,
+      "leisure": 50164
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-08",
+      "overnight_stays_total": 51731,
+      "conference": 1834,
+      "business": 16442,
+      "leisure": 33455
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-09",
+      "overnight_stays_total": 35410,
+      "conference": 3620,
+      "business": 16310,
+      "leisure": 15480
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-10",
+      "overnight_stays_total": 28732,
+      "conference": 1825,
+      "business": 16335,
+      "leisure": 10572
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-11",
+      "overnight_stays_total": 27439,
+      "conference": 2499,
+      "business": 14468,
+      "leisure": 10472
+    },
+    {
+      "region": "Vest-/Indre-Finnmark",
+      "month": "2025-12",
+      "overnight_stays_total": 21940,
+      "conference": 420,
+      "business": 11563,
+      "leisure": 9957
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-01",
+      "overnight_stays_total": 11326,
+      "conference": 78,
+      "business": 3707,
+      "leisure": 7541
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-02",
+      "overnight_stays_total": 11452,
+      "conference": 310,
+      "business": 4089,
+      "leisure": 7053
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-03",
+      "overnight_stays_total": 11929,
+      "conference": 331,
+      "business": 4385,
+      "leisure": 7213
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-04",
+      "overnight_stays_total": 8217,
+      "conference": 770,
+      "business": 5060,
+      "leisure": 2387
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-05",
+      "overnight_stays_total": 9958,
+      "conference": 538,
+      "business": 3566,
+      "leisure": 5854
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-06",
+      "overnight_stays_total": 14895,
+      "conference": 830,
+      "business": 4927,
+      "leisure": 9138
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-07",
+      "overnight_stays_total": 16771,
+      "conference": 1,
+      "business": 3198,
+      "leisure": 13572
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-08",
+      "overnight_stays_total": 14411,
+      "conference": 271,
+      "business": 4879,
+      "leisure": 9261
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-09",
+      "overnight_stays_total": 12701,
+      "conference": 1115,
+      "business": 6389,
+      "leisure": 5197
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-10",
+      "overnight_stays_total": 9912,
+      "conference": 688,
+      "business": 5263,
+      "leisure": 3961
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-11",
+      "overnight_stays_total": 10168,
+      "conference": 380,
+      "business": 4158,
+      "leisure": 5630
+    },
+    {
+      "region": "Øst-Finnmark",
+      "month": "2025-12",
+      "overnight_stays_total": 11702,
+      "conference": 43,
+      "business": 3235,
+      "leisure": 8424
+    }
+  ],
+  "meta": {
+    "title": "Hotellovernattinger per region og formål (2025) - Free Download",
+    "description": "Antall overnattinger på hotell og lignende overnattingsbedrifter per fylke og reiselivsregion, per måned i 2025, fordelt på kurs/konferanse, yrke og ferie/fritid (SSB tabell 14175). Contains 902 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Hotellovernattinger per region og formål (2025) | ListBase",
+    "seo_description": "Download Hotellovernattinger per region og formål (2025) — 902 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 902 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/14175"
+    ]
+  }
+}

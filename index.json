@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-13T02:33:33.306Z",
-  "total_datasets": 491,
-  "total_records": 1205810,
+  "generated": "2026-11-13T02:34:36.591Z",
+  "total_datasets": 492,
+  "total_records": 1206712,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "transport",
@@ -13109,6 +13109,33 @@
         "xlsx": {
           "name": "no-hoteller_NO.xlsx",
           "size": 41849
+        }
+      }
+    },
+    {
+      "id": "no-hotellovernattinger-per-region-2025",
+      "name": "Hotellovernattinger per region og formål (2025)",
+      "category": "tourism",
+      "record_count": 902,
+      "columns": [
+        "region",
+        "month",
+        "overnight_stays_total",
+        "conference",
+        "business",
+        "leisure"
+      ],
+      "source": "https://www.ssb.no/statbank/table/14175",
+      "updated": "2026-11",
+      "size": 166351,
+      "files": {
+        "csv": {
+          "name": "no-hotellovernattinger-per-region-2025_NO.csv",
+          "size": 49937
+        },
+        "xlsx": {
+          "name": "no-hotellovernattinger-per-region-2025_NO.xlsx",
+          "size": 38150
         }
       }
     },
