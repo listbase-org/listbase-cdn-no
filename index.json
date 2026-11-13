@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-13T02:34:36.591Z",
-  "total_datasets": 492,
-  "total_records": 1206712,
+  "generated": "2026-11-13T02:34:45.091Z",
+  "total_datasets": 493,
+  "total_records": 1206737,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -4817,6 +4817,42 @@
         "xlsx": {
           "name": "no-viken-verneomrader_NO.xlsx",
           "size": 72212
+        }
+      }
+    },
+    {
+      "id": "no-ambulansetjenesten-helseforetak-2025",
+      "name": "Ambulansetjenesten etter helseforetak (2025)",
+      "category": "health",
+      "record_count": 25,
+      "columns": [
+        "health_trust",
+        "ambulance_cars",
+        "cars_run_by_trust",
+        "cars_run_by_private",
+        "cars_run_by_municipality",
+        "reserve_ambulances",
+        "car_missions",
+        "car_missions_acute",
+        "car_missions_urgent",
+        "car_missions_regular",
+        "standby_hours_per_week",
+        "car_mission_hours",
+        "km_driven",
+        "ambulance_boats",
+        "boat_missions"
+      ],
+      "source": "https://www.ssb.no/statbank/table/09556",
+      "updated": "2026-11",
+      "size": 15808,
+      "files": {
+        "csv": {
+          "name": "no-ambulansetjenesten-helseforetak-2025_NO.csv",
+          "size": 3090
+        },
+        "xlsx": {
+          "name": "no-ambulansetjenesten-helseforetak-2025_NO.xlsx",
+          "size": 9215
         }
       }
     },
