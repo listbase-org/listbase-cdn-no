@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-12T02:03:35.297Z",
-  "total_datasets": 490,
-  "total_records": 1203689,
+  "generated": "2026-11-13T02:33:33.306Z",
+  "total_datasets": 491,
+  "total_records": 1205810,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "geography",
@@ -3259,6 +3259,47 @@
         "xlsx": {
           "name": "no-bryggerier_NO.xlsx",
           "size": 20621
+        }
+      }
+    },
+    {
+      "id": "no-matvaretabellen-naeringsinnhold",
+      "name": "Matvaretabellen – næringsinnhold i matvarer",
+      "category": "food",
+      "record_count": 2121,
+      "columns": [
+        "food_id",
+        "name",
+        "food_group",
+        "subgroup",
+        "kcal",
+        "kj",
+        "water_g",
+        "protein_g",
+        "fat_g",
+        "saturated_fat_g",
+        "carbohydrates_g",
+        "sugars_g",
+        "added_sugar_g",
+        "fiber_g",
+        "salt_g",
+        "calcium_mg",
+        "iron_mg",
+        "vitamin_c_mg",
+        "vitamin_d_ug",
+        "edible_part_pct"
+      ],
+      "source": "https://www.matvaretabellen.no/",
+      "updated": "2026-11",
+      "size": 1146135,
+      "files": {
+        "csv": {
+          "name": "no-matvaretabellen-naeringsinnhold_NO.csv",
+          "size": 345404
+        },
+        "xlsx": {
+          "name": "no-matvaretabellen-naeringsinnhold_NO.xlsx",
+          "size": 212993
         }
       }
     },
