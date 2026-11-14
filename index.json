@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-14T02:08:52.230Z",
-  "total_datasets": 495,
-  "total_records": 1206769,
+  "generated": "2026-11-14T02:09:00.422Z",
+  "total_datasets": 496,
+  "total_records": 1206834,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "sports",
@@ -12459,6 +12459,34 @@
         "xlsx": {
           "name": "no-den-norske-kirke-bispedommer_NO.xlsx",
           "size": 7437
+        }
+      }
+    },
+    {
+      "id": "no-ekteskap-etter-vigselstype",
+      "name": "Inngåtte ekteskap etter vigselstype 1961–2025",
+      "category": "society",
+      "record_count": 65,
+      "columns": [
+        "ar",
+        "i_alt",
+        "den_norske_kirke",
+        "borgerlig",
+        "andre_trossamfunn",
+        "utenlands",
+        "uoppgitt"
+      ],
+      "source": "https://www.ssb.no/statbank/table/05713",
+      "updated": "2026-11",
+      "size": 14039,
+      "files": {
+        "csv": {
+          "name": "no-ekteskap-etter-vigselstype_NO.csv",
+          "size": 2929
+        },
+        "xlsx": {
+          "name": "no-ekteskap-etter-vigselstype_NO.xlsx",
+          "size": 9286
         }
       }
     },
