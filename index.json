@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-14T02:08:39.509Z",
-  "total_datasets": 494,
-  "total_records": 1206758,
+  "generated": "2026-11-14T02:08:52.230Z",
+  "total_datasets": 495,
+  "total_records": 1206769,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -12430,6 +12430,35 @@
         "xlsx": {
           "name": "no-pattedyr_NO.xlsx",
           "size": 15517
+        }
+      }
+    },
+    {
+      "id": "no-den-norske-kirke-bispedommer",
+      "name": "Den norske kirke etter bispedømme 2025",
+      "category": "society",
+      "record_count": 11,
+      "columns": [
+        "bispedomme",
+        "medlemmer",
+        "innmeldte",
+        "utmeldte",
+        "dopte",
+        "konfirmerte",
+        "kirkelige_vigsler",
+        "gravferder"
+      ],
+      "source": "https://www.ssb.no/statbank/table/06929",
+      "updated": "2026-11",
+      "size": 4580,
+      "files": {
+        "csv": {
+          "name": "no-den-norske-kirke-bispedommer_NO.csv",
+          "size": 905
+        },
+        "xlsx": {
+          "name": "no-den-norske-kirke-bispedommer_NO.xlsx",
+          "size": 7437
         }
       }
     },
