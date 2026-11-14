@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-13T02:34:45.091Z",
-  "total_datasets": 493,
-  "total_records": 1206737,
+  "generated": "2026-11-14T02:08:39.509Z",
+  "total_datasets": 494,
+  "total_records": 1206758,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -4877,6 +4877,36 @@
         "xlsx": {
           "name": "no-apotek_NO.xlsx",
           "size": 38968
+        }
+      }
+    },
+    {
+      "id": "no-bruk-av-alkohol-cannabis-legemidler",
+      "name": "Bruk av alkohol, cannabis og vanedannende legemidler 2026",
+      "category": "health",
+      "record_count": 21,
+      "columns": [
+        "kjonn",
+        "alder",
+        "alkohol_ukentlig_pst",
+        "seks_enheter_ukentlig_pst",
+        "cannabis_noen_gang_pst",
+        "cannabis_siste_12_mnd_pst",
+        "sovemidler_siste_12_mnd_pst",
+        "beroligende_siste_12_mnd_pst",
+        "smertestillende_siste_12_mnd_pst"
+      ],
+      "source": "https://www.ssb.no/statbank/table/14448",
+      "updated": "2026-11",
+      "size": 9590,
+      "files": {
+        "csv": {
+          "name": "no-bruk-av-alkohol-cannabis-legemidler_NO.csv",
+          "size": 1341
+        },
+        "xlsx": {
+          "name": "no-bruk-av-alkohol-cannabis-legemidler_NO.xlsx",
+          "size": 7727
         }
       }
     },

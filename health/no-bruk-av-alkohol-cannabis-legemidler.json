@@ -1,0 +1,302 @@
+{
+  "id": "no-bruk-av-alkohol-cannabis-legemidler",
+  "name": "Bruk av alkohol, cannabis og vanedannende legemidler 2026",
+  "title": "Bruk av alkohol, cannabis og vanedannende legemidler 2026",
+  "description": "Andel av befolkningen 16–79 år som drikker alkohol ukentlig, har brukt cannabis og reseptbelagte sove-, beroligende og smertestillende midler, etter kjønn og alder (SSB, 2026).",
+  "category": "health",
+  "source": "https://www.ssb.no/statbank/table/14448",
+  "source_url": "https://www.ssb.no/statbank/table/14448",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "kjonn",
+      "label": "Kjonn",
+      "type": "string"
+    },
+    {
+      "key": "alder",
+      "label": "Alder",
+      "type": "string"
+    },
+    {
+      "key": "alkohol_ukentlig_pst",
+      "label": "Alkohol Ukentlig Pst",
+      "type": "number"
+    },
+    {
+      "key": "seks_enheter_ukentlig_pst",
+      "label": "Seks Enheter Ukentlig Pst",
+      "type": "number"
+    },
+    {
+      "key": "cannabis_noen_gang_pst",
+      "label": "Cannabis Noen Gang Pst",
+      "type": "number"
+    },
+    {
+      "key": "cannabis_siste_12_mnd_pst",
+      "label": "Cannabis Siste 12 Mnd Pst",
+      "type": "number"
+    },
+    {
+      "key": "sovemidler_siste_12_mnd_pst",
+      "label": "Sovemidler Siste 12 Mnd Pst",
+      "type": "number"
+    },
+    {
+      "key": "beroligende_siste_12_mnd_pst",
+      "label": "Beroligende Siste 12 Mnd Pst",
+      "type": "number"
+    },
+    {
+      "key": "smertestillende_siste_12_mnd_pst",
+      "label": "Smertestillende Siste 12 Mnd Pst",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kjonn": "Begge kjønn",
+      "alder": "I alt",
+      "alkohol_ukentlig_pst": 30,
+      "seks_enheter_ukentlig_pst": 5,
+      "cannabis_noen_gang_pst": 27,
+      "cannabis_siste_12_mnd_pst": 5,
+      "sovemidler_siste_12_mnd_pst": 10,
+      "beroligende_siste_12_mnd_pst": 5,
+      "smertestillende_siste_12_mnd_pst": 18
+    },
+    {
+      "kjonn": "Begge kjønn",
+      "alder": "16-24 år",
+      "alkohol_ukentlig_pst": 23,
+      "seks_enheter_ukentlig_pst": 8,
+      "cannabis_noen_gang_pst": 24,
+      "cannabis_siste_12_mnd_pst": 10,
+      "sovemidler_siste_12_mnd_pst": 7,
+      "beroligende_siste_12_mnd_pst": 3,
+      "smertestillende_siste_12_mnd_pst": 14
+    },
+    {
+      "kjonn": "Begge kjønn",
+      "alder": "25-34 år",
+      "alkohol_ukentlig_pst": 23,
+      "seks_enheter_ukentlig_pst": 6,
+      "cannabis_noen_gang_pst": 36,
+      "cannabis_siste_12_mnd_pst": 7,
+      "sovemidler_siste_12_mnd_pst": 6,
+      "beroligende_siste_12_mnd_pst": 4,
+      "smertestillende_siste_12_mnd_pst": 14
+    },
+    {
+      "kjonn": "Begge kjønn",
+      "alder": "35-44 år",
+      "alkohol_ukentlig_pst": 26,
+      "seks_enheter_ukentlig_pst": 3,
+      "cannabis_noen_gang_pst": 34,
+      "cannabis_siste_12_mnd_pst": 4,
+      "sovemidler_siste_12_mnd_pst": 7,
+      "beroligende_siste_12_mnd_pst": 5,
+      "smertestillende_siste_12_mnd_pst": 15
+    },
+    {
+      "kjonn": "Begge kjønn",
+      "alder": "45-54 år",
+      "alkohol_ukentlig_pst": 29,
+      "seks_enheter_ukentlig_pst": 3,
+      "cannabis_noen_gang_pst": 25,
+      "cannabis_siste_12_mnd_pst": 2,
+      "sovemidler_siste_12_mnd_pst": 10,
+      "beroligende_siste_12_mnd_pst": 4,
+      "smertestillende_siste_12_mnd_pst": 17
+    },
+    {
+      "kjonn": "Begge kjønn",
+      "alder": "55-64 år",
+      "alkohol_ukentlig_pst": 40,
+      "seks_enheter_ukentlig_pst": 6,
+      "cannabis_noen_gang_pst": 14,
+      "cannabis_siste_12_mnd_pst": 2,
+      "sovemidler_siste_12_mnd_pst": 11,
+      "beroligende_siste_12_mnd_pst": 5,
+      "smertestillende_siste_12_mnd_pst": 20
+    },
+    {
+      "kjonn": "Begge kjønn",
+      "alder": "65-79 år",
+      "alkohol_ukentlig_pst": 39,
+      "seks_enheter_ukentlig_pst": 2,
+      "cannabis_noen_gang_pst": "",
+      "cannabis_siste_12_mnd_pst": "",
+      "sovemidler_siste_12_mnd_pst": 16,
+      "beroligende_siste_12_mnd_pst": 7,
+      "smertestillende_siste_12_mnd_pst": 27
+    },
+    {
+      "kjonn": "Kvinner",
+      "alder": "I alt",
+      "alkohol_ukentlig_pst": 25,
+      "seks_enheter_ukentlig_pst": 2,
+      "cannabis_noen_gang_pst": 22,
+      "cannabis_siste_12_mnd_pst": 3,
+      "sovemidler_siste_12_mnd_pst": 10,
+      "beroligende_siste_12_mnd_pst": 5,
+      "smertestillende_siste_12_mnd_pst": 20
+    },
+    {
+      "kjonn": "Kvinner",
+      "alder": "16-24 år",
+      "alkohol_ukentlig_pst": 22,
+      "seks_enheter_ukentlig_pst": 3,
+      "cannabis_noen_gang_pst": 22,
+      "cannabis_siste_12_mnd_pst": 10,
+      "sovemidler_siste_12_mnd_pst": 6,
+      "beroligende_siste_12_mnd_pst": 4,
+      "smertestillende_siste_12_mnd_pst": 16
+    },
+    {
+      "kjonn": "Kvinner",
+      "alder": "25-34 år",
+      "alkohol_ukentlig_pst": 16,
+      "seks_enheter_ukentlig_pst": 3,
+      "cannabis_noen_gang_pst": 30,
+      "cannabis_siste_12_mnd_pst": 3,
+      "sovemidler_siste_12_mnd_pst": 6,
+      "beroligende_siste_12_mnd_pst": 5,
+      "smertestillende_siste_12_mnd_pst": 18
+    },
+    {
+      "kjonn": "Kvinner",
+      "alder": "35-44 år",
+      "alkohol_ukentlig_pst": 22,
+      "seks_enheter_ukentlig_pst": 1,
+      "cannabis_noen_gang_pst": 28,
+      "cannabis_siste_12_mnd_pst": 2,
+      "sovemidler_siste_12_mnd_pst": 8,
+      "beroligende_siste_12_mnd_pst": 5,
+      "smertestillende_siste_12_mnd_pst": 16
+    },
+    {
+      "kjonn": "Kvinner",
+      "alder": "45-54 år",
+      "alkohol_ukentlig_pst": 26,
+      "seks_enheter_ukentlig_pst": 1,
+      "cannabis_noen_gang_pst": 21,
+      "cannabis_siste_12_mnd_pst": 2,
+      "sovemidler_siste_12_mnd_pst": 10,
+      "beroligende_siste_12_mnd_pst": 5,
+      "smertestillende_siste_12_mnd_pst": 18
+    },
+    {
+      "kjonn": "Kvinner",
+      "alder": "55-64 år",
+      "alkohol_ukentlig_pst": 30,
+      "seks_enheter_ukentlig_pst": 1,
+      "cannabis_noen_gang_pst": 10,
+      "cannabis_siste_12_mnd_pst": 1,
+      "sovemidler_siste_12_mnd_pst": 12,
+      "beroligende_siste_12_mnd_pst": 6,
+      "smertestillende_siste_12_mnd_pst": 20
+    },
+    {
+      "kjonn": "Kvinner",
+      "alder": "65-79 år",
+      "alkohol_ukentlig_pst": 33,
+      "seks_enheter_ukentlig_pst": 1,
+      "cannabis_noen_gang_pst": "",
+      "cannabis_siste_12_mnd_pst": "",
+      "sovemidler_siste_12_mnd_pst": 19,
+      "beroligende_siste_12_mnd_pst": 8,
+      "smertestillende_siste_12_mnd_pst": 28
+    },
+    {
+      "kjonn": "Menn",
+      "alder": "I alt",
+      "alkohol_ukentlig_pst": 35,
+      "seks_enheter_ukentlig_pst": 7,
+      "cannabis_noen_gang_pst": 31,
+      "cannabis_siste_12_mnd_pst": 7,
+      "sovemidler_siste_12_mnd_pst": 9,
+      "beroligende_siste_12_mnd_pst": 4,
+      "smertestillende_siste_12_mnd_pst": 17
+    },
+    {
+      "kjonn": "Menn",
+      "alder": "16-24 år",
+      "alkohol_ukentlig_pst": 24,
+      "seks_enheter_ukentlig_pst": 12,
+      "cannabis_noen_gang_pst": 27,
+      "cannabis_siste_12_mnd_pst": 11,
+      "sovemidler_siste_12_mnd_pst": 8,
+      "beroligende_siste_12_mnd_pst": 3,
+      "smertestillende_siste_12_mnd_pst": 11
+    },
+    {
+      "kjonn": "Menn",
+      "alder": "25-34 år",
+      "alkohol_ukentlig_pst": 30,
+      "seks_enheter_ukentlig_pst": 9,
+      "cannabis_noen_gang_pst": 42,
+      "cannabis_siste_12_mnd_pst": 11,
+      "sovemidler_siste_12_mnd_pst": 6,
+      "beroligende_siste_12_mnd_pst": 3,
+      "smertestillende_siste_12_mnd_pst": 11
+    },
+    {
+      "kjonn": "Menn",
+      "alder": "35-44 år",
+      "alkohol_ukentlig_pst": 30,
+      "seks_enheter_ukentlig_pst": 6,
+      "cannabis_noen_gang_pst": 39,
+      "cannabis_siste_12_mnd_pst": 6,
+      "sovemidler_siste_12_mnd_pst": 6,
+      "beroligende_siste_12_mnd_pst": 4,
+      "smertestillende_siste_12_mnd_pst": 14
+    },
+    {
+      "kjonn": "Menn",
+      "alder": "45-54 år",
+      "alkohol_ukentlig_pst": 32,
+      "seks_enheter_ukentlig_pst": 6,
+      "cannabis_noen_gang_pst": 28,
+      "cannabis_siste_12_mnd_pst": 3,
+      "sovemidler_siste_12_mnd_pst": 10,
+      "beroligende_siste_12_mnd_pst": 3,
+      "smertestillende_siste_12_mnd_pst": 17
+    },
+    {
+      "kjonn": "Menn",
+      "alder": "55-64 år",
+      "alkohol_ukentlig_pst": 49,
+      "seks_enheter_ukentlig_pst": 10,
+      "cannabis_noen_gang_pst": 18,
+      "cannabis_siste_12_mnd_pst": 4,
+      "sovemidler_siste_12_mnd_pst": 10,
+      "beroligende_siste_12_mnd_pst": 4,
+      "smertestillende_siste_12_mnd_pst": 20
+    },
+    {
+      "kjonn": "Menn",
+      "alder": "65-79 år",
+      "alkohol_ukentlig_pst": 46,
+      "seks_enheter_ukentlig_pst": 4,
+      "cannabis_noen_gang_pst": "",
+      "cannabis_siste_12_mnd_pst": "",
+      "sovemidler_siste_12_mnd_pst": 13,
+      "beroligende_siste_12_mnd_pst": 6,
+      "smertestillende_siste_12_mnd_pst": 25
+    }
+  ],
+  "meta": {
+    "title": "Bruk av alkohol, cannabis og vanedannende legemidler 2026 - Free Download",
+    "description": "Andel av befolkningen 16–79 år som drikker alkohol ukentlig, har brukt cannabis og reseptbelagte sove-, beroligende og smertestillende midler, etter kjønn og alder (SSB, 2026). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bruk av alkohol, cannabis og vanedannende legemidler 2026 | ListBase",
+    "seo_description": "Download Bruk av alkohol, cannabis og vanedannende legemidler 2026 — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/14448"
+    ]
+  }
+}
