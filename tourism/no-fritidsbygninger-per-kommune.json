@@ -1,0 +1,2550 @@
+{
+  "id": "no-fritidsbygninger-per-kommune",
+  "name": "Fritidsboliger (hytter) per kommune 2026",
+  "title": "Fritidsboliger (hytter) per kommune 2026",
+  "description": "Antall fritidsbygninger (hytter og fritidsboliger) og fritidsbygninger per km² i hver kommune per 1. januar 2026, fra SSBs statistikk over eksisterende bygningsmasse.",
+  "category": "tourism",
+  "source": "https://www.ssb.no/statbank/table/05467",
+  "source_url": "https://www.ssb.no/statbank/table/05467",
+  "updated": "2026-11",
+  "record_count": 357,
+  "columns": [
+    {
+      "key": "kommunenummer",
+      "label": "Kommunenummer",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "fylke",
+      "label": "Fylke",
+      "type": "string"
+    },
+    {
+      "key": "fritidsbygninger",
+      "label": "Fritidsbygninger",
+      "type": "number"
+    },
+    {
+      "key": "per_km2",
+      "label": "Per Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunenummer": "3411",
+      "kommune": "Ringsaker",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 7251,
+      "per_km2": 6.46
+    },
+    {
+      "kommunenummer": "3421",
+      "kommune": "Trysil",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 7063,
+      "per_km2": 2.4
+    },
+    {
+      "kommunenummer": "3330",
+      "kommune": "Hol",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 6060,
+      "per_km2": 3.67
+    },
+    {
+      "kommunenummer": "4036",
+      "kommune": "Vinje",
+      "fylke": "Telemark",
+      "fritidsbygninger": 5904,
+      "per_km2": 2.17
+    },
+    {
+      "kommunenummer": "3332",
+      "kommune": "Sigdal",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 5227,
+      "per_km2": 6.44
+    },
+    {
+      "kommunenummer": "3909",
+      "kommune": "Larvik",
+      "fylke": "Vestfold",
+      "fritidsbygninger": 4908,
+      "per_km2": 6.36
+    },
+    {
+      "kommunenummer": "3451",
+      "kommune": "Nord-Aurdal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 4865,
+      "per_km2": 5.73
+    },
+    {
+      "kommunenummer": "5059",
+      "kommune": "Orkland",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 4594,
+      "per_km2": 2.53
+    },
+    {
+      "kommunenummer": "3439",
+      "kommune": "Ringebu",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 4549,
+      "per_km2": 3.72
+    },
+    {
+      "kommunenummer": "3107",
+      "kommune": "Fredrikstad",
+      "fylke": "Østfold",
+      "fritidsbygninger": 4484,
+      "per_km2": 15.8
+    },
+    {
+      "kommunenummer": "4228",
+      "kommune": "Sirdal",
+      "fylke": "Agder",
+      "fritidsbygninger": 4424,
+      "per_km2": 3.22
+    },
+    {
+      "kommunenummer": "3110",
+      "kommune": "Hvaler",
+      "fylke": "Østfold",
+      "fritidsbygninger": 4292,
+      "per_km2": 47.69
+    },
+    {
+      "kommunenummer": "5021",
+      "kommune": "Oppdal",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 4276,
+      "per_km2": 1.94
+    },
+    {
+      "kommunenummer": "3338",
+      "kommune": "Nore og Uvdal",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 4208,
+      "per_km2": 1.86
+    },
+    {
+      "kommunenummer": "3322",
+      "kommune": "Nesbyen",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 4026,
+      "per_km2": 5.22
+    },
+    {
+      "kommunenummer": "3203",
+      "kommune": "Asker",
+      "fylke": "Akershus",
+      "fritidsbygninger": 4001,
+      "per_km2": 10.98
+    },
+    {
+      "kommunenummer": "4205",
+      "kommune": "Lindesnes",
+      "fylke": "Agder",
+      "fritidsbygninger": 3903,
+      "per_km2": 4.42
+    },
+    {
+      "kommunenummer": "3440",
+      "kommune": "Øyer",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 3785,
+      "per_km2": 6.14
+    },
+    {
+      "kommunenummer": "3305",
+      "kommune": "Ringerike",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 3764,
+      "per_km2": 2.65
+    },
+    {
+      "kommunenummer": "3334",
+      "kommune": "Flesberg",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 3725,
+      "per_km2": 6.93
+    },
+    {
+      "kommunenummer": "3453",
+      "kommune": "Øystre Slidre",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 3660,
+      "per_km2": 4.13
+    },
+    {
+      "kommunenummer": "3449",
+      "kommune": "Sør-Aurdal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 3648,
+      "per_km2": 3.41
+    },
+    {
+      "kommunenummer": "4026",
+      "kommune": "Tinn",
+      "fylke": "Telemark",
+      "fritidsbygninger": 3631,
+      "per_km2": 1.96
+    },
+    {
+      "kommunenummer": "4621",
+      "kommune": "Voss",
+      "fylke": "Vestland",
+      "fritidsbygninger": 3599,
+      "per_km2": 1.84
+    },
+    {
+      "kommunenummer": "1806",
+      "kommune": "Narvik",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 3573,
+      "per_km2": 1.12
+    },
+    {
+      "kommunenummer": "4014",
+      "kommune": "Kragerø",
+      "fylke": "Telemark",
+      "fritidsbygninger": 3478,
+      "per_km2": 12.05
+    },
+    {
+      "kommunenummer": "4631",
+      "kommune": "Alver",
+      "fylke": "Vestland",
+      "fritidsbygninger": 3464,
+      "per_km2": 5.32
+    },
+    {
+      "kommunenummer": "5025",
+      "kommune": "Røros - Rosse",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 3431,
+      "per_km2": 1.95
+    },
+    {
+      "kommunenummer": "4204",
+      "kommune": "Kristiansand",
+      "fylke": "Agder",
+      "fritidsbygninger": 3416,
+      "per_km2": 5.59
+    },
+    {
+      "kommunenummer": "3441",
+      "kommune": "Gausdal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 3259,
+      "per_km2": 2.84
+    },
+    {
+      "kommunenummer": "3911",
+      "kommune": "Færder",
+      "fylke": "Vestfold",
+      "fritidsbygninger": 3216,
+      "per_km2": 32.25
+    },
+    {
+      "kommunenummer": "3328",
+      "kommune": "Ål",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 3170,
+      "per_km2": 2.93
+    },
+    {
+      "kommunenummer": "3452",
+      "kommune": "Vestre Slidre",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2903,
+      "per_km2": 6.99
+    },
+    {
+      "kommunenummer": "3214",
+      "kommune": "Frogn",
+      "fylke": "Akershus",
+      "fritidsbygninger": 2886,
+      "per_km2": 34.08
+    },
+    {
+      "kommunenummer": "4222",
+      "kommune": "Bykle",
+      "fylke": "Agder",
+      "fritidsbygninger": 2861,
+      "per_km2": 2.28
+    },
+    {
+      "kommunenummer": "4626",
+      "kommune": "Øygarden",
+      "fylke": "Vestland",
+      "fritidsbygninger": 2859,
+      "per_km2": 9.52
+    },
+    {
+      "kommunenummer": "4622",
+      "kommune": "Kvam",
+      "fylke": "Vestland",
+      "fritidsbygninger": 2846,
+      "per_km2": 4.9
+    },
+    {
+      "kommunenummer": "3105",
+      "kommune": "Sarpsborg",
+      "fylke": "Østfold",
+      "fritidsbygninger": 2807,
+      "per_km2": 7.59
+    },
+    {
+      "kommunenummer": "3907",
+      "kommune": "Sandefjord",
+      "fylke": "Vestfold",
+      "fritidsbygninger": 2779,
+      "per_km2": 6.71
+    },
+    {
+      "kommunenummer": "3324",
+      "kommune": "Gol",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 2726,
+      "per_km2": 5.3
+    },
+    {
+      "kommunenummer": "1804",
+      "kommune": "Bodø",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 2708,
+      "per_km2": 2.07
+    },
+    {
+      "kommunenummer": "3320",
+      "kommune": "Flå",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 2683,
+      "per_km2": 4
+    },
+    {
+      "kommunenummer": "1108",
+      "kommune": "Sandnes",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 2681,
+      "per_km2": 2.84
+    },
+    {
+      "kommunenummer": "3448",
+      "kommune": "Nordre Land",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2678,
+      "per_km2": 2.91
+    },
+    {
+      "kommunenummer": "3303",
+      "kommune": "Kongsberg",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 2650,
+      "per_km2": 3.51
+    },
+    {
+      "kommunenummer": "3450",
+      "kommune": "Etnedal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2555,
+      "per_km2": 5.77
+    },
+    {
+      "kommunenummer": "4030",
+      "kommune": "Nissedal",
+      "fylke": "Telemark",
+      "fritidsbygninger": 2555,
+      "per_km2": 3.25
+    },
+    {
+      "kommunenummer": "3436",
+      "kommune": "Nord-Fron",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2544,
+      "per_km2": 2.33
+    },
+    {
+      "kommunenummer": "4024",
+      "kommune": "Hjartdal",
+      "fylke": "Telemark",
+      "fritidsbygninger": 2517,
+      "per_km2": 3.41
+    },
+    {
+      "kommunenummer": "3336",
+      "kommune": "Rollag",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 2488,
+      "per_km2": 5.79
+    },
+    {
+      "kommunenummer": "5006",
+      "kommune": "Steinkjer - Stïentje",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 2468,
+      "per_km2": 1.27
+    },
+    {
+      "kommunenummer": "4012",
+      "kommune": "Bamble",
+      "fylke": "Telemark",
+      "fritidsbygninger": 2420,
+      "per_km2": 8.57
+    },
+    {
+      "kommunenummer": "3326",
+      "kommune": "Hemsedal",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 2378,
+      "per_km2": 3.34
+    },
+    {
+      "kommunenummer": "4618",
+      "kommune": "Ullensvang",
+      "fylke": "Vestland",
+      "fritidsbygninger": 2359,
+      "per_km2": 0.8
+    },
+    {
+      "kommunenummer": "4224",
+      "kommune": "Åseral",
+      "fylke": "Agder",
+      "fritidsbygninger": 2305,
+      "per_km2": 2.89
+    },
+    {
+      "kommunenummer": "3424",
+      "kommune": "Rendalen",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2298,
+      "per_km2": 0.75
+    },
+    {
+      "kommunenummer": "3432",
+      "kommune": "Lesja",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2261,
+      "per_km2": 1.04
+    },
+    {
+      "kommunenummer": "5022",
+      "kommune": "Rennebu",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 2195,
+      "per_km2": 2.38
+    },
+    {
+      "kommunenummer": "0301",
+      "kommune": "Oslo - Oslove",
+      "fylke": "Oslo - Oslove",
+      "fritidsbygninger": 2183,
+      "per_km2": 5.12
+    },
+    {
+      "kommunenummer": "3422",
+      "kommune": "Åmot",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2158,
+      "per_km2": 1.67
+    },
+    {
+      "kommunenummer": "5037",
+      "kommune": "Levanger - Levangke",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 2156,
+      "per_km2": 3.54
+    },
+    {
+      "kommunenummer": "5027",
+      "kommune": "Midtre Gauldal",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 2119,
+      "per_km2": 1.18
+    },
+    {
+      "kommunenummer": "3423",
+      "kommune": "Stor-Elvdal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2115,
+      "per_km2": 0.99
+    },
+    {
+      "kommunenummer": "4225",
+      "kommune": "Lyngdal",
+      "fylke": "Agder",
+      "fritidsbygninger": 2113,
+      "per_km2": 3.49
+    },
+    {
+      "kommunenummer": "3437",
+      "kommune": "Sel",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 2103,
+      "per_km2": 2.37
+    },
+    {
+      "kommunenummer": "1833",
+      "kommune": "Rana - Raane",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 2061,
+      "per_km2": 0.49
+    },
+    {
+      "kommunenummer": "5605",
+      "kommune": "Sør-Varanger",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 2060,
+      "per_km2": 0.6
+    },
+    {
+      "kommunenummer": "5056",
+      "kommune": "Hitra",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 2005,
+      "per_km2": 2.8
+    },
+    {
+      "kommunenummer": "3438",
+      "kommune": "Sør-Fron",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1995,
+      "per_km2": 2.8
+    },
+    {
+      "kommunenummer": "5055",
+      "kommune": "Heim",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1993,
+      "per_km2": 2.03
+    },
+    {
+      "kommunenummer": "5054",
+      "kommune": "Indre Fosen",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1955,
+      "per_km2": 1.9
+    },
+    {
+      "kommunenummer": "1134",
+      "kommune": "Suldal",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 1919,
+      "per_km2": 1.21
+    },
+    {
+      "kommunenummer": "4201",
+      "kommune": "Risør",
+      "fylke": "Agder",
+      "fritidsbygninger": 1898,
+      "per_km2": 11.12
+    },
+    {
+      "kommunenummer": "3318",
+      "kommune": "Krødsherad",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 1894,
+      "per_km2": 5.57
+    },
+    {
+      "kommunenummer": "3446",
+      "kommune": "Gran",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1889,
+      "per_km2": 2.88
+    },
+    {
+      "kommunenummer": "3427",
+      "kommune": "Tynset",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1880,
+      "per_km2": 1.03
+    },
+    {
+      "kommunenummer": "3101",
+      "kommune": "Halden",
+      "fylke": "Østfold",
+      "fritidsbygninger": 1860,
+      "per_km2": 3.13
+    },
+    {
+      "kommunenummer": "5501",
+      "kommune": "Tromsø",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 1855,
+      "per_km2": 0.75
+    },
+    {
+      "kommunenummer": "3454",
+      "kommune": "Vang",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1851,
+      "per_km2": 1.41
+    },
+    {
+      "kommunenummer": "5058",
+      "kommune": "Åfjord",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1794,
+      "per_km2": 1.43
+    },
+    {
+      "kommunenummer": "4203",
+      "kommune": "Arendal",
+      "fylke": "Agder",
+      "fritidsbygninger": 1750,
+      "per_km2": 6.86
+    },
+    {
+      "kommunenummer": "3405",
+      "kommune": "Lillehammer",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1745,
+      "per_km2": 3.87
+    },
+    {
+      "kommunenummer": "5530",
+      "kommune": "Senja",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 1741,
+      "per_km2": 0.94
+    },
+    {
+      "kommunenummer": "3903",
+      "kommune": "Holmestrand",
+      "fylke": "Vestfold",
+      "fritidsbygninger": 1728,
+      "per_km2": 4.2
+    },
+    {
+      "kommunenummer": "4215",
+      "kommune": "Lillesand",
+      "fylke": "Agder",
+      "fritidsbygninger": 1724,
+      "per_km2": 9.56
+    },
+    {
+      "kommunenummer": "1130",
+      "kommune": "Strand",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 1723,
+      "per_km2": 7.32
+    },
+    {
+      "kommunenummer": "3425",
+      "kommune": "Engerdal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1714,
+      "per_km2": 0.89
+    },
+    {
+      "kommunenummer": "4219",
+      "kommune": "Evje og Hornnes",
+      "fylke": "Agder",
+      "fritidsbygninger": 1665,
+      "per_km2": 3.03
+    },
+    {
+      "kommunenummer": "5032",
+      "kommune": "Selbu",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1661,
+      "per_km2": 1.46
+    },
+    {
+      "kommunenummer": "4221",
+      "kommune": "Valle",
+      "fylke": "Agder",
+      "fritidsbygninger": 1627,
+      "per_km2": 1.44
+    },
+    {
+      "kommunenummer": "4624",
+      "kommune": "Bjørnafjorden",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1590,
+      "per_km2": 3.26
+    },
+    {
+      "kommunenummer": "5007",
+      "kommune": "Namsos - Nåavmesjenjaelmie",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1590,
+      "per_km2": 0.8
+    },
+    {
+      "kommunenummer": "5033",
+      "kommune": "Tydal",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1590,
+      "per_km2": 1.31
+    },
+    {
+      "kommunenummer": "1506",
+      "kommune": "Molde",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 1554,
+      "per_km2": 1.08
+    },
+    {
+      "kommunenummer": "3216",
+      "kommune": "Vestby",
+      "fylke": "Akershus",
+      "fritidsbygninger": 1545,
+      "per_km2": 11.53
+    },
+    {
+      "kommunenummer": "3118",
+      "kommune": "Indre Østfold",
+      "fylke": "Østfold",
+      "fritidsbygninger": 1537,
+      "per_km2": 2.04
+    },
+    {
+      "kommunenummer": "3103",
+      "kommune": "Moss",
+      "fylke": "Østfold",
+      "fritidsbygninger": 1526,
+      "per_km2": 11.94
+    },
+    {
+      "kommunenummer": "4016",
+      "kommune": "Drangedal",
+      "fylke": "Telemark",
+      "fritidsbygninger": 1488,
+      "per_km2": 1.5
+    },
+    {
+      "kommunenummer": "1103",
+      "kommune": "Stavanger",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 1481,
+      "per_km2": 5.78
+    },
+    {
+      "kommunenummer": "4020",
+      "kommune": "Midt-Telemark",
+      "fylke": "Telemark",
+      "fritidsbygninger": 1468,
+      "per_km2": 3.01
+    },
+    {
+      "kommunenummer": "3301",
+      "kommune": "Drammen",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 1459,
+      "per_km2": 4.78
+    },
+    {
+      "kommunenummer": "4617",
+      "kommune": "Kvinnherad",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1439,
+      "per_km2": 1.38
+    },
+    {
+      "kommunenummer": "5603",
+      "kommune": "Hammerfest - Hámmerfeasta",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 1435,
+      "per_km2": 0.56
+    },
+    {
+      "kommunenummer": "3212",
+      "kommune": "Nesodden",
+      "fylke": "Akershus",
+      "fritidsbygninger": 1432,
+      "per_km2": 23.57
+    },
+    {
+      "kommunenummer": "3412",
+      "kommune": "Løten",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1399,
+      "per_km2": 3.86
+    },
+    {
+      "kommunenummer": "1566",
+      "kommune": "Surnadal",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 1399,
+      "per_km2": 1.06
+    },
+    {
+      "kommunenummer": "1576",
+      "kommune": "Aure",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 1398,
+      "per_km2": 2.25
+    },
+    {
+      "kommunenummer": "4001",
+      "kommune": "Porsgrunn",
+      "fylke": "Telemark",
+      "fritidsbygninger": 1382,
+      "per_km2": 8.59
+    },
+    {
+      "kommunenummer": "3226",
+      "kommune": "Aurskog-Høland",
+      "fylke": "Akershus",
+      "fritidsbygninger": 1379,
+      "per_km2": 1.31
+    },
+    {
+      "kommunenummer": "5601",
+      "kommune": "Alta",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 1377,
+      "per_km2": 0.38
+    },
+    {
+      "kommunenummer": "4022",
+      "kommune": "Seljord",
+      "fylke": "Telemark",
+      "fritidsbygninger": 1373,
+      "per_km2": 2.05
+    },
+    {
+      "kommunenummer": "4213",
+      "kommune": "Tvedestrand",
+      "fylke": "Agder",
+      "fritidsbygninger": 1372,
+      "per_km2": 6.46
+    },
+    {
+      "kommunenummer": "1146",
+      "kommune": "Tysvær",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 1367,
+      "per_km2": 3.42
+    },
+    {
+      "kommunenummer": "4227",
+      "kommune": "Kvinesdal",
+      "fylke": "Agder",
+      "fritidsbygninger": 1361,
+      "per_km2": 1.54
+    },
+    {
+      "kommunenummer": "4202",
+      "kommune": "Grimstad",
+      "fylke": "Agder",
+      "fritidsbygninger": 1358,
+      "per_km2": 4.99
+    },
+    {
+      "kommunenummer": "5038",
+      "kommune": "Verdal",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1355,
+      "per_km2": 0.92
+    },
+    {
+      "kommunenummer": "4005",
+      "kommune": "Notodden",
+      "fylke": "Telemark",
+      "fritidsbygninger": 1349,
+      "per_km2": 1.48
+    },
+    {
+      "kommunenummer": "5057",
+      "kommune": "Ørland",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1347,
+      "per_km2": 3.14
+    },
+    {
+      "kommunenummer": "4032",
+      "kommune": "Fyresdal",
+      "fylke": "Telemark",
+      "fritidsbygninger": 1340,
+      "per_km2": 1.21
+    },
+    {
+      "kommunenummer": "4619",
+      "kommune": "Eidfjord",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1330,
+      "per_km2": 0.96
+    },
+    {
+      "kommunenummer": "4028",
+      "kommune": "Kviteseid",
+      "fylke": "Telemark",
+      "fritidsbygninger": 1329,
+      "per_km2": 2.13
+    },
+    {
+      "kommunenummer": "4651",
+      "kommune": "Stryn",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1321,
+      "per_km2": 1
+    },
+    {
+      "kommunenummer": "1840",
+      "kommune": "Saltdal",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 1319,
+      "per_km2": 0.63
+    },
+    {
+      "kommunenummer": "4601",
+      "kommune": "Bergen",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1315,
+      "per_km2": 2.95
+    },
+    {
+      "kommunenummer": "1135",
+      "kommune": "Sauda",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 1298,
+      "per_km2": 2.56
+    },
+    {
+      "kommunenummer": "1875",
+      "kommune": "Hábmer - Hamarøy",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 1284,
+      "per_km2": 0.7
+    },
+    {
+      "kommunenummer": "5034",
+      "kommune": "Meråker",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1274,
+      "per_km2": 1.07
+    },
+    {
+      "kommunenummer": "4647",
+      "kommune": "Sunnfjord",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1269,
+      "per_km2": 0.61
+    },
+    {
+      "kommunenummer": "4612",
+      "kommune": "Sveio",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1266,
+      "per_km2": 5.64
+    },
+    {
+      "kommunenummer": "4206",
+      "kommune": "Farsund",
+      "fylke": "Agder",
+      "fritidsbygninger": 1262,
+      "per_km2": 5.01
+    },
+    {
+      "kommunenummer": "3442",
+      "kommune": "Østre Toten",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1253,
+      "per_km2": 2.58
+    },
+    {
+      "kommunenummer": "3234",
+      "kommune": "Lunner",
+      "fylke": "Akershus",
+      "fritidsbygninger": 1246,
+      "per_km2": 4.59
+    },
+    {
+      "kommunenummer": "5532",
+      "kommune": "Balsfjord",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 1225,
+      "per_km2": 0.85
+    },
+    {
+      "kommunenummer": "1101",
+      "kommune": "Eigersund",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 1223,
+      "per_km2": 3.16
+    },
+    {
+      "kommunenummer": "1508",
+      "kommune": "Ålesund",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 1197,
+      "per_km2": 3.39
+    },
+    {
+      "kommunenummer": "4034",
+      "kommune": "Tokke",
+      "fylke": "Telemark",
+      "fritidsbygninger": 1186,
+      "per_km2": 1.31
+    },
+    {
+      "kommunenummer": "4625",
+      "kommune": "Austevoll",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1176,
+      "per_km2": 10.29
+    },
+    {
+      "kommunenummer": "1539",
+      "kommune": "Rauma",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 1175,
+      "per_km2": 0.85
+    },
+    {
+      "kommunenummer": "1841",
+      "kommune": "Fauske - Fuossko",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 1173,
+      "per_km2": 1.06
+    },
+    {
+      "kommunenummer": "5001",
+      "kommune": "Trondheim - Tråante",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1169,
+      "per_km2": 2.35
+    },
+    {
+      "kommunenummer": "1160",
+      "kommune": "Vindafjord",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 1150,
+      "per_km2": 1.92
+    },
+    {
+      "kommunenummer": "3430",
+      "kommune": "Os",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1143,
+      "per_km2": 1.14
+    },
+    {
+      "kommunenummer": "5026",
+      "kommune": "Holtålen",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1142,
+      "per_km2": 0.98
+    },
+    {
+      "kommunenummer": "3447",
+      "kommune": "Søndre Land",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1129,
+      "per_km2": 1.71
+    },
+    {
+      "kommunenummer": "1133",
+      "kommune": "Hjelmeland",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 1119,
+      "per_km2": 1.18
+    },
+    {
+      "kommunenummer": "5060",
+      "kommune": "Nærøysund",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1113,
+      "per_km2": 0.87
+    },
+    {
+      "kommunenummer": "3435",
+      "kommune": "Vågå",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 1088,
+      "per_km2": 0.87
+    },
+    {
+      "kommunenummer": "5042",
+      "kommune": "Lierne",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1086,
+      "per_km2": 0.41
+    },
+    {
+      "kommunenummer": "5622",
+      "kommune": "Porsanger - Porsángu - Porsanki",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 1080,
+      "per_km2": 0.23
+    },
+    {
+      "kommunenummer": "5014",
+      "kommune": "Frøya",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1061,
+      "per_km2": 4.61
+    },
+    {
+      "kommunenummer": "5028",
+      "kommune": "Melhus",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1041,
+      "per_km2": 1.59
+    },
+    {
+      "kommunenummer": "1560",
+      "kommune": "Tingvoll",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 1034,
+      "per_km2": 3.21
+    },
+    {
+      "kommunenummer": "3220",
+      "kommune": "Enebakk",
+      "fylke": "Akershus",
+      "fritidsbygninger": 1032,
+      "per_km2": 5.28
+    },
+    {
+      "kommunenummer": "4616",
+      "kommune": "Tysnes",
+      "fylke": "Vestland",
+      "fritidsbygninger": 1022,
+      "per_km2": 4.17
+    },
+    {
+      "kommunenummer": "5035",
+      "kommune": "Stjørdal",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 1020,
+      "per_km2": 1.12
+    },
+    {
+      "kommunenummer": "1578",
+      "kommune": "Fjord",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 1009,
+      "per_km2": 0.88
+    },
+    {
+      "kommunenummer": "5524",
+      "kommune": "Målselv",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 1008,
+      "per_km2": 0.31
+    },
+    {
+      "kommunenummer": "4207",
+      "kommune": "Flekkefjord",
+      "fylke": "Agder",
+      "fritidsbygninger": 1005,
+      "per_km2": 2.09
+    },
+    {
+      "kommunenummer": "3310",
+      "kommune": "Hole",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 993,
+      "per_km2": 7.37
+    },
+    {
+      "kommunenummer": "4003",
+      "kommune": "Skien",
+      "fylke": "Telemark",
+      "fritidsbygninger": 986,
+      "per_km2": 1.37
+    },
+    {
+      "kommunenummer": "4602",
+      "kommune": "Kinn",
+      "fylke": "Vestland",
+      "fritidsbygninger": 983,
+      "per_km2": 1.29
+    },
+    {
+      "kommunenummer": "3112",
+      "kommune": "Råde",
+      "fylke": "Østfold",
+      "fritidsbygninger": 982,
+      "per_km2": 9.32
+    },
+    {
+      "kommunenummer": "4635",
+      "kommune": "Gulen",
+      "fylke": "Vestland",
+      "fritidsbygninger": 982,
+      "per_km2": 1.7
+    },
+    {
+      "kommunenummer": "1838",
+      "kommune": "Gildeskål",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 980,
+      "per_km2": 1.57
+    },
+    {
+      "kommunenummer": "3407",
+      "kommune": "Gjøvik",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 978,
+      "per_km2": 1.56
+    },
+    {
+      "kommunenummer": "5503",
+      "kommune": "Harstad - Hárstták",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 977,
+      "per_km2": 2.28
+    },
+    {
+      "kommunenummer": "3401",
+      "kommune": "Kongsvinger",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 966,
+      "per_km2": 1.01
+    },
+    {
+      "kommunenummer": "3413",
+      "kommune": "Stange",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 960,
+      "per_km2": 1.5
+    },
+    {
+      "kommunenummer": "5061",
+      "kommune": "Rindal",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 952,
+      "per_km2": 1.56
+    },
+    {
+      "kommunenummer": "1525",
+      "kommune": "Stranda",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 947,
+      "per_km2": 1.12
+    },
+    {
+      "kommunenummer": "4627",
+      "kommune": "Askøy",
+      "fylke": "Vestland",
+      "fritidsbygninger": 927,
+      "per_km2": 9.82
+    },
+    {
+      "kommunenummer": "3414",
+      "kommune": "Nord-Odal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 908,
+      "per_km2": 1.91
+    },
+    {
+      "kommunenummer": "1832",
+      "kommune": "Hemnes",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 907,
+      "per_km2": 0.63
+    },
+    {
+      "kommunenummer": "1563",
+      "kommune": "Sunndal",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 892,
+      "per_km2": 0.54
+    },
+    {
+      "kommunenummer": "3403",
+      "kommune": "Hamar",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 890,
+      "per_km2": 2.64
+    },
+    {
+      "kommunenummer": "5512",
+      "kommune": "Dielddanuorri - Tjeldsund",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 890,
+      "per_km2": 1.15
+    },
+    {
+      "kommunenummer": "1114",
+      "kommune": "Bjerkreim",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 884,
+      "per_km2": 1.53
+    },
+    {
+      "kommunenummer": "1860",
+      "kommune": "Vestvågøy",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 883,
+      "per_km2": 2.17
+    },
+    {
+      "kommunenummer": "4214",
+      "kommune": "Froland",
+      "fylke": "Agder",
+      "fritidsbygninger": 876,
+      "per_km2": 1.46
+    },
+    {
+      "kommunenummer": "4217",
+      "kommune": "Åmli",
+      "fylke": "Agder",
+      "fritidsbygninger": 873,
+      "per_km2": 0.82
+    },
+    {
+      "kommunenummer": "1149",
+      "kommune": "Karmøy",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 863,
+      "per_km2": 3.93
+    },
+    {
+      "kommunenummer": "1122",
+      "kommune": "Gjesdal",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 859,
+      "per_km2": 1.54
+    },
+    {
+      "kommunenummer": "4613",
+      "kommune": "Bømlo",
+      "fylke": "Vestland",
+      "fritidsbygninger": 852,
+      "per_km2": 3.62
+    },
+    {
+      "kommunenummer": "4220",
+      "kommune": "Bygland",
+      "fylke": "Agder",
+      "fritidsbygninger": 847,
+      "per_km2": 0.74
+    },
+    {
+      "kommunenummer": "5607",
+      "kommune": "Vadsø",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 845,
+      "per_km2": 0.69
+    },
+    {
+      "kommunenummer": "1865",
+      "kommune": "Vågan",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 842,
+      "per_km2": 1.83
+    },
+    {
+      "kommunenummer": "1577",
+      "kommune": "Volda",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 836,
+      "per_km2": 1
+    },
+    {
+      "kommunenummer": "4640",
+      "kommune": "Sogndal",
+      "fylke": "Vestland",
+      "fritidsbygninger": 825,
+      "per_km2": 0.67
+    },
+    {
+      "kommunenummer": "4216",
+      "kommune": "Birkenes",
+      "fylke": "Agder",
+      "fritidsbygninger": 813,
+      "per_km2": 1.36
+    },
+    {
+      "kommunenummer": "1579",
+      "kommune": "Hustadvika",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 813,
+      "per_km2": 1.6
+    },
+    {
+      "kommunenummer": "5053",
+      "kommune": "Inderøy",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 790,
+      "per_km2": 2.25
+    },
+    {
+      "kommunenummer": "1520",
+      "kommune": "Ørsta",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 783,
+      "per_km2": 1.21
+    },
+    {
+      "kommunenummer": "4649",
+      "kommune": "Stad",
+      "fylke": "Vestland",
+      "fritidsbygninger": 779,
+      "per_km2": 1.12
+    },
+    {
+      "kommunenummer": "4630",
+      "kommune": "Osterøy",
+      "fylke": "Vestland",
+      "fritidsbygninger": 769,
+      "per_km2": 3.16
+    },
+    {
+      "kommunenummer": "4212",
+      "kommune": "Vegårshei",
+      "fylke": "Agder",
+      "fritidsbygninger": 767,
+      "per_km2": 2.38
+    },
+    {
+      "kommunenummer": "4628",
+      "kommune": "Vaksdal",
+      "fylke": "Vestland",
+      "fritidsbygninger": 758,
+      "per_km2": 1.11
+    },
+    {
+      "kommunenummer": "1824",
+      "kommune": "Vefsn",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 750,
+      "per_km2": 0.41
+    },
+    {
+      "kommunenummer": "3417",
+      "kommune": "Grue",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 746,
+      "per_km2": 0.96
+    },
+    {
+      "kommunenummer": "1528",
+      "kommune": "Sykkylven",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 739,
+      "per_km2": 2.25
+    },
+    {
+      "kommunenummer": "1825",
+      "kommune": "Grane",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 738,
+      "per_km2": 0.39
+    },
+    {
+      "kommunenummer": "1535",
+      "kommune": "Vestnes",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 735,
+      "per_km2": 1.84
+    },
+    {
+      "kommunenummer": "3428",
+      "kommune": "Alvdal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 726,
+      "per_km2": 0.79
+    },
+    {
+      "kommunenummer": "3433",
+      "kommune": "Skjåk",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 725,
+      "per_km2": 0.37
+    },
+    {
+      "kommunenummer": "3242",
+      "kommune": "Hurdal",
+      "fylke": "Akershus",
+      "fritidsbygninger": 718,
+      "per_km2": 2.75
+    },
+    {
+      "kommunenummer": "4611",
+      "kommune": "Etne",
+      "fylke": "Vestland",
+      "fritidsbygninger": 717,
+      "per_km2": 1.04
+    },
+    {
+      "kommunenummer": "3124",
+      "kommune": "Aremark",
+      "fylke": "Østfold",
+      "fritidsbygninger": 713,
+      "per_km2": 2.53
+    },
+    {
+      "kommunenummer": "3419",
+      "kommune": "Våler (Innlandet)",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 711,
+      "per_km2": 1.05
+    },
+    {
+      "kommunenummer": "5534",
+      "kommune": "Karlsøy",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 709,
+      "per_km2": 0.67
+    },
+    {
+      "kommunenummer": "3418",
+      "kommune": "Åsnes",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 708,
+      "per_km2": 0.71
+    },
+    {
+      "kommunenummer": "3426",
+      "kommune": "Tolga",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 708,
+      "per_km2": 0.65
+    },
+    {
+      "kommunenummer": "4226",
+      "kommune": "Hægebostad",
+      "fylke": "Agder",
+      "fritidsbygninger": 707,
+      "per_km2": 1.67
+    },
+    {
+      "kommunenummer": "3205",
+      "kommune": "Lillestrøm",
+      "fylke": "Akershus",
+      "fritidsbygninger": 703,
+      "per_km2": 1.71
+    },
+    {
+      "kommunenummer": "3228",
+      "kommune": "Nes",
+      "fylke": "Akershus",
+      "fritidsbygninger": 690,
+      "per_km2": 1.13
+    },
+    {
+      "kommunenummer": "4623",
+      "kommune": "Samnanger",
+      "fylke": "Vestland",
+      "fritidsbygninger": 688,
+      "per_km2": 2.67
+    },
+    {
+      "kommunenummer": "3201",
+      "kommune": "Bærum",
+      "fylke": "Akershus",
+      "fritidsbygninger": 683,
+      "per_km2": 3.62
+    },
+    {
+      "kommunenummer": "1826",
+      "kommune": "Aarborte - Hattfjelldal",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 678,
+      "per_km2": 0.28
+    },
+    {
+      "kommunenummer": "4638",
+      "kommune": "Høyanger",
+      "fylke": "Vestland",
+      "fritidsbygninger": 674,
+      "per_km2": 0.73
+    },
+    {
+      "kommunenummer": "1557",
+      "kommune": "Gjemnes",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 670,
+      "per_km2": 1.81
+    },
+    {
+      "kommunenummer": "1813",
+      "kommune": "Brønnøy",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 670,
+      "per_km2": 0.67
+    },
+    {
+      "kommunenummer": "3431",
+      "kommune": "Dovre",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 669,
+      "per_km2": 0.5
+    },
+    {
+      "kommunenummer": "4644",
+      "kommune": "Luster",
+      "fylke": "Vestland",
+      "fritidsbygninger": 666,
+      "per_km2": 0.26
+    },
+    {
+      "kommunenummer": "3416",
+      "kommune": "Eidskog",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 660,
+      "per_km2": 1.09
+    },
+    {
+      "kommunenummer": "4615",
+      "kommune": "Fitjar",
+      "fylke": "Vestland",
+      "fritidsbygninger": 642,
+      "per_km2": 4.77
+    },
+    {
+      "kommunenummer": "4634",
+      "kommune": "Masfjorden",
+      "fylke": "Vestland",
+      "fritidsbygninger": 641,
+      "per_km2": 1.26
+    },
+    {
+      "kommunenummer": "3314",
+      "kommune": "Øvre Eiker",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 639,
+      "per_km2": 1.53
+    },
+    {
+      "kommunenummer": "1866",
+      "kommune": "Hadsel",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 634,
+      "per_km2": 1.15
+    },
+    {
+      "kommunenummer": "1871",
+      "kommune": "Andøy",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 625,
+      "per_km2": 1.01
+    },
+    {
+      "kommunenummer": "3240",
+      "kommune": "Eidsvoll",
+      "fylke": "Akershus",
+      "fritidsbygninger": 622,
+      "per_km2": 1.61
+    },
+    {
+      "kommunenummer": "5036",
+      "kommune": "Frosta",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 617,
+      "per_km2": 8.31
+    },
+    {
+      "kommunenummer": "1818",
+      "kommune": "Herøy (Nordland)",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 617,
+      "per_km2": 9.66
+    },
+    {
+      "kommunenummer": "1870",
+      "kommune": "Sortland - Suortá",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 615,
+      "per_km2": 0.88
+    },
+    {
+      "kommunenummer": "3316",
+      "kommune": "Modum",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 613,
+      "per_km2": 1.32
+    },
+    {
+      "kommunenummer": "5520",
+      "kommune": "Bardu",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 613,
+      "per_km2": 0.24
+    },
+    {
+      "kommunenummer": "1834",
+      "kommune": "Lurøy",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 610,
+      "per_km2": 2.36
+    },
+    {
+      "kommunenummer": "1837",
+      "kommune": "Meløy",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 604,
+      "per_km2": 0.76
+    },
+    {
+      "kommunenummer": "1845",
+      "kommune": "Sørfold - Fuolldá",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 592,
+      "per_km2": 0.4
+    },
+    {
+      "kommunenummer": "1119",
+      "kommune": "Hå",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 589,
+      "per_km2": 2.38
+    },
+    {
+      "kommunenummer": "4650",
+      "kommune": "Gloppen",
+      "fylke": "Vestland",
+      "fritidsbygninger": 587,
+      "per_km2": 0.61
+    },
+    {
+      "kommunenummer": "5029",
+      "kommune": "Skaun",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 578,
+      "per_km2": 2.71
+    },
+    {
+      "kommunenummer": "1839",
+      "kommune": "Beiarn",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 576,
+      "per_km2": 0.49
+    },
+    {
+      "kommunenummer": "5628",
+      "kommune": "Deatnu - Tana",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 572,
+      "per_km2": 0.15
+    },
+    {
+      "kommunenummer": "3122",
+      "kommune": "Marker",
+      "fylke": "Østfold",
+      "fritidsbygninger": 565,
+      "per_km2": 1.54
+    },
+    {
+      "kommunenummer": "1836",
+      "kommune": "Rødøy",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 564,
+      "per_km2": 0.82
+    },
+    {
+      "kommunenummer": "1848",
+      "kommune": "Steigen",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 564,
+      "per_km2": 0.59
+    },
+    {
+      "kommunenummer": "3232",
+      "kommune": "Nittedal",
+      "fylke": "Akershus",
+      "fritidsbygninger": 560,
+      "per_km2": 3.12
+    },
+    {
+      "kommunenummer": "3415",
+      "kommune": "Sør-Odal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 559,
+      "per_km2": 1.17
+    },
+    {
+      "kommunenummer": "1851",
+      "kommune": "Lødingen",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 558,
+      "per_km2": 1.1
+    },
+    {
+      "kommunenummer": "3429",
+      "kommune": "Folldal",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 551,
+      "per_km2": 0.44
+    },
+    {
+      "kommunenummer": "4646",
+      "kommune": "Fjaler",
+      "fylke": "Vestland",
+      "fritidsbygninger": 546,
+      "per_km2": 1.4
+    },
+    {
+      "kommunenummer": "5049",
+      "kommune": "Flatanger",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 546,
+      "per_km2": 1.26
+    },
+    {
+      "kommunenummer": "3218",
+      "kommune": "Ås",
+      "fylke": "Akershus",
+      "fritidsbygninger": 544,
+      "per_km2": 5.39
+    },
+    {
+      "kommunenummer": "4643",
+      "kommune": "Årdal",
+      "fylke": "Vestland",
+      "fritidsbygninger": 539,
+      "per_km2": 0.58
+    },
+    {
+      "kommunenummer": "1112",
+      "kommune": "Lund",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 530,
+      "per_km2": 1.5
+    },
+    {
+      "kommunenummer": "1505",
+      "kommune": "Kristiansund",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 517,
+      "per_km2": 6
+    },
+    {
+      "kommunenummer": "4642",
+      "kommune": "Lærdal",
+      "fylke": "Vestland",
+      "fritidsbygninger": 502,
+      "per_km2": 0.39
+    },
+    {
+      "kommunenummer": "1822",
+      "kommune": "Leirfjord",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 502,
+      "per_km2": 1.11
+    },
+    {
+      "kommunenummer": "5624",
+      "kommune": "Lebesby",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 490,
+      "per_km2": 0.15
+    },
+    {
+      "kommunenummer": "3905",
+      "kommune": "Tønsberg",
+      "fylke": "Vestfold",
+      "fritidsbygninger": 485,
+      "per_km2": 1.49
+    },
+    {
+      "kommunenummer": "5522",
+      "kommune": "Salangen",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 483,
+      "per_km2": 1.1
+    },
+    {
+      "kommunenummer": "3420",
+      "kommune": "Elverum",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 482,
+      "per_km2": 0.4
+    },
+    {
+      "kommunenummer": "4648",
+      "kommune": "Bremanger",
+      "fylke": "Vestland",
+      "fritidsbygninger": 468,
+      "per_km2": 0.6
+    },
+    {
+      "kommunenummer": "3207",
+      "kommune": "Nordre Follo",
+      "fylke": "Akershus",
+      "fritidsbygninger": 463,
+      "per_km2": 2.35
+    },
+    {
+      "kommunenummer": "5544",
+      "kommune": "Nordreisa - Ráisa - Raisi",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 458,
+      "per_km2": 0.14
+    },
+    {
+      "kommunenummer": "1511",
+      "kommune": "Vanylven",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 454,
+      "per_km2": 1.24
+    },
+    {
+      "kommunenummer": "5612",
+      "kommune": "Guovdageaidnu - Kautokeino",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 448,
+      "per_km2": 0.05
+    },
+    {
+      "kommunenummer": "1853",
+      "kommune": "Evenes - Evenássi",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 433,
+      "per_km2": 1.79
+    },
+    {
+      "kommunenummer": "5514",
+      "kommune": "Ibestad",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 426,
+      "per_km2": 1.82
+    },
+    {
+      "kommunenummer": "3114",
+      "kommune": "Våler (Østfold)",
+      "fylke": "Østfold",
+      "fritidsbygninger": 418,
+      "per_km2": 1.75
+    },
+    {
+      "kommunenummer": "5536",
+      "kommune": "Lyngen - Ivgu - Yykeä",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 413,
+      "per_km2": 0.52
+    },
+    {
+      "kommunenummer": "5546",
+      "kommune": "Kvænangen",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 408,
+      "per_km2": 0.2
+    },
+    {
+      "kommunenummer": "5043",
+      "kommune": "Raarvihke - Røyrvik",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 407,
+      "per_km2": 0.31
+    },
+    {
+      "kommunenummer": "3236",
+      "kommune": "Jevnaker",
+      "fylke": "Akershus",
+      "fritidsbygninger": 404,
+      "per_km2": 2.08
+    },
+    {
+      "kommunenummer": "5632",
+      "kommune": "Båtsfjord",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 402,
+      "per_km2": 0.28
+    },
+    {
+      "kommunenummer": "5045",
+      "kommune": "Grong",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 400,
+      "per_km2": 0.37
+    },
+    {
+      "kommunenummer": "3116",
+      "kommune": "Skiptvet",
+      "fylke": "Østfold",
+      "fritidsbygninger": 396,
+      "per_km2": 4.26
+    },
+    {
+      "kommunenummer": "5031",
+      "kommune": "Malvik",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 395,
+      "per_km2": 2.44
+    },
+    {
+      "kommunenummer": "5636",
+      "kommune": "Unjárga - Nesseby",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 392,
+      "per_km2": 0.29
+    },
+    {
+      "kommunenummer": "1554",
+      "kommune": "Averøy",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 389,
+      "per_km2": 2.25
+    },
+    {
+      "kommunenummer": "3312",
+      "kommune": "Lier",
+      "fylke": "Buskerud",
+      "fritidsbygninger": 381,
+      "per_km2": 1.35
+    },
+    {
+      "kommunenummer": "1573",
+      "kommune": "Smøla",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 380,
+      "per_km2": 1.46
+    },
+    {
+      "kommunenummer": "5510",
+      "kommune": "Kvæfjord",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 379,
+      "per_km2": 0.76
+    },
+    {
+      "kommunenummer": "5618",
+      "kommune": "Måsøy",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 374,
+      "per_km2": 0.35
+    },
+    {
+      "kommunenummer": "1868",
+      "kommune": "Øksnes",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 373,
+      "per_km2": 1.2
+    },
+    {
+      "kommunenummer": "5041",
+      "kommune": "Snåase - Snåsa",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 372,
+      "per_km2": 0.17
+    },
+    {
+      "kommunenummer": "3901",
+      "kommune": "Horten",
+      "fylke": "Vestfold",
+      "fritidsbygninger": 368,
+      "per_km2": 5.32
+    },
+    {
+      "kommunenummer": "5630",
+      "kommune": "Berlevåg",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 364,
+      "per_km2": 0.34
+    },
+    {
+      "kommunenummer": "4639",
+      "kommune": "Vik",
+      "fylke": "Vestland",
+      "fritidsbygninger": 360,
+      "per_km2": 0.45
+    },
+    {
+      "kommunenummer": "5634",
+      "kommune": "Vardø",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 359,
+      "per_km2": 0.61
+    },
+    {
+      "kommunenummer": "4018",
+      "kommune": "Nome",
+      "fylke": "Telemark",
+      "fritidsbygninger": 357,
+      "per_km2": 0.93
+    },
+    {
+      "kommunenummer": "4223",
+      "kommune": "Vennesla",
+      "fylke": "Agder",
+      "fritidsbygninger": 355,
+      "per_km2": 0.98
+    },
+    {
+      "kommunenummer": "5020",
+      "kommune": "Osen",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 354,
+      "per_km2": 0.96
+    },
+    {
+      "kommunenummer": "4632",
+      "kommune": "Austrheim",
+      "fylke": "Vestland",
+      "fritidsbygninger": 352,
+      "per_km2": 6.2
+    },
+    {
+      "kommunenummer": "1820",
+      "kommune": "Alstahaug",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 351,
+      "per_km2": 1.88
+    },
+    {
+      "kommunenummer": "4645",
+      "kommune": "Askvoll",
+      "fylke": "Vestland",
+      "fritidsbygninger": 349,
+      "per_km2": 1.12
+    },
+    {
+      "kommunenummer": "1827",
+      "kommune": "Dønna",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 345,
+      "per_km2": 1.85
+    },
+    {
+      "kommunenummer": "5526",
+      "kommune": "Sørreisa",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 335,
+      "per_km2": 0.97
+    },
+    {
+      "kommunenummer": "1815",
+      "kommune": "Vega",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 333,
+      "per_km2": 2.05
+    },
+    {
+      "kommunenummer": "1867",
+      "kommune": "Bø",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 332,
+      "per_km2": 1.41
+    },
+    {
+      "kommunenummer": "5538",
+      "kommune": "Storfjord - Omasvuotna - Omasvuono",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 330,
+      "per_km2": 0.22
+    },
+    {
+      "kommunenummer": "4211",
+      "kommune": "Gjerstad",
+      "fylke": "Agder",
+      "fritidsbygninger": 328,
+      "per_km2": 1.07
+    },
+    {
+      "kommunenummer": "4614",
+      "kommune": "Stord",
+      "fylke": "Vestland",
+      "fritidsbygninger": 326,
+      "per_km2": 2.37
+    },
+    {
+      "kommunenummer": "1580",
+      "kommune": "Haram",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 325,
+      "per_km2": 1.28
+    },
+    {
+      "kommunenummer": "5610",
+      "kommune": "Kárásjohka - Karasjok",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 317,
+      "per_km2": 0.06
+    },
+    {
+      "kommunenummer": "5516",
+      "kommune": "Gratangen - Rivtták",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 314,
+      "per_km2": 1.03
+    },
+    {
+      "kommunenummer": "1811",
+      "kommune": "Bindal",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 311,
+      "per_km2": 0.26
+    },
+    {
+      "kommunenummer": "5620",
+      "kommune": "Nordkapp",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 306,
+      "per_km2": 0.34
+    },
+    {
+      "kommunenummer": "3443",
+      "kommune": "Vestre Toten",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 302,
+      "per_km2": 1.3
+    },
+    {
+      "kommunenummer": "1111",
+      "kommune": "Sokndal",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 298,
+      "per_km2": 1.12
+    },
+    {
+      "kommunenummer": "5047",
+      "kommune": "Overhalla",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 288,
+      "per_km2": 0.42
+    },
+    {
+      "kommunenummer": "3238",
+      "kommune": "Nannestad",
+      "fylke": "Akershus",
+      "fritidsbygninger": 286,
+      "per_km2": 0.88
+    },
+    {
+      "kommunenummer": "4620",
+      "kommune": "Ulvik",
+      "fylke": "Vestland",
+      "fritidsbygninger": 283,
+      "per_km2": 0.43
+    },
+    {
+      "kommunenummer": "4641",
+      "kommune": "Aurland",
+      "fylke": "Vestland",
+      "fritidsbygninger": 279,
+      "per_km2": 0.2
+    },
+    {
+      "kommunenummer": "1124",
+      "kommune": "Sola",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 278,
+      "per_km2": 4.04
+    },
+    {
+      "kommunenummer": "3434",
+      "kommune": "Lom",
+      "fylke": "Innlandet",
+      "fritidsbygninger": 270,
+      "per_km2": 0.14
+    },
+    {
+      "kommunenummer": "4218",
+      "kommune": "Iveland",
+      "fylke": "Agder",
+      "fritidsbygninger": 266,
+      "per_km2": 1.08
+    },
+    {
+      "kommunenummer": "1828",
+      "kommune": "Nesna",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 266,
+      "per_km2": 1.47
+    },
+    {
+      "kommunenummer": "3120",
+      "kommune": "Rakkestad",
+      "fylke": "Østfold",
+      "fritidsbygninger": 264,
+      "per_km2": 0.63
+    },
+    {
+      "kommunenummer": "5542",
+      "kommune": "Skjervøy",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 257,
+      "per_km2": 0.55
+    },
+    {
+      "kommunenummer": "4637",
+      "kommune": "Hyllestad",
+      "fylke": "Vestland",
+      "fritidsbygninger": 245,
+      "per_km2": 0.99
+    },
+    {
+      "kommunenummer": "5044",
+      "kommune": "Namsskogan",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 245,
+      "per_km2": 0.18
+    },
+    {
+      "kommunenummer": "5626",
+      "kommune": "Gamvik",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 243,
+      "per_km2": 0.18
+    },
+    {
+      "kommunenummer": "5046",
+      "kommune": "Høylandet",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 239,
+      "per_km2": 0.34
+    },
+    {
+      "kommunenummer": "1516",
+      "kommune": "Ulstein",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 225,
+      "per_km2": 2.37
+    },
+    {
+      "kommunenummer": "5528",
+      "kommune": "Dyrøy",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 222,
+      "per_km2": 0.8
+    },
+    {
+      "kommunenummer": "4010",
+      "kommune": "Siljan",
+      "fylke": "Telemark",
+      "fritidsbygninger": 217,
+      "per_km2": 1.07
+    },
+    {
+      "kommunenummer": "4636",
+      "kommune": "Solund",
+      "fylke": "Vestland",
+      "fritidsbygninger": 215,
+      "per_km2": 0.98
+    },
+    {
+      "kommunenummer": "1106",
+      "kommune": "Haugesund",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 212,
+      "per_km2": 3.1
+    },
+    {
+      "kommunenummer": "1145",
+      "kommune": "Bokn",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 209,
+      "per_km2": 4.69
+    },
+    {
+      "kommunenummer": "5518",
+      "kommune": "Loabák - Lavangen",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 191,
+      "per_km2": 0.65
+    },
+    {
+      "kommunenummer": "1859",
+      "kommune": "Flakstad",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 184,
+      "per_km2": 1.09
+    },
+    {
+      "kommunenummer": "1514",
+      "kommune": "Sande",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 182,
+      "per_km2": 2.02
+    },
+    {
+      "kommunenummer": "1120",
+      "kommune": "Klepp",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 178,
+      "per_km2": 1.74
+    },
+    {
+      "kommunenummer": "5616",
+      "kommune": "Hasvik",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 176,
+      "per_km2": 0.33
+    },
+    {
+      "kommunenummer": "1515",
+      "kommune": "Herøy (Møre og Romsdal)",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 170,
+      "per_km2": 1.44
+    },
+    {
+      "kommunenummer": "1812",
+      "kommune": "Sømna",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 167,
+      "per_km2": 0.87
+    },
+    {
+      "kommunenummer": "1816",
+      "kommune": "Vevelstad",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 155,
+      "per_km2": 0.3
+    },
+    {
+      "kommunenummer": "5614",
+      "kommune": "Loppa",
+      "fylke": "Finnmark - Finnmárku - Finmarkku",
+      "fritidsbygninger": 151,
+      "per_km2": 0.22
+    },
+    {
+      "kommunenummer": "4629",
+      "kommune": "Modalen",
+      "fylke": "Vestland",
+      "fritidsbygninger": 149,
+      "per_km2": 0.39
+    },
+    {
+      "kommunenummer": "1874",
+      "kommune": "Moskenes",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 134,
+      "per_km2": 1.21
+    },
+    {
+      "kommunenummer": "5540",
+      "kommune": "Gáivuotna - Kåfjord - Kaivuono",
+      "fylke": "Troms - Romsa - Tromssa",
+      "fritidsbygninger": 134,
+      "per_km2": 0.14
+    },
+    {
+      "kommunenummer": "1531",
+      "kommune": "Sula",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 128,
+      "per_km2": 2.24
+    },
+    {
+      "kommunenummer": "1127",
+      "kommune": "Randaberg",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 125,
+      "per_km2": 5.18
+    },
+    {
+      "kommunenummer": "1517",
+      "kommune": "Hareid",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 122,
+      "per_km2": 1.59
+    },
+    {
+      "kommunenummer": "3224",
+      "kommune": "Rælingen",
+      "fylke": "Akershus",
+      "fritidsbygninger": 121,
+      "per_km2": 2.14
+    },
+    {
+      "kommunenummer": "5052",
+      "kommune": "Leka",
+      "fylke": "Trøndelag - Trööndelage",
+      "fritidsbygninger": 116,
+      "per_km2": 1.07
+    },
+    {
+      "kommunenummer": "3209",
+      "kommune": "Ullensaker",
+      "fylke": "Akershus",
+      "fritidsbygninger": 100,
+      "per_km2": 0.4
+    },
+    {
+      "kommunenummer": "1144",
+      "kommune": "Kvitsøy",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 74,
+      "per_km2": 11.8
+    },
+    {
+      "kommunenummer": "3230",
+      "kommune": "Gjerdrum",
+      "fylke": "Akershus",
+      "fritidsbygninger": 64,
+      "per_km2": 0.78
+    },
+    {
+      "kommunenummer": "4633",
+      "kommune": "Fedje",
+      "fylke": "Vestland",
+      "fritidsbygninger": 59,
+      "per_km2": 6.59
+    },
+    {
+      "kommunenummer": "1547",
+      "kommune": "Aukra",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 58,
+      "per_km2": 0.96
+    },
+    {
+      "kommunenummer": "1121",
+      "kommune": "Time",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 53,
+      "per_km2": 0.31
+    },
+    {
+      "kommunenummer": "1835",
+      "kommune": "Træna",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 40,
+      "per_km2": 2.43
+    },
+    {
+      "kommunenummer": "1856",
+      "kommune": "Røst",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 38,
+      "per_km2": 3.89
+    },
+    {
+      "kommunenummer": "1532",
+      "kommune": "Giske",
+      "fylke": "Møre og Romsdal",
+      "fritidsbygninger": 33,
+      "per_km2": 0.83
+    },
+    {
+      "kommunenummer": "3222",
+      "kommune": "Lørenskog",
+      "fylke": "Akershus",
+      "fritidsbygninger": 19,
+      "per_km2": 0.28
+    },
+    {
+      "kommunenummer": "1857",
+      "kommune": "Værøy",
+      "fylke": "Nordland - Nordlánnda",
+      "fritidsbygninger": 16,
+      "per_km2": 0.86
+    },
+    {
+      "kommunenummer": "1151",
+      "kommune": "Utsira",
+      "fylke": "Rogaland",
+      "fritidsbygninger": 9,
+      "per_km2": 1.44
+    }
+  ],
+  "meta": {
+    "title": "Fritidsboliger (hytter) per kommune 2026 - Free Download",
+    "description": "Antall fritidsbygninger (hytter og fritidsboliger) og fritidsbygninger per km² i hver kommune per 1. januar 2026, fra SSBs statistikk over eksisterende bygningsmasse. Contains 357 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Fritidsboliger (hytter) per kommune 2026 | ListBase",
+    "seo_description": "Download Fritidsboliger (hytter) per kommune 2026 — 357 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 357 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/05467"
+    ]
+  }
+}

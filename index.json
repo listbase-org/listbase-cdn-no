@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-14T02:09:00.422Z",
-  "total_datasets": 496,
-  "total_records": 1206834,
+  "generated": "2026-11-14T02:09:08.565Z",
+  "total_datasets": 497,
+  "total_records": 1207191,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -13208,6 +13208,32 @@
         "xlsx": {
           "name": "no-alpinanlegg_NO.xlsx",
           "size": 20838
+        }
+      }
+    },
+    {
+      "id": "no-fritidsbygninger-per-kommune",
+      "name": "Fritidsboliger (hytter) per kommune 2026",
+      "category": "tourism",
+      "record_count": 357,
+      "columns": [
+        "kommunenummer",
+        "kommune",
+        "fylke",
+        "fritidsbygninger",
+        "per_km2"
+      ],
+      "source": "https://www.ssb.no/statbank/table/05467",
+      "updated": "2026-11",
+      "size": 58874,
+      "files": {
+        "csv": {
+          "name": "no-fritidsbygninger-per-kommune_NO.csv",
+          "size": 17546
+        },
+        "xlsx": {
+          "name": "no-fritidsbygninger-per-kommune_NO.xlsx",
+          "size": 19906
         }
       }
     },
