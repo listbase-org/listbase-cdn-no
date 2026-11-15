@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-14T02:09:08.565Z",
-  "total_datasets": 497,
-  "total_records": 1207191,
+  "generated": "2026-11-15T02:12:56.709Z",
+  "total_datasets": 498,
+  "total_records": 1207209,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 27
+      "dataset_count": 28
     },
     {
       "id": "economy",
@@ -1075,6 +1075,32 @@
         "xlsx": {
           "name": "no-kommuneslagord_NO.xlsx",
           "size": 16600
+        }
+      }
+    },
+    {
+      "id": "no-kulturministre",
+      "name": "Norges kulturministre",
+      "category": "culture",
+      "record_count": 18,
+      "columns": [
+        "name",
+        "from_year",
+        "to_year",
+        "party",
+        "government"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_kulturministre",
+      "updated": "2026-11",
+      "size": 4513,
+      "files": {
+        "csv": {
+          "name": "no-kulturministre_NO.csv",
+          "size": 1229
+        },
+        "xlsx": {
+          "name": "no-kulturministre_NO.xlsx",
+          "size": 7582
         }
       }
     },

@@ -1,0 +1,177 @@
+{
+  "id": "no-kulturministre",
+  "name": "Norges kulturministre",
+  "title": "Norges kulturministre",
+  "description": "Norges kulturministre siden opprettelsen av Kulturdepartementet i 1982, med periode, parti og regjering.",
+  "category": "culture",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_kulturministre",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_Norges_kulturministre",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "from_year",
+      "label": "From Year",
+      "type": "number"
+    },
+    {
+      "key": "to_year",
+      "label": "To Year",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Lars Roar Langslet",
+      "from_year": 1981,
+      "to_year": 1986,
+      "party": "Høyre",
+      "government": "Willoch (H; fra 1983 H, KrF, Sp)"
+    },
+    {
+      "name": "Hallvard Bakke",
+      "from_year": 1986,
+      "to_year": 1989,
+      "party": "Ap",
+      "government": "Brundtland II (Ap)"
+    },
+    {
+      "name": "Eleonore Bjartveit",
+      "from_year": 1989,
+      "to_year": 1990,
+      "party": "KrF",
+      "government": "Syse (H, KrF, Sp)"
+    },
+    {
+      "name": "Åse Kleveland",
+      "from_year": 1990,
+      "to_year": 1996,
+      "party": "Ap",
+      "government": "Brundtland III (Ap)"
+    },
+    {
+      "name": "Turid Birkeland",
+      "from_year": 1996,
+      "to_year": 1997,
+      "party": "Ap",
+      "government": "Jagland (Ap)"
+    },
+    {
+      "name": "Anne Enger Lahnstein",
+      "from_year": 1997,
+      "to_year": 1999,
+      "party": "Sp",
+      "government": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "name": "Åslaug Haga",
+      "from_year": 1999,
+      "to_year": 2000,
+      "party": "Sp",
+      "government": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "name": "Ellen Horn",
+      "from_year": 2000,
+      "to_year": 2001,
+      "party": "Ap",
+      "government": "Stoltenberg I (Ap)"
+    },
+    {
+      "name": "Valgerd Svarstad Haugland",
+      "from_year": 2001,
+      "to_year": 2005,
+      "party": "KrF",
+      "government": "Bondevik II (KrF, H, V)"
+    },
+    {
+      "name": "Trond Giske",
+      "from_year": 2005,
+      "to_year": 2009,
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "name": "Anniken Huitfeldt",
+      "from_year": 2009,
+      "to_year": 2012,
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "name": "Hadia Tajik",
+      "from_year": 2012,
+      "to_year": 2013,
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "name": "Thorhild Widvey",
+      "from_year": 2013,
+      "to_year": 2015,
+      "party": "H",
+      "government": "Solberg (H, Frp)"
+    },
+    {
+      "name": "Linda Hofstad Helleland",
+      "from_year": 2015,
+      "to_year": 2018,
+      "party": "H",
+      "government": "Solberg (H, Frp)"
+    },
+    {
+      "name": "Trine Skei Grande",
+      "from_year": 2018,
+      "to_year": 2020,
+      "party": "V",
+      "government": "Solberg (H, Frp, V) Solberg (H, Frp, V, KrF, fra 22. januar 2019)"
+    },
+    {
+      "name": "Abid Raja",
+      "from_year": 2020,
+      "to_year": 2021,
+      "party": "V",
+      "government": "Solberg (H, V, KrF)"
+    },
+    {
+      "name": "Anette Trettebergstuen",
+      "from_year": 2021,
+      "to_year": 2023,
+      "party": "Ap",
+      "government": "Støre (Ap, Sp)"
+    },
+    {
+      "name": "Lubna Jaffery",
+      "from_year": 2023,
+      "to_year": "",
+      "party": "Ap",
+      "government": "Støre (Ap, Sp) Støre (Ap, fra 4. februar 2025)"
+    }
+  ],
+  "meta": {
+    "title": "Norges kulturministre - Free Download",
+    "description": "Norges kulturministre siden opprettelsen av Kulturdepartementet i 1982, med periode, parti og regjering. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges kulturministre | ListBase",
+    "seo_description": "Download Norges kulturministre — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_Norges_kulturministre"
+    ]
+  }
+}
