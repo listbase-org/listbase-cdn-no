@@ -1,0 +1,544 @@
+{
+  "id": "no-primstav-merkedager",
+  "name": "Merkedager på primstaven",
+  "title": "Merkedager på primstaven",
+  "description": "Merkedagene på den norske primstaven (sommer- og vinterhalvåret) med dato, merkenavn og symbolet som er skåret inn på primstaven.",
+  "category": "time",
+  "source": "https://no.wikipedia.org/wiki/Primstav",
+  "source_url": "https://no.wikipedia.org/wiki/Primstav",
+  "updated": "2026-11",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "primstav_symbol",
+      "label": "Primstav Symbol",
+      "type": "string"
+    },
+    {
+      "key": "half_year",
+      "label": "Half Year",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "14. april",
+      "name": "Sommermål, sommerdag, sommernatt",
+      "primstav_symbol": "Løvtre, gren",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "16. april",
+      "name": "Magnusmesse, tredjedag sommer",
+      "primstav_symbol": "Pil, øks, halvt kors",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "23. april",
+      "name": "Jørgensdag",
+      "primstav_symbol": "Kors, hest",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "25. april",
+      "name": "Markusmesse, Markusdagen, store gangdag",
+      "primstav_symbol": "Blad på en kvist, fjærpenn, fugl",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "1. mai",
+      "name": "Gauksmesse, lille gangdag",
+      "primstav_symbol": "Gjøk, dobbelt kors",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "3. mai",
+      "name": "Korsmesse vår",
+      "primstav_symbol": "Stort kors",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "15. mai",
+      "name": "Hallvardsmesse, Hallvardsvaka, hallsok",
+      "primstav_symbol": "Møllestein, prikker (såkorn)",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "18. mai",
+      "name": "Eriksmesse",
+      "primstav_symbol": "Aks, sverd, krone",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "22. mai",
+      "name": "Bjørnevåk",
+      "primstav_symbol": "Bjørnefot",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "25. mai",
+      "name": "Urbanus",
+      "primstav_symbol": "Møkkagreip",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "3. juni",
+      "name": "Rasmusdagen, skoklefallsdagen",
+      "primstav_symbol": "Bor",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "8. juni",
+      "name": "Medardus og Gilardus",
+      "primstav_symbol": "Fiskekrok",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "9. juni",
+      "name": "Kolumbamesse, Kolbjørn med laksen",
+      "primstav_symbol": "Fisk",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "17. juni",
+      "name": "Botolvsmesse, botsok",
+      "primstav_symbol": "Bispestav, kors",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "21. juni",
+      "name": "Sommersolverv",
+      "primstav_symbol": "Sol",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "22. juni",
+      "name": "De ti tusen riddere, de ti tusen martyrer",
+      "primstav_symbol": "Timeglass",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "24. juni",
+      "name": "Sankthans, Jonsmesse, Jonsok",
+      "primstav_symbol": "Sol, timeglass",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "29. juni",
+      "name": "Petersmesse, Persok, Peter med gullnøkkelen",
+      "primstav_symbol": "Nøkkel, blomst",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "2. juli",
+      "name": "Syftesok",
+      "primstav_symbol": "Bispestav",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "8. juli",
+      "name": "Tredjevaka, Kjell fut, Kjell sviebygg, Seljemannamesse, Sunniva Virginis",
+      "primstav_symbol": "Ljå",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "10. juli",
+      "name": "Knutsmesse, knutsok, Knut med ljåen, Kong Knut",
+      "primstav_symbol": "Krone, rive, ljå",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "12. juli",
+      "name": "Kari med riva",
+      "primstav_symbol": "Rive",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "14. juli",
+      "name": "Midtsommerdag",
+      "primstav_symbol": "Sol, tre",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "20. juli",
+      "name": "Marit Vassause, Margretemesse, Mari(t)messe",
+      "primstav_symbol": "Hjul, «M», kors med glorie",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "22. juli",
+      "name": "Mari stol, magdalidagen, magdalimesse",
+      "primstav_symbol": "Krone med kors, beger",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "25. juli",
+      "name": "Jakobsmesse, Jakob våthatt",
+      "primstav_symbol": "Kors, sverd, hatt",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "29. juli",
+      "name": "Olsok, Olafsvaka",
+      "primstav_symbol": "Øks (Olavsøks eller Olavsbile)",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "1. august",
+      "name": "Peters lenker, Peder vindfells dag, Per vinkel",
+      "primstav_symbol": "Nøkkel",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "3. august",
+      "name": "Vesle olsok, Olsok siare, Translatio Olavi",
+      "primstav_symbol": "Øks (mindre enn olsokøksa)",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "10. august",
+      "name": "Larsok, Lavransvaka",
+      "primstav_symbol": "Rist",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "15. august",
+      "name": "Marimesse førre, våre frue dyre, Marias himmelfart",
+      "primstav_symbol": "Krone eller kvinnefigur",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "24. august",
+      "name": "Barsok, Bartholomeusmesse, bardonsok, Berdon bukkekniv, Bertel brytestrå",
+      "primstav_symbol": "Øks, kniv eller et kors",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "29. august",
+      "name": "Vergismesse, Johannes halshogg",
+      "primstav_symbol": "Sverd (verge)",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "1. september",
+      "name": "Eidismesse, Kvernknarren",
+      "primstav_symbol": "Kvernstein",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "8. september",
+      "name": "Marimesse siare, vår frue siare, morsmesse",
+      "primstav_symbol": "Krone, «M», sauesaks",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "14. september",
+      "name": "Korsmesse høst",
+      "primstav_symbol": "Kors",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "21. september",
+      "name": "Mattismesse høst, Mattheusmesse, Mattisdag, (høstjevndøgn)",
+      "primstav_symbol": "Øks",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "29. september",
+      "name": "Mikkelsmesse, mikeli",
+      "primstav_symbol": "Lur, vekt",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "4. oktober",
+      "name": "St. Frans",
+      "primstav_symbol": "Halvkors",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "7. oktober",
+      "name": "Britemesse",
+      "primstav_symbol": "Bok, hus",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "9. oktober",
+      "name": "Dinesmesse, Deinets dag",
+      "primstav_symbol": "Fisk, flagg, bispestav",
+      "half_year": "sommerhalvåret"
+    },
+    {
+      "date": "14. oktober",
+      "name": "Vinternettene, vinterdag, vinternatt høstblot (førkristen)",
+      "primstav_symbol": "Tre uten blader, (pave)hanske, vott",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "18. oktober",
+      "name": "Lukasmesse, Lukas våtmann",
+      "primstav_symbol": "Kors, okse, slaktebenk",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "21. oktober",
+      "name": "St. Ursula, jomfrudagen 11 000 jomfruer",
+      "primstav_symbol": "Kvinnefigurer, krone, pil, palme, ring",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "28. oktober",
+      "name": "Simonsmesse, Simon og Judas. På norsk også kalt fyrebod som betyr varsel om vinteren som kommer.",
+      "primstav_symbol": "Kors med to sett armer, spyd, gren med to blader",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "1. november",
+      "name": "Allehelgensdag, helgemesse, aldermesse",
+      "primstav_symbol": "Kors, omvendt skip",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "2. november",
+      "name": "Alle sjelers dag",
+      "primstav_symbol": "Menneskefigur, flere mennesker",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "11. november",
+      "name": "Mortensmesse, Mortensdag, også kalt bjørnedagen (da bjørnen går i hi).",
+      "primstav_symbol": "Gås, bispestav, drikkehorn",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "21. november",
+      "name": "Marioffer (Presentatio Mariae)",
+      "primstav_symbol": "Hode med krone eller glorie",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "23. november",
+      "name": "Klemetsmesse, båtsok, Klemet kirkebygger, Klemet saueskjærer",
+      "primstav_symbol": "Anker, kirke, pavekrone",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "25. november",
+      "name": "Karimesse, Karenmesse, Kari med rokken",
+      "primstav_symbol": "Sverd, kors, hjul, rokk",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "30. november",
+      "name": "Andersmesse, Anders fisker",
+      "primstav_symbol": "Andreaskors (skjevt kors), revesaks, fiskekrok",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "4. desember",
+      "name": "Barbromesse, Barbrodøgnet",
+      "primstav_symbol": "Kors, tårn, sverd, slede, rokk, «B»",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "6. desember",
+      "name": "Nilsmesse, Nikolausdagen, Nils Skinnikar",
+      "primstav_symbol": "Bispelue, bispestav, kors, «N»",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "8. desember",
+      "name": "Maria unnfangelsesdag, vår frue ventedøgn",
+      "primstav_symbol": "Kronet hode, fiskenot, bok",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "9. desember",
+      "name": "Anna matris Mariae, Anna røytrauv, (Anna) pissihose, Annadagen",
+      "primstav_symbol": "Kvinnehode, kanne, gren, bryggeutstyr",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "13. desember",
+      "name": "Lussimesse, Lussinatt, Luciadagen",
+      "primstav_symbol": "Bål, lys, saks",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "21. desember",
+      "name": "Tomasmesse I, Tomas brygger",
+      "primstav_symbol": "Tønne, kors, hånd med rette fingre",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "22. desember",
+      "name": "Vintersolverv",
+      "primstav_symbol": "Sol",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "23. desember",
+      "name": "Tollesmesse, Sjursmesse, lille julaften, vaskenatt",
+      "primstav_symbol": "Halvkors, sopelime",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "25. desember",
+      "name": "Juledag, Natalis Christi",
+      "primstav_symbol": "Drikkehorn, kandelaber, tønne, sol",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "28. desember",
+      "name": "Barnedag, barnemesse",
+      "primstav_symbol": "Lite kors, (sverd)",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "1. januar",
+      "name": "Nyttårsdag, åttendedagen",
+      "primstav_symbol": "Solhjul, timeglass, kirke",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "6. januar",
+      "name": "Helligtrekongersdag, trettendedagen",
+      "primstav_symbol": "Tre kors, tre kroner, tre menn",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "7. januar",
+      "name": "Eldbjørgdag, ildbergingsdag, St. Knut",
+      "primstav_symbol": "Kors",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "11. januar",
+      "name": "Brettemesse, brokkismesse, brykkesmesse",
+      "primstav_symbol": "Øks, hest",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "12. januar",
+      "name": "Midtvinterdag, hökunótt",
+      "primstav_symbol": "Prikker (snø)",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "13. januar",
+      "name": "Tjuendedagen, Knutsdag, avfaredag, gamle nyttårsdag",
+      "primstav_symbol": "Øks, klokke, tønne, omvendt drikkehorn",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "14. januar",
+      "name": "Midtvinterdagen (hedensk jul)",
+      "primstav_symbol": "",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "17. januar",
+      "name": "Antonsmesse",
+      "primstav_symbol": "Kors, gris",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "20. januar",
+      "name": "Brødremesse",
+      "primstav_symbol": "Øks, to piler i kors",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "25. januar",
+      "name": "Pålsmesse, Pål med bogen, Pål skytter",
+      "primstav_symbol": "Bue, sverd, fisk",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "2. februar",
+      "name": "Kyndelsmesse, kindermesse, kjærmesse, lysenes messe, missa candelarum",
+      "primstav_symbol": "Syvarmet lysestake, lilje, kronet hode",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "3. februar",
+      "name": "Blåsmesse, Blåsius",
+      "primstav_symbol": "Horn, båt for fulle seil",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "5. februar",
+      "name": "Ågotsmesse, musedagen",
+      "primstav_symbol": "Mus, kors",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "22. februar",
+      "name": "Peters stol, Per varmestein, Per heitstein",
+      "primstav_symbol": "Nøkkel, stein",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "24. februar",
+      "name": "Mattismesse vår, Mattis",
+      "primstav_symbol": "Øks, (omvendt) «M»",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "9. mars",
+      "name": "De førti riddere",
+      "primstav_symbol": "Halv sol",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "12. mars",
+      "name": "Gregormesse, Gregoriusdagen, Gregusmesse, Groårsmesse",
+      "primstav_symbol": "Fugl (due)",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "17. mars",
+      "name": "Gjertrudsmesse, Gjertrudsdagen",
+      "primstav_symbol": "Rokkesnelle, lilje, bjørkekvist, kapell",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "18. mars",
+      "name": "Petrus martyr, Per pekk i vatn",
+      "primstav_symbol": "Pigghakke",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "21. mars",
+      "name": "Bendiksmesse, Bendik/Bent prøvesvin, (vårjevndøgn, jamvår)",
+      "primstav_symbol": "Halvt kors",
+      "half_year": "vinterhalvåret"
+    },
+    {
+      "date": "25. mars",
+      "name": "Maria bebudelsesdag, vårfrumesse, Marimesse, vårmesse",
+      "primstav_symbol": "Krone, kvinnefigur, hode, tre",
+      "half_year": "vinterhalvåret"
+    }
+  ],
+  "meta": {
+    "title": "Merkedager på primstaven - Free Download",
+    "description": "Merkedagene på den norske primstaven (sommer- og vinterhalvåret) med dato, merkenavn og symbolet som er skåret inn på primstaven. Contains 83 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Merkedager på primstaven | ListBase",
+    "seo_description": "Download Merkedager på primstaven — 83 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 83 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Primstav"
+    ]
+  }
+}

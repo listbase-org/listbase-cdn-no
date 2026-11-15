@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-15T02:13:06.267Z",
-  "total_datasets": 499,
-  "total_records": 1207275,
+  "generated": "2026-11-15T02:13:15.136Z",
+  "total_datasets": 500,
+  "total_records": 1207358,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -13201,6 +13201,31 @@
         "xlsx": {
           "name": "no-offisielle-flaggdager_NO.xlsx",
           "size": 7357
+        }
+      }
+    },
+    {
+      "id": "no-primstav-merkedager",
+      "name": "Merkedager på primstaven",
+      "category": "time",
+      "record_count": 83,
+      "columns": [
+        "date",
+        "name",
+        "primstav_symbol",
+        "half_year"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Primstav",
+      "updated": "2026-11",
+      "size": 16160,
+      "files": {
+        "csv": {
+          "name": "no-primstav-merkedager_NO.csv",
+          "size": 7402
+        },
+        "xlsx": {
+          "name": "no-primstav-merkedager_NO.xlsx",
+          "size": 10982
         }
       }
     },
