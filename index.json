@@ -1,12 +1,12 @@
 {
   "lang": "no",
-  "generated": "2026-11-15T02:12:56.709Z",
-  "total_datasets": 498,
-  "total_records": 1207209,
+  "generated": "2026-11-15T02:13:06.267Z",
+  "total_datasets": 499,
+  "total_records": 1207275,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -232,6 +232,32 @@
         "xlsx": {
           "name": "no-jordbruksareal-vekster_NO.xlsx",
           "size": 7363
+        }
+      }
+    },
+    {
+      "id": "no-landbruksministre",
+      "name": "Norges landbruksministre",
+      "category": "agriculture",
+      "record_count": 66,
+      "columns": [
+        "name",
+        "from_year",
+        "to_year",
+        "party",
+        "government"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_landbruksministre",
+      "updated": "2026-11",
+      "size": 12045,
+      "files": {
+        "csv": {
+          "name": "no-landbruksministre_NO.csv",
+          "size": 3970
+        },
+        "xlsx": {
+          "name": "no-landbruksministre_NO.xlsx",
+          "size": 9478
         }
       }
     },

@@ -1,0 +1,513 @@
+{
+  "id": "no-landbruksministre",
+  "name": "Norges landbruksministre",
+  "title": "Norges landbruksministre",
+  "description": "Norges landbruksministre fra 1900 til i dag (inkludert statsråder under okkupasjonen 1940–1945), med periode, parti og regjering.",
+  "category": "agriculture",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_landbruksministre",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_Norges_landbruksministre",
+  "updated": "2026-11",
+  "record_count": 66,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "from_year",
+      "label": "From Year",
+      "type": "number"
+    },
+    {
+      "key": "to_year",
+      "label": "To Year",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ole Anton Qvam",
+      "from_year": 1900,
+      "to_year": 1900,
+      "party": "V",
+      "government": "Steen II (V)"
+    },
+    {
+      "name": "Wollert Konow",
+      "from_year": 1900,
+      "to_year": 1903,
+      "party": "V",
+      "government": "Steen II (V), Blehr I (V)"
+    },
+    {
+      "name": "Gunnar Knudsen",
+      "from_year": 1903,
+      "to_year": 1903,
+      "party": "V",
+      "government": "Blehr I (V)"
+    },
+    {
+      "name": "Christian P. Mathiesen",
+      "from_year": 1903,
+      "to_year": 1904,
+      "party": "H",
+      "government": "Hagerup II (H)"
+    },
+    {
+      "name": "Johan E. Mellbye",
+      "from_year": 1904,
+      "to_year": 1905,
+      "party": "H",
+      "government": "Hagerup II (H)"
+    },
+    {
+      "name": "Aasmund Halvorsen Vinje",
+      "from_year": 1905,
+      "to_year": 1906,
+      "party": "MV",
+      "government": "Michelsen (V, H, MV, Saml.)"
+    },
+    {
+      "name": "Sven Aarrestad",
+      "from_year": 1906,
+      "to_year": 1908,
+      "party": "V",
+      "government": "Michelsen (V, H, MV, Saml.), Løvland (V, MV)"
+    },
+    {
+      "name": "Hans Konrad Foosnæs",
+      "from_year": 1908,
+      "to_year": 1910,
+      "party": "V",
+      "government": "Knudsen I (V, DFNA)"
+    },
+    {
+      "name": "Wollert Konow",
+      "from_year": 1910,
+      "to_year": 1910,
+      "party": "FV",
+      "government": "Konow (FV, H)"
+    },
+    {
+      "name": "Bernt Holtsmark",
+      "from_year": 1910,
+      "to_year": 1912,
+      "party": "FV",
+      "government": "Konow (FV, H)"
+    },
+    {
+      "name": "Erik Enge",
+      "from_year": 1912,
+      "to_year": 1913,
+      "party": "FV",
+      "government": "Bratlie (H, FV)"
+    },
+    {
+      "name": "Gunnar Knudsen",
+      "from_year": 1913,
+      "to_year": 1919,
+      "party": "V",
+      "government": "Knudsen II (V)"
+    },
+    {
+      "name": "Håkon Five",
+      "from_year": 1919,
+      "to_year": 1920,
+      "party": "V",
+      "government": "Knudsen II (V)"
+    },
+    {
+      "name": "Gunder Anton Jahren",
+      "from_year": 1920,
+      "to_year": 1921,
+      "party": "H",
+      "government": "Halvorsen I (H, FV)"
+    },
+    {
+      "name": "Martin Olsen Nalum",
+      "from_year": 1921,
+      "to_year": 1921,
+      "party": "V",
+      "government": "Blehr II (V)"
+    },
+    {
+      "name": "Håkon Five",
+      "from_year": 1921,
+      "to_year": 1923,
+      "party": "V",
+      "government": "Blehr II (V)"
+    },
+    {
+      "name": "Anders Venger",
+      "from_year": 1923,
+      "to_year": 1924,
+      "party": "H",
+      "government": "Halvorsen II (H, FV), Berge (FV, H)"
+    },
+    {
+      "name": "Håkon Five",
+      "from_year": 1924,
+      "to_year": 1926,
+      "party": "V",
+      "government": "Mowinckel (V)"
+    },
+    {
+      "name": "Ole Bærøe",
+      "from_year": 1926,
+      "to_year": 1928,
+      "party": "H",
+      "government": "Lykke (H, FV)"
+    },
+    {
+      "name": "Johan Nygaardsvold",
+      "from_year": 1928,
+      "to_year": 1928,
+      "party": "Ap",
+      "government": "Hornsrud (Ap)"
+    },
+    {
+      "name": "Hans Jørgensen Aarstad",
+      "from_year": 1928,
+      "to_year": 1931,
+      "party": "V",
+      "government": "Mowinckel II (V)"
+    },
+    {
+      "name": "Jon Sundby",
+      "from_year": 1931,
+      "to_year": 1932,
+      "party": "B",
+      "government": "Kolstad (B)"
+    },
+    {
+      "name": "Ivar Kirkeby-Garstad (kst.)",
+      "from_year": 1932,
+      "to_year": 1932,
+      "party": "B",
+      "government": "Kolstad (B)"
+    },
+    {
+      "name": "Jens Hundseid",
+      "from_year": 1932,
+      "to_year": 1933,
+      "party": "B",
+      "government": "Hundseid (B)"
+    },
+    {
+      "name": "Håkon Five",
+      "from_year": 1933,
+      "to_year": 1935,
+      "party": "V",
+      "government": "Mowinckel III (V)"
+    },
+    {
+      "name": "Hans Ystgaard",
+      "from_year": 1935,
+      "to_year": 1945,
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "name": "Paul Hartmann (fung.)",
+      "from_year": 1945,
+      "to_year": 1945,
+      "party": "Uavh.",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "name": "Tormod Hustad",
+      "from_year": 1940,
+      "to_year": 1940,
+      "party": "NS",
+      "government": "Quisling I"
+    },
+    {
+      "name": "Rasmus Johannes Mork",
+      "from_year": 1940,
+      "to_year": 1940,
+      "party": "Uavh.",
+      "government": "Administrasjonsrådet"
+    },
+    {
+      "name": "Thorstein Fretheim",
+      "from_year": 1940,
+      "to_year": 1945,
+      "party": "NS",
+      "government": "Terbovens komm., Quisling II"
+    },
+    {
+      "name": "Trygve Dehli Laurantzon",
+      "from_year": 1945,
+      "to_year": 1945,
+      "party": "NS",
+      "government": "Quisling II"
+    },
+    {
+      "name": "Einar Frogner",
+      "from_year": 1945,
+      "to_year": 1945,
+      "party": "B",
+      "government": "Gerhardsen I (Saml.)"
+    },
+    {
+      "name": "Kristian Fjeld",
+      "from_year": 1945,
+      "to_year": 1951,
+      "party": "Ap",
+      "government": "Gerhardsen II (Ap)"
+    },
+    {
+      "name": "Olav Oksvik (kst.)",
+      "from_year": 1947,
+      "to_year": 1948,
+      "party": "Ap",
+      "government": "Gerhardsen II (Ap)"
+    },
+    {
+      "name": "Rasmus Nordbø",
+      "from_year": 1951,
+      "to_year": 1955,
+      "party": "Ap",
+      "government": "Torp (Ap)"
+    },
+    {
+      "name": "Olav Meisdalshagen",
+      "from_year": 1955,
+      "to_year": 1956,
+      "party": "Ap",
+      "government": "Gerhardsen III (Ap)"
+    },
+    {
+      "name": "Harald Løbak",
+      "from_year": 1956,
+      "to_year": 1960,
+      "party": "Ap",
+      "government": "Gerhardsen III (Ap)"
+    },
+    {
+      "name": "Einar Wøhni",
+      "from_year": 1960,
+      "to_year": 1963,
+      "party": "Ap",
+      "government": "Gerhardsen III (Ap)"
+    },
+    {
+      "name": "Hans Borgen",
+      "from_year": 1963,
+      "to_year": 1963,
+      "party": "Sp",
+      "government": "Lyng (H, KrF, Sp, V)"
+    },
+    {
+      "name": "Leif Granli",
+      "from_year": 1963,
+      "to_year": 1965,
+      "party": "Ap",
+      "government": "Gerhardsen IV (Ap)"
+    },
+    {
+      "name": "Bjarne Lyngstad",
+      "from_year": 1965,
+      "to_year": 1970,
+      "party": "V",
+      "government": "Borten (Sp, H, KrF, V)"
+    },
+    {
+      "name": "Hallvard Eika",
+      "from_year": 1970,
+      "to_year": 1971,
+      "party": "V",
+      "government": "Borten (Sp, H, KrF, V)"
+    },
+    {
+      "name": "Thorstein Treholt",
+      "from_year": 1971,
+      "to_year": 1972,
+      "party": "Ap",
+      "government": "Bratteli I (Ap)"
+    },
+    {
+      "name": "Einar Moxnes",
+      "from_year": 1972,
+      "to_year": 1973,
+      "party": "Sp",
+      "government": "Korvald (KrF, Sp, V)"
+    },
+    {
+      "name": "Thorstein Treholt",
+      "from_year": 1973,
+      "to_year": 1976,
+      "party": "Ap",
+      "government": "Bratteli II (Ap)"
+    },
+    {
+      "name": "Oskar Øksnes",
+      "from_year": 1976,
+      "to_year": 1981,
+      "party": "Ap",
+      "government": "Nordli (Ap), Brundtland I (Ap)"
+    },
+    {
+      "name": "Johan C. Løken",
+      "from_year": 1981,
+      "to_year": 1983,
+      "party": "H",
+      "government": "Willoch (H)"
+    },
+    {
+      "name": "Finn T. Isaksen",
+      "from_year": 1983,
+      "to_year": 1985,
+      "party": "Sp",
+      "government": "Willoch (H, KrF, Sp)"
+    },
+    {
+      "name": "Svein Sundsbø",
+      "from_year": 1985,
+      "to_year": 1986,
+      "party": "Sp",
+      "government": "Willoch (H, KrF, Sp)"
+    },
+    {
+      "name": "Gunhild Øyangen",
+      "from_year": 1986,
+      "to_year": 1989,
+      "party": "Ap",
+      "government": "Brundtland II (Ap)"
+    },
+    {
+      "name": "Anne Vik",
+      "from_year": 1989,
+      "to_year": 1990,
+      "party": "Sp",
+      "government": "Syse (H, KrF, Sp)"
+    },
+    {
+      "name": "Gunhild Øyangen",
+      "from_year": 1990,
+      "to_year": 1996,
+      "party": "Ap",
+      "government": "Brundtland III (Ap)"
+    },
+    {
+      "name": "Dag Terje Andersen",
+      "from_year": 1996,
+      "to_year": 1997,
+      "party": "Ap",
+      "government": "Jagland (Ap)"
+    },
+    {
+      "name": "Kåre Gjønnes",
+      "from_year": 1997,
+      "to_year": 2000,
+      "party": "KrF",
+      "government": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "name": "Bjarne Håkon Hanssen",
+      "from_year": 2000,
+      "to_year": 2001,
+      "party": "Ap",
+      "government": "Stoltenberg I (Ap)"
+    },
+    {
+      "name": "Lars Sponheim",
+      "from_year": 2001,
+      "to_year": 2005,
+      "party": "V",
+      "government": "Bondevik II (KrF, H, V)"
+    },
+    {
+      "name": "Terje Riis-Johansen",
+      "from_year": 2005,
+      "to_year": 2008,
+      "party": "Sp",
+      "government": "Stoltenberg II (Ap, SV, Sp)"
+    },
+    {
+      "name": "Lars Peder Brekk",
+      "from_year": 2008,
+      "to_year": 2012,
+      "party": "Sp",
+      "government": "Stoltenberg II (Ap, SV, Sp)"
+    },
+    {
+      "name": "Trygve Slagsvold Vedum",
+      "from_year": 2012,
+      "to_year": 2013,
+      "party": "Sp",
+      "government": "Stoltenberg II (Ap, SV, Sp)"
+    },
+    {
+      "name": "Sylvi Listhaug",
+      "from_year": 2013,
+      "to_year": 2015,
+      "party": "Frp",
+      "government": "Solberg (H, Frp)"
+    },
+    {
+      "name": "Jon Georg Dale",
+      "from_year": 2015,
+      "to_year": 2018,
+      "party": "Frp",
+      "government": "Solberg (H, Frp) Solberg (H, Frp, V, fra 17. januar 2018)"
+    },
+    {
+      "name": "Bård Hoksrud",
+      "from_year": 2018,
+      "to_year": 2019,
+      "party": "Frp",
+      "government": "Solberg (H, Frp, V)"
+    },
+    {
+      "name": "Olaug Bollestad",
+      "from_year": 2019,
+      "to_year": 2021,
+      "party": "KrF",
+      "government": "Solberg (H, Frp, V, KrF) Solberg (H, V og KrF), fra 24. januar 2020)"
+    },
+    {
+      "name": "Sandra Borch",
+      "from_year": 2021,
+      "to_year": 2023,
+      "party": "Sp",
+      "government": "Støre (Ap, Sp)"
+    },
+    {
+      "name": "Geir Pollestad",
+      "from_year": 2023,
+      "to_year": 2025,
+      "party": "Sp",
+      "government": "Støre (Ap, Sp)"
+    },
+    {
+      "name": "Nils Kristen Sandtrøen",
+      "from_year": 2025,
+      "to_year": "",
+      "party": "Ap",
+      "government": "Støre (Ap)"
+    }
+  ],
+  "meta": {
+    "title": "Norges landbruksministre - Free Download",
+    "description": "Norges landbruksministre fra 1900 til i dag (inkludert statsråder under okkupasjonen 1940–1945), med periode, parti og regjering. Contains 66 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges landbruksministre | ListBase",
+    "seo_description": "Download Norges landbruksministre — 66 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 66 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_Norges_landbruksministre"
+    ]
+  }
+}
