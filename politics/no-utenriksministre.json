@@ -1,0 +1,331 @@
+{
+  "id": "no-utenriksministre",
+  "name": "Norges utenriksministre",
+  "title": "Norges utenriksministre",
+  "description": "Norges utenriksministre siden 1905, med periode, parti og regjering.",
+  "category": "politics",
+  "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_utenriksministre",
+  "source_url": "https://no.wikipedia.org/wiki/Liste_over_Norges_utenriksministre",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "from_year",
+      "label": "From Year",
+      "type": "number"
+    },
+    {
+      "key": "to_year",
+      "label": "To Year",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Jørgen Løvland",
+      "from_year": 1905,
+      "to_year": 1908,
+      "party": "V",
+      "government": "Michelsen (V, H, MV, L) Løvland (V, FV, MV, L)"
+    },
+    {
+      "name": "Wilhelm Christophersen",
+      "from_year": 1908,
+      "to_year": 1910,
+      "party": "V",
+      "government": "Knudsen I (V)"
+    },
+    {
+      "name": "Johannes Irgens",
+      "from_year": 1910,
+      "to_year": 1913,
+      "party": "H",
+      "government": "Konow (H, FV) Bratlie (H, FV)"
+    },
+    {
+      "name": "Nils Claus Ihlen",
+      "from_year": 1913,
+      "to_year": 1920,
+      "party": "V",
+      "government": "Knudsen II (Venstre)"
+    },
+    {
+      "name": "Christian Fredrik Michelet",
+      "from_year": 1920,
+      "to_year": 1921,
+      "party": "H",
+      "government": "Halvorsen I (H, FV)"
+    },
+    {
+      "name": "Arnold Christopher Ræstad",
+      "from_year": 1921,
+      "to_year": 1922,
+      "party": "V",
+      "government": "Blehr II (V)"
+    },
+    {
+      "name": "Johan Ludwig Mowinckel",
+      "from_year": 1922,
+      "to_year": 1923,
+      "party": "V",
+      "government": "Blehr II (V)"
+    },
+    {
+      "name": "Christian Fredrik Michelet",
+      "from_year": 1923,
+      "to_year": 1924,
+      "party": "H",
+      "government": "Halvorsen II (H, FV) Berge (FV, H)"
+    },
+    {
+      "name": "Johan Ludwig Mowinckel",
+      "from_year": 1924,
+      "to_year": 1926,
+      "party": "V",
+      "government": "Mowinckel I (Venstre)"
+    },
+    {
+      "name": "Ivar Lykke",
+      "from_year": 1926,
+      "to_year": 1928,
+      "party": "H",
+      "government": "Lykke (H, FV)"
+    },
+    {
+      "name": "Edvard Bull",
+      "from_year": 1928,
+      "to_year": 1928,
+      "party": "Ap",
+      "government": "Hornsrud (Ap)"
+    },
+    {
+      "name": "Johan Ludwig Mowinckel",
+      "from_year": 1928,
+      "to_year": 1931,
+      "party": "V",
+      "government": "Mowinckel II (V)"
+    },
+    {
+      "name": "Birger Braadland",
+      "from_year": 1931,
+      "to_year": 1933,
+      "party": "B",
+      "government": "Kolstad (B) Hundseid (B)"
+    },
+    {
+      "name": "Johan Ludwig Mowinckel",
+      "from_year": 1933,
+      "to_year": 1935,
+      "party": "V",
+      "government": "Mowinckel III (V)"
+    },
+    {
+      "name": "Halvdan Koht",
+      "from_year": 1935,
+      "to_year": 1940,
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "name": "Trygve Lie",
+      "from_year": 1940,
+      "to_year": 1946,
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap) Gerhardsen I (Saml.) Gerhardsen II (Ap)"
+    },
+    {
+      "name": "Halvard Lange",
+      "from_year": 1946,
+      "to_year": 1963,
+      "party": "Ap",
+      "government": "Gerhardsen II (Ap) Torp (Ap) Gerhardsen III (Ap)"
+    },
+    {
+      "name": "Erling Wikborg",
+      "from_year": 1963,
+      "to_year": 1963,
+      "party": "KrF",
+      "government": "Lyng (H, Sp, V, KrF)"
+    },
+    {
+      "name": "Halvard Lange",
+      "from_year": 1963,
+      "to_year": 1965,
+      "party": "Ap",
+      "government": "Gerhardsen IV (Ap)"
+    },
+    {
+      "name": "John Lyng",
+      "from_year": 1965,
+      "to_year": 1970,
+      "party": "H",
+      "government": "Borten (Sp, H, V, KrF)"
+    },
+    {
+      "name": "Svenn Stray",
+      "from_year": 1970,
+      "to_year": 1971,
+      "party": "H",
+      "government": "Borten (Sp, H, V, KrF)"
+    },
+    {
+      "name": "Andreas Cappelen",
+      "from_year": 1971,
+      "to_year": 1972,
+      "party": "Ap",
+      "government": "Bratteli I (Ap)"
+    },
+    {
+      "name": "Dagfinn Vårvik",
+      "from_year": 1972,
+      "to_year": 1973,
+      "party": "Sp",
+      "government": "Korvald (KrF, Sp, V)"
+    },
+    {
+      "name": "Knut Frydenlund",
+      "from_year": 1973,
+      "to_year": 1981,
+      "party": "Ap",
+      "government": "Bratteli II (Ap) Nordli (Ap) Brundtland I (Ap)"
+    },
+    {
+      "name": "Svenn Stray",
+      "from_year": 1981,
+      "to_year": 1986,
+      "party": "H",
+      "government": "Willoch (H; fra 1983 H, KrF, Sp)"
+    },
+    {
+      "name": "Knut Frydenlund",
+      "from_year": 1986,
+      "to_year": 1987,
+      "party": "Ap",
+      "government": "Brundtland II (Ap)"
+    },
+    {
+      "name": "Thorvald Stoltenberg",
+      "from_year": 1987,
+      "to_year": 1989,
+      "party": "Ap",
+      "government": "Brundtland II (Ap)"
+    },
+    {
+      "name": "Kjell Magne Bondevik",
+      "from_year": 1989,
+      "to_year": 1990,
+      "party": "KrF",
+      "government": "Syse (H, KrF, Sp)"
+    },
+    {
+      "name": "Thorvald Stoltenberg",
+      "from_year": 1990,
+      "to_year": 1993,
+      "party": "Ap",
+      "government": "Brundtland III (Ap)"
+    },
+    {
+      "name": "Johan Jørgen Holst",
+      "from_year": 1993,
+      "to_year": 1994,
+      "party": "Ap",
+      "government": "Brundtland III (Ap)"
+    },
+    {
+      "name": "Bjørn Tore Godal",
+      "from_year": 1994,
+      "to_year": 1997,
+      "party": "Ap",
+      "government": "Brundtland III (Ap) Jagland (Ap)"
+    },
+    {
+      "name": "Knut Vollebæk",
+      "from_year": 1997,
+      "to_year": 2000,
+      "party": "KrF",
+      "government": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "name": "Thorbjørn Jagland",
+      "from_year": 2000,
+      "to_year": 2001,
+      "party": "Ap",
+      "government": "Stoltenberg I (Ap)"
+    },
+    {
+      "name": "Jan Petersen",
+      "from_year": 2001,
+      "to_year": 2005,
+      "party": "H",
+      "government": "Bondevik II (KrF, H, V)"
+    },
+    {
+      "name": "Jonas Gahr Støre",
+      "from_year": 2005,
+      "to_year": 2012,
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "name": "Espen Barth Eide",
+      "from_year": 2012,
+      "to_year": 2013,
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "name": "Børge Brende",
+      "from_year": 2013,
+      "to_year": 2017,
+      "party": "H",
+      "government": "Solberg (H, Frp)"
+    },
+    {
+      "name": "Ine Marie Eriksen Søreide",
+      "from_year": 2017,
+      "to_year": 2021,
+      "party": "H",
+      "government": "Solberg (H, Frp) Solberg (H, Frp, V, fra 17. januar 2018) Solberg (H, Frp, V, KrF, fra 22. januar 2019) Solberg (H, V, KrF, fra 24. januar 2020)"
+    },
+    {
+      "name": "Anniken Huitfeldt",
+      "from_year": 2021,
+      "to_year": 2023,
+      "party": "Ap",
+      "government": "Støre (Ap, Sp)"
+    },
+    {
+      "name": "Espen Barth Eide",
+      "from_year": 2023,
+      "to_year": "",
+      "party": "Ap",
+      "government": "Støre (Ap, Sp)"
+    }
+  ],
+  "meta": {
+    "title": "Norges utenriksministre - Free Download",
+    "description": "Norges utenriksministre siden 1905, med periode, parti og regjering. Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges utenriksministre | ListBase",
+    "seo_description": "Download Norges utenriksministre — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Liste_over_Norges_utenriksministre"
+    ]
+  }
+}

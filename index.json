@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-15T02:13:15.136Z",
-  "total_datasets": 500,
-  "total_records": 1207358,
+  "generated": "2026-11-15T02:13:25.044Z",
+  "total_datasets": 501,
+  "total_records": 1207398,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "reference",
@@ -5877,6 +5877,32 @@
         "xlsx": {
           "name": "no-stortingsvalget-2025-resultat_NO.xlsx",
           "size": 7870
+        }
+      }
+    },
+    {
+      "id": "no-utenriksministre",
+      "name": "Norges utenriksministre",
+      "category": "politics",
+      "record_count": 40,
+      "columns": [
+        "name",
+        "from_year",
+        "to_year",
+        "party",
+        "government"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_utenriksministre",
+      "updated": "2026-11",
+      "size": 8128,
+      "files": {
+        "csv": {
+          "name": "no-utenriksministre_NO.csv",
+          "size": 2741
+        },
+        "xlsx": {
+          "name": "no-utenriksministre_NO.xlsx",
+          "size": 8478
         }
       }
     },
