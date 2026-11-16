@@ -1,0 +1,536 @@
+{
+  "id": "no-selde-matvarer-kg-per-person",
+  "name": "Selde mat- og drikkevarer per person (kg per år)",
+  "title": "Selde mat- og drikkevarer per person (kg per år)",
+  "description": "Gjennomsnittlig mengde solgte mat- og drikkevarer per person per år (kg) etter matvaregruppe i Norge, 2018, 2024 og 2025, fra SSB.",
+  "category": "food",
+  "source": "https://www.ssb.no/statbank/table/13692",
+  "source_url": "https://www.ssb.no/statbank/table/13692",
+  "updated": "2026-11",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "food_group",
+      "label": "Food Group",
+      "type": "string"
+    },
+    {
+      "key": "main_group",
+      "label": "Main Group",
+      "type": "string"
+    },
+    {
+      "key": "kg_per_person_2025",
+      "label": "Kg Per Person 2025",
+      "type": "number"
+    },
+    {
+      "key": "kg_per_person_2024",
+      "label": "Kg Per Person 2024",
+      "type": "number"
+    },
+    {
+      "key": "kg_per_person_2018",
+      "label": "Kg Per Person 2018",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "code": "A.1",
+      "food_group": "Mjøl, gryn, ris",
+      "main_group": "Kornvarer",
+      "kg_per_person_2025": 12.6,
+      "kg_per_person_2024": 12.2,
+      "kg_per_person_2018": 12.6
+    },
+    {
+      "code": "A.2",
+      "food_group": "Pasta, nudlar, couscous, tørrvare",
+      "main_group": "Kornvarer",
+      "kg_per_person_2025": 2,
+      "kg_per_person_2024": 2.3,
+      "kg_per_person_2018": 2.7
+    },
+    {
+      "code": "A.3",
+      "food_group": "Frokostkorn",
+      "main_group": "Kornvarer",
+      "kg_per_person_2025": 2,
+      "kg_per_person_2024": 2,
+      "kg_per_person_2018": 2.4
+    },
+    {
+      "code": "A.4",
+      "food_group": "Brød",
+      "main_group": "Kornvarer",
+      "kg_per_person_2025": 39.3,
+      "kg_per_person_2024": 39.8,
+      "kg_per_person_2018": 43.4
+    },
+    {
+      "code": "A.5",
+      "food_group": "Kaker, smurde lefser, søt kjeks",
+      "main_group": "Kornvarer",
+      "kg_per_person_2025": 3.9,
+      "kg_per_person_2024": 3.8,
+      "kg_per_person_2018": 3.2
+    },
+    {
+      "code": "B.1",
+      "food_group": "Heilt/kverna kjøt, rått, steikt, grilla",
+      "main_group": "Kjøt, kjøtprodukt",
+      "kg_per_person_2025": 19.2,
+      "kg_per_person_2024": 18.7,
+      "kg_per_person_2018": 20.5
+    },
+    {
+      "code": "B.2",
+      "food_group": "Blod, innmat",
+      "main_group": "Kjøt, kjøtprodukt",
+      "kg_per_person_2025": 0.1,
+      "kg_per_person_2024": 0.1,
+      "kg_per_person_2018": 0.1
+    },
+    {
+      "code": "B.3",
+      "food_group": "Salta/røykt/tørka kjøt",
+      "main_group": "Kjøt, kjøtprodukt",
+      "kg_per_person_2025": 6.3,
+      "kg_per_person_2024": 6.2,
+      "kg_per_person_2018": 7
+    },
+    {
+      "code": "B.4",
+      "food_group": "Middagspølser, kjøtkaker/karbonader, burger, postei",
+      "main_group": "Kjøt, kjøtprodukt",
+      "kg_per_person_2025": 14.3,
+      "kg_per_person_2024": 13.9,
+      "kg_per_person_2018": 12.9
+    },
+    {
+      "code": "C.1",
+      "food_group": "Fisk, fersk/kjølt/fryst",
+      "main_group": "Fisk, sjømat, produkt av fisk og sjømat",
+      "kg_per_person_2025": 2.5,
+      "kg_per_person_2024": 2.5,
+      "kg_per_person_2018": 3
+    },
+    {
+      "code": "C.2",
+      "food_group": "Fisk, salt/røykt/tørka/i lake",
+      "main_group": "Fisk, sjømat, produkt av fisk og sjømat",
+      "kg_per_person_2025": 1,
+      "kg_per_person_2024": 1,
+      "kg_per_person_2018": 1.3
+    },
+    {
+      "code": "C.3",
+      "food_group": "Fiskeprodukt",
+      "main_group": "Fisk, sjømat, produkt av fisk og sjømat",
+      "kg_per_person_2025": 4.7,
+      "kg_per_person_2024": 4.8,
+      "kg_per_person_2018": 5.3
+    },
+    {
+      "code": "C.4",
+      "food_group": "Skaldyr, annan sjømat",
+      "main_group": "Fisk, sjømat, produkt av fisk og sjømat",
+      "kg_per_person_2025": 1.1,
+      "kg_per_person_2024": 1.1,
+      "kg_per_person_2018": 1.2
+    },
+    {
+      "code": "C.5",
+      "food_group": "Rogn, lever",
+      "main_group": "Fisk, sjømat, produkt av fisk og sjømat",
+      "kg_per_person_2025": 0.3,
+      "kg_per_person_2024": 0.2,
+      "kg_per_person_2018": 0
+    },
+    {
+      "code": "D.1",
+      "food_group": "Mjølk, flytande",
+      "main_group": "Mjølk, mjølkeprodukt, egg",
+      "kg_per_person_2025": 56.9,
+      "kg_per_person_2024": 56.3,
+      "kg_per_person_2018": 61.7
+    },
+    {
+      "code": "D.2",
+      "food_group": "Fløyte/rømme",
+      "main_group": "Mjølk, mjølkeprodukt, egg",
+      "kg_per_person_2025": 5.9,
+      "kg_per_person_2024": 5.9,
+      "kg_per_person_2018": 6.2
+    },
+    {
+      "code": "D.3",
+      "food_group": "Yoghurt, andre syrna mjølkeprodukt",
+      "main_group": "Mjølk, mjølkeprodukt, egg",
+      "kg_per_person_2025": 15.6,
+      "kg_per_person_2024": 14.5,
+      "kg_per_person_2018": 13.4
+    },
+    {
+      "code": "D.4",
+      "food_group": "Mjølkebasert dessert/saus",
+      "main_group": "Mjølk, mjølkeprodukt, egg",
+      "kg_per_person_2025": 2.3,
+      "kg_per_person_2024": 2.4,
+      "kg_per_person_2018": 2.8
+    },
+    {
+      "code": "D.5",
+      "food_group": "Ost",
+      "main_group": "Mjølk, mjølkeprodukt, egg",
+      "kg_per_person_2025": 16.8,
+      "kg_per_person_2024": 16.5,
+      "kg_per_person_2018": 13.8
+    },
+    {
+      "code": "D.6",
+      "food_group": "Egg",
+      "main_group": "Mjølk, mjølkeprodukt, egg",
+      "kg_per_person_2025": 7.4,
+      "kg_per_person_2024": 7.7,
+      "kg_per_person_2018": 8.8
+    },
+    {
+      "code": "E.1",
+      "food_group": "Vegetabilsk olje",
+      "main_group": "Olje, smør, margarin",
+      "kg_per_person_2025": 1.5,
+      "kg_per_person_2024": 1.5,
+      "kg_per_person_2018": 2
+    },
+    {
+      "code": "E.2",
+      "food_group": "Smør/margarin, fast",
+      "main_group": "Olje, smør, margarin",
+      "kg_per_person_2025": 6.3,
+      "kg_per_person_2024": 6.4,
+      "kg_per_person_2018": 7.1
+    },
+    {
+      "code": "E.3",
+      "food_group": "Smør/margarin, flytande",
+      "main_group": "Olje, smør, margarin",
+      "kg_per_person_2025": 0.5,
+      "kg_per_person_2024": 0.5,
+      "kg_per_person_2018": 0.5
+    },
+    {
+      "code": "E.4",
+      "food_group": "Anna feitt",
+      "main_group": "Olje, smør, margarin",
+      "kg_per_person_2025": 0.1,
+      "kg_per_person_2024": 0.1,
+      "kg_per_person_2018": 0.1
+    },
+    {
+      "code": "F.1",
+      "food_group": "Frukt og bær, frisk/fryst",
+      "main_group": "Frukt og bær, produkt av frukt og bær",
+      "kg_per_person_2025": 41.7,
+      "kg_per_person_2024": 39.1,
+      "kg_per_person_2018": 38.7
+    },
+    {
+      "code": "F.2",
+      "food_group": "Frukt og bær, tørka",
+      "main_group": "Frukt og bær, produkt av frukt og bær",
+      "kg_per_person_2025": 1,
+      "kg_per_person_2024": 1,
+      "kg_per_person_2018": 0.9
+    },
+    {
+      "code": "F.3",
+      "food_group": "Frukt, hermetisk",
+      "main_group": "Frukt og bær, produkt av frukt og bær",
+      "kg_per_person_2025": 0.6,
+      "kg_per_person_2024": 0.7,
+      "kg_per_person_2018": 0.8
+    },
+    {
+      "code": "G.1",
+      "food_group": "Nøtter, frø, utan salt",
+      "main_group": "Nøtter, frø",
+      "kg_per_person_2025": 1.6,
+      "kg_per_person_2024": 1.7,
+      "kg_per_person_2018": 2
+    },
+    {
+      "code": "G.2",
+      "food_group": "Nøtter, frø, tilsett salt",
+      "main_group": "Nøtter, frø",
+      "kg_per_person_2025": 1.2,
+      "kg_per_person_2024": 1.2,
+      "kg_per_person_2018": 1.2
+    },
+    {
+      "code": "G.3",
+      "food_group": "Nøtter, frø, ukjent salt",
+      "main_group": "Nøtter, frø",
+      "kg_per_person_2025": 0.2,
+      "kg_per_person_2024": 0.1,
+      "kg_per_person_2018": 0
+    },
+    {
+      "code": "H.1",
+      "food_group": "Poteter, friske",
+      "main_group": "Poteter, potetprodukt",
+      "kg_per_person_2025": 11.3,
+      "kg_per_person_2024": 11.1,
+      "kg_per_person_2018": 13.1
+    },
+    {
+      "code": "H.2",
+      "food_group": "Pommes frites o.l.",
+      "main_group": "Poteter, potetprodukt",
+      "kg_per_person_2025": 3.2,
+      "kg_per_person_2024": 2.8,
+      "kg_per_person_2018": 2.1
+    },
+    {
+      "code": "I.1",
+      "food_group": "Grønnsaker, friske/fryst",
+      "main_group": "Grønnsaker, grønnsaksprodukt",
+      "kg_per_person_2025": 33.7,
+      "kg_per_person_2024": 33.6,
+      "kg_per_person_2018": 35.5
+    },
+    {
+      "code": "I.2",
+      "food_group": "Grønnsaker, konservert",
+      "main_group": "Grønnsaker, grønnsaksprodukt",
+      "kg_per_person_2025": 7.5,
+      "kg_per_person_2024": 7.4,
+      "kg_per_person_2018": 7
+    },
+    {
+      "code": "J.1",
+      "food_group": "Sukker, melis o.l.",
+      "main_group": "Sukker, søtsaker, syltetøy, m.m.",
+      "kg_per_person_2025": 3.2,
+      "kg_per_person_2024": 3.3,
+      "kg_per_person_2018": 3.6
+    },
+    {
+      "code": "J.2",
+      "food_group": "Sukkervarer, andre",
+      "main_group": "Sukker, søtsaker, syltetøy, m.m.",
+      "kg_per_person_2025": 5.2,
+      "kg_per_person_2024": 5.5,
+      "kg_per_person_2018": 4
+    },
+    {
+      "code": "J.3",
+      "food_group": "Syltetøy, marmelade, gelé",
+      "main_group": "Sukker, søtsaker, syltetøy, m.m.",
+      "kg_per_person_2025": 2.9,
+      "kg_per_person_2024": 3,
+      "kg_per_person_2018": 3.4
+    },
+    {
+      "code": "J.4",
+      "food_group": "Kakao/sjokoladebaserte produkt",
+      "main_group": "Sukker, søtsaker, syltetøy, m.m.",
+      "kg_per_person_2025": 6.7,
+      "kg_per_person_2024": 7.4,
+      "kg_per_person_2018": 6.4
+    },
+    {
+      "code": "J.5",
+      "food_group": "Iskrem, sorbet, saftis",
+      "main_group": "Sukker, søtsaker, syltetøy, m.m.",
+      "kg_per_person_2025": 5.6,
+      "kg_per_person_2024": 5.4,
+      "kg_per_person_2018": 5.5
+    },
+    {
+      "code": "K.1",
+      "food_group": "Rettar basert på kornvarer, eteklare",
+      "main_group": "Rettar, eteklare",
+      "kg_per_person_2025": 3.2,
+      "kg_per_person_2024": 3.2,
+      "kg_per_person_2018": 2.9
+    },
+    {
+      "code": "K.2",
+      "food_group": "Rettar basert på kjøt/fisk, eteklare",
+      "main_group": "Rettar, eteklare",
+      "kg_per_person_2025": 12.4,
+      "kg_per_person_2024": 12.3,
+      "kg_per_person_2018": 10.7
+    },
+    {
+      "code": "K.3",
+      "food_group": "Rettar basert på grønnsaker, eteklare",
+      "main_group": "Rettar, eteklare",
+      "kg_per_person_2025": 0.9,
+      "kg_per_person_2024": 1.2,
+      "kg_per_person_2018": 1.9
+    },
+    {
+      "code": "K.4",
+      "food_group": "Brødvarer med pålegg/fyll, pizza, pai",
+      "main_group": "Rettar, eteklare",
+      "kg_per_person_2025": 3.5,
+      "kg_per_person_2024": 3.4,
+      "kg_per_person_2018": 4.1
+    },
+    {
+      "code": "K.5",
+      "food_group": "Rettar basert på egg, eteklare",
+      "main_group": "Rettar, eteklare",
+      "kg_per_person_2025": 0,
+      "kg_per_person_2024": 0,
+      "kg_per_person_2018": 0
+    },
+    {
+      "code": "K.6",
+      "food_group": "Supper, eteklare",
+      "main_group": "Rettar, eteklare",
+      "kg_per_person_2025": 0.6,
+      "kg_per_person_2024": 0.6,
+      "kg_per_person_2018": 0.5
+    },
+    {
+      "code": "K.7",
+      "food_group": "Andre eteklare rettar",
+      "main_group": "Rettar, eteklare",
+      "kg_per_person_2025": 0.9,
+      "kg_per_person_2024": 0.8,
+      "kg_per_person_2018": 0.8
+    },
+    {
+      "code": "L.1",
+      "food_group": "Salt",
+      "main_group": "Salt, krydder, sausar",
+      "kg_per_person_2025": 0.6,
+      "kg_per_person_2024": 0.7,
+      "kg_per_person_2018": 0.6
+    },
+    {
+      "code": "L.2",
+      "food_group": "Saus, dressing o.l., flytande",
+      "main_group": "Salt, krydder, sausar",
+      "kg_per_person_2025": 8.1,
+      "kg_per_person_2024": 8.2,
+      "kg_per_person_2018": 7.6
+    },
+    {
+      "code": "L.3",
+      "food_group": "Krydder, suppe-/sausepulver",
+      "main_group": "Salt, krydder, sausar",
+      "kg_per_person_2025": 1.3,
+      "kg_per_person_2024": 1.2,
+      "kg_per_person_2018": 1.1
+    },
+    {
+      "code": "M.1",
+      "food_group": "Tørrvarer",
+      "main_group": "Andre matvarer",
+      "kg_per_person_2025": 0.1,
+      "kg_per_person_2024": 0.2,
+      "kg_per_person_2018": 0.2
+    },
+    {
+      "code": "M.2",
+      "food_group": "Energi/proteinbar m.m",
+      "main_group": "Andre matvarer",
+      "kg_per_person_2025": 1.5,
+      "kg_per_person_2024": 1.4,
+      "kg_per_person_2018": 0.6
+    },
+    {
+      "code": "M.3",
+      "food_group": "Potetgull, annan snacks",
+      "main_group": "Andre matvarer",
+      "kg_per_person_2025": 5.5,
+      "kg_per_person_2024": 5.5,
+      "kg_per_person_2018": 5.5
+    },
+    {
+      "code": "M.4",
+      "food_group": "Vegetabilske produkt",
+      "main_group": "Andre matvarer",
+      "kg_per_person_2025": 2.4,
+      "kg_per_person_2024": 2.6,
+      "kg_per_person_2018": 2
+    },
+    {
+      "code": "N.1",
+      "food_group": "Juice, most, smoothies",
+      "main_group": "Drikkevarer utan alkohol",
+      "kg_per_person_2025": 17.1,
+      "kg_per_person_2024": 17.4,
+      "kg_per_person_2018": 21.3
+    },
+    {
+      "code": "N.2",
+      "food_group": "Drikkekonsentrat",
+      "main_group": "Drikkevarer utan alkohol",
+      "kg_per_person_2025": 6.9,
+      "kg_per_person_2024": 5.6,
+      "kg_per_person_2018": 4.2
+    },
+    {
+      "code": "N.3",
+      "food_group": "Brus, drikkeklar leskedrikk o.l.",
+      "main_group": "Drikkevarer utan alkohol",
+      "kg_per_person_2025": 91.2,
+      "kg_per_person_2024": 91.1,
+      "kg_per_person_2018": 75.1
+    },
+    {
+      "code": "N.4",
+      "food_group": "Anna alkoholfri drikke",
+      "main_group": "Drikkevarer utan alkohol",
+      "kg_per_person_2025": 18.7,
+      "kg_per_person_2024": 17.7,
+      "kg_per_person_2018": 16.5
+    },
+    {
+      "code": "N.5",
+      "food_group": "Kaffe, te o.l. med mjølk/sukker",
+      "main_group": "Drikkevarer utan alkohol",
+      "kg_per_person_2025": 5.3,
+      "kg_per_person_2024": 4.7,
+      "kg_per_person_2018": 3.9
+    },
+    {
+      "code": "O.1",
+      "food_group": "Øl",
+      "main_group": "Øl, sider, alkoholhaldig",
+      "kg_per_person_2025": 30,
+      "kg_per_person_2024": 30,
+      "kg_per_person_2018": 28
+    },
+    {
+      "code": "O.2",
+      "food_group": "Anna alkoholhaldig drikke",
+      "main_group": "Øl, sider, alkoholhaldig",
+      "kg_per_person_2025": 3.7,
+      "kg_per_person_2024": 3.8,
+      "kg_per_person_2018": 2.4
+    }
+  ],
+  "meta": {
+    "title": "Selde mat- og drikkevarer per person (kg per år) - Free Download",
+    "description": "Gjennomsnittlig mengde solgte mat- og drikkevarer per person per år (kg) etter matvaregruppe i Norge, 2018, 2024 og 2025, fra SSB. Contains 60 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Selde mat- og drikkevarer per person (kg per år) | ListBase",
+    "seo_description": "Download Selde mat- og drikkevarer per person (kg per år) — 60 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 60 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/13692"
+    ]
+  }
+}

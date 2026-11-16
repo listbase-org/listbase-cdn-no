@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-16T02:16:34.758Z",
-  "total_datasets": 504,
-  "total_records": 1207468,
+  "generated": "2026-11-16T02:16:43.663Z",
+  "total_datasets": 505,
+  "total_records": 1207528,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -3441,6 +3441,33 @@
         "xlsx": {
           "name": "no-restauranter_NO.xlsx",
           "size": 108445
+        }
+      }
+    },
+    {
+      "id": "no-selde-matvarer-kg-per-person",
+      "name": "Selde mat- og drikkevarer per person (kg per år)",
+      "category": "food",
+      "record_count": 60,
+      "columns": [
+        "code",
+        "food_group",
+        "main_group",
+        "kg_per_person_2025",
+        "kg_per_person_2024",
+        "kg_per_person_2018"
+      ],
+      "source": "https://www.ssb.no/statbank/table/13692",
+      "updated": "2026-11",
+      "size": 15403,
+      "files": {
+        "csv": {
+          "name": "no-selde-matvarer-kg-per-person_NO.csv",
+          "size": 4637
+        },
+        "xlsx": {
+          "name": "no-selde-matvarer-kg-per-person_NO.xlsx",
+          "size": 9594
         }
       }
     },
