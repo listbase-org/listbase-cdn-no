@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-15T02:13:25.044Z",
-  "total_datasets": 501,
-  "total_records": 1207398,
+  "generated": "2026-11-16T02:16:17.193Z",
+  "total_datasets": 502,
+  "total_records": 1207439,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -5539,6 +5539,29 @@
         "xlsx": {
           "name": "no-tingretter-og-rettskretser_NO.xlsx",
           "size": 9714
+        }
+      }
+    },
+    {
+      "id": "no-arets-spellemann",
+      "name": "Vinnere av Årets spellemann",
+      "category": "music",
+      "record_count": 41,
+      "columns": [
+        "year",
+        "winner"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Årets_spellemann",
+      "updated": "2026-11",
+      "size": 3844,
+      "files": {
+        "csv": {
+          "name": "no-arets-spellemann_NO.csv",
+          "size": 902
+        },
+        "xlsx": {
+          "name": "no-arets-spellemann_NO.xlsx",
+          "size": 7626
         }
       }
     },
