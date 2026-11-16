@@ -1,0 +1,160 @@
+{
+  "id": "no-riksadvokater",
+  "name": "Norges riksadvokater",
+  "title": "Norges riksadvokater",
+  "description": "Liste over Norges riksadvokater, den øverste lederen av påtalemyndigheten, fra 1889 til i dag, med embetsperiode og leveår.",
+  "category": "law",
+  "source": "https://no.wikipedia.org/wiki/Norges_riksadvokat",
+  "source_url": "https://no.wikipedia.org/wiki/Norges_riksadvokat",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "from_year",
+      "label": "From Year",
+      "type": "number"
+    },
+    {
+      "key": "to_year",
+      "label": "To Year",
+      "type": "number"
+    },
+    {
+      "key": "acting",
+      "label": "Acting",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Bernhard Getz",
+      "from_year": 1889,
+      "to_year": 1901,
+      "acting": "",
+      "born": 1850,
+      "died": 1901
+    },
+    {
+      "name": "Johan Blackstad",
+      "from_year": 1901,
+      "to_year": 1904,
+      "acting": "",
+      "born": 1832,
+      "died": 1904
+    },
+    {
+      "name": "Harald Smedal",
+      "from_year": 1906,
+      "to_year": 1911,
+      "acting": "",
+      "born": 1859,
+      "died": 1911
+    },
+    {
+      "name": "Peder Kjerschow",
+      "from_year": 1911,
+      "to_year": 1929,
+      "acting": "",
+      "born": 1857,
+      "died": 1944
+    },
+    {
+      "name": "Haakon Ragnvald Olsen Sund",
+      "from_year": 1929,
+      "to_year": 1940,
+      "acting": "",
+      "born": 1873,
+      "died": 1965
+    },
+    {
+      "name": "Jørgen Nordvik",
+      "from_year": 1941,
+      "to_year": 1945,
+      "acting": "ja",
+      "born": 1895,
+      "died": 1977
+    },
+    {
+      "name": "Sven Arntzen",
+      "from_year": 1945,
+      "to_year": 1946,
+      "acting": "",
+      "born": 1897,
+      "died": 1976
+    },
+    {
+      "name": "Andreas Aulie",
+      "from_year": 1946,
+      "to_year": 1967,
+      "acting": "",
+      "born": 1897,
+      "died": 1990
+    },
+    {
+      "name": "Lauritz Dorenfeldt",
+      "from_year": 1968,
+      "to_year": 1979,
+      "acting": "",
+      "born": 1909,
+      "died": 1997
+    },
+    {
+      "name": "Magnar Flornes",
+      "from_year": 1979,
+      "to_year": 1986,
+      "acting": "",
+      "born": 1928,
+      "died": 1986
+    },
+    {
+      "name": "Georg Fredrik Rieber-Mohn",
+      "from_year": 1986,
+      "to_year": 1997,
+      "acting": "",
+      "born": 1945,
+      "died": ""
+    },
+    {
+      "name": "Tor-Aksel Busch",
+      "from_year": 1997,
+      "to_year": 2019,
+      "acting": "",
+      "born": 1950,
+      "died": ""
+    },
+    {
+      "name": "Jørn Sigurd Maurud",
+      "from_year": 2019,
+      "to_year": "",
+      "acting": "",
+      "born": 1960,
+      "died": ""
+    }
+  ],
+  "meta": {
+    "title": "Norges riksadvokater - Free Download",
+    "description": "Liste over Norges riksadvokater, den øverste lederen av påtalemyndigheten, fra 1889 til i dag, med embetsperiode og leveår. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges riksadvokater | ListBase",
+    "seo_description": "Download Norges riksadvokater — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norges_riksadvokat"
+    ]
+  }
+}

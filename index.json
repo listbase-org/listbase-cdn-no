@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-16T02:16:25.734Z",
-  "total_datasets": 503,
-  "total_records": 1207455,
+  "generated": "2026-11-16T02:16:34.758Z",
+  "total_datasets": 504,
+  "total_records": 1207468,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -5543,6 +5543,33 @@
         "xlsx": {
           "name": "no-justisministre_NO.xlsx",
           "size": 8459
+        }
+      }
+    },
+    {
+      "id": "no-riksadvokater",
+      "name": "Norges riksadvokater",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "name",
+        "from_year",
+        "to_year",
+        "acting",
+        "born",
+        "died"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_riksadvokat",
+      "updated": "2026-11",
+      "size": 3633,
+      "files": {
+        "csv": {
+          "name": "no-riksadvokater_NO.csv",
+          "size": 695
+        },
+        "xlsx": {
+          "name": "no-riksadvokater_NO.xlsx",
+          "size": 7305
         }
       }
     },
