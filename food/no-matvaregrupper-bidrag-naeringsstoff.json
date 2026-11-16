@@ -1,0 +1,247 @@
+{
+  "id": "no-matvaregrupper-bidrag-naeringsstoff",
+  "name": "Matvaregruppers bidrag til energi og næringsstoffer (2025)",
+  "title": "Matvaregruppers bidrag til energi og næringsstoffer (2025)",
+  "description": "Prosentvis bidrag fra hver matvaregruppe til energi, protein, fett, karbohydrat, sukker, kostfiber og salt i solgte matvarer i Norge i 2025, fra SSB.",
+  "category": "food",
+  "source": "https://www.ssb.no/statbank/table/13697",
+  "source_url": "https://www.ssb.no/statbank/table/13697",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "food_group",
+      "label": "Food Group",
+      "type": "string"
+    },
+    {
+      "key": "energy_pct",
+      "label": "Energy Pct",
+      "type": "number"
+    },
+    {
+      "key": "protein_pct",
+      "label": "Protein Pct",
+      "type": "number"
+    },
+    {
+      "key": "fat_pct",
+      "label": "Fat Pct",
+      "type": "number"
+    },
+    {
+      "key": "saturated_fat_pct",
+      "label": "Saturated Fat Pct",
+      "type": "number"
+    },
+    {
+      "key": "carbohydrate_pct",
+      "label": "Carbohydrate Pct",
+      "type": "number"
+    },
+    {
+      "key": "sugars_pct",
+      "label": "Sugars Pct",
+      "type": "number"
+    },
+    {
+      "key": "fibre_pct",
+      "label": "Fibre Pct",
+      "type": "number"
+    },
+    {
+      "key": "salt_pct",
+      "label": "Salt Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "food_group": "Kornvarer",
+      "energy_pct": 24.1,
+      "protein_pct": 20.3,
+      "fat_pct": 10.5,
+      "saturated_fat_pct": 7.8,
+      "carbohydrate_pct": 38.1,
+      "sugars_pct": 10.6,
+      "fibre_pct": 38.4,
+      "salt_pct": 14.2
+    },
+    {
+      "food_group": "Kjøt, kjøtprodukt",
+      "energy_pct": 10.5,
+      "protein_pct": 24.8,
+      "fat_pct": 16,
+      "saturated_fat_pct": 15.5,
+      "carbohydrate_pct": 1.1,
+      "sugars_pct": 0.7,
+      "fibre_pct": 1.4,
+      "salt_pct": 17.1
+    },
+    {
+      "food_group": "Fisk, sjømat, produkt av fisk og sjømat",
+      "energy_pct": 2.2,
+      "protein_pct": 5.1,
+      "fat_pct": 3,
+      "saturated_fat_pct": 1.1,
+      "carbohydrate_pct": 0.6,
+      "sugars_pct": 0.6,
+      "fibre_pct": 0.6,
+      "salt_pct": 4.3
+    },
+    {
+      "food_group": "Mjølk, mjølkeprodukt, egg",
+      "energy_pct": 15.4,
+      "protein_pct": 27.2,
+      "fat_pct": 21.3,
+      "saturated_fat_pct": 34.5,
+      "carbohydrate_pct": 6.6,
+      "sugars_pct": 15.3,
+      "fibre_pct": 7.5,
+      "salt_pct": 10.1
+    },
+    {
+      "food_group": "Olje, smør, margarin",
+      "energy_pct": 7.4,
+      "protein_pct": 0.2,
+      "fat_pct": 18.1,
+      "saturated_fat_pct": 17.2,
+      "carbohydrate_pct": 0.1,
+      "sugars_pct": 0.1,
+      "fibre_pct": 0.5,
+      "salt_pct": 2.6
+    },
+    {
+      "food_group": "Frukt og bær, produkt av frukt og bær",
+      "energy_pct": 3.8,
+      "protein_pct": 1.6,
+      "fat_pct": 1.5,
+      "saturated_fat_pct": 1,
+      "carbohydrate_pct": 6.6,
+      "sugars_pct": 4.7,
+      "fibre_pct": 10.2,
+      "salt_pct": 1.1
+    },
+    {
+      "food_group": "Nøtter, frø",
+      "energy_pct": 2.3,
+      "protein_pct": 2.2,
+      "fat_pct": 4.1,
+      "saturated_fat_pct": 1.6,
+      "carbohydrate_pct": 0.6,
+      "sugars_pct": 0.8,
+      "fibre_pct": 3.4,
+      "salt_pct": 0.6
+    },
+    {
+      "food_group": "Poteter, potetprodukt",
+      "energy_pct": 1.9,
+      "protein_pct": 1,
+      "fat_pct": 0.8,
+      "saturated_fat_pct": 0.3,
+      "carbohydrate_pct": 3.1,
+      "sugars_pct": 0.4,
+      "fibre_pct": 3.3,
+      "salt_pct": 0.5
+    },
+    {
+      "food_group": "Grønnsaker, grønnsaksprodukt",
+      "energy_pct": 2.6,
+      "protein_pct": 2.9,
+      "fat_pct": 1.5,
+      "saturated_fat_pct": 0.9,
+      "carbohydrate_pct": 3.3,
+      "sugars_pct": 2.8,
+      "fibre_pct": 12.3,
+      "salt_pct": 2.9
+    },
+    {
+      "food_group": "Sukker, søtsaker, syltetøy, m.m.",
+      "energy_pct": 10.6,
+      "protein_pct": 3.1,
+      "fat_pct": 7.2,
+      "saturated_fat_pct": 10.3,
+      "carbohydrate_pct": 16.9,
+      "sugars_pct": 36.4,
+      "fibre_pct": 6.1,
+      "salt_pct": 1.3
+    },
+    {
+      "food_group": "Rettar, eteklare",
+      "energy_pct": 5.4,
+      "protein_pct": 6,
+      "fat_pct": 4.5,
+      "saturated_fat_pct": 4.3,
+      "carbohydrate_pct": 6.1,
+      "sugars_pct": 2.1,
+      "fibre_pct": 3.8,
+      "salt_pct": 6.5
+    },
+    {
+      "food_group": "Salt, krydder, sausar",
+      "energy_pct": 3,
+      "protein_pct": 1.1,
+      "fat_pct": 4.9,
+      "saturated_fat_pct": 1.3,
+      "carbohydrate_pct": 1.9,
+      "sugars_pct": 2.4,
+      "fibre_pct": 1.7,
+      "salt_pct": 28.8
+    },
+    {
+      "food_group": "Andre matvarer",
+      "energy_pct": 4,
+      "protein_pct": 2,
+      "fat_pct": 4.7,
+      "saturated_fat_pct": 1.7,
+      "carbohydrate_pct": 4.1,
+      "sugars_pct": 1,
+      "fibre_pct": 3.8,
+      "salt_pct": 5.3
+    },
+    {
+      "food_group": "Drikkevarer utan alkohol",
+      "energy_pct": 3.8,
+      "protein_pct": 0.8,
+      "fat_pct": 0.4,
+      "saturated_fat_pct": 0.6,
+      "carbohydrate_pct": 8.3,
+      "sugars_pct": 19.5,
+      "fibre_pct": 4,
+      "salt_pct": 1.3
+    },
+    {
+      "food_group": "Øl, sider, alkoholhaldig",
+      "energy_pct": 1.8,
+      "protein_pct": 0.7,
+      "fat_pct": 0.3,
+      "saturated_fat_pct": 0.9,
+      "carbohydrate_pct": 1.3,
+      "sugars_pct": 0.8,
+      "fibre_pct": 1,
+      "salt_pct": 1.9
+    },
+    {
+      "food_group": "Uklassifiserte mat- og drikkevarer",
+      "energy_pct": 1.2,
+      "protein_pct": 0.9,
+      "fat_pct": 1.1,
+      "saturated_fat_pct": 1,
+      "carbohydrate_pct": 1.3,
+      "sugars_pct": 1.9,
+      "fibre_pct": 1.9,
+      "salt_pct": 1.6
+    }
+  ],
+  "meta": {
+    "title": "Matvaregruppers bidrag til energi og næringsstoffer (2025) - Free Download",
+    "description": "Prosentvis bidrag fra hver matvaregruppe til energi, protein, fett, karbohydrat, sukker, kostfiber og salt i solgte matvarer i Norge i 2025, fra SSB. Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Matvaregruppers bidrag til energi og næringsstoffer (2025) | ListBase",
+    "seo_description": "Download Matvaregruppers bidrag til energi og næringsstoffer (2025) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/13697"
+    ]
+  }
+}

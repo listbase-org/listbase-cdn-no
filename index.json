@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-16T02:16:17.193Z",
-  "total_datasets": 502,
-  "total_records": 1207439,
+  "generated": "2026-11-16T02:16:25.734Z",
+  "total_datasets": 503,
+  "total_records": 1207455,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -3311,6 +3311,36 @@
         "xlsx": {
           "name": "no-bryggerier_NO.xlsx",
           "size": 20621
+        }
+      }
+    },
+    {
+      "id": "no-matvaregrupper-bidrag-naeringsstoff",
+      "name": "Matvaregruppers bidrag til energi og næringsstoffer (2025)",
+      "category": "food",
+      "record_count": 16,
+      "columns": [
+        "food_group",
+        "energy_pct",
+        "protein_pct",
+        "fat_pct",
+        "saturated_fat_pct",
+        "carbohydrate_pct",
+        "sugars_pct",
+        "fibre_pct",
+        "salt_pct"
+      ],
+      "source": "https://www.ssb.no/statbank/table/13697",
+      "updated": "2026-11",
+      "size": 6509,
+      "files": {
+        "csv": {
+          "name": "no-matvaregrupper-bidrag-naeringsstoff_NO.csv",
+          "size": 1335
+        },
+        "xlsx": {
+          "name": "no-matvaregrupper-bidrag-naeringsstoff_NO.xlsx",
+          "size": 7797
         }
       }
     },
