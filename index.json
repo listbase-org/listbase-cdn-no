@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-17T02:26:17.073Z",
-  "total_datasets": 507,
-  "total_records": 1207662,
+  "generated": "2026-11-17T02:26:25.779Z",
+  "total_datasets": 508,
+  "total_records": 1207729,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -5912,6 +5912,34 @@
         "xlsx": {
           "name": "no-forsvarsministre_NO.xlsx",
           "size": 11957
+        }
+      }
+    },
+    {
+      "id": "no-oslos-ordforere",
+      "name": "Oslos ordførere",
+      "category": "politics",
+      "record_count": 67,
+      "columns": [
+        "name",
+        "born",
+        "died",
+        "note",
+        "term_start",
+        "term_end",
+        "party"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Oslos_ordfører",
+      "updated": "2026-11",
+      "size": 14020,
+      "files": {
+        "csv": {
+          "name": "no-oslos-ordforere_NO.csv",
+          "size": 4162
+        },
+        "xlsx": {
+          "name": "no-oslos-ordforere_NO.xlsx",
+          "size": 10014
         }
       }
     },

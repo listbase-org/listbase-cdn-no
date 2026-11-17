@@ -1,0 +1,664 @@
+{
+  "id": "no-oslos-ordforere",
+  "name": "Oslos ordførere",
+  "title": "Oslos ordførere",
+  "description": "Ordførere i Christiania/Oslo fra 1837 til i dag, med levetid, periode og parti.",
+  "category": "politics",
+  "source": "https://no.wikipedia.org/wiki/Oslos_ordfører",
+  "source_url": "https://no.wikipedia.org/wiki/Oslos_ordfører",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "number"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "number"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Andreas Tofte",
+      "born": 1795,
+      "died": 1852,
+      "note": "",
+      "term_start": "1837",
+      "term_end": "1838",
+      "party": ""
+    },
+    {
+      "name": "Herman Foss",
+      "born": 1790,
+      "died": 1853,
+      "note": "",
+      "term_start": "1838",
+      "term_end": "1841",
+      "party": ""
+    },
+    {
+      "name": "John Iverssøn Randklev",
+      "born": 1796,
+      "died": 1859,
+      "note": "første gang",
+      "term_start": "1839",
+      "term_end": "1839",
+      "party": ""
+    },
+    {
+      "name": "Christian Zetlitz Bretteville",
+      "born": 1800,
+      "died": 1871,
+      "note": "",
+      "term_start": "1841",
+      "term_end": "1841",
+      "party": ""
+    },
+    {
+      "name": "John Iverssøn Randklev",
+      "born": 1796,
+      "died": 1859,
+      "note": "andre gang",
+      "term_start": "1842",
+      "term_end": "1842",
+      "party": ""
+    },
+    {
+      "name": "Erik Røring Møinichen",
+      "born": 1797,
+      "died": 1875,
+      "note": "",
+      "term_start": "1842",
+      "term_end": "1843",
+      "party": ""
+    },
+    {
+      "name": "Carl Andreas Fougstad",
+      "born": 1806,
+      "died": 1871,
+      "note": "",
+      "term_start": "1843",
+      "term_end": "1845",
+      "party": ""
+    },
+    {
+      "name": "Lars Rasch",
+      "born": 1797,
+      "died": 1864,
+      "note": "første gang",
+      "term_start": "1845",
+      "term_end": "1845",
+      "party": ""
+    },
+    {
+      "name": "Christian Birch-Reichenwald",
+      "born": 1814,
+      "died": 1891,
+      "note": "første gang",
+      "term_start": "1846",
+      "term_end": "1846",
+      "party": ""
+    },
+    {
+      "name": "Lars Rasch",
+      "born": 1797,
+      "died": 1864,
+      "note": "andre gang",
+      "term_start": "1847",
+      "term_end": "1852",
+      "party": ""
+    },
+    {
+      "name": "Ulrik Anton Motzfeldt",
+      "born": 1807,
+      "died": 1865,
+      "note": "",
+      "term_start": "1853",
+      "term_end": "1860",
+      "party": ""
+    },
+    {
+      "name": "Frederik Stang",
+      "born": 1808,
+      "died": 1884,
+      "note": "",
+      "term_start": "1861",
+      "term_end": "1861",
+      "party": ""
+    },
+    {
+      "name": "Christian Birch-Reichenwald",
+      "born": 1814,
+      "died": 1891,
+      "note": "andre gang",
+      "term_start": "1862",
+      "term_end": "1862",
+      "party": ""
+    },
+    {
+      "name": "August Thomle",
+      "born": 1816,
+      "died": 1889,
+      "note": "",
+      "term_start": "1863",
+      "term_end": "1863",
+      "party": ""
+    },
+    {
+      "name": "Christian Birch-Reichenwald",
+      "born": 1814,
+      "died": 1891,
+      "note": "tredje gang",
+      "term_start": "1864",
+      "term_end": "1866",
+      "party": ""
+    },
+    {
+      "name": "Carl Johan Michelet",
+      "born": 1826,
+      "died": 1902,
+      "note": "",
+      "term_start": "1866",
+      "term_end": "1868",
+      "party": ""
+    },
+    {
+      "name": "Otto Joachim Løvenskiold",
+      "born": 1811,
+      "died": 1882,
+      "note": "",
+      "term_start": "1869",
+      "term_end": "1876",
+      "party": ""
+    },
+    {
+      "name": "Anders Sandøe Ørsted Bull",
+      "born": 1817,
+      "died": 1907,
+      "note": "",
+      "term_start": "1877",
+      "term_end": "1878",
+      "party": ""
+    },
+    {
+      "name": "Christian Schweigaard",
+      "born": 1838,
+      "died": 1899,
+      "note": "første gang",
+      "term_start": "1879",
+      "term_end": "1880",
+      "party": ""
+    },
+    {
+      "name": "Anton Blumenthal Petersen",
+      "born": 1825,
+      "died": 1891,
+      "note": "",
+      "term_start": "1881",
+      "term_end": "1884",
+      "party": ""
+    },
+    {
+      "name": "Christian Schweigaard",
+      "born": 1838,
+      "died": 1899,
+      "note": "andre gang",
+      "term_start": "1885",
+      "term_end": "1888",
+      "party": "H"
+    },
+    {
+      "name": "Peter Birch-Reichenwald",
+      "born": 1847,
+      "died": 1928,
+      "note": "",
+      "term_start": "1889",
+      "term_end": "1889",
+      "party": "H"
+    },
+    {
+      "name": "Karl Lous",
+      "born": 1847,
+      "died": 1928,
+      "note": "",
+      "term_start": "1889",
+      "term_end": "1890",
+      "party": "H"
+    },
+    {
+      "name": "Bernhard Getz",
+      "born": 1850,
+      "died": 1901,
+      "note": "",
+      "term_start": "1891",
+      "term_end": "1891",
+      "party": "H"
+    },
+    {
+      "name": "A. C. Bonnevie",
+      "born": 1846,
+      "died": 1898,
+      "note": "",
+      "term_start": "1892",
+      "term_end": "1892",
+      "party": "H"
+    },
+    {
+      "name": "Evald Rygh",
+      "born": 1842,
+      "died": 1913,
+      "note": "",
+      "term_start": "1893",
+      "term_end": "1894",
+      "party": "H"
+    },
+    {
+      "name": "Fredrik Stang Lund",
+      "born": 1859,
+      "died": 1922,
+      "note": "",
+      "term_start": "1895",
+      "term_end": "1895",
+      "party": "V"
+    },
+    {
+      "name": "Elias Sunde",
+      "born": 1851,
+      "died": 1910,
+      "note": "",
+      "term_start": "1895",
+      "term_end": "1897",
+      "party": "V"
+    },
+    {
+      "name": "Vollert H. Bøgh",
+      "born": 1855,
+      "died": 1909,
+      "note": "",
+      "term_start": "1898",
+      "term_end": "1898",
+      "party": "V"
+    },
+    {
+      "name": "Edmund Harbitz",
+      "born": 1861,
+      "died": 1916,
+      "note": "",
+      "term_start": "1899",
+      "term_end": "1901",
+      "party": "H"
+    },
+    {
+      "name": "J. Andersen Aars",
+      "born": 1852,
+      "died": 1919,
+      "note": "",
+      "term_start": "1902",
+      "term_end": "1904",
+      "party": "H"
+    },
+    {
+      "name": "Johan Kristian Skougaard",
+      "born": 1847,
+      "died": 1925,
+      "note": "",
+      "term_start": "1905",
+      "term_end": "1905",
+      "party": "H"
+    },
+    {
+      "name": "Fredrik Moltke Bugge",
+      "born": 1865,
+      "died": 1938,
+      "note": "",
+      "term_start": "1906",
+      "term_end": "1908",
+      "party": "H"
+    },
+    {
+      "name": "Olaf Berg",
+      "born": 1859,
+      "died": 1910,
+      "note": "",
+      "term_start": "1909",
+      "term_end": "1910",
+      "party": "H"
+    },
+    {
+      "name": "Cath. Bang",
+      "born": 1863,
+      "died": 1929,
+      "note": "",
+      "term_start": "1910",
+      "term_end": "1910",
+      "party": "H"
+    },
+    {
+      "name": "Lyder Nicolaysen",
+      "born": 1866,
+      "died": 1927,
+      "note": "",
+      "term_start": "1911",
+      "term_end": "1911",
+      "party": "H"
+    },
+    {
+      "name": "Hieronymus Heyerdahl",
+      "born": 1867,
+      "died": 1959,
+      "note": "",
+      "term_start": "1912",
+      "term_end": "1914",
+      "party": "H"
+    },
+    {
+      "name": "Peter Meinich",
+      "born": 1869,
+      "died": 1932,
+      "note": "",
+      "term_start": "1915",
+      "term_end": "1916",
+      "party": "H"
+    },
+    {
+      "name": "Carl Jeppesen",
+      "born": 1858,
+      "died": 1930,
+      "note": "",
+      "term_start": "1917",
+      "term_end": "1919",
+      "party": "Ap"
+    },
+    {
+      "name": "Haavard Martinsen",
+      "born": 1879,
+      "died": 1967,
+      "note": "",
+      "term_start": "1920",
+      "term_end": "1922",
+      "party": "H"
+    },
+    {
+      "name": "Borger With",
+      "born": 1872,
+      "died": 1930,
+      "note": "",
+      "term_start": "1923",
+      "term_end": "1928",
+      "party": "H"
+    },
+    {
+      "name": "Adolf Indrebø",
+      "born": 1884,
+      "died": 1942,
+      "note": "",
+      "term_start": "1929",
+      "term_end": "1931",
+      "party": "Ap"
+    },
+    {
+      "name": "Eyvind Getz",
+      "born": 1888,
+      "died": 1956,
+      "note": "",
+      "term_start": "1932",
+      "term_end": "1934",
+      "party": "H"
+    },
+    {
+      "name": "Oscar Torp",
+      "born": 1893,
+      "died": 1958,
+      "note": "første gang",
+      "term_start": "1935",
+      "term_end": "1935",
+      "party": "Ap"
+    },
+    {
+      "name": "Trygve Nilsen",
+      "born": 1893,
+      "died": 1973,
+      "note": "første gang",
+      "term_start": "1935",
+      "term_end": "1936",
+      "party": "Ap"
+    },
+    {
+      "name": "Oscar Torp",
+      "born": 1893,
+      "died": 1958,
+      "note": "andre gang",
+      "term_start": "1936",
+      "term_end": "1936",
+      "party": "Ap"
+    },
+    {
+      "name": "Trygve Nilsen",
+      "born": 1893,
+      "died": 1973,
+      "note": "andre gang",
+      "term_start": "1936",
+      "term_end": "1940",
+      "party": "Ap"
+    },
+    {
+      "name": "Einar Gerhardsen",
+      "born": 1897,
+      "died": 1987,
+      "note": "første gang",
+      "term_start": "1940",
+      "term_end": "1940",
+      "party": "Ap"
+    },
+    {
+      "name": "Rolf Stranger",
+      "born": 1891,
+      "died": 1990,
+      "note": "første gang",
+      "term_start": "1940",
+      "term_end": "1941",
+      "party": "H"
+    },
+    {
+      "name": "Fritz Jenssen",
+      "born": 1886,
+      "died": 1966,
+      "note": "første gang",
+      "term_start": "20. februar 1941",
+      "term_end": "8. mai 1945",
+      "party": "NS"
+    },
+    {
+      "name": "Einar Gerhardsen",
+      "born": 1897,
+      "died": 1987,
+      "note": "andre gang",
+      "term_start": "mai 1945",
+      "term_end": "25. juni 1945",
+      "party": "Ap"
+    },
+    {
+      "name": "Rolf Stranger",
+      "born": 1891,
+      "died": 1990,
+      "note": "andre gang",
+      "term_start": "1945",
+      "term_end": "1945",
+      "party": "H"
+    },
+    {
+      "name": "Arnfinn Vik",
+      "born": 1901,
+      "died": 1990,
+      "note": "",
+      "term_start": "1945",
+      "term_end": "1947",
+      "party": "Ap"
+    },
+    {
+      "name": "Halvdan Eyvind Stokke",
+      "born": 1900,
+      "died": 1977,
+      "note": "",
+      "term_start": "1948",
+      "term_end": "1950",
+      "party": "Ap"
+    },
+    {
+      "name": "Brynjulf Bull",
+      "born": 1906,
+      "died": 1993,
+      "note": "første gang",
+      "term_start": "1951",
+      "term_end": "1955",
+      "party": "Ap"
+    },
+    {
+      "name": "Rolf Stranger",
+      "born": 1891,
+      "died": 1990,
+      "note": "tredje gang",
+      "term_start": "1. januar 1956",
+      "term_end": "31. desember 1959",
+      "party": "H"
+    },
+    {
+      "name": "Brynjulf Bull",
+      "born": 1906,
+      "died": 1993,
+      "note": "andre gang",
+      "term_start": "1960",
+      "term_end": "1961",
+      "party": "Ap"
+    },
+    {
+      "name": "Rolf Stranger",
+      "born": 1891,
+      "died": 1990,
+      "note": "fjerde gang",
+      "term_start": "1962",
+      "term_end": "1963",
+      "party": "H"
+    },
+    {
+      "name": "Brynjulf Bull",
+      "born": 1906,
+      "died": 1993,
+      "note": "tredje gang",
+      "term_start": "1964",
+      "term_end": "1975",
+      "party": "Ap"
+    },
+    {
+      "name": "Albert Nordengen",
+      "born": 1923,
+      "died": 2004,
+      "note": "",
+      "term_start": "1. januar 1976",
+      "term_end": "24. oktober 1990",
+      "party": "H"
+    },
+    {
+      "name": "Peter N. Myhre",
+      "born": 1954,
+      "died": "",
+      "note": "",
+      "term_start": "24. oktober 1990",
+      "term_end": "31. desember 1991",
+      "party": "Frp"
+    },
+    {
+      "name": "Ann-Marit Sæbønes",
+      "born": 1945,
+      "died": "",
+      "note": "",
+      "term_start": "1. januar 1992",
+      "term_end": "25. oktober 1995",
+      "party": "Ap"
+    },
+    {
+      "name": "Per Ditlev-Simonsen",
+      "born": 1932,
+      "died": "",
+      "note": "",
+      "term_start": "25. oktober 1995",
+      "term_end": "29. august 2007",
+      "party": "H"
+    },
+    {
+      "name": "Svenn Kristiansen",
+      "born": 1940,
+      "died": 2024,
+      "note": "",
+      "term_start": "29. august 2007",
+      "term_end": "17. oktober 2007",
+      "party": "Frp"
+    },
+    {
+      "name": "Fabian Stang",
+      "born": 1955,
+      "died": "",
+      "note": "",
+      "term_start": "17. oktober 2007",
+      "term_end": "21. oktober 2015",
+      "party": "H"
+    },
+    {
+      "name": "Marianne Borgen",
+      "born": 1951,
+      "died": "",
+      "note": "",
+      "term_start": "21. oktober 2015",
+      "term_end": "25. oktober 2023",
+      "party": "SV"
+    },
+    {
+      "name": "Anne Lindboe",
+      "born": 1971,
+      "died": "",
+      "note": "",
+      "term_start": "25. oktober 2023",
+      "term_end": "sittende",
+      "party": "H"
+    }
+  ],
+  "meta": {
+    "title": "Oslos ordførere - Free Download",
+    "description": "Ordførere i Christiania/Oslo fra 1837 til i dag, med levetid, periode og parti. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Oslos ordførere | ListBase",
+    "seo_description": "Download Oslos ordførere — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Oslos_ordfører"
+    ]
+  }
+}
