@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-17T02:26:08.476Z",
-  "total_datasets": 506,
-  "total_records": 1207609,
+  "generated": "2026-11-17T02:26:17.073Z",
+  "total_datasets": 507,
+  "total_records": 1207662,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -5245,6 +5245,33 @@
         "xlsx": {
           "name": "no-kriger-norge-har-deltatt-i_NO.xlsx",
           "size": 9258
+        }
+      }
+    },
+    {
+      "id": "no-norges-dronninger",
+      "name": "Norges dronninger",
+      "category": "history",
+      "record_count": 53,
+      "columns": [
+        "name",
+        "born",
+        "parents",
+        "spouse",
+        "died",
+        "period"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_Norges_dronninger",
+      "updated": "2026-11",
+      "size": 17328,
+      "files": {
+        "csv": {
+          "name": "no-norges-dronninger_NO.csv",
+          "size": 9963
+        },
+        "xlsx": {
+          "name": "no-norges-dronninger_NO.xlsx",
+          "size": 11443
         }
       }
     },
