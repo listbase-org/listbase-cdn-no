@@ -1,0 +1,962 @@
+{
+  "id": "no-forsvarsministre",
+  "name": "Norges forsvarsministre",
+  "title": "Norges forsvarsministre",
+  "description": "Norges forsvarsministre (tidligere statsråder for forsvarsdepartementet) fra 1885 til i dag, med periode, parti og regjering.",
+  "category": "politics",
+  "source": "https://no.wikipedia.org/wiki/Norges_forsvarsminister",
+  "source_url": "https://no.wikipedia.org/wiki/Norges_forsvarsminister",
+  "updated": "2026-11",
+  "record_count": 81,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "number"
+    },
+    {
+      "key": "died",
+      "label": "Died",
+      "type": "number"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "string"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "string"
+    },
+    {
+      "key": "party",
+      "label": "Party",
+      "type": "string"
+    },
+    {
+      "key": "government",
+      "label": "Government",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "name": "Johan Sverdrup",
+      "born": 1816,
+      "died": 1892,
+      "note": "",
+      "term_start": "1. september 1885",
+      "term_end": "13. juli 1889",
+      "party": "V",
+      "government": "Sverdrup (V)"
+    },
+    {
+      "no": "2",
+      "name": "Edvard Hans Hoff",
+      "born": 1838,
+      "died": 1933,
+      "note": "",
+      "term_start": "13. juli 1889",
+      "term_end": "6. mars 1891",
+      "party": "H",
+      "government": "E. Stang I (H)"
+    },
+    {
+      "no": "3",
+      "name": "Peter Theodor Holst",
+      "born": 1843,
+      "died": 1908,
+      "note": "",
+      "term_start": "6. mars 1891",
+      "term_end": "2. mai 1893",
+      "party": "V",
+      "government": "Steen I (V)"
+    },
+    {
+      "no": "4",
+      "name": "Wilhelm Olssøn",
+      "born": 1844,
+      "died": 1915,
+      "note": "",
+      "term_start": "2. mai 1893",
+      "term_end": "30. juni 1894",
+      "party": "H",
+      "government": "E. Stang II (H)"
+    },
+    {
+      "no": "5",
+      "name": "Johannes Winding Harbitz",
+      "born": 1831,
+      "died": 1917,
+      "note": "",
+      "term_start": "30. juni 1894",
+      "term_end": "27. april 1895",
+      "party": "H",
+      "government": "E. Stang II (H)"
+    },
+    {
+      "no": "6",
+      "name": "Wilhelm Olssøn",
+      "born": 1844,
+      "died": 1915,
+      "note": "andre gang",
+      "term_start": "27. april 1895",
+      "term_end": "14. oktober 1895",
+      "party": "H",
+      "government": "E. Stang II (H)"
+    },
+    {
+      "no": "6",
+      "name": "Wilhelm Olssøn",
+      "born": 1844,
+      "died": 1915,
+      "note": "andre gang",
+      "term_start": "14. oktober 1895",
+      "term_end": "17. februar 1898",
+      "party": "H",
+      "government": "Hagerup I (H)"
+    },
+    {
+      "no": "7",
+      "name": "Peter Theodor Holst",
+      "born": 1843,
+      "died": 1908,
+      "note": "andre gang",
+      "term_start": "17. februar 1898",
+      "term_end": "6. november 1900",
+      "party": "V",
+      "government": "Steen II (V)"
+    },
+    {
+      "no": "8",
+      "name": "Georg Stang",
+      "born": 1858,
+      "died": 1907,
+      "note": "",
+      "term_start": "6. november 1900",
+      "term_end": "21. april 1902",
+      "party": "V",
+      "government": "Steen II (V)"
+    },
+    {
+      "no": "8",
+      "name": "Georg Stang",
+      "born": 1858,
+      "died": 1907,
+      "note": "",
+      "term_start": "21. april 1902",
+      "term_end": "9. juni 1903",
+      "party": "V",
+      "government": "Blehr I (V)"
+    },
+    {
+      "no": "9",
+      "name": "Thomas Heftye",
+      "born": 1860,
+      "died": 1921,
+      "note": "",
+      "term_start": "9. juni 1903",
+      "term_end": "22. oktober 1903",
+      "party": "V",
+      "government": "Blehr I (V)"
+    },
+    {
+      "no": "10",
+      "name": "Oscar Strugstad",
+      "born": 1851,
+      "died": 1919,
+      "note": "",
+      "term_start": "22. oktober 1903",
+      "term_end": "28. februar 1905",
+      "party": "Saml.",
+      "government": "Hagerup II (Saml., V, H)"
+    },
+    {
+      "no": "11",
+      "name": "Wilhelm Olssøn",
+      "born": 1844,
+      "died": 1915,
+      "note": "tredje gang",
+      "term_start": "28. februar 1905",
+      "term_end": "25. mai 1907",
+      "party": "H",
+      "government": "Michelsen (V, H, MV, Saml., Uavh.)"
+    },
+    {
+      "no": "12",
+      "name": "Christian Michelsen",
+      "born": 1857,
+      "died": 1925,
+      "note": "fungerende",
+      "term_start": "25. mai 1907",
+      "term_end": "23. oktober 1907",
+      "party": "V",
+      "government": "Michelsen (V, H, MV, Saml., Uavh.)"
+    },
+    {
+      "no": "13",
+      "name": "Karl Friederich Griffin Dawes",
+      "born": 1861,
+      "died": 1941,
+      "note": "",
+      "term_start": "23. oktober 1907",
+      "term_end": "19. mars 1908",
+      "party": "V",
+      "government": "Løvland (V, MV, Uavh., Liberal)"
+    },
+    {
+      "no": "14",
+      "name": "Thomas Heftye",
+      "born": 1860,
+      "died": 1921,
+      "note": "andre gang",
+      "term_start": "19. mars 1908",
+      "term_end": "11. april 1908",
+      "party": "V",
+      "government": "Knudsen I (V)"
+    },
+    {
+      "no": "15",
+      "name": "Haakon Ditlef Lowzow",
+      "born": 1845,
+      "died": 1915,
+      "note": "",
+      "term_start": "11. april 1908",
+      "term_end": "20. august 1909",
+      "party": "V",
+      "government": "Knudsen I (V)"
+    },
+    {
+      "no": "16",
+      "name": "August Spørck",
+      "born": 1851,
+      "died": 1928,
+      "note": "",
+      "term_start": "20. august 1909",
+      "term_end": "1. februar 1910",
+      "party": "V",
+      "government": "Knudsen I (V)"
+    },
+    {
+      "no": "17",
+      "name": "Karl Bull",
+      "born": 1860,
+      "died": 1936,
+      "note": "",
+      "term_start": "2. februar 1910",
+      "term_end": "20. februar 1912",
+      "party": "H",
+      "government": "Konow (H, FV)"
+    },
+    {
+      "no": "18",
+      "name": "Jens Bratlie",
+      "born": 1856,
+      "died": 1939,
+      "note": "",
+      "term_start": "20. februar 1912",
+      "term_end": "31. januar 1913",
+      "party": "H",
+      "government": "Bratlie (H, FV)"
+    },
+    {
+      "no": "19",
+      "name": "Hans Vilhelm Keilhau",
+      "born": 1845,
+      "died": 1917,
+      "note": "",
+      "term_start": "31. januar 1913",
+      "term_end": "8. august 1914",
+      "party": "V",
+      "government": "Knudsen II (V)"
+    },
+    {
+      "no": "20",
+      "name": "Christian Theodor Holtfodt",
+      "born": 1863,
+      "died": 1930,
+      "note": "",
+      "term_start": "8. august 1914",
+      "term_end": "20. februar 1919",
+      "party": "V",
+      "government": "Knudsen II (V)"
+    },
+    {
+      "no": "21",
+      "name": "Rudolf Peersen",
+      "born": 1868,
+      "died": 1949,
+      "note": "",
+      "term_start": "20. februar 1919",
+      "term_end": "17. juni 1919",
+      "party": "V",
+      "government": "Knudsen II (V)"
+    },
+    {
+      "no": "22",
+      "name": "Ivar Aavatsmark",
+      "born": 1864,
+      "died": 1947,
+      "note": "",
+      "term_start": "17. juni 1919",
+      "term_end": "21. juni 1920",
+      "party": "V",
+      "government": "Knudsen II (V)"
+    },
+    {
+      "no": "23",
+      "name": "Karl Wilhelm Wefring",
+      "born": 1867,
+      "died": 1938,
+      "note": "",
+      "term_start": "21. juni 1920",
+      "term_end": "22. juni 1921",
+      "party": "FV",
+      "government": "Halvorsen I (H, FV)"
+    },
+    {
+      "no": "24",
+      "name": "Ivar Aavatsmark",
+      "born": 1864,
+      "died": 1947,
+      "note": "andre gang",
+      "term_start": "22. juni 1921",
+      "term_end": "6. mars 1923",
+      "party": "V",
+      "government": "Blehr II (V)"
+    },
+    {
+      "no": "25",
+      "name": "Karl Wilhelm Wefring",
+      "born": 1867,
+      "died": 1938,
+      "note": "andre gang",
+      "term_start": "6. mars 1923",
+      "term_end": "30. mars 1923",
+      "party": "FV",
+      "government": "Halvorsen II (H, FV)"
+    },
+    {
+      "no": "25",
+      "name": "Karl Wilhelm Wefring",
+      "born": 1867,
+      "died": 1938,
+      "note": "andre gang",
+      "term_start": "30. mars 1923",
+      "term_end": "25. juli 1924",
+      "party": "FV",
+      "government": "Berge (H, FV)"
+    },
+    {
+      "no": "26",
+      "name": "Rolf Jacobsen",
+      "born": 1865,
+      "died": 1942,
+      "note": "",
+      "term_start": "25. juli 1924",
+      "term_end": "4. mars 1926",
+      "party": "V",
+      "government": "Mowinckel I (V)"
+    },
+    {
+      "no": "27",
+      "name": "Karl Wilhelm Wefring",
+      "born": 1867,
+      "died": 1938,
+      "note": "tredje gang",
+      "term_start": "4. mars 1926",
+      "term_end": "26. juli 1926",
+      "party": "FV",
+      "government": "Lykke (H, FV)"
+    },
+    {
+      "no": "28",
+      "name": "Ingolf Elster Christensen",
+      "born": 1872,
+      "died": 1943,
+      "note": "",
+      "term_start": "26. juli 1926",
+      "term_end": "28. januar 1928",
+      "party": "H",
+      "government": "Lykke (H, FV)"
+    },
+    {
+      "no": "29",
+      "name": "Fredrik Monsen",
+      "born": 1878,
+      "died": 1954,
+      "note": "",
+      "term_start": "28. januar 1928",
+      "term_end": "15. februar 1928",
+      "party": "Ap",
+      "government": "Hornsrud (Ap)"
+    },
+    {
+      "no": "30",
+      "name": "Torgeir Anderssen-Rysst",
+      "born": 1888,
+      "died": 1958,
+      "note": "",
+      "term_start": "15. februar 1928",
+      "term_end": "12. mai 1931",
+      "party": "V",
+      "government": "Mowinckel II (V)"
+    },
+    {
+      "no": "31",
+      "name": "Vidkun Quisling",
+      "born": 1887,
+      "died": 1945,
+      "note": "",
+      "term_start": "12. mai 1931",
+      "term_end": "14. mars 1932",
+      "party": "Bp",
+      "government": "Kolstad (Bp)"
+    },
+    {
+      "no": "31",
+      "name": "Vidkun Quisling",
+      "born": 1887,
+      "died": 1945,
+      "note": "",
+      "term_start": "14. mars 1932",
+      "term_end": "3. mars 1933",
+      "party": "Bp",
+      "government": "Hundseid (Bp)"
+    },
+    {
+      "no": "32",
+      "name": "Jens Isak Kobro",
+      "born": 1882,
+      "died": 1967,
+      "note": "",
+      "term_start": "3. mars 1933",
+      "term_end": "20. mars 1935",
+      "party": "V",
+      "government": "Mowinckel III (V)"
+    },
+    {
+      "no": "33",
+      "name": "Fredrik Monsen",
+      "born": 1878,
+      "died": 1954,
+      "note": "andre gang",
+      "term_start": "20. mars 1935",
+      "term_end": "15. november 1935",
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "no": "34",
+      "name": "Adolf Indrebø",
+      "born": 1884,
+      "died": 1942,
+      "note": "",
+      "term_start": "15. november 1935",
+      "term_end": "20. desember 1935",
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "no": "35",
+      "name": "Oscar Torp",
+      "born": 1893,
+      "died": 1958,
+      "note": "",
+      "term_start": "20. desember 1935",
+      "term_end": "15. august 1936",
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "no": "36",
+      "name": "Fredrik Monsen",
+      "born": 1878,
+      "died": 1954,
+      "note": "tredje gang",
+      "term_start": "15. august 1936",
+      "term_end": "22. desember 1939",
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "no": "37",
+      "name": "Birger Ljungberg",
+      "born": 1884,
+      "died": 1967,
+      "note": "",
+      "term_start": "22. desember 1939",
+      "term_end": "28. november 1941",
+      "party": "H",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "no": "38",
+      "name": "Oscar Torp",
+      "born": 1893,
+      "died": 1958,
+      "note": "andre gang",
+      "term_start": "28. november 1941",
+      "term_end": "Februar 1942",
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "no": "39",
+      "name": "Birger Ljungberg",
+      "born": 1884,
+      "died": 1967,
+      "note": "andre gang",
+      "term_start": "Februar 1942",
+      "term_end": "20. mars 1942",
+      "party": "H",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "no": "40",
+      "name": "Oscar Torp",
+      "born": 1893,
+      "died": 1958,
+      "note": "tredje gang",
+      "term_start": "20. mars 1942",
+      "term_end": "25. juni 1945",
+      "party": "Ap",
+      "government": "Nygaardsvold (Ap)"
+    },
+    {
+      "no": "40",
+      "name": "Oscar Torp",
+      "born": 1893,
+      "died": 1958,
+      "note": "tredje gang",
+      "term_start": "25. juni 1945",
+      "term_end": "5. november 1945",
+      "party": "Ap",
+      "government": "Gerhardsen I (Saml.)"
+    },
+    {
+      "no": "41",
+      "name": "Jens Christian Hauge",
+      "born": 1915,
+      "died": 2006,
+      "note": "",
+      "term_start": "5. november 1945",
+      "term_end": "19. november 1951",
+      "party": "Ap",
+      "government": "Gerhardsen II (Ap)"
+    },
+    {
+      "no": "41",
+      "name": "Jens Christian Hauge",
+      "born": 1915,
+      "died": 2006,
+      "note": "",
+      "term_start": "19. november 1951",
+      "term_end": "5. januar 1952",
+      "party": "Ap",
+      "government": "Torp (Ap)"
+    },
+    {
+      "no": "42",
+      "name": "Nils Langhelle",
+      "born": 1907,
+      "died": 1967,
+      "note": "",
+      "term_start": "5. januar 1952",
+      "term_end": "15. juni 1954",
+      "party": "Ap",
+      "government": "Torp (Ap)"
+    },
+    {
+      "no": "43",
+      "name": "Kai Knudsen",
+      "born": 1903,
+      "died": 1977,
+      "note": "",
+      "term_start": "15. juni 1954",
+      "term_end": "22. januar 1955",
+      "party": "Ap",
+      "government": "Torp (Ap)"
+    },
+    {
+      "no": "44",
+      "name": "Nils Handal",
+      "born": 1906,
+      "died": 1992,
+      "note": "",
+      "term_start": "22. januar 1955",
+      "term_end": "18. februar 1961",
+      "party": "Ap",
+      "government": "Gerhardsen III (Ap)"
+    },
+    {
+      "no": "45",
+      "name": "Gudmund Harlem",
+      "born": 1917,
+      "died": 1988,
+      "note": "",
+      "term_start": "18. februar 1961",
+      "term_end": "28. august 1963",
+      "party": "Ap",
+      "government": "Gerhardsen III (Ap)"
+    },
+    {
+      "no": "46",
+      "name": "Håkon Kyllingmark",
+      "born": 1915,
+      "died": 2003,
+      "note": "",
+      "term_start": "28. august 1963",
+      "term_end": "25. september 1963",
+      "party": "H",
+      "government": "Lyng (H, Sp, V, KrF)"
+    },
+    {
+      "no": "47",
+      "name": "Gudmund Harlem",
+      "born": 1917,
+      "died": 1988,
+      "note": "andre gang",
+      "term_start": "25. september 1963",
+      "term_end": "12. oktober 1965",
+      "party": "Ap",
+      "government": "Gerhardsen IV (Ap)"
+    },
+    {
+      "no": "48",
+      "name": "Otto Grieg Tidemand",
+      "born": 1921,
+      "died": 2006,
+      "note": "",
+      "term_start": "12. oktober 1965",
+      "term_end": "5. juni 1970",
+      "party": "H",
+      "government": "Borten (Sp, H, V, KrF)"
+    },
+    {
+      "no": "49",
+      "name": "Gunnar Hellesen",
+      "born": 1913,
+      "died": 2005,
+      "note": "",
+      "term_start": "5. juni 1970",
+      "term_end": "17. mars 1971",
+      "party": "H",
+      "government": "Borten (Sp, H, V, KrF)"
+    },
+    {
+      "no": "50",
+      "name": "Alv Jakob Fostervoll",
+      "born": 1932,
+      "died": 2015,
+      "note": "",
+      "term_start": "17. mars 1971",
+      "term_end": "18. oktober 1972",
+      "party": "Ap",
+      "government": "Bratteli I (Ap)"
+    },
+    {
+      "no": "51",
+      "name": "Johan Kleppe",
+      "born": 1928,
+      "died": 2022,
+      "note": "",
+      "term_start": "18. oktober 1972",
+      "term_end": "16. oktober 1973",
+      "party": "V",
+      "government": "Korvald (KrF, Sp, V)"
+    },
+    {
+      "no": "52",
+      "name": "Alv Jakob Fostervoll",
+      "born": 1932,
+      "died": 2015,
+      "note": "andre gang",
+      "term_start": "16. oktober 1973",
+      "term_end": "15. januar 1976",
+      "party": "Ap",
+      "government": "Bratteli II (Ap)"
+    },
+    {
+      "no": "53",
+      "name": "Rolf Hansen",
+      "born": 1920,
+      "died": 2006,
+      "note": "",
+      "term_start": "15. januar 1976",
+      "term_end": "8. oktober 1979",
+      "party": "Ap",
+      "government": "Nordli (Ap)"
+    },
+    {
+      "no": "54",
+      "name": "Thorvald Stoltenberg",
+      "born": 1931,
+      "died": 2018,
+      "note": "",
+      "term_start": "8. oktober 1979",
+      "term_end": "4. februar 1981",
+      "party": "Ap",
+      "government": "Nordli (Ap)"
+    },
+    {
+      "no": "54",
+      "name": "Thorvald Stoltenberg",
+      "born": 1931,
+      "died": 2018,
+      "note": "",
+      "term_start": "4. februar 1981",
+      "term_end": "14. oktober 1981",
+      "party": "Ap",
+      "government": "Brundtland I (Ap)"
+    },
+    {
+      "no": "55",
+      "name": "Anders C. Sjaastad",
+      "born": 1942,
+      "died": "",
+      "note": "",
+      "term_start": "14. oktober 1981",
+      "term_end": "25. april 1986",
+      "party": "H",
+      "government": "Willoch (H) Willoch (H, KrF, Sp, fra 8. juni 1983)"
+    },
+    {
+      "no": "56",
+      "name": "Rolf Presthus",
+      "born": 1936,
+      "died": 1988,
+      "note": "",
+      "term_start": "25. april 1986",
+      "term_end": "9. mai 1986",
+      "party": "H",
+      "government": "Willoch (H) Willoch (H, KrF, Sp, fra 8. juni 1983)"
+    },
+    {
+      "no": "57",
+      "name": "Johan Jørgen Holst",
+      "born": 1937,
+      "died": 1994,
+      "note": "",
+      "term_start": "9. mai 1986",
+      "term_end": "16. oktober 1989",
+      "party": "Ap",
+      "government": "Brundtland II (Ap)"
+    },
+    {
+      "no": "58",
+      "name": "Per Ditlev-Simonsen",
+      "born": 1932,
+      "died": "",
+      "note": "",
+      "term_start": "16. oktober 1989",
+      "term_end": "3. november 1990",
+      "party": "H",
+      "government": "Syse (H, KrF, Sp)"
+    },
+    {
+      "no": "59",
+      "name": "Johan Jørgen Holst",
+      "born": 1937,
+      "died": 1994,
+      "note": "andre gang",
+      "term_start": "3. november 1990",
+      "term_end": "2. april 1993",
+      "party": "Ap",
+      "government": "Brundtland III (Ap)"
+    },
+    {
+      "no": "60",
+      "name": "Jørgen Kosmo",
+      "born": 1947,
+      "died": 2017,
+      "note": "",
+      "term_start": "2. april 1993",
+      "term_end": "25. oktober 1996",
+      "party": "Ap",
+      "government": "Brundtland III (Ap)"
+    },
+    {
+      "no": "60",
+      "name": "Jørgen Kosmo",
+      "born": 1947,
+      "died": 2017,
+      "note": "",
+      "term_start": "25. oktober 1996",
+      "term_end": "17. oktober 1997",
+      "party": "Ap",
+      "government": "Jagland (Ap)"
+    },
+    {
+      "no": "61",
+      "name": "Dag Jostein Fjærvoll",
+      "born": 1947,
+      "died": 2021,
+      "note": "",
+      "term_start": "17. oktober 1997",
+      "term_end": "15. mars 1999",
+      "party": "KrF",
+      "government": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "no": "62",
+      "name": "Eldbjørg Løwer",
+      "born": 1943,
+      "died": "",
+      "note": "",
+      "term_start": "15. mars 1999",
+      "term_end": "17. mars 2000",
+      "party": "V",
+      "government": "Bondevik I (KrF, Sp, V)"
+    },
+    {
+      "no": "63",
+      "name": "Bjørn Tore Godal",
+      "born": 1945,
+      "died": "",
+      "note": "",
+      "term_start": "17. mars 2000",
+      "term_end": "19. oktober 2001",
+      "party": "Ap",
+      "government": "Stoltenberg I (Ap)"
+    },
+    {
+      "no": "64",
+      "name": "Kristin Krohn Devold",
+      "born": 1961,
+      "died": "",
+      "note": "",
+      "term_start": "19. oktober 2001",
+      "term_end": "17. oktober 2005",
+      "party": "H",
+      "government": "Bondevik II (KrF, H, V)"
+    },
+    {
+      "no": "65",
+      "name": "Anne-Grete Strøm-Erichsen",
+      "born": 1949,
+      "died": "",
+      "note": "",
+      "term_start": "17. oktober 2005",
+      "term_end": "20. oktober 2009",
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "no": "66",
+      "name": "Grete Faremo",
+      "born": 1955,
+      "died": "",
+      "note": "",
+      "term_start": "20. oktober 2009",
+      "term_end": "11. november 2011",
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "no": "67",
+      "name": "Espen Barth Eide",
+      "born": 1964,
+      "died": "",
+      "note": "",
+      "term_start": "11. november 2011",
+      "term_end": "21. september 2012",
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "no": "68",
+      "name": "Anne-Grete Strøm-Erichsen",
+      "born": 1949,
+      "died": "",
+      "note": "andre gang",
+      "term_start": "21. september 2012",
+      "term_end": "16. oktober 2013",
+      "party": "Ap",
+      "government": "Stoltenberg II (Ap, Sp, SV)"
+    },
+    {
+      "no": "69",
+      "name": "Ine Marie Eriksen Søreide",
+      "born": 1976,
+      "died": "",
+      "note": "",
+      "term_start": "16. oktober 2013",
+      "term_end": "20. oktober 2017",
+      "party": "H",
+      "government": "Solberg (H, FrP) Solberg (H, FrP, V, fra 17. januar 2018) Solberg (H, FrP, V, KrF, fra 22. januar 2019)"
+    },
+    {
+      "no": "70",
+      "name": "Frank Bakke-Jensen",
+      "born": 1965,
+      "died": "",
+      "note": "",
+      "term_start": "20. oktober 2017",
+      "term_end": "14. oktober 2021",
+      "party": "H",
+      "government": "Solberg (H, FrP) Solberg (H, FrP, V, fra 17. januar 2018) Solberg (H, FrP, V, KrF, fra 22. januar 2019)"
+    },
+    {
+      "no": "71",
+      "name": "Odd Roger Enoksen",
+      "born": 1954,
+      "died": "",
+      "note": "",
+      "term_start": "14. oktober 2021",
+      "term_end": "12. april 2022",
+      "party": "Sp",
+      "government": "Støre (Ap, Sp) Støre (Ap, fra 4. februar 2025)"
+    },
+    {
+      "no": "72",
+      "name": "Bjørn Arild Gram",
+      "born": 1972,
+      "died": "",
+      "note": "",
+      "term_start": "12. april 2022",
+      "term_end": "4. februar 2025",
+      "party": "Sp",
+      "government": "Støre (Ap, Sp) Støre (Ap, fra 4. februar 2025)"
+    },
+    {
+      "no": "73",
+      "name": "Tore O. Sandvik",
+      "born": 1969,
+      "died": "",
+      "note": "",
+      "term_start": "4. februar 2025",
+      "term_end": "sittende",
+      "party": "Ap",
+      "government": "Støre (Ap, Sp) Støre (Ap, fra 4. februar 2025)"
+    }
+  ],
+  "meta": {
+    "title": "Norges forsvarsministre - Free Download",
+    "description": "Norges forsvarsministre (tidligere statsråder for forsvarsdepartementet) fra 1885 til i dag, med periode, parti og regjering. Contains 81 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norges forsvarsministre | ListBase",
+    "seo_description": "Download Norges forsvarsministre — 81 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 81 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Norges_forsvarsminister"
+    ]
+  }
+}

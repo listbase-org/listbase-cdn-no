@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-16T02:16:43.663Z",
-  "total_datasets": 505,
-  "total_records": 1207528,
+  "generated": "2026-11-17T02:26:08.476Z",
+  "total_datasets": 506,
+  "total_records": 1207609,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -5855,6 +5855,36 @@
         "xlsx": {
           "name": "no-fiskeriministre_NO.xlsx",
           "size": 8750
+        }
+      }
+    },
+    {
+      "id": "no-forsvarsministre",
+      "name": "Norges forsvarsministre",
+      "category": "politics",
+      "record_count": 81,
+      "columns": [
+        "no",
+        "name",
+        "born",
+        "died",
+        "note",
+        "term_start",
+        "term_end",
+        "party",
+        "government"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Norges_forsvarsminister",
+      "updated": "2026-11",
+      "size": 23408,
+      "files": {
+        "csv": {
+          "name": "no-forsvarsministre_NO.csv",
+          "size": 8742
+        },
+        "xlsx": {
+          "name": "no-forsvarsministre_NO.xlsx",
+          "size": 11957
         }
       }
     },
