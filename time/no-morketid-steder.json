@@ -1,0 +1,277 @@
+{
+  "id": "no-morketid-steder",
+  "name": "Mørketid – periode på steder i Norge",
+  "title": "Mørketid – periode på steder i Norge",
+  "description": "Mørketidens varighet på utvalgte steder i Nord-Norge og på Svalbard: breddegrad, første og siste dag uten sol over horisonten og antall døgn.",
+  "category": "time",
+  "source": "https://no.wikipedia.org/wiki/Mørketid",
+  "source_url": "https://no.wikipedia.org/wiki/Mørketid",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "string"
+    },
+    {
+      "key": "first_day",
+      "label": "First Day",
+      "type": "string"
+    },
+    {
+      "key": "last_day",
+      "label": "Last Day",
+      "type": "string"
+    },
+    {
+      "key": "days",
+      "label": "Days",
+      "type": "number"
+    },
+    {
+      "key": "duration",
+      "label": "Duration",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "place": "Polarsirkelen",
+      "region": "Nordland",
+      "latitude": "66°33′50\"",
+      "first_day": "",
+      "last_day": "",
+      "days": 0,
+      "duration": ""
+    },
+    {
+      "place": "Røstlandet",
+      "region": "Nordland",
+      "latitude": "67°31'27\"",
+      "first_day": "16. desember",
+      "last_day": "27. desember",
+      "days": 11,
+      "duration": "1 uke, 4 dager"
+    },
+    {
+      "place": "Svolvær",
+      "region": "Nordland",
+      "latitude": "68°17'7\"",
+      "first_day": "7. desember",
+      "last_day": "5. januar",
+      "days": 29,
+      "duration": "4 uker, 1 dag"
+    },
+    {
+      "place": "Andenes",
+      "region": "Nordland",
+      "latitude": "69°18'52\"",
+      "first_day": "29. november",
+      "last_day": "13. januar",
+      "days": 45,
+      "duration": "1 måned, 2 uker, 2 dager"
+    },
+    {
+      "place": "Harstad",
+      "region": "Troms",
+      "latitude": "68°48'4\"",
+      "first_day": "2. desember",
+      "last_day": "10. januar",
+      "days": 39,
+      "duration": "1 måned, 1 uke, 1 dag"
+    },
+    {
+      "place": "Bardufoss",
+      "region": "Troms",
+      "latitude": "69°3'52\"",
+      "first_day": "30. november",
+      "last_day": "12. januar",
+      "days": 43,
+      "duration": "1 måned, 1 uke, 5 dager"
+    },
+    {
+      "place": "Finnsnes",
+      "region": "Troms",
+      "latitude": "69°13'48\"",
+      "first_day": "29. november",
+      "last_day": "13. januar",
+      "days": 43,
+      "duration": "1 måned, 2 uker, 2 dager"
+    },
+    {
+      "place": "Tromsø",
+      "region": "Troms",
+      "latitude": "69°39'16\"",
+      "first_day": "27. november",
+      "last_day": "15. januar",
+      "days": 49,
+      "duration": "1 måned, 3 uker, 1 dag"
+    },
+    {
+      "place": "Karasjok",
+      "region": "Finnmark",
+      "latitude": "69°28'19\"",
+      "first_day": "28. november",
+      "last_day": "14. januar",
+      "days": 47,
+      "duration": "1 måned, 2 uker, 6 dager"
+    },
+    {
+      "place": "Alta",
+      "region": "Finnmark",
+      "latitude": "69°58'8\"",
+      "first_day": "25. november",
+      "last_day": "17. januar",
+      "days": 53,
+      "duration": "1 måned, 3 uker, 2 dager"
+    },
+    {
+      "place": "Vardø",
+      "region": "Finnmark",
+      "latitude": "70°22'14\"",
+      "first_day": "23. november",
+      "last_day": "19. januar",
+      "days": 57,
+      "duration": "1 måned, 3 uker, 6 dager"
+    },
+    {
+      "place": "Hammerfest",
+      "region": "Finnmark",
+      "latitude": "70°39'48\"",
+      "first_day": "22. november",
+      "last_day": "20. januar",
+      "days": 59,
+      "duration": "1 måned, 4 uker"
+    },
+    {
+      "place": "Berlevåg",
+      "region": "Finnmark",
+      "latitude": "70°51'28\"",
+      "first_day": "21. november",
+      "last_day": "21. januar",
+      "days": 61,
+      "duration": "2 måneder"
+    },
+    {
+      "place": "Nordkapp",
+      "region": "Finnmark",
+      "latitude": "71°10'21\"",
+      "first_day": "20. november",
+      "last_day": "22. januar",
+      "days": 63,
+      "duration": "2 måneder, 2 dager"
+    },
+    {
+      "place": "Jan Mayen",
+      "region": "Svalbard",
+      "latitude": "70°58'31\"",
+      "first_day": "20. november",
+      "last_day": "21. januar",
+      "days": 62,
+      "duration": "2 måneder, 1 dag"
+    },
+    {
+      "place": "Bjørnøya",
+      "region": "Svalbard",
+      "latitude": "74°30'14\"",
+      "first_day": "7. november",
+      "last_day": "4. februar",
+      "days": 89,
+      "duration": "2 måneder, 4 uker"
+    },
+    {
+      "place": "Hopen",
+      "region": "Svalbard",
+      "latitude": "76°34'53\"",
+      "first_day": "31. oktober",
+      "last_day": "10. februar",
+      "days": 102,
+      "duration": "2 måneder, 4 uker"
+    },
+    {
+      "place": "Sveagruva",
+      "region": "Svalbard",
+      "latitude": "77°54'1\"",
+      "first_day": "27. oktober",
+      "last_day": "15. februar",
+      "days": 111,
+      "duration": "3 måneder, 2 uker, 5 dager"
+    },
+    {
+      "place": "Barentsburg",
+      "region": "Svalbard",
+      "latitude": "78°3'54\"",
+      "first_day": "26. oktober",
+      "last_day": "15. februar",
+      "days": 112,
+      "duration": "3 måneder, 2 uker, 6 dager"
+    },
+    {
+      "place": "Longyearbyen",
+      "region": "Svalbard",
+      "latitude": "78°13'23\"",
+      "first_day": "26. oktober",
+      "last_day": "16. februar",
+      "days": 113,
+      "duration": "3 måneder, 3 uker"
+    },
+    {
+      "place": "Pyramiden",
+      "region": "Svalbard",
+      "latitude": "78°39'12\"",
+      "first_day": "25. oktober",
+      "last_day": "17. februar",
+      "days": 115,
+      "duration": "3 måneder, 3 uker, 2 dager"
+    },
+    {
+      "place": "Ny-Ålesund",
+      "region": "Svalbard",
+      "latitude": "78°55'33\"",
+      "first_day": "24. oktober",
+      "last_day": "18. februar",
+      "days": 117,
+      "duration": "3 måneder, 3 uker, 4 dager"
+    },
+    {
+      "place": "Magdalenefjorden",
+      "region": "Svalbard",
+      "latitude": "79°33'23\"",
+      "first_day": "22. oktober",
+      "last_day": "19. februar",
+      "days": 120,
+      "duration": "4 måneder, 1 dag"
+    },
+    {
+      "place": "Rossøya",
+      "region": "Svalbard",
+      "latitude": "80°49'40\"",
+      "first_day": "19. oktober",
+      "last_day": "23. februar",
+      "days": 127,
+      "duration": "4 måneder, 4 dager"
+    }
+  ],
+  "meta": {
+    "title": "Mørketid – periode på steder i Norge - Free Download",
+    "description": "Mørketidens varighet på utvalgte steder i Nord-Norge og på Svalbard: breddegrad, første og siste dag uten sol over horisonten og antall døgn. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Mørketid – periode på steder i Norge | ListBase",
+    "seo_description": "Download Mørketid – periode på steder i Norge — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://no.wikipedia.org/wiki/Mørketid"
+    ]
+  }
+}

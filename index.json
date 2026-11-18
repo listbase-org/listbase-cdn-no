@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-18T02:25:49.754Z",
-  "total_datasets": 510,
-  "total_records": 1207807,
+  "generated": "2026-11-18T02:26:00.377Z",
+  "total_datasets": 511,
+  "total_records": 1207831,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tourism",
@@ -13436,6 +13436,34 @@
         "xlsx": {
           "name": "no-midnattssol-steder_NO.xlsx",
           "size": 9740
+        }
+      }
+    },
+    {
+      "id": "no-morketid-steder",
+      "name": "Mørketid – periode på steder i Norge",
+      "category": "time",
+      "record_count": 24,
+      "columns": [
+        "place",
+        "region",
+        "latitude",
+        "first_day",
+        "last_day",
+        "days",
+        "duration"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Mørketid",
+      "updated": "2026-11",
+      "size": 7287,
+      "files": {
+        "csv": {
+          "name": "no-morketid-steder_NO.csv",
+          "size": 2270
+        },
+        "xlsx": {
+          "name": "no-morketid-steder_NO.xlsx",
+          "size": 8222
         }
       }
     },
