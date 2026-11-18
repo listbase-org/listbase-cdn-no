@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-17T02:26:25.779Z",
-  "total_datasets": 508,
-  "total_records": 1207729,
+  "generated": "2026-11-18T02:25:39.052Z",
+  "total_datasets": 509,
+  "total_records": 1207769,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -13144,6 +13144,38 @@
         "xlsx": {
           "name": "no-uefa-mesterligaen-kamper_NO.xlsx",
           "size": 146534
+        }
+      }
+    },
+    {
+      "id": "no-bruk-av-kunstig-intelligens-foretak-2026",
+      "name": "Bruk av kunstig intelligens i norske foretak 2026",
+      "category": "tech",
+      "record_count": 40,
+      "columns": [
+        "industry",
+        "enterprise_size",
+        "uses_any_ai",
+        "text_mining",
+        "speech_recognition",
+        "generates_text_speech_code",
+        "generates_images_video_audio",
+        "image_recognition",
+        "machine_learning",
+        "process_automation",
+        "autonomous_machines"
+      ],
+      "source": "https://www.ssb.no/statbank/table/14942/",
+      "updated": "2026-11",
+      "size": 18267,
+      "files": {
+        "csv": {
+          "name": "no-bruk-av-kunstig-intelligens-foretak-2026_NO.csv",
+          "size": 3975
+        },
+        "xlsx": {
+          "name": "no-bruk-av-kunstig-intelligens-foretak-2026_NO.xlsx",
+          "size": 8974
         }
       }
     },
