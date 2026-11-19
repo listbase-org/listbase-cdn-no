@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-19T02:23:21.249Z",
-  "total_datasets": 512,
-  "total_records": 1207992,
+  "generated": "2026-11-19T02:23:30.634Z",
+  "total_datasets": 513,
+  "total_records": 1208052,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "history",
@@ -5066,6 +5066,31 @@
         "xlsx": {
           "name": "no-fastleger-fylke_NO.xlsx",
           "size": 19314
+        }
+      }
+    },
+    {
+      "id": "no-forventet-levealder-ved-fodsel",
+      "name": "Forventet levealder ved fødsel i Norge (1966–2025)",
+      "category": "health",
+      "record_count": 60,
+      "columns": [
+        "year",
+        "men",
+        "women",
+        "both_sexes"
+      ],
+      "source": "https://www.ssb.no/statbank/table/07902",
+      "updated": "2026-11",
+      "size": 7725,
+      "files": {
+        "csv": {
+          "name": "no-forventet-levealder-ved-fodsel_NO.csv",
+          "size": 1871
+        },
+        "xlsx": {
+          "name": "no-forventet-levealder-ved-fodsel_NO.xlsx",
+          "size": 8223
         }
       }
     },
