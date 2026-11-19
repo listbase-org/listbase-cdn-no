@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-18T02:26:00.377Z",
-  "total_datasets": 511,
-  "total_records": 1207831,
+  "generated": "2026-11-19T02:23:21.249Z",
+  "total_datasets": 512,
+  "total_records": 1207992,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -1691,6 +1691,29 @@
         "xlsx": {
           "name": "no-finansministre_NO.xlsx",
           "size": 13785
+        }
+      }
+    },
+    {
+      "id": "no-konsumprisindeks-historisk-1865-2025",
+      "name": "Konsumprisindeks, historisk serie 1865–2025 (2025=100)",
+      "category": "economy",
+      "record_count": 161,
+      "columns": [
+        "year",
+        "cpi_2025_100"
+      ],
+      "source": "https://www.ssb.no/statbank/table/14711",
+      "updated": "2026-11",
+      "size": 11002,
+      "files": {
+        "csv": {
+          "name": "no-konsumprisindeks-historisk-1865-2025_NO.csv",
+          "size": 2112
+        },
+        "xlsx": {
+          "name": "no-konsumprisindeks-historisk-1865-2025_NO.xlsx",
+          "size": 8718
         }
       }
     },
