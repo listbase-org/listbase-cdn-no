@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-19T02:23:30.634Z",
-  "total_datasets": 513,
-  "total_records": 1208052,
+  "generated": "2026-11-19T02:23:39.579Z",
+  "total_datasets": 514,
+  "total_records": 1209333,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 27
+      "dataset_count": 28
     },
     {
       "id": "units",
@@ -14717,6 +14717,35 @@
         "xlsx": {
           "name": "no-unlocode-veitransport_NO.xlsx",
           "size": 67338
+        }
+      }
+    },
+    {
+      "id": "no-veitunneler-i-norge",
+      "name": "Veitunneler i Norge",
+      "category": "transport",
+      "record_count": 1281,
+      "columns": [
+        "name",
+        "road",
+        "length_m",
+        "tubes",
+        "opened",
+        "municipality",
+        "county",
+        "subsea_depth_m"
+      ],
+      "source": "https://no.wikipedia.org/wiki/Liste_over_veitunneler_i_Norge",
+      "updated": "2026-11",
+      "size": 286923,
+      "files": {
+        "csv": {
+          "name": "no-veitunneler-i-norge_NO.csv",
+          "size": 88956
+        },
+        "xlsx": {
+          "name": "no-veitunneler-i-norge_NO.xlsx",
+          "size": 66784
         }
       }
     },
