@@ -1,0 +1,3006 @@
+{
+  "id": "no-kinobesok-per-kommune-2025",
+  "name": "Kinobesøk og kinosaler per kommune (2025)",
+  "title": "Kinobesøk og kinosaler per kommune (2025)",
+  "description": "Antall kinosaler, kinoseter, kinoforestillinger, kinobesøk og besøk på norske filmer i 2025 for norske kommuner med kinodrift (SSB/KOSTRA tabell 11817).",
+  "category": "entertainment",
+  "source": "https://www.ssb.no/statbank/table/11817",
+  "source_url": "https://www.ssb.no/statbank/table/11817",
+  "updated": "2026-11",
+  "record_count": 294,
+  "columns": [
+    {
+      "key": "kommunenummer",
+      "label": "Kommunenummer",
+      "type": "number"
+    },
+    {
+      "key": "kommune",
+      "label": "Kommune",
+      "type": "string"
+    },
+    {
+      "key": "kinosaler",
+      "label": "Kinosaler",
+      "type": "number"
+    },
+    {
+      "key": "kinoseter",
+      "label": "Kinoseter",
+      "type": "number"
+    },
+    {
+      "key": "kinobesok",
+      "label": "Kinobesok",
+      "type": "number"
+    },
+    {
+      "key": "besok_norske_filmer",
+      "label": "Besok Norske Filmer",
+      "type": "number"
+    },
+    {
+      "key": "kinoforestillinger",
+      "label": "Kinoforestillinger",
+      "type": "number"
+    },
+    {
+      "key": "besok_per_forestilling",
+      "label": "Besok Per Forestilling",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "kommunenummer": "0301",
+      "kommune": "Oslo",
+      "kinosaler": 46,
+      "kinoseter": 6423,
+      "kinobesok": 1762908,
+      "besok_norske_filmer": 474645,
+      "kinoforestillinger": 51886,
+      "besok_per_forestilling": 34
+    },
+    {
+      "kommunenummer": "4601",
+      "kommune": "Bergen",
+      "kinosaler": 27,
+      "kinoseter": 2373,
+      "kinobesok": 771723,
+      "besok_norske_filmer": 184793,
+      "kinoforestillinger": 39628,
+      "besok_per_forestilling": 19.5
+    },
+    {
+      "kommunenummer": "5001",
+      "kommune": "Trondheim",
+      "kinosaler": 19,
+      "kinoseter": 1938,
+      "kinobesok": 494406,
+      "besok_norske_filmer": 150045,
+      "kinoforestillinger": 21578,
+      "besok_per_forestilling": 22.9
+    },
+    {
+      "kommunenummer": "1103",
+      "kommune": "Stavanger",
+      "kinosaler": 14,
+      "kinoseter": 1601,
+      "kinobesok": 306032,
+      "besok_norske_filmer": 82829,
+      "kinoforestillinger": 12628,
+      "besok_per_forestilling": 24.2
+    },
+    {
+      "kommunenummer": "3205",
+      "kommune": "Lillestrøm",
+      "kinosaler": 7,
+      "kinoseter": 735,
+      "kinobesok": 221605,
+      "besok_norske_filmer": 54625,
+      "kinoforestillinger": 10108,
+      "besok_per_forestilling": 21.9
+    },
+    {
+      "kommunenummer": "3301",
+      "kommune": "Drammen",
+      "kinosaler": 6,
+      "kinoseter": 827,
+      "kinobesok": 221184,
+      "besok_norske_filmer": 69205,
+      "kinoforestillinger": 8070,
+      "besok_per_forestilling": 27.4
+    },
+    {
+      "kommunenummer": "5501",
+      "kommune": "Tromsø",
+      "kinosaler": 9,
+      "kinoseter": 1086,
+      "kinobesok": 202228,
+      "besok_norske_filmer": 51313,
+      "kinoforestillinger": 8702,
+      "besok_per_forestilling": 23.2
+    },
+    {
+      "kommunenummer": "4204",
+      "kommune": "Kristiansand",
+      "kinosaler": 10,
+      "kinoseter": 1033,
+      "kinobesok": 200489,
+      "besok_norske_filmer": 56764,
+      "kinoforestillinger": 7405,
+      "besok_per_forestilling": 27.1
+    },
+    {
+      "kommunenummer": "1108",
+      "kommune": "Sandnes",
+      "kinosaler": 8,
+      "kinoseter": 1014,
+      "kinobesok": 191563,
+      "besok_norske_filmer": 46517,
+      "kinoforestillinger": 7521,
+      "besok_per_forestilling": 25.5
+    },
+    {
+      "kommunenummer": "3201",
+      "kommune": "Bærum",
+      "kinosaler": 8,
+      "kinoseter": 907,
+      "kinobesok": 185892,
+      "besok_norske_filmer": 56412,
+      "kinoforestillinger": 11596,
+      "besok_per_forestilling": 16
+    },
+    {
+      "kommunenummer": "1508",
+      "kommune": "Ålesund",
+      "kinosaler": 10,
+      "kinoseter": 1245,
+      "kinobesok": 169602,
+      "besok_norske_filmer": 49153,
+      "kinoforestillinger": 10106,
+      "besok_per_forestilling": 16.8
+    },
+    {
+      "kommunenummer": "3207",
+      "kommune": "Nordre Follo",
+      "kinosaler": 9,
+      "kinoseter": 1139,
+      "kinobesok": 169559,
+      "besok_norske_filmer": 50745,
+      "kinoforestillinger": 10464,
+      "besok_per_forestilling": 16.2
+    },
+    {
+      "kommunenummer": "3107",
+      "kommune": "Fredrikstad",
+      "kinosaler": 6,
+      "kinoseter": 891,
+      "kinobesok": 166027,
+      "besok_norske_filmer": 49474,
+      "kinoforestillinger": 8466,
+      "besok_per_forestilling": 19.6
+    },
+    {
+      "kommunenummer": "3905",
+      "kommune": "Tønsberg",
+      "kinosaler": 11,
+      "kinoseter": 1519,
+      "kinobesok": 156902,
+      "besok_norske_filmer": 43589,
+      "kinoforestillinger": 10187,
+      "besok_per_forestilling": 15.4
+    },
+    {
+      "kommunenummer": "1106",
+      "kommune": "Haugesund",
+      "kinosaler": 8,
+      "kinoseter": 892,
+      "kinobesok": 134375,
+      "besok_norske_filmer": 32594,
+      "kinoforestillinger": 6348,
+      "besok_per_forestilling": 21.2
+    },
+    {
+      "kommunenummer": "3403",
+      "kommune": "Hamar",
+      "kinosaler": 5,
+      "kinoseter": 732,
+      "kinobesok": 133999,
+      "besok_norske_filmer": 51463,
+      "kinoforestillinger": 5316,
+      "besok_per_forestilling": 25.2
+    },
+    {
+      "kommunenummer": "3405",
+      "kommune": "Lillehammer",
+      "kinosaler": 5,
+      "kinoseter": 517,
+      "kinobesok": 102799,
+      "besok_norske_filmer": 39546,
+      "kinoforestillinger": 7374,
+      "besok_per_forestilling": 13.9
+    },
+    {
+      "kommunenummer": "3203",
+      "kommune": "Asker",
+      "kinosaler": 7,
+      "kinoseter": 491,
+      "kinobesok": 83649,
+      "besok_norske_filmer": 29145,
+      "kinoforestillinger": 5738,
+      "besok_per_forestilling": 14.6
+    },
+    {
+      "kommunenummer": "4626",
+      "kommune": "Øygarden",
+      "kinosaler": 5,
+      "kinoseter": 595,
+      "kinobesok": 81124,
+      "besok_norske_filmer": 21327,
+      "kinoforestillinger": 6269,
+      "besok_per_forestilling": 12.9
+    },
+    {
+      "kommunenummer": "1804",
+      "kommune": "Bodø",
+      "kinosaler": 4,
+      "kinoseter": 415,
+      "kinobesok": 81087,
+      "besok_norske_filmer": 26218,
+      "kinoforestillinger": 3012,
+      "besok_per_forestilling": 26.9
+    },
+    {
+      "kommunenummer": "3407",
+      "kommune": "Gjøvik",
+      "kinosaler": 3,
+      "kinoseter": 695,
+      "kinobesok": 80482,
+      "besok_norske_filmer": 30672,
+      "kinoforestillinger": 3706,
+      "besok_per_forestilling": 21.7
+    },
+    {
+      "kommunenummer": "3103",
+      "kommune": "Moss",
+      "kinosaler": 5,
+      "kinoseter": 336,
+      "kinobesok": 79933,
+      "besok_norske_filmer": 23264,
+      "kinoforestillinger": 6476,
+      "besok_per_forestilling": 12.3
+    },
+    {
+      "kommunenummer": "4001",
+      "kommune": "Porsgrunn",
+      "kinosaler": 5,
+      "kinoseter": 681,
+      "kinobesok": 77089,
+      "besok_norske_filmer": 25342,
+      "kinoforestillinger": 5739,
+      "besok_per_forestilling": 13.4
+    },
+    {
+      "kommunenummer": "4203",
+      "kommune": "Arendal",
+      "kinosaler": 4,
+      "kinoseter": 442,
+      "kinobesok": 74005,
+      "besok_norske_filmer": 26851,
+      "kinoforestillinger": 3529,
+      "besok_per_forestilling": 21
+    },
+    {
+      "kommunenummer": "3209",
+      "kommune": "Ullensaker",
+      "kinosaler": 3,
+      "kinoseter": 604,
+      "kinobesok": 72497,
+      "besok_norske_filmer": 23626,
+      "kinoforestillinger": 3378,
+      "besok_per_forestilling": 21.5
+    },
+    {
+      "kommunenummer": "1121",
+      "kommune": "Time",
+      "kinosaler": 4,
+      "kinoseter": 482,
+      "kinobesok": 68723,
+      "besok_norske_filmer": 24575,
+      "kinoforestillinger": 4324,
+      "besok_per_forestilling": 15.9
+    },
+    {
+      "kommunenummer": "4003",
+      "kommune": "Skien",
+      "kinosaler": 5,
+      "kinoseter": 495,
+      "kinobesok": 67653,
+      "besok_norske_filmer": 20465,
+      "kinoforestillinger": 6277,
+      "besok_per_forestilling": 10.8
+    },
+    {
+      "kommunenummer": "3909",
+      "kommune": "Larvik",
+      "kinosaler": 4,
+      "kinoseter": 922,
+      "kinobesok": 65620,
+      "besok_norske_filmer": 21195,
+      "kinoforestillinger": 3752,
+      "besok_per_forestilling": 17.5
+    },
+    {
+      "kommunenummer": "1506",
+      "kommune": "Molde",
+      "kinosaler": 4,
+      "kinoseter": 562,
+      "kinobesok": 64498,
+      "besok_norske_filmer": 23591,
+      "kinoforestillinger": 2676,
+      "besok_per_forestilling": 24.1
+    },
+    {
+      "kommunenummer": "3907",
+      "kommune": "Sandefjord",
+      "kinosaler": 3,
+      "kinoseter": 925,
+      "kinobesok": 60533,
+      "besok_norske_filmer": 22832,
+      "kinoforestillinger": 3259,
+      "besok_per_forestilling": 18.6
+    },
+    {
+      "kommunenummer": "3305",
+      "kommune": "Ringerike",
+      "kinosaler": 4,
+      "kinoseter": 415,
+      "kinobesok": 56301,
+      "besok_norske_filmer": 20401,
+      "kinoforestillinger": 3189,
+      "besok_per_forestilling": 17.7
+    },
+    {
+      "kommunenummer": "5006",
+      "kommune": "Steinkjer",
+      "kinosaler": 4,
+      "kinoseter": 328,
+      "kinobesok": 53119,
+      "besok_norske_filmer": 26295,
+      "kinoforestillinger": 4342,
+      "besok_per_forestilling": 12.2
+    },
+    {
+      "kommunenummer": "3222",
+      "kommune": "Lørenskog",
+      "kinosaler": 5,
+      "kinoseter": 691,
+      "kinobesok": 50515,
+      "besok_norske_filmer": 16263,
+      "kinoforestillinger": 4349,
+      "besok_per_forestilling": 11.6
+    },
+    {
+      "kommunenummer": "5035",
+      "kommune": "Stjørdal",
+      "kinosaler": 3,
+      "kinoseter": 375,
+      "kinobesok": 50073,
+      "besok_norske_filmer": 22650,
+      "kinoforestillinger": 3440,
+      "besok_per_forestilling": 14.6
+    },
+    {
+      "kommunenummer": "3105",
+      "kommune": "Sarpsborg",
+      "kinosaler": 3,
+      "kinoseter": 288,
+      "kinobesok": 47166,
+      "besok_norske_filmer": 15351,
+      "kinoforestillinger": 3033,
+      "besok_per_forestilling": 15.6
+    },
+    {
+      "kommunenummer": "5503",
+      "kommune": "Harstad",
+      "kinosaler": 3,
+      "kinoseter": 469,
+      "kinobesok": 46247,
+      "besok_norske_filmer": 18293,
+      "kinoforestillinger": 2496,
+      "besok_per_forestilling": 18.5
+    },
+    {
+      "kommunenummer": "3303",
+      "kommune": "Kongsberg",
+      "kinosaler": 3,
+      "kinoseter": 469,
+      "kinobesok": 43140,
+      "besok_norske_filmer": 17354,
+      "kinoforestillinger": 2671,
+      "besok_per_forestilling": 16.2
+    },
+    {
+      "kommunenummer": "3118",
+      "kommune": "Indre Østfold",
+      "kinosaler": 3,
+      "kinoseter": 837,
+      "kinobesok": 42455,
+      "besok_norske_filmer": 18481,
+      "kinoforestillinger": 1988,
+      "besok_per_forestilling": 21.4
+    },
+    {
+      "kommunenummer": "1149",
+      "kommune": "Karmøy",
+      "kinosaler": 3,
+      "kinoseter": 455,
+      "kinobesok": 40168,
+      "besok_norske_filmer": 14689,
+      "kinoforestillinger": 2284,
+      "besok_per_forestilling": 17.6
+    },
+    {
+      "kommunenummer": "3901",
+      "kommune": "Horten",
+      "kinosaler": 4,
+      "kinoseter": 523,
+      "kinobesok": 38094,
+      "besok_norske_filmer": 14392,
+      "kinoforestillinger": 3463,
+      "besok_per_forestilling": 11
+    },
+    {
+      "kommunenummer": "3101",
+      "kommune": "Halden",
+      "kinosaler": 3,
+      "kinoseter": 253,
+      "kinobesok": 35915,
+      "besok_norske_filmer": 12343,
+      "kinoforestillinger": 2749,
+      "besok_per_forestilling": 13.1
+    },
+    {
+      "kommunenummer": "3420",
+      "kommune": "Elverum",
+      "kinosaler": 2,
+      "kinoseter": 403,
+      "kinobesok": 35801,
+      "besok_norske_filmer": 14443,
+      "kinoforestillinger": 2023,
+      "besok_per_forestilling": 17.7
+    },
+    {
+      "kommunenummer": "5038",
+      "kommune": "Verdal",
+      "kinosaler": 2,
+      "kinoseter": 260,
+      "kinobesok": 35303,
+      "besok_norske_filmer": 15550,
+      "kinoforestillinger": 1732,
+      "besok_per_forestilling": 20.4
+    },
+    {
+      "kommunenummer": "1833",
+      "kommune": "Rana",
+      "kinosaler": 2,
+      "kinoseter": 452,
+      "kinobesok": 33218,
+      "besok_norske_filmer": 11560,
+      "kinoforestillinger": 1858,
+      "besok_per_forestilling": 17.9
+    },
+    {
+      "kommunenummer": "4202",
+      "kommune": "Grimstad",
+      "kinosaler": 3,
+      "kinoseter": 480,
+      "kinobesok": 33044,
+      "besok_norske_filmer": 9557,
+      "kinoforestillinger": 3321,
+      "besok_per_forestilling": 10
+    },
+    {
+      "kommunenummer": "3228",
+      "kommune": "Nes",
+      "kinosaler": 3,
+      "kinoseter": 514,
+      "kinobesok": 32865,
+      "besok_norske_filmer": 12092,
+      "kinoforestillinger": 2163,
+      "besok_per_forestilling": 15.2
+    },
+    {
+      "kommunenummer": "5601",
+      "kommune": "Alta",
+      "kinosaler": 3,
+      "kinoseter": 274,
+      "kinobesok": 31040,
+      "besok_norske_filmer": 11194,
+      "kinoforestillinger": 3132,
+      "besok_per_forestilling": 9.9
+    },
+    {
+      "kommunenummer": "1505",
+      "kommune": "Kristiansund",
+      "kinosaler": 2,
+      "kinoseter": 392,
+      "kinobesok": 30250,
+      "besok_norske_filmer": 9945,
+      "kinoforestillinger": 1827,
+      "besok_per_forestilling": 16.6
+    },
+    {
+      "kommunenummer": "3401",
+      "kommune": "Kongsvinger",
+      "kinosaler": 2,
+      "kinoseter": 477,
+      "kinobesok": 27174,
+      "besok_norske_filmer": 11913,
+      "kinoforestillinger": 922,
+      "besok_per_forestilling": 29.5
+    },
+    {
+      "kommunenummer": "4614",
+      "kommune": "Stord",
+      "kinosaler": 2,
+      "kinoseter": 544,
+      "kinobesok": 26335,
+      "besok_norske_filmer": 9465,
+      "kinoforestillinger": 1424,
+      "besok_per_forestilling": 18.5
+    },
+    {
+      "kommunenummer": "1101",
+      "kommune": "Eigersund",
+      "kinosaler": 2,
+      "kinoseter": 309,
+      "kinobesok": 25760,
+      "besok_norske_filmer": 8818,
+      "kinoforestillinger": 1732,
+      "besok_per_forestilling": 14.9
+    },
+    {
+      "kommunenummer": "4205",
+      "kommune": "Lindesnes",
+      "kinosaler": 3,
+      "kinoseter": 396,
+      "kinobesok": 25268,
+      "besok_norske_filmer": 9480,
+      "kinoforestillinger": 1488,
+      "besok_per_forestilling": 17
+    },
+    {
+      "kommunenummer": "5007",
+      "kommune": "Namsos",
+      "kinosaler": 2,
+      "kinoseter": 255,
+      "kinobesok": 24799,
+      "besok_norske_filmer": 9519,
+      "kinoforestillinger": 1249,
+      "besok_per_forestilling": 19.9
+    },
+    {
+      "kommunenummer": "4005",
+      "kommune": "Notodden",
+      "kinosaler": 2,
+      "kinoseter": 285,
+      "kinobesok": 24780,
+      "besok_norske_filmer": 9732,
+      "kinoforestillinger": 1807,
+      "besok_per_forestilling": 13.7
+    },
+    {
+      "kommunenummer": "4640",
+      "kommune": "Sogndal",
+      "kinosaler": 4,
+      "kinoseter": 496,
+      "kinobesok": 24314,
+      "besok_norske_filmer": 8992,
+      "kinoforestillinger": 2008,
+      "besok_per_forestilling": 12.1
+    },
+    {
+      "kommunenummer": "5021",
+      "kommune": "Oppdal",
+      "kinosaler": 2,
+      "kinoseter": 404,
+      "kinobesok": 23968,
+      "besok_norske_filmer": 10506,
+      "kinoforestillinger": 1381,
+      "besok_per_forestilling": 17.4
+    },
+    {
+      "kommunenummer": "4647",
+      "kommune": "Sunnfjord",
+      "kinosaler": 2,
+      "kinoseter": 533,
+      "kinobesok": 23851,
+      "besok_norske_filmer": 9650,
+      "kinoforestillinger": 1030,
+      "besok_per_forestilling": 23.2
+    },
+    {
+      "kommunenummer": "4621",
+      "kommune": "Voss",
+      "kinosaler": 3,
+      "kinoseter": 441,
+      "kinobesok": 23528,
+      "besok_norske_filmer": 8214,
+      "kinoforestillinger": 1930,
+      "besok_per_forestilling": 12.2
+    },
+    {
+      "kommunenummer": "1806",
+      "kommune": "Narvik",
+      "kinosaler": 4,
+      "kinoseter": 290,
+      "kinobesok": 22805,
+      "besok_norske_filmer": 8134,
+      "kinoforestillinger": 1967,
+      "besok_per_forestilling": 11.6
+    },
+    {
+      "kommunenummer": "1146",
+      "kommune": "Tysvær",
+      "kinosaler": 2,
+      "kinoseter": 454,
+      "kinobesok": 21394,
+      "besok_norske_filmer": 7940,
+      "kinoforestillinger": 1335,
+      "besok_per_forestilling": 16
+    },
+    {
+      "kommunenummer": "4020",
+      "kommune": "Midt-Telemark",
+      "kinosaler": 2,
+      "kinoseter": 525,
+      "kinobesok": 20543,
+      "besok_norske_filmer": 8174,
+      "kinoforestillinger": 1215,
+      "besok_per_forestilling": 16.9
+    },
+    {
+      "kommunenummer": "1516",
+      "kommune": "Ulstein",
+      "kinosaler": 1,
+      "kinoseter": 119,
+      "kinobesok": 19277,
+      "besok_norske_filmer": 7809,
+      "kinoforestillinger": 641,
+      "besok_per_forestilling": 30.1
+    },
+    {
+      "kommunenummer": "3214",
+      "kommune": "Frogn",
+      "kinosaler": 3,
+      "kinoseter": 119,
+      "kinobesok": 18067,
+      "besok_norske_filmer": 11782,
+      "kinoforestillinger": 560,
+      "besok_per_forestilling": 32.3
+    },
+    {
+      "kommunenummer": "3328",
+      "kommune": "Ål",
+      "kinosaler": 2,
+      "kinoseter": 397,
+      "kinobesok": 17444,
+      "besok_norske_filmer": 10127,
+      "kinoforestillinger": 1034,
+      "besok_per_forestilling": 16.9
+    },
+    {
+      "kommunenummer": "5605",
+      "kommune": "Sør-Varanger",
+      "kinosaler": 3,
+      "kinoseter": 331,
+      "kinobesok": 16647,
+      "besok_norske_filmer": 5448,
+      "kinoforestillinger": 985,
+      "besok_per_forestilling": 16.9
+    },
+    {
+      "kommunenummer": "5057",
+      "kommune": "Ørland",
+      "kinosaler": 2,
+      "kinoseter": 389,
+      "kinobesok": 15685,
+      "besok_norske_filmer": 6723,
+      "kinoforestillinger": 992,
+      "besok_per_forestilling": 15.8
+    },
+    {
+      "kommunenummer": "4602",
+      "kommune": "Kinn",
+      "kinosaler": 2,
+      "kinoseter": 410,
+      "kinobesok": 15318,
+      "besok_norske_filmer": 5251,
+      "kinoforestillinger": 491,
+      "besok_per_forestilling": 31.2
+    },
+    {
+      "kommunenummer": "4227",
+      "kommune": "Kvinesdal",
+      "kinosaler": 2,
+      "kinoseter": 345,
+      "kinobesok": 15178,
+      "besok_norske_filmer": 5741,
+      "kinoforestillinger": 1067,
+      "besok_per_forestilling": 14.2
+    },
+    {
+      "kommunenummer": "4225",
+      "kommune": "Lyngdal",
+      "kinosaler": 2,
+      "kinoseter": 280,
+      "kinobesok": 15081,
+      "besok_norske_filmer": 5843,
+      "kinoforestillinger": 957,
+      "besok_per_forestilling": 15.8
+    },
+    {
+      "kommunenummer": "1860",
+      "kommune": "Vestvågøy",
+      "kinosaler": 2,
+      "kinoseter": 326,
+      "kinobesok": 15058,
+      "besok_norske_filmer": 6246,
+      "kinoforestillinger": 515,
+      "besok_per_forestilling": 29.2
+    },
+    {
+      "kommunenummer": "1820",
+      "kommune": "Alstahaug",
+      "kinosaler": 1,
+      "kinoseter": 296,
+      "kinobesok": 14914,
+      "besok_norske_filmer": 5420,
+      "kinoforestillinger": 1067,
+      "besok_per_forestilling": 14
+    },
+    {
+      "kommunenummer": "4613",
+      "kommune": "Bømlo",
+      "kinosaler": 2,
+      "kinoseter": 455,
+      "kinobesok": 14907,
+      "besok_norske_filmer": 5758,
+      "kinoforestillinger": 823,
+      "besok_per_forestilling": 18.1
+    },
+    {
+      "kommunenummer": "4207",
+      "kommune": "Flekkefjord",
+      "kinosaler": 2,
+      "kinoseter": 465,
+      "kinobesok": 14025,
+      "besok_norske_filmer": 4610,
+      "kinoforestillinger": 1269,
+      "besok_per_forestilling": 11.1
+    },
+    {
+      "kommunenummer": "1866",
+      "kommune": "Hadsel",
+      "kinosaler": 1,
+      "kinoseter": 530,
+      "kinobesok": 13719,
+      "besok_norske_filmer": 5154,
+      "kinoforestillinger": 424,
+      "besok_per_forestilling": 32.4
+    },
+    {
+      "kommunenummer": "4206",
+      "kommune": "Farsund",
+      "kinosaler": 2,
+      "kinoseter": 232,
+      "kinobesok": 13635,
+      "besok_norske_filmer": 5065,
+      "kinoforestillinger": 1054,
+      "besok_per_forestilling": 12.9
+    },
+    {
+      "kommunenummer": "1824",
+      "kommune": "Vefsn",
+      "kinosaler": 2,
+      "kinoseter": 456,
+      "kinobesok": 13612,
+      "besok_norske_filmer": 5292,
+      "kinoforestillinger": 1530,
+      "besok_per_forestilling": 8.9
+    },
+    {
+      "kommunenummer": "5524",
+      "kommune": "Målselv",
+      "kinosaler": 3,
+      "kinoseter": 894,
+      "kinobesok": 13565,
+      "besok_norske_filmer": 6021,
+      "kinoforestillinger": 584,
+      "besok_per_forestilling": 23.2
+    },
+    {
+      "kommunenummer": "1870",
+      "kommune": "Sortland",
+      "kinosaler": 1,
+      "kinoseter": 132,
+      "kinobesok": 13522,
+      "besok_norske_filmer": 4270,
+      "kinoforestillinger": 277,
+      "besok_per_forestilling": 48.8
+    },
+    {
+      "kommunenummer": "3427",
+      "kommune": "Tynset",
+      "kinosaler": 2,
+      "kinoseter": 382,
+      "kinobesok": 12755,
+      "besok_norske_filmer": 6346,
+      "kinoforestillinger": 827,
+      "besok_per_forestilling": 15.4
+    },
+    {
+      "kommunenummer": "1520",
+      "kommune": "Ørsta",
+      "kinosaler": 1,
+      "kinoseter": 220,
+      "kinobesok": 12744,
+      "besok_norske_filmer": 5850,
+      "kinoforestillinger": 539,
+      "besok_per_forestilling": 23.6
+    },
+    {
+      "kommunenummer": "5530",
+      "kommune": "Senja",
+      "kinosaler": 5,
+      "kinoseter": 600,
+      "kinobesok": 12737,
+      "besok_norske_filmer": 5508,
+      "kinoforestillinger": 439,
+      "besok_per_forestilling": 29
+    },
+    {
+      "kommunenummer": "5603",
+      "kommune": "Hammerfest",
+      "kinosaler": 4,
+      "kinoseter": 431,
+      "kinobesok": 11899,
+      "besok_norske_filmer": 4594,
+      "kinoforestillinger": 894,
+      "besok_per_forestilling": 13.3
+    },
+    {
+      "kommunenummer": "3240",
+      "kommune": "Eidsvoll",
+      "kinosaler": 1,
+      "kinoseter": 277,
+      "kinobesok": 11238,
+      "besok_norske_filmer": 4793,
+      "kinoforestillinger": 442,
+      "besok_per_forestilling": 25.4
+    },
+    {
+      "kommunenummer": "5607",
+      "kommune": "Vadsø",
+      "kinosaler": 1,
+      "kinoseter": 78,
+      "kinobesok": 10708,
+      "besok_norske_filmer": 3572,
+      "kinoforestillinger": 568,
+      "besok_per_forestilling": 18.9
+    },
+    {
+      "kommunenummer": "1515",
+      "kommune": "Herøy (Møre og Romsdal)",
+      "kinosaler": 2,
+      "kinoseter": 500,
+      "kinobesok": 10240,
+      "besok_norske_filmer": 3394,
+      "kinoforestillinger": 559,
+      "besok_per_forestilling": 18.3
+    },
+    {
+      "kommunenummer": "3451",
+      "kommune": "Nord-Aurdal",
+      "kinosaler": 1,
+      "kinoseter": 305,
+      "kinobesok": 9976,
+      "besok_norske_filmer": 5447,
+      "kinoforestillinger": 302,
+      "besok_per_forestilling": 33
+    },
+    {
+      "kommunenummer": "1563",
+      "kommune": "Sunndal",
+      "kinosaler": 2,
+      "kinoseter": 467,
+      "kinobesok": 9640,
+      "besok_norske_filmer": 3768,
+      "kinoforestillinger": 978,
+      "besok_per_forestilling": 9.9
+    },
+    {
+      "kommunenummer": "4649",
+      "kommune": "Stad",
+      "kinosaler": 5,
+      "kinoseter": 105,
+      "kinobesok": 9328,
+      "besok_norske_filmer": 4221,
+      "kinoforestillinger": 339,
+      "besok_per_forestilling": 27.5
+    },
+    {
+      "kommunenummer": "4617",
+      "kommune": "Kvinnherad",
+      "kinosaler": 1,
+      "kinoseter": 444,
+      "kinobesok": 8805,
+      "besok_norske_filmer": 3193,
+      "kinoforestillinger": 281,
+      "besok_per_forestilling": 31.3
+    },
+    {
+      "kommunenummer": "5025",
+      "kommune": "Røros",
+      "kinosaler": 1,
+      "kinoseter": 118,
+      "kinobesok": 8778,
+      "besok_norske_filmer": 4652,
+      "kinoforestillinger": 569,
+      "besok_per_forestilling": 15.4
+    },
+    {
+      "kommunenummer": "1577",
+      "kommune": "Volda",
+      "kinosaler": 3,
+      "kinoseter": 89,
+      "kinobesok": 8672,
+      "besok_norske_filmer": 3603,
+      "kinoforestillinger": 256,
+      "besok_per_forestilling": 33.9
+    },
+    {
+      "kommunenummer": "4611",
+      "kommune": "Etne",
+      "kinosaler": 2,
+      "kinoseter": 429,
+      "kinobesok": 8553,
+      "besok_norske_filmer": 3029,
+      "kinoforestillinger": 556,
+      "besok_per_forestilling": 15.4
+    },
+    {
+      "kommunenummer": "1865",
+      "kommune": "Vågan",
+      "kinosaler": 1,
+      "kinoseter": 198,
+      "kinobesok": 8416,
+      "besok_norske_filmer": 3722,
+      "kinoforestillinger": 361,
+      "besok_per_forestilling": 23.3
+    },
+    {
+      "kommunenummer": "4026",
+      "kommune": "Tinn",
+      "kinosaler": 1,
+      "kinoseter": 142,
+      "kinobesok": 8289,
+      "besok_norske_filmer": 3807,
+      "kinoforestillinger": 389,
+      "besok_per_forestilling": 21.3
+    },
+    {
+      "kommunenummer": "3446",
+      "kommune": "Gran",
+      "kinosaler": 1,
+      "kinoseter": 168,
+      "kinobesok": 8141,
+      "besok_norske_filmer": 4622,
+      "kinoforestillinger": 237,
+      "besok_per_forestilling": 34.4
+    },
+    {
+      "kommunenummer": "3316",
+      "kommune": "Modum",
+      "kinosaler": 1,
+      "kinoseter": 261,
+      "kinobesok": 8140,
+      "besok_norske_filmer": 4001,
+      "kinoforestillinger": 207,
+      "besok_per_forestilling": 39.3
+    },
+    {
+      "kommunenummer": "4215",
+      "kommune": "Lillesand",
+      "kinosaler": 1,
+      "kinoseter": 157,
+      "kinobesok": 8115,
+      "besok_norske_filmer": 3505,
+      "kinoforestillinger": 462,
+      "besok_per_forestilling": 17.6
+    },
+    {
+      "kommunenummer": "4201",
+      "kommune": "Risør",
+      "kinosaler": 2,
+      "kinoseter": 371,
+      "kinobesok": 7538,
+      "besok_norske_filmer": 2949,
+      "kinoforestillinger": 692,
+      "besok_per_forestilling": 10.9
+    },
+    {
+      "kommunenummer": "3418",
+      "kommune": "Åsnes",
+      "kinosaler": 1,
+      "kinoseter": 317,
+      "kinobesok": 7341,
+      "besok_norske_filmer": 4498,
+      "kinoforestillinger": 231,
+      "besok_per_forestilling": 31.8
+    },
+    {
+      "kommunenummer": "3218",
+      "kommune": "Ås",
+      "kinosaler": 1,
+      "kinoseter": 462,
+      "kinobesok": 7286,
+      "besok_norske_filmer": 3524,
+      "kinoforestillinger": 188,
+      "besok_per_forestilling": 38.8
+    },
+    {
+      "kommunenummer": "1539",
+      "kommune": "Rauma",
+      "kinosaler": 1,
+      "kinoseter": 86,
+      "kinobesok": 7271,
+      "besok_norske_filmer": 3753,
+      "kinoforestillinger": 278,
+      "besok_per_forestilling": 26.2
+    },
+    {
+      "kommunenummer": "1135",
+      "kommune": "Sauda",
+      "kinosaler": 1,
+      "kinoseter": 199,
+      "kinobesok": 7145,
+      "besok_norske_filmer": 2071,
+      "kinoforestillinger": 288,
+      "besok_per_forestilling": 24.8
+    },
+    {
+      "kommunenummer": "5027",
+      "kommune": "Midtre Gauldal",
+      "kinosaler": 2,
+      "kinoseter": 396,
+      "kinobesok": 6970,
+      "besok_norske_filmer": 3765,
+      "kinoforestillinger": 482,
+      "besok_per_forestilling": 14.5
+    },
+    {
+      "kommunenummer": "3448",
+      "kommune": "Nordre Land",
+      "kinosaler": 1,
+      "kinoseter": 315,
+      "kinobesok": 6821,
+      "besok_norske_filmer": 4200,
+      "kinoforestillinger": 178,
+      "besok_per_forestilling": 38.3
+    },
+    {
+      "kommunenummer": "3421",
+      "kommune": "Trysil",
+      "kinosaler": 1,
+      "kinoseter": 364,
+      "kinobesok": 6449,
+      "besok_norske_filmer": 3873,
+      "kinoforestillinger": 307,
+      "besok_per_forestilling": 21
+    },
+    {
+      "kommunenummer": "1130",
+      "kommune": "Strand",
+      "kinosaler": 1,
+      "kinoseter": 234,
+      "kinobesok": 5926,
+      "besok_norske_filmer": 2769,
+      "kinoforestillinger": 283,
+      "besok_per_forestilling": 20.9
+    },
+    {
+      "kommunenummer": "5622",
+      "kommune": "Porsanger",
+      "kinosaler": 1,
+      "kinoseter": 286,
+      "kinobesok": 5828,
+      "besok_norske_filmer": 2469,
+      "kinoforestillinger": 400,
+      "besok_per_forestilling": 14.6
+    },
+    {
+      "kommunenummer": "4014",
+      "kommune": "Kragerø",
+      "kinosaler": 1,
+      "kinoseter": 172,
+      "kinobesok": 5789,
+      "besok_norske_filmer": 2478,
+      "kinoforestillinger": 153,
+      "besok_per_forestilling": 37.8
+    },
+    {
+      "kommunenummer": "1566",
+      "kommune": "Surnadal",
+      "kinosaler": 1,
+      "kinoseter": 100,
+      "kinobesok": 5721,
+      "besok_norske_filmer": 2771,
+      "kinoforestillinger": 402,
+      "besok_per_forestilling": 14.2
+    },
+    {
+      "kommunenummer": "4643",
+      "kommune": "Årdal",
+      "kinosaler": 1,
+      "kinoseter": 169,
+      "kinobesok": 5552,
+      "besok_norske_filmer": 2111,
+      "kinoforestillinger": 112,
+      "besok_per_forestilling": 49.6
+    },
+    {
+      "kommunenummer": "5056",
+      "kommune": "Hitra",
+      "kinosaler": 1,
+      "kinoseter": 73,
+      "kinobesok": 5444,
+      "besok_norske_filmer": 2396,
+      "kinoforestillinger": 296,
+      "besok_per_forestilling": 18.4
+    },
+    {
+      "kommunenummer": "4651",
+      "kommune": "Stryn",
+      "kinosaler": 3,
+      "kinoseter": 365,
+      "kinobesok": 5430,
+      "besok_norske_filmer": 2235,
+      "kinoforestillinger": 367,
+      "besok_per_forestilling": 14.8
+    },
+    {
+      "kommunenummer": "1813",
+      "kommune": "Brønnøy",
+      "kinosaler": 2,
+      "kinoseter": 81,
+      "kinobesok": 5225,
+      "besok_norske_filmer": 2251,
+      "kinoforestillinger": 201,
+      "besok_per_forestilling": 26
+    },
+    {
+      "kommunenummer": "4618",
+      "kommune": "Ullensvang",
+      "kinosaler": 3,
+      "kinoseter": 670,
+      "kinobesok": 5129,
+      "besok_norske_filmer": 1722,
+      "kinoforestillinger": 251,
+      "besok_per_forestilling": 20.4
+    },
+    {
+      "kommunenummer": "1841",
+      "kommune": "Fauske",
+      "kinosaler": 1,
+      "kinoseter": 208,
+      "kinobesok": 5018,
+      "besok_norske_filmer": 1976,
+      "kinoforestillinger": 238,
+      "besok_per_forestilling": 21.1
+    },
+    {
+      "kommunenummer": "5059",
+      "kommune": "Orkland",
+      "kinosaler": 2,
+      "kinoseter": 300,
+      "kinobesok": 4914,
+      "besok_norske_filmer": 3158,
+      "kinoforestillinger": 192,
+      "besok_per_forestilling": 25.6
+    },
+    {
+      "kommunenummer": "5544",
+      "kommune": "Nordreisa",
+      "kinosaler": 1,
+      "kinoseter": 180,
+      "kinobesok": 4901,
+      "besok_norske_filmer": 2516,
+      "kinoforestillinger": 179,
+      "besok_per_forestilling": 27.4
+    },
+    {
+      "kommunenummer": "4650",
+      "kommune": "Gloppen",
+      "kinosaler": 1,
+      "kinoseter": 100,
+      "kinobesok": 4806,
+      "besok_norske_filmer": 2535,
+      "kinoforestillinger": 208,
+      "besok_per_forestilling": 23.1
+    },
+    {
+      "kommunenummer": "2111",
+      "kommune": "Longyearbyen",
+      "kinosaler": 1,
+      "kinoseter": 244,
+      "kinobesok": 4782,
+      "besok_norske_filmer": 1658,
+      "kinoforestillinger": 293,
+      "besok_per_forestilling": 16.3
+    },
+    {
+      "kommunenummer": "3436",
+      "kommune": "Nord-Fron",
+      "kinosaler": 1,
+      "kinoseter": 137,
+      "kinobesok": 4689,
+      "besok_norske_filmer": 2636,
+      "kinoforestillinger": 170,
+      "besok_per_forestilling": 27.6
+    },
+    {
+      "kommunenummer": "5620",
+      "kommune": "Nordkapp",
+      "kinosaler": 1,
+      "kinoseter": 232,
+      "kinobesok": 4393,
+      "besok_norske_filmer": 1719,
+      "kinoforestillinger": 302,
+      "besok_per_forestilling": 14.5
+    },
+    {
+      "kommunenummer": "3422",
+      "kommune": "Åmot",
+      "kinosaler": 2,
+      "kinoseter": 419,
+      "kinobesok": 4389,
+      "besok_norske_filmer": 2339,
+      "kinoforestillinger": 344,
+      "besok_per_forestilling": 12.8
+    },
+    {
+      "kommunenummer": "4018",
+      "kommune": "Nome",
+      "kinosaler": 1,
+      "kinoseter": 251,
+      "kinobesok": 4379,
+      "besok_norske_filmer": 2087,
+      "kinoforestillinger": 99,
+      "besok_per_forestilling": 44.2
+    },
+    {
+      "kommunenummer": "3437",
+      "kommune": "Sel",
+      "kinosaler": 2,
+      "kinoseter": 330,
+      "kinobesok": 4293,
+      "besok_norske_filmer": 2566,
+      "kinoforestillinger": 122,
+      "besok_per_forestilling": 35.2
+    },
+    {
+      "kommunenummer": "1837",
+      "kommune": "Meløy",
+      "kinosaler": 3,
+      "kinoseter": 326,
+      "kinobesok": 4249,
+      "besok_norske_filmer": 1903,
+      "kinoforestillinger": 210,
+      "besok_per_forestilling": 20.2
+    },
+    {
+      "kommunenummer": "5028",
+      "kommune": "Melhus",
+      "kinosaler": 1,
+      "kinoseter": 264,
+      "kinobesok": 3992,
+      "besok_norske_filmer": 2769,
+      "kinoforestillinger": 195,
+      "besok_per_forestilling": 20.5
+    },
+    {
+      "kommunenummer": "4622",
+      "kommune": "Kvam",
+      "kinosaler": 2,
+      "kinoseter": 117,
+      "kinobesok": 3861,
+      "besok_norske_filmer": 1887,
+      "kinoforestillinger": 177,
+      "besok_per_forestilling": 21.8
+    },
+    {
+      "kommunenummer": "5520",
+      "kommune": "Bardu",
+      "kinosaler": 1,
+      "kinoseter": 314,
+      "kinobesok": 3841,
+      "besok_norske_filmer": 2107,
+      "kinoforestillinger": 137,
+      "besok_per_forestilling": 28
+    },
+    {
+      "kommunenummer": "3238",
+      "kommune": "Nannestad",
+      "kinosaler": 1,
+      "kinoseter": 258,
+      "kinobesok": 3664,
+      "besok_norske_filmer": 1642,
+      "kinoforestillinger": 131,
+      "besok_per_forestilling": 28
+    },
+    {
+      "kommunenummer": "1134",
+      "kommune": "Suldal",
+      "kinosaler": 1,
+      "kinoseter": 258,
+      "kinobesok": 3664,
+      "besok_norske_filmer": 1881,
+      "kinoforestillinger": 298,
+      "besok_per_forestilling": 12.3
+    },
+    {
+      "kommunenummer": "3120",
+      "kommune": "Rakkestad",
+      "kinosaler": 1,
+      "kinoseter": 285,
+      "kinobesok": 3571,
+      "besok_norske_filmer": 1618,
+      "kinoforestillinger": 127,
+      "besok_per_forestilling": 28.1
+    },
+    {
+      "kommunenummer": "5014",
+      "kommune": "Frøya",
+      "kinosaler": 1,
+      "kinoseter": 72,
+      "kinobesok": 3447,
+      "besok_norske_filmer": 1305,
+      "kinoforestillinger": 260,
+      "besok_per_forestilling": 13.3
+    },
+    {
+      "kommunenummer": "3447",
+      "kommune": "Søndre Land",
+      "kinosaler": 1,
+      "kinoseter": 217,
+      "kinobesok": 3441,
+      "besok_norske_filmer": 2351,
+      "kinoforestillinger": 113,
+      "besok_per_forestilling": 30.5
+    },
+    {
+      "kommunenummer": "4638",
+      "kommune": "Høyanger",
+      "kinosaler": 3,
+      "kinoseter": 236,
+      "kinobesok": 3420,
+      "besok_norske_filmer": 1358,
+      "kinoforestillinger": 197,
+      "besok_per_forestilling": 17.4
+    },
+    {
+      "kommunenummer": "1528",
+      "kommune": "Sykkylven",
+      "kinosaler": 1,
+      "kinoseter": 212,
+      "kinobesok": 3415,
+      "besok_norske_filmer": 1965,
+      "kinoforestillinger": 152,
+      "besok_per_forestilling": 22.5
+    },
+    {
+      "kommunenummer": "1111",
+      "kommune": "Sokndal",
+      "kinosaler": 1,
+      "kinoseter": 260,
+      "kinobesok": 3388,
+      "besok_norske_filmer": 2018,
+      "kinoforestillinger": 247,
+      "besok_per_forestilling": 13.7
+    },
+    {
+      "kommunenummer": "3411",
+      "kommune": "Ringsaker",
+      "kinosaler": 3,
+      "kinoseter": 0,
+      "kinobesok": 3328,
+      "besok_norske_filmer": 2317,
+      "kinoforestillinger": 88,
+      "besok_per_forestilling": 37.8
+    },
+    {
+      "kommunenummer": "3322",
+      "kommune": "Nesbyen",
+      "kinosaler": 1,
+      "kinoseter": 168,
+      "kinobesok": 3261,
+      "besok_norske_filmer": 2003,
+      "kinoforestillinger": 104,
+      "besok_per_forestilling": 31.4
+    },
+    {
+      "kommunenummer": "3330",
+      "kommune": "Hol",
+      "kinosaler": 1,
+      "kinoseter": 164,
+      "kinobesok": 3221,
+      "besok_norske_filmer": 1542,
+      "kinoforestillinger": 159,
+      "besok_per_forestilling": 20.3
+    },
+    {
+      "kommunenummer": "3903",
+      "kommune": "Holmestrand",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 3179,
+      "besok_norske_filmer": 1952,
+      "kinoforestillinger": 36,
+      "besok_per_forestilling": 88.3
+    },
+    {
+      "kommunenummer": "5060",
+      "kommune": "Nærøysund",
+      "kinosaler": 2,
+      "kinoseter": 276,
+      "kinobesok": 2902,
+      "besok_norske_filmer": 1328,
+      "kinoforestillinger": 59,
+      "besok_per_forestilling": 49.2
+    },
+    {
+      "kommunenummer": "4639",
+      "kommune": "Vik",
+      "kinosaler": 2,
+      "kinoseter": 190,
+      "kinobesok": 2730,
+      "besok_norske_filmer": 1270,
+      "kinoforestillinger": 239,
+      "besok_per_forestilling": 11.4
+    },
+    {
+      "kommunenummer": "3226",
+      "kommune": "Aurskog-Høland",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 2519,
+      "besok_norske_filmer": 1810,
+      "kinoforestillinger": 63,
+      "besok_per_forestilling": 40
+    },
+    {
+      "kommunenummer": "3442",
+      "kommune": "Østre Toten",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 2484,
+      "besok_norske_filmer": 1868,
+      "kinoforestillinger": 48,
+      "besok_per_forestilling": 51.8
+    },
+    {
+      "kommunenummer": "4631",
+      "kommune": "Alver",
+      "kinosaler": 3,
+      "kinoseter": 150,
+      "kinobesok": 2451,
+      "besok_norske_filmer": 1147,
+      "kinoforestillinger": 116,
+      "besok_per_forestilling": 21.1
+    },
+    {
+      "kommunenummer": "4648",
+      "kommune": "Bremanger",
+      "kinosaler": 3,
+      "kinoseter": 337,
+      "kinobesok": 2445,
+      "besok_norske_filmer": 988,
+      "kinoforestillinger": 193,
+      "besok_per_forestilling": 12.7
+    },
+    {
+      "kommunenummer": "1815",
+      "kommune": "Vega",
+      "kinosaler": 1,
+      "kinoseter": 85,
+      "kinobesok": 2434,
+      "besok_norske_filmer": 1070,
+      "kinoforestillinger": 185,
+      "besok_per_forestilling": 13.2
+    },
+    {
+      "kommunenummer": "1867",
+      "kommune": "Bø",
+      "kinosaler": 1,
+      "kinoseter": 223,
+      "kinobesok": 2305,
+      "besok_norske_filmer": 996,
+      "kinoforestillinger": 123,
+      "besok_per_forestilling": 18.7
+    },
+    {
+      "kommunenummer": "5058",
+      "kommune": "Åfjord",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 2176,
+      "besok_norske_filmer": 1226,
+      "kinoforestillinger": 91,
+      "besok_per_forestilling": 23.9
+    },
+    {
+      "kommunenummer": "1851",
+      "kommune": "Lødingen",
+      "kinosaler": 1,
+      "kinoseter": 111,
+      "kinobesok": 1966,
+      "besok_norske_filmer": 840,
+      "kinoforestillinger": 109,
+      "besok_per_forestilling": 18
+    },
+    {
+      "kommunenummer": "3216",
+      "kommune": "Vestby",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 1938,
+      "besok_norske_filmer": 1167,
+      "kinoforestillinger": 50,
+      "besok_per_forestilling": 38.8
+    },
+    {
+      "kommunenummer": "3326",
+      "kommune": "Hemsedal",
+      "kinosaler": 1,
+      "kinoseter": 145,
+      "kinobesok": 1903,
+      "besok_norske_filmer": 726,
+      "kinoforestillinger": 53,
+      "besok_per_forestilling": 35.9
+    },
+    {
+      "kommunenummer": "5033",
+      "kommune": "Tydal",
+      "kinosaler": 2,
+      "kinoseter": 200,
+      "kinobesok": 1817,
+      "besok_norske_filmer": 1757,
+      "kinoforestillinger": 29,
+      "besok_per_forestilling": 62.7
+    },
+    {
+      "kommunenummer": "5045",
+      "kommune": "Grong",
+      "kinosaler": 1,
+      "kinoseter": 72,
+      "kinobesok": 1796,
+      "besok_norske_filmer": 1207,
+      "kinoforestillinger": 94,
+      "besok_per_forestilling": 19.1
+    },
+    {
+      "kommunenummer": "1525",
+      "kommune": "Stranda",
+      "kinosaler": 3,
+      "kinoseter": 300,
+      "kinobesok": 1785,
+      "besok_norske_filmer": 927,
+      "kinoforestillinger": 65,
+      "besok_per_forestilling": 27.5
+    },
+    {
+      "kommunenummer": "4228",
+      "kommune": "Sirdal",
+      "kinosaler": 1,
+      "kinoseter": 177,
+      "kinobesok": 1776,
+      "besok_norske_filmer": 1012,
+      "kinoforestillinger": 150,
+      "besok_per_forestilling": 11.8
+    },
+    {
+      "kommunenummer": "3232",
+      "kommune": "Nittedal",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 1745,
+      "besok_norske_filmer": 1436,
+      "kinoforestillinger": 21,
+      "besok_per_forestilling": 83.1
+    },
+    {
+      "kommunenummer": "4646",
+      "kommune": "Fjaler",
+      "kinosaler": 2,
+      "kinoseter": 140,
+      "kinobesok": 1702,
+      "besok_norske_filmer": 873,
+      "kinoforestillinger": 70,
+      "besok_per_forestilling": 24.3
+    },
+    {
+      "kommunenummer": "4012",
+      "kommune": "Bamble",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 1698,
+      "besok_norske_filmer": 1111,
+      "kinoforestillinger": 46,
+      "besok_per_forestilling": 36.9
+    },
+    {
+      "kommunenummer": "4219",
+      "kommune": "Evje og Hornnes",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 1697,
+      "besok_norske_filmer": 778,
+      "kinoforestillinger": 43,
+      "besok_per_forestilling": 39.5
+    },
+    {
+      "kommunenummer": "4642",
+      "kommune": "Lærdal",
+      "kinosaler": 1,
+      "kinoseter": 150,
+      "kinobesok": 1601,
+      "besok_norske_filmer": 866,
+      "kinoforestillinger": 51,
+      "besok_per_forestilling": 31.4
+    },
+    {
+      "kommunenummer": "5061",
+      "kommune": "Rindal",
+      "kinosaler": 1,
+      "kinoseter": 133,
+      "kinobesok": 1507,
+      "besok_norske_filmer": 750,
+      "kinoforestillinger": 95,
+      "besok_per_forestilling": 15.9
+    },
+    {
+      "kommunenummer": "3423",
+      "kommune": "Stor-Elvdal",
+      "kinosaler": 1,
+      "kinoseter": 176,
+      "kinobesok": 1463,
+      "besok_norske_filmer": 1099,
+      "kinoforestillinger": 35,
+      "besok_per_forestilling": 41.8
+    },
+    {
+      "kommunenummer": "5055",
+      "kommune": "Heim",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 1424,
+      "besok_norske_filmer": 813,
+      "kinoforestillinger": 89,
+      "besok_per_forestilling": 16
+    },
+    {
+      "kommunenummer": "3434",
+      "kommune": "Lom",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 1414,
+      "besok_norske_filmer": 1013,
+      "kinoforestillinger": 42,
+      "besok_per_forestilling": 33.7
+    },
+    {
+      "kommunenummer": "4016",
+      "kommune": "Drangedal",
+      "kinosaler": 1,
+      "kinoseter": 160,
+      "kinobesok": 1393,
+      "besok_norske_filmer": 732,
+      "kinoforestillinger": 53,
+      "besok_per_forestilling": 26.3
+    },
+    {
+      "kommunenummer": "5542",
+      "kommune": "Skjervøy",
+      "kinosaler": 2,
+      "kinoseter": 258,
+      "kinobesok": 1370,
+      "besok_norske_filmer": 503,
+      "kinoforestillinger": 155,
+      "besok_per_forestilling": 8.8
+    },
+    {
+      "kommunenummer": "4022",
+      "kommune": "Seljord",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 1316,
+      "besok_norske_filmer": 781,
+      "kinoforestillinger": 60,
+      "besok_per_forestilling": 21.9
+    },
+    {
+      "kommunenummer": "4036",
+      "kommune": "Vinje",
+      "kinosaler": 3,
+      "kinoseter": 0,
+      "kinobesok": 1303,
+      "besok_norske_filmer": 866,
+      "kinoforestillinger": 69,
+      "besok_per_forestilling": 18.9
+    },
+    {
+      "kommunenummer": "3435",
+      "kommune": "Vågå",
+      "kinosaler": 1,
+      "kinoseter": 281,
+      "kinobesok": 1286,
+      "besok_norske_filmer": 913,
+      "kinoforestillinger": 33,
+      "besok_per_forestilling": 39
+    },
+    {
+      "kommunenummer": "3428",
+      "kommune": "Alvdal",
+      "kinosaler": 1,
+      "kinoseter": 134,
+      "kinobesok": 1271,
+      "besok_norske_filmer": 1271,
+      "kinoforestillinger": 19,
+      "besok_per_forestilling": 66.9
+    },
+    {
+      "kommunenummer": "4615",
+      "kommune": "Fitjar",
+      "kinosaler": 1,
+      "kinoseter": 286,
+      "kinobesok": 1269,
+      "besok_norske_filmer": 543,
+      "kinoforestillinger": 34,
+      "besok_per_forestilling": 37.3
+    },
+    {
+      "kommunenummer": "1547",
+      "kommune": "Aukra",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 1249,
+      "besok_norske_filmer": 628,
+      "kinoforestillinger": 41,
+      "besok_per_forestilling": 30.5
+    },
+    {
+      "kommunenummer": "3429",
+      "kommune": "Folldal",
+      "kinosaler": 1,
+      "kinoseter": 160,
+      "kinobesok": 1164,
+      "besok_norske_filmer": 746,
+      "kinoforestillinger": 56,
+      "besok_per_forestilling": 20.8
+    },
+    {
+      "kommunenummer": "5522",
+      "kommune": "Salangen",
+      "kinosaler": 1,
+      "kinoseter": 150,
+      "kinobesok": 1154,
+      "besok_norske_filmer": 682,
+      "kinoforestillinger": 33,
+      "besok_per_forestilling": 35
+    },
+    {
+      "kommunenummer": "1848",
+      "kommune": "Steigen",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 1144,
+      "besok_norske_filmer": 650,
+      "kinoforestillinger": 31,
+      "besok_per_forestilling": 36.9
+    },
+    {
+      "kommunenummer": "1511",
+      "kommune": "Vanylven",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 1127,
+      "besok_norske_filmer": 514,
+      "kinoforestillinger": 45,
+      "besok_per_forestilling": 25
+    },
+    {
+      "kommunenummer": "4620",
+      "kommune": "Ulvik",
+      "kinosaler": 1,
+      "kinoseter": 146,
+      "kinobesok": 1126,
+      "besok_norske_filmer": 580,
+      "kinoforestillinger": 74,
+      "besok_per_forestilling": 15.2
+    },
+    {
+      "kommunenummer": "3449",
+      "kommune": "Sør-Aurdal",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 1101,
+      "besok_norske_filmer": 648,
+      "kinoforestillinger": 45,
+      "besok_per_forestilling": 24.5
+    },
+    {
+      "kommunenummer": "5054",
+      "kommune": "Indre Fosen",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 1041,
+      "besok_norske_filmer": 609,
+      "kinoforestillinger": 35,
+      "besok_per_forestilling": 29.7
+    },
+    {
+      "kommunenummer": "5634",
+      "kommune": "Vardø",
+      "kinosaler": 1,
+      "kinoseter": 210,
+      "kinobesok": 1024,
+      "besok_norske_filmer": 367,
+      "kinoforestillinger": 123,
+      "besok_per_forestilling": 8.3
+    },
+    {
+      "kommunenummer": "4641",
+      "kommune": "Aurland",
+      "kinosaler": 2,
+      "kinoseter": 75,
+      "kinobesok": 1006,
+      "besok_norske_filmer": 429,
+      "kinoforestillinger": 78,
+      "besok_per_forestilling": 12.9
+    },
+    {
+      "kommunenummer": "4032",
+      "kommune": "Fyresdal",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 963,
+      "besok_norske_filmer": 532,
+      "kinoforestillinger": 40,
+      "besok_per_forestilling": 24.1
+    },
+    {
+      "kommunenummer": "4034",
+      "kommune": "Tokke",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 940,
+      "besok_norske_filmer": 530,
+      "kinoforestillinger": 34,
+      "besok_per_forestilling": 27.6
+    },
+    {
+      "kommunenummer": "5632",
+      "kommune": "Båtsfjord",
+      "kinosaler": 1,
+      "kinoseter": 236,
+      "kinobesok": 910,
+      "besok_norske_filmer": 326,
+      "kinoforestillinger": 34,
+      "besok_per_forestilling": 26.8
+    },
+    {
+      "kommunenummer": "4030",
+      "kommune": "Nissedal",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 895,
+      "besok_norske_filmer": 511,
+      "kinoforestillinger": 52,
+      "besok_per_forestilling": 17.2
+    },
+    {
+      "kommunenummer": "5032",
+      "kommune": "Selbu",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 857,
+      "besok_norske_filmer": 648,
+      "kinoforestillinger": 31,
+      "besok_per_forestilling": 27.6
+    },
+    {
+      "kommunenummer": "4619",
+      "kommune": "Eidfjord",
+      "kinosaler": 1,
+      "kinoseter": 75,
+      "kinobesok": 850,
+      "besok_norske_filmer": 353,
+      "kinoforestillinger": 71,
+      "besok_per_forestilling": 12
+    },
+    {
+      "kommunenummer": "4616",
+      "kommune": "Tysnes",
+      "kinosaler": 1,
+      "kinoseter": 137,
+      "kinobesok": 830,
+      "besok_norske_filmer": 670,
+      "kinoforestillinger": 19,
+      "besok_per_forestilling": 43.7
+    },
+    {
+      "kommunenummer": "4645",
+      "kommune": "Askvoll",
+      "kinosaler": 3,
+      "kinoseter": 0,
+      "kinobesok": 778,
+      "besok_norske_filmer": 342,
+      "kinoforestillinger": 44,
+      "besok_per_forestilling": 17.7
+    },
+    {
+      "kommunenummer": "3332",
+      "kommune": "Sigdal",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 769,
+      "besok_norske_filmer": 452,
+      "kinoforestillinger": 58,
+      "besok_per_forestilling": 13.3
+    },
+    {
+      "kommunenummer": "1840",
+      "kommune": "Saltdal",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 758,
+      "besok_norske_filmer": 502,
+      "kinoforestillinger": 33,
+      "besok_per_forestilling": 23
+    },
+    {
+      "kommunenummer": "1834",
+      "kommune": "Lurøy",
+      "kinosaler": 3,
+      "kinoseter": 0,
+      "kinobesok": 745,
+      "besok_norske_filmer": 384,
+      "kinoforestillinger": 61,
+      "besok_per_forestilling": 12.2
+    },
+    {
+      "kommunenummer": "4624",
+      "kommune": "Bjørnafjorden",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 741,
+      "besok_norske_filmer": 580,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 37.1
+    },
+    {
+      "kommunenummer": "3338",
+      "kommune": "Nore og Uvdal",
+      "kinosaler": 1,
+      "kinoseter": 210,
+      "kinobesok": 738,
+      "besok_norske_filmer": 412,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 36.9
+    },
+    {
+      "kommunenummer": "4222",
+      "kommune": "Bykle",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 734,
+      "besok_norske_filmer": 377,
+      "kinoforestillinger": 36,
+      "besok_per_forestilling": 20.4
+    },
+    {
+      "kommunenummer": "5036",
+      "kommune": "Frosta",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 719,
+      "besok_norske_filmer": 591,
+      "kinoforestillinger": 22,
+      "besok_per_forestilling": 32.7
+    },
+    {
+      "kommunenummer": "3318",
+      "kommune": "Krødsherad",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 716,
+      "besok_norske_filmer": 512,
+      "kinoforestillinger": 44,
+      "besok_per_forestilling": 16.3
+    },
+    {
+      "kommunenummer": "4644",
+      "kommune": "Luster",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 683,
+      "besok_norske_filmer": 358,
+      "kinoforestillinger": 34,
+      "besok_per_forestilling": 20.1
+    },
+    {
+      "kommunenummer": "3412",
+      "kommune": "Løten",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 675,
+      "besok_norske_filmer": 458,
+      "kinoforestillinger": 29,
+      "besok_per_forestilling": 23.3
+    },
+    {
+      "kommunenummer": "4632",
+      "kommune": "Austrheim",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 658,
+      "besok_norske_filmer": 283,
+      "kinoforestillinger": 35,
+      "besok_per_forestilling": 18.8
+    },
+    {
+      "kommunenummer": "1871",
+      "kommune": "Andøy",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 642,
+      "besok_norske_filmer": 353,
+      "kinoforestillinger": 16,
+      "besok_per_forestilling": 40.1
+    },
+    {
+      "kommunenummer": "3432",
+      "kommune": "Lesja",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 639,
+      "besok_norske_filmer": 392,
+      "kinoforestillinger": 40,
+      "besok_per_forestilling": 16
+    },
+    {
+      "kommunenummer": "3433",
+      "kommune": "Skjåk",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 627,
+      "besok_norske_filmer": 346,
+      "kinoforestillinger": 36,
+      "besok_per_forestilling": 17.4
+    },
+    {
+      "kommunenummer": "4224",
+      "kommune": "Åseral",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 609,
+      "besok_norske_filmer": 372,
+      "kinoforestillinger": 24,
+      "besok_per_forestilling": 25.4
+    },
+    {
+      "kommunenummer": "3242",
+      "kommune": "Hurdal",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 595,
+      "besok_norske_filmer": 279,
+      "kinoforestillinger": 38,
+      "besok_per_forestilling": 15.7
+    },
+    {
+      "kommunenummer": "1576",
+      "kommune": "Aure",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 585,
+      "besok_norske_filmer": 340,
+      "kinoforestillinger": 40,
+      "besok_per_forestilling": 14.6
+    },
+    {
+      "kommunenummer": "5624",
+      "kommune": "Lebesby",
+      "kinosaler": 2,
+      "kinoseter": 197,
+      "kinobesok": 580,
+      "besok_norske_filmer": 247,
+      "kinoforestillinger": 51,
+      "besok_per_forestilling": 11.4
+    },
+    {
+      "kommunenummer": "1145",
+      "kommune": "Bokn",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 573,
+      "besok_norske_filmer": 282,
+      "kinoforestillinger": 46,
+      "besok_per_forestilling": 12.5
+    },
+    {
+      "kommunenummer": "4220",
+      "kommune": "Bygland",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 562,
+      "besok_norske_filmer": 330,
+      "kinoforestillinger": 21,
+      "besok_per_forestilling": 26.8
+    },
+    {
+      "kommunenummer": "5612",
+      "kommune": "Guovdageaidnu",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 559,
+      "besok_norske_filmer": 200,
+      "kinoforestillinger": 36,
+      "besok_per_forestilling": 15.5
+    },
+    {
+      "kommunenummer": "3911",
+      "kommune": "Færder",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 541,
+      "besok_norske_filmer": 541,
+      "kinoforestillinger": 1,
+      "besok_per_forestilling": 541
+    },
+    {
+      "kommunenummer": "4028",
+      "kommune": "Kviteseid",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 537,
+      "besok_norske_filmer": 266,
+      "kinoforestillinger": 31,
+      "besok_per_forestilling": 17.3
+    },
+    {
+      "kommunenummer": "1811",
+      "kommune": "Bindal",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 532,
+      "besok_norske_filmer": 280,
+      "kinoforestillinger": 59,
+      "besok_per_forestilling": 9
+    },
+    {
+      "kommunenummer": "1122",
+      "kommune": "Gjesdal",
+      "kinosaler": 3,
+      "kinoseter": 0,
+      "kinobesok": 531,
+      "besok_norske_filmer": 369,
+      "kinoforestillinger": 30,
+      "besok_per_forestilling": 17.7
+    },
+    {
+      "kommunenummer": "1560",
+      "kommune": "Tingvoll",
+      "kinosaler": 2,
+      "kinoseter": 61,
+      "kinobesok": 518,
+      "besok_norske_filmer": 224,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 28.8
+    },
+    {
+      "kommunenummer": "1838",
+      "kommune": "Gildeskål",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 518,
+      "besok_norske_filmer": 228,
+      "kinoforestillinger": 34,
+      "besok_per_forestilling": 15.2
+    },
+    {
+      "kommunenummer": "1112",
+      "kommune": "Lund",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 505,
+      "besok_norske_filmer": 249,
+      "kinoforestillinger": 6,
+      "besok_per_forestilling": 84.2
+    },
+    {
+      "kommunenummer": "1859",
+      "kommune": "Flakstad",
+      "kinosaler": 1,
+      "kinoseter": 130,
+      "kinobesok": 501,
+      "besok_norske_filmer": 261,
+      "kinoforestillinger": 35,
+      "besok_per_forestilling": 14.3
+    },
+    {
+      "kommunenummer": "3453",
+      "kommune": "Øystre Slidre",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 500,
+      "besok_norske_filmer": 323,
+      "kinoforestillinger": 8,
+      "besok_per_forestilling": 62.5
+    },
+    {
+      "kommunenummer": "1160",
+      "kommune": "Vindafjord",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 494,
+      "besok_norske_filmer": 324,
+      "kinoforestillinger": 19,
+      "besok_per_forestilling": 26
+    },
+    {
+      "kommunenummer": "4217",
+      "kommune": "Åmli",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 493,
+      "besok_norske_filmer": 227,
+      "kinoforestillinger": 22,
+      "besok_per_forestilling": 22.4
+    },
+    {
+      "kommunenummer": "1818",
+      "kommune": "Herøy (Nordland)",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 493,
+      "besok_norske_filmer": 232,
+      "kinoforestillinger": 22,
+      "besok_per_forestilling": 22.4
+    },
+    {
+      "kommunenummer": "5022",
+      "kommune": "Rennebu",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 487,
+      "besok_norske_filmer": 241,
+      "kinoforestillinger": 37,
+      "besok_per_forestilling": 13.2
+    },
+    {
+      "kommunenummer": "4612",
+      "kommune": "Sveio",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 483,
+      "besok_norske_filmer": 147,
+      "kinoforestillinger": 12,
+      "besok_per_forestilling": 40.3
+    },
+    {
+      "kommunenummer": "4221",
+      "kommune": "Valle",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 479,
+      "besok_norske_filmer": 227,
+      "kinoforestillinger": 32,
+      "besok_per_forestilling": 15
+    },
+    {
+      "kommunenummer": "4625",
+      "kommune": "Austevoll",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 472,
+      "besok_norske_filmer": 75,
+      "kinoforestillinger": 26,
+      "besok_per_forestilling": 18.2
+    },
+    {
+      "kommunenummer": "5630",
+      "kommune": "Berlevåg",
+      "kinosaler": 1,
+      "kinoseter": 180,
+      "kinobesok": 466,
+      "besok_norske_filmer": 192,
+      "kinoforestillinger": 50,
+      "besok_per_forestilling": 9.3
+    },
+    {
+      "kommunenummer": "5512",
+      "kommune": "Dielddanuorri",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 455,
+      "besok_norske_filmer": 205,
+      "kinoforestillinger": 42,
+      "besok_per_forestilling": 10.8
+    },
+    {
+      "kommunenummer": "1826",
+      "kommune": "Hattfjelldal",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 454,
+      "besok_norske_filmer": 326,
+      "kinoforestillinger": 22,
+      "besok_per_forestilling": 20.6
+    },
+    {
+      "kommunenummer": "1573",
+      "kommune": "Smøla",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 449,
+      "besok_norske_filmer": 142,
+      "kinoforestillinger": 39,
+      "besok_per_forestilling": 11.5
+    },
+    {
+      "kommunenummer": "3415",
+      "kommune": "Sør-Odal",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 443,
+      "besok_norske_filmer": 318,
+      "kinoforestillinger": 17,
+      "besok_per_forestilling": 26.1
+    },
+    {
+      "kommunenummer": "4630",
+      "kommune": "Osterøy",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 443,
+      "besok_norske_filmer": 247,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 24.6
+    },
+    {
+      "kommunenummer": "1875",
+      "kommune": "Hamarøy",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 439,
+      "besok_norske_filmer": 188,
+      "kinoforestillinger": 32,
+      "besok_per_forestilling": 13.7
+    },
+    {
+      "kommunenummer": "4634",
+      "kommune": "Masfjorden",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 433,
+      "besok_norske_filmer": 232,
+      "kinoforestillinger": 40,
+      "besok_per_forestilling": 10.8
+    },
+    {
+      "kommunenummer": "3431",
+      "kommune": "Dovre",
+      "kinosaler": 2,
+      "kinoseter": 450,
+      "kinobesok": 422,
+      "besok_norske_filmer": 342,
+      "kinoforestillinger": 22,
+      "besok_per_forestilling": 19.2
+    },
+    {
+      "kommunenummer": "5049",
+      "kommune": "Flatanger",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 417,
+      "besok_norske_filmer": 277,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 23.2
+    },
+    {
+      "kommunenummer": "1133",
+      "kommune": "Hjelmeland",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 414,
+      "besok_norske_filmer": 280,
+      "kinoforestillinger": 19,
+      "besok_per_forestilling": 21.8
+    },
+    {
+      "kommunenummer": "4636",
+      "kommune": "Solund",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 408,
+      "besok_norske_filmer": 156,
+      "kinoforestillinger": 36,
+      "besok_per_forestilling": 11.3
+    },
+    {
+      "kommunenummer": "4637",
+      "kommune": "Hyllestad",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 408,
+      "besok_norske_filmer": 129,
+      "kinoforestillinger": 39,
+      "besok_per_forestilling": 10.5
+    },
+    {
+      "kommunenummer": "5618",
+      "kommune": "Måsøy",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 376,
+      "besok_norske_filmer": 173,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 18.8
+    },
+    {
+      "kommunenummer": "3425",
+      "kommune": "Engerdal",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 375,
+      "besok_norske_filmer": 275,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 18.8
+    },
+    {
+      "kommunenummer": "5041",
+      "kommune": "Snåase",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 374,
+      "besok_norske_filmer": 284,
+      "kinoforestillinger": 38,
+      "besok_per_forestilling": 9.8
+    },
+    {
+      "kommunenummer": "1825",
+      "kommune": "Grane",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 365,
+      "besok_norske_filmer": 262,
+      "kinoforestillinger": 21,
+      "besok_per_forestilling": 17.4
+    },
+    {
+      "kommunenummer": "5610",
+      "kommune": "Kárásjohka",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 364,
+      "besok_norske_filmer": 210,
+      "kinoforestillinger": 24,
+      "besok_per_forestilling": 15.2
+    },
+    {
+      "kommunenummer": "1836",
+      "kommune": "Rødøy",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 358,
+      "besok_norske_filmer": 235,
+      "kinoforestillinger": 16,
+      "besok_per_forestilling": 22.4
+    },
+    {
+      "kommunenummer": "3220",
+      "kommune": "Enebakk",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 357,
+      "besok_norske_filmer": 187,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 19.8
+    },
+    {
+      "kommunenummer": "5540",
+      "kommune": "Gáivuotna",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 353,
+      "besok_norske_filmer": 223,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 17.7
+    },
+    {
+      "kommunenummer": "1835",
+      "kommune": "Træna",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 351,
+      "besok_norske_filmer": 187,
+      "kinoforestillinger": 24,
+      "besok_per_forestilling": 14.6
+    },
+    {
+      "kommunenummer": "4628",
+      "kommune": "Vaksdal",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 340,
+      "besok_norske_filmer": 230,
+      "kinoforestillinger": 6,
+      "besok_per_forestilling": 56.7
+    },
+    {
+      "kommunenummer": "1578",
+      "kommune": "Fjord",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 329,
+      "besok_norske_filmer": 238,
+      "kinoforestillinger": 12,
+      "besok_per_forestilling": 27.4
+    },
+    {
+      "kommunenummer": "3416",
+      "kommune": "Eidskog",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 319,
+      "besok_norske_filmer": 173,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 17.7
+    },
+    {
+      "kommunenummer": "4635",
+      "kommune": "Gulen",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 306,
+      "besok_norske_filmer": 139,
+      "kinoforestillinger": 16,
+      "besok_per_forestilling": 19.1
+    },
+    {
+      "kommunenummer": "3413",
+      "kommune": "Stange",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 304,
+      "besok_norske_filmer": 217,
+      "kinoforestillinger": 16,
+      "besok_per_forestilling": 19
+    },
+    {
+      "kommunenummer": "3454",
+      "kommune": "Vang",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 275,
+      "besok_norske_filmer": 186,
+      "kinoforestillinger": 22,
+      "besok_per_forestilling": 12.5
+    },
+    {
+      "kommunenummer": "5042",
+      "kommune": "Lierne",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 272,
+      "besok_norske_filmer": 201,
+      "kinoforestillinger": 14,
+      "besok_per_forestilling": 19.4
+    },
+    {
+      "kommunenummer": "5514",
+      "kommune": "Ibestad",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 270,
+      "besok_norske_filmer": 152,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 15
+    },
+    {
+      "kommunenummer": "4212",
+      "kommune": "Vegårshei",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 262,
+      "besok_norske_filmer": 125,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 14.6
+    },
+    {
+      "kommunenummer": "5546",
+      "kommune": "Kvænangen",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 252,
+      "besok_norske_filmer": 162,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 14
+    },
+    {
+      "kommunenummer": "4629",
+      "kommune": "Modalen",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 251,
+      "besok_norske_filmer": 100,
+      "kinoforestillinger": 16,
+      "besok_per_forestilling": 15.7
+    },
+    {
+      "kommunenummer": "1853",
+      "kommune": "Evenes",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 249,
+      "besok_norske_filmer": 161,
+      "kinoforestillinger": 16,
+      "besok_per_forestilling": 15.6
+    },
+    {
+      "kommunenummer": "5614",
+      "kommune": "Loppa",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 246,
+      "besok_norske_filmer": 95,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 13.7
+    },
+    {
+      "kommunenummer": "1579",
+      "kommune": "Hustadvika",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 243,
+      "besok_norske_filmer": 115,
+      "kinoforestillinger": 17,
+      "besok_per_forestilling": 14.3
+    },
+    {
+      "kommunenummer": "5616",
+      "kommune": "Hasvik",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 229,
+      "besok_norske_filmer": 96,
+      "kinoforestillinger": 22,
+      "besok_per_forestilling": 10.4
+    },
+    {
+      "kommunenummer": "4623",
+      "kommune": "Samnanger",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 216,
+      "besok_norske_filmer": 98,
+      "kinoforestillinger": 21,
+      "besok_per_forestilling": 10.3
+    },
+    {
+      "kommunenummer": "1557",
+      "kommune": "Gjemnes",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 213,
+      "besok_norske_filmer": 177,
+      "kinoforestillinger": 17,
+      "besok_per_forestilling": 12.5
+    },
+    {
+      "kommunenummer": "5020",
+      "kommune": "Osen",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 211,
+      "besok_norske_filmer": 179,
+      "kinoforestillinger": 8,
+      "besok_per_forestilling": 26.4
+    },
+    {
+      "kommunenummer": "5026",
+      "kommune": "Holtålen",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 211,
+      "besok_norske_filmer": 159,
+      "kinoforestillinger": 24,
+      "besok_per_forestilling": 8.8
+    },
+    {
+      "kommunenummer": "1827",
+      "kommune": "Dønna",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 204,
+      "besok_norske_filmer": 127,
+      "kinoforestillinger": 22,
+      "besok_per_forestilling": 9.3
+    },
+    {
+      "kommunenummer": "3212",
+      "kommune": "Nesodden",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 200,
+      "besok_norske_filmer": 200,
+      "kinoforestillinger": 1,
+      "besok_per_forestilling": 200
+    },
+    {
+      "kommunenummer": "1151",
+      "kommune": "Utsira",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 199,
+      "besok_norske_filmer": 119,
+      "kinoforestillinger": 17,
+      "besok_per_forestilling": 11.7
+    },
+    {
+      "kommunenummer": "1839",
+      "kommune": "Beiarn",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 190,
+      "besok_norske_filmer": 132,
+      "kinoforestillinger": 18,
+      "besok_per_forestilling": 10.6
+    },
+    {
+      "kommunenummer": "3314",
+      "kommune": "Øvre Eiker",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 181,
+      "besok_norske_filmer": 19,
+      "kinoforestillinger": 10,
+      "besok_per_forestilling": 18.1
+    },
+    {
+      "kommunenummer": "5043",
+      "kommune": "Raarvihke",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 176,
+      "besok_norske_filmer": 98,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 8.8
+    },
+    {
+      "kommunenummer": "5538",
+      "kommune": "Storfjord",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 171,
+      "besok_norske_filmer": 105,
+      "kinoforestillinger": 16,
+      "besok_per_forestilling": 10.7
+    },
+    {
+      "kommunenummer": "1845",
+      "kommune": "Sørfold",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 167,
+      "besok_norske_filmer": 100,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 8.4
+    },
+    {
+      "kommunenummer": "4218",
+      "kommune": "Iveland",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 162,
+      "besok_norske_filmer": 120,
+      "kinoforestillinger": 21,
+      "besok_per_forestilling": 7.7
+    },
+    {
+      "kommunenummer": "5516",
+      "kommune": "Gratangen",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 151,
+      "besok_norske_filmer": 84,
+      "kinoforestillinger": 15,
+      "besok_per_forestilling": 10.1
+    },
+    {
+      "kommunenummer": "1828",
+      "kommune": "Nesna",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 150,
+      "besok_norske_filmer": 96,
+      "kinoforestillinger": 16,
+      "besok_per_forestilling": 9.4
+    },
+    {
+      "kommunenummer": "3124",
+      "kommune": "Aremark",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 146,
+      "besok_norske_filmer": 111,
+      "kinoforestillinger": 12,
+      "besok_per_forestilling": 12.2
+    },
+    {
+      "kommunenummer": "1144",
+      "kommune": "Kvitsøy",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 125,
+      "besok_norske_filmer": 64,
+      "kinoforestillinger": 7,
+      "besok_per_forestilling": 17.9
+    },
+    {
+      "kommunenummer": "3320",
+      "kommune": "Flå",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 112,
+      "besok_norske_filmer": 53,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 5.6
+    },
+    {
+      "kommunenummer": "3324",
+      "kommune": "Gol",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 111,
+      "besok_norske_filmer": 111,
+      "kinoforestillinger": 2,
+      "besok_per_forestilling": 55.5
+    },
+    {
+      "kommunenummer": "1514",
+      "kommune": "Sande",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 111,
+      "besok_norske_filmer": 59,
+      "kinoforestillinger": 20,
+      "besok_per_forestilling": 5.6
+    },
+    {
+      "kommunenummer": "5037",
+      "kommune": "Levanger",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 109,
+      "besok_norske_filmer": 109,
+      "kinoforestillinger": 4,
+      "besok_per_forestilling": 27.3
+    },
+    {
+      "kommunenummer": "4213",
+      "kommune": "Tvedestrand",
+      "kinosaler": 2,
+      "kinoseter": 0,
+      "kinobesok": 108,
+      "besok_norske_filmer": 80,
+      "kinoforestillinger": 8,
+      "besok_per_forestilling": 13.5
+    },
+    {
+      "kommunenummer": "5029",
+      "kommune": "Skaun",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 97,
+      "besok_norske_filmer": 97,
+      "kinoforestillinger": 1,
+      "besok_per_forestilling": 97
+    },
+    {
+      "kommunenummer": "1535",
+      "kommune": "Vestnes",
+      "kinosaler": 1,
+      "kinoseter": 350,
+      "kinobesok": 91,
+      "besok_norske_filmer": 34,
+      "kinoforestillinger": 5,
+      "besok_per_forestilling": 18.2
+    },
+    {
+      "kommunenummer": "3424",
+      "kommune": "Rendalen",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 69,
+      "besok_norske_filmer": 69,
+      "kinoforestillinger": 1,
+      "besok_per_forestilling": 69
+    },
+    {
+      "kommunenummer": "5626",
+      "kommune": "Gamvik",
+      "kinosaler": 1,
+      "kinoseter": 30,
+      "kinobesok": 58,
+      "besok_norske_filmer": 46,
+      "kinoforestillinger": 4,
+      "besok_per_forestilling": 14.5
+    },
+    {
+      "kommunenummer": "5628",
+      "kommune": "Deatnu",
+      "kinosaler": 1,
+      "kinoseter": 150,
+      "kinobesok": 57,
+      "besok_norske_filmer": 13,
+      "kinoforestillinger": 15,
+      "besok_per_forestilling": 3.8
+    },
+    {
+      "kommunenummer": "5532",
+      "kommune": "Balsfjord",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 46,
+      "besok_norske_filmer": 31,
+      "kinoforestillinger": 2,
+      "besok_per_forestilling": 23
+    },
+    {
+      "kommunenummer": "3234",
+      "kommune": "Lunner",
+      "kinosaler": 0,
+      "kinoseter": 0,
+      "kinobesok": 44,
+      "besok_norske_filmer": 0,
+      "kinoforestillinger": 1,
+      "besok_per_forestilling": 44
+    },
+    {
+      "kommunenummer": "1812",
+      "kommune": "Sømna",
+      "kinosaler": 1,
+      "kinoseter": 0,
+      "kinobesok": 2,
+      "besok_norske_filmer": 0,
+      "kinoforestillinger": 2,
+      "besok_per_forestilling": 1
+    }
+  ],
+  "meta": {
+    "title": "Kinobesøk og kinosaler per kommune (2025) - Free Download",
+    "description": "Antall kinosaler, kinoseter, kinoforestillinger, kinobesøk og besøk på norske filmer i 2025 for norske kommuner med kinodrift (SSB/KOSTRA tabell 11817). Contains 294 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Kinobesøk og kinosaler per kommune (2025) | ListBase",
+    "seo_description": "Download Kinobesøk og kinosaler per kommune (2025) — 294 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 294 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/11817"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-20T02:22:10.445Z",
-  "total_datasets": 516,
-  "total_records": 1209362,
+  "generated": "2026-11-20T02:22:21.688Z",
+  "total_datasets": 517,
+  "total_records": 1209656,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -2155,6 +2155,35 @@
         "xlsx": {
           "name": "no-eurovision-seertall-norge_NO.xlsx",
           "size": 7456
+        }
+      }
+    },
+    {
+      "id": "no-kinobesok-per-kommune-2025",
+      "name": "Kinobesøk og kinosaler per kommune (2025)",
+      "category": "entertainment",
+      "record_count": 294,
+      "columns": [
+        "kommunenummer",
+        "kommune",
+        "kinosaler",
+        "kinoseter",
+        "kinobesok",
+        "besok_norske_filmer",
+        "kinoforestillinger",
+        "besok_per_forestilling"
+      ],
+      "source": "https://www.ssb.no/statbank/table/11817",
+      "updated": "2026-11",
+      "size": 74595,
+      "files": {
+        "csv": {
+          "name": "no-kinobesok-per-kommune-2025_NO.csv",
+          "size": 15603
+        },
+        "xlsx": {
+          "name": "no-kinobesok-per-kommune-2025_NO.xlsx",
+          "size": 21129
         }
       }
     },
