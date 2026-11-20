@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-20T02:22:01.300Z",
-  "total_datasets": 515,
-  "total_records": 1209346,
+  "generated": "2026-11-20T02:22:10.445Z",
+  "total_datasets": 516,
+  "total_records": 1209362,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -1947,6 +1947,32 @@
         "xlsx": {
           "name": "no-folkehogskoler_NO.xlsx",
           "size": 10096
+        }
+      }
+    },
+    {
+      "id": "no-grunnskolepoeng-per-fylke-2026",
+      "name": "Gjennomsnittlige grunnskolepoeng per fylke (2026)",
+      "category": "education",
+      "record_count": 16,
+      "columns": [
+        "region",
+        "grunnskolepoeng_alle",
+        "antall_elever",
+        "grunnskolepoeng_jenter",
+        "grunnskolepoeng_gutter"
+      ],
+      "source": "https://www.ssb.no/statbank/table/07495",
+      "updated": "2026-11",
+      "size": 4809,
+      "files": {
+        "csv": {
+          "name": "no-grunnskolepoeng-per-fylke-2026_NO.csv",
+          "size": 718
+        },
+        "xlsx": {
+          "name": "no-grunnskolepoeng-per-fylke-2026_NO.xlsx",
+          "size": 7345
         }
       }
     },

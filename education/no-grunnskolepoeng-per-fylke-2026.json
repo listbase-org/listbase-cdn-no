@@ -1,0 +1,163 @@
+{
+  "id": "no-grunnskolepoeng-per-fylke-2026",
+  "name": "Gjennomsnittlige grunnskolepoeng per fylke (2026)",
+  "title": "Gjennomsnittlige grunnskolepoeng per fylke (2026)",
+  "description": "Gjennomsnittlige grunnskolepoeng for elever som gikk ut av 10. trinn i 2026, for hele landet og hvert fylke, totalt og fordelt på jenter og gutter, med antall elever (SSB tabell 07495).",
+  "category": "education",
+  "source": "https://www.ssb.no/statbank/table/07495",
+  "source_url": "https://www.ssb.no/statbank/table/07495",
+  "updated": "2026-11",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "grunnskolepoeng_alle",
+      "label": "Grunnskolepoeng Alle",
+      "type": "number"
+    },
+    {
+      "key": "antall_elever",
+      "label": "Antall Elever",
+      "type": "number"
+    },
+    {
+      "key": "grunnskolepoeng_jenter",
+      "label": "Grunnskolepoeng Jenter",
+      "type": "number"
+    },
+    {
+      "key": "grunnskolepoeng_gutter",
+      "label": "Grunnskolepoeng Gutter",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Hele landet",
+      "grunnskolepoeng_alle": 42.4,
+      "antall_elever": 62655,
+      "grunnskolepoeng_jenter": 44.3,
+      "grunnskolepoeng_gutter": 40.5
+    },
+    {
+      "region": "Østfold",
+      "grunnskolepoeng_alle": 41.5,
+      "antall_elever": 3450,
+      "grunnskolepoeng_jenter": 43.6,
+      "grunnskolepoeng_gutter": 39.3
+    },
+    {
+      "region": "Akershus",
+      "grunnskolepoeng_alle": 43,
+      "antall_elever": 9009,
+      "grunnskolepoeng_jenter": 44.8,
+      "grunnskolepoeng_gutter": 41.2
+    },
+    {
+      "region": "Oslo",
+      "grunnskolepoeng_alle": 44.5,
+      "antall_elever": 6597,
+      "grunnskolepoeng_jenter": 46.4,
+      "grunnskolepoeng_gutter": 42.6
+    },
+    {
+      "region": "Innlandet",
+      "grunnskolepoeng_alle": 41.7,
+      "antall_elever": 3975,
+      "grunnskolepoeng_jenter": 43.6,
+      "grunnskolepoeng_gutter": 39.9
+    },
+    {
+      "region": "Buskerud",
+      "grunnskolepoeng_alle": 42.3,
+      "antall_elever": 3024,
+      "grunnskolepoeng_jenter": 44.1,
+      "grunnskolepoeng_gutter": 40.5
+    },
+    {
+      "region": "Vestfold",
+      "grunnskolepoeng_alle": 41.1,
+      "antall_elever": 2921,
+      "grunnskolepoeng_jenter": 42.9,
+      "grunnskolepoeng_gutter": 39.5
+    },
+    {
+      "region": "Telemark",
+      "grunnskolepoeng_alle": 41.2,
+      "antall_elever": 2026,
+      "grunnskolepoeng_jenter": 43,
+      "grunnskolepoeng_gutter": 39.6
+    },
+    {
+      "region": "Agder",
+      "grunnskolepoeng_alle": 42.2,
+      "antall_elever": 3856,
+      "grunnskolepoeng_jenter": 44.2,
+      "grunnskolepoeng_gutter": 40.2
+    },
+    {
+      "region": "Rogaland",
+      "grunnskolepoeng_alle": 42.5,
+      "antall_elever": 6519,
+      "grunnskolepoeng_jenter": 44.7,
+      "grunnskolepoeng_gutter": 40.6
+    },
+    {
+      "region": "Vestland",
+      "grunnskolepoeng_alle": 42.5,
+      "antall_elever": 7526,
+      "grunnskolepoeng_jenter": 44.4,
+      "grunnskolepoeng_gutter": 40.9
+    },
+    {
+      "region": "Møre og Romsdal",
+      "grunnskolepoeng_alle": 41.9,
+      "antall_elever": 3050,
+      "grunnskolepoeng_jenter": 44,
+      "grunnskolepoeng_gutter": 39.8
+    },
+    {
+      "region": "Trøndelag",
+      "grunnskolepoeng_alle": 41.7,
+      "antall_elever": 5477,
+      "grunnskolepoeng_jenter": 43.7,
+      "grunnskolepoeng_gutter": 39.7
+    },
+    {
+      "region": "Nordland",
+      "grunnskolepoeng_alle": 42,
+      "antall_elever": 2604,
+      "grunnskolepoeng_jenter": 43.9,
+      "grunnskolepoeng_gutter": 40.3
+    },
+    {
+      "region": "Troms",
+      "grunnskolepoeng_alle": 41.7,
+      "antall_elever": 1845,
+      "grunnskolepoeng_jenter": 43.5,
+      "grunnskolepoeng_gutter": 40
+    },
+    {
+      "region": "Finnmark",
+      "grunnskolepoeng_alle": 41.4,
+      "antall_elever": 761,
+      "grunnskolepoeng_jenter": 43.7,
+      "grunnskolepoeng_gutter": 39.1
+    }
+  ],
+  "meta": {
+    "title": "Gjennomsnittlige grunnskolepoeng per fylke (2026) - Free Download",
+    "description": "Gjennomsnittlige grunnskolepoeng for elever som gikk ut av 10. trinn i 2026, for hele landet og hvert fylke, totalt og fordelt på jenter og gutter, med antall elever (SSB tabell 07495). Contains 16 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gjennomsnittlige grunnskolepoeng per fylke (2026) | ListBase",
+    "seo_description": "Download Gjennomsnittlige grunnskolepoeng per fylke (2026) — 16 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 16 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/07495"
+    ]
+  }
+}
