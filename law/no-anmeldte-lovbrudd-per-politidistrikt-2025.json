@@ -1,0 +1,268 @@
+{
+  "id": "no-anmeldte-lovbrudd-per-politidistrikt-2025",
+  "name": "Anmeldte lovbrudd per politidistrikt (2025)",
+  "title": "Anmeldte lovbrudd per politidistrikt (2025)",
+  "description": "Antall anmeldte lovbrudd i 2025 og anmeldte lovbrudd per 1000 innbyggere etter lovbruddsgruppe (tyveri, vold, seksuallovbrudd, rus, trafikk m.m.) i de 12 politidistriktene i Norge (SSB tabell 08485).",
+  "category": "law",
+  "source": "https://www.ssb.no/statbank/table/08485",
+  "source_url": "https://www.ssb.no/statbank/table/08485",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "politidistrikt",
+      "label": "Politidistrikt",
+      "type": "string"
+    },
+    {
+      "key": "anmeldte_lovbrudd_totalt",
+      "label": "Anmeldte Lovbrudd Totalt",
+      "type": "number"
+    },
+    {
+      "key": "alle_per_1000",
+      "label": "Alle Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "eiendomstyveri_per_1000",
+      "label": "Eiendomstyveri Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "annet_vinningslovbrudd_per_1000",
+      "label": "Annet Vinningslovbrudd Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "eiendomsskade_per_1000",
+      "label": "Eiendomsskade Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "vold_og_mishandling_per_1000",
+      "label": "Vold Og Mishandling Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "seksuallovbrudd_per_1000",
+      "label": "Seksuallovbrudd Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "rusmiddellovbrudd_per_1000",
+      "label": "Rusmiddellovbrudd Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "ordens_og_integritetskrenkelse_per_1000",
+      "label": "Ordens Og Integritetskrenkelse Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "trafikkovertredelse_per_1000",
+      "label": "Trafikkovertredelse Per 1000",
+      "type": "number"
+    },
+    {
+      "key": "annet_lovbrudd_per_1000",
+      "label": "Annet Lovbrudd Per 1000",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "politidistrikt": "Hele landet",
+      "anmeldte_lovbrudd_totalt": 348508,
+      "alle_per_1000": 62.3,
+      "eiendomstyveri_per_1000": 20.8,
+      "annet_vinningslovbrudd_per_1000": 7,
+      "eiendomsskade_per_1000": 4.3,
+      "vold_og_mishandling_per_1000": 8.5,
+      "seksuallovbrudd_per_1000": 1.3,
+      "rusmiddellovbrudd_per_1000": 5.1,
+      "ordens_og_integritetskrenkelse_per_1000": 6.3,
+      "trafikkovertredelse_per_1000": 8.1,
+      "annet_lovbrudd_per_1000": 0.9
+    },
+    {
+      "politidistrikt": "Oslo",
+      "anmeldte_lovbrudd_totalt": 88213,
+      "alle_per_1000": 92.2,
+      "eiendomstyveri_per_1000": 39.4,
+      "annet_vinningslovbrudd_per_1000": 8.5,
+      "eiendomsskade_per_1000": 7.3,
+      "vold_og_mishandling_per_1000": 11.6,
+      "seksuallovbrudd_per_1000": 1.2,
+      "rusmiddellovbrudd_per_1000": 5.7,
+      "ordens_og_integritetskrenkelse_per_1000": 9.2,
+      "trafikkovertredelse_per_1000": 8.8,
+      "annet_lovbrudd_per_1000": 0.5
+    },
+    {
+      "politidistrikt": "Øst",
+      "anmeldte_lovbrudd_totalt": 49289,
+      "alle_per_1000": 61.2,
+      "eiendomstyveri_per_1000": 20,
+      "annet_vinningslovbrudd_per_1000": 7.3,
+      "eiendomsskade_per_1000": 3.5,
+      "vold_og_mishandling_per_1000": 8.3,
+      "seksuallovbrudd_per_1000": 1.2,
+      "rusmiddellovbrudd_per_1000": 5.4,
+      "ordens_og_integritetskrenkelse_per_1000": 6.4,
+      "trafikkovertredelse_per_1000": 8.5,
+      "annet_lovbrudd_per_1000": 0.7
+    },
+    {
+      "politidistrikt": "Innlandet",
+      "anmeldte_lovbrudd_totalt": 20449,
+      "alle_per_1000": 52.8,
+      "eiendomstyveri_per_1000": 11.6,
+      "annet_vinningslovbrudd_per_1000": 7.5,
+      "eiendomsskade_per_1000": 2.9,
+      "vold_og_mishandling_per_1000": 7.3,
+      "seksuallovbrudd_per_1000": 1.3,
+      "rusmiddellovbrudd_per_1000": 4.7,
+      "ordens_og_integritetskrenkelse_per_1000": 5.2,
+      "trafikkovertredelse_per_1000": 11.6,
+      "annet_lovbrudd_per_1000": 0.8
+    },
+    {
+      "politidistrikt": "Sør-Øst",
+      "anmeldte_lovbrudd_totalt": 42507,
+      "alle_per_1000": 59.5,
+      "eiendomstyveri_per_1000": 19.3,
+      "annet_vinningslovbrudd_per_1000": 7.4,
+      "eiendomsskade_per_1000": 4.2,
+      "vold_og_mishandling_per_1000": 8.1,
+      "seksuallovbrudd_per_1000": 1.2,
+      "rusmiddellovbrudd_per_1000": 5.1,
+      "ordens_og_integritetskrenkelse_per_1000": 5.5,
+      "trafikkovertredelse_per_1000": 7.9,
+      "annet_lovbrudd_per_1000": 0.8
+    },
+    {
+      "politidistrikt": "Agder",
+      "anmeldte_lovbrudd_totalt": 21027,
+      "alle_per_1000": 65.7,
+      "eiendomstyveri_per_1000": 22.8,
+      "annet_vinningslovbrudd_per_1000": 6.2,
+      "eiendomsskade_per_1000": 4.5,
+      "vold_og_mishandling_per_1000": 9.3,
+      "seksuallovbrudd_per_1000": 1.2,
+      "rusmiddellovbrudd_per_1000": 6.5,
+      "ordens_og_integritetskrenkelse_per_1000": 7.7,
+      "trafikkovertredelse_per_1000": 6.4,
+      "annet_lovbrudd_per_1000": 1.1
+    },
+    {
+      "politidistrikt": "Sør-Vest",
+      "anmeldte_lovbrudd_totalt": 29772,
+      "alle_per_1000": 54,
+      "eiendomstyveri_per_1000": 18.2,
+      "annet_vinningslovbrudd_per_1000": 5.8,
+      "eiendomsskade_per_1000": 4,
+      "vold_og_mishandling_per_1000": 7.4,
+      "seksuallovbrudd_per_1000": 1.1,
+      "rusmiddellovbrudd_per_1000": 4.7,
+      "ordens_og_integritetskrenkelse_per_1000": 5.4,
+      "trafikkovertredelse_per_1000": 6.6,
+      "annet_lovbrudd_per_1000": 0.8
+    },
+    {
+      "politidistrikt": "Vest",
+      "anmeldte_lovbrudd_totalt": 30760,
+      "alle_per_1000": 50.4,
+      "eiendomstyveri_per_1000": 16.6,
+      "annet_vinningslovbrudd_per_1000": 6.2,
+      "eiendomsskade_per_1000": 3,
+      "vold_og_mishandling_per_1000": 6.5,
+      "seksuallovbrudd_per_1000": 1.2,
+      "rusmiddellovbrudd_per_1000": 4,
+      "ordens_og_integritetskrenkelse_per_1000": 4.5,
+      "trafikkovertredelse_per_1000": 7.3,
+      "annet_lovbrudd_per_1000": 1
+    },
+    {
+      "politidistrikt": "Møre og Romsdal",
+      "anmeldte_lovbrudd_totalt": 12270,
+      "alle_per_1000": 45,
+      "eiendomstyveri_per_1000": 9.4,
+      "annet_vinningslovbrudd_per_1000": 5.3,
+      "eiendomsskade_per_1000": 3.1,
+      "vold_og_mishandling_per_1000": 6.8,
+      "seksuallovbrudd_per_1000": 1.4,
+      "rusmiddellovbrudd_per_1000": 4.4,
+      "ordens_og_integritetskrenkelse_per_1000": 5.2,
+      "trafikkovertredelse_per_1000": 8.3,
+      "annet_lovbrudd_per_1000": 1.1
+    },
+    {
+      "politidistrikt": "Trøndelag",
+      "anmeldte_lovbrudd_totalt": 27709,
+      "alle_per_1000": 56.8,
+      "eiendomstyveri_per_1000": 19.9,
+      "annet_vinningslovbrudd_per_1000": 6.4,
+      "eiendomsskade_per_1000": 4.8,
+      "vold_og_mishandling_per_1000": 7.3,
+      "seksuallovbrudd_per_1000": 1.5,
+      "rusmiddellovbrudd_per_1000": 4.4,
+      "ordens_og_integritetskrenkelse_per_1000": 5.3,
+      "trafikkovertredelse_per_1000": 6.4,
+      "annet_lovbrudd_per_1000": 0.8
+    },
+    {
+      "politidistrikt": "Nordland",
+      "anmeldte_lovbrudd_totalt": 11117,
+      "alle_per_1000": 45.9,
+      "eiendomstyveri_per_1000": 8.3,
+      "annet_vinningslovbrudd_per_1000": 5.8,
+      "eiendomsskade_per_1000": 2.8,
+      "vold_og_mishandling_per_1000": 7.8,
+      "seksuallovbrudd_per_1000": 1.4,
+      "rusmiddellovbrudd_per_1000": 5.2,
+      "ordens_og_integritetskrenkelse_per_1000": 5.2,
+      "trafikkovertredelse_per_1000": 7.8,
+      "annet_lovbrudd_per_1000": 1.6
+    },
+    {
+      "politidistrikt": "Troms",
+      "anmeldte_lovbrudd_totalt": 9460,
+      "alle_per_1000": 55.5,
+      "eiendomstyveri_per_1000": 11.1,
+      "annet_vinningslovbrudd_per_1000": 5.4,
+      "eiendomsskade_per_1000": 2.9,
+      "vold_og_mishandling_per_1000": 9.9,
+      "seksuallovbrudd_per_1000": 1.8,
+      "rusmiddellovbrudd_per_1000": 5.8,
+      "ordens_og_integritetskrenkelse_per_1000": 5.9,
+      "trafikkovertredelse_per_1000": 11.1,
+      "annet_lovbrudd_per_1000": 1.5
+    },
+    {
+      "politidistrikt": "Finnmark",
+      "anmeldte_lovbrudd_totalt": 4599,
+      "alle_per_1000": 61.3,
+      "eiendomstyveri_per_1000": 8.9,
+      "annet_vinningslovbrudd_per_1000": 5.7,
+      "eiendomsskade_per_1000": 4.1,
+      "vold_og_mishandling_per_1000": 10.4,
+      "seksuallovbrudd_per_1000": 2.2,
+      "rusmiddellovbrudd_per_1000": 5.7,
+      "ordens_og_integritetskrenkelse_per_1000": 8.8,
+      "trafikkovertredelse_per_1000": 11.4,
+      "annet_lovbrudd_per_1000": 4.2
+    }
+  ],
+  "meta": {
+    "title": "Anmeldte lovbrudd per politidistrikt (2025) - Free Download",
+    "description": "Antall anmeldte lovbrudd i 2025 og anmeldte lovbrudd per 1000 innbyggere etter lovbruddsgruppe (tyveri, vold, seksuallovbrudd, rus, trafikk m.m.) i de 12 politidistriktene i Norge (SSB tabell 08485). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Anmeldte lovbrudd per politidistrikt (2025) | ListBase",
+    "seo_description": "Download Anmeldte lovbrudd per politidistrikt (2025) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/08485"
+    ]
+  }
+}

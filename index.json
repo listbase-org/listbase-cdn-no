@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-19T02:23:39.579Z",
-  "total_datasets": 514,
-  "total_records": 1209333,
+  "generated": "2026-11-20T02:22:01.300Z",
+  "total_datasets": 515,
+  "total_records": 1209346,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -5519,6 +5519,39 @@
         "xlsx": {
           "name": "no-vanlige-fornavn-1801_NO.xlsx",
           "size": 14922
+        }
+      }
+    },
+    {
+      "id": "no-anmeldte-lovbrudd-per-politidistrikt-2025",
+      "name": "Anmeldte lovbrudd per politidistrikt (2025)",
+      "category": "law",
+      "record_count": 13,
+      "columns": [
+        "politidistrikt",
+        "anmeldte_lovbrudd_totalt",
+        "alle_per_1000",
+        "eiendomstyveri_per_1000",
+        "annet_vinningslovbrudd_per_1000",
+        "eiendomsskade_per_1000",
+        "vold_og_mishandling_per_1000",
+        "seksuallovbrudd_per_1000",
+        "rusmiddellovbrudd_per_1000",
+        "ordens_og_integritetskrenkelse_per_1000",
+        "trafikkovertredelse_per_1000",
+        "annet_lovbrudd_per_1000"
+      ],
+      "source": "https://www.ssb.no/statbank/table/08485",
+      "updated": "2026-11",
+      "size": 9306,
+      "files": {
+        "csv": {
+          "name": "no-anmeldte-lovbrudd-per-politidistrikt-2025_NO.csv",
+          "size": 1369
+        },
+        "xlsx": {
+          "name": "no-anmeldte-lovbrudd-per-politidistrikt-2025_NO.xlsx",
+          "size": 7863
         }
       }
     },
