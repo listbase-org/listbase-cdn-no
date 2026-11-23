@@ -1,12 +1,12 @@
 {
   "lang": "no",
-  "generated": "2026-11-20T02:22:21.688Z",
-  "total_datasets": 517,
-  "total_records": 1209656,
+  "generated": "2026-11-23T02:39:05.241Z",
+  "total_datasets": 518,
+  "total_records": 1209684,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -232,6 +232,33 @@
         "xlsx": {
           "name": "no-jordbruksareal-vekster_NO.xlsx",
           "size": 7363
+        }
+      }
+    },
+    {
+      "id": "no-kornavling-per-ar",
+      "name": "Kornavling i Norge per år (1998–2025)",
+      "category": "agriculture",
+      "record_count": 28,
+      "columns": [
+        "aar",
+        "korn_i_alt_1000_tonn",
+        "hvete_1000_tonn",
+        "bygg_1000_tonn",
+        "havre_1000_tonn",
+        "rug_og_rughvete_1000_tonn"
+      ],
+      "source": "https://www.ssb.no/statbank/table/07479",
+      "updated": "2026-11",
+      "size": 7553,
+      "files": {
+        "csv": {
+          "name": "no-kornavling-per-ar_NO.csv",
+          "size": 1386
+        },
+        "xlsx": {
+          "name": "no-kornavling-per-ar_NO.xlsx",
+          "size": 7846
         }
       }
     },
