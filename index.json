@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-23T02:39:05.241Z",
-  "total_datasets": 518,
-  "total_records": 1209684,
+  "generated": "2026-11-23T02:39:14.716Z",
+  "total_datasets": 519,
+  "total_records": 1209755,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "transport",
@@ -13884,6 +13884,33 @@
         "xlsx": {
           "name": "no-osm-tourism-museum_NO.xlsx",
           "size": 46225
+        }
+      }
+    },
+    {
+      "id": "no-overnattinger-etter-bostedsland-2025",
+      "name": "Overnattinger i Norge etter gjestenes bostedsland (2025)",
+      "category": "tourism",
+      "record_count": 71,
+      "columns": [
+        "bostedsland",
+        "overnattinger_2025",
+        "hotell_2025",
+        "camping_2025",
+        "hyttegrender_og_vandrerhjem_2025",
+        "overnattinger_2019"
+      ],
+      "source": "https://www.ssb.no/statbank/table/14163",
+      "updated": "2026-11",
+      "size": 17745,
+      "files": {
+        "csv": {
+          "name": "no-overnattinger-etter-bostedsland-2025_NO.csv",
+          "size": 3701
+        },
+        "xlsx": {
+          "name": "no-overnattinger-etter-bostedsland-2025_NO.xlsx",
+          "size": 10126
         }
       }
     },

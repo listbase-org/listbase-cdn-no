@@ -1,0 +1,624 @@
+{
+  "id": "no-overnattinger-etter-bostedsland-2025",
+  "name": "Overnattinger i Norge etter gjestenes bostedsland (2025)",
+  "title": "Overnattinger i Norge etter gjestenes bostedsland (2025)",
+  "description": "Antall overnattinger på hotell, campingplasser, hyttegrender og vandrerhjem i Norge i 2025 etter gjestenes bostedsland, med totalen for 2019 til sammenligning (Statistisk sentralbyrå, tabell 14163).",
+  "category": "tourism",
+  "source": "https://www.ssb.no/statbank/table/14163",
+  "source_url": "https://www.ssb.no/statbank/table/14163",
+  "updated": "2026-11",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "bostedsland",
+      "label": "Bostedsland",
+      "type": "string"
+    },
+    {
+      "key": "overnattinger_2025",
+      "label": "Overnattinger 2025",
+      "type": "number"
+    },
+    {
+      "key": "hotell_2025",
+      "label": "Hotell 2025",
+      "type": "number"
+    },
+    {
+      "key": "camping_2025",
+      "label": "Camping 2025",
+      "type": "number"
+    },
+    {
+      "key": "hyttegrender_og_vandrerhjem_2025",
+      "label": "Hyttegrender Og Vandrerhjem 2025",
+      "type": "number"
+    },
+    {
+      "key": "overnattinger_2019",
+      "label": "Overnattinger 2019",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "bostedsland": "I alt",
+      "overnattinger_2025": 40590017,
+      "hotell_2025": 28155650,
+      "camping_2025": 8406799,
+      "hyttegrender_og_vandrerhjem_2025": 4027568,
+      "overnattinger_2019": 35179554
+    },
+    {
+      "bostedsland": "Norge",
+      "overnattinger_2025": 26424175,
+      "hotell_2025": 19152395,
+      "camping_2025": 5446035,
+      "hyttegrender_og_vandrerhjem_2025": 1825745,
+      "overnattinger_2019": 24478073
+    },
+    {
+      "bostedsland": "Utlandet i alt",
+      "overnattinger_2025": 14165842,
+      "hotell_2025": 9003255,
+      "camping_2025": 2960764,
+      "hyttegrender_og_vandrerhjem_2025": 2201823,
+      "overnattinger_2019": 10701481
+    },
+    {
+      "bostedsland": "Tyskland",
+      "overnattinger_2025": 2559325,
+      "hotell_2025": 909133,
+      "camping_2025": 1128605,
+      "hyttegrender_og_vandrerhjem_2025": 521587,
+      "overnattinger_2019": 1955111
+    },
+    {
+      "bostedsland": "USA",
+      "overnattinger_2025": 1635199,
+      "hotell_2025": 1503153,
+      "camping_2025": 30388,
+      "hyttegrender_og_vandrerhjem_2025": 101658,
+      "overnattinger_2019": 956174
+    },
+    {
+      "bostedsland": "Sverige",
+      "overnattinger_2025": 1309471,
+      "hotell_2025": 891388,
+      "camping_2025": 248071,
+      "hyttegrender_og_vandrerhjem_2025": 170012,
+      "overnattinger_2019": 1103425
+    },
+    {
+      "bostedsland": "Nederland",
+      "overnattinger_2025": 985413,
+      "hotell_2025": 411482,
+      "camping_2025": 441540,
+      "hyttegrender_og_vandrerhjem_2025": 132391,
+      "overnattinger_2019": 773696
+    },
+    {
+      "bostedsland": "Storbritannia",
+      "overnattinger_2025": 976846,
+      "hotell_2025": 766712,
+      "camping_2025": 63066,
+      "hyttegrender_og_vandrerhjem_2025": 147068,
+      "overnattinger_2019": 649981
+    },
+    {
+      "bostedsland": "Danmark",
+      "overnattinger_2025": 896447,
+      "hotell_2025": 543363,
+      "camping_2025": 120474,
+      "hyttegrender_og_vandrerhjem_2025": 232610,
+      "overnattinger_2019": 755652
+    },
+    {
+      "bostedsland": "Frankrike",
+      "overnattinger_2025": 621748,
+      "hotell_2025": 407983,
+      "camping_2025": 117282,
+      "hyttegrender_og_vandrerhjem_2025": 96483,
+      "overnattinger_2019": 451608
+    },
+    {
+      "bostedsland": "Polen",
+      "overnattinger_2025": 533214,
+      "hotell_2025": 304029,
+      "camping_2025": 140797,
+      "hyttegrender_og_vandrerhjem_2025": 88388,
+      "overnattinger_2019": 286642
+    },
+    {
+      "bostedsland": "Italia",
+      "overnattinger_2025": 441688,
+      "hotell_2025": 307714,
+      "camping_2025": 59933,
+      "hyttegrender_og_vandrerhjem_2025": 74041,
+      "overnattinger_2019": 273372
+    },
+    {
+      "bostedsland": "Sveits",
+      "overnattinger_2025": 407769,
+      "hotell_2025": 234077,
+      "camping_2025": 122006,
+      "hyttegrender_og_vandrerhjem_2025": 51686,
+      "overnattinger_2019": 243469
+    },
+    {
+      "bostedsland": "Kina",
+      "overnattinger_2025": 391853,
+      "hotell_2025": 341835,
+      "camping_2025": 7503,
+      "hyttegrender_og_vandrerhjem_2025": 42515,
+      "overnattinger_2019": 471822
+    },
+    {
+      "bostedsland": "Spania",
+      "overnattinger_2025": 385632,
+      "hotell_2025": 293176,
+      "camping_2025": 36873,
+      "hyttegrender_og_vandrerhjem_2025": 55583,
+      "overnattinger_2019": 343513
+    },
+    {
+      "bostedsland": "Finland",
+      "overnattinger_2025": 335553,
+      "hotell_2025": 184158,
+      "camping_2025": 111989,
+      "hyttegrender_og_vandrerhjem_2025": 39406,
+      "overnattinger_2019": 219494
+    },
+    {
+      "bostedsland": "Belgia",
+      "overnattinger_2025": 240262,
+      "hotell_2025": 133961,
+      "camping_2025": 68729,
+      "hyttegrender_og_vandrerhjem_2025": 37572,
+      "overnattinger_2019": 160179
+    },
+    {
+      "bostedsland": "Australia",
+      "overnattinger_2025": 180642,
+      "hotell_2025": 146487,
+      "camping_2025": 8889,
+      "hyttegrender_og_vandrerhjem_2025": 25266,
+      "overnattinger_2019": 125339
+    },
+    {
+      "bostedsland": "Resten av Asia",
+      "overnattinger_2025": 179944,
+      "hotell_2025": 153558,
+      "camping_2025": 10727,
+      "hyttegrender_og_vandrerhjem_2025": 15659,
+      "overnattinger_2019": 200899
+    },
+    {
+      "bostedsland": "Østerrike",
+      "overnattinger_2025": 168898,
+      "hotell_2025": 94361,
+      "camping_2025": 49108,
+      "hyttegrender_og_vandrerhjem_2025": 25429,
+      "overnattinger_2019": 112522
+    },
+    {
+      "bostedsland": "Tsjekkia",
+      "overnattinger_2025": 152135,
+      "hotell_2025": 54239,
+      "camping_2025": 42434,
+      "hyttegrender_og_vandrerhjem_2025": 55462,
+      "overnattinger_2019": 99098
+    },
+    {
+      "bostedsland": "India",
+      "overnattinger_2025": 116685,
+      "hotell_2025": 83291,
+      "camping_2025": 2993,
+      "hyttegrender_og_vandrerhjem_2025": 30401,
+      "overnattinger_2019": 106608
+    },
+    {
+      "bostedsland": "Canada",
+      "overnattinger_2025": 105198,
+      "hotell_2025": 85156,
+      "camping_2025": 6909,
+      "hyttegrender_og_vandrerhjem_2025": 13133,
+      "overnattinger_2019": 57935
+    },
+    {
+      "bostedsland": "Litauen",
+      "overnattinger_2025": 89297,
+      "hotell_2025": 46125,
+      "camping_2025": 20004,
+      "hyttegrender_og_vandrerhjem_2025": 23168,
+      "overnattinger_2019": 85570
+    },
+    {
+      "bostedsland": "Taiwan",
+      "overnattinger_2025": 85743,
+      "hotell_2025": 67523,
+      "camping_2025": 2563,
+      "hyttegrender_og_vandrerhjem_2025": 15657,
+      "overnattinger_2019": 49079
+    },
+    {
+      "bostedsland": "Sør-Korea",
+      "overnattinger_2025": 80576,
+      "hotell_2025": 69397,
+      "camping_2025": 2824,
+      "hyttegrender_og_vandrerhjem_2025": 8355,
+      "overnattinger_2019": 104339
+    },
+    {
+      "bostedsland": "Singapore",
+      "overnattinger_2025": 80082,
+      "hotell_2025": 66422,
+      "camping_2025": 1811,
+      "hyttegrender_og_vandrerhjem_2025": 11849,
+      "overnattinger_2019": 38623
+    },
+    {
+      "bostedsland": "Thailand",
+      "overnattinger_2025": 69637,
+      "hotell_2025": 53273,
+      "camping_2025": 1191,
+      "hyttegrender_og_vandrerhjem_2025": 15173,
+      "overnattinger_2019": 53132
+    },
+    {
+      "bostedsland": "Resten av Sør-Amerika",
+      "overnattinger_2025": 68259,
+      "hotell_2025": 53493,
+      "camping_2025": 3637,
+      "hyttegrender_og_vandrerhjem_2025": 11129,
+      "overnattinger_2019": 45861
+    },
+    {
+      "bostedsland": "Romania",
+      "overnattinger_2025": 64677,
+      "hotell_2025": 46476,
+      "camping_2025": 8256,
+      "hyttegrender_og_vandrerhjem_2025": 9945,
+      "overnattinger_2019": 44708
+    },
+    {
+      "bostedsland": "Brasil",
+      "overnattinger_2025": 64416,
+      "hotell_2025": 54518,
+      "camping_2025": 1960,
+      "hyttegrender_og_vandrerhjem_2025": 7938,
+      "overnattinger_2019": 50726
+    },
+    {
+      "bostedsland": "Portugal",
+      "overnattinger_2025": 61102,
+      "hotell_2025": 46858,
+      "camping_2025": 3339,
+      "hyttegrender_og_vandrerhjem_2025": 10905,
+      "overnattinger_2019": 40907
+    },
+    {
+      "bostedsland": "Japan",
+      "overnattinger_2025": 60502,
+      "hotell_2025": 54432,
+      "camping_2025": 794,
+      "hyttegrender_og_vandrerhjem_2025": 5276,
+      "overnattinger_2019": 100283
+    },
+    {
+      "bostedsland": "Irland",
+      "overnattinger_2025": 53616,
+      "hotell_2025": 40889,
+      "camping_2025": 5029,
+      "hyttegrender_og_vandrerhjem_2025": 7698,
+      "overnattinger_2019": 28756
+    },
+    {
+      "bostedsland": "Ukraina",
+      "overnattinger_2025": 52867,
+      "hotell_2025": 27632,
+      "camping_2025": 13386,
+      "hyttegrender_og_vandrerhjem_2025": 11849,
+      "overnattinger_2019": 40787
+    },
+    {
+      "bostedsland": "De forente arabiske emirater",
+      "overnattinger_2025": 51794,
+      "hotell_2025": 39488,
+      "camping_2025": 6449,
+      "hyttegrender_og_vandrerhjem_2025": 5857,
+      "overnattinger_2019": 40068
+    },
+    {
+      "bostedsland": "Hellas",
+      "overnattinger_2025": 49940,
+      "hotell_2025": 42049,
+      "camping_2025": 2498,
+      "hyttegrender_og_vandrerhjem_2025": 5393,
+      "overnattinger_2019": 20177
+    },
+    {
+      "bostedsland": "Estland",
+      "overnattinger_2025": 48998,
+      "hotell_2025": 29584,
+      "camping_2025": 8098,
+      "hyttegrender_og_vandrerhjem_2025": 11316,
+      "overnattinger_2019": 47700
+    },
+    {
+      "bostedsland": "Tyrkia",
+      "overnattinger_2025": 47403,
+      "hotell_2025": 37289,
+      "camping_2025": 3988,
+      "hyttegrender_og_vandrerhjem_2025": 6126,
+      "overnattinger_2019": 21913
+    },
+    {
+      "bostedsland": "Resten av Oseania",
+      "overnattinger_2025": 46190,
+      "hotell_2025": 35505,
+      "camping_2025": 7243,
+      "hyttegrender_og_vandrerhjem_2025": 3442,
+      "overnattinger_2019": 18677
+    },
+    {
+      "bostedsland": "Latvia",
+      "overnattinger_2025": 42517,
+      "hotell_2025": 24279,
+      "camping_2025": 9873,
+      "hyttegrender_og_vandrerhjem_2025": 8365,
+      "overnattinger_2019": 36977
+    },
+    {
+      "bostedsland": "Ungarn",
+      "overnattinger_2025": 38812,
+      "hotell_2025": 29481,
+      "camping_2025": 4207,
+      "hyttegrender_og_vandrerhjem_2025": 5124,
+      "overnattinger_2019": 36306
+    },
+    {
+      "bostedsland": "Malaysia",
+      "overnattinger_2025": 35760,
+      "hotell_2025": 25677,
+      "camping_2025": 1802,
+      "hyttegrender_og_vandrerhjem_2025": 8281,
+      "overnattinger_2019": 24238
+    },
+    {
+      "bostedsland": "Slovakia",
+      "overnattinger_2025": 35683,
+      "hotell_2025": 19382,
+      "camping_2025": 6611,
+      "hyttegrender_og_vandrerhjem_2025": 9690,
+      "overnattinger_2019": 26763
+    },
+    {
+      "bostedsland": "Resten av Afrika",
+      "overnattinger_2025": 35141,
+      "hotell_2025": 28045,
+      "camping_2025": 2727,
+      "hyttegrender_og_vandrerhjem_2025": 4369,
+      "overnattinger_2019": 69182
+    },
+    {
+      "bostedsland": "Island",
+      "overnattinger_2025": 34080,
+      "hotell_2025": 27966,
+      "camping_2025": 1821,
+      "hyttegrender_og_vandrerhjem_2025": 4293,
+      "overnattinger_2019": 26811
+    },
+    {
+      "bostedsland": "Mexico",
+      "overnattinger_2025": 27186,
+      "hotell_2025": 23288,
+      "camping_2025": 1104,
+      "hyttegrender_og_vandrerhjem_2025": 2794,
+      "overnattinger_2019": 15138
+    },
+    {
+      "bostedsland": "Israel",
+      "overnattinger_2025": 23293,
+      "hotell_2025": 14431,
+      "camping_2025": 3532,
+      "hyttegrender_og_vandrerhjem_2025": 5330,
+      "overnattinger_2019": 0
+    },
+    {
+      "bostedsland": "Slovenia",
+      "overnattinger_2025": 22266,
+      "hotell_2025": 13893,
+      "camping_2025": 4569,
+      "hyttegrender_og_vandrerhjem_2025": 3804,
+      "overnattinger_2019": 13780
+    },
+    {
+      "bostedsland": "Kroatia",
+      "overnattinger_2025": 21740,
+      "hotell_2025": 17253,
+      "camping_2025": 1033,
+      "hyttegrender_og_vandrerhjem_2025": 3454,
+      "overnattinger_2019": 12529
+    },
+    {
+      "bostedsland": "Indonesia",
+      "overnattinger_2025": 20361,
+      "hotell_2025": 17076,
+      "camping_2025": 504,
+      "hyttegrender_og_vandrerhjem_2025": 2781,
+      "overnattinger_2019": 25140
+    },
+    {
+      "bostedsland": "Luxembourg",
+      "overnattinger_2025": 17648,
+      "hotell_2025": 10670,
+      "camping_2025": 4681,
+      "hyttegrender_og_vandrerhjem_2025": 2297,
+      "overnattinger_2019": 9541
+    },
+    {
+      "bostedsland": "Qatar",
+      "overnattinger_2025": 15550,
+      "hotell_2025": 13757,
+      "camping_2025": 597,
+      "hyttegrender_og_vandrerhjem_2025": 1196,
+      "overnattinger_2019": 13669
+    },
+    {
+      "bostedsland": "Bulgaria",
+      "overnattinger_2025": 15399,
+      "hotell_2025": 12494,
+      "camping_2025": 1335,
+      "hyttegrender_og_vandrerhjem_2025": 1570,
+      "overnattinger_2019": 10180
+    },
+    {
+      "bostedsland": "Albania",
+      "overnattinger_2025": 14923,
+      "hotell_2025": 13655,
+      "camping_2025": 108,
+      "hyttegrender_og_vandrerhjem_2025": 1160,
+      "overnattinger_2019": 2801
+    },
+    {
+      "bostedsland": "Sør-Afrika",
+      "overnattinger_2025": 13378,
+      "hotell_2025": 11173,
+      "camping_2025": 488,
+      "hyttegrender_og_vandrerhjem_2025": 1717,
+      "overnattinger_2019": 12758
+    },
+    {
+      "bostedsland": "Russland",
+      "overnattinger_2025": 10418,
+      "hotell_2025": 8628,
+      "camping_2025": 817,
+      "hyttegrender_og_vandrerhjem_2025": 973,
+      "overnattinger_2019": 154189
+    },
+    {
+      "bostedsland": "Kypros",
+      "overnattinger_2025": 7161,
+      "hotell_2025": 6004,
+      "camping_2025": 323,
+      "hyttegrender_og_vandrerhjem_2025": 834,
+      "overnattinger_2019": 3579
+    },
+    {
+      "bostedsland": "Serbia",
+      "overnattinger_2025": 7050,
+      "hotell_2025": 5175,
+      "camping_2025": 594,
+      "hyttegrender_og_vandrerhjem_2025": 1281,
+      "overnattinger_2019": 3677
+    },
+    {
+      "bostedsland": "Malta",
+      "overnattinger_2025": 4977,
+      "hotell_2025": 3794,
+      "camping_2025": 425,
+      "hyttegrender_og_vandrerhjem_2025": 758,
+      "overnattinger_2019": 3944
+    },
+    {
+      "bostedsland": "Belarus",
+      "overnattinger_2025": 4290,
+      "hotell_2025": 2729,
+      "camping_2025": 626,
+      "hyttegrender_og_vandrerhjem_2025": 935,
+      "overnattinger_2019": 7999
+    },
+    {
+      "bostedsland": "Bosnia-Hercegovina",
+      "overnattinger_2025": 3688,
+      "hotell_2025": 2094,
+      "camping_2025": 60,
+      "hyttegrender_og_vandrerhjem_2025": 1534,
+      "overnattinger_2019": 1345
+    },
+    {
+      "bostedsland": "Moldova",
+      "overnattinger_2025": 3559,
+      "hotell_2025": 2940,
+      "camping_2025": 209,
+      "hyttegrender_og_vandrerhjem_2025": 410,
+      "overnattinger_2019": 1316
+    },
+    {
+      "bostedsland": "Liechtenstein",
+      "overnattinger_2025": 3224,
+      "hotell_2025": 2107,
+      "camping_2025": 809,
+      "hyttegrender_og_vandrerhjem_2025": 308,
+      "overnattinger_2019": 2381
+    },
+    {
+      "bostedsland": "Monaco",
+      "overnattinger_2025": 1919,
+      "hotell_2025": 1771,
+      "camping_2025": 14,
+      "hyttegrender_og_vandrerhjem_2025": 134,
+      "overnattinger_2019": 982
+    },
+    {
+      "bostedsland": "Andorra",
+      "overnattinger_2025": 1914,
+      "hotell_2025": 1602,
+      "camping_2025": 120,
+      "hyttegrender_og_vandrerhjem_2025": 192,
+      "overnattinger_2019": 2245
+    },
+    {
+      "bostedsland": "Nord-Makedonia",
+      "overnattinger_2025": 1762,
+      "hotell_2025": 1324,
+      "camping_2025": 43,
+      "hyttegrender_og_vandrerhjem_2025": 395,
+      "overnattinger_2019": 1266
+    },
+    {
+      "bostedsland": "Kosovo",
+      "overnattinger_2025": 1272,
+      "hotell_2025": 1135,
+      "camping_2025": 43,
+      "hyttegrender_og_vandrerhjem_2025": 94,
+      "overnattinger_2019": 484
+    },
+    {
+      "bostedsland": "Montenegro",
+      "overnattinger_2025": 996,
+      "hotell_2025": 688,
+      "camping_2025": 49,
+      "hyttegrender_og_vandrerhjem_2025": 259,
+      "overnattinger_2019": 2187
+    },
+    {
+      "bostedsland": "Vatikanstaten",
+      "overnattinger_2025": 445,
+      "hotell_2025": 190,
+      "camping_2025": 241,
+      "hyttegrender_og_vandrerhjem_2025": 14,
+      "overnattinger_2019": 1452
+    },
+    {
+      "bostedsland": "San Marino",
+      "overnattinger_2025": 409,
+      "hotell_2025": 345,
+      "camping_2025": 13,
+      "hyttegrender_og_vandrerhjem_2025": 51,
+      "overnattinger_2019": 777
+    }
+  ],
+  "meta": {
+    "title": "Overnattinger i Norge etter gjestenes bostedsland (2025) - Free Download",
+    "description": "Antall overnattinger på hotell, campingplasser, hyttegrender og vandrerhjem i Norge i 2025 etter gjestenes bostedsland, med totalen for 2019 til sammenligning (Statistisk sentralbyrå, tabell 14163). Contains 71 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Overnattinger i Norge etter gjestenes bostedsland (2025) | ListBase",
+    "seo_description": "Download Overnattinger i Norge etter gjestenes bostedsland (2025) — 71 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 71 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/14163"
+    ]
+  }
+}
