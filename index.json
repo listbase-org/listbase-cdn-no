@@ -1,12 +1,12 @@
 {
   "lang": "no",
-  "generated": "2026-11-23T02:39:14.716Z",
-  "total_datasets": 519,
-  "total_records": 1209755,
+  "generated": "2026-11-23T02:39:23.740Z",
+  "total_datasets": 520,
+  "total_records": 1209782,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "culture",
@@ -311,6 +311,39 @@
         "xlsx": {
           "name": "no-lofotfisket-fartoy-etter-redskap_NO.xlsx",
           "size": 7011
+        }
+      }
+    },
+    {
+      "id": "no-slakt-godkjent-til-folkemat-per-ar",
+      "name": "Slakt godkjent til folkemat i Norge per år (1999–2025)",
+      "category": "agriculture",
+      "record_count": 27,
+      "columns": [
+        "aar",
+        "storfe_dyr",
+        "storfe_tonn",
+        "sau_dyr",
+        "sau_tonn",
+        "svin_dyr",
+        "svin_tonn",
+        "fjorfe_dyr",
+        "fjorfe_tonn",
+        "geit_dyr",
+        "hest_dyr",
+        "hest_tonn"
+      ],
+      "source": "https://www.ssb.no/statbank/table/03551",
+      "updated": "2026-11",
+      "size": 11240,
+      "files": {
+        "csv": {
+          "name": "no-slakt-godkjent-til-folkemat-per-ar_NO.csv",
+          "size": 2846
+        },
+        "xlsx": {
+          "name": "no-slakt-godkjent-til-folkemat-per-ar_NO.xlsx",
+          "size": 9008
         }
       }
     },
