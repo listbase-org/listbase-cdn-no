@@ -1,0 +1,276 @@
+{
+  "id": "no-elever-med-samisk-i-grunnskolen",
+  "name": "Elever med samisk som første- og andrespråk i grunnskolen (2004–2024)",
+  "title": "Elever med samisk som første- og andrespråk i grunnskolen (2004–2024)",
+  "description": "Antall grunnskoleelever i Norge med samisk som opplæringsmålform, og elever med nordsamisk, lulesamisk og sørsamisk som førstespråk og andrespråk, per skoleår (SSB, samisk statistikk, tabell 07587).",
+  "category": "language",
+  "source": "https://www.ssb.no/statbank/table/07587",
+  "source_url": "https://www.ssb.no/statbank/table/07587",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "samisk_som_opplaeringsmalform",
+      "label": "Samisk Som Opplaeringsmalform",
+      "type": "number"
+    },
+    {
+      "key": "nordsamisk_forstesprak",
+      "label": "Nordsamisk Forstesprak",
+      "type": "number"
+    },
+    {
+      "key": "nordsamisk_andresprak",
+      "label": "Nordsamisk Andresprak",
+      "type": "number"
+    },
+    {
+      "key": "lulesamisk_forstesprak",
+      "label": "Lulesamisk Forstesprak",
+      "type": "number"
+    },
+    {
+      "key": "lulesamisk_andresprak",
+      "label": "Lulesamisk Andresprak",
+      "type": "number"
+    },
+    {
+      "key": "sorsamisk_forstesprak",
+      "label": "Sorsamisk Forstesprak",
+      "type": "number"
+    },
+    {
+      "key": "sorsamisk_andresprak",
+      "label": "Sorsamisk Andresprak",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ar": 2004,
+      "samisk_som_opplaeringsmalform": 997,
+      "nordsamisk_forstesprak": 968,
+      "nordsamisk_andresprak": 1857,
+      "lulesamisk_forstesprak": 34,
+      "lulesamisk_andresprak": 40,
+      "sorsamisk_forstesprak": 10,
+      "sorsamisk_andresprak": 110
+    },
+    {
+      "ar": 2005,
+      "samisk_som_opplaeringsmalform": 977,
+      "nordsamisk_forstesprak": 953,
+      "nordsamisk_andresprak": 1891,
+      "lulesamisk_forstesprak": 29,
+      "lulesamisk_andresprak": 59,
+      "sorsamisk_forstesprak": 16,
+      "sorsamisk_andresprak": 107
+    },
+    {
+      "ar": 2006,
+      "samisk_som_opplaeringsmalform": 991,
+      "nordsamisk_forstesprak": 971,
+      "nordsamisk_andresprak": 1508,
+      "lulesamisk_forstesprak": 31,
+      "lulesamisk_andresprak": 46,
+      "sorsamisk_forstesprak": 18,
+      "sorsamisk_andresprak": 98
+    },
+    {
+      "ar": 2007,
+      "samisk_som_opplaeringsmalform": 938,
+      "nordsamisk_forstesprak": 984,
+      "nordsamisk_andresprak": 1370,
+      "lulesamisk_forstesprak": 25,
+      "lulesamisk_andresprak": 54,
+      "sorsamisk_forstesprak": 16,
+      "sorsamisk_andresprak": 89
+    },
+    {
+      "ar": 2008,
+      "samisk_som_opplaeringsmalform": 940,
+      "nordsamisk_forstesprak": 997,
+      "nordsamisk_andresprak": 1342,
+      "lulesamisk_forstesprak": 27,
+      "lulesamisk_andresprak": 50,
+      "sorsamisk_forstesprak": 19,
+      "sorsamisk_andresprak": 82
+    },
+    {
+      "ar": 2009,
+      "samisk_som_opplaeringsmalform": 924,
+      "nordsamisk_forstesprak": 964,
+      "nordsamisk_andresprak": 1194,
+      "lulesamisk_forstesprak": 26,
+      "lulesamisk_andresprak": 55,
+      "sorsamisk_forstesprak": 20,
+      "sorsamisk_andresprak": 77
+    },
+    {
+      "ar": 2010,
+      "samisk_som_opplaeringsmalform": 893,
+      "nordsamisk_forstesprak": 928,
+      "nordsamisk_andresprak": 1145,
+      "lulesamisk_forstesprak": 29,
+      "lulesamisk_andresprak": 68,
+      "sorsamisk_forstesprak": 18,
+      "sorsamisk_andresprak": 72
+    },
+    {
+      "ar": 2011,
+      "samisk_som_opplaeringsmalform": 855,
+      "nordsamisk_forstesprak": 895,
+      "nordsamisk_andresprak": 1092,
+      "lulesamisk_forstesprak": 25,
+      "lulesamisk_andresprak": 47,
+      "sorsamisk_forstesprak": 20,
+      "sorsamisk_andresprak": 74
+    },
+    {
+      "ar": 2012,
+      "samisk_som_opplaeringsmalform": 873,
+      "nordsamisk_forstesprak": 879,
+      "nordsamisk_andresprak": 1054,
+      "lulesamisk_forstesprak": 30,
+      "lulesamisk_andresprak": 68,
+      "sorsamisk_forstesprak": 21,
+      "sorsamisk_andresprak": 74
+    },
+    {
+      "ar": 2013,
+      "samisk_som_opplaeringsmalform": 822,
+      "nordsamisk_forstesprak": 877,
+      "nordsamisk_andresprak": 1070,
+      "lulesamisk_forstesprak": 19,
+      "lulesamisk_andresprak": 74,
+      "sorsamisk_forstesprak": 20,
+      "sorsamisk_andresprak": 66
+    },
+    {
+      "ar": 2014,
+      "samisk_som_opplaeringsmalform": 812,
+      "nordsamisk_forstesprak": 878,
+      "nordsamisk_andresprak": 1065,
+      "lulesamisk_forstesprak": 22,
+      "lulesamisk_andresprak": 77,
+      "sorsamisk_forstesprak": 15,
+      "sorsamisk_andresprak": 59
+    },
+    {
+      "ar": 2015,
+      "samisk_som_opplaeringsmalform": 833,
+      "nordsamisk_forstesprak": 833,
+      "nordsamisk_andresprak": 1102,
+      "lulesamisk_forstesprak": 28,
+      "lulesamisk_andresprak": 85,
+      "sorsamisk_forstesprak": 21,
+      "sorsamisk_andresprak": 95
+    },
+    {
+      "ar": 2016,
+      "samisk_som_opplaeringsmalform": 814,
+      "nordsamisk_forstesprak": 875,
+      "nordsamisk_andresprak": 1045,
+      "lulesamisk_forstesprak": 26,
+      "lulesamisk_andresprak": 78,
+      "sorsamisk_forstesprak": 26,
+      "sorsamisk_andresprak": 74
+    },
+    {
+      "ar": 2017,
+      "samisk_som_opplaeringsmalform": 849,
+      "nordsamisk_forstesprak": 870,
+      "nordsamisk_andresprak": 1179,
+      "lulesamisk_forstesprak": 34,
+      "lulesamisk_andresprak": 84,
+      "sorsamisk_forstesprak": 31,
+      "sorsamisk_andresprak": 70
+    },
+    {
+      "ar": 2018,
+      "samisk_som_opplaeringsmalform": 833,
+      "nordsamisk_forstesprak": 892,
+      "nordsamisk_andresprak": 1276,
+      "lulesamisk_forstesprak": 34,
+      "lulesamisk_andresprak": 81,
+      "sorsamisk_forstesprak": 26,
+      "sorsamisk_andresprak": 85
+    },
+    {
+      "ar": 2019,
+      "samisk_som_opplaeringsmalform": 857,
+      "nordsamisk_forstesprak": 893,
+      "nordsamisk_andresprak": 1288,
+      "lulesamisk_forstesprak": 33,
+      "lulesamisk_andresprak": 76,
+      "sorsamisk_forstesprak": 28,
+      "sorsamisk_andresprak": 82
+    },
+    {
+      "ar": 2020,
+      "samisk_som_opplaeringsmalform": 874,
+      "nordsamisk_forstesprak": 943,
+      "nordsamisk_andresprak": 1365,
+      "lulesamisk_forstesprak": 33,
+      "lulesamisk_andresprak": 80,
+      "sorsamisk_forstesprak": 35,
+      "sorsamisk_andresprak": 66
+    },
+    {
+      "ar": 2021,
+      "samisk_som_opplaeringsmalform": 878,
+      "nordsamisk_forstesprak": 951,
+      "nordsamisk_andresprak": 1326,
+      "lulesamisk_forstesprak": 33,
+      "lulesamisk_andresprak": 76,
+      "sorsamisk_forstesprak": 25,
+      "sorsamisk_andresprak": 81
+    },
+    {
+      "ar": 2022,
+      "samisk_som_opplaeringsmalform": 876,
+      "nordsamisk_forstesprak": 949,
+      "nordsamisk_andresprak": 1378,
+      "lulesamisk_forstesprak": 30,
+      "lulesamisk_andresprak": 84,
+      "sorsamisk_forstesprak": 15,
+      "sorsamisk_andresprak": 90
+    },
+    {
+      "ar": 2023,
+      "samisk_som_opplaeringsmalform": 904,
+      "nordsamisk_forstesprak": 983,
+      "nordsamisk_andresprak": 1498,
+      "lulesamisk_forstesprak": 32,
+      "lulesamisk_andresprak": 82,
+      "sorsamisk_forstesprak": 21,
+      "sorsamisk_andresprak": 146
+    },
+    {
+      "ar": 2024,
+      "samisk_som_opplaeringsmalform": 913,
+      "nordsamisk_forstesprak": 985,
+      "nordsamisk_andresprak": 1525,
+      "lulesamisk_forstesprak": 30,
+      "lulesamisk_andresprak": 88,
+      "sorsamisk_forstesprak": 22,
+      "sorsamisk_andresprak": 126
+    }
+  ],
+  "meta": {
+    "title": "Elever med samisk som første- og andrespråk i grunnskolen (2004–2024) - Free Download",
+    "description": "Antall grunnskoleelever i Norge med samisk som opplæringsmålform, og elever med nordsamisk, lulesamisk og sørsamisk som førstespråk og andrespråk, per skoleår (SSB, samisk statistikk, tabell 07587). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Elever med samisk som første- og andrespråk i grunnskolen (2004–2024) | ListBase",
+    "seo_description": "Download Elever med samisk som første- og andrespråk i grunnskolen (2004–2024) — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/07587"
+    ]
+  }
+}

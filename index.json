@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-24T02:22:16.620Z",
-  "total_datasets": 522,
-  "total_records": 1209817,
+  "generated": "2026-11-24T02:22:25.400Z",
+  "total_datasets": 523,
+  "total_records": 1209838,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "law",
@@ -5521,6 +5521,35 @@
         "xlsx": {
           "name": "no-elever-i-grunnskolen-etter-malform_NO.xlsx",
           "size": 7497
+        }
+      }
+    },
+    {
+      "id": "no-elever-med-samisk-i-grunnskolen",
+      "name": "Elever med samisk som første- og andrespråk i grunnskolen (2004–2024)",
+      "category": "language",
+      "record_count": 21,
+      "columns": [
+        "ar",
+        "samisk_som_opplaeringsmalform",
+        "nordsamisk_forstesprak",
+        "nordsamisk_andresprak",
+        "lulesamisk_forstesprak",
+        "lulesamisk_andresprak",
+        "sorsamisk_forstesprak",
+        "sorsamisk_andresprak"
+      ],
+      "source": "https://www.ssb.no/statbank/table/07587",
+      "updated": "2026-11",
+      "size": 8495,
+      "files": {
+        "csv": {
+          "name": "no-elever-med-samisk-i-grunnskolen_NO.csv",
+          "size": 1154
+        },
+        "xlsx": {
+          "name": "no-elever-med-samisk-i-grunnskolen_NO.xlsx",
+          "size": 7693
         }
       }
     },
