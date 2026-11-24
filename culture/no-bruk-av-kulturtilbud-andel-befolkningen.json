@@ -1,0 +1,240 @@
+{
+  "id": "no-bruk-av-kulturtilbud-andel-befolkningen",
+  "name": "Bruk av kulturtilbud: andel av befolkningen (1991–2025)",
+  "title": "Bruk av kulturtilbud: andel av befolkningen (1991–2025)",
+  "description": "Andel av befolkningen (9 år og eldre) i prosent som har brukt ulike kulturtilbud siste 12 måneder – kino, bibliotek, museum, kunstutstilling, konsert, festival, teater, opera, ballett, idrettsarrangement og tros- eller livssynsmøte – etter år (SSB, Norsk kulturbarometer, tabell 13503).",
+  "category": "culture",
+  "source": "https://www.ssb.no/statbank/table/13503",
+  "source_url": "https://www.ssb.no/statbank/table/13503",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "kino_pct",
+      "label": "Kino Pct",
+      "type": "number"
+    },
+    {
+      "key": "folkebibliotek_pct",
+      "label": "Folkebibliotek Pct",
+      "type": "number"
+    },
+    {
+      "key": "museum_pct",
+      "label": "Museum Pct",
+      "type": "number"
+    },
+    {
+      "key": "kunstutstilling_pct",
+      "label": "Kunstutstilling Pct",
+      "type": "number"
+    },
+    {
+      "key": "konsert_pct",
+      "label": "Konsert Pct",
+      "type": "number"
+    },
+    {
+      "key": "festival_pct",
+      "label": "Festival Pct",
+      "type": "number"
+    },
+    {
+      "key": "teater_musikal_revy_pct",
+      "label": "Teater Musikal Revy Pct",
+      "type": "number"
+    },
+    {
+      "key": "opera_pct",
+      "label": "Opera Pct",
+      "type": "number"
+    },
+    {
+      "key": "ballett_danseforestilling_pct",
+      "label": "Ballett Danseforestilling Pct",
+      "type": "number"
+    },
+    {
+      "key": "idrettsarrangement_pct",
+      "label": "Idrettsarrangement Pct",
+      "type": "number"
+    },
+    {
+      "key": "tro_eller_livssynsmote_pct",
+      "label": "Tro Eller Livssynsmote Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "ar": 1991,
+      "kino_pct": 58,
+      "folkebibliotek_pct": 49,
+      "museum_pct": 41,
+      "kunstutstilling_pct": 41,
+      "konsert_pct": 48,
+      "festival_pct": "",
+      "teater_musikal_revy_pct": 44,
+      "opera_pct": 5,
+      "ballett_danseforestilling_pct": 8,
+      "idrettsarrangement_pct": 57,
+      "tro_eller_livssynsmote_pct": ""
+    },
+    {
+      "ar": 1994,
+      "kino_pct": 61,
+      "folkebibliotek_pct": 51,
+      "museum_pct": 45,
+      "kunstutstilling_pct": 44,
+      "konsert_pct": 55,
+      "festival_pct": "",
+      "teater_musikal_revy_pct": 45,
+      "opera_pct": 5,
+      "ballett_danseforestilling_pct": 9,
+      "idrettsarrangement_pct": 59,
+      "tro_eller_livssynsmote_pct": 39
+    },
+    {
+      "ar": 1997,
+      "kino_pct": 60,
+      "folkebibliotek_pct": 52,
+      "museum_pct": 44,
+      "kunstutstilling_pct": 43,
+      "konsert_pct": 57,
+      "festival_pct": "",
+      "teater_musikal_revy_pct": 44,
+      "opera_pct": 6,
+      "ballett_danseforestilling_pct": 8,
+      "idrettsarrangement_pct": 54,
+      "tro_eller_livssynsmote_pct": 39
+    },
+    {
+      "ar": 2000,
+      "kino_pct": 65,
+      "folkebibliotek_pct": 52,
+      "museum_pct": 45,
+      "kunstutstilling_pct": 44,
+      "konsert_pct": 58,
+      "festival_pct": "",
+      "teater_musikal_revy_pct": 50,
+      "opera_pct": 6,
+      "ballett_danseforestilling_pct": 11,
+      "idrettsarrangement_pct": 57,
+      "tro_eller_livssynsmote_pct": 41
+    },
+    {
+      "ar": 2004,
+      "kino_pct": 68,
+      "folkebibliotek_pct": 54,
+      "museum_pct": 42,
+      "kunstutstilling_pct": 42,
+      "konsert_pct": 61,
+      "festival_pct": 28,
+      "teater_musikal_revy_pct": 49,
+      "opera_pct": 5,
+      "ballett_danseforestilling_pct": 12,
+      "idrettsarrangement_pct": 55,
+      "tro_eller_livssynsmote_pct": 40
+    },
+    {
+      "ar": 2008,
+      "kino_pct": 70,
+      "folkebibliotek_pct": 51,
+      "museum_pct": 43,
+      "kunstutstilling_pct": 42,
+      "konsert_pct": 62,
+      "festival_pct": 32,
+      "teater_musikal_revy_pct": 53,
+      "opera_pct": 7,
+      "ballett_danseforestilling_pct": 13,
+      "idrettsarrangement_pct": 56,
+      "tro_eller_livssynsmote_pct": 39
+    },
+    {
+      "ar": 2012,
+      "kino_pct": 67,
+      "folkebibliotek_pct": 49,
+      "museum_pct": 41,
+      "kunstutstilling_pct": 38,
+      "konsert_pct": 61,
+      "festival_pct": 31,
+      "teater_musikal_revy_pct": 45,
+      "opera_pct": 8,
+      "ballett_danseforestilling_pct": 14,
+      "idrettsarrangement_pct": 55,
+      "tro_eller_livssynsmote_pct": 34
+    },
+    {
+      "ar": 2016,
+      "kino_pct": 72,
+      "folkebibliotek_pct": 46,
+      "museum_pct": 44,
+      "kunstutstilling_pct": 36,
+      "konsert_pct": 62,
+      "festival_pct": 32,
+      "teater_musikal_revy_pct": 50,
+      "opera_pct": 8,
+      "ballett_danseforestilling_pct": 14,
+      "idrettsarrangement_pct": 55,
+      "tro_eller_livssynsmote_pct": 36
+    },
+    {
+      "ar": 2021,
+      "kino_pct": 40,
+      "folkebibliotek_pct": 37,
+      "museum_pct": 29,
+      "kunstutstilling_pct": 18,
+      "konsert_pct": 23,
+      "festival_pct": 8,
+      "teater_musikal_revy_pct": 16,
+      "opera_pct": 3,
+      "ballett_danseforestilling_pct": 5,
+      "idrettsarrangement_pct": 29,
+      "tro_eller_livssynsmote_pct": 19
+    },
+    {
+      "ar": 2023,
+      "kino_pct": 65,
+      "folkebibliotek_pct": 44,
+      "museum_pct": 45,
+      "kunstutstilling_pct": 25,
+      "konsert_pct": 58,
+      "festival_pct": 29,
+      "teater_musikal_revy_pct": 38,
+      "opera_pct": 7,
+      "ballett_danseforestilling_pct": 13,
+      "idrettsarrangement_pct": 48,
+      "tro_eller_livssynsmote_pct": 27
+    },
+    {
+      "ar": 2025,
+      "kino_pct": 62,
+      "folkebibliotek_pct": 49,
+      "museum_pct": 46,
+      "kunstutstilling_pct": 26,
+      "konsert_pct": 60,
+      "festival_pct": 32,
+      "teater_musikal_revy_pct": 37,
+      "opera_pct": 8,
+      "ballett_danseforestilling_pct": 14,
+      "idrettsarrangement_pct": 49,
+      "tro_eller_livssynsmote_pct": 28
+    }
+  ],
+  "meta": {
+    "title": "Bruk av kulturtilbud: andel av befolkningen (1991–2025) - Free Download",
+    "description": "Andel av befolkningen (9 år og eldre) i prosent som har brukt ulike kulturtilbud siste 12 måneder – kino, bibliotek, museum, kunstutstilling, konsert, festival, teater, opera, ballett, idrettsarrangement og tros- eller livssynsmøte – etter år (SSB, Norsk kulturbarometer, tabell 13503). Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Bruk av kulturtilbud: andel av befolkningen (1991–2025) | ListBase",
+    "seo_description": "Download Bruk av kulturtilbud: andel av befolkningen (1991–2025) — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/13503"
+    ]
+  }
+}

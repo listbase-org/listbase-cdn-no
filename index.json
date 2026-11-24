@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-23T02:39:23.740Z",
-  "total_datasets": 520,
-  "total_records": 1209782,
+  "generated": "2026-11-24T02:22:06.263Z",
+  "total_datasets": 521,
+  "total_records": 1209793,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 28
+      "dataset_count": 29
     },
     {
       "id": "economy",
@@ -428,6 +428,39 @@
         "xlsx": {
           "name": "no-bibliotek_NO.xlsx",
           "size": 30110
+        }
+      }
+    },
+    {
+      "id": "no-bruk-av-kulturtilbud-andel-befolkningen",
+      "name": "Bruk av kulturtilbud: andel av befolkningen (1991–2025)",
+      "category": "culture",
+      "record_count": 11,
+      "columns": [
+        "ar",
+        "kino_pct",
+        "folkebibliotek_pct",
+        "museum_pct",
+        "kunstutstilling_pct",
+        "konsert_pct",
+        "festival_pct",
+        "teater_musikal_revy_pct",
+        "opera_pct",
+        "ballett_danseforestilling_pct",
+        "idrettsarrangement_pct",
+        "tro_eller_livssynsmote_pct"
+      ],
+      "source": "https://www.ssb.no/statbank/table/13503",
+      "updated": "2026-11",
+      "size": 6964,
+      "files": {
+        "csv": {
+          "name": "no-bruk-av-kulturtilbud-andel-befolkningen_NO.csv",
+          "size": 883
+        },
+        "xlsx": {
+          "name": "no-bruk-av-kulturtilbud-andel-befolkningen_NO.xlsx",
+          "size": 7521
         }
       }
     },
