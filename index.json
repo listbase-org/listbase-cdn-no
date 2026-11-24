@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-24T02:22:06.263Z",
-  "total_datasets": 521,
-  "total_records": 1209793,
+  "generated": "2026-11-24T02:22:16.620Z",
+  "total_datasets": 522,
+  "total_records": 1209817,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -5495,6 +5495,32 @@
         "xlsx": {
           "name": "no-norges-konger_NO.xlsx",
           "size": 12830
+        }
+      }
+    },
+    {
+      "id": "no-elever-i-grunnskolen-etter-malform",
+      "name": "Elever i grunnskolen etter målform (2002–2025)",
+      "category": "language",
+      "record_count": 24,
+      "columns": [
+        "ar",
+        "bokmal",
+        "nynorsk",
+        "samisk",
+        "uoppgitt"
+      ],
+      "source": "https://www.ssb.no/statbank/table/03743",
+      "updated": "2026-11",
+      "size": 4649,
+      "files": {
+        "csv": {
+          "name": "no-elever-i-grunnskolen-etter-malform_NO.csv",
+          "size": 917
+        },
+        "xlsx": {
+          "name": "no-elever-i-grunnskolen-etter-malform_NO.xlsx",
+          "size": 7497
         }
       }
     },
