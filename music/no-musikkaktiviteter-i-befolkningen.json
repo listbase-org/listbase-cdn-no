@@ -1,0 +1,241 @@
+{
+  "id": "no-musikkaktiviteter-i-befolkningen",
+  "name": "Musikkaktiviteter i befolkningen: kor, korps, instrument (1991–2025)",
+  "title": "Musikkaktiviteter i befolkningen: kor, korps, instrument (1991–2025)",
+  "description": "Andel (prosent) av befolkningen 9–79 år som er med i kor/orkester, kan spille instrument, spiller regelmessig, har opptrådt med sang/musikk eller lager digital musikk, etter år (SSB, Norsk kulturbarometer, tabell 05301).",
+  "category": "music",
+  "source": "https://www.ssb.no/statbank/table/05301",
+  "source_url": "https://www.ssb.no/statbank/table/05301",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "aktivitet",
+      "label": "Aktivitet",
+      "type": "string"
+    },
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "andel_prosent",
+      "label": "Andel Prosent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 1991,
+      "andel_prosent": 9
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 1994,
+      "andel_prosent": 9
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 1997,
+      "andel_prosent": 8
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 2000,
+      "andel_prosent": 8
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 2004,
+      "andel_prosent": 8
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 2008,
+      "andel_prosent": 9
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 2012,
+      "andel_prosent": 7
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 2016,
+      "andel_prosent": 7
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 2021,
+      "andel_prosent": 6
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 2023,
+      "andel_prosent": 7
+    },
+    {
+      "aktivitet": "Med i kor/orkester el. lign.",
+      "ar": 2025,
+      "andel_prosent": 6
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 1991,
+      "andel_prosent": 37
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 1994,
+      "andel_prosent": 39
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 1997,
+      "andel_prosent": 35
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 2000,
+      "andel_prosent": 36
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 2004,
+      "andel_prosent": 36
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 2008,
+      "andel_prosent": 35
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 2012,
+      "andel_prosent": 37
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 2016,
+      "andel_prosent": 32
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 2021,
+      "andel_prosent": 19
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 2023,
+      "andel_prosent": 18
+    },
+    {
+      "aktivitet": "Kan spille instrument",
+      "ar": 2025,
+      "andel_prosent": 18
+    },
+    {
+      "aktivitet": "Lager digital musikk",
+      "ar": 2023,
+      "andel_prosent": 4
+    },
+    {
+      "aktivitet": "Lager digital musikk",
+      "ar": 2025,
+      "andel_prosent": 5
+    },
+    {
+      "aktivitet": "Spiller instrument regelmessig (-2016)",
+      "ar": 1991,
+      "andel_prosent": 13
+    },
+    {
+      "aktivitet": "Spiller instrument regelmessig (-2016)",
+      "ar": 1994,
+      "andel_prosent": 13
+    },
+    {
+      "aktivitet": "Spiller instrument regelmessig (-2016)",
+      "ar": 1997,
+      "andel_prosent": 11
+    },
+    {
+      "aktivitet": "Spiller instrument regelmessig (-2016)",
+      "ar": 2000,
+      "andel_prosent": 11
+    },
+    {
+      "aktivitet": "Spiller instrument regelmessig (-2016)",
+      "ar": 2004,
+      "andel_prosent": 13
+    },
+    {
+      "aktivitet": "Spiller instrument regelmessig (-2016)",
+      "ar": 2008,
+      "andel_prosent": 12
+    },
+    {
+      "aktivitet": "Spiller instrument regelmessig (-2016)",
+      "ar": 2012,
+      "andel_prosent": 11
+    },
+    {
+      "aktivitet": "Spiller instrument regelmessig (-2016)",
+      "ar": 2016,
+      "andel_prosent": 9
+    },
+    {
+      "aktivitet": "Opptrådt offentlig med sang/musikk siste 2 år (-2016)",
+      "ar": 1991,
+      "andel_prosent": 15
+    },
+    {
+      "aktivitet": "Opptrådt offentlig med sang/musikk siste 2 år (-2016)",
+      "ar": 1994,
+      "andel_prosent": 16
+    },
+    {
+      "aktivitet": "Opptrådt offentlig med sang/musikk siste 2 år (-2016)",
+      "ar": 1997,
+      "andel_prosent": 13
+    },
+    {
+      "aktivitet": "Opptrådt offentlig med sang/musikk siste 2 år (-2016)",
+      "ar": 2000,
+      "andel_prosent": 15
+    },
+    {
+      "aktivitet": "Opptrådt offentlig med sang/musikk siste 2 år (-2016)",
+      "ar": 2004,
+      "andel_prosent": 13
+    },
+    {
+      "aktivitet": "Opptrådt offentlig med sang/musikk siste 2 år (-2016)",
+      "ar": 2008,
+      "andel_prosent": 15
+    },
+    {
+      "aktivitet": "Opptrådt offentlig med sang/musikk siste 2 år (-2016)",
+      "ar": 2012,
+      "andel_prosent": 14
+    },
+    {
+      "aktivitet": "Opptrådt offentlig med sang/musikk siste 2 år (-2016)",
+      "ar": 2016,
+      "andel_prosent": 12
+    }
+  ],
+  "meta": {
+    "title": "Musikkaktiviteter i befolkningen: kor, korps, instrument (1991–2025) - Free Download",
+    "description": "Andel (prosent) av befolkningen 9–79 år som er med i kor/orkester, kan spille instrument, spiller regelmessig, har opptrådt med sang/musikk eller lager digital musikk, etter år (SSB, Norsk kulturbarometer, tabell 05301). Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Musikkaktiviteter i befolkningen: kor, korps, instrument (1991–2025) | ListBase",
+    "seo_description": "Download Musikkaktiviteter i befolkningen: kor, korps, instrument (1991–2025) — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/05301"
+    ]
+  }
+}

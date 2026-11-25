@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-25T02:13:24.914Z",
-  "total_datasets": 525,
-  "total_records": 1210291,
+  "generated": "2026-11-25T02:13:39.069Z",
+  "total_datasets": 526,
+  "total_records": 1210331,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -6064,6 +6064,30 @@
         "xlsx": {
           "name": "no-mgp-vinnerlater-pa-vg-lista_NO.xlsx",
           "size": 7394
+        }
+      }
+    },
+    {
+      "id": "no-musikkaktiviteter-i-befolkningen",
+      "name": "Musikkaktiviteter i befolkningen: kor, korps, instrument (1991–2025)",
+      "category": "music",
+      "record_count": 40,
+      "columns": [
+        "aktivitet",
+        "ar",
+        "andel_prosent"
+      ],
+      "source": "https://www.ssb.no/statbank/table/05301",
+      "updated": "2026-11",
+      "size": 6347,
+      "files": {
+        "csv": {
+          "name": "no-musikkaktiviteter-i-befolkningen_NO.csv",
+          "size": 1944
+        },
+        "xlsx": {
+          "name": "no-musikkaktiviteter-i-befolkningen_NO.xlsx",
+          "size": 7401
         }
       }
     },
