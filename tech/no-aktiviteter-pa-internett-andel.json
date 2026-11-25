@@ -1,0 +1,1356 @@
+{
+  "id": "no-aktiviteter-pa-internett-andel",
+  "name": "Aktiviteter på internett: andel av befolkningen 16–74 år (2005–2026)",
+  "title": "Aktiviteter på internett: andel av befolkningen 16–74 år (2005–2026)",
+  "description": "Andel (prosent) av befolkningen 16–74 år som har brukt internett til ulike aktiviteter de siste 3 månedene – e-post, nettbank, sosiale medier, strømming, nettsky m.m. – per år (SSB, tabell 06998).",
+  "category": "tech",
+  "source": "https://www.ssb.no/statbank/table/06998",
+  "source_url": "https://www.ssb.no/statbank/table/06998",
+  "updated": "2026-11",
+  "record_count": 263,
+  "columns": [
+    {
+      "key": "aktivitet",
+      "label": "Aktivitet",
+      "type": "string"
+    },
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "andel_prosent",
+      "label": "Andel Prosent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aktivitet": "Andre helsetjenester",
+      "ar": 2020,
+      "andel_prosent": 29
+    },
+    {
+      "aktivitet": "Andre helsetjenester",
+      "ar": 2022,
+      "andel_prosent": 44
+    },
+    {
+      "aktivitet": "Andre helsetjenester",
+      "ar": 2024,
+      "andel_prosent": 64
+    },
+    {
+      "aktivitet": "Andre helsetjenester",
+      "ar": 2026,
+      "andel_prosent": 60
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2005,
+      "andel_prosent": 62
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2006,
+      "andel_prosent": 67
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2007,
+      "andel_prosent": 71
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2009,
+      "andel_prosent": 77
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2010,
+      "andel_prosent": 83
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2011,
+      "andel_prosent": 85
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2012,
+      "andel_prosent": 86
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2013,
+      "andel_prosent": 87
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2014,
+      "andel_prosent": 89
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2015,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2016,
+      "andel_prosent": 91
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2017,
+      "andel_prosent": 92
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2018,
+      "andel_prosent": 93
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2019,
+      "andel_prosent": 95
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2020,
+      "andel_prosent": 94
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2021,
+      "andel_prosent": 96
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2022,
+      "andel_prosent": 96
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2023,
+      "andel_prosent": 97
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2024,
+      "andel_prosent": 97
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2025,
+      "andel_prosent": 97
+    },
+    {
+      "aktivitet": "Banktjenester",
+      "ar": 2026,
+      "andel_prosent": 97
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2005,
+      "andel_prosent": 68
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2006,
+      "andel_prosent": 72
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2007,
+      "andel_prosent": 76
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2009,
+      "andel_prosent": 84
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2010,
+      "andel_prosent": 85
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2012,
+      "andel_prosent": 89
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2013,
+      "andel_prosent": 88
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2014,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2015,
+      "andel_prosent": 91
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2016,
+      "andel_prosent": 92
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2017,
+      "andel_prosent": 93
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2018,
+      "andel_prosent": 94
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2019,
+      "andel_prosent": 94
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2020,
+      "andel_prosent": 94
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2021,
+      "andel_prosent": 97
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2022,
+      "andel_prosent": 95
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2023,
+      "andel_prosent": 96
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2024,
+      "andel_prosent": 96
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2025,
+      "andel_prosent": 97
+    },
+    {
+      "aktivitet": "E-post",
+      "ar": 2026,
+      "andel_prosent": 95
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2005,
+      "andel_prosent": 47
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2006,
+      "andel_prosent": 51
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2007,
+      "andel_prosent": 55
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2009,
+      "andel_prosent": 47
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2010,
+      "andel_prosent": 63
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2011,
+      "andel_prosent": 60
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2012,
+      "andel_prosent": 56
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2013,
+      "andel_prosent": 61
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2014,
+      "andel_prosent": 57
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2015,
+      "andel_prosent": 62
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2016,
+      "andel_prosent": 61
+    },
+    {
+      "aktivitet": "Tjenester i forbindelse med reise og opphold",
+      "ar": 2017,
+      "andel_prosent": 57
+    },
+    {
+      "aktivitet": "Å abonnere på aviser/magasiner",
+      "ar": 2009,
+      "andel_prosent": 6
+    },
+    {
+      "aktivitet": "Å abonnere på aviser/magasiner",
+      "ar": 2010,
+      "andel_prosent": 6
+    },
+    {
+      "aktivitet": "Å abonnere på aviser/magasiner",
+      "ar": 2011,
+      "andel_prosent": 8
+    },
+    {
+      "aktivitet": "Å avtale time hos lege",
+      "ar": 2016,
+      "andel_prosent": 25
+    },
+    {
+      "aktivitet": "Å avtale time hos lege",
+      "ar": 2018,
+      "andel_prosent": 29
+    },
+    {
+      "aktivitet": "Å avtale time hos lege",
+      "ar": 2020,
+      "andel_prosent": 33
+    },
+    {
+      "aktivitet": "Å avtale time hos lege",
+      "ar": 2022,
+      "andel_prosent": 52
+    },
+    {
+      "aktivitet": "Å avtale time hos lege",
+      "ar": 2024,
+      "andel_prosent": 61
+    },
+    {
+      "aktivitet": "Å avtale time hos lege",
+      "ar": 2026,
+      "andel_prosent": 56
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2015,
+      "andel_prosent": 73
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2016,
+      "andel_prosent": 76
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2017,
+      "andel_prosent": 83
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2018,
+      "andel_prosent": 82
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2019,
+      "andel_prosent": 86
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2020,
+      "andel_prosent": 88
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2021,
+      "andel_prosent": 88
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2022,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2023,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2024,
+      "andel_prosent": 91
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2025,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "Å delta i sosiale nettverk",
+      "ar": 2026,
+      "andel_prosent": 89
+    },
+    {
+      "aktivitet": "Å få tilgang på personlige helseopplysninger",
+      "ar": 2020,
+      "andel_prosent": 42
+    },
+    {
+      "aktivitet": "Å få tilgang på personlige helseopplysninger",
+      "ar": 2022,
+      "andel_prosent": 78
+    },
+    {
+      "aktivitet": "Å få tilgang på personlige helseopplysninger",
+      "ar": 2024,
+      "andel_prosent": 33
+    },
+    {
+      "aktivitet": "Å få tilgang på personlige helseopplysninger",
+      "ar": 2026,
+      "andel_prosent": 28
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2015,
+      "andel_prosent": 45
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2016,
+      "andel_prosent": 47
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2017,
+      "andel_prosent": 53
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2018,
+      "andel_prosent": 56
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2019,
+      "andel_prosent": 64
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2020,
+      "andel_prosent": 79
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2021,
+      "andel_prosent": 83
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2022,
+      "andel_prosent": 81
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2023,
+      "andel_prosent": 79
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2024,
+      "andel_prosent": 80
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2025,
+      "andel_prosent": 84
+    },
+    {
+      "aktivitet": "Å ha videosamtaler eller å ringe",
+      "ar": 2026,
+      "andel_prosent": 80
+    },
+    {
+      "aktivitet": "Å høre på eller laste ned podkaster",
+      "ar": 2022,
+      "andel_prosent": 51
+    },
+    {
+      "aktivitet": "Å høre på eller laste ned podkaster",
+      "ar": 2024,
+      "andel_prosent": 54
+    },
+    {
+      "aktivitet": "Å høre på eller laste ned podkaster",
+      "ar": 2026,
+      "andel_prosent": 54
+    },
+    {
+      "aktivitet": "Å høre på musikk fra nettradio eller strømmetjenester",
+      "ar": 2016,
+      "andel_prosent": 66
+    },
+    {
+      "aktivitet": "Å høre på musikk fra nettradio eller strømmetjenester",
+      "ar": 2018,
+      "andel_prosent": 70
+    },
+    {
+      "aktivitet": "Å høre på musikk fra nettradio eller strømmetjenester",
+      "ar": 2019,
+      "andel_prosent": 78
+    },
+    {
+      "aktivitet": "Å høre på musikk fra nettradio eller strømmetjenester",
+      "ar": 2020,
+      "andel_prosent": 80
+    },
+    {
+      "aktivitet": "Å høre på musikk fra nettradio eller strømmetjenester",
+      "ar": 2022,
+      "andel_prosent": 84
+    },
+    {
+      "aktivitet": "Å høre på musikk fra nettradio eller strømmetjenester",
+      "ar": 2024,
+      "andel_prosent": 82
+    },
+    {
+      "aktivitet": "Å høre på musikk fra nettradio eller strømmetjenester",
+      "ar": 2026,
+      "andel_prosent": 86
+    },
+    {
+      "aktivitet": "Å lagre filer i nettsky",
+      "ar": 2015,
+      "andel_prosent": 48
+    },
+    {
+      "aktivitet": "Å lagre filer i nettsky",
+      "ar": 2016,
+      "andel_prosent": 45
+    },
+    {
+      "aktivitet": "Å lagre filer i nettsky",
+      "ar": 2017,
+      "andel_prosent": 50
+    },
+    {
+      "aktivitet": "Å lagre filer i nettsky",
+      "ar": 2018,
+      "andel_prosent": 55
+    },
+    {
+      "aktivitet": "Å lagre filer i nettsky",
+      "ar": 2019,
+      "andel_prosent": 56
+    },
+    {
+      "aktivitet": "Å lagre filer i nettsky",
+      "ar": 2020,
+      "andel_prosent": 54
+    },
+    {
+      "aktivitet": "Å laste ned programvare",
+      "ar": 2005,
+      "andel_prosent": 25
+    },
+    {
+      "aktivitet": "Å laste ned programvare",
+      "ar": 2006,
+      "andel_prosent": 31
+    },
+    {
+      "aktivitet": "Å laste ned programvare",
+      "ar": 2007,
+      "andel_prosent": 34
+    },
+    {
+      "aktivitet": "Å laste ned programvare",
+      "ar": 2009,
+      "andel_prosent": 43
+    },
+    {
+      "aktivitet": "Å laste ned programvare",
+      "ar": 2010,
+      "andel_prosent": 46
+    },
+    {
+      "aktivitet": "Å laste ned programvare",
+      "ar": 2011,
+      "andel_prosent": 44
+    },
+    {
+      "aktivitet": "Å laste ned programvare",
+      "ar": 2013,
+      "andel_prosent": 46
+    },
+    {
+      "aktivitet": "Å laste ned programvare",
+      "ar": 2015,
+      "andel_prosent": 41
+    },
+    {
+      "aktivitet": "Å laste opp egenprodusert innhold",
+      "ar": 2019,
+      "andel_prosent": 44
+    },
+    {
+      "aktivitet": "Å laste opp egenprodusert innhold",
+      "ar": 2020,
+      "andel_prosent": 52
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2005,
+      "andel_prosent": 60
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2006,
+      "andel_prosent": 65
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2009,
+      "andel_prosent": 76
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2010,
+      "andel_prosent": 78
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2011,
+      "andel_prosent": 79
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2012,
+      "andel_prosent": 85
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2013,
+      "andel_prosent": 87
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2014,
+      "andel_prosent": 89
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2015,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2016,
+      "andel_prosent": 92
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2017,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2019,
+      "andel_prosent": 91
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2020,
+      "andel_prosent": 93
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2021,
+      "andel_prosent": 94
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2022,
+      "andel_prosent": 94
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2023,
+      "andel_prosent": 93
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2024,
+      "andel_prosent": 93
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2025,
+      "andel_prosent": 93
+    },
+    {
+      "aktivitet": "Å lese/laste ned aviser/magasiner",
+      "ar": 2026,
+      "andel_prosent": 93
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2005,
+      "andel_prosent": 18
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2006,
+      "andel_prosent": 22
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2007,
+      "andel_prosent": 22
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2009,
+      "andel_prosent": 22
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2010,
+      "andel_prosent": 22
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2011,
+      "andel_prosent": 30
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2013,
+      "andel_prosent": 27
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2015,
+      "andel_prosent": 29
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2017,
+      "andel_prosent": 26
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2019,
+      "andel_prosent": 26
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2021,
+      "andel_prosent": 30
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2023,
+      "andel_prosent": 30
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2025,
+      "andel_prosent": 33
+    },
+    {
+      "aktivitet": "Å se etter/søke jobber",
+      "ar": 2026,
+      "andel_prosent": 31
+    },
+    {
+      "aktivitet": "Å se på filmer eller serier fra bestillingstjenester",
+      "ar": 2016,
+      "andel_prosent": 52
+    },
+    {
+      "aktivitet": "Å se på filmer eller serier fra bestillingstjenester",
+      "ar": 2018,
+      "andel_prosent": 59
+    },
+    {
+      "aktivitet": "Å se på filmer eller serier fra bestillingstjenester",
+      "ar": 2020,
+      "andel_prosent": 74
+    },
+    {
+      "aktivitet": "Å se på filmer eller serier fra bestillingstjenester",
+      "ar": 2022,
+      "andel_prosent": 79
+    },
+    {
+      "aktivitet": "Å se på filmer eller serier fra bestillingstjenester",
+      "ar": 2024,
+      "andel_prosent": 78
+    },
+    {
+      "aktivitet": "Å se på filmer eller serier fra bestillingstjenester",
+      "ar": 2026,
+      "andel_prosent": 81
+    },
+    {
+      "aktivitet": "Å se på tv over internett fra kringkastingsselskap",
+      "ar": 2016,
+      "andel_prosent": 60
+    },
+    {
+      "aktivitet": "Å se på tv over internett fra kringkastingsselskap",
+      "ar": 2018,
+      "andel_prosent": 64
+    },
+    {
+      "aktivitet": "Å se på tv over internett fra kringkastingsselskap",
+      "ar": 2020,
+      "andel_prosent": 78
+    },
+    {
+      "aktivitet": "Å se på tv over internett fra kringkastingsselskap",
+      "ar": 2022,
+      "andel_prosent": 83
+    },
+    {
+      "aktivitet": "Å se på tv over internett fra kringkastingsselskap",
+      "ar": 2024,
+      "andel_prosent": 82
+    },
+    {
+      "aktivitet": "Å se på tv over internett fra kringkastingsselskap",
+      "ar": 2026,
+      "andel_prosent": 83
+    },
+    {
+      "aktivitet": "Å se på video fra delingstjenester",
+      "ar": 2016,
+      "andel_prosent": 72
+    },
+    {
+      "aktivitet": "Å se på video fra delingstjenester",
+      "ar": 2018,
+      "andel_prosent": 77
+    },
+    {
+      "aktivitet": "Å se på video fra delingstjenester",
+      "ar": 2020,
+      "andel_prosent": 80
+    },
+    {
+      "aktivitet": "Å se på video fra delingstjenester",
+      "ar": 2022,
+      "andel_prosent": 80
+    },
+    {
+      "aktivitet": "Å se på video fra delingstjenester",
+      "ar": 2024,
+      "andel_prosent": 77
+    },
+    {
+      "aktivitet": "Å se på video fra delingstjenester",
+      "ar": 2026,
+      "andel_prosent": 82
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2005,
+      "andel_prosent": 6
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2006,
+      "andel_prosent": 10
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2007,
+      "andel_prosent": 8
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2009,
+      "andel_prosent": 11
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2010,
+      "andel_prosent": 14
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2011,
+      "andel_prosent": 24
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2012,
+      "andel_prosent": 28
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2013,
+      "andel_prosent": 28
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2014,
+      "andel_prosent": 26
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2015,
+      "andel_prosent": 29
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2016,
+      "andel_prosent": 30
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2017,
+      "andel_prosent": 32
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2018,
+      "andel_prosent": 32
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2019,
+      "andel_prosent": 33
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2020,
+      "andel_prosent": 32
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2021,
+      "andel_prosent": 39
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2022,
+      "andel_prosent": 37
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2023,
+      "andel_prosent": 41
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2024,
+      "andel_prosent": 43
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2025,
+      "andel_prosent": 44
+    },
+    {
+      "aktivitet": "Å selge varer/tjenester",
+      "ar": 2026,
+      "andel_prosent": 40
+    },
+    {
+      "aktivitet": "Å sende direktemeldinger",
+      "ar": 2019,
+      "andel_prosent": 81
+    },
+    {
+      "aktivitet": "Å sende direktemeldinger",
+      "ar": 2020,
+      "andel_prosent": 88
+    },
+    {
+      "aktivitet": "Å sende direktemeldinger",
+      "ar": 2021,
+      "andel_prosent": 89
+    },
+    {
+      "aktivitet": "Å sende direktemeldinger",
+      "ar": 2022,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "Å sende direktemeldinger",
+      "ar": 2023,
+      "andel_prosent": 91
+    },
+    {
+      "aktivitet": "Å sende direktemeldinger",
+      "ar": 2024,
+      "andel_prosent": 92
+    },
+    {
+      "aktivitet": "Å sende direktemeldinger",
+      "ar": 2025,
+      "andel_prosent": 92
+    },
+    {
+      "aktivitet": "Å sende direktemeldinger",
+      "ar": 2026,
+      "andel_prosent": 92
+    },
+    {
+      "aktivitet": "Å spille eller laste ned spill",
+      "ar": 2016,
+      "andel_prosent": 33
+    },
+    {
+      "aktivitet": "Å spille eller laste ned spill",
+      "ar": 2018,
+      "andel_prosent": 31
+    },
+    {
+      "aktivitet": "Å spille eller laste ned spill",
+      "ar": 2020,
+      "andel_prosent": 36
+    },
+    {
+      "aktivitet": "Å spille eller laste ned spill",
+      "ar": 2022,
+      "andel_prosent": 43
+    },
+    {
+      "aktivitet": "Å spille eller laste ned spill",
+      "ar": 2024,
+      "andel_prosent": 45
+    },
+    {
+      "aktivitet": "Å spille eller laste ned spill",
+      "ar": 2026,
+      "andel_prosent": 49
+    },
+    {
+      "aktivitet": "Å styre husholdningsapparater (f. eks. termostat, lyspærer e.l.)",
+      "ar": 2019,
+      "andel_prosent": 19
+    },
+    {
+      "aktivitet": "Å styre husholdningsapparater (f. eks. termostat, lyspærer e.l.)",
+      "ar": 2020,
+      "andel_prosent": 42
+    },
+    {
+      "aktivitet": "Å styre husholdningsapparater (f. eks. termostat, lyspærer e.l.)",
+      "ar": 2022,
+      "andel_prosent": 49
+    },
+    {
+      "aktivitet": "Å styre husholdningsapparater (f. eks. termostat, lyspærer e.l.)",
+      "ar": 2024,
+      "andel_prosent": 52
+    },
+    {
+      "aktivitet": "Å styre husholdningsapparater (f. eks. termostat, lyspærer e.l.)",
+      "ar": 2026,
+      "andel_prosent": 62
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2005,
+      "andel_prosent": 26
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2006,
+      "andel_prosent": 34
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2007,
+      "andel_prosent": 37
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2009,
+      "andel_prosent": 40
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2010,
+      "andel_prosent": 47
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2011,
+      "andel_prosent": 52
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2013,
+      "andel_prosent": 54
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2015,
+      "andel_prosent": 64
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2016,
+      "andel_prosent": 61
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2017,
+      "andel_prosent": 63
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2018,
+      "andel_prosent": 66
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2019,
+      "andel_prosent": 69
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2020,
+      "andel_prosent": 74
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2021,
+      "andel_prosent": 77
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2022,
+      "andel_prosent": 76
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2023,
+      "andel_prosent": 75
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2024,
+      "andel_prosent": 76
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2025,
+      "andel_prosent": 75
+    },
+    {
+      "aktivitet": "Å søke etter helserelatert informasjon",
+      "ar": 2026,
+      "andel_prosent": 75
+    },
+    {
+      "aktivitet": "Å søke etter informasjon om utdanning",
+      "ar": 2007,
+      "andel_prosent": 31
+    },
+    {
+      "aktivitet": "Å søke etter informasjon om utdanning",
+      "ar": 2009,
+      "andel_prosent": 33
+    },
+    {
+      "aktivitet": "Å søke etter informasjon om utdanning",
+      "ar": 2010,
+      "andel_prosent": 32
+    },
+    {
+      "aktivitet": "Å søke etter informasjon om utdanning",
+      "ar": 2011,
+      "andel_prosent": 42
+    },
+    {
+      "aktivitet": "Å søke etter informasjon om utdanning",
+      "ar": 2013,
+      "andel_prosent": 40
+    },
+    {
+      "aktivitet": "Å søke etter informasjon om utdanning",
+      "ar": 2015,
+      "andel_prosent": 47
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2005,
+      "andel_prosent": 67
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2006,
+      "andel_prosent": 74
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2007,
+      "andel_prosent": 76
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2009,
+      "andel_prosent": 83
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2010,
+      "andel_prosent": 82
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2011,
+      "andel_prosent": 78
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2012,
+      "andel_prosent": 88
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2013,
+      "andel_prosent": 79
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2014,
+      "andel_prosent": 88
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2015,
+      "andel_prosent": 82
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2016,
+      "andel_prosent": 88
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2017,
+      "andel_prosent": 83
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2018,
+      "andel_prosent": 91
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2019,
+      "andel_prosent": 90
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2020,
+      "andel_prosent": 91
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2021,
+      "andel_prosent": 93
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2022,
+      "andel_prosent": 96
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2023,
+      "andel_prosent": 95
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2024,
+      "andel_prosent": 95
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2025,
+      "andel_prosent": 96
+    },
+    {
+      "aktivitet": "Å søke info om varer/tjenester",
+      "ar": 2026,
+      "andel_prosent": 96
+    },
+    {
+      "aktivitet": "Å tilegne seg bestemt kunnskap",
+      "ar": 2007,
+      "andel_prosent": 46
+    },
+    {
+      "aktivitet": "Å tilegne seg bestemt kunnskap",
+      "ar": 2009,
+      "andel_prosent": 51
+    },
+    {
+      "aktivitet": "Å tilegne seg bestemt kunnskap",
+      "ar": 2010,
+      "andel_prosent": 57
+    },
+    {
+      "aktivitet": "Å tilegne seg bestemt kunnskap",
+      "ar": 2011,
+      "andel_prosent": 70
+    },
+    {
+      "aktivitet": "Å tilegne seg bestemt kunnskap",
+      "ar": 2013,
+      "andel_prosent": 69
+    },
+    {
+      "aktivitet": "Å tilegne seg bestemt kunnskap",
+      "ar": 2015,
+      "andel_prosent": 73
+    }
+  ],
+  "meta": {
+    "title": "Aktiviteter på internett: andel av befolkningen 16–74 år (2005–2026) - Free Download",
+    "description": "Andel (prosent) av befolkningen 16–74 år som har brukt internett til ulike aktiviteter de siste 3 månedene – e-post, nettbank, sosiale medier, strømming, nettsky m.m. – per år (SSB, tabell 06998). Contains 263 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Aktiviteter på internett: andel av befolkningen 16–74 år (2005–2026) | ListBase",
+    "seo_description": "Download Aktiviteter på internett: andel av befolkningen 16–74 år (2005–2026) — 263 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 263 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/06998"
+    ]
+  }
+}

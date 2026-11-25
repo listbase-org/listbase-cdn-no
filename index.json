@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-24T02:22:25.400Z",
-  "total_datasets": 523,
-  "total_records": 1209838,
+  "generated": "2026-11-25T02:13:16.462Z",
+  "total_datasets": 524,
+  "total_records": 1210101,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -13428,6 +13428,30 @@
         "xlsx": {
           "name": "no-uefa-mesterligaen-kamper_NO.xlsx",
           "size": 146534
+        }
+      }
+    },
+    {
+      "id": "no-aktiviteter-pa-internett-andel",
+      "name": "Aktiviteter på internett: andel av befolkningen 16–74 år (2005–2026)",
+      "category": "tech",
+      "record_count": 263,
+      "columns": [
+        "aktivitet",
+        "ar",
+        "andel_prosent"
+      ],
+      "source": "https://www.ssb.no/statbank/table/06998",
+      "updated": "2026-11",
+      "size": 30834,
+      "files": {
+        "csv": {
+          "name": "no-aktiviteter-pa-internett-andel_NO.csv",
+          "size": 11953
+        },
+        "xlsx": {
+          "name": "no-aktiviteter-pa-internett-andel_NO.xlsx",
+          "size": 11203
         }
       }
     },
