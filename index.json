@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-25T02:13:16.462Z",
-  "total_datasets": 524,
-  "total_records": 1210101,
+  "generated": "2026-11-25T02:13:24.914Z",
+  "total_datasets": 525,
+  "total_records": 1210291,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -5314,6 +5314,33 @@
         "xlsx": {
           "name": "no-sykehus_NO.xlsx",
           "size": 11643
+        }
+      }
+    },
+    {
+      "id": "no-befolkningsutvikling-utvandring-1836-2025",
+      "name": "Befolkningsutvikling og utvandring i Norge 1836–2025",
+      "category": "history",
+      "record_count": 190,
+      "columns": [
+        "ar",
+        "befolkning_1_januar",
+        "inngatte_ekteskap",
+        "utflyttinger_utvandrede",
+        "folketilvekst",
+        "folketilvekst_pct"
+      ],
+      "source": "https://www.ssb.no/statbank/table/05803",
+      "updated": "2026-11",
+      "size": 40792,
+      "files": {
+        "csv": {
+          "name": "no-befolkningsutvikling-utvandring-1836-2025_NO.csv",
+          "size": 9052
+        },
+        "xlsx": {
+          "name": "no-befolkningsutvikling-utvandring-1836-2025_NO.xlsx",
+          "size": 14121
         }
       }
     },
