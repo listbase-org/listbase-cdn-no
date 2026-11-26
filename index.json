@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-26T02:19:14.988Z",
-  "total_datasets": 528,
-  "total_records": 1210432,
+  "generated": "2026-11-26T02:20:19.906Z",
+  "total_datasets": 529,
+  "total_records": 1210704,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -3511,6 +3511,31 @@
         "xlsx": {
           "name": "no-bryggerier_NO.xlsx",
           "size": 20621
+        }
+      }
+    },
+    {
+      "id": "no-eksport-av-fisk-etter-fiskeslag",
+      "name": "Norsk eksport av fisk og sjømat etter fiskeslag (2007–2025)",
+      "category": "food",
+      "record_count": 272,
+      "columns": [
+        "fiskeslag",
+        "ar",
+        "verdi_mill_kr",
+        "mengde_tonn"
+      ],
+      "source": "https://www.ssb.no/statbank/table/09283",
+      "updated": "2026-11",
+      "size": 35334,
+      "files": {
+        "csv": {
+          "name": "no-eksport-av-fisk-etter-fiskeslag_NO.csv",
+          "size": 10329
+        },
+        "xlsx": {
+          "name": "no-eksport-av-fisk-etter-fiskeslag_NO.xlsx",
+          "size": 13086
         }
       }
     },
