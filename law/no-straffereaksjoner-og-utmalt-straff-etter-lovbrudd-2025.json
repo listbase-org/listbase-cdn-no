@@ -1,0 +1,610 @@
+{
+  "id": "no-straffereaksjoner-og-utmalt-straff-etter-lovbrudd-2025",
+  "name": "Straffereaksjoner og utmålt straff etter type lovbrudd (2025)",
+  "title": "Straffereaksjoner og utmålt straff etter type lovbrudd (2025)",
+  "description": "Antall straffereaksjoner i Norge i 2025 etter hovedlovbruddstype, med antall reaksjoner med fengselsstraff (inkl. subsidiær fengsel ved bøter) og bøtestraff, gjennomsnittlig og median fengselsstraff (dager) og gjennomsnittlig og median bot (kr) Tom verdi = ikke relevant/ikke publisert (SSB, tabell 14356).",
+  "category": "law",
+  "source": "https://www.ssb.no/statbank/table/14356",
+  "source_url": "https://www.ssb.no/statbank/table/14356",
+  "updated": "2026-11",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "lovbruddstype",
+      "label": "Lovbruddstype",
+      "type": "string"
+    },
+    {
+      "key": "niva",
+      "label": "Niva",
+      "type": "string"
+    },
+    {
+      "key": "straffereaksjoner",
+      "label": "Straffereaksjoner",
+      "type": "number"
+    },
+    {
+      "key": "med_fengselsstraff_inkl_subsidiaer",
+      "label": "Med Fengselsstraff Inkl Subsidiaer",
+      "type": "number"
+    },
+    {
+      "key": "med_botestraff",
+      "label": "Med Botestraff",
+      "type": "number"
+    },
+    {
+      "key": "gjennomsnitt_fengsel_dager_inkl_subsidiaer",
+      "label": "Gjennomsnitt Fengsel Dager Inkl Subsidiaer",
+      "type": "number"
+    },
+    {
+      "key": "gjennomsnitt_bot_kr",
+      "label": "Gjennomsnitt Bot Kr",
+      "type": "number"
+    },
+    {
+      "key": "median_fengsel_dager_inkl_subsidiaer",
+      "label": "Median Fengsel Dager Inkl Subsidiaer",
+      "type": "number"
+    },
+    {
+      "key": "median_bot_kr",
+      "label": "Median Bot Kr",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "lovbruddstype": "Alle lovbruddstyper",
+      "niva": "i alt",
+      "straffereaksjoner": 266871,
+      "med_fengselsstraff_inkl_subsidiaer": 255529,
+      "med_botestraff": 250796,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 13.8,
+      "gjennomsnitt_bot_kr": 6527,
+      "median_fengsel_dager_inkl_subsidiaer": 5,
+      "median_bot_kr": 5200
+    },
+    {
+      "lovbruddstype": "Eiendomstyveri",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 5251,
+      "med_fengselsstraff_inkl_subsidiaer": 2825,
+      "med_botestraff": 2533,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 35.2,
+      "gjennomsnitt_bot_kr": 7201,
+      "median_fengsel_dager_inkl_subsidiaer": 8,
+      "median_bot_kr": 5000
+    },
+    {
+      "lovbruddstype": "Tyveri, i alt",
+      "niva": "undergruppe",
+      "straffereaksjoner": 5235,
+      "med_fengselsstraff_inkl_subsidiaer": 2819,
+      "med_botestraff": 2527,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 35.2,
+      "gjennomsnitt_bot_kr": 7211,
+      "median_fengsel_dager_inkl_subsidiaer": 8,
+      "median_bot_kr": 5000
+    },
+    {
+      "lovbruddstype": "Annen bruk og besittelse av andres eiendel",
+      "niva": "undergruppe",
+      "straffereaksjoner": 16,
+      "med_fengselsstraff_inkl_subsidiaer": 6,
+      "med_botestraff": 6,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 2.8,
+      "gjennomsnitt_bot_kr": 2833,
+      "median_fengsel_dager_inkl_subsidiaer": 2,
+      "median_bot_kr": 2000
+    },
+    {
+      "lovbruddstype": "Annet vinningslovbrudd",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 18743,
+      "med_fengselsstraff_inkl_subsidiaer": 18386,
+      "med_botestraff": 17431,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 12.9,
+      "gjennomsnitt_bot_kr": 2908,
+      "median_fengsel_dager_inkl_subsidiaer": 2,
+      "median_bot_kr": 800
+    },
+    {
+      "lovbruddstype": "Heleri og hvitvasking",
+      "niva": "undergruppe",
+      "straffereaksjoner": 511,
+      "med_fengselsstraff_inkl_subsidiaer": 455,
+      "med_botestraff": 159,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 124.2,
+      "gjennomsnitt_bot_kr": 17508,
+      "median_fengsel_dager_inkl_subsidiaer": 60,
+      "median_bot_kr": 12000
+    },
+    {
+      "lovbruddstype": "Bedrageri, i alt",
+      "niva": "undergruppe",
+      "straffereaksjoner": 1087,
+      "med_fengselsstraff_inkl_subsidiaer": 934,
+      "med_botestraff": 446,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 81.8,
+      "gjennomsnitt_bot_kr": 11109,
+      "median_fengsel_dager_inkl_subsidiaer": 24,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Underslag, i alt",
+      "niva": "undergruppe",
+      "straffereaksjoner": 279,
+      "med_fengselsstraff_inkl_subsidiaer": 220,
+      "med_botestraff": 122,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 87.3,
+      "gjennomsnitt_bot_kr": 15025,
+      "median_fengsel_dager_inkl_subsidiaer": 23,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Økonomisk utroskap",
+      "niva": "undergruppe",
+      "straffereaksjoner": 25,
+      "med_fengselsstraff_inkl_subsidiaer": 24,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 614.2,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 510,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Regnskapsovertredelse",
+      "niva": "undergruppe",
+      "straffereaksjoner": 190,
+      "med_fengselsstraff_inkl_subsidiaer": 156,
+      "med_botestraff": 120,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 95.2,
+      "gjennomsnitt_bot_kr": 53272,
+      "median_fengsel_dager_inkl_subsidiaer": 25,
+      "median_bot_kr": 20000
+    },
+    {
+      "lovbruddstype": "Kreditorrelatert lovbrudd",
+      "niva": "undergruppe",
+      "straffereaksjoner": 11,
+      "med_fengselsstraff_inkl_subsidiaer": 10,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 165,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 90,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Skatt og avgift",
+      "niva": "undergruppe",
+      "straffereaksjoner": 97,
+      "med_fengselsstraff_inkl_subsidiaer": 95,
+      "med_botestraff": 76,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 143.5,
+      "gjennomsnitt_bot_kr": 55106,
+      "median_fengsel_dager_inkl_subsidiaer": 75,
+      "median_bot_kr": 30000
+    },
+    {
+      "lovbruddstype": "Tollover",
+      "niva": "undergruppe",
+      "straffereaksjoner": 16507,
+      "med_fengselsstraff_inkl_subsidiaer": 16468,
+      "med_botestraff": 16477,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 2.4,
+      "gjennomsnitt_bot_kr": 1681,
+      "median_fengsel_dager_inkl_subsidiaer": 2,
+      "median_bot_kr": 800
+    },
+    {
+      "lovbruddstype": "Annet næringslivs- og økonomilovbrudd",
+      "niva": "undergruppe",
+      "straffereaksjoner": 36,
+      "med_fengselsstraff_inkl_subsidiaer": 24,
+      "med_botestraff": 28,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 33.5,
+      "gjennomsnitt_bot_kr": 80754,
+      "median_fengsel_dager_inkl_subsidiaer": 15,
+      "median_bot_kr": 17400
+    },
+    {
+      "lovbruddstype": "Eiendomsskade",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 689,
+      "med_fengselsstraff_inkl_subsidiaer": 419,
+      "med_botestraff": 375,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 54.2,
+      "gjennomsnitt_bot_kr": 7467,
+      "median_fengsel_dager_inkl_subsidiaer": 6,
+      "median_bot_kr": 6000
+    },
+    {
+      "lovbruddstype": "Skadeverk, i alt",
+      "niva": "undergruppe",
+      "straffereaksjoner": 671,
+      "med_fengselsstraff_inkl_subsidiaer": 406,
+      "med_botestraff": 372,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 35.2,
+      "gjennomsnitt_bot_kr": 7355,
+      "median_fengsel_dager_inkl_subsidiaer": 6,
+      "median_bot_kr": 6000
+    },
+    {
+      "lovbruddstype": "Fare for allmennheten ved brann og annen skade",
+      "niva": "undergruppe",
+      "straffereaksjoner": 18,
+      "med_fengselsstraff_inkl_subsidiaer": 13,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 645.5,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 180,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Vold og mishandling",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 5507,
+      "med_fengselsstraff_inkl_subsidiaer": 4023,
+      "med_botestraff": 1591,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 156.6,
+      "gjennomsnitt_bot_kr": 11237,
+      "median_fengsel_dager_inkl_subsidiaer": 30,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Voldslovbrudd",
+      "niva": "undergruppe",
+      "straffereaksjoner": 3635,
+      "med_fengselsstraff_inkl_subsidiaer": 2710,
+      "med_botestraff": 1043,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 173.5,
+      "gjennomsnitt_bot_kr": 11325,
+      "median_fengsel_dager_inkl_subsidiaer": 36,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Trusler, i alt",
+      "niva": "undergruppe",
+      "straffereaksjoner": 926,
+      "med_fengselsstraff_inkl_subsidiaer": 661,
+      "med_botestraff": 235,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 50.9,
+      "gjennomsnitt_bot_kr": 11826,
+      "median_fengsel_dager_inkl_subsidiaer": 24,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Ran og utpressing",
+      "niva": "undergruppe",
+      "straffereaksjoner": 276,
+      "med_fengselsstraff_inkl_subsidiaer": 233,
+      "med_botestraff": 15,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 359.2,
+      "gjennomsnitt_bot_kr": 9233,
+      "median_fengsel_dager_inkl_subsidiaer": 270,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Tvang",
+      "niva": "undergruppe",
+      "straffereaksjoner": 13,
+      "med_fengselsstraff_inkl_subsidiaer": 11,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 82.9,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 52,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Frihetsberøvelse",
+      "niva": "undergruppe",
+      "straffereaksjoner": 12,
+      "med_fengselsstraff_inkl_subsidiaer": 11,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 781.4,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 720,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Omsorgs- og familieforhold",
+      "niva": "undergruppe",
+      "straffereaksjoner": 21,
+      "med_fengselsstraff_inkl_subsidiaer": 17,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 323.5,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 180,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Hensynsløs atferd og personforfølgelse",
+      "niva": "undergruppe",
+      "straffereaksjoner": 619,
+      "med_fengselsstraff_inkl_subsidiaer": 375,
+      "med_botestraff": 297,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 32.6,
+      "gjennomsnitt_bot_kr": 10565,
+      "median_fengsel_dager_inkl_subsidiaer": 12,
+      "median_bot_kr": 8000
+    },
+    {
+      "lovbruddstype": "Seksuallovbrudd",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 1049,
+      "med_fengselsstraff_inkl_subsidiaer": 925,
+      "med_botestraff": 363,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 401.5,
+      "gjennomsnitt_bot_kr": 13679,
+      "median_fengsel_dager_inkl_subsidiaer": 90,
+      "median_bot_kr": 12000
+    },
+    {
+      "lovbruddstype": "Voldtekt, i alt",
+      "niva": "undergruppe",
+      "straffereaksjoner": 184,
+      "med_fengselsstraff_inkl_subsidiaer": 182,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 1559.8,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 1320,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Voldtekt, forsøk",
+      "niva": "undergruppe",
+      "straffereaksjoner": 6,
+      "med_fengselsstraff_inkl_subsidiaer": 5,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 1008,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 1020,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Seksuell omgang i overmaktsforhold",
+      "niva": "undergruppe",
+      "straffereaksjoner": 11,
+      "med_fengselsstraff_inkl_subsidiaer": 10,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 435,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 330,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Seksuell omgang, barn 14-15 år",
+      "niva": "undergruppe",
+      "straffereaksjoner": 81,
+      "med_fengselsstraff_inkl_subsidiaer": 80,
+      "med_botestraff": "",
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 261.6,
+      "gjennomsnitt_bot_kr": "",
+      "median_fengsel_dager_inkl_subsidiaer": 180,
+      "median_bot_kr": ""
+    },
+    {
+      "lovbruddstype": "Seksuell handling",
+      "niva": "undergruppe",
+      "straffereaksjoner": 89,
+      "med_fengselsstraff_inkl_subsidiaer": 81,
+      "med_botestraff": 21,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 79.7,
+      "gjennomsnitt_bot_kr": 11524,
+      "median_fengsel_dager_inkl_subsidiaer": 50,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Seksuelt krenkende atferd",
+      "niva": "undergruppe",
+      "straffereaksjoner": 167,
+      "med_fengselsstraff_inkl_subsidiaer": 151,
+      "med_botestraff": 129,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 17,
+      "gjennomsnitt_bot_kr": 11388,
+      "median_fengsel_dager_inkl_subsidiaer": 10,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Annet eller uspesifisert seksuallovbrudd",
+      "niva": "undergruppe",
+      "straffereaksjoner": 508,
+      "med_fengselsstraff_inkl_subsidiaer": 413,
+      "med_botestraff": 210,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 111.9,
+      "gjennomsnitt_bot_kr": 15179,
+      "median_fengsel_dager_inkl_subsidiaer": 32,
+      "median_bot_kr": 14750
+    },
+    {
+      "lovbruddstype": "Rusmiddellovbrudd",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 10330,
+      "med_fengselsstraff_inkl_subsidiaer": 8255,
+      "med_botestraff": 7158,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 96.5,
+      "gjennomsnitt_bot_kr": 23350,
+      "median_fengsel_dager_inkl_subsidiaer": 31,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Narkotikalovbrudd",
+      "niva": "undergruppe",
+      "straffereaksjoner": 4682,
+      "med_fengselsstraff_inkl_subsidiaer": 2807,
+      "med_botestraff": 1737,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 223.4,
+      "gjennomsnitt_bot_kr": 9313,
+      "median_fengsel_dager_inkl_subsidiaer": 18,
+      "median_bot_kr": 7000
+    },
+    {
+      "lovbruddstype": "Doping",
+      "niva": "undergruppe",
+      "straffereaksjoner": 303,
+      "med_fengselsstraff_inkl_subsidiaer": 252,
+      "med_botestraff": 244,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 15.1,
+      "gjennomsnitt_bot_kr": 12967,
+      "median_fengsel_dager_inkl_subsidiaer": 15,
+      "median_bot_kr": 15000
+    },
+    {
+      "lovbruddstype": "Ruspåvirket kjøring",
+      "niva": "undergruppe",
+      "straffereaksjoner": 5177,
+      "med_fengselsstraff_inkl_subsidiaer": 5072,
+      "med_botestraff": 5049,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 32.6,
+      "gjennomsnitt_bot_kr": 29126,
+      "median_fengsel_dager_inkl_subsidiaer": 33,
+      "median_bot_kr": 15000
+    },
+    {
+      "lovbruddstype": "Alkohollovovertredelse, i alt",
+      "niva": "undergruppe",
+      "straffereaksjoner": 110,
+      "med_fengselsstraff_inkl_subsidiaer": 85,
+      "med_botestraff": 91,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 5.1,
+      "gjennomsnitt_bot_kr": 5474,
+      "median_fengsel_dager_inkl_subsidiaer": 3,
+      "median_bot_kr": 2500
+    },
+    {
+      "lovbruddstype": "Annet eller uspesifisert rusmiddellovbrudd",
+      "niva": "undergruppe",
+      "straffereaksjoner": 58,
+      "med_fengselsstraff_inkl_subsidiaer": 39,
+      "med_botestraff": 37,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 7.9,
+      "gjennomsnitt_bot_kr": 6500,
+      "median_fengsel_dager_inkl_subsidiaer": 6,
+      "median_bot_kr": 6000
+    },
+    {
+      "lovbruddstype": "Ordens- og integritetskrenkelse",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 6853,
+      "med_fengselsstraff_inkl_subsidiaer": 5441,
+      "med_botestraff": 5200,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 20.4,
+      "gjennomsnitt_bot_kr": 11120,
+      "median_fengsel_dager_inkl_subsidiaer": 10,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Myndighetskrenkelse",
+      "niva": "undergruppe",
+      "straffereaksjoner": 2988,
+      "med_fengselsstraff_inkl_subsidiaer": 2485,
+      "med_botestraff": 2337,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 21.4,
+      "gjennomsnitt_bot_kr": 12385,
+      "median_fengsel_dager_inkl_subsidiaer": 10,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Integritetskrenkelse",
+      "niva": "undergruppe",
+      "straffereaksjoner": 781,
+      "med_fengselsstraff_inkl_subsidiaer": 531,
+      "med_botestraff": 443,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 34.9,
+      "gjennomsnitt_bot_kr": 13302,
+      "median_fengsel_dager_inkl_subsidiaer": 15,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Trafikkovertredelse",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 217096,
+      "med_fengselsstraff_inkl_subsidiaer": 214147,
+      "med_botestraff": 214983,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 5.8,
+      "gjennomsnitt_bot_kr": 5969,
+      "median_fengsel_dager_inkl_subsidiaer": 5,
+      "median_bot_kr": 5200
+    },
+    {
+      "lovbruddstype": "Veitrafikkovertredelse",
+      "niva": "undergruppe",
+      "straffereaksjoner": 215970,
+      "med_fengselsstraff_inkl_subsidiaer": 213664,
+      "med_botestraff": 213878,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 5.8,
+      "gjennomsnitt_bot_kr": 5986,
+      "median_fengsel_dager_inkl_subsidiaer": 5,
+      "median_bot_kr": 5200
+    },
+    {
+      "lovbruddstype": "Annen transport- og trafikklovgivning",
+      "niva": "undergruppe",
+      "straffereaksjoner": 1126,
+      "med_fengselsstraff_inkl_subsidiaer": 483,
+      "med_botestraff": 1105,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 2.6,
+      "gjennomsnitt_bot_kr": 2719,
+      "median_fengsel_dager_inkl_subsidiaer": 1,
+      "median_bot_kr": 1500
+    },
+    {
+      "lovbruddstype": "Annet lovbrudd",
+      "niva": "hovedgruppe",
+      "straffereaksjoner": 1353,
+      "med_fengselsstraff_inkl_subsidiaer": 1108,
+      "med_botestraff": 1162,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 14.6,
+      "gjennomsnitt_bot_kr": 29357,
+      "median_fengsel_dager_inkl_subsidiaer": 11,
+      "median_bot_kr": 12000
+    },
+    {
+      "lovbruddstype": "Natur- og miljølovbrudd",
+      "niva": "undergruppe",
+      "straffereaksjoner": 1056,
+      "med_fengselsstraff_inkl_subsidiaer": 860,
+      "med_botestraff": 885,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 14.5,
+      "gjennomsnitt_bot_kr": 22948,
+      "median_fengsel_dager_inkl_subsidiaer": 10,
+      "median_bot_kr": 10000
+    },
+    {
+      "lovbruddstype": "Arbeidsmiljølovgivning",
+      "niva": "undergruppe",
+      "straffereaksjoner": 27,
+      "med_fengselsstraff_inkl_subsidiaer": 8,
+      "med_botestraff": 24,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 25.6,
+      "gjennomsnitt_bot_kr": 263292,
+      "median_fengsel_dager_inkl_subsidiaer": 21,
+      "median_bot_kr": 125000
+    },
+    {
+      "lovbruddstype": "Annen eller uspesifisert straffelovgivning",
+      "niva": "undergruppe",
+      "straffereaksjoner": 270,
+      "med_fengselsstraff_inkl_subsidiaer": 240,
+      "med_botestraff": 253,
+      "gjennomsnitt_fengsel_dager_inkl_subsidiaer": 14.5,
+      "gjennomsnitt_bot_kr": 29581,
+      "median_fengsel_dager_inkl_subsidiaer": 12,
+      "median_bot_kr": 12000
+    }
+  ],
+  "meta": {
+    "title": "Straffereaksjoner og utmålt straff etter type lovbrudd (2025) - Free Download",
+    "description": "Antall straffereaksjoner i Norge i 2025 etter hovedlovbruddstype, med antall reaksjoner med fengselsstraff (inkl. subsidiær fengsel ved bøter) og bøtestraff, gjennomsnittlig og median fengselsstraff (dager) og gjennomsnittlig og median bot (kr) Tom verdi = ikke relevant/ikke publisert (SSB, tabell 14356). Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Straffereaksjoner og utmålt straff etter type lovbrudd (2025) | ListBase",
+    "seo_description": "Download Straffereaksjoner og utmålt straff etter type lovbrudd (2025) — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/14356"
+    ]
+  }
+}

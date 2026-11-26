@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-26T02:19:06.058Z",
-  "total_datasets": 527,
-  "total_records": 1210383,
+  "generated": "2026-11-26T02:19:14.988Z",
+  "total_datasets": 528,
+  "total_records": 1210432,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "music",
@@ -5964,6 +5964,36 @@
         "xlsx": {
           "name": "no-riksadvokater_NO.xlsx",
           "size": 7305
+        }
+      }
+    },
+    {
+      "id": "no-straffereaksjoner-og-utmalt-straff-etter-lovbrudd-2025",
+      "name": "Straffereaksjoner og utmålt straff etter type lovbrudd (2025)",
+      "category": "law",
+      "record_count": 49,
+      "columns": [
+        "lovbruddstype",
+        "niva",
+        "straffereaksjoner",
+        "med_fengselsstraff_inkl_subsidiaer",
+        "med_botestraff",
+        "gjennomsnitt_fengsel_dager_inkl_subsidiaer",
+        "gjennomsnitt_bot_kr",
+        "median_fengsel_dager_inkl_subsidiaer",
+        "median_bot_kr"
+      ],
+      "source": "https://www.ssb.no/statbank/table/14356",
+      "updated": "2026-11",
+      "size": 21022,
+      "files": {
+        "csv": {
+          "name": "no-straffereaksjoner-og-utmalt-straff-etter-lovbrudd-2025_NO.csv",
+          "size": 4268
+        },
+        "xlsx": {
+          "name": "no-straffereaksjoner-og-utmalt-straff-etter-lovbrudd-2025_NO.xlsx",
+          "size": 9744
         }
       }
     },
