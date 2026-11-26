@@ -1,0 +1,586 @@
+{
+  "id": "no-manedslonn-etter-yrke-2025",
+  "name": "Gjennomsnittlig månedslønn etter yrke i Norge (2025)",
+  "title": "Gjennomsnittlig månedslønn etter yrke i Norge (2025)",
+  "description": "Gjennomsnittlig og median månedslønn (kr) for alle yrkesgrupper (STYRK-08, 1- og 2-siffernivå) i 2025, fordelt på kvinner og menn, med antall arbeidsforhold og gjennomsnittsalder (SSB, tabell 13311). Tom verdi = ikke publisert.",
+  "category": "economy",
+  "source": "https://www.ssb.no/statbank/table/13311",
+  "source_url": "https://www.ssb.no/statbank/table/13311",
+  "updated": "2026-11",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "yrkeskode",
+      "label": "Yrkeskode",
+      "type": "string"
+    },
+    {
+      "key": "yrke",
+      "label": "Yrke",
+      "type": "string"
+    },
+    {
+      "key": "gjennomsnitt_manedslonn_kr",
+      "label": "Gjennomsnitt Manedslonn Kr",
+      "type": "number"
+    },
+    {
+      "key": "median_manedslonn_kr",
+      "label": "Median Manedslonn Kr",
+      "type": "number"
+    },
+    {
+      "key": "gjennomsnitt_kvinner_kr",
+      "label": "Gjennomsnitt Kvinner Kr",
+      "type": "number"
+    },
+    {
+      "key": "gjennomsnitt_menn_kr",
+      "label": "Gjennomsnitt Menn Kr",
+      "type": "number"
+    },
+    {
+      "key": "antall_arbeidsforhold",
+      "label": "Antall Arbeidsforhold",
+      "type": "number"
+    },
+    {
+      "key": "gjennomsnittsalder",
+      "label": "Gjennomsnittsalder",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "yrkeskode": "0-9",
+      "yrke": "Alle yrker",
+      "gjennomsnitt_manedslonn_kr": 62070,
+      "median_manedslonn_kr": 55800,
+      "gjennomsnitt_kvinner_kr": 57690,
+      "gjennomsnitt_menn_kr": 65610,
+      "antall_arbeidsforhold": 3080911,
+      "gjennomsnittsalder": 42.6
+    },
+    {
+      "yrkeskode": "01",
+      "yrke": "Offiserer fra fenrik og høyere grad",
+      "gjennomsnitt_manedslonn_kr": 93330,
+      "median_manedslonn_kr": 88010,
+      "gjennomsnitt_kvinner_kr": 79800,
+      "gjennomsnitt_menn_kr": 95750,
+      "antall_arbeidsforhold": 5236,
+      "gjennomsnittsalder": 41.7
+    },
+    {
+      "yrkeskode": "02",
+      "yrke": "Befal med sersjant grad",
+      "gjennomsnitt_manedslonn_kr": 85550,
+      "median_manedslonn_kr": 80760,
+      "gjennomsnitt_kvinner_kr": 73470,
+      "gjennomsnitt_menn_kr": 87810,
+      "antall_arbeidsforhold": 5205,
+      "gjennomsnittsalder": 36.1
+    },
+    {
+      "yrkeskode": "03",
+      "yrke": "Menige",
+      "gjennomsnitt_manedslonn_kr": 62140,
+      "median_manedslonn_kr": 55680,
+      "gjennomsnitt_kvinner_kr": 56940,
+      "gjennomsnitt_menn_kr": 63720,
+      "antall_arbeidsforhold": 5324,
+      "gjennomsnittsalder": 25.7
+    },
+    {
+      "yrkeskode": "1",
+      "yrke": "Ledere",
+      "gjennomsnitt_manedslonn_kr": 90510,
+      "median_manedslonn_kr": 78020,
+      "gjennomsnitt_kvinner_kr": 80210,
+      "gjennomsnitt_menn_kr": 96970,
+      "antall_arbeidsforhold": 250698,
+      "gjennomsnittsalder": 49.1
+    },
+    {
+      "yrkeskode": "11",
+      "yrke": "Politikere og toppledere",
+      "gjennomsnitt_manedslonn_kr": 106760,
+      "median_manedslonn_kr": 84370,
+      "gjennomsnitt_kvinner_kr": 94530,
+      "gjennomsnitt_menn_kr": 111390,
+      "antall_arbeidsforhold": 45178,
+      "gjennomsnittsalder": 51.2
+    },
+    {
+      "yrkeskode": "12",
+      "yrke": "Administrative og merkantile ledere",
+      "gjennomsnitt_manedslonn_kr": 97000,
+      "median_manedslonn_kr": 86720,
+      "gjennomsnitt_kvinner_kr": 88060,
+      "gjennomsnitt_menn_kr": 103890,
+      "antall_arbeidsforhold": 64941,
+      "gjennomsnittsalder": 49.7
+    },
+    {
+      "yrkeskode": "13",
+      "yrke": "Ledere av enheter for vareproduksjon og tjenesteyting",
+      "gjennomsnitt_manedslonn_kr": 91150,
+      "median_manedslonn_kr": 79130,
+      "gjennomsnitt_kvinner_kr": 83030,
+      "gjennomsnitt_menn_kr": 95660,
+      "antall_arbeidsforhold": 97050,
+      "gjennomsnittsalder": 49.6
+    },
+    {
+      "yrkeskode": "14",
+      "yrke": "Ledere i hotell, restaurant, varehandel mv.",
+      "gjennomsnitt_manedslonn_kr": 63130,
+      "median_manedslonn_kr": 55360,
+      "gjennomsnitt_kvinner_kr": 56760,
+      "gjennomsnitt_menn_kr": 69150,
+      "antall_arbeidsforhold": 43529,
+      "gjennomsnittsalder": 44.7
+    },
+    {
+      "yrkeskode": "2",
+      "yrke": "Akademiske yrker",
+      "gjennomsnitt_manedslonn_kr": 69650,
+      "median_manedslonn_kr": 62920,
+      "gjennomsnitt_kvinner_kr": 64390,
+      "gjennomsnitt_menn_kr": 77460,
+      "antall_arbeidsforhold": 809018,
+      "gjennomsnittsalder": 43.3
+    },
+    {
+      "yrkeskode": "21",
+      "yrke": "Realister, sivilingeniører mv.",
+      "gjennomsnitt_manedslonn_kr": 83870,
+      "median_manedslonn_kr": 77940,
+      "gjennomsnitt_kvinner_kr": 77020,
+      "gjennomsnitt_menn_kr": 86990,
+      "antall_arbeidsforhold": 89975,
+      "gjennomsnittsalder": 44.4
+    },
+    {
+      "yrkeskode": "22",
+      "yrke": "Medisinske yrker",
+      "gjennomsnitt_manedslonn_kr": 67940,
+      "median_manedslonn_kr": 60930,
+      "gjennomsnitt_kvinner_kr": 64680,
+      "gjennomsnitt_menn_kr": 80950,
+      "antall_arbeidsforhold": 182538,
+      "gjennomsnittsalder": 42
+    },
+    {
+      "yrkeskode": "23",
+      "yrke": "Undervisningsyrker",
+      "gjennomsnitt_manedslonn_kr": 58720,
+      "median_manedslonn_kr": 57860,
+      "gjennomsnitt_kvinner_kr": 57740,
+      "gjennomsnitt_menn_kr": 60990,
+      "antall_arbeidsforhold": 206328,
+      "gjennomsnittsalder": 43.2
+    },
+    {
+      "yrkeskode": "24",
+      "yrke": "Rådgivere innen økonomi, administrasjon og salg",
+      "gjennomsnitt_manedslonn_kr": 71110,
+      "median_manedslonn_kr": 65000,
+      "gjennomsnitt_kvinner_kr": 66250,
+      "gjennomsnitt_menn_kr": 78170,
+      "antall_arbeidsforhold": 188089,
+      "gjennomsnittsalder": 44.9
+    },
+    {
+      "yrkeskode": "25",
+      "yrke": "IKT-rådgivere",
+      "gjennomsnitt_manedslonn_kr": 79380,
+      "median_manedslonn_kr": 75410,
+      "gjennomsnitt_kvinner_kr": 73920,
+      "gjennomsnitt_menn_kr": 81070,
+      "antall_arbeidsforhold": 69039,
+      "gjennomsnittsalder": 41.6
+    },
+    {
+      "yrkeskode": "26",
+      "yrke": "Juridiske, samfunnsvitenskapelige og humanistiske yrker",
+      "gjennomsnitt_manedslonn_kr": 69070,
+      "median_manedslonn_kr": 62290,
+      "gjennomsnitt_kvinner_kr": 66150,
+      "gjennomsnitt_menn_kr": 74420,
+      "antall_arbeidsforhold": 73049,
+      "gjennomsnittsalder": 42.9
+    },
+    {
+      "yrkeskode": "3_01-03",
+      "yrke": "Høyskole- og militære yrker",
+      "gjennomsnitt_manedslonn_kr": 69640,
+      "median_manedslonn_kr": 62920,
+      "gjennomsnitt_kvinner_kr": 61120,
+      "gjennomsnitt_menn_kr": 74580,
+      "antall_arbeidsforhold": 448395,
+      "gjennomsnittsalder": 43.2
+    },
+    {
+      "yrkeskode": "31",
+      "yrke": "Ingeniører mv.",
+      "gjennomsnitt_manedslonn_kr": 75820,
+      "median_manedslonn_kr": 70380,
+      "gjennomsnitt_kvinner_kr": 70970,
+      "gjennomsnitt_menn_kr": 76650,
+      "antall_arbeidsforhold": 137688,
+      "gjennomsnittsalder": 44.1
+    },
+    {
+      "yrkeskode": "32",
+      "yrke": "Helserelaterte yrker",
+      "gjennomsnitt_manedslonn_kr": 57120,
+      "median_manedslonn_kr": 54170,
+      "gjennomsnitt_kvinner_kr": 53990,
+      "gjennomsnitt_menn_kr": 65410,
+      "antall_arbeidsforhold": 42273,
+      "gjennomsnittsalder": 42.9
+    },
+    {
+      "yrkeskode": "33",
+      "yrke": "Medarbeidere innen økonomi, administrasjon og salg",
+      "gjennomsnitt_manedslonn_kr": 70090,
+      "median_manedslonn_kr": 62080,
+      "gjennomsnitt_kvinner_kr": 63100,
+      "gjennomsnitt_menn_kr": 76250,
+      "antall_arbeidsforhold": 171626,
+      "gjennomsnittsalder": 44.3
+    },
+    {
+      "yrkeskode": "34",
+      "yrke": "Yrker innen kultur, idrett mv.",
+      "gjennomsnitt_manedslonn_kr": 53400,
+      "median_manedslonn_kr": 51540,
+      "gjennomsnitt_kvinner_kr": 51470,
+      "gjennomsnitt_menn_kr": 56100,
+      "antall_arbeidsforhold": 55480,
+      "gjennomsnittsalder": 40.9
+    },
+    {
+      "yrkeskode": "35",
+      "yrke": "IKT-teknikere",
+      "gjennomsnitt_manedslonn_kr": 66070,
+      "median_manedslonn_kr": 62260,
+      "gjennomsnitt_kvinner_kr": 63230,
+      "gjennomsnitt_menn_kr": 66910,
+      "antall_arbeidsforhold": 25563,
+      "gjennomsnittsalder": 40.1
+    },
+    {
+      "yrkeskode": "4",
+      "yrke": "Kontoryrker",
+      "gjennomsnitt_manedslonn_kr": 52110,
+      "median_manedslonn_kr": 49560,
+      "gjennomsnitt_kvinner_kr": 51330,
+      "gjennomsnitt_menn_kr": 52980,
+      "antall_arbeidsforhold": 180084,
+      "gjennomsnittsalder": 42.7
+    },
+    {
+      "yrkeskode": "41",
+      "yrke": "Kontormedarbeidere",
+      "gjennomsnitt_manedslonn_kr": 52430,
+      "median_manedslonn_kr": 49530,
+      "gjennomsnitt_kvinner_kr": 51470,
+      "gjennomsnitt_menn_kr": 55340,
+      "antall_arbeidsforhold": 61076,
+      "gjennomsnittsalder": 44.9
+    },
+    {
+      "yrkeskode": "42",
+      "yrke": "Kundeserviceyrker",
+      "gjennomsnitt_manedslonn_kr": 46580,
+      "median_manedslonn_kr": 45000,
+      "gjennomsnitt_kvinner_kr": 45350,
+      "gjennomsnitt_menn_kr": 48320,
+      "antall_arbeidsforhold": 35559,
+      "gjennomsnittsalder": 39.1
+    },
+    {
+      "yrkeskode": "43",
+      "yrke": "Økonomi- og logistikkmedarbeidere",
+      "gjennomsnitt_manedslonn_kr": 54110,
+      "median_manedslonn_kr": 51700,
+      "gjennomsnitt_kvinner_kr": 54860,
+      "gjennomsnitt_menn_kr": 53720,
+      "antall_arbeidsforhold": 77854,
+      "gjennomsnittsalder": 42.3
+    },
+    {
+      "yrkeskode": "44",
+      "yrke": "Postbud, arkiv- og personalkontormedarbeidere",
+      "gjennomsnitt_manedslonn_kr": 49400,
+      "median_manedslonn_kr": 45340,
+      "gjennomsnitt_kvinner_kr": 51590,
+      "gjennomsnitt_menn_kr": 46800,
+      "antall_arbeidsforhold": 5595,
+      "gjennomsnittsalder": 44.1
+    },
+    {
+      "yrkeskode": "5",
+      "yrke": "Salgs- og serviceyrker",
+      "gjennomsnitt_manedslonn_kr": 44790,
+      "median_manedslonn_kr": 43840,
+      "gjennomsnitt_kvinner_kr": 43960,
+      "gjennomsnitt_menn_kr": 46290,
+      "antall_arbeidsforhold": 738264,
+      "gjennomsnittsalder": 39.7
+    },
+    {
+      "yrkeskode": "51",
+      "yrke": "Yrker innen personlig tjenesteyting",
+      "gjennomsnitt_manedslonn_kr": 44800,
+      "median_manedslonn_kr": 42640,
+      "gjennomsnitt_kvinner_kr": 42050,
+      "gjennomsnitt_menn_kr": 47020,
+      "antall_arbeidsforhold": 117586,
+      "gjennomsnittsalder": 40.1
+    },
+    {
+      "yrkeskode": "52",
+      "yrke": "Salgsyrker",
+      "gjennomsnitt_manedslonn_kr": 42150,
+      "median_manedslonn_kr": 42050,
+      "gjennomsnitt_kvinner_kr": 40540,
+      "gjennomsnitt_menn_kr": 44240,
+      "antall_arbeidsforhold": 221720,
+      "gjennomsnittsalder": 36.1
+    },
+    {
+      "yrkeskode": "53",
+      "yrke": "Pleie- og omsorgsarbeidere",
+      "gjennomsnitt_manedslonn_kr": 45630,
+      "median_manedslonn_kr": 44860,
+      "gjennomsnitt_kvinner_kr": 45530,
+      "gjennomsnitt_menn_kr": 46000,
+      "antall_arbeidsforhold": 367213,
+      "gjennomsnittsalder": 41.5
+    },
+    {
+      "yrkeskode": "54",
+      "yrke": "Sikkerhetsarbeidere",
+      "gjennomsnitt_manedslonn_kr": 50990,
+      "median_manedslonn_kr": 47450,
+      "gjennomsnitt_kvinner_kr": 47250,
+      "gjennomsnitt_menn_kr": 52240,
+      "antall_arbeidsforhold": 31745,
+      "gjennomsnittsalder": 39.1
+    },
+    {
+      "yrkeskode": "6",
+      "yrke": "Bønder, fiskere mv.",
+      "gjennomsnitt_manedslonn_kr": 48000,
+      "median_manedslonn_kr": 46170,
+      "gjennomsnitt_kvinner_kr": 42980,
+      "gjennomsnitt_menn_kr": 49630,
+      "antall_arbeidsforhold": 30669,
+      "gjennomsnittsalder": 37.8
+    },
+    {
+      "yrkeskode": "61",
+      "yrke": "Jordbrukere",
+      "gjennomsnitt_manedslonn_kr": 41310,
+      "median_manedslonn_kr": 40590,
+      "gjennomsnitt_kvinner_kr": 38520,
+      "gjennomsnitt_menn_kr": 42490,
+      "antall_arbeidsforhold": 20716,
+      "gjennomsnittsalder": 39.1
+    },
+    {
+      "yrkeskode": "62",
+      "yrke": "Skogbrukere, fiskere mv.",
+      "gjennomsnitt_manedslonn_kr": 56780,
+      "median_manedslonn_kr": 57410,
+      "gjennomsnitt_kvinner_kr": 52780,
+      "gjennomsnitt_menn_kr": 57640,
+      "antall_arbeidsforhold": 9953,
+      "gjennomsnittsalder": 36.1
+    },
+    {
+      "yrkeskode": "7",
+      "yrke": "Håndverkere",
+      "gjennomsnitt_manedslonn_kr": 51390,
+      "median_manedslonn_kr": 50530,
+      "gjennomsnitt_kvinner_kr": 44320,
+      "gjennomsnitt_menn_kr": 51740,
+      "antall_arbeidsforhold": 251875,
+      "gjennomsnittsalder": 39
+    },
+    {
+      "yrkeskode": "71",
+      "yrke": "Byggearbeidere",
+      "gjennomsnitt_manedslonn_kr": 49860,
+      "median_manedslonn_kr": 49040,
+      "gjennomsnitt_kvinner_kr": 42870,
+      "gjennomsnitt_menn_kr": 50040,
+      "antall_arbeidsforhold": 110942,
+      "gjennomsnittsalder": 40.4
+    },
+    {
+      "yrkeskode": "72",
+      "yrke": "Metall- og maskinarbeidere",
+      "gjennomsnitt_manedslonn_kr": 51420,
+      "median_manedslonn_kr": 50750,
+      "gjennomsnitt_kvinner_kr": 44490,
+      "gjennomsnitt_menn_kr": 51720,
+      "antall_arbeidsforhold": 74545,
+      "gjennomsnittsalder": 38.7
+    },
+    {
+      "yrkeskode": "73",
+      "yrke": "Presisjonsarbeidere, kunsthåndverkere, grafiske arbeidere mv.",
+      "gjennomsnitt_manedslonn_kr": 49890,
+      "median_manedslonn_kr": 46930,
+      "gjennomsnitt_kvinner_kr": 45430,
+      "gjennomsnitt_menn_kr": 52320,
+      "antall_arbeidsforhold": 3907,
+      "gjennomsnittsalder": 45.9
+    },
+    {
+      "yrkeskode": "74",
+      "yrke": "Elektrikere, elektronikere mv.",
+      "gjennomsnitt_manedslonn_kr": 54680,
+      "median_manedslonn_kr": 55060,
+      "gjennomsnitt_kvinner_kr": 46890,
+      "gjennomsnitt_menn_kr": 55050,
+      "antall_arbeidsforhold": 51095,
+      "gjennomsnittsalder": 35.6
+    },
+    {
+      "yrkeskode": "75",
+      "yrke": "Andre håndverkspregede yrker",
+      "gjennomsnitt_manedslonn_kr": 51610,
+      "median_manedslonn_kr": 47740,
+      "gjennomsnitt_kvinner_kr": 42800,
+      "gjennomsnitt_menn_kr": 54490,
+      "antall_arbeidsforhold": 11386,
+      "gjennomsnittsalder": 40.4
+    },
+    {
+      "yrkeskode": "8",
+      "yrke": "Prosess- og maskinoperatører, transportarbeidere mv.",
+      "gjennomsnitt_manedslonn_kr": 52080,
+      "median_manedslonn_kr": 48480,
+      "gjennomsnitt_kvinner_kr": 47200,
+      "gjennomsnitt_menn_kr": 52890,
+      "antall_arbeidsforhold": 189369,
+      "gjennomsnittsalder": 42.7
+    },
+    {
+      "yrkeskode": "81",
+      "yrke": "Prosess- og maskinoperatører",
+      "gjennomsnitt_manedslonn_kr": 54560,
+      "median_manedslonn_kr": 48910,
+      "gjennomsnitt_kvinner_kr": 47340,
+      "gjennomsnitt_menn_kr": 56680,
+      "antall_arbeidsforhold": 83441,
+      "gjennomsnittsalder": 41.1
+    },
+    {
+      "yrkeskode": "82",
+      "yrke": "Montører",
+      "gjennomsnitt_manedslonn_kr": 51140,
+      "median_manedslonn_kr": 48950,
+      "gjennomsnitt_kvinner_kr": 47260,
+      "gjennomsnitt_menn_kr": 52200,
+      "antall_arbeidsforhold": 7457,
+      "gjennomsnittsalder": 41
+    },
+    {
+      "yrkeskode": "83",
+      "yrke": "Transportarbeidere og operatører av mobile maskiner mv.",
+      "gjennomsnitt_manedslonn_kr": 49920,
+      "median_manedslonn_kr": 48220,
+      "gjennomsnitt_kvinner_kr": 46690,
+      "gjennomsnitt_menn_kr": 50120,
+      "antall_arbeidsforhold": 98471,
+      "gjennomsnittsalder": 44.3
+    },
+    {
+      "yrkeskode": "9",
+      "yrke": "Renholdere, hjelpearbeidere mv.",
+      "gjennomsnitt_manedslonn_kr": 43700,
+      "median_manedslonn_kr": 42000,
+      "gjennomsnitt_kvinner_kr": 41460,
+      "gjennomsnitt_menn_kr": 45560,
+      "antall_arbeidsforhold": 170603,
+      "gjennomsnittsalder": 41.7
+    },
+    {
+      "yrkeskode": "91",
+      "yrke": "Renholdere mv.",
+      "gjennomsnitt_manedslonn_kr": 42280,
+      "median_manedslonn_kr": 41150,
+      "gjennomsnitt_kvinner_kr": 42010,
+      "gjennomsnitt_menn_kr": 43010,
+      "antall_arbeidsforhold": 79000,
+      "gjennomsnittsalder": 45
+    },
+    {
+      "yrkeskode": "92",
+      "yrke": "Hjelpearbeidere i jordbruk, skogbruk og fiske",
+      "gjennomsnitt_manedslonn_kr": 39390,
+      "median_manedslonn_kr": 39280,
+      "gjennomsnitt_kvinner_kr": 36020,
+      "gjennomsnitt_menn_kr": 40820,
+      "antall_arbeidsforhold": 4258,
+      "gjennomsnittsalder": 37.7
+    },
+    {
+      "yrkeskode": "93",
+      "yrke": "Hjelpearbeidere i bergverk, industri, bygg og anlegg og transport",
+      "gjennomsnitt_manedslonn_kr": 48060,
+      "median_manedslonn_kr": 46580,
+      "gjennomsnitt_kvinner_kr": 43680,
+      "gjennomsnitt_menn_kr": 48450,
+      "antall_arbeidsforhold": 41005,
+      "gjennomsnittsalder": 37.9
+    },
+    {
+      "yrkeskode": "94",
+      "yrke": "Kjøkkenassistenter",
+      "gjennomsnitt_manedslonn_kr": 38530,
+      "median_manedslonn_kr": 38140,
+      "gjennomsnitt_kvinner_kr": 38970,
+      "gjennomsnitt_menn_kr": 37670,
+      "antall_arbeidsforhold": 23661,
+      "gjennomsnittsalder": 40.1
+    },
+    {
+      "yrkeskode": "95",
+      "yrke": "Reklamedistributører mv.",
+      "gjennomsnitt_manedslonn_kr": 45920,
+      "median_manedslonn_kr": 44040,
+      "gjennomsnitt_kvinner_kr": "",
+      "gjennomsnitt_menn_kr": 46660,
+      "antall_arbeidsforhold": 326,
+      "gjennomsnittsalder": 42.3
+    },
+    {
+      "yrkeskode": "96",
+      "yrke": "Renovasjons- og gjenvinningsarbeidere mv.",
+      "gjennomsnitt_manedslonn_kr": 43900,
+      "median_manedslonn_kr": 44100,
+      "gjennomsnitt_kvinner_kr": 40910,
+      "gjennomsnitt_menn_kr": 44460,
+      "antall_arbeidsforhold": 22353,
+      "gjennomsnittsalder": 41.2
+    }
+  ],
+  "meta": {
+    "title": "Gjennomsnittlig månedslønn etter yrke i Norge (2025) - Free Download",
+    "description": "Gjennomsnittlig og median månedslønn (kr) for alle yrkesgrupper (STYRK-08, 1- og 2-siffernivå) i 2025, fordelt på kvinner og menn, med antall arbeidsforhold og gjennomsnittsalder (SSB, tabell 13311). Tom verdi = ikke publisert. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Gjennomsnittlig månedslønn etter yrke i Norge (2025) | ListBase",
+    "seo_description": "Download Gjennomsnittlig månedslønn etter yrke i Norge (2025) — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/13311"
+    ]
+  }
+}

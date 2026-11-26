@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-25T02:13:39.069Z",
-  "total_datasets": 526,
-  "total_records": 1210331,
+  "generated": "2026-11-26T02:19:06.058Z",
+  "total_datasets": 527,
+  "total_records": 1210383,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -1807,6 +1807,35 @@
         "xlsx": {
           "name": "no-konsumprisindeks-historisk-1865-2025_NO.xlsx",
           "size": 8718
+        }
+      }
+    },
+    {
+      "id": "no-manedslonn-etter-yrke-2025",
+      "name": "Gjennomsnittlig månedslønn etter yrke i Norge (2025)",
+      "category": "economy",
+      "record_count": 52,
+      "columns": [
+        "yrkeskode",
+        "yrke",
+        "gjennomsnitt_manedslonn_kr",
+        "median_manedslonn_kr",
+        "gjennomsnitt_kvinner_kr",
+        "gjennomsnitt_menn_kr",
+        "antall_arbeidsforhold",
+        "gjennomsnittsalder"
+      ],
+      "source": "https://www.ssb.no/statbank/table/13311",
+      "updated": "2026-11",
+      "size": 18572,
+      "files": {
+        "csv": {
+          "name": "no-manedslonn-etter-yrke-2025_NO.csv",
+          "size": 4469
+        },
+        "xlsx": {
+          "name": "no-manedslonn-etter-yrke-2025_NO.xlsx",
+          "size": 10104
         }
       }
     },
