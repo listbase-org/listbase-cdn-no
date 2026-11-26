@@ -1,0 +1,1756 @@
+{
+  "id": "no-eksport-av-fisk-etter-fiskeslag",
+  "name": "Norsk eksport av fisk og sjømat etter fiskeslag (2007–2025)",
+  "title": "Norsk eksport av fisk og sjømat etter fiskeslag (2007–2025)",
+  "description": "Årlig verdi (mill. kr) og mengde (tonn) av norsk eksport av fisk, kreps- og bløtdyr fordelt på fiskeslag som laks, torsk, sild, makrell, sei, ørret, hyse, kveite og reker (SSB, tabell 09283).",
+  "category": "food",
+  "source": "https://www.ssb.no/statbank/table/09283",
+  "source_url": "https://www.ssb.no/statbank/table/09283",
+  "updated": "2026-11",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "fiskeslag",
+      "label": "Fiskeslag",
+      "type": "string"
+    },
+    {
+      "key": "ar",
+      "label": "Ar",
+      "type": "number"
+    },
+    {
+      "key": "verdi_mill_kr",
+      "label": "Verdi Mill Kr",
+      "type": "number"
+    },
+    {
+      "key": "mengde_tonn",
+      "label": "Mengde Tonn",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2025,
+      "verdi_mill_kr": 173930,
+      "mengde_tonn": 2329250
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2025,
+      "verdi_mill_kr": 124315,
+      "mengde_tonn": 1413572
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2025,
+      "verdi_mill_kr": 12726,
+      "mengde_tonn": 116986
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2025,
+      "verdi_mill_kr": 4246,
+      "mengde_tonn": 208979
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2025,
+      "verdi_mill_kr": 8075,
+      "mengde_tonn": 201676
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2025,
+      "verdi_mill_kr": 4324,
+      "mengde_tonn": 97040
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2025,
+      "verdi_mill_kr": 7389,
+      "mengde_tonn": 86823
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2025,
+      "verdi_mill_kr": 2261,
+      "mengde_tonn": 41217
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2025,
+      "verdi_mill_kr": 525,
+      "mengde_tonn": 7545
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2025,
+      "verdi_mill_kr": 377,
+      "mengde_tonn": 5875
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2025,
+      "verdi_mill_kr": 1023,
+      "mengde_tonn": 31909
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2025,
+      "verdi_mill_kr": 1414,
+      "mengde_tonn": 13903
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2025,
+      "verdi_mill_kr": 2189,
+      "mengde_tonn": 59581
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2025,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2025,
+      "verdi_mill_kr": 5066,
+      "mengde_tonn": 44146
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2024,
+      "verdi_mill_kr": 167893,
+      "mengde_tonn": 2402578
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2024,
+      "verdi_mill_kr": 122423,
+      "mengde_tonn": 1253349
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2024,
+      "verdi_mill_kr": 11705,
+      "mengde_tonn": 135763
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2024,
+      "verdi_mill_kr": 4244,
+      "mengde_tonn": 227961
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2024,
+      "verdi_mill_kr": 8291,
+      "mengde_tonn": 312920
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2024,
+      "verdi_mill_kr": 3713,
+      "mengde_tonn": 115241
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2024,
+      "verdi_mill_kr": 6738,
+      "mengde_tonn": 74819
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2024,
+      "verdi_mill_kr": 1659,
+      "mengde_tonn": 49147
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2024,
+      "verdi_mill_kr": 436,
+      "mengde_tonn": 7781
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2024,
+      "verdi_mill_kr": 247,
+      "mengde_tonn": 4300
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2024,
+      "verdi_mill_kr": 852,
+      "mengde_tonn": 29763
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2024,
+      "verdi_mill_kr": 1343,
+      "mengde_tonn": 16501
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2024,
+      "verdi_mill_kr": 2698,
+      "mengde_tonn": 130113
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2024,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2024,
+      "verdi_mill_kr": 3545,
+      "mengde_tonn": 44922
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2023,
+      "verdi_mill_kr": 165207,
+      "mengde_tonn": 2486381
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2023,
+      "verdi_mill_kr": 122263,
+      "mengde_tonn": 1232650
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2023,
+      "verdi_mill_kr": 12262,
+      "mengde_tonn": 162081
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2023,
+      "verdi_mill_kr": 4018,
+      "mengde_tonn": 239378
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2023,
+      "verdi_mill_kr": 6658,
+      "mengde_tonn": 306420
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2023,
+      "verdi_mill_kr": 3965,
+      "mengde_tonn": 116006
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2023,
+      "verdi_mill_kr": 5494,
+      "mengde_tonn": 57086
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2023,
+      "verdi_mill_kr": 1704,
+      "mengde_tonn": 57879
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2023,
+      "verdi_mill_kr": 456,
+      "mengde_tonn": 7645
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2023,
+      "verdi_mill_kr": 306,
+      "mengde_tonn": 4962
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2023,
+      "verdi_mill_kr": 786,
+      "mengde_tonn": 30678
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2023,
+      "verdi_mill_kr": 1406,
+      "mengde_tonn": 18951
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2023,
+      "verdi_mill_kr": 2599,
+      "mengde_tonn": 222338
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2023,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2023,
+      "verdi_mill_kr": 3290,
+      "mengde_tonn": 30307
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2022,
+      "verdi_mill_kr": 146446,
+      "mengde_tonn": 2628998
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2022,
+      "verdi_mill_kr": 105598,
+      "mengde_tonn": 1254098
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2022,
+      "verdi_mill_kr": 12269,
+      "mengde_tonn": 190952
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2022,
+      "verdi_mill_kr": 3890,
+      "mengde_tonn": 292607
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2022,
+      "verdi_mill_kr": 6264,
+      "mengde_tonn": 340683
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2022,
+      "verdi_mill_kr": 3649,
+      "mengde_tonn": 111509
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2022,
+      "verdi_mill_kr": 5006,
+      "mengde_tonn": 55062
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2022,
+      "verdi_mill_kr": 1974,
+      "mengde_tonn": 58977
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2022,
+      "verdi_mill_kr": 415,
+      "mengde_tonn": 7645
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2022,
+      "verdi_mill_kr": 234,
+      "mengde_tonn": 4476
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2022,
+      "verdi_mill_kr": 557,
+      "mengde_tonn": 28479
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2022,
+      "verdi_mill_kr": 1220,
+      "mengde_tonn": 18597
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2022,
+      "verdi_mill_kr": 2477,
+      "mengde_tonn": 238006
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2022,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2022,
+      "verdi_mill_kr": 2893,
+      "mengde_tonn": 27906
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2021,
+      "verdi_mill_kr": 116557,
+      "mengde_tonn": 2746769
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2021,
+      "verdi_mill_kr": 81211,
+      "mengde_tonn": 1283196
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2021,
+      "verdi_mill_kr": 9871,
+      "mengde_tonn": 199532
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2021,
+      "verdi_mill_kr": 4222,
+      "mengde_tonn": 350237
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2021,
+      "verdi_mill_kr": 5892,
+      "mengde_tonn": 388833
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2021,
+      "verdi_mill_kr": 2532,
+      "mengde_tonn": 97632
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2021,
+      "verdi_mill_kr": 4046,
+      "mengde_tonn": 63431
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2021,
+      "verdi_mill_kr": 1631,
+      "mengde_tonn": 60870
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2021,
+      "verdi_mill_kr": 334,
+      "mengde_tonn": 8339
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2021,
+      "verdi_mill_kr": 203,
+      "mengde_tonn": 4925
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2021,
+      "verdi_mill_kr": 435,
+      "mengde_tonn": 30919
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2021,
+      "verdi_mill_kr": 958,
+      "mengde_tonn": 19315
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2021,
+      "verdi_mill_kr": 2111,
+      "mengde_tonn": 171687
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2021,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2021,
+      "verdi_mill_kr": 3112,
+      "mengde_tonn": 67855
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2020,
+      "verdi_mill_kr": 101951,
+      "mengde_tonn": 2436541
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2020,
+      "verdi_mill_kr": 70072,
+      "mengde_tonn": 1140938
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2020,
+      "verdi_mill_kr": 9704,
+      "mengde_tonn": 173304
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2020,
+      "verdi_mill_kr": 3800,
+      "mengde_tonn": 318009
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2020,
+      "verdi_mill_kr": 4975,
+      "mengde_tonn": 299349
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2020,
+      "verdi_mill_kr": 2363,
+      "mengde_tonn": 99352
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2020,
+      "verdi_mill_kr": 3873,
+      "mengde_tonn": 72198
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2020,
+      "verdi_mill_kr": 1607,
+      "mengde_tonn": 58556
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2020,
+      "verdi_mill_kr": 326,
+      "mengde_tonn": 8010
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2020,
+      "verdi_mill_kr": 202,
+      "mengde_tonn": 4705
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2020,
+      "verdi_mill_kr": 368,
+      "mengde_tonn": 23448
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2020,
+      "verdi_mill_kr": 800,
+      "mengde_tonn": 17150
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2020,
+      "verdi_mill_kr": 1602,
+      "mengde_tonn": 159296
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2020,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2020,
+      "verdi_mill_kr": 2261,
+      "mengde_tonn": 62226
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2019,
+      "verdi_mill_kr": 104052,
+      "mengde_tonn": 2423422
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2019,
+      "verdi_mill_kr": 72457,
+      "mengde_tonn": 1122547
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2019,
+      "verdi_mill_kr": 10134,
+      "mengde_tonn": 181906
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2019,
+      "verdi_mill_kr": 3196,
+      "mengde_tonn": 353732
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2019,
+      "verdi_mill_kr": 4283,
+      "mengde_tonn": 238451
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2019,
+      "verdi_mill_kr": 2489,
+      "mengde_tonn": 115550
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2019,
+      "verdi_mill_kr": 3678,
+      "mengde_tonn": 60021
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2019,
+      "verdi_mill_kr": 1754,
+      "mengde_tonn": 60058
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2019,
+      "verdi_mill_kr": 332,
+      "mengde_tonn": 7236
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2019,
+      "verdi_mill_kr": 200,
+      "mengde_tonn": 4471
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2019,
+      "verdi_mill_kr": 372,
+      "mengde_tonn": 22427
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2019,
+      "verdi_mill_kr": 1045,
+      "mengde_tonn": 18586
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2019,
+      "verdi_mill_kr": 1704,
+      "mengde_tonn": 172600
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2019,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2019,
+      "verdi_mill_kr": 2407,
+      "mengde_tonn": 65837
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2018,
+      "verdi_mill_kr": 96090,
+      "mengde_tonn": 2482584
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2018,
+      "verdi_mill_kr": 67715,
+      "mengde_tonn": 1054855
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2018,
+      "verdi_mill_kr": 9440,
+      "mengde_tonn": 197010
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2018,
+      "verdi_mill_kr": 2630,
+      "mengde_tonn": 291860
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2018,
+      "verdi_mill_kr": 3819,
+      "mengde_tonn": 255141
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2018,
+      "verdi_mill_kr": 2121,
+      "mengde_tonn": 106148
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2018,
+      "verdi_mill_kr": 2978,
+      "mengde_tonn": 46471
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2018,
+      "verdi_mill_kr": 1679,
+      "mengde_tonn": 61569
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2018,
+      "verdi_mill_kr": 345,
+      "mengde_tonn": 7361
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2018,
+      "verdi_mill_kr": 168,
+      "mengde_tonn": 3809
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2018,
+      "verdi_mill_kr": 261,
+      "mengde_tonn": 14647
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2018,
+      "verdi_mill_kr": 871,
+      "mengde_tonn": 15803
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2018,
+      "verdi_mill_kr": 2119,
+      "mengde_tonn": 374738
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2018,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2018,
+      "verdi_mill_kr": 1944,
+      "mengde_tonn": 53171
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2017,
+      "verdi_mill_kr": 92220,
+      "mengde_tonn": 2410330
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2017,
+      "verdi_mill_kr": 64604,
+      "mengde_tonn": 1008343
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2017,
+      "verdi_mill_kr": 9136,
+      "mengde_tonn": 216906
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2017,
+      "verdi_mill_kr": 2806,
+      "mengde_tonn": 290743
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2017,
+      "verdi_mill_kr": 4116,
+      "mengde_tonn": 336241
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2017,
+      "verdi_mill_kr": 1904,
+      "mengde_tonn": 83550
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2017,
+      "verdi_mill_kr": 2856,
+      "mengde_tonn": 40025
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2017,
+      "verdi_mill_kr": 1682,
+      "mengde_tonn": 74715
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2017,
+      "verdi_mill_kr": 328,
+      "mengde_tonn": 7665
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2017,
+      "verdi_mill_kr": 187,
+      "mengde_tonn": 4684
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2017,
+      "verdi_mill_kr": 266,
+      "mengde_tonn": 17422
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2017,
+      "verdi_mill_kr": 930,
+      "mengde_tonn": 18216
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2017,
+      "verdi_mill_kr": 1686,
+      "mengde_tonn": 265768
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2017,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2017,
+      "verdi_mill_kr": 1719,
+      "mengde_tonn": 46053
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2016,
+      "verdi_mill_kr": 89170,
+      "mengde_tonn": 2231630
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2016,
+      "verdi_mill_kr": 61318,
+      "mengde_tonn": 978902
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2016,
+      "verdi_mill_kr": 8760,
+      "mengde_tonn": 215815
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2016,
+      "verdi_mill_kr": 3124,
+      "mengde_tonn": 236010
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2016,
+      "verdi_mill_kr": 4063,
+      "mengde_tonn": 308799
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2016,
+      "verdi_mill_kr": 1801,
+      "mengde_tonn": 72574
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2016,
+      "verdi_mill_kr": 3900,
+      "mengde_tonn": 68442
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2016,
+      "verdi_mill_kr": 1445,
+      "mengde_tonn": 71193
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2016,
+      "verdi_mill_kr": 312,
+      "mengde_tonn": 8300
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2016,
+      "verdi_mill_kr": 155,
+      "mengde_tonn": 3825
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2016,
+      "verdi_mill_kr": 222,
+      "mengde_tonn": 14899
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2016,
+      "verdi_mill_kr": 781,
+      "mengde_tonn": 13879
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2016,
+      "verdi_mill_kr": 1434,
+      "mengde_tonn": 194490
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2016,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2016,
+      "verdi_mill_kr": 1855,
+      "mengde_tonn": 44503
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2015,
+      "verdi_mill_kr": 71973,
+      "mengde_tonn": 2396881
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2015,
+      "verdi_mill_kr": 47597,
+      "mengde_tonn": 1033239
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2015,
+      "verdi_mill_kr": 7909,
+      "mengde_tonn": 205555
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2015,
+      "verdi_mill_kr": 2339,
+      "mengde_tonn": 214774
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2015,
+      "verdi_mill_kr": 3827,
+      "mengde_tonn": 352307
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2015,
+      "verdi_mill_kr": 2021,
+      "mengde_tonn": 72962
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2015,
+      "verdi_mill_kr": 2313,
+      "mengde_tonn": 53029
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2015,
+      "verdi_mill_kr": 1251,
+      "mengde_tonn": 55454
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2015,
+      "verdi_mill_kr": 300,
+      "mengde_tonn": 7574
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2015,
+      "verdi_mill_kr": 183,
+      "mengde_tonn": 4204
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2015,
+      "verdi_mill_kr": 281,
+      "mengde_tonn": 15864
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2015,
+      "verdi_mill_kr": 771,
+      "mengde_tonn": 15200
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2015,
+      "verdi_mill_kr": 1646,
+      "mengde_tonn": 326254
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2015,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2015,
+      "verdi_mill_kr": 1534,
+      "mengde_tonn": 40466
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2014,
+      "verdi_mill_kr": 67071,
+      "mengde_tonn": 2514273
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2014,
+      "verdi_mill_kr": 43731,
+      "mengde_tonn": 996890
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2014,
+      "verdi_mill_kr": 7233,
+      "mengde_tonn": 259957
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2014,
+      "verdi_mill_kr": 2725,
+      "mengde_tonn": 299871
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2014,
+      "verdi_mill_kr": 4129,
+      "mengde_tonn": 398597
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2014,
+      "verdi_mill_kr": 1861,
+      "mengde_tonn": 71498
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2014,
+      "verdi_mill_kr": 2348,
+      "mengde_tonn": 50786
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2014,
+      "verdi_mill_kr": 1488,
+      "mengde_tonn": 63626
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2014,
+      "verdi_mill_kr": 234,
+      "mengde_tonn": 6186
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2014,
+      "verdi_mill_kr": 161,
+      "mengde_tonn": 4483
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2014,
+      "verdi_mill_kr": 197,
+      "mengde_tonn": 11797
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2014,
+      "verdi_mill_kr": 576,
+      "mengde_tonn": 14814
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2014,
+      "verdi_mill_kr": 1389,
+      "mengde_tonn": 298399
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2014,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2014,
+      "verdi_mill_kr": 1000,
+      "mengde_tonn": 37369
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2013,
+      "verdi_mill_kr": 60158,
+      "mengde_tonn": 2330666
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2013,
+      "verdi_mill_kr": 39661,
+      "mengde_tonn": 957228
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2013,
+      "verdi_mill_kr": 5812,
+      "mengde_tonn": 231180
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2013,
+      "verdi_mill_kr": 3158,
+      "mengde_tonn": 350154
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2013,
+      "verdi_mill_kr": 2905,
+      "mengde_tonn": 252761
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2013,
+      "verdi_mill_kr": 1682,
+      "mengde_tonn": 81929
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2013,
+      "verdi_mill_kr": 2367,
+      "mengde_tonn": 56023
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2013,
+      "verdi_mill_kr": 1289,
+      "mengde_tonn": 69096
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2013,
+      "verdi_mill_kr": 188,
+      "mengde_tonn": 5235
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2013,
+      "verdi_mill_kr": 176,
+      "mengde_tonn": 5513
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2013,
+      "verdi_mill_kr": 83,
+      "mengde_tonn": 5439
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2013,
+      "verdi_mill_kr": 497,
+      "mengde_tonn": 14531
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2013,
+      "verdi_mill_kr": 1515,
+      "mengde_tonn": 271422
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2013,
+      "verdi_mill_kr": "",
+      "mengde_tonn": ""
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2013,
+      "verdi_mill_kr": 827,
+      "mengde_tonn": 30154
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2012,
+      "verdi_mill_kr": 50817,
+      "mengde_tonn": 2388856
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2012,
+      "verdi_mill_kr": 29562,
+      "mengde_tonn": 995334
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2012,
+      "verdi_mill_kr": 5606,
+      "mengde_tonn": 167896
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2012,
+      "verdi_mill_kr": 4182,
+      "mengde_tonn": 394005
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2012,
+      "verdi_mill_kr": 3004,
+      "mengde_tonn": 274958
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2012,
+      "verdi_mill_kr": 1791,
+      "mengde_tonn": 79037
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2012,
+      "verdi_mill_kr": 1819,
+      "mengde_tonn": 57122
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2012,
+      "verdi_mill_kr": 1452,
+      "mengde_tonn": 95107
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2012,
+      "verdi_mill_kr": 240,
+      "mengde_tonn": 6216
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2012,
+      "verdi_mill_kr": 181,
+      "mengde_tonn": 5226
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2012,
+      "verdi_mill_kr": 111,
+      "mengde_tonn": 6049
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2012,
+      "verdi_mill_kr": 441,
+      "mengde_tonn": 11699
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2012,
+      "verdi_mill_kr": 1600,
+      "mengde_tonn": 281816
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2012,
+      "verdi_mill_kr": 565,
+      "mengde_tonn": 10327
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2012,
+      "verdi_mill_kr": 263,
+      "mengde_tonn": 4064
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2011,
+      "verdi_mill_kr": 52108,
+      "mengde_tonn": 2277086
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2011,
+      "verdi_mill_kr": 29179,
+      "mengde_tonn": 838153
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2011,
+      "verdi_mill_kr": 6163,
+      "mengde_tonn": 166567
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2011,
+      "verdi_mill_kr": 4245,
+      "mengde_tonn": 474393
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2011,
+      "verdi_mill_kr": 3591,
+      "mengde_tonn": 255345
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2011,
+      "verdi_mill_kr": 2163,
+      "mengde_tonn": 102661
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2011,
+      "verdi_mill_kr": 1411,
+      "mengde_tonn": 38912
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2011,
+      "verdi_mill_kr": 1539,
+      "mengde_tonn": 97843
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2011,
+      "verdi_mill_kr": 294,
+      "mengde_tonn": 7296
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2011,
+      "verdi_mill_kr": 182,
+      "mengde_tonn": 5408
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2011,
+      "verdi_mill_kr": 128,
+      "mengde_tonn": 6630
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2011,
+      "verdi_mill_kr": 465,
+      "mengde_tonn": 11427
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2011,
+      "verdi_mill_kr": 1839,
+      "mengde_tonn": 253641
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2011,
+      "verdi_mill_kr": 603,
+      "mengde_tonn": 14237
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2011,
+      "verdi_mill_kr": 304,
+      "mengde_tonn": 4572
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2010,
+      "verdi_mill_kr": 52490,
+      "mengde_tonn": 2490189
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2010,
+      "verdi_mill_kr": 31286,
+      "mengde_tonn": 783179
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2010,
+      "verdi_mill_kr": 5725,
+      "mengde_tonn": 164662
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2010,
+      "verdi_mill_kr": 3718,
+      "mengde_tonn": 676859
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2010,
+      "verdi_mill_kr": 3068,
+      "mengde_tonn": 289350
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2010,
+      "verdi_mill_kr": 2105,
+      "mengde_tonn": 102150
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2010,
+      "verdi_mill_kr": 1608,
+      "mengde_tonn": 39842
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2010,
+      "verdi_mill_kr": 1342,
+      "mengde_tonn": 83359
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2010,
+      "verdi_mill_kr": 315,
+      "mengde_tonn": 8489
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2010,
+      "verdi_mill_kr": 180,
+      "mengde_tonn": 5534
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2010,
+      "verdi_mill_kr": 136,
+      "mengde_tonn": 8122
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2010,
+      "verdi_mill_kr": 416,
+      "mengde_tonn": 11158
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2010,
+      "verdi_mill_kr": 1781,
+      "mengde_tonn": 299354
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2010,
+      "verdi_mill_kr": 492,
+      "mengde_tonn": 12596
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2010,
+      "verdi_mill_kr": 320,
+      "mengde_tonn": 5534
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2009,
+      "verdi_mill_kr": 43473,
+      "mengde_tonn": 2353556
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2009,
+      "verdi_mill_kr": 23624,
+      "mengde_tonn": 710433
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2009,
+      "verdi_mill_kr": 5076,
+      "mengde_tonn": 136956
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2009,
+      "verdi_mill_kr": 4026,
+      "mengde_tonn": 761941
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2009,
+      "verdi_mill_kr": 2183,
+      "mengde_tonn": 198329
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2009,
+      "verdi_mill_kr": 1937,
+      "mengde_tonn": 107748
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2009,
+      "verdi_mill_kr": 1935,
+      "mengde_tonn": 61123
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2009,
+      "verdi_mill_kr": 1064,
+      "mengde_tonn": 67635
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2009,
+      "verdi_mill_kr": 297,
+      "mengde_tonn": 7907
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2009,
+      "verdi_mill_kr": 162,
+      "mengde_tonn": 4997
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2009,
+      "verdi_mill_kr": 95,
+      "mengde_tonn": 6275
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2009,
+      "verdi_mill_kr": 361,
+      "mengde_tonn": 10167
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2009,
+      "verdi_mill_kr": 1825,
+      "mengde_tonn": 260156
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2009,
+      "verdi_mill_kr": 498,
+      "mengde_tonn": 13279
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2009,
+      "verdi_mill_kr": 391,
+      "mengde_tonn": 6613
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2008,
+      "verdi_mill_kr": 37369,
+      "mengde_tonn": 2021399
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2008,
+      "verdi_mill_kr": 17906,
+      "mengde_tonn": 618107
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2008,
+      "verdi_mill_kr": 5503,
+      "mengde_tonn": 111103
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2008,
+      "verdi_mill_kr": 3767,
+      "mengde_tonn": 720345
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2008,
+      "verdi_mill_kr": 2270,
+      "mengde_tonn": 171398
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2008,
+      "verdi_mill_kr": 2001,
+      "mengde_tonn": 123444
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2008,
+      "verdi_mill_kr": 1822,
+      "mengde_tonn": 73727
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2008,
+      "verdi_mill_kr": 806,
+      "mengde_tonn": 40603
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2008,
+      "verdi_mill_kr": 381,
+      "mengde_tonn": 8473
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2008,
+      "verdi_mill_kr": 165,
+      "mengde_tonn": 4742
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2008,
+      "verdi_mill_kr": 100,
+      "mengde_tonn": 7447
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2008,
+      "verdi_mill_kr": 368,
+      "mengde_tonn": 11479
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2008,
+      "verdi_mill_kr": 1170,
+      "mengde_tonn": 101406
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2008,
+      "verdi_mill_kr": 654,
+      "mengde_tonn": 21435
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2008,
+      "verdi_mill_kr": 457,
+      "mengde_tonn": 7691
+    },
+    {
+      "fiskeslag": "All fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2007,
+      "verdi_mill_kr": 35696,
+      "mengde_tonn": 1889940
+    },
+    {
+      "fiskeslag": "Laks",
+      "ar": 2007,
+      "verdi_mill_kr": 17438,
+      "mengde_tonn": 606711
+    },
+    {
+      "fiskeslag": "Torsk",
+      "ar": 2007,
+      "verdi_mill_kr": 6216,
+      "mengde_tonn": 122783
+    },
+    {
+      "fiskeslag": "Sild",
+      "ar": 2007,
+      "verdi_mill_kr": 3267,
+      "mengde_tonn": 642619
+    },
+    {
+      "fiskeslag": "Makrell",
+      "ar": 2007,
+      "verdi_mill_kr": 1796,
+      "mengde_tonn": 173287
+    },
+    {
+      "fiskeslag": "Sei",
+      "ar": 2007,
+      "verdi_mill_kr": 1752,
+      "mengde_tonn": 111657
+    },
+    {
+      "fiskeslag": "Ørret",
+      "ar": 2007,
+      "verdi_mill_kr": 1255,
+      "mengde_tonn": 48866
+    },
+    {
+      "fiskeslag": "Hyse",
+      "ar": 2007,
+      "verdi_mill_kr": 1022,
+      "mengde_tonn": 45442
+    },
+    {
+      "fiskeslag": "Lange",
+      "ar": 2007,
+      "verdi_mill_kr": 321,
+      "mengde_tonn": 7297
+    },
+    {
+      "fiskeslag": "Brosme",
+      "ar": 2007,
+      "verdi_mill_kr": 162,
+      "mengde_tonn": 4568
+    },
+    {
+      "fiskeslag": "Uer",
+      "ar": 2007,
+      "verdi_mill_kr": 142,
+      "mengde_tonn": 9730
+    },
+    {
+      "fiskeslag": "Kveite",
+      "ar": 2007,
+      "verdi_mill_kr": 347,
+      "mengde_tonn": 10668
+    },
+    {
+      "fiskeslag": "Annen fisk, kreps-, bløtdyr og varer derav",
+      "ar": 2007,
+      "verdi_mill_kr": 1144,
+      "mengde_tonn": 84443
+    },
+    {
+      "fiskeslag": "Reker",
+      "ar": 2007,
+      "verdi_mill_kr": 545,
+      "mengde_tonn": 15898
+    },
+    {
+      "fiskeslag": "Kreps-, bløtdyr og andre virvelløse dyr",
+      "ar": 2007,
+      "verdi_mill_kr": 288,
+      "mengde_tonn": 5971
+    }
+  ],
+  "meta": {
+    "title": "Norsk eksport av fisk og sjømat etter fiskeslag (2007–2025) - Free Download",
+    "description": "Årlig verdi (mill. kr) og mengde (tonn) av norsk eksport av fisk, kreps- og bløtdyr fordelt på fiskeslag som laks, torsk, sild, makrell, sei, ørret, hyse, kveite og reker (SSB, tabell 09283). Contains 285 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Norsk eksport av fisk og sjømat etter fiskeslag (2007–2025) | ListBase",
+    "seo_description": "Download Norsk eksport av fisk og sjømat etter fiskeslag (2007–2025) — 285 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 285 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/09283"
+    ]
+  }
+}
