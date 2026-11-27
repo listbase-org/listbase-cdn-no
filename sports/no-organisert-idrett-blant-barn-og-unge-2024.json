@@ -1,0 +1,200 @@
+{
+  "id": "no-organisert-idrett-blant-barn-og-unge-2024",
+  "name": "Organisert idrett blant barn og unge etter idrett (2024)",
+  "title": "Organisert idrett blant barn og unge etter idrett (2024)",
+  "description": "Andel barn og unge 6–15 år i Norge som driver med organisert trening i 2024, i alt og fordelt på idrett (fotball, håndball, svømming, turn, dans, langrenn m.fl.), for gutter og jenter og for aldersgruppene 6–11 og 12–15 år (SSB, tabell 14412).",
+  "category": "sports",
+  "source": "https://www.ssb.no/statbank/table/14412",
+  "source_url": "https://www.ssb.no/statbank/table/14412",
+  "updated": "2026-11",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "aktivitet",
+      "label": "Aktivitet",
+      "type": "string"
+    },
+    {
+      "key": "andel_6_15_aar_prosent",
+      "label": "Andel 6 15 Aar Prosent",
+      "type": "number"
+    },
+    {
+      "key": "andel_gutter_prosent",
+      "label": "Andel Gutter Prosent",
+      "type": "number"
+    },
+    {
+      "key": "andel_jenter_prosent",
+      "label": "Andel Jenter Prosent",
+      "type": "number"
+    },
+    {
+      "key": "andel_06_11_aar_prosent",
+      "label": "Andel 06 11 Aar Prosent",
+      "type": "number"
+    },
+    {
+      "key": "andel_12_15_aar_prosent",
+      "label": "Andel 12 15 Aar Prosent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "aktivitet": "Driv med organisert idrett, i alt",
+      "andel_6_15_aar_prosent": 72.2,
+      "andel_gutter_prosent": 75.4,
+      "andel_jenter_prosent": 68.7,
+      "andel_06_11_aar_prosent": 78.2,
+      "andel_12_15_aar_prosent": 63.8
+    },
+    {
+      "aktivitet": "Fotball",
+      "andel_6_15_aar_prosent": 39.3,
+      "andel_gutter_prosent": 51,
+      "andel_jenter_prosent": 27,
+      "andel_06_11_aar_prosent": 45.4,
+      "andel_12_15_aar_prosent": 31
+    },
+    {
+      "aktivitet": "Handball",
+      "andel_6_15_aar_prosent": 15,
+      "andel_gutter_prosent": 9.2,
+      "andel_jenter_prosent": 21.2,
+      "andel_06_11_aar_prosent": 17,
+      "andel_12_15_aar_prosent": 12.3
+    },
+    {
+      "aktivitet": "Turn",
+      "andel_6_15_aar_prosent": 7.7,
+      "andel_gutter_prosent": 2.6,
+      "andel_jenter_prosent": 13.1,
+      "andel_06_11_aar_prosent": 11.3,
+      "andel_12_15_aar_prosent": 2.6
+    },
+    {
+      "aktivitet": "Svømming",
+      "andel_6_15_aar_prosent": 7.6,
+      "andel_gutter_prosent": 8.1,
+      "andel_jenter_prosent": 7.1,
+      "andel_06_11_aar_prosent": 11.2,
+      "andel_12_15_aar_prosent": 2.6
+    },
+    {
+      "aktivitet": "Dans",
+      "andel_6_15_aar_prosent": 5.2,
+      "andel_gutter_prosent": 0.6,
+      "andel_jenter_prosent": 10.1,
+      "andel_06_11_aar_prosent": 6.9,
+      "andel_12_15_aar_prosent": 2.9
+    },
+    {
+      "aktivitet": "Kampsport",
+      "andel_6_15_aar_prosent": 5,
+      "andel_gutter_prosent": 6.8,
+      "andel_jenter_prosent": 3,
+      "andel_06_11_aar_prosent": 5.9,
+      "andel_12_15_aar_prosent": 3.6
+    },
+    {
+      "aktivitet": "Langrenn eller skiskyting",
+      "andel_6_15_aar_prosent": 4.2,
+      "andel_gutter_prosent": 4.1,
+      "andel_jenter_prosent": 4.2,
+      "andel_06_11_aar_prosent": 5.9,
+      "andel_12_15_aar_prosent": 1.8
+    },
+    {
+      "aktivitet": "Ishockey/Bandy/Innebandy",
+      "andel_6_15_aar_prosent": 3.1,
+      "andel_gutter_prosent": 4.8,
+      "andel_jenter_prosent": 1.2,
+      "andel_06_11_aar_prosent": 3.5,
+      "andel_12_15_aar_prosent": 2.4
+    },
+    {
+      "aktivitet": "Sykling",
+      "andel_6_15_aar_prosent": 2.9,
+      "andel_gutter_prosent": 3.7,
+      "andel_jenter_prosent": 2,
+      "andel_06_11_aar_prosent": 3.7,
+      "andel_12_15_aar_prosent": 1.7
+    },
+    {
+      "aktivitet": "Friidrett",
+      "andel_6_15_aar_prosent": 2.8,
+      "andel_gutter_prosent": 2.9,
+      "andel_jenter_prosent": 2.7,
+      "andel_06_11_aar_prosent": 3.9,
+      "andel_12_15_aar_prosent": 1.2
+    },
+    {
+      "aktivitet": "Allidrett",
+      "andel_6_15_aar_prosent": 2.3,
+      "andel_gutter_prosent": 2.5,
+      "andel_jenter_prosent": 2.2,
+      "andel_06_11_aar_prosent": 3.7,
+      "andel_12_15_aar_prosent": 0.4
+    },
+    {
+      "aktivitet": "Tennis, squash eller badminton",
+      "andel_6_15_aar_prosent": 1.9,
+      "andel_gutter_prosent": 2.2,
+      "andel_jenter_prosent": 1.6,
+      "andel_06_11_aar_prosent": 2.1,
+      "andel_12_15_aar_prosent": 1.8
+    },
+    {
+      "aktivitet": "Klatring",
+      "andel_6_15_aar_prosent": 1.8,
+      "andel_gutter_prosent": 1.9,
+      "andel_jenter_prosent": 1.8,
+      "andel_06_11_aar_prosent": 2.3,
+      "andel_12_15_aar_prosent": 1.2
+    },
+    {
+      "aktivitet": "Sportsridning",
+      "andel_6_15_aar_prosent": 1.7,
+      "andel_gutter_prosent": 0.2,
+      "andel_jenter_prosent": 3.3,
+      "andel_06_11_aar_prosent": 1.4,
+      "andel_12_15_aar_prosent": 2.1
+    },
+    {
+      "aktivitet": "Basketball",
+      "andel_6_15_aar_prosent": 1.7,
+      "andel_gutter_prosent": 2.8,
+      "andel_jenter_prosent": 0.6,
+      "andel_06_11_aar_prosent": 1.3,
+      "andel_12_15_aar_prosent": 2.3
+    },
+    {
+      "aktivitet": "Volleyball",
+      "andel_6_15_aar_prosent": 1.5,
+      "andel_gutter_prosent": 1.2,
+      "andel_jenter_prosent": 1.9,
+      "andel_06_11_aar_prosent": 0.8,
+      "andel_12_15_aar_prosent": 2.6
+    },
+    {
+      "aktivitet": "Orientering",
+      "andel_6_15_aar_prosent": 0.8,
+      "andel_gutter_prosent": 0.6,
+      "andel_jenter_prosent": 1.2,
+      "andel_06_11_aar_prosent": 0.9,
+      "andel_12_15_aar_prosent": 0.7
+    }
+  ],
+  "meta": {
+    "title": "Organisert idrett blant barn og unge etter idrett (2024) - Free Download",
+    "description": "Andel barn og unge 6–15 år i Norge som driver med organisert trening i 2024, i alt og fordelt på idrett (fotball, håndball, svømming, turn, dans, langrenn m.fl.), for gutter og jenter og for aldersgruppene 6–11 og 12–15 år (SSB, tabell 14412). Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Organisert idrett blant barn og unge etter idrett (2024) | ListBase",
+    "seo_description": "Download Organisert idrett blant barn og unge etter idrett (2024) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/14412"
+    ]
+  }
+}

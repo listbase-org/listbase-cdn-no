@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-26T02:20:19.906Z",
-  "total_datasets": 529,
-  "total_records": 1210704,
+  "generated": "2026-11-27T02:31:38.263Z",
+  "total_datasets": 530,
+  "total_records": 1210722,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "tech",
@@ -13498,6 +13498,33 @@
         "xlsx": {
           "name": "no-norske-klubber-i-europacupene-kamper_NO.xlsx",
           "size": 18252
+        }
+      }
+    },
+    {
+      "id": "no-organisert-idrett-blant-barn-og-unge-2024",
+      "name": "Organisert idrett blant barn og unge etter idrett (2024)",
+      "category": "sports",
+      "record_count": 18,
+      "columns": [
+        "aktivitet",
+        "andel_6_15_aar_prosent",
+        "andel_gutter_prosent",
+        "andel_jenter_prosent",
+        "andel_06_11_aar_prosent",
+        "andel_12_15_aar_prosent"
+      ],
+      "source": "https://www.ssb.no/statbank/table/14412",
+      "updated": "2026-11",
+      "size": 6394,
+      "files": {
+        "csv": {
+          "name": "no-organisert-idrett-blant-barn-og-unge-2024_NO.csv",
+          "size": 963
+        },
+        "xlsx": {
+          "name": "no-organisert-idrett-blant-barn-og-unge-2024_NO.xlsx",
+          "size": 7523
         }
       }
     },
