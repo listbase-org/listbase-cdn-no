@@ -1,8 +1,8 @@
 {
   "lang": "no",
-  "generated": "2026-11-27T02:31:38.263Z",
-  "total_datasets": 530,
-  "total_records": 1210722,
+  "generated": "2026-11-27T02:31:46.944Z",
+  "total_datasets": 531,
+  "total_records": 1210753,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -2119,6 +2119,33 @@
         "xlsx": {
           "name": "no-skoler_NO.xlsx",
           "size": 116447
+        }
+      }
+    },
+    {
+      "id": "no-studenter-per-universitet-og-hogskole",
+      "name": "Studenter per universitet og høgskole (2015, 2020 og 2025)",
+      "category": "education",
+      "record_count": 31,
+      "columns": [
+        "laerested",
+        "studenter_2015",
+        "studenter_2020",
+        "studenter_2025",
+        "kvinner_2025",
+        "menn_2025"
+      ],
+      "source": "https://www.ssb.no/statbank/table/08585",
+      "updated": "2026-11",
+      "size": 8512,
+      "files": {
+        "csv": {
+          "name": "no-studenter-per-universitet-og-hogskole_NO.csv",
+          "size": 2106
+        },
+        "xlsx": {
+          "name": "no-studenter-per-universitet-og-hogskole_NO.xlsx",
+          "size": 8325
         }
       }
     },

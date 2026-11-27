@@ -1,0 +1,304 @@
+{
+  "id": "no-studenter-per-universitet-og-hogskole",
+  "name": "Studenter per universitet og høgskole (2015, 2020 og 2025)",
+  "title": "Studenter per universitet og høgskole (2015, 2020 og 2025)",
+  "description": "Antall registrerte studenter i høyere utdanning ved hvert norske universitet og høgskole i 2015, 2020 og 2025, samt kvinner og menn i 2025 (SSB, tabell 08585). Tom verdi = lærestedet fantes ikke i sin nåværende form det året (fusjoner).",
+  "category": "education",
+  "source": "https://www.ssb.no/statbank/table/08585",
+  "source_url": "https://www.ssb.no/statbank/table/08585",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "laerested",
+      "label": "Laerested",
+      "type": "string"
+    },
+    {
+      "key": "studenter_2015",
+      "label": "Studenter 2015",
+      "type": "number"
+    },
+    {
+      "key": "studenter_2020",
+      "label": "Studenter 2020",
+      "type": "number"
+    },
+    {
+      "key": "studenter_2025",
+      "label": "Studenter 2025",
+      "type": "number"
+    },
+    {
+      "key": "kvinner_2025",
+      "label": "Kvinner 2025",
+      "type": "number"
+    },
+    {
+      "key": "menn_2025",
+      "label": "Menn 2025",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "laerested": "Norges teknisk-naturvitenskapelige universitet",
+      "studenter_2015": 23659,
+      "studenter_2020": 41923,
+      "studenter_2025": 42873,
+      "kvinner_2025": 22740,
+      "menn_2025": 20133
+    },
+    {
+      "laerested": "Universitetet i Oslo",
+      "studenter_2015": 27573,
+      "studenter_2020": 26543,
+      "studenter_2025": 26927,
+      "kvinner_2025": 16665,
+      "menn_2025": 10262
+    },
+    {
+      "laerested": "OsloMet - storbyuniversitetet",
+      "studenter_2015": "",
+      "studenter_2020": 21302,
+      "studenter_2025": 23635,
+      "kvinner_2025": 16038,
+      "menn_2025": 7597
+    },
+    {
+      "laerested": "Handelshøyskolen BI",
+      "studenter_2015": 20538,
+      "studenter_2020": 21031,
+      "studenter_2025": 22291,
+      "kvinner_2025": 11091,
+      "menn_2025": 11200
+    },
+    {
+      "laerested": "Universitetet i Bergen",
+      "studenter_2015": 15611,
+      "studenter_2020": 18905,
+      "studenter_2025": 19783,
+      "kvinner_2025": 12610,
+      "menn_2025": 7173
+    },
+    {
+      "laerested": "Universitetet i Sørøst-Norge",
+      "studenter_2015": "",
+      "studenter_2020": 17810,
+      "studenter_2025": 18380,
+      "kvinner_2025": 11356,
+      "menn_2025": 7024
+    },
+    {
+      "laerested": "Høgskulen på Vestlandet",
+      "studenter_2015": "",
+      "studenter_2020": 15738,
+      "studenter_2025": 16699,
+      "kvinner_2025": 10880,
+      "menn_2025": 5819
+    },
+    {
+      "laerested": "UiT - Norges arktiske universitet",
+      "studenter_2015": "",
+      "studenter_2020": 16799,
+      "studenter_2025": 16259,
+      "kvinner_2025": 9714,
+      "menn_2025": 6545
+    },
+    {
+      "laerested": "Universitetet i Innlandet",
+      "studenter_2015": "",
+      "studenter_2020": "",
+      "studenter_2025": 14810,
+      "kvinner_2025": 10100,
+      "menn_2025": 4710
+    },
+    {
+      "laerested": "Universitetet i Agder",
+      "studenter_2015": 11763,
+      "studenter_2020": 13463,
+      "studenter_2025": 14496,
+      "kvinner_2025": 8618,
+      "menn_2025": 5878
+    },
+    {
+      "laerested": "Høyskolen Kristiania",
+      "studenter_2015": "",
+      "studenter_2020": 12824,
+      "studenter_2025": 14213,
+      "kvinner_2025": 9072,
+      "menn_2025": 5141
+    },
+    {
+      "laerested": "Universitetet i Stavanger",
+      "studenter_2015": 10665,
+      "studenter_2020": 12473,
+      "studenter_2025": 13501,
+      "kvinner_2025": 8109,
+      "menn_2025": 5392
+    },
+    {
+      "laerested": "Nord universitet",
+      "studenter_2015": "",
+      "studenter_2020": 11141,
+      "studenter_2025": 11333,
+      "kvinner_2025": 7412,
+      "menn_2025": 3921
+    },
+    {
+      "laerested": "Norges miljø- og biovitenskapelige universitet",
+      "studenter_2015": 5115,
+      "studenter_2020": 6064,
+      "studenter_2025": 8518,
+      "kvinner_2025": 5209,
+      "menn_2025": 3309
+    },
+    {
+      "laerested": "Høgskolen i Østfold",
+      "studenter_2015": 5865,
+      "studenter_2020": 6981,
+      "studenter_2025": 7128,
+      "kvinner_2025": 4598,
+      "menn_2025": 2530
+    },
+    {
+      "laerested": "VID vitenskapelige høgskole",
+      "studenter_2015": "",
+      "studenter_2020": 5201,
+      "studenter_2025": 5739,
+      "kvinner_2025": 4735,
+      "menn_2025": 1004
+    },
+    {
+      "laerested": "Andre høgskoler",
+      "studenter_2015": 4740,
+      "studenter_2020": 4405,
+      "studenter_2025": 4820,
+      "kvinner_2025": 2851,
+      "menn_2025": 1969
+    },
+    {
+      "laerested": "Norges Handelshøyskole",
+      "studenter_2015": 3336,
+      "studenter_2020": 3530,
+      "studenter_2025": 4378,
+      "kvinner_2025": 1861,
+      "menn_2025": 2517
+    },
+    {
+      "laerested": "Oslo Nye Høyskole",
+      "studenter_2015": 859,
+      "studenter_2020": 2257,
+      "studenter_2025": 4038,
+      "kvinner_2025": 3043,
+      "menn_2025": 995
+    },
+    {
+      "laerested": "Høgskulen i Volda",
+      "studenter_2015": 3772,
+      "studenter_2020": 4415,
+      "studenter_2025": 3794,
+      "kvinner_2025": 2592,
+      "menn_2025": 1202
+    },
+    {
+      "laerested": "Høgskolen i Molde - vitenskapelig høgskole i logistikk",
+      "studenter_2015": 2324,
+      "studenter_2020": 2858,
+      "studenter_2025": 3643,
+      "kvinner_2025": 2060,
+      "menn_2025": 1583
+    },
+    {
+      "laerested": "Politihøgskolen",
+      "studenter_2015": 2593,
+      "studenter_2020": 2216,
+      "studenter_2025": 3485,
+      "kvinner_2025": 1791,
+      "menn_2025": 1694
+    },
+    {
+      "laerested": "NLA Høgskolen",
+      "studenter_2015": 1963,
+      "studenter_2020": 2556,
+      "studenter_2025": 3186,
+      "kvinner_2025": 1933,
+      "menn_2025": 1253
+    },
+    {
+      "laerested": "Norges idrettshøgskole",
+      "studenter_2015": 1242,
+      "studenter_2020": 1106,
+      "studenter_2025": 1893,
+      "kvinner_2025": 975,
+      "menn_2025": 918
+    },
+    {
+      "laerested": "Militære høgskoler",
+      "studenter_2015": 3687,
+      "studenter_2020": 887,
+      "studenter_2025": 1145,
+      "kvinner_2025": 231,
+      "menn_2025": 914
+    },
+    {
+      "laerested": "Arkitektur- og designhøgskolen i Oslo",
+      "studenter_2015": 659,
+      "studenter_2020": 798,
+      "studenter_2025": 892,
+      "kvinner_2025": 577,
+      "menn_2025": 315
+    },
+    {
+      "laerested": "MF vitenskapelig høyskole for teologi, religion og samfunn",
+      "studenter_2015": "",
+      "studenter_2020": 1212,
+      "studenter_2025": 855,
+      "kvinner_2025": 551,
+      "menn_2025": 304
+    },
+    {
+      "laerested": "Dronning Mauds Minne Høgskole for barnehagelærerutdanning",
+      "studenter_2015": 1191,
+      "studenter_2020": 1439,
+      "studenter_2025": 838,
+      "kvinner_2025": 701,
+      "menn_2025": 137
+    },
+    {
+      "laerested": "Norges musikkhøgskole",
+      "studenter_2015": 691,
+      "studenter_2020": 762,
+      "studenter_2025": 788,
+      "kvinner_2025": 408,
+      "menn_2025": 380
+    },
+    {
+      "laerested": "Kunsthøgskolen i Oslo",
+      "studenter_2015": 530,
+      "studenter_2020": 568,
+      "studenter_2025": 603,
+      "kvinner_2025": 415,
+      "menn_2025": 188
+    },
+    {
+      "laerested": "Sámi allaskuvla - Samisk høgskole",
+      "studenter_2015": 159,
+      "studenter_2020": 114,
+      "studenter_2025": 205,
+      "kvinner_2025": 160,
+      "menn_2025": 45
+    }
+  ],
+  "meta": {
+    "title": "Studenter per universitet og høgskole (2015, 2020 og 2025) - Free Download",
+    "description": "Antall registrerte studenter i høyere utdanning ved hvert norske universitet og høgskole i 2015, 2020 og 2025, samt kvinner og menn i 2025 (SSB, tabell 08585). Tom verdi = lærestedet fantes ikke i sin nåværende form det året (fusjoner). Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Studenter per universitet og høgskole (2015, 2020 og 2025) | ListBase",
+    "seo_description": "Download Studenter per universitet og høgskole (2015, 2020 og 2025) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.ssb.no/statbank/table/08585"
+    ]
+  }
+}
